@@ -1,0 +1,1029 @@
+
+__________________________________________________________________________ Administração Central Unidade do Ensino Superior de Graduação
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+São Paulo 2023 FATEC ZONA SUL – DOM PAULO EVARISTO ARNS RELATÓRIO DE AUTOAVALIAÇÃO INSTITUCIONAL
+__________________________________________________________________________ Administração Central Unidade do Ensino Superior de Graduação
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial
+
+
+Direção / Coordenação de Cursos
+
+Direção Geral
+Prof. Me. Alex Macedo de Araújo Coordenador do Curso de Graduação Tecnológica em Análise e Desenvolvimento de Sistemas
+Prof. Dr. Eliseu Lemes da Silva Coordenador do Curso de Graduação Tecnológica em Desenvolvimento de Software Multiplataforma
+Prof. Me. Walcyr de Moura e Silva Coordenador do Curso de Graduação Tecnológica em Gestão Empresarial
+Prof. Me. Marcus Leandro Torrano Ignatti Coordenadora do Curso de Graduação Tecnológica em Logística
+Prof. Me. Adélia Cristina Peres Torrecillas
+Presidente da CPA Prof. Me. Adélia Cristina Peres Torrecillas
+
+
+
+
+
+
+
+
+
+
+__________________________________________________________________________ Administração Central Unidade do Ensino Superior de Graduação
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial
+
+
+
+
+Comissão Própria de Avaliação – CPA
+
+
+
+Representante docente (Presidente)
+Adélia Cristina Peres Torrecillas Representante docente
+Silza Maria Librelon Raia Representante discente
+Bruno César de Souza Santos Representante do corpo técnico administrativo
+Michele Ramalho Dias Representante da Sociedade Civil
+Ana Lúcia Aragão
+
+
+
+
+
+
+__________________________________________________________________________ Administração Central Unidade do Ensino Superior de Graduação
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial SUMÁRIO
+
+I Identificação da FATEC: ................................................................................................................. 04 II Atos Regulatórios............................................................................................................................ 04 III Composição da Comissão Própria de Avaliação (CPA) .......................................................... 04 1 INTRODUÇÃO ............................................................................................................................... 05 2 METODOLOGIA ............................................................................................................................ 09 2.1 Cronograma de atividades da CPA .......................................................................................... 10 2.2 Sensibilização .............................................................................................................................. 11 2.3 Sujeitos da avaliação .................................................................................................................. 15 2.4 Instrumentos de coleta ............................................................................................................... 15 2.5 Procedimentos para a coleta ..................................................................................................... 17 2.6 Análise e discussão dos dados da coleta ................................................................................ 19 2.7 Organização das medidas para a composição do relatório .................................................. 22 2.8 Devolutiva dos resultados para os segmentos ....................................................................... 22 3 DESENVOLVIMENTO ................................................................................................................... 26 3.1 Eixo 1: Planejamento e Avaliação Institucional ...................................................................... 26 3.2 Eixo 2: Desenvolvimento Institucional ...................................................................................... 31 3.3 Eixo 3: Políticas Acadêmicas ..................................................................................................... 42 3.4 Eixo 4: Políticas de Gestão ........................................................................................................ 54 3.5 Eixo 5: Infraestrutura Física ....................................................................................................... 63 4 ANÁLISE DOS DADOS E AÇÕES PROPOSTAS ................................................................ 69 5 CONSIDERAÇÕES FINAIS ..................................................................................................... 76
+
+
+
+
+4
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial I Identificação da FATEC:
+
+
+
+
+
+
+
+
+
+II Atos Regulatórios ATO REGULATÓRIO Ato Regulatório: Prazo de validade: Vinculado ao Ciclo Avaliativo Tipo de documento: Decreto No. Documento: 50.579 Data do Documento: 02/03/2006 Data de Publicação : 03/03/2006
+III Composição da Comissão Própria de Avaliação (CPA)
+A Comissão Própria de Avaliação da FATEC ZONA SUL – DOM PAULO EVARISTO ARNS foi instituída pela Portaria nº 03/2021, de 28 de setembro de 2021, com mandato até 28 de setembro de 2023, possuindo a seguinte composição:
+NOME SEGMENTO REPRESENTATIVO Adélia Cristina Peres Torrecillas Docente Silza Maria Librelon Raia Docente Bruno César de Souza Santos Discente Michele Ramalho Dias Técnico Administrativo Ana Lúcia Aragão Sociedade Civil
+
+FATEC: Faculdade de Tecnologia da Zona Sul – Dom Paulo Evaristo Arns CÓDIGO DO CPS: 137 CÓDIGO E-MEC: 33 Representante Legal da IES: Diretor (a): Prof. Alex Macedo de Araújo Endereço Completo: Rua Frederico Grotte, 322 – CEP: 05818-270 Bairro: Jardim São Luiz Município: São Paulo Telefone: (11) 5851-8949 e (11) 5851-5829 E-mail: f137dir@cps.sp.gov.br 5
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial 1 INTRODUÇÃO
+A Faculdade de Tecnologia da Zona Sul – Dom Paulo Evaristo Arns possui a crença na avaliação como instrumento de gestão. Por meio da avaliação temos condições de reunir indicadores capazes de suscitar análises e discussões possibilitando definir planos de melhorias de forma continuada. Sabe-se que a Lei 10.861/2014, que define o Sistema Nacional de Avaliação da Educação Superior (SINAES), estabelece, em seu Artigo 3º, que a avaliação institucional tem por objetivo identificar o perfil da IES e o significado de sua atuação, por meio de suas atividades, cursos, programas, projetos e setores, considerando as diferentes dimensões institucionais, consolidadas em cinco eixos, sempre objetivando evidenciar os referenciais mínimos de qualidade exigidos pela excelência de ensino que é um dos pilares da prática de todas as faculdades de tecnologias do Estado de São Paulo vinculadas ao Centro Paula Souza. Por meio do desenvolvimento do presente relatório, serão apresentados os dados e as informações referentes aos eixos, dimensões e indicadores em consonância com o Plano de Desenvolvimento Institucional (PDI) da Fatec e em consonância com as diretrizes emanadas do Centro Paula Souza. A Faculdade de Tecnologia da Zona Sul, FATEC Zona Sul é a 26ª faculdade do Centro Estadual de Educação Tecnológica Paula Souza, autarquia do Governo do Estado de São Paulo, vinculada à Secretaria de Desenvolvimento Econômico, Ciência, Tecnologia e Inovação (SDECTI). Com o constante objetivo de formar profissionais de nível superior que atenda às demandas empresariais de empregos locais e regionais, o Governo do Estado de São Paulo, através do Centro Paula Souza inaugurou em 06 de março de 2006, a “Faculdade de Tecnologia da Zona Sul”, na região sul da cidade de São Paulo. Conforme o Regimento Unificado das Faculdades de Tecnologia do Centro Paula Souza, a Faculdade de Tecnologia tem por objetivos: ministrar cursos superiores de tecnologia; formar pessoal docente destinado ao ensino técnico e ao ensino tecnológico; desenvolver e promover a cultura e a tecnologia por meio do ensino e da pesquisa; estender à comunidade as atividades de ensino, serviços especiais e resultados de pesquisas. 6
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial A FATEC Zona Sul foi oficialmente inaugurada em 2006 (Decreto nº 50.579 de 2- 3-2006) em um campus de 31.096,67 m2, na região do subdistrito do Jardim São Luís, tendo como foco de atuação os cursos tecnológicos, e por meio deles um ensino e aprendizagem que impactem na melhoria das condições sociais e econômicas das pessoas que escolheram a formação profissional de Tecnólogo, atendendo assim à constante demanda do mercado de trabalho gerado pelas empresas de todos os portes e segmentos da região sul da capital da cidade de São Paulo. Os cursos de Análise e Desenvolvimento de Sistemas, Desenvolvimento de Software Multiplataforma, Logística e Gestão Empresarial, oferecidos pela FATEC Zona Sul abarcam os eixos tecnológicos da informação, comunicação, gestão e negócios, o que vai ao encontro das atividades da grande maioria das empresas instaladas na região sul da capital da cidade de São Paulo. No ano de 2022, a FATEC Zona Sul teve, durante o 1º Semestre, 1274 alunos, e durante o 2º Semestre, 1667 alunos, divididos entre os cursos de Análise e Desenvolvimento de Sistemas, Desenvolvimento de Software Multiplataforma, Gestão Empresarial (presencial e EaD) e Logística. Por meio do desenvolvimento do presente relatório, serão apresentados os dados e as informações referentes aos eixos, dimensões e indicadores em consonância com o Plano de Desenvolvimento Institucional (PDI) da FATEC Zona Sul - Dom Paulo Evaristo Arns e em consonância com as diretrizes emanadas do Centro Paula Souza.
+
+
+
+
+
+7
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial Curso Autorização Reconhecimento/ RENOVAÇÃO DATA CONCEITO referente à última visita ENADE Análise e Desenvolvimento de Sistemas Portaria nº 365/2010 Portaria nº 38 17/02/2016 Aprovado 4 Desenvolvimento de Software Multiplataforma Processo CEETEPS- PRC- 2021/07472 Não se aplica 19/10/2021 Não se aplica Não se aplica Gestão Empresarial Portaria nº 365/2010 Portaria nº 218 10/05/2017 Aprovado 4 Logística Portaria nº 365/2010 Portaria nº 424 10/05/2017 Aprovado 4
+Observação: Desde as últimas visitas do Conselho Estadual de Educação, os cursos de Análise e Desenvolvimento de Sistemas, Gestão Empresarial e Logística têm sido renovados automaticamente por três anos, em razão da nota 4 (Quatro) no ENADE, sendo o índice CPC (Conceito Preliminar do Curso) dos três cursos 3 (Três). Portanto, o prazo de validade dos três cursos encontra-se vinculado ao ciclo avaliativo. Figura 1: Tela e-Mec:
+
+
+
+8
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial TOTAL DE ALUNOS MATRICULADOS NA UNIDADE – 1º Semestre
+NÚMERO DE ALUNOS CURSOS Análise e Desenvolvimento de Sistemas 439 Desenvolvimento de Software Multiplataforma 38 Gestão Empresarial 466 Logística 331
+TOTAL DE ALUNOS MATRICULADOS NA UNIDADE – 2º Semestre
+NÚMERO DE ALUNOS CURSOS Análise e Desenvolvimento de Sistemas 538 Desenvolvimento de Software Multiplataforma 63 Gestão Empresarial 612 Logística 454
+
+
+
+CURSOS TITULAÇÃO DOCENTE % Análise e Desenvolvimento de Sistemas Doutores 27,27
+Mestres 54,54
+Especialistas 18,19 Desenvolvimento de Software Multiplataforma Doutores 14,29
+Mestres 85,71
+Especialistas 0 Gestão Empresarial Doutores 37,93
+Mestres 44,82
+Especialistas 17,25 Logística Doutores 26,08
+Mestres 56,52
+Especialistas 17,40
+9
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial O relatório está organizado a partir da apresentação FATEC Zona Sul, ato regulatório e composição da Comissão Própria de Avaliação, seguindo-se a exposição geral e metodologia específica deste trabalho para coleta, tratamento e análise de dados. Na terceira parte descreve os cincos eixos em que são distribuídos os objetivos do SINAES: Planejamento e Avaliação Institucional, Desenvolvimento Institucional, Políticas Acadêmicas, Políticas de Gestão e Infraestrutura Física. Finalmente, na quarta parte, aponta quais são as ações propostas para intervenção e melhoria na FATEC Zona Sul durante o ano de 2023.
+2 METODOLOGIA Para contribuir com a organização da Comissão Própria de Avaliação de cada Fatec, o Centro Paula Souza, por meio da Área de Avaliação Institucional (AAI) e da Unidade de Ensino Superior de Graduação (CESU), organizaram a comissão da CPA Central.
+Assumindo como centro organizativo as atribuições que lhe competem, a saber: I – Contribuir com o planejamento, orientação e monitoramento dos procedimentos da autoavaliação Institucional das FATECs; II – Utilizar os indicadores coletados nas unidades como instrumento de gestão, oferecendo subsídios para cada uma das áreas da administração central tomar as medidas corretivas; III – Elaborar o Relatório Global da Autoavaliação para os processos de recredenciamento institucional. IV – Elaborar o cronograma da autoavaliação para as Fatecs, considerando o prazo de 31 de março de cada ano para o protocolo dos relatórios da autoavaliação no sistema e-mec do Ministério da Educação. V – Avaliar, indicar possíveis ajustes e autorizar o protocolo dos relatórios das CPAs das FATECs no sistema e-mec. VI – Reunir-se ordinariamente duas vezes no semestre ou de forma extraordinária quando necessário.
+Por meio CPA Central cada Fatec e das Diretorias Pedagógicas Regionais recebe todo o suporte necessário para cumprir o que lhe compete a CPA conforme segue:
+
+10
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial 1. contribuir com o planejamento, elaboração, coordenação e monitoramento dos processos de avaliação interna, apresentando o projeto de autoavaliação Institucional que norteará todos os procedimentos de autoavaliação para a CPA Central em consonância com a equipe de Supervisão Regional das FATECs. 2. apoiar os processos internos de avaliação; 3. sistematizar e prestar informações relativas às políticas de autoavaliação institucional, solicitadas pelos Sistemas Federal e Estadual de Avaliação da Educação Superior, além de atender à demanda interna da Supervisão Regional e da CPA Central do Centro Paula Souza; 4. constituir subcomissões de avaliação; 5. constituir grupos temáticos ou focais voltados para a avaliação de cada uma das dez dimensões estabelecidas no artigo anterior; 6. elaborar e analisar relatórios e pareceres, encaminhando-os a CPA Central; 7. desenvolver estudos e análises, colaborando com os órgãos próprios ou terceirizados do Centro Paula Souza, visando ao fornecimento de subsídios para afixação, o aperfeiçoamento e a modificação da política de avaliação institucional; 8. acompanhar, analisar e correlacionar os resultados da autoavaliação com os resultados dos alunos do Centro Paula Souza no ENADE, bem como em outros processos de avaliação; 9. aprovar seu próprio regulamento.
+Os relatórios parciais e/ou integrais da autoavaliação deverão ser elaborados com periodicidade anual, encaminhados para a CPA Central seguindo o cronograma de planejamento apresentado nas orientações gerais e protocolados até 31 de março de cada ano. Ficando disponíveis para serem apreciados pela comissão de especialistas designada pelo Conselho Estadual de Educação para a visita à Instituição em seu processo de recredenciamento, conforme dispõe a Deliberação do CEE 160/2018.
+2.1 Cronograma das atividades da CPA A partir desta estrutura, a CPA da Fatec Zona Sul – Dom Paulo Evaristo Arns, para cumprir o que lhe compete, durante o ano de 2022 elaborou o seguinte cronograma de trabalho:
+
+
+
+11
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial AÇÕES MESES
+
+
+JAN FEV MAR ABR MAI JUN JUL AGO SET OUT NOV DEZ JAN FEV MAR Reuniões online com a Direção, coordenações de Cursos para sistematização das ações e composições de grupos de trabalho.
+
+
+
+
+
+
+
+X
+X
+
+
+
+Encontros online da equipe CPA para organizar e desenvolver estratégias de maneira integrada a partir da percepção dos diferentes segmentos que compõem a comissão.
+
+
+
+
+
+
+
+
+X X
+
+
+
+Sensibilização para participação nos procedimentos e coleta: Encontros online com representantes de turmas, lives, webinar, informativos, site, entre outros, para alimentar a cultura avaliativa da Fatec.
+
+
+
+
+
+
+
+X X X
+
+
+
+Organização dos procedimentos de coleta de dados: elaboração das ações voltadas para estimular e monitorar a participação de toda a comunidade no preenchimento do formulário de coleta.
+
+
+
+
+
+
+
+X X X
+
+
+
+Análise dos resultados – acolhimento dos dados da coleta e início dos procedimentos de análise.
+
+
+
+
+
+
+
+
+
+
+X
+X
+
+
+
+Encaminhamento dos dados coletados para cada área competente: cada área recebe os dados faz a análise e apresenta a justificativa e o Plano de Melhorias da área - ações planejadas a partir dos resultados e encaminha para a CPA
+
+
+
+
+
+
+
+
+
+
+X
+
+X
+
+X
+Elaboração do relatório a partir da devolutiva das áreas.
+
+
+
+
+
+
+
+
+
+
+
+
+X
+Envio do Relatório para a apreciação da CPA Central
+
+
+
+
+
+
+
+
+
+
+
+
+
+X Divulgação dos resultados à comunidade acadêmica.
+
+
+
+
+
+
+
+
+
+
+
+
+
+X Conclusão do Relatório.
+
+
+
+
+
+
+
+
+
+
+
+
+
+X Protocolo no Sistema e-mec
+
+
+
+
+
+
+
+
+
+
+
+
+
+X
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial 2.2 Sensibilização Para a efetivação do cronograma destacam-se algumas das ações para a realização dos procedimentos de autoavaliação: • Reuniões periódicas com todos os participantes da comunidade acadêmica; • Apresentação de relatórios parciais para leitura detalhada, discussão, correção e aperfeiçoamento; • Incentivo permanente e orientação para que todos participassem da pesquisa do WEBSAI e estivessem presentes nos momentos em que fossem discutidos os resultados desta sondagem; • Envio de vários e-mails a todos os discentes pela Diretoria Acadêmica e Coordenações de Curso, além de mensagens postadas em todas as Equipes do Teams, e também enviadas pelo chat pelos Coordenadores de Curso aos alunos que não tinham respondido a pesquisa quando faltavam poucos dias para o término, todas estas ações sempre orientando sobre a importância da participação na pesquisa do WEBSAI; • Publicação de lembrete para participação da pesquisa do WEBSAI no site da Fatec Zona Sul, com “pop up” que era visualizado automaticamente por quem acessasse a página; • Publicação de lembrete para participação da pesquisa do WEBSAI nas redes sociais da Fatec Zona Sul; • Distribuição de grupos de alunos entre os docentes que ministram aulas em cada turma, para orientação individual, e auxílio, quando necessário, para participação da pesquisa do WEBSAI; • Emissão de relatórios de questionários não respondidos e encaminhamento de mensagens, oferecendo auxílio com quaisquer dificuldades, a todos os discentes, docentes e funcionários que ainda não tinham participado da pesquisa do WEBSAI; e
+13
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial • Tabulação dos dados coletados, elaboração de gráficos, tabelas e quadro para posterior redação dos relatórios e informes aos membros da comunidade acadêmica local e instituições reguladoras externas.
+Seguem evidências de algumas ações que foram implementadas para a sensibilização de toda a comunidade acadêmica: Figura 2 – Post no Mural de Todas as Equipes do Teams:
+
+Figura 3 – Post no Mural de todas as Equipes do Teams:
+14
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial
+Figura 4 – E-mail enviado a todos os alunos:
+Figura 5 – E-mail enviado a todos os professores:
+
+
+15
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial Figura 6 – Publicação no site da Fatec Zona Sul da prorrogação do prazo da pesquisa:
+
+2.3 Sujeitos da avaliação Participou do processo de avaliação institucional toda a comunidade acadêmica: docentes (6,30%), funcionários administrativos (1,78%) e discentes (91,92%). Dos docentes, participaram 100%; dos funcionários administrativos, 100%; e dos discentes, 53,13%, destacando que os alunos do Curso de Gestão Empresarial na modalidade EaD (103 no 2º semestre de 2022) não participaram da pesquisa.
+
+
+
+
+16
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial 2.4 Instrumentos de Coleta Desde 1997 o Centro Paula Souza, evidenciando o seu pioneirismo em buscar indicadores para gerar melhoria de seus serviços criou o Sistema de Avaliação Institucional (SAI), implantado em 1999 em todas as Etecs (Escolas de Ensino Técnico no nível médio) e, em 2000, nas Fatecs, seguindo os mais rigorosos critérios estatísticos. Sendo os instrumentos elaborados e preenchidos em formulários impressos de 1999 a 2012. A partir de 2010, os questionários deixaram de ser preenchidos em formulário de papel e passaram a ser totalmente on-line, trazendo mais agilidade ao processo de avaliação. Desde então, todos os participantes realizam a pesquisa pela internet e o SAI passou a ser chamado de WEBSAI. Para que as Fatecs tivessem apenas um instrumento que pudesse contemplar as 10 dimensões dentro dos 5 eixos avaliativos, a partir da criação da comissão da CPA Central, a AAI em parceria com a CESU, por meio de uma equipe qualificada, reorganizou a elaboração dos Instrumentos adequando-os em torno dos 5 eixos avaliativos: Planejamento e Avaliação Institucional, Desenvolvimento Institucional, Políticas Acadêmicas, Políticas de Gestão e Infraestrutura Física. Os instrumentos de avaliação foram organizados em três categorias docentes, discentes e técnicos-administrativos e são constituídos por perguntas de múltipla escolha. Para os docentes foram disponibilizadas 109 questões; aos discentes, 110 questões; e aos técnicos-administrativos, 101 questões, organizadas nas 10 dimensões, dentro dos 5 eixos avaliativos propostos pelo SINAES. A metodologia para coleta de dados incluiu reuniões com os membros efetivos da Comissão Própria de Avaliação e segmentos da comunidade acadêmica, com destaque a professores, funcionários e discentes.
+17
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial As informações deste relatório foram obtidas durante as reuniões da CPA, aplicação e tabulação dos questionários da pesquisa institucional WEBSAI 2022, sondagem realizada todos os anos pelo Centro Paula Souza, para conhecer a satisfação e o atendimento de expectativas de toda a comunidade. Os dados coletados por ela possibilitam analisar os principais processos de funcionamento das unidades de ensino do Centro Paula Souza, seus resultados, seu desempenho com o passar do tempo e o impacto na realidade social em que a instituição se insere”. (https://websai.cps.sp.gov.br). O WEBSAI - 2022 da FATEC Zona Sul contou com a participação de 904 membros da comunidade acadêmica, avaliando as seguintes dimensões: cadastro, condições de ensino, ambiente educativo, gestão administrativa, gestão pedagógica e nível de satisfação. Os resultados dos questionários foram tabulados, transformados em gráficos e submetidos à avaliação ao longo deste relatório dentro dos seguintes eixos: Planejamento e Avaliação Institucional, Desenvolvimento Institucional, Políticas Acadêmicas, Políticas de Gestão e Infraestrutura Física. 2.5 Procedimentos para a coleta
+A AAI disponibilizou o acesso ao sistema de coleta (WEBSAI) a partir de 03 de outubro de 2022, e ficou disponível para o preenchimento da comunidade até o dia 13 de novembro de 2022. Para favorecer a participação da comunidade durante este período, a CPA e Direção da Fatec Zona Sul fizeram o acompanhamento da participação de cada segmento, realizando a sensibilização contínua para a participação, adotando as seguintes medidas: • Envio de vários e-mails a todos os discentes pela Diretoria Acadêmica e Coordenações de Curso, além de mensagens postadas em todas as Equipes do Teams, e enviadas pelo chat pelos Coordenadores de Curso aos alunos que não tinham respondido a pesquisa quando faltavam poucos dias para o término, todas estas ações sempre orientando sobre a importância da participação na pesquisa do WEBSAI;
+18
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial • Publicação de lembrete para participação da pesquisa do WEBSAI no site da Fatec Zona Sul, com “pop up” que era visualizado automaticamente por quem acessasse a página; • Publicação de lembrete para participação da pesquisa do WEBSAI nas redes sociais da Fatec Zona Sul; • Distribuição de grupos de alunos entre os docentes que ministram aulas em cada turma, para orientação individual, e auxílio, quando necessário, para participação da pesquisa do WEBSAI; e • Emissão de relatórios de questionários não respondidos e encaminhamento de mensagens, oferecendo auxílio com quaisquer dificuldades, a todos os discentes, docentes e funcionários que ainda não tinham participado da pesquisa do WEBSAI.
+Seguem alguns exemplos das ações adotadas com o monitoramento do andamento da pesquisa WEBSAI, para que toda a comunidade acadêmica que ainda não havia participado, o fizesse:
+Figura 7 – E-mail enviado a todos os representantes de sala, com relação dos alunos que ainda não haviam respondido à pesquisa, quando faltavam poucos dias para o encerramento:
+
+19
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial Figura 8 – E-mail enviado a todos os professores, com relação dos alunos que ainda não haviam respondido à pesquisa, quando faltavam poucos dias para o encerramento, e distribuição entre os docentes da tarefa de incentivar os alunos a responderem:
+
+2.6 Análise e Discussão dos dados da coleta
+A partir do dia 12 de dezembro de 2022, os dados coletados por meio do WEBSAI, foram disponibilizados pela AAI. A Fatec Zona Sul, por meio da CPA iniciou o processo de organização dos dados coletados, com os resultados de cada segmento pesquisado: discentes, docentes e funcionários técnico-administrativos, para encaminhamento a cada setor de acordo com o Quadro 1 (Anexo 1).
+A CPA da Fatec Zona Sul encaminhou os dados coletados por e-mail para todos os setores, a fim de que a Diretoria Geral, a Diretoria Acadêmica, a Diretoria Administrativa e as Coordenações de Cursos realizassem discussões sobre os dados, identificando as fragilidades, potencialidades, ações corretivas, e elaborassem a justificativa em relação aos dados e o plano de melhoria com o respectivo cronograma de implementação, e, ainda, inserissem estas informações nos quadros apresentados no item 4 deste relatório. 20
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial Seguem os e-mails enviados à Diretoria Geral, Diretoria Acadêmica, Diretoria Administrativa e Coordenações de Curso, com os gráficos do WEBSAI, solicitando as contribuições de cada setor, a partir das respostas obtidas com a pesquisa:
+Figura 9 – E-mail enviado à Diretoria Geral:
+
+Figura 10 – E-mail enviado à Diretoria Acadêmica:
+21
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial
+Figura 11 – E-mail enviado à Diretoria Administrativa:
+
+
+Figura 12 – E-mail enviado às Coordenações de Curso:
+
+
+22
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial 2.7 Organização das medidas para composição do relatório
+
+Após o processo de análise e discussão dos dados coletados, cada setor encaminhou para a CPA da Fatec Zona Sul, os resultados presentes no Quadro 2, com o apontamento das fragilidades e o planejamento das medidas corretivas, assim como as potencialidades e as possíveis ações de manutenção e melhorias. Os quadros apresentados, foram condensados no capítulo 4 deste relatório, refletindo o planejamento da Fatec Zona Sul a partir dos indicadores observados em cada eixo avaliativo.
+Após as reuniões da CPA com os diversos departamentos da unidade, em que estes discorreram a respeito das conclusões referentes às análises dos dados da pesquisa, com a identificação das fragilidades e potencialidades, e justificaram a sugestão das medidas a serem implementadas para melhorar a atuação da Fatec Zona Sul em todos os aspectos que foram identificados como fragilidades, e aprimorar as potencialidades destacadas.
+Considerando que todos os segmentos da comunidade acadêmica participaram das discussões e forneceram preciosas contribuições para a elaboração do relatório final apresentado no dia 1º de março de 2022 à CESU do Centro Paula Souza, a CPA condensou todas as propostas de melhoria, que serão possíveis de implantação já ao longo do ano de 2023, como bem explicita o item 4 deste relatório.
+2.8 Devolutiva dos Resultados para os Segmentos
+
+Após a apresentação do relatório para a Direção da Fatec Zona Sul, foram organizadas as formas de divulgação dos resultados e apresentação das ações provenientes do processo de autoavaliação, permitindo o desenvolvimento Institucional.
+
+23
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial Os resultados da autoavaliação foram apresentados para os vários segmentos da comunidade, por meio de relatórios escritos pelos membros da Comissão Própria de Avaliação, com destaque para as medidas que visam dar manutenção à infraestrutura predial e melhorar as condições didático- pedagógicas da Fatec Zona Sul, no que tange aos processos de ensino e aprendizagem e atendimento à comunidade externa do entorno da faculdade. Por fim, a Diretoria Geral fez uma síntese das análises e propostas de melhorias enviadas pelos diversos departamentos, após ampla discussão interna, síntese esta que foi enviada pela CPA a todos os segmentos, para que pudessem vislumbrar de que forma suas contribuições serão norteadoras do planejamento institucional para 2023. Dentre as principais melhorias propostas, destacam-se:
+• Planejar reuniões de apresentação do PDI aos discentes e divulgar material simplificado no site e murais da unidade; • Ampliar os cursos de nivelamento, reforço e recuperação de disciplinas em que os alunos possuem maior dificuldade de aprendizagem ou deficiência advindas do Ensino Médio; • Promover ações incentivadoras aos discentes pelos docentes com utilização de metodologias ativas, para majorar a participação dos discentes durante as aulas; • Convidar a comunidade externa, por meio de seus líderes, a participar de eventos na unidade, com ampla divulgação; • Melhorar o espaço de estudo na biblioteca e criar espaços dedicados ao estudo na faculdade no formato de ambientes de convivência acadêmica; • Promover o ambiente de diálogo, negociação e respeito à opinião diversa nos ambientes acadêmicos, como sala de aula, biblioteca, locais de atendimento aos alunos e nas relações hierárquicas do tipo “botton up”;
+
+24
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial • Estimular o livre pensamento e manifestação de opinião, com flexibilidade de trabalho entre os docentes, de modo que possam aplicar em sala de aula uma maior variedade de metodologias de ensino e avaliação em suas respectivas disciplinas, e que as salas de aula sirvam como verdadeiros laboratórios de variadas abordagens acadêmicas; • Aumentar o número de parcerias para estágios na faculdade e adequar os conteúdos ministrados em sala de aula às necessidades do mercado de trabalho atual; • Ampliar a política de divulgação do vestibular semestralmente, junto às comunidades carentes para garantir acesso ao ensino superior e inclusão social; • Ampliar o número de vagas oferecidas à iniciação científica via programa de monitoria do Centro Paula Souza; • Ampliar o diálogo no ambiente acadêmico por meio do exemplo dado por professores, coordenadores, diretores e funcionários, para que a prática diária se capilarize entre todos os membros da comunidade; • Provisionar verba ao longo do ano para executar as melhorias necessárias nos banheiros da unidade; • Negociar com o Centro Paula Souza o aumento do número de funcionários para a limpeza e segurança da unidade; • Reformar a copa, de modo que os funcionários possam usar com mais frequência para preparo e consumo de refeições; • Solicitar ao Centro Paula Souza o aumento da banda de internet na unidade; • Instituir um programa de manutenção preventiva das instalações prediais. • Promover sempre a satisfação da equipe com a manutenção das políticas de gestão de pessoal implementadas, com foco na participação democrática e respeito ao desenvolvimento pessoal e profissional de todos os integrantes; e • Aproveitar a infraestrutura disponível para implementar mais atividades online, por meio do ensino híbrido, para introduzir novos cursos na unidade.
+
+25
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial Figura 13 – E-mail com síntese das análises e propostas de melhorias enviado pela Diretoria Geral à Presidência da CPA, após análises e propostas feitas por todos os departamentos, com cópia para as diretorias acadêmica e administrativa e coordenações de curso:
+
+26
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial 3 DESENVOLVIMENTO Considerando os instrumentos da autoavaliação, estruturados a partir das 10 dimensões previstas no art. 3º da Lei nº 10.861 (SINAES), nesta parte do relatório, a CPA deverá apresentar as informações que foram coletadas, a partir da organização de 5 eixos, que articulam as 10 dimensões, conforme disposto na Nota Técnica INEP nº 065, como segue:
+3.1 Eixo 1: Planejamento e Avaliação Institucional
+
+Dimensão 8: Planejamento e Avaliação
+EIXO DIMENSÃO APRESENTAÇÃO DAS PRINCIPAIS INFORMAÇÕES COLETADAS NO EIXO 1 EIXO 1 Planejamento e Avaliação Institucional Dimensão 8 Funcionários
+Docentes
+
+
+
+
+
+27
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial
+
+
+Discentes
+Docentes
+
+
+
+
+
+
+
+28
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial
+
+Discentes
+
+
+29
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial
+
+
+
+
+
+
+A análise realizada pela Área de Avaliação Institucional, responsável pelo WEBSAI, também tem contribuído para a melhoria da qualidade dos cursos oferecidos pela Instituição. Além desta avaliação, as sondagens externas realizadas pelo Conselho Estadual de Educação (CEE-SP) também contribuem para essa melhoria. A FATEC Zona Sul possui nota 4 em todos os seus cursos avaliados pelo ENADE. 30
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial Desde 2013, as FATECs são obrigadas a apresentar à CESU, no final do ano, um Plano de Gestão o qual deve abordar os seguintes tópicos: a) Análise dos itens positivos e negativos da Unidade estabelecendo o Plano de seu desenvolvimento; b) Relação de docentes em RJI e HAEs e projetos de pesquisa/atividade na Unidade; c) Responsabilidade Social na inclusão e desenvolvimento socioeconômico-ambiental; d) Relação de Eventos realizados na Unidade e Estratégias de divulgação do vestibular; e) Corpo Docente e Técnico: atualização dos Currículos Lattes, planejamento de concursos, previsão de progressão e as políticas de aperfeiçoamento; f) Órgãos Colegiados (funcionamento e representatividade); g) Previsão de compras (exceto por adiantamentos) para o semestre seguinte; h) Análise dos processos de avaliação externa dos cursos (Conselho Estadual de Educação, ENADE, etc.) e plano de ação; i) Políticas de atendimento acadêmico ao estudante; j) Relatório de análise da sustentabilidade dos cursos (relação candidato/vaga, índice de evasão/retenção, empregabilidade dos egressos, facilidade de oferta de estágio etc.). Analisando os dados da pesquisa do WEBSAI, conforme gráficos supra, quanto aos funcionários administrativos, docentes e discentes, verifica-se que as ferramentas de planejamento e avaliação institucional constituem uma grande força da unidade, pois para as três categorias, todas as respostas voltam-se para resultados muito bons ou excelentes, com destaque para elevado comprometimento e proatividade dos funcionários administrativos e dos docentes, que conhecem o PDI e adotam medidas positivas voltadas ao ensino-aprendizagem, com reconhecimento da sua eficiência ee eficácia pelos discentes. Analisando detidamente as respostas dos discentes, embora haja grande fragilidade no fato de que 62% não conhece o PDI, destacam-se várias potencialidades: reconhecimento de que o planejamento institucional ajuda a promover melhorias na unidade, sendo o WEBSAI um bom instrumento de avaliação; 99% dos discentes afirmam possuir desempenho de regular a ótimo nas avaliações, e que possuem conhecimento básico suficiente para acompanhamento das disciplinas em geral; entre 80 e 90% dos alunos afirmam que o tempo dedicado aos estudos é suficiente para bom desempenho, sendo a frequência às aulas boa ou ótima e as atividades propostas em sala de aula adequadas aos cursos. 31
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial A fim de atacar a fragilidade apontada, e incrementar as potencialidades supramencionadas, unidade deverá promover em 2023 reuniões com os discentes, para apresentação do PDI e divulgá-lo por meio de material simplificado, no site e também nos murais, e continuará estimulando os funcionários administrativos e docentes a tomarem conhecimento dos documentos institucionais por meio de reuniões e aplicação prática dos planejamentos operacional, tático e estratégico. Quanto à organização e tempo dedicado aos estudos, considerando o perfil do aluno da unidade, e também sua participação, a unidade manterá cursos de nivelamento, reforço e recuperação das disciplinas em que os alunos apresentam maior dificuldade de aprendizagem; capacitará mais ainda os docentes nas metodologias ativas diversas e também melhorará os equipamentos utilizados em sala de aula, adequando-os às propostas de aulas e necessidades do mercado de trabalho; incrementará os espaços de estudo na biblioteca e criará ambientes dedicados ao estudo na faculdade, propiciando maior e melhor convivência acadêmica. Também continuará sendo promovido o ambiente de diálogo, negociação e respeito em todos os ambientes da Fatec Zona Sul, inclusive nas relações hierárquicas do tipo “botton up”, sendo mantido o estímulo ao livre pensamento e liberdade de manifestação e flexibilidade de trabalho entre os docentes. Acredita-se, assim, que cada vez mais haverá majoração de participação e envolvimento de todos e em especial dos alunos com as atividades acadêmicas curriculares e extracurriculares.
+
+
+
+
+
+
+32
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial 3.2 Eixo 2: Desenvolvimento Institucional
+Dimensão 1: Missão e Plano de Desenvolvimento Institucional
+Dimensão 3: Responsabilidade Social da Instituição
+EIXO DIMENSÃO APRESENTAÇÃO DAS PRINCIPAIS INFORMAÇÕES COLETADAS NO EIXO 2 EIXO 2 Desenvolvimento Institucional
+Dimensões 1 e 3 Funcionários
+
+33
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial
+
+
+
+
+
+
+
+
+
+
+
+34
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial Docentes
+
+
+35
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial
+
+
+
+
+
+
+
+
+
+
+
+36
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial Discentes
+
+
+37
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial
+
+
+
+Funcionários 38
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial
+
+
+
+Docentes 39
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial
+
+
+Discentes
+
+
+
+
+
+40
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial Dimensão 1: Missão e Plano de Desenvolvimento Institucional Missão - Promover a educação profissional pública dentro de referenciais de excelência, visando ao atendimento das demandas sociais e do mundo do trabalho. Visão - Consolidar-se como centro de excelência e estímulo ao desenvolvimento humano e tecnológico, adaptado às necessidades da sociedade. Objetivos Estratégicos - Atender/Antecipar-se às demandas sociais e do mercado de trabalho; Obter a satisfação dos públicos que se relacionam com o Centro Paula Souza; Aperfeiçoar continuamente os processos de planejamento, gestão e as atividades operacionais/administrativas; Alcançar e manter o grau de excelência diante do mercado em seus processos de ensino e aprendizagem; Estimular e consolidar parcerias (internas e externas), sinergias e a inovação tecnológica; Reconfigurar a infraestrutura e intensificar a utilização de recursos tecnológicos; Promover a adequação, o reconhecimento e o desenvolvimento permanente do capital humano; Incentivar a transparência e o compartilhamento de informações e conhecimentos; Assegurar a sustentabilidade financeira da instituição. Diretrizes Estratégicas - Excelência em educação humana e tecnológica: Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem focados na aplicação da tecnologia, criatividade e no desenvolvimento de competências humanas e organizacionais; Satisfação dos públicos (interno e externo): Compreender as necessidades dos públicos interno e externo com objetivo de atender as suas expectativas; Valorização do capital humano: Assegurar a valorização dos servidores do Centro Paula Souza por meio de ações que estimulem a prática inovadora; Alto desempenho e melhoria permanente: Garantir processos permanentes de autocrítica institucional que viabilizem a melhoria contínua das atividades do Centro Paula Souza com o objetivo de alcançar resultados e metas; Parcerias, sinergias e inovação tecnológica: Estimular a busca de interesses comuns nas iniciativas pública e privada para o aprimoramento do conhecimento, da formação profissional e da gestão administrativa de modo a prover a sustentabilidade da instituição; Transparência: Compartilhar de forma sistêmica informações de interesse dos públicos interno e externo. 41
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial A análise dos dados da pesquisa do WEBSAI mostra que a unidade tem grande força quanto ao cumprimento de sua Missão e Plano de Desenvolvimento Institucional, restando evidenciada a disseminação da cultura, arte, ciência, tecnologia, inovação, valores éticos, inclusão social e formação profissional de qualidade, como demonstram os gráficos supra, representativos das respostas tanto dos funcionários administrativos e docentes como dos discentes. Apesar da fragilidade consistente no fato de 43% dos alunos desconhecerem a missão do Centro Paula Souza, o que será enfrentado pela unidade por meio de reuniões periódicas com os representantes de sala e inclusão da pauta em eventos internos, como a Semana de Tecnologia, que ocorre semestralmente, devem ser ressaltadas as seguintes potencialidades: a totalidade dos funcionários administrativos e a grande maioria (acima de 90%) dos docentes e discentes afirma que a Fatec Zona Sul forma profissionais qualificados, sendo um polo de ciência, tecnologia e inovação, que dissemina cultura, arte, valores éticos e democráticos, promove inclusão social e desenvolvimento sustentável, além de praticar a missão da instituição, e aduz que a assiduidade, pontualidade, proatividade, iniciativa, dedicação, comprometimento, aperfeiçoamento, atitude colaborativa, trabalho em equipe, respeito hierárquico, melhoria contínua, comunicação fluida e disposição para aprender são elementos muito bons ou excelentes no ambiente de trabalho da unidade.
+Dimensão 3: Responsabilidade social da IES Desde 2006, a Faculdade de Tecnologia da Zona Sul vem se destacando muito por seus trabalhos socialmente responsáveis. Os trabalhos são realizados durante todo o ano, e entre eles estão as palestras educativas, o incentivo ao trote solidário, por meio do qual calouros e veteranos se unem e trabalham em prol do bem da sociedade, arrecadando alimentos e doando sangue, além de aulas de informática e idiomas para crianças de baixa renda e pessoas da terceira idade de modo mais amplo. 42
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial O Plano de Desenvolvimento Institucional sempre foi um dos principais documentos que nortearam as ações da FATEC Zona Sul, tratando da identidade da Instituição, definindo, dentro outros, sua filosofia de trabalho, missão, estratégias, objetivos, estrutura e diretrizes pedagógicas, algo a ser continuado no PDI para os anos seguintes. Da análise dos dados da pesquisa do WEBSAI, constatam-se duas fragilidades apontadas apenas pelos discentes: reduzida participação da comunidade externa no contexto institucional e tratamento não muito adequado de pessoas com deficiência. Para atacar estas questões, e também incrementar ações de sustentabilidade, em 2023, deverão ser oferecidos treinamentos e conscientização da equipe de funcionários administrativos e docentes para atendimento de pessoas com deficiência. Também deverão ser feitos convites à comunidade, por meio de seus líderes, a participarem de eventos na unidade, além de ampla divulgação destes no site e redes sociais da Fatec Zona Sul. Por fim, deverão ser oferecidas palestras e implementadas ações sustentáveis na comunidade acadêmica, com ampla divulgação.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+43
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial 3.3 Eixo 3: Políticas Acadêmicas
+
+Dimensão 2: Políticas para o Ensino, a Pesquisa e a Extensão Dimensão 4: Comunicação com a Sociedade Dimensão 9: Política de Atendimento aos Discentes
+EIXO DIMENSÃO APRESENTAÇÃO DAS PRINCIPAIS INFORMAÇÕES COLETADAS NO EIXO 3
+
+
+Docentes
+
+44
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial
+
+
+Discentes
+
+45
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial
+
+
+46
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial
+
+
+Funcionários
+
+47
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial
+
+
+Docentes
+
+48
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial
+
+
+Discentes
+
+49
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial
+
+
+Funcionários
+
+50
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial
+
+Docentes
+
+
+Discentes
+
+
+
+
+51
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial Dimensão 2: Políticas para o Ensino, a Pesquisa e a Extensão
+A FATEC Zona Sul se mantém fiel ao atendimento das diretrizes estabelecidas pelo Centro Estadual de Educação Tecnológica CEETEPS em 2012: • Carga horária referencial para todos os cursos de tecnologia oferecidos: 2400 horas, excetuando-se as atividades de estágio e trabalho de graduação (TG); • Incentivo à inclusão de estágio supervisionado e trabalho de graduação, com duração total de 400 horas, tendo como referência 240 horas de estágio e 160 horas para o Trabalho de Graduação; • Distribuição da carga horária dos cursos em 6 semestres de 400 horas cada, ou seja, com 480 aulas; • Colocação de semestre com 20 semanas corridas, contendo 24 aulas semanais, de modo a possibilitar o cumprimento das 480 aulas semestrais; • Uso de atividades EaD (Ensino a Distância) ou reposições aos sábados para a complementação da carga horária até o limite das 480 aulas, desde que essas atividades não ultrapassem a 20% do total, conforme determina a legislação; • Incentivo à colocação de disciplinas de língua estrangeira (Inglês), em todos os semestres do curso, com foco em todas as habilidades linguísticas, mas com ênfase na comunicação oral, como forma de qualificar a empregabilidade dos egressos e, com isso, permitir que atinjam, pelo menos, o estágio pré-intermediário na classificação europeia de desenvolvimento linguístico; • Incentivo à colocação da disciplina de espanhol para os cursos que têm forte relação com o MERCOSUL, de modo a garantir dois semestres de estudos, com ênfase na oralidade e comunicação; • Estabelecimento de calendário unificado para os períodos letivos, possibilitando que o sistema acadêmico possa ser implantado; • Existência da Revista Eletrônica da FATEC - Zona Sul (REFAS). 52
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial Analisando as respostas da pesquisa do WEBSAI, constata-se novo ponto forte da unidade, com o corpo técnico de funcionários se vendo participativo, docentes e discentes avaliando muito bem os planos pedagógicos e as matrizes curriculares dos cursos, sendo que merecem destaque a correspondência entre os cursos da unidade e a formação para o exercício profissional e também a aprovação das práticas didático-pedagógicas pelos discentes, sendo, ainda, de se atentar para a fragilidade indicada por 37% dos discentes com relação à falta de incentivo para a pós- graduação. Importante salientar que a quase totalidade dos docentes afirma que as práticas didático-pedagógicas são muito boas ou excelentes, e o PPC, as matrizes curriculares, os sistemas de avaliação e as atividades de ensino, pesquisa e extensão são adequados ao nível dos cursos. Ressalta-se que percentuais superiores a 90% indicam que os alunos estão bastante satisfeitos com o curso escolhido e as atividades de ensino, pesquisa e extensão, sendo o PPC e matriz curricular adequados, que os professores dominam os conteúdos em sala de aula e apresentam o plano de ensino no início do semestre, e que impera um clima de respeito à diversidade de opiniões na unidade. Para incrementar o estímulo apontado como insuficiente à pós-graduação, a unidade introduzirá o debate sobre a importância do prosseguimento dos estudos após a conclusão do curso nas disciplinas do último semestre, e promoverá a abertura de cursos de pós-graduação lato sensu na Fatec Zona Sul. Já para conservar e melhorar as diversas potencialidades indicadas, continuarão sendo realizados eventos para difundir as atividades de ensino, pesquisa e extensão da unidade; serão incrementados os incentivos aos professores para capacitação profissional e bom planejamento semanal dos conteúdos e metodologias; será mantida a política de divulgação do vestibular, sobretudo junto às comunidades carentes, para garantir acesso ao ensino superior e inclusão social; será ampliada a política já adotada de diálogo, respeito e negociação ao lidar com conflitos na instrumentalização das rotinas da faculdade; e serão continuadas as medidas para manter os docentes informados a respeito das alterações nos PPCs e garantir sua representatividade nos colegiados na Fatec Zona Sul.
+53
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial Dimensão 4: Comunicação com a sociedade A comunicação da FATEC Zona Sul com a sociedade é realizada através de seu Site Institucional (http://www.fateczonasul.edu.br/), páginas oficiais das redes sociais Facebook, Instagram e Linkedin, membros participantes da Congregação da Unidade e Comissão Própria de Avaliação. O site oficial da unidade e as páginas das redes sociais trazem informações detalhadas a respeito da revista REFAS, vestibular, cursos, horários dos cursos, calendário acadêmico, eventos abertos ao público, histórico da unidade, expediente da secretaria, informes da diretoria de serviços, currículo e endereços eletrônicos dos docentes, downloads de documentos e regulamentos, concursos públicos, estágios, parcerias e localização.
+Neste item, com a análise dos gráficos supra, foram encontradas fragilidades apontadas pelos discentes, referentes ao acesso às informações, tanto pela comunidade externa como internamente, inclusive quanto às resoluções dos colegiados e à existência de mídias sociais. Sabe-se que ao longo do segundo semestre de 2022, em razão das eleições, o site ficou com restrições importantes, o que já não ocorre mais desde o término da campanha eleitoral, de modo que hoje já houve ampla renovação com remodelagem também das redes sociais, de modo que vêm sendo divulgadas por todos estes canais informações de interesse da comunidade interna e externa. Para melhorar esta questão, em 2022, passou a ser feita a divulgada das atas das reuniões da Congregação no site, e a partir de 2023, também serão divulgadas as atas das reuniões dos demais colegiados, ampliando- se, desta forma, a divulgação de informações relevantes à comunidade externa. Também será criado no site um espaço para sugestões de melhorias. Dimensão 9: Políticas de Atendimento aos Discentes As políticas de atendimento aos discentes estão direcionadas ao alcance de objetivos como a promoção do acesso e da permanência nos estudos, a inclusão social e a democratização do ensino superior e dispõe de:
+
+54
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial • Estímulo de permanência; • Central e Supervisões de estágios; • Orientações e Auxílios Diversos para os Trabalhos de Graduação; • Mobilidade acadêmica; • Mecanismos de nivelamento; e • Múltiplas Recuperações do ensino e da aprendizagem. Novamente a análise dos dados representados nos gráficos supra demonstra que funcionários, docentes e discentes consideram que as políticas de atendimento aos alunos é boa ou excelente na Fatec Zona Sul, sendo que será mantida a cultura do diálogo e informação entre toda a comunidade acadêmica, por meio de capacitações institucionais e desenvolvimento de conversas diárias voltadas à identificação de melhores soluções para problemas que se apresentarem. Percebe- se o incipiente resultado positivo da implementação em 2022 do programa de monitoria, que deverá ser ampliado em 2023, e também dos projetos já existentes de nivelamento e reforço com recuperações paralelas, que serão incrementados. Por fim, continuarão sendo incentivadas ações de esclarecimento aos discentes para criação de diretório acadêmico e grêmio estudantil, o que certamente proporcionará maior organização e convivência estudantil na unidade.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+55
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial 3.4 Eixo 4: Políticas de Gestão
+Dimensão 5: Políticas de Pessoal Dimensão 6: Organização e Gestão da Instituição Dimensão 10: Sustentabilidade Financeira
+
+
+
+
+DIMENSÃO APRESENTAÇÃO DAS PRINCIPAIS INFORMAÇÕES COLETADAS NO EIXO 4 Eixo 4 Políticas de Gestão Dimensões 5, 6 e 10
+Funcionários
+
+56
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial
+
+Docentes
+
+
+
+
+
+
+57
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial
+Funcionários
+
+
+
+
+58
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial
+
+Docentes
+
+
+
+
+59
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial
+
+Discentes
+
+
+
+
+60
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial
+
+
+
+
+
+Dimensão 5: Políticas de Pessoal
+O sistema de avaliação dos servidores para promoção, conforme Lei Complementar 1.044/2008 e suas alterações e/ou complementações, pelas Leis complementares 1.240, de 22/04/2014 e 1.252, de 03/07/2014, promoveu, após a implantação da carreira funcional, um sistema de evolução que contava com interstícios mínimos de 3 anos e, posteriormente, de 2 anos, para progressão determinada na lei, cujo sistema avaliativo encontra-se em curso, visando a promoção de docentes e funcionários da instituição. O primeiro desses processos de evolução foi concluído em dezembro de 2011.
+
+
+61
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial A nova redação dada à Lei Complementar 1.044/2008 estipula que a progressão funcional ocorrerá após o cumprimento de 2 (dois) anos de efetivo exercício e resultado satisfatório em 2 (duas) avaliações de desempenho. No ano de 2015, houve uma progressão especial, na qual foi considerado apenas o tempo de efetivo exercício. A partir de julho de 2016, a progressão foi efetivada com base no cumprimento de 2 (dois) anos e avaliação de desempenho.
+Em 2018 ocorreram capacitações específicas para o Curso Superior de Tecnologia em Gestão Empresarial na modalidade EaD, com vistas à melhoria continuada da atuação dos professores envolvidos. Com estas capacitações, e por meio de uma reformulação, pode-se perceber a melhoria do AVA (Ambiente Virtual de Aprendizagem), aprimorando também os aspectos de visualização e da performance da plataforma utilizada.
+Em 2020 e 2021 foram oferecidas inúmeras capacitações para implementação e aprimoramento das aulas remotas, em razão da pandemia de Covid 19, o que proporcionou a inevitável introdução de metodologias ativas nos planos de aula de todos os docentes, além da adoção de diversas formas inovadoras de avaliação continuada dos discentes.
+Em 2022 continuaram a ser oferecidas várias capacitações, em todas as áreas do conhecimento, tanto para docentes quanto funcionários administrativos, em diversas modalidades, em especial na remota e híbrida, o que permitiu que muitos participassem, melhorando sua capacidade e produtividade no desempenho de suas atividades na unidade. O mestrado e o doutorado são exigência mínima de titulação para docentes das faculdades públicas. A Lei nº 9394/96, de Diretrizes e Bases da Educação Nacional, conceitua as faculdades como instituições pluridisciplinares de formação dos quadros profissionais de nível superior, de pesquisa, de extensão e de domínio do saber humano, caracterizadas, entre outros elementos, pelo corpo docente com, no mínimo, 1/3 (um terço) do total constituído por portadores de titulação acadêmica de mestrado ou doutorado (Art. 52, inciso III). 62
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial A FATEC Zona Sul atende às exigências da LDB, pois 80% de seus docentes são mestres ou doutores, o que corresponde a mais de 2/3 dos titulados de portadores dos títulos indicados. A pesquisa do WEBSAI mostra por meio dos gráficos supra que tanto funcionários administrativos quanto docentes consideram excelentes as políticas de pessoal tais como vêm sendo implementadas.
+Dimensão 6: Organização e Gestão da Instituição A gestão da Instituição é composta pela estrutura hierarquizada que é precedida pela estrutura organizacional do CEETEPS, que é composto nessa ordem: Conselho Deliberativo, Superintendência, Unidades Administrativas, dentre elas a Unidade de Ensino Superior de Graduação (CESU). Na Faculdade de Tecnologia FATEC - Zona Sul “Dom Paulo Evaristo Arns”, há a Congregação, a Diretoria Geral, a Diretoria Administrativa, a Diretoria Acadêmica, as Coordenadorias de Cursos, a Orientação do Polo EaD do Curso de Gestão Empresarial, os Conselhos de Curso e os Núcleos Docentes Estruturantes. O sistema de avaliação institucional WEBSAI (2022) detectou que docentes, discentes e funcionários administrativos acreditam que a equipe de direção é reconhecida como uma liderança capaz de coordenar e levar adiante os projetos da unidade. Os órgãos colegiados deliberam por meio de reuniões de natureza ordinária, conforme calendário previamente elaborado e que se renova a cada gestão de dois anos letivos, e quando necessário, fazem reuniões extraordinárias para atendimento de situações inesperadas. A importância dos órgãos colegiados nas faculdades se dá pelo foco na gestão democrática com a garantia da prática da participação dos docentes, funcionários e discentes na descentralização do poder e da consciência social entorno da oferta de uma educação de qualidade. 63
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial Considera-se uma gestão democrática quando é possibilitada a autonomia dos sujeitos no compartilhamento das decisões, identificando o potencial de colaboração de cada pessoa e segmento escolar, promovendo um trabalho coletivo na construção da cidadania e efetivação do processo democrático. Pelos gráficos supra, nota-se que quanto aos colegiados, as respostas dos discentes à pesquisa do WEBSAI apontaram a necessidade de incrementar a divulgação de suas atuações, pois 38% diz desconhecer a atuação dos colegiados na unidade. Para melhorar a divulgação das atividades destes órgãos, a partir de 2023, serão publicadas no site da Fatec Zona Sul as atas das reuniões dos Núcleos Docentes Estruturantes e Conselhos de Curso, além da divulgação pelas Coordenações de Curso diretamente aos representantes de sala. Outra deficiência apurada com a pesquisa refere-se à reduzida participação dos discentes nos Programas de Estágios, que são considerados pelos discentes insuficientes ou desconhecidos, sendo que a unidade providenciará a majoração de parcerias institucionais com empresas para oferecimento de estágios aos alunos. Por fim, merece atenção a fragilidade apontada pelos discentes quanto ao programa de iniciação científica, que é considerado insuficiente para atender à comunidade acadêmica, o que será atacado pela unidade por meio da ampliação de vagas para iniciação científica, com incremento do programa de monitoria do Centro Paula Souza. Merecem ser salientadas as potencialidades apuradas: acima de 80% dos alunos considera que há estímulo adequado para frequência no ambiente da faculdade, que a resolução de conflitos é baseada na negociação e no diálogo dentro da unidade, que há estímulo e apoio ao desenvolvimento de situações problema e que a equipe da Direção é uma liderança capaz de coordenar e levar adiante ações prioritárias da Fatec Zona Sul; acima de 96% dos docentes afirma que o corpo técnico- administrativo é excelente ou muito bom, que a Direção atua de maneira excelente ou muito boa na resolução de conflitos na unidade, e que a atuação dos colegiados é boa; a totalidade dos funcionários administrativos considera a gestão da Fatec Zona Sul muito boa.
+64
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial Para ampliar estas potencialidades, a unidade deverá: manter e ampliar o diálogo no ambiente acadêmico por meio do exemplo dado aos alunos por professores, coordenadores, diretores e funcionários, pois a prática diária capilariza- se entre todos os membros da comunidade acadêmica; ampliar a capacitação profissional dos funcionários, garantindo um bom ambiente de trabalho, que valorize o diálogo e a negociação para solução de conflitos; manter o diálogo com todos os membros da comunidade acadêmica, sem grupos preferenciais ou favorecimentos, evitando sempre embates desnecessários, de modo que o clima organizacional mantenha-se bom para todos; e manter a rotina de reuniões ordinárias e extraordinárias dos colegiados.
+Dimensão 10: Sustentabilidade Financeira A verba existente é denominada “Despesas miúdas e de pronto pagamento”, e não pode ser utilizada para compra de bens permanentes ou produtos em grande quantidade. Além disso, para realização dos serviços de manutenção e aquisição de insumos, fazem-se necessários, no mínimo, três orçamentos, o que, em muitos casos, torna o processo mais difícil. Trata-se de questão que não permite muita flexibilidade, em virtude de restrições regimentais.
+O PDI da FATEC contempla cronogramas de desenvolvimento para abertura de novas turmas, novos cursos de graduação, cursos de pós-graduação, programas de extensão e demonstrativo de capacidade e sustentabilidade financeira. A Instituição possui a CPA que, por meio de seus relatórios de autoavaliação institucional, norteia boa parte dos investimentos a serem realizados no ensino, pesquisa e extensão, bem como na infraestrutura e conservação. O processo de desenvolvimento e acompanhamento da gestão acadêmica e administrativa da instituição é realizado com base em orçamento anual, podendo ser desdobrado em orçamentos de cursos e eventualmente setoriais.
+
+
+65
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial 3.5 Eixo 5: Infraestrutura Física
+
+Dimensão 7: Infraestrutura Física
+
+EIXO DIMENSÃO APRESENTAÇÃO DAS PRINCIPAIS INFORMAÇÕES COLETADAS NO EIXO 5 Eixo 5 Infraestrutura Física Dimensão 7 Funcionários
+
+66
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial
+
+
+Docentes
+
+67
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial
+
+
+Discentes
+
+68
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial
+
+
+
+
+
+A infraestrutura da FATEC Zona Sul é composta por salas de aula e laboratórios de informática, além das instalações administrativas, sala de professores, sala de descanso, copa equipada, sala “maker”, salas de coordenações, sala de orientação do Polo EaD, biblioteca e auditório compartilhados com a Etec.
+
+
+69
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial Analisadas as recomendações apresentadas pelos especialistas, referentes às avaliações externas para reconhecimento e renovações de reconhecimento, verifica- se que dentre o universo de pontos fracos elencados pelas comissões de especialistas do Conselho Estadual de Educação (CEE- SP), 60% referem-se à infraestrutura, biblioteca e laboratórios, destacando-se que a FATEC Zona Sul possui todos os livros das bibliografias básicas e complementares de seus cursos, disponíveis para consulta e empréstimo em sua biblioteca. Os gráficos supra indicam que a comunidade acadêmica considera que as instalações e os equipamentos são adequados ao desenvolvimento dos conteúdos de todas as disciplinas dos cursos ofertados pela unidade, cabendo destaque para a potencialidade referente à possibilidade de aproveitamento da infraestrutura disponível para implementação de mais atividades online, por meio do ensino híbrido, que após todas as adaptações que a pandemia impôs aos docentes e discentes, é o futuro inequívoco, o que já está viabilizando a introdução de novos cursos na unidade. Seguem as principais necessidades apontadas pela pesquisa: substituição de mobiliário e computadores mais antigos dos laboratórios; substituição de mesas e cadeiras das salas de aula por carteiras universitárias que ocupam menos espaço; substituição de ventiladores nas salas de aula e áreas administrativas; reforma dos banheiros; aumento do número de funcionários na limpeza e segurança; melhora das condições gerais da cantina; e elevação da capacidade de internet para que toda a comunidade acadêmica possa executar plenamente suas atividades nas instalações da unidade.
+Para atender todas essas necessidades, a unidade deverá solicitar ao Centro Paula Souza novo mobiliário e aumento de banda de internet, negociar o aumento de funcionários e provisionar verba ao longo do ano para executar melhorias.
+
+
+70
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial
+Quanto às potencialidades, a grande maioria dos alunos afirma que a infraestrutura da Secretaria Acadêmica é boa; o espaço de convivência na unidade é bom; os serviços de segurança, limpeza e conservação são bons; e as condições gerais de infraestrutura são boas. Para ampliar esta satisfação geral, a unidade deverá pintar o ambiente da Secretaria Acadêmica, trocar os móveis e refazer circuitos elétricos; melhorar o ambiente de convivência do hall de entrada e criar área de estudo na parte superior do hall do elevador; melhorar as instalações da biblioteca, distribuir sofás de pallets no bloco de salas de aula, instalar catracas eletrônicas para controle de acesso à unidade; solicitar novos equipamentos e mobiliário para uso em sala de aula, áreas de convivência e laboratórios; negociar o aumento do número de funcionários no serviço de limpeza; e instituir um programa interno de manutenção preventiva das instalações prediais.
+69
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial 4 ANÁLISE DOS DADOS E AÇÕES PROPOSTAS
+EIXO 1: PLANEJAMENTO E AVALIAÇÃO INSTITUCIONAL
+FRAGILIDADES
+
+AÇÕES PLANEJADAS AÇÕES REALIZADAS
+PRAZOS 68% dos alunos não conhecem o PDI da FATEC Zona Sul. Publicação do PDI internamente e no site da FATEC Zona Sul, reuniões com os representantes de sala, Núcleos Docentes Estruturante dos Cursos (NDE) e Conselhos de Curso (CC) Todas as ações realizadas ao longo do ano de 2022. Atividade contínua ao longo do ano.
+POTENCIALIDADES
+
+
+AÇÕES PLANEJADAS AÇÕES REALIZADAS
+PRAZOS 70% dos alunos reconhecem que o planejamento institucional ajuda a promover melhorias na unidade de ensino Reuniões com os representantes de sala e inclusão da pauta em eventos internos como a Semana de Tecnologia realizada ao longo do ano letivo. Todas as ações realizadas ao longo do ano de 2022. Atividade contínua ao longo do ano. 60% dos alunos consideram que o WEBSAI é um bom instrumento de avaliação para melhoria contínua na FATEC Zona Sul Melhorar o percentual de coleta do WEBSAI por meio da ação de representantes de sala, coordenadores de curso, direção acadêmica e funcionários administrativos. Todas as ações realizadas ao longo do ano de 2022. Atividade contínua ao longo do ano. 99% dos alunos afirmam que possuem desempenho de regular a ótimo nas avaliações e que possuem conhecimento básico suficiente para acompanhar o curso de graduação. Manter os cursos de nivelamento, reforço e recuperação das disciplinas em que os alunos possuem maior dificuldade de aprendizagem ou deficiência advindas do Ensino Médio. Todas as ações realizadas ao longo do ano de 2022. Atividade contínua ao longo do ano. 89% dos alunos dizem que o tempo dedicado ao estudo é suficiente para terem bom desempenho nas disciplinas Melhorar o espaço de estudo na biblioteca e criar espaços dedicados ao estudo na faculdade na forma de ambientes de convivência acadêmica. Todas as ações realizadas ao longo do ano de 2022. Atividade contínua ao longo do ano. 86% dos discentes afirmam que a frequência às aulas é boa ou ótima. Incentivar a presença às aulas por meio de metodologias ativas e melhorias físicas no espaço universitário dedicado ao ensino-aprendizagem. Todas as ações realizadas ao longo do ano de 2022. Atividade contínua ao longo do ano. 78% dos alunos consideram que as atividades propostas em sala de aula são adequadas ao curso e mercado de trabalho. Capacitar professores nas metodologias ativas de ensino, melhorar os equipamentos utilizados em sala de aula e adequar as propostas de aula às necessidades do mercado de trabalho. Todas as ações realizadas ao longo do ano de 2022. Atividade contínua ao longo do ano. 70
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial 97% dos alunos afirmam que a convivência acadêmica na FATEC Zona Sul é muito boa ou excelente. Promover o ambiente de diálogo, negociação e respeito à opinião diversa nos ambientes acadêmicos, como sala de aula, biblioteca, locais de atendimento aos alunos e nas relações hierárquicas do tipo botton up. Todas as ações realizadas ao longo do ano de 2022. Atividade contínua ao longo do ano. Acima de 90% dos docentes consideram que o processo de ensino aprendizagem na unidade é muito bom ou excelente, contemplando aspectos relacionados à metodologia de ensino, atendimento aos alunos e resultados obtidos ao longo e final do semestre letivo. Estimular o livre pensamento e liberdade de opinião e flexibilidade de trabalho entre os docentes, de modo que possam aplicar em sala de aula uma maior variedade de metodologias de ensino em suas respectivas disciplinas e que as salas de aulas sirvam como verdadeiros laboratórios de variadas abordagens acadêmicas. Todas as ações realizadas ao longo do ano de 2022. Atividade contínua ao longo do ano. A totalidade dos funcionários conhece o PDI da FATEC Zona Sul. Continuar estimulando os funcionários a tomarem conhecimento dos documentos institucionais da FATEC Zona Sul por meio de reuniões ao longo do ano letivo e aplicação prática dos planejamentos operacional, tático e estratégico. Todas as ações realizadas ao longo do ano de 2022. Atividade contínua ao longo do ano. EIXO 2: DESENVOLVIMENTO INSTITUCIONAL
+FRAGILIDADES
+
+AÇÕES PLANEJADAS AÇÕES REALIZADAS PRAZOS 43% dos alunos desconhecem a missão do Centro Paula Souza Reuniões com os representantes de sala e inclusão da pauta em eventos internos como a Semana de Tecnologia realizada ao longo do ano letivo. Todas as ações realizadas ao longo do ano de 2022. Atividade contínua ao longo do ano.
+POTENCIALIDADES
+
+
+AÇÕES PLANEJADAS AÇÕES REALIZADAS PRAZOS 93% dos alunos afirmam que a FATEC Zona Sul forma profissionais bem qualificados para o mercado de trabalho. Aumentar o número de parcerias para estágios na faculdade e adequar os conteúdos ministrados em sala de aula às necessidades do mercado de trabalho atual. Todas as ações realizadas ao longo do ano de 2022. Atividade contínua ao longo do ano. 94% dos alunos acreditam que a FATEC Zona Sul dissemina Ciência, Tecnologia e Inovação. Promover eventos na unidade que disseminem Ciência, Tecnologia e Inovação. Todas as ações realizadas ao longo do ano de 2022. Atividade contínua ao longo do ano. 82% dos alunos afirmam que a FATEC Zona Sul difunde cultura e arte no processo de ensino aprendizagem. Promover eventos na unidade que valorizem a cultura e arte para formação integral de nossos alunos. Todas as ações realizadas ao longo do ano de 2022. Atividade contínua ao longo do ano. 71
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial 91% dos alunos afirmam que a FATEC Zona Sul é um ambiente que difunde valores éticos e democráticos. Continuar a incentivar o diálogo, valores éticos e democráticos no cotidiano das relações acadêmicas e sociais que ocorrem na faculdade. Todas as ações realizadas ao longo do ano de 2022. Atividade contínua ao longo do ano. 90% dos alunos acreditam que a FATEC Zona Sul promove inclusão social e desenvolvimento sustentável. Promover eventos na unidade e situações problema em sala de aula que valorizem a inclusão social e desenvolvimento sustentável. Todas as ações realizadas ao longo do ano de 2022. Atividade contínua ao longo do ano. Em média 90% dos docentes afirmam que a FATEC Zona Sul forma profissionais qualificados; é um polo de ciência, tecnologia e inovação, dissemina cultura, arte, valores éticos e democráticos, promove a inclusão social e desenvolvimento sustentável, além de praticar a missão da instituição. Promover eventos na unidade atrelados aos valores da difusão de ciência, tecnologia e inovação, cultura, arte, ética, democracia, inclusão social e desenvolvimento sustentável. Todas as ações realizadas ao longo do ano de 2022. Atividade contínua ao longo do ano. Todos os funcionários afirmam que a FATEC Zona Sul forma profissionais qualificados; é um polo de ciência, tecnologia e inovação, dissemina cultura, arte, valores éticos e democráticos, promove a inclusão social e desenvolvimento sustentável, além de praticar a missão da instituição. Manter a cultura de diálogo e informação entre os funcionários da unidade por meio da qualidade de vida no trabalho, conversas diárias e capacitações institucionais. Todas as ações realizadas ao longo do ano de 2022. Atividade contínua ao longo do ano. Todos os funcionários afirmam que a assiduidade, pontualidade, proatividade, iniciativa, dedicação, comprometimento, aperfeiçoamento, atitude colaborativa, trabalho em equipe, respeito hierárquico, melhoria contínua, comunicação e disposição para aprender são excelentes ou muito bons no ambiente de trabalho da FATEC Zona Sul. Manter a cultura de diálogo e informação entre os funcionários da unidade por meio da qualidade de vida no trabalho, conversas diárias e capacitações institucionais. Todas as ações realizadas ao longo do ano de 2022. Atividade contínua ao longo do ano. EIXO 3: POLÍTICAS ACADÊMICAS
+FRAGILIDADES
+
+AÇÕES PLANEJADAS AÇÕES REALIZADAS
+PRAZOS 37% dos alunos afirmam que as políticas de incentivo à pós- graduação são insuficientes na FATEC Zona Sul. Inserir a pauta nas disciplinas do último semestre dos cursos tecnológicos e promover a abertura de cursos de pós-graduação lato sensu na FATEC Zona Sul. Todas as ações realizadas ao longo do ano de 2022. Atividade contínua ao longo do ano.
+POTENCIALIDADES
+
+
+AÇÕES PLANEJADAS AÇÕES REALIZADAS
+PRAZOS 83% dos alunos afirmam que o projeto pedagógico do curso e matriz curricular são adequadas. Difundir os PPCs dos cursos via representação discente na FATEC Zona Sul, inserir a pauta nos eventos institucionais Todas as ações realizadas ao longo do ano de 2022. Atividade contínua ao longo do ano. 72
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial da unidade, além de professores apresentarem os planos de curso no começo de cada semestre. 88% dos alunos afirmam que as atividades de ensino, pesquisa e extensão são boas na FATEC Zona Sul. Criar eventos para difundir as atividades de ensino, pesquisa e extensão são boas na FATEC Zona Sul. Todas as ações realizadas ao longo do ano de 2022. Atividade contínua ao longo do ano. 92% do corpo docente é bom e dominam os conteúdos em sala de aula Motivar os professores à capacitação profissional e ao bom planejamento dos conteúdos e metodologias das aulas semanalmente. Todas as ações realizadas ao longo do ano de 2022. Atividade contínua ao longo do ano. 96% dos alunos estão satisfeito com o curso escolhido. Manter a política de divulgação do vestibular semestralmente, sobretudo junto à comunidades carentes para garantir acesso ao ensino superior e inclusão social. Todas as ações realizadas ao longo do ano de 2022. Atividade contínua ao longo do ano. 94% dos alunos afirmam que há uma clima de respeito à diversidade de opiniões. Manter e ampliar a política interna de diálogo, respeito e negociação ao lidarmos com conflitos na instrumentalização da rotina na faculdade. Todas as ações realizadas ao longo do ano de 2022. Atividade contínua ao longo do ano. 97% dos alunos afirmam que os professores apresentam o plano de ensino no começo do semestre. Motivar os professores à capacitação profissional e ao bom planejamento dos conteúdos e metodologias das aulas semanalmente. Todas as ações realizadas ao longo do ano de 2022. Atividade contínua ao longo do ano. Em média, 90% dos docentes afirmam que que o PPC dos cursos, matriz curricular, sistema de avaliação da aprendizagem, atividades de ensino/pesquisa/extensão são adequadas ao nível dos cursos. Manter os docentes informados a respeito das mudanças nos PPCs e garantir sua representatividade nos colegiados da FATEC Zona Sul. Todas as ações realizadas ao longo do ano de 2022. Atividade contínua ao longo do ano. 96% dos docentes afirmam que as práticas didático-pedagógicas são muito boas ou excelentes. Motivar os professores à capacitação profissional e ao bom planejamento dos conteúdos e metodologias das aulas semanalmente. Todas as ações realizadas ao longo do ano de 2022. Atividade contínua ao longo do ano. Em média, 95% dos funcionários consideram que as políticas de atendimento aos alunos é boa ou excelente na FATEC Zona Sul. Manter a cultura de diálogo e informação entre os funcionários da unidade por meio da qualidade de vida no trabalho, conversas diárias e capacitações institucionais. Todas as ações realizadas ao longo do ano de 2022. Atividade contínua ao longo do ano. EIXO 4: POLÍTICAS DE GESTÃO
+FRAGILIDADES
+
+AÇÕES PLANEJADAS AÇÕES REALIZADAS
+PRAZOS 38% dos alunos afirmam desconhecer a atuação dos colegiados na FATEC Zona Sul. Ampliar a comunicação com a comunidade acadêmica via e- mails, redes sociais e participação da representação discente nos colegiados da FATEC Zona Sul. Todas as ações realizadas ao longo do ano de 2022. Atividade contínua ao longo do ano. 39% dos alunos acham o programa de estágio insuficiente ou desconhecem o programa na FATEC Zona Sul Aumentar o número de parcerias institucionais com empresas que possam oferecer estágios. Todas as ações realizadas ao longo do ano de 2022. Atividade contínua ao longo do ano. 73
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial 39% dos alunos acredita que o programa de iniciação científica é insuficiente na FATEC Zona Sul Ampliar o número de vagas oferecidas à iniciação científica via programa de monitoria do Centro Paula Souza. Todas as ações realizadas ao longo do ano de 2022. Atividade contínua ao longo do ano.
+POTENCIALIDADES
+
+
+AÇÕES PLANEJADAS AÇÕES REALIZADAS
+PRAZOS 83% dos alunos afirmam que a resolução de conflitos é realizada a base da negociação e diálogo. Manter e ampliar o diálogo no ambiente universitário através do exemplo dado por professores, coordenadores, diretores e funcionários da FATEC Zona Sul, dando exemplo de ação aos nossos alunos. A prática diária se capilariza entre todos os membros da comunidade acadêmica. Todas as ações realizadas ao longo do ano de 2022. Atividade contínua ao longo do ano. 84% dos alunos afirmam que há estímulo e apoio no desenvolvimento de situações problema. Manter e ampliar o diálogo no ambiente universitário através do exemplo dado por professores, coordenadores, diretores e funcionários da FATEC Zona Sul, dando exemplo de ação aos nossos alunos. A prática diária se capilariza entre todos os membros da comunidade acadêmica. Todas as ações realizadas ao longo do ano de 2022. Atividade contínua ao longo do ano. 80% dos alunos reconhecem que a equipe de direção é uma liderança capaz de coordenar e levar adiante as ações prioritárias da FATEC Zona Sul Manter e ampliar o diálogo no ambiente universitário através do exemplo dado por professores, coordenadores, diretores e funcionários da FATEC Zona Sul, dando exemplo de ação aos nossos alunos. A prática diária se capilariza entre todos os membros da comunidade acadêmica. Todas as ações realizadas ao longo do ano de 2022. Atividade contínua ao longo do ano. 82% dos alunos afirmam que há estímulo adequado para frequência ao ambiente universitário. Manter e ampliar o diálogo no ambiente universitário através do exemplo dado por professores, coordenadores, diretores e funcionários da FATEC Zona Sul, dando exemplo de ação aos nossos alunos. A prática diária se capilariza entre todos os membros da comunidade acadêmica. Todas as ações realizadas ao longo do ano de 2022. Atividade contínua ao longo do ano. 97% dos docentes afirmam que o corpo técnico-administrativo é excelente ou muito bom. Ampliar a capacitação profissional dos funcionários, garantindo um bom ambiente de trabalho que valorize o diálogo e negociação para solução de conflitos. Além disso, todos nossos funcionários possuem nível superior. Todas as ações realizadas ao longo do ano de 2022. Atividade contínua ao longo do ano. 96% dos docentes afirmam que a Direção atua de maneira excelente ou muito boa na resolução de conflitos na FATEC Zona Sul, 2% de forma regular e 2% não soube responder. Manter o diálogo com todos os membros da comunidade acadêmica sem grupos preferenciais ou favorecimento, dar preferência ao diálogo e negociação para mediação de conflitos e evitar embates desnecessários, garantindo bom ambiente de trabalho e qualidade de vida para todos os membros da comunidade acadêmica. Além disso, manter a atualização profissional em gestão de pessoas de modo que o clima organizacional seja bom para todos. Todas as ações realizadas ao longo do ano de 2022. Atividade contínua ao longo do ano. 96% dos docentes afirmam que a atuação dos colegiados na FATEC Zona Sul é boa. Manter a rotina de reuniões ordinárias e extraordinárias de todos os colegiados da faculdade. Todas as ações realizadas ao longo do ano de 2022. Atividade contínua ao longo do ano. 74
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial Todos os funcionários consideram que a gestão da FATEC Zona Sul é muito boa ou excelente. Manter a cultura de diálogo e informação entre os funcionários da unidade por meio da qualidade de vida no trabalho, conversas diárias e capacitações institucionais. Todas as ações realizadas ao longo do ano de 2022. Atividade contínua ao longo do ano. EIXO 5: INFRAESTRUTURA
+FRAGILIDADES
+
+AÇÕES PLANEJADAS AÇÕES REALIZADAS
+PRAZOS Mobiliário e computadores mais antigos nos laboratórios. Solicitar ao Centro Paula Souza novo mobiliário e computadores para fazer a substituição dos antigos. A ser executada durante o ano de 2023. Atividade contínua ao longo do ano. Mesas e cadeiras em sala de aula ocupam muito espaço. Solicitar ao Centro Paula Souza carteiras universitárias, que ocupam menos espaço para substituir as mesas e cadeiras atuais. A ser executada durante o ano de 2023. Atividade contínua ao longo do ano. Ventiladores nas salas de aula e áreas administrativas muito velhos e barulhentos. Solicitar ao Centro Paula Souza novos ventiladores para substituir os antigos. A ser executada durante o ano de 2023. Atividade contínua ao longo do ano. Banheiros necessitam de reforma. Provisionar verba ao longo do ano para executar as melhorias necessárias. A ser executada durante o ano de 2023. Atividade contínua ao longo do ano. Poucos funcionários na limpeza e segurança. Negociar com o Centro Paula Souza o aumento do número de funcionários. A ser executada durante o ano de 2023. Atividade contínua ao longo do ano. 25% dos funcionários afirmam que as condições da cantina é regular. Reformar a Copa da FATEC Zona Sul de modo que os funcionários possam usar com mais frequência para preparo e consumo de refeições. A ser executada durante o ano de 2023. Atividade contínua ao longo do ano. 20% dos funcionários afirma que a regularidade do sinal de internet não é suficiente para execução plena das atividades administrativas. Solicitar ao Centro Paula Souza o aumento da banda de internet da FATEC Zona Sul. A ser executada durante o ano de 2023. Atividade contínua ao longo do ano.
+POTENCIALIDADES
+
+
+AÇÕES PLANEJADAS AÇÕES REALIZADAS
+PRAZOS 86% dos alunos afirmam que a infraestrutura da Secretaria Acadêmica é boa. Pintar o ambiente, trocar os móveis e refazer os circuitos elétricos da Secretaria Acadêmica para melhorar as condições de trabalho ofertadas à comunidade acadêmica da FATEC Zona Sul. Todas as ações realizadas ao longo do ano de 2022. Atividade contínua ao longo do ano. 75
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial 88% dos alunos afirmam que o espaço de convivência na FATEC Zona Sul é bom. Melhorar o ambiente de convivência do hall de entrada da faculdade com sofás novos, nova área de estudo na parte superior do hall do elevador, melhorar as instalações da biblioteca, distribuir sofás de pallets no bloco de salas de aulas, de modo que os alunos tenham mais espaços para convivência. Todas as ações realizadas ao longo do ano de 2022. Atividade contínua ao longo do ano. 77% dos alunos afirmam que o serviço de segurança é bom. Adquirir catracas eletrônicas para controle de acesso dos alunos. A ser executada durante o ano de 2023. Atividade contínua ao longo do ano. 91% dos alunos afirmam que o serviço de limpeza e conservação são bons. Negociar o aumento do número de funcionários no serviço de limpeza da faculdade e instituir um programa interno de manutenção preventiva das instalações prediais. Todas as ações realizadas ao longo do ano de 2022. Atividade contínua ao longo do ano. 82% dos alunos afirmam que os mobiliários e equipamentos de uso são bons. Solicitar novos equipamentos e mobiliário para uso em sala de aula, áreas de convivência e laboratórios. Todas as ações realizadas ao longo do ano de 2022. Atividade contínua ao longo do ano. Aproximadamente 95% dos docentes afirmam que as condições gerais de infraestrutura são boas. Instituir um programa interno de manutenção preventiva das instalações prediais. Todas as ações realizadas ao longo do ano de 2022. Atividade contínua ao longo do ano. Em média, 95% dos funcionários consideram as condições de infraestrutura muito boa ou excelente. Instituir um programa interno de manutenção preventiva das instalações prediais. Todas as ações realizadas ao longo do ano de 2022. Atividade contínua ao longo do ano.
+76
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial 5 CONSIDERAÇÕES FINAIS
+A Comissão Própria de Avaliação, pelo seu trabalho, visa oferecer subsídios capazes de subsidiar à tomada de decisão e ao planejamento institucional, na busca de contínua melhoria da qualidade do ensino, da pesquisa, da extensão e da gestão, sendo assim um importante instrumento para a Direção. Dentre as principais ações advindas desse processo, podemos salientar:
+• Planejar reuniões de apresentação do PDI aos discentes e divulgar material simplificado no site e murais da unidade; • Ampliar os cursos de nivelamento, reforço e recuperação de disciplinas em que os alunos possuem maior dificuldade de aprendizagem ou deficiência advindas do Ensino Médio; • Promover ações incentivadoras aos discentes pelos docentes com utilização de metodologias ativas, para majorar a participação dos discentes durante as aulas; • Convidar a comunidade externa, por meio de seus líderes, a participar de eventos na unidade, com ampla divulgação; • Melhorar o espaço de estudo na biblioteca e criar espaços dedicados ao estudo na faculdade no formato de ambientes de convivência acadêmica; • Promover o ambiente de diálogo, negociação e respeito à opinião diversa nos ambientes acadêmicos, como sala de aula, biblioteca, locais de atendimento aos alunos e nas relações hierárquicas do tipo “botton up”; • Estimular o livre pensamento e manifestação de opinião, com flexibilidade de trabalho entre os docentes, de modo que possam aplicar em sala de aula uma maior variedade de metodologias de ensino e avaliação em suas respectivas disciplinas, e que as salas de aula sirvam como verdadeiros laboratórios de variadas abordagens acadêmicas; 77
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial • Aumentar o número de parcerias para estágios na faculdade e adequar os conteúdos ministrados em sala de aula às necessidades do mercado de trabalho atual; • Ampliar a política de divulgação do vestibular semestralmente, junto às comunidades carentes para garantir acesso ao ensino superior e inclusão social; • Ampliar o número de vagas oferecidas à iniciação científica via programa de monitoria do Centro Paula Souza; • Ampliar o diálogo no ambiente acadêmico por meio do exemplo dado por professores, coordenadores, diretores e funcionários, para que a prática diária se capilarize entre todos os membros da comunidade; • Provisionar verba ao longo do ano para executar as melhorias necessárias nos banheiros da unidade; • Negociar com o Centro Paula Souza o aumento do número de funcionários para a limpeza e segurança da unidade; • Reformar a copa, de modo que os funcionários possam usar com mais frequência para preparo e consumo de refeições; • Solicitar ao Centro Paula Souza o aumento da banda de internet na unidade; • Instituir um programa de manutenção preventiva das instalações prediais. • Promover sempre a satisfação da equipe com a manutenção das políticas de gestão de pessoal implementadas, com foco na participação democrática e respeito ao desenvolvimento pessoal e profissional de todos os integrantes; e • Aproveitar a infraestrutura disponível para implementar mais atividades online, por meio do ensino híbrido, para introduzir novos cursos na unidade.
+Os resultados apresentados contemplam as dez dimensões auto avaliativas do SINAES e foram analisados e discutidos por todos os membros da comunidade institucional: direção, coordenações de cursos, setores administrativos, gestores, professores e alunos.
+78
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial Os dados coletados, as análises e propostas foram amplamente divulgadas e serão objeto de comparação na próxima avaliação, para elucidar os avanços alcançados, reforçando o quanto a avaliação contribui para a gestão dos resultados.
+
+
+
+
+
+
+
+
+
+
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial
+
+ANEXO 1 - DISTRIBUIÇÃO DOS DADOS DA PESQUISA SETORES DADOS DOS DOCENTES DADOS DOS DISCENTES DADOS DO PESSOAL TECNICO- ADMINISTRATIVO DIREÇÃO GERAL Dimensão 8 – Planejamento e Avaliação Dimensão 1 - Missão e Plano de Desenvolvimento Institucional Dimensão 3 - Responsabilidade Social da Instituição Dimensão 4 – Comunicação com a Sociedade Dimensão 9 – Política de Atendimento aos Discentes Dimensão 5 – Políticas de Pessoal Dimensão 6 – Organização e Gestão Institucional Dimensão 7 – Infraestrutura Física
+Dimensão 8 – Planejamento e Avaliação Dimensão 1 - Missão e Plano de Desenvolvimento Institucional Dimensão 3 - Responsabilidade Social da Instituição Dimensão 4 – Comunicação com a Sociedade Dimensão 9 – Política de Atendimento aos Discentes Dimensão 6 – Organização e Gestão Institucional Dimensão 7 – Infraestrutura Física Dimensão 8 – Planejamento e Avaliação Dimensão 1 - Missão e Plano de Desenvolvimento Institucional Dimensão 3 - Responsabilidade Social da Instituição Dimensão 4 – Comunicação com a Sociedade
+DIRETORIA ADMINISTRATIVA Dimensão 4 – Comunicação com a Sociedade Dimensão 5 – Políticas de Pessoal Dimensão 7 – Infraestrutura Física
+Dimensão 4 – Comunicação com a Sociedade Dimensão 7 – Infraestrutura Física
+Dimensão 8 – Planejamento e Avaliação Dimensão 5 – Políticas de Pessoal Dimensão 6 – Organização e Gestão Institucional Dimensão 7 – Infraestrutura Física DIRETORIA ACADÊMICA Dimensão 4 – Comunicação com a Sociedade Dimensão 7 – Infraestrutura Física
+Dimensão 4 – Comunicação com a Sociedade
+Dimensão 4 – Comunicação com a Sociedade
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial
+
+COORDENAÇÃO DOS CURSOS Dimensão 8 – Planejamento e Avaliação Dimensão 1 - Missão e Plano de Desenvolvimento Institucional Dimensão 2 – Ensino, Pesquisa e Extensão Dimensão 4 – Comunicação com a Sociedade Dimensão 9 – Política de Atendimento aos Discentes Dimensão 6 – Organização e Gestão Institucional Dimensão 8 – Planejamento e Avaliação Dimensão 1 - Missão e Plano de Desenvolvimento Institucional Dimensão 2 – Ensino, Pesquisa e Extensão Dimensão 9 – Política de Atendimento aos Discentes Dimensão 6 – Organização e Gestão Institucional Dimensão 2 – Ensino, Pesquisa e Extensão
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial ANEXO 2 - Quadro 2 – Levantamento das fragilidades e potencialidades e projeção das ações corretivas
+
+EIXO 1: PLANEJAMENTO E AVALIAÇÃO INSTITUCIONAL
+FRAGILIDADES
+
+AÇÕES PLANEJADAS AÇÕES REALIZADAS
+PRAZOS 68% dos alunos não conhecem o PDI da FATEC Zona Sul. Publicação do PDI internamente e no site da FATEC Zona Sul, reuniões com os representantes de sala, Núcleos Docentes Estruturante dos Cursos (NDE) e Conselhos de Curso (CC) Todas as ações realizadas ao longo do ano de 2022. Atividade contínua ao longo do ano.
+POTENCIALIDADES
+
+
+AÇÕES PLANEJADAS AÇÕES REALIZADAS
+PRAZOS 70% dos alunos reconhecem que o planejamento institucional ajuda a promover melhorias na unidade de ensino Reuniões com os representantes de sala e inclusão da pauta em eventos internos como a Semana de Tecnologia realizada ao longo do ano letivo. Todas as ações realizadas ao longo do ano de 2022. Atividade contínua ao longo do ano. 60% dos alunos consideram que o WEBSAI é um bom instrumento de avaliação para melhoria contínua na FATEC Zona Sul Melhorar o percentual de coleta do WEBSAI por meio da ação de representantes de sala, coordenadores de curso, direção acadêmica e funcionários administrativos. Todas as ações realizadas ao longo do ano de 2022. Atividade contínua ao longo do ano. 99% dos alunos afirmam que possuem desempenho de regular a ótimo nas avaliações e que possuem conhecimento básico suficiente para acompanhar o curso de graduação. Manter os cursos de nivelamento, reforço e recuperação das disciplinas em que os alunos possuem maior dificuldade de aprendizagem ou deficiência advindas do Ensino Médio. Todas as ações realizadas ao longo do ano de 2022. Atividade contínua ao longo do ano. 89% dos alunos dizem que o tempo dedicado ao estudo é suficiente para terem bom desempenho nas disciplinas Melhorar o espaço de estudo na biblioteca e criar espaços dedicados ao estudo na faculdade na forma de ambientes de convivência acadêmica. Todas as ações realizadas ao longo do ano de 2022. Atividade contínua ao longo do ano. 86% dos discentes afirmam que a frequência às aulas é boa ou ótima. Incentivar a presença às aulas por meio de metodologias ativas e melhorias físicas no espaço universitário dedicado ao ensino-aprendizagem. Todas as ações realizadas ao longo do ano de 2022. Atividade contínua ao longo do ano. 78% dos alunos consideram que as atividades propostas em sala de aula são adequadas ao curso e mercado de trabalho. Capacitar professores nas metodologias ativas de ensino, melhorar os equipamentos utilizados em sala de aula e adequar as propostas de aula às necessidades do mercado de trabalho. Todas as ações realizadas ao longo do ano de 2022. Atividade contínua ao longo do ano. 97% dos alunos afirmam que a convivência acadêmica na FATEC Zona Sul é muito boa ou excelente. Promover o ambiente de diálogo, negociação e respeito à opinião diversa nos ambientes acadêmicos, como sala de Todas as ações realizadas ao longo do ano de 2022. Atividade contínua ao longo do ano.
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial aula, biblioteca, locais de atendimento aos alunos e nas relações hierárquicas do tipo botton up. Acima de 90% dos docentes consideram que o processo de ensino aprendizagem na unidade é muito bom ou excelente, contemplando aspectos relacionados à metodologia de ensino, atendimento aos alunos e resultados obtidos ao longo e final do semestre letivo. Estimular o livre pensamento e liberdade de opinião e flexibilidade de trabalho entre os docentes, de modo que possam aplicar em sala de aula uma maior variedade de metodologias de ensino em suas respectivas disciplinas e que as salas de aulas sirvam como verdadeiros laboratórios de variadas abordagens acadêmicas. Todas as ações realizadas ao longo do ano de 2022. Atividade contínua ao longo do ano. A totalidade dos funcionários conhece o PDI da FATEC Zona Sul. Continuar estimulando os funcionários a tomarem conhecimento dos documentos institucionais da FATEC Zona Sul por meio de reuniões ao longo do ano letivo e aplicação prática dos planejamentos operacional, tático e estratégico. Todas as ações realizadas ao longo do ano de 2022. Atividade contínua ao longo do ano. EIXO 2: DESENVOLVIMENTO INSTITUCIONAL
+FRAGILIDADES
+
+AÇÕES PLANEJADAS AÇÕES REALIZADAS PRAZOS 43% dos alunos desconhecem a missão do Centro Paula Souza Reuniões com os representantes de sala e inclusão da pauta em eventos internos como a Semana de Tecnologia realizada ao longo do ano letivo. Todas as ações realizadas ao longo do ano de 2022. Atividade contínua ao longo do ano.
+POTENCIALIDADES
+
+
+AÇÕES PLANEJADAS AÇÕES REALIZADAS PRAZOS 93% dos alunos afirmam que a FATEC Zona Sul forma profissionais bem qualificados para o mercado de trabalho. Aumentar o número de parcerias para estágios na faculdade e adequar os conteúdos ministrados em sala de aula às necessidades do mercado de trabalho atual. Todas as ações realizadas ao longo do ano de 2022. Atividade contínua ao longo do ano. 94% dos alunos acreditam que a FATEC Zona Sul dissemina Ciência, Tecnologia e Inovação. Promover eventos na unidade que disseminem Ciência, Tecnologia e Inovação. Todas as ações realizadas ao longo do ano de 2022. Atividade contínua ao longo do ano. 82% dos alunos afirmam que a FATEC Zona Sul difunde cultura e arte no processo de ensino aprendizagem. Promover eventos na unidade que valorizem a cultura e arte para formação integral de nossos alunos. Todas as ações realizadas ao longo do ano de 2022. Atividade contínua ao longo do ano. 91% dos alunos afirmam que a FATEC Zona Sul é um ambiente que difunde valores éticos e democráticos. Continuar a incentivar o diálogo, valores éticos e democráticos no cotidiano das relações acadêmicas e sociais que ocorrem na faculdade. Todas as ações realizadas ao longo do ano de 2022. Atividade contínua ao longo do ano.
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial 90% dos alunos acreditam que a FATEC Zona Sul promove inclusão social e desenvolvimento sustentável. Promover eventos na unidade e situações problema em sala de aula que valorizem a inclusão social e desenvolvimento sustentável. Todas as ações realizadas ao longo do ano de 2022. Atividade contínua ao longo do ano. Em média 90% dos docentes afirmam que a FATEC Zona Sul forma profissionais qualificados; é um polo de ciência, tecnologia e inovação, dissemina cultura, arte, valores éticos e democráticos, promove a inclusão social e desenvolvimento sustentável, além de praticar a missão da instituição. Promover eventos na unidade atrelados aos valores da difusão de ciência, tecnologia e inovação, cultura, arte, ética, democracia, inclusão social e desenvolvimento sustentável. Todas as ações realizadas ao longo do ano de 2022. Atividade contínua ao longo do ano. Todos os funcionários afirmam que a FATEC Zona Sul forma profissionais qualificados; é um polo de ciência, tecnologia e inovação, dissemina cultura, arte, valores éticos e democráticos, promove a inclusão social e desenvolvimento sustentável, além de praticar a missão da instituição. Manter a cultura de diálogo e informação entre os funcionários da unidade por meio da qualidade de vida no trabalho, conversas diárias e capacitações institucionais. Todas as ações realizadas ao longo do ano de 2022. Atividade contínua ao longo do ano. Todos os funcionários afirmam que a assiduidade, pontualidade, proatividade, iniciativa, dedicação, comprometimento, aperfeiçoamento, atitude colaborativa, trabalho em equipe, respeito hierárquico, melhoria contínua, comunicação e disposição para aprender são excelentes ou muito bons no ambiente de trabalho da FATEC Zona Sul. Manter a cultura de diálogo e informação entre os funcionários da unidade por meio da qualidade de vida no trabalho, conversas diárias e capacitações institucionais. Todas as ações realizadas ao longo do ano de 2022. Atividade contínua ao longo do ano. EIXO 3: POLÍTICAS ACADÊMICAS
+FRAGILIDADES
+
+AÇÕES PLANEJADAS AÇÕES REALIZADAS
+PRAZOS 37% dos alunos afirmam que as políticas de incentivo à pós- graduação são insuficientes na FATEC Zona Sul. Inserir a pauta nas disciplinas do último semestre dos cursos tecnológicos e promover a abertura de cursos de pós-graduação lato sensu na FATEC Zona Sul. Todas as ações realizadas ao longo do ano de 2022. Atividade contínua ao longo do ano.
+POTENCIALIDADES
+
+
+AÇÕES PLANEJADAS AÇÕES REALIZADAS
+PRAZOS 83% dos alunos afirmam que o projeto pedagógico do curso e matriz curricular são adequadas. Difundir os PPCs dos cursos via representação discente na FATEC Zona Sul, inserir a pauta nos eventos institucionais da unidade, além de professores apresentarem os planos de curso no começo de cada semestre. Todas as ações realizadas ao longo do ano de 2022. Atividade contínua ao longo do ano. 88% dos alunos afirmam que as atividades de ensino, pesquisa e extensão são boas na FATEC Zona Sul. Criar eventos para difundir as atividades de ensino, pesquisa e extensão são boas na FATEC Zona Sul. Todas as ações realizadas ao longo do ano de 2022. Atividade contínua ao longo do ano.
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial 92% do corpo docente é bom e dominam os conteúdos em sala de aula Motivar os professores à capacitação profissional e ao bom planejamento dos conteúdos e metodologias das aulas semanalmente. Todas as ações realizadas ao longo do ano de 2022. Atividade contínua ao longo do ano. 96% dos alunos estão satisfeito com o curso escolhido. Manter a política de divulgação do vestibular semestralmente, sobretudo junto à comunidades carentes para garantir acesso ao ensino superior e inclusão social. Todas as ações realizadas ao longo do ano de 2022. Atividade contínua ao longo do ano. 94% dos alunos afirmam que há uma clima de respeito à diversidade de opiniões. Manter e ampliar a política interna de diálogo, respeito e negociação ao lidarmos com conflitos na instrumentalização da rotina na faculdade. Todas as ações realizadas ao longo do ano de 2022. Atividade contínua ao longo do ano. 97% dos alunos afirmam que os professores apresentam o plano de ensino no começo do semestre. Motivar os professores à capacitação profissional e ao bom planejamento dos conteúdos e metodologias das aulas semanalmente. Todas as ações realizadas ao longo do ano de 2022. Atividade contínua ao longo do ano. Em média, 90% dos docentes afirmam que que o PPC dos cursos, matriz curricular, sistema de avaliação da aprendizagem, atividades de ensino/pesquisa/extensão são adequadas ao nível dos cursos. Manter os docentes informados a respeito das mudanças nos PPCs e garantir sua representatividade nos colegiados da FATEC Zona Sul. Todas as ações realizadas ao longo do ano de 2022. Atividade contínua ao longo do ano. 96% dos docentes afirmam que as práticas didático-pedagógicas são muito boas ou excelentes. Motivar os professores à capacitação profissional e ao bom planejamento dos conteúdos e metodologias das aulas semanalmente. Todas as ações realizadas ao longo do ano de 2022. Atividade contínua ao longo do ano. Em média, 95% dos funcionários consideram que as políticas de atendimento aos alunos é boa ou excelente na FATEC Zona Sul. Manter a cultura de diálogo e informação entre os funcionários da unidade por meio da qualidade de vida no trabalho, conversas diárias e capacitações institucionais. Todas as ações realizadas ao longo do ano de 2022. Atividade contínua ao longo do ano. EIXO 4: POLÍTICAS DE GESTÃO
+FRAGILIDADES
+
+AÇÕES PLANEJADAS AÇÕES REALIZADAS
+PRAZOS 38% dos alunos afirmam desconhecer a atuação dos colegiados na FATEC Zona Sul. Ampliar a comunicação com a comunidade acadêmica via e- mails, redes sociais e participação da representação discente nos colegiados da FATEC Zona Sul. Todas as ações realizadas ao longo do ano de 2022. Atividade contínua ao longo do ano. 39% dos alunos acham o programa de estágio insuficiente ou desconhecem o programa na FATEC Zona Sul Aumentar o número de parcerias institucionais com empresas que possam oferecer estágios. Todas as ações realizadas ao longo do ano de 2022. Atividade contínua ao longo do ano. 39% dos alunos acredita que o programa de iniciação científica é insuficiente na FATEC Zona Sul Ampliar o número de vagas oferecidas à iniciação científica via programa de monitoria do Centro Paula Souza. Todas as ações realizadas ao longo do ano de 2022. Atividade contínua ao longo do ano.
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial
+POTENCIALIDADES
+
+
+AÇÕES PLANEJADAS AÇÕES REALIZADAS
+PRAZOS 83% dos alunos afirmam que a resolução de conflitos é realizada a base da negociação e diálogo. Manter e ampliar o diálogo no ambiente universitário através do exemplo dado por professores, coordenadores, diretores e funcionários da FATEC Zona Sul, dando exemplo de ação aos nossos alunos. A prática diária se capilariza entre todos os membros da comunidade acadêmica. Todas as ações realizadas ao longo do ano de 2022. Atividade contínua ao longo do ano. 84% dos alunos afirmam que há estímulo e apoio no desenvolvimento de situações problema. Manter e ampliar o diálogo no ambiente universitário através do exemplo dado por professores, coordenadores, diretores e funcionários da FATEC Zona Sul, dando exemplo de ação aos nossos alunos. A prática diária se capilariza entre todos os membros da comunidade acadêmica. Todas as ações realizadas ao longo do ano de 2022. Atividade contínua ao longo do ano. 80% dos alunos reconhecem que a equipe de direção é uma liderança capaz de coordenar e levar adiante as ações prioritárias da FATEC Zona Sul Manter e ampliar o diálogo no ambiente universitário através do exemplo dado por professores, coordenadores, diretores e funcionários da FATEC Zona Sul, dando exemplo de ação aos nossos alunos. A prática diária se capilariza entre todos os membros da comunidade acadêmica. Todas as ações realizadas ao longo do ano de 2022. Atividade contínua ao longo do ano. 82% dos alunos afirmam que há estímulo adequado para frequência ao ambiente universitário. Manter e ampliar o diálogo no ambiente universitário através do exemplo dado por professores, coordenadores, diretores e funcionários da FATEC Zona Sul, dando exemplo de ação aos nossos alunos. A prática diária se capilariza entre todos os membros da comunidade acadêmica. Todas as ações realizadas ao longo do ano de 2022. Atividade contínua ao longo do ano. 97% dos docentes afirmam que o corpo técnico-administrativo é excelente ou muito bom. Ampliar a capacitação profissional dos funcionários, garantindo um bom ambiente de trabalho que valorize o diálogo e negociação para solução de conflitos. Além disso, todos nossos funcionários possuem nível superior. Todas as ações realizadas ao longo do ano de 2022. Atividade contínua ao longo do ano. 96% dos docentes afirmam que a Direção atua de maneira excelente ou muito boa na resolução de conflitos na FATEC Zona Sul, 2% de forma regular e 2% não soube responder. Manter o diálogo com todos os membros da comunidade acadêmica sem grupos preferenciais ou favorecimento, dar preferência ao diálogo e negociação para mediação de conflitos e evitar embates desnecessários, garantindo bom ambiente de trabalho e qualidade de vida para todos os membros da comunidade acadêmica. Além disso, manter a atualização profissional em gestão de pessoas de modo que o clima organizacional seja bom para todos. Todas as ações realizadas ao longo do ano de 2022. Atividade contínua ao longo do ano. 96% dos docentes afirmam que a atuação dos colegiados na FATEC Zona Sul é boa. Manter a rotina de reuniões ordinárias e extraordinárias de todos os colegiados da faculdade. Todas as ações realizadas ao longo do ano de 2022. Atividade contínua ao longo do ano. Todos os funcionários consideram que a gestão da FATEC Zona Sul é muito boa ou excelente. Manter a cultura de diálogo e informação entre os funcionários da unidade por meio da qualidade de vida no trabalho, conversas diárias e capacitações institucionais. Todas as ações realizadas ao longo do ano de 2022. Atividade contínua ao longo do ano.
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial EIXO 5: INFRAESTRUTURA
+FRAGILIDADES
+
+AÇÕES PLANEJADAS AÇÕES REALIZADAS
+PRAZOS Mobiliário e computadores mais antigos nos laboratórios. Solicitar ao Centro Paula Souza novo mobiliário e computadores para fazer a substituição dos antigos. A ser executada durante o ano de 2023. Atividade contínua ao longo do ano. Mesas e cadeiras em sala de aula ocupam muito espaço. Solicitar ao Centro Paula Souza carteiras universitárias, que ocupam menos espaço para substituir as mesas e cadeiras atuais. A ser executada durante o ano de 2023. Atividade contínua ao longo do ano. Ventiladores nas salas de aula e áreas administrativas muito velhos e barulhentos. Solicitar ao Centro Paula Souza novos ventiladores para substituir os antigos. A ser executada durante o ano de 2023. Atividade contínua ao longo do ano. Banheiros necessitam de reforma. Provisionar verba ao longo do ano para executar as melhorias necessárias. A ser executada durante o ano de 2023. Atividade contínua ao longo do ano. Poucos funcionários na limpeza e segurança. Negociar com o Centro Paula Souza o aumento do número de funcionários. A ser executada durante o ano de 2023. Atividade contínua ao longo do ano. 25% dos funcionários afirmam que as condições da cantina é regular. Reformar a Copa da FATEC Zona Sul de modo que os funcionários possam usar com mais frequência para preparo e consumo de refeições. A ser executada durante o ano de 2023. Atividade contínua ao longo do ano. 20% dos funcionários afirma que a regularidade do sinal de internet não é suficiente para execução plena das atividades administrativas. Solicitar ao Centro Paula Souza o aumento da banda de internet da FATEC Zona Sul. A ser executada durante o ano de 2023. Atividade contínua ao longo do ano.
+POTENCIALIDADES
+
+
+AÇÕES PLANEJADAS AÇÕES REALIZADAS
+PRAZOS 86% dos alunos afirmam que a infraestrutura da Secretaria Acadêmica é boa. Pintar o ambiente, trocar os móveis e refazer os circuitos elétricos da Secretaria Acadêmica para melhorar as condições de trabalho ofertadas à comunidade acadêmica da FATEC Zona Sul. Todas as ações realizadas ao longo do ano de 2022. Atividade contínua ao longo do ano. 88% dos alunos afirmam que o espaço de convivência na FATEC Zona Sul é bom. Melhorar o ambiente de convivência do hall de entrada da faculdade com sofás novos, nova área de estudo na parte superior do hall do elevador, melhorar as instalações da biblioteca, distribuir sofás de pallets no bloco de salas de Todas as ações realizadas ao longo do ano de 2022. Atividade contínua ao longo do ano.
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial aulas, de modo que os alunos tenham mais espaços para convivência. 77% dos alunos afirmam que o serviço de segurança é bom. Adquirir catracas eletrônicas para controle de acesso dos alunos. A ser executada durante o ano de 2023. Atividade contínua ao longo do ano. 91% dos alunos afirmam que o serviço de limpeza e conservação são bons. Negociar o aumento do número de funcionários no serviço de limpeza da faculdade e instituir um programa interno de manutenção preventiva das instalações prediais. Todas as ações realizadas ao longo do ano de 2022. Atividade contínua ao longo do ano. 82% dos alunos afirmam que os mobiliários e equipamentos de uso são bons. Solicitar novos equipamentos e mobiliário para uso em sala de aula, áreas de convivência e laboratórios. Todas as ações realizadas ao longo do ano de 2022. Atividade contínua ao longo do ano. Aproximadamente 95% dos docentes afirmam que as condições gerais de infraestrutura são boas. Instituir um programa interno de manutenção preventiva das instalações prediais. Todas as ações realizadas ao longo do ano de 2022. Atividade contínua ao longo do ano. Em média, 95% dos funcionários consideram as condições de infraestrutura muito boa ou excelente. Instituir um programa interno de manutenção preventiva das instalações prediais. Todas as ações realizadas ao longo do ano de 2022. Atividade contínua ao longo do ano.
+
+
+
+
+
+
+
+
+
+
+

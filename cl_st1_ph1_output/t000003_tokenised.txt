@@ -1,0 +1,2412 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Santos 2022 FATEC BAIXADA SANTISTA Rubens Lara RELATÓRIO DE AUTOAVALIAÇÃO INSTITUCIONAL (VERSÃO INTEGRAL)
+Direção / Coordenação de Cursos
+
+
+
+Diretor da Fatec Prof. Dr. Jorge Monteiro Junior Coordenador do Curso de Graduação Tecnológica em Logística Prof. Ms. Ruy Cordeiro Accioly Coordenador do Curso de Graduação Tecnológica em Gestão Portuária Prof. Ms. Thames Richard Silva Coordenador do Curso de Graduação Tecnológica em Gestão Empresarial Prof. Ms. Henrique Cesar Nanni Coordenador do Curso de Graduação Tecnológica em Análise e desenvolvimento de Sistemas Prof. Ms. Valdir Pedro Tobias Coordenador do Curso de Graduação Tecnológica em Sistemas para Internet Profª. Ms. Rosana Cammarosano Coordenador do Curso de Graduação Tecnológica em Ciência de Dados Prof. Dr. Gerson Prando Coordenador do Curso de Graduação Tecnológica em Recursos Humanos Prof. Ms. Ramon Eduardo Lopez de Torres Presidente da CPA Prof. Dr. Roberto Correia de Melo
+
+SUMÁRIO
+
+
+I Identificação da FATEC: ..................................................................................................... II Ato regulatório .................................................................................................................... III Composição da Comissão Própria de Avaliação (CPA) ................................................. 1 INTRODUÇÃO .................................................................................................................... Histórico da Fatec Baixada Santista Rubens Lara .................................................................................. 2 METODOLOGIA .................................................................................................................. 2.1 Cronograma das atividades da CPA ................................................................................................. 2.2 Sensibilização .................................................................................................................................. 2.2.1 Participação da Comunidade Acadêmica..... ................................................................................... 2.3 Sujeitos da Avaliação.................................................................................................................. 2.4 Instrumentos de Coleta ................................................................................................................... 2.5 Procedimentos para a coleta........................................................................................................... 2.6 Análise e Discussão dos dados da coleta......................................................................................... 2.7 Elaboração do Quadro Comparativo para análise dos resultados das avaliações parciais de 2021 e 2022 e análise global 2.8 Organização das medidas para composição do relatório ............................................................... 2.9 Devolutiva dos Resultados para os Segmentos ............................................................................... 3 DESENVOLVIMENTO ......................................................................................................... 3.1 Eixo 1: Planejamento e Avaliação Institucional .............................................................................. 3.2 Eixo 2: Desenvolvimento Institucional ............................................................................................ 3.3 Eixo 3: Políticas Acadêmicas ............................................................................................................ 3.4 Eixo 4: Políticas de Gestão ............................................................................................................... 3.5 Eixo 5: Infraestrutura Física ............................................................................................................. 4 QUADRO PARA A ANÁLISE COMPARATIVA DOS RELATÓRIOS PARCIAIS 2020/2021 E ANÁLISE GLOBAL EIXO 1: PLANEJAMENTO E AVALIAÇÃO INSTITUCIONAL ....................................................................... EIXO 2: DESENVOLVIMENTO INSTITUCIONAL ....................................................................................... EIXO 3: POLÍTICAS ACADÊMICAS ........................................................................................................... EIXO 4: POLÍTICAS DE GESTÃO.............................................................................................................. EIXO 5: INFRAESTRUTURA.................................................................................................................... 5 ANÁLISE DOS DADOS E AÇÕES PROPOSTAS DE 2022 ................................................ EIXO 1: PLANEJAMENTO E AVALIAÇÃO INSTITUCIONAL ....................................................................... EIXO 2: DESENVOLVIMENTO INSTITUCIONAL ....................................................................................... FRAGILIDADES ....................................................................................................................................... AÇÕES PLANEJADAS .............................................................................................................................. AÇÕES REALIZADAS ............................................................................................................................... PRAZOS .................................................................................................................................................. EIXO 3: POLÍTICAS ACADÊMICAS ........................................................................................................... EIXO 4: POLÍTICAS DE GESTÃO .............................................................................................................. EIXO 5: INFRAESTRUTURA ..................................................................................................................... 6 CONSIDERAÇÕES FINAIS ................................................................................................. Anexo 1: Quadro 1 - DISTRIBUIÇÃO DOS DADOS DA PESQUISA......................................................
+
+
+
+
+I Identificação da FATEC:
+
+
+
+
+
+
+
+
+
+II Atos Regulatórios II Ato regulatório Ato Regulatório: Prazo de validade: Tipo de documento: Decreto No. Documento: 26.150 Data do Documento: 31/10/1986 Data de Publicação: 01/11/1986
+
+
+
+FATEC: Fatec Baixada Santista Rubens Lara CÓDIGO DO CPS: 005 CÓDIGO E-MEC: 36 Representante Legal da IES: Diretor (a): Prof. Dr. Jorge Monteiro Junior Endereço Completo: Av. Senador Feijó, 350 Bairro: Vila Mathias Município: Santos Telefone: (13) 3227-6003 E-mail: f005dir@cps.sp.gov.br
+III Composição da Comissão Própria de Avaliação (CPA)
+A Comissão Própria de Avaliação da FATEC BAIXADA SANTISTA RUBENS LARA foi instituída pela Portaria nº 41, de 05 de AGOSTO de 2019. Com mandato até 05/08/2022. Possuindo a seguinte composição:
+NOME SEGMENTO REPRESENTATIVO Prof. Ms. Ricardo Reiff Guedes Pinto Docente Prof. Ms. Ruy Cordeiro Accioly Docente Prof. Ms. Anésio Fernandes Freire Docente Prof .Dr. Gerson Prando Docente Yuri da Silva Guimarães Discente Alberto Saraiva Junior Técnico Administrativo Nilton Silva Saraiva Técnico Administrativo Raquel de Souza Felix da Silva Técnico Administrativo Guilherme Gargantini Sociedade Civil Prof. Dr. Roberto Correia de Melo Docente
+1 INTRODUÇÃO
+
+A Fatec Baixada Santista – Rubens Lara, possui a crença na avaliação como instrumento de gestão. Por meio da avaliação temos condições de reunir indicadores capazes de suscitar análises e discussões possibilitando definir planos de melhorias de forma continuada.
+Sabe-se que a Lei 10.861/2014, que define o Sistema Nacional de Avaliação da Educação Superior (SINAES), estabelece, em seu Artigo 3º, que a avaliação institucional tem por objetivo identificar o perfil da IES e o significado de sua atuação, por meio de suas atividades, cursos, programas, projetos e setores, considerando as diferentes dimensões institucionais, consolidadas em cinco eixos, sempre objetivando evidenciar os referenciais mínimos de qualidade exigidos pela excelência de ensino que é um dos pilares da pratica de todas as faculdades de tecnologias do Estado de São Paulo vinculadas ao Centro Paula Souza. Por meio do desenvolvimento do presente relatório, em sua versão integral, serão apresentados os dados referentes aos eixos, dimensões e indicadores em consonância com o Plano de Desenvolvimento Institucional (PDI) da Fatec e em consonância com as diretrizes emanadas do Centro Paula Souza. Em cumprimento a Nota Técnica INEP/MEC n° 65 apresenta-se um quadro analítico com as ações previstas no relatório de 2021 e 2022 evidenciando uma análise global dos 5 eixos para explicitar as contribuições da autoavaliação para o planejamento e desenvolvimento institucional.
+Histórico da Fatec Baixada Santista Rubens Lara O Deputado Rubens Lara intermediou, junto ao governo de estado, a vinda da Faculdade de Tecnologia para a Baixada Santista por quase dez anos. Por meio do Decreto número 26.150, de 31 de outubro de 1986, do governador Franco Montoro, a Faculdade de Tecnologia da Baixada Santista foi criada, constituindo Unidade de Ensino do Centro Estadual de Educação Tecnológica Paula Souza. O Provedor da Santa Casa de Misericórdia de Santos, Antônio Manoel de Carvalho, cedeu, em comodato, ao Centro Paula Souza, o prédio do antigo internato da Escola Estadual de Primeiro e Segundo Grau Dona Escolástica Rosa, desativado
+há anos, situado na Avenida Bartolomeu de Gusmão 110, Aparecida, Santos São Paulo, pelo período de cinco anos, para, a partir de abril de 1987, instalar a Faculdade de Tecnologia da Baixada Santista, primeira faculdade pública de Santos. O primeiro Curso Superior de Tecnologia a ser implantado foi o de Processamento de Dados com duas turmas de 40 alunos, funcionando no período da manhã e da noite com um currículo de 30% básico, 10% humanístico e 60% profissionalizante, estruturado com base no da FATEC da capital, criado em 1977. O Tecnólogo em Processamento de Dados estaria habilitado a trabalhar como programador em linguagem comercial e cientifica (Cobol e Fortran); em operação e manutenção de sistemas de computadores; como programador de software e como analista, pesquisando a otimização de sistemas; conhecendo estrutura de dados e pesquisa a arquivos, estando habilitado a criar um banco de dados e a integrar equipes de implantação de sistemas de informações. A Faculdade foi instalada em local com 5.522,01 m2, tendo uma área construída de 115,28 m2 e outra de 996,99 m2, anexa à Escola Estadual de Primeiro e Segundo Grau Dona Escolástica Rosa, mas as instalações foram reformadas a fim de satisfazer as necessidades da época. Em 27/07/1987, o professor Dr. Cesar Basta, da Câmara de Graduação da Faculdade de Engenharia do Campus de Guaratinguetá, por meio do Parecer número 41/87-CCG, aprovou a implantação do Curso Superior de Tecnologia de Processamento de Dados, junto à Faculdade de Tecnologia da Baixada Santista. Por meio da Resolução UNESP nº 73 de 06 de novembro de 1987, o Reitor da Universidade Estadual Paulista Júlio de Mesquita Filho, Jorge Nagle, criou o Curso Superior de Tecnologia em Processamento de Dados junto à Faculdade de Tecnologia da Baixada Santista, do Centro Estadual de Educação Tecnológica Paula Souza.
+O Curso Superior de Tecnologia em Processamento de Dados foi reconhecido através da Portaria 354, de 9 de março de 1994, M.E.D. (Ministério da Educação e do Desporto). Até agosto de 2002, por falta de espaço físico, a Unidade oferecia apenas o curso superior de Tecnologia em Processamento de Dados. Com a construção de um novo prédio, na área da quadra poliesportiva da ETEC Aristóteles Ferreira, no segundo semestre de 2002 a Instituição passou a oferecer o curso superior de Tecnologia em Informática com Ênfase em Gestão de Negócios com 40 vagas semestrais, à tarde e o curso superior de Tecnologia em Logística com Ênfase em Transportes com 80 vagas semestrais, sendo 40 à tarde e 40 à noite. Em 2002, o curso de Tecnologia em Informática com Ênfase em Gestão de Negócios também foi oferecido na Extensão de Campus Praia Grande com suas instalações na Praça 19 de janeiro, 144, Boqueirão. A partir do segundo semestre de 2007 os referidos cursos, implantados em 2002, tiveram suas matrizes curriculares reestruturadas e passaram a ser denominados: Curso Superior de Tecnologia em Logística em Transportes e Curso Superior de Tecnologia em Informática para a Gestão de Negócios. A partir do primeiro semestre de 2009, o curso superior de Tecnologia em Processamento de Dados, por meio da Portaria CEE/GP nº 449, de 29/12/2009 foi reestruturado e passou a denominar-se curso superior de Tecnologia em Análise e Desenvolvimento de Sistemas. A implantação do curso superior de Tecnologia em Gestão Empresarial (Processos Gerenciais) começou no segundo semestre de 2010. No mesmo semestre, o Curso de Informática para a Gestão de Negócios foi reestruturado com um novo nome: Curso Superior de Tecnologia em Sistemas para a Internet.
+O curso Superior de Tecnologia em Logística e Transportes também teve sua Matriz Curricular reestruturada, a partir do primeiro semestre de 2010 e passou a denominar-se Curso Superior de Tecnologia em Logística. No primeiro semestre de 2013, o Curso de Tecnologia em Gestão Portuária surgiu no período matutino e no segundo semestre no período vespertino. No primeiro semestre de 2018 o curso que era ofertado no período vespertino passou para o noturno, semestralmente é ofertado 80 vagas de gestão portuária. O curso atende o setor de serviços portuário, comércio exterior e logística. Os cursos superiores de Tecnologia em: Análise e Desenvolvimento de Sistemas, Logística, Sistemas para a Internet, Gestão Empresarial e Gestão Portuária, oferecidos pela Faculdade de Tecnologia da Baixada Santista Rubens Lara são concebidos, desenvolvidos e ministrados com o objetivo de atender segmentos atuais e emergentes do mercado de trabalho. Os currículos são flexíveis, compostos por disciplinas de formação básica, tecnológica e específica, de acordo com a área de atuação do profissional a ser formado, com carga horária de 2800 horas. No ano de 2021, foram autorizados e implantados os cursos de Gestão de Recursos Humanos e Ciência de Dados. O tecnólogo formado em Gestão de Recursos Humanos planeja e gerencia sistemas de gestão de pessoais, sendo esses o recrutamento e seleção, cargos e salários, treinamento e desenvolvimento, rotinas de pessoal e benefícios. Desenvolvimento de planos de carreira. Promove o desenvolvimento do comportamento individual, de grupo e organizacional. Planeja programas de qualidade de vida no trabalho. Específica e gerência sistemas de avaliação de desempenho dos colaboradores da organização. Avalia a necessidade de contratação de novos colaboradores. Avalia e emite parecer técnico em sua área de formação.
+Também foi autorizado e implantado o curso de Ciência de Dados. O tecnólogo formado nesse curso desenvolve soluções para problemas complexos através de coleta de dados e análises estatísticas, cria algoritmos para auxiliar em tomadas de decisões estratégicas e soluciona problemas de negócios, utilizando técnicas modernas de machine learning, estatística
+aplicadas às análises preditivas, descritivas e prescritivas de dados para promover o aumento da competitividade das organizações.
+Curso Autorização Reconhecimento/ RENOVAÇÃO DATA CONCEITO referente à última visita ENADE Análise e Desenvolvimento de Sistemas CEE n° 469/2009 CEE/GP Nº 416 29/11/21 5 anos 3 Gestão Empresarial CEE 86/2009 CEE/GP Nº 211 12/03/20 4 anos 3 Gestão Portuária CEE 86/2009 CEE/GP Nº 65 05/03/18 5 anos - Logística CEE n° 141/2010 CEE/GP Nº 218 10/05/17 Enade 4 Sistemas para Internet CD-147/2012 CEE/GP Nº 397 01/11/20 4 anos - Gestão de Recursos Humanos CEETEPS-PRC-2021/0319
+
+
+
+Ciência de Dados CEETEPS-PRC-2021/0321
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TOTAL DE ALUNOS MATRICULADOS NA UNIDADE
+NÚMERO DE ALUNOS CURSOS Análise e Desenvolvimento de Sistemas 478 Gestão Empresarial 194 Gestão Portuária 388 Logística 426 Sistemas para Internet 238 Gestão de Recursos Humanos 141 Ciência de Dados 119
+
+
+CURSO Análise e Desenvolvimento de Sistemas TITULAÇÃO DOCENTE %
+Doutores 30
+Mestres 50
+Especialistas 20
+
+CURSO Ciência de Dados TITULAÇÃO DOCENTE %
+Doutores 40
+Mestres 60
+Especialistas 00
+
+
+CURSO- Logística TITULAÇÃO DOCENTE %
+Doutores 40
+Mestres 53
+Especialistas 07
+CURSO– Gestão Portuária TITULAÇÃO DOCENTE %
+Doutores 55
+Mestres 42
+Especialistas 03
+CURSO – Gestão Empresarial TITULAÇÃO DOCENTE %
+Doutores 41
+Mestres 59
+Especialistas 00
+CURSO – Sistemas para internet TITULAÇÃO DOCENTE %
+Doutores 30
+Mestres 60
+Especialistas 10
+CURSO – Gestão de Recursos Humanos TITULAÇÃO DOCENTE %
+Doutores 17
+Mestres 66
+Especialistas 17
+
+O relatório da CPA da FATEC Baixada Santista Rubens Lara está organizado em 5 tópicos sendo que o primeiro traz um breve histórico sobre a IES, seguido pela metodologia aplicada na avaliação. O terceiro tópico aborda o desenvolvimento da análise dos eixos e suas respectivas dimensões. Na quarta etapa são levantados os dados tratados em um software de Business intelligence mais relevantes para melhorias e identificar oportunidades para toda a comunidade acadêmica e por fim as considerações finais do processo de avaliação.
+2 METODOLOGIA
+Para contribuir com a organização da Comissão Própria de Avaliação de cada Fatec, o Centro Paula Souza, por meio da Área de Avaliação Institucional (AAI) e da Unidade de Ensino Superior de Graduação (CESU), organizaram a comissão da CPA Central.
+Assumindo como centro organizativo as atribuições que lhe competem, a saber: I – Contribuir com o planejamento, orientação e monitoramento dos procedimentos da autoavaliação Institucional das FATECs; II – Utilizar os indicadores coletados nas unidades como instrumento de gestão, oferecendo subsídios para cada uma das áreas da administração central tomar as medidas corretivas; III – Elaborar o Relatório Global da Autoavaliação para os processos de recredenciamento institucional. IV – Elaborar o cronograma da autoavaliação para as Fatecs, considerando o prazo de 31 de março de cada ano para o protocolo dos relatórios da autoavaliação no sistema e-mec do Ministério da Educação. V – Avaliar, indicar possíveis ajustes e autorizar o protocolo dos relatórios das CPAs das FATECs no sistema e-mec. VI – Reunir-se ordinariamente duas vezes no semestre ou de forma extraordinária quando necessário.
+Por meio da CPA Central cada Fatec recebe todo o suporte necessário para cumprir o que lhe compete conforme segue: 1. contribuir com o planejamento, elaboração, coordenação e monitoramento dos processos de avaliação interna, apresentando o projeto de autoavaliação Institucional que norteará todos os procedimentos de autoavaliação para a CPA Central em consonância com a equipe de Supervisão Regional das FATECs.
+2. apoiar os processos internos de avaliação; 3. sistematizar e prestar informações relativas às políticas de autoavaliação institucional, solicitadas pelos Sistemas Federal e Estadual de Avaliação da Educação Superior, além de atender à demanda interna da Supervisão Regional e da CPA Central do Centro Paula Souza; 4. constituir subcomissões de avaliação; 5. constituir grupos temáticos ou focais voltados para a avaliação de cada uma das dez dimensões estabelecidas no artigo anterior; 6. elaborar e analisar relatórios e pareceres, encaminhando-os a CPA Central; 7. desenvolver estudos e análises, colaborando com os órgãos próprios ou terceirizados do Centro Paula Souza, visando ao fornecimento de subsídios para afixação, o aperfeiçoamento e a modificação da política de avaliação institucional; 8. acompanhar, analisar e correlacionar os resultados da auto avaliação com os resultados dos alunos do Centro Paula Souza no ENADE, bem como em outros processos de avaliação; 9. aprovar seu próprio regulamento.
+Os relatórios parciais e/ou integrais da autoavaliação deverão ser elaborados com periodicidade anual, encaminhados para a CPA Central até o dia 30 de novembro de cada ano e protocolados até 31 de março de cada ano, ficando disponíveis para serem apreciados pela comissão de especialistas designada pelo Conselho Estadual de Educação para a visita à Instituição em seu processo de recredenciamento, conforme dispõe a Deliberação do CEE 160/2018.
+2.1 Cronograma das atividades da CPA A partir desta estrutura a CPA da Fatec Baixada Santista para cumprir o que lhe compete, durante o ano de 2022 elaborou o seguinte cronograma de trabalho
+
+
+
+
+AÇÕES MESES JAN 23 FEV 23 MAR 23 ABR 22 MAI 22 JUN 22 JUL 22 AGO 22 SET 22 OUT 22 NOV 22 DEZ 22 Reuniões online com a Direção, coordenações de Cursos para sistematização as ações e composições de grupos de trabalho.
+
+
+
+
+
+
+x x
+
+
+Encontros online da equipe CPA para organizar e desenvolver estratégias de maneira integrada a partir da percepção dos diferentes segmentos que compõem a comissão.
+
+
+
+
+
+
+x x
+
+
+Sensibilização para participação nos procedimentos e coleta: Encontros online com representantes de turmas, lives, webinar,informativos, site, entre outros, para alimentar a cultura avaliativa da Fatec.
+
+
+
+x x x x x x
+
+Organização dos procedimentos de coleta de dados: elaboração das ações voltadas para estimular e monitorar a participação de toda a comunidade no preenchimento do formulário de coleta.
+
+
+
+
+
+
+
+
+
+x
+Análise dos resultados – acolhimento dos dados da coleta e início dos procedimentos de análise.
+
+
+
+
+
+
+
+
+
+x
+Encaminhamento dos dados coletados para cada área competente: cada área recebe os dados faz a análise e apresenta a justificativa e o Plano de Melhorias da área - ações planejadas a partir dos resultados e encaminha para a CPA
+
+
+
+
+
+
+
+
+
+
+x Elaboração do relatório a partir da devolutiva das áreas. x x
+
+
+
+
+
+
+
+
+
+Envio do Relatório para a apreciação da CPA Central
+
+x
+
+
+
+
+
+
+
+
+Divulgação dos resultados à comunidade acadêmica.
+
+x
+
+
+
+
+
+
+
+
+Conclusão do Relatório.
+
+x
+
+
+
+
+
+
+
+
+Protocolo no Sistema e-mec
+
+x
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2.2 Sensibilização Para a efetivação do cronograma destacam-se algumas das ações para a realização dos procedimentos de autoavaliação. Segundo o SINAES, a autoavaliação possui como uma de suas etapas a sensibilização da comunidade acadêmica e da sociedade civil organizada em relação à importância da participação da mesma no processo avaliativo. As ações de sensibilização buscam o envolvimento da comunidade acadêmica na construção da proposta avaliativa por meio da realização de reuniões, palestras, seminários, entre outros. Nesse sentido, a CPA faz uso dos canais de comunicação disponíveis na FATEC Baixada Santista Rubens Lara, e de encontros com diferentes segmentos, para esclarecimentos de seus trabalhos, estimulando a participação crescente de indivíduos envolvidos no processo. Cabe ressaltar que as atividades de sensibilização estão presentes tanto nos momentos iniciais quanto na continuidade das ações avaliativas, pois sempre haverá sujeitos novos iniciando sua participação no processo: sejam alunos, sejam membros do corpo docente ou técnico administrativo. Na FATEC Baixada Santista Rubens Lara, as atividades de sensibilização são realizadas sobretudo uma semana antes da aplicação dos questionários, tendo em vista a conscientização da comunidade interna a respeito do ato de avaliar, sendo, por isso, uma das etapas mais importantes do ciclo auto avaliativo gerenciado pela CPA. São objetivos das atividades de sensibilização: ✓ Orientar a comunidade acadêmica acerca da necessidade e relevância da avaliação institucional; ✓ Despertar o interesse da comunidade acadêmica para conseguir a adesão de todos a participarem efetivamente da avaliação institucional; ✓ Informar a comunidade acadêmica sobre a importância da avaliação no cotidiano acadêmico, as dimensões a serem avaliadas e como ocorre o processo de avaliação;
+✓ Chamar a atenção dos segmentos em um período específico da importância de se realizar a autoavaliação com consciência; ✓ Envolver a comunidade acadêmica no processo de avaliação de modo que a mesma seja a mais ampla e participativa possível.
+2.2.1 Participação da Comunidade Acadêmica
+A participação dos diversos segmentos acadêmicos (professores, alunos e funcionários) possibilita o encorajamento de discussões sobre os problemas e a apresentação de soluções criativas para os mesmos; por isso, na FATEC Baixada Santista Rubens Lara, todos os segmentos e representantes da comunidade acadêmica e da sociedade civil são convidados a participar das diversas etapas do processo de autoavaliação institucional. Para tanto a CPA propõe as seguintes estratégias objetivando a sensibilização da comunidade acadêmica: ✓ Reuniões online com os representantes de classe que, por sua vez, deverão transmitir informações pontuais aos demais colegas de sala sobre o processo de autoavaliação; ✓ Reuniões online com o corpo discente, corpo docente e corpo técnico-administrativo sobre a importância da autoavaliação de desempenho e institucional; ✓ Palestras online à comunidade acadêmica buscando elucidar pontos nucleares sobre o papel da CPA na FATEC Baixada Santista Rubens Lara, a importância da autoavaliação no cotidiano acadêmico e os eixos a serem avaliados; ✓ Elaboração e distribuição de material de divulgação do processo de autoavaliação nas redes sociais e site da IES, ✓ E-mail enviados para todos envolvidos.
+Painel de Sensibilização da CPA 2022
+
+
+2.3 Sujeitos da avaliação SEGMENTO REPRESENTATIVO QUANTIDADE Corpo Docente 89 participantes Corpo Administrativo 30 participantes Corpo Discente 1102 alunos Sociedade Civil Nenhum participante
+
+2.4 Instrumentos de Coleta Desde 1997 o Centro Paula Souza, evidenciando o seu pioneirismo em buscar indicadores para gerar melhoria de seus serviços criou o Sistema de Avaliação Institucional (SAI), implantado em 1999 em todas as Escolas de Ensino Técnico no nível médio (Etecs) e, em 2000, nas Fatecs, seguindo os mais rigorosos critérios estatísticos. Sendo os instrumentos elaborados e preenchidos em formulários impressos de 1999 a 2012. A partir de 2010, os questionários deixaram de ser preenchidos em formulário de papel e passaram a ser totalmente on- line, trazendo mais agilidade ao processo de avaliação. Desde então, todos os participantes realizam a pesquisa pela internet e o SAI passou a ser chamado de WebSAI.
+Para que as Fatecs tivessem apenas um instrumento que pudesse contemplar as 10 dimensões dentro dos 5 eixos avaliativos, a partir da criação da comissão da CPA Central a AAI em parceria com a CESU, por meio de uma equipe qualificada, reorganizou a elaboração dos Instrumentos adequando-os em torno dos 5 eixos avaliativos. O instrumento utilizado foi o questionário da Websai que segue a seguinte estrutura: CORPO DISCENTE:
+54% 46% Discentes - Sexo Sexo Masculino Feminino
+
+Sexo Análise e Desenvolvimento de Sistemas Ciência de Dados Gestão de Recursos Humanos Gestão Empresarial Gestão Portuária Logística Sistemas Para Internet Masculino 192 49 16 48 90 93 103 Feminino 71 29 71 78 92 113 57 0 50 100 150 200 250 Sexo Discentes - Sexo
+
+Menos de 20 Anos Entre 20 a 29 Anos Entre 30 a 39 Anos Entre 40 a 49 Anos Entre 50 a 59 Anos 60 ou mais Série1 268 625 131 55 22 1 0 100 200 300 400 500 600 700 Faixa etária Discentes - Faixa etária
+Faixa etária Análise e Desenvolvimento de Sistemas Ciência de Dados Gestão de Recursos Humanos Gestão Empresarial Gestão Portuária Logística Sistemas Para Internet Menos de 20 Anos 80 27 25 29 33 32 42 Entre 20 a 29 Anos 129 39 41 73 110 133 100 Entre 30 a 39 Anos 44 7 11 10 26 22 11 Entre 40 a 49 Anos 8 3 7 7 8 18 4 Entre 50 a 59 Anos 2 2 3 6 5 1 3 60 ou mais 0 0 0 1 0 0 0 0 20 40 60 80 100 120 140 Faixa etária Discentes - Faixa etária
+0 20 40 60 80 100 120 140 160 Análise e Desenvolvime nto de Sistemas Ciência de Dados Gestão de Recursos Humanos Gestão Empresarial Gestão Portuária Logística Sistemas Par Internet Em qual período estuda na Fatec? Manhã 106 77 0 126 87 54 121 Em qual período estuda na Fatec? Tarde 0 0 0 0 0 0 0 Em qual período estuda na Fatec? Noite 157 1 87 0 95 152 39 Discentes - Período de estudo
+0 20 40 60 80 100 120 140 160 Análise e Desenvolvim ento de Sistemas Ciência de Dados Gestão de Recursos Humanos Gestão Empresarial Gestão Portuária Logística Sistemas Para Internet A qual categoria (cor ou raça) definida pelo IBGE, você pertence? Branca 155 45 39 71 92 89 98 A qual categoria (cor ou raça) definida pelo IBGE, você pertence? Preta 14 10 17 11 28 38 10 A qual categoria (cor ou raça) definida pelo IBGE, você pertence? Parda 88 18 31 38 59 77 44 A qual categoria (cor ou raça) definida pelo IBGE, você pertence? Amarela 5 2 0 6 2 1 8 A qual categoria (cor ou raça) definida pelo IBGE, você pertence? Indígena 1 3 0 0 1 1 0 Discentes - Dados étnicos
+
+0 20 40 60 80 100 120 Análise e Desenvolvi mento de Sistemas Ciência de Dados Gestão de Recursos Humanos Gestão Empresaria l Gestão Portuária Logística Sistemas Para Internet Atualmente você trabalha? Não 95 43 29 57 72 46 84 Atualmente você trabalha? Sim na área do curso 87 12 19 41 69 107 45 Atualmente você trabalha? Sim fora da área do curso 81 23 39 28 41 53 31 Discentes - Trabalha?
+
+0 10 20 30 40 50 60 70 80 90 100 Análise e Desenvolvi mento de Sistemas Ciência de Dados Gestão de Recursos Humanos Gestão Empresaria l Gestão Portuária Logística Sistemas Para Internet Em relação à sua situação de trabalho: Foi contratado durante o curso 85 11 20 42 50 90 42 Em relação à sua situação de trabalho: Trabalho desde antes de entrar na Fatec 83 24 37 30 61 73 34 Em relação à sua situação de trabalho: Não estou trabalhando 95 43 30 54 71 43 84 Discentes - Situação de trabalho
+
+0 10 20 30 40 50 60 70 80 Análise e Desenvol vimento de Sistemas Ciência de Dados Gestão de Recursos Humanos Gestão Empresari al Gestão Portuária Logística Sistemas Para Internet Avaliação da Cpa Metodologia e sistema de coleta de dados Excelente 33 16 9 24 35 30 22 Avaliação da Cpa Metodologia e sistema de coleta de dados Muito Bom 68 20 38 46 76 63 51 Avaliação da Cpa Metodologia e sistema de coleta de dados Regular 74 18 16 31 48 52 35 Avaliação da Cpa Metodologia e sistema de coleta de dados Insuficiente 17 3 2 6 1 15 6 Avaliação da Cpa Metodologia e sistema de coleta de dados Não se aplica 0 0 1 0 0 0 4 Avaliação da Cpa Metodologia e sistema de coleta de dados Não sei responder 71 21 21 19 22 46 42 Discentes - Metodologia coleta de dados
+
+0 10 20 30 40 50 60 70 80 90 100 Análise e Desenvolvi mento de Sistemas Ciência de Dados Gestão de Recursos Humanos Gestão Empresaria l Gestão Portuária Logística Sistemas Para Internet Avaliação da Cpa Divulgação das ações desenvolvidas e do relatório de avaliação do ano anterior Excelente 30 9 7 19 28 21 17 Avaliação da Cpa Divulgação das ações desenvolvidas e do relatório de avaliação do ano anterior Muito Bom 57 14 29 38 58 59 48 Avaliação da Cpa Divulgação das ações desenvolvidas e do relatório de avaliação do ano anterior Regular 58 12 17 29 49 42 24 Avaliação da Cpa Divulgação das ações desenvolvidas e do relatório de avaliação do ano anterior Insuficiente 18 9 2 5 6 22 11 Avaliação da Cpa Divulgação das ações desenvolvidas e do relatório de avaliação do ano anterior Não se aplica 2 4 0 1 1 5 4 Avaliação da Cpa Divulgação das ações desenvolvidas e do relatório de avaliação do ano anterior Não sei responder 98 30 32 34 40 57 56 Discentes - Divulgação
+
+Eixo 1: Planejamento e Avaliação Institucional –
+Compreende a dimensão:
+(8) Planejamento e Avaliação
+- 9 questões.
+Discentes
+
+
+
+
+
+Eixo 1 - Dimensão 8
+Planejamento e Avaliação
+
+
+
+
+
+
+
+07 - Você sabe o que é o Plano de Desenvolvimento Institucional (PDI) da sua instituição de ensino?
+
+
+
+
+Sim Não
+Análise e Desenvolvimento de Sistemas 65 198
+Ciência de Dados 20 58
+Gestão de Recursos Humanos 27 60
+Gestão Empresarial 49 77
+Gestão Portuária 98 84
+Logística 63 143
+Sistemas Para Internet 46 114
+
+
+
+
+
+
+
+
+
+
+
+
+08 - Como avalia o uso dos indicadores da Avaliação Institucional (WEBSAI) no Planejamento Institucional?
+
+
+
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei responder Análise e Desenvolvimento de Sistemas 29 72 63 11 0 88 Ciência de Dados 12 17 16 7 1 25 Gestão de Recursos Humanos 6 31 24 1 3 22 Gestão Empresarial 21 51 29 2 0 23 Gestão Portuária 28 75 50 4 0 25 Logística 23 71 65 11 5 31 Sistemas Para Internet 22 56 29 6 1 46
+
+09 - Como avalia as melhorias alcançadas a partir da Avaliação Institucional?
+
+
+
+
+
+
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei responder Análise e Desenvolvimento de Sistemas 34 70 50 10 2 97 Ciência de Dados 13 12 22 4 2 25 Gestão de Recursos Humanos 15 26 18 2 0 26 Gestão Empresarial 21 48 28 5 1 23 Gestão Portuária 29 76 49 3 0 25 Logística 25 70 54 13 4 40 Sistemas Para Internet 29 45 33 4 2 47
+
+
+
+
+
+
+10 - Frequência às aulas
+
+
+
+
+
+
+
+
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei responder
+Análise e Desenvolvimento de Sistemas 101 110 46 5 0 1 Ciência de Dados 38 19 17 3 0 1 Gestão de Recursos Humanos 39 41 7 0 0 0 Gestão Empresarial 49 56 21 0 0 0 Gestão Portuária 59 89 33 1 0 0 Logística 93 86 26 1 0 0 Sistemas Para Internet 78 54 26 1 1 0
+
+
+
+Discentes
+
+
+
+
+
+Eixo 1 - Dimensão 8
+Planejamento e Avaliação
+
+
+
+
+
+11 - Pontualidade
+
+
+
+
+
+
+
+
+
+
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei responder Análise e Desenvolvimento de Sistemas 110 90 56 7 0 0 Ciência de Dados 26 27 19 4 0 2 Gestão de Recursos Humanos 43 35 8 1 0 0 Gestão Empresarial 44 55 27 0 0 0 Gestão Portuária 72 68 36 5 0 1 Logística 81 86 36 3 0 0 Sistemas Para Internet 64 59 30 6 1 0
+
+
+12 - Qualidade das atividades/exercícios/trabalhos apresentados
+
+
+
+
+
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei responder Análise e Desenvolvimento de Sistemas 57 134 60 10 0 2
+Ciência de Dados 19 40 17 0 0 2 Gestão de Recursos Humanos 26 54 7 0 0 0 Gestão Empresarial 31 76 17 1 0 1 Gestão Portuária 44 110 25 3 0 0 Logística 53 103 47 3 0 0 Sistemas Para Internet 35 96 22 5 2 0
+
+13 - Desempenho nas avaliações da aprendizagem
+
+
+
+
+
+
+
+
+
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei responder Análise e Desenvolvimento de Sistemas 56 108 88 10 1 0 Ciência de Dados 13 37 25 1 0 2 Gestão de Recursos Humanos 14 59 14 0 0 0 Gestão Empresarial 25 68 30 2 0 1 Gestão Portuária 30 104 45 3 0 0 Logística 35 108 60 3 0 0 Sistemas Para Internet 25 85 43 6 1 0
+
+
+
+
+
+
+14 - Conhecimentos básicos para acompanhar as disciplinas
+
+
+
+
+
+
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei responder Análise e Desenvolvimento de Sistemas 71 109 71 11 1 0 Ciência de Dados 15 26 27 8 0 2 Gestão de Recursos Humanos 24 51 12 0 0 0
+Gestão Empresarial 39 66 19 2 0 0 Gestão Portuária 41 98 41 2 0 0 Logística 44 108 46 8 0 0 Sistemas Para Internet 42 72 38 7 1 0
+
+
+
+
+
+Discentes
+
+
+
+
+
+Eixo 1 - Dimensão 8
+Planejamento e Avaliação
+
+
+
+
+
+15 - Participação em sala de aula (contribuir com comentários, exemplos, experiências, etc.)
+
+
+
+
+
+
+
+
+
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei responder Análise e Desenvolvimento de Sistemas 48 89 99 22 2 3 Ciência de Dados 14 28 25 9 0 2 Gestão de Recursos Humanos 24 35 26 2 0 0 Gestão Empresarial 34 56 26 9 1 0 Gestão Portuária 46 57 68 10 1 0 Logística 44 83 66 11 2 0 Sistemas Para Internet 29 50 55 22 4 0
+
+16 - Organização e tempo dedicado para os estudos (cronograma, estudos extra classe, leitura e revisão de conteúdos aprendidos)
+
+
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei responder Análise e Desenvolvimento de Sistemas 32 64 106 56 3 2 Ciência de Dados 8 20 30 16 0 4 Gestão de Recursos Humanos 10 32 37 8 0 0 Gestão Empresarial 17 50 48 10 0 1
+Gestão Portuária 20 61 75 24 1 1 Logística 20 65 92 29 0 0 Sistemas Para Internet 22 44 67 26 1 0
+
+17 - Convívio acadêmico (integração, trabalho em equipe, respeito à diversidade, proatividade)
+
+
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei responder Análise e Desenvolvimento de Sistemas 80 128 45 8 1 1 Ciência de Dados 28 26 19 4 0 1 Gestão de Recursos Humanos 43 37 6 1 0 0 Gestão Empresarial 61 48 15 2 0 0 Gestão Portuária 68 80 30 4 0 0 Logística 63 99 35 7 1 1 Sistemas Para Internet 65 65 20 8 2 0
+
+
+
+
+
+
+
+
+Eixo 2: Desenvolvimento Institucional –
+Compreende as dimensões:
+(1) Missão e PDI e Discentes
+
+
+
+
+
+Eixo 2 - Dimensão 1
+Missão e Plano de Desenvolvimento Institucional
+
+
+
+
+
+
+
+
+18 - Você conhece qual a Missão do Centro Paulo Souza?
+
+
+
+
+
+Sim Não
+Análise e Desenvolvimento de Sistemas 105 158
+Ciência de Dados 33 45
+Gestão de Recursos Humanos 56 31
+Gestão Empresarial 79 47
+Gestão Portuária 113 69
+Logística 102 104
+Sistemas Para Internet 77 83
+
+
+
+19 - Com relação à missão institucional de "Promover a educação pública profissional e tecnológica dentro de referencias de excelência, visando o desenvolvimento tecnológico econômico e social do Estado de São Paulo",
+como avalia o cumprimento dessa missão?
+
+
+
+
+
+
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei responder Análise e Desenvolvimento de Sistemas 63 127 46 7 0 20 Ciência de Dados 26 25 18 4 0 5 Gestão de Recursos Humanos 34 42 11 0 0 0 Gestão Empresarial 44 54 23 2 0 3 Gestão Portuária 64 88 25 1 0 4 Logística 48 100 44 10 1 3 Sistemas Para Internet 43 84 21 3 0 9 20 - Formação de profissionais qualificados
+
+
+
+
+
+
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei responder Análise e Desenvolvimento de Sistemas 82 123 32 13 0 13 Ciência de Dados 28 30 14 1 0 5 Gestão de Recursos Humanos 44 35 6 0 0 2 Gestão Empresarial 52 48 24 1 0 1 Gestão Portuária 69 84 24 0 1 4 Logística 68 88 34 9 1 6
+Sistemas Para Internet 50 94 11 1 0 4 Discentes
+
+
+
+
+
+Eixo 2 - Dimensão 1
+Missão e Plano de Desenvolvimento Institucional
+
+
+
+
+
+21 - Disseminação da ciência, tecnologia e inovação
+
+
+
+
+
+
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei responder Análise e Desenvolvimento de Sistemas 58 127 59 10 1 8 Ciência de Dados 25 29 17 3 1 3 Gestão de Recursos Humanos 32 39 13 0 0 3 Gestão Empresarial 40 61 20 2 0 3 Gestão Portuária 54 99 25 1 1 2 Logística 44 97 49 11 1 4 Sistemas Para Internet 53 86 18 2 0 1 22 - Disseminação da cultura e da arte
+
+
+
+
+
+
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei responder Análise e Desenvolvimento de Sistemas 28 63 109 39 2 22 Ciência de Dados 13 17 29 12 2 5 Gestão de Recursos Humanos 20 30 29 4 0 4 Gestão Empresarial 31 50 31 8 1 5 Gestão Portuária 32 77 51 15 3 4 Logística 25 70 77 26 2 6 Sistemas Para Internet 30 55 43 16 5 11 23 - Disseminação de valores éticos e democráticos
+
+
+
+
+
+
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei responder Análise e Desenvolvimento de Sistemas 41 105 87 17 0 13 Ciência de Dados 20 24 19 10 0 5 Gestão de Recursos Humanos 26 43 16 1 0 1 Gestão Empresarial 39 52 26 5 0 4 Gestão Portuária 45 89 37 7 0 4 Logística 37 88 53 18 2 8
+Sistemas Para Internet 33 60 43 9 6 9
+
+
+Discentes
+
+
+
+
+
+Eixo 2 - Dimensão 1
+Missão e Plano de Desenvolvimento Institucional
+
+
+
+
+
+24 - Inclusão social
+
+
+
+
+
+
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei responder Análise e Desenvolvimento de Sistemas 66 106 54 12 1 24 Ciência de Dados 23 27 15 5 1 7 Gestão de Recursos Humanos 32 35 14 2 0 4 Gestão Empresarial 37 52 25 4 0 8 Gestão Portuária 52 84 31 7 0 8 Logística 64 72 43 13 2 12 Sistemas Para Internet 48 63 24 7 4 14 25 - Desenvolvimento sustentável
+
+
+
+
+
+
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei responder Análise e Desenvolvimento de Sistemas 33 95 76 15 3 41 Ciência de Dados 18 20 19 8 2 11 Gestão de Recursos Humanos 18 39 22 2 0 6 Gestão Empresarial 33 44 32 7 1 9 Gestão Portuária 44 84 40 6 0 8 Logística 34 85 52 12 3 20 Sistemas Para Internet 33 54 32 7 6 28
+
+(3) Responsabilidade social Discentes
+
+
+
+
+
+Eixo 2 - Dimensão 3
+Responsabilildade Social da Instituiçao
+
+
+
+
+
+
+26 - Atendimento de pessoas com deficiência
+
+
+
+
+
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei responder Análise e Desenvolvimento de Sistemas 38 67 55 13 5 85 Ciência de Dados 9 16 12 6 0 35 Gestão de Recursos Humanos 15 34 14 1 1 22 Gestão Empresarial 34 33 27 5 1 26 Gestão Portuária 33 64 34 5 1 45 Logística 31 76 38 13 3 45 Sistemas Para Internet 27 52 24 8 3 46
+
+27 - Transferência de conhecimento da Fatec para a comunidade externa
+
+
+
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei responder Análise e Desenvolvimento de Sistemas 37 82 63 18 1 62 Ciência de Dados 21 16 22 4 1 14 Gestão de Recursos Humanos 18 35 13 3 0 18 Gestão Empresarial 29 48 34 4 2 9 Gestão Portuária 36 81 28 10 1 26 Logística 24 81 51 18 1 31 Sistemas Para Internet 25 55 33 9 2 36
+
+
+
+
+28 - Participação da comunidade externa no contexto institucional
+
+
+
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei responder Análise e Desenvolvimento de Sistemas 23 54 74 32 7 73 Ciência de Dados 14 18 21 8 2 15 Gestão de Recursos Humanos 9 29 24 5 0 20 Gestão Empresarial 14 40 45 5 3 19
+Gestão Portuária 21 78 46 7 0 30 Logística 18 64 69 17 3 35 Sistemas Para Internet 21 38 37 12 5 47
+
+Discentes
+
+
+
+
+
+Eixo 2 - Dimensão 3
+Responsabilildade Social da Instituiçao
+
+
+
+
+
+
+
+29 - Ações institucionais para a sustentabilidade
+
+
+
+
+
+
+
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei responder Análise e Desenvolvimento de Sistemas 22 52 67 41 8 73 Ciência de Dados 9 13 19 8 1 28 Gestão de Recursos Humanos 8 28 23 4 0 24 Gestão Empresarial 15 47 37 7 3 17 Gestão Portuária 25 71 49 13 0 24 Logística 20 67 70 21 2 26 Sistemas Para Internet 20 35 33 13 5 54
+
+
+30 - Implementação de políticas para que não ocorram ações de discriminação
+
+
+
+
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei responder Análise e Desenvolvimento de Sistemas 33 77 53 38 3 59 Ciência de Dados 13 21 10 12 2 20 Gestão de Recursos Humanos 10 35 24 5 0 13 Gestão Empresarial 25 43 27 14 1 16 Gestão Portuária 31 73 39 15 1 23 Logística 26 68 51 30 5 26
+Sistemas Para Internet 27 48 26 11 5 43
+
+- 13 questões. Eixo 3: Políticas Acadêmicas – Compreende as dimensões:(2) Políticas para o Ensino, Pesquisa e Extensão; Discentes
+
+
+
+
+
+Eixo 3 - Dimensão 2
+Políticas Para O Ensino, A Pesquisa e A Extensão
+
+
+
+
+
+31 - Projeto Pedagógico do Curso – PPC
+
+
+
+
+
+
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei responder Análise e Desenvolvimento de Sistemas 28 96 70 14 1 54 Ciência de Dados 14 26 17 5 1 15 Gestão de Recursos Humanos 22 35 19 1 1 9 Gestão Empresarial 30 54 21 2 3 16 Gestão Portuária 44 85 31 2 0 20 Logística 30 83 61 13 1 18 Sistemas Para Internet 28 55 32 5 2 38
+
+32 - Matriz curricular do curso
+
+
+
+
+
+
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei responder Análise e Desenvolvimento de Sistemas 42 88 90 35 2 6 Ciência de Dados 19 20 29 7 0 3 Gestão de Recursos Humanos 31 33 22 1 0 0 Gestão Empresarial 42 52 25 3 0 4 Gestão Portuária 51 94 29 4 1 3 Logística 50 88 48 15 2 3
+Sistemas Para Internet 40 77 33 6 0 4
+
+33 - Atividades de ensino
+
+
+
+
+
+
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei responder Análise e Desenvolvimento de Sistemas 44 130 67 18 0 4 Ciência de Dados 17 27 25 5 2 2 Gestão de Recursos Humanos 26 41 20 0 0 0 Gestão Empresarial 47 52 26 1 0 0 Gestão Portuária 48 106 23 3 1 1 Logística 37 95 63 8 2 1 Sistemas Para Internet 45 78 30 3 0 4 Discentes
+
+
+
+
+
+Eixo 3 - Dimensão 2
+Políticas Para O Ensino, A Pesquisa e A Extensão
+
+
+
+
+
+34 - Atividades de pesquisa
+
+
+
+
+
+
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei responder Análise e Desenvolvimento de Sistemas 37 87 94 20 2 23 Ciência de Dados 16 30 19 5 1 7 Gestão de Recursos Humanos 21 47 15 3 0 1 Gestão Empresarial 39 55 27 2 0 3 Gestão Portuária 42 100 34 5 0 1 Logística 36 92 63 12 1 2 Sistemas Para Internet 36 65 36 11 0 12
+
+35 - Atividades de extensão
+
+
+
+
+
+
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei responder Análise e Desenvolvimento de Sistemas 31 67 80 22 1 62 Ciência de Dados 15 18 20 6 4 15
+Gestão de Recursos Humanos 16 35 16 4 0 16 Gestão Empresarial 29 52 26 2 1 16 Gestão Portuária 32 81 48 7 0 14 Logística 23 84 70 15 5 9 Sistemas Para Internet 32 45 33 12 3 35
+
+36 - Corpo docente (conjunto de professores)
+
+
+
+
+
+
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei responder Análise e Desenvolvimento de Sistemas 67 115 66 13 0 2 Ciência de Dados 24 31 13 7 1 2 Gestão de Recursos Humanos 32 42 13 0 0 0 Gestão Empresarial 40 59 25 2 0 0 Gestão Portuária 67 87 22 3 1 2 Logística 50 76 49 30 0 1 Sistemas Para Internet 50 80 23 5 0 2
+
+
+
+Discentes
+
+
+
+
+
+Eixo 3 - Dimensão 2
+Políticas Para O Ensino, A Pesquisa e A Extensão
+
+
+
+
+
+37 - Práticas didático-pedagógicas dos professores
+
+
+
+
+
+
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei responder Análise e Desenvolvimento de Sistemas 50 107 81 23 0 2 Ciência de Dados 17 27 24 8 0 2 Gestão de Recursos Humanos 26 40 19 1 0 1 Gestão Empresarial 35 60 25 2 0 4 Gestão Portuária 42 103 31 3 2 1
+Logística 34 83 54 33 0 2 Sistemas Para Internet 36 83 33 6 0 2
+
+38 - Correspondência entre o curso e a formação para o exercício profissional
+
+
+
+
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei responder Análise e Desenvolvimento de Sistemas 50 99 68 26 0 20 Ciência de Dados 17 21 21 9 0 10 Gestão de Recursos Humanos 26 45 12 0 0 4 Gestão Empresarial 40 53 23 2 0 8 Gestão Portuária 49 93 26 5 0 9 Logística 39 93 47 19 2 6 Sistemas Para Internet 47 72 24 8 0 9
+
+39 - Estágio supervisionado como espaço de formação profissional
+
+
+
+
+
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei responder Análise e Desenvolvimento de Sistemas 33 55 41 18 5 111 Ciência de Dados 11 8 9 11 5 34 Gestão de Recursos Humanos 11 21 10 4 5 36 Gestão Empresarial 21 43 14 6 5 37 Gestão Portuária 33 50 40 18 3 38 Logística 26 59 46 22 4 49 Sistemas Para Internet 20 42 20 12 6 60 Discentes
+
+
+
+
+
+Eixo 3 - Dimensão 2
+Políticas Para O Ensino, A Pesquisa e A Extensão
+
+
+
+
+
+40 - Eventos científicos e de extensão
+
+
+
+
+
+
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei responder Análise e Desenvolvimento de Sistemas 25 52 55 38 7 86
+Ciência de Dados 30 19 14 5 0 10 Gestão de Recursos Humanos 12 21 19 6 3 26 Gestão Empresarial 27 43 26 5 3 22 Gestão Portuária 31 70 44 10 1 26 Logística 31 63 60 18 8 26 Sistemas Para Internet 20 39 33 22 4 42
+
+41 - Incentivo à pós-graduação
+
+
+
+
+
+
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei responder Análise e Desenvolvimento de Sistemas 31 40 63 39 6 84 Ciência de Dados 16 21 19 8 3 11 Gestão de Recursos Humanos 22 36 19 1 3 6 Gestão Empresarial 32 29 31 16 3 15 Gestão Portuária 38 46 57 16 4 21 Logística 34 65 43 29 10 25 Sistemas Para Internet 17 42 28 28 8 37
+
+42 - Domínio dos conteúdos pelos docentes
+
+
+
+
+
+
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei responder Análise e Desenvolvimento de Sistemas 92 113 44 8 0 6 Ciência de Dados 25 30 15 6 0 2 Gestão de Recursos Humanos 31 40 12 1 0 3 Gestão Empresarial 49 52 19 2 0 4 Gestão Portuária 80 75 22 3 1 1 Logística 58 92 45 5 0 6 Sistemas Para Internet 69 66 19 3 0 3 Discentes
+
+
+
+
+
+Eixo 3 - Dimensão 2
+
+Políticas Para O Ensino, A Pesquisa e A Extensão
+
+
+
+
+
+43 - Satisfação com o curso escolhido
+
+
+
+
+
+
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei responder Análise e Desenvolvimento de Sistemas 85 107 57 9 2 3 Ciência de Dados 35 23 12 7 0 1 Gestão de Recursos Humanos 39 33 14 1 0 0 Gestão Empresarial 61 39 23 3 0 0 Gestão Portuária 68 82 22 5 3 2 Logística 63 76 53 12 1 1 Sistemas Para Internet 58 75 21 6 0 0
+
+44 - Atenção dada aos alunos com dificuldade de acompanhar os conteúdos
+
+
+
+
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei responder Análise e Desenvolvimento de Sistemas 51 90 69 35 1 17 Ciência de Dados 20 23 12 17 1 5 Gestão de Recursos Humanos 22 30 27 7 1 0 Gestão Empresarial 36 40 35 9 0 6 Gestão Portuária 35 67 52 18 2 8 Logística 30 64 56 45 4 7 Sistemas Para Internet 32 47 48 19 2 12
+
+45 - Correção feita pelos professores quanto às avaliações
+
+
+
+
+
+
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei responder Análise e Desenvolvimento de Sistemas 46 106 81 23 0 7 Ciência de Dados 18 30 19 9 0 2 Gestão de Recursos Humanos 23 43 19 2 0 0 Gestão Empresarial 39 53 29 3 0 2 Gestão Portuária 49 82 43 5 0 3
+Logística 36 85 61 19 3 2 Sistemas Para Internet 29 78 30 16 3 4 Discentes
+
+
+
+
+
+Eixo 3 - Dimensão 2
+Políticas Para O Ensino, A Pesquisa e A Extensão
+
+
+
+
+
+46 - Realização de projetos interdisciplinares
+
+
+
+
+
+
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei responder Análise e Desenvolvimento de Sistemas 29 50 68 38 11 67 Ciência de Dados 16 18 19 7 2 16 Gestão de Recursos Humanos 15 34 18 6 3 11 Gestão Empresarial 42 51 26 3 0 4 Gestão Portuária 29 67 53 14 3 16 Logística 33 89 61 14 5 4 Sistemas Para Internet 17 42 53 16 5 27
+
+
+
+47 - Articulação entre as disciplinas (interdisciplinaridade)
+
+
+
+
+
+
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei responder Análise e Desenvolvimento de Sistemas 35 71 79 32 6 40 Ciência de Dados 15 16 24 11 3 9 Gestão de Recursos Humanos 16 39 21 2 1 8 Gestão Empresarial 34 49 30 3 2 8 Gestão Portuária 31 73 55 8 1 14 Logística 27 77 63 22 2 15 Sistemas Para Internet 20 54 51 12 3 20
+
+48 - As metodologias de ensino para seu envolvimento e aprendizagem
+
+
+
+
+
+Excelente Muito Regular Insuficiente Não se aplica Não sei responder
+Bom Análise e Desenvolvimento de Sistemas 37 110 87 22 1 6 Ciência de Dados 12 28 28 6 0 4 Gestão de Recursos Humanos 23 42 21 0 0 1 Gestão Empresarial 36 61 25 3 0 1 Gestão Portuária 35 94 42 8 0 3 Logística 32 86 68 15 2 3 Sistemas Para Internet 25 82 41 5 0 7
+Discentes
+
+
+
+
+
+Eixo 3 - Dimensão 2
+Políticas Para O Ensino, A Pesquisa e A Extensão
+
+
+
+
+
+49 - A transparência da comunicação no que se refere às informações da disciplina
+
+
+
+
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei responder Análise e Desenvolvimento de Sistemas 56 115 66 14 0 12 Ciência de Dados 19 29 19 6 1 4 Gestão de Recursos Humanos 21 44 20 2 0 0 Gestão Empresarial 33 61 28 4 0 0 Gestão Portuária 33 102 36 8 1 2 Logística 33 93 56 15 3 6 Sistemas Para Internet 38 86 23 5 1 7
+
+50 - A manutenção de clima de respeito à diversidade de opiniões
+
+
+
+
+
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei responder Análise e Desenvolvimento de Sistemas 63 116 55 12 1 16 Ciência de Dados 19 29 12 8 2 8 Gestão de Recursos Humanos 26 38 17 3 0 3 Gestão Empresarial 34 51 32 6 1 2 Gestão Portuária 35 87 42 7 3 8
+Logística 38 82 51 21 3 11 Sistemas Para Internet 41 76 19 8 1 15
+
+
+
+
+
+51 - A utilização diversificada dos instrumentos de avaliação da aprendizagem
+
+
+
+
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei responder Análise e Desenvolvimento de Sistemas 40 114 77 16 0 16 Ciência de Dados 15 26 20 10 0 7 Gestão de Recursos Humanos 19 39 22 3 0 4 Gestão Empresarial 36 47 29 5 1 8 Gestão Portuária 38 87 47 5 0 5 Logística 30 73 69 20 5 9 Sistemas Para Internet 31 75 31 9 0 14 Discentes
+
+
+
+
+
+Eixo 3 - Dimensão 2
+Políticas Para O Ensino, A Pesquisa e A Extensão
+
+
+
+
+
+52 - O estímulo e o apoio ao desenvolvimento de sua autonomia sobre os temas e conteúdo da área.
+
+
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei responder Análise e Desenvolvimento de Sistemas 46 125 53 23 0 16 Ciência de Dados 21 25 21 5 1 5 Gestão de Recursos Humanos 25 41 17 3 0 1 Gestão Empresarial 37 51 27 7 0 4 Gestão Portuária 40 90 42 4 0 6 Logística 36 82 60 20 1 7 Sistemas Para Internet 34 74 33 7 0 12
+
+
+53 - A correção conjunta das avaliações
+
+
+
+
+
+
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei responder Análise e Desenvolvimento de Sistemas 41 100 85 21 2 14 Ciência de Dados 19 23 22 6 5 3 Gestão de Recursos Humanos 22 33 26 5 1 0 Gestão Empresarial 35 55 31 3 1 1 Gestão Portuária 41 86 46 4 2 3 Logística 28 88 60 21 3 6 Sistemas Para Internet 24 60 43 20 5 8
+
+54 - Os professores apresentam no início de cada semestre os seus respectivos planos de ensino?
+
+
+
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei responder Análise e Desenvolvimento de Sistemas 122 97 34 5 1 4 Ciência de Dados 48 18 9 2 0 1 Gestão de Recursos Humanos 38 35 9 3 0 2 Gestão Empresarial 59 46 17 4 0 0 Gestão Portuária 89 72 16 2 0 3 Logística 83 75 32 9 1 6 Sistemas Para Internet 91 49 12 2 0 6 Discentes
+
+
+
+
+
+Eixo 3 - Dimensão 2
+Políticas Para O Ensino, A Pesquisa e A Extensão
+
+
+
+
+
+
+
+55 - Como avalia a qualidade da Fatec que você escolheu?
+
+
+
+
+
+
+
+
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei responder Análise e Desenvolvimento de Sistemas 86 117 44 15 0 1 Ciência de Dados 34 28 12 3 0 1
+Gestão de Recursos Humanos 41 37 9 0 0 0 Gestão Empresarial 56 46 22 2 0 0 Gestão Portuária 73 83 20 3 0 3 Logística 67 76 49 10 2 2 Sistemas Para Internet 73 71 10 6 0 0
+
+56 - Como avalia a possibilidade do uso do ensino híbrido, considerando um percentual da carga horária ofertada de forma remota?
+
+
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei responder Análise e Desenvolvimento de Sistemas 149 56 26 15 8 9 Ciência de Dados 39 16 8 7 3 5 Gestão de Recursos Humanos 38 20 18 4 5 2 Gestão Empresarial 47 35 24 10 2 8 Gestão Portuária 80 57 25 8 3 9 Logística 80 57 30 19 10 10 Sistemas Para Internet 81 39 13 21 4 2
+(4) Comunicação com a Sociedade; Discentes
+
+
+
+
+
+Eixo 3 - Dimensão 4
+Comunicação Com A Sociedade
+
+
+
+
+
+57 - Concurso Vestibular
+
+
+
+
+
+
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei responder Análise e Desenvolvimento de Sistemas 83 108 42 5 4 21 Ciência de Dados 22 25 15 7 2 7 Gestão de Recursos Humanos 39 31 14 2 0 1 Gestão Empresarial 43 48 26 6 1 2
+Gestão Portuária 48 83 34 3 3 11 Logística 59 85 41 7 1 13 Sistemas Para Internet 62 65 24 1 3 5 58 - Resoluções dos colegiados (Congregação ou Comissão de Implantação);
+
+
+
+
+Câmara de Ensino, Pesquisa e Extensão (CEPE), Conselho Departamental ou NDE/Coordenadoria; Colegiado de curso
+
+
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei responder Análise e Desenvolvimento de Sistemas 33 52 62 6 1 109 Ciência de Dados 15 18 9 4 0 32 Gestão de Recursos Humanos 13 20 15 3 2 34 Gestão Empresarial 21 39 31 2 0 33 Gestão Portuária 25 68 38 5 0 46 Logística 27 59 49 12 2 57 Sistemas Para Internet 21 44 21 7 0 67
+
+
+59 - Normas acadêmicas, legislação e calendários
+
+
+
+
+
+
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei responder Análise e Desenvolvimento de Sistemas 67 108 61 10 0 17 Ciência de Dados 28 23 17 3 0 7 Gestão de Recursos Humanos 25 41 15 2 0 4 Gestão Empresarial 39 56 23 3 0 5 Gestão Portuária 44 80 49 1 1 7 Logística 44 89 43 18 0 12 Sistemas Para Internet 48 69 29 4 0 10
+
+
+
+
+
+
+
+
+
+
+
+
+
+Discentes Eixo 3 - Dimensão 4
+Comunicação Com A Sociedade
+
+
+
+
+
+60 - Editais de bolsas, intercâmbios e/ou oportunidades de pesquisa e extensão
+
+
+
+
+
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei responder Análise e Desenvolvimento de Sistemas 69 89 52 24 1 28 Ciência de Dados 23 21 14 7 0 13 Gestão de Recursos Humanos 20 40 11 5 1 10 Gestão Empresarial 41 43 27 7 0 8 Gestão Portuária 50 72 34 17 1 8 Logística 40 86 42 20 3 15 Sistemas Para Internet 39 52 32 12 2 23
+
+61 - Acesso da comunidade externa às atividades desenvolvidas pela Fatec.
+
+
+
+
+
+
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei responder Análise e Desenvolvimento de Sistemas 27 70 56 30 2 78 Ciência de Dados 20 16 18 8 1 15 Gestão de Recursos Humanos 13 30 14 8 3 19 Gestão Empresarial 18 43 35 7 2 21 Gestão Portuária 33 64 44 14 1 26 Logística 23 57 59 26 5 36 Sistemas Para Internet 20 36 38 15 1 50 62 - Sistema de informação interna (site, murais, jornais etc.)
+
+
+
+
+
+
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei responder Análise e Desenvolvimento de Sistemas 43 82 78 43 1 16 Ciência de Dados 17 20 28 9 1 3 Gestão de Recursos Humanos 14 40 24 5 0 4 Gestão Empresarial 24 48 33 16 0 5
+Gestão Portuária 38 64 58 10 2 10 Logística 35 71 58 28 0 14 Sistemas Para Internet 35 62 36 14 1 12
+
+Discentes
+
+
+
+
+
+Eixo 3 - Dimensão 4
+Comunicação Com A Sociedade
+
+
+
+
+
+63 - Site oficial da Fatec
+
+
+
+
+
+
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei responder Análise e Desenvolvimento de Sistemas 44 94 88 26 1 10 Ciência de Dados 15 26 21 13 0 3 Gestão de Recursos Humanos 21 46 11 5 0 4 Gestão Empresarial 28 49 39 7 1 2 Gestão Portuária 44 68 54 8 1 7 Logística 50 77 55 15 0 9 Sistemas Para Internet 42 74 36 6 1 1
+
+64 - Publicações nos murais
+
+
+
+
+
+
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei responder Análise e Desenvolvimento de Sistemas 43 69 84 41 4 22 Ciência de Dados 12 20 24 11 1 10 Gestão de Recursos Humanos 14 31 30 7 0 5 Gestão Empresarial 23 34 50 10 2 7 Gestão Portuária 27 57 70 13 2 13 Logística 27 74 56 36 4 9 Sistemas Para Internet 34 50 47 11 2 16 65 - SIGA
+
+
+
+
+
+
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei responder
+Análise e Desenvolvimento de Sistemas 25 50 100 84 4 0 Ciência de Dados 8 12 35 22 0 1 Gestão de Recursos Humanos 24 39 16 7 0 1 Gestão Empresarial 28 49 41 8 0 0 Gestão Portuária 45 72 49 13 0 3 Logística 55 77 52 18 1 3 Sistemas Para Internet 10 28 37 81 3 1
+
+
+
+
+
+
+
+Discentes
+
+
+
+
+
+Eixo 3 - Dimensão 4
+Comunicação Com A Sociedade
+
+
+
+
+
+66 - Ouvidoria
+
+
+
+
+
+
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei responder Análise e Desenvolvimento de Sistemas 38 53 50 11 1 110 Ciência de Dados 10 9 17 6 1 35 Gestão de Recursos Humanos 15 18 17 2 3 32 Gestão Empresarial 18 36 26 7 0 39 Gestão Portuária 27 49 51 6 3 46 Logística 25 46 54 19 6 56 Sistemas Para Internet 25 40 24 7 0 64
+
+67 - Mídias Sociais
+
+
+
+
+
+
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei responder
+Análise e Desenvolvimento de Sistemas 44 70 64 20 1 64 Ciência de Dados 16 7 31 7 0 17 Gestão de Recursos Humanos 17 31 22 2 0 15 Gestão Empresarial 23 47 29 9 1 17 Gestão Portuária 32 72 46 8 1 23 Logística 44 68 52 12 3 27 Sistemas Para Internet 40 56 33 5 0 26
+
+
+(9) Políticas de Atendimento aos Discentes
+Discentes
+
+
+
+
+
+Eixo 3 - Dimensão 9
+Política de Atendimento Aos Discentes
+
+
+
+
+
+68 - Programas de apoio pedagógico (monitoria, nivelamento, reforço do aprendizado)
+
+
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei responder Análise e Desenvolvimento de Sistemas 45 87 62 21 1 47 Ciência de Dados 19 22 19 12 1 5 Gestão de Recursos Humanos 23 33 23 5 0 3 Gestão Empresarial 28 45 23 7 2 21 Gestão Portuária 22 66 49 13 2 30 Logística 29 72 55 22 5 23 Sistemas Para Internet 27 52 38 15 1 27
+
+
+69 - Programa de apoio financeiro (bolsas)
+
+
+
+
+
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei responder Análise e Desenvolvimento de Sistemas 32 39 29 28 7 128 Ciência de Dados 7 8 12 8 9 34 Gestão de Recursos Humanos 7 23 9 9 6 33 Gestão Empresarial 15 29 21 8 7 46 Gestão Portuária 29 44 37 16 6 50 Logística 22 46 40 29 10 59 Sistemas Para Internet 15 26 17 22 7 73
+70 - Programas de Intercâmbio e bolsas de mobilidade
+
+
+
+
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei responder Análise e Desenvolvimento de Sistemas 38 56 44 28 2 95 Ciência de Dados 11 14 12 8 0 33 Gestão de Recursos Humanos 10 23 13 8 1 32 Gestão Empresarial 28 42 18 7 0 31 Gestão Portuária 29 56 39 17 6 35 Logística 29 63 41 26 4 43 Sistemas Para Internet 16 32 31 19 3 59 Discentes
+
+
+
+
+
+Eixo 3 - Dimensão 9
+Política de Atendimento Aos Discentes
+
+
+
+
+
+71 - Estímulo a organização estudantil
+
+
+
+
+
+
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei responder Análise e Desenvolvimento de Sistemas 34 71 61 29 2 66 Ciência de Dados 13 18 21 9 1 16 Gestão de Recursos Humanos 15 30 13 9 0 20 Gestão Empresarial 27 53 25 7 1 13
+Gestão Portuária 30 77 46 10 1 18 Logística 21 59 51 32 7 36 Sistemas Para Internet 21 43 35 16 3 42 72 - Espaço para participação e convivência estudantil
+
+
+
+
+
+
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei responder Análise e Desenvolvimento de Sistemas 38 83 67 27 0 48 Ciência de Dados 16 10 19 15 4 14 Gestão de Recursos Humanos 14 37 13 6 1 16 Gestão Empresarial 27 54 26 6 2 11 Gestão Portuária 27 74 50 11 4 16 Logística 30 67 39 32 6 32 Sistemas Para Internet 27 52 36 12 1 32 73 - Estímulo à frequência no ambiente escolar
+
+
+
+
+
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei responder Análise e Desenvolvimento de Sistemas 48 95 70 28 1 21 Ciência de Dados 25 17 15 14 0 7 Gestão de Recursos Humanos 24 35 22 4 0 2 Gestão Empresarial 36 51 29 5 2 3 Gestão Portuária 44 71 46 11 1 9 Logística 35 79 47 31 4 10 Sistemas Para Internet 30 65 34 13 1 17 - 43 questões.
+
+
+
+
+
+
+
+Eixo 4: Políticas de Gestão – Compreende a Dimensão: (6) Organização e Gestão da Instituição Discentes
+
+
+
+
+
+Eixo 4 - Dimensão 6
+Organização e Gestão da Instituição
+
+
+
+
+
+74 - Resolução dos conflitos baseado no diálogo e negociação
+
+
+
+
+
+
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei responder Análise e Desenvolvimento de Sistemas 45 86 50 17 3 62 Ciência de Dados 19 16 21 8 0 14 Gestão de Recursos Humanos 14 39 22 2 0 10 Gestão Empresarial 31 45 37 3 0 10 Gestão Portuária 33 78 48 10 1 12 Logística 29 83 47 29 5 13 Sistemas Para Internet 26 66 27 10 1 30 75 - Estímulo e apoio no desenvolvimento das resoluções de situações problemas
+
+
+
+
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei responder
+Análise e Desenvolvimento de Sistemas 46 84 63 15 2 53 Ciência de Dados 20 19 17 6 0 16 Gestão de Recursos Humanos 14 39 23 2 0 9 Gestão Empresarial 29 49 32 5 0 11 Gestão Portuária 28 81 49 8 1 15 Logística 32 76 52 28 4 14 Sistemas Para Internet 29 58 34 8 0 31
+
+
+76 - Atuação dos colegiados da unidade (Congregação ou Comissão de Implantação);
+
+
+
+Câmara de Ensino, Pesquisa e Extensão (CEPE); (se houver), CPA (Comissão Própria de Avaliação)
+
+
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei responder Análise e Desenvolvimento de Sistemas 28 45 41 10 5 134 Ciência de Dados 16 12 11 6 1 32 Gestão de Recursos Humanos 8 23 13 2 1 40 Gestão Empresarial 20 41 25 2 0 38 Gestão Portuária 28 46 53 3 0 52 Logística 19 51 50 12 3 71 Sistemas Para Internet 21 35 19 6 1 78
+
+Discentes
+
+
+
+
+
+Eixo 4 - Dimensão 6
+Organização e Gestão da Instituição
+
+
+
+
+
+77 - Atuação do colegiado de curso (Ex: Conselho de curso, NDE - Núcleo Docente Estruturante/ Coordenadoria; Colegiado de curso)
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei responder Análise e Desenvolvimento de Sistemas 29 51 44 13 4 122 Ciência de Dados 15 15 16 7 0 25 Gestão de Recursos Humanos 10 27 11 1 0 38
+Gestão Empresarial 17 44 27 3 0 35 Gestão Portuária 24 58 54 3 0 43 Logística 23 52 47 16 5 63 Sistemas Para Internet 21 46 22 5 1 65
+
+
+
+
+
+78 - Atuação da representação discente nos colegiados da unidade e do curso
+
+
+
+
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei responder Análise e Desenvolvimento de Sistemas 37 57 61 12 2 94 Ciência de Dados 21 12 18 3 0 24 Gestão de Recursos Humanos 12 26 23 3 0 23 Gestão Empresarial 29 46 28 2 0 21 Gestão Portuária 34 75 43 3 0 27 Logística 22 68 53 18 6 39 Sistemas Para Internet 25 48 24 7 0 56
+
+79 - O reconhecimento da equipe de direção como uma liderança capaz de coordenar e levar adiante as ações prioritárias desta Unidade
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei responder Análise e Desenvolvimento de Sistemas 42 86 61 13 2 59 Ciência de Dados 24 14 18 5 1 16 Gestão de Recursos Humanos 14 37 21 1 0 14 Gestão Empresarial 27 53 28 1 0 17 Gestão Portuária 35 75 45 6 0 21 Logística 26 71 51 26 3 29 Sistemas Para Internet 39 56 30 3 0 32 Discentes
+
+
+
+
+
+
+Eixo 4 - Dimensão 6
+Organização e Gestão da Instituição
+
+
+
+
+
+80 - FETEPS
+
+
+
+
+
+
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei responder Análise e Desenvolvimento de Sistemas 31 37 25 6 3 161 Ciência de Dados 9 5 8 1 0 55 Gestão de Recursos Humanos 6 29 10 0 0 42 Gestão Empresarial 17 29 25 1 1 53 Gestão Portuária 24 39 40 4 1 74 Logística 21 45 33 6 3 98 Sistemas Para Internet 17 26 17 6 6 88
+
+81 - Programas de Estágios
+
+
+
+
+
+
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei responder Análise e Desenvolvimento de Sistemas 39 53 48 47 2 74 Ciência de Dados 9 13 9 12 2 33 Gestão de Recursos Humanos 9 21 16 10 1 30 Gestão Empresarial 21 44 23 11 4 23 Gestão Portuária 36 48 39 29 4 26 Logística 25 51 50 39 6 35 Sistemas Para Internet 16 37 35 30 2 40
+
+82 - Programas de Iniciação Científica
+
+
+
+
+
+
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei responder Análise e Desenvolvimento de Sistemas 22 50 49 27 3 112 Ciência de Dados 18 8 19 6 3 24 Gestão de Recursos Humanos 10 28 11 6 1 31 Gestão Empresarial 24 36 33 7 0 26
+Gestão Portuária 33 58 47 10 1 33 Logística 20 62 43 24 6 51 Sistemas Para Internet 15 35 21 22 5 62
+
+
+
+
+
+Discentes
+
+
+
+
+
+Eixo 4 - Dimensão 6
+Organização e Gestão da Instituição
+
+
+
+
+
+83 - Programa INOVA Paula Souza
+
+
+
+
+
+
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei responder Análise e Desenvolvimento de Sistemas 28 43 38 10 4 140 Ciência de Dados 22 15 14 5 0 22 Gestão de Recursos Humanos 12 27 5 4 1 38 Gestão Empresarial 29 31 21 2 0 43 Gestão Portuária 31 54 33 7 0 57 Logística 23 45 27 17 5 89 Sistemas Para Internet 14 20 17 13 2 94
+– 10 questões.
+
+
+
+
+
+
+
+Eixo 5: Infraestrutura Física – Compreende a Dimensão: (7) Infraestrutura Discentes
+
+
+
+
+
+Eixo 5 - Dimensão 7
+Infraestrutura Física
+
+
+
+
+
+
+
+
+
+86 - Secretaria acadêmica
+
+
+
+
+
+
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei responder Análise e Desenvolvimento de Sistemas 101 81 56 5 0 20 Ciência de Dados 29 25 14 5 0 5 Gestão de Recursos Humanos 37 34 11 3 0 2 Gestão Empresarial 45 54 18 1 1 7 Gestão Portuária 68 66 39 5 0 4 Logística 63 76 42 14 1 10 Sistemas Para Internet 60 60 23 4 1 12 87 - Espaços de convivência
+
+
+
+
+
+
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei responder
+Análise e Desenvolvimento de Sistemas 60 94 66 38 1 4 Ciência de Dados 22 17 20 15 1 3 Gestão de Recursos Humanos 23 37 19 7 0 1 Gestão Empresarial 37 48 28 10 1 2 Gestão Portuária 39 72 45 20 1 5 Logística 46 73 42 32 5 8 Sistemas Para Internet 55 56 33 11 1
+4 88 - Serviços de segurança
+
+
+
+
+
+
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei responder Análise e Desenvolvimento de Sistemas 52 95 80 25 2 9 Ciência de Dados 21 27 20 6 1 3 Gestão de Recursos Humanos 22 42 20 2 0 1 Gestão Empresarial 37 50 33 3 1 2 Gestão Portuária 36 68 58 15 0 5 Logística 33 72 56 33 7 5 Sistemas Para Internet 44 58 35 16 1 6 89 - Serviços de limpeza
+
+
+
+
+
+
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei responder Análise e Desenvolvimento de Sistemas 121 96 36 7 1 2 Ciência de Dados 42 19 13 2 0 2 Gestão de Recursos Humanos 31 39 14 2 1 0 Gestão Empresarial 62 44 17 2 0 1 Gestão Portuária 80 75 20 4 0 3 Logística 81 78 33 9 1 4 Sistemas Para Internet 77 58 18 2 0 5 90 - Cantina
+
+
+
+
+
+
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei responder Análise e Desenvolvimento de Sistemas 34 32 37 83 53 24 Ciência de Dados 5 5 10 31 24 3
+Gestão de Recursos Humanos 10 16 10 19 23 9 Gestão Empresarial 10 22 23 20 37 14 Gestão Portuária 15 31 28 49 39 20 Logística 24 27 21 65 53 16 Sistemas Para Internet 16 15 14 62 44 9
+Discentes
+
+
+
+
+
+Eixo 5 - Dimensão 7
+Infraestrutura Física
+
+
+
+
+
+91 - Quantidade
+
+
+
+
+
+
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei responder Análise e Desenvolvimento de Sistemas 91 114 43 11 0 4 Ciência de Dados 30 12 15 18 0 3 Gestão de Recursos Humanos 29 42 16 0 0 0 Gestão Empresarial 43 53 19 6 2 3 Gestão Portuária 58 74 36 8 3 3 Logística 63 91 29 18 1 4 Sistemas Para Internet 72 53 23 8 0 4 92 - Limpeza/Conservação
+
+
+
+
+
+
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei responder Análise e Desenvolvimento de Sistemas 121 106 29 6 0 1 Ciência de Dados 49 21 7 0 0 1 Gestão de Recursos Humanos 41 35 10 1 0 0 Gestão Empresarial 63 47 14 1 0 1 Gestão Portuária 86 73 19 1 1 2 Logística 97 80 21 6 0 2 Sistemas Para Internet 84 58 13 3 0 2 93 - Iluminação/ Ventilação
+
+
+
+
+
+
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei responder Análise e Desenvolvimento de Sistemas 94 100 51 17 0 1
+Ciência de Dados 39 17 15 5 0 2 Gestão de Recursos Humanos 30 29 24 4 0 0 Gestão Empresarial 51 56 16 2 0 1 Gestão Portuária 66 63 35 14 1 3 Logística 73 69 40 22 0 2 Sistemas Para Internet 83 47 18 8 1 3 94 - Mobiliário e Equipamentos
+
+
+
+
+
+
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei responder Análise e Desenvolvimento de Sistemas 85 98 50 27 0 3 Ciência de Dados 29 20 20 7 0 2 Gestão de Recursos Humanos 37 28 19 2 0 1 Gestão Empresarial 49 52 19 4 0 2 Gestão Portuária 64 76 28 10 1 3 Logística 68 67 46 22 0 3 Sistemas Para Internet 69 51 27 9 2 2 95 - Acessibilidade
+
+
+
+
+
+
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei responder Análise e Desenvolvimento de Sistemas 65 88 58 22 2 28 Ciência de Dados 26 9 24 3 4 12 Gestão de Recursos Humanos 34 29 15 3 0 6 Gestão Empresarial 39 47 28 4 1 7 Gestão Portuária 53 81 34 7 0 7 Logística 66 62 43 19 2 14 Sistemas Para Internet 43 54 31 9 0 23 Discentes
+
+
+
+
+
+Eixo 5 - Dimensão 7
+Infraestrutura Física
+
+
+
+
+
+96 - Quantidade
+
+
+
+
+
+
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei responder
+Análise e Desenvolvimento de Sistemas 85 95 58 23 0 2 Ciência de Dados 23 11 21 21 0 2 Gestão de Recursos Humanos 21 30 19 15 0 2 Gestão Empresarial 33 46 32 10 0 5 Gestão Portuária 40 74 43 21 0 4 Logística 47 62 50 35 2 10 Sistemas Para Internet 63 55 25 15 0 2 97 - Limpeza/Conservação
+
+
+
+
+
+
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei responder Análise e Desenvolvimento de Sistemas 122 102 32 6 0 1 Ciência de Dados 52 12 12 1 0 1 Gestão de Recursos Humanos 41 32 11 2 0 1 Gestão Empresarial 62 46 12 2 0 4 Gestão Portuária 80 72 24 2 0 4 Logística 88 78 28 6 0 6 Sistemas Para Internet 90 56 10 3 0 1 98 - Iluminação/ Ventilação
+
+
+
+
+
+
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei responder Análise e Desenvolvimento de Sistemas 101 86 54 20 0 2 Ciência de Dados 36 20 15 5 0 2 Gestão de Recursos Humanos 31 34 20 0 0 2 Gestão Empresarial 56 47 17 3 0 3 Gestão Portuária 60 68 34 14 2 4 Logística 78 77 32 13 0 6 Sistemas Para Internet 80 49 24 4 1 2 99 - Mobiliário e Equipamentos
+
+
+
+
+
+
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei responder Análise e Desenvolvimento de Sistemas 79 92 58 32 1 1 Ciência de Dados 31 9 23 14 0 1 Gestão de Recursos Humanos 33 28 19 4 0 3
+Gestão Empresarial 45 45 27 6 0 3 Gestão Portuária 50 73 39 16 0 4 Logística 70 65 41 22 0 8 Sistemas Para Internet 59 55 30 15 0 1
+
+
+100 - Acessibilidade
+
+
+
+
+
+
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei responder Análise e Desenvolvimento de Sistemas 70 80 62 19 4 28 Ciência de Dados 30 13 18 5 1 11 Gestão de Recursos Humanos 30 31 15 4 0 7 Gestão Empresarial 38 40 31 6 0 11 Gestão Portuária 45 85 35 6 3 8 Logística 61 68 43 14 2 18 Sistemas Para Internet 47 51 32 9 0 21 Discentes
+
+
+
+
+
+Eixo 5 - Dimensão 7
+Infraestrutura Física
+
+
+
+
+
+101 - Quantidade
+
+
+
+
+
+
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei responder Análise e Desenvolvimento de Sistemas 42 59 76 31 1 54 Ciência de Dados 18 14 19 14 0 13 Gestão de Recursos Humanos 21 35 18 3 0 10 Gestão Empresarial 37 39 27 14 1 8 Gestão Portuária 33 63 50 13 1 22 Logística 30 53 47 29 5 42 Sistemas Para Internet 31 45 40 23 1 20 102 - Limpeza/Conservação
+
+
+
+
+
+
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei responder Análise e Desenvolvimento de Sistemas 93 74 21 3 1 71
+Ciência de Dados 31 14 12 5 0 16 Gestão de Recursos Humanos 39 31 6 0 0 11 Gestão Empresarial 55 49 8 2 1 11 Gestão Portuária 70 66 19 0 2 25 Logística 66 61 22 5 7 45 Sistemas Para Internet 66 44 14 3 1 32 103 - Iluminação/ Ventilação
+
+
+
+
+
+
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei responder Análise e Desenvolvimento de Sistemas 79 79 22 9 1 73 Ciência de Dados 29 18 12 6 0 13 Gestão de Recursos Humanos 31 32 12 0 0 12 Gestão Empresarial 54 45 14 1 1 11 Gestão Portuária 54 66 26 7 3 26 Logística 59 58 27 10 8 44 Sistemas Para Internet 62 44 14 6 2 32 104 - Mobiliário e Equipamentos
+
+
+
+
+
+
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei responder Análise e Desenvolvimento de Sistemas 64 64 44 13 1 77 Ciência de Dados 23 17 14 10 0 14 Gestão de Recursos Humanos 29 33 11 1 0 13 Gestão Empresarial 41 50 18 6 1 10 Gestão Portuária 48 65 32 8 3 26 Logística 52 50 38 15 7 44 Sistemas Para Internet 47 42 22 9 2 38 105 - Acessibilidade
+
+
+
+
+
+
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei responder Análise e Desenvolvimento de Sistemas 61 51 49 13 4 85 Ciência de Dados 22 13 15 7 1 20 Gestão de Recursos Humanos 30 29 11 0 0 17
+Gestão Empresarial 39 44 21 6 1 15 Gestão Portuária 46 74 30 6 2 24 Logística 52 58 34 9 7 46 Sistemas Para Internet 37 35 30 8 1 49
+
+
+Discentes
+
+
+
+
+
+Eixo 5 - Dimensão 7
+Infraestrutura Física
+
+
+
+
+
+106 - Atendimento ao usuário
+
+
+
+
+
+
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei responder Análise e Desenvolvimento de Sistemas 72 64 35 8 1 83 Ciência de Dados 18 14 15 12 1 18 Gestão de Recursos Humanos 34 33 8 0 0 12 Gestão Empresarial 46 41 21 6 0 12 Gestão Portuária 51 57 36 7 2 29 Logística 50 59 28 19 5 45 Sistemas Para Internet 48 42 23 10 1 36 107 - Automação do sistema
+
+
+
+
+
+
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei responder Análise e Desenvolvimento de Sistemas 45 54 50 15 2 97 Ciência de Dados 11 16 18 8 1 24 Gestão de Recursos Humanos 26 26 15 1 0 19 Gestão Empresarial 27 45 26 8 2 18 Gestão Portuária 35 58 32 11 2 44 Logística 33 58 40 13 6 56 Sistemas Para Internet 35 40 22 7 3 53 108 - Qualidade e atualidade do acervo
+
+
+
+
+
+
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei responder Análise e Desenvolvimento de Sistemas 44 56 47 18 2 96
+Ciência de Dados 10 16 13 12 0 27 Gestão de Recursos Humanos 22 27 14 3 1 20 Gestão Empresarial 31 41 29 9 0 16 Gestão Portuária 30 60 43 6 2 41 Logística 30 59 34 17 5 61 Sistemas Para Internet 33 35 25 15 1 51 109 - Disponibilidade da bibliografia básica (número de exemplares por título)
+
+
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei responder Análise e Desenvolvimento de Sistemas 46 49 47 17 3 101 Ciência de Dados 12 17 12 10 0 27 Gestão de Recursos Humanos 20 26 12 4 0 25 Gestão Empresarial 27 46 26 9 0 18 Gestão Portuária 29 51 46 8 1 47 Logística 26 51 39 21 5 64 Sistemas Para Internet 29 32 24 15 2 58 110 - Horário de atendimento
+
+
+
+
+
+
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei responder Análise e Desenvolvimento de Sistemas 39 61 57 41 1 64 Ciência de Dados 10 16 12 22 0 18 Gestão de Recursos Humanos 17 27 20 10 0 13 Gestão Empresarial 22 43 34 18 0 9 Gestão Portuária 28 57 53 16 1 27 Logística 33 47 36 43 5 42 Sistemas Para Internet 32 41 31 22 2 32
+– 25 questões.
+
+
+
+
+
+CORPO DOCENTE:
+65% 35% Docentes - Sexo Sexo Masculino Sexo Feminino
+
+Menos de 20 Anos Entre 20 e 29 Anos Entre 30 e 39 Anos Entre 40 a 49 Anos Entre 50 a 59 Anos 60 ou mais Faixa etária Série1 0 0 8 22 29 30 0 5 10 15 20 25 30 35 Faixa Etária Docentes - Faixa etária
+
+0 17 43 25 4 0 10 20 30 40 50 Graduação Especialização de Nível Superior Mestrado Doutorado Pós-Doutorado Formação
+
+
+35% 65% Docentes - Tipo de contrato Tipo de contrato Determinado Tipo de contrato Indeterminado 0 5 10 15 20 25 30 35 40 45 50 Menos de 1 Ano De 1 a 2 Anos De 2 a 4 Anos De 4 a 6 Anos Mais de 6 Anos Tempo de trabalho na Fatec Série1 17 13 5 4 50 Tempo de trabalho na Fatec Docentes - Tempo na Fatec
+
+
+65% 35% Docentes - Atividades extra classe Realiza atividades extra classe (Pesquisa, Extensão, Projetos ou Outros)? Sim Realiza atividades extra classe (Pesquisa, Extensão, Projetos ou Outros)? Não Excelente Muito bom Regular Insuficien te Não se aplica Não sei responde r Metodologia e sistema de coleta de dados Série1 37 30 10 2 0 10 0 5 10 15 20 25 30 35 40 Metodologia e sistemas de coleta de dados da CPA Docentes - Metodologia coleta de dados
+
+Excelente Muito bom Regular Insuficien te Não se aplica Não sei responde r Divulgação das ações desenvolvidas e do relatório de avaliação do ano anterio Série1 35 28 10 3 0 13 0 5 10 15 20 25 30 35 40 . Docentes - Divulgação
+
+
+
+
+
+
+
+
+
+
+83% 17% Docentes - Conhecimento do PDI Conhece o PDI? Sim Conhece o PDI? Não
+Eixo 1: Planejamento e Avaliação Institucional – Compreende a dimensão: (8) Planejamento e Avaliação - 12 questões. DOCENTES
+
+
+
+Eixo: 1
+Dimensão: 8
+Planejamento e Avaliação
+
+
+Quase Algumas Muito
+Sempre sempre vezes raramente 09 - Você promove articulação da (s) disciplina (s) com outra (s) disciplina (s) do curso? 58 22 8 1 10 - Você realiza preparação prévia na organização das atividades desenvolvidas na disciplina. 85 4 0 0 11 - Você utiliza estratégias de ensino (metodologias) que favorecem o interesse, envolvimento e a aprendizagem dos estudantes? 77 12 0 0 12 - Você procura desenvolver uma comunicação transparente, mantendo os estudantes bem informados sobre tudo o que se refere à sua disciplina? 87 2 0 0 13 - Na condução da (s) disciplina (s) /turma (s) foi mantido um clima de respeito à diversidade de opiniões? 88 1 0 0 14 - Você prepara as avaliações utilizando múltiplos instrumentos e objetivando diagnosticar a necessidade de aprendizagem dos estudantes. 80 9 0 0 15 - Foi necessário oferecer diferentes situações para a superação de dificuldades dos estudantes, promovendo estratégias de recuperação da aprendizagem? 40 16 28 5 16 - No desenvolvimento da(s) disciplina(s)/turma(s) contribuí para ampliar a capacidade de argumentação dos estudantes sobre os temas do conteúdo da área? 75 13 1 0 17 - Os estudantes conseguiram aprofundar os conhecimentos na área? 54 34 1 0 18 - As devolutivas das avaliações que realizei (provas, trabalhos, exercícios, entre outros) contribuíram para melhorar o desempenho dos estudantes? 71 16 2 0 19 - Sente-se comprometido com o sucesso escolar dos alunos, contribuindo para reduzir a evasão oferecendo indicadores da (s) sua (s) turma (s) para que ocorra a gestão voltada para a melhoria? 83 6 0 0
+Eixo 2: Desenvolvimento Institucional – - 13 questões. Compreende as dimensões:
+
+(1) Missão e PDI DOCENTES
+
+
+
+
+
+Eixo: 2
+Dimensão: 1
+Missão e Plano de Desenvolvimento Institucional
+
+
+
+
+
+
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei responder 20 - Formação de profissionais qualificados 60 27 1 1 0 0 21 - Disseminação da ciência, tecnologia e inovação 55 29 4 0 0 1 22 - Disseminação da cultura e da arte 34 35 12 3 3 2 23 - Disseminação de valores éticos e democráticos 55 26 4 1 0 3 24 - Inclusão social 55 29 2 0 0 3 25 - Desenvolvimento sustentável 47 30 6 3 1 2 26 - Coerência do PDI em relação à missão 55 22 3 0 0 9 27 - Contribuição de toda a comunidade para o cumprimento da missão 44 31 7 0 0 7 28 - Prática e difusão da missão 54 26 3 1 0 5
+(3) Responsabilidade social DOCENTES
+
+
+
+
+
+Eixo: 2
+Dimensão: 3
+Responsabilildade Social da Instituiçao
+
+
+
+
+
+
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei responder 29 - Atendimento de pessoas com deficiência 48 27 9 0 0 5 30 - Transferência de conhecimento da Fatec para a comunidade externa 48 27 5 4 0 5 31 - Participação da comunidade externa no contexto institucional 37 32 10 3 0 7 32 - Ações institucionais para a sustentabilidade 37 33 9 3 1 6
+
+Eixo 3: Políticas Acadêmicas – Compreende as dimensões: (2) Políticas para o Ensino, Pesquisa e Extensão; DOCENTES
+
+
+
+
+
+Eixo: 3
+Dimensão: 2
+Políticas Para O Ensino, A Pesquisa e A Extensão
+
+Excelente Muito Bom Regular Insuficiente Não se Não sei
+
+
+
+
+aplica responder 33 - Articulação de seu componente curricular com o Projeto Pedagógico do Curso 61 25 1 0 0 2 34 - Estrutura curricular 53 33 2 0 0 1 35 - Sistema de avaliação da aprendizagem 52 32 3 0 0 2 36 - Atividades de ensino 58 29 1 0 0 1 37 - Atividades de pesquisa 42 32 10 2 0 3 38 - Atividades de extensão 40 29 11 2 2 5 39 - Corpo técnico-administrativo 60 26 1 1 0 1 40 - Corpo docente 64 22 1 1 0 1 41 - Práticas didático-pedagógicas dos docentes 50 33 3 1 0 2 42 - Articulação de conhecimentos disciplinares com temas sociais, políticos e culturais 48 31 4 2 0 4 43 - Correspondência entre o curso e a formação para o exercício profissional 60 27 1 0 0 1 44 - Estágio supervisionado como espaço de formação profissional 44 35 1 1 0 8 45 - Como avalia a política de ensino, pesquisa e extensão tendo em vista a formação do perfil do egresso do curso. 51 29 4 0 0 5 46 - Como avalia se o(s) curso (s) cumpre (m) as políticas de ensino, pesquisa e extensão previstas no PDI. 51 25 2 1 0 10
+
+(4) e Comunicação com a Sociedade; DOCENTES
+
+
+
+
+
+Eixo: 3
+Dimensão: 4
+Comunicação Com A Sociedade
+
+
+
+
+
+
+Excelente Muito Bom Regular Insuficiente Não se Não sei
+
+
+
+
+aplica responder 47 - Acesso da comunidade externa às atividades desenvolvidas pela Fatec 39 33 9 1 0 7 48 - Sistemas de informação da Fatec 40 37 10 1 0 1 49 - Concurso vestibular 44 38 3 1 0 3 50 - Resoluções dos colegiados (Congregação ou Comissão de Implantação);
+
+
+
+
+
+Câmara de Ensino, Conselho Departamental ou NDE/Coordenadoria; Colegiado de curso 50 33 1 2 0 3 51 - Editais de concursos, processos seletivos, bolsas, intercâmbios, etc. 51 26 6 3 1 2 52 - Informações advindas da coordenação de curso 61 26 1 0 0 1 53 - Oportunidades de Pesquisa 39 34 9 3 0 4 54 - Oportunidades de Extensão 39 27 14 2 2 5 55 - Normas acadêmicas, legislação e calendários 57 27 5 0 0 0 56 - Eventos acadêmicos-científicos 46 31 8 2 0 2 57 - Site oficial da Fatec 36 39 11 2 0 1 58 - Publicações nos murais 31 44 9 3 0 2 59 - Boletins e informativos Fatec (Impressos ou por e–mail) 44 34 11 0 0 0 60 - Ouvidoria 36 25 3 6 2 17 61 - SIGA 45 29 9 4 0 2 62 - Caixa e/ou espaço para sugestões 29 36 7 6 2 9 63 - Mídias Sociais 34 39 9 1 0 6
+
+
+(9) Políticas de Atendimento aos Discentes DOCENTES
+
+
+
+
+
+Eixo: 3
+Dimensão: 9
+Política de Atendimento Aos Discentes
+
+
+
+
+
+
+Excelente Muito Bom Regular Insuficiente Não se Não sei
+
+
+
+
+aplica responder 64 - Programas de apoio pedagógico (monitoria, nivelamento, recuperação e reforço do aprendizado) 47 30 5 2 0 5 65 - Programa de apoio financeiro (bolsas) 25 21 7 9 6 21 66 - Bolsas (Programas de Intercâmbio e de Mobilidade Acadêmica) 33 23 11 5 0 17 67 - Estímulo a organização estudantil (espaço para participação e convivência estudantil) 39 24 8 6 0 12 68 - Acompanhamento de Egressos (ex-alunos) 30 30 8 6 0 15
+- 36 questões.
+
+
+
+
+
+
+Eixo 4: Políticas de Gestão – Compreende as Dimensões: (5) Políticas de Pessoal; DOCENTES
+
+
+
+
+
+Eixo: 4
+Dimensão: 5
+Políticas de Pessoal
+
+
+
+
+
+
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei responder 69 - Oportunidades de progressão/promoção 33 34 12 5 2 3 70 - Critérios de Evolução Funcional 32 32 14 6 1 4 71 - Incentivo a Formação Continuada 38 32 12 3 1 3 (6) Organização e Gestão da Instituição DOCENTES
+
+
+
+
+
+Eixo: 4
+Dimensão: 6
+Organização e Gestão da Instituição
+
+
+
+
+
+
+Excelente Muito Bom Regular Insuficiente Não se Não sei
+aplica responder 73 - Participação da Direção na resolução de conflitos 61 21 5 2 0 0 74 - Atuação dos colegiados da unidade (Congregação ou Comissão de Implantação);
+
+
+
+
+
+Câmara de Ensino, Pesquisa e Extensão - CEPE (se houver) 46 33 4 1 0 5 75 - Atuação do colegiado de curso (Ex: Conselho Departamental,
+
+
+
+
+
+NDE – Núcleo Docente estruturante/Coordenadoria; colegiado de curso) 50 34 2 1 0 2 76 - Oportunidades de Pesquisa e Extensão 37 34 10 4 0 4
+77 - Representatividade docente nos colegiados da unidade 51 29 4 2 0 3 78 - Representatividade docente nos colegiados de curso 54 28 3 1 0 3 79 - FETEPS 31 20 8 4 1 25 80 - Programa de Iniciação científica (PIBIC) 33 27 10 4 0 15 81 - Programa de Estágios 43 25 7 1 0 13 82 - INOVA Paula Souza 37 23 10 6 0 13
+– 14 questões. Eixo 5: Infraestrutura Física – Compreende a Dimensão: (7) Infraestrutura DOCENTES
+
+
+
+
+
+Eixo: 5
+Dimensão: 7
+Infraestrutura Física
+
+
+
+
+
+
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei responder 85 - Secretaria acadêmica 65 20 3 0 0 1 86 - Espaços de convivência 46 29 10 4 0 0 87- Serviços de segurança 39 33 14 2 0 1 88 - Serviços de limpeza 50 34 4 1 0 0 89 - Cantina 14 10 6 16 35 8 90 - Quantidade 46 28 12 2 0 1 91 - Limpeza/Conservação 53 35 1 0 0 0 92 - Iluminação/ Ventilação 42 28 15 4 0 0
+93 - Mobiliário e Equipamentos 50 34 5 0 0 0 94 - Acessibilidade 46 33 6 2 1 1 105- Atendimento ao usuário 46 25 8 3 0 7 106 - Automação do sistema 26 28 16 1 1 17 107 - Qualidade e atualidade do acervo 19 36 17 7 0 10 108- Disponibilidade da bibliografia básica (número de exemplares por título) 24 32 17 5 0 11 109 - Horário de atendimento 26 38 12 7 0 6
+– 4 questões
+
+
+
+
+
+
+
+
+
+
+CORPO TÉCNICO ADMINISTRATIVO:
+
+63% 37% Funcionários - Sexo Sexo Masculino Sexo Feminino 0 2 4 8 7 9 Menos de 20 Anos Entre 20 e 29 Anos Entre 30 e 39 Anos Entre 40 a 49 Anos Entre 50 a 59 Anos 60 ou mais Faixa etária: Funcionários - Faixa etária
+
+Ensino Fundame ntal Ensino Médio Completo Ensino Médio Incomplet o Ensino Médio Técnico Superior completo Superior Incomplet o Pós- Graduado Pós- Graduado Incomplet o Formação escolar Série1 0 3 1 1 10 1 12 2 0 2 4 6 8 10 12 14 Formação escolar Funcionários - Formação escolar
+
+Manhã e Tarde Tarde e Noite Manhã e Noite Turno de trabalho Série1 18 5 7 0 2 4 6 8 10 12 14 16 18 20 Turno de trabalho Funcionários - Turno de trabalho
+
+
+04 Horas 06 Horas 08 Horas Jornada de trabalho Série1 0 0 30 0 5 10 15 20 25 30 35 Jornada de trabalho Funcionários - Jornada de trabalho Menos de 1 Ano De 1 a 2 Anos De 2 a 4 Anos De 4 a 6 Anos Mais de 6 Anos Tempo de trabalho na Fatec Série1 1 0 0 4 25 0 5 10 15 20 25 30 Tempo de trabalho na Fatec Funcionários - Tempo de trabalho na Fatec
+
+
+Direção da Unidade Seviços Administrativos Serviços Acadêmicos Biblioteca Serviços de Manutenção Área de trabalho Série1 3 15 9 1 2 0 2 4 6 8 10 12 14 16 Área de trabalho Funcionários - Área de trabalho Excelente Muito Bom Regular Insuficiente Não se aplica Não sei responder Metodologia e sistema de coleta de dados Avaliação da Cpa Série1 23 4 1 1 0 1 0 5 10 15 20 25 Funcionários - Metodologia de coleta de dados
+
+
+
+
+
+
+
+
+
+
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei responder Divulgação das ações desenvolvidas e do relatório de avaliação do ano anterior Avaliação da Cpa Série1 22 3 4 0 0 1 0 5 10 15 20 25 Funcionários - Divulgação
+Eixo 1: Planejamento e Avaliação Institucional – Compreende a dimensão: (8) Planejamento e Avaliação - 1 questão.
+Eixo 2: Desenvolvimento Institucional – Compreende as dimensões: (1) Missão e PDI
+
+93% 7% Funcionários - Conhece o PDI? Conhece o PDI? Sim Conhece o PDI? Não
+FUNCIONÁRIOS
+
+
+
+
+
+Eixo: 2 - Dimensão 1
+
+
+
+
+
+Missão e Plano de Desenvolvimento Institucional
+
+
+
+
+
+
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei Responder 09 - Formação de profissionais qualificados 22 6 0 0 0 2 10 - Disseminação da ciência, tecnologia e inovação 21 6 1 0 0 2 11 - Disseminação da cultura e da arte 20 4 4 0 0 2 12 - Disseminação de valores éticos 21 4 3 1 1 0 13 - Inclusão social 21 6 1 0 0 2 14 - Desenvolvimento sustentável 21 4 3 0 1 1 15 - Cumprimento das metas do PDI 21 7 0 0 0 2 16 - Estímulo para conhecer e praticar a missão Institucional 21 6 1 1 0 1 17 - Estímulo para conhecer e contribuir para o cumprimento do PDI 21 6 1 1 0 1 18 - Relação da Missão e do PDI com a prática profissional 22 6 0 1 0 1 19 - Assiduidade 27 3 0 0 0 0 20 - Pontualidade 26 4 0 0 0 0 21 - Proatividade 26 4 0 0 0 0 22 - Iniciativa 27 3 0 0 0 0 23 - Dedicação e comprometimento 27 3 0 0 0 0 24 - Busca de aperfeiçoamento 25 5 0 0 0 0 25 - Atitude colaborativa 27 3 0 0 0 0 26 - Relacionamento interpessoal e trabalho em equipe 27 3 0 0 0 0 27 - Respeito hierárquico 27 3 0 0 0 0 28 - Conhecimento na área de atuação 27 3 0 0 0 0 29 - Busca de melhoria contínua 27 3 0 0 0 0 30 - Comunicação 24 5 1 0 0 0 31 - Disposição para aprender 28 2 0 0 0 0
+
+
+(3) Responsabilidade social - 33 questões. FUNCIONÁRIOS
+
+
+
+
+
+Eixo: 2
+
+
+
+
+
+Dimensão: 3
+Responsabilildade Social da Instituiçao
+
+
+
+
+
+
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei Responder 32 - Atendimento de pessoas com deficiência 25 4 0 0 0 1 33 - Prestação de serviços da Fatec para a Comunidade Externa 25 5 0 0 0 0 34 - Interação entre a Fatec e a comunidade externa 23 5 1 0 0 1 35 - Ações voltadas para as questões sociais e ambientais 21 6 1 1 0 1 36 - Cursos de formação voltados para atender a comunidade externa. 23 5 1 0 0 1 37 - Participação dos técnicos administrativos nas atividades do ensino 26 3 1 0 0 0 38 - Participação dos técnicos administrativos nas atividades da pesquisa 20 7 2 0 0 1 39 - Participação dos técnicos administrativos nas atividades da extensão 22 6 1 0 0 1 40 - Interação entre os técnicos administrativos e os docentes 24 6 0 0 0 0 41 - Interação entre os técnicos administrativos e os discentes 23 7 0 0 0 0
+
+
+
+
+
+
+
+
+Eixo 3: Políticas Acadêmicas – Compreende as dimensões: (4) Comunicação com a Sociedade FUNCIONÁRIOS
+
+
+
+
+
+Eixo: 3
+
+
+
+
+
+Dimensão: 4
+Comunicação Com A Sociedade
+
+
+
+
+
+
+Excelente Muito Bom Regular Insuficiente Não se Não sei
+
+
+
+
+aplica Responder 42 - Eventos que vão ocorrer na Fatec e envolvimento dos técnicos administrativos 24 5 1 0 0 0 43 - Envolvimento do pessoal técnico administrativo no Concurso Vestibular 23 5 0 0 0 2 44 - Decisões dos órgãos superiores da Fatec 23 4 1 0 0 2 45 - Normas acadêmicas, legislação e calendários 25 4 0 0 0 1 46 - Editais de concursos públicos e processos seletivos docentes (professores e auxiliares) 24 4 1 0 0 1 47 - Editais de bolsas e intercâmbios 23 5 1 0 0 1 48 - Oportunidades de capacitação profissional 22 4 2 0 1 1 49 - Eventos acadêmicos - científicos 19 8 1 0 1 1 50 - Site oficial da Fatec 21 5 4 0 0 0 51 - Publicações nos murais 19 10 1 0 0 0 52 - Ouvidoria 19 6 2 0 0 3 53 - Caixa e/ou espaço para sugestões 20 4 3 0 2 1 54 - Mídias sociais da Fatec 24 2 3 0 0 1
+
+(9) Políticas de Atendimento aos Discentes - 19 questões. FUNCIONÁRIOS
+
+
+
+
+
+Eixo: 3
+
+
+
+
+
+Dimensão: 9
+Política de Atendimento Aos Discentes
+
+
+
+
+
+
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei Responder 55 - Programas de apoio pedagógico (monitoria, nivelamento, reforço do aprendizado) 24 4 2 0 0 0 56 - Programa de apoio financeiro (bolsas) 17 2 6 0 0 5 57 - Programas de Intercâmbio e Mobilidade Acadêmica 18 5 3 0 0 4 58 - Estímulo à organização estudantil 20 4 3 0 0 3 59 - Espaço para participação e convivência estudantil 22 4 2 0 0 2 60 - Acompanhamento de Egressos (ex-alunos) 19 6 2 0 1 2
+
+
+
+
+
+
+Eixo 4: Políticas de Gestão – – 13 questões. Compreende as Dimensões: (5) Políticas de Pessoal FUNCIONÁRIOS
+
+
+
+
+
+Eixo: 4
+
+
+
+
+
+Dimensão: 5
+Políticas de Pessoal
+
+
+
+
+
+
+Excelente Muito Bom Regular Insuficiente Não se Não sei
+
+
+
+
+aplica Responder 61 - Programas relacionados com a saúde do servidor 18 5 2 3 0 2 62 - Programas relacionados com prevenção às drogas e à dependência química; 18 5 4 0 1 2 63 - Acesso às ações de capacitação e aos programas de capacitação profissional 21 4 4 1 0 0 64 - Orientação para o exercício de suas atividades 22 2 3 1 0 2 65 - Aproveitamento de suas habilidades e competências para o cargo em exercício 23 3 1 1 0 2 66 - Satisfação com seu trabalho 24 2 4 0 0 0 67 - Coerência entre seu trabalho e as atribuições de seu cargo 23 3 3 1 0 0 68 - Apoio e incentivo à qualificação profissional por meio da realização de cursos formais 23 2 3 0 1 1 69 - Representatividade dos técnicos administrativos nos colegiados da unidade e dos cursos 23 4 2 1 0 0
+
+
+
+
+(6) Organização e Gestão da Instituição FUNCIONÁRIOS
+
+
+
+
+
+Eixo: 4
+
+
+
+
+
+Dimensão: 6
+Organização e Gestão da Instituição
+
+
+
+
+
+
+Excelente Muito Bom Regular Insuficiente Não se Não sei
+
+
+
+
+aplica Responder 70 - Atuação dos colegiados da Unidade (Congregação ou Comissão de Implantação); Câmara de Ensino (se houver), CPA 22 7 0 0 0 1 71 - Apoio e orientação do gestor imediato 25 3 0 0 0 2 72 - Representatividade dos técnicos administrativos nos Colegiados da unidade 24 2 3 0 0 1 73 - Estímulo da gestão à participação da equipe na tomada de decisões 24 3 1 0 0 2
+Eixo 5: Infraestrutura Física – Compreende a Dimensão: (7) Infraestrutura FUNCIONÁRIOS
+
+
+
+
+
+Eixo: 5
+
+
+
+
+
+Dimensão: 7
+Infraestrutura Física
+
+
+
+
+
+
+Excelente Muito Bom Regular Insuficiente Não se aplica Não sei Responder 76 - Qual a sua avaliação da estabilidade da internet durante o trabalho? 18 9 2 1 0 0 77 - Secretaria acadêmica 25 5 0 0 0 0 78 - Espaços de convivência 23 4 0 2 0 1
+79- Serviços de segurança 20 6 2 1 0 1 80 - Serviços de limpeza 21 6 2 0 1 0 81 - Cantina 11 2 1 3 9 4 82 - Quantidade 21 3 3 3 0 0 83 - Limpeza/Conservação 22 6 2 0 0 0 84 - Iluminação/ Ventilação 18 4 5 3 0 0 85 - Mobiliário e Equipamentos 23 4 2 1 0 0 86 - Acessibilidade 24 3 2 1 0 0 97- Atendimento ao usuário 23 3 1 3 0 0 98 - Automação do sistema 19 1 4 2 0 4 99 - Qualidade e atualidade do acervo 18 4 2 3 0 3 100- Disponibilidade da bibliografia básica (número de exemplares por título) 17 5 2 3 0 3 101 - Horário de atendimento 18 5 2 4 0 1
+2.5 Procedimentos para a coleta dos dados
+A Área de Avaliação Institucional do Centro Paula Souza em parceria com a CESU, em sintonia com a CPA Central disponibilizou os instrumentos de coleta por meio do WEBSAI entre os dias 03 a 31 de outubro de 2022. Durante o período de coleta, a Comissão monitorou diariamente a participação de toda a comunidade através dos relatórios retirados do Websai. As informações eram repassadas aos coordenadores e setor de divulgação para incentivar a participação de todos.
+2.6 Análise e Discussão dos dados da coleta
+A partir do dia 16 de dezembro de 2022 os dados coletados foram organizados pela CPA, iniciando com a extração/elaboração dos gráficos do WebSai. A CPA da Fatec Baixada Santista Rubens Lara, recebeu da CPA central, a
+planilha com os dados da instituição, elaborou-se a tabulação do questionário e resultados do Websai e organizou os resultados para que a (Direção Geral, Diretoria Administrativa, Diretoria Acadêmica, Biblioteca, Coordenações/professores, etc.) fizessem reuniões de discussões sobre os dados, identificando as fragilidades e as forças para que elaborassem a justificativa em relação aos dados e o plano de melhoria com o seu respectivo cronograma de implementação.
+2.7 Elaboração do Quadro Comparativo para análise dos resultados das avaliações parciais de 2021 e 2022 e análise global
+
+A CPA elaborou e disponibilizou o Quadro Comparativo com os resultados das avaliações parciais, conforme Quadro do item 4, para que houvesse a análise global das contribuições dos procedimentos de autoavaliação e o impacto, a partir dos 5 eixos, no planejamento e desenvolvimento Institucional. O Quadro foi discutido pela comissão, direção e demais membros da Instituição, envolvendo a representação prevista no Quadro 1.
+
+2.8 Organização das medidas para composição do relatório Primeiramente, os dados foram tabulados podendo assim identificar pontos fracos da instituição. Os pontos de melhoria identificados nas respostas referentes ao corpo administrativo e pedagógico foram encaminhados para os responsáveis dos setores, a fim de analisar e propor as melhorias pertinentes. As melhorias foram discutidas em reunião com a direção geral, diretor administrativo, secretária acadêmica e coordenadores com objetivo de levantar as ações corretivas. Posteriormente, foi feita uma análise de viabilidade técnica e econômica das propostas apresentadas pela equipe.
+
+2.9 Devolutiva dos Resultados para os Segmentos
+As devolutivas foram apresentadas à comunidade (alunos, professores e funcionários) através de cartazes nos principais murais da instituição e por e-mail.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3 DESENVOLVIMENTO
+3.1 Planejamento e Avaliação Institucional Eixo 1:
+Dimensão 8: Planejamento e Avaliação
+
+EIXO DIMENSÃO APRESENTAÇÃO DAS PRINCIPAIS INFORMAÇÕES COLETADAS NO EIXO 1 EIXO 1 Planejamento e Avaliação Institucional Dimensão 8
+DISCENTES:
+07 - Você sabe o que é Plano de Desenvolvimento Institucional (PDI) da sua instituição de ensino? 10 - Frequência às Aulas 11 - Pontualidade 12 - Qualidade das atividades/exercícios/trabalhos apresentados 13 - Desempenho nas avaliações da aprendizagem 14 - Conhecimentos básicos para acompanhar as disciplinas 15 - Participação em sala de aula (contribuir com comentários, exemplos, experiências etc.) 16 -Organização e tempo dedicado para os estudos (cronograma, estudos extraclasse, leitura e revisão de conteúdos aprendidos) 17 –Convívio acadêmico (integração, trabalho em equipe, respeito à diversidade, proatividade)
+DOCENTES:
+08 - Você conhece o Plano de Desenvolvimento Institucional (PDI) da sua instituição de ensino? 09 - Você Promove articulação da (s) disciplina (s) com outra (s) disciplina (s) do curso? 10 - Você Realiza preparação prévia na organização das atividades desenvolvidas na disciplina. 11 - Você Utiliza estratégias de ensino (metodologias) que favorecem o interesse, envolvimento e a aprendizagem dos estudantes? 12 - Você Procura desenvolver uma comunicação transparente, mantendo os estudantes bem- informados sobre tudo o que se refere à sua disciplina? 13 - Na condução da (s) disciplina (s) /turma (s) foi mantido um clima de respeito à diversidade de opiniões? 14 - Você Prepara as avaliações utilizando múltiplos instrumentos e objetivando diagnosticar a necessidade de aprendizagem dos estudantes. 15 - Foi necessário oferecer diferentes situações para a superação de dificuldades dos estudantes, promovendo estratégias de recuperação da aprendizagem? 16 - No desenvolvimento da(s) disciplina(s)/turma(s) contribuí para ampliar a capacidade de argumentação dos estudantes sobre os temas do conteúdo da área? 17 - Os estudantes conseguiram aprofundar os conhecimentos na área? 18 - As devolutivas das avaliações que realizei (provas, trabalhos, exercícios, entre outros) contribuíram para melhorar o desempenho dos estudantes?
+19 - Sente-se comprometido com o sucesso escolar dos alunos, contribuindo para reduzir a evasão oferecendo indicadores da (s) sua (s) turma (s) para que ocorra a gestão voltada para a melhoria?
+CORPO ADMINISTRATIVO:
+08 - Você conhece o Plano de Desenvolvimento Institucional (PDI) da sua instituição de ensino?
+3.2 Eixo 2: Desenvolvimento Institucional
+Dimensão 1: Missão e Plano de Desenvolvimento Institucional
+Dimensão 3: Responsabilidade Social da Instituição
+EIXO DIMENSÃO APRESENTAÇÃO DAS PRINCIPAIS INFORMAÇÕES COLETADAS NO EIXO 2 EIXO 2 Desenvolvimento Institucional
+Dimensões 1 e 3
+DISCENTES:
+Dimensão: 1 18 - Você conhece a missão do CPS? 19 – Com relação à missão Institucional de “ Promover a educação pública profissional e tecnológica...do estado de São Paulo”, como avalia o cumprimento dessa missão por parte da Fatec? 20 - Formação de profissionais qualificados 21 - Disseminação da ciência, tecnologia e inovação 22 - Disseminação da cultura e da arte 23 - Disseminação de valores éticos e democráticos 24 - Inclusão social 25 - Desenvolvimento sustentável Dimensão: 3 26 - Atendimento de pessoas com deficiência 27 - Transferência de conhecimento da Fatec para a comunidade externa 28 - Participação da comunidade externa no contexto institucional 29 - Ações institucionais para a sustentabilidade 30 - Implementação de políticas para que não ocorram ações de discriminação
+DOCENTES:
+Dimensão: 1 20 - Formação de profissionais qualificados 21 - Disseminação da ciência, tecnologia e inovação 22 - Disseminação da cultura e da arte 23 - Disseminação de valores éticos e democráticos 24 - Inclusão social
+25 - Desenvolvimento sustentável 26 - Coerência do PDI em relação à missão 27 - Contribuição de toda a comunidade para o cumprimento da missão 28 - Prática e difusão da missão Dimensão: 3 Dimensão: Responsabilidade Social da Instituição 29 - Atendimento de pessoas com deficiência 30 - Transferência de conhecimento da Fatec para a comunidade externa 31 - Participação da comunidade externa no contexto institucional 32 - Ações institucionais para a sustentabilidade
+CORPO ADMINISTRATIVO:
+Dimensão: 1 Missão e Plano de Desenvolvimento Institucional 09 - Formação de profissionais qualificados 10 - Disseminação da ciência, tecnologia e inovação 11 - Disseminação da cultura e da arte 12 - Disseminação de valores éticos 13 - Inclusão social 14 - Desenvolvimento sustentável 15 - Cumprimento das metas do PDI 16 - Estímulo para conhecer e praticar a missão Institucional 17 - Estímulo para conhecer e contribuir para o cumprimento do PDI 18 - Relação da Missão e do PDI com a prática profissional. 19 - Assiduidade 20 - Pontualidade 21 - Proatividade 22 - Iniciativa 23 - Dedicação e comprometimento 24 - Busca de aperfeiçoamento 25 - Atitude colaborativa 26 - Relacionamento interpessoal e trabalho em equipe 27 - Respeito hierárquico 28 - Conhecimento na área de atuação 29 - Busca de melhoria contínua 30 - Comunicação 31 - Disposição para aprender
+Dimensão: 3 Dimensão: Responsabilidade Social da Instituição 32 - Atendimento de pessoas com deficiência 33 - Prestação de serviços da Fatec para a Comunidade Externa 34 - Interação entre a Fatec e a comunidade externa 35 - Ações voltadas para as questões sociais e ambientais 36 - Cursos de formação voltados para atender a comunidade externa 37 - Participação dos técnico-administrativos nas atividades do ensino 38 - Participação dos técnico-administrativos nas atividades da pesquisa 39 - Participação dos técnico-administrativos nas atividades da extensão
+40 - Interação entre os técnico-administrativos e os docentes 41 - Interação entre os técnico-administrativos e os discentes
+
+O Plano de Desenvolvimento institucional (Ano 2019 – Ano 2023) foi um dos principais documentos que nortearam as ações da Fatec Rubens Lara da Baixada Santista, tratou-se de um documento que se caracterizou como uma identidade da Instituição, definindo, dentre outros, sua filosofia de trabalho, missão, estratégias, objetivos, estrutura e diretrizes pedagógicas, algo a ser continuado no PDI para os anos de 2021 - 2023. A FATEC BS Rubens Lara tem como missão: Promover a educação profissional pública dentro de referenciais de excelência, visando ao atendimento das demandas sociais e do mundo do trabalho para desenvolvimento do país e do setor produtivo da Baixada Santista e tem como público-alvo a sociedade da região metropolitana da Baixada Santista e seus atores (empresas, indústria, comércio e setor portuário).
+3.3 Eixo 3: Políticas Acadêmicas
+
+Dimensão 2: Políticas para o Ensino, a Pesquisa e a Extensão
+Dimensão 4: Comunicação com a Sociedade
+Dimensão 9: Política de Atendimento aos Discentes
+
+
+
+
+
+
+
+
+EIXO DIMENSÃO APRESENTAÇÃO DAS PRINCIPAIS INFORMAÇÕES COLETADAS NO EIXO 3 EIXO 3 Políticas Acadêmicas Dimensões 2, 4 e 9
+DISCENTES:
+Dimensão: 2 Políticas para o Ensino, a Pesquisa e a Extensão 31 - Projeto Pedagógico do Curso – PPC 32 - Matriz curricular do curso 33 - Atividades de ensino 34 - Atividades de pesquisa 35 - Atividades de extensão 36 - Corpo docente (conjunto de professores) 37 - Práticas didático-pedagógicas dos professores 38 - Correspondência entre o curso e a formação para o exercício profissional 39 - Estágio supervisionado como espaço de formação profissional 40 - Eventos científicos e de extensão 41 - Incentivo à pós-graduação 42 - Domínio dos conteúdos pelos docentes 43 - Satisfação com o curso escolhido 44 - Atenção dada aos alunos com dificuldade de acompanhar os conteúdos 45 - Correção feita pelos professores quanto as avaliações 46 - Realização de projetos interdisciplinares 47 - Articulação entre as disciplinas (interdisciplinaridade) 48 - As metodologias de ensino para seu envolvimento e aprendizagem 49 - A transparência da comunicação no que se refere as informações da disciplina 50 - A manutenção de clima de respeito à diversidade de opiniões 51 - A utilização diversificada dos instrumentos de avaliação da aprendizagem 52 - O estímulo e o apoio ao desenvolvimento de sua autonomia sobre os temas e conteúdo da área. 53 - A correção conjunta das avaliações 54 – Os professores apresentam no início de cada semestre os seus planos de ensino? 55 – Como avalia a qualidade da Fatec que você escolheu? 56 – Como avalia a possibilidade do uso do ensino híbrido, considerando um percentual da carga horária de forma remota? Dimensão: 4 Dimensão: Comunicação com a Sociedade 57 - Concurso Vestibular 58 - Resoluções dos Colegiados (Congregação ou Comissão de Implantação); Câmara de Ensino, Pesquisa e Extensão (CEPE), Conselho Departamental ou NDE/Coordenadoria; Colegiado de curso) 59 - Normas acadêmicas, legislação e calendários 60 - Editais de bolsas, intercâmbios e/ou oportunidades de pesquisa e extensão 61 - O acesso da comunidade externa às atividades desenvolvidas pela Fatec. 62 - Sistema de informação interna (site, murais, jornais etc.) 63 - Site oficial da Fatec 64 - Publicações nos murais
+65 - SIGA 66 - Ouvidoria 67 - Mídias Sociais Dimensão: 9 Dimensão: Política de Atendimento aos Discentes 68 - Programas de apoio pedagógico (monitoria, nivelamento, reforço do aprendizado) 69 - Programa de apoio financeiro (bolsas) 70 - Programas de Intercâmbio e bolsas de mobilidade 71 - Estímulo a organização estudantil 72 - (Espaço para participação e convivência estudantil) 73 - Estímulo à frequência no ambiente escolar
+
+DOCENTES:
+Dimensão: 2 Políticas para o Ensino, a Pesquisa e a Extensão 33 - Articulação de seu componente curricular com o Projeto Pedagógico do Curso 34 - Estrutura curricular 35 - Sistema de avaliação da aprendizagem 36 - Atividades de ensino 37 - Atividades de pesquisa 38 - Atividades de extensão 39 - Corpo técnico-administrativo 40 - Corpo docente 41 - Práticas didático-pedagógicas dos docentes 42 - Articulação de conhecimentos disciplinares com temas sociais, políticos e culturais 43 - Correspondência entre o curso e a formação para o exercício profissional 44 - Estágio supervisionado como espaço de formação profissional 45 - Como avalia a política de ensino, pesquisa e extensão tendo em vista a formação do perfil do egresso do curso. 46 - Como avalia se o(s) curso (s) cumpre (m) as políticas de ensino, pesquisa e extensão previstas no PDI. Dimensão: 4 Dimensão: Comunicação com a Sociedade 47 - O acesso da comunidade externa às atividades desenvolvidas pela Fatec. 48 - Sistemas de informação da Fatec 49 - Concurso vestibular 50 - Resoluções dos Colegiados (Congregação ou Comissão de Implantação); Câmara de Ensino, Conselho Departamental ou NDE/Coordenadoria; Colegiado de curso) 51 - Editais de concursos, processos seletivos, bolsas, intercâmbios, etc. 52 - Informações advindas da coordenação de curso 53 - Oportunidades de Pesquisa 54 - Oportunidades de Extensão 55 - Normas acadêmicas, legislação e calendários 56 - Eventos acadêmicos-científicos 57 - Site oficial da Fatec 58 - Publicações nos murais 59 - Boletins e informativos Fatec (Impressos ou por e–mail) 60 - Ouvidoria
+61 - SIGA 62 - Caixa e/ou espaço para sugestões 63 - Mídias Sociais Dimensão: 9 Dimensão: Política de Atendimento aos Discentes 64 - Programas de apoio -pedagógico (monitoria, nivelamento, recuperação e reforço do aprendizado) 65 - Programa de apoio financeiro (bolsas) 66 - Bolsas (Programas de Intercâmbio e de Mobilidade Acadêmica) 67 - Estímulo a organização estudantil (Espaço para participação e convivência estudantil) 68 - Acompanhamento de Egressos (ex-alunos)
+CORPO ADMINISTRATIVO:
+Dimensão: 2 Políticas para o Ensino, a Pesquisa e a Extensão 37 - Participação dos técnico-administrativos nas atividades do ensino 38 - Participação dos técnico-administrativos nas atividades da pesquisa 39 - Participação dos técnico-administrativos nas atividades da extensão 40 - Interação entre os técnico-administrativos e os docentes 41 - Interação entre os técnico-administrativos e os discentes Dimensão: 4 Dimensão: Comunicação com a Sociedade 42 - Eventos que vão ocorrer na Fatec e envolvimento dos técnicos administrativos 43 - Envolvimento do pessoal técnico administrativo no Concurso Vestibular 44 - Das decisões dos órgãos superiores da Fatec 45 - Normas acadêmicas, legislação e calendários 46 - Editais de concursos públicos e processos seletivos docentes (professores e auxiliares) 47 - Editais de bolsas e intercâmbios 48 - Oportunidades de capacitação profissional 49 - Eventos acadêmicos - científicos 50 - Site oficial da Fatec 51 - Publicações nos murais 52 - Ouvidoria 53 - Caixa e/ou espaço para sugestões 54 - Mídias sociais da Fatec Dimensão: 9 Dimensão: Política de Atendimento aos Discentes 55 - Programas de apoio -pedagógico (monitoria, nivelamento, reforço do aprendizado) 56 - Programa de apoio financeiro (bolsas) 57 - Programas de Intercâmbio e Mobilidade Acadêmica 58 - Estímulo à organização estudantil 59 - (Espaço para participação e convivência estudantil) 60 - Acompanhamento de Egressos (ex-alunos)
+
+
+
+3.4 Eixo 4: Políticas de Gestão
+Dimensão 5: Políticas de Pessoal
+Dimensão 6: Organização e Gestão da Instituição
+Dimensão 10: Sustentabilidade Financeira
+
+
+
+
+
+DIMENSÃO APRESENTAÇÃO DAS PRINCIPAIS INFORMAÇÕES COLETADAS NO EIXO 4 Eixo 4 Políticas de Gestão Dimensões 5 e 6
+DISCENTES:
+Dimensão: 6 Dimensão: Organização e Gestão da Instituição 74 - Resolução dos conflitos baseado no diálogo e negociação 75 - Estímulo e apoio no desenvolvimento das resoluções de situações problemas 76 - Atuação dos Colegiados da Unidade (Congregação ou Comissão de Implantação); Câmara de Ensino, Pesquisa e Extensão (CEPE); (se houver), CPA (Comissão Própria de Avaliação) 77 - Atuação do colegiado de curso (Ex: Conselho de curso, NDE - Núcleo Docente Estruturante - / Coordenadoria; Colegiado de curso) 78 - Atuação da representação Discente nos Colegiados da unidade e do curso 79 - O reconhecimento da equipe de direção como uma liderança capaz de coordenar e levar adiante as ações prioritárias desta Unidade 80 - FETEPS 81 - Programas de Estágios 82 - Programas de Iniciação Científica 83 - Programa INOVA Paula Souza
+DOCENTES:
+Dimensão: 5 Dimensão: Políticas de Pessoal 69 - Oportunidades de progressão/promoção 70 - Critérios de Evolução Funcional 71 - Incentivo a Formação Continuada 72 - Programas de Capacitação e Atualização Profissional Dimensão: 6 Dimensão: Organização e Gestão da Instituição 73 - Participação da Direção na resolução de conflitos
+74 - Atuação dos Colegiados da Unidade (Congregação ou Comissão de Implantação); Câmara de Ensino, Pesquisa e Extensão - CEPE (se houver) 75 - Atuação do colegiado de curso (Ex: Conselho Departamental, NDE – Núcleo Docente estruturante/Coordenadoria; colegiado de curso) 76 - Oportunidades de Pesquisa e Extensão 77 - Representatividade docente nos Colegiados da Unidade 78 - Representatividade docente nos Colegiados de curso 79 - FETEPS 80 - Programa de Iniciação científica (PIBIC) 81 - Programa de Estágios 82 - INOVA Paula Souza
+CORPO ADMINISTRATIVO:
+Dimensão: 5 Dimensão: Políticas de Pessoal 61 - Programas relacionados com a saúde do servidor 62 - Programas relacionados com prevenção às drogas e dependência química; 63 - Acesso às ações de capacitação e aos programas de capacitação profissional 64 - Orientação para o exercício de suas atividades 65 - Aproveitamento de suas habilidades e competências para o cargo em exercício 66 - Satisfação com seu trabalho 67 - Coerência entre seu trabalho e as atribuições de seu cargo 68 - Apoio e incentivo à qualificação profissional por meio da realização de cursos formais 69 - Representatividade dos Técnicos-administrativos nos Colegiados da unidade e dos cursos Dimensão: 6 Dimensão: Organização e Gestão da Instituição 70 - Atuação dos Colegiados da Unidade (Congregação ou Comissão de Implantação); Câmara de Ensino (se houver), CPA (Comissão Própria de Avaliação) 71 - Apoio e orientação do gestor imediato 72 - Representatividade dos Técnicos-administrativos nos Colegiados da unidade 73 - Estímulo da gestão à participação da equipe na tomada de decisões
+
+
+3.5 Eixo 5: Infraestrutura Física
+
+Dimensão 7: Infraestrutura Física
+
+
+
+
+
+
+
+
+
+EIXO DIMENSÃO APRESENTAÇÃO DAS PRINCIPAIS INFORMAÇÕES COLETADAS NO EIXO 5 Eixo 5 Infraestrutura Física Dimensão 7
+DISCENTES:
+Dimensão: 7 Dimensão: Infraestrutura Física 86 – Secretaria acadêmica 87 - Espaços de convivência 88 - Serviços de segurança 89 - Serviços de limpeza
+DOCENTES:
+Dimensão: 7 Dimensão: Infraestrutura Física 85 – Secretaria acadêmica 86 - Espaço de convivência 87 - Serviços de segurança 88 - Serviços de limpeza
+CORPO ADMINISTRATIVO:
+Dimensão: 7 Dimensão: Infra-estrutura Física 76 - Qual a sua avaliação da estabilidade da internet durante o teletrabalho? 77 – Secretaria acadêmica 78 - Espaços de convivência 79 - Serviços de segurança 80 - Serviços de limpeza.
+
+
+
+
+
+
+4 QUADRO PARA A ANÁLISE COMPARATIVA DOS RELATÓRIOS PARCIAIS 2020/2021 E ANÁLISE GLOBAL EIXO 1: PLANEJAMENTO E AVALIAÇÃO INSTITUCIONAL
+
+AÇÕES PROPOSTAS NO RELATÓRIO DE 2020
+
+
+AÇÕES REALIZADAS
+
+AÇÕES PROPOSTAS NO RELATÓRIO DE 2021
+AÇÕES REALIZADAS ANÁLISE GLOBAL E A CONTRIBUIÇÃO PARA O PLANEJAMENTO E DESENVOLVIMENTO INSTITUCIONAL Fortalecer a divulgação do PDI junto aos discentes ( x ) SIM ( ) NÃO Fortalecer a divulgação do PDI junto aos discentes ( x ) SIM ( ) NÃO Tornar permanente as ações na unidade, criando e mapeando os processos de comunicação adequado as necessidades institucionais. Dar apoio discente, aplicando políticas de assistências ao estudante até cobrir a totalidade das necessidades pedagógicas, criando e oferecendo melhores condições e a melhoria contínua dos processos pedagógicos e acadêmicos. Capacitar e incentivar a utilização de novas metodologias e tecnologias de ensino. Palestrantes e profissionais da área junto a visitas técnicas ( x) SIM ( ) NÃO Capacitar e incentivar a utilização de novas metodologias e tecnologias de ensino. Palestrantes e profissionais da área junto a visitas técnicas ( x ) SIM ( ) NÃO Fomentar inovações no processo de ensino-aprendizagem, criando estratégias para o ensino inovador. EIXO 2: DESENVOLVIMENTO INSTITUCIONAL
+
+AÇÕES PROPOSTAS NO RELATÓRIO DE 2020
+
+AÇÕES REALIZADAS
+
+AÇÕES PROPOSTAS NO RELATÓRIO DE 2021
+AÇÕES REALIZADAS ANÁLISE GLOBAL E A CONTRIBUIÇÃO PARA O PLANEJAMENTO E DESENVOLVIMENTO INSTITUCIONAL Expandir ações e evento junto a comunidade externa e atuar junto as empresas para que alunos sejam contratados LEI Nº 8.213, DE 24 DE JULHO DE 1991. (x) SIM ( ) NÃO Expandir ações e evento junto a comunidade externa e atuar junto as empresas para que alunos sejam contratados LEI Nº 8.213, DE 24 DE JULHO DE 1991. ( x) SIM ( ) NÃO Estimular a informação continuada em busca das metas e objetivos institucionais para o alcance destes e monitorar os indicadores da unidade com os da instituição. Fomentar ambientes institucionais de discussão de propostas e estratégias para o ensino inovador e prover o desenvolvimento social.
+Pesquisas junto as empresas, congresso CITEG – e publicação em jornais e revistas locais ( x) SIM ( ) NÃO Pesquisas junto as empresas, congresso CITEG – e publicação em jornais e revistas locais ( x ) SIM ( ) NÃO Incentivo a pesquisa aplicada em todas as áreas do curso da Fatec, contribuindo para o desenvolvimento das empresas regionais. EIXO 3: POLÍTICAS ACADÊMICAS
+
+AÇÕES PROPOSTAS NO RELATÓRIO DE 2020
+
+AÇÕES REALIZADAS
+
+AÇÕES PROPOSTAS NO RELATÓRIO DE 2021
+AÇÕES REALIZADAS ANÁLISE GLOBAL E A CONTRIBUIÇÃO PARA O PLANEJAMENTO E DESENVOLVIMENTO INSTITUCIONAL Melhorar a comunicação e incentivar a comunidade acadêmica a participar dos programas já implantados ( x ) SIM ( ) NÃO Melhorar a comunicação e incentivar a comunidade acadêmica a participar dos programas já implantados ( x ) SIM ( ) NÃO Acompanhar e refletir o caráter sistêmico do processo de ensino aprendizagem, analisando a sua importância nas relações bilaterais que envolve uma unidade de ensino. Fazer da avaliação do processo de aprendizagem uma ação contínua, analisando as diferentes etapas do processo; avaliar o processo e não apenas o produto; avaliar a aprendizagem de formação de valores com o mesmo interesse que os conteúdos conceituais; Fazer a avaliação ocorrer em todos os momentos do processo, ou seja, no início (diagnóstica), no final (somativa), e longo de todo o processo (formativa). Incentivar a participação nos cursos de capacitação oferecidos pelo CPS. ( x ) SIM ( ) NÃO Incentivar a participação nos cursos de capacitação oferecidos pelo CPS. ( x ) SIM ( ) NÃO Estimular a participação em atividades de extensão, oferecidas pelo CPS e por outras Fatecs..Monitorar os indicadores de participação. EIXO 4: POLÍTICAS DE GESTÃO
+
+AÇÕES PROPOSTAS NO RELATÓRIO DE 2020
+
+AÇÕES REALIZADAS
+
+AÇÕES PROPOSTAS NO RELATÓRIO DE 2021
+AÇÕES REALIZADAS ANÁLISE GLOBAL E A CONTRIBUIÇÃO PARA O PLANEJAMENTO E DESENVOLVIMENTO INSTITUCIONAL Estreitar relação institucional entre empresas, faculdade e CIEE entre outros. Criação de espaço de divulgação dos estágios. (mural, site da Fatec. ( x ) SIM ( ) NÃO Estreitar relação institucional entre empresas, faculdade e CIEE entre outros. Criação de espaço de divulgação dos estágios. (mural, site da Fatec. ( x ) SIM ( ) NÃO Disponibilizar e oferecer mecanismos de obtenção de qualificação e capacitação destinadas ao corpo docente, acrescido de treinamentos profissionais e cursos de curta duração ou “livres” específicos e inerentes à área de atuação dos mesmos. Incentivar a busca da titulação; Expandir ações já realizadas com empresas e setor produtivo se possível desenvolver convênios, parcerias etc., junto ao CPS como por exemplo chamamento público para fins específicos tem contribuído muito. Criar programas de extensão e pós-graduação, quando possível e autorizado. Cronograma anual para estes.
+Melhorar a comunicação ( x ) SIM Melhorar a comunicação ( x ) SIM Divulgar e estimular a participação em atividades de extensão, como: Semana de Planejamento e
+para informar o que há e como, quando e onde fazer. Incentivar o corpo docente para qualificação constante. ( ) NÃO para informar o que há e como, quando e onde fazer. Incentivar o corpo docente para qualificação constante. ( ) NÃO Aperfeiçoamento Pedagógico – SPAP, Congressos do CPS e de outras Fatecs, além das palestras de seminários oferecidos durante o semestre letivo. Monitorar os indicadores de participação. EIXO 5: INFRAESTRUTURA
+
+AÇÕES PROPOSTAS NO RELATÓRIO DE 2020
+AÇÕES REALIZADAS
+
+AÇÕES PROPOSTAS NO RELATÓRIO DE 2021 AÇÕES REALIZADAS ANÁLISE GLOBAL E A CONTRIBUIÇÃO PARA O PLANEJAMENTO E DESENVOLVIMENTO INSTITUCIONAL Nenhuma fragilidade foi detectada nesse eixo ( ) SIM ( ) NÃO Nenhuma fragilidade foi detectada nesse eixo ( ) SIM ( ) NÃO Elaborar um relatório semestral das ações sobre melhoria de infraestrutura que contemple: Necessidades Solicitações Recebimento e não recebimento Doações Plano de expansão da unidade e impactos na infraestrura atual e futura
+
+5 ANÁLISE DOS DADOS E AÇÕES PROPOSTAS (DADOS DE 2021)
+Quadro 2 – Levantamento das fragilidades e potencialidades e projeção das ações corretivas.
+EIXO 1: PLANEJAMENTO E AVALIAÇÃO INSTITUCIONAL FRAGILIDADES AÇÕES PLANEJADAS AÇÕES REALIZADAS
+PRAZOS Desconhecimento sobre o PDI (Discentes/Docentes) Disponibilizar no portal da Fatec/BS o PDI Solicitação de disponibilização no portal da Fatec Jun/2022
+Participação em sala de aula (Discentes) Estimular o uso de Metodologias Ativas nas aulas Capacitação dos docentes, possibilitando inovações no processo de ensino-aprendizagem Contínuo Organização e tempo para estudos (Discentes) Palestras e cursos sobre Gestão do Tempo Orientações dos docentes durante as aulas. Contínuo
+
+
+
+
+
+
+
+POTENCIALIDADES AÇÕES PLANEJADAS AÇÕES REALIZADAS PRAZOS Conhecimento do PDI pelo Administrativo Reuniões com o Administrativo para manter o conhecimento sobre o PDI em alta Reuniões periódicas sobre o PDI Contínuo Administrativo – 90% dos indicadores de excelência Palestras e cursos Academia INOVA Contínuo Docentes – 95% dos indicadores de excelência Palestras e cursos SPAP – Academia INOVA Contínuo
+
+
+
+
+
+
+
+
+EIXO 2: DESENVOLVIMENTO INSTITUCIONAL FRAGILIDADES AÇÕES PLANEJADAS AÇÕES REALIZADAS PRAZOS Disseminação da cultura e da arte Visitas técnicas na região Visitas virtuais devido a pandemia Contínuo Atendimento de pessoas com deficiência Capacitação em softwares para acessibilidade, devido a pandemia Pesquisa e disseminação entre os docentes de softwares para acessibilidade Contínuo Desenvolvimento sustentável Desenvolvimento de projetos sustentáveis junto a sociedade Intercâmbio internacional com uma universidade do Chile, organizado pelo curso de logística, sobre Economia Circular Projeto Economia Circular – Reciclagem, regional Contínuo
+
+
+
+
+
+
+
+
+POTENCIALIDADES AÇÕES PLANEJADAS AÇÕES REALIZADAS PRAZOS Disseminação da ciência, tecnologia e inovação Incentivar a participação dos discentes e docentes nos programas de ciência, tecnologia e inovação promovidos pelo CPS Organização de equipes para participar dos programas de ciência, tecnologia e inovação promovidos pelo CPS Contínuo Inclusão social Solicitação e divulgação do programa de chips de internet para discentes Distribuição de chips de internet para os discentes de todos os cursos Contínuo
+
+
+
+
+
+
+
+
+
+
+
+
+
+EIXO 3: POLÍTICAS ACADÊMICAS FRAGILIDADES AÇÕES PLANEJADAS AÇÕES REALIZADAS
+PRAZOS Atividades de extensão Incentivar a oferta de Atividades de extensão em todos os cursos Participações nos congressos CITEG e Fateclog Criação de palestras e cursos online Contínuo Estágio supervisionado Ampliação de convênios com empresas e vagas de estágio supervisionado Divulgação dos cursos junto a empresas da região. Formalização de convênios com empresas Contínuo Incentivo à pós-graduação Divulgação do programa de Mestrado do CPS Divulgação do programa de Mestrado do CPS Contínuo
+
+
+
+
+
+
+
+
+POTENCIALIDADES AÇÕES PLANEJADAS AÇÕES REALIZADAS PRAZOS Atividades de pesquisa Incentivo a pesquisa científica nas disciplinas dos cursos Elaboração de artigos científicos pelos alunos e publicação em congressos Contínuo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EIXO 4: POLÍTICAS DE GESTÃO FRAGILIDADES AÇÕES PLANEJADAS AÇÕES REALIZADAS
+PRAZOS Programa relacionados com a saúde do servidor Atuação dos colegiados da unidade (congregação) Orientações nas Semana de Planejamento e Aperfeiçoamento Pedagógico – SPAP Contínuo Feteps (organização e gestão da instituição) Incentivar a inovação nos cursos Divulgação do Feteps e incentivo nas disciplinas para inscrição de projetos Contínuo
+
+
+
+
+
+
+
+
+
+
+
+
+POTENCIALIDADES AÇÕES PLANEJADAS AÇÕES REALIZADAS PRAZOS Produção de atividades para aulas online (Teams) Curso para docentes e discentes Apoio da unidade para professores e alunos (Davi) Contínuo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EIXO 5: INFRAESTRUTURA FRAGILIDADES AÇÕES PLANEJADAS AÇÕES REALIZADAS
+PRAZOS Discente: Avaliação da ferramenta TEAMS quanto a utilização de chats/canais on-line durante as aulas. Treinamento da utilização da ferramenta TEAMS para o corpo discente. Treinamento da utilização da ferramenta TEAMS para o corpo discente, por parte do CPS e também via ‘focal point’ da unidade Fatec RL. Ao longo do ano
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+POTENCIALIDADES AÇÕES PLANEJADAS AÇÕES REALIZADAS PRAZOS Docente: Utilização da Ferramenta TEAMS para preparação das aulas ONLINE Treinamento da utilização da ferramenta TEAMS para o corpo docente, discente e funcionários. Treinamento da utilização da ferramenta TEAMS para o corpo docente, discente e funcionários. Ao longo do ano Produção de atividades do teletrabalho Treinamento da utilização da ferramenta TEAMS para o corpo docente, discente e funcionários. Treinamento da utilização da ferramenta TEAMS para o corpo docente, discente e funcionários. Ao longo do ano
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6 CONSIDERAÇÕES FINAIS
+Dentre as principais ações advindas desse processo podemos salientar que a direção e coordenadorias estão com foco em melhorar todas as fragilidades apontadas e manter os potenciais da unidade.
+Diversos Fatores Críticos de Sucesso ( FCS ) estão sendo aplicados em modo contínuo visando atingir níveis de excelência na operacionalização e gestão da FATEC BAIXADA SANTISTA RUBENS LARA. Dentre os FCSs em regime de revisão e aperfeiçoamento contínuo, podemos destacar:
+
+- reforço na divulgação da Missão de nossa IES, - do PDI, - da Supervisão de Estágios, - do sistema de gestão SIGA, - da Ouvidoria, - dos programas de apoio financeiros, - do programa de intercâmbio estudantil, - do funcionamento dos Órgãos Colegiados ( Congregação, da própria CPA, do CEPE, FETEPS ), - entre outros FCS.
+Os resultados aqui apresentados contemplam as dez dimensões autoavaliativas do SINAES e foram analisados e discutidos por todos os membros da comunidade institucional: direção, coordenações de cursos, setores administrativos, gestores, professores e alunos.
+Os dados coletados e as análises e propostas foram amplamente divulgadas e serão objeto de comparação na próxima avaliação, para elucidar os avanços alcançados, reforçando o quanto a avaliação contribui para a gestão dos resultados.
+
+
+
+
+
+
+Anexo 1: Quadro 1 - DISTRIBUIÇÃO DOS DADOS DA PESQUISA
+SETORES DADOS DOS DOCENTES DADOS DOS DISCENTES DADOS DO PESSOAL TECNICO- ADMINISTRATIVO DIREÇÃO GERAL Dimensão 8 – Planejamento e Avaliação Dimensão 1 - Missão e Plano de Desenvolvimento Institucional Dimensão 3 - Responsabilidade Social da Instituição Dimensão 4 – Comunicação com a Sociedade Dimensão 9 – Política de Atendimento aos Discentes Dimensão 5 – Políticas de Pessoal Dimensão 6 – Organização e Gestão Institucional Dimensão 7 – Infraestrutura Física
+Dimensão 8 – Planejamento e Avaliação Dimensão 1 - Missão e Plano de Desenvolvimento Institucional Dimensão 3 - Responsabilidade Social da Instituição Dimensão 4 – Comunicação com a Sociedade Dimensão 9 – Política de Atendimento aos Discentes Dimensão 6 – Organização e Gestão Institucional Dimensão 7 – Infraestrutura Física Dimensão 8 – Planejamento e Avaliação Dimensão 1 - Missão e Plano de Desenvolvimento Institucional Dimensão 3 - Responsabilidade Social da Instituição Dimensão 4 – Comunicação com a Sociedade
+DIRETORIA ADMINISTRATIVA Dimensão 4 – Comunicação com a Sociedade Dimensão 5 – Políticas de Pessoal Dimensão 7 – Infraestrutura Física
+Dimensão 4 – Comunicação com a Sociedade Dimensão 7 – Infraestrutura Física
+Dimensão 8 – Planejamento e Avaliação Dimensão 5 – Políticas de Pessoal Dimensão 6 – Organização e Gestão Institucional Dimensão 7 – Infraestrutura Física DIRETORIA ACADÊMICA Dimensão 4 – Comunicação com a Sociedade Dimensão 7 – Infraestrutura Física
+Dimensão 4 – Comunicação com a Sociedade
+Dimensão 4 – Comunicação com a Sociedade
+
+
+
+COORDENAÇÃO DOS CURSOS Dimensão 8 – Planejamento e Avaliação Dimensão 1 - Missão e Plano de Desenvolvimento Institucional Dimensão 2 – Ensino, Pesquisa e Extensão Dimensão 4 – Comunicação com a Sociedade Dimensão 9 – Política de Atendimento aos Discentes Dimensão 6 – Organização e Gestão Institucional Dimensão 8 – Planejamento e Avaliação Dimensão 1 - Missão e Plano de Desenvolvimento Institucional Dimensão 2 – Ensino, Pesquisa e Extensão Dimensão 9 – Política de Atendimento aos Discentes Dimensão 6 – Organização e Gestão Institucional Dimensão 2 – Ensino, Pesquisa e Extensão

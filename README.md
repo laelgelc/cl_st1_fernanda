@@ -4,3 +4,7 @@
 
 - Examine a data sample;
 - Suggest metadata organisation.
+
+## Corpus Linguistics - Study 1 - Phase 1 - Fernanda
+
+- Extract data for a pilot Lexical Multi-Dimensional Analysis.

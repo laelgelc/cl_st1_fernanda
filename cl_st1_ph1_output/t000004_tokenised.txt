@@ -1,0 +1,1170 @@
+1 __________________________________________________________________________ Administração Central Unidade do Ensino Superior de Graduação
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Diadema – São Paulo 2023
+FATEC DIADEMA – LUIGI PAPAIZ RELATÓRIO DE AUTOAVALIAÇÃO INSTITUCIONAL 2022 2 __________________________________________________________________________ Administração Central Unidade do Ensino Superior de Graduação
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial Direção / Coordenação de Cursos
+
+Direção Geral
+Profa. Dra. Rosângela Maura Correia Bonici Coordenador do Curso de Graduação Tecnológica em
+Cosméticos: Prof. Dr. Ricardo Pedro Coordenador do Curso de Graduação Tecnológica em
+Gestão da Produção Industrial Prof. Dr.Gonçalo Siqueira Coordenador do Curso de Graduação Tecnológica em
+Desenvolvimento de Software Multiplataforma: Profa. Ms. Andréa Zotovici
+Presidente da CPA Profa. Ms. Rosilene Kinue Ito
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3 __________________________________________________________________________ Administração Central Unidade do Ensino Superior de Graduação
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial Comissão Própria de Avaliação – CPA
+
+
+
+Representante docente (Presidente)
+Profª Me. Rosilene Kinue Ito Representante discente
+Thaís Santos de Souza Representante do corpo técnico administrativo
+Maria Lucelane da Silva Santos Representante da Sociedade Civil
+Abner Brancaglion da Luz
+
+
+
+
+
+
+
+4 __________________________________________________________________________ Administração Central Unidade do Ensino Superior de Graduação
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial SUMÁRIO
+
+
+
+I Identificação da FATEC: ................................................................................................................. 04 II Atos Regulatório ............................................................................................................................. 04 III Composição da Comissão Própria de Avaliação (CPA) .......................................................... 04 1 INTRODUÇÃO ............................................................................................................................... 05 2 METODOLOGIA ............................................................................................................................ 08 2.1 Cronograma de atividades da CPA .......................................................................................... 10 2.2 Sensibilização .............................................................................................................................. 11 2.3 Sujeitos da avaliação .................................................................................................................. 13 2.4 Instrumentos de coleta ............................................................................................................... 13 2.5 Procedimentos para a coleta ..................................................................................................... 14 2.6 Análise e discussão dos dados da coleta ................................................................................ 14 2.7 Organização das medidas para a composição do relatório .................................................. 15 2.8 Devolutiva dos resultados para os segmentos ....................................................................... 15 3 DESENVOLVIMENTO ................................................................................................................... 15 3.1 Eixo 1: Planejamento e Avaliação Institucional ...................................................................... 16 3.2 Eixo 2: Desenvolvimento Institucional ...................................................................................... 21 3.3 Eixo 3: Políticas Acadêmicas ..................................................................................................... 35 3.4 Eixo 4: Políticas de Gestão ........................................................................................................ 46 3.5 Eixo 5: Infraestrutura Física ....................................................................................................... 53 4 ANÁLISE DOS DADOS E AÇÕES PROPOSTAS ................................................................ 60 5 CONSIDERAÇÕES FINAIS ..................................................................................................... 67
+
+
+
+
+4
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial I Identificação da FATEC:
+
+
+
+
+
+
+
+
+
+II Atos Regulatórios ATO REGULATÓRIO Ato Regulatório: Credenciamento Prazo de validade: Vinculados ao ciclo avaliativo Tipo de documento: Decreto No. Documento: 54.728 Data do Documento: 01/09/2009 Data de Publicação: 01/09/2009
+III Composição da Comissão Própria de Avaliação (CPA)
+A Comissão Própria de Avaliação da FATEC DIADEMA – LUIGI PAPAIZ foi instituída pela Portaria nº 25/2022, de 31 de maio de 2022. Com mandato até 01/06/2025 para os membros dos segmentos: docente, Técnico Administrativo e Sociedade Civil e com mandato até 01/06/2023 para o membro do segmento discente. Possuindo a seguinte composição:
+NOME SEGMENTO REPRESENTATIVO Profª Me. Rosilene Kinue Ito Docente Thaís Santos de Souza Discente Maria Lucelane da Silva Santos Auxiliar Administrativo Abner Brancaglion da Luz Sociedade Civil
+
+FATEC: FATEC DIADEMA – LUIGI PAPAIZ CÓDIGO DO CPS: 217 CÓDIGO E-MEC: 18099 Representante Legal da IES: Diretor (a): Profª Drª Rosângela Maura Correia Bonici Endereço Completo: Avenida Luiz Merenda, 443 – CEP: 09931-390 Bairro: Jardim Campanário Município: Diadema Telefone: (11) 4092-2328 e 4092-2471 E-mail: f217dir@cps.sp.gov.br 5
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial 1 INTRODUÇÃO
+A Fatec Diadema Luigi Papaiz possui a crença na avaliação institucional como instrumento de gestão. Por meio dela temos condições de reunir indicadores capazes de suscitar análises e discussões possibilitando definir planos de melhorias de forma continuada. Sabe-se que a Lei 10.861/2014, que define o Sistema Nacional de Avaliação da Educação Superior (SINAES), estabelece, em seu Artigo 3º, que a avaliação institucional tem por objetivo identificar o perfil da IES e o significado de sua atuação, por meio de suas atividades, cursos, programas, projetos e setores, considerando as diferentes dimensões institucionais, consolidadas em cinco eixos, sempre objetivando evidenciar os referenciais mínimos de qualidade exigidos pela excelência de ensino que é um dos pilares da pratica de todas as faculdades de tecnologias do Estado de São Paulo vinculadas ao Centro Paula Souza. Por meio do desenvolvimento do presente relatório, serão apresentados os dados e as informações referentes aos eixos, dimensões e indicadores em consonância com o Plano de Desenvolvimento Institucional (PDI) da Fatec e em consonância com as diretrizes emanadas do Centro Paula Souza. Breve histórico A Fatec Diadema – Luigi Papaiz nasce a partir de um sonho do senhor Luigi Papaiz, imigrante italiano formado pelo Instituto Profissional Salesiano de Bolonha, fundador da empresa Papaiz que, em 1982 adquiriu 90.000 m2 de terreno ao longo da Rodovia dos Imigrantes, no limite do município de Diadema e construiu uma fábrica de 31.000 m2 com a intensão de usar uma parte do terreno para construção de uma instituição de ensino profissional. Em 2005, dando continuidade aos ideais deixados por Luigi Papaiz, a família Papaiz implantou a ideia de construir uma instituição de ensino profissional nos moldes da Fatec e doou ao governo do Estado de São Paulo 5.214 metros quadrados do terreno com o objetivo de construção de uma unidade da Faculdade de Tecnologia – FATEC em Diadema. No início do projeto da Fatec Diadema, estavam alocadas na cidade aproximadamente 10% das empresas de cosméticos do Brasil, entre fabricantes de cosméticos e empresas pertencentes à cadeia produtiva do setor, tais como fabricantes de matérias-primas, embalagens, máquinas e equipamentos, insumos de laboratório, 6
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial distribuidores, etc., responsáveis por 8.000 empregos diretos, 3.000 empregos indiretos e por 3% da arrecadação municipal. Visando atender os segmentos emergentes da atividade industrial a Prefeitura de Diadema juntamente com empresários locais do setor cosmético propuseram ao Centro Paula Souza a criação de um curso superior de tecnologia em Cosméticos que propiciasse formação nesta área de relevância econômica ao município. Nos anos seguintes, por meio de uma cooperação entre empresa privada, prefeitura do município de Diadema, governo do estado de São Paulo e do Centro o Paula Souza, o prédio da Fatec foi construído e a Fatec de Diadema – Luigi Papaiz foi criada no dia 01 de setembro de 2009 pelo Decreto nº 54.728, pelo Governador José Serra e iniciou suas atividades acadêmicas em agosto de 2012 com o Curso Superior de Tecnologia Cosméticos, com 80 vagas semestrais no período vespertino e noturno. Teve o seu parecer de autorização do Conselho Estadual de Educação em 2012 (Parecer CEE 480/2012). Em 2016 foi solicitado a CESU autorização para mudança de turno do curso do período vespertino para o período matutino. O curso inicia as atividades no período matutino no 1º semestre de 2017. A fim de expandir a oferta de cursos à comunidade local, em 2018 foi realizada uma pesquisa entre empresários locais e Prefeitura de Diadema para identificar o perfil da região. Ficou evidente a importância do setor da indústria no estado de São Paulo e na região do grande ABC e Diadema. Por meio desses contatos identificou-se a necessidade e a existência de demanda para a oferta do Curso Superior de Tecnologia em Gestão da Produção Industrial. Em dezembro de 2018 foi enviado o ofício nº278/2018 ao Centro Paula Souza solicitando a autorização para implantação do curso superior de Tecnologia em Gestão da Produção Industrial no período noturno que foi autorizada em abril de 2019. A primeira turma teve início em agosto de 2019. Visando atender a demanda do setor de Tecnologia da Informação e Comunicação (TIC) a Fatec Diadema implementou o Curso Superior de Tecnologia em Desenvolvimento de Software Multiplataforma no 1° semestre de 2022 como forma de curso experimental, com a justificativa de que segundo dados da Associação Brasileira de Empresas de Tecnologia da Informação e Comunicação (Brasscom), o mercado nacional emprega 1,56 milhão de trabalhadores atualmente, com mais de 40 mil postos de trabalho criados em 2019. Desse montante, 42,8% está em São Paulo. A previsão é de que o setor demande, até 2024, 70 mil profissionais por ano, cerca de 20 mil a mais do que se formam em cursos da área de TIC. A subárea Softwares e Serviços TIC, uma das principais em que o egresso poderá atuar, 7
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial possui 656.711 postos de trabalho, com um aumento de quase 30 mil vagas em 2019, ainda segundo estudo da Brasscom1 . Destaca-se ainda o grande crescimento no número de startups no Brasil, empresas que geralmente absorvem grande número de desenvolvedores, por terem seus modelos de negócio centrados em TI. Em 2019, o Brasil já tinha 12.700 empresas neste modelo, 27% a mais que em 2018, segundo a Associação Brasileira de Startups (Abstartups). A Fatec de Diadema está localizada na Avenida Luiz Merenda, 443, Jardim Campanário, no terreno que fica de fundos com o Grupo Papaiz. A Unidade possui estrutura ampla com cerca de 5.000 m2 de área construída, onde estão distribuídos em três pavimentos cinco laboratórios (Química I, Química II, Análise Instrumental, Desenvolvimento, Ciências Biológicas), quatro plantas piloto (Maquiagem, Produtos Líquidos, Produtos Sólidos, Produtos Semissólidos), dois laboratórios de informática, um espaço com computadores para uso livre dos alunos, uma biblioteca, 15 quinze salas de aula, uma sala de professores, 4 quatro salas administrativas (diretoria de serviços administrativos, diretoria de serviços acadêmicos, coordenação de curso e direção), seis sanitários coletivos (três femininos e três masculinos), seis sanitários individuais adaptados (três masculinos e três femininos) e um elevador.
+Curso Autorização Reconhecimento/ RENOVAÇÃO DATA Prazo de reconhecime nto ENADE Tecnologia em Cosméticos Portaria CEE/GP Nº 079/2012 Portaria CEE/GP Nº 70/15
+Portaria CEE/GP Nº 325/17
+
+Portaria CEE/GP Nº 06/2023
+24/02/2015
+
+11/07/2017
+
+09/02/2023
+
+Aprovado por 5 anos
+Aprovado por 5 anos Não realiza. Tecnologia em Gestão da Portaria CEETEPS Nº 748185/2019
+Portaria CEE/GP Nº 317/2022 28/09/2022 Aprovado por 2 anos Curso consta do CNCST 8
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial Produção Industrial Tecnologia em Desenvolvimento de Software Multiplataforma Parecer CD Nº 94/2020
+
+
+Curso experimental
+
+
+9
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial TOTAL DE ALUNOS MATRICULADOS NA UNIDADE
+NÚMERO DE ALUNOS CURSOS Tecnologia em Cosméticos 356 Tecnologia em Gestão da Produção Industrial 176 Tecnologia em Desenvolvimento de Software Multiplataforma 107
+CURSOS TITULAÇÃO DOCENTE % Tecnologia em Cosméticos Doutores 38%
+Mestres 58%
+Especialistas 4% Tecnologia em Gestão da Produção Industrial Doutores 39%
+Mestres 61%
+Especialistas 0% Tecnologia em Desenvolvimento de Software Multiplataforma Doutores 10%
+Mestres 80%
+Especialistas 10%
+O relatório é apresentado de acordo com a proposta de formatação do Centro Paula Souza. Sendo assim, inicialmente é apresentada a identificação da Fatec Diadema, os atos regulatórios dos cursos, a composição da Comissão Própria de Avaliação (CPA), uma breve histórico da constituição da Fatec Diadema e dos cursos e a metodologia de pesquisa. Em seguida, foram apresentados e discutidos os resultados obtidos a partir da coleta, interpretação e análise dos dados. Finaliza com a identificação das fragilidades, potencialidades, ações corretivas, aproveitamento e ampliação evidenciados pelos dados.
+2 METODOLOGIA Para contribuir com a organização da Comissão Própria de Avaliação de cada Fatec, o Centro Paula Souza, por meio da Área de Avaliação Institucional (AAI) e da Unidade de Ensino Superior de Graduação (CESU), organizaram a comissão da CPA Central.
+Assumindo como centro organizativo as atribuições que lhe competem, a saber: I – Contribuir com o planejamento, orientação e monitoramento dos procedimentos da autoavaliação Institucional das FATECs; 10
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial II – Utilizar os indicadores coletados nas unidades como instrumento de gestão, oferecendo subsídios para cada uma das áreas da administração central tomar as medidas corretivas; III – Elaborar o Relatório Global da Autoavaliação para os processos de recredenciamento institucional. IV – Elaborar o cronograma da autoavaliação para as Fatecs, considerando o prazo de 31 de março de cada ano para o protocolo dos relatórios da autoavaliação no sistema e-mec do Ministério da Educação. V – Avaliar, indicar possíveis ajustes e autorizar o protocolo dos relatórios das CPAs das FATECs no sistema e-mec. VI – Reunir-se ordinariamente duas vezes no semestre ou de forma extraordinária quando necessário.
+Por meio CPA Central cada Fatec e das Diretorias Pedagógicas Regionais recebe todo o suporte necessário para cumprir o que lhe compete a CPA conforme segue: 1. contribuir com o planejamento, elaboração, coordenação e monitoramento dos processos de avaliação interna, apresentando o projeto de autoavaliação Institucional que norteará todos os procedimentos de autoavaliação para a CPA Central em consonância com a equipe de Supervisão Regional das FATECs. 2. apoiar os processos internos de avaliação; 3. sistematizar e prestar informações relativas às políticas de autoavaliação institucional, solicitadas pelos Sistemas Federal e Estadual de Avaliação da Educação Superior, além de atender à demanda interna da Supervisão Regional e da CPA Central do Centro Paula Souza; 4. constituir subcomissões de avaliação; 5. constituir grupos temáticos ou focais voltados para a avaliação de cada uma das dez dimensões estabelecidas no artigo anterior; 6. elaborar e analisar relatórios e pareceres, encaminhando-os a CPA Central; 7. desenvolver estudos e análises, colaborando com os órgãos próprios ou terceirizados do Centro Paula Souza, visando ao fornecimento de subsídios para afixação, o aperfeiçoamento e a modificação da política de avaliação institucional; 8. acompanhar, analisar e correlacionar os resultados da autoavaliação com os resultados dos alunos do Centro Paula Souza no ENADE, bem como em outros processos de avaliação; 9. aprovar seu próprio regulamento.
+Os relatórios parciais e/ou integrais da autoavaliação deverão ser elaborados com periodicidade anual, encaminhados para a CPA Central seguindo o cronograma de planejamento apresentado nas orientações gerais e protocolados até 31 de março de cada ano. Ficando disponíveis para serem apreciados pela comissão de especialistas designada pelo Conselho Estadual de Educação para a visita à Instituição em seu processo de recredenciamento, conforme dispõe a Deliberação do CEE 160/2018.
+
+
+
+
+11
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial 2.1 Cronograma das atividades da CPA A partir desta estrutura a CPA da Fatec Diadema – Luigi Papaiz para cumprir o que lhe compete, durante o ano de 2022 elaborou o seguinte cronograma de trabalho:
+
+AÇÕES MESES 2023 JAN FEV MAR ABR MAI JUN JUL AGO SET OUT NOV DEZ JAN/ FEV/ MAR Reuniões online com a Direção, coordenações de Cursos para sistematização as ações e composições de grupos de trabalho.
+
+x
+
+
+
+
+
+
+
+
+
+Encontros online da equipe CPA para organizar e desenvolver estratégias de maneira integrada a partir da percepção dos diferentes segmentos que compõem a comissão.
+
+x
+
+
+
+
+x x x
+
+Sensibilização para participação nos procedimentos e coleta: Encontros online com representantes de turmas, lives, webinar, informativos, site, entre outros, para alimentar a cultura avaliativa da Fatec.
+
+
+
+
+
+
+
+x x x
+
+Organização dos procedimentos de coleta de dados: elaboração das ações voltadas para estimular e monitorar a participação de toda a comunidade no preenchimento do formulário de coleta.
+
+
+
+
+
+
+
+
+x x
+
+Análise dos resultados – acolhimento dos dados da coleta e início dos procedimentos de análise.
+
+
+
+
+
+
+
+
+
+
+x
+Encaminhamento dos dados coletados para cada área competente: cada área recebe os dados faz a análise e apresenta a justificativa e o Plano de Melhorias da área - ações planejadas a partir dos resultados e encaminha para a CPA
+
+
+
+
+
+
+
+
+
+
+
+x Elaboração do relatório a partir da devolutiva das áreas.
+
+
+
+
+
+
+
+
+
+
+
+x Envio do Relatório para a apreciação da CPA Central
+
+
+
+
+
+
+
+
+
+
+
+x 12
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial Divulgação dos resultados à comunidade acadêmica.
+
+
+
+
+
+
+
+
+
+
+
+x Conclusão do Relatório.
+
+
+
+
+
+
+
+
+
+
+
+x
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2.2 Sensibilização Para a efetivação do cronograma destaca-se algumas das ações para a realização dos procedimentos de autoavaliação. O relatório da CPA ano de 2021 ficou disponível a todos através de uma cópia impressa na biblioteca. No mês de outubro a sensibilização foi iniciada por meio dos cartazes abaixo, estes foram colocados em todos os quadros de aviso, na sala dos professores e nas salas de aula e na TV de avisos da secretaria Acadêmica, além disso, foram enviados e-mails aos docentes, funcionários e alunos informando sobre a importância na participação do questionário. Os membros da CPA ficaram à disposição da comunidade acadêmica para sanar dúvidas e resolver problemas de acesso ao questionário, acompanharam a participação através dos relatórios do WebSai e passaram em todas as salas convidando os alunos que ainda não haviam participado do questionário a irem aos laboratórios de informática para participarem. 13
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial
+
+
+14
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial 2.3 Sujeitos da avaliação Participaram da autoavaliação os discentes do 1º ao 6º período (turno matutino e noturno) do CST em Cosméticos, do 1º ao 6º período (noturno) do CST em GPI e do 1° e 2° do CST em Desenvolvimento de Software Multiplataforma período (matutino); os docentes; e os servidores técnico-administrativo da unidade. Responderam aos questionários 50% dos alunos, 100% dos auxiliares docentes, 100% dos coordenadores de curso, 90% dos docentes, 100% da equipe de direção e 100% dos funcionários. 2.4 Instrumentos de Coleta Desde 1997 o Centro Paula Souza, evidenciando o seu pioneirismo em buscar indicadores para gerar melhoria de seus serviços criou o Sistema de Avaliação Institucional (SAI), implantado em 1999 em todas as Etecs (Escolas de Ensino Técnico no nível médio) e, em 2000, nas Fatecs, seguindo os mais rigorosos critérios estatísticos. Sendo os instrumentos elaborados e preenchidos em formulários impressos de 1999 a 2012. A partir de 2010, os questionários deixaram de ser preenchidos em formulário de papel e passaram a ser totalmente on-line, trazendo mais agilidade ao processo de avaliação. Desde então, todos os participantes realizam a pesquisa pela internet e o SAI passou a ser chamado de WebSAI. Para que as Fatecs tivessem apenas um instrumento que pudesse contemplar as 10 dimensões dentro dos 5 eixos avaliativos, a partir da criação da comissão da CPA Central a AAI em parceria com a CESU, por meio de uma equipe qualificada, reorganizou a elaboração dos Instrumentos adequando-os em torno dos 5 eixos avaliativos: Os instrumentos de avaliação foram organizados em três categorias docentes, discentes e técnicos-administrativos e são constituídos por perguntas de múltipla escolha. Para os docentes foram disponibilizadas 109 questões, aos discentes 110 questões e aos técnicos-administrativos 101 questões, organizadas nas 10 dimensões dentro dos 5 eixos avaliativos propostos pelo SINAES. 15
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial 2.5 Procedimentos para a coleta
+A AAI disponibilizou o acesso ao sistema de coleta (websai) a partir de 03 de outubro de 2022 ficou disponível para o preenchimento da comunidade do dia 31 de outubro de 2022. Para favorecer a participação da comunidade durante este período a CPA e Direção da Fatec Diadema - Luigi Papaiz, fez o acompanhamento da participação de cada segmento, realizando a sensibilização contínua para a participação. Durante todo o período de coleta, os coordenadores de curso incentivaram seus docentes e alunos a participarem do processo de coleta de dados. A CPA periodicamente verificava no site de WebSai a quantidade de questionários respondido e não respondidos e ainda avaliou quais eram os semestres com menos participação. Além de e-mails enviados aos alunos não participantes foram feitos convites pessoalmente nas salas desses alunos visando a maior adesão possível. A CPA se organizou em determinados dias e horários e deixou o laboratório de informática disponível para os alunos participarem do questionário, ficando a disposição para sanar as dúvidas de acesso ao Websai.
+2.6 Análise e Discussão dos dados da coleta
+A partir do dia 12 de dezembro de 2022 os dados coletados por meio do Websai, foram disponibilizados pela AAI. A Fatec Diadema - Luigi Papaiz por meio da CPA iniciou o processo de organização dos dados coletados para encaminhamento para cada setor de acordo com o Quadro 1. A CPA da Fatec Diadema - Luigi Papaiz, extrai os dados em formato de planilhas do excel com os resultados de cada segmento pesquisado: discentes, docentes e funcionários técnico administrativos. A partir daí os dados coletados foram organizados pela CPA, iniciando com a extração/elaboração dos gráficos. A CPA da Fatec Diadema – Luigi Papaiz organizou os dados conforme o Quadro 1 (anexo I) e encaminhou para os setores, via e-mail, para que a Direção Geral, Diretoria Administrativa, Diretoria Acadêmica e Coordenações de Curso fizessem reuniões de discussões sobre os dados identificando as fragilidades, as potencialidades, ações corretivas, aproveitamento e ampliação; elaborassem a justificativa em relação aos dados e o plano de melhoria com o seu respectivo cronograma de 16
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial implementação e colocassem estes dados nos quadros apresentados nos itens 3 e 4 deste relatório.
+2.7 Organização das medidas para composição do relatório
+
+Após o processo de análise e discussão dos dados coletados, cada setor encaminhou para a CPA da Fatec Diadema – Luigi Papaiz, os resultados presentes no Quadro 2 (anexo 2), com o apontamento das fragilidades e o planejamento das medidas corretivas, assim como as potencialidades e as possíveis ações de manutenção e melhorias. Os quadros apresentados, foram condensados no capítulo 4 deste relatório, refletindo o planejamento da Fatec Diadema – Luigi Papaiz a partir dos indicadores observados em cada eixo avaliativo.
+2.8 Devolutiva dos Resultados para os Segmentos
+
+Após a apresentação do relatório para a Direção da Fatec Diadema – Luigi Papaiz, foram organizadas as formas de divulgação dos resultados e apresentação das ações provenientes do processo de autoavaliação, permitindo o desenvolvimento Institucional. Os resultados presentes nesse relatório serão encaminhados para os setores, via e- mail, serão apresentados aos docentes na Reunião Pedagógica de 2023 e disponibilizado nos murais físicos da Unidade de Ensino. Deixaremos ainda disponível na biblioteca uma cópia para consulta dos interessados.
+3 DESENVOLVIMENTO Considerando os instrumentos da autoavaliação, estruturados a partir das 10 dimensões previstas no art. 3º da Lei nº 10.861 (SINAES), nesta parte do relatório, a CPA deverá apresentar as informações que foram coletadas, a partir da organização de 5 eixos, que articulam as 10 dimensões, conforme disposto na Nota Técnica INEP nº 065, como segue:
+
+
+
+17
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial 3.1 Planejamento e Avaliação Institucional Eixo 1:
+
+Dimensão 8: Planejamento e Avaliação
+EIXO DIMENSÃO APRESENTAÇÃO DAS PRINCIPAIS INFORMAÇÕES COLETADAS NO EIXO 1 EIXO 1 Planejamento e Avaliação Institucional Dimensão 8 TECNICO-ADMINISTRATIVO:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+100% 08 - Você conhece o Plano de Desenvolvimento Institucional (PDI) da sua instituição de ensino? A - Sim B - Não 18
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial DISCENTES:
+
+23,05 25,00 0,00 0,00 0,00 0,00 0,00 0,00 0,65 0,00 0,97 1,95 0,00 0,00 0,00 0,00 0,00 0,32 0,00 0,00 5,19 6,82 1,62 1,95 1,95 3,57 3,57 6,17 15,26 2,27 26,62 25,65 16,23 24,35 20,13 36,69 31,49 35,06 44,16 17,53 35,39 27,92 47,08 40,26 61,69 48,70 50,97 41,56 31,17 48,38 8,77 12,66 35,06 33,44 16,23 11,04 13,96 16,88 8,77 31,82 08 - Como avalia o uso dos indicadores da Avaliação Institucional (WEBSAI) no Planejamento Institucional? 09 - Como avalia as melhorias alcançadas a partir da Avaliação Institucional? 10 - Frequência às aulas 11 - Pontualidade 12 - Qualidade das atividades/exercícios/trabalhos apresentados 13 - Desempenho nas avaliações da aprendizagem 14 - Conhecimentos básicos para acompanhar as disciplinas 15 - Participação em sala de aula (contribuir com comentários, exemplos, experiências, etc.) 16 - Organização e tempo dedicado para os estudos (cronograma, estudos extra classe, leitura e revisão de conteúdos aprendidos) 17 - Convívio acadêmico (integração, trabalho em equipe, respeito à diversidade, proatividade) Dimensão 8: Planejamento e Avaliação A - Excelente B - Muito Bom C - Regular D - Insuficiente E - Não se aplica F - Não sei responder 19
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial 0% 0% #REF! 0 0
+
+
+DOCENTES:
+
+
+
+
+
+
+
+42% 58% 07 - Você sabe o que é o Plano de Desenvolvimento Institucional (PDI) da sua instituição de ensino? A - Sim B - Não 76% 24% 08 - Você conhece o Plano de Desenvolvimento Institucional (PDI) da sua instituição de ensino? A - Sim B - Não 20
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial DOCENTES:
+
+O Plano de Desenvolvimento Institucional – PDI de cada umas das Faculdades de Tecnologia – Fatecs é o instrumento de gestão para o alinhamento dos trabalhos das Unidades de Ensino com 1,82 0 0 0 0 0 9,09 0 0 0 0 9,09 0 1,82 0 0 1,82 30,91 0 1,82 0 0 25,45 7,27 16,36 3,64 3,64 9,09 10,91 16,36 50,91 18,18 10,91 63,64 92,73 81,82 96,36 96,36 89,09 49,09 83,64 47,27 81,82 89,09 09 - Você promove articulação da (s) disciplina (s) com outra (s) disciplina (s) do curso? 10 - Você realiza preparação prévia na organização das atividades desenvolvidas na disciplina. 11 - Você utiliza estratégias de ensino (metodologias) que favorecem o interesse, envolvimento e a aprendizagem dos estudantes? 12 - Você procura desenvolver uma comunicação transparente, mantendo os estudantes bem informados sobre tudo o que se refere à sua disciplina? 13 - Na condução da (s) disciplina (s) /turma (s) foi mantido um clima de respeito à diversidade de opiniões? 14 - Você prepara as avaliações utilizando múltiplos instrumentos e objetivando diagnosticar a necessidade de aprendizagem dos estudantes. 15 - Foi necessário oferecer diferentes situações para a superação de dificuldades dos estudantes, promovendo estratégias de recuperação da aprendizagem? 16 - No desenvolvimento da(s) disciplina(s)/turma(s) contribuí para ampliar a capacidade de argumentação dos estudantes sobre os temas do conteúdo da área? 17 - Os estudantes conseguiram aprofundar os conhecimentos na área? 18 - As devolutivas das avaliações que realizei (provas, trabalhos, exercícios, entre outros) contribuíram para melhorar o desempenho dos estudantes? 19 - Sente-se comprometido com o sucesso escolar dos alunos, contribuindo para reduzir a evasão oferecendo indicadores da (s) sua (s) turma (s) para que ocorra a gestão voltada para a melhoria? Dimensão 8: Planejamento e Avaliação A - Sempre B - Quase sempre C - Algumas vezes D - Muito raramente 21
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial as Coordenadorias Técnicas e Assessorias da Administração Central do CEETEPS. A estruturação do Plano de Desenvolvimento Institucional (PDI) atual foi desenvolvida com base no Decreto Nº 5.773 de 09 de maio de 2006 e o período para essa edição corresponde aos anos: 2019 – 2023. O Plano de Desenvolvimento Institucional da Fatec Diadema, está intimamente relacionado com os resultados das avaliações institucionais e as respectivas necessidades de melhorias destacadas pela comunidade acadêmica. A Fatec Diadema tem primado por uma gestão participativa e a avaliação institucional é um instrumento de grande relevância na definição de estratégias de ação que busquem a melhoria contínua na qualidade de ensino da instituição. Os gráficos deste eixo permitem a análise do grau de conhecimento do PDI nos 3 grupos (discentes, docentes e técnico-administrativo). Comparando os dados deste ano com os do ano passado percebe-se que o esforço para divulgação e entendimento do PDI foi válido uma vez que atualmente 58% dos discentes desconhecem o PDI no ano anterior 78% não tinham conhecimento. Entre os docentes os números se mantiveram cerca de 24% desconhecem o plano, fato que pode ser explicado pela contratação de docentes por período determinado, muitos ingressam no meio do semestre com as aulas em andamento e não conseguem ter conhecimento de todos os processos da Fatec. Os técnicos-administrativos têm pleno conhecimento do PDI.
+
+
+
+
+22
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial 3.2 Eixo 2: Desenvolvimento Institucional
+Dimensão 1: Missão e Plano de Desenvolvimento Institucional
+Dimensão 3: Responsabilidade Social da Instituição EIXO DIMENSÃO APRESENTAÇÃO DAS PRINCIPAIS INFORMAÇÕES COLETADAS NO EIXO 2 EIXO 2 Desenvolvimento Institucional
+Dimensões 1 e 3 DISCENTES:
+
+
+
+
+23
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+24
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial DOCENTES:
+
+1,82 1,82 5,45 1,82 7,27 9,09 14,55 9,09 3,64 0 0 0 0 0 1,82 0 0 0 3,64 1,82 5,45 3,64 1,82 3,64 0 3,64 0 3,64 12,73 23,64 10,91 7,27 10,91 9,09 7,27 12,73 40 36,36 30,91 30,91 34,55 34,55 34,55 41,82 36,36 50,91 47,27 34,55 52,73 49,09 40 41,82 38,18 47,27 20 - Formação de profissionais qualificados 21 - Disseminação da ciência, tecnologia e inovação 22 - Disseminação da cultura e da arte 23 - Disseminação de valores éticos e democráticos 24 - Inclusão social 25 - Desenvolvimento sustentável 26 - Coerência do PDI em relação à missão 27 - Contribuição de toda a comunidade para o cumprimento da missão 28 - Prática e difusão da missão Dimensão 1: Missão e Plano de Desenvolvimento Institucional A - Excelente B - Muito Bom C - Regular D - Insuficiente E - Não se aplica F - Não sei responder 25
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial TÉCNICO-ADMINISTRATIVO:
+
+0 0 0 0 0 10 0 0 0 0 0 0 0 20 10 10 10 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 20 0 0 10 0 10 10 10 0 50 80 50 40 50 30 50 40 70 50 30 50 20 10 50 40 40 50 50 20 40 70 09 - Formação de profissionais qualificados 10 - Disseminação da ciência, tecnologia e inovação 11 - Disseminação da cultura e da arte 12 - Disseminação de valores éticos 13 - Inclusão social 14 - Desenvolvimento sustentável 15 - Cumprimento das metas do PDI 16 - Estímulo para conhecer e praticar a missão Institucional 17 - Estímulo para conhecer e contribuir para o cumprimento do PDI 18 - Relação da Missão e do PDI com a prática profissional 19 - Assiduidade Dimensão 1: Missão e Plano de Desenvolvimento Institucional A - Excelente B - Muito Bom C - Regular D - Insuficiente E - Não se aplica F - Não sei responder 26
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 10 0 0 0 40 30 30 20 30 30 30 20 50 40 40 30 60 70 70 80 70 70 70 80 40 60 60 70 20 - Pontualidade 21 - Proatividade 22 - Iniciativa 23 - Dedicação e comprometimento 24 - Busca de aperfeiçoamento 25 - Atitude colaborativa 26 - Relacionamento interpessoal e trabalho em equipe 27 - Respeito hierárquico 28 - Conhecimento na área de atuação 29 - Busca de melhoria contínua 30 - Comunicação 31 - Disposição para aprender Dimensão 1: Missão e Plano de Desenvolvimento (continuação) A - Excelente B - Muito Bom C - Regular D - Insuficiente E - Não se aplica F - Não sei responder 27
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial Discentes:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+17,86 19,48 21,75 13,64 18,83 4,55 1,30 2,27 2,27 2,60 15,91 16,88 19,81 12,99 13,31 20,13 24,35 29,55 28,57 21,43 29,87 30,19 19,81 32,79 32,14 11,69 7,79 6,82 9,74 11,69 26 - Atendimento de pessoas com deficiência 27 - Transferência de conhecimento da Fatec para a comunidade externa 28 - Participação da comunidade externa no contexto institucional 29 - Ações institucionais para a sustentabilidade 30 - Implementação de políticas para que não ocorram ações de discriminação Dimensão 3: Responsabilildade Social da Instituiçao A - Excelente B - Muito Bom C - Regular D - Insuficiente E - Não se aplica F - Não sei responder 28
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial Docentes:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10,91 7,27 10,91 7,27 0 0 0 1,82 1,82 1,82 7,27 1,82 20 10,91 10,91 10,91 29,09 45,45 38,18 40 38,18 34,55 32,73 38,18 29 - Atendimento de pessoas com deficiência 30 - Transferência de conhecimento da Fatec para a comunidade externa 31 - Participação da comunidade externa no contexto institucional 32 - Ações institucionais para a sustentabilidade Dimensão 3: Responsabilildade Social da Instituiçao A - Excelente B - Muito Bom C - Regular D - Insuficiente E - Não se aplica F - Não sei responder 29
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial TECNICO-ADMINISTRATIVO:
+0 0 0 10 10 0 0 0 0 0 10 0 0 10 0 20 30 20 0 0 0 0 0 0 10 0 0 0 0 0 10 0 0 10 10 10 20 20 0 0 50 50 60 30 20 50 40 50 50 50 30 50 40 40 50 20 10 10 50 50 32 - Atendimento de pessoas com deficiência 33 - Prestação de serviços da Fatec para a Comunidade Externa 34 - Interação entre a Fatec e a comunidade externa 35 - Ações voltadas para as questões sociais e ambientais 36 - Cursos de formação voltados para atender a comunidade externa. 37 - Participação dos técnicos administrativos nas atividades do ensino 38 - Participação dos técnicos administrativos nas atividades da pesquisa 39 - Participação dos técnicos administrativos nas atividades da extensão 40 - Interação entre os técnicos administrativos e os docentes 41 - Interação entre os técnicos administrativos e os discentes Dimensão 3: Responsabilildade Social da Instituiçao A - Excelente B - Muito Bom C - Regular D - Insuficiente E - Não se aplica F - Não sei responder 30
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial O Plano de Desenvolvimento institucional PDI (2019-2023) e o relatório da CPA de 2021 foram os principais documentos que nortearam as ações da Fatec Diadema. O PDI é um documento que se caracteriza como uma identidade da Instituição, definindo, dentro outros, sua filosofia de trabalho, missão, estratégias, objetivos, estrutura e diretrizes pedagógicas. Os princípios que norteiam o plano de gestão e o PDI são missão institucional, visão de futuro e valores. Missão institucional: “Promover a educação profissional pública de excelência, visando a formação do cidadão ético e responsável, capaz de atuar na construção de conhecimento e estratégias sustentáveis de inovação, com vistas ao atendimento das demandas sociais e do mundo do trabalho”. Visão de futuro: “Consolidar-se como centro de excelência em educação tecnológica, contribuindo para a melhoria da qualidade de vida e do desenvolvimento humano, por meio do ensino, da pesquisa e da extensão”. Valores: “Em todas as suas dimensões, o Centro de Educação Estadual Tecnológica Paula Souza orienta-se por valores éticos, considerando o respeito e a tolerância, educando para a colaboração, para o diálogo e para a cidadania; para a valorização e compartilhamento do conhecimento, da ciência e da tecnologia, vinculando-os à construção de alternativas democráticas e emancipadoras, que assegurem a sustentabilidade, o bem-estar social e a cultura de paz”. Dentro deste contexto, a necessidade do planejamento de ações no âmbito das Instituições de Ensino Superior tem se intensificado nos últimos anos, em decorrência de profundas mudanças no mercado, que apresenta agora uma realidade globalizada e altamente competitiva. Não só a exigência de qualidade por parte dos órgãos reguladores tornou-se mais rigorosa, como também, os acadêmicos passaram a exigir mais, fazendo com que essas Instituições busquem a profissionalização de processos, garantindo a permanência no mercado a partir de uma administração estratégica. Desta forma algumas das atividades estratégicas relacionadas ao tema e que estão descritas no PDI são: • Buscar parceria com entidades particulares e/ou privadas a fim de oferecer orientação profissional (Coaching) aos alunos. • Desenvolver com a ajuda do NDE, projetos interdisciplinares que motivem os docentes e os alunos criando um clima colaborativo e participativo na unidade. • Criar prestígio para os cursos participando mais efetivamente de Congressos, publicando em revistas da área e fazendo parcerias com empresas da área na região. • Estreitar parceria com os órgãos de registro de cada curso para que façam palestras motivacionais e profissionais aos alunos.
+31
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial Dimensão 3: Responsabilidade Social da Instituição Diadema integra a Região Metropolitana de São Paulo, e está inserida na região do ABCD Paulista. Está a 17km distante do marco zero de São Paulo. Desta forma, o público alvo atendido pela Fatec Diadema é constituído por residentes da cidade de São Paulo e das cidades do ABCD, sendo 41% do sexo masculino e 59% do sexo feminino, com idades que variam entre menos de 20 anos e mais de 60, sendo que 77% do público se encontram nas idades entre 20 a 49 anos. A comunidade local é composta por residentes do bairro jardim campanário, local onde a Fatec Diadema está instalada, este bairro apresenta área de 1,959 km² e aproximadamente 29.630 pessoas, nos anos anteriores à pandemia a Fatec Diadema fez ações que promoveram a inserção da comunidade local no contexto institucional através de um curso de inglês voltado à sociedade local e formação de um coral de música com participação da comunidade externa. A pandemia interrompeu a continuidade destes projetos, no entanto, a Fatec Diadema junto com o CPS foram exemplo na contenção da disseminação do vírus para sociedade, uma vez que, implementaram todas as determinações do Governo do Estado de São Paulo. No entanto, no momento oportuno, retomamos os trabalhos presenciais e iniciamos o Projeto Socializa idealizado pela professora Sueli Nanni. Este projeto veio propor uma ação envolvendo alunos ingressantes, veteranos, docentes, comunidade e empresas na coleta de tampinhas de plástico em prol da brinquedoteca do Hospital Estadual Infantil Cândido Fontoura – Moóca, estado de São Paulo e coleta de lacres de alumínio, para a compra de cadeira de rodas para pessoas com necessidades especiais em prol da ONG Turma do Jiló. A proposta com isso é abrir caminhos para incrementar o potencial educativo dentro e fora da escola, podendo se tornar contextos possíveis de ações sociais, mediante a participação de diferentes sujeitos. Esse projeto rendeu um artigo que foi submetido pela professora Sueli Nanni e foi aceito IV Fórum de Metodologias Ativas. Além disso a ABMES concedeu em 2022, a instituição de educação superior (IES), FACULDADE DE TECNOLOGIA DE DIADEMA - LUIGI PAPAIZ, o “Selo Instituição Socialmente Responsável”, certificando a participação na 18ª Campanha da Responsabilidade Social do Ensino Superior. 32
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bancada da entrada da secretaria para recebimento das tampinhas Fonte: unidade de ensino (2022)
+
+Entrega de tampinhas na Fatec Luigi Papaiz - Fonte: unidade de ensino (2022).
+33
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial
+Entrega de tampinhas no hospital infantil Candido Fontoura - Fonte: unidade de ensino (2022) 34
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial
+Bancada da entrada da secretaria para recebimento dos lacres - Fonte: CPA (2022)
+
+
+
+
+
+
+
+35
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial Selo de Responsabilidade Social:
+36
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+37
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial 3.3 Eixo 3: Políticas Acadêmicas
+
+Dimensão 2: Políticas para o Ensino, a Pesquisa e a Extensão Dimensão 4: Comunicação com a Sociedade Dimensão 9: Política de Atendimento aos Discentes
+EIXO DIMENSÃO APRESENTAÇÃO DAS PRINCIPAIS INFORMAÇÕES COLETADAS NO EIXO 3
+
+8,55 1,32 0,66 3,95 19,08 0,66 1,32 6,58 30,26 20,39 17,76 2,63 0 0,66 0 0 0 0,66 0 0 0 0 2,63 3,29 0,66 0 8,55 7,24 5,26 9,87 17,76 5,92 8,55 9,21 22,37 18,42 21,05 3,95 9,21 26,97 26,97 25,66 30,26 25 19,74 30,26 24,34 13,82 22,37 22,37 15,13 21,05 44,74 43,42 52,63 44,08 28,95 48,03 44,74 42,76 23,03 26,32 24,34 44,74 41,45 10,53 21,05 15,79 11,84 8,55 25,66 15,13 17,11 10,53 9,87 11,18 32,89 28,29 31 - Projeto Pedagógico do Curso – PPC 32 - Matriz curricular do curso 33 - Atividades de ensino 34 - Atividades de pesquisa 35 - Atividades de extensão 36 - Corpo docente (conjunto de professores) 37 - Práticas didático-pedagógicas dos professores 38 - Correspondência entre o curso e a formação para o exercício profissional 39 - Estágio supervisionado como espaço de formação profissional 40 - Eventos científicos e de extensão 41 - Incentivo à pós-graduação 42 - Domínio dos conteúdos pelos docentes 43 - Satisfação com o curso escolhido DISCENTES: Dimensão 2: Ensino, Pesquisa e Extensão A - Excelente B - Muito Bom C - Regular D - Insuficiente E - Não se aplica F - Não sei responder 38
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial 0,66 0,66 15,79 9,21 2,63 1,97 4,61 4,61 5,92 2,63 1,32 0 6,58 1,97 0,66 5,26 3,95 0 0 0,66 0 0 0,66 0,66 0 4,61 20,39 9,21 17,11 13,82 8,55 11,84 4,61 11,84 9,21 5,92 2,63 9,87 9,21 32,89 27,63 32,24 32,24 36,18 23,68 25,66 29,61 27,63 27,63 9,21 25,66 11,18 34,21 42,11 22,37 30,26 39,47 46,05 46,71 40,79 47,37 45,39 38,16 40,79 23,03 9,87 19,74 7,24 10,53 13,16 16,45 17,76 13,16 9,87 17,76 48,03 23,68 45,39 44 - Atenção dada aos alunos com dificuldade de acompanhar os conteúdos 45 - Correção feita pelos professores quanto às avaliações 46 - Realização de projetos interdisciplinares 47 - Articulação entre as disciplinas (interdisciplinaridade) 48 - As metodologias de ensino para seu envolvimento e aprendizagem 49 - A transparência da comunicação no que se refere às informações da disciplina 50 - A manutenção de clima de respeito à diversidade de opiniões 51 - A utilização diversificada dos instrumentos de avaliação da aprendizagem 52 - O estímulo e o apoio ao desenvolvimento de sua autonomia sobre os temas e conteúdo da área. 53 - A correção conjunta das avaliações 54 - Os professores apresentam no início de cada semestre os seus respectivos planos de ensino? 55 - Como avalia a qualidade da Fatec que você escolheu? 56 - Como avalia a possibilidade do uso do ensino híbrido, considerando um percentual da carga horária ofertada de forma remota? Dimensão 2: Ensino, Pesquisa e Extensão (continuação) A - Excelente B - Muito Bom C - Regular D - Insuficiente E - Não se aplica F - Não sei responder 39
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial
+
+
+1,82 1,82 0 0 3,64 12,73 0 1,82 5,45 5,45 0 20 9,09 12,73 0 0 0 0 1,82 1,82 0 0 0 1,82 0 0 0 0 0 0 0 1,82 5,45 9,09 5,45 3,64 0 3,64 1,82 3,64 1,82 1,82 7,27 9,09 9,09 5,45 16,36 14,55 5,45 1,82 10,91 14,55 3,64 9,09 10,91 12,73 32,73 38,18 41,82 32,73 36,36 36,36 23,64 25,45 38,18 32,73 36,36 29,09 36,36 27,27 58,18 50,91 49,09 60 36,36 25,45 65,45 67,27 45,45 41,82 58,18 38,18 41,82 45,45 33 - Articulação de seu componente curricular com o Projeto Pedagógico do Curso 34 - Estrutura curricular 35 - Sistema de avaliação da aprendizagem 36 - Atividades de ensino 37 - Atividades de pesquisa 38 - Atividades de extensão 39 - Corpo técnico-administrativo 40 - Corpo docente 41 - Práticas didático-pedagógicas dos docentes 42 - Articulação de conhecimentos disciplinares com temas sociais, políticos e culturais 43 - Correspondência entre o curso e a formação para o exercício profissional 44 - Estágio supervisionado como espaço de formação profissional 45 - Como avalia a política de ensino, pesquisa e extensão tendo em vista a formação do perfil do egresso do curso. 46 - Como avalia se o(s) curso (s) cumpre (m) as políticas de ensino, pesquisa e extensão previstas no PDI. DOCENTES: Dimensão 2: Ensino, Pesquisa e Extensão A - Excelente B - Muito Bom C - Regular D - Insuficiente E - Não se aplica F - Não sei responder 40
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial DISCENTES:
+
+
+3,25 33,44 5,52 7,79 20,45 2,27 3,57 3,90 0,32 37,01 16,23 1,30 1,30 0,00 1,62 3,25 0,32 0,32 0,97 0,32 2,27 1,30 9,09 6,82 5,19 7,14 17,86 11,36 10,39 7,14 14,94 8,44 15,91 18,18 20,13 21,75 21,10 24,03 26,62 30,52 24,68 27,27 20,13 29,22 44,48 28,90 48,38 42,21 24,68 41,56 39,29 43,18 38,64 23,38 26,95 23,70 9,42 19,16 20,13 9,74 17,86 15,91 20,13 18,51 8,77 10,39 57 - Concurso Vestibular 58 - Resoluções dos colegiados (Congregação ou Comissão de Implantação); Câmara de Ensino, Pesquisa e Extensão (CEPE), Conselho Departamental ou NDE/Coordenadoria;… 59 - Normas acadêmicas, legislação e calendários 60 - Editais de bolsas, intercâmbios e/ou oportunidades de pesquisa e extensão 61 - Acesso da comunidade externa às atividades desenvolvidas pela Fatec. 62 - Sistema de informação interna (site, murais, jornais etc.) 63 - Site oficial da Fatec 64 - Publicações nos murais 65 - SIGA 66 - Ouvidoria 67 - Mídias Sociais Dimensão 4: Comunicação Com A Sociedade A - Excelente B - Muito Bom C - Regular D - Insuficiente E - Não se aplica F - Não sei responder 41
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial 14,55 3,64 1,82 10,91 5,45 0 7,27 12,73 1,82 1,82 0 1,82 1,82 25,45 0 14,55 10,91 1,82 0 0 0 0 0 1,82 0 0 0 0 0 1,82 3,64 0 1,82 0 7,27 3,64 3,64 1,82 5,45 5,45 9,09 10,91 1,82 3,64 5,45 1,82 1,82 3,64 3,64 5,45 7,27 16,36 14,55 10,91 9,09 7,27 3,64 14,55 12,73 5,45 10,91 10,91 12,73 12,73 7,27 9,09 12,73 14,55 30,91 43,64 45,45 36,36 30,91 25,45 27,27 29,09 36,36 34,55 49,09 36,36 27,27 23,64 45,45 32,73 36,36 29,09 34,55 38,18 41,82 50,91 65,45 40 34,55 54,55 49,09 34,55 47,27 54,55 36,36 41,82 32,73 30,91 47 - Acesso da comunidade externa às atividades desenvolvidas pela Fatec 48 - Sistemas de informação da Fatec 49 - Concurso vestibular 50 - Resoluções dos colegiados (Congregação ou Comissão de Implantação); Câmara de Ensino, Conselho Departamental ou NDE/Coordenadoria; Colegiado de curso 51 - Editais de concursos, processos seletivos, bolsas, intercâmbios, etc. 52 - Informações advindas da coordenação de curso 53 - Oportunidades de Pesquisa 54 - Oportunidades de Extensão 55 - Normas acadêmicas, legislação e calendários 56 - Eventos acadêmicos-científicos 57 - Site oficial da Fatec 58 - Publicações nos murais 59 - Boletins e informativos Fatec (Impressos ou por e– mail) 60 - Ouvidoria 61 - SIGA 62 - Caixa e/ou espaço para sugestões DOCENTES: Dimensão 4: Comunicação Com A Sociedade A - Excelente B - Muito Bom C - Regular D - Insuficiente E - Não se aplica F - Não sei responder 42
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial TECNICO-ADMINISTRATIVO:
+
+0 0 0 0 0 0 0 0 0 0 10 0 0 0 0 0 0 0 0 0 0 0 0 0 10 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 20 0 10 10 0 40 40 30 40 30 40 50 60 60 20 60 60 80 60 60 70 60 70 60 50 40 20 80 20 20 20 42 - Eventos que vão ocorrer na Fatec e envolvimento dos técnicos administrativos 43 - Envolvimento do pessoal técnico administrativo no Concurso Vestibular 44 - Decisões dos órgãos superiores da Fatec 45 - Normas acadêmicas, legislação e calendários 46 - Editais de concursos públicos e processos seletivos docentes (professores e auxiliares) 47 - Editais de bolsas e intercâmbios 48 - Oportunidades de capacitação profissional 49 - Eventos acadêmicos - científicos 50 - Site oficial da Fatec 51 - Publicações nos murais 52 - Ouvidoria 53 - Caixa e/ou espaço para sugestões 54 - Mídias sociais da Fatec Dimensão 4: Comunicação Com A Sociedade A - Excelente B - Muito Bom C - Regular D - Insuficiente E - Não se aplica F - Não sei responder 43
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial DISCENTES:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+16,56 28,57 24,35 18,18 12,66 4,22 2,27 5,19 1,95 1,30 1,62 1,62 14,29 17,53 10,71 20,13 14,61 12,99 29,87 17,86 23,38 22,40 24,35 29,55 26,30 22,73 28,90 27,92 33,12 36,36 10,71 8,12 10,71 10,06 13,64 15,26 68 - Programas de apoio pedagógico (monitoria, nivelamento, reforço do aprendizado) 69 - Programa de apoio financeiro (bolsas) 70 - Programas de Intercâmbio e bolsas de mobilidade 71 - Estímulo a organização estudantil 72 - Espaço para participação e convivência estudantil 73 - Estímulo à frequência no ambiente escolar Dimensão 9: Política de Atendimento Aos Discentes A - Excelente B - Muito Bom C - Regular D - Insuficiente E - Não se aplica F - Não sei responder 44
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial DOCENTES:
+
+Dimensão 2: Políticas para o Ensino, a Pesquisa e a Extensão
+A Fatec Diadema oferece três cursos na modalidade presencial: Tecnologia em Cosméticos e Gestão da Produção Industrial, ambos com carga horária total de 2800 horas, sendo 2880 aulas. De forma que 2400 horas (atende CNCST) + (240 horas de Estágio Curricular + 160 horas do Trabalho de Graduação) com prazo de integralização mínimo de 3 anos e máximo de 5 anos e o Curso Superior de Tecnologia em Desenvolvimento de Software Multiplataforma com carga horária 7,27 14,55 16,36 9,09 16,36 1,82 10,91 3,64 1,82 5,45 5,45 10,91 10,91 10,91 9,09 12,73 16,36 14,55 18,18 10,91 34,55 27,27 27,27 27,27 27,27 38,18 20 27,27 32,73 30,91 64 - Programas de apoio pedagógico (monitoria, nivelamento, recuperação e reforço do aprendizado) 65 - Programa de apoio financeiro (bolsas) 66 - Bolsas (Programas de Intercâmbio e de Mobilidade Acadêmica) 67 - Estímulo a organização estudantil (espaço para participação e convivência estudantil) 68 - Acompanhamento de Egressos (ex-alunos) Dimensão 9: Política de Atendimento Aos Discentes A - Excelente B - Muito Bom C - Regular D - Insuficiente E - Não se aplica F - Não sei responder 45
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial do curso é distribuída em 2400 horas (atende CNCST) + (240 horas de Estágio Curricular Supervisionado). O curso é presencial, porém no 6º semestre as aulas são ministradas na modalidade remota ao vivo. No decorrer do curso o aluno obterá 6 Micro certificações e 3 Certificações Intermediárias e ao concluir o curso terá direito ao diploma de Tecnólogo em Desenvolvimento de Software Multiplataforma. Cada Micro certificação garantirá uma medalha digital, conhecida no mercado como Badge, enquanto uma Certificação Intermediária garantirá um dos seguintes certificados: Desenvolvedor Front-End, Desenvolvedor Back-End ou Desenvolvedor para Dispositivos Móveis. O aluno terá feedback de desempenho durante todo curso, obtendo medalhas digitais e certificados. O curso de Tecnologia em Cosméticos possui NDE - Núcleo Docente Estruturante, é um órgão consultivo, composto por professores com mestrado e doutorado que se propõem a atuar no processo de concepção, consolidação e contínua atualização do PPC, buscando a continua promoção de sua qualidade. O NDE acompanha a consolidação do PPC e do perfil profissional do egresso do curso; zela pela integração curricular interdisciplinar entre as diferentes atividades de ensino constantes no currículo e pelo cumprimento das Diretrizes Curriculares Nacionais para os cursos de Graduação e ainda indica formas de articulação entre o ensino de graduação, a extensão, a pesquisa e a pós- graduação. Tendo em vista a importância do NDE para o Curso de Gestão da Produção Industrial (implementado no 2° semestre 2019), a Coordenação de Curso organizou seu NDE que foi aprovado em reunião da Congregação do dia 28/10/2020. Para aprimorar a qualidade da produção científica foi escrito com a participação de docentes, direção e coordenação de cursos, o Manual de Trabalhos de Graduação, cuja finalidade é facilitar o processo de produção de trabalhos e promover o desenvolvimento de uma cultura de iniciação científica. O Trabalho de Graduação é desenvolvido por meio de metodologias adequadas à formação dos alunos. A faculdade busca complementar a formação dos discentes por meio do oferecimento constante de diversas atividades acadêmicas científicas culturais, incentiva a participação dos alunos nas feiras tecnológicas da área e organiza visitas técnicas a grandes empresas do setor. Uma vez por ano é realizada a semana tecnológica da Fatec de Diadema, onde profissionais das áreas dos cursos ministram palestras sobre temas relevantes ao mercado de trabalho. No PDI da unidade consta, como estratégia para abranger as atividades e eventos de extensão, manter e ampliar a parceria com a Unifesp de Diadema para que haja cooperação e troca de experiências e de tecnologia entre as duas entidades. Em razão de projeto desenvolvido entre as instituições por meio do curso de Cosméticos, recebemos de doação um laboratório de análise sensorial que agrega muito ao curso. 46
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial Para minimizar o problema de atenção dada aos alunos com dificuldade de acompanhar os conteúdos a gestão propõe através do PDI: abrir semestralmente edital para monitoria nas disciplinas básicas e profissionalizantes que os alunos apresentem maior dificuldade e índice de reprovação a fim de minimizar esse impacto e promover reforço por meio de projetos de HAEs para estas disciplinas. Em relação a realização de projetos interdisciplinares a direção e a coordenação sugerem aos professores o uso de metodologias ativas, colocando o aluno no centro do processo de aprendizagem para que ele assuma uma postura ativa e tenha flexibilidade que possibilite adotar estratégias para construção do seu conhecimento. Por fim, a participação ativa de todo corpo técnico administrativo auxilia o bom desenvolvimento dos cursos. Analisando os dados da pesquisa, observamos que a maioria dos docentes (78%) aprovam a política de ensino, pesquisa e extensão tendo em vista a formação do perfil do egresso do curso, e ainda avaliam que os cursos cumprem essa política de acordo com o previsto no PDI (73%). Os discentes aprovam as atividades de ensino (78%), pesquisa (74%). Com relação à política de extensão as opiniões se dividem, 37% aprovam, 25% consideram regular e 18% insuficiente. Os técnicos administrativos consideram sua participação nas atividades de ensino e pesquisa e extensão excelente ou muito boa. No geral, as políticas para o Ensino, a Pesquisa e a Extensão foram bem avaliadas pelos três grupos, sendo que apenas as atividades de incentivo à extensão merecem um pouco mais de atenção.
+Dimensão 4: Comunicação com a Sociedade
+Em relação aos meios de comunicação utilizados pela Fatec Diadema, os dados dos docentes, discentes e técnicos administrativos mostram que os sistemas de informação da Fatec funcionam satisfatoriamente, no que se refere a: coordenação de curso, concurso vestibular, resoluções dos Colegiados (Congregação; Câmara de Ensino, NDE e Colegiado de curso); pesquisa e extensão; normas acadêmicas, legislação e calendários; eventos científicos acadêmicos; site oficial da Fatec; publicações nos murais; boletins e informativos enviados por e-mail; ouvidoria; SIGA; caixa de sugestões e mídias sociais. Esta dimensão foi bem avaliada pelos três grupos, porém nota-se que cerca de 33% dos alunos não sabem responder sobre as resoluções dos Colegiados, 37% dos alunos não souberam responder sobre a ouvidoria e 29% consideram nossas mídias sociais regulares.
+
+
+47
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial Dimensão 9: Política de Atendimento aos Discentes A política de atendimento ao estudante inicia-se no ingresso, existem três formas de acesso às Fatecs: vestibular, transferência e vagas remanescentes. A Secretaria Acadêmica é o órgão que operacionaliza todas as atividades ligadas à vida acadêmica do aluno, desde seu ingresso até a expedição do Diploma. A capacidade da Secretaria de atender bem e oferecer respostas e soluções com agilidade e segurança são atributos que fixam a imagem não só do próprio setor como de toda a instituição, mesmo com número reduzido de funcionários conseguiu cumprir com todas suas obrigações com excelência. O apoio pedagógico é realizado pela Coordenação de cursos, por meio de atendimento individual e coletivo nos horários disponíveis, com o objetivo de orientá-los no processo de ensino e aprendizagem. Quando há necessidade, são realizadas reuniões com os representantes de classe a fim de discutir e solucionar os problemas que porventura existirem, deliberar sobre questões acadêmicas e pedagógicas. Também fazem a divulgação e organização de eventos culturais e pedagógicos relacionados à área de interesse do curso. Para a seleção dos alunos monitores, é realizada a divulgação da vaga de monitoria entre os alunos por meio de abertura de edital, de acordo com o disposto no Regulamento Geral dos Cursos de Graduação das Faculdades de Tecnologia. Há vagas para monitores bolsistas e voluntários. As bolsas auxílio são distribuídas, após seleção, aos que apresentarem maior Percentual de Rendimento (PR). A seleção é realizada pelo professor da disciplina que é o responsável pelo acompanhamento e orientação do monitor selecionado. Após o processo seletivo o horário de atendimento dos monitores é amplamente divulgado na instituição. Passando para os dados da pesquisa WebSai relativo aos docentes e técnicos- administrativos, eles mostram que os programas de apoio-pedagógico (monitoria, nivelamento, recuperação e reforço do aprendizado) são aprovados como excelente ou muito bom, bem como os programas de intercâmbio e mobilidade acadêmica. Concordam que os alunos têm espaço para participação e convivência estudantil e que há acompanhamento de egressos. Já os dados dos discentes são bem heterogêneos, 37% consideram os programas de apoio- pedagógico (monitoria, nivelamento, recuperação e reforço do aprendizado) são excelentes ou muito bons, mas 30% já consideram regular. Um fato importante é que a presença de alunos a esses programas sempre é muito baixa, limitada quase sempre às vésperas das avaliações. Muitos alunos não conhecem os programas de apoio financeiro (34%), programas de intercâmbio e mobilidade acadêmica (26%). Há alunos (47%) que concordam que há espaço para participação e convivência estudantil, mas (24%) consideram regular ou desconhecem (14%). Observa-se que cerca de um terço dos docentes e alunos, desconhecem os programas de apoio financeiro (26% dos docentes e 34% dos discentes). De fato, pelo CPS, só temos as bolsas de monitorias cujo valor é irrisório.
+48
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial 3.4 Eixo 4: Políticas de Gestão
+Dimensão 5: Políticas de Pessoal Dimensão 6: Organização e Gestão da Instituição Dimensão 10: Sustentabilidade Financeira
+
+
+
+
+DIMENSÃO APRESENTAÇÃO DAS PRINCIPAIS INFORMAÇÕES COLETADAS NO EIXO 4 Eixo 4 Políticas de Gestão Dimensões 5, 6 e 10 DOCENTES:
+
+
+
+
+
+
+1,82 3,64 3,64 1,82 3,64 3,64 1,82 1,82 12,73 10,91 10,91 9,09 14,55 21,82 9,09 12,73 34,55 27,27 36,36 30,91 32,73 32,73 38,18 43,64 69 - Oportunidades de progressão/promoção 70 - Critérios de Evolução Funcional 71 - Incentivo a Formação Continuada 72 - Programas de Capacitação e Atualização Profissional Dimensão 5: Políticas de Pessoal A - Excelente B - Muito Bom C - Regular D - Insuficiente E - Não se aplica F - Não sei responder 49
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial TECNICO-ADMINISTRATIVO:
+
+
+0 0 0 0 0 0 0 0 0 0 10 0 0 0 0 0 0 0 0 0 0 0 0 10 0 0 0 10 20 30 10 10 10 10 20 20 70 30 20 50 30 20 40 30 50 20 40 50 40 60 60 50 50 30 61 - Programas relacionados com a saúde do servidor 62 - Programas relacionados com prevenção às drogas e à dependência química; 63 - Acesso às ações de capacitação e aos programas de capacitação profissional 64 - Orientação para o exercício de suas atividades 65 - Aproveitamento de suas habilidades e competências para o cargo em exercício 66 - Satisfação com seu trabalho 67 - Coerência entre seu trabalho e as atribuições de seu cargo 68 - Apoio e incentivo à qualificação profissional por meio da realização de cursos formais 69 - Representatividade dos técnicos administrativos nos colegiados da unidade e dos cursos Dimensão 5: Políticas de Pessoal A - Excelente B - Muito Bom C - Regular D - Insuficiente E - Não se aplica F - Não sei responder 50
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial DOCENTES:
+7,27 10,91 7,27 9,09 7,27 7,27 23,64 14,55 16,36 9,09 0 1,82 1,82 1,82 1,82 1,82 0 3,64 0 0 1,82 1,82 5,45 10,91 5,45 5,45 7,27 9,09 7,27 10,91 9,09 7,27 5,45 14,55 12,73 12,73 7,27 10,91 16,36 12,73 25,45 38,18 32,73 30,91 25,45 23,64 29,09 30,91 25,45 30,91 56,36 40 47,27 32,73 47,27 49,09 32,73 30,91 34,55 36,36 73 - Participação da Direção na resolução de conflitos 74 - Atuação dos colegiados da unidade (Congregação ou Comissão de Implantação); Câmara de Ensino, Pesquisa e Extensão - CEPE (se houver) 75 - Atuação do colegiado de curso (Ex: Conselho Departamental, NDE – Núcleo Docente estruturante/Coordenadoria; colegiado de curso) 76 - Oportunidades de Pesquisa e Extensão 77 - Representatividade docente nos colegiados da unidade 78 - Representatividade docente nos colegiados de curso 79 - FETEPS 80 - Programa de Iniciação científica (PIBIC) 81 - Programa de Estágios 82 - INOVA Paula Souza Dimensão 6: Organização e Gestão da Instituição A - Excelente B - Muito Bom C - Regular D - Insuficiente E - Não se aplica F - Não sei responder 51
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial DISCENTES:
+
+12,01 12,66 40,91 31,17 24,35 15,26 54,87 18,18 24,68 36,36 0,65 0,65 1,30 1,30 1,30 0,97 1,30 1,95 0,97 1,30 11,04 10,71 7,79 7,79 10,06 11,69 1,95 21,43 14,29 6,49 28,57 28,57 17,21 19,81 19,16 18,51 10,39 21,75 19,16 14,61 34,74 35,39 24,68 30,19 35,06 38,96 23,38 27,60 27,27 28,25 12,99 12,01 8,12 9,74 10,06 14,61 8,12 9,09 13,64 12,99 74 - Resolução dos conflitos baseado no diálogo e negociação 75 - Estímulo e apoio no desenvolvimento das resoluções de situações problemas 76 - Atuação dos colegiados da unidade (Congregação ou Comissão de Implantação); Câmara de Ensino, Pesquisa e Extensão (CEPE); (se houver), CPA (Comissão Própria de… 77 - Atuação do colegiado de curso (Ex: Conselho de curso, NDE - Núcleo Docente Estruturante/ Coordenadoria; Colegiado de curso) 78 - Atuação da representação discente nos colegiados da unidade e do curso 79 - O reconhecimento da equipe de direção como uma liderança capaz de coordenar e levar adiante as ações prioritárias desta Unidade 80 - FETEPS 81 - Programas de Estágios 82 - Programas de Iniciação Científica 83 - Programa INOVA Paula Souza Dimensão 6: Organização e Gestão da Instituição A - Excelente B - Muito Bom C - Regular D - Insuficiente E - Não se aplica F - Não sei responder 52
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial TECNICO-ADMINISTRATIVO:
+
+
+Dimensão 5: Políticas de Pessoal
+O quadro de colaboradores em uma instituição de Ensino Superior é a base de sua sustentação, diante deste fato, o corpo docente e o pessoal técnico-administrativo são fundamentais para o sucesso da faculdade. Os professores e funcionários da Fatec Diadema têm liberdade para buscar o aperfeiçoamento de seus conhecimentos, ampliando os adquiridos ou obtendo outros importantes para o seu crescimento e, consequentemente, 0 0 0 0 0 0 0 0 0 0 10 0 0 0 0 0 0 0 0 0 0 0 0 10 0 0 0 10 20 30 10 10 10 10 20 20 70 30 20 50 30 20 40 30 50 20 40 50 40 60 60 50 50 30 61 - Programas relacionados com a saúde do servidor 62 - Programas relacionados com prevenção às drogas e à dependência química; 63 - Acesso às ações de capacitação e aos programas de capacitação profissional 64 - Orientação para o exercício de suas atividades 65 - Aproveitamento de suas habilidades e competências para o cargo em exercício 66 - Satisfação com seu trabalho 67 - Coerência entre seu trabalho e as atribuições de seu cargo 68 - Apoio e incentivo à qualificação profissional por meio da realização de cursos formais 69 - Representatividade dos técnicos administrativos nos colegiados da unidade e dos cursos Dimensão 6: Organização e Gestão da Instituição A - Excelente B - Muito Bom C - Regular D - Insuficiente E - Não se aplica F - Não sei responder 53
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial contribuindo para a manutenção da qualidade de ensino oferecido na Unidade sendo o Portal de Capacitação oferecido pela Cetec uma forma inovadora de aperfeiçoamento profissional. O corpo docente da Fatec Diadema – Luigi Papaiz é formado em sua maioria por Mestres e Doutores. O corpo técnico-administrativo é composto por: • 1 Diretora (Doutora) • 3 Coordenadores de curso (2-Doutores e 1- Mestre) • 1 Diretora de Serviço Administrativo (Especialista) • 1 Diretora de Serviço Acadêmico (Especialista) • 1 Assistente Técnico Administrativo (Graduada) • 1 Agente Técnico e Administrativo Almoxarife (Graduado) • 1 Auxiliar de Docente (1- Graduada)
+Os docentes estão satisfeitos com as oportunidades de progressão e promoção na carreira, incentivo à formação continuada e programas de capacitação e atualização profissional. Sobre os critérios de evolução, a maioria está satisfeita, porém 22% dizem que os critérios são regulares. Na avaliação dos técnicos-administrativos 30% dizem que o acesso às ações de capacitação e aos programas de capacitação profissional são regulares. É necessário registrar que devido ao número reduzido de servidores, eles precisam acumular funções e fazem algumas vezes, trabalho além das suas atribuições para o bom andamento da Unidade e cumprimento dos prazos determinados pelo CPS.
+Dimensão 6: Organização e Gestão da Instituição
+A equipe da Fatec Diadema vem constantemente aprimorando a gestão participativa ao se aproximar da comunidade escolar, empresários, profissionais da área e comunidade externa de forma a promover a gestão democrática, definir processos de melhorias e fortalecer a parceria nas relações educacionais. A gestão da Fatec Diadema tem como objetivo o fortalecimento da democratização das atividades de ensino e extensão. A gestão administrativa busca a qualidade total nos serviços prestados como forma de respeitar o público interno e externo. 54
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial Os docentes estão satisfeitos com a participação da direção na solução de conflitos, atuação dos colegiados da unidade e dos cursos e se sentem representados. As oportunidades de pesquisa e extensão são excelentes ou muito boas, conhecem a FETEPS, os programas de Iniciação Cientifica PIBIC, os programas de estágio e o INOVA. Os técnicos administrativos estão satisfeitos com atuação dos colegiados e se sentem representados, são apoiados pelo gestor imediato e são estimulados a participar da equipe da tomada de decisões. Já poucos discentes conhecem a atuação dos colegiados da unidade e do curso, 25% não sabem responder sobre a atuação do representante discente, mas reconhece a equipe de direção como liderança capaz de coordenar e levar adiante ações prioritárias da Unidade. Poucos sabem responder sobre a FETEPS, os programas de Iniciação Cientifica, os programas de estágio e o INOVA.
+Dimensão 10 - Sustentabilidade financeira
+A Fatec Diadema recebe transferência de recursos públicos do Centro Paula Souza para o custeio das despesas miúdas que objetivam a manutenção da ação da administração da unidade. Em relação às despesas com materiais permanentes, a Fatec, solicita ao Centro Paula Souza os materiais a serem adquiridos e que são patrimoniados junto à Unidade. Os salários dos docentes e dos técnicos-administrativos são pagos em dia, sem ocorrências de atrasos.
+
+55
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial 3.5 Eixo 5: Infraestrutura Física
+
+Dimensão 7: Infraestrutura Física
+EIXO DIMENSÃO APRESENTAÇÃO DAS PRINCIPAIS INFORMAÇÕES COLETADAS NO EIXO 5 Eixo 5 Infraestrutura Física Dimensão 7
+5,52 14,29 13,96 14,29 14,94 13,96 17,53 29,22 25,00 26,62 17,86 1,30 0,00 0,65 0,65 0,65 0,65 0,32 0,97 1,30 0,65 0,65 9,74 6,49 1,62 1,95 3,90 3,90 7,47 8,12 9,42 9,42 19,48 25,32 24,68 7,14 9,09 20,45 16,88 18,18 21,10 22,08 19,81 26,62 37,01 33,12 36,04 39,29 33,44 38,64 32,79 26,62 28,90 30,52 25,97 21,10 21,43 40,58 34,74 26,62 25,97 23,70 13,96 13,31 12,99 9,42 100 - Acessibilidade 101 - Quantidade 102 - Limpeza/Conservação 103 - Iluminação/ Ventilação 104 - Mobiliário e Equipamentos 105 - Acessibilidade 106 - Atendimento ao usuário 107 - Automação do sistema 108 - Qualidade e atualidade do acervo 109 - Disponibilidade da bibliografia básica (número de exemplares por título) 110 - Horário de atendimento DISCENTES Dimensão 7: Infraestrutura Física A - Excelente B - Muito Bom C - Regular D - Insuficiente E - Não se aplica F - Não sei responder 56
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial
+2,60 2,27 1,62 0,65 3,57 1,62 1,30 0,65 1,30 4,87 2,60 2,92 2,92 1,95 0,65 1,62 1,30 0,32 47,08 0,97 0,00 0,32 0,97 1,30 0,32 0,00 0,65 0,65 7,47 15,58 13,31 1,30 28,57 3,25 0,97 2,27 6,82 16,88 11,69 0,97 2,27 14,61 23,05 27,27 17,53 10,39 6,82 14,61 6,17 13,96 21,75 23,70 18,18 9,42 10,39 26,62 46,43 36,36 40,58 39,94 11,04 47,08 38,96 46,75 41,23 35,06 40,58 41,88 42,86 32,79 19,81 16,88 25,65 47,40 2,92 32,47 52,60 36,04 27,92 18,18 26,62 44,81 40,91 23,38 86 - Secretaria acadêmica 87 - Espaços de convivência 88 - Serviços de segurança 89 - Serviços de limpeza 90 - Cantina 91 - Quantidade 92 - Limpeza/Conservação 93 - Iluminação/ Ventilação 94 - Mobiliário e Equipamentos 95 - Acessibilidade 96 - Quantidade 97 - Limpeza/Conservação 98 - Iluminação/ Ventilação 99 - Mobiliário e Equipamentos Dimensão 7: Infraestrutura Física (continuação) A - Excelente B - Muito Bom C - Regular D - Insuficiente E - Não se aplica F - Não sei responder 57
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial
+5,45 7,27 5,45 3,64 3,64 3,64 3,64 7,27 12,73 5,45 7,27 5,45 1,82 1,82 0 0 0 0 0 0 1,82 0 0 0 12,73 7,27 10,91 0 0 7,27 5,45 5,45 9,09 12,73 18,18 5,45 7,27 12,73 18,18 7,27 7,27 7,27 7,27 10,91 14,55 25,45 20 23,64 29,09 29,09 30,91 30,91 32,73 34,55 34,55 38,18 25,45 27,27 25,45 36,36 43,64 41,82 34,55 58,18 56,36 47,27 49,09 38,18 36,36 29,09 29,09 29,09 98 - Mobiliário e Equipamentos 99 - Acessibilidade 100 - Quantidade 101 - Limpeza/Conservação 102 - Iluminação/ Ventilação 103 - Mobiliário e Equipamentos 104 - Acessibilidade 105- Atendimento ao usuário 106 - Automação do sistema 107 - Qualidade e atualidade do acervo 108- Disponibilidade da bibliografia básica (número de exemplares por título) 109 - Horário de atendimento DOCENTES: Dimensão 7: Infraestrutura Física A - Excelente B - Muito Bom C - Regular D - Insuficiente E - Não se aplica F - Não sei responder 58
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial 0 0 0 0 5,45 0 0 0 0 5,45 7,27 5,45 5,45 0 0 0 0 60 0 0 0 0 0 1,82 1,82 1,82 1,82 3,64 3,64 0 9,09 1,82 1,82 1,82 1,82 7,27 12,73 3,64 0 5,45 9,09 12,73 3,64 12,73 0 0 5,45 5,45 14,55 5,45 5,45 10,91 30,91 38,18 29,09 30,91 3,64 40 23,64 25,45 32,73 32,73 41,82 27,27 27,27 61,82 49,09 54,55 65,45 9,09 58,18 74 67,27 60 40 30,91 56,36 54,55 85 - Secretaria acadêmica 86 - Espaços de convivência 87- Serviços de segurança 88 - Serviços de limpeza 89 - Cantina 90 - Quantidade 91 - Limpeza/Conservação 92 - Iluminação/ Ventilação 93 - Mobiliário e Equipamentos 94 - Acessibilidade 95 - Quantidade 96 - Limpeza/Conservação 97 - Iluminação/ Ventilação Dimensão 7: Infraestrutura Física (CONTINUAÇÃO) A - Excelente B - Muito Bom C - Regular D - Insuficiente E - Não se aplica F - Não sei responder 59
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial TECNICO-ADMINISTRATIVO:
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 80 0 0 0 0 0 0 0 0 10 0 0 0 0 0 0 0 0 10 10 20 0 0 30 0 10 0 10 10 20 0 10 20 30 20 0 10 40 20 40 40 50 0 30 30 40 40 60 20 50 30 20 80 50 60 40 10 50 70 50 30 0 40 50 60 76 - Qual a sua avaliação da estabilidade da internet durante o trabalho? 77 - Secretaria acadêmica 78 - Espaços de convivência 79- Serviços de segurança 80 - Serviços de limpeza 81 - Cantina 82 - Quantidade 83 - Limpeza/Conservação 84 - Iluminação/ Ventilação 85 - Mobiliário e Equipamentos 86 - Acessibilidade 87 - Quantidade 88 - Limpeza/Conservação 89 - Iluminação/ Ventilação Dimensão 7: Infraestrutura Física A - Excelente B - Muito Bom C - Regular D - Insuficiente E - Não se aplica F - Não sei responder 60
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial 0 0 0 0 0 0 0 0 10 10 0 0 0 10 0 0 0 0 0 0 0 0 0 0 10 10 0 0 0 0 0 0 10 20 20 0 30 10 20 0 20 20 10 10 20 30 40 30 10 50 60 40 30 40 40 50 30 30 20 50 50 20 20 60 50 40 50 40 30 10 20 20 90 - Mobiliário e Equipamentos 91 - Acessibilidade 92 - Quantidade 93 - Limpeza/Conservação 94 - Iluminação/ Ventilação 95 - Mobiliário e Equipamentos 96 - Acessibilidade 97- Atendimento ao usuário 98 - Automação do sistema 99 - Qualidade e atualidade do acervo 100- Disponibilidade da bibliografia básica (número de exemplares por título) 101 - Horário de atendimento Dimensão 7: Infraestrutura Física (continuação) A - Excelente B - Muito Bom C - Regular D - Insuficiente E - Não se aplica F - Não sei responder 61
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial A Fatec de Diadema está localizada na Avenida Luiz Merenda, 443, Jardim Campanário. A Unidade possui estrutura ampla com cerca de 5.000 m2 de área construída, distribuídos em três pavimentos onde se encontram cinco laboratórios (Química I, Química II, Análise Instrumental, Desenvolvimento, Ciências Biológicas), quatro plantas piloto (Maquiagem, Produtos Líquidos, Produtos Sólidos, Produtos Semissólidos), dois laboratórios de informática, uma biblioteca, 15 quinze salas de aula, uma sala de professores, 4 quatro salas administrativas (diretoria de serviços administrativos, diretoria de serviços acadêmicos, coordenação de curso e direção), seis sanitários coletivos (três femininos e três masculinos), seis sanitários individuais adaptados para cadeirantes (três masculinos e três femininos), um elevador. No andar térreo estão localizados 2 refeitórios ( sendo 1 de alunos e 1 de funcionários) uma área com computadores para uso livre dos alunos e a área de convivência dos alunos. A infraestrutura física, os serviços de limpeza e acessibilidade e segurança foram bem avaliados por todos os segmentos (discentes, docentes e servidores), cabe ressaltar que a segurança, apesar de bem avaliada, pode ser melhorada, pois, no período da noite que é o de maior movimento de alunos, só tem um funcionário da segurança, o ideal é ter mais um funcionário para fazer o controle de entrada e a ronda no prédio. Existem pontos de atenção, na avaliação dos discentes o horário de atendimento da biblioteca é algo que foi sinalizado como regular, o que pode ser explicado pelo número reduzido de funcionários. A disponibilidade da bibliografia básica e a qualidade do acervo da biblioteca são itens que precisam ser melhorados bem como a contratação urgente de um bibliotecário para tombar livros e organizar o acervo já existente.
+
+60
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial 4 ANÁLISE DOS DADOS E AÇÕES PROPÓSTAS (neste item é apresentado a análise, os quadros podem ser precedidos de um breve texto, apresentado o processo de análise e os pontos centrais trabalhados).
+EIXO 1: PLANEJAMENTO E AVALIAÇÃO INSTITUCIONAL
+FRAGILIDADES
+
+AÇÕES PLANEJADAS AÇÕES REALIZADAS
+PRAZOS Organização de tempo dedicado aos estudos, participação em sala de aula, conhecimentos básicos, desempenho nas avaliações.
+Ensinar a fazer cronograma Incentivar o uso de metodologias ativas Aulas de reforço e monitoria para os alunos ingressantes Incentivar o uso de metodologias ativas Aulas de reforço e monitoria para os alunos ingressantes 2023 Quando se trata das melhorias alcançadas a partir da Avaliação Institucional ou a aplicação dos indicadores Websai para o planejamento Institucional, as opiniões dos alunos se dividem, a maioria avalia como excelente ou muito bom, mas há uma porcentagem pequena de alunos que não sabem responder. Divulgar os resultados do Websai aos alunos Sempre divulgamos e deixamos disponível, mas os alunos não tem interesse em saber. 2023 Com relação ao PDI mais de 50% sabem o que é, no entanto, mais de 75% conhecem o PDI da unidade Contratação de docentes indeterminados. Divulgar o PDI e os resultados do Websai aos docentes Concurso público. Divulgação do PDI 2023
+POTENCIALIDADES
+
+
+AÇÕES PLANEJADAS AÇÕES REALIZADAS
+PRAZOS A maioria dos alunos reconhecem a dimensão planejamento e avaliação como excelente ou muito boa, apesar de haver pontos de atenção. Identificar e atuar os pontos de atenção Identificar e atuar os pontos de atenção 2023 A maioria dos docentes e técnicos Administrativos reconhecem a dimensão planejamento e avaliação como excelente ou muito boa.
+
+
+A grande maioria dos docentes se sentem comprometidos com o sucesso escolar dos alunos, dão devolutivas das avaliações contribuindo para melhorar o desempenho dos estudantes, percebem que os estudantes conseguem aprofundar seus conhecimentos e argumentar sobre os Incentivar os docentes a manterem as mesmas dinâmicas durante as aulas Incentivar a comunicação, cooperação, empatia, troca de experiências entre alunos e docentes de forma cordial e respeitosa. 2023 61
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial assuntos tratados. Os docentes oferecem diferentes situações para que os estudantes superem suas dificuldades por meio de múltiplos instrumentos de avaliação. O clima de respeito à diversidade sempre é mantido. Eles usam comunicação transparente e informação precisa sobre a disciplina, usam estratégias de ensino que favorecem o interesse e o envolvimentos dos alunos. E preparam o conteúdo antecipadamente, Cerca de 89% dos docentes conseguem articular o conteúdo de sua disciplina com outras de forma excelente ou muito boa.
+
+
+
+
+EIXO 2: DESENVOLVIMENTO INSTITUCIONAL
+FRAGILIDADES
+
+AÇÕES PLANEJADAS AÇÕES REALIZADAS PRAZOS Cerca de 25% não percebem o desenvolvimento sustentável, a disseminação dos valores éticos, da ciência, tecnologia e inovação. A disseminação da cultura e arte não é percebida por 37% dois discentes Incentivar os alunos a participarem das campanhas de ação social e divulgar eventos culturais da região nas redes socias da Unidade Incentivar os alunos a participarem das campanhas de ação social e divulgar eventos culturais da região nas redes socias da Unidade 2023 Políticas para não ocorrer ações de discriminação, ações para a sustentabilidade, participação da comunidade externa, transferência de conhecimento, atendimento a pessoas com deficiência Colocar cartazes e divulgar campanhas nas redes sociais e mural da Unidade Divulgar o projeto Socializa – coleta de tampinhas e lacres de alumínio Promover cursos para a comunidade transferindo o conhecimento Divulgar o projeto Socializa – coleta de tampinhas e lacres de alumínio
+2023 Disseminação da cultura e arte. Divulgar eventos culturais da região nas redes socias da Unidade e incentivar a participação dos discentes
+22023
+
+
+
+62
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial
+POTENCIALIDADES
+
+
+AÇÕES PLANEJADAS AÇÕES REALIZADAS PRAZOS Missão e plano de desenvolvimento institucional
+A maioria dos discentes percebem o desenvolvimento sustentável, a inclusão social, a disseminação dos valores éticos, da ciência, tecnologia e inovação e que a Fatec Diadema forma profissionais qualificados. Mas há pontos de atenção.
+
+
+Missão e plano de desenvolvimento institucional Os docentes e técnico administrativos avaliam como excelente ou muito bom. Um terço dos docentes apontam como ponto de atenção a disseminação da cultura e arte.
+
+
+
+
+Responsabilidade social Os docentes e técnico administrativos avaliam como excelente ou muito bom.
+
+
+
+
+
+
+
+
+
+EIXO 3: POLÍTICAS ACADÊMICAS
+FRAGILIDADES
+
+AÇÕES PLANEJADAS AÇÕES REALIZADAS
+PRAZOS Mídias sociais, ouvidoria, siga, publicação nos murais, site oficial da Fatec Diadema, sistema de informação interna. Acesso da comunidade externa, editais de bolsa e intercâmbio Cerca de 30% dos alunos consideram regular ou insuficiente Melhorar a comunicação com os alunos Alertar para a necessidade de ler os e-mails institucionais e acompanhar o que acontece na Unidade Vestibular, divulgação em projetos da Prefeitura e Feiras de Profissões realizadas. 2023 63
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial Normas acadêmicas, resolução dos colegiados, 30% consideram ruim ou insuficiente
+
+
+Política de atendimento aos discentes
+Há deficiências em relação ao: Estimulo a frequência escolar, espaço de convivência estudantil, estimulo a organização estudantil, programa de intercâmbio e bolsa., programa de apoio financeiro, programa de apoio pedagógico. Os alunos consideram ruim, insuficiente ou não sabem
+Identificar os motivos das faltas dos alunos e estimular a frequência Divulgar e estimular a participação em intercambio e editais de bolsas de monitoria Identificar os motivos das faltas dos alunos e estimular a frequência Divulgar e estimular a participação em intercambio e editais de bolsas de monitoria 2023 Pontos de atenção ao acompanhamento de egressos, estimulo a organização estudantil, bolsas, programas de apoio financeiro
+Divulgar e estimular a participação nos programas Criar política de acompanhamento de egressos
+2023 De 20 a 40% dos alunos consideram os incentivos para cursar pós-graduação regular ou insuficiente Divulgar cursos de pós-graduação na área. Divulgar cursos de pós-graduação na área. 2023 Cerca de 40% dos alunos dizem que os eventos científicos são regulares ou insuficientes Incentivar os alunos a participarem de eventos científicos e promovê-los.
+2023 Dos entrevistados mais de 60% veem o estágio como um espaço de formação profissional regular, insuficiente ou não sabe responder. Obs: a maioria dos alunos do curso de GPI já trabalham na área e fazem equivalência do estágio com a atividade profissional. Buscar mais empresas para os alunos estagiarem 2023 Atividades de extensão são deficitárias Estimular os docentes a oferecem cursos de extensão. Estimular os docentes a oferecem cursos de extensão. 2023 Um terço dos estudantes dizem que as práticas didáticas dos professores e atividades de ensino são regular ou insuficientes Incentivar o uso de metodologias ativas. Contratar professores indeterminados Incentivar o uso de metodologias ativas. Abertura de concurso público 2023 A interdisciplinaridade e projetos é regular ou insuficientes Incentivar o trabalho com projetos interdisciplinares na área de formação do curso e entre disciplinas Incentivar o trabalho com projetos interdisciplinares na área de formação dos cursos entre disciplinas 2023 No curso de Cosméticos a correção feita pelos docentes e a atenção dados aos que tem dificuldade é regular ou insuficiente Solicitar que a correção, vista de prova programas de recuperação de aprendizagem seja realizada Solicitar que a correção, vista de prova programas de recuperação de aprendizagem seja realizada 2023 Comunicação entre a Coordenação, Docentes e alunos. Comunicação Maior interação entre a Coordenação com os alunos Maior Conversas com os envolvidos 2023
+
+
+
+
+
+
+
+64
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial
+POTENCIALIDADES
+
+
+AÇÕES PLANEJADAS AÇÕES REALIZADAS
+PRAZOS Comunicação com a sociedade A maioria dos discentes avaliam essa dimensão de forma positiva.
+
+
+
+Politica de atendimento aos discentes A maioria dos discentes avaliam essa dimensão de forma positiva.
+
+
+
+Comunicação com a sociedade A maioria avalia essa dimensão como excelente ou muito boa.
+
+
+
+Politica de atendimento aos discentes A maioria dos discentes avaliam essa dimensão de forma positiva. Pontos de atenção ao acompanhamento de egressos, estimulo a organização estudantil, bolsas, programas de apoio financeiro
+
+
+
+Mais de 70% dos estudantes estão satisfeitos com a escolha. A maioria diz que os docentes dominam os conteúdos que ministram. Alguns recebem incentivos para cursar pós-graduação. Incentivar os docentes a continuarem trabalhando de forma contextualizada e mostrando as oportunidades da área aos alunos Incentivar os docentes a continuarem trabalhando de forma contextualizada e mostrando as oportunidades da área aos alunos 2023 Cerca de 39% dos alunos dizem que os eventos científicos são excelentes ou muito bons Trazer palestrantes da área referência no mercado Trazer palestrantes da área referência no mercado 2023 A maioria dos alunos aprovam o ensino hibrido, ¾ avaliam a Fatec Diadema como excelente ou muito boa, os docentes apresentam o plano de ensino, corrigem as avaliações de forma conjunta, estimulam a autonomia dos estudantes, usam instrumentos de avaliação diversificados, mantem um clima de respeito de opiniões, são transparentes e claros quando informam sobre a disciplina, envolvem os alunos nas aulas. Incentivar os professores a continuarem
+2023 A maioria dos alunos são estimulados a frequentarem as aulas, dizem que são estimulados a participação e convivência estudantil, conhecem os programas de intercambio e monitoria. Quanto ao apoio pedagógico cerca de 40% consideram excelente ou muito bom. Divulgar e estimular a participação em intercambio e editais de bolsas de monitoria Divulgar e estimular a participação em intercambio e editais de bolsas de monitoria 2023
+65
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial EIXO 4: POLÍTICAS DE GESTÃO
+FRAGILIDADES
+
+AÇÕES PLANEJADAS AÇÕES REALIZADAS
+PRAZOS Organização e gestão da Instituição: Programa INOVA, iniciação cientifica, FETEPS, estágio. Divulgar esses programas de forma mais assertiva Divulgar os programas
+Atuação dos discentes nos colegiados da Unidade, 40% não sabe responder
+Orientar que as decisões sejam compartilhadas com os colegas
+Resolução de situações problemas e conflitos Solicitar a coordenação que faça o acompanhamento mais de perto Acompanhar as situações problema
+Critérios de evolução funcional e oportunidades de progressão/ promoção
+
+
+
+
+
+
+
+POTENCIALIDADES
+
+
+AÇÕES PLANEJADAS AÇÕES REALIZADAS
+PRAZOS Organização e gestão da instituição As opiniões dos alunos se dividem. Alguns consideram essa dimensão excelente ou muito boa, com atenção a alguns pontos INOVA, iniciação cientifica, estagio, FETEPS.
+
+
+Organização e gestão da instituição A maioria dos docentes e funcionários considera excelente ou muito boa. Há algumas ressalvas em relação aos critérios de evolução funcional e oportunidades de progressão/ promoção
+
+
+66
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial EIXO 5: INFRAESTRUTURA
+FRAGILIDADES
+
+AÇÕES PLANEJADAS AÇÕES REALIZADAS
+PRAZOS horário de atendimento, disponibilidade de bibliográfica, qualidade do acervo, quantidade, mobiliário e equipamentos, espaço de convivência Solicitar mais colaboradores, livros, equipamentos ao CPS Concurso público Solicitar livros e equipamentos ao CPS
+
+
+
+
+
+POTENCIALIDADES
+
+
+AÇÕES PLANEJADAS AÇÕES REALIZADAS
+PRAZOS Infraestrutura física A maioria dos alunos considera excelente ou muito boa, com destaque para alguns pontos de atenção: horário de atendimento, disponibilidade de bibliográfica, qualidade do acervo, quantidade, mobiliário e equipamentos, espaço de convivência,
+
+
+
+
+
+
+
+67
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial 5 CONSIDERAÇÕES FINAIS
+A Comissão Própria de Avaliação, pelo seu trabalho, visa oferecer subsídios capazes de subsidiar à tomada de decisão e ao planejamento institucional, na busca de contínua melhoria da qualidade do ensino, da pesquisa, da extensão e da gestão. Sendo assim um importante instrumento para a Direção.
+Dentre as principais ações advindas desse processo, podemos salientar a atenção da equipe gestora em avaliar as fragilidades e realizar ações que as mitiguem, como por exemplo, o conhecimento dos alunos, docentes e funcionários a respeito do PDI foi e é algo trabalhado pela equipe de gestão e pode-se notar uma melhora substancial no conhecimento sobre o PDI por todos os setores. Além disso a unidade se mantém sempre em constante evolução, recebemos do CPS 80 novos laptops, um laboratório de metrologia que é utilizado pelo CST em GPI, organizamos a sala maker com laptops, tvs, wifi, lousas de vidro. Está faltando somente as mesas. Criamos um espaço de livre acesso onde os alunos podem usar computadores para pesquisa fora do período de aula. Além disso a unidade recebeu o Selo de Instituição Socialmente Responsável 2022-2023. Em 2022 conseguimos também que uma linha de ônibus que passe de forma regular em frente a Fatec Diadema.
+Os resultados apresentados contemplam as dez dimensões auto avaliativas do SINAES e foram analisados e discutidos por todos os membros da comunidade institucional: direção, coordenações de cursos, setores administrativos, gestores, professores e alunos.
+Os dados coletados, as análises e propostas serão amplamente divulgadas e objeto de comparação na próxima avaliação, para elucidar os avanços alcançados, reforçando o quanto a avaliação contribui para a gestão dos resultados.
+
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial ANEXO 1 – Quadro 1 - DISTRIBUIÇÃO DOS DADOS DA PESQUISA SETORES DADOS DOS DOCENTES DADOS DOS DISCENTES DADOS DO PESSOAL TECNICO- ADMINISTRATIVO DIREÇÃO GERAL Dimensão 8 – Planejamento e Avaliação Dimensão 1 - Missão e Plano de Desenvolvimento Institucional Dimensão 3 - Responsabilidade Social da Instituição Dimensão 4 – Comunicação com a Sociedade Dimensão 9 – Política de Atendimento aos Discentes Dimensão 5 – Políticas de Pessoal Dimensão 6 – Organização e Gestão Institucional Dimensão 7 – Infraestrutura Física
+Dimensão 8 – Planejamento e Avaliação Dimensão 1 - Missão e Plano de Desenvolvimento Institucional Dimensão 3 - Responsabilidade Social da Instituição Dimensão 4 – Comunicação com a Sociedade Dimensão 9 – Política de Atendimento aos Discentes Dimensão 6 – Organização e Gestão Institucional Dimensão 7 – Infraestrutura Física Dimensão 8 – Planejamento e Avaliação Dimensão 1 - Missão e Plano de Desenvolvimento Institucional Dimensão 3 - Responsabilidade Social da Instituição Dimensão 4 – Comunicação com a Sociedade
+DIRETORIA ADMINISTRATIVA Dimensão 4 – Comunicação com a Sociedade Dimensão 5 – Políticas de Pessoal Dimensão 7 – Infraestrutura Física
+Dimensão 4 – Comunicação com a Sociedade Dimensão 7 – Infraestrutura Física
+Dimensão 8 – Planejamento e Avaliação Dimensão 5 – Políticas de Pessoal Dimensão 6 – Organização e Gestão Institucional Dimensão 7 – Infraestrutura Física DIRETORIA ACADÊMICA Dimensão 4 – Comunicação com a Sociedade Dimensão 7 – Infraestrutura Física
+Dimensão 4 – Comunicação com a Sociedade
+Dimensão 4 – Comunicação com a Sociedade
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial
+
+COORDENAÇÃO DOS CURSOS Dimensão 8 – Planejamento e Avaliação Dimensão 1 - Missão e Plano de Desenvolvimento Institucional Dimensão 2 – Ensino, Pesquisa e Extensão Dimensão 4 – Comunicação com a Sociedade Dimensão 9 – Política de Atendimento aos Discentes Dimensão 6 – Organização e Gestão Institucional Dimensão 8 – Planejamento e Avaliação Dimensão 1 - Missão e Plano de Desenvolvimento Institucional Dimensão 2 – Ensino, Pesquisa e Extensão Dimensão 9 – Política de Atendimento aos Discentes Dimensão 6 – Organização e Gestão Institucional Dimensão 2 – Ensino, Pesquisa e Extensão
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial ANEXO 2 - Quadro 2 – Levantamento das fragilidades e potencialidades e projeção das ações corretivas.
+EIXO 1: PLANEJAMENTO E AVALIAÇÃO INSTITUCIONAL
+FRAGILIDADES
+
+AÇÕES PLANEJADAS AÇÕES REALIZADAS
+PRAZOS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+POTENCIALIDADES
+
+
+AÇÕES PLANEJADAS AÇÕES REALIZADAS
+PRAZOS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial EIXO 2: DESENVOLVIMENTO INSTITUCIONAL
+FRAGILIDADES
+
+AÇÕES PLANEJADAS AÇÕES REALIZADAS PRAZOS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+POTENCIALIDADES
+
+
+AÇÕES PLANEJADAS AÇÕES REALIZADAS PRAZOS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial EIXO 3: POLÍTICAS ACADÊMICAS
+FRAGILIDADES
+
+AÇÕES PLANEJADAS AÇÕES REALIZADAS
+PRAZOS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+POTENCIALIDADES
+
+
+AÇÕES PLANEJADAS AÇÕES REALIZADAS
+PRAZOS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial
+EIXO 4: POLÍTICAS DE GESTÃO
+FRAGILIDADES
+
+AÇÕES PLANEJADAS AÇÕES REALIZADAS
+PRAZOS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+POTENCIALIDADES
+
+
+AÇÕES PLANEJADAS AÇÕES REALIZADAS
+PRAZOS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial EIXO 5: INFRAESTRUTURA
+FRAGILIDADES
+
+AÇÕES PLANEJADAS AÇÕES REALIZADAS
+PRAZOS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+POTENCIALIDADES
+
+
+AÇÕES PLANEJADAS AÇÕES REALIZADAS
+PRAZOS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

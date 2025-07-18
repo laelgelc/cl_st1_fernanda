@@ -1,0 +1,10839 @@
+PLANO DE GESTÃO ANUAL 
+PGA 2026 
+V01 
+Estruturado em uma única etapa, contendo 6 anexos: 
+PLANEJAMENTO PELA EQUIPE GESTORA DA UE 
+• Anexo 1 - Lista de aquisições necessárias aos projetos – Material Permanente 
+• Anexo 2 - Lista de aquisições necessárias aos projetos – Material de Consumo 
+• Anexo 3 - Lista de aquisições necessárias aos projetos – Reagentes Químicos 
+• Anexo 4 - Lista de aquisições necessárias aos projetos – Livros 
+• Anexo 5 - Lista de aquisições necessárias aos projetos – Softwares 
+• Anexo 6 - Lista de Ações/Projetos referentes à CPA (Origem 3: Gestão Tática – CPA) 
+ 
+IDENTIFICAÇÃO DA UNIDADE 
+Unidade 
+código F168 
+Fatec São Caetano do Sul – Antonio Russo 
+Diretor(a) 
+Adriane Monteiro Fontana 
+ 
+PLANEJAMENTO PELA EQUIPE GESTORA DA UE 
+(Administração da Faculdade - Deliberação CEETEPS 31/2016) 
+ANÁLISE DO CENÁRIO 
+Descrever de forma breve e objetiva o cenário da Unidade perante sua missão como Unidade de Ensino na localidade em que 
+se encontra (é este cenário que se pretende melhorar). 
+A Fatec São Caetano do Sul – Antônio Russo atua como polo de ensino superior tecnológico na região do ABC Paulista, 
+oferecendo cinco cursos, incluindo uma graduação na modalidade EaD, e atendendo cerca de 1.500 alunos distribuídos em 33 
+turmas. A unidade se destaca pela formação técnica aplicada, possibilitando aos alunos integrarem o mercado por meio de 
+estágios e projetos que articulam teoria e prática. 
+ 
+Com 17 anos de atuação, a Fatec promove anualmente eventos como a Fatecnologia e diversas atividades voltadas ao 
+fortalecimento dos cursos, envolvendo palestras, workshops e parcerias internacionais, como os projetos COIL. A produção 
+científica da unidade é evidenciada pela revista Fasci-Tech, classificada com Qualis B4, e pelas ações de integração com a 
+comunidade externa, empresas e instituições locais. 
+ 
+Todo o trabalho pedagógico e institucional da unidade é orientado pela missão e visão do Centro Paula Souza, buscando 
+excelência na educação profissional e tecnológica. O fortalecimento da unidade como referência regional se apoia em esforços 
+contínuos de aperfeiçoamento acadêmico, administrativo e colaborativo, em sintonia com as diretrizes estratégicas do CPS. 
+• Discorrer sobre o cenário, realizando um breve diagnóstico (limitar o espaço da escrita, para que seja inserido de forma sucinta). 
+APONTAMENTO DE SITUAÇÕES-PROBLEMA MAIS RELEVANTES 
+Fontes: relatório CPA, análise de processos críticos da UE, relatório de atendimento e ocorrências Hórus, relatório NDE, 
+relatório de representação discente (DA, Atlética, representantes de turma), relatório CIPA, entre outros. 
+1 
+cat 0.1.01 - Metodologia de ensino, desempenho 
+de alunos, evasão 
+ 
+5 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+2 
+cat 0.1.02 - Manutenção e conservação predial 
+ 
+6 
+cat 0.1.08 - Participação da comunidade e sociedade 
+3 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+ 
+7 
+cat 0.1.09 - Acesso/Inclusão ao Ensino Superior 
+(social, PCD) 
+4 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de 
+ensino 
+ 
+8 
+cat 0.1.10 - Gestão da unidade de ensino e dos cursos 
+(indicadores) 
+Outra – Especificar: nn 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Objetivos Institucionais – CPS (Plano de Metas) 
+Objetivos Institucionais – Cesu (Plano de Metas) 
+1) 
+Atender às demandas sociais e do mercado de trabalho.  
+2) 
+Obter a satisfação dos públicos que se relacionam com o Centro Paula Souza (stakeholders). 
+3) 
+Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem. 
+4) 
+Assegurar a perenidade do crescimento da instituição com recursos financeiros disponíveis. 
+5)      Garantir celeridade e efetividade na prestação de serviços. 
+A. 
+Integrar as diferentes modalidades de ensino, otimizando itinerários 
+e tempo para a formação profissional. 
+B. 
+Inovar processos de ensino e aprendizagem para manter excelência 
+diante do mercado. 
+C. 
+Ampliar a capacidade de criar e atualizar cursos em parceria com o 
+mercado. 
+6) 
+Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no 
+desenvolvimento tecnológico e inovação. 
+7) 
+Promover a cultura de inovação e empreendedorismo.  
+8) 
+Aumentar a eficiência, a produtividade e a competitividade da instituição.  
+9) 
+Ampliar a oferta da Educação Profissional.  
+10)    Resolução Conjunta SOG/SFP/SG-3, de 28-12-2022 - Bonificação por Resultados – BR das 
+Secretarias de Estado, Procuradoria Geral do Estado, Controladoria Geral do Estado e das 
+Autarquias, de que trata a LC 1361-2021 
+D. 
+Expandir e ampliar a capacidade de articulação com Governos e 
+Setores Produtivos. 
+E. 
+Promover a captação de recursos extras e não orçamentários. 
+Atenção: Determinação da Origem (prioridade) de uma Ação ou Projeto de Melhoria que compõe o PGA, a fim de ordenar os graus de prioridade tomando-se por 
+base atos normativos regulatórios das atividades do CPS, e a governança institucional, por suas esferas Estratégica, Tática e Operacional: 
+Grau 1 - URGÊNCIA DE REGULAÇÃO - prioridade máxima (advinda do MEC, CEE, MP, Vigilância Sanitária ou notificação de qualquer órgão regulador/fiscalizador) 
+- fundamentação: notificação de fiscalização, diligência de regulação, termo de ajustamento de conduta, relatório circunstanciado, dentre outros 
+emanados de órgãos que impõem ações para cumprimento com regularidade normativa da instituição. 
+Grau 2 - URGÊNCIA ESTRATÉGICA - Gestão Estratégica do CPS (AMS, novos cursos e unidades, programas de governo) - fundamentação: PPA do CPS, ações de 
+governo conduzidas pela Superintendência do CPS. 
+Grau 3 - PRIORIDADE ALTA - Gestão Tática (ações correlatas à Avaliação institucional - ENADE, WebSAI, CPA, Observatório Escolar). - fundamentação: processo 
+avaliativo de órgãos reguladores, processo avaliativo interno do CPS. 
+Grau 4 - PRIORIDADE MÉDIA - Gestão Operacional para aumento da capacidade instalada. - fundamentação: plano operacional de gestão, homologado pela 
+respectiva área da intendência, com foco na atividade fim do CPS. 
+Grau 5 - PRIORIDADE REGULAR - Gestão Operacional para preservação da capacidade instalada. - fundamentação: plano operacional de gestão, homologado 
+pela respectiva área da intendência, com foco na atividade fim do CPS. 
+ 
+ 
+ 
+ESTRUTURAÇÃO DAS AÇÕES/PROJETOS 
+01 - Didático-pedagógico 
+Ações associadas ao PPC/PE de CSTs e Disciplinas: CST (implantação, alteração, readequação, reestruturação), 
+prática pedagógica (PE, PA), projeto interdisciplinar/ integrador, extensão curricularizada. 
+ 
+AÇÃO/PROJETO (Tema) 
+101 - cat 1.01 - Adequação/reestruturação de PPC, implantação de novos cursos. 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Proposta de Atualização PPC Segurança da Informação 
+Por que será feito: 
+A área de TI e especificamente a área de Segurança da Informação tiveram grandes mudanças e 
+avanços nos últimos anos. Temos como BigData, Cloud Computing, IoT e Business Intelligence 
+fazem parte deste mundo, e nem tudo é contemplado no curso de forma explícita. 
+Responsável: 
+Profa. Adriane Monteiro Fontana (Coordenador) Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora 
+Atividade 
+Específica 
+Colaborador(a): 
+Profa. Edna Mataruco Duarte 
+Qde CH/sem: 
+02 
+Tipo: 
+HA - Hora 
+Atividade 
+Colaborador(a): 
+Profa. Mario Eugênio Longato 
+Qde CH/sem: 
+02 
+Tipo: 
+HA - Hora 
+Atividade 
+Colaborador(a): 
+Prof. Nilton Stringasci Moreira 
+Qde CH/sem: 
+02 
+Tipo: 
+HA - Hora 
+Atividade 
+Colaborador(a): 
+Prof. Fabio Cabrini 
+Qde CH/sem: 
+02 
+Tipo: 
+HA - Hora 
+Atividade 
+Período de execução: 
+Data inicial: 
+31/03/2026 
+Data final: 
+20/11/2026 
+Atividade 
+Entregável 
+(link/SEI) 
+Nº Ref 
+Verificação 
+ 
+ok 
+Requer 
+Ação 
+Etapas do processo: 
+01- Alinhamento da proposta com a CESU e criação das 
+rentes de trabalho conforme eixos tecnológicos. 
+Escolher um item. 
+nn 
+☐  
+☐  
+31/03 
+15/04 
+02- Desenvolvimento dos trabalhos em razão do PPC 
+existente, comparando com as situações da atualidade no 
+quesito tecnológico e legal. 
+Escolher um item. 
+nn 
+☐  
+☐  
+17/04 
+13/05 
+03- Desenvolvimento de ementas e objetivos de cada 
+disciplina, incluindo o NDE do curso. 
+Escolher um item. 
+nn 
+☐  
+☐  
+15/05 
+31/08 
+04- Apresentação dos trabalhos ao colegiado do curso. 
+Escolher um item. 
+nn 
+☐  
+☐  
+04/09 
+09/09 
+05- Validação das sugestões apresentadas pelo colegiado de 
+curso 
+Escolher um item. 
+nn 
+☐  
+☐  
+11/09 
+16/09 
+06- Nova apresentação ao colegiado do curso, após 
+mitigação das sugestões 
+Escolher um item. 
+nn 
+☐  
+☐  
+18/09 
+23/09 
+07- Apresentação da proposta à Congregação. 
+Escolher um item. 
+nn 
+☐  
+☐  
+25/09 
+14/10 
+08- Trabalhos finais adequando às sugestões apresentadas 
+pela Congregação. 
+Escolher um item. 
+nn 
+☐  
+☐  
+16/10 
+11/11 
+ 
+09 – Revisão especialista pelo EIXO na CESU 
+Escolher um item. 
+nn 
+☐  
+☐  
+20/11 
+30/11 
+ 
+09- Encaminhamento da proposta do PPC de Segurança da 
+Informação para a CESU. 
+Escolher um item. 
+nn 
+☐  
+☐  
+01/12 
+20/12 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CEETEPS 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+ 
+AÇÃO/PROJETO (Tema) 
+102 - cat 1.06 - Ações pedagógicas: visitas técnicas, projetos integradores/interdisciplinares, dias de campo, 
+feira das profissões, cursos extracurriculares para alunos. 
+Origem (prioridade): 
+1-Regulação - Notificação de órgão (MEC, CEE, VS.,..) 
+O que será feito: 
+Estudo para aquisição de assinaturas do Siscomex, treinamento docente e discente para 
+conhecimento da ferramenta, e uso do software em disciplinas profissionalizantes do curso. 
+Por que será feito: 
+Para impulsionamento de atividades práticas no curso de Comércio Exterior, através do uso de 
+simulador do Siscomex em disciplinas profissionalizantes do curso. 
+Responsável: 
+Profa. Rafael Leal de Araujo (Coordenador) 
+Qde CH/sem: 
+02 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Marcos Andrade 
+Qde CH/sem: 
+2 
+Tipo: 
+HA - Hora 
+Atividade 
+Período de execução: 
+Data inicial: 
+01/03/2026 
+Data final: 
+22/12/2026 
+Atividade 
+Entregável 
+(link/SEI) 
+Nº Ref 
+Verificação 
+ 
+ok 
+Requer 
+Ação 
+Etapas do 
+processo:
+01- Elaboração de proposta de aquisição de assinaturas de 
+simulador do Siscomex 
+Escolher um item. 
+nn 
+☐  
+☐  
+01/03 
+31/03 
+02- Reunião com Regional – UGAF e CESU para estudo de 
+aquisição de assinaturas do Siscomex 
+Escolher um item. 
+nn 
+☐  
+☐  
+01/04 
+30/04 
+03- Elaborar relatório para aquisição das assinaturas 
+Escolher um item. 
+nn 
+☐  
+☐  
+01/04 
+30/04 
+04- Encaminhar memorando e relatório para aquisição das 
+assinaturas de SISCOMEX 
+05-Solicitação de 
+Software 
+nn 
+☐  
+☐  
+01/05 
+30/06 
+Custo R$ (se houver): 
+20 Licenciamento SimulaComex - 
+Modulo de Importação. R$ 500,0 
+20 Licenciamento SimulaComex - 
+Modulo de Exportação. R$ 500,0 
+Fonte(s) dos recursos: 
+CEETEPS 
+Situação problema: 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+(a ser resolvida/mitigada) 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+ 
+AÇÃO/PROJETO (Tema) 
+103- cat 1.01 - Adequação/reestruturação de PPC, implantação de novos cursos. 
+Origem (prioridade): 
+1-Regulação - Notificação de órgão (MEC, CEE, VS.,..) 
+O que será feito: 
+Proposta de Reestruturação PPC Análise e Desenvolvimento de Sistemas 
+Por que será feito: 
+Para atualização do Projeto Pedagógico do Curso em virtude do avanço tecnológico na área da 
+tecnologia da informação e comunicação (TIC) 
+Responsável: 
+Prof. César Torres Fernandes 
+Qde CH/sem: 
+nn 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+Profa. Rosangela Kronig 
+Qde CH/sem: 
+nn 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+Prof. Rodrigo Amorim Motta Carvalho 
+Qde CH/sem: 
+nn 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+Prof. Alan Henrique Pardo de Carvalho 
+Qde CH/sem: 
+nn 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+Prof. Flavio Viotti 
+Qde CH/sem: 
+nn 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+06/03/2026 
+Data final: 
+28/06/2026 
+Atividade 
+Entregável 
+(link/SEI) 
+Nº Ref 
+Verificação 
+ 
+ok 
+Requer 
+Ação 
+Etapas do processo: 
+01- Designação das frentes de trabalho e respectivos 
+colaboradores, e alinhamento da proposta com a CESU (GPR 
+e GAP) 
+Escolher um item. 
+nn 
+☐  
+☐  
+06/03 
+31/03 
+02- Desenvolvimento das frentes de trabalho e compilação 
+das propostas apresentadas 
+Escolher um item. 
+nn 
+☐  
+☐  
+03/04 
+08/05 
+03- Revisão da proposta do PPC do CST em ADS 
+Escolher um item. 
+nn 
+☐  
+☐  
+08/05 
+13/10 
+04- Apresentação e análise da proposta da versão atualizada 
+do PPC ADS junto ao Colegiado de Curso 
+Escolher um item. 
+nn 
+☐  
+☐  
+14/10 
+07/03 
+05- Consolidação da versão atualizada do PPC do CST em ADS 
+com as sugestões apresentadas pelo Colegiado 
+Escolher um item. 
+nn 
+☐  
+☐  
+11/03 
+26/04 
+06- Apresentação da proposta de versão atualizada do PPC 
+do CST em ADS à Congregação. 
+Escolher um item. 
+nn 
+☐  
+☐  
+03/05 
+03/05 
+07- Revisão final da proposta – período de ajustes e 
+sugestões feitas pela Congregação 
+Escolher um item. 
+nn 
+☐  
+☐  
+06/05 
+24/05 
+08 – Encaminhamento para especialista do Eixo na CESU 
+Escolher um item. 
+nn 
+☐  
+☐  
+25/05 
+25/06 
+09- Encaminhamento da proposta de reestruturação do PPC 
+do CST em ADS para a CESU 
+Escolher um item. 
+nn 
+☐  
+☐  
+27/06 
+15/07 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CEETEPS 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+ 
+AÇÃO/PROJETO (Tema) 
+104 - cat 1.01 - Adequação/reestruturação de PPC, implantação de novos cursos. 
+Origem (prioridade): 
+1-Regulação - Notificação de órgão (MEC, CEE, VS.,..) 
+O que será feito: 
+Proposta de Atualização PPC de Jogos Digitais 
+Por que será feito: 
+Atualização do Projeto Pedagógico do Curso em função das necessidades do setor. 
+Responsável: 
+Prof. Alan Henrique Pardo de Carvalho 
+(coordenador) 
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora 
+Atividade 
+Específica 
+Colaborador(a): 
+Prof. Adilson Ferreira da Silva 
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora 
+Atividade 
+Específica 
+Colaborador(a): 
+Prof. César Torres Fernandes 
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora 
+Atividade 
+Específica 
+Colaborador(a): 
+Prof. Leandro Ramos da Silva 
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora 
+Atividade 
+Específica 
+Colaborador(a): 
+Prof. Willians Monteiro da Silva 
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora 
+Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+27/05/2026 
+Data final: 
+04/03/2027 
+Atividade 
+Entregável 
+(link/SEI) 
+Nº Ref 
+Verificação 
+ 
+ok 
+Requer 
+Ação 
+Etapas do processo: 
+01- Designação das frentes de trabalho e respectivos 
+colaboradores e alinhamento da proposta com a Cesu (GPR e 
+GAP) 
+Escolher um item. 
+nn 
+☐  
+☐  
+27/05 
+26/06 
+02- Desenvolvimento das frentes de trabalho e compilação 
+das propostas apresentadas 
+Escolher um item. 
+nn 
+☐  
+☐  
+27/06 
+30/08 
+03- Revisão da proposta do PPC do CST em Jogos Digitais 
+Escolher um item. 
+nn 
+☐  
+☐  
+02/09 
+14/11 
+04- Apresentação e análise da proposta da versão atualizada 
+do PPC junto ao Colegiado do Curso 
+Escolher um item. 
+nn 
+☐  
+☐  
+18/11 
+18/11 
+05- Consolidação da versão atualizada do PPC com as 
+sugestões apresentadas pelo Colegiado 
+Escolher um item. 
+nn 
+☐  
+☐  
+19/11 
+19/12 
+06- Apresentação da versão consolidada do PPC a partir das 
+sugestões apresentadas pelo Colegiado. 
+Escolher um item. 
+nn 
+☐  
+☐  
+03/02 
+03/02 
+07- Apresentação da proposta da versão consolidada do PPC 
+à Congregação 
+Escolher um item. 
+nn 
+☐  
+☐  
+05/02 
+05/02 
+08- Revisão final da proposta a partir das sugestões feitas 
+pela Congregação 
+Escolher um item. 
+nn 
+☐  
+☐  
+07/02 
+28/02 
+09- Apresentação da versão final da proposta à Congregação 
+Escolher um item. 
+nn 
+☐  
+☐  
+03/03 
+03/03 
+10 – Encaminhamento a especialista do eixo na CESU 
+Escolher um item. 
+nn 
+☐  
+☐  
+04/03 
+30/03 
+11 - Encaminhamento da proposta de reestruturação do PPC 
+do CST em Jogos Digitais à Cesu 
+Escolher um item. 
+nn 
+☐  
+☐  
+04/04 
+04/04 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CEETEPS 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.99 - Outra 
+ 
+AÇÃO/PROJETO (Tema) 
+105 - cat 1.01 - Adequação/reestruturação de PPC, implantação de novos cursos. 
+Origem (prioridade): 
+1-Regulação - Notificação de órgão (MEC, CEE, VS.,..) 
+O que será feito: 
+Elaboração de relatório de necessidades de aquisição de insumos para utilização em 
+atividades do CST em Jogos Digitais. 
+Por que será feito: 
+Atender a solicitação de especialistas do CEESP decorrentes da última renovação de 
+reconhecimento do Curso 
+Responsável: 
+Profa. Adriane Monteiro Fontana 
+Qde CH/sem: 
+02 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Prof. Alan Henrique Pardo de Carvalho 
+(coordenador) 
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora 
+Atividade 
+Específica 
+Colaborador(a): 
+Marcia Gorete da Silva 
+Qde CH/sem: 
+01 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Márcia Nahomi Matsui Ogawa 
+Qde CH/sem: 
+01 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Clair Elvira Hipólito Peixoto 
+Qde CH/sem: 
+01 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Período de execução: 
+Data inicial: 
+27/05/2026 
+Data final: 
+25/11/2026 
+Atividade 
+Entregável 
+(link/SEI) 
+Nº Ref 
+Verificação 
+ 
+ok 
+Requer 
+Ação 
+Etapas do 
+processo:
+01- Levantamento das necessidades apontadas no relatório 
+dos especialistas do CEESP 
+Escolher um item. 
+nn 
+☐  
+☐  
+27/05 
+26/06 
+02- Determinação de especificações técnicas dos insumos a 
+serem adquiridos 
+Escolher um item. 
+nn 
+☐  
+☐  
+27/06 
+27/09 
+03- Elaboração da lista de insumos necessários para 
+aquisição 
+Escolher um item. 
+nn 
+☐  
+☐  
+30/09 
+23/11 
+04- Encaminhamento da lista de insumos necessários para 
+aquisição 
+Escolher um item. 
+nn 
+☐  
+☐  
+25/11 
+25/11 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CEETEPS 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+ 
+Comentado [FP1]: Demanda Urgente para entrar no PCA 
+20206: 
+ 
+1 - Estes insumos são para uso em laboratórios? Se sim, 
+estão  no eixo errado, devem ficar no Eixo 2. Outro ponto 
+importante é que não aparece o custo do projeto; não 
+adianta colocar só no anexo, o custo total deve estar aqui; 
+bem como indicar na coluna de entregável se é material 
+permanente, consumo, livros, softwares.  
+2 - A indicação de Regulação exige que na coluna do 
+Entregável, aponte se é um Relatório, Memorando, etc; e na 
+coluna nº de referência, se insira a identificação numérica do 
+documento. 
+ 
+Veja o exemplo do Projeto 102 que solicita um software. 
+ 
+EM BRANCO 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+106- cat 1.01 - Adequação/reestruturação de PPC, implantação de novos cursos. 
+Origem (prioridade): 
+2-Gestão Estratégica Institucional (AMS, novos cursos e unidades) 
+O que será feito: 
+Implantação de um AMS na área de Jogos Digitais 
+EM 
+BRANCO 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Por que será feito: 
+O estudo para implantação do curso de Jogos Digitais, em regime de articulação entre a Etec de 
+Heliópolis e a Fatec São Caetano do Sul, fundamenta-se na identificação de demandas crescentes 
+por profissionais especializados em setores da economia criativa, notadamente na indústria 
+brasileira de jogos digitais. A iniciativa promove a formação integrada de competências técnicas e 
+acadêmicas, atendendo às políticas públicas de educação profissional e tecnológica, e visa 
+impulsionar a empregabilidade, a inovação e o desenvolvimento socioeconômico, especialmente 
+em regiões estratégicas como o Grande ABC e entorno, em consonância com as demandas do 
+mercado e as políticas públicas de educação profissional e tecnológica do Estado de São Paulo. 
+Responsável: 
+Profa. Adriane Monteiro 
+Qde CH/sem: 
+04 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+Prof. Alan Henrique Pardo de Carvalho 
+Qde CH/sem: 
+02 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+Prof. João Carlos Lopes Fernandes 
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+02/02/2026 
+Data final: 
+30/12/2026 
+Atividade 
+Entregável 
+(link/SEI) 
+Nº Ref 
+Verificação 
+ 
+ok 
+Requer 
+ação 
+Etapas 
+do
+01 – Definição do perfil profissional em cada nível da formação 
+Escolher um item. 
+nn 
+☐  ☐  
+02/02 
+31/03 
+02 – Definição do Curriculo a ser implantado  
+Escolher um item. 
+nn 
+☐  ☐  
+02/04 
+30/06 
+03 – Levantamento de necessidade de Infraestrutura 
+Escolher um item. 
+nn 
+☐  ☐  
+01/07 
+30/09 
+04 – Discussões para Implantação 
+Escolher um item. 
+nn 
+☐  ☐  
+01/10 
+31/12 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.99 - Outra 
+(a ser resolvida/mitigada) 
+cat 0.1.99 - Outra 
+EM 
+BRANCO 
+AÇÃO/PROJETO (Tema) 
+107 - cat 1.01 - Adequação/reestruturação de PPC, implantação de novos cursos. 
+Origem (prioridade): 
+2-Gestão Estratégica Institucional (AMS, novos cursos e unidades) 
+O que será feito: 
+Implantação de um AMS na área de Gestão 
+ 
+EM 
+BRANCO 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Por que será feito: 
+A implantação do novo curso de Gestão, articulando o Ensino Médio e o Ensino Superior, visa 
+atender à crescente demanda regional por profissionais capacitados em gestão organizacional, 
+alinhando-se às diretrizes de formação técnica e tecnológica de qualidade. Vinculado à Fatec São 
+Caetano do Sul e à ETEC Jorge Street, o curso fortalecerá a integração educacional e profissional, 
+promovendo a empregabilidade dos jovens e impulsionando o desenvolvimento econômico local, 
+em consonância com as demandas do mercado e as políticas públicas de educação profissional e 
+tecnológica do Estado de São Paulo. 
+Responsável: 
+Profa. Adriane Monteiro 
+Qde CH/sem: 
+04 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+Prof. João Carlos Lopes Fernandes 
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+Profa. Nilza Aparecida dos Santos 
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+02/02/2026 
+Data final: 
+30/12/2026 
+Atividade 
+Entregável 
+(link/SEI) 
+Nº Ref 
+Verificação 
+ 
+ok 
+Requer 
+ação 
+Etapas 
+do
+01 – Definição do perfil profissional em cada nível da formação 
+Escolher um item. 
+nn 
+☐  ☐  
+02/02 
+31/03 
+02 – Definição do Curriculo a ser implantado  
+Escolher um item. 
+nn 
+☐  ☐  
+02/04 
+30/06 
+03 – Levantamento de necessidade de Infraestrutura 
+Escolher um item. 
+nn 
+☐  ☐  
+01/07 
+30/09 
+04 – Discussões para Implantação 
+Escolher um item. 
+nn 
+☐  ☐  
+01/10 
+31/12 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.99 - Outra 
+(a ser resolvida/mitigada) 
+cat 0.1.99 - Outra 
+02 – Laboratórios - Ensino e Equipamentos Associados 
+Ações para melhoramento dos laboratórios de Ensino (Gestão e Equipamentos): Melhoramento de 
+equipamentos, mediante instalação, manutenção, desuso, doação, e gestão de ambiente laboratorial. 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+201 - cat 2.02 - Laboratório informática - implantação/melhoramento com recursos PEDAGÓGICOS 
+Origem (prioridade): 
+1-Regulação - Notificação de órgão (MEC, CEE, VS.,..) 
+O que será feito: 
+Troca do sistema de armazenamento dos computadores dos laboratórios que hoje possuem 
+HardDisk para memória de armazenamento SSD Solid-State Drive 
+Por que será feito: 
+Os equipamentos com tecnologia HardDisk demoram um tempo enorme para iniciarem a 
+operação, e o processamento das aplicações utilizadas nos laboratórios 
+Responsável: 
+Cristiano Ardanuy 
+Qde CH/sem: 
+5 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Matheus Haddad 
+Qde CH/sem: 
+5 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Debora Domingues Lopes 
+Qde CH/sem: 
+5 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Período de execução: 
+Data inicial: 
+01/02/2026 
+Data final: 
+31/05/2026 
+Atividade 
+Entregável 
+(link/SEI) 
+Nº Ref 
+Verificação 
+ 
+ok 
+Requer 
+ação 
+Etapas 
+do
+01- Preparação das imagens dos laboratórios 
+Escolher um item. 
+nn 
+☐  ☐  
+01/02 
+28/02 
+02- Troca da mídia de armazenamento 
+Escolher um item. 
+nn 
+☐  ☐  
+01/3 
+30/04 
+03- Configurações de rede 
+Escolher um item. 
+nn 
+☐  ☐  
+02/05 
+15/05 
+04- Testes 
+Escolher um item. 
+nn 
+☐  ☐  
+16/05 
+31/05 
+Custo R$ (se houver): 
+VALOR 
+Fonte(s) dos recursos: 
+CEETEPS 
+Situação problema: 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+(a ser resolvida/mitigada) 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+ 
+AÇÃO/PROJETO (Tema) 
+202 - cat 2.05 - Gestão laboratorial - pedagógica, operacional e estrutural 
+Origem (prioridade): 
+2-Gestão Estratégica Institucional (AMS, novos cursos e unidades) 
+O que será feito: 
+Troca dos switches e adição de racks de parede dos laboratórios de uso geral e específicos 
+Por que será feito: 
+Os equipamentos atuais são de 16 anos atrás e o desempenho dos mesmos não é condizente 
+com as necessidades de tráfego de dados das aplicações atuais 
+Responsável: 
+Cristiano Ardanuy 
+Qde CH/sem: 
+4 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Prof. Mário Eugênio Longato  
+Qde CH/sem: 
+4 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+Debora Domingues Lopes 
+Qde CH/sem: 
+4 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Período de execução: 
+Data inicial: 
+01/03/2026 
+Data final: 
+30/06/2026 
+Atividade 
+Entregável 
+(link/SEI) 
+Nº Ref 
+Verificação 
+ 
+ok 
+Requer 
+ação 
+Etapas do 
+processo:
+01- Preparação dos laboratórios 
+Escolher um item. 
+nn 
+☐  ☐  
+01/03 
+20/03 
+02- Preparação dos switches (Configuração) 
+Escolher um item. 
+nn 
+☐  ☐  
+01/03 
+31/03 
+03- instalação dos racks 
+Escolher um item. 
+nn 
+☐  ☐  
+01/03 
+31/03 
+04- instalação dos switches 
+Escolher um item. 
+nn 
+☐  ☐  
+01/04 
+30/04 
+05- troca do cabeamento 
+Escolher um item. 
+nn 
+☐  ☐  
+01/04 
+31/05 
+06- testes 
+Escolher um item. 
+nn 
+☐  ☐  
+01/06 
+30/06 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CEETEPS 
+Situação problema: 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+(a ser resolvida/mitigada) 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+203 - cat 2.02 - Laboratório informática - implantação/melhoramento com recursos PEDAGÓGICOS 
+Origem (prioridade): 
+2-Gestão Estratégica Institucional (AMS, novos cursos e unidades) 
+O que será feito: 
+Inserção de experimentos de Tecnologia da Informação e Comunicação na área de 
+infraestrutura e lógica às aulas temáticas 
+Por que será feito: 
+Colocação dos cursos de tecnologia da unidade em igual situação ao que é exigido no mercado 
+em que nossos alunos irão exercer suas atividades 
+Comentado [FP2]: Demanda Urgente PCA 2026: 
+ 
+1 - Qual o valor desse projeto (estimado)? Porque para 
+entrar no PCA os itens necessários precisam ter seu custo 
+estimado apresentado e seus itens descritos nos respectivos 
+Anexos. 
+2 - Indicar na coluna de Entregável o tipo de Solicitação, 
+como já indicado no projeto 105. 
+Comentado [FP3]: Acredito que está no Eixo errado. Isso  
+é atividade curricularizada, de plano de ensino? Me parece 
+algo pedagógico qjue pertence ao Eixo 1. Aqui diz: 
+"Colocação dos cursos de tecnologia da unidade em igual 
+situação ao que é exigido no mercado em que nossos alunos 
+irão exercer suas atividades" - é uma reestruturação de CST? 
+Responsável: 
+Mario Eugenio Longato 
+Qde CH/sem: 
+2 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+Jacinto Carlos Ascêncio Cansado 
+Qde CH/sem: 
+2 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+Cláudio Cura Junior 
+Qde CH/sem: 
+2 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+01/02/2026 
+Data final: 
+31/08/2026 
+Atividade 
+Entregável 
+(link/SEI) 
+Nº Ref 
+Verificação 
+ 
+ok 
+Requer 
+ação 
+Etapas 
+do
+01- Desenvolvimento experimentos 
+Escolher um item. 
+nn 
+☐  ☐  
+01/02 
+31/03 
+02- Testes dos experimentos 
+Escolher um item. 
+nn 
+☐  ☐  
+01/04 
+30/04 
+03- Validação pedagógica 
+Escolher um item. 
+nn 
+☐  ☐  
+01/05 
+31/05 
+04- Aplicação teste 
+Escolher um item. 
+nn 
+☐  ☐  
+01/06 
+31/08 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CEETEPS 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+ 
+AÇÃO/PROJETO (Tema) 
+204 - cat 2.01 - Laboratório físico - implantação/melhoramento com recursos PEDAGÓGICOS 
+Origem (prioridade): 
+2-Gestão Estratégica Institucional (AMS, novos cursos e unidades) 
+O que será feito: 
+Implantação de serviço de domínio para autenticação dos alunos, professores e funcionários 
+administrativos, mantendo a unidade aderente às boas práticas, e condições legais da LGPD 
+Por que será feito: 
+Atender à demanda indicada pelos avaliadores do Conselho Estadual de Educação, e estar 
+alinhado às leis que tratam da LGPD e Segurança da Informação 
+Responsável: 
+Claudio Cura Junior 
+Qde CH/sem: 
+3 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): Mario Eugenio Longato 
+Qde CH/sem: 
+1 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+01/02/2026 
+Data final: 
+31/12/2026 
+Atividade 
+Entregável 
+(link/SEI) 
+Nº Ref 
+Verificação 
+ 
+ok 
+Requer 
+ação 
+Etapas do 
+processo:
+01- Levantamento dos locais, e usuários 
+Escolher um item. 
+nn 
+☐  ☐  
+01/02 
+28/02 
+02- Levantamento dos recursos lógicos que serão utilizados 
+Escolher um item. 
+nn 
+☐  ☐  
+01/03 
+31/03 
+03- Configuração dos Servidores 
+Escolher um item. 
+nn 
+☐  ☐  
+01/04 
+15/04 
+04- Configuração dos pontos de acesso 
+Escolher um item. 
+nn 
+☐  ☐  
+01/04 
+31/05 
+05- Testes e liberação para uso 
+Escolher um item. 
+nn 
+☐  ☐  
+01/06 
+30/06 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CEETEPS 
+Situação problema: 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+(a ser resolvida/mitigada) 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+ 
+AÇÃO/PROJETO (Tema) 
+205 - cat 2.04 - Ambiente de ensino prático - implantação/melhoramento com recursos NÃO PEDAGÓGICOS 
+Origem (prioridade): 
+2-Gestão Estratégica Institucional (AMS, novos cursos e unidades) 
+O que será feito: 
+Adequação da rede de dados da unidade a pedido do DI para suporte às instalações dos 
+equipamentos WIFI6 
+Por que será feito: 
+Suporte às recomendações do DI para que as unidades atualizem o WIFI 
+Responsável: 
+Mario Eugenio Longato 
+Qde CH/sem: 
+1 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): Cristiano Ardanuy 
+Qde CH/sem: 
+3 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): Debora Domingues Lopes 
+Qde CH/sem: 
+3 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Período de execução: 
+Data inicial: 
+01/03/2026 
+Data final: 
+30/09/2025 
+Atividade 
+Entregável 
+(link/SEI) 
+Nº Ref 
+Verificação 
+ 
+ok 
+Requer 
+ação 
+Etapas 
+do
+01- Elaboração do projeto de encaminhamento dos cabos 
+Escolher um item. 
+nn 
+☐  ☐  
+01/03 
+31/03 
+02- Passagem dos cabos 
+Escolher um item. 
+nn 
+☐  ☐  
+01/04 
+30/06 
+03- Conectorização 
+Escolher um item. 
+nn 
+☐  ☐  
+01/08 
+30/09 
+04- Testes 
+Escolher um item. 
+nn 
+☐  ☐  
+01/03 
+31/03 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CEETEPS 
+Situação problema: 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+(a ser resolvida/mitigada) 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+ 
+AÇÃO/PROJETO (Tema) 
+206 - cat 2.02 - Laboratório informática - implantação/melhoramento com recursos PEDAGÓGICOS 
+Origem (prioridade): 
+2-Gestão Estratégica Institucional (AMS, novos cursos e unidades) 
+Comentado [FP4]: Eixo errado. Isso é Infra, 5. Ademais, 
+seguir comentários do projeto 201 
+Comentado [FP5]: Não entendi se isso é só para os labs ou 
+para unidade inteira. Se for só para os Labs, o projeto é 
+deste Eixo, do contrário é do 5. Ademais, somam á esses 
+comentários, as mesmas orientações do projeto 201. 
+O que será feito: 
+Aquisição para substituição de computadores do laboratório 01 da Fatec São Caetano do Sul. 
+Por que será feito: 
+Aquisição de 21 notebooks do tipo avançado educacional 
+Cadeiras giratórias. 
+Estabilizadores. 
+Responsável: 
+Marcia Gorete da Silva 
+Qde CH/sem: 
+40 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Prof. César Torres Fernandes 
+Qde CH/sem: 
+10 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Cristiano Ardanuy 
+Qde CH/sem: 
+40 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Matheus Haddad 
+Qde CH/sem: 
+40 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Débora Rodrigues Lopes 
+Qde CH/sem: 
+40 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Período de execução: 
+Data inicial: 
+02/01/2026 
+Data final: 
+20/12/2026 
+Atividade 
+Entregável 
+(link/SEI) 
+Nº Ref 
+Verificação 
+ 
+ok 
+Requer 
+ação 
+Etapas 
+do
+01- Preparação dos laboratórios 
+Escolher um item. 
+nn 
+☐  ☐  
+02/01 
+20/12 
+02- Substituição dos computadores pelos notebooks 
+Escolher um item. 
+nn 
+☐  ☐  
+02/01 
+20/12 
+03- Instalação dos softwares 
+Escolher um item. 
+nn 
+☐  ☐  
+02/01 
+20/12 
+04- Testes 
+Escolher um item. 
+nn 
+☐  ☐  
+02/01 
+20/12 
+Custo R$ (se houver): 
+73.500,00 
+Fonte(s) dos recursos: 
+CEETEPS 
+Situação problema: 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+(a ser resolvida/mitigada) 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+ 
+AÇÃO/PROJETO (Tema) 
+207 - cat 2.02 - Laboratório informática - implantação/melhoramento com recursos PEDAGÓGICOS 
+Origem (prioridade): 
+2-Gestão Estratégica Institucional (AMS, novos cursos e unidades) 
+O que será feito: 
+Aquisição para melhoria do laboratório 02 da Fatec São Caetano do Sul. 
+Por que será feito: 
+Aquisição de 21 notebooks do tipo avançado educacional 
+Cadeiras giratórias. 
+Estabilizadores. 
+Responsável: 
+Marcia Gorete da Silva 
+Qde CH/sem: 
+40 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Prof. César Torres Fernandes 
+Qde CH/sem: 
+10 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Cristiano Ardanuy 
+Qde CH/sem: 
+40 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Matheus Haddad 
+Qde CH/sem: 
+40 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Débora Rodrigues Lopes 
+Qde CH/sem: 
+40 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Período de execução: 
+Data inicial: 
+02/01/2026 
+Data final: 
+20/12/2026 
+Atividade 
+Entregável 
+(link/SEI) 
+Nº Ref 
+Verificação 
+ 
+ok 
+Requer 
+ação 
+Etapas 
+do
+01- Preparação dos laboratórios 
+Escolher um item. 
+nn 
+☐  ☐  
+02/01 
+20/12 
+02- Substituição dos computadores pelos notebooks 
+Escolher um item. 
+nn 
+☐  ☐  
+02/01 
+20/12 
+03- Instalação dos softwares 
+Escolher um item. 
+nn 
+☐  ☐  
+02/01 
+20/12 
+04- Testes 
+Escolher um item. 
+nn 
+☐  ☐  
+02/01 
+20/12 
+Custo R$ (se houver): 
+73.500,00 
+Fonte(s) dos recursos: 
+CEETEPS 
+Situação problema: 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+(a ser resolvida/mitigada) 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+ 
+AÇÃO/PROJETO (Tema) 
+208 - cat 2.02 - Laboratório informática - implantação/melhoramento com recursos PEDAGÓGICOS 
+Origem (prioridade): 
+2-Gestão Estratégica Institucional (AMS, novos cursos e unidades) 
+O que será feito: 
+Aquisição para substituição de computadores do laboratório 03 da Fatec São Caetano do Sul. 
+Por que será feito: 
+Aquisição de 21 notebooks do tipo avançado educacional, com a seguinte configuração 
+Cadeiras giratórias. 
+Estabilizadores. 
+Responsável: 
+Marcia Gorete da Silva 
+Qde CH/sem: 
+40 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Prof. César Torres Fernandes 
+Qde CH/sem: 
+10 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Comentado [FP6]: 1 - A configuração deve estar no Anexo; 
+não aqui. No mais, idem 201. 
+2 - Este projeto se repete até o 210, da mesma forma. Por 
+que fazer 5 projetos iguais ao invés de concentrar tudo num 
+único? É isso, ou houve um erro em repetir 5x o mesmo? 
+Comentado [FP7]: Idem 206 
+Comentado [FP8]: Idem 206 
+Colaborador(a): 
+Cristiano Ardanuy 
+Qde CH/sem: 
+40 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Matheus Haddad 
+Qde CH/sem: 
+40 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Débora Rodrigues Lopes 
+Qde CH/sem: 
+40 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Período de execução: 
+Data inicial: 
+02/01/2026 
+Data final: 
+20/12/2026 
+Atividade 
+Entregável 
+(link/SEI) 
+Nº Ref 
+Verificação 
+ 
+ok 
+Requer 
+ação 
+Etapas 
+do
+01- Preparação dos laboratórios 
+Escolher um item. 
+nn 
+☐  ☐  
+02/01 
+20/12 
+02- Substituição dos computadores pelos notebooks 
+Escolher um item. 
+nn 
+☐  ☐  
+02/01 
+20/12 
+03- Instalação dos softwares 
+Escolher um item. 
+nn 
+☐  ☐  
+02/01 
+20/12 
+04- Testes 
+Escolher um item. 
+nn 
+☐  ☐  
+02/01 
+20/12 
+Custo R$ (se houver): 
+73.500,00 
+Fonte(s) dos recursos: 
+CEETEPS 
+Situação problema: 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+(a ser resolvida/mitigada) 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+ 
+AÇÃO/PROJETO (Tema) 
+209 - cat 2.02 - Laboratório informática - implantação/melhoramento com recursos PEDAGÓGICOS 
+Origem (prioridade): 
+2-Gestão Estratégica Institucional (AMS, novos cursos e unidades) 
+O que será feito: 
+Aquisição para substituição de computadores do laboratório 04 da Fatec São Caetano do Sul. 
+Por que será feito: 
+Aquisição de 21 notebooks do tipo avançado educacional, com a seguinte configuração:  
+Cadeiras giratórias. 
+Estabilizadores. 
+Responsável: 
+Marcia Gorete da Silva 
+Qde CH/sem: 
+40 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Prof. César Torres Fernandes 
+Qde CH/sem: 
+10 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Cristiano Ardanuy 
+Qde CH/sem: 
+40 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Matheus Haddad 
+Qde CH/sem: 
+40 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Débora Rodrigues Lopes 
+Qde CH/sem: 
+40 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Período de execução: 
+Data inicial: 
+02/01/2026 
+Data final: 
+20/12/2026 
+Atividade 
+Entregável 
+(link/SEI) 
+Nº Ref 
+Verificação 
+ 
+ok 
+Requer 
+ação 
+Etapas 
+do
+01- Preparação dos laboratórios 
+Escolher um item. 
+nn 
+☐  ☐  
+02/01 
+20/12 
+02- Substituição dos computadores pelos notebooks 
+Escolher um item. 
+nn 
+☐  ☐  
+02/01 
+20/12 
+03- Instalação dos softwares 
+Escolher um item. 
+nn 
+☐  ☐  
+02/01 
+20/12 
+04- Testes 
+Escolher um item. 
+nn 
+☐  ☐  
+02/01 
+20/12 
+Custo R$ (se houver): 
+73.500,00 
+Fonte(s) dos recursos: 
+CEETEPS 
+Situação problema: 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+(a ser resolvida/mitigada) 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+ 
+AÇÃO/PROJETO (Tema) 
+210 - cat 2.02 - Laboratório informática - implantação/melhoramento com recursos PEDAGÓGICOS 
+Origem (prioridade): 
+2-Gestão Estratégica Institucional (AMS, novos cursos e unidades) 
+O que será feito: 
+Aquisição para substituição de computadores do laboratório de Redes da Fatec São Caetano do 
+Sul. 
+Por que será feito: 
+Aquisição de 21 notebooks do tipo avançado educacional, com a seguinte configuração 
+Cadeiras giratórias. 
+Estabilizadores. 
+Responsável: 
+Marcia Gorete da Silva 
+Qde CH/sem: 
+40 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Prof. César Torres Fernandes 
+Qde CH/sem: 
+10 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Cristiano Ardanuy 
+Qde CH/sem: 
+40 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Matheus Haddad 
+Qde CH/sem: 
+40 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Débora Rodrigues Lopes 
+Qde CH/sem: 
+40 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Período de execução: 
+Data inicial: 
+02/01/2026 
+Data final: 
+20/12/2026 
+Nº Ref 
+Verificação 
+Comentado [FP9]: Idem 206 
+Comentado [FP10]: Idem 206 
+Atividade 
+Entregável 
+(link/SEI) 
+ok 
+Requer 
+ação 
+ 
+Etapas 
+do
+01- Preparação dos laboratórios 
+Escolher um item. 
+nn 
+☐  ☐  
+02/01 
+20/12 
+02- Substituição dos computadores pelos notebooks 
+Escolher um item. 
+nn 
+☐  ☐  
+02/01 
+20/12 
+03- Instalação dos softwares 
+Escolher um item. 
+nn 
+☐  ☐  
+02/01 
+20/12 
+04- Testes 
+Escolher um item. 
+nn 
+☐  ☐  
+02/01 
+20/12 
+Custo R$ (se houver): 
+73.500,00 
+Fonte(s) dos recursos: 
+CEETEPS 
+Situação problema: 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+(a ser resolvida/mitigada) 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+03 – Pesquisa / Extensão e Equipamentos Associados 
+Ações para melhoramento dos laboratórios que contemplam Pesquisa além do Ensino (Equipamentos): 
+melhoramento dos espaços de pesquisa, que inclui especificação equipamentos e aquisição por fomento ou por 
+projeto com empresa, e também prestação de serviços no campo tecnológico para instituições e empresas. 
+ 
+AÇÃO/PROJETO (Tema) 
+301 - cat 3.06 - Jornada/Evento/Revista Científico e Tecnológico 
+Origem (prioridade): 
+6-Outra 
+O que será feito: 
+Proposta de indexação do FaSCi-Tech, periódico científico eletrônico da Fatec São Caetano do 
+Sul, nas principais bases de dados. Identificação dos critérios para o processo de indexação do 
+Fasci-Tech, definição de cronograma de atividades para atendimento aos requisitos das principais 
+bases de dados e estabelecimento de plano de ação para conclusão do registro do periódico. 
+Por que será feito: 
+Para estabelecimento da correta padronização dos dados bibliográficos do periódico, mirando não 
+somente a visibilidade da revista para publicação, bem como seu reconhecimento pelos pares na 
+área de atuação 
+Responsável: 
+Profa. Adriane Monteiro Fontana 
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+Prof. Alan Henrique Pardo de Carvalho 
+Qde CH/sem: 
+02 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Período de execução: 
+Data inicial: 
+29/03/2026 
+Data final: 
+20/12/2026 
+Atividade 
+Entregável 
+(link/SEI) 
+Nº Ref 
+Verificação 
+ 
+ok 
+Requer 
+ação 
+Etapas do 
+processo:
+01- Identificação dos critérios para o processo de indexação do 
+Fasci-Tech 
+Escolher um item. 
+nn 
+☐  ☐  
+29/05 
+28/06 
+02- Definição de cronograma de atividades para atendimento 
+aos requisitos das principais bases de dados 
+Escolher um item. 
+nn 
+☐  ☐  
+29/07 
+30/08 
+03- Estabelecimento de plano de ação para conclusão do 
+registro do periódico 
+Escolher um item. 
+nn 
+☐  ☐  
+02/09 
+20/12 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CEETEPS 
+Situação problema: 
+cat 0.1.08 - Participação da comunidade e sociedade 
+(a ser resolvida/mitigada) 
+cat 0.1.08 - Participação da comunidade e sociedade 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+302 - cat 3.05 - Projetos de Pesquisa para Desenvolvimento de Equipamentos/Materiais Didáticos 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Programa Institucional de Iniciação Científica (PCITec) 
+Promoção do Programa Institucional de Iniciação Científica (PCITec) da Fatec São Caetano do Sul 
+à comunidade acadêmica, atualização do edital de abertura de inscrições, divulgação do 
+cronograma do PCITec para submissão de propostas de pesquisa docente e discente, análise dos 
+projetos enviados, divulgação dos resultados, início da pesquisa docente e discente e entrega dos 
+relatórios parciais de orientadores e orientados. 
+Por que será feito: 
+Para desenvolvimento de atividades científicas e tecnológicas nos cursos de Análise e 
+Desenvolvimento de Sistemas, Comércio Exterior, Jogos Digitais e Segurança da Informação, 
+através da promoção do PCITec da Fatec São Caetano do Sul à comunidade acadêmica 
+Responsável: 
+Profa. Adriane Monteiro Fontana 
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+Profa. Aline Correa de Sousa Colantuono 
+Qde CH/sem: 
+02 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Profa. Edna Mataruco Duarte 
+Qde CH/sem: 
+02 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Prof. João Carlos Lopes Fernandes 
+Qde CH/sem: 
+02 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Profa. Nilza Aparecida dos Santos 
+Qde CH/sem: 
+02 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Período de execução: 
+Data inicial: 
+01/02/2026 
+Data final: 
+08/12/2026 
+Atividade 
+Entregável 
+(link/SEI) 
+Nº Ref 
+Verificação 
+ 
+ok 
+Requer 
+ação 
+Etapas do 
+processo:
+01- Atualização do edital de abertura de inscrições 
+Escolher um item. 
+nn 
+☐  ☐  
+01/02 
+01/03 
+02- Divulgação do cronograma do PCITec para submissão de 
+propostas de pesquisa docente e discente 
+Escolher um item. 
+nn 
+☐  ☐  
+01/02 
+03/02 
+03- Análise dos projetos enviados 
+Escolher um item. 
+nn 
+☐  ☐  
+17/03 
+14/04 
+04- Divulgação dos resultados 
+Escolher um item. 
+nn 
+☐  ☐  
+14/04 
+14/04 
+05- Início da pesquisa docente e discente 
+Escolher um item. 
+nn 
+☐  ☐  
+01/08 
+01/08 
+06- Entrega dos relatórios parciais de orientadores e orientados 
+Escolher um item. 
+nn 
+☐  ☐  
+08/12 
+08/12 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CEETEPS 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+ 
+AÇÃO/PROJETO (Tema) 
+303 - cat. 3.99 - Outra 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Núcleo de Pesquisa, Inovação e Extensão vinculado ao CEPE da Congregação.  
+Por que será feito: 
+O Núcleo de Pesquisa, Inovação e Extensão será implantado com o objetivo de integrar ações 
+acadêmicas, científicas e sociais, promovendo o desenvolvimento de projetos interdisciplinares 
+voltados à solução de desafios reais da comunidade e do setor produtivo. A iniciativa busca 
+valorizar a produção de conhecimento aplicado e estimular a atuação prática dos alunos e 
+fortalecer a integração entre ensino, pesquisa e sociedade, o foco estará no desenvolvimento de 
+projetos acadêmicos, tecnológicos e sociais. O núcleo reunirá docentes e discentes em ações 
+colaborativas com empresas e comunidade, promovendo a pesquisa aplicada, a inovação e a 
+extensão universitária. 
+Responsável: 
+Profa. Adriane Monteiro Fontana 
+Qde CH/sem: 
+6 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+Prof. Fábio Henrique Cabrini 
+Qde CH/sem: 
+2 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+Prof. Giane Rodrigues 
+Qde CH/sem: 
+6 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+Prof. Edna Mataruco Duarte 
+Qde CH/sem: 
+2 
+Tipo: 
+HA – Hora Atividade 
+Colaborador(a): 
+Prof. João Carlos Lopes Fernandes 
+Qde CH/sem: 
+2 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+Prof. Nilza Aparecida dos Santos 
+ 
+Qde CH/sem: 
+2 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+03/03/2026 
+Data final: 
+20/12/2026 
+Atividade 
+Entregável 
+(link/SEI) 
+Nº Ref 
+Verificação 
+ 
+ok 
+Requer 
+ação 
+Etapas do processo: 
+01-Mapeamento de demandas locais 
+Levantamento de desafios junto à comunidade e setor 
+produtivo. 
+Escolher um item. 
+nn 
+☐  ☐  
+01/02 
+15/03 
+02-Elaboração e acompanhamento de projetos 
+interdisciplinares 
+Desenvolvimento de propostas acadêmicas, tecnológicas e 
+sociais com foco aplicado. 
+Escolher um item. 
+nn 
+☐  ☐  
+01/02 
+30/05 
+03-Oficinas e capacitações para discentes e docentes 
+Treinamentos em metodologias de pesquisa, inovação e 
+extensão. 
+Escolher um item. 
+nn 
+☐  ☐  
+01/03 
+30/11 
+04-Fomento à pesquisa aplicada e inovação 
+Apoio a projetos com potencial de impacto social e 
+tecnológico. 
+Escolher um item. 
+nn 
+☐  ☐  
+01/03 
+30/11 
+05-Parcerias com empresas e organizações locais 
+Articulação de convênios e cooperação para ações conjuntas. 
+Escolher um item. 
+nn 
+☐  ☐  
+01/03 
+30/11 
+06-Divulgação científica e tecnológica 
+Publicações, eventos, feiras e mostras de projetos. 
+Escolher um item. 
+nn 
+☐  ☐  
+01/03 
+30/11 
+07-Monitoramento e avaliação de impacto 
+Avaliação dos resultados e benefícios gerados à comunidade e 
+ao setor produtivo. 
+ 
+Escolher um item. 
+nn 
+☐  ☐  
+01/03 
+30/12 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.10 - Gestão da unidade de ensino e dos cursos (indicadores) 
+ 
+AÇÃO/PROJETO (Tema) 
+304 - cat 1.14 - Curso de Extensão 
+Origem (prioridade): 
+5-Gestão Operacional - Preservação de capacidade instalada 
+O que será feito: 
+English HUB - Inglês 0 - Nivelamento de Língua Inglesa 
+Por que será feito: 
+Nivelamento de Língua Inglesa 
+Resgatar, aprofundar e solidificar os conhecimentos em língua inglesa. 
+Responsável: 
+Prof. Marcos Oliveira 
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora 
+Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+01/02/2026 
+Data final: 
+21/12/2026 
+Atividade 
+Entregável 
+(link/SEI) 
+Nº Ref 
+Verificação 
+ 
+ok 
+Requer 
+Ação 
+Etapas do 
+processo:
+Preparação de materiais 
+Escolher um item. 
+nn 
+☐  
+☐  
+01/02 
+05/08 
+15/02 
+20/08 
+Divulgação para os alunos 
+Escolher um item. 
+nn 
+☐  
+☐  
+16/02 
+06/08 
+20/02 
+16/08 
+Aulas para nivelamento  
+Escolher um item. 
+nn 
+☐  
+☐  
+01/02 
+05/08 
+15/02 
+20/08 
+Plantão de dúvidas 
+Escolher um item. 
+nn 
+☐  
+☐  
+16/02 
+06/08 
+20/02 
+16/08 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CEETEPS 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+ 
+AÇÃO/PROJETO (Tema) 
+305 - cat 1.14 - Curso de Extensão 
+Origem (prioridade): 
+6-Outra 
+O que será feito: 
+Educação financeira 
+Disponibilizar/Ministrar Palestras na área de Educação Financeira 
+Por que será feito: 
+Para apoiar a comunidade interna e externa relacionadas a área de educação financeira; 
+Responsável: 
+Profa. Sonia Cristina Menoce 
+Qde CH/sem: 
+05 
+Tipo: 
+HAE - Hora 
+Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+01/08/2026 
+Data final: 
+31/12/2026 
+Atividade 
+Entregável 
+(link/SEI) 
+Nº Ref 
+Verificação 
+ 
+ok 
+Requer 
+Ação 
+Etapas do processo: 
+01- Planejamento e pesquisa para definir os temas das 
+principais dúvidas na área financeira e envolvimento dos 
+alunos no projeto. 
+Escolher um item. 
+nn 
+☐  
+☐  
+01/08 
+30/08 
+02- Preparar conteúdo/material e treinar os alunos para apoiar 
+o projeto e período de divulgação. 
+Escolher um item. 
+nn 
+☐  
+☐  
+01/09 
+19/09 
+03- Palestra Educação Financeira 
+Escolher um item. 
+nn 
+☐  
+☐  
+20/09 
+20/09 
+04- Preparar conteúdo/material e treinar os alunos para apoiar 
+o projeto e período de divulgação. 
+ 
+nn 
+☐  
+☐  
+21/09 
+18/10 
+05- Palestra Educação Financeira 
+Escolher um item. 
+nn 
+☐  
+☐  
+19/10 
+19/10 
+06- Preparar conteúdo/material e treinar os alunos para apoiar 
+o projeto e período de divulgação. 
+ 
+nn 
+☐  
+☐  
+20/10 
+15/11 
+07- Palestra Educação Financeira 
+ 
+nn 
+☐  
+☐  
+16/11 
+16/11 
+08- Preparar conteúdo/material e treinar os alunos para apoiar 
+o projeto e período de divulgação. 
+Escolher um item. 
+nn 
+☐  
+☐  
+17/11 
+06/12 
+09- Palestra Educação Financeira 
+Escolher um item. 
+nn 
+☐  
+☐  
+07/12 
+07/12 
+10- Encerramento e relatórios 
+Escolher um item. 
+nn 
+☐  
+☐  
+09/12 
+31/12 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CEETEPS 
+Situação problema: 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+(a ser resolvida/mitigada) 
+cat 0.1.08 - Participação da comunidade e sociedade 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+306 - cat 1.02 - Eventos e publicações acadêmicos e científicos 
+Origem (prioridade): 
+6-Outra 
+O que será feito: 
+Projeto Unifesp 
+Projeto de pesquisa e desenvolvimento de sistema para atendimento/suporte aos projetos de 
+pesquisa do Laboratório de Criatividade, Empreendedorismo e Inovação (LABDIS/Unifesp) 
+Por que será feito: 
+Para atendimento às demandas sociais e do mercado de trabalho regional 
+Responsável: 
+Prof. César Torres Fernandes 
+Qde CH/sem: 
+04 
+Tipo: 
+HA - Hora 
+Atividade 
+Colaborador(a): 
+Prof. Adilson Ferreira da Silva 
+Qde CH/sem: 
+02 
+Tipo: 
+HA - Hora 
+Atividade 
+Colaborador(a): 
+Prof. Celso Denis Gallão 
+Qde CH/sem: 
+02 
+Tipo: 
+HA - Hora 
+Atividade 
+Colaborador(a): 
+Prof. Rodrigo Amorim Motta Carvalho 
+Qde CH/sem: 
+02 
+Tipo: 
+HA - Hora 
+Atividade 
+Período de execução: 
+Data inicial: 
+05/02/2026 
+Data final: 
+15/12/2026 
+Nº Ref 
+Verificação 
+Atividade 
+Entregável 
+(link/SEI) 
+ok 
+Requer 
+Ação 
+ 
+Etapas do processo: 
+01- Estabelecimento de parceria junto a LABDIS/Unifesp 
+Escolher um item. 
+nn 
+☐  
+☐  
+05/02 
+06/11 
+02- Levantamento das necessidades e especificação de 
+requisitos do LABDIS/Unifesp 
+Escolher um item. 
+nn 
+☐  
+☐  
+01/04 
+29/05 
+03- Avaliação da viabilidade do projeto 
+Escolher um item. 
+nn 
+☐  
+☐  
+31/05 
+19/06 
+04- Design do projeto do sistema 
+Escolher um item. 
+nn 
+☐  
+☐  
+20/06 
+05/07 
+05- Implementação do sistema 
+Escolher um item. 
+nn 
+☐  
+☐  
+08/07 
+27/09 
+06- Testes do sistema. 
+Escolher um item. 
+nn 
+☐  
+☐  
+30/09 
+06/11 
+07- Implantação do sistema no LABDIS/Unifesp 
+Escolher um item. 
+nn 
+☐  
+☐  
+07/11 
+15/12 
+nn 
+Escolher um item. 
+nn 
+☐  
+☐  
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CEETEPS 
+Situação problema: 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+(a ser resolvida/mitigada) 
+cat 0.1.08 - Participação da comunidade e sociedade 
+ 
+AÇÃO/PROJETO (Tema) 
+307 - cat.1.99 - Outra 
+Origem (prioridade): 
+6-Outra 
+O que será feito: 
+Projeto Alumni  
+Levantamento de associações / grupos de ex-alunos de faculdades; 
+Criação do Modelo Alumni Fatec São Caetano do Sul 
+Divulgação para os ex-alunos 
+Reunião com ex-alunos 
+Evento para aproximação dos ex-alunos dos atuais 
+Plataforma de intercambio para ex-alunos e comunidade da Fatec São Caetano do Sul 
+Por que será feito: 
+Aproximar o aluno egresso com a comunidade acadêmica atual e sociedade. 
+Responsável: 
+Profa. Adriane Monteiro Fontana 
+Qde CH/sem: 
+02 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Prof. César Torres Fernandes 
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora 
+Atividade 
+Específica 
+Colaborador(a): 
+Prof. João Carlos Lopes Fernandes 
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora 
+Atividade 
+Específica 
+Colaborador(a): 
+Prof. Nilza Aparecida dos Santos 
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora 
+Atividade 
+Específica 
+Colaborador(a): 
+Prof. Rafael Leal de Araújo 
+ 
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora 
+Atividade 
+Específica 
+Colaborador(a): 
+Guilherme Cortonesi Cela 
+Qde CH/sem: 
+02 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Período de execução: 
+Data inicial: 
+08/02/2026 
+Data final: 
+31/12/2026 
+Atividade 
+Entregável 
+(link/SEI) 
+Nº Ref 
+Verificação 
+ 
+ok 
+Requer 
+Ação 
+Etapas do 
+processo:
+Levantamento de associações / grupos de ex-alunos de 
+faculdades; 
+Escolher um item. 
+nn 
+☐  
+☐  
+08/02 
+08/04 
+Criação do Modelo Alumni Fatec São Caetano do Sul 
+Escolher um item. 
+nn 
+☐  
+☐  
+09/04 
+09/05 
+Divulgação para os egressos 
+Escolher um item. 
+nn 
+☐  
+☐  
+10/05 
+10/07 
+Reunião com egressos 
+Escolher um item. 
+nn 
+☐  
+☐  
+11/08 
+11/09 
+Evento aproximação dos egressos com os atuais alunos 
+Escolher um item. 
+nn 
+☐  
+☐  
+01/10 
+30/10 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CEETEPS 
+Situação problema: 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+(a ser resolvida/mitigada) 
+cat 0.1.99 - Outra 
+ 
+AÇÃO/PROJETO (Tema) 
+308 - cat 1.06 - Ações pedagógicas: visitas técnicas, projetos integradores/interdisciplinares, dias de campo, 
+feira das profissões, cursos extracurriculares para alunos. 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Catch the flag 
+Localização de parceiros que desenvolvem atividades afins para dar suporte técnico ao evento. 
+Por que será feito: 
+Este evento é tradicional nas instituições que possuem o curso de Segurança da Informação. 
+Responsável: 
+Profa. Adriane Monteiro Fontana 
+Qde CH/sem: 
+2 
+Tipo: 
+HAE - Hora 
+Atividade 
+Específica 
+Colaborador(a): 
+Prof. Everson Denis 
+Qde CH/sem: 
+2 
+Tipo: 
+HA - Hora 
+Atividade 
+Colaborador(a): 
+Prof. Fábio Henrique Cabrini 
+Qde CH/sem: 
+2 
+Tipo: 
+HA - Hora 
+Atividade 
+Colaborador(a): 
+Prof. Kleber Divino 
+Qde CH/sem: 
+2 
+Tipo: 
+HA - Hora 
+Atividade 
+Colaborador(a): 
+Prof. Mário Eugênio Longato 
+Qde CH/sem: 
+2 
+Tipo: 
+HA - Hora 
+Atividade 
+Período de execução: 
+Data inicial: 
+31/03/2026 
+Data final: 
+21/12/2026 
+Atividade 
+Entregável 
+(link/SEI) 
+Nº Ref 
+Verificação 
+ 
+ok 
+Requer 
+Ação 
+Etapas do 
+processo:
+01- Busca por parcerias que hospedam o serviço 
+Escolher um item. 
+nn 
+☐  
+☐  
+31/03 
+30/04 
+02- Divulgação do evento 1º. Semestre 
+Escolher um item. 
+nn 
+☐  
+☐  
+01/05 
+20/05 
+03- Preparação do evento 1º. Semestre 
+Escolher um item. 
+nn 
+☐  
+☐  
+01/05 
+31/05 
+04- Realização do evento 1º. Semestre 
+Escolher um item. 
+nn 
+☐  
+☐  
+01/06 
+30/06 
+05- Divulgação do evento 2º. Semestre 
+Escolher um item. 
+nn 
+☐  
+☐  
+01/09 
+24/10 
+06- Preparação do evento 2º. Semestre 
+Escolher um item. 
+nn 
+☐  
+☐  
+01/09 
+24/10 
+07- Realização do evento 2º. Semestre 
+Escolher um item. 
+nn 
+☐  
+☐  
+25/10 
+05/11 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CEETEPS 
+Situação problema: 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+(a ser resolvida/mitigada) 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+ 
+AÇÃO/PROJETO (Tema) 
+309 - cat 1.07 - Divulgação do vestibular e ações de fortalecimento de imagem institucional 
+Origem (prioridade): 
+6-Outra 
+O que será feito: 
+Centro de Memória 
+Por que será feito: 
+Resgate dos 19 anos da Fatec São Caetano do Sul 
+Responsável: 
+Profa. Adriane Monteiro Fontana 
+Qde CH/sem: 
+2 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Clair Elvira Hipólito Peixoto 
+Qde CH/sem: 
+2 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Guilherme Cortonesi Cela 
+Qde CH/sem: 
+2 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Docentes da Unidade 
+Qde CH/sem: 
+2 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Período de execução: 
+Data inicial: 
+01/03/2026 
+Data final: 
+21/12/2026 
+Atividade 
+Entregável 
+(link/SEI) 
+Nº Ref 
+Verificação 
+ 
+ok 
+Requer 
+Ação 
+Etapas do processo: 
+Chamamento aos egressos e ex-funcionários para 
+arrecadação de memoriabilia  
+Escolher um item. 
+nn 
+☐  
+☐  
+01/03 
+01/05 
+Pesquisa interna para identificação de itens que fazem parte 
+da história da Fatec São Caetano do Sul 
+Escolher um item. 
+nn 
+☒  
+☐  
+02/05 
+30/06 
+Classificação dos materiais localizados 
+Escolher um item. 
+nn 
+☐  
+☐  
+01/08 
+30/09 
+Buscar formas de arquivo adequadas para que a memória 
+seja preservada 
+Escolher um item. 
+nn 
+☐  
+☐  
+01/10 
+21/12 
+Chamamento aos egressos e ex-funcionários para 
+arrecadação de memoriabilia  
+Escolher um item. 
+nn 
+☐  
+☐  
+01/03 
+01/05 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CEETEPS 
+Situação problema: 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+(a ser resolvida/mitigada) 
+cat 0.1.99 - Outra 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+310- cat.1.99 - Outra 
+Origem (prioridade): 
+6-Outra 
+O que será feito: 
+II Mostra de projetos de soluções tecnológicas desenvolvidos por alunos do curso de 
+Tecnologia em Análise e Desenvolvimento de Sistemas – AMS (disciplinas de Projeto Integrador 
+I e II).  
+Por que será feito: 
+A realização da mostra tem como finalidade consolidar a formação prática dos estudantes, 
+evidenciando a integração entre ensino, pesquisa e extensão. Ao valorizar os projetos 
+desenvolvidos no âmbito curricular, a iniciativa promove o compartilhamento de soluções 
+tecnológicas com a comunidade acadêmica e convidados externos, incentivando o protagonismo 
+ 
+estudantil e o fortalecimento do vínculo social da instituição. Ação vinculada à curricularização da 
+extensão. 
+Responsável: 
+Profa. Nilza Aparecida dos Santos 
+Qde CH/sem: 
+04 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+Prof. Carlos Henrique Veríssimo Pereira 
+Qde CH/sem: 
+02 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+Prof. Fernando Toniolli 
+Qde CH/sem: 
+02 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+Prof. Thiago de Jesus Inocêncio 
+Qde CH/sem: 
+01 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+03/03/2026 
+Data final: 
+30/11/2026 
+Atividade 
+Entregável 
+(link/SEI) 
+Nº Ref 
+Verificação 
+ 
+ok 
+Requer 
+ação 
+Etapas 
+do
+01-Planejamento da Mostra 
+Escolher um item. 
+nn 
+☐  ☐  
+02/02 
+30/09 
+02-Definição dos Projetos 
+Escolher um item. 
+nn 
+☐  ☐  
+02/02 
+30/06 
+03-Organização do evento (montagem) 
+Escolher um item. 
+nn 
+☐  ☐  
+15/10 
+14/11 
+04-Realização do evento 
+Escolher um item. 
+nn 
+☐  ☐  
+01/11 
+14/11 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CPS  
+Situação problema: 
+cat 0.1.08 - Participação da comunidade e sociedade 
+ 
+ 
+(a ser resolvida/mitigada) 
+cat 0.1.08 - Participação da comunidade e sociedade 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+04 – Atividades Formativas em Projetos (nível tático) 
+Projetos institucionais formativos não especificados em PEs: Rede de tecnologia, Novotec, PCI, Projetos 
+estudantis (Baja, Aerodesign, entre outros) 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+401 - cat 4.04 - Projetos estudantis diversos 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Novas parcerias 
+Identificação de novas, e manutenção, de parcerias externas, definição de objetivos para o 
+desenvolvimento dos novos projetos, elaboração dos cronogramas de atividades, execução dos 
+projetos e otimização dos PCIs para o contínuo aperfeiçoamento deles. 
+Por que será feito: 
+Para promoção de trocas de experiências internacionais entre parceiros; desenvolvimento de 
+habilidades digitais, linguísticas e interculturais, e realização de projetos colaborativos que 
+estimulem o aprendizado prático. 
+Responsável: 
+Profa. Adriane Monteiro Fontana  
+Qde CH/sem: 
+2 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Prof. Cesar Torres Fernandes 
+Qde CH/sem: 
+2 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Prof. Miguel Marílio Saad Junior 
+Qde CH/sem: 
+2 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Prof. Nilza Aparecida dos Santos 
+Qde CH/sem: 
+2 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Prof. Rafael Leal de Araújo 
+Qde CH/sem: 
+2 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Período de execução: 
+Data inicial: 
+05/02/2026 
+Data final: 
+15/12/2026 
+Atividade 
+Entregável 
+(link/SEI) 
+Nº Ref 
+Verificação 
+ 
+ok 
+Requer 
+ação 
+Etapas do 
+processo:
+01- Identificação de novas parcerias externas 
+Escolher um item. 
+nn 
+☐  ☐  
+05/02 
+15/12 
+02- Definição de objetivos para o desenvolvimento de novos 
+projetos 
+Escolher um item. 
+nn 
+☐  ☐  
+05/02 
+15/12 
+03- Elaboração dos cronogramas de atividades 
+Escolher um item. 
+nn 
+☐  ☐  
+05/02 
+15/12 
+04- Execução dos projetos 
+Escolher um item. 
+nn 
+☐  ☐  
+05/02 
+15/12 
+05- Otimização dos PCIs para o contínuo aperfeiçoamento 
+deles 
+Escolher um item. 
+nn 
+☐  ☐  
+05/02 
+15/12 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.08 - Participação da comunidade e sociedade 
+(a ser resolvida/mitigada) 
+cat 0.1.08 - Participação da comunidade e sociedade 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+402 - cat 4.04 - Projetos estudantis diversos 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Security Day 
+Preparação de um evento com palestras e demonstrações práticas das ações e ferramentas 
+ligadas à Segurança Cibernética 
+Por que será feito: 
+Nossos estudantes devem ser apresentados ao mercado formal da área de Segurança Cibernética 
+por meio de eventos que trazem profissionais e empresas da área, desenvolvendo um contato 
+próximo a eles. 
+Responsável: 
+Profa Adriane Monteiro Fontana (Coordenador) 
+Qde CH/sem: 
+2 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Profa. Edna Mataruco Duarte 
+Qde CH/sem: 
+2 
+Tipo: 
+HA - Hora 
+Atividade 
+Colaborador(a): 
+Prof. Mario Eugenio Longato 
+Qde CH/sem: 
+nn 
+Tipo: 
+HA - Hora 
+Atividade 
+Período de execução: 
+Data inicial: 
+07/08/2026 
+Data final: 
+20/10/2026 
+Atividade 
+Entregável 
+(link/SEI) 
+Nº Ref 
+Verificação 
+ 
+ok 
+Requer 
+Ação 
+Etapas 
+do
+01- Chamamento dos alunos do curso para comporem uma 
+comissão organizadora juntamente com a coordenação de 
+curso. 
+Escolher um item. 
+nn 
+☐  
+☐  
+07/08 
+15/08 
+02- Elaboração dos temas recorrentes da área 
+Escolher um item. 
+nn 
+☐  
+☐  
+21/08 
+04/09 
+03- Contato com empresas, profissionais e ex-alunos FATEC 
+para apresentarem os temas 
+Escolher um item. 
+nn 
+☐  
+☐  
+04/09 
+30/09 
+04- Preparação da agenda e divulgação aos alunos, 
+professores e comunidade 
+Escolher um item. 
+nn 
+☐  
+☐  
+02/10 
+18/10 
+05- Realizar o evento 
+Escolher um item. 
+nn 
+☐  
+☐  
+20/10 
+20/10 
+01- Chamamento dos alunos do curso para comporem uma 
+comissão organizadora juntamente com a coordenação de 
+curso. 
+Escolher um item. 
+nn 
+☐  
+☐  
+07/08 
+15/08 
+02- Elaboração dos temas recorrentes da área 
+Escolher um item. 
+nn 
+☐  
+☐  
+21/08 
+04/09 
+03- Contato com empresas, profissionais e ex-alunos FATEC 
+para apresentarem os temas 
+Escolher um item. 
+nn 
+☐  
+☐  
+04/09 
+30/09 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CEETEPS 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+403 - cat 4.04 - Projetos estudantis diversos 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+ADS Day 
+Preparação de um evento com palestras e demonstrações práticas das ações e ferramentas 
+ligadas à Análise e Desenvolvimento de Sistemas. 
+Por que será feito: 
+Nossos estudantes devem ser apresentados ao mercado formal da área de Análise e 
+Desenvolvimento de Sistemas por meio de eventos que trazem profissionais e empresas da área, 
+desenvolvendo um contato próximo a eles. 
+Profa Adriane 
+Monteiro 
+Fontana 
+(Coordenador) 
+Prof. César Torres Fernandez (Coordenador) 
+Qde CH/sem: 
+2 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Profa. Nilza Aparecida dos Santos 
+Qde CH/sem: 
+2 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Período de execução: 
+Data inicial: 
+07/08/2026 
+Data final: 
+20/10/2026 
+Atividade 
+Entregável 
+(link/SEI) 
+Nº Ref 
+Verificação 
+ 
+ok 
+Requer 
+Ação 
+Etapas do processo: 
+01- Chamamento dos alunos do curso para comporem uma 
+comissão organizadora juntamente com a coordenação de 
+curso. 
+Escolher um item. 
+nn 
+☐  
+☐  
+07/08 
+15/08 
+02- Elaboração dos temas recorrentes da área 
+Escolher um item. 
+nn 
+☐  
+☐  
+21/08 
+04/09 
+03- Contato com empresas, profissionais e ex-alunos FATEC 
+para apresentarem os temas 
+Escolher um item. 
+nn 
+☐  
+☐  
+04/09 
+30/09 
+04- Preparação da agenda e divulgação aos alunos, 
+professores e comunidade 
+Escolher um item. 
+nn 
+☐  
+☐  
+02/10 
+18/10 
+05- Realizar o evento 
+Escolher um item. 
+nn 
+☐  
+☐  
+20/10 
+20/10 
+01- Chamamento dos alunos do curso para comporem uma 
+comissão organizadora juntamente com a coordenação de 
+curso. 
+Escolher um item. 
+nn 
+☐  
+☐  
+07/08 
+15/08 
+02- Elaboração dos temas recorrentes da área 
+Escolher um item. 
+nn 
+☐  
+☐  
+21/08 
+04/09 
+03- Contato com empresas, profissionais e ex-alunos FATEC 
+para apresentarem os temas 
+Escolher um item. 
+nn 
+☐  
+☐  
+04/09 
+30/09 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CEETEPS 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+ 
+AÇÃO/PROJETO (Tema) 
+404 - cat 4.04 - Projetos estudantis diversos 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Supply Chain Management - Divulgação Científica: Serão desenvolvidas publicações científicas 
+com foco em cadeia de suprimentos a partir de trabalhos realizados nas disciplinas de Comércio 
+Exterior e Logística no quinto semestre. 
+Por que será feito: 
+A atividade será realizada para capacitar os alunos na atuação com importação e exportação, 
+promovendo o desenvolvimento de habilidades em pesquisa e redação científica voltadas à cadeia 
+de suprimentos, em preparação para o Trabalho de Graduação e possíveis estudos em pós-
+graduação. 
+Responsável 
+Profa. Rafael Leal de Araujo 
+Qde CH/sem: 
+2 
+Tipo: 
+HAE - Hora 
+Atividade 
+Específica 
+Colaborador(a): 
+Profa. Margarete Bonaldi Ascêncio Cansado  
+ 
+Qde CH/sem: 
+2 
+Tipo: 
+HA - Hora 
+Atividade 
+Colaborador(a): 
+Profa. Rita Maria Cunha Leite Coentro 
+Qde CH/sem: 
+2 
+Tipo: 
+HA - Hora 
+Atividade 
+Período de execução: 
+Data inicial: 
+01/02/2026 
+Data final: 
+15/12/2026 
+Atividade 
+Entregável 
+(link/SEI) 
+Nº Ref 
+Verificação 
+ 
+ok 
+Requer 
+Ação 
+Etapas do processo: 
+01- Desenvolvimento das atividades relacionadas às 
+disciplinas de Projeto em Comércio Exterior III e IV que tratam 
+especificamente de desenvolver projetos de Importação e 
+Exportação. 
+Escolher um item. 
+nn 
+☐  
+☐  
+01/02 
+30/06 
+02- Convite aos alunos para publicação dos resultados dos 
+projetos produzidos nas disciplinas. 
+Escolher um item. 
+nn 
+☐  
+☐  
+01/05 
+31/05 
+03- Orientação específica sobre a produção de artigos 
+científicos e papers, participação em eventos especializados. 
+Escolher um item. 
+nn 
+☐  
+☐  
+01/06 
+30/09 
+05- Promoção de divulgação científica em eventos 
+especializados. 
+Escolher um item. 
+nn 
+☐  
+☐  
+01/08 
+30/11 
+06- Avaliação de resultados e impacto das publicações. 
+Escolher um item. 
+nn 
+☐  
+☐  
+01/12 
+15/12 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CEETEPS 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+ 
+AÇÃO/PROJETO (Tema) 
+405 - cat 4.04 - Projetos estudantis diversos 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Encomex 
+Prospecção de convidados para ministrar palestras e oficinas durante o evento, preparação do 
+cronograma de atividades, divulgação do evento junto ao público interno e externo, organização do 
+evento e aplicação de pesquisa de satisfação após o evento. 
+Por que será feito: 
+Para aproximação da academia, representada por alunos e professores, ao mercado de atuação 
+em comércio exterior, representado pelos profissionais convidados para proferir palestras e 
+oficinas no evento. 
+Responsável: 
+Prof. Rafael Leal Araujo (coodenador) 
+Qde CH/sem: 
+02 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Profa. Margarete Bonaldi Ascêncio Cansado 
+ 
+Qde CH/sem: 
+02 
+Tipo: 
+HA - Hora 
+Atividade 
+Colaborador(a): 
+Profa. Miguel Marílio Saad Junior 
+ 
+Qde CH/sem: 
+02 
+Tipo: 
+HA - Hora 
+Atividade 
+Colaborador(a): 
+Profa. Nilza Aparecida dos Santos  
+Qde CH/sem: 
+02 
+Tipo: 
+HA - Hora 
+Atividade 
+Colaborador(a): 
+Profa. Rita Maria Cunha Leite Coentro 
+ 
+Qde CH/sem: 
+02 
+Tipo: 
+HA - Hora 
+Atividade 
+Período de execução: 
+Data inicial: 
+01/08/2026 
+Data final: 
+03/11/2026 
+Atividade 
+Entregável 
+(link/SEI) 
+Nº Ref 
+Verificação 
+ 
+ok 
+Requer 
+Ação 
+Etapas do 
+processo:
+01- Prospecção de convidados para ministrar palestras e 
+oficinas 
+Escolher um item. 
+nn 
+☐  
+☐  
+01/08 
+31/08 
+02- Preparação do cronograma de atividades 
+Escolher um item. 
+nn 
+☐  
+☐  
+01/09 
+29/09 
+03- Divulgação do evento junto ao público interno e externo 
+Escolher um item. 
+nn 
+☐  
+☐  
+01/09 
+29/09 
+04- Organização do evento 
+Escolher um item. 
+nn 
+☐  
+☐  
+02/10 
+27/10 
+05- Aplicação de pesquisa de satisfação após o evento 
+Escolher um item. 
+nn 
+☐  
+☐  
+30/10 
+03/11 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CEETEPS 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+ 
+AÇÃO/PROJETO (Tema) 
+406 - cat 4.04 - Projetos estudantis diversos 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Organizar o evento anual do CST em Jogos Digitais. 
+ 
+Por que será feito: 
+Fatec SCS Games Day 
+Oferecer aos alunos e ao público externo uma oportunidade de atualização em temas ligados ao 
+desenvolvimento de jogos. Contribuir para o aumento da visibilidade do Curso e da Unidade. 
+Responsável: 
+Prof. Alan Henrique Pardo de Carvalho 
+(coordenador) 
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora 
+Atividade 
+Específica 
+Colaborador(a): 
+Márcia Gorete da Silva 
+Qde CH/sem: 
+nn 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Francieli Sena Costa 
+Qde CH/sem: 
+nn 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Período de execução: 
+Data inicial: 
+27/05/2026 
+Data final: 
+10/11/2026 
+Atividade 
+Entregável 
+(link/SEI) 
+Nº Ref 
+Verificação 
+ 
+ok 
+Requer 
+Ação 
+Etapas do 
+processo:
+01- Chamada para composição da comissão organizadora 
+Escolher um item. 
+nn 
+☐  
+☐  
+27/05 
+11/06 
+02- Reuniões para definição da programação do evento e 
+estratégias de divulgação 
+Escolher um item. 
+nn 
+☐  
+☐  
+27/05 
+09/10 
+03- Divulgação do evento e recebimento de inscrições 
+Escolher um item. 
+nn 
+☐  
+☐  
+10/10 
+10/11 
+04- Realização do evento 
+Escolher um item. 
+nn 
+☐  
+☐  
+10/11 
+10/11 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CEETEPS 
+Situação problema: 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+(a ser resolvida/mitigada) 
+cat 0.1.08 - Participação da comunidade e sociedade 
+ 
+AÇÃO/PROJETO (Tema) 
+407 - cat 4.04 - Projetos estudantis diversos 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Global Game Jam 2025 
+Inscrição da Fatec São Caetano do Sul como sede da Global Game Jam 2025 e organização da 
+sede visando a realização do evento. 
+Por que será feito: 
+Organizar a sede da Global Game Jam 2025 @ Fatec São Caetano do Sul, oferecendo aos alunos 
+e ao público externo a oportunidade de participar dessa que é a maior game jam do mundo na 
+sede da Fatec São Caetano do Sul, que realiza o evento ininterruptamente desde 2011. Contribuir 
+para o aumento da visibilidade do Curso e da Unidade. 
+ 
+Responsável: 
+Prof. Alan Henrique Pardo de Carvalho 
+(coordenador) 
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora 
+Atividade 
+Específica 
+Colaborador(a): 
+Profa. Adriane Monteiro Fontana 
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora 
+Atividade 
+Específica 
+Colaborador(a): 
+Francieli Sena Costa 
+Qde CH/sem: 
+02 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Márcia Gorete da Silva 
+ 
+Qde CH/sem: 
+nn 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Período de execução: 
+Data inicial: 
+01/11/2026 
+Data final: 
+02/02/2027 
+Atividade 
+Entregável 
+(link/SEI) 
+Nº Ref 
+Verificação 
+ 
+ok 
+Requer 
+Ação 
+Etapas do 
+processo: 
+01- Cadastramento da sede no site mundial da Global 
+Game Jam 
+Escolher um item. 
+nn 
+☐  
+☐  
+01/11 
+30/11 
+02- Confirmação da sede pela organização regional 
+brasileira da Global Game Jam 
+Escolher um item. 
+nn 
+☐  
+☐  
+01/11 
+30/11 
+03- Divulgação do evento e recebimento das inscrições 
+Escolher um item. 
+nn 
+☐  
+☐  
+01/11 
+02/02 
+04- Preparação do local para recepção dos participantes 
+Escolher um item. 
+nn 
+☐  
+☐  
+08/01 
+24/01 
+05- Realização do evento 
+Escolher um item. 
+nn 
+☐  
+☐  
+27/01 
+02/02 
+Custo R$ (se houver): 
+nn 
+CEETEPS 
+nn 
+Situação problema: 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+(a ser resolvida/mitigada) 
+cat 0.1.08 - Participação da comunidade e sociedade 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+05 – Infraestrutura (instalações prediais) 
+Projetos de manutenção e melhoramento predial voltados à segurança (física e sanitária) e preservação do 
+patrimônio: Reparação predial (civil, elétrica, dados), novas instalações prediais. 
+ 
+AÇÃO/PROJETO (Tema) 
+501 - cat 5.03 - Material Infraestrutura/equipamentos 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Aquisição para substituição de equipamentos dos laboratórios, biblioteca e equipamentos 
+da área administrativa e acadêmica 
+Por que será feito: 
+A substituição de equipamentos nos laboratórios, biblioteca e setores administrativos e 
+acadêmicos é necessária devido à obsolescência e desgaste dos atuais, comprometendo a 
+eficiência das atividades. A atualização garantirá melhores condições de trabalho, ensino e 
+atendimento à comunidade acadêmica. 
+Responsável: 
+Marcia Gorete da Silva 
+Qde CH/sem: 
+03 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Márcia Nahomi Matsui Ogawa 
+Qde CH/sem: 
+03 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Alan Silvestre San Miguel 
+Qde CH/sem: 
+03 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Haila Batistão Bobice 
+Qde CH/sem: 
+03 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Período de execução: 
+Data inicial: 
+02/01/2026 
+Data final: 
+30/06/2026 
+Atividade 
+Entregável 
+(link/SEI) 
+Nº Ref 
+Verificação 
+ 
+ok 
+Requer 
+ação 
+Etapas do processo: 
+01- Escolha dos modelos adequados: 
+Impressora/Computador/Leitor de fita digital de livros/ Detector 
+de fita digital de livros/ cadeiras/ mesa e cadeira acoplada/ 
+longarinas 
+Escolher um item. 
+nn 
+☐  ☐  
+02/02 
+28/02 
+02- Definição de quantitativos 
+Escolher um item. 
+nn 
+☐  ☐  
+02/02 
+28/02 
+03- Reunião com Regional – UGAF 
+Escolher um item. 
+nn 
+☐  ☐  
+02/02 
+28/02 
+04- Visita Regional – UGAF 
+Escolher um item. 
+nn 
+☐  ☐  
+02/02 
+28/02 
+05- Relatório com solicitação de compra 
+Escolher um item. 
+nn 
+☐  ☐  
+01/03 
+30/03 
+06- Envio de Memorando com relatório para solicitação de 
+compra 
+Escolher um item. 
+nn 
+☐  ☐  
+01/04 
+30/04 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CEETEPS 
+Situação problema: 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+(a ser resolvida/mitigada) 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+ 
+AÇÃO/PROJETO (Tema) 
+502 - cat 5.01 - Melhoria Sala de Ambientes pedagógicos 
+Origem (prioridade): 
+5-Gestão Operacional - Preservação de capacidade instalada 
+O que será feito: 
+Manutenção e higienização do equipamento de Ar Condicionado  
+Por que será feito: 
+Para garantir o pleno funcionamento do sistema, evitar falhas operacionais, prolongar a vida útil do 
+equipamento e assegurar a qualidade do ar. A ausência de cuidados pode causar acúmulo de 
+sujeira, proliferação de micro-organismos, aumento do consumo de energia e custos com reparos 
+emergenciais. Além disso, a ação atende às normas de saúde e segurança no trabalho. 
+Responsável: 
+Marcia Gorete da Silva 
+Qde CH/sem: 
+02 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Márcia Nahomi Matsui Ogawa 
+Qde CH/sem: 
+02 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Gabriel Theodoro Correia da Silva  
+Qde CH/sem: 
+02 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Período de execução: 
+Data inicial: 
+02/01/2026 
+Data final: 
+30/04/2026 
+Atividade 
+Entregável 
+(link/SEI) 
+Nº Ref 
+Verificação 
+ 
+ok 
+Requer 
+ação 
+Etapas do 
+processo:
+01- Levantamento das demandas 
+Escolher um item. 
+nn 
+☐  ☐  
+02/02 
+28/02 
+02- Reunião com Regional – UGAF 
+Escolher um item. 
+nn 
+☐  ☐  
+02/02 
+28/02 
+03- Visita Regional – UGAF 
+Escolher um item. 
+nn 
+☐  ☐  
+02/02 
+28/02 
+04- Relatório com solicitação de compra 
+Escolher um item. 
+nn 
+☐  ☐  
+01/03 
+30/03 
+05- Envio de Memorando com relatório para solicitação de 
+manutenção 
+Escolher um item. 
+nn 
+☐  ☐  
+01/04 
+30/04 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CEETEPS 
+Situação problema: 
+cat 0.1.02 - Manutenção e conservação predial 
+(a ser resolvida/mitigada) 
+cat 0.1.02 - Manutenção e conservação predial 
+Comentado [FP11]: Mesmos comentários feitos 
+anteriormente: 
+1 - Apresente o custo do projeto (valor estimado) 
+2 - Selecione na coluna entregável o tipo de solicitação: 
+material permanente ou consumo 
+3- Detalhe os itens no Anexo correspondente. 
+Comentado [FP12]: Idem 501 
+ 
+AÇÃO/PROJETO (Tema) 
+503 - cat 5.01 - Melhoria Sala de Ambientes pedagógicos 
+Origem (prioridade): 
+5-Gestão Operacional - Preservação de capacidade instalada 
+O que será feito: 
+Manutenção para Limpeza das Grelhas do estacionamento 
+Por que será feito: 
+Para garantir o bom funcionamento do sistema de escoamento de águas pluviais, prevenindo 
+entupimentos e alagamentos. A remoção periódica de sujeira e detritos evita danos à 
+infraestrutura, melhora a segurança e contribui para a preservação do ambiente, garantindo o bom 
+estado de conservação da Unidade. 
+Responsável: 
+Marcia Gorete da Silva 
+Qde CH/sem: 
+02 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Márcia Nahomi Matsui Ogawa 
+Qde CH/sem: 
+02 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Gabriel Theodoro Correia da Silva  
+Qde CH/sem: 
+02 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Período de execução: 
+Data inicial: 
+02/02/2026 
+Data final: 
+30/04/2026 
+Atividade 
+Entregável 
+(link/SEI) 
+Nº Ref 
+Verificação 
+ 
+ok 
+Requer 
+ação 
+Etapas do 
+processo:
+01- Levantamento das demandas 
+Escolher um item. 
+nn 
+☐  ☐  
+02/02 
+28/02 
+02- Reunião com Regional – UGAF 
+Escolher um item. 
+nn 
+☐  ☐  
+02/02 
+28/02 
+03- Visita Regional – UGAF 
+Escolher um item. 
+nn 
+☐  ☐  
+02/02 
+28/02 
+04- Relatório com solicitação de compra 
+Escolher um item. 
+nn 
+☐  ☐  
+01/03 
+30/03 
+05- Envio de Memorando com relatório para solicitação de 
+manutenção 
+Escolher um item. 
+nn 
+☐  ☐  
+01/04 
+30/04 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CEETEPS 
+Situação problema: 
+cat 0.1.02 - Manutenção e conservação predial 
+(a ser resolvida/mitigada) 
+cat 0.1.02 - Manutenção e conservação predial 
+ 
+AÇÃO/PROJETO (Tema) 
+504 - cat 5.03 - Material Infraestrutura/equipamentos 
+Origem (prioridade): 
+5-Gestão Operacional - Preservação de capacidade instalada 
+O que será feito: 
+Atualização e Ampliação do Sistema de Monitoramento por Câmeras (Já solicitado nos PGAs de 
+2023, 2024 e 2025). 
+Por que será feito: 
+Para garantir a segurança da Unidade, especialmente diante do alto índice de assaltos na região e 
+de um furto ocorrido anteriormente. A implementação de tecnologias mais avançadas e a 
+ampliação da cobertura de monitoramento visam prevenir novos incidentes. Isso proporcionará 
+maior proteção aos bens, funcionários e visitantes, criando um ambiente mais seguro e controlado. 
+Essa ação é uma medida preventiva que visa reduzir riscos e fortalecer a segurança da Unidade. 
+Responsável: 
+Marcia Gorete da Silva 
+Qde CH/sem: 
+2 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Márcia Nahomi Matsui Ogawa 
+Qde CH/sem: 
+2 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Clair Elvira Hipólito Peixoto 
+Qde CH/sem: 
+2 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Período de execução: 
+Data inicial: 
+01/02/2026 
+Data final: 
+15/07/2026 
+Atividade 
+Entregável 
+(link/SEI) 
+Nº Ref 
+Verificação 
+ 
+ok 
+Requer 
+ação 
+Etapas do 
+processo:
+01- Levantar quantidade de câmeras e locais necessários 
+Escolher um item. 
+nn 
+☐  ☐  
+01/05 
+01/06 
+02- Estudar sistema de monitoramento por câmera 
+Escolher um item. 
+nn 
+☐  ☐  
+01/05 
+01/06 
+03- Reunião com Regional – UGAF 
+Escolher um item. 
+nn 
+☐  ☐  
+01/05 
+01/06 
+04- Visita Regional – UGAF 
+Escolher um item. 
+nn 
+☐  ☐  
+01/05 
+01/06 
+05- Relatório com solicitação de compra 
+Escolher um item. 
+nn 
+☐  ☐  
+02/06 
+30/06 
+06- Envio de Memorando com relatório para solicitação de 
+manutenção 
+Escolher um item. 
+nn 
+☐  ☐  
+01/07 
+15/07 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CEETEPS 
+Situação problema: 
+cat 0.1.11 - Segurança pessoal e patrimonial 
+(a ser resolvida/mitigada) 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+505 - cat 5.03 - Material Infraestrutura/equipamentos 
+Origem (prioridade): 
+5-Gestão Operacional - Preservação de capacidade instalada 
+O que será feito: 
+Estudo para substituição da iluminação externa (pátio e estacionamento) por LED 
+Por que será feito: 
+Para redução de custos com energia elétrica, uma vez que as lâmpadas LED consomem menos 
+energia, apresentam maior eficiência e possuem maior durabilidade, o que reduz a necessidade de 
+manutenção. Além disso, a qualidade da iluminação será aprimorada, proporcionando mais 
+Comentado [FP13]: Idem 501 
+Comentado [FP14]: Idem 501 
+Comentado [FP15]: Idem 501 
+segurança e visibilidade nos ambientes, além de contribuir para a redução dos custos operacionais 
+e o alinhamento com práticas sustentáveis. 
+Responsável: 
+Marcia Gorete da Silva 
+Qde CH/sem: 
+2 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Márcia Nahomi Matsui Ogawa 
+Qde CH/sem: 
+2 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Gabriel Theodoro Correia da Silva 
+Qde CH/sem: 
+2 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Período de execução: 
+Data inicial: 
+01/02/2026 
+Data final: 
+30/06/2026 
+Atividade 
+Entregável 
+(link/SEI) 
+Nº Ref 
+Verificação 
+ 
+ok 
+Requer 
+ação 
+Etapas do 
+processo:
+01- Estudo dos materiais necessários 
+Escolher um item. 
+nn 
+☐  ☐  
+01/06 
+30/06 
+02- Visita de fornecedores para orçamento 
+Escolher um item. 
+nn 
+☐  ☐  
+01/07 
+30/07 
+03- Reunião com Regional – UGAF 
+Escolher um item. 
+nn 
+☐  ☐  
+01/05 
+20/05 
+04- Visita Regional – UGAF 
+Escolher um item. 
+nn 
+☐  ☐  
+01/05 
+20/05 
+05- Relatório com solicitação de compra 
+Escolher um item. 
+nn 
+☐  ☐  
+01/06 
+20/06 
+06- Envio de Memorando com relatório para solicitação de 
+manutenção 
+Escolher um item. 
+nn 
+☐  ☐  
+21/06 
+30/06 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CEETEPS 
+Situação problema: 
+cat 0.1.11 - Segurança pessoal e patrimonial 
+(a ser resolvida/mitigada) 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+506 - cat. 5.99 - Outra 
+Origem (prioridade): 
+4-Gestão Operacional - Aumento de capacidade instalada 
+O que será feito: 
+Substituição do sistema de telefonia PABX por VOIP 
+Por que será feito: 
+Para melhorar a comunicação interna e externa, oferecendo chamadas de melhor qualidade e 
+maior clareza. Além disso, o VOIP reduz custos com telefonia e diminui as despesas com 
+manutenção. A escalabilidade do VOIP facilita a expansão e integração com outros sistemas, 
+otimizando a gestão da comunicação. Essa ação alinha a Unidade com as tendências de inovação 
+tecnológica e contribui para uma gestão mais eficiente e moderna da comunicação. 
+Responsável: 
+Marcia Gorete da Silva 
+Qde CH/sem: 
+2 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Márcia Nahomi Matsui Ogawa 
+Qde CH/sem: 
+2 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Cristiano Ardanuy 
+Qde CH/sem: 
+2 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Período de execução: 
+Data inicial: 
+02/01/2026 
+Data final: 
+30/06/2026 
+Atividade 
+Entregável 
+(link/SEI) 
+Nº Ref 
+Verificação 
+ 
+ok 
+Requer 
+ação 
+Etapas do 
+processo:
+01- Estudo dos materiais necessários 
+Escolher um item. 
+nn 
+☐  ☐  
+02/01 
+30/01 
+02- Visita de fornecedores para orçamento 
+Escolher um item. 
+nn 
+☐  ☐  
+01/02 
+28/02 
+03- Reunião com Regional – UGAF + DI 
+Escolher um item. 
+nn 
+☐  ☐  
+01/03 
+31/03 
+04- Visita Regional – UGAF 
+Escolher um item. 
+nn 
+☐  ☐  
+01/04 
+30/04 
+05- Relatório com solicitação de compra 
+Escolher um item. 
+nn 
+☐  ☐  
+01/05 
+31/05 
+06- Envio de Memorando com relatório para solicitação de 
+manutenção 
+Escolher um item. 
+nn 
+☐  ☐  
+01/06 
+30/06 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CEETEPS 
+Situação problema: 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+(a ser resolvida/mitigada) 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+ 
+AÇÃO/PROJETO (Tema) 
+507 - cat. 5.99 - Outra 
+Origem (prioridade): 
+5-Gestão Operacional - Preservação de capacidade instalada 
+O que será feito: 
+Modernização do sistema automático do portão  
+Por que será feito: 
+Para melhorar a segurança da comunidade acadêmica, oferecendo um controle mais eficiente da 
+entrada e saída de alunos, funcionários e visitantes. O portão automático permitirá um fechamento 
+mais ágil e seguro, reduzindo o risco de incidentes, como falhas de fechamento ou abertura 
+inadequada, e otimizando o fluxo de pessoas. Essa ação contribui para o fortalecimento das 
+medidas de segurança e proporciona um ambiente mais seguro e controlado para a comunidade 
+acadêmica. 
+Responsável: 
+Marcia Gorete da Silva 
+Qde CH/sem: 
+2 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Márcia Nahomi Matsui Ogawa 
+Qde CH/sem: 
+2 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Comentado [FP16]: Vide 501 
+Comentado [FP17]: Vide 501 
+Colaborador(a): 
+Gabriel Theodoro Correia da Silva 
+Qde CH/sem: 
+2 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Período de execução: 
+Data inicial: 
+02/01/2026 
+Data final: 
+30/09/2026 
+Atividade 
+Entregável 
+(link/SEI) 
+Nº Ref 
+Verificação 
+ 
+ok 
+Requer 
+ação 
+Etapas do 
+processo:
+01- Estudo dos materiais necessários 
+Escolher um item. 
+nn 
+☐  ☐  
+02/01 
+30/03 
+02- Visita de fornecedores para orçamento 
+Escolher um item. 
+nn 
+☐  ☐  
+01/04 
+30/05 
+03- Reunião com Regional – UGAF 
+Escolher um item. 
+nn 
+☐  ☐  
+01/06 
+30/06 
+04- Visita Regional – UGAF 
+Escolher um item. 
+nn 
+☐  ☐  
+01/07 
+30/07 
+05- Relatório com solicitação de compra 
+Escolher um item. 
+nn 
+☐  ☐  
+01/08 
+30/08 
+06- Envio de Memorando com relatório para solicitação de 
+manutenção 
+Escolher um item. 
+nn 
+☐  ☐  
+01/09 
+30/09 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CEETEPS 
+Situação problema: 
+cat 0.1.02 - Manutenção e conservação predial 
+(a ser resolvida/mitigada) 
+cat 0.1.11 - Segurança pessoal e patrimonial 
+ 
+AÇÃO/PROJETO (Tema) 
+508 - cat. 5.99 - Outra 
+Origem (prioridade): 
+5-Gestão Operacional - Preservação de capacidade instalada 
+O que será feito: 
+Aquisição de catraca para controle de acesso à Unidade 
+Por que será feito: 
+A ação visa fortalecer a segurança da comunidade acadêmica, garantindo um controle mais 
+rigoroso e organizado da entrada e saída de alunos, funcionários e visitantes. A ação permitirá a 
+identificação adequada dos usuários, restringindo o acesso apenas a pessoas autorizadas, o que 
+contribui para a prevenção de situações de risco e aumenta a proteção do ambiente institucional. 
+Além disso, o controle automatizado facilita a gestão do fluxo de pessoas, tornando o ambiente 
+mais seguro, monitorado e alinhado com práticas modernas de segurança e gestão. 
+Responsável: 
+Marcia Gorete da Silva 
+Qde CH/sem: 
+2 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Márcia Nahomi Matsui Ogawa 
+Qde CH/sem: 
+2 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Gabriel Theodoro Correia da Silva 
+Qde CH/sem: 
+2 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Período de execução: 
+Data inicial: 
+02/01/2026 
+Data final: 
+30/09/2026 
+Atividade 
+Entregável 
+(link/SEI) 
+Nº Ref 
+Verificação 
+ 
+ok 
+Requer 
+ação 
+Etapas do 
+processo:
+01- Estudo dos materiais necessários 
+Escolher um item. 
+nn 
+☐  ☐  
+02/01 
+30/03 
+02- Visita de fornecedores para orçamento 
+Escolher um item. 
+nn 
+☐  ☐  
+01/04 
+30/05 
+03- Reunião com Regional – UGAF + DI 
+Escolher um item. 
+nn 
+☐  ☐  
+01/06 
+30/06 
+04- Visita Regional – UGAF 
+Escolher um item. 
+nn 
+☐  ☐  
+01/07 
+30/07 
+05- Relatório com solicitação de compra 
+Escolher um item. 
+nn 
+☐  ☐  
+01/08 
+30/08 
+06- Envio de Memorando com relatório para solicitação de 
+manutenção 
+Escolher um item. 
+nn 
+☐  ☐  
+01/09 
+30/09 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CEETEPS 
+Situação problema: 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+(a ser resolvida/mitigada) 
+cat 0.1.11 - Segurança pessoal e patrimonial 
+ 
+AÇÃO/PROJETO (Tema) 
+509 - cat. 5.99 - Outra 
+Origem (prioridade): 
+5-Gestão Operacional - Preservação de capacidade instalada 
+O que será feito: 
+Limpeza e manutenção das Instalações de Almoxarifado, Arquivo Morto e Depósito (Containers) 
+Por que será feito: 
+A realização de serviços de limpeza e manutenção nas instalações do almoxarifado, arquivo morto 
+e depósito (containers) é essencial para garantir a conservação adequada desses espaços, 
+prevenindo o acúmulo de sujeira, deterioração de materiais e proliferação de pragas. Essa ação 
+contribui para a organização, segurança e salubridade do ambiente, além de preservar os 
+documentos, equipamentos e materiais armazenados. A medida também atende às normas de 
+higiene e segurança, promovendo melhores condições de trabalho para os colaboradores e 
+protegendo o patrimônio da Unidade. 
+Responsável: 
+Marcia Gorete da Silva 
+Qde CH/sem: 
+02 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): Márcia Nahomi Matsui Ogawa 
+Qde CH/sem: 
+02 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Clair Elvira Hipólito Peixoto 
+Qde CH/sem: 
+02 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Período de execução: 
+Data inicial: 
+02/01/2026 
+Data final: 
+30/04/2026 
+Nº Ref 
+Verificação 
+Comentado [FP18]: Vide 501 
+Comentado [FP19]: Vide 501 
+Atividade 
+Entregável 
+(link/SEI) 
+ok 
+Requer 
+ação 
+ 
+Etapas do 
+processo:
+01- Estudo dos materiais necessários 
+Escolher um item. 
+nn 
+☐  ☐  
+02/01 
+28/02 
+02- Visita de fornecedores para orçamento 
+Escolher um item. 
+nn 
+☐  ☐  
+01/03 
+30/03 
+03- Reunião com Regional – UGAF + DI 
+Escolher um item. 
+nn 
+☐  ☐  
+01/03 
+30/03 
+04- Visita Regional – UGAF 
+Escolher um item. 
+nn 
+☐  ☐  
+01/03 
+30/03 
+05- Relatório com solicitação de compra 
+Escolher um item. 
+nn 
+☐  ☐  
+01/04 
+30/04 
+06- Envio de Memorando com relatório para solicitação de 
+manutenção 
+Escolher um item. 
+nn 
+☐  ☐  
+01/04 
+30/04 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.02 - Manutenção e conservação predial 
+(a ser resolvida/mitigada) 
+cat 0.1.02 - Manutenção e conservação predial 
+ 
+ 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+510 - cat. 5.99 - Outra 
+Origem (prioridade): 
+5-Gestão Operacional - Preservação de capacidade instalada 
+O que será feito: 
+Aquisição de mobiliário administrativo (Mesas) 
+Por que será feito: 
+A aquisição de novas mesas visa substituir parte do mobiliário administrativo que apresenta 
+desgaste acentuado e condições inadequadas de uso. A medida é necessária para preservar a 
+funcionalidade do ambiente de trabalho e garantir melhores condições ergonômicas e operacionais 
+aos colaboradores. 
+Responsável: 
+Marcia Gorete da Silva 
+Qde CH/sem: 
+02 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): Márcia Nahomi Matsui Ogawa 
+Qde CH/sem: 
+02 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Clair Elvira Hipólito Peixoto 
+Qde CH/sem: 
+02 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Período de execução: 
+Data inicial: 
+02/01/2026 
+Data final: 
+30/06/2026 
+Atividade 
+Entregável 
+(link/SEI) 
+Nº Ref 
+Verificação 
+ 
+ok 
+Requer 
+ação 
+Etapas do 
+processo:
+01- Estudo dos materiais necessários 
+Escolher um item. 
+nn 
+☐  ☐  
+02/01 
+30/01 
+02- Visita de fornecedores para orçamento 
+Escolher um item. 
+nn 
+☐  ☐  
+01/02 
+28/02 
+03- Reunião com Regional – UGAF + DI 
+Escolher um item. 
+nn 
+☐  ☐  
+01/03 
+31/03 
+04- Visita Regional – UGAF 
+Escolher um item. 
+nn 
+☐  ☐  
+01/04 
+30/04 
+05- Relatório com solicitação de compra 
+Escolher um item. 
+nn 
+☐  ☐  
+01/05 
+31/05 
+06- Envio de Memorando com relatório para solicitação de 
+manutenção 
+Escolher um item. 
+nn 
+☐  ☐  
+01/06 
+30/06 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+(a ser resolvida/mitigada) 
+cat 0.1.02 - Manutenção e conservação predial 
+ 
+AÇÃO/PROJETO (Tema) 
+511- cat. 5.99 - Outra 
+Origem (prioridade): 
+5-Gestão Operacional - Preservação de capacidade instalada 
+O que será feito: 
+Aquisição de ar-condicionado para Laboratórios 7 e 9 
+Por que será feito: 
+A aquisição de ar-condicionado será feita para preservar os equipamentos do laboratório, evitar 
+superaquecimento e proporcionar conforto térmico aos usuários, favorecendo o desempenho das 
+atividades. 
+Responsável: 
+Marcia Gorete da Silva 
+Qde CH/sem: 
+02 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): Márcia Nahomi Matsui Ogawa 
+Qde CH/sem: 
+02 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Clair Elvira Hipólito Peixoto 
+Qde CH/sem: 
+02 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Período de execução: 
+Data inicial: 
+02/01/2026 
+Data final: 
+30/04/2026 
+Atividade 
+Entregável 
+(link/SEI) 
+Nº Ref 
+Verificação 
+ 
+ok 
+Requer 
+ação 
+Etapas do 
+processo:
+01- Estudo dos materiais necessários 
+Escolher um item. 
+nn 
+☐  ☐  
+02/01 
+28/02 
+02- Visita de fornecedores para orçamento 
+Escolher um item. 
+nn 
+☐  ☐  
+01/03 
+30/03 
+03- Reunião com Regional – UGAF + DI 
+Escolher um item. 
+nn 
+☐  ☐  
+01/03 
+30/03 
+04- Visita Regional – UGAF 
+Escolher um item. 
+nn 
+☐  ☐  
+01/03 
+30/03 
+05- Relatório com solicitação de compra 
+Escolher um item. 
+nn 
+☐  ☐  
+01/04 
+30/04 
+Comentado [FP20]: Vide 501 
+Comentado [FP21]: Este projeto é do Deixo 2, no mais 
+seguir comentários do projeto 501 
+06- Envio de Memorando com relatório para solicitação de 
+manutenção 
+Escolher um item. 
+nn 
+☐  ☐  
+01/04 
+30/04 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+(a ser resolvida/mitigada) 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+512 - cat. 5.99 - Outra 
+Origem (prioridade): 
+5-Gestão Operacional - Preservação de capacidade instalada 
+O que será feito: 
+Aquisição ventiladores para substituição em salas de aula e administrativo 
+Por que será feito: 
+A aquisição de ventiladores destina-se à substituição de equipamentos em salas de aula e setores 
+administrativos que se encontram inoperantes ou com desempenho comprometido. A renovação 
+visa garantir a ventilação adequada dos ambientes, promovendo conforto térmico aos usuários e 
+assegurando condições mais adequadas de trabalho e aprendizagem, além de contribuir para a 
+preservação do patrimônio físico da instituição. 
+Responsável: 
+Marcia Gorete da Silva 
+Qde CH/sem: 
+02 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): Márcia Nahomi Matsui Ogawa 
+Qde CH/sem: 
+02 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Clair Elvira Hipólito Peixoto 
+Qde CH/sem: 
+02 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Período de execução: 
+Data inicial: 
+02/01/2026 
+Data final: 
+30/04/2026 
+Atividade 
+Entregável 
+(link/SEI) 
+Nº Ref 
+Verificação 
+ 
+ok 
+Requer 
+ação 
+Etapas do 
+processo:
+01- Estudo dos materiais necessários 
+Escolher um item. 
+nn 
+☐  ☐  
+02/01 
+28/02 
+02- Visita de fornecedores para orçamento 
+Escolher um item. 
+nn 
+☐  ☐  
+01/03 
+30/03 
+03- Reunião com Regional – UGAF + DI 
+Escolher um item. 
+nn 
+☐  ☐  
+01/03 
+30/03 
+04- Visita Regional – UGAF 
+Escolher um item. 
+nn 
+☐  ☐  
+01/03 
+30/03 
+05- Relatório com solicitação de compra 
+Escolher um item. 
+nn 
+☐  ☐  
+01/04 
+30/04 
+06- Envio de Memorando com relatório para solicitação de 
+manutenção 
+Escolher um item. 
+nn 
+☐  ☐  
+01/04 
+30/04 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+(a ser resolvida/mitigada) 
+cat 0.1.02 - Manutenção e conservação predial 
+ 
+AÇÃO/PROJETO (Tema) 
+513 - cat. 5.99 - Outra 
+Origem (prioridade): 
+5-Gestão Operacional - Preservação de capacidade instalada 
+O que será feito: 
+Aquisição de longarinas para substituição no auditório/corredor 
+Por que será feito: 
+A aquisição de longarinas visa substituir unidades danificadas ou desgastadas localizadas no 
+auditório e nos corredores de circulação. A medida busca garantir segurança, conforto e 
+funcionalidade nos espaços de uso coletivo, além de preservar a organização e a estética dos 
+ambientes, assegurando a conservação do patrimônio institucional. 
+Responsável: 
+Marcia Gorete da Silva 
+Qde CH/sem: 
+02 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): Márcia Nahomi Matsui Ogawa 
+Qde CH/sem: 
+02 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Clair Elvira Hipólito Peixoto 
+Qde CH/sem: 
+02 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Período de execução: 
+Data inicial: 
+02/02/2026 
+Data final: 
+30/04/2026 
+ 
+Atividade 
+Entregável 
+(link/SEI) 
+Nº Ref 
+Verificação 
+ 
+ok 
+Requer 
+ação 
+Etapas do 
+processo:
+01- Estudo dos materiais necessários 
+Escolher um item. 
+nn 
+☐  ☐  
+02/01 
+28/02 
+02- Visita de fornecedores para orçamento 
+Escolher um item. 
+nn 
+☐  ☐  
+01/03 
+30/03 
+03- Reunião com Regional – UGAF + DI 
+Escolher um item. 
+nn 
+☐  ☐  
+01/03 
+30/03 
+04- Visita Regional – UGAF 
+Escolher um item. 
+nn 
+☐  ☐  
+01/03 
+30/03 
+05- Relatório com solicitação de compra 
+Escolher um item. 
+nn 
+☐  ☐  
+01/04 
+30/04 
+06- Envio de Memorando com relatório para solicitação de 
+manutenção 
+Escolher um item. 
+nn 
+☐  ☐  
+01/04 
+30/04 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+(a ser resolvida/mitigada) 
+cat 0.1.02 - Manutenção e conservação predial 
+ 
+Comentado [FP22]: Vide 501. 
+Comentado [FP23]: Vide 501 
+ 
+AÇÃO/PROJETO (Tema) 
+514 - cat. 5.99 - Outra 
+Origem (prioridade): 
+5-Gestão Operacional - Preservação de capacidade instalada 
+O que será feito: 
+Aquisição de mesas e cadeiras para salas de aula 
+Por que será feito: 
+A substituição de mesas e cadeiras em salas de aula se faz necessária devido ao desgaste e à 
+inadequação de parte do mobiliário atual. A aquisição visa oferecer melhores condições de uso 
+para alunos e docentes, contribuindo para o conforto, a ergonomia e o bom andamento das 
+atividades pedagógicas, além de promover a conservação e renovação do patrimônio físico da 
+instituição. 
+Responsável: 
+Marcia Gorete da Silva 
+Qde CH/sem: 
+02 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): Márcia Nahomi Matsui Ogawa 
+Qde CH/sem: 
+02 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Clair Elvira Hipólito Peixoto 
+Qde CH/sem: 
+02 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Período de execução: 
+Data inicial: 
+02/02/2026 
+Data final: 
+30/04/2026 
+Atividade 
+Entregável 
+(link/SEI) 
+Nº Ref 
+Verificação 
+ 
+ok 
+Requer 
+ação 
+Etapas do 
+processo:
+01- Estudo dos materiais necessários 
+Escolher um item. 
+nn 
+☐  ☐  
+02/01 
+28/02 
+02- Visita de fornecedores para orçamento 
+Escolher um item. 
+nn 
+☐  ☐  
+01/03 
+30/03 
+03- Reunião com Regional – UGAF + DI 
+Escolher um item. 
+nn 
+☐  ☐  
+01/03 
+30/03 
+04- Visita Regional – UGAF 
+Escolher um item. 
+nn 
+☐  ☐  
+01/03 
+30/03 
+05- Relatório com solicitação de compra 
+Escolher um item. 
+nn 
+☐  ☐  
+01/04 
+30/04 
+06- Envio de Memorando com relatório para solicitação de 
+manutenção 
+Escolher um item. 
+nn 
+☐  ☐  
+01/04 
+30/04 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+(a ser resolvida/mitigada) 
+cat 0.1.02 - Manutenção e conservação predial 
+ 
+AÇÃO/PROJETO (Tema) 
+515 - cat. 5.99 - Outra 
+Origem (prioridade): 
+5-Gestão Operacional - Preservação de capacidade instalada 
+O que será feito: 
+Aquisição de ar condicionado 
+Por que será feito: 
+A aquisição de aparelho de ar-condicionado para salas de aula é essencial para garantir a 
+climatização adequada do ambiente. A temperatura controlada proporciona melhores condições de 
+conforto térmico aos usuários, favorecendo a concentração e o desempenho nas atividades. 
+Responsável: 
+Marcia Gorete da Silva 
+Qde CH/sem: 
+02 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): Márcia Nahomi Matsui Ogawa 
+Qde CH/sem: 
+02 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Clair Elvira Hipólito Peixoto 
+Qde CH/sem: 
+02 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Período de execução: 
+Data inicial: 
+02/02/2026 
+Data final: 
+30/06/2026 
+Atividade 
+Entregável 
+(link/SEI) 
+Nº Ref 
+Verificação 
+ 
+ok 
+Requer 
+ação 
+Etapas do 
+processo:
+01- Estudo dos materiais necessários 
+Escolher um item. 
+nn 
+☐  ☐  
+02/01 
+30/01 
+02- Visita de fornecedores para orçamento 
+Escolher um item. 
+nn 
+☐  ☐  
+01/02 
+28/02 
+03- Reunião com Regional – UGAF + DI 
+Escolher um item. 
+nn 
+☐  ☐  
+01/03 
+31/03 
+04- Visita Regional – UGAF 
+Escolher um item. 
+nn 
+☐  ☐  
+01/04 
+30/04 
+05- Relatório com solicitação de compra 
+Escolher um item. 
+nn 
+☐  ☐  
+01/05 
+31/05 
+06- Envio de Memorando com relatório para solicitação de 
+manutenção 
+Escolher um item. 
+nn 
+☐  ☐  
+01/06 
+30/06 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+(a ser resolvida/mitigada) 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+516 - cat. 5.99 - Outra 
+Origem (prioridade): 
+5-Gestão Operacional - Preservação de capacidade instalada 
+O que será feito: 
+Aquisição de insumos para o curso de Jogos Digitais 
+Por que será feito: 
+O que será feito: Aquisição de insumos para o curso de Jogos Digitais, como consoles de 
+videogame, acessórios e jogos diversos. 
+Responsável: 
+Marcia Gorete da Silva 
+Qde CH/sem: 
+02 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Comentado [FP24]: Vide 501 
+Comentado [FP25]: Vide 501 
+Comentado [FP26]: Este projeto está no Eixo errado. Se 
+forem itens para sala de aula conforme PPC do Curso, Eixo 1; 
+se for para Lab 2. Se for para duas situações, dividir o Projeto 
+entre os eixo 1 e 2. No mais,  vide projeto 501. 
+Colaborador(a): Prof. Alan Henrique Pardo de Carvalho 
+Qde CH/sem: 
+02 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): Márcia Nahomi Matsui Ogawa 
+Qde CH/sem: 
+02 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Clair Elvira Hipólito Peixoto 
+Qde CH/sem: 
+02 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Período de execução: 
+Data inicial: 
+02/02/2026 
+Data final: 
+30/06/2026 
+Atividade 
+Entregável 
+(link/SEI) 
+Nº Ref 
+Verificação 
+ 
+ok 
+Requer 
+ação 
+Etapas do 
+processo:
+01- Estudo dos materiais necessários 
+Escolher um item. 
+nn 
+☐  ☐  
+02/01 
+30/01 
+02- Visita de fornecedores para orçamento 
+Escolher um item. 
+nn 
+☐  ☐  
+01/02 
+28/02 
+03- Reunião com Regional – UGAF + DI 
+Escolher um item. 
+nn 
+☐  ☐  
+01/03 
+31/03 
+04- Visita Regional – UGAF 
+Escolher um item. 
+nn 
+☐  ☐  
+01/04 
+30/04 
+05- Relatório com solicitação de compra 
+Escolher um item. 
+nn 
+☐  ☐  
+01/05 
+31/05 
+06- Envio de Memorando com relatório para solicitação de 
+manutenção 
+Escolher um item. 
+nn 
+☐  ☐  
+01/06 
+30/06 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+(a ser resolvida/mitigada) 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+06 - Desenvolvimento de pessoas (docentes e servidores) 
+Formação continuada de docentes e servidores, associadas às competências gerais e específicas de suas 
+atividades: Metodologias de ensino, Tecnologias educacionais, Sistemas (processos, procedimentos, plataformas 
+computacionais) acadêmicos e pedagógicos. 
+ 
+AÇÃO/PROJETO (Tema) 
+601 - cat 6.03 - Projeto de Orientação psicopedagógica 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Auxiliar os alunos PCD com orientações, considerando Legislação vigente, visando a inclusão 
+destes alunos 
+Por que será feito: 
+A unidade recebe alunos com diversos transtornos, nem sempre com solicitação de 
+acompanhamento específico. 
+Responsável: 
+Francieli Sena 
+Qde CH/sem: 
+5 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Eliane Veiga Porta 
+Qde CH/sem: 
+05 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+Nilza Aparecida dos Santos 
+Qde CH/sem: 
+2 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+10/02/2026 
+Data final: 
+20/12/2026 
+Atividade 
+Entregável 
+(link/SEI) 
+Nº Ref 
+Verificação 
+ 
+ok 
+Requer 
+ação 
+Etapas do 
+processo:
+01- Inclusão / CESU encaminhar a FAAEE (Ficha de 
+Acompanhamento do Atendimento Educacional Especializado 
+Escolher um item. 
+nn 
+☐  ☐  
+10/02 
+30/04 
+02- Identificação de alunos PCD 
+Escolher um item. 
+nn 
+☐  ☐  
+10/02 
+30/04 
+03- Acompanhamento desses alunos 
+Escolher um item. 
+nn 
+☐  ☐  
+10/02 
+20/12 
+04- Orientação aos docentes e coordenadores 
+Escolher um item. 
+nn 
+☐  ☐  
+10/02 
+30/04 
+05- Elaboração de relatório 
+Escolher um item. 
+nn 
+☐  ☐  
+30/11 
+20/12 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.09 - Acesso/Inclusão ao Ensino Superior (social, PCD) 
+(a ser resolvida/mitigada) 
+cat 0.1.09 - Acesso/Inclusão ao Ensino Superior (social, PCD) 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+602 - cat 6.01 - Curso/Oficina/Capacitação/ Treinamento/ Palestra/Reunião/Encontro 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Minuto Fatec – Evento Mensal 
+Educação sobre prevenção 
+Conscientização sobre doenças específicas 
+Promoção da saúde mental 
+Orientação sobre estilo de vida saudável 
+Adoção de hábitos preventivos 
+Esclarecimento de dúvidas e mitos 
+Incentivar a responsabilidade social em saúde 
+Por que será feito: 
+Conscientizar os discentes e docentes sobre questões de saúde física, bucal e mental 
+Responsável: 
+Profa. Margareth Miyamoto 
+Qde CH/sem: 
+2 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+01/02/2026 
+Data final: 
+20/12/2026 
+Atividade 
+Entregável 
+(link/SEI) 
+Nº Ref 
+Verificação 
+ 
+ok 
+Requer 
+ação 
+Eta
+pa
+01- Convite palestrante 
+Escolher um item. 
+nn 
+☐  ☐  
+01/02 
+20/11 
+02- Palestras presencias 
+Escolher um item. 
+nn 
+☐  ☐  
+01/03 
+20/12 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.09 - Acesso/Inclusão ao Ensino Superior (social, PCD) 
+(a ser resolvida/mitigada) 
+cat 0.1.09 - Acesso/Inclusão ao Ensino Superior (social, PCD) 
+ 
+ 
+ 
+ 
+ÇÃO/PROJETO (Tema) 
+603 - cat 6.01 - Curso/Oficina/Capacitação/ Treinamento/ Palestra/Reunião/Encontro 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Treinamento para o uso de novas tecnologias 
+Por que será feito: 
+O treinamento será realizado para garantir a atualização de docentes e colaboradores frente às 
+constantes inovações tecnológicas que impactam a educação e a gestão institucional. A iniciativa 
+busca promover maior eficiência no uso de recursos digitais, modernizar práticas pedagógicas e 
+administrativas e alinhar a atuação da equipe às exigências atuais do ambiente educacional. 
+Responsável: 
+Adriane Monteiro Fontana 
+Qde CH/sem: 
+5 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+02/02/2026 
+Data final: 
+20/12/2026 
+Atividade 
+Entregável 
+(link/SEI) 
+Nº Ref 
+Verificação 
+ 
+ok 
+Requer 
+ação 
+Etapas do processo: 
+01- Diagnóstico das Necessidades 
+Escolher um item. 
+nn 
+☐  ☐  
+01/03 
+01/08 
+ 
+ 
+ 
+31/03 
+31/08 
+ 
+02- Planejamento do Treinamento 
+Escolher um item. 
+nn 
+☐  ☐  
+01/04 
+01/09 
+10/04 
+10/09 
+03- Elaboração de Materiais 
+Escolher um item. 
+nn 
+☒  ☐  
+11/04 
+11/09 
+30/05 
+30/10 
+ 
+ 
+04- Execução do Treinamento 
+Escolher um item. 
+nn 
+☐  ☐  
+01/06 
+01/11 
+20/06 
+20/11 
+05- Avaliação dos Resultados 
+Escolher um item. 
+nn 
+☐  ☐  
+21/06 
+21/11 
+30/06 
+30/11 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+(a ser resolvida/mitigada) 
+cat 0.1.99 - Outra 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+07 – Convênios e Parcerias Institucionais 
+Formalização do relacionamento da Unidade com o Ecossistema de Tecnologia: Convênio de uso de prédio, 
+estágios, projetos com empresas. Aqui cabe apenas novos convênios e parcerias, e cada proposta deve estar 
+relacionada a uma Ação/Projeto de melhoria em algum dos itens anteriores do PGA (1, 2, 3, 4, 5 ou 6). 
+ 
+AÇÃO/PROJETO (Tema) 
+701 - cat 7.03 - Projetos com empresas e/ou demais parceiros 
+Origem (prioridade): 
+6-Outra 
+Referente ao(s) projeto(s): nn 
+O que será feito: 
+Identificação de novas, e manutenção, de parcerias externas, definição de objetivos para o 
+desenvolvimento dos novos projetos, elaboração dos cronogramas de atividades, execução dos 
+projetos e otimização dos PCIs para o contínuo aperfeiçoamento deles. 
+Por que será feito: 
+Para promoção de trocas de experiências internacionais entre parceiros; desenvolvimento de 
+habilidades digitais, linguísticas e interculturais, e realização de projetos colaborativos que 
+estimulem o aprendizado prático. 
+Responsável: 
+Profa. Adriane Monteiro Fontana  
+Qde CH/sem: 
+2 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Prof. Alan Henrique Pardo de Carvalho 
+Qde CH/sem: 
+2 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+Prof. Cesar Torres Fernandes 
+Qde CH/sem: 
+2 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+Prof. Miguel Marílio Saad Junior 
+Qde CH/sem: 
+2 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+Profa. Nilza Aparecida dos Santos 
+Qde CH/sem: 
+2 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+Prof. Rafael Leal de Araújo 
+Qde CH/sem: 
+2 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+05/02/2026 
+Data final: 
+15/12/2026 
+Atividade 
+Entregável 
+(link/SEI) 
+Nº Ref 
+Verificação 
+ 
+ok 
+Requer 
+ação 
+Etapas do 
+processo:
+01- Identificação de novas parcerias externas 
+Escolher um item. 
+nn 
+☐  ☐  
+05/02 
+15/12 
+02- Definição de objetivos para o desenvolvimento de novos 
+projetos 
+Escolher um item. 
+nn 
+☐  ☐  
+05/02 
+15/12 
+03- Elaboração dos cronogramas de atividades 
+Escolher um item. 
+nn 
+☐  ☐  
+05/02 
+15/12 
+04- Execução dos projetos 
+Escolher um item. 
+nn 
+☐  ☐  
+05/02 
+15/12 
+05- Otimização dos PCIs para o contínuo aperfeiçoamento 
+deles 
+Escolher um item. 
+nn 
+☐  ☐  
+05/02 
+15/12 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CEETEPS 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.08 - Participação da comunidade e sociedade 
+ 
+AÇÃO/PROJETO (Tema) 
+702 - cat 7.03 - Projetos com empresas e/ou demais parceiros 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+Referente ao(s) projeto(s): nn 
+O que será feito: 
+Projeto NAF – Receita Federal do BrasilImplantação: Implantação do NAF na Unidade, adequação 
+do local para atendimento à comunidade, elaboração de editais e seleção dos alunos que vão 
+fazer o treinamento fornecido pela RFB, e acompanhamento do treinamento e do atendimento dos 
+estudantes junto ao público externo 
+Por que será feito: 
+Para implantação do NAF em virtude do compartilhamento, com o público externo, do 
+conhecimento adquirido por meio das atividades de ensino, pesquisa e extensão desenvolvidas na 
+instituição. 
+Responsável: 
+Profa. Adriane Monteiro Fontana 
+Qde CH/sem: 
+2 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Prof. Rafael Leal de Araújo 
+Qde CH/sem: 
+2 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+Profa. Aline Correa de Sousa Colantuono 
+Qde CH/sem: 
+04 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+ 
+Sonia Menocce 
+ 
+02 
+ 
+ 
+Período de execução: 
+Data inicial: 
+31/03/2026 
+Data final: 
+20/12/2026 
+Atividade 
+Entregável 
+(link/SEI) 
+Nº Ref 
+Verificação 
+ 
+ok 
+Requer 
+ação 
+Eta
+pa
+ 
+Escolher um item. 
+nn 
+☐  ☐  
+01/03 
+31/03 
+02- Adequação do local para atendimento à comunidade 
+Escolher um item. 
+nn 
+☐  ☐  
+01/03 
+31/03 
+Comentado [FP27]: Qual a atividade 01? 
+03- Elaboração de editais e seleção dos alunos que vão fazer o 
+treinamento fornecido pela RBF 
+Escolher um item. 
+nn 
+☐  ☐  
+01/04 
+30/04 
+04- Acompanhamento do treinamento dos alunos 
+Escolher um item. 
+nn 
+☐  ☐  
+01/05 
+30/06 
+05- Acompanhamento do atendimento dos estudantes junto ao 
+público externo 
+Escolher um item. 
+nn 
+☐  ☐  
+01/07 
+22/12 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CEETEPS 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.08 - Participação da comunidade e sociedade 
+ 
+AÇÃO/PROJETO (Tema) 
+703 - cat 7.03 - Projetos com empresas e/ou demais parceiros 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+Referente ao(s) projeto(s): nn 
+O que será feito: 
+Parceria Easy Cargo: Planejamento e simulação 3D de carregamento de frete, a partir de diversas 
+dimensões de carga, e de diferentes modelos de contêineres e de veículos de transporte 
+existentes no mercado. 
+Por que será feito: 
+Para simular o carregamento de diferentes tipos de carga em contêineres e veículos de transporte 
+diversos, a partir de um planejamento de frete prévio, a fim de tornar a aula de Modais de 
+Transporte e Seguro de Carga mais aplicada 
+Responsável: 
+Profa. Rafael Leal  
+Qde CH/sem: 
+2 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Profa. Adriane Monteiro Fontana 
+Qde CH/sem: 
+2 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Rita Maria Cunha Leite Coentro 
+Qde CH/sem: 
+2 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+Nilza Aparecida dos Santos 
+Qde CH/sem: 
+2 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Período de execução: 
+Data inicial: 
+01/02/2026 
+Data final: 
+20/12/2026 
+Atividade 
+Entregável 
+(link/SEI) 
+Nº Ref 
+Verificação 
+ 
+ok 
+Requer 
+ação 
+Etapas do 
+processo:
+01- Aguardar assinatura de convênio 
+Escolher um item. 
+nn 
+☐  ☐  
+01/02 
+28/02 
+02- Oficina com alunos para conhecimento da ferramenta 
+Escolher um item. 
+nn 
+☐  ☐  
+01/03 
+31/03 
+03- Planejamento do carregamento de frete 
+Escolher um item. 
+nn 
+☐  ☐  
+01/04 
+30/04 
+04- Simulação 3D no EasyCargo 
+Escolher um item. 
+nn 
+☐  ☐  
+01/05 
+31/05 
+05- Cálculo do custo do frete 
+Escolher um item. 
+nn 
+☐  ☐  
+01/06 
+15/06 
+05- Relatório do carregamento de frente 
+Escolher um item. 
+nn 
+☐  ☐  
+16/06 
+30/06 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CEETEPS 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.08 - Participação da comunidade e sociedade 
+ 
+AÇÃO/PROJETO (Tema) 
+704 - cat 7.03 - Projetos com empresas e/ou demais parceiros 
+Origem (prioridade): 
+6-Outra 
+Referente ao(s) projeto(s): nn 
+O que será feito: 
+Parcerias Prefeitura de São Caetano do Sul: 
+Por que será feito: 
+Parceria Prefeitura de São Caetano do Sul: Reuniões com a Secretaria de Educação para fomentar 
+a divulgação do vestibular nas escolas de ensino médio municipais; Participação do Conselho da 
+Secretaria de Desenvolvimento Econômico como titular (e suplente); Participação em encontros 
+regionais para melhoria do município. 
+Responsável: 
+Profa. Adriane Monteiro Fontana 
+Qde CH/sem: 
+02 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Prof. César Torres Fernandes 
+Qde CH/sem: 
+02 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Prof. João Carlos Lopes Fernandes 
+Qde CH/sem: 
+02 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Período de execução: 
+Data inicial: 
+02/01/2026 
+Data final: 
+30/12/2026 
+Atividade 
+Entregável 
+(link/SEI) 
+Nº Ref 
+Verificação 
+ 
+ok 
+Requer 
+ação 
+Etapas do 
+processo:
+01-Reuniões Secretaria de Educação 
+Escolher um item. 
+nn 
+☐  ☐  
+02/01 
+30/12 
+02-Reuniões COMDEC (Conselho de Desenvolvimento 
+Econômico) 
+Escolher um item. 
+nn 
+☐  ☐  
+02/01 
+30/12 
+03-Participação em reuniões regionais para melhorias do 
+município 
+Escolher um item. 
+nn 
+☐  ☐  
+02/01 
+30/12 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CEETEPS 
+Situação problema: 
+cat 0.1.08 - Participação da comunidade e sociedade 
+(a ser resolvida/mitigada) 
+cat 0.1.08 - Participação da comunidade e sociedade 
+AÇÃO/PROJETO (Tema) 
+705 - cat 7.03 - Projetos com empresas e/ou demais parceiros 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+Referente ao(s) projeto(s): nn 
+O que será feito: 
+Parcerias – Empresas do Setor de Desenvolvimento de Software/Sistemas: Identificação de 
+novas, e manutenção, de parcerias com empresas do setor de desenvolvimento de 
+softwares/sistemas para a realização de projetos de avaliação de Interface Humano-Computador 
+(IHC) – avaliação por inspeção e avaliação por observação. 
+ 
+Por que será feito: 
+Para promoção de trocas de experiências entre parceiros e realização de projetos que estimulem 
+o aprendizado prático e o desenvolvimento de competências socioemocionais e profissionais. 
+ 
+Responsável: 
+Prof. Cesar Torres Fernandes  
+Qde CH/sem: 
+2 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+Prof. Celso Denis Gallão 
+Qde CH/sem: 
+2 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+Profa. Patrícia Gallo de França 
+Qde CH/sem: 
+2 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+05/02/2026 
+Data final: 
+15/12/2026 
+Atividade 
+Entregável 
+(link/SEI) 
+Nº Ref 
+Verificação 
+ 
+ok 
+Requer 
+ação 
+Etapas do 
+processo:
+01- Identificação de novas parcerias externas 
+Escolher um item. 
+nn 
+☐  ☐  
+05/02 
+15/12 
+02- Definição de objetivos para o desenvolvimento de novos 
+projetos 
+Escolher um item. 
+nn 
+☐  ☐  
+05/02 
+15/12 
+03- Elaboração dos cronogramas de atividades 
+Escolher um item. 
+nn 
+☐  ☐  
+05/02 
+15/12 
+04- Execução dos projetos 
+Escolher um item. 
+nn 
+☐  ☐  
+05/02 
+15/12 
+05- Entrega dos relatórios finais 
+Escolher um item. 
+nn 
+☐  ☐  
+05/02 
+15/12 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CEETEPS 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+ 
+AÇÃO/PROJETO (Tema) 
+706 - cat 7.03 - Projetos com empresas e/ou demais parceiros 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+Referente ao(s) projeto(s): nn 
+O que será feito: 
+Parcerias Treinamento e Desenvolvimento – Empresas do Setor de Desenvolvimento de 
+Software/Sistemas: Identificação de novas, e manutenção, de parcerias com empresas do setor 
+de desenvolvimento de softwares/sistemas para a realização de projetos de capacitação (cursos 
+e treinamentos) em áreas de tecnologia da informação e comunicação aos colaboradores. 
+ 
+Por que será feito: 
+Para promoção de trocas de experiências entre parceiros e realização de projetos que estimulem 
+o aprendizado prático e o desenvolvimento de competências socioemocionais e profissionais. 
+ 
+Responsável: 
+Prof. Cesar Torres Fernandes  
+Qde CH/sem: 
+2 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+Prof. Sérgio Luiz Banin 
+Qde CH/sem: 
+2 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+Profa. Patrícia Gallo de França 
+Qde CH/sem: 
+2 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+05/02/2026 
+Data final: 
+15/12/2026 
+Atividade 
+Entregável 
+(link/SEI) 
+Nº Ref 
+Verificação 
+ 
+ok 
+Requer 
+ação 
+Etapas do 
+processo:
+01- Identificação de novas parcerias externas 
+Escolher um item. 
+nn 
+☐  ☐  
+05/02 
+15/12 
+02- Definição de objetivos para o desenvolvimento de novos 
+projetos 
+Escolher um item. 
+nn 
+☐  ☐  
+05/02 
+15/12 
+03- Elaboração dos cronogramas de atividades 
+Escolher um item. 
+nn 
+☐  ☐  
+05/02 
+15/12 
+04- Execução dos projetos de capacitação (cursos e/ou 
+treinamentos) 
+Escolher um item. 
+nn 
+☐  ☐  
+05/02 
+15/12 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.08 - Participação da comunidade e sociedade 
+ 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+707 - cat 7.03 - Projetos com empresas e/ou demais parceiros 
+Origem (prioridade): 
+2-Gestão Estratégica Institucional (AMS, novos cursos e unidades) 
+Referente ao(s) projeto(s): nn 
+O que será feito: 
+Instituto de Ciência Tecnologia e Inovação 
+ 
+Por que será feito: 
+Para promoção de entre parceiros para realização de projetos que estimulem o aprendizado 
+prático dos discentes 
+ 
+Responsável: 
+Profa Adriane Monteiro Fontana 
+Qde CH/sem: 
+2 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Prof. Alexsander Tressino de Carvalho 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+Prof. Cesar Torres Fernandes 
+Qde CH/sem: 
+2 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+Prof. João Carlos Lopes Fernandes 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+ 
+ 
+ 
+ 
+ 
+ 
+Período de execução: 
+Data inicial: 
+05/02/2026 
+Data final: 
+15/12/2026 
+Atividade 
+Entregável 
+(link/SEI) 
+Nº Ref 
+Verificação 
+ 
+ok 
+Requer 
+ação 
+Etapas do 
+processo:
+01- Identificação de novas parcerias externas 
+Escolher um item. 
+nn 
+☐  ☐  
+05/02 
+15/12 
+02- Definição de objetivos para o desenvolvimento de novos 
+projetos 
+Escolher um item. 
+nn 
+☐  ☐  
+05/02 
+15/12 
+03- Elaboração dos cronogramas de atividades 
+Escolher um item. 
+nn 
+☐  ☐  
+05/02 
+15/12 
+04- Execução dos projetos de capacitação (cursos e/ou 
+treinamentos) 
+Escolher um item. 
+nn 
+☐  ☐  
+05/02 
+15/12 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CEETEPS 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.08 - Participação da comunidade e sociedade 
+ 
+ 
+ 
+Comentado [FP28]: Criação? Não entendi o que será feito. 
+08 – Implantação de UE / Cursos 
+Planejamento geral de implantação: Novas unidades de ensino, novos cursos superiores de tecnologia, acompanhamento de início e transição de cursos articulação 
+ensino médio e superior (AMS). 
+AÇÃO/PROJETO (Tema) 
+801.1 – Implantação de FATEC 
+Origem (prioridade): 
+Escolher um item. 
+Referente ao(s) projeto(s): 
+nn 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+ 
+ 
+Infraestrutura 
+Recursos Humanos 
+Documentos 
+Editais 
+Entregável (link/SEI) 
+Nº Ref 
+Verificação 
+ 
+Ok 
+Requer 
+ação 
+Etapas do processo: 
+1º ano 
+1. Salas de aula 
+1.Nomeação do Coordenador de 
+Implantação da Unidade de 
+ensino/Diretor 
+1. Decreto de criação da 
+unidade implantada 
+1.      PSS Professores 
+Escolher um item. 
+nn 
+☐  
+☐  
+dd/mm 
+dd/mm 
+2. Disponibilidade de laboratórios 
+específicos bem como seus 
+equipamentos 
+2.Contratação da Equipe 
+Administrativa (ATA, DSAdm, 
+DSACad) 
+2.Verificação da Unidade que 
+irá tutorar a unidade em 
+implantação;  
+2.      PSS Auxiliar de 
+Docente 
+Escolher um item. 
+nn 
+☐  
+☐  
+dd/mm 
+dd/mm 
+3. Verificação da listagem de 
+materiais e equipamentos 
+solicitados para esta unidade 
+3.Indicação do Coordenador(s) 
+do CST  que está sendo 
+implantado 
+3. PPC CST 
+ 
+Escolher um item. 
+nn 
+☐  
+☐  
+dd/mm 
+dd/mm 
+4. Aquisição/Instalação 
+mobiliário administrativo e 
+pedagógico 
+4. Contratação docente 
+4.PGA Fatec 
+ 
+Escolher um item. 
+nn 
+☐  
+☐  
+dd/mm 
+dd/mm 
+5.Aquisição/Instalação rede 
+lógica da unidade de ensino 
+ 
+5.Formação Comissão de 
+Implantação 
+ 
+Escolher um item. 
+nn 
+☐  
+☐  
+dd/mm 
+dd/mm 
+6. Instalação Laboratório 
+ 
+6.implantação do(s) CST(s) 
+ 
+Escolher um item. 
+nn 
+☐  
+☐  
+dd/mm 
+dd/mm 
+2º ano 
+1. Salas de aula 
+1. Contratação Docente 
+1. Decreto de criação da 
+unidade implantada 
+1.      PSS Professores Escolher um item. 
+nn 
+☐  
+☐  
+dd/mm 
+dd/mm 
+2. Disponibilidade de laboratórios 
+específicos bem como seus 
+equipamentos 
+ 
+2.Verificação da Unidade 
+que irá tutorar a unidade em 
+implantação;     
+2.      PSS Auxiliar de 
+Docente 
+Escolher um item. 
+nn 
+☐  
+☐  
+dd/mm 
+dd/mm 
+3. Verificação da listagem de 
+materiais e equipamentos 
+solicitados para esta unidade 
+ 
+3. PPC CST 
+ 
+Escolher um item. 
+nn 
+☐  
+☐  
+dd/mm 
+dd/mm 
+4. Aquisição/Instalação 
+mobiliário administrativo e 
+pedagógico 
+ 
+4.PGA Fatec 
+ 
+Escolher um item. 
+nn 
+☐  
+☐  
+dd/mm 
+dd/mm 
+5.Aquisição/Instalação rede 
+lógica da unidade de ensino 
+ 
+5.Formação Comissão de 
+Implantação 
+ 
+Escolher um item. 
+nn 
+☐  
+☐  
+dd/mm 
+dd/mm 
+6. Instalação Laboratório 
+ 
+6.implantação do(s) CST(s)  
+Escolher um item. 
+nn 
+☐  
+☐  
+dd/mm 
+dd/mm 
+3º ano 
+1. Salas de Aula 
+1.Contratação docente 
+1.      PDI Fatec 
+1.      PSS Professores 
+Escolher um item. 
+nn 
+☐  
+☐  
+dd/mm 
+dd/mm 
+2. Disponibilidade de 
+laboratórios específicos bem 
+como seus equipamentos 
+ 
+2.      PGA Fatec 
+ 
+Escolher um item. 
+nn 
+☐  
+☐  
+dd/mm 
+dd/mm 
+3. Verifcação da listagem de 
+materiais e equipamentos 
+solicitados para esta unidade 
+( sup 
+ 
+3. Formação Congregação 
+ 
+Escolher um item. 
+nn 
+☐  
+☐  
+dd/mm 
+dd/mm 
+4. Aquisição/Instalação 
+mobiliário administrativo e 
+pedagógico 
+ 
+ 
+ 
+Escolher um item. 
+nn 
+☐  
+☐  
+dd/mm 
+dd/mm 
+5.Aquisição/Instalação rede 
+lógica da unidade de ensino 
+ 
+ 
+ 
+Escolher um item. 
+nn 
+☐  
+☐  
+dd/mm 
+dd/mm 
+6. Instalação Laboratório 
+ 
+ 
+ 
+Escolher um item. 
+nn 
+☐  
+☐  
+dd/mm 
+dd/mm 
+ 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+ 
+Situação problema: 
+Escolher um item. 
+ 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+AÇÃO/PROJETO (Tema) 
+802.1 – Implantação de cursos superiores de tecnologia (CST) 
+Origem (prioridade): 
+Escolher um item. 
+Referente ao(s) projeto(s): 
+nn 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: dd/mm/aaaa 
+Infraestrutura 
+Recursos Humanos 
+Documentos 
+Editais 
+Entregável (link/SEI) 
+Nº Ref 
+Verificação 
+ 
+OK 
+Requer 
+ação 
+ 
+ 
+1º ano 
+1.      Salas de aula 
+1.      Coordenador de Curso 
+1.      PDI Fatec 
+1.      PSS Professores 
+Escolher um item. 
+nn 
+☐  
+☐  
+dd/mm 
+dd/mm 
+2.      Disponibilidade de 
+laboratórios específicos bem 
+como seus equipamentos 
+2.      Docentes para ministrar 
+disciplinas 
+2.      PGA Fatec 
+2.      PSS Auxiliar de 
+Docente 
+Escolher um item. 
+nn 
+☐  
+☐  
+dd/mm 
+dd/mm 
+ 
+3.      AD´s para atend. de 
+laboratórios 
+3.      PPC do Curso  
+3.      Coordenador de 
+Curso 
+Escolher um item. 
+nn 
+☐  
+☐  
+dd/mm 
+dd/mm 
+ 
+ 
+4.      P.A. 
+ 
+Escolher um item. 
+nn 
+☐  
+☐  
+dd/mm 
+dd/mm 
+ 
+ 
+5.         A.P.R. (para aulas 
+práticas em laboratórios) 
+ 
+Escolher um item. 
+nn 
+☐  
+☐  
+dd/mm 
+dd/mm 
+ 
+ 
+ 
+ 
+Escolher um item. 
+nn 
+☐  
+☐  
+dd/mm 
+dd/mm 
+2º ano 
+1.      Salas de aula 
+1.      Docentes para ministrar 
+disciplinas 
+1.      PDI Fatec 
+1.      PSS Professores 
+Escolher um item. 
+nn 
+☐  
+☐  
+dd/mm 
+dd/mm 
+2.      Disponibilidade de 
+laboratórios específicos bem 
+como seus equipamentos 
+2.      .      AD´s para atend. de 
+laboratórios 
+2.      PGA Fatec 
+2.      PSS Auxiliar de 
+Docente 
+Escolher um item. 
+nn 
+☐  
+☐  
+dd/mm 
+dd/mm 
+ 
+ 
+3.        P.A. 
+ 
+Escolher um item. 
+nn 
+☐  
+☐  
+dd/mm 
+dd/mm 
+ 
+ 
+4.        A.P.R. (para aulas 
+práticas em laboratórios) 
+ 
+Escolher um item. 
+nn 
+☐  
+☐  
+dd/mm 
+dd/mm 
+3º ano 
+1.      Salas de aula 
+1.      Docentes para ministrar 
+disciplinas 
+1.      PDI Fatec 
+1.      PSS Professores 
+Escolher um item. 
+nn 
+☐  
+☐  
+dd/mm 
+dd/mm 
+2.      Disponibilidade de 
+laboratórios específicos bem 
+como seus equipamentos 
+2.      AD´s para atendimento 
+de laboratórios 
+2.      PGA Fatec 
+2.      PSS Auxiliar de 
+Docente 
+Escolher um item. 
+nn 
+☐  
+☐  
+dd/mm 
+dd/mm 
+ 
+ 
+3.        P.A. 
+ 
+Escolher um item. 
+nn 
+☐  
+☐  
+dd/mm 
+dd/mm 
+ 
+ 
+4.        A.P.R. (para aulas 
+práticas em laboratórios) 
+ 
+Escolher um item. 
+nn 
+☐  
+☐  
+dd/mm 
+dd/mm 
+ 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+ 
+Situação problema: 
+Escolher um item. 
+ 
+(a ser 
+resolvida/mitigada) 
+Escolher um item. 
+ 
+AÇÃO/PROJETO (Tema) 
+803.1 – Implantação de curso AMS 
+Origem (prioridade): 
+4-Gestão Operacional - Aumento de capacidade instalada 
+Referente ao(s) projeto(s): 
+nn 
+O que será feito: 
+ 
+Por que será feito: 
+ 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Infraestrutura 
+Recursos Humanos 
+Documentos 
+Editais 
+Entregável (link/SEI) 
+Nº Ref 
+Verificação 
+ 
+OK 
+Requer 
+ação 
+ 
+Etapas do processo: 
+1º ano 
+1.  Salas de aulas 
+1.  Docente para ETEC     
+1.      PDI Fatec 
+1.      PSS Professores 
+Escolher um item. 
+nn 
+☐  
+☐  
+dd/mm 
+dd/mm 
+2. Disponibilidade de 
+laboratórios específicos bem 
+como seus equipamentos 
+2.Equipe pedagógica 
+ETEC parceira      
+2.      PGA Fatec 
+2.      PSS Auxiliar de Docente 
+Escolher um item. 
+nn 
+☐  
+☐  
+dd/mm 
+dd/mm 
+3.  Estrutura merenda 
+escolar/espaço alimentação 
+alunos e cozinha 
+3. Docente Fatec com 10 
+Haes, quando não 
+existente Coordenador 
+de Curso AMS  
+3.      PPC Curso AMS 
+3.      Chamamento Público 
+público de Empresa Parceira 
+em ACP 
+Escolher um item. 
+nn 
+☐  
+☐  
+dd/mm 
+dd/mm 
+4. Estrutura quadra  
+4. AD´s para 
+atendimento de 
+laboratórios       
+4.      Minuta do convênio 
+com a Empresa Parceira 
+4.        Chamamento Público 
+público de Empresa Parceira 
+em integração de atividades 
+Escolher um item. 
+nn 
+☐  
+☐  
+dd/mm 
+dd/mm 
+ 
+5. Docentes para 
+disciplinas quarto e 
+quinto anos Fatec 
+5.         Plano de Trabalho 
+aprovado para 5 anos de 
+atuação da Empresa 
+Parceira 
+ 
+Escolher um item. 
+nn 
+☐  
+☐  
+dd/mm 
+dd/mm 
+ 
+ 
+6.         Elaboração dos 
+relatórios de 
+acompanhamento das 
+ACPs 
+ 
+Escolher um item. 
+nn 
+☐  
+☐  
+dd/mm 
+dd/mm 
+ 
+ 
+7.      Minuta do convênio 
+com organização 
+interveniente para 
+integração das atividades 
+ 
+Escolher um item. 
+nn 
+☐  
+☐  
+dd/mm 
+dd/mm 
+2º ano 
+1.  Salas de aulas 
+1.  Docente para ETEC     
+1.      PDI Fatec 
+1.      PSS Professores 
+ 
+Escolher um item. 
+nn 
+☐  
+☐  
+dd/mm 
+dd/mm 
+2. Disponibilidade de 
+laboratórios específicos bem 
+como seus equipamentos 
+2.Equipe pedagógica 
+ETEC parceira      
+2.      PGA Fatec 
+ 
+Escolher um item. 
+nn 
+☐  
+☐  
+dd/mm 
+dd/mm 
+ 
+3. Docente Fatec com 10 
+Haes, quando não 
+3.        Verificar vigência 
+convênio Empresa 
+ 
+Escolher um item. 
+nn 
+☐  
+☐  
+dd/mm 
+dd/mm 
+existente Coordenador 
+de Curso AMS  
+ 
+ 
+4.        Verificar vigência 
+convênio Interveniente 
+ 
+Escolher um item. 
+nn 
+☐  
+☐  
+dd/mm 
+dd/mm 
+3º ano 
+1.  Salas de aulas 
+1.  Docente para ETEC     
+1.      PDI Fatec 
+1.      PSS Professores 
+ 
+Escolher um item. 
+nn 
+☐  
+☐  
+dd/mm 
+dd/mm 
+2. Disponibilidade de 
+laboratórios específicos bem 
+como seus equipamentos 
+2.Equipe pedagógica 
+ETEC parceira      
+2.      PGA Fatec 
+ 
+Escolher um item. 
+nn 
+☐  
+☐  
+dd/mm 
+dd/mm 
+ 
+3. Docente Fatec com 10 
+Haes, quando não 
+existente Coordenador 
+de Curso AMS  
+3.        Edital de transição 
+AMS para vagas 
+remanescentes 
+ 
+Escolher um item. 
+nn 
+☐  
+☐  
+dd/mm 
+dd/mm 
+ 
+ 
+4.        Verificar vigência 
+convênio Empresa 
+ 
+Escolher um item. 
+nn 
+☐  
+☐  
+dd/mm 
+dd/mm 
+4º ano 
+1.  Salas de aulas 
+1. AD´s para 
+atendimento de 
+laboratórios       
+1.      PDI Fatec 
+1.      PSS Professores 
+ 
+Escolher um item. 
+nn 
+☐  
+☐  
+dd/mm 
+dd/mm 
+2. Disponibilidade de 
+laboratórios específicos bem 
+como seus equipamentos 
+2. Docentes para 
+disciplinas quarto e 
+quinto anos Fatec 
+2.      PGA Fatec 
+ 
+Escolher um item. 
+nn 
+☐  
+☐  
+dd/mm 
+dd/mm 
+ 
+ 
+3.        Documentação 
+Reconhecimento de Curso 
+AMS 
+ 
+Escolher um item. 
+nn 
+☐  
+☐  
+dd/mm 
+dd/mm 
+ 
+ 
+4.        Verificar vigência 
+convênio Empresa 
+ 
+Escolher um item. 
+nn 
+☐  
+☐  
+dd/mm 
+dd/mm 
+5º ano 
+1.  Salas de aulas 
+1. AD´s para 
+atendimento de 
+laboratórios       
+1.      PDI Fatec 
+1.      PSS Professores 
+ 
+Escolher um item. 
+nn 
+☐  
+☐  
+dd/mm 
+dd/mm 
+2. Disponibilidade de 
+laboratórios específicos bem 
+como seus equipamentos 
+2. Docentes para 
+disciplinas quarto e 
+quinto anos Fatec 
+2.      PGA Fatec 
+ 
+Escolher um item. 
+nn 
+☐  
+☐  
+dd/mm 
+dd/mm 
+ 
+ 
+3.        Verificar vigência 
+convênio Empresa 
+ 
+Escolher um item. 
+nn 
+☐  
+☐  
+dd/mm 
+dd/mm 
+ 
+ 
+4.        Verificar vigência 
+convênio Interveniente 
+ 
+Escolher um item. 
+nn 
+☐  
+☐  
+dd/mm 
+dd/mm 
+ 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+ 
+Situação problema: 
+Escolher um item. 
+ 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+AÇÃO/PROJETO (Tema) 
+803.1 – Implantação de curso AMS 
+Origem (prioridade): 
+4-Gestão Operacional - Aumento de capacidade instalada 
+Referente ao(s) projeto(s): 
+nn 
+O que será feito: 
+ 
+Por que será feito: 
+ 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Infraestrutura 
+Recursos Humanos 
+Documentos 
+Editais 
+Entregável (link/SEI) 
+Nº Ref 
+Verificação 
+ 
+OK 
+Requer 
+ação 
+ 
+Etapas do processo: 
+1º ano 
+1.  Salas de aulas 
+1.  Docente para ETEC     
+1.      PDI Fatec 
+1.      PSS Professores 
+Escolher um item. 
+nn 
+☐  
+☐  
+dd/mm 
+dd/mm 
+2. Disponibilidade de 
+laboratórios específicos bem 
+como seus equipamentos 
+2.Equipe pedagógica 
+ETEC parceira      
+2.      PGA Fatec 
+2.      PSS Auxiliar de Docente 
+Escolher um item. 
+nn 
+☐  
+☐  
+dd/mm 
+dd/mm 
+3.  Estrutura merenda 
+escolar/espaço alimentação 
+alunos e cozinha 
+3. Docente Fatec com 10 
+Haes, quando não 
+existente Coordenador 
+de Curso AMS  
+3.      PPC Curso AMS 
+3.      Chamamento Público 
+público de Empresa Parceira 
+em ACP 
+Escolher um item. 
+nn 
+☐  
+☐  
+dd/mm 
+dd/mm 
+4. Estrutura quadra  
+4. AD´s para 
+atendimento de 
+laboratórios       
+4.      Minuta do convênio 
+com a Empresa Parceira 
+4.        Chamamento Público 
+público de Empresa Parceira 
+em integração de atividades 
+Escolher um item. 
+nn 
+☐  
+☐  
+dd/mm 
+dd/mm 
+ 
+5. Docentes para 
+disciplinas quarto e 
+quinto anos Fatec 
+5.         Plano de Trabalho 
+aprovado para 5 anos de 
+atuação da Empresa 
+Parceira 
+ 
+Escolher um item. 
+nn 
+☐  
+☐  
+dd/mm 
+dd/mm 
+ 
+ 
+6.         Elaboração dos 
+relatórios de 
+acompanhamento das 
+ACPs 
+ 
+Escolher um item. 
+nn 
+☐  
+☐  
+dd/mm 
+dd/mm 
+ 
+ 
+7.      Minuta do convênio 
+com organização 
+interveniente para 
+integração das atividades 
+ 
+Escolher um item. 
+nn 
+☐  
+☐  
+dd/mm 
+dd/mm 
+2º ano 
+1.  Salas de aulas 
+1.  Docente para ETEC     
+1.      PDI Fatec 
+1.      PSS Professores 
+ 
+Escolher um item. 
+nn 
+☐  
+☐  
+dd/mm 
+dd/mm 
+2. Disponibilidade de 
+laboratórios específicos bem 
+como seus equipamentos 
+2.Equipe pedagógica 
+ETEC parceira      
+2.      PGA Fatec 
+ 
+Escolher um item. 
+nn 
+☐  
+☐  
+dd/mm 
+dd/mm 
+ 
+3. Docente Fatec com 10 
+Haes, quando não 
+existente Coordenador 
+de Curso AMS  
+3.        Verificar vigência 
+convênio Empresa 
+ 
+Escolher um item. 
+nn 
+☐  
+☐  
+dd/mm 
+dd/mm 
+ 
+ 
+4.        Verificar vigência 
+convênio Interveniente 
+ 
+Escolher um item. 
+nn 
+☐  
+☐  
+dd/mm 
+dd/mm 
+3º ano 
+1.  Salas de aulas 
+1.  Docente para ETEC     
+1.      PDI Fatec 
+1.      PSS Professores 
+ 
+Escolher um item. 
+nn 
+☐  
+☐  
+dd/mm 
+dd/mm 
+2. Disponibilidade de 
+laboratórios específicos bem 
+como seus equipamentos 
+2.Equipe pedagógica 
+ETEC parceira      
+2.      PGA Fatec 
+ 
+Escolher um item. 
+nn 
+☐  
+☐  
+dd/mm 
+dd/mm 
+ 
+3. Docente Fatec com 10 
+Haes, quando não 
+existente Coordenador 
+de Curso AMS  
+3.        Edital de transição 
+AMS para vagas 
+remanescentes 
+ 
+Escolher um item. 
+nn 
+☐  
+☐  
+dd/mm 
+dd/mm 
+ 
+ 
+4.        Verificar vigência 
+convênio Empresa 
+ 
+Escolher um item. 
+nn 
+☐  
+☐  
+dd/mm 
+dd/mm 
+4º ano 
+1.  Salas de aulas 
+1. AD´s para 
+atendimento de 
+laboratórios       
+1.      PDI Fatec 
+1.      PSS Professores 
+ 
+Escolher um item. 
+nn 
+☐  
+☐  
+dd/mm 
+dd/mm 
+2. Disponibilidade de 
+laboratórios específicos bem 
+como seus equipamentos 
+2. Docentes para 
+disciplinas quarto e 
+quinto anos Fatec 
+2.      PGA Fatec 
+ 
+Escolher um item. 
+nn 
+☐  
+☐  
+dd/mm 
+dd/mm 
+ 
+ 
+3.        Documentação 
+Reconhecimento de Curso 
+AMS 
+ 
+Escolher um item. 
+nn 
+☐  
+☐  
+dd/mm 
+dd/mm 
+ 
+ 
+4.        Verificar vigência 
+convênio Empresa 
+ 
+Escolher um item. 
+nn 
+☐  
+☐  
+dd/mm 
+dd/mm 
+5º ano 
+1.  Salas de aulas 
+1. AD´s para 
+atendimento de 
+laboratórios       
+1.      PDI Fatec 
+1.      PSS Professores 
+ 
+Escolher um item. 
+nn 
+☐  
+☐  
+dd/mm 
+dd/mm 
+2. Disponibilidade de 
+laboratórios específicos bem 
+como seus equipamentos 
+2. Docentes para 
+disciplinas quarto e 
+quinto anos Fatec 
+2.      PGA Fatec 
+ 
+Escolher um item. 
+nn 
+☐  
+☐  
+dd/mm 
+dd/mm 
+ 
+ 
+3.        Verificar vigência 
+convênio Empresa 
+ 
+Escolher um item. 
+nn 
+☐  
+☐  
+dd/mm 
+dd/mm 
+ 
+ 
+4.        Verificar vigência 
+convênio Interveniente 
+ 
+Escolher um item. 
+nn 
+☐  
+☐  
+dd/mm 
+dd/mm 
+ 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+ 
+Situação problema: 
+Escolher um item. 
+ 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+09 – Gestão da Rotina Educacional 
+Ações referente: Reuniões de planejamento (NDE, CEPE, CPA, editais PSS), Sustentabilidade, inclusão, 
+atendimento ao aluno, acessibilidade, avaliação desempenho (ENADE, WebSAI). 
+AÇÃO/PROJETO (Tema) 
+901 - cat 9.01 - Reuniões de Planejamento (NDE, CEPE, CPA...) 
+Origem (prioridade): 
+6-Outra 
+Referente ao(s) projeto(s):  
+O que será feito: 
+Reunião de NDE CST em Análise e Desenvolvimento de Sistema - AMS 
+Por que será feito: 
+Discussão de assuntos pertinentes a estrutura do curso 
+Responsável: 
+Profa. Nilza Aparecida dos Santos 
+Qde CH/sem: 
+1 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Prof. Fernando Toniolli 
+Qde CH/sem: 
+1 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Prof. Leandro Ramos da Silva 
+Qde CH/sem: 
+1 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Prof. Lilian Katia de Oliveira 
+Qde CH/sem: 
+1 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Profa. Patrícia Gallo de França 
+Qde CH/sem: 
+1 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Período de execução: 
+Data inicial: 
+01/02/2026 
+Data final: 
+20/12/2026 
+Atividade 
+Entregável 
+(link/SEI) 
+Nº Ref 
+Verificação 
+ 
+ok 
+Requer 
+ação 
+Etapas 
+do
+01-Reunião de início do 1º.semestre 
+Escolher um item. 
+nn 
+☐  ☐  
+03/02 
+28/02 
+02-Reunião de final do 1º.semestre 
+Escolher um item. 
+nn 
+☐  ☐  
+16/06 
+30/06 
+03-Reunião de início do 2º.semestre 
+Escolher um item. 
+nn 
+☐  ☐  
+04/08 
+29/08 
+04- Reunião de final do 2º.semestre 
+Escolher um item. 
+nn 
+☐  ☐  
+01/12 
+20/12 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+ 
+AÇÃO/PROJETO (Tema) 
+902 - cat 9.01 - Reuniões de Planejamento (NDE, CEPE, CPA...) 
+Origem (prioridade): 
+6-Outra 
+Referente ao(s) projeto(s):  
+O que será feito: 
+Reunião de NDE CST em Análise e Desenvolvimento de Sistema 
+Por que será feito: 
+Discussão de assuntos pertinentes a estrutura do curso 
+Responsável: 
+Prof. César Torres Fernandes 
+Qde CH/sem: 
+1 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Prof. Alan Henrique Pardo de Carvalho 
+Qde CH/sem: 
+1 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Prof. Flavio Viotti 
+Qde CH/sem: 
+1 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Prof. Rodrigo Amorim Motta Carvalho 
+Qde CH/sem: 
+1 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Prof. Rosangela Kronig 
+Qde CH/sem: 
+1 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Período de execução: 
+Data inicial: 
+01/02/2026 
+Data final: 
+20/12/2026 
+Atividade 
+Entregável 
+(link/SEI) 
+Nº Ref 
+Verificação 
+ 
+ok 
+Requer 
+ação 
+Etapas 
+do
+01-Reunião de início do 1º.semestre 
+Escolher um item. 
+nn 
+☐  ☐  
+03/02 
+28/02 
+02-Reunião de final do 1º.semestre 
+Escolher um item. 
+nn 
+☐  ☐  
+16/06 
+30/06 
+03-Reunião de início do 2º.semestre 
+Escolher um item. 
+nn 
+☐  ☐  
+04/08 
+29/08 
+04- Reunião de final do 2º.semestre 
+Escolher um item. 
+nn 
+☐  ☐  
+01/12 
+20/12 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+ 
+AÇÃO/PROJETO (Tema) 
+903 - cat 9.01 - Reuniões de Planejamento (NDE, CEPE, CPA...) 
+Origem (prioridade): 
+6-Outra 
+Referente ao(s) projeto(s):  
+O que será feito: 
+Reunião de NDE CST em Comércio Exterior 
+Por que será feito: 
+Discussão de assuntos pertinentes a estrutura do curso 
+Responsável: 
+Prof. Rafael Leal de Araújo 
+Qde CH/sem: 
+1 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Profa. Margarete Bonaldi Ascêncio Cansado 
+Qde CH/sem: 
+1 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Profa. Miguel Marílio Saad Junior 
+Qde CH/sem: 
+1 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Profa. Nilza Aparecida dos Santos 
+Qde CH/sem: 
+1 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Profa. Rita Maria Cunha Leite Coentro 
+Qde CH/sem: 
+1 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Período de execução: 
+Data inicial: 
+01/02/2026 
+Data final: 
+20/12/2026 
+Atividade 
+Entregável 
+(link/SEI) 
+Nº Ref 
+Verificação 
+ 
+ok 
+Requer 
+ação 
+Etapas 
+do
+01-Reunião de início do 1º.semestre 
+99-Outros 
+nn 
+☐  ☐  
+03/02 
+28/02 
+02-Reunião de final do 1º.semestre 
+99-Outros 
+nn 
+☐  ☐  
+16/06 
+30/06 
+03-Reunião de início do 2º.semestre 
+99-Outros 
+nn 
+☐  ☐  
+04/08 
+29/08 
+04- Reunião de final do 2º.semestre 
+99-Outros 
+nn 
+☐  ☐  
+01/12 
+20/12 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+ 
+AÇÃO/PROJETO (Tema) 
+904 - cat 9.01 - Reuniões de Planejamento (NDE, CEPE, CPA...) 
+Origem (prioridade): 
+6-Outra 
+Referente ao(s) projeto(s):  
+O que será feito: 
+Reunião de NDE CST em Jogos Digitais 
+Por que será feito: 
+Discussão de assuntos pertinentes a estrutura do curso 
+Responsável: 
+Prof. Alan Henrique Pardo de Carvalho 
+Qde CH/sem: 
+1 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Prof. Adilson Ferreira da Silva 
+Qde CH/sem: 
+1 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Prof. César Torres Fernandes 
+Qde CH/sem: 
+1 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Prof. Leandro Ramos da Silva 
+Qde CH/sem: 
+1 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Prof. Willians Monteiro da Silva 
+Qde CH/sem: 
+1 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Período de execução: 
+Data inicial: 
+01/02/2026 
+Data final: 
+20/12/2026 
+Atividade 
+Entregável 
+(link/SEI) 
+Nº Ref 
+Verificação 
+ 
+ok 
+Requer 
+ação 
+Etapas 
+do
+01-Reunião de início do 1º.semestre 
+99-Outros 
+nn 
+☐  ☐  
+03/02 
+28/02 
+02-Reunião de final do 1º.semestre 
+99-Outros 
+nn 
+☐  ☐  
+16/06 
+30/06 
+03-Reunião de início do 2º.semestre 
+99-Outros 
+nn 
+☐  ☐  
+04/08 
+29/08 
+04- Reunião de final do 2º.semestre 
+99-Outros 
+nn 
+☐  ☐  
+01/12 
+20/12 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+ 
+AÇÃO/PROJETO (Tema) 
+905 - cat 9.01 - Reuniões de Planejamento (NDE, CEPE, CPA...) 
+Origem (prioridade): 
+6-Outra 
+Referente ao(s) projeto(s):  
+O que será feito: 
+Reunião de NDE CST em Segurança da Informação 
+Por que será feito: 
+Discussão de assuntos pertinentes a estrutura do curso 
+Responsável: 
+Profa. Adriane Monteiro Fontana 
+Qde CH/sem: 
+1 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Profa. Edna Mataruco Duarte 
+Qde CH/sem: 
+1 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Profa. Izar Munhoz Álvares 
+Qde CH/sem: 
+1 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Prof. Mário Eugênio Longato 
+Qde CH/sem: 
+1 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Prof. Nilton Stringasci Moreira 
+ 
+Qde CH/sem: 
+1 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Período de execução: 
+Data inicial: 
+01/02/2026 
+Data final: 
+20/12/2026 
+Atividade 
+Entregável 
+(link/SEI) 
+Nº Ref 
+Verificação 
+ 
+ok 
+Requer 
+ação 
+Etapas 
+do
+01-Reunião de início do 1º.semestre 
+99-Outros 
+nn 
+☐  ☐  
+03/02 
+28/02 
+02-Reunião de final do 1º.semestre 
+99-Outros 
+nn 
+☐  ☐  
+16/06 
+30/06 
+03-Reunião de início do 2º.semestre 
+99-Outros 
+nn 
+☐  ☐  
+04/08 
+29/08 
+04- Reunião de final do 2º.semestre 
+99-Outros 
+nn 
+☐  ☐  
+01/12 
+20/12 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+ 
+AÇÃO/PROJETO (Tema) 
+906 - cat 9.01 - Reuniões de Planejamento (NDE, CEPE, CPA...) 
+Origem (prioridade): 
+6-Outra 
+Referente ao(s) projeto(s):  
+O que será feito: 
+Reunião de Colegiado  CST em Análise e Desenvolvimento de Sistema - AMS 
+Por que será feito: 
+Discussão de assuntos pertinentes a estrutura do curso 
+Responsável: 
+Profa. Nilza Aparecida dos Santos 
+Qde CH/sem: 
+1 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Todos os docentes do Curso 
+Qde CH/sem: 
+1 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+01/02/2026 
+Data final: 
+20/12/2026 
+Atividade 
+Entregável 
+(link/SEI) 
+Nº Ref 
+Verificação 
+ 
+ok 
+Requer 
+ação 
+Etapas 
+do
+01-Reunião de início do 1º.semestre 
+99-Outros 
+nn 
+☐  ☐  
+03/02 
+28/02 
+02-Reunião de final do 1º.semestre 
+99-Outros 
+nn 
+☐  ☐  
+16/06 
+30/06 
+03-Reunião de início do 2º.semestre 
+99-Outros 
+nn 
+☐  ☐  
+04/08 
+29/08 
+04- Reunião de final do 2º.semestre 
+99-Outros 
+nn 
+☐  ☐  
+01/12 
+20/12 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+ 
+AÇÃO/PROJETO (Tema) 
+907 - cat 9.01 - Reuniões de Planejamento (NDE, CEPE, CPA...) 
+Origem (prioridade): 
+6-Outra 
+Referente ao(s) projeto(s):  
+O que será feito: 
+Reunião de Colegiado  CST em Análise e Desenvolvimento de Sistema 
+Por que será feito: 
+Discussão de assuntos pertinentes a estrutura do curso 
+Responsável: 
+Prof. César Torres Fernandes 
+Qde CH/sem: 
+1 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Todos os docentes do Curso 
+Qde CH/sem: 
+1 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+01/02/2026 
+Data final: 
+20/12/2026 
+Atividade 
+Entregável 
+(link/SEI) 
+Nº Ref 
+Verificação 
+ 
+ok 
+Requer 
+ação 
+Etapas 
+do
+01-Reunião de início do 1º.semestre 
+99-Outros 
+nn 
+☐  ☐  
+03/02 
+28/02 
+02-Reunião de final do 1º.semestre 
+99-Outros 
+nn 
+☐  ☐  
+16/06 
+30/06 
+03-Reunião de início do 2º.semestre 
+99-Outros 
+nn 
+☐  ☐  
+04/08 
+29/08 
+04- Reunião de final do 2º.semestre 
+99-Outros 
+nn 
+☐  ☐  
+01/12 
+20/12 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+ 
+AÇÃO/PROJETO (Tema) 
+908 - cat 9.01 - Reuniões de Planejamento (NDE, CEPE, CPA...) 
+Origem (prioridade): 
+6-Outra 
+Referente ao(s) projeto(s):  
+O que será feito: 
+Reunião de Colegiado CST em Comércio Exterior 
+Por que será feito: 
+Discussão de assuntos pertinentes a estrutura do curso 
+Responsável: 
+Prof. Rafael Leal de Araújo 
+Qde CH/sem: 
+1 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Todos os docentes do Curso 
+Qde CH/sem: 
+1 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+01/02/2026 
+Data final: 
+20/12/2026 
+Atividade 
+Entregável 
+(link/SEI) 
+Nº Ref 
+Verificação 
+ 
+ok 
+Requer 
+ação 
+Etapas 
+do
+01-Reunião de início do 1º.semestre 
+99-Outros 
+nn 
+☐  ☐  
+03/02 
+28/02 
+02-Reunião de final do 1º.semestre 
+99-Outros 
+nn 
+☐  ☐  
+16/06 
+30/06 
+03-Reunião de início do 2º.semestre 
+99-Outros 
+nn 
+☐  ☐  
+04/08 
+29/08 
+04- Reunião de final do 2º.semestre 
+99-Outros 
+nn 
+☐  ☐  
+01/12 
+20/12 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+ 
+AÇÃO/PROJETO (Tema) 
+909 - cat 9.01 - Reuniões de Planejamento (NDE, CEPE, CPA...) 
+Origem (prioridade): 
+6-Outra 
+Referente ao(s) projeto(s):  
+O que será feito: 
+Reunião de Colegiado CST em Jogos Digitais 
+Por que será feito: 
+Discussão de assuntos pertinentes a estrutura do curso 
+Responsável: 
+Prof. Alan Henrique Pardo de Carvalho 
+Qde CH/sem: 
+1 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Todos os docentes do Curso 
+Qde CH/sem: 
+1 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+01/02/2026 
+Data final: 
+20/12/2026 
+Atividade 
+Entregável 
+(link/SEI) 
+Nº Ref 
+Verificação 
+ 
+ok 
+Requer 
+ação 
+Etapas 
+do
+01-Reunião de início do 1º.semestre 
+99-Outros 
+nn 
+☐  ☐  
+03/02 
+28/02 
+02-Reunião de final do 1º.semestre 
+99-Outros 
+nn 
+☐  ☐  
+16/06 
+30/06 
+03-Reunião de início do 2º.semestre 
+99-Outros 
+nn 
+☐  ☐  
+04/08 
+29/08 
+04- Reunião de final do 2º.semestre 
+99-Outros 
+nn 
+☐  ☐  
+01/12 
+20/12 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+ 
+AÇÃO/PROJETO (Tema) 
+910 - cat 9.01 - Reuniões de Planejamento (NDE, CEPE, CPA...) 
+Origem (prioridade): 
+6-Outra 
+Referente ao(s) projeto(s):  
+O que será feito: 
+Reunião de Colegiado CST em Segurança da Informação 
+Por que será feito: 
+Discussão de assuntos pertinentes a estrutura do curso 
+Responsável: 
+Profa. Adriane Monteiro Fontana 
+Qde CH/sem: 
+1 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Todos os docentes do Curso 
+Qde CH/sem: 
+1 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+01/02/2026 
+Data final: 
+20/12/2026 
+Atividade 
+Entregável 
+(link/SEI) 
+Nº Ref 
+Verificação 
+ 
+ok 
+Requer 
+ação 
+Etapas 
+do
+01-Reunião de início do 1º.semestre 
+99-Outros 
+nn 
+☐  ☐  
+03/02 
+28/02 
+02-Reunião de final do 1º.semestre 
+99-Outros 
+nn 
+☐  ☐  
+16/06 
+30/06 
+03-Reunião de início do 2º.semestre 
+99-Outros 
+nn 
+☐  ☐  
+04/08 
+29/08 
+04- Reunião de final do 2º.semestre 
+99-Outros 
+nn 
+☐  ☐  
+01/12 
+20/12 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+ 
+AÇÃO/PROJETO (Tema) 
+911 - cat 9.01 - Reuniões de Planejamento (NDE, CEPE, CPA...) 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+Referente ao(s) projeto(s): nn 
+O que será feito: 
+Reunião da CPA 
+Por que será feito: 
+As reuniões da CPA são essenciais para planejar, acompanhar e avaliar as ações institucionais, 
+assegurando a melhoria contínua da qualidade do ensino, em conformidade com os princípios da 
+autoavaliação institucional 
+Responsável: 
+Prof. Claudemir Martins da Silva  
+Qde CH/sem: 
+03 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+Profa. Fernanda Peixoto Coelho – GRP 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+Demais membros da CPA 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Atividade 
+Entregável 
+(link/SEI) 
+Nº Ref 
+Verificação 
+ 
+ok 
+Requer 
+ação 
+Etapas 
+do
+01-Reunião de início do 1º.semestre 
+99-Outros 
+nn 
+☐  ☐  
+03/02 
+28/02 
+02-Reunião de final do 1º.semestre 
+99-Outros 
+nn 
+☐  ☐  
+16/06 
+30/06 
+03-Reunião de início do 2º.semestre 
+99-Outros 
+nn 
+☐  ☐  
+04/08 
+29/08 
+04- Reunião de final do 2º.semestre 
+99-Outros 
+nn 
+☐  ☐  
+01/12 
+20/12 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.10 - Gestão da unidade de ensino e dos cursos (indicadores) 
+(a ser resolvida/mitigada) 
+cat 0.1.10 - Gestão da unidade de ensino e dos cursos (indicadores) 
+X 
+AÇÃO/PROJETO (Tema) 
+912 - cat 9.01 - Reuniões de Planejamento (NDE, CEPE, CPA...) 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+Referente ao(s) projeto(s): nn 
+O que será feito: 
+Reunião da Congregação 
+Por que será feito: 
+As reuniões da Congregação são indispensáveis para a supervisão e o alinhamento das atividades 
+de ensino, pesquisa e extensão da unidade, em conformidade com as diretrizes gerais da política 
+educacional institucional. 
+Responsável: 
+Profa. Adriane Monteiro Fontana 
+Qde CH/sem: 
+nn 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Marcia Gorete da Silva 
+Qde CH/sem: 
+nn 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Professores Coordenadores de Curso 
+Qde CH/sem: 
+nn 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Professores Representantes do Corpo Docente 
+Qde CH/sem: 
+nn 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Representante do Corpo Técnico Administrativo 
+Qde CH/sem: 
+nn 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Representante da Comunidade Externa 
+Qde CH/sem: 
+nn 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Professores Representantes do Corpo Docente 
+Qde CH/sem: 
+nn 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Período de execução: 
+Data inicial: 
+03/02/2026 
+Data final: 
+20/12/2026 
+Atividade 
+Entregável 
+(link/SEI) 
+Nº Ref 
+Verificação 
+ 
+ok 
+Requer 
+ação 
+eEtapas do 
+processo:
+01-Reunião no. 1  do 1º. semestre 
+99-Outros 
+nn 
+☐  ☐  
+03/02 
+28/02 
+02- Reunião no. 2 do 1º. semestre 
+99-Outros 
+nn 
+☐  ☐  
+03/04 
+30/4 
+03- Reunião no. 3  do 1º. semestre 
+99-Outros 
+nn 
+☐  ☐  
+16/06 
+30/06 
+04-Reunião no. 1  do 2º. semestre 
+99-Outros 
+nn 
+☐  ☐  
+04/08 
+29/08 
+05- Reunião no. 2 do 2º. semestre 
+99-Outros 
+nn 
+☐  ☐  
+03/09 
+30/09 
+06- Reunião no. 3  do 2º. semestre 
+99-Outros 
+nn 
+☐  ☐  
+01/12 
+20/12 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.10 - Gestão da unidade de ensino e dos cursos (indicadores) 
+(a ser resolvida/mitigada) 
+cat 0.1.10 - Gestão da unidade de ensino e dos cursos (indicadores) 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+913 - cat 9.06 - Avaliação Desempenho (ENADE, WebSAI) 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+Referente ao(s) projeto(s): nn 
+O que será feito: 
+Aplicação do WebSAI 
+Por que será feito: 
+O WEBSAI é realizado para monitorar e avaliar, de forma sistemática, o desempenho da Unidade, 
+fornecendo subsídios para o aprimoramento da gestão, da qualidade dos processos acadêmicos e 
+do impacto social, a partir de informações coletadas junto à comunidade acadêmica. 
+Responsável: 
+Claudemir Martins da SilvaClaudemir Martins da Silva 
+Qde CH/sem: 
+nn 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+Alexandre Silva dos Santos 
+Qde CH/sem: 
+nn 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Período de execução: 
+Data inicial: 
+01/08/2026 
+Data final: 
+21/12/2026 
+Atividade 
+Entregável 
+(link/SEI) 
+Nº Ref 
+Verificação 
+ 
+ok 
+Requer 
+ação 
+Etapa
+s do
+01-Sensibilização da Comunidade 
+Escolher um item. 
+nn 
+☐  ☐  
+01/08 
+31/08 
+02-Aplicação do questionário 
+Escolher um item. 
+nn 
+☐  ☐  
+01/09 
+30/09 
+03-Tratamento e Análise dos Dados 
+Escolher um item. 
+nn 
+☐  ☐  
+01/10 
+30/11 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.10 - Gestão da unidade de ensino e dos cursos (indicadores) 
+(a ser resolvida/mitigada) 
+cat 0.1.10 - Gestão da unidade de ensino e dos cursos (indicadores) 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+914 - cat 9.04 - Atendimento ao Aluno 
+Origem (prioridade): 
+6-Outra 
+O que será feito: 
+Programa de monitoria para disciplinas com maior reprovação 
+Por que será feito: 
+Para auxiliar no processo de aprovação dos alunos com dificuldades em disciplinas específicas 
+que tem maior índice de retenção 
+Responsável: 
+Profa. Adriane Monteiro Fontana 
+Qde CH/sem: 
+02 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Francieli Sena Costa 
+Qde CH/sem: 
+02 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Guilherme Cortonesi Cela 
+Qde CH/sem: 
+02 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Luci Raimunda Francisquette 
+Qde CH/sem: 
+02 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Período de execução: 
+Data inicial: 
+02/02/2026 
+Data final: 
+20/12/2026 
+Atividade 
+Entregável 
+(link/SEI) 
+Nº Ref 
+Verificação 
+ 
+ok 
+Requer 
+ação 
+Etapas do processo: 
+01- Edital de inscrições para vagas para monitoria 
+Escolher um item. 
+nn 
+☐  ☐  
+08/02 
+16/02 
+02- Resultado das inscrições 
+Escolher um item. 
+nn 
+☐  ☐  
+19/02 
+21/02 
+03- Edital de inscrições para vagas remanescentes 
+Escolher um item. 
+nn 
+☐  ☐  
+21/02 
+23/02 
+04- Resultado das inscrições para vagas remanescentes 
+Escolher um item. 
+nn 
+☐  ☐  
+24/02 
+24/02 
+05- Atuação Monitores 
+Escolher um item. 
+nn 
+☐  ☐  
+01/03 
+01/07 
+06- Edital de inscrições para vagas para monitoria 
+Escolher um item. 
+nn 
+☐  ☐  
+01/08 
+08/08 
+07- Resultado das inscrições 
+Escolher um item. 
+nn 
+☐  ☐  
+20/08 
+21/08 
+08- Edital de inscrições para vagas remanescentes 
+09 – Resultado das inscrições para vagas remanescentes 
+10 – Atuação Monitores 
+Escolher um item. 
+nn 
+☐  ☐  
+22/08 
+23/08 
+01- Edital de inscrições para vagas para monitoria 
+Escolher um item. 
+nn 
+☐  ☐  
+08/02 
+16/02 
+02- Resultado das inscrições 
+Escolher um item. 
+nn 
+☐  ☐  
+19/02 
+21/02 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CEETEPS 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+915 - cat 9.06 - Avaliação Desempenho (ENADE, WebSAI) 
+Origem (prioridade): 
+6-Outra 
+Referente ao(s) projeto(s): nn 
+O que será feito: 
+Avaliação Docente Semestral 
+Por que será feito: 
+A avaliação docente semestral, organizada pela direção da Unidade e pelas coordenações de 
+curso, tem como objetivo aprimorar a qualidade acadêmica, a partir da coleta de percepções dos 
+alunos sobre práticas pedagógicas, domínio de conteúdo, pontualidade, relacionamento 
+interpessoal, entre outros aspectos relevantes para o desempenho docente. 
+Responsável: 
+Profa. Adriane Monteiro Fontana 
+Qde CH/sem: 
+02 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Prof. Alan Henrique Pardo de Carvalho 
+Qde CH/sem: 
+02 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Prof. César Torres Fernandes 
+Qde CH/sem: 
+02 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Profa. Nilza Aparecida dos Santos 
+Qde CH/sem: 
+02 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Prof. Rafael Leal de Araújo 
+Qde CH/sem: 
+02 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Período de execução: 
+Data inicial: 
+02/03/2026 
+Data final: 
+30/11/2026 
+Nº Ref 
+Verificação 
+Atividade 
+Entregável 
+(link/SEI) 
+ok 
+Requer 
+ação 
+ 
+Etapas do 
+processo:
+01-Preparação do Formulário 
+ 
+Escolher um item. 
+nn 
+☐  ☐  
+02/03 
+30/11 
+02-Aplicação da Avaliação 
+ 
+Escolher um item. 
+nn 
+☐  ☐  
+02/03 
+30/11 
+03-Tratamento e Análise dos Dados 
+ 
+Escolher um item. 
+nn 
+☐  ☐  
+02/03 
+30/11 
+04-Devolutiva aos Docentes 
+ 
+Escolher um item. 
+nn 
+☐  ☐  
+02/03 
+30/11 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CEETEPS 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+ 
+AÇÃO/PROJETO (Tema) 
+916 - cat 9.02 - Ações de Sustentabilidade 
+Origem (prioridade): 
+6-Outra 
+Referente ao(s) projeto(s): nn 
+O que será feito: 
+Contratação de Professores via PSS para os cursos da Instituição 
+Por que será feito: 
+A contratação de professor por meio de Processo Seletivo Simplificado (PSS) é necessária para 
+assegurar a continuidade e a regularidade das aulas, garantindo o atendimento às demandas 
+acadêmicas e a manutenção da qualidade do ensino na Unidade. Previsão de 10 processos de PSS 
+por semestre/curso da Unidade, num total de 80 por semestre. 
+Responsável: 
+Profa. Adriane Monteiro Fontana 
+Qde CH/sem: 
+02 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Prof. Alan Henrique Pardo de Carvalho 
+Qde CH/sem: 
+02 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Prof. César Torres Fernandes 
+Qde CH/sem: 
+02 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Profa. Nilza Aparecida dos Santos 
+Qde CH/sem: 
+02 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Prof. Rafael Leal de Araújo 
+Qde CH/sem: 
+02 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Período de execução: 
+Data inicial: 
+02/02/2026 
+Data final: 
+20/12/2026 
+Atividade 
+Entregável 
+(link/SEI) 
+Nº Ref 
+Verificação 
+ 
+ok 
+Requer 
+ação 
+Etapas 
+do
+01-Identificação das necessidades 
+Escolher um item. 
+nn 
+☐  ☐  
+02/02 
+20/12 
+02-Processo de contratação 
+Escolher um item. 
+nn 
+☐  ☐  
+02/02 
+20/12 
+03-Diferimento e análise dos candidatos inscritos 
+Escolher um item. 
+nn 
+☐  ☐  
+02/02 
+20/12 
+04-Convocação/Contrataçao 
+Escolher um item. 
+nn 
+☐  ☐  
+02/02 
+20/12 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CEETEPS 
+Situação problema: 
+cat 0.1.06 - Quantidade de professores/funcionários 
+(a ser resolvida/mitigada) 
+cat 0.1.06 - Quantidade de professores/funcionários 
+ 
+AÇÃO/PROJETO (Tema) 
+917 - cat 1.12 - Orientação profissional para discentes, mentoria e apoio psicopedagógico 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Atendimento Psicopedagógico 
+Serão realizados atendimentos aos alunos dos cursos presenciais da unidade São Caetano do Sul, 
+mediante ao agendamento prévio 
+Por que será feito: 
+Para acolhimento às questões psicopedagógicas. 
+Responsável: 
+Profa. Eliane Veiga Porta 
+Qde CH/sem: 
+10 
+Tipo: 
+HAE - Hora 
+Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+01/02/2026 
+Data final: 
+31/12/2026 
+Atividade 
+Entregável 
+(link/SEI) 
+Nº Ref 
+Verificação 
+ 
+ok 
+Requer 
+Ação 
+Etapas do 
+processo: 
+01- Divulgação em Quadros de Avisos  
+ Serão afixados nos Quadros de Aviso da Unidade os 
+horários disponíveis para agendamento. 
+Escolher um item. 
+nn 
+☐  
+☐  
+08/02 
+16/08 
+02/07 
+20/12 
+02- Atendimento individual aos alunos 
+ A partir do agendamento dos alunos serão realizados 
+atendimentos individualizados, onde serão abordados os 
+assuntos de interesse dos alunos. 
+Escolher um item. 
+nn 
+☐  
+☐  
+08/02 
+16/08 
+02/07 
+20/12 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CEETEPS 
+Situação problema: 
+cat 0.1.09 - Acesso/Inclusão ao Ensino Superior (social, PCD) 
+(a ser resolvida/mitigada) 
+cat 0.1.09 - Acesso/Inclusão ao Ensino Superior (social, PCD) 
+ 
+AÇÃO/PROJETO (Tema) 
+918 - cat 1.11 - Ações de nivelamento de conhecimento, ENADE, acolhimento e permanência discente. 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Nivelamento Matemática 
+Resgatar, aprofundar e solidificar os conhecimentos em matemática básica 
+Por que será feito: 
+Melhorar o aproveitamento dos estudantes nas disciplinas de graduação 
+Responsável: 
+Profa. Lilian Kátia de Oliveira 
+Qde CH/sem: 
+05 
+Tipo: 
+HAE - Hora 
+Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+25/02/2026 
+Data final: 
+10/12/2026 
+Atividade 
+Entregável 
+(link/SEI) 
+Nº Ref 
+Verificação 
+ 
+ok 
+Requer 
+Ação 
+Etapas do processo: 
+01- Potenciação 
+Escolher um item. 
+nn 
+☐  
+☐  
+28/02 
+07/03 
+02- Radiciação 
+Escolher um item. 
+nn 
+☐  
+☐  
+08/03 
+14/03 
+03- Produtos Notáveis 
+Escolher um item. 
+nn 
+☐  
+☐  
+15/03 
+21/03 
+04- Fatoração Algébrica 
+Escolher um item. 
+nn 
+☐  
+☐  
+22/03 
+28/03 
+05- Equação de 1º grau 
+Escolher um item. 
+nn 
+☐  
+☐  
+29/03 
+04/04 
+06- Inequação de 1º grau 
+Escolher um item. 
+nn 
+☐  
+☐  
+05/04 
+11/04 
+07- Equação de 2º grau 
+Escolher um item. 
+nn 
+☐  
+☐  
+12/04 
+18/04 
+08- Inequação de 2º grau 
+Escolher um item. 
+nn 
+☐  
+☐  
+12/04 
+18/04 
+09- Funções Polinomiais 
+Escolher um item. 
+nn 
+☐  
+☐  
+12/04 
+18/04 
+10- Função Exponencial 
+Escolher um item. 
+nn 
+☐  
+☐  
+12/04 
+18/04 
+11- Função Logarítmica 
+Escolher um item. 
+nn 
+☐  
+☐  
+12/04 
+18/04 
+12- Plantão de dúvidas 
+Escolher um item. 
+nn 
+☐  
+☐  
+12/04 
+18/04 
+13- Plantão de dúvidas 
+Escolher um item. 
+nn 
+☐  
+☐  
+12/04 
+18/04 
+14- Plantão de dúvidas 
+Escolher um item. 
+nn 
+☐  
+☐  
+12/04 
+18/04 
+15- Plantão de dúvidas 
+Escolher um item. 
+nn 
+☐  
+☐  
+12/04 
+18/04 
+16- Plantão de dúvidas 
+Escolher um item. 
+nn 
+☐  
+☐  
+12/04 
+18/04 
+17- Plantão de dúvidas 
+Escolher um item. 
+nn 
+☐  
+☐  
+12/04 
+18/04 
+18- Plantão de dúvidas 
+Escolher um item. 
+nn 
+☐  
+☐  
+12/04 
+18/04 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CEETEPS 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+ 
+AÇÃO/PROJETO (Tema) 
+919 - cat 1.07 - Divulgação do vestibular e ações de fortalecimento de imagem institucional 
+Origem (prioridade): 
+6-Outra 
+O que será feito: 
+Serão realizados atendimentos à comunidade interna e externa para esclarecimento de dúvidas 
+sobre Imposto de Renda, além da oferta de palestras sobre o tema e sobre educação financeira 
+durante o primeiro semestre de 2024. 
+Por que será feito: 
+Para apoiar a comunidade interna e externa relacionadas a dúvidas sobre imposto IR primeiro 
+semestre de 2024 e ministrar palestras para o público externo e interno relacionadas a educação 
+financeira; 
+Responsável: 
+Profa. Sonia Cristina Menoce 
+Qde CH/sem: 
+05 
+Tipo: 
+HAE - Hora 
+Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+01/02/2026 
+Data final: 
+15/07/2026 
+Atividade 
+Entregável 
+(link/SEI) 
+Nº Ref 
+Verificação 
+ 
+ok 
+Requer 
+Ação 
+Etapas do 
+processo:
+01- Planejamento e desenvolvimento dos Materiais, 
+legislação, sistema IR. 
+Escolher um item. 
+nn 
+☐  
+☐  
+01/02 
+15/03 
+02- Palestra IR – Comunidade Interna e Externa. 
+Escolher um item. 
+nn 
+☐  
+☐  
+16/03 
+16/03 
+03- Treinamento de alunos para apoiar atendimento ao 
+público. 
+Escolher um item. 
+nn 
+☐  
+☐  
+01/03 
+31/03 
+04- Atendimento à comunidade dúvidas - IR 
+Escolher um item. 
+nn 
+☐  
+☐  
+06/04 
+06/04 
+05- Atendimento à comunidade dúvidas - IR 
+Escolher um item. 
+nn 
+☐  
+☐  
+20/04 
+20/04 
+06- Atendimento Interno – dúvidas – IR 18h30 às 19h30 
+Escolher um item. 
+nn 
+☐  
+☐  
+10/04 
+10/04 
+07- Atendimento Interno – dúvidas – IR 18h30 às 19h30 
+Escolher um item. 
+nn 
+☐  
+☐  
+24/04 
+24/04 
+08- Preparar conteúdo/material e treinar alunos 
+Escolher um item. 
+nn 
+☐  
+☐  
+25/05 
+21/06 
+09- Palestra Educação Financeira 
+Escolher um item. 
+nn 
+☐  
+☐  
+22/06 
+22/06 
+10- Encerramento e relatórios 
+Escolher um item. 
+nn 
+☐  
+☐  
+18/06 
+15/07 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CEETEPS 
+Situação problema: 
+cat 0.1.08 - Participação da comunidade e sociedade 
+(a ser resolvida/mitigada) 
+cat 0.1.08 - Participação da comunidade e sociedade 
+ 
+AÇÃO/PROJETO (Tema) 
+920 - cat 1.11 - Ações de nivelamento de conhecimento, ENADE, acolhimento e permanência discente. 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Será realizado um ciclo de atividades interdisciplinares nos cursos de ADS, AMS e Comércio Exterior, com foco 
+em temas transversais como relações étnico-raciais, direitos humanos, meio ambiente e sustentabilidade, por 
+meio de encontros expositivos, discussões, simulados ENADE e avaliações reflexivas ao longo dos dois 
+semestres. 
+Por que será feito: 
+Para propiciar uma formação discente voltada ao exercício da cidadania de acordo com os princípios dos 
+direitos humanos, meio ambiente sustentável, diversidade (relações étnico-raciais) e formação histórico-
+social (inclui cultura afro-brasileira, africana e indígena) 
+Responsável: 
+Prof. Ricardo Baitz 
+ 
+Qde CH/sem: 
+08 
+Tipo: 
+HAE - Hora 
+Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+02/02/2026 
+Data final: 
+15/12/2026 
+Atividade 
+Entregável 
+(link/SEI) 
+Nº Ref 
+Verificação 
+ 
+ok 
+Requer 
+Ação 
+Etapas do processo: 
+01- Primeiro encontro (inclui preparo dos materiais). 
+Escolher um item. 
+nn 
+☐  
+☐  
+01/02 
+01/03 
+02- Segundo encontro (inclui preparo dos materiais) 
+Escolher um item. 
+nn 
+☐  
+☐  
+02/03 
+01/04 
+03- Simulado Enade (inclui leitura dos exames anteriores e escolha 
+das questões aderentes ao tema desenvolvido) 
+Escolher um item. 
+nn 
+☐  
+☐  
+02/05 
+01/06 
+04- Resolução do simulado e balanço da atividade. 
+Escolher um item. 
+nn 
+☐  
+☐  
+02/06 
+01/07 
+05- Entrega de relatório parcial ao coordenador e colegiado do 
+curso 
+Escolher um item. 
+nn 
+☐  
+☐  
+ 
+15/07 
+06- Quinto encontro (inclui preparo dos materiais) 
+Escolher um item. 
+nn 
+☐  
+☐  
+01/08 
+01/09 
+07- Sexto encontro (inclui preparo dos materiais) 
+Escolher um item. 
+nn 
+☐  
+☐  
+02/09 
+01/10 
+08- Simulado Enade (inclui leitura dos exames anteriores e escolha 
+das questões aderentes ao tema desenvolvido) 
+Escolher um item. 
+nn 
+☐  
+☐  
+02/10 
+01/11 
+09- Resolução do simulado e balanço da atividade 
+Escolher um item. 
+nn 
+☐  
+☐  
+02/11 
+01/12 
+10- Apresentação do relatório parcial e final da atividade ao 
+colegiado e coordenador de curso 
+Escolher um item. 
+nn 
+☐  
+☐  
+ 
+15/12 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CEETEPS 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+ 
+AÇÃO/PROJETO (Tema) 
+921 - cat 1.11 - Ações de nivelamento de conhecimento, ENADE, acolhimento e permanência discente. 
+Origem (prioridade): 
+2-Gestão Estratégica Institucional (AMS, novos cursos e unidades) 
+O que será feito: 
+Estágio, INOVA e Escritório de Carreiras (atuar como orientadores de Estágio na FATEC SCS) 
+Por que será feito: 
+Atuar como agentes de Carreiras na Fatec São Caetano do Sul 
+Responsável: 
+Prof. Jacinto Carlos Ascêncio Cansado 
+Qde CH/sem: 
+15 
+Tipo: 
+HAE - Hora 
+Atividade 
+Específica 
+Colaborador(a): 
+Prof. Rodrigo Amorim Motta Carvalho 
+Qde CH/sem: 
+15 
+Tipo: 
+HAE - Hora 
+Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+01/03/2026 
+Data final: 
+30/12/2026 
+Atividade 
+Entregável 
+(link/SEI) 
+Nº Ref 
+Verificação 
+ 
+ok 
+Requer 
+Ação 
+Etapas do 
+processo:
+Apresentação do projeto para os alunos 
+Escolher um item. 
+nn 
+☐  
+☐  
+01/03 
+01/09 
+15/03 
+15/09 
+Preparação de materiais e atualização sobre carreiras e 
+metodologias de recrutamento 
+Escolher um item. 
+nn 
+☐  
+☐  
+16/03 
+16/09 
+16/04 
+16/10 
+Workshop sobre Marketing Pesoal 
+Escolher um item. 
+nn 
+☐  
+☐  
+20/04 
+20/10 
+20/04 
+20/10 
+Workshop sobre Entrevistas  
+Escolher um item. 
+nn 
+☐  
+☐  
+03/05 
+30/10 
+03/05 
+30/10 
+Plantão de dúvidas 
+Escolher um item. 
+nn 
+☐  
+☐  
+04/05  
+01/11 
+01/07 
+30/11 
+Relatório final 
+Escolher um item. 
+nn 
+☐  
+☐  
+01/08 
+02/02 
+15/08 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+ 
+ 
+Anexo 1 – Lista de aquisições necessárias aos projetos – 
+Materiais Permanentes  
+ 
+Item 
+Projeto (XYY) 
+Denominação ou especificação do equipamento 
+Quant. 
+Preço total estimado 
+(R$) 
+               
+1  
+201 
+ Armazenamento SSD 480  
+100 
+                     
+22.000,00  
+               
+2  
+203 
+ Kit de conectores de óptica   
+4 
+                     
+1.200,00  
+               
+3  
+203 
+ Certificador de rede   
+1 
+                     
+1.800,00  
+               
+4  
+205 
+ Kit de sistemas embarcados  
+8 
+                     
+2.400,00  
+               
+5  
+203 
+ Roteador  
+10 
+                     
+25.000,00  
+               
+6  
+203 
+ Roteador Wireless  
+10 
+                     
+5.000,00  
+               
+7  
+202 
+ Rotulador   
+2 
+                     
+600,00  
+               
+8  
+203 
+ Telefone IP  
+8 
+                     
+2.400,00  
+               
+9  
+202 
+ Cabo Patch   
+40 
+                     
+800,00  
+               
+10  
+204 
+ Nobreak   
+2 
+                     
+8.000,00  
+               
+11  
+202 
+ Rack 19 8U  
+11 
+                     
+4.400,00  
+               
+12  
+203 
+ Switch 24 não gerencial   
+9 
+                     
+19.800,00  
+               
+13  
+204 
+ Servidor Rede  
+2 
+                     
+22.000,00  
+               
+14  
+205 
+ Kit Arduíno   
+80 
+                     
+8.000,00  
+               
+15  
+205 
+ Note padrão CPA  
+40 
+                     
+91.000,00  
+               
+16  
+203 
+ Mini drone   
+1 
+                     
+3.500,00  
+               
+17  
+ 
+106,108,111,11
+2,114,116, 
+121,601 e 603  
+ Caixa de som AMP  
+3 
+                     
+659,98  
+               
+18  
+202 
+ Switch acesso 24 portas  
+11 
+                     
+24.200,00  
+               
+19  
+204 
+ Servidor Aplicação  
+2 
+                     
+34.000,00  
+               
+20  
+203 
+ Firewall S  
+2 
+                     
+12.000,00  
+               
+21  
+202 
+ Access Point   
+5 
+                     
+1.200,00  
+               
+22  
+202 
+ Switch Core 48 portas   
+2 
+                     
+12.000,00  
+               
+23  
+503 
+ Ventilador 110V parede   
+24 
+                     
+5.517,60  
+               
+24  
+503 
+ Ventilador 110V coluna  
+3 
+                     
+690,00  
+               
+25  
+205 
+ Note Plus Padrão CPS  
+40 
+                     
+91.000,00  
+               
+26  
+205 
+ Cadeiras Fixas   
+160 
+                     
+17.417,60  
+               
+27  
+106,108,111,11
+2,114,116, 
+121,601 e 603 
+ Microfone sem fio    
+6 
+                     
+288,80  
+               
+28  
+502 
+ Microondas 110  
+3 
+                     
+1.200,00  
+               
+29  
+206 
+ Caixa Cabos Categoria 6  
+8 
+                     
+6.400,00  
+               
+30  
+206 
+ Caixa Cabos Categoria 6a  
+2 
+                     
+6.000,00  
+               
+31  
+104,106,108,11
+3,114,115,118,
+119 
+ Púlpito, acrílico, 10mm, 1200mm, 01 prateleira  
+2 
+                     
+3.180,00  
+               
+32  
+503 
+ Serviço terceirizado de manutenção e conservação de jardins em área 
+plana. Serviço terceirizado de manutenção e conservação de jardins em área 
+talude  
+2 
+                     
+3.000,00  
+               
+33  
+501 
+ Conjunto teclado ABNT2 e Mouse Optico com fio  
+20 
+678,00 
+               
+34  
+501 
+ Suporte para notebook  
+20 
+                     
+798,00  
+               
+35  
+501 
+ Sistema de Alarme Anti-furto  
+4 
+                     
+1.616,00  
+               
+36  
+501 
+ Fita de Detecção Magnética 165x2,67  
+3000 
+                     
+111.000,00  
+               
+37  
+501 
+ Desativador e Reativador Eletrônico para biblioteca  
+2 
+                     
+734,00  
+               
+38  
+108 
+ SISCOMEX – Software para simulação nas aulas de Comércio Exterior  
+20 
+                     
+2.964,00  
+               
+39  
+501 
+ Microcomputador Desktop Plus Educacional 14300 Pontos Passmark  
+60 
+                     
+71.400,00  
+               
+40  
+501 
+ Notebook Plus Educacional 6900 Pontos Passmark CPU Mark  
+50 
+                     
+140.203,35  
+               
+41  
+501 
+ Condicionador de Ar, Split, 24000 BTU/H, Frio, 220v  
+5 
+                     
+13.899,50  
+               
+42  
+101, 102 
+ Multifuncional (A4/PB  
+4 
+                     
+6.000,00  
+               
+43  
+501 
+ Multifuncional Impressora, copiadora, scanner, color, 33PPM, 15PPM (Color 
+A4 tinta)  
+2 
+                     
+3.542,00  
+               
+44  
+125, 501 
+ Multifuncional Impressora, copiadora, scanner laser color 25PPM (Laser 
+color A3)  
+2 
+                     
+8.800,22  
+               
+45  
+504 
+ Câmeras de segurança  
+50 
+                     
+4.282,50  
+               
+46  
+504 
+ Cabeamento para monitoramento das câmeras  
+  
+                     
+300,00  
+               
+47  
+201,203 
+ Storage de Discos  
+2 
+                     
+19.932,62  
+               
+48  
+201, 203 
+ Ponto de acesso remoto  
+8 
+                     
+3.063,20  
+               
+49  
+201, 203 
+ Disjuntor Termomagnetico Bipolar Din 35mm 50a  
+5 
+                     
+314,50  
+               
+50  
+201,205 
+ Disjuntor Termomagnetico Bipolar 15a 5ka 220v  
+10 
+                     
+598,30  
+               
+51  
+201, 203 
+ Conector Rj-45 Cat-6 Macho  
+1000 
+                     
+272,90  
+               
+52  
+201, 203 
+ Conector Jack Rj-45 Femea Categoria 6  
+250 
+                     
+8.812,50  
+               
+53  
+201, 203 
+ Fio Elétrico, Cobre Flexível, 1,5mm2, Preto  
+5 (rolo 
+100m) 
+                     
+559,95  
+               
+54  
+201, 203 
+ Filtro de Linha 110/220v 8 Tomadas C/chave Liga e Desliga Cabo 1,5m  
+12 
+                     
+598,80  
+               
+55  
+501 
+ Maçanetas para porta  
+50 
+                     
+1.495,00  
+               
+56  
+1013 
+ Console Microsoft Xbox Series X  
+1 
+                     
+4.500,00  
+               
+57  
+1013 
+ Controles Sem Fio - Preto - Xbox One  
+4 
+                     
+1.600,00  
+               
+58  
+1013 
+ Volante Logitech G920 Driving Force para Xbox Series X|S, Xbox One e PC  
+1 
+                     
+1.800,00  
+               
+59  
+1013 
+ Consoles Nintendo Switch - Modelo OLED  
+2 
+                     
+5.200,00  
+               
+60  
+1013 
+ Controles Nintendo Switch™ Pro  
+4 
+                     
+1.480,00  
+               
+61  
+1013 
+ HyperX ChargePlay Quad - Carregador para Joy-Con  
+1 
+                     
+170,00  
+               
+62  
+1013 
+ Nintendo Switch Mario Kart Racing Wheel Pro Deluxe By HORI  
+1 
+                     
+850,00  
+               
+63  
+1013 
+ Console Sony PlayStation 5 Pro  
+1 
+                     
+6.300,00  
+               
+64  
+1013 
+ PlayStation DualSense Controle sem fio  
+4 
+                     
+2.040,00  
+               
+65  
+1013 
+ Base De Carregamento Do Dualsense  
+1 
+                     
+200,00  
+               
+66  
+1013 
+ Console TecToy Master System Evolution  
+1 
+                     
+420,00  
+               
+67  
+1013 
+ Console TecToy Atari Flashback X  
+1 
+                     
+550,00  
+               
+68  
+1013 
+ Volante Logitech G923 Trueforce para PlayStation  
+1 
+                     
+2.700,00  
+               
+69  
+1013 
+ Óculos VR Realidade Virtual 3D Com Fone De Ouvido E Controle Suporte 
+para Celular 4.0-6.53''  
+2 
+                     
+600,00  
+               
+70  
+1013 
+ Mesas Digitalizadoras Wacom CTL4100  
+21 
+                     
+8.400,00  
+               
+71  
+1013 
+ Assassin's Creed - Syndicate  
+1 
+                     
+90,00  
+               
+72  
+1013 
+ Battlefield 2042  
+1 
+                     
+339,00  
+               
+73  
+1013 
+ Cyberpunk 2077  
+1 
+                     
+249,00  
+               
+74  
+1013 
+ Forza Horizon 5  
+1 
+                     
+250,00  
+               
+75  
+1013 
+ Gears of War 5  
+1 
+                     
+150,00  
+               
+76  
+1013 
+ Halo Infinite  
+1 
+                     
+160,00  
+               
+77  
+1013 
+ Minecraft  
+1 
+                     
+80,00  
+               
+78  
+1013 
+ Red Dead Redemption 2  
+1 
+                     
+250,00  
+               
+79  
+1013 
+ Sid Meier's Civilization VI  
+1 
+                     
+150,00  
+               
+80  
+1013 
+ Tony Hawk's Pro Skater 5  
+1 
+                     
+250,00  
+               
+81  
+1013 
+ Control: Ultimate Edition  
+1 
+                     
+280,00  
+               
+82  
+1013 
+ Days Gone  
+1 
+                     
+250,00  
+               
+83  
+1013 
+ Final Fantasy XVI  
+1 
+                     
+250,00  
+               
+84  
+1013 
+ God of War Ragnarök  
+1 
+                     
+350,00  
+               
+85  
+1013 
+ Gran Turismo 7  
+1 
+                     
+350,00  
+               
+86  
+1013 
+ Horizon Zero Dawn  
+1 
+                     
+200,00  
+               
+87  
+1013 
+ Resident Evil 4  
+1 
+                     
+200,00  
+               
+88  
+1013 
+ The Last Of Us Part 2  
+1 
+                     
+250,00  
+               
+89  
+1013 
+ Uncharted 4: A Thief's End  
+1 
+                     
+250,00  
+               
+90  
+1013 
+ Cuphead  
+1 
+                     
+350,00  
+               
+91  
+1013 
+ Fire Emblem: Three Houses  
+1 
+                     
+350,00  
+               
+92  
+1013 
+ Mario Kart 8 Deluxe  
+1 
+                     
+350,00  
+               
+93  
+1013 
+ Metroid Dread  
+1 
+                     
+350,00  
+               
+94  
+1013 
+ Monster Hunter Rise + Sunbreak  
+1 
+                     
+280,00  
+               
+95  
+1013 
+ Pikmin 4  
+1 
+                     
+350,00  
+               
+96  
+1013 
+ Super Mario Maker 2  
+1 
+                     
+350,00  
+               
+97  
+1013 
+ Super Smash Bros. Ultimate  
+1 
+                     
+350,00  
+               
+98  
+1013 
+ The Legend Of Zelda: Breath of The Wild  
+1 
+                     
+350,00  
+               
+99  
+206 
+Notebooks: processador 64 bits (AMD Ryzen 5 ou Intel Core i5 ou superior), 
+com memória RAM de no mínimo 16 GBytes, com comunicação por interface 
+Wireless, interface de rede Ethernet e interface Bluetooth e armazenamento 
+interno padrão SSD Sata com capacidade mínima de 512 GBytes. LAB 1 
+21 
+                     
+73.500,00  
+               
+100  
+207 
+Notebooks: processador 64 bits (AMD Ryzen 5 ou Intel Core i5 ou superior), 
+com memória RAM de no mínimo 16 GBytes, com comunicação por interface 
+Wireless, interface de rede Ethernet e interface Bluetooth e armazenamento 
+interno padrão SSD Sata com capacidade mínima de 512 GBytes. LAB 2 
+21 
+                     
+73.500,00  
+               
+101  
+208 
+Notebooks: processador 64 bits (AMD Ryzen 5 ou Intel Core i5 ou superior), 
+com memória RAM de no mínimo 16 GBytes, com comunicação por interface 
+Wireless, interface de rede Ethernet e interface Bluetooth e armazenamento 
+interno padrão SSD Sata com capacidade mínima de 512 GBytes. LAB 3 
+21 
+                     
+73.500,00  
+               
+102  
+209 
+Notebooks: processador 64 bits (AMD Ryzen 5 ou Intel Core i5 ou superior), 
+com memória RAM de no mínimo 16 GBytes, com comunicação por interface 
+Wireless, interface de rede Ethernet e interface Bluetooth e armazenamento 
+interno padrão SSD Sata com capacidade mínima de 512 GBytes. LAB 4 
+21 
+                     
+73.500,00  
+               
+103  
+210 
+Notebooks: processador 64 bits (AMD Ryzen 5 ou Intel Core i5 ou superior), 
+com memória RAM de no mínimo 16 GBytes, com comunicação por interface 
+Wireless, interface de rede Ethernet e interface Bluetooth e armazenamento 
+interno padrão SSD Sata com capacidade mínima de 512 GBytes. LAB 
+REDES 
+21 
+                     
+73.500,00  
+TOTAL 
+                                        
+1.250.257,32  
+ 
+ 
+ 
+ 
+ 
+ 
+Anexo 2 – Lista de aquisições de necessárias aos projetos – 
+Materiais de Consumo  
+Item 
+Projeto 
+(XYY) 
+Denominação 
+(O que será feito) 
+Prazo 
+01 
+102 
+English Hub 
+20/12/2026 
+02 
+104 
+Nivelamento Matemática 
+10/12/2026 
+03 
+105 
+Atualização PPC Segurança da Informação 
+20/11/2026 
+04 
+106 
+Security Day 
+20/10/2026 
+05 
+108 
+Encomex 
+03/11/2026 
+06 
+110 
+Atendimento Psicopedagógico 
+31/12/2026 
+07 
+112 
+Global Game Jam 2026 
+02/02/2026 
+08 
+113 
+Voluntariado para os cursos de Análise e Desenvolvimento de Sistemas, Comércio 
+Exterior, Jogos Digitais, Segurança da Informação, Gestão Empresarial 
+20/12/2026 
+09 
+116 
+Ciclo de Conhecimentos Gerais – ADS, A.M.S., Comex 
+15/12/2026 
+10 
+123 
+Catch the flag 
+21/12/2026 
+11 
+303 
+Programa Institucional de Iniciação Científica (PCITec) 
+08/12/2026 
+12 
+402 
+Rede de Tecnologia de Fatecs do ABC 
+15/12/2026 
+13 
+403 
+Novas Parcerias 
+15/12/2026 
+14 
+601 
+Realizar palestras e workshops sobre relacionamento interpessoal aos servidores 
+técnico – administrativos 
+30/11/2026 
+15 
+603 
+Minuto Fatec 
+20/12/2026 
+16 
+704 
+Parceria Escola de Psicologia da USCS 
+20/12/2026 
+17 
+705 
+Parceria Easy Cargo 
+20/12/2026 
+18 
+708 
+Parcerias Treinamento e Desenvolvimento – Empresas do Setor de 
+Desenvolvimento de Software/Sistemas 
+ 
+15/12/2026 
+19 
+709 
+Parcerias Treinamento e Desenvolvimento – Empresas do Setor de 
+Desenvolvimento de Software/Sistemas 
+ 
+15/12/2026 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Anexo 3 – Lista de aquisições necessárias aos projetos  - 
+Reagentes Químicos 
+ 
+ 
+Item 
+Projeto 
+(XYY) 
+Denominação ou especificação do reagente 
+Quant. 
+Preço total 
+estimado 
+(R$) 
+01 
+nnn 
+nnn 
+nn 
+0 
+02 
+nnn 
+nnn 
+nn 
+0 
+03 
+nnn 
+nnn 
+nn 
+0 
+04 
+nnn 
+nnn 
+nn 
+0 
+05 
+nnn 
+nnn 
+nn 
+0 
+06 
+nnn 
+nnn 
+nn 
+0 
+07 
+nnn 
+nnn 
+nn 
+0 
+08 
+nnn 
+nnn 
+nn 
+0 
+09 
+nnn 
+nnn 
+nn 
+0 
+10 
+nnn 
+nnn 
+nn 
+0 
+11 
+nnn 
+nnn 
+nn 
+0 
+12 
+nnn 
+nnn 
+nn 
+0 
+13 
+nnn 
+nnn 
+nn 
+0 
+14 
+nnn 
+nnn 
+nn 
+0 
+15 
+nnn 
+nnn 
+nn 
+0 
+16 
+nnn 
+nnn 
+nn 
+0 
+17 
+nnn 
+nnn 
+nn 
+0 
+18 
+nnn 
+nnn 
+nn 
+0 
+19 
+nnn 
+nnn 
+nn 
+0 
+20 
+nnn 
+nnn 
+nn 
+0 
+ 
+ 
+Total geral 
+0 
+ 
+ 
+ 
+Anexo 4 – Lista de aquisições de necessárias aos projetos - 
+Livros  
+ 
+Item 
+Projeto 
+(XYY) 
+Descrição do material livro 
+Quant. 
+Preço total 
+estimado 
+(R$) 
+01 
+nnn 
+nnn 
+nn 
+0 
+02 
+nnn 
+nnn 
+nn 
+0 
+03 
+nnn 
+nnn 
+nn 
+0 
+04 
+nnn 
+nnn 
+nn 
+0 
+05 
+nnn 
+nnn 
+nn 
+0 
+06 
+nnn 
+nnn 
+nn 
+0 
+07 
+nnn 
+nnn 
+nn 
+0 
+08 
+nnn 
+nnn 
+nn 
+0 
+09 
+nnn 
+nnn 
+nn 
+0 
+10 
+nnn 
+nnn 
+nn 
+0 
+11 
+nnn 
+nnn 
+nn 
+0 
+12 
+nnn 
+nnn 
+nn 
+0 
+13 
+nnn 
+nnn 
+nn 
+0 
+14 
+nnn 
+nnn 
+nn 
+0 
+15 
+nnn 
+nnn 
+nn 
+0 
+16 
+nnn 
+nnn 
+nn 
+0 
+17 
+nnn 
+nnn 
+nn 
+0 
+18 
+nnn 
+nnn 
+nn 
+0 
+19 
+nnn 
+nnn 
+nn 
+0 
+20 
+nnn 
+nnn 
+nn 
+0 
+ 
+ 
+Total geral 
+0 
+ 
+ 
+ 
+Anexo 5 – Lista de aquisições de necessárias aos projetos - 
+Softwares  
+ 
+Item 
+Projeto 
+(XYY) 
+Descrição do software 
+Quant. 
+Preço total 
+estimado 
+(R$) 
+01 
+nnn 
+nnn 
+nn 
+0 
+02 
+nnn 
+nnn 
+nn 
+0 
+03 
+nnn 
+nnn 
+nn 
+0 
+04 
+nnn 
+nnn 
+nn 
+0 
+05 
+nnn 
+nnn 
+nn 
+0 
+06 
+nnn 
+nnn 
+nn 
+0 
+07 
+nnn 
+nnn 
+nn 
+0 
+08 
+nnn 
+nnn 
+nn 
+0 
+09 
+nnn 
+nnn 
+nn 
+0 
+10 
+nnn 
+nnn 
+nn 
+0 
+11 
+nnn 
+nnn 
+nn 
+0 
+12 
+nnn 
+nnn 
+nn 
+0 
+13 
+nnn 
+nnn 
+nn 
+0 
+14 
+nnn 
+nnn 
+nn 
+0 
+15 
+nnn 
+nnn 
+nn 
+0 
+16 
+nnn 
+nnn 
+nn 
+0 
+17 
+nnn 
+nnn 
+nn 
+0 
+18 
+nnn 
+nnn 
+nn 
+0 
+19 
+nnn 
+nnn 
+nn 
+0 
+20 
+nnn 
+nnn 
+nn 
+0 
+ 
+ 
+Total geral 
+0 
+ 
+ 
+ 
+Anexo 6  – Lista de Ações/Projetos referentes à CPA 
+ 
+Item 
+Projeto 
+(XYY) 
+Denominação 
+(O que será feito) 
+Prazo 
+01 
+102 
+English Hub 
+20/12/2026 
+02 
+104 
+Nivelamento Matemática 
+10/12/2026 
+03 
+105 
+Atualização PPC Segurança da Informação 
+20/11/2026 
+04 
+106 
+Security Day 
+20/10/2026 
+05 
+108 
+Encomex 
+03/11/2026 
+06 
+110 
+Atendimento Psicopedagógico 
+31/12/2026 
+07 
+112 
+Global Game Jam 2026 
+02/02/2026 
+08 
+113 
+Voluntariado para os cursos de Análise e Desenvolvimento de Sistemas, Comércio 
+Exterior, Jogos Digitais, Segurança da Informação, Gestão Empresarial 
+20/12/2026 
+09 
+116 
+Ciclo de Conhecimentos Gerais – ADS, A.M.S., Comex 
+15/12/2026 
+10 
+123 
+Catch the flag 
+21/12/2026 
+11 
+303 
+Programa Institucional de Iniciação Científica (PCITec) 
+08/12/2026 
+12 
+402 
+Rede de Tecnologia de Fatecs do ABC 
+15/12/2026 
+13 
+403 
+Novas Parcerias 
+15/12/2026 
+14 
+601 
+Realizar palestras e workshops sobre relacionamento interpessoal aos servidores 
+técnico – administrativos 
+30/11/2026 
+15 
+603 
+Minuto Fatec 
+20/12/2026 
+17 
+705 
+Parceria Easy Cargo 
+20/12/2026 
+18 
+708 
+Parcerias Treinamento e Desenvolvimento – Empresas do Setor de 
+Desenvolvimento de Software/Sistemas 
+ 
+15/12/2026 
+19 
+709 
+Parcerias Treinamento e Desenvolvimento – Empresas do Setor de 
+Desenvolvimento de Software/Sistemas 
+ 
+15/12/2026 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<fim> 
+ 
+ 

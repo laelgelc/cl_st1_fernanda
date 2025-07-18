@@ -1,0 +1,5406 @@
+                      
+ 
+__________________________________________________________________________ 
+Administração Central 
+Unidade do Ensino Superior de Graduação 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+São Caetano do Sul  
+2024 
+FATEC:  168 -Fatec São Caetano do 
+Sul - R-06 
+RELATÓRIO DE AUTOAVALIAÇÃO 
+INSTITUCIONAL 2024 
+                      
+ 
+__________________________________________________________________________ 
+Administração Central 
+Unidade do Ensino Superior de Graduação 
+2 
+ 
+Direção / Coordenação de Cursos 
+ 
+Direção Geral 
+ 
+Prof. Dra. Adriane Monteiro 
+Fontana 
+Coordenador do Curso de Graduação Tecnológica em 
+Segurança da Informação 
+ 
+Prof. Me. Mário Eugênio Longato 
+Coordenador do Curso de Graduação Tecnológica em 
+Análise e Desenvolvimento de Sistemas 
+ 
+Prof. Me. Cesar Torres Fernandes 
+Coordenador do Curso de Graduação Tecnológica em 
+Jogos Digitais 
+Prof. Me. Alan Henrique Pardo de 
+Carvalho 
+ 
+Orientadora de Polo do Curso de Graduação 
+Tecnológica em Gestão Empresarial 
+Profa. Me. Aletéia Vanessa 
+Moreira Souto 
+ 
+Coordenador do Curso de Graduação Tecnológica em 
+Comercio Exterior 
+Prof. Me. Rafael Leal de Araújo 
+Coordenadora do Curso de Graduação Tecnológica em 
+Análise e Desenvolvimento de Sistemas - AMS 
+ 
+Profa. Nilza Aparecida dos 
+Santos 
+ 
+ 
+Presidente da CPA 
+Prof. Me. Claudemir Martins da 
+Silva 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                      
+ 
+__________________________________________________________________________ 
+Administração Central 
+Unidade do Ensino Superior de Graduação 
+3 
+ 
+Comissão Própria de Avaliação – CPA 
+ 
+ 
+Representante docente (Presidente) 
+ 
+Prof. Me. Claudemir Martins da 
+Silva 
+Representante discente 
+Gentil Alves Pessoa Neto 
+ 
+Representante do corpo técnico administrativo 
+ 
+Alexandre Silva dos Santos 
+ 
+Representante da Sociedade Civil 
+ 
+Fernando Trincado, vinculado à 
+Ouvidoria do Município de São 
+Caetano do Sul 
+Representante da administração Central - CESU/DGE 
+Profa. Fernanda Peixoto Coelho  
+ 
+ 
+ 
+ 
+                      
+ 
+__________________________________________________________________________ 
+Administração Central 
+Unidade do Ensino Superior de Graduação 
+4 
+ 
+SUMÁRIO 
+ 
+ 
+I Identificação da FATEC: .................................................................................... 06 
+II Atos Regulatório ............................................................................................. 07 
+III Composição da Comissão Própria de Avaliação (CPA) ..................................... 08 
+ 
+1  INTRODUÇÃO ................................................................................................. 09 
+2  METODOLOGIA .............................................................................................. 20 
+2.1 Cronograma de atividades da CPA ................................................................ 21 
+2.2 Sensibilização ............................................................................................... 22 
+2.3 Sujeitos da avaliação .................................................................................... 24 
+2.4 Instrumentos de coleta ................................................................................. 25 
+2.5 Procedimentos para a coleta ........................................................................ 26 
+2.6 Análise e discussão dos dados da coleta ........................................................ 26 
+2.7. Elaboração do Quadro Comparativo para análise dos resultados das avaliações 
+parciais de 2022 e 2023 e análise global..............................................………….….…...26 
+        2.8 Organização das medidas para a composição do relatório……………….…….....26 
+        2.9 Devolutiva dos resultados para os segmentos…………………………….…….……... 27 
+3 DESENVOLVIMENTO ........................................................................................ 28 
+3.1 Eixo 1: Planejamento e Avaliação Institucional .............................................. 28 
+3.2 Eixo 2: Desenvolvimento Institucional .......................................................... 32 
+3.3 Eixo 3: Políticas Acadêmicas ......................................................................... 42 
+3.4 Eixo 4: Políticas de Gestão ............................................................................ 59 
+3.5 Eixo 5: Infraestrutura Física .......................................................................... 66 
+4 QUADRO PARA A ANÁLISE COMPARATIVA DOS RELATÓRIOS PARCIAIS 2022 / 
+2023 E ANÁLISE GLOBAL ..................................................................................... 70 
+EIXO 1: PLANEJAMENTO E AVALIAÇÃO INSTITUCIONAL………………………………..….…70 
+EIXO 2: DESENVOLVIMENTO INSTITUCIONAL………………………………………………..…….72 
+EIXO 3: POLÍTICAS ACADÊMICAS………………………………………………………………..……….75 
+EIXO 4: POLÍTICAS DE GESTÃO………………………………………………………………….……..….78 
+EIXO 5: INFRAESTRUTURA …………………………………………………………………………..………81 
+                      
+ 
+__________________________________________________________________________ 
+Administração Central 
+Unidade do Ensino Superior de Graduação 
+5 
+ 
+ 
+5. ANÁLISE DOS DADOS DE 2024 E AÇÕES PROPOSTAS………………………..…………..…..84 
+EIXO 1: PLANEJAMENTO E AVALIAÇÃO INSTITUCIONAL………………………...….………84 
+EIXO 2: DESENVOLVIMENTO INSTITUCIONAL……………………………………….…….….….85 
+EIXO 3: POLÍTICAS ACADÊMICAS………………………………………………………….…..……….87 
+EIXO 4: POLÍTICAS DE GESTÃO…………………………………………………………….…..……….88 
+EIXO 5: INFRAESTRUTURA ………………………………………………………………………..………89 
+ 
+4 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2024/INTEGRAL 
+I. Identificação da FATEC São Caetano do Sul – Antonio Russo 
+Dados da unidade 
+Fatec:  168 -Fatec São Caetano do Sul - R-06 
+Razão social: FACULDADE DE TECNOLOGIA ANTONIO RUSSO 
+Endereço:  Rua Bell Aliance, 225 - Jd. São Caetano - São Caetano do Sul - SP 
+ 
+Direção da Unidade 
+Diretor: Profa. Dra. Adriane Monteiro Fontana 
+ 
+Coordenação de Curso 
+CST em Segurança da Informação: Prof. Me. Mário Eugênio Longato 
+CST em Jogos Digitais: Prof. Me. Alan Henrique Pardo de Carvalho 
+CST em Análise e Desenvolvimento de Sistemas: Prof. Me. Cesar Torres Fernandes 
+CST em Gestão Empresarial (EAD): Profa. Me. Aletéia Vanessa Moreira Souto 
+CST em Comércio Exterior: Prof. Me. Rafael Leal de Araújo 
+CST em Análise e Desenvolvimento de Sistemas – A M S: Profa. Nilza Aparecida dos Santos 
+ 
+Direção de Serviços 
+Diretor de Serviços Acadêmicos: Paula Daniela da Silva Monciatti 
+Diretor de Serviços Administrativos: Márcia Gorete da Silva 
+ 
+5 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2024/INTEGRAL 
+ 
+II. ATOS REGULATÓRIOS 
+ 
+Decreto de criação: Decreto 52060, de 15/08/2007, Lei 15814, de 23/04/2015 
+ 
+ATOS LEGAIS REFERENTES AOS CURSOS 
+ 
+CST em Segurança da Informação 
+Data 
+Tipo 
+Portaria CEE/GP 
+Parecer CD (p/ reestruturação) 
+Ano no formato 2020 / 1º 
+Sem. 
+Atualização 
+Portaria CEE-GP nº 94 de 28/02/2020, publicado no DOE 
+de 29/02/2020 
+ 
+CST em Jogos Digitais 
+Data 
+Tipo 
+Portaria CEE/GP 
+Parecer CD (p/ reestruturação) 
+Ano no formato 2022 / 2º 
+Sem. 
+Atualização 
+Portaria CEE-GP 540 de 07/12/2022, publicado no DOE 
+de 08/12/2022 
+ 
+CST em Análise e Desenvolvimento de Sistemas 
+Data 
+Tipo 
+Portaria CEE/GP 
+Parecer CD (p/ reestruturação) 
+Ano no formato 2020 / 1º 
+Sem. 
+Atualização 
+Curso reconhecido pela Portaria CEE/GP nº 11 de 
+13/01/2020, publicado no DOE de 14/01/2020 
+ 
+CST em Gestão Empresarial (EAD) 
+Data 
+Tipo 
+Portaria CEE/GP 
+Parecer CD (p/ reestruturação) 
+Ano no formato 2020 / 1º 
+Sem. 
+Atualização 
+Curso reconhecido pela Portaria CEE-GP 101 de 
+02/03/2020, publicado no DOE de 03/03/2020 e 
+retificadsa em 04/03/2020 
+ 
+CST em Comércio Exterior 
+Data 
+Tipo 
+Portaria CEE/GP 
+Parecer CD (p/ reestruturação) 
+Ano no formato 2022 / 2º 
+Sem. 
+Atualização 
+Curso reconhecido pela Portaria CEE-GP 317 de 
+07/07/2022, publicado no DOE de 08/07/2022 
+ 
+CST em Análise e Desenvolvimento de Sistemas – A M S 
+Data 
+Tipo 
+Portaria CEE/GP 
+Parecer CD (p/ reestruturação) 
+Ano no formato 2021 / 2º 
+Sem. 
+Implantação 
+CD - 81/2021 - Processo CEETEPS nº 2021/04120, 
+publicado em DOE em 19/10/2021 
+ 
+ 
+6 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2024/INTEGRAL 
+III. COMPOSIÇÃO DA COMISSÃO PRÓPRIA DE AVALIAÇÃO (CPA)  
+A Comissão Própria de Avaliação da FATEC São Caetano foi instituída pela Portaria nº 
+20/2024, de 06 de Março de 2024, com mandato até 06/03/2027, conforme ata da 
+Congregação (Anexo – ATAs de Aprovação dos membros da CPA, registro de alterações e 
+reuniões da CPA).  
+ 
+7 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2024/INTEGRAL 
+ 
+1. INTRODUÇÃO  
+ 
+A Fatec São Caetano possui a avaliação institucional como efetivo instrumento de 
+gestão. Por meio da avaliação tem-se condições de reunir apontamentos capazes de suscitar 
+análises e discussões possibilitando definir planos de melhorias de forma continuada. 
+A Lei 10.861/2014, que define o Sistema Nacional de Avaliação da Educação Superior 
+(SINAES), estabelece, em seu Artigo 3º, que a avaliação institucional tem por objetivo 
+identificar o perfil da IES e o significado de sua atuação, por meio de suas atividades, cursos, 
+programas, projetos e setores, considerando as diferentes dimensões institucionais, 
+consolidadas em cinco eixos, sempre objetivando evidenciar os referenciais mínimos de 
+qualidade exigidos pela excelência de ensino que é um dos pilares da pratica de todas as 
+faculdades de tecnologias do Estado de São Paulo vinculadas ao Centro Paula Souza. 
+Por meio do desenvolvimento do presente relatório, serão apresentados os dados e 
+as informações referentes aos eixos, dimensões e indicadores em consonância com o Plano 
+de Desenvolvimento Institucional (PDI) da Fatec e em consonância com as diretrizes 
+emanadas do Centro Paula Souza.  
+ 
+Alunos Matriculados (apenas os alunos que estejam CURSANDO) 
+(referência - fevereiro do ano vigente) 
+Curso 
+Número de 
+Alunos 
+Análise e Desenvolvimento de Sistemas 
+383 
+Segurança da Informação 
+365 
+Análise e Desenvolvimento de Sistemas – A M S 
+57 
+Comércio Exterior 
+128 
+Gestão Empresarial (EAD) 
+87 
+Jogos Digitais 
+205 
+TOTAL 
+1225 
+ 
+8 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2024/INTEGRAL 
+ 
+Detalhamento do corpo docente da Unidade de Ensino  
+ 
+Nome 
+Matrícul
+a 
+Cód. UE sede 
+Titulação* 
+Referência 
+Experiência Profissional 
+Curriculum Lattes 
+(URL) 
+Docência 
+(anos) 
+Não 
+docência 
+(anos) 
+1 
+Ademir Lamenza 
+ 
+ 
+D 
+ 
+ 
+ 
+http://lattes.cnpq.
+br/680054840902
+4189  
+2 
+Adilson Ferreira da Silva 
+47700 
+168 -Fatec São 
+Caetano do Sul - 
+R-06 
+D 
+IIIF 
+Em 
+atualização 
+Em 
+atualização 
+http://lattes.cnpq.
+br/746346134851
+1414 
+3 
+Adriane Monteiro 
+Fontana 
+13396 
+168 -Fatec São 
+Caetano do Sul - 
+R-06 
+D 
+III I 
+Em 
+atualização 
+Em 
+atualização 
+http://lattes.cnpq.
+br/585175912190
+3042 
+4 
+Alan Henrique Pardo de 
+Carvalho 
+24890 
+168 -Fatec São 
+Caetano do Sul - 
+R-06 
+M 
+IIH 
+Em 
+atualização 
+Em 
+atualização 
+http://lattes.cnpq.
+br/262371954677
+0931 
+5 
+Aletéia Vanessa Moreira 
+Souto 
+20249 
+168 -Fatec São 
+Caetano do Sul - 
+R-06 
+M 
+IIH 
+Em 
+atualização 
+Em 
+atualização 
+http://lattes.cnpq.
+br/566391103842
+3571 
+6 
+Alexandre Santaella 
+Braga 
+51964 
+168 -Fatec São 
+Caetano do Sul - 
+R-06 
+D 
+IIID 
+Em 
+atualização 
+Em 
+atualização 
+http://lattes.cnpq.
+br/262012342298
+0018 
+7 
+Aline Correia de Sousa 
+Colantuono 
+38244 
+204-Fatec 
+Ipiranga - R-06 
+D 
+IIH 
+Em 
+atualização 
+Em 
+atualização 
+http://lattes.cnpq.
+br/035085698643
+7505 
+8 
+Andrea Zotovici 
+37673 
+111-Fatec Zona 
+Leste - R-04 
+M 
+IIG 
+Em 
+atualização 
+Em 
+atualização 
+http://lattes.cnpq.
+br/674800900581
+2163 
+9 
+Angelo Machado de 
+Souza  
+ 
+ 
+E 
+ 
+ 
+ 
+http://lattes.cnpq.
+br/670428533308
+4724  
+10 
+Antonio Carlos Estender  
+ 
+ 
+D 
+ 
+ 
+ 
+http://lattes.cnpq.
+br/490202009823
+2180  
+11 
+Antonio Carlos Gracias 
+56436 
+113-Fatec Mauá 
+- R-06 
+D 
+IIID 
+Em 
+atualização 
+Em 
+atualização 
+http://lattes.cnpq.
+br/431382317244
+5184 
+12 
+Carlos Alberto Vaz  
+ 
+ 
+E 
+ 
+ 
+ 
+http://lattes.cnpq.
+br/053283350409
+6453  
+13 
+Carlos Henrique 
+Verissimo Pereira 
+70517 
+168 -Fatec São 
+Caetano do Sul - 
+R-06 
+M 
+IA 
+Em 
+atualização 
+Em 
+atualização 
+http://lattes.cnpq.
+br/633544274976
+3160 
+14 
+Carlos Ronny de Sousa 
+76572 
+168 -Fatec São 
+Caetano do Sul - 
+R-06 
+E 
+IA 
+Em 
+atualização 
+Em 
+atualização 
+http://lattes.cnpq.
+br/608422214201
+9 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2024/INTEGRAL 
+ 
+Nome 
+Matrícul
+a 
+Cód. UE sede 
+Titulação* 
+Referência 
+Experiência Profissional 
+Curriculum Lattes 
+(URL) 
+Docência 
+(anos) 
+Não 
+docência 
+(anos) 
+2985 
+15 
+Celso Denis Gallão 
+47708 
+168 -Fatec São 
+Caetano do Sul - 
+R-06 
+D 
+IIIF 
+Em 
+atualização 
+Em 
+atualização 
+http://lattes.cnpq.
+br/595283537896
+2822 
+16 
+Cesar Torres Fernandes 
+23987 
+126 -Fatec São 
+Bernardo do 
+Campo - R-06 
+M 
+IIG 
+Em 
+atualização 
+Em 
+atualização 
+http://lattes.cnpq.
+br/366991460114
+8390 
+17 
+Claudemir Martins da 
+Silva 
+23990 
+126 -Fatec São 
+Bernardo do 
+Campo - R-06 
+M 
+IIH 
+Em 
+atualização 
+Em 
+atualização 
+http://lattes.cnpq.
+br/215122686831
+2988 
+18 
+Claudia Bianchi Progetti 
+75854 
+270-Fatec Cotia - 
+R-06 
+D 
+IA 
+Em 
+atualização 
+Em 
+atualização 
+http://lattes.cnpq.
+br/424106049358
+0956 
+19 
+Claudia de Oliveira 
+27539 
+113-Fatec Mauá 
+- R-06 
+M 
+IIH 
+Em 
+atualização 
+Em 
+atualização 
+http://lattes.cnpq.
+br/460528775837
+4868 
+20 
+Cláudio Benossi  
+ 
+ 
+M 
+ 
+ 
+ 
+http://lattes.cnpq.
+br/078663962097
+0719  
+21 
+Claudio Cura Junior 
+76636 
+168 -Fatec São 
+Caetano do Sul - 
+R-06 
+M 
+IA 
+Em 
+atualização 
+Em 
+atualização 
+http://lattes.cnpq.
+br/403609382119
+3528 
+22 
+Cleber Marangoni 
+Millanez 
+76041 
+168 -Fatec São 
+Caetano do Sul - 
+R-06 
+E 
+IA 
+Em 
+atualização 
+Em 
+atualização 
+http://lattes.cnpq.
+br/005956905652
+4282 
+23 
+Daniel Gonçalves da Silva 
+79176 
+168 -Fatec São 
+Caetano do Sul - 
+R-06 
+M 
+IA 
+Em 
+atualização 
+Em 
+atualização 
+http://lattes.cnpq.
+br/211977635420
+8690 
+24 
+Desiré Nguessan 
+24883 
+168 -Fatec São 
+Caetano do Sul - 
+R-06 
+D 
+IIIH 
+Em 
+atualização 
+Em 
+atualização 
+http://lattes.cnpq.
+br/761179992841
+9108 
+25 
+Edison da Matta 
+24879 
+168 -Fatec São 
+Caetano do Sul - 
+R-06 
+M 
+IIH 
+Em 
+atualização 
+Em 
+atualização 
+http://lattes.cnpq.
+br/565023011483
+1427 
+26 
+Edson Benedito Martins 
+de Souza  
+ 
+ 
+ 
+ 
+ 
+ 
+http://lattes.cnpq.
+br/356082732521
+3094  
+27 
+Edna Mataruco Duarte 
+58083 
+168 -Fatec São 
+Caetano do Sul - 
+R-06 
+D 
+IIID 
+Em 
+atualização 
+Em 
+atualização 
+http://lattes.cnpq.
+br/274695087877
+2693 
+28 
+Edson Benedito Martins 
+de Souza 
+76391 
+168 -Fatec São 
+Caetano do Sul - 
+R-06 
+E 
+IA 
+Em 
+atualização 
+Em 
+atualização 
+http://lattes.cnpq.
+br/356082732521
+3094 
+10 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2024/INTEGRAL 
+ 
+Nome 
+Matrícul
+a 
+Cód. UE sede 
+Titulação* 
+Referência 
+Experiência Profissional 
+Curriculum Lattes 
+(URL) 
+Docência 
+(anos) 
+Não 
+docência 
+(anos) 
+29 
+Eliane Veiga Porta 
+44649 
+168 -Fatec São 
+Caetano do Sul - 
+R-06 
+D 
+IIF 
+Em 
+atualização 
+Em 
+atualização 
+http://lattes.cnpq.
+br/073019437588
+5110 
+30 
+Everson Denis 
+40338 
+168 -Fatec São 
+Caetano do Sul - 
+R-06 
+M 
+IIF 
+Em 
+atualização 
+Em 
+atualização 
+http://lattes.cnpq.
+br/618865068696
+9796 
+31 
+Fábio Henrique Cabrini 
+44658 
+168 -Fatec São 
+Caetano do Sul - 
+R-06 
+D 
+IIIE 
+Em 
+atualização 
+Em 
+atualização 
+http://lattes.cnpq.
+br/304421393317
+5294 
+32 
+Fernando Toniolli 
+73505 
+168 -Fatec São 
+Caetano do Sul - 
+R-06 
+M 
+IA 
+Em 
+atualização 
+Em 
+atualização 
+http://lattes.cnpq.
+br/099457632245
+0552 
+33 
+Flávio Viotti 
+24880 
+168 -Fatec São 
+Caetano do Sul - 
+R-06 
+M 
+IIH 
+Em 
+atualização 
+Em 
+atualização 
+http://lattes.cnpq.
+br/243163568106
+6825 
+34 
+Floriano Ferreira dos Reis 
+Filho 
+78854 
+204-Fatec 
+Ipiranga - R-06 
+M 
+IA 
+Em 
+atualização 
+Em 
+atualização 
+http://lattes.cnpq.
+br/847692806842
+6608 
+35 
+Giane Rodrigues 
+70487 
+111-Fatec Zona 
+Leste - R-04 
+M 
+IA 
+Em 
+atualização 
+Em 
+atualização 
+http://lattes.cnpq.
+br/663021551444
+8034 
+36 
+Gilberto Sussumu Hida 
+77526 
+168 -Fatec São 
+Caetano do Sul - 
+R-06 
+M 
+IA 
+Em 
+atualização 
+Em 
+atualização 
+http://lattes.cnpq.
+br/020326382265
+6915 
+37 
+Gustavo Leme Cezário 
+Garcia 
+61588 
+168 -Fatec São 
+Caetano do Sul - 
+R-06 
+M 
+IC 
+Em 
+atualização 
+Em 
+atualização 
+http://lattes.cnpq.
+br/454951112116
+1980 
+38 
+Hugo Leonardo Ferrer 
+Rebello 
+42161 
+168 -Fatec São 
+Caetano do Sul - 
+R-06 
+E 
+IIB 
+Em 
+atualização 
+Em 
+atualização 
+http://lattes.cnpq.
+br/893016277601
+2118 
+39 
+Humberto Luiz de Toledo 
+44657 
+168 -Fatec São 
+Caetano do Sul - 
+R-06 
+E 
+ID 
+Em 
+atualização 
+Em 
+atualização 
+http://lattes.cnpq.
+br/141161438606
+8364 
+40 
+Ilka Maria de Oliveira 
+Santi  
+ 
+ 
+M 
+ 
+ 
+ 
+http://lattes.cnpq.
+br/142812589613
+9449  
+41 
+Ingrid Caroline 
+Albuquerque Cândido  
+ 
+ 
+M 
+ 
+ 
+ 
+http://lattes.cnpq.
+br/004050142896
+5103  
+42 
+Ismael Moura Parede 
+24001 
+126 -Fatec São 
+Bernardo do 
+Campo - R-06 
+M 
+IIH 
+Em 
+atualização 
+Em 
+atualização 
+http://lattes.cnpq.
+br/994063669219
+4943 
+43 
+Izaias Porfírio Faria 
+70472 
+126 -Fatec São 
+Bernardo do 
+Campo - R-06 
+M 
+IA 
+Em 
+atualização 
+Em 
+atualização 
+http://lattes.cnpq.
+br/011303542991
+11 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2024/INTEGRAL 
+ 
+Nome 
+Matrícul
+a 
+Cód. UE sede 
+Titulação* 
+Referência 
+Experiência Profissional 
+Curriculum Lattes 
+(URL) 
+Docência 
+(anos) 
+Não 
+docência 
+(anos) 
+5935 
+44 
+Izar Munhoz Alvares 
+58073 
+168 -Fatec São 
+Caetano do Sul - 
+R-06 
+M 
+IIE 
+Em 
+atualização 
+Em 
+atualização 
+http://lattes.cnpq.
+br/488068808000
+4543 
+45 
+Jacinto Carlos Ascencio 
+Cansado 
+33694 
+209-Fatec 
+Barueri - R-05 
+D 
+IIIG 
+Em 
+atualização 
+Em 
+atualização 
+http://lattes.cnpq.
+br/773800316641
+6550 
+46 
+Jander Temístocles de 
+Oliveira  
+ 
+ 
+M 
+ 
+ 
+ 
+http://lattes.cnpq.
+br/766570961135
+4075  
+47 
+João Carlos Lopes 
+Fernandes 
+19281 
+168 -Fatec São 
+Caetano do Sul - 
+R-06 
+D 
+IIIH 
+Em 
+atualização 
+Em 
+atualização 
+http://lattes.cnpq.
+br/416513196856
+3284 
+48 
+Júlio Cesar Ardito  
+ 
+ 
+D 
+ 
+ 
+ 
+http://lattes.cnpq.
+br/719515711286
+3170  
+49 
+Juliana Pellegrinelli 
+Barbosa Costa 
+43635 
+209-Fatec 
+Barueri - R-05 
+D 
+IIIF 
+Em 
+atualização 
+Em 
+atualização 
+http://lattes.cnpq.
+br/602810165772
+7352 
+50 
+Kléber Aristides Ribeiro 
+78574 
+168 -Fatec São 
+Caetano do Sul - 
+R-06 
+M 
+IA 
+Em 
+atualização 
+Em 
+atualização 
+http://lattes.cnpq.
+br/829930133815
+5638 
+51 
+Kleber da Silva Divino 
+58089 
+168 -Fatec São 
+Caetano do Sul - 
+R-06 
+M 
+IID 
+Em 
+atualização 
+Em 
+atualização 
+http://lattes.cnpq.
+br/928833307850
+5573 
+52 
+Leandro Akira Nakamura  
+ 
+ 
+E 
+ 
+ 
+ 
+http://lattes.cnpq.
+br/592611359551
+2750  
+53 
+Leandro Ramos da Silva 
+24379 
+168 -Fatec São 
+Caetano do Sul - 
+R-06 
+M 
+IIF 
+Em 
+atualização 
+Em 
+atualização 
+http://lattes.cnpq.
+br/763295411429
+1323 
+54 
+Levi de Oliveira Souza 
+74675 
+283-Fatec 
+Santana de 
+Parnaíba - R-05 
+M 
+IA 
+Em 
+atualização 
+Em 
+atualização 
+http://lattes.cnpq.
+br/292490559284
+0995 
+55 
+Lilian Katia de Oliveira 
+73733 
+168 -Fatec São 
+Caetano do Sul - 
+R-06 
+D 
+IA 
+Em 
+atualização 
+Em 
+atualização 
+http://lattes.cnpq.
+br/923157100107
+3269 
+56 
+Luciene Novais Mazza 
+71505 
+168 -Fatec São 
+Caetano do Sul - 
+R-06 
+D 
+IA 
+Em 
+atualização 
+Em 
+atualização 
+http://lattes.cnpq.
+br/925211942691
+0269 
+57 
+Lucas Pereira da Rocha  
+ 
+ 
+E 
+ 
+ 
+ 
+http://lattes.cnpq.
+br/655759241778
+5571  
+12 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2024/INTEGRAL 
+ 
+Nome 
+Matrícul
+a 
+Cód. UE sede 
+Titulação* 
+Referência 
+Experiência Profissional 
+Curriculum Lattes 
+(URL) 
+Docência 
+(anos) 
+Não 
+docência 
+(anos) 
+58 
+Lúcio Nunes de Lira  
+ 
+ 
+M 
+ 
+ 
+ 
+http://lattes.cnpq.
+br/440572375305
+0403  
+59 
+Marcelo Akira Yamamoto 
+76602 
+168 -Fatec São 
+Caetano do Sul - 
+R-06 
+E 
+IA 
+Em 
+atualização 
+Em 
+atualização 
+http://lattes.cnpq.
+br/080796998515
+9347 
+60 
+Marco Antonio Furlan de 
+Souza 
+51965 
+168 -Fatec São 
+Caetano do Sul - 
+R-06 
+M 
+IID 
+Em 
+atualização 
+Em 
+atualização 
+http://lattes.cnpq.
+br/526935306353
+9434 
+61 
+Marco Antônio Souto 
+Pasta Teberges 
+24206 
+167-Fatec 
+Guarulhos - R-04 
+M 
+IIG 
+Em 
+atualização 
+Em 
+atualização 
+http://lattes.cnpq.
+br/676427317947
+0292 
+62 
+Marcos Antonio de 
+Andrade  
+ 
+ 
+ 
+ 
+ 
+ 
+http://lattes.cnpq.
+br/170738738824
+9522  
+63 
+Marcos Julio 
+57397 
+275-Fatec Assis - 
+R-08 
+M 
+IIE 
+Em 
+atualização 
+Em 
+atualização 
+http://lattes.cnpq.
+br/124589074375
+8737 
+64 
+Marcos Roberto de 
+Oliveira 
+74753 
+168 -Fatec São 
+Caetano do Sul - 
+R-06 
+M 
+IA 
+Em 
+atualização 
+Em 
+atualização 
+http://lattes.cnpq.
+br/967704728777
+3158 
+65 
+Margarete Bonaldi 
+Ascencio Cansado 
+55312 
+168 -Fatec São 
+Caetano do Sul - 
+R-06 
+M 
+IID 
+Em 
+atualização 
+Em 
+atualização 
+http://lattes.cnpq.
+br/441428427098
+1048 
+66 
+Margareth Ramos 
+Teixeira Miyamoto 
+47699 
+168 -Fatec São 
+Caetano do Sul - 
+R-06 
+M 
+IIG 
+Em 
+atualização 
+Em 
+atualização 
+http://lattes.cnpq.
+br/591341196503
+9040 
+67 
+Maria Fernanda Meira 
+19280 
+168 -Fatec São 
+Caetano do Sul - 
+R-06 
+M 
+IIG 
+Em 
+atualização 
+Em 
+atualização 
+http://lattes.cnpq.
+br/880467059383
+3343 
+68 
+Maria Márcia Matos 
+Pinto 
+24888 
+168 -Fatec São 
+Caetano do Sul - 
+R-06 
+D 
+IIIG 
+Em 
+atualização 
+Em 
+atualização 
+http://lattes.cnpq.
+br/974962188020
+2473 
+69 
+Mário Eugenio Longato 
+51954 
+168 -Fatec São 
+Caetano do Sul - 
+R-06 
+M 
+IIF 
+Em 
+atualização 
+Em 
+atualização 
+http://lattes.cnpq.
+br/178738844916
+1483 
+70 
+Miguel Marílio Saad 
+Junior 
+51953 
+168 -Fatec São 
+Caetano do Sul - 
+R-06 
+M 
+IIB 
+Em 
+atualização 
+Em 
+atualização 
+http://lattes.cnpq.
+br/613531885671
+7971 
+71 
+Neide Silva Nascimento 
+76215 
+168 -Fatec São 
+Caetano do Sul - 
+R-06 
+E 
+IA 
+Em 
+atualização 
+Em 
+atualização 
+http://lattes.cnpq.
+br/933172131372
+0590 
+72 
+Nicolas Kassalias 
+33942 
+143-Fatec 
+Carapicuíba - R-
+05 
+M 
+IIE 
+Em 
+atualização 
+Em 
+atualização 
+http://lattes.cnpq.
+br/604763465450
+13 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2024/INTEGRAL 
+ 
+Nome 
+Matrícul
+a 
+Cód. UE sede 
+Titulação* 
+Referência 
+Experiência Profissional 
+Curriculum Lattes 
+(URL) 
+Docência 
+(anos) 
+Não 
+docência 
+(anos) 
+2950 
+73 
+Nilton Stringasci Moreira 
+44650 
+168 -Fatec São 
+Caetano do Sul - 
+R-06 
+M 
+IIE 
+Em 
+atualização 
+Em 
+atualização 
+http://lattes.cnpq.
+br/836032426607
+1501 
+74 
+Nilza Aparecida dos 
+Santos 
+63778 
+270-Fatec Cotia - 
+R-06 
+D 
+IC 
+Em 
+atualização 
+Em 
+atualização 
+http://lattes.cnpq.
+br/063944068589
+0286 
+75 
+Patricia Gallo de França 
+76350 
+217-Fatec 
+Diadema - R-06 
+M 
+IA 
+Em 
+atualização 
+Em 
+atualização 
+http://lattes.cnpq.
+br/241689970866
+4987 
+76 
+Patricia Irina Loose de 
+Moraes 
+60931 
+275-Fatec Assis - 
+R-08 
+D 
+IC 
+Em 
+atualização 
+Em 
+atualização 
+http://lattes.cnpq.
+br/150935635643
+0231 
+77 
+Paula Daniela da Silva 
+Monciatti 
+47704 
+168 -Fatec São 
+Caetano do Sul - 
+R-06 
+E 
+IF 
+Em 
+atualização 
+Em 
+atualização 
+http://lattes.cnpq.
+br/921701726837
+6120 
+78 
+Rafael Leal de Araujo 
+65221 
+276-Fatec 
+Campinas - R-03 
+M 
+IC 
+Em 
+atualização 
+Em 
+atualização 
+http://lattes.cnpq.
+br/311652086882
+3425 
+79 
+Rafael Rocha Maia 
+66255 
+257-Fatec 
+Itaquera - R-04 
+M 
+IB 
+Em 
+atualização 
+Em 
+atualização 
+http://lattes.cnpq.
+br/010349167819
+8476 
+80 
+Raquel Silva 
+42159 
+168 -Fatec São 
+Caetano do Sul - 
+R-06 
+D 
+IIIG 
+Em 
+atualização 
+Em 
+atualização 
+http://lattes.cnpq.
+br/185777825908
+4016 
+81 
+Reinaldo Madarazo 
+40340 
+Escolha 
+M 
+IIF 
+Em 
+atualização 
+Em 
+atualização 
+http://lattes.cnpq.
+br/364842372727
+5219 
+82 
+Renata dos Reis Pereira 
+Sexto 
+71412 
+184-Fatec Mogi 
+das Cruzes - R-12 
+E 
+IA 
+Em 
+atualização 
+Em 
+atualização 
+http://lattes.cnpq.
+br/400337462543
+6694 
+83 
+Renato Ribeiro Soares 
+47366 
+204-Fatec 
+Ipiranga - R-06 
+M 
+IID 
+Em 
+atualização 
+Em 
+atualização 
+http://lattes.cnpq.
+br/931514510799
+5001 
+84 
+Ricardo Baitz 
+32550 
+168 -Fatec São 
+Caetano do Sul - 
+R-06 
+D 
+IIIG 
+Em 
+atualização 
+Em 
+atualização 
+http://lattes.cnpq.
+br/078120651580
+2988 
+85 
+Ricardo Ronald Eberson 
+21402 
+168 -Fatec São 
+Caetano do Sul - 
+R-06 
+M 
+IIG 
+Em 
+atualização 
+Em 
+atualização 
+http://lattes.cnpq.
+br/829700065098
+1742 
+86 
+Rita Maria Cunha Leite 
+Coentro  
+ 
+ 
+D 
+ 
+ 
+ 
+http://lattes.cnpq.
+br/837504656698
+3934  
+14 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2024/INTEGRAL 
+ 
+Nome 
+Matrícul
+a 
+Cód. UE sede 
+Titulação* 
+Referência 
+Experiência Profissional 
+Curriculum Lattes 
+(URL) 
+Docência 
+(anos) 
+Não 
+docência 
+(anos) 
+87 
+Roberto Gabriel Labrada 
+51955 
+168 -Fatec São 
+Caetano do Sul - 
+R-06 
+E 
+IIF 
+Em 
+atualização 
+Em 
+atualização 
+http://lattes.cnpq.
+br/134103216337
+2442 
+88 
+Roberto Gondo Macedo 
+29905 
+168 -Fatec São 
+Caetano do Sul - 
+R-06 
+D 
+IIIG 
+Em 
+atualização 
+Em 
+atualização 
+http://lattes.cnpq.
+br/548134508963
+1117 
+89 
+Rodrigo Amorim Motta 
+Carvalho 
+24381 
+168 -Fatec São 
+Caetano do Sul - 
+R-06 
+D 
+IIIH 
+Em 
+atualização 
+Em 
+atualização 
+http://lattes.cnpq.
+br/031319638727
+8352 
+90 
+Rosangela Kronig 
+19188 
+126 -Fatec São 
+Bernardo do 
+Campo - R-06 
+D 
+IIG 
+Em 
+atualização 
+Em 
+atualização 
+http://lattes.cnpq.
+br/379230566836
+1148 
+91 
+Rosangela Maura Correia 
+Bonici 
+18353 
+217-Fatec 
+Diadema - R-06 
+M 
+IIIH 
+Em 
+atualização 
+Em 
+atualização 
+http://lattes.cnpq.
+br/399743079598
+1624 
+92 
+Semirames Pereira das 
+Flores  
+ 
+ 
+E 
+ 
+ 
+ 
+http://lattes.cnpq.
+br/134691812597
+3795  
+93 
+Sérgio Luiz Banin 
+20600 
+002 -Fatec São 
+Paulo - R-05 
+M 
+IIO 
+Em 
+atualização 
+Em 
+atualização 
+http://lattes.cnpq.
+br/246249505334
+0379 
+94 
+Sônia Cristina Menoce 
+40336 
+168 -Fatec São 
+Caetano do Sul - 
+R-06 
+E 
+IG 
+Em 
+atualização 
+Em 
+atualização 
+http://lattes.cnpq.
+br/784344149541
+5461 
+95 
+Tânia Regina Exposito 
+Ferreira 
+63356 
+216-Fatec 
+Osasco - R-05 
+D 
+IB 
+Em 
+atualização 
+Em 
+atualização 
+http://lattes.cnpq.
+br/491304912113
+5638 
+96 
+Thiago de Jesus Incêncio 
+79136 
+168 -Fatec São 
+Caetano do Sul - 
+R-06 
+M 
+IA 
+Em 
+atualização 
+Em 
+atualização 
+http://lattes.cnpq.
+br/329391684633
+5475 
+97 
+Wagner Varalda  
+ 
+ 
+D 
+ 
+ 
+ 
+http://lattes.cnpq.
+br/469174297229
+3434  
+98 
+Willians Monteiro da Silva 
+47701 
+168 -Fatec São 
+Caetano do Sul - 
+R-06 
+E 
+ID 
+Em 
+atualização 
+Em 
+atualização 
+http://lattes.cnpq.
+br/375947598394
+4298 
+* 
+Titulação: D (Doutor), M (Mestre), E (Especialista) 
+ 
+ORGANIZAÇÃO DO RELATÓRIO: 
+ 
+i. 
+Identificação e dados gerais da Unidade de Ensino. 
+ii. 
+Metodologia 
+15 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2024/INTEGRAL 
+a. Cronograma das atividades da CPA 
+b. Ações de sensibilização da comunidade acadêmica 
+c. Identificação dos sujeitos da avaliação 
+d. Organização dos instrumentos de coleta 
+e. Procedimentos para a coleta 
+f. Análise e discussão dos dados da coleta 
+g. Organização das medidas para composição do relatório 
+h. Devolutiva dos resultados para a comunidade acadêmica 
+iii. 
+Desenvolvimento 
+iv. 
+Análise dos dados e ações propostas (PGA) 
+v. 
+Considerações finais 
+vi. 
+Anexo de ATAs 
+ 
+16 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2024/INTEGRAL 
+2. METODOLOGIA 
+Para contribuir com a organização da Comissão Própria de Avaliação de cada Fatec, o 
+Centro Paula Souza, por meio da Unidade do Ensino Superior de Graduação (Cesu), 
+organizou a comissão da CPA Central, assumindo como centro organizativo as atribuições 
+que lhe competem, a saber:  
+I. Contribuir com o planejamento, orientação e monitoramento dos 
+procedimentos da autoavaliação Institucional das Fatecs; 
+II. Utilizar os indicadores coletados nas unidades como instrumento de 
+gestão materializado por meio do Plano de Metas, do Plano de 
+Desenvolvimento Institucional e do Plano de Gestão Anual, 
+oferecendo subsídios para cada uma das áreas da administração 
+central tomar as medidas corretivas e ações de melhoramento; 
+III. Elaborar o Relatório Global da Autoavaliação para os processos de 
+recredenciamento institucional.  
+IV. Elaborar o cronograma da autoavaliação para as Fatecs, 
+considerando o prazo de 31 de março de cada ano para o protocolo 
+dos relatórios da autoavaliação no sistema e-MEC do Ministério da 
+Educação.  
+V. Avaliar, indicar possíveis ajustes e autorizar o protocolo dos 
+relatórios das CPAs das Fatecs no sistema e-MEC. 
+VI. Reunir-se ordinariamente duas vezes no semestre ou de forma 
+extraordinária quando necessário. 
+ 
+Por meio da CPA Central e da Gestão Educacional da Cesu, cada Fatec recebe o 
+suporte necessário para sua CPA cumprir o que lhe compete, conforme segue: 
+1. Contribuir com o planejamento, elaboração, coordenação e 
+monitoramento dos processos de avaliação interna, apresentando o 
+projeto de autoavaliação Institucional que norteará todos os 
+procedimentos de autoavaliação para a CPA Central em 
+consonância com a equipe de Gestão Educacional da Cesu.  
+2. Apoiar os processos internos de avaliação; 
+3. Sistematizar e prestar informações relativas às políticas de 
+autoavaliação institucional, solicitadas pelos Sistemas Federal e 
+Estadual de Avaliação da Educação Superior, além de atender à 
+demanda interna da Gestão Educacional da Cesu e da CPA Central 
+do Centro Paula Souza; 
+4. Constituir subcomissões de avaliação; 
+5. Constituir grupos temáticos ou focais voltados para a avaliação de 
+cada uma das dez dimensões estabelecidas no artigo anterior; 
+6. Elaborar e analisar relatórios e pareceres, encaminhando-os a CPA 
+Central; 
+17 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2024/INTEGRAL 
+7. Desenvolver estudos e análises, colaborando com os órgãos 
+próprios ou terceirizados do Centro Paula Souza, visando ao 
+fornecimento de subsídios para afixação, o aperfeiçoamento e a 
+modificação da política de avaliação institucional; 
+8. Acompanhar, 
+analisar 
+e 
+correlacionar 
+os 
+resultados 
+da 
+autoavaliação com os resultados dos alunos do Centro Paula Souza 
+no ENADE, bem como em outros processos de avaliação; 
+9. Aprovar seu próprio regulamento em consonância com as diretrizes 
+emanadas pela CPA Central. 
+ 
+Os relatórios parciais e/ou integrais da autoavaliação deverão ser elaborados com 
+periodicidade anual, encaminhados para a CPA Central seguindo o cronograma de 
+planejamento apresentado nas orientações gerais e protocolados até 31 de março de cada 
+ano. Ficando disponíveis para serem apreciados pela comissão de especialistas designada 
+pelo Conselho Estadual de Educação para a visita à Instituição em seu processo de 
+recredenciamento, conforme dispõe a Deliberação do CEE 160/2018.  
+ 
+18 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2024/INTEGRAL 
+2.1 CRONOGRAMA DAS ATIVIDADES DA CPA 
+A partir desta estrutura a CPA da Fatec São Caetano do Sul – Antonio Russo para 
+cumprir o que lhe compete, durante o ano de 2023 elaborou o seguinte cronograma de 
+trabalho:  
+ 
+ 
+ 
+Atividades / Ações 
+Mês 
+jan fev ma
+r 
+abr mai jun 
+jul ago set out no
+v 
+dez 
+Reuniões com a equipe gestora da UE para 
+sistematização das ações e composições de 
+grupos de trabalho. 
+  
+X 
+X 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+Encontros da equipe CPA para organizar e 
+desenvolver estratégias de maneira 
+integrada a partir da percepção dos 
+diferentes segmentos que compõem a 
+comissão. 
+  
+ 
+ 
+X 
+ 
+ 
+ 
+X 
+X 
+X 
+ 
+  
+Sensibilização para participação nos 
+procedimentos e coleta:  Encontros com 
+representantes de turmas, lives, webinar, 
+informativos, site, entre outros, para 
+alimentar a cultura avaliativa da Fatec. 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+X 
+X 
+ 
+  
+Organização dos procedimentos de coleta de 
+dados: elaboração das ações voltadas para 
+estimular e monitorar a participação de toda 
+a comunidade no preenchimento do 
+formulário de coleta.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+X 
+X 
+  
+  
+Análise dos resultados – acolhimento dos 
+dados da coleta e início dos procedimentos 
+de análise.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+X 
+X 
+ 
+Encaminhamento dos dados coletados para a 
+equipe gestora da UE, que recebe os dados 
+faz a análise e apresenta a justificativa e o 
+Plano de Gestão Anual com ações de 
+melhorias, e encaminha para a CPA  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+X 
+ 
+Elaboração do relatório da CPA.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+X 
+ X 
+X  
+Envio do Relatório para a emissão do parecer 
+da Cesu/DGE e apreciação da CPA Central 
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+  
+  
+ X 
+  
+Divulgação dos resultados à comunidade 
+acadêmica. 
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+  
+  
+ X 
+X  
+Conclusão do Relatório e entrega no E-MEC. 
+  
+  
+  
+  
+  
+  
+  
+Previsão Março 2025 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+19 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2024/INTEGRAL 
+2.2 Ações de sensibilização da comunidade acadêmica 
+Para a efetivação do cronograma destaca-se algumas das ações para a realização dos 
+procedimentos de autoavaliação.  
+Para sensibilização da comunidade acadêmica foram desenvolvidas algumas peças 
+que foram publicizadas no âmbito institucional (lives, microsot Teams e redes sociais). 
+Também foram pelos gestores institucionais mecanismos de trocas de mensagens 
+instantâneas (WhatsApp e Telegram) direcionados exclusivamente a professores, discentes e 
+pessoal administrativo da IES.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+20 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2024/INTEGRAL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+21 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2024/INTEGRAL 
+ 
+2.3 Identificação dos sujeitos da avaliação 
+ Para legitimar o processo avaliativo de 2023 a comissão local seguiu as diretrizes da 
+CPA Central para coleta dos dados junto aos atores institucionais composto por 
+discentes, docentes e colaboradores técnicos administrativos. Obtendo o seguinte 
+percentual de participação: 
+ 
+2.4 Instrumentos de coleta  
+Desde 1997 o Centro Paula Souza, evidenciando o seu pioneirismo em buscar 
+indicadores para gerar melhoria de seus serviços criou o Sistema de Avaliação Institucional 
+(SAI), implantado em 1999 em todas as Etecs (Escolas de Ensino Técnico no nível médio) e, 
+em 2000, nas Fatecs, seguindo os mais rigorosos critérios estatísticos. Sendo os 
+instrumentos elaborados e preenchidos em formulários impressos de 1999 a 2012.  
+A partir de 2010, os questionários deixaram de ser preenchidos em formulário de 
+papel e passaram a ser totalmente on-line, trazendo mais agilidade ao processo de 
+avaliação. Desde então, todos os participantes realizam a pesquisa pela internet e o SAI 
+passou a ser chamado de WebSAI.  
+22 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2024/INTEGRAL 
+Para que as Fatecs tivessem apenas um instrumento que pudesse contemplar as 10 
+dimensões dentro dos 5 eixos avaliativos, a partir da criação da comissão da CPA Central a 
+AAI em parceria com a CESU, por meio de uma equipe qualificada, reorganizou a elaboração 
+dos Instrumentos adequando-os em torno dos 5 eixos avaliativos:  
+a- Instrumento 1- Discentes: Questionário quantitativo contendo 39 questões 
+fechadas, destinado especificamente aos discentes para mensurar o grau de 
+satisfação desse segmento acerca da sua vivência no âmbito institucional. No ato, 
+os discentes avaliaram a Fatec São Caetano do Sul – Antonio Russo nos aspectos 
+de políticas de atendimento aos discentes; Infraestrutura; Comunicação com a 
+sociedade; Responsabilidade Social;  Ensino, pesquisa e extensão e Organização e 
+gestão. 
+b- Instrumento 2- Professores: Questionário quantitativo contendo 42 questões 
+fechadas, destinado ao corpo docente em que o segmento avaliou a instituição 
+(FATEC e Centro Paula Souza) nos seguintes aspectos: Missão e Planejamento; 
+Políticas para ensino, pesquisa e extensão; Responsabilidade Social; Organização 
+e gestão; Infraestrutura; Comunicação com a sociedade e; políticas de pessoal.  
+c- Instrumento 3 – Técnicos-administrativos: Questionário quantitativo contendo 
+27 questões fechadas, destinado aos colaboradores técnicos administrativos, 
+aplicado online em que avaliaram a instituição nos seguintes aspectos: Missão e 
+Planejamento; Responsabilidade Social; Organização e gestão; Infraestrutura; 
+Comunicação com a sociedade e; políticas de pessoal; políticas de atendimentos 
+aos discentes e Sustentabilidade financeira. 
+Os instrumentos de coleta de dados compreenderam as especificidades da Fatec São 
+Caetano do Sul sempre buscando dialogar com as dimensões previstas no SINAES e eixos 
+norteadores propostos pela CPA Central e Diretrizes do Centro Paula Souza. 
+ 
+ 
+2.5 Procedimentos para a coleta 
+A AAI disponibilizou o acesso ao sistema de coleta (WebSAI) a partir de 05 de 
+Setembro de 2024 ficando disponível para o preenchimento da comunidade até o dia 21 de 
+Setembro de 2024. Para favorecer a participação da comunidade durante este período a CPA 
+e Direção da Fatec São Caetano do Sul Antonio Russo, fez o acompanhamento da 
+23 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2024/INTEGRAL 
+participação de cada segmento, realizando ações para sensibilização contínua para a 
+participação da comunidade acadêmica, a saber: 
+i. Discentes; 
+ii. Docentes; 
+iii. Técnicos-administrativos 
+ 
+2.6 Análise e discussão dos dados da coleta  
+Os dados coletados por meio do WebSai foram disponibilizados a partir do dia 03 de 
+Outubro de  2024.  
+          Após a discussão e análise dos dados a equipe gestora da Fatec São Caetano do Sul - 
+Antonio Russo preencheu o Quadro síntese com as fragilidades e potencialidades de cada 
+um dos cinco eixos avaliativos e as ações de melhoria, subsidiando a elaboração do Plano de 
+Gestão Anual (PGA) para o ano de 2025. O quadro síntese foi encaminhado para a CPA que o 
+inseriu no relatório de Autoavaliação Institucional.  
+ 
+2.7 Elaboração do Quadro Comparativo para análise dos resultados das avaliações 
+parciais de 2022 e 2023 e análise global 
+ 
+ 
+A CPA elaborou e disponibilizou o Quadro Comparativo com os resultados das 
+avaliações parciais, conforme Quadro do item 4, para que houvesse a análise global das 
+contribuições dos procedimentos de autoavaliação e o impacto, a partir dos 5 eixos, no 
+planejamento e desenvolvimento Institucional.  
+ 
+2.8 Organização das medidas para composição do relatório 
+ 
+ 
+Após o processo de elaboração do Plano de Gestão Anual (PGA), efetuou-se o 
+preenchimento dos quadros de ações propostas, com o apontamento das medidas de 
+melhoramento e respectivos prazos, em consonância com o PGA. Os quadros apresentados, 
+foram condensados no capítulo 4 deste relatório, refletindo o planejamento da Unidade de 
+Ensino a partir dos indicadores observados em cada eixo avaliativo.  
+ 
+2.9 Devolutiva dos resultados para a comunidade acadêmica   
+24 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2024/INTEGRAL 
+ 
+Após a apresentação do relatório para a Direção da Fatec.São Caetano do Sul – 
+Antonio Russo, foram organizadas as formas de divulgação dos resultados e apresentação 
+das ações provenientes do processo de autoavaliação, permitindo o desenvolvimento 
+institucional.  
+ Cada departamento da faculdade recebeu o relatório para análise e discussão com 
+seu grupo de trabalho para planejamento das ações corretivas ou preventivas a serem 
+compiladas e inseridas no relatório final. Ao final do processo a CPA da unidade compilou as 
+demandas e observações propostas e dispôs nos eixos recomendados pela CPA Central e 
+posteriormente disponibilizou o relatório final a toda comunidade acadêmica via canais 
+comunicacionais oficiais.  
+25 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2024/INTEGRAL 
+3. DESENVOLVIMENTO 
+Considerando os instrumentos da autoavaliação, estruturados a partir das 10 dimensões 
+previstas no art. 3º da Lei nº 10.861 (SINAES), nesta parte do relatório, a CPA deverá 
+apresentar as informações que foram coletadas, a partir da organização de 5 eixos, que 
+articulam as 10 dimensões, conforme disposto na Nota Técnica INEP nº 065, como segue: 
+ 
+3.1 PLANEJAMENTO E AVALIAÇÃO INSTITUCIONAL EIXO 1:  
+ 
+Dimensão 8: Planejamento e Avaliação 
+ 
+EIXO 
+1 - Planejamento e Avaliação Institucional 
+Dimensã
+o SINAES 8 
+APRESENTAÇÃO DAS PRINCIPAIS INFORMAÇÕES COLETADAS NO EIXO 
+ 
+ 
+Gerenciar com enfoque em resultados exige novas práticas que devem ser 
+desenvolvidas e aperfeiçoadas constantemente. Não se trata de implantar soluções 
+“mágicas” e imediatistas, mas, sim, de implantar ações planejadas que permitam uma 
+mudança gradual de práticas de gestão e da cultura organizacional. 
+26 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2024/INTEGRAL 
+A tecnologia de informação pode ser uma grande aliada para esse processo de 
+transformação 
+organizacional 
+necessário. 
+A 
+informatização 
+de 
+procedimentos 
+administrativos e acadêmicos representa um grande avanço na racionalização de fluxos de 
+informações.  
+A sistemática de avaliação institucional visa ir além de professores, colaboradores, 
+coordenadores e alunos, mas se propõe a contemplar, nos próximos ciclos avaliativos, 
+também: egressos, comunidade externa e parceiros. 
+No entendimento da Fatec São Caetano do Sul - Antonio Russo, o que se busca no 
+processo de autoavaliação institucional é o estabelecimento de uma cultura transformadora 
+no modelo de gestão adotado pela IES, nos seguintes aspectos: 
+1. Aperfeiçoamento 
+do 
+corpo 
+técnico-administrativo, 
+buscando 
+a 
+profissionalização do atendimento; 
+2. Ampliação das aplicações da tecnologia da informação à gestão acadêmica e 
+administrativa; 
+3. Implementação de Sistema Integrado de Gestão, fortalecendo os vínculos entre 
+os setores administrativos e acadêmicos; 
+4. Consolidação do processo de avaliação institucional, com a instauração de uma 
+cultura permanente de avaliação; 
+5. Fortalecimento das relações entre os corpos docente, discente e técnico-
+administrativo e a Instituição, em termos de participação nos processos de 
+avaliação e planejamento e de aumento de dedicação docente à Fatec São 
+Caetano do Sul - Antonio Russo; 
+ 
+Participação da comunidade acadêmica, divulgação e análise dos resultados. 
+ 
+A Fatec São Caetano do Sul - Antonio Russo realiza a avaliação institucional, nos 
+moldes previstos no SINAES desde 2016, envolvendo colaboradores técnico-administrativo, 
+corpo docente e discente. Como já mencionado, o processo consiste em realizar a avaliação 
+anualmente, tendo como meta primordial a participação da totalidade de dos discentes, 
+docentes, gestores e colaboradores.  
+Cabe lembrar que os documentos produzidos pela CPA, visam ser instrumentos de 
+consultas na construção de outros mecanismos institucionais como PDI, PPI e regulamentos 
+27 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2024/INTEGRAL 
+que nortearão as atividades da Fatec São Caetano do Sul – Antonio Russo nos anos 
+vindouros. 
+3.3. Quadro histórico das Comissões de Autoavaliação da Fatec São Caetano do Sul - 
+Antonio Russo. 
+Ano 
+Comissão de avaliação 
+Atividades desenvolvidas 
+Universos pesquisados 
+2016/2 
+ 
+Claudemir Martins da Silva 
+Guilherme Cortonesi Cela 
+Jan Michael Nowicow 
+Alexsander Tressino De Carvalho  
+Constituição da Comissão 
+Própria de Autoavaliação (CPA).  
+Elaboração do Regimento da 
+comissão. 
+Estruturação dos instrumentos 
+de coleta de dados 
+(questionários) 
+Não houve 
+2017 
+ 
+Claudemir Martins da Silva 
+Guilherme Cortonesi Cela 
+Jan Michael Nowicow 
+Alexsander Tressino De Carvalho  
+ 
+ 
+Execução e operacionalização da 
+avaliação institucional . 
+Compilação e análise dos dados. 
+Elaboração do relatório geral 
+Aplicação da primeira 
+pesquisa nos moldes do 
+SINAES. 
+Alunos 
+Professores 
+Funcionários  
+2018 
+ 
+Claudemir Martins da Silva  
+Guilherme Cortonesi Cela 
+Brunno Gianni Grillo 
+Alexander Tressino De Carvalho  
+ 
+Execução e operacionalização da 
+avaliação institucional. 
+Análise dos documentos 
+institucionais 
+Elaboração dos relatórios 
+parciais e setoriais. 
+Estruturação do relatório final. 
+ 
+Respondentes: 
+Alunos 
+Professores 
+Técnicos administrativos 
+2020 
+ 
+Claudemir Martins da Silva  
+Guilherme Cortonesi Cela 
+Brunno Gianni Grillo 
+Alexander Tressino De Carvalho  
+ 
+ 
+Execução e operacionalização da 
+avaliação institucional em 
+consonância com os. 
+Análise dos documentos 
+institucionais 
+Elaboração dos relatórios 
+parciais e setoriais. 
+Estruturação do relatório final. 
+ 
+Respondentes: 
+Alunos 
+Professores 
+Técnicos administrativos 
+2021 
+ 
+Claudemir Martins da Silva  
+Guilherme Cortonesi Cela 
+Rafael Gustavo de Andrade Albertini  
+Alexander Tressino De Carvalho  
+ 
+ 
+Execução e operacionalização da 
+avaliação institucional. 
+Análise dos documentos 
+institucionais 
+Elaboração dos relatórios 
+parciais e setoriais. 
+Estruturação do relatório final. 
+ 
+Respondentes: 
+Alunos 
+Professores 
+Técnicos administrativos 
+2022 
+ 
+Claudemir Martins da Silva  
+Guilherme Cortonesi Cela 
+Isabele Alves de Moura  
+Alexander Tressino De Carvalho  
+ 
+ 
+Execução e operacionalização da 
+avaliação institucional. 
+Análise dos documentos 
+institucionais 
+Elaboração dos relatórios 
+Respondentes: 
+Alunos 
+Professores 
+Técnicos administrativos 
+28 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2024/INTEGRAL 
+parciais e setoriais. 
+Estruturação do relatório final. 
+ 
+2023 
+Claudemir Martins da Silva  
+Guilherme Cortonesi Cela 
+Isabele Alves de Moura  
+Alexander Tressino De Carvalho  
+ 
+ 
+Execução e operacionalização da 
+avaliação institucional. 
+Análise dos documentos 
+institucionais 
+Elaboração dos relatórios 
+parciais e setoriais. 
+Estruturação do relatório final. 
+ 
+Respondentes: 
+Alunos 
+Professores 
+Técnicos administrativos 
+2024 
+Claudemir Martins da Silva  
+INCLUIR OS DEMAIS MEMBROS DE 
+ACORDO COM A PORTARIA 
+ 
+ 
+Execução e operacionalização da 
+avaliação institucional. 
+Análise dos documentos 
+institucionais 
+Elaboração dos relatórios 
+parciais e setoriais. 
+Estruturação do relatório final. 
+ 
+Respondentes: 
+Alunos 
+Professores 
+Técnicos administrativos 
+ 
+Com o propósito de ampliar o autoconhecimento sobre as reais demandas da IES em 
+voga a CPA buscou evidenciar as fragilidades e potencialidades consultando sua comunidade 
+acadêmica afim de subsidiar os gestores institucionais nos planejamentos vindouros. Os 
+gráficos serão dispostos nos eixos avaliados na avaliação.  
+ 
+29 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2024/INTEGRAL 
+EIXO 2: DESENVOLVIMENTO INSTITUCIONAL 
+ 
+Dimensão 1: Missão e Plano de Desenvolvimento Institucional 
+Dimensão 3: Responsabilidade Social da Instituição 
+ 
+EIXO 
+2 – Desenvolvimento Institucional 
+Dimensã
+o SINAES 1 e 3 
+APRESENTAÇÃO DAS PRINCIPAIS INFORMAÇÕES COLETADAS NO EIXO 
+ 
+ 
+ DIMENSÃO 1: MISSÃO E PLANO DE DESENVOLVIMENTO INSTITUCIONAL 
+ 
+A Fatec São Caetano do Sul - Antonio Russo desenvolveu seu PDI (Plano de 
+Desenvolvimento Institucional) para o quinquênio 2022-26 contemplando as exigências do 
+Conselho Estadual de Educação e INEP/MEC. 
+A elaboração desse documento teve, como base, orientações expressas nas 
+“Diretrizes para Elaboração do PDI”, ditadas pelo Ministério da Educação e CEETEPS, e 
+considerou o contexto sócio-político-econômico da Instituição e da região do ABC Paulista.  
+Os pressupostos básicos contidos no documento do MEC para a construção do PDI 
+esclarecem que a Instituição, uma vez contemplados os eixos temáticos que servirão de guia 
+30 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2024/INTEGRAL 
+para a análise da comissão designados pela SESU/MEC,  possui liberdade de criação para 
+elaborar o seu PDI.  
+Com esse entendimento, o Plano de Desenvolvimento Institucional da Fatec São 
+Caetano do Sul - Antonio Russo, tem sido edificado a partir de quatro enfoques: A. 
+Perfil Institucional, B. Planejamento e Gestão Institucional, C. Planejamento 
+Econômico-Financeiro e  D. Implementação do PDI. 
+1. 
+No Perfil Institucional, foi apresentada a origem e a história da Instituição; seu 
+contexto regional e nacional, seu papel social; sua missão, sua visão, objetivos e 
+metas e estratégias de atuação para os próximos cinco anos, bem como suas 
+diretrizes pedagógicas. 
+2. 
+No Planejamento e Gestão Institucional descreveram-se os objetivos 
+específicos do PDI; a organização acadêmica e administrativa da Instituição e a 
+estrutura organizacional e de recursos humanos; a caracterização geral e 
+específica do corpo discente, bem como as políticas para esse público; a 
+articulação da Fatec São Caetano do Sul - Antonio Russo com a comunidade e 
+suas atividades de extensão; o planejamento e organização didática; os cursos 
+atuais e em processo de implementação e elaboração; a sistemática de 
+Avaliação Institucional; a infraestrutura física, bem como as propostas e 
+projetos de expansão. 
+3. 
+No Planejamento Econômico-Financeiro, foram apresentadas as estratégias da 
+gestão de finanças e plano de investimento da Instituição para o próximo 
+quinquênio. 
+4. 
+No capítulo Implementação do PDI, foi apresentada a planificação das etapas 
+de desenvolvimento e implantação das ações registradas no PDI vigente; a 
+periodicidade em que estas etapas ocorrerão e os envolvidos no processo de 
+implantação em cada etapa e período. 
+ 
+Objetivos institucionais no PDI da Fatec São Caetano do Sul - Antonio Russo 
+ 
+Os objetivos gerais da Fatec São Caetano do Sul - Antonio Russo, traçados para o 
+quinquênio 2022-26, são partes integrantes do PDI e estão categorizados nas seguintes 
+31 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2024/INTEGRAL 
+instâncias: I. Ensino; II. Pesquisa e Pós-graduação; III. Extensão; IV Administração; V Corpo 
+discente; VI Recursos humanos.  
+Em consulta aos documentos pertinentes ao indicador mencionado, verifica-se a 
+articulação unilateral entre o PDI e Regimento Geral da Fatec São Caetano do Sul - Antonio 
+Russo, a conversão das ações no que tange às Políticas de Ensino para graduação, pesquisa e 
+extensão estão em conformidade com os preceitos legais propostos pelo MEC e SINAES.  São 
+políticas para o ensino na Fatec São Caetano do Sul - Antonio Russo: 
+1. 
+oferecer cursos de graduação nos diversos campos do saber e modalidades em 
+sintonia com as necessidades regionais; 
+2. 
+promover a inter-multidisciplinaridade curricular dos cursos oferecidos pela 
+Instituição; 
+3. 
+fomentar a indissociabilidade entre o ensino, a pesquisa e a extensão; 
+4. 
+promover alternativas metodológicas para o ensino de graduação; 
+5. 
+manter atualizados os Projetos Pedagógicos dos Cursos; 
+6. 
+manter atualizado o acervo da Biblioteca institucional; 
+7. 
+aperfeiçoar o processo de acesso aos cursos de graduação. 
+ 
+Articulação entre o PDI e Políticas de Pesquisa. 
+Tanto o PDI como PPCs da Fatec São Caetano do Sul - Antonio Russo, convergem em 
+seus objetivos fundamentais na formação e no oferecimento do ensino superior em suas 
+diferentes instâncias. Ambos os documentos, demonstram a preocupação e o esforço da 
+Fatec São Caetano do Sul - Antonio Russo em legitimar a tríade ensino, pesquisa e extensão. 
+Nesse sentido, a Fatec São Caetano do Sul - Antonio Russo vem desenvolvendo 
+mecanismos para incentivar seu corpo docente e discente no engajamento de projetos de 
+pesquisa e propõe os seguintes objetivos: 
+1. 
+incentivar a adoção das linhas de pesquisa e áreas temáticas para o 
+desenvolvimento de programas de iniciação científica. 
+2. 
+cuidar para que o trabalho de iniciação à pesquisa que seja intencionalmente 
+acompanhado pelos docentes e se dê de maneira interativa; 
+3. 
+zelar pelo acompanhamento contínuo dos alunos envolvidos em projetos de 
+iniciação à pesquisa tecnológica, explicitando e fundamentando cada uma de 
+suas etapas; 
+32 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2024/INTEGRAL 
+4. 
+acompanhar os trabalhos dos grupos de pesquisa, avaliar a aprendizagem, 
+proporcionar autoavaliação e divulgar resultados em jornadas e congressos; 
+5. 
+incentivar a realização de estágios supervisionados, os quais são entendidos 
+pela Fatec São Caetano do Sul - Antonio Russo como atos educativos; 
+6. 
+organizar grupos temáticos multidisciplinares relacionados a problemas sociais, 
+econômicos e culturais, tais como: meio ambiente e sustentabilidade, 
+promoção à vida e à saúde, desenvolvimento da cultura e preservação do 
+patrimônio cultural, transferências de tecnologias para o atendimento de 
+demandas sociais e regionais; 
+7. 
+consolidar a implantação de Projetos de Iniciação Científica, atrelados a missão 
+da faculdade; 
+8. 
+firmar parcerias com outras instituições para a formação de redes de pesquisas 
+tecnológicas; 
+9. 
+apoiar a produção e a divulgação científica do corpo docente e discente. 
+ 
+Articulação entre o PDI e Políticas de Extensão. 
+1. 
+Desenvolver e consolidar o incentivo às atividades de extensão, de cultura, de 
+desporto e de atendimento estudantil, integrados ao ensino e à pesquisa; 
+2. 
+Aprimorar os serviços de atendimento prestados à comunidade acadêmica; 
+3. 
+Aprimorar o atendimento psicopedagógico para o corpo docente, discente e 
+técnico-administrativo. 
+ 
+Articulação entre o PDI e Políticas de Gestão Acadêmica. 
+Esta comissão entende que o PDI institucional estão alinhados com a gestão 
+acadêmica da Fatec São Caetano do Sul - Antonio Russo, uma vez que a faculdade implanta, 
+desde sua concepção, Conselhos Deliberativos (Congregação), além de Colegiados de cursos, 
+Núcleo docente estruturante (NDE) e Comissão de autoavaliação. As articulações desses 
+mecanismos promovem um processo tácito, consubstanciando às diretrizes institucionais de 
+gestão e responsabilidades. 
+33 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2024/INTEGRAL 
+ 
+Coerência das propostas do PDI com realidade institucional e cumprimento do 
+cronograma. 
+Os objetivos e metas propostos no PDI vigente são operacionalizados de acordo com 
+a realidade institucional e contemplam as seguintes áreas da instituição: ensino, pesquisa 
+tecnológica, pós-graduação e extensão, corpo docente, recursos humanos e administração. 
+Para cada instância contemplada, foram definidos os objetivos a serem implantados 
+obedecendo ao cronograma a seguir: 
+Cronograma de execução 
+2022 
+2023 
+2024 
+2025 
+2026 
+X 
+X 
+X 
+X 
+X 
+ 
+Dimensões contempladas no planejamento da Fatec São Caetano do Sul - Antonio Russo: 
+Ensino 
+1. Organizar e estruturar mecanismos que propiciem a integração das diferentes áreas 
+de conhecimento.  
+2. Estabelecer referências para elaboração e avaliação dos Projetos Pedagógicos dos 
+cursos de graduação. 
+3. Criar o curso na modalidade à distância. 
+4. Aprimorar a qualidade do ensino. 
+5. Aprimorar a qualidade da gestão do ensino de graduação (presencial e a distância). 
+Pesquisa e pós-graduação 
+1. Apoiar as atividades de pesquisa com recursos para manutenção de programas, 
+projetos e grupos de pesquisa tecnológica. 
+2. Incentivar o desenvolvimento de redes de pesquisa tecnológica. 
+Extensão  
+1. Implementar Programa de Acompanhamento de Egressos da Fatec São Caetano do 
+Sul - Antonio Russo, preferencialmente integrado ao ensino e à pesquisa tecnológica. 
+2. Ampliar programas de educação continuada ao docente e discente, em parceria com 
+entidades governamentais e de classe. 
+3. Implementar programas de extensão. 
+ 
+34 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2024/INTEGRAL 
+Corpo discente 
+1. Aperfeiçoar Programa de Atendimento Estudantil. 
+2. Criar e aperfeiçoar Programas de Acompanhamento Psicopedagógico. 
+Administração 
+1. Aprimorar os processos e métodos gerenciais. 
+2. Implementar os sistemas de melhoria contínua nos processos administrativos. 
+3. Capacitar continuamente o quadro de colaboradores e docentes. 
+Recursos humanos 
+4. Criar programas de capacitação ao corpo técnico administrativo 
+ 
+Ressaltamos que o período de execução dos objetivos e metas propostos no PDI, 
+pode e deve sofrer alterações no prazo estipulado, pois dependem das diretrizes fornecidas 
+pelo Centro Paula Souza nos aspectos legais, institucionais, infraestrutura e políticas de 
+recursos humanos.  
+Articulação entre o PDI e a Avaliação Institucional 
+Os processos de autoavaliação institucional obedecem aos preceitos propostos pelo 
+SINAES e estão organizados em dois momentos, a saber :  
+Avaliação Externa - Nesse processo, são considerados tanto os aspectos externos, 
+quanto internos da Fatec São Caetano do Sul - Antonio Russo, conforme determinação da Lei 
+nº. 10. 861/04, que regulamenta o Sistema Nacional de Avaliação do Ensino Superior – 
+SINAES. Os compromissos e responsabilidades sociais que consolidam a Avaliação 
+Institucional da Fatec São Caetano do Sul - Antonio Russo estão explicitadas em seus 
+documentos internos.  
+Avaliação Interna – Modalidade prevista na lei 10.861 e documentos institucionais 
+(PDI e PPCs) e tem como escopo mensurar as potencialidades e fragilidades com base em 
+pesquisas quantitativas.  O processo de autoavaliação é realizado pela Comissão Própria de 
+Avaliação – CPA que como propósito: 
+1. acompanhar sistematicamente os objetivos, metas e ações contidas no PDI e PPCs; 
+2. organizar, articular e desenvolver os processos de avaliação em cada uma de suas 
+etapas, respeitando-se as dimensões estabelecidas pela legislação; 
+3. elaborar e divulgar relatórios analíticos das etapas e dimensões avaliadas. 
+ 
+35 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2024/INTEGRAL 
+As dimensões avaliadas pela Comissão Própria de Avaliação buscaram analisar a 
+consonância do PDI e PPC institucional com as Diretrizes propostas pela lei 10.861 do 
+SINAES, no que tange às 10 dimensões, a saber: . 1.Planejamento institucional, 2. Produção 
+acadêmico-científica, 3. Responsabilidade social, 4. Comunicação com sociedade, 5. Gestão 
+de Pessoas, 6. Administração acadêmica e gestão pedagógica, 7. Infraestrutura, 8. 
+Autoavaliação, 9. Política de atendimento aos discentes 10 Gestão financeira. 
+O Plano de Desenvolvimento institucional (Ano 2022 – Ano 2026) foi um dos principais 
+documentos que nortearam as ações da Fatec São Caetano do Sul – Antonio Russo tratou-se 
+de um documento que se caracterizou como uma identidade da instituição, definindo, 
+dentre outros, sua filosofia de trabalho, missão, estratégias, objetivos, estrutura e diretrizes 
+pedagógicas, algo a ser continuado no PDI para os anos de 2022 - 2026.  
+ 
+DIMENSÃO: RESPONSABILIDADE SOCIAL 
+Ao analisarmos esta dimensão a comissão levou em consideração a relevância da 
+Fatec São Caetano do Sul - Antonio Russo no âmbito regional, pois acreditamos que, para 
+qualquer instituição ser socialmente responsável, primeiro, deve atentar para as demandas 
+regionais e em conjunto com outras instancias públicas para propor projetos que visam 
+melhorar a qualidade de vida do seu entorno, bem como promover a inclusão social 
+daqueles que necessitam.  
+ 
+Compromisso da IES com os programas de inclusão social, ação afirmativa e inclusão 
+digital. 
+A Fatec São Caetano do Sul - Antonio Russo possui infraestrutura adequada aos 
+portadores de necessidades especiais. Há elevadores e rampas de acesso. Os banheiros são 
+adaptados e há vagas reservadas para esse fim no estacionamento.  
+No que tange à inclusão digital, percebe-se esta preocupação da IES com a biblioteca. 
+Como parte desta política, a Fatec São Caetano do Sul - Antonio Russo implantou um sistema 
+de consulta do acervo, via internet. 
+A faculdade também demonstra preocupação com a inclusão digital oferecendo 
+computadores para uso livre na biblioteca e nos 06 (quatro) laboratórios de informática 
+disponíveis além da implantação de Wireless livre disponível em toda faculdade.  
+36 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2024/INTEGRAL 
+Além das políticas institucionais a IES também incentiva e apoia os coordenadores de 
+cursos a promoverem ações afirmativas de cunho social. Segue algumas atividades 
+realizadas no ano de 2024. 
+Curso Análise e Desenvolvimento de Sistemas: ADS Day -  
+Curso Segurança da Informação: Security Day 
+Curso Jogos Digitais: Global Game Jam, Fatec SCS Game Jam, Fatec SCS Games Day 
+Curso Comércio exterior: EnComex 
+O estabelecimento de parcerias também é contemplado no PDI vigente. Ações 
+conjuntas com o poder público local; a comunidade e entidades civis auxiliariam as ações do 
+poder local em seus mais diversos programas que apresentem aderência aos campos de 
+conhecimento desenvolvidos na Fatec São Caetano do Sul - Antonio Russo.  
+Visando atender sua missão e legitimar-se como instituição geradora e 
+disseminadora de conhecimento a Fatec São Caetano do Sul - Antonio Russo implantou 
+projetos cuja finalidade é o atendimento da comunidade regional como:  
+Descarte Consciente - A Fatec São Caetano disponibilizará coletores de resíduos recicláveis. 
+Descartes de materiais de escrita (canetas, lápis, pincéis, canetões) além de pilhas e baterias 
+estarão disponíveis na unidade.  
+Eventos acadêmicos - Buscando uma maior interação entre alunos, professores e 
+comunidade externa, a Fatec São Caetano desenvolve atividades que envolvem toda sua 
+comunidade acadêmica, inclusive comunidade externa. Tais como: 
+a) Fatecnologia – previamente agendado em calendário acadêmico, o evento conta 
+com a participação de palestrantes e empresas renomadas no mercado de trabalho, 
+ocorre geralmente no mês de maio e a participação é voltada a toda a comunidade 
+FATEC. 
+b) Semana dos cursos de ADS, Jogos, Comércio Exterior e Segurança da Informação – 
+voltado aos alunos dos cursos específicos, visa colocá-los em contato com 
+profissionais e empresas da área, além da atualização profissional quanto ao 
+mercado de trabalho, novos recursos e novas tecnologias empregadas. 
+c) Minuto Fatec – é uma iniciativa da Fatec São Caetano do Sul – Antonio Russo. 
+Semanalmente são feitas palestras online com professores da Fatec São Caetano e 
+profissionais do mercado da área de Tecnologia e Gestão, As palestras são todas 
+37 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2024/INTEGRAL 
+transmitidas no canal do YouTube da Fatec Sâo Caetano e ficam à disposição 
+https://www.youtube.com/fatecsaocaetano 
+ 
+Relações com o setor público, produtivo e mercado de trabalho 
+De acordo com o PDI, a IES prevê Políticas de Estágio, Prática Profissional e Atividades 
+Complementares: a prática no processo de formação acadêmica é fundamental para a 
+consolidação de uma aprendizagem baseada no contexto real, concreto, no qual o egresso 
+atuará. Sendo assim, a estrutura curricular dos cursos oferecidos na Fatec São Caetano do 
+Sul - Antonio Russo devem propiciar o espaço para que o discente tenha possibilidades de 
+vivenciar momentos de prática profissional e atividades ligadas ao contexto da profissão. 
+No entanto, entende -se que o estágio curricular deve ocorrer em um momento do 
+processo de formação que caracterize um mínimo de amadurecimento pré-profissional, pois 
+uma iniciação antecipada pode concorrer para o não-aproveitamento da oportunidade, além 
+de incentivar a utilização de recursos humanos sem o compromisso empregatício.  
+Nesse sentido, esta Comissão buscou analisar os indicadores institucionais que 
+legitimam o discurso institucional que preconiza o estágio como sendo o norteador no 
+contexto da futura atuação profissional. Para tanto analisamos todos os projetos de cursos 
+oferecidos na Fatec São Caetano do Sul - Antonio Russo,  e constamos que os projetos 
+versam em seu corpo as práticas voltadas para o estágio supervisionado. Alinhavando o 
+estágio a demanda regional. 
+No que diz respeito às oportunidades de oferta e consecução de parcerias e 
+encaminhamento de alunos, existem alguns setores e serviços diretamente ligados à Direção 
+da faculdade, como: setor de supervisão de estágio, onde são assinados contratos e 
+parcerias com empresas e instituições concedentes de estágios; setor de divulgação de vagas 
+e oportunidades de estágio. 
+Ao contemplar a vigência dos estágios na Fatec São Caetano do Sul - Antonio Russo, 
+percebemos a ampla aplicação do que está disposto no PDI. A pretensão é manter os atuais 
+serviços e setores para estágios de alunos, agregando outros espaços e implementando 
+outras ações de parcerias. Uma dessas ações é a disponibilização das vagas e oportunidades 
+na home page e canais de comunicação oficial (redes sociais) da faculdade para o acesso dos 
+alunos. Vide site institucional no link http://www.fatecsaocaetano.edu.br 
+38 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2024/INTEGRAL 
+A Fatec São Caetano do Sul - Antonio Russo conta ainda com um departamento de 
+estágio que tem como objetivo ser uma ponte entre as solicitações de vagas das empresas 
+da região possibilitando, assim, o encaminhamento de alunos dos diversos cursos da Fatec 
+São Caetano do Sul - Antonio Russo. 
+Nos murais distribuídos pela IES, é possível verificar afixadas as ofertas de estágios e 
+empregos permitindo o acesso de todos os discentes. Vale ressaltar que as consultas 
+também podem ser acessadas via canais de comunicação oficiais.  
+ 
+Responsabilidade Social no Ensino 
+A Fatec São Caetano do Sul - Antonio Russo, exercita sua face mais generosa por 
+meio da viabilização do retorno à comunidade de suas ações de ensino e pesquisa por meio 
+de ações direcionadas para o público externo, este retorno ocorre em função de convênios e 
+parcerias institucionais estruturadas em um conjunto de projetos e ações compartilhadas. 
+Para a comunidade interna, além da efetiva possibilidade de participar ativamente na 
+concepção, implantação e desenvolvimento destes projetos, criando condições de 
+contribuírem com oportunidades de extensão aos docentes e discentes. 
+Essa política tem por finalidade consolidar não só sua interação com as questões 
+regionais, justificando sua matricialidade com as políticas de extensão, mas, também, 
+estabelecer sua interface com as grandes demandas estruturais e conjunturais brasileiras. 
+Validando a coerência entre o que é proposto e o que se deseja para um núcleo 
+disseminador e gerador de conhecimento e afim de tornar-se um agente de transformações 
+sociais. 
+ 
+ 
+39 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2024/INTEGRAL 
+EIXO 3: POLÍTICAS ACADÊMICAS 
+ 
+Dimensão 2: Políticas para o Ensino, a Pesquisa e a Extensão 
+Dimensão 4: Comunicação com a Sociedade 
+Dimensão 9: Política de Atendimento aos Discentes 
+ 
+EIXO 
+3 – Políticas Acadêmicas 
+Dimensã
+o SINAES 2, 4 e 9 
+APRESENTAÇÃO DAS PRINCIPAIS INFORMAÇÕES COLETADAS NO EIXO 
+ 
+ 
+DIMENSÃO 2: POLÍTICAS PARA O ENSINO, A PESQUISA E A EXTENSÃO 
+ 
+Ressaltamos que é responsabilidade da Fatec São Caetano do Sul - Antonio Russo 
+planejar, coordenar, executar e avaliar as ações e políticas de ensino, em consonância com 
+as diretrizes propostas pelo MEC e Conselho Estadual de Educação. Portanto, esta CPA 
+limitou-se a analisar, de forma objetiva e sintética, os grupos de indicadores tangenciados 
+pela dimensão sem prender-se a discursos incorporados à cultura organizacional. Para tanto, 
+40 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2024/INTEGRAL 
+recorremos a documentos institucionais disponibilizados para análise, consultando setores 
+competentes e relatórios de gestão produzidos no âmbito institucional. 
+Acreditamos que, com esse critério, pudemos manter a neutralidade na análise dos 
+indicadores demonstrando, com clareza e objetividade, os aspectos que são objetos de 
+análise segundo as diretrizes da CPA Central e SINAES. 
+A política para o ensino de graduação (presencial e à distância) 
+A Fatec São Caetano do Sul - Antonio Russo, atua na formação superior tecnológica, 
+subdivididas em áreas de concentração, como segue: 
+4. Análise e desenvolvimento de sistemas; 
+5. Segurança da informação; 
+6. Jogos digitais; 
+7. Comercio exterior 
+8. Gestão Empresarial na modalidade EaD 
+Além das áreas supracitadas, faz parte do planejamento institucional da Fatec São 
+Caetano do Sul - Antonio Russo a ampliação dos cursos de ensino à distância, conforme 
+descrito no Plano de Desenvolvimento Institucional (PDI) vigente.  
+ 
+Políticas institucionais para a Graduação e Graduação Tecnológica 
+  
+A Fatec São Caetano do Sul - Antonio Russo, não possui políticas próprias para o 
+ensino de graduação tecnológica. No entanto, pode-se visualizar a articulação da tríade 
+institucional: Graduação, Pesquisa tecnológica e Extensão, legitimando o discurso dos 
+órgãos reguladores (CEETEPS e CESU) o compromisso com a educação no ensino superior 
+previstos nos documentos institucionais – PDI e Regimento Geral da Fatec São Caetano do 
+Sul - Antonio Russo. Sendo assim, seguem abaixo as Diretrizes para o Ensino de Graduação 
+Tecnológica da Fatec São Caetano do Sul - Antonio Russo: 
+1. Implementar cursos na modalidade EaD no âmbito institucional; 
+2. Considerar os conhecimentos teóricos, científicos, técnicos e tecnológicos como 
+insumos a serem mobilizados pelos alunos e não como preocupação exclusiva da 
+ação docente, ao selecionar / priorizar aqueles que, efetivamente, são essenciais 
+para desencadear o processo de desenvolvimento profissional do educando. 
+3. Garantir que, nos projetos pedagógicos dos cursos oferecidos pela IES haja lugar 
+para a Iniciação Científica, a prática da Monitoria, as Atividades Científico-
+41 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2024/INTEGRAL 
+culturais e Artísticas, os Estágios curriculares e extracurriculares e a participação 
+em Projetos de Extensão junto à comunidade acadêmica e junto à comunidade 
+externa. 
+4. Flexibilizar os currículos dos cursos de modo a conter pluralidade de linhas de 
+pensamento, definir conteúdos teóricos básicos e práticas profissionalizantes 
+essenciais para a constituição de competências e habilidades a serem 
+desenvolvidas pelos alunos, na perspectiva do “aprender a aprender”. 
+5. Estabelecer procedimentos para o bom andamento de estágios, TCC’s, 
+monografias, o exercício da monitoria, da Iniciação Científica e demais atividades 
+práticas que integram o currículo dos cursos; 
+6. Organizar ações de nivelamento de conteúdos que deveriam ter sido adquiridos 
+pelos alunos no ensino médio, principalmente no que tange às competências 
+necessárias para a expressão escrita em Língua Portuguesa e fundamentos de 
+Matemática; 
+7. Adotar estratégias didático-pedagógicas adequadas ao fomento da capacidade 
+empreendedora do aluno; 
+8. Organizar um sistema de acompanhamento do aluno egresso dos cursos de 
+graduação como instrumento, não só de avaliação dos resultados finais do 
+processo 
+de 
+ensino-aprendizagem, 
+mas 
+também 
+de 
+apoio 
+para 
+o 
+prosseguimento de estudos, na perspectiva da Educação Continuada; 
+9. Contratar, preferencialmente, professores com titulações de mestrado e 
+doutorado para atuarem em seus cursos; 
+10. Valorizar a experiência profissional na respectiva área de atuação, para a 
+contratação de professores; 
+11. Renovar os recursos materiais, equipamentos, laboratórios e biblioteca de 
+acordo com as necessidades demonstradas nos projetos pedagógicos dos cursos 
+oferecidos na instituição; 
+12. Atualizar, sistematicamente, os projetos pedagógicos dos cursos de Graduação, a 
+partir das avaliações interna e externa dos mesmos; 
+ 
+Ao analisarmos as diretrizes dos cursos oferecidos pela Fatec São Caetano do Sul - 
+Antonio Russo, verificamos o compromisso público com a consolidação das atividades de 
+42 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2024/INTEGRAL 
+ensino e fortalecimento dos aspectos relacionados à inserção regional da Fatec São Caetano 
+do Sul - Antonio Russo, através de suas ações de articulação local e prospecção da imagem 
+institucional. Tal iniciativa tem como força motriz demonstrar a articulação e o esforço que a 
+IES tem promovido, nos últimos anos, inclusive durante a pandemia, para criar um ambiente 
+inter e multidisciplinar que atenda às instâncias de sua comunidade acadêmica.  
+ 
+Articulação entre o Projeto Pedagógico Institucional e os Projetos Pedagógicos de Cursos 
+Os projetos de cursos de Graduação existentes na Fatec São Caetano do Sul - Antonio 
+Russo estão em consonância com os preceitos legais que regem a oferta de cursos 
+superiores na Federação e essa informação pode ser confirmada através dos atos legais 
+homologados pelo MEC e CEE. 
+Registrada a validade legal dos cursos oferecidos na IES’ e utilizando de suas 
+prerrogativas, a CPA analisará no próximo ciclo avaliativo (2024) os Projetos Pedagógicos de 
+cada um dos cursos de Graduação por área de atividade, buscando constatar situações que 
+possam divergir das diretrizes do MEC, Conselho Estadual de Educação e dos princípios 
+defendidos pela Fatec São Caetano do Sul - Antonio Russo, para verificar in loco os aspectos 
+qualitativos e quantitativos dos referidos cursos. Essa ação visará a identificar 
+potencialidades e fragilidades de execução para, em momento posterior, sugerir 
+mecanismos e estratégias de melhorias, respeitando as especificidades de cada área. 
+ 
+Políticas institucionais para a Pesquisa  
+Com relação à pesquisa, a Fatec São Caetano do Sul - Antonio Russo entende que é 
+parte integrante do processo educacional a ser oferecida à comunidade acadêmica e que sua 
+consolidação contribui, substancialmente, para a formação de cidadãos competentes e 
+comprometidos com a sociedade, tornando-os capazes de exercerem a cidadania sob 
+diferentes perspectivas. Nesse sentido, a Fatec São Caetano do Sul - Antonio Russo, no ano 
+corrente, vem perseguindo as metas propostas em seu PDI, já mencionadas nesse relatório, 
+referentes ao ensino, pesquisa tecnológica e extensão. 
+Por outro lado, esta CPA considerou que a implantação de um processo de Pesquisa 
+perene e tácito exige comprometimento tanto institucional como de docentes e discentes 
+para sua consolidação e manutenção e que esse processo se consolida em longo prazo. 
+43 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2024/INTEGRAL 
+Dessa forma, buscou-se, na análise dessa dimensão, evidenciar os esforços institucionais na 
+consolidação do processo.  
+ 
+Políticas institucionais para a Pesquisa 
+Nos últimos anos os dirigentes da Fatec São Caetano, em especial a direção da IES, têm 
+aprimorado diversos mecanismos que visam fomentar a pesquisa no âmbito institucional 
+afim de atrelar a ciência a pesquisa tecno-cientifica. Nesse sentido, é possível verificar as 
+iniciativas nos documentos e ações gerenciais que consubstanciam as propostas. Como 
+segue: 
+1. Organizar Grupos de Pesquisa em consonância com os três grandes eixos 
+estabelecidos: 1. Desenvolvimento Regional; 2. Desenvolvimento Tecnológico; 3. 
+Responsabilidade social; 
+2. Incentivar os docentes, por meio de capacitação contínua, a assumirem posturas 
+de professores pesquisadores, conduzindo-os à reflexão e ação do fazer 
+pedagógico e ao questionamento reconstrutivo em sala de aula, com rigor 
+metodológico, adotando-se, como princípio básico, a capacidade de identificar 
+problemas, refletir sobre eles, localizar as soluções e (re) construí-las, ao mesmo 
+tempo, examinando suas especialidades e preferências, sem abandonar os eixos 
+temáticos da Fatec São Caetano do Sul - Antonio Russo, com o propósito de 
+institucionalizar a pesquisa tecnológica, mesmo não sendo a financiada, original e 
+especializada, acompanhada e avaliada por órgãos de fomento. 
+3. Incentivar a adoção de linhas de pesquisa tecnológicas e áreas temáticas para o 
+desenvolvimento de programas de Iniciação Científica, respeitando-se os eixos 
+temáticos da faculdade. Cuidar para que o trabalho de iniciação à pesquisa seja 
+acompanhado e se dê de maneira interativa. Zelar pelo acompanhamento 
+contínuo dos alunos envolvidos, explicitando e fundamentando cada etapa do 
+processo (destacar, comentar, e refletir sobre os momentos fundamentais), 
+acompanhar os trabalhos em grupo. 
+4. Incentivar os professores, dentro de suas especialidades e de cada disciplina, a 
+exercitar pesquisas de caráter qualitativo e quantitativo, bem como o diálogo com 
+seus pares; 
+44 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2024/INTEGRAL 
+5. Orientar professores a definirem os problemas de pesquisa em consonância com 
+os problemas da realidade, de modo especial, da localidade e regionalidade. 
+6. Adotar procedimentos e critérios para os trabalhos de Iniciação Científica, 
+envolvendo alunos e professores nos Trabalhos de Conclusão de Curso de forma 
+contínua, considerando as orientações contidas no Projeto Político-Pedagógico do 
+curso e os eixos temáticos adotados pela Fatec São Caetano do Sul - Antonio 
+Russo. 
+7. Acompanhar e avaliar, sistematicamente, o desenvolvimento da pesquisa visando 
+à manutenção de suas linhas e áreas temáticas e/ou a substituição das mesmas 
+por outras, considerando as prioridades dos problemas locais, regionais, nacionais 
+ou internacionais, apontados pela comunidade acadêmica. Avaliar, para verificar, 
+se os objetivos desejados estão sendo atingidos e, se necessário, mudar as ações. 
+Construir, na prática, critérios e formas de avaliar ao longo do processo, evitando 
+artificializar a avaliação. 
+8. Desenvolver parcerias com outras instituições de ensino e/ou centros de pesquisa, 
+por meio de projetos compartilhados que objetivem o desenvolvimento da 
+Região. 
+ 
+Paralelamente, a Fatec São Caetano do Sul - Antonio Russo estimulou ao longo do 
+ano de 2024, por meio de diretrizes, políticas, convites e reuniões, a conscientização coletiva 
+do quadro de coordenadores e docentes para os procedimentos para elaboração de projetos 
+de pesquisa tecnológica.  
+ 
+Políticas institucionais para a Extensão  
+Os programas de extensão são caracterizados como aqueles que transformam o 
+ambiente regional nos aspectos econômico e social, através da produção e disseminação de 
+conhecimento, sendo de suma relevância para a coexistência de uma instituição de ensino 
+superior. Visando atender tais demandas, a Fatec São Caetano do Sul - Antonio Russo 
+desenvolve uma série de iniciativas com a finalidade de provocar a reflexão acadêmica sobre 
+a importância das ações afirmativas como: 
+1. Descarte adequado de baterias, pilhas e equipamentos eletrônicos. 
+45 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2024/INTEGRAL 
+2. Parceria com o Ministério Público para o reaproveitamento e devolução à 
+sociedade de equipamentos apreendidos em bingos clandestinos. 
+3. Instalação de lâmpadas visando economia da energia elétrica. 
+4. Instalação de torneiras de baixo consumo nos sanitários. 
+5. Realização da Campanha Solidária como forma de coibir o “Trote Universitário” 
+e impulsionar campanhas solidárias como: doação de alimentos, higiene, 
+doação de sangue e coleta de óleo comestível. 
+6. Desde 2015 a unidade tem a honra de receber o Selo de Sustentabilidade como 
+Instituição Socialmente Sustentável oferecido pela ABMES – Associação 
+Brasileira de Mantenedores de Ensino Superior. 
+ 
+Diretrizes institucionais para a Extensão  
+1. Incentivar práticas acadêmicas de Extensão com vista ao desenvolvimento da 
+consciência social e política dos acadêmicos da Fatec São Caetano do Sul - Antonio 
+Russo; 
+2. Priorizar programas / projetos que permitam maior fluxo entre o saber acadêmico 
+e o senso comum, visando à produção de novos conhecimentos resultantes do 
+confronto com a realidade e que permitam o repensar e o reformular das 
+concepções e práticas curriculares adotadas; 
+3. Promover cursos de extensão, eventos, palestras encontros, fóruns, com o 
+objetivo de enriquecer os conteúdos específicos tratados em salas de aula, 
+envolvendo alunos, professores e demais segmentos interessados; 
+4. Participar dos programas atuais de intercâmbios nos âmbitos institucionais, 
+estadual e federal; 
+5. Manter os atendimentos à população da região do ABCDMR nas atividades 
+realizadas por alunos e professores; 
+6. Organizar projeto multidisciplinar de atendimento à população da região; 
+7. Promover atividades artísticas e culturais envolvendo a participação da 
+comunidade acadêmica com os produtores de arte e cultura regionais; 
+8. Divulgar conhecimento acadêmico nos canais de comunicação da faculdade; 
+46 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2024/INTEGRAL 
+9. Organizar ações visando à conscientização da comunidade interna e externa no 
+que tange às questões relativas ao meio ambiente, ao desenvolvimento 
+sustentável, à qualidade de vida e às práticas acadêmicas. 
+ 
+Diretrizes institucionais para a Monitoria  
+O programa de Monitoria desenvolvidos pela Fatec São Caetano do Sul - Antonio 
+Russo está de acordo com a lei vigente para prática do estágio, e são acompanhados pelos 
+respectivos responsáveis por área de conhecimento. Seguem, abaixo, a Diretrizes 
+Institucionais para a execução de Monitoria na Fatec São Caetano do Sul - Antonio Russo. 
+Conforme CEETEPS 40, de 08-02-2018 e Instrução Normativa CESU nº 07, de 16-07-2018.  
+O controle das horas trabalhadas será feito em formulário próprio, supervisionado 
+pelo professor responsável, que deverá ser encaminhado à Coordenadoria do Curso, ao final 
+de cada mês. 
+ 
+DIMENSÃO 4: COMUNICAÇÃO COM A SOCIEDADE. 
+A avaliação deste quesito tem como objetivo analisar a IES nos diferentes aspectos da 
+Dimensão 4, propostos pelo SINAES, ou seja, comunicação interna e externa da Fatec São 
+Caetano do Sul - Antonio Russo e sua importância na construção de sua imagem na região 
+do ABC Paulista. Para tanto, partiu-se do princípio de que toda instituição produtora de 
+conhecimento acadêmico e científico tem por obrigação criar e manter canais de diálogos 
+com seus parceiros, colaboradores, professores e discentes.  
+Nesse sentido, e considerando os princípios pedagógicos delineados nos documentos 
+institucionais a Fatec São Caetano do Sul - Antonio Russo, que destaca a importância da 
+articulação da rede local para legitimação e consolidação de um polo disseminador de 
+conhecimento, e para assegurar essa condição, a faculdade tem colocado como exigência, 
+dentro das políticas institucionais, a criação, manutenção de canais e fluxos de comunicação 
+com a comunidade acadêmica e regional. 
+Essa iniciativa tem, como objetivo, privilegiar a gestão participativa da comunicação. 
+Nestes momentos, os produtores, emissores e receptores das informações são claramente 
+definidos, vislumbrando demonstrar eficiência, credibilidade e dialogicidade com o público 
+alvo de cada segmento, com quem a faculdade interage.  
+47 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2024/INTEGRAL 
+Por fim, a Fatec São Caetano do Sul - Antonio Russo acredita que, por meio desses 
+canais de comunicação criados ao longo dos anos, contribui substancialmente na geração de 
+conhecimento, garantindo o fluxo de comunicação de forma uniformizada, atualizada, 
+precisa e coerente, possibilitando a construção de uma relação de confiança com o alunado, 
+colaboradores, parceiros e comunidade.  
+ 
+Comunicação Interna 
+Como mencionado nas considerações iniciais, a Fatec São Caetano do Sul - Antonio 
+Russo privilegia a comunicação interna entre as instâncias superiores, colaboradores e 
+comunidade, buscando fortalecer um ambiente democrático e participativo na Instituição. 
+Para tanto, maximiza os canais criados e disponibilizados à comunidade acadêmica e 
+funcional da Instituição, como  segue: 
+O site oficial institucional é www.fatecsaocaetano.edu.br mecanismo criado para 
+que discentes, docentes, comunidade e colaboradores possam realizar consultas, lançar 
+dados, acessar comunicados gerais, ter acesso a eventos, entre outras possibilidades. Nesse 
+espaço, a faculdade procura desenvolver mecanismos de interatividade com a sociedade por 
+meio da divulgação de estágios, da formação de grupos de estudos, do ensino à distância e 
+da divulgação dos cursos e periódico FasciTech, possibilitando o aprofundamento das 
+relações e estabelecendo um canal efetivo de comunicação nas mais diversas áreas do 
+conhecimento humano. Através do site, as comunidades acadêmicas, interna e externa 
+mantêm-se informadas a respeito dos serviços oferecidos pela Fatec São Caetano do Sul - 
+Antonio Russo, bem como a respeito da realização de eventos, semanas de cursos, palestras, 
+workshops, entre outros. 
+ 
+Para reforçar o fluxo de informações, a Fatec São Caetano do Sul - Antonio Russo 
+conta, também, com os murais informativos instalados nas salas-de-aula, no hall e em 
+diversas dependências da faculdade. Esses murais têm como finalidade socializar todas as 
+informações pertinentes ao alunado, docentes e comunidade, servindo como propagadores 
+de informações.  
+Além dos murais supracitados, a Fatec São Caetano do Sul - Antonio Russo conta, 
+também, com diversas ações internas de comunicação, como a TV Fatec que foi criada há 
+três anos, tendo como público algo principal a comunidade acadêmica, com programação 
+48 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2024/INTEGRAL 
+quinzenal e função de publicizar  as ações institucionais, palestras, fóruns, eventos e 
+informes. Como segue:  
+ 
+ 
+FACEBOOK 
+- 
+GRUPO: 
+https://www.facebook.com/groups/fatecsaocaetano: 
+É 
+utilizado para divulgação de campanhas, eventos e notícias, publicação de fotos e vídeos de 
+atividades da comunidade acadêmica, monitoramento de pautas e relacionamento com 
+corpo discente. 
+ 
+ 
+X (TWITTER): https://twitter.com/fatecsaocaetano: Utilizado para divulgação de 
+campanhas, eventos e notícias e publicação de fotos de atividades da comunidade 
+acadêmica. 
+49 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2024/INTEGRAL 
+ 
+ 
+INSTAGRAM: http://instagram.com/fatecsaocaetano: Utilizado para divulgação de 
+campanhas, eventos e notícias e publicação de fotos de atividades da comunidade 
+acadêmica. 
+ 
+ 
+YOUTUBE: https://www.youtube.com/user/fatecsaocaetano: Utilizado para divulgação 
+de campanhas, eventos e notícias e publicação de vídeos da comunidade acadêmica. 
+ 
+50 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2024/INTEGRAL 
+LINKEDIN: https://www.linkedin.com/company/fatec-s-o-caetano-do-sul - Utilizado para 
+divulgação de campanhas, eventos e notícias e publicação de fotos de atividades da 
+comunidade acadêmica. Também é utilizado para divulgação de campanhas, eventos e 
+notícias, publicação de fotos de atividades da comunidade acadêmica e relacionamento com 
+a comunidade acadêmica e prospects. 
+ 
+ 
+Por fim, ressaltamos que, para a análise desse aspecto, foram considerados os 
+mecanismos de comunicação existentes na Fatec São Caetano do Sul - Antonio Russo e que 
+encontram-se em pleno funcionamento. Promovendo todos os esforços para mante o 
+diálogo com sua comunidade acadêmica por meio de softwares de troca de mensagens 
+(telegrama, whatzapp e teams). 
+ 
+Comunicação Externa 
+A Comunicação Externa da Fatec São Caetano do Sul - Antonio Russo tem por 
+objetivo difundir informações de interesse público, enfatizando aspectos como missão, 
+valores e objetivos, colaborando para a construção da imagem e identidade da Instituição no 
+ABC Paulista. 
+Em consonância com as técnicas empregadas, os instrumentos de comunicação 
+externa também são bastante diversificados, utilizando-se diferentes mídias como: site, 
+panfletos, cartazes, redes sociais, informes eletrônicos entre outras.  
+Mostrou-nos, também, condições de infraestrutura tecnológica que vêm sendo 
+oferecidas pela Fatec São Caetano do Sul - Antonio Russo para a uniformização da 
+comunicação, porém, ainda consideramos que, apesar dos esforços, esses meios e canais de 
+51 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2024/INTEGRAL 
+comunicação podem ser melhorados no que tange à produção de conteúdos e divulgação da 
+marca Fatec.  
+Na análise, não deixamos de considerar a função dos canais e instrumentos bem 
+como sua eficácia para atingir as metas propostas pela IES, pois, esses, apesar de 
+apresentarem algumas deficiências, demonstraram eficácia para gerir o fluxo de informação 
+e conhecimento produzido no âmbito institucional.  
+ 
+DIMENSÃO 9: POLÍTICA DE ATENDIMENTO AOS DISCENTES 
+ 
+A Política de Atendimento aos Discentes da Fatec São Caetano do Sul - Antonio Russo 
+tem por objetivo manter a qualidade do atendimento a todos os seus alunos, bem como aos 
+seus egressos e está pautada nos seguintes princípios: 
+➢ preservar e difundir os valores éticos; 
+➢ assegurar aos discentes igualdade de oportunidades no exercício das 
+atividades acadêmicas; 
+➢ contribuir para a melhoria do desempenho acadêmico; 
+➢ propiciar apoio psicopedagógico. 
+ 
+Para tanto, a IES criou departamentos e projetos que visam aprimorar a qualidade do 
+atendimento aos discentes visando a excelência no atendimento. Citamos: 
+Estágios – os alunos são atendidos individualmente. Entregam seus documentos para 
+regulamentação do estágio na secretara acadêmica na qual é protocolado, registrado e 
+encaminhado a Direção no setor de estágios para verificação e assinaturas. Em caso de 
+irregularidade ou inconsistência nas informações, o aluno é avisado e quando possível a 
+Empresa é notificada pela Unidade de Ensino Superior sobre o ocorrido, visando maior 
+agilidade no processo de assinatura. 
+Atendimento Psicopedagógico – os alunos têm a possibilidade de agendamento através 
+de email ou pessoalmente ou ainda, serem encaminhados pelos professores e 
+coordenadores de curso.  
+Atendimento dos orientadores de estágio e TCC - os professores realizam seus 
+atendimentos na unidade de ensino em dias e horários previamente divulgados aos alunos, 
+além de manterem contato através de email e teams. 
+52 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2024/INTEGRAL 
+Atendimento dos coordenadores – os atendimentos são realizados na unidade de 
+ensino em horários previamente divulgados. 
+Direção - A diretora da unidade, pessoalmente, além do requerimento geral onde se 
+estabelece agendamento com dia e hora a diretora, tem atendido os alunos também por 
+redes sociais, por meio de grupos da unidade e messenger no Facebook. Além disso, ela 
+disponibiliza suas redes sociais pessoais para o contato com todos os alunos e mantem um 
+grupo de telegrama com todos os representantes de turma, além das reuniões periódicas 
+com discentes. 
+Escritório de Carreiras – Implantado no segundo semestre de 2017, o escritório  de 
+carreiras auxilia os discentes na busca pela colocação no mercado de trabalho, bem como 
+auxilia-os a participar de entrevistas, dinâmicas de emprego, apresentação pessoal na 
+entrevista, formulação de currículo, utilização das mídias sociais para busca de novas 
+oportunidade bem como a forma correta de se beneficiar com as ferramentas das mídias 
+socais e do linkedin.    
+Comissão Própria de Autoavaliação – constituída em abril de 2016/2 e tem como 
+função essencial mediar os anseios da comunidade acadêmica e gestores da IES. 
+ 
+Realização de eventos científicos, culturais, técnicos e artísticos 
+Constatou-se que a IES ao longo do ano corrente, em geral, promoveu encontros, 
+fóruns, semanas culturais e temáticas de cada área com participação de alunos e 
+professores, tanto na organização, como na participação efetiva, com apresentação de 
+trabalhos. Palestras, minicursos e outras atividades relacionadas. 
+ 
+Facilidade de acesso aos dados e registros acadêmicos 
+Para facilitar o acesso aos dados e registros acadêmicos, A Fatec São Caetano do Sul - 
+Antonio Russo oferece, aos alunos, o sistema SIGA, tanto para discentes como para 
+docentes, onde estes podem lançar notas, consultar faltas, a qualquer momento. Inclusive 
+efetuar rematrícula para o semestre vindouro. 
+Também, no SIGA, o aluno tem acesso as suas notas, boletim além do acervo da 
+biblioteca e acesso ao manual do aluno. Há, no site, um link com normas e regulamentos da 
+IES. Todas as salas de aula possuem quadro de avisos, nele, são afixados, periodicamente, 
+regulamentos, prazos e avisos com orientações para alunos.  
+53 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2024/INTEGRAL 
+A grade curricular de cada curso está disponível no site da Fatec São Caetano do Sul - 
+Antonio Russo e as ementas das disciplinas, como também seus cronogramas e bibliografias 
+básica, são divulgadas aos alunos no início de cada semestre em sala de aula, pelos 
+professores.  
+ 
+Apoio à participação em eventos, divulgação de trabalhos e produção discente. 
+É evidente a intenção, na forma de ações da Fatec São Caetano do Sul - Antonio 
+Russo no sentido de dar início ao programa de iniciação científica, objetivando a 
+incorporação dos alunos e o aumento de sua produção científica. A IES fomenta a produção 
+cientifica por meio do periódico intitulado FasciTech. O FaSCi-Tech é o periódico científico 
+eletrônico da Faculdade de Tecnologia de São Caetano do Sul do Centro Estadual de 
+Educação Tecnológica "Paula Souza" (CEETEPS). Seu primeiro número foi publicado em 
+Outubro de 2009. Recebendo pela CAPES as seguintes qualificação no âmbito nacional: 
+Engenharias III – C; Interdisciplinar - B4; Linguística e Literatura - B2. A submissão dos artigos 
+é pública e contínua. 
+ 
+A IES conta ainda com as Semanas de cursos e proporciona divulgação de trabalhos 
+discentes. Alguns cursos divulgam, amplamente, a defesa dos trabalhos de conclusão de 
+seus cursos para toda comunidade acadêmica interna e externa. 
+ 
+Apoio e incentivo às organizações estudantis 
+Existem iniciativas na IES para fomentar agremiações estudantis e similares, porém o 
+engajamento discente não reflete a vontade da instituição sendo necessário definir 
+estratégias assertivas para sua efetiva implantação.  
+ 
+Egressos 
+O perfil do egresso de cada curso deverá conter os seguintes critérios de identidade 
+institucional da Fatec São Caetano do Sul - Antonio Russo, adaptando-os às particularidades 
+e necessidade de cada área. 
+54 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2024/INTEGRAL 
+Ética e moral - A ética, como elemento regente da moral humana, deve ser 
+entendida como singularidade de convívio social. Não se pode assumir a existência de éticas 
+diferentes para cada espaço de atuação do homem, a ética é uma só em qualquer contexto.  
+Consciência Crítica - A capacidade de discernir, por competência própria, o que é 
+melhor para si, bem como de julgar uma situação ou indivíduo pelo sistema da meritocracia 
+é fundamento de uma consciência crítica. 
+Cultural - A propagação e o incentivo e desenvolvimento da cultura do ponto de vista 
+erudito, ou como forma de inserção grupal, ou ainda como acesso a outros conhecimentos, 
+é de responsabilidade da Fatec São Caetano do Sul - Antonio Russo para com o egresso, 
+paralelamente à formação profissional. 
+Social - A formação do egresso deve ter, como perspectiva maior, sua atuação na 
+sociedade, tanto no que diz respeito ao convívio social, quanto ao exercício profissional. 
+Sendo assim, a ênfase no processo será dada a uma educação humanista, juntamente com o 
+ensino de conhecimentos técnicos e científicos consoantes com a realidade profissional em 
+que ele atuará. Para tanto, são necessários estudos constantes sobre as demandas, 
+peculiaridades e tendências do mercado regional. 
+Profissional - O egresso deve sintonizar-se com as tendências, as regras e as 
+mudanças que ocorrem no seu campo de atuação profissional. Para isso, é incentivada a 
+participação em eventos internos e externos gerais da área e, também, há um esforço em 
+contratar professores que estejam efetivamente inseridos no mundo do trabalho em que os 
+futuros profissionais atuarão. 
+Científica - A incumbência maior do ensino superior é a formação profissional lato-
+sensu, ou seja, preparar o profissional para um determinado segmento de trabalho, tendo 
+em vista sua atuação imediata na sociedade. Sabe-se, no entanto, que uma parte dos alunos 
+caminhará para o exercício na vida científica. Ao conhecer as noções básicas do trabalho de 
+pesquisa tecnológica, o egresso prepara-se para um exercício profissional melhor 
+fundamentado, além de superar as limitações do pensamento de senso comum. 
+ 
+Política de acompanhamento do egresso 
+A política de acompanhamento de egressos da IES não é institucionalizada. Contudo, 
+a Fatec São Caetano do Sul - Antonio Russo os recebe sistematicamente nas semanas de 
+55 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2024/INTEGRAL 
+cursos, momentos em que, muitas vezes, estes são chamados para apresentações de 
+trabalhos.  
+O contato com ex-alunos, em sua maioria, é feito por vínculos pessoais que se 
+estabelecem entre professor e aluno. O aporte que os professores extrapolam o simples 
+repasse de conhecimentos, o professor na Fatec São Caetano do Sul - Antonio Russo é 
+aquele que estimula o aluno, que contribui para sua formação profissional e para seu 
+crescimento pessoal. Em função disso, os alunos mantêm contato com seus professores e, a 
+partir destes contatos pessoais, pode-se criar uma política sistematizada e institucional de 
+controle de egressos, combinada com a confecção de uma lista de alunos egressos, bem 
+como controle dos ingressantes. 
+ 
+Programas de educação continuada voltada para o egresso 
+Não há um programa específico de educação continuada voltado para o egresso, até 
+este momento, porém a Fatec São Caetano do Sul - Antonio Russo, tem procurado incentivar 
+a formação continuada dos egressos. 
+ 
+ 
+ 
+56 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2024/INTEGRAL 
+EIXO 4: POLÍTICAS DE GESTÃO 
+Dimensão 5: Políticas de Pessoal 
+Dimensão 6: Organização e Gestão da Instituição 
+Dimensão 10: Sustentabilidade Financeira 
+ 
+EIXO 
+4 – Políticas de Gestão 
+Dimensã
+o SINAES 5, 6 e 10 
+APRESENTAÇÃO DAS PRINCIPAIS INFORMAÇÕES COLETADAS NO EIXO 
+ 
+ 
+DIMENSÃO 5: POLÍTICAS DE PESSOAL. 
+ 
+A política de pessoal da Fatec São Caetano do Sul - Antonio Russo insere-se na 
+preocupação da Centro Paula Souza com a excelência acadêmica e está alicerçada na tríade: 
+crescimento pessoal, conhecimento científico e desenvolvimento regional do ABC Paulista, 
+e, tendo como parâmetro as especificidades de cada área e componente curricular. Cabe 
+salientar que os princípios norteadores acerca das políticas de admissão, carreira, 
+acompanhamento, avaliação, valorização dos colaboradores, bem como condições de 
+57 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2024/INTEGRAL 
+trabalho, praticadas na Fatec São Caetano do Sul - Antonio Russo, ao quadro de pessoal são 
+de responsabilidade do Governo do Estado de São, pois trata-se de uma IES pública. 
+Nesse sentido a Fatec São Caetano do Sul - Antonio Russo pauta-se no 
+gerenciamento, execução e operacionalização das diretrizes e programas fornecidos pelo 
+Estado que dizem respeito ao seu quadro de pessoal. 
+Sendo assim, as funções convergem para a missão institucional que está voltada para 
+produzir, organizar e disseminar o conhecimento, de forma a contribuir para o 
+desenvolvimento regional do ABC, sem abandonar o preceito constitucional inerente às IES 
+no âmbito da educação superior que versa sobre a indissociabilidade entre ensino, pesquisa 
+e extensão, atrelados a um bom clima organizacional. 
+Destarte, e tomando como base documentos institucionais, partimos do pressuposto 
+de que a análise da Dimensão 8 deve tangenciar os aspectos pertinentes às funções do 
+quadro geral de colaboradores e suas relações como: perfil profissiográfico, formação, 
+alocação, plano de carreira e capacitação, entre outros. 
+ 
+O perfil dos profissionais da instituição: docente, funcionário técnico - administrativo e 
+operacional 
+O perfil do corpo docente da Fatec São Caetano do Sul - Antonio Russo é constituído 
+por: especialistas, mestres e doutores, contratados pelo regime jurídico da Consolidação das 
+Leis do Trabalho, via concurso público (determinado ou indeterminado) e em regime de 
+jornada que varia entre integral, parcial e horista, respeitando o Decreto Federal nº. 
+5773/2006 e padrões de qualidade preconizados pelo INEP/MEC. 
+A Fatec São Caetano do Sul - Antonio Russo exige, de seu corpo docente, o perfil de 
+profissionais capazes de transmitir ao seu alunado conhecimentos que atendam às 
+propostas dos cursos e sejam vinculados a realidade social regional. Para que isso seja 
+amplamente eficaz, são selecionados docentes de formação compatível com a unidade 
+curricular dentro da qual desenvolverão suas atividades, respeitando o Projeto Pedagógico 
+de cada Curso ofertado na IES. 
+Quadro de titulação do corpo docente da Fatec São Caetano do Sul - Antonio Russo 
+Titulação/Formação 
+Quantidade de Docentes 
+Percentual 
+Especialista 
+11 
+16% 
+58 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2024/INTEGRAL 
+Mestrado 
+42 
+55% 
+Doutorado 
+20 
+29% 
+Fonte: Departamento de pessoal da Fatec São Caetano do Sul - Antonio Russo 2024 
+Salienta-se que a Fatec São Caetano do Sul - Antonio Russo alinha-se a política de 
+Gestão de Recursos Humanos gerida pelo Centro Paula Souza no que tange a plano de 
+cargos e salários, destinado ao quadro de pessoal docente, técnico e administrativo.  
+Com relação a Publicações e Produções pelo quadro acadêmico, a Fatec São Caetano 
+do Sul - Antonio Russo tem claro que é no seu corpo docente (e discente) que se concentra o 
+maior volume de produções acadêmicas e científicas. A partir desta constatação, a Fatec São 
+Caetano do Sul - Antonio Russo tem priorizado seus esforços em criar fontes permanentes 
+de produção e disseminação de conhecimentos.  
+Para tanto, vem incentivando, paulatinamente, seu quadro de docentes a manterem 
+atualizado seu Curriculum Lattes, disponibilizando equipamentos – computadores – nas 
+salas dos professores, para que estes tenham acesso ao sistema, via internet.  
+Concomitantemente, orienta que todas as publicações e produções dos docentes devem 
+constar de seus respectivos prontuários pois são consideradas na avaliação do mérito da 
+evolução vertical e horizontal constante no Plano de Carreira, vigente para IES. 
+ 
+Política institucional para o desenvolvimento do quadro de recursos humanos 
+Segundo o Plano institucional da Fatec São Caetano do Sul - Antonio Russo, o corpo 
+docente submete-se a três regimes de trabalho: 
+I - Regime de tempo integral: classificam-se os docentes que disponibilizam 40 
+(quarenta) horas semanais à Instituição, sendo até 20 (vinte) horas dedicadas ao ensino e as 
+demais horas dedicadas às atividades de gestão, avaliação, planejamento, extensão, 
+Iniciação Científica, ação social, pesquisa, supervisão de estágio, orientação de trabalhos de 
+curso, atividades complementares e outras de apoio ao ensino.  
+II - Regime de tempo parcial: classificam-se os docentes que disponibilizam 12 (doze) 
+ou mais horas semanais à Instituição, sendo 25 (vinte e cinco) por cento da carga horária 
+dedicada ao extra ensino, nos moldes elencados para as atividades dos docentes em regime 
+integral. 
+III - Regime horista: classificam-se docentes com qualquer carga horária dedicada, 
+semanalmente, à Instituição, exclusivamente no ensino ou com carga horária de 
+59 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2024/INTEGRAL 
+participação extra ensino, em quantidade insuficiente para enquadrá-los em regime parcial 
+ou integral. 
+Os professores da Fatec São Caetano do Sul - Antonio Russo podem ser designados 
+para compor comissões específicas ou para desenvolver atividades acadêmicas, científicas, 
+de pesquisa ou administrativas. A partir de 2014 os docentes que participam de comissões 
+especificas recebem HAEs, independentemente das aulas que ministrem nos cursos.  
+O corpo docente da Fatec São Caetano do Sul - Antonio Russo é constituído por 
+professores que assumem o compromisso de respeitar os princípios e valores explicitados no 
+Estatuto da Fatec São Caetano do Sul - Antonio Russo e no seu Regimento Geral imposto 
+pelo Centro Paula Souza, sendo estruturado de acordo com a qualificação de cada um, nos 
+seguintes níveis de carreira de magistério:  
+I - Professor de Ensino Superior I: é aquele que se encontra em início de Carreira de 
+Magistério Superior no Centro Paula Souza 
+II - Professor de Ensino Superior II e III: são aqueles que se encontram nos níveis 
+intermediários entre o início e o topo da Centro Paula Souza. 
+Cada um dos níveis elencados, nesta dimensão, possui exigências mínimas de 
+qualificação e titulação discriminadas no Plano de Carreira do Centro Paula Souza, via 
+concurso público docente e ou processo seletivo simplificado. 
+Ressalvada a autonomia científica e o pluralismo de pensamentos compatíveis com 
+os ideais e princípios da Fatec São Caetano do Sul - Antonio Russo, são estabelecidos, como 
+critérios relevantes para o recrutamento, admissão e demissão dos membros do Magistério 
+Superior, a qualificação dos requisitos para assumir o componente curricular.  
+A despeito do exposto a Fatec São Caetano do Sul - Antonio Russo promove, por 
+meio de seus órgãos, programas de qualificação contínua do corpo docente, incentiva e 
+promove ações próprias no sentido de qualificar seu corpo docente e quadro técnico 
+administrativo.  
+As diretrizes de capacitação docente partem do princípio que a melhoria da 
+qualidade de ensino deve levar em conta aprovação em concurso público, o 
+comportamento, valores pessoais e posturas filosóficas do professor. Em resumo, a 
+promoção do docente e a valorização de suas iniciativas são diretamente proporcionais à 
+força dos elos que os ligam à Fatec São Caetano do Sul - Antonio Russo, à comunidade em 
+60 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2024/INTEGRAL 
+que atuam e a sua vontade de participar de uma sociedade brasileira mais justa, sapiente e 
+solidária. 
+ 
+Incremento e implementação de ações institucionais 
+A Fatec São Caetano do Sul - Antonio Russo tem seu funcionamento das 07h00m às 
+22h30, de segunda à sexta-feira e, aos sábados, das 08h00 às 17h00. Deste modo, faz-se 
+necessária divisão em turnos, obedecendo à carga horária de 44 horas semanais de trabalho, 
+conforme legislação trabalhista.  
+Os setores de apoio técnico-administrativo da Fatec São Caetano do Sul - Antonio 
+Russo são altamente capacitados no âmbito de sua formação e experiência. Todos os 
+colaboradores são contratados com a exigência mínima de formação no Ensino Médio.  
+Essa característica do corpo técnico-administrativo facilita o acesso do alunado às 
+informações pertinentes ao curso e uma maior eficiência da funcionalidade, como um todo, 
+sendo distribuídos nas seguintes categorias funcionais: Administrativo, Acadêmico-
+Administrativo e Operacional, atuando em conjunto com às secretarias acadêmicas. 
+Conforme descrito abaixo: 
+Secretaria Geral: Responsável pela vida acadêmica do aluno (notas e faltas), 
+confecção e emissão de documentos. 
+Secretaria da Coordenação de Curso: Suporte aos coordenadores dos cursos e 
+também atendimento ao aluno para esclarecimento de dúvidas e agendamento do 
+atendimento dos coordenadores. Suporte e apoio aos docentes, entrega e recebimento de 
+material didático. 
+Biblioteca: Atendimento ao aluno na pesquisa bibliográfica, inclusive pela internet. 
+Laboratórios: Composta por técnicos habilitados a orientar alunos e professores em 
+aulas práticas, bem como em aulas livres. Preparo de material para as aulas, os quais são 
+solicitados anteriormente pelo docente. 
+O corpo técnico-administrativo da Fatec São Caetano do Sul - Antonio Russo é 
+constituído de pessoal contratado para as funções técnico-administrativas de cada um dos 
+departamentos, de acordo com as normas da Consolidação das Leis do Trabalho.  
+O Plano de Capacitação do quadro de colaboradores da Instituição procura, na 
+medida da necessidade, contemplar os colaboradores das áreas técnico-administrativas e 
+operacional, pois considera fundamental a qualificação desses profissionais estimulando, 
+61 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2024/INTEGRAL 
+assim, o desenvolvimento de competências, habilidades e atitudes, contribuindo para que os 
+colaboradores aperfeiçoem seu desempenho ao executar suas atribuições tornando-se 
+criativos, inovadores e intraempreendedores.   
+Por fim, a categoria operacional compreende os cargos ocupados por colaboradores 
+terceirizados responsáveis pela segurança patrimonial e limpeza. Portanto, não são 
+contemplados pelas políticas de recursos humanos da Instituição.  
+Os documentos oficiais da Fatec São Caetano do Sul - Antonio Russo, analisados até o 
+presente momento, explicitam as políticas de pessoal, geração e divulgação do 
+conhecimento, adotadas pela IES, sempre marcadas pela preocupação em manter um 
+quadro 
+de 
+profissionais 
+qualificados, 
+mecanismos 
+adequados, 
+assegurando 
+o 
+aperfeiçoamento contínuo e oferecendo condições para a realização do trabalho pelo seu 
+quadro de colaboradores e bem-estar dos discentes.  
+ 
+DIMENSÃO 6: ORGANIZAÇÃO E GESTÃO DA INSTITUIÇÃO 
+A administração institucional é disciplinada pelo Regimento Geral da Instituição que 
+regulamenta o Estatuto e disciplina as atividades da IES nos planos: didático, pedagógico, 
+científico, administrativo e disciplinar. A gestão da IES também conta com comissões que 
+contribuem para operacionalização como a Congregação, Comissão própria de 
+autoavaliação, Colegiados de curso e Núcleo docente estruturante. Cada comissão pode ter 
+regulamento próprio aprovado nos termos do Estatuto da Fatec São Caetano do Sul - 
+Antonio Russo e de seu Regimento Geral.  
+Os gestores da IES compreende que uma gestão financeira responsável serve, de 
+maneira inequívoca, à consecução dos objetivos maiores da Fatec São Caetano do Sul - 
+Antonio Russo, voltados para a excelência de suas atividades de ensino, pesquisa e extensão 
+dentro de uma visão de  processos de curto, médio e longo prazos.  
+ 
+DIMENSÃO 10: SUSTENTABILIDADE FINANCEIRA 
+As propostas de desenvolvimento da Fatec São Caetano do Sul - Antonio Russo 
+grande parte é de conhecimento de sua comunidade acadêmica pois envolve 
+departamentos, docentes e coordenações de cursos. Algumas ações concretas para 
+relacionadas a manutenção de estruturas físicas, técnicas e tecnológicas, são públicas como 
+62 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2024/INTEGRAL 
+versado nas dimensões anteriores, indicando organização e gestão com visão de futuro 
+propostos em seu PDI. 
+Sendo assim, o PDI compreende os investimentos a serem realizados baseados na 
+tríade ensino, pesquisa e extensão na busca da construção de condições de excelência. 
+Segue algumas instancias prevista para alocação de recursos:  
+Investimento em instalações físicas: aquisições, construções e reformas de edifícios, 
+montagem de laboratórios, aquisição de equipamentos e softwares. 
+Investimento na biblioteca: aquisição de acervo, sistemas e instalações específicas 
+da biblioteca. 
+Investimento na organização e nas pessoas: investimentos em programas de 
+capacitação de docentes e colaboradores, investimentos na qualificação do corpo discente, 
+investimentos na modernização da gestão, investimentos na criação de um ambiente 
+acadêmico propício à aprendizagem, à criação e circulação de conhecimento e à prática da 
+cidadania.  
+ 
+Investimento em infraestrutura de cursos: investimentos em tecnologias, melhorias e 
+atualização dos laboratórios e áreas de convivência. 
+As compatibilidades da alocação dos recursos caracterizam benefícios diretos para 
+faculdade e sua execução é dividida em etapas, com cronogramas de cumprimentos rígidos 
+contribuindo para a melhoria da qualidade dos serviços prestados a sua comunidade 
+acadêmica (discentes, docentes e colaboradores).  
+ 
+ 
+63 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2024/INTEGRAL 
+EIXO 5: INFRAESTRUTURA FÍSICA 
+ 
+Dimensão 7: Infraestrutura Física 
+ 
+EIXO 
+5 – Infraestrutura Física 
+Dimensã
+o SINAES 7 
+APRESENTAÇÃO DAS PRINCIPAIS INFORMAÇÕES COLETADAS NO EIXO 
+ 
+ 
+De forma geral, a Fatec São Caetano do Sul - Antonio Russo disponibiliza, em seus 
+2600 m2 de área construída, uma estrutura capaz de proporcionar aos setores acadêmico, 
+técnico-administrativo, de apoio acadêmico e de prestação de serviço, condições de 
+desempenharem suas diversas funções, da melhor forma possível. 
+Assim, a Fatec São Caetano do Sul - Antonio Russo coloca à disposição das 
+comunidades internas e externas, 10 salas, 08 laboratórios, sendo de 06 de informática, 01 
+de Redes e 01 de Hardware, duas áreas para a Gestão de Cursos (Direção e Coordenação), 
+01 área para a Diretoria de Serviços administrativo, 01 área para a Diretoria de Serviços 
+acadêmicos. 
+64 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2024/INTEGRAL 
+Aparentemente, as instalações físicas da Fatec São Caetano do Sul - Antonio Russo 
+encontram-se em consonância com as exigências estabelecidas pelo Ministério da Educação 
+E Conselho Estadual de Educação. Segundo avaliação realizada pela CPA, o grau de satisfação 
+da comunidade acadêmica com essa infraestrutura atinge índices expressos relacionados a 
+esse quesito. 
+ 
+Condições de acesso para portadores de necessidades especiais 
+A acessibilidade interna respeita normas e padrões internacionais que garantem o 
+direito aos portadores de necessidades especiais de circularem pela IES. 
+Observa-se a existência de facilidades para acesso de pessoas portadoras de 
+necessidades especiais, tais como: vaga preferencial em estacionamento; elevador que 
+possibilita o deslocamento entre pisos; rampas que facilitam o deslocamento de alunos, 
+colaboradores e professores, portadores de necessidades especiais, pelas dependências da 
+IES, banheiros, tanto masculinos como femininos, planejados para o recebimento de 
+cadeirantes, entre outras necessidades; fácil acesso às salas de aula, biblioteca, salas de 
+informática, laboratórios, áreas de convivência e Coordenações de Cursos. Contemplando a 
+contento todas as exigências estabelecidas pelo Ministério da Educação, relativas ao acesso 
+de portadores de necessidades especiais. 
+ 
+Acesso a equipamentos de informática, internet e intranet 
+A Fatec São Caetano do Sul - Antonio Russo . dispõe de 08 laboratórios de informática, 
+distribuídos pela IES: 
+Laboratórios 
+Quantidade 
+Informática 
+06 
+Redes 
+01 
+Hardware 
+01 
+Total  
+08 
+Fonte: Fatec São Caetano do Sul. 2023 
+A Fatec São Caetano do Sul - Antonio Russo dispõe de recursos audiovisuais, tais 
+como: projetores, televisores, aparelhos de som, atendendo aos parâmetros exigidos pelo 
+Ministério da Educação e Cultura.  
+65 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2024/INTEGRAL 
+Plano de expansão e atualização dos softwares e equipamentos 
+A manutenção dos equipamentos, tanto corretiva quanto preventiva, ocorre no 
+período letivo, são realizadas mediante formulário de ocorrência e, no período de recesso e 
+férias escolares, quando ocorre a manutenção preventiva em todos os Laboratórios de 
+Informática da Fatec São Caetano do Sul - Antonio Russo, que possui técnicos qualificados e 
+aptos para a realização de tais procedimentos. Os softwares institucionais são atualizados 
+com a periodicidade anual. 
+ 
+Manutenção e conservação das instalações físicas 
+O setor de manutenção da Fatec São Caetano do Sul - Antonio Russo está disponível 
+para controle e conservação das instalações físicas da Instituição. São evidentes as ações 
+institucionais no atendimento a esse quesito, pois a manutenção, tanto corretiva quanto 
+preventiva, ocorre a qualquer tempo do período letivo, e no período de recesso e férias 
+escolares. 
+ 
+Apoio logístico para as atividades acadêmicas 
+Na IES não há necessidade de reservas para utilização dos equipamentos de 
+informática, audiovisuais, auditório, projetores, retroprojetores, entre outros, porque todas 
+as salas, inclusive auditório, são equipadas com projetores e recursos multimídia.  
+ 
+Instalações para o acervo, estudos individuais e em grupo. 
+A Biblioteca da IES ocupa uma área de 120 m², para atender às necessidades 
+acadêmicas de ensino, pesquisa e extensão de seus alunos e professores. Conta, ainda, com 
+espaços reservados para a organização, a difusão e a divulgação do acervo bibliográfica. As 
+instalações para o acervo, estudos individuais e em grupo são adequadas e contemplam o 
+exigido pelo Ministério da Educação e Cultura. 
+Informatização 
+O empréstimo domiciliar é feito de acordo com um regulamento interno da 
+Biblioteca, que rege que toda a publicação da qual há mais de um exemplar pode ser 
+emprestada. Cada aluno tem direito a 2 exemplares, por um período de sete dias, com 
+direito à renovação, desde que não existam reservas. A biblioteca conta ainda com sistema 
+próprio para consulta e reservas de títulos. 
+66 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2024/INTEGRAL 
+ 
+olíticas Institucionais de aquisição, expansão e atualização do acervo e formas de sua 
+operacionalização 
+A atualização do acervo é solicitada diretamente pelas Coordenações dos Cursos, 
+junto ao CEEPTS. Os livros com poucos exemplares ou muito procurados são solicitados pela 
+própria bibliotecária supervisora. 
+Há, hoje, 16 computadores na Biblioteca, para uso da Internet. Existe uma política de 
+conservação do acervo e a aquisição novos títulos ou atualização ocorrem mediante 
+solicitações das coordenações de curso.  
+ 
+Serviços (condições, abrangência e qualidade). 
+O horário de funcionamento atende às necessidades dos turnos dos cursos, isto é, 
+tem início às 7h e encerramento às 22h. A reserva de livros é efetuada via internet, ou 
+pessoalmente.  
+O empréstimo domiciliar é feito de acordo com um regulamento interno da 
+Biblioteca, onde está determinado que toda publicação de que há mais de um exemplar 
+pode ser emprestada.   
+ 
+Recursos Humanos da Biblioteca 
+A Biblioteca contempla 01 bibliotecário formado. Há, ainda, 01 atendente. Trabalham 
+período matutino, vespertino e noturno. 
+ 
+Normas de segurança e formas de sua operacionalização 
+A Fatec São Caetano do Sul - Antonio Russo, conta com políticas internas para 
+utilização de seus laboratórios, normas para armazenamento e descarte de lixo e normas e 
+procedimentos de segurança do trabalho, procedimentos descritos em manual de fácil 
+acesso 
+a 
+toda 
+comunidade 
+acadêmica.
+Relatório de Autoavaliação Institucional 
+da Fatec – 
+                      
+ 
+__________________________________________________________________________ 
+Administração Central 
+Unidade do Ensino Superior de Graduação 
+ 
+ 
+4 - QUADRO PARA A ANÁLISE COMPARATIVA DOS RELATÓRIOS PARCIAIS 2022/2023 E ANÁLISE GLOBAL 
+EIXO 1: PLANEJAMENTO E AVALIAÇÃO INSTITUCIONAL 
+ 
+ 
+ 
+AÇÕES 
+PROPOSTAS NO 
+RELATÓRIO DE 
+2022 
+ 
+ 
+ 
+Código 
+PGA DAS 
+AÇÕES 
+ 
+AÇÕES 
+REALIZADAS 
+ 
+ 
+AÇÕES 
+PROPOSTAS 
+NO RELATÓRIO 
+DE 2023 
+ 
+Código 
+PGA DAS 
+AÇÕES 
+ 
+AÇÕES 
+REALIZADAS 
+ANÁLISE GLOBAL E A CONTRIBUIÇÃO PARA O 
+PLANEJAMENTO E DESENVOLVIMENTO 
+INSTITUCIONAL 
+Melhorar a 
+comunicação da 
+missão, da 
+existência do PDI 
+e das ações 
+realizadas para o 
+desenvolvimento 
+institucional da 
+unidade 
+principalmente 
+aos discentes. 
+ 
+NO 
+RELATÓRI
+O 
+DE 
+2022, 
+NÃO 
+FOI 
+ADOTADO 
+CODIFICA
+ÇÃO 
+(PGA) 
+PARA 
+AS 
+AÇÕES 
+CORRETIV
+AS 
+( X  ) SIM 
+(   ) NÃO  
+(   ) Parcialmente 
+Ampliar a 
+divulgação de 
+atas e resoluções 
+dos órgãos 
+colegiados 
+(Congregação, 
+Colegiados de 
+Curso, NDE) com 
+o auxílio dos 
+representantes 
+discentes  
+119 
+( X ) SIM 
+(   ) NÃO  
+(   ) Parcialmente 
+A Comissão Própria de Autoavaliação (CPA) busca 
+identificar potenciais oportunidades de mudanças no 
+âmbito institucional da Fatec São Caetano, por meio de 
+informações produzidas pelo WebSAI. Esse processo 
+permite que a instituição ajuste suas metas e ações, 
+garantindo que estejam alinhadas às demandas externas e 
+internas a sua comunidade acadêmica. Isto posto, ressalta-
+se que esse processo é composto por  ciclos de 
+autoavaliação anual conforme demonstrado ao longo das 
+dimensões descritas neste relatório. 
+                                
+Ampliar a 
+divulgação de atas 
+e resoluções dos 
+órgãos colegiados 
+(Congregação, 
+ 
+NO 
+RELATÓRI
+O 
+DE 
+2022, 
+( X ) SIM 
+(   ) NÃO  
+(   ) Parcialmente 
+ SITE NOVO DA 
+UNIDADE 
+114 
+( X ) SIM 
+(   ) NÃO  
+(   ) Parcialmente 
+Relatório de Autoavaliação Institucional 
+da Fatec – 
+                      
+ 
+__________________________________________________________________________ 
+Administração Central 
+Unidade do Ensino Superior de Graduação 
+ 
+ 
+Colegiados de 
+Curso, NDE) com 
+o auxílio dos 
+representantes 
+discentes  
+NÃO 
+FOI 
+ADOTADO 
+CODIFICA
+ÇÃO 
+(PGA) 
+PARA 
+AS 
+AÇÕES 
+CORRETIV
+AS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 
+                      
+ 
+__________________________________________________________________________ 
+Administração Central 
+Unidade do Ensino Superior de Graduação 
+ 
+ 
+EIXO 2: DESENVOLVIMENTO INSTITUCIONAL 
+ 
+ 
+ 
+AÇÕES 
+PROPOSTAS NO 
+RELATÓRIO DE 
+2022 
+ 
+ 
+ 
+Código 
+PGA DAS 
+AÇÕES 
+ 
+AÇÕES 
+REALIZADAS 
+ 
+ 
+AÇÕES 
+PROPOSTAS 
+NO RELATÓRIO 
+DE 2023 
+ 
+Código 
+PGA DAS 
+AÇÕES 
+ 
+AÇÕES 
+REALIZADAS 
+ANÁLISE GLOBAL E A CONTRIBUIÇÃO PARA O 
+PLANEJAMENTO E DESENVOLVIMENTO 
+INSTITUCIONAL  
+Proposta de 
+implantação do 
+Núcleo de Apoio 
+Fiscal (NAF), em 
+parceria com a 
+Receita Federal 
+do Brasil (RFB), 
+com vistas à 
+atuação da 
+Unidade junto à 
+comunidade 
+externa  
+NO 
+RELATÓRI
+O 
+DE 
+2022, 
+NÃO 
+FOI 
+ADOTADO 
+CODIFICA
+ÇÃO 
+(PGA) 
+PARA 
+AS 
+AÇÕES 
+CORRETIV
+AS 
+( x ) SIM 
+(   ) NÃO  
+(   ) Parcialmente 
+ 
+The English 
+HUB  
+ 
+101 
+( x ) SIM 
+(   ) NÃO  
+(   ) Parcialmente 
+A Comissão Própria de Autoavaliação (CPA) busca 
+identificar potenciais oportunidades de mudanças no 
+âmbito institucional da Fatec São Caetano, por meio de 
+informações produzidas pelo WebSAI. Esse processo 
+permite que a instituição ajuste suas metas e ações, 
+garantindo que estejam alinhadas às demandas externas e 
+internas a sua comunidade acadêmica. Isto posto, ressalta-
+se que esse processo é composto por  ciclos de 
+autoavaliação anual conforme demonstrado ao longo das 
+dimensões descritas neste relatório. 
+Manter as boas 
+práticas de 
+aplicabilidade e 
+ampla divulgação 
+do Regimento, 
+Regulamento e 
+NO 
+RELATÓRI
+O 
+DE 
+2022, 
+NÃO 
+FOI 
+ADOTADO 
+( x ) SIM 
+(   ) NÃO  
+(   ) Parcialmente 
+Proposta de 
+indexação do 
+Fasci-Tech, 
+periódico 
+científico 
+301 
+( x) SIM 
+(   ) NÃO  
+(   ) Parcialmente 
+Relatório de Autoavaliação Institucional 
+da Fatec – 
+                      
+ 
+__________________________________________________________________________ 
+Administração Central 
+Unidade do Ensino Superior de Graduação 
+ 
+ 
+demais legislações 
+e normas 
+acadêmicas. 
+Manter a ampla 
+divulgação do 
+calendário 
+acadêmico, 
+intensificando 
+divulgação de 
+datas específicas. 
+CODIFICA
+ÇÃO 
+(PGA) 
+PARA 
+AS 
+AÇÕES 
+CORRETIV
+AS 
+eletrônico da 
+Fatec de São 
+Caetano do Sul, 
+nas principais 
+bases de dados 
+Manter as boas 
+práticas no 
+atendimento, seja 
+presencial ou 
+online.  
+NO 
+RELATÓRI
+O 
+DE 
+2022, 
+NÃO 
+FOI 
+ADOTADO 
+CODIFICA
+ÇÃO 
+(PGA) 
+PARA 
+AS 
+AÇÕES 
+CORRETIV
+AS 
+( x ) SIM 
+(   ) NÃO  
+(   ) Parcialmente 
+Encontros com a 
+Secretaria de 
+Educação e 
+Secretaria de 
+Desenvolvimento 
+Econômico de 
+São Caetano do 
+Sul 
+707 
+( x ) SIM 
+(   ) NÃO  
+(   ) Parcialmente 
+Incluir atividades 
+culturais e de arte 
+na programação 
+dos eventos 
+científicos.  
+NO 
+RELATÓRI
+O 
+DE 
+2022, 
+NÃO 
+FOI 
+ADOTADO 
+CODIFICA
+ÇÃO 
+(PGA) 
+PARA 
+AS 
+AÇÕES 
+(  x ) SIM 
+(   ) NÃO  
+(   ) Parcialmente 
+Proposta de 
+implantação do 
+Núcleo de Apoio 
+Fiscal (NAF), em 
+parceria com a 
+Receita Federal 
+do Brasil (RFB), 
+com vistas à 
+atuação da 
+703 
+(   ) SIM 
+(   ) NÃO  
+(   ) Parcialmente 
+Relatório de Autoavaliação Institucional 
+da Fatec – 
+                      
+ 
+__________________________________________________________________________ 
+Administração Central 
+Unidade do Ensino Superior de Graduação 
+ 
+ 
+CORRETIV
+AS 
+Unidade junto à 
+comunidade 
+externa  
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 
+                      
+ 
+__________________________________________________________________________ 
+Administração Central 
+Unidade do Ensino Superior de Graduação 
+ 
+ 
+EIXO 3: POLÍTICAS ACADÊMICAS 
+ 
+ 
+ 
+AÇÕES 
+PROPOSTAS NO 
+RELATÓRIO DE 
+2022 
+ 
+ 
+ 
+Código 
+PGA DAS 
+AÇÕES 
+ 
+AÇÕES 
+REALIZADAS 
+ 
+ 
+AÇÕES 
+PROPOSTAS 
+NO RELATÓRIO 
+DE 2023 
+ 
+Código 
+PGA DAS 
+AÇÕES 
+ 
+AÇÕES 
+REALIZADAS 
+ANÁLISE GLOBAL E A CONTRIBUIÇÃO PARA O 
+PLANEJAMENTO E DESENVOLVIMENTO 
+INSTITUCIONAL  
+Comunicação em 
+âmbito 
+institucional sobre 
+monitoria, 
+programas da 
+Assessoria de 
+Relacionamento 
+Internacional 
+(intercâmbio e 
+bolsas) 
+NO 
+RELATÓRI
+O 
+DE 
+2022, 
+NÃO 
+FOI 
+ADOTADO 
+CODIFICA
+ÇÃO 
+(PGA) 
+PARA 
+AS 
+AÇÕES 
+CORRETIV
+AS 
+(X ) SIM 
+(   ) NÃO  
+(   ) Parcialmente 
+ 
+Nivelamento de M
+ 
+103 
+( x ) SIM 
+(   ) NÃO  
+(   ) Parcialmente 
+A Comissão Própria de Autoavaliação (CPA) busca 
+identificar potenciais oportunidades de mudanças no 
+âmbito institucional da Fatec São Caetano, por meio de 
+informações produzidas pelo WebSAI. Esse processo 
+permite que a instituição ajuste suas metas e ações, 
+garantindo que estejam alinhadas às demandas externas e 
+internas a sua comunidade acadêmica. Isto posto, ressalta-
+se que esse processo é composto por  ciclos de 
+autoavaliação anual conforme demonstrado ao longo das 
+dimensões descritas neste relatório. 
+Participação dos 
+discentes em 
+órgãos colegiados 
+NO 
+RELATÓRI
+O 
+DE 
+2022, 
+NÃO 
+FOI 
+ADOTADO 
+CODIFICA
+ÇÃO 
+( X ) SIM 
+(   ) NÃO  
+(   ) Parcialmente 
+Proposta de 
+atualização do 
+PPC do Curso 
+Superior de 
+Tecnologia em 
+Análise e 
+Desenvolvimento 
+107 
+( X ) SIM 
+(   ) NÃO  
+(   ) Parcialmente 
+Relatório de Autoavaliação Institucional 
+da Fatec – 
+                      
+ 
+__________________________________________________________________________ 
+Administração Central 
+Unidade do Ensino Superior de Graduação 
+ 
+ 
+(PGA) 
+PARA 
+AS 
+AÇÕES 
+CORRETIV
+AS 
+de Sistemas com 
+vistas à 
+reestruturação.  
+Manter e 
+melhorar a 
+programação da 
+SPAP, 
+considerando que 
+as duas semanas 
+(1º e 2º semestres 
+letivos) tem 
+contribuído para 
+o planejamento e 
+avaliação 
+docente. 
+NO 
+RELATÓRI
+O 
+DE 
+2022, 
+NÃO 
+FOI 
+ADOTADO 
+CODIFICA
+ÇÃO 
+(PGA) 
+PARA 
+AS 
+AÇÕES 
+CORRETIV
+AS 
+( X ) SIM 
+(   ) NÃO  
+(   ) Parcialmente 
+Projeto Oficina 
+de Soluções 
+(Estágio 
+Voluntariado)  
+110 
+( X ) SIM 
+(   ) NÃO  
+(   ) Parcialmente 
+Manter as 
+solicitações de 
+melhorias nas 
+interfaces tanto 
+para discentes 
+quanto para 
+docentes aos 
+responsáveis pelo 
+planejamento e 
+desenvolvimento 
+do sistema 
+acadêmico 
+NO 
+RELATÓRI
+O 
+DE 
+2022, 
+NÃO 
+FOI 
+ADOTADO 
+CODIFICA
+ÇÃO 
+(PGA) 
+PARA 
+AS 
+AÇÕES 
+CORRETIV
+AS 
+( X) SIM 
+(   ) NÃO  
+(   ) Parcialmente 
+Proposta de 
+oferecimento 
+semestral do 
+edital de 
+abertura para 
+submissão de 
+sugestões de 
+pesquisa docente 
+e discente para o 
+Programa 
+Institucional de 
+Iniciação 
+Científica 
+303 
+( X ) SIM 
+(   ) NÃO  
+(   ) Parcialmente 
+Relatório de Autoavaliação Institucional 
+da Fatec – 
+                      
+ 
+__________________________________________________________________________ 
+Administração Central 
+Unidade do Ensino Superior de Graduação 
+ 
+ 
+(PCITec) da Fatec 
+São Caetano do 
+Su 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 
+                      
+ 
+__________________________________________________________________________ 
+Administração Central 
+Unidade do Ensino Superior de Graduação 
+ 
+ 
+EIXO 4: POLÍTICAS DE GESTÃO 
+ 
+ 
+ 
+AÇÕES 
+PROPOSTAS NO 
+RELATÓRIO DE 
+2022 
+ 
+ 
+ 
+Código 
+PGA DAS 
+AÇÕES 
+ 
+AÇÕES 
+REALIZADAS 
+ 
+ 
+AÇÕES 
+PROPOSTAS 
+NO RELATÓRIO 
+DE 2023 
+ 
+Código 
+PGA DAS 
+AÇÕES 
+ 
+AÇÕES 
+REALIZADAS 
+ANÁLISE GLOBAL E A CONTRIBUIÇÃO PARA O 
+PLANEJAMENTO E DESENVOLVIMENTO 
+INSTITUCIONAL  
+Manter a ampla 
+divulgação e 
+verificar formas 
+de tornar os 
+murais mais 
+atrativos. 
+NO 
+RELATÓRI
+O 
+DE 
+2022, 
+NÃO 
+FOI 
+ADOTADO 
+CODIFICA
+ÇÃO 
+(PGA) 
+PARA 
+AS 
+AÇÕES 
+CORRETIV
+AS 
+( X) SIM 
+(   ) NÃO  
+(   ) Parcialmente 
+COMUNICANDO 
+VESTIBULAR 
+2023  
+111 
+( X ) SIM 
+(   ) NÃO  
+(   ) Parcialmente 
+A Comissão Própria de Autoavaliação (CPA) busca 
+identificar potenciais oportunidades de mudanças no 
+âmbito institucional da Fatec São Caetano, por meio de 
+informações produzidas pelo WebSAI. Esse processo 
+permite que a instituição ajuste suas metas e ações, 
+garantindo que estejam alinhadas às demandas externas e 
+internas a sua comunidade acadêmica. Isto posto, ressalta-
+se que esse processo é composto por  ciclos de 
+autoavaliação anual conforme demonstrado ao longo das 
+dimensões descritas neste relatório. 
+Manter as boas 
+práticas de 
+aplicabilidade e 
+ampla divulgação 
+do Regimento, 
+Regulamento e 
+demais legislações 
+e normas 
+NO 
+RELATÓRI
+O 
+DE 
+2022, 
+NÃO 
+FOI 
+ADOTADO 
+CODIFICA
+ÇÃO 
+( X ) SIM 
+(   ) NÃO  
+(   ) Parcialmente 
+Projeto 
+Atendimento 
+Psicopedagógico 
+113 
+( X ) SIM 
+(   ) NÃO  
+(   ) Parcialmente 
+Relatório de Autoavaliação Institucional 
+da Fatec – 
+                      
+ 
+__________________________________________________________________________ 
+Administração Central 
+Unidade do Ensino Superior de Graduação 
+ 
+ 
+acadêmicas. 
+Manter a ampla 
+divulgação do 
+calendário 
+acadêmico, 
+intensificando 
+divulgação de 
+datas específicas. 
+(PGA) 
+PARA 
+AS 
+AÇÕES 
+CORRETIV
+AS 
+Manter as boas 
+práticas no 
+atendimento, seja 
+presencial ou 
+online.  
+NO 
+RELATÓRI
+O 
+DE 
+2022, 
+NÃO 
+FOI 
+ADOTADO 
+CODIFICA
+ÇÃO 
+(PGA) 
+PARA 
+AS 
+AÇÕES 
+CORRETIV
+AS 
+( X ) SIM 
+(   ) NÃO  
+(   ) Parcialmente 
+Capacitação de 
+Docentes e 
+Funcionários 
+Administrativos 
+para inclusão  
+602 
+( X) SIM 
+(   ) NÃO  
+(   ) Parcialmente 
+Reforçar a 
+comunicação 
+sobre as bolsas 
+oferecidas aos 
+discentes. 
+NO 
+RELATÓRI
+O 
+DE 
+2022, 
+NÃO 
+FOI 
+ADOTADO 
+CODIFICA
+ÇÃO 
+(PGA) 
+PARA 
+AS 
+AÇÕES 
+CORRETIV
+AS 
+( X ) SIM 
+(   ) NÃO  
+(   ) Parcialmente 
+Escola de 
+Psicologia da 
+USCS  
+704 
+( X ) SIM 
+(   ) NÃO  
+(   ) Parcialmente 
+Relatório de Autoavaliação Institucional 
+da Fatec – 
+                      
+ 
+__________________________________________________________________________ 
+Administração Central 
+Unidade do Ensino Superior de Graduação 
+ 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 
+                      
+ 
+__________________________________________________________________________ 
+Administração Central 
+Unidade do Ensino Superior de Graduação 
+ 
+ 
+ 
+ 
+ 
+EIXO 5: INFRAESTRUTURA 
+ 
+ 
+ 
+AÇÕES 
+PROPOSTAS NO 
+RELATÓRIO DE 
+2022 
+ 
+ 
+ 
+Código 
+PGA DAS 
+AÇÕES 
+ 
+AÇÕES 
+REALIZADAS 
+ 
+ 
+AÇÕES 
+PROPOSTAS 
+NO RELATÓRIO 
+DE 2023 
+ 
+Código 
+PGA DAS 
+AÇÕES 
+ 
+AÇÕES 
+REALIZADAS 
+ANÁLISE GLOBAL E A CONTRIBUIÇÃO PARA O 
+PLANEJAMENTO E DESENVOLVIMENTO 
+INSTITUCIONAL  
+Manter as boas 
+práticas no 
+atendimento, seja 
+presencial ou 
+online.  
+NO 
+RELATÓRI
+O 
+DE 
+2022, 
+NÃO 
+FOI 
+ADOTADO 
+CODIFICA
+ÇÃO 
+(PGA) 
+PARA 
+AS 
+AÇÕES 
+CORRETIV
+AS 
+( X ) SIM 
+(   ) NÃO  
+(   ) Parcialmente 
+Proposta de 
+atualização da 
+infraestrutura de 
+rede de 
+comunicação de 
+dados da 
+unidade  
+201 
+( X ) SIM 
+(   ) NÃO  
+(   ) Parcialmente 
+A Comissão Própria de Autoavaliação (CPA) busca 
+identificar potenciais oportunidades de mudanças no 
+âmbito institucional da Fatec São Caetano, por meio de 
+informações produzidas pelo WebSAI. Esse processo 
+permite que a instituição ajuste suas metas e ações, 
+garantindo que estejam alinhadas às demandas externas e 
+internas a sua comunidade acadêmica. Isto posto, ressalta-
+se que esse processo é composto por  ciclos de 
+autoavaliação anual conforme demonstrado ao longo das 
+dimensões descritas neste relatório. 
+Liberação dos 
+toaletes acessíveis 
+NO 
+RELATÓRI
+( X ) SIM 
+(   ) NÃO  
+Proposta para 
+203 
+( X ) SIM 
+(   ) NÃO  
+Relatório de Autoavaliação Institucional 
+da Fatec – 
+                      
+ 
+__________________________________________________________________________ 
+Administração Central 
+Unidade do Ensino Superior de Graduação 
+ 
+ 
+em sua 
+integralidade 
+O 
+DE 
+2022, 
+NÃO 
+FOI 
+ADOTADO 
+CODIFICA
+ÇÃO 
+(PGA) 
+PARA 
+AS 
+AÇÕES 
+CORRETIV
+AS 
+(   ) Parcialmente 
+melhoria da 
+conectividade do 
+prédio  
+(   ) Parcialmente 
+Solicitação de 
+novos mobiliários 
+e equipamentos 
+através de 
+licitação 
+NO 
+RELATÓRI
+O 
+DE 
+2022, 
+NÃO 
+FOI 
+ADOTADO 
+CODIFICA
+ÇÃO 
+(PGA) 
+PARA 
+AS 
+AÇÕES 
+CORRETIV
+AS 
+(X) SIM 
+(   ) NÃO  
+(   ) Parcialmente 
+Estudo para 
+melhorias dos 
+laboratórios, 
+biblioteca e 
+equipamentos da 
+área 
+administrativa e 
+acadêmica.  
+501 
+( X ) SIM 
+(   ) NÃO  
+(   ) Parcialmente 
+Solicitação de 
+licitação de 
+consertos e 
+utilização de 
+espaço 
+NO 
+RELATÓRI
+O 
+DE 
+2022, 
+NÃO 
+FOI 
+ADOTADO 
+CODIFICA
+ÇÃO 
+(PGA) 
+PARA 
+AS 
+( X ) SIM 
+(   ) NÃO  
+(   ) Parcialmente 
+PROJETO DE 
+MONITORAMEN
+TO POR 
+CÂMERAS  
+504 
+( X ) SIM 
+(   ) NÃO  
+(   ) Parcialmente 
+Relatório de Autoavaliação Institucional 
+da Fatec – 
+                      
+ 
+__________________________________________________________________________ 
+Administração Central 
+Unidade do Ensino Superior de Graduação 
+ 
+ 
+AÇÕES 
+CORRETIV
+AS 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 
+                      
+ 
+__________________________________________________________________________ 
+Administração Central 
+Unidade do Ensino Superior de Graduação 
+ 
+ 
+1. ANÁLISE DOS DADOS DE 2024 E AÇÕES PROPOSTAS 
+(neste item é apresentada a analise, os quadros podem ser precedidos de um breve texto, apresentado o processo de analise e os pontos centrais trabalhados 
+EIXO 1: PLANEJAMENTO E AVALIAÇÃO INSTITUCIONAL  
+ 
+POTENCIALIDADES 
+ 
+AÇÕES PLANEJADAS  
+CÓDIGO PGA DA 
+AÇÃO PLANEJADA 
+PRAZOS   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FRAGILIDADES (SITUAÇÕES PROBLEMA) 
+ 
+AÇÕES PLANEJADAS  
+CÓDIGO PGA DA 
+AÇÃO PLANEJADA 
+PRAZOS   
+Nível de conhecimento sobre ações de Planejamento e 
+Avaliação 
+Planejar e empreender ações efetivas no sentido de aumentar o nível de 
+conhecimento acerca das ações de Planejamento e Avaliação da Unidade. 
+ 
+Ao longo de 2025 
+Falta de comunicação / conhecimento vindas dos 
+representantes docentes da CPA e Congregação. 
+Solicitar aos representantes que dêem os feedbacks para o restante do 
+colegiado, para que possam dar sugestões de melhoria ou apenas para 
+conhecimento sobre as ações 
+ 
+Ao longo de 2025 
+Conhecimento CPA, PDI e Missão das Fatecs 
+Melhorar a divulgação dessas ações e resultados alcançados. Promover 
+melhorias na comunicação junto aos discentes quanto ao uso dos resultados 
+da autoavaliação nos processos de melhoria da qualidade de ensino. 
+ 
+Ao longo de 2025 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 
+                      
+ 
+__________________________________________________________________________ 
+Administração Central 
+Unidade do Ensino Superior de Graduação 
+ 
+ 
+ 
+EIXO 2: DESENVOLVIMENTO INSTITUCIONAL  
+ 
+POTENCIALIDADES 
+AÇÕES PLANEJADAS 
+CÓDIGO PGA DA 
+AÇÃO PLANEJADA 
+PRAZOS 
+85% dos professores afirmaram que a comunicação com a 
+comunidade externa é bem sucedida 
+ 
+Ampliar a divulgação de atividades que envolvam o professor e que auxiliem 
+nas devidas divulgações. 
+ 
+Ao longo de 2025 
+85% dos técnicos administrativos afirmaram que a 
+comunicação com a sociedade é realizada e eficaz 
+ 
+ 
+Envolver os funcionários técnico-administrativos para proposição de atividades 
+com a sociedade e auxilio da divulgação 
+ 
+Ao longo de 2025 
+Responsabilidade Social (é unânime: docentes, discentes, 
+técnicos-administrativos, reconhecem o trabalho realizado 
+pela Fatec São Caetano do Sul. 
+Ampliar as ações, buscar parcerias, inclusive para desenvolvimento de 
+extensão. 
+ 
+Ao longo de 2025 
+ 
+ 
+ 
+ 
+ 
+FRAGILIDADES (SITUAÇÕES PROBLEMA) 
+ 
+AÇÕES PLANEJADAS 
+CÓDIGO PGA DA 
+AÇÃO PLANEJADA 
+PRAZOS 
+Nível de conhecimento sobre a Missão e o Plano de 
+Desenvolvimento Institucional (PDI) 
+Planejar e empreender ações efetivas no sentido de aumentar o nível de 
+conhecimento acerca da Missão e do Plano de Desenvolvimento Institucional. 
+ 
+Ao longo de 2025 
+Participação em atividades artísticas 
+Promover atividades artísticas no âmbito da comunidade acadêmica, integrar 
+os alunos com diferentes habilidades para show de talentos. 
+ 
+Ao longo de 2025 
+Relatório de Autoavaliação Institucional 
+da Fatec – 
+                      
+ 
+__________________________________________________________________________ 
+Administração Central 
+Unidade do Ensino Superior de Graduação 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 
+                      
+ 
+__________________________________________________________________________ 
+Administração Central 
+Unidade do Ensino Superior de Graduação 
+ 
+ 
+ 
+EIXO 3: POLITICAS ACADÊMICAS 
+ 
+POTENCIALIDADES 
+AÇÕES PLANEJADAS 
+CÓDIGO PGA DA 
+AÇÃO PLANEJADA 
+PRAZOS 
+Políticas para o Ensino, para a Pesquisa e para a Extensão 
+Manter/ampliar as políticas para o Ensino, para a Pesquisa e para a Extensão, 
+incluindo a comunicação das iniciativas junto à comunidade acadêmica. 
+ 
+Ao longo de 2025 
+Política de atendimento aos discentes 
+Manter/ampliar a política de atendimento aos discentes, incluindo a 
+comunicação das iniciativas junto à comunidade acadêmica. 
+ 
+Ao longo de 2025 
+ 
+FRAGILIDADES (SITUAÇÕES PROBLEMA) 
+ 
+AÇÕES PLANEJADAS 
+CÓDIGO PGA DA 
+AÇÃO PLANEJADA 
+PRAZOS 
+Os discentes não tem percepção sobre a comunicação com 
+a sociedade 
+Incentivar os alunos a participarem de atividades de extensão. Organizarem 
+eventos e comunicar a comunidade externa. Que conheçam e participem das 
+comunicações e atividades realizadas com a sociedade 
+ 
+Ao longo de 2025 
+Falta de comunicação / conhecimento vindas dos 
+representantes docentes da CPA e Congregação. 
+Solicitar aos representantes que dêem os feedbacks para o restante do 
+colegiado, para que possam dar sugestões de melhoria ou apenas para 
+conhecimento sobre as ações 
+ 
+Ao longo de 2025 
+Aderência das disciplinas conforme PPC 
+Manter reuniões pedagógicas e capacitações para atualização das disciplinas 
+ 
+Ao longo de 2025 
+Atendimento Administrativo  
+Permanecer com capacitações, mini-cursos, workshops para sempre aprimorar 
+o atendimento 
+ 
+Ao longo de 2025 
+Relatório de Autoavaliação Institucional 
+da Fatec – 
+                      
+ 
+__________________________________________________________________________ 
+Administração Central 
+Unidade do Ensino Superior de Graduação 
+ 
+ 
+ 
+ 
+EIXO 4: POLITICAS DE GESTÃO  
+ 
+POTENCIALIDADES 
+AÇÕES PLANEJADAS 
+CÓDIGO PGA DA 
+AÇÃO PLANEJADA 
+PRAZOS 
+Serviços à comunidade externa 
+Manter e engajar os funcionários a também participarem dessas ações 
+ 
+Ao longo de 2025 
+Oportunidades de formação e capacitação oferecidos pelo 
+CPS 
+Continuar incentivando a participação dos funcionários nestas capacitações 
+ 
+Ao longo de 2025 
+ 
+ 
+ 
+ 
+ 
+FRAGILIDADES (SITUAÇÕES PROBLEMA) 
+ 
+AÇÕES PLANEJADAS 
+CÓDIGO PGA DA 
+AÇÃO PLANEJADA 
+PRAZOS 
+Nível de conhecimento sobre a Organização e a Gestão da 
+instituição.  
+Planejar e empreender ações efetivas no sentido de aumentar o nível de 
+conhecimento acerca da Organização e da Gestão da instituição. 
+ 
+Ao longo de 2025 
+Transparência em relação aos indicadores utilizados para a 
+Bonificação por resultados 
+Solicitar ao CPS, via direção, explicações claras sobre os indicadores utilizados 
+para calculo da bonificação anual.  
+ 
+Ao longo de 2025 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 
+                      
+ 
+__________________________________________________________________________ 
+Administração Central 
+Unidade do Ensino Superior de Graduação 
+ 
+ 
+ 
+EIXO 5: INFRAESTRUTURA 
+ 
+POTENCIALIDADES 
+AÇÕES PLANEJADAS 
+CÓDIGO PGA DA 
+AÇÃO PLANEJADA 
+PRAZOS 
+PROJETO PARA LEVANTAMENTO DE PATRIMÔNIO 
+Organização, melhor aproveitamento dos equipamentos, doação, descarte. 
+ 
+Ao longo de 2025 
+PROJETO PARA LIMPEZA DAS CALHAS 
+Saúde Pública, manter a higiene e o fluxo das águas das chuvas para as 
+tubulações. 
+ 
+Ao longo de 2025 
+COMPRA DE PABX ATUALIZADO 
+Manutenção e modernização da telefonia para eliminar desperdícios e melhorar 
+a conectividade. 
+ 
+Ao longo de 2025 
+COMPRA DE PORTÃO AUTOMÁTICO PARA PORTARIA 
+Segurança da comunidade acadêmica, melhor controle de entrada e saída e 
+segurança das pessoas. 
+ 
+Ao longo de 2025 
+ 
+FRAGILIDADES (SITUAÇÕES PROBLEMA) 
+ 
+AÇÕES PLANEJADAS 
+ 
+PRAZOS 
+Falta de local adequado para alimentação de discentes, 
+docentes e técnicos-administrativos 
+Preparar o processo de Licitação para uso de espaço Cantina 
+ 
+Ao longo de 2025 
+Alto índice de assaltos na região 
+Proposta de Monitoramento por câmera. Solicitação de compra de sistema de 
+monitoramento 
+ 
+Ao longo de 2025 
+Detrimento da iluminação e economia com a substituição 
+Estudo para substituição da iluminação externa (pátio e estacionamento) por LED 
+ 
+Ao longo de 2025 
+Material Infraestrutura/equipamentos 
+Estudo para melhorias dos laboratórios, biblioteca e equipamentos da área 
+administrativa e acadêmica 
+ 
+Ao longo de 2025 
+Relatório de Autoavaliação Institucional 
+da Fatec – 
+                      
+ 
+__________________________________________________________________________ 
+Administração Central 
+Unidade do Ensino Superior de Graduação 
+ 
+ 
+Realização de Investimentos na Fatec 
+Nesses últimos dois anos tivemos dificuldades para investimentos de 
+infraestrutura (verificação de telhado, postes de luz, etc) 
+ 
+Ao longo de 2025 
+Instalações da Fatec 
+Permanecer com as manutenções, atividades compartilhadas e ambiente 
+harmonioso e gentileza entre os funcionários, professores e gestão. 
+ 
+Ao longo de 2025 
+Salas de aula (organização, equipamento, iluminação) 
+Manter a manutenção, limpeza e segurança constantes para que o ambiente de 
+trabalho dos professores (e de todos da comunidade acadêmica) permaneça de 
+modo confortável. 
+ 
+Ao longo de 2025 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 
+ 
+                      
+ 
+__________________________________________________________________________ 
+Administração Central 
+Unidade do Ensino Superior de Graduação 
+ 
+ 
+ 
+CONSIDERAÇÕES FINAIS 
+A Comissão Própria de Avaliação, pelo seu trabalho, visa oferecer subsídios capazes de 
+subsidiar à tomada de decisão e ao planejamento institucional, na busca de contínua 
+melhoria da qualidade do ensino, da pesquisa, da extensão e da gestão. Sendo assim um 
+importante instrumento para a Direção. 
+Dentre as principais ações advindas desse processo, podemos salientar que diversas 
+melhorias foram implementadas ao longo do último triênio. Nos eixos que englobam a 
+Avaliação Institucional. E as ações que a instituição não conseguiu atingir, geralmente estão 
+relacionadas a gestão central da Fatec (CPS-Sede), impossibilitando qualquer inferência 
+sobre as razões. 
+De todo modo, os resultados apresentados contemplam as dez dimensões auto avaliativas 
+do SINAES e foram analisados e discutidos por todos os membros da comunidade 
+institucional: direção, coordenações de cursos, setores administrativos, gestores, 
+professores e alunos. 
+Os dados coletados, as análises e propostas serão amplamente divulgados e comparados nos 
+próximos ciclos avaliativos, para elucidar os avanços alcançados e reforçar as contribuições 
+do processo para a busca da melhoria contínua.   
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ANEXO - ATAs de Aprovação dos membros da CPA, registro de alterações e reuniões da CPA 
+ 
+FACULDADE DE TECNOLOGIA ANTONIO RUSSO DE SÃO CAETANO DO SUL 
+ATA DE REUNIÃO ORDINÁRIA DA COMISSÃO PRÓPRIA DE AVALIAÇÃO DE 06 DE MARÇO DE 2024.  
+Em 06 de Março de 2024, foi realizada a Reunião com a equipe Gestora da Fatec São Caetano, 
+Direção, Coordenações de Cursos para sistematização as ações e composições de grupos de trabalho. 
+ 
+FACULDADE DE TECNOLOGIA ANTONIO RUSSO DE SÃO CAETANO DO SUL 
+ATA DE REUNIÃO ORDINÁRIA DA COMISSÃO PRÓPRIA DE AVALIAÇÃO DE 06/03/2024, CONSTITUÍDA PELA 
+PORTARIA DE DIREÇÃO Nº 20/2024 DE 06/03/2024. 
+No dia seis de março de dois mil e vinte e quatro as 10 horas, foi realizada a primeira reunião ordinária da 
+CPA para empossar a nova comissão da CPA. Mandato 2024-27. Na ocasião foi lido o regimento para todos 
+os presentes a saber: Representante docente, representante tecnico administrativo, representante da 
+sociedade civil e representante discente. Tal regimento foi elaborado pela CPA Central.  
+ 
+Representante Docente: 
+Claudemir Martins da Silva  
+______________________________ 
+Representante Funcionário Administrativo: 
+Alexandre Silva dos Santos 
+______________________________ 
+Representante Comunidade Externa: 
+Fernando Trincado, vinculado à Ouvidoria do Município de São Caetano do Sul 
+______________________________ 
+IV. Discente: 
+Gentil Alves Pessoa Neto 
+______________________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+FACULDADE DE TECNOLOGIA ANTONIO RUSSO DE SÃO CAETANO DO SUL 
+ATA DE REUNIÃO ORDINÁRIA DA COMISSÃO PRÓPRIA DE AVALIAÇÃO DE 22 DE FEVEREIRO DE 2023.  
+Em 22 de fevereiro de 2023, foi realizada a Reunião Inicial com a equipe Gestora da Fatec São 
+Caetano Direção, Coordenações de Cursos para sistematização as ações e composições de grupos de 
+trabalho.. 
+ 
+FACULDADE DE TECNOLOGIA ANTONIO RUSSO DE SÃO CAETANO DO SUL 
+ATA DE REUNIÃO ORDINÁRIA DA COMISSÃO PRÓPRIA DE AVALIAÇÃO DE 01/06/2016, CONSTITUÍDA PELA 
+PORTARIA DE DIREÇÃO Nº 03/2015 DE 28/04/2016. 
+Ao primeiro dia do mês de junho de dois mil e dezesseis, às dezessete horas, foi realizada a segunda 
+reunião ordinária da CPA para discussão do regimento da Comissão. O regimento foi lido pelo 
+Representante Docente Claudemir Martins da Silva e foi aprovada pelos integrantes presentes que 
+representam os funcionários administrativos e corpo discente. Tal regimento será apresentado para a 
+direção da unidade, Profª. Drª. Adriane Monteiro Fontana.  
+ 
+Representante Docente: 
+Claudemir Martins da Silva  
+______________________________ 
+Representante Funcionário Administrativo: 
+Guilherme Cortonesi Cela 
+ 
+______________________________ 
+Representante Comunidade Externa: 
+Alexsander Tressino de Carvalho 
+______________________________ 
+IV. Discente: 
+Jan Michael Nowikow 
+______________________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FACULDADE DE TECNOLOGIA ANTONIO RUSSO DE SÃO CAETANO DO SUL 
+ATA DE REUNIÃO ORDINÁRIA DA COMISSÃO PRÓPRIA DE AVALIAÇÃO DE 12 DE ABRIL DE 2023.  
+Em 12 de abril de 2023, foi realizada a Reunião com a equipe Gestora da Fatec São Caetano, 
+Direção, Ccoordenações de Cursos para sistematização as ações e composições de grupos de trabalho. 
+ 
+FACULDADE DE TECNOLOGIA ANTONIO RUSSO DE SÃO CAETANO DO SUL 
+ATA DE REUNIÃO ORDINÁRIA DA COMISSÃO PRÓPRIA DE AVALIAÇÃO DE 01/06/2016, CONSTITUÍDA PELA 
+PORTARIA DE DIREÇÃO Nº 03/2015 DE 28/04/2016. 
+Ao primeiro dia do mês de junho de dois mil e dezesseis, às dezessete horas, foi realizada a segunda 
+reunião ordinária da CPA para discussão do regimento da Comissão. O regimento foi lido pelo 
+Representante Docente Claudemir Martins da Silva e foi aprovada pelos integrantes presentes que 
+representam os funcionários administrativos e corpo discente. Tal regimento será apresentado para a 
+direção da unidade, Profª. Drª. Adriane Monteiro Fontana.  
+ 
+ 
+Representante Docente: 
+Claudemir Martins da Silva  
+______________________________ 
+Representante Funcionário Administrativo: 
+Guilherme Cortonesi Cela 
+ 
+______________________________ 
+Representante Comunidade Externa: 
+Alexsander Tressino de Carvalho 
+______________________________ 
+IV. Discente: 
+Jan Michael Nowikow 
+______________________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FACULDADE DE TECNOLOGIA ANTONIO RUSSO DE SÃO CAETANO DO SUL 
+ATA DE REUNIÃO ORDINÁRIA DA COMISSÃO PRÓPRIA DE AVALIAÇÃO DE 11 DE OUTUBRO DE 2023.  
+Em 11 de outubro de 2023, foi realizada a Reunião para organização da divulgação do WEBSAI 2023 
+para Sensibilização e participação nos procedimentos e coleta. Foi proposto  encontros online com 
+representantes de turmas, lives, webinar, informativos, site, entre outros, para alimentar a cultura 
+avaliativa da Fatec São Caetano. 
+ 
+FACULDADE DE TECNOLOGIA ANTONIO RUSSO DE SÃO CAETANO DO SUL 
+ATA DE REUNIÃO ORDINÁRIA DA COMISSÃO PRÓPRIA DE AVALIAÇÃO DE 01/06/2016, CONSTITUÍDA PELA 
+PORTARIA DE DIREÇÃO Nº 03/2015 DE 28/04/2016. 
+Ao primeiro dia do mês de junho de dois mil e dezesseis, às dezessete horas, foi realizada a segunda 
+reunião ordinária da CPA para discussão do regimento da Comissão. O regimento foi lido pelo 
+Representante Docente Claudemir Martins da Silva e foi aprovada pelos integrantes presentes que 
+representam os funcionários administrativos e corpo discente. Tal regimento será apresentado para a 
+direção da unidade, Profª. Drª. Adriane Monteiro Fontana.  
+ 
+Representante Docente: 
+Claudemir Martins da Silva  
+______________________________ 
+Representante Funcionário Administrativo: 
+Guilherme Cortonesi Cela 
+ 
+______________________________ 
+Representante Comunidade Externa: 
+Alexsander Tressino de Carvalho 
+______________________________ 
+IV. Discente: 
+Jan Michael Nowikow 
+_____________________________ 
+ 

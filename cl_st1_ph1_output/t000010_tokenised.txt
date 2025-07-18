@@ -1,0 +1,702 @@
+1
+__________________________________________________________________________ Administração Central Unidade do Ensino Superior de Graduação
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2023/2º Parcial
+INSTRUÇÕES PARA ELABORAÇÃO DO RELATÓRIO DE AUTOAVALIAÇÃO INSTITUCIONAL
+Para a elaboração do relatório, cabe à CPA: a) realizar preenchimento do template preenchendo as partes introdutórias e relatando os procedimentos metodológicos utilizados pela CPA, conforme itens 1 e 2 do template; b) após acessar os dados coletados, apresentar os dados coletados, organizando-os no item 3 do relatório (Desenvolvimento) explicitando os dados por meio dos gráficos; c) encaminhar as questões e o formulário para análise de cada dimensão pela equipe gestora da Unidade de Ensino; d) após a devolutiva da equipe gestora da Unidade de Ensino, por meio do PGA, organizar as ações propostas para consolidação do relatório da autoavaliação, em seu item 4 (Análise dos dados e ações propostas) e) realizar as considerações finais; f) encaminhar o relatório para manifestação da Cesu/DGE mediante parecer do GPR e anuência institucional da CPA Central; g) após autorização da CPA Central, realizar a inserção do relatório até 31 de março e dar ampla divulgação para toda a comunidade dos resultados.
+
+
+
+
+
+
+
+
+
+2
+__________________________________________________________________________ Administração Central Unidade do Ensino Superior de Graduação
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2023/2º Parcial
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<Cotia> 2023
+
+
+
+
+FATEC: 270-Fatec Cotia - R-06 RELATÓRIO DE AUTOAVALIAÇÃO INSTITUCIONAL 2023 3
+__________________________________________________________________________ Administração Central Unidade do Ensino Superior de Graduação
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2023/2º Parcial Direção / Coordenação de Cursos
+
+Direção Geral
+<Sandra Regina Chaves Nunes> Coordenador do Curso de Graduação Tecnológica em
+
+Coordenador do Curso de Graduação Tecnológica em
+
+
+
+
+
+
+
+
+Presidente da CPA <Ernesto Carlos Tavares de Almeida>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4
+__________________________________________________________________________ Administração Central Unidade do Ensino Superior de Graduação
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2023/2º Parcial Comissão Própria de Avaliação – CPA
+
+
+
+Representante docente (Presidente)
+<Ernesto Carlos Tavares de Almeida> Representante docente
+<Gilberto de Paiva> Representante docente
+
+Representante discente
+<Leandro Augusto Lopes> Representante do corpo técnico administrativo
+<Diego Correa da Rocha Aguiar> Representante da Sociedade Civil
+<Renan Ruivo Silva> Representante da Administração Central – Cesu/DGE
+<Fernanda Peixoto Coelho>
+
+
+
+
+
+5
+__________________________________________________________________________ Administração Central Unidade do Ensino Superior de Graduação
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2023/2º Parcial SUMÁRIO
+
+
+I Identificação da FATEC: ................................................................................................................. 04 II Atos Regulatório ............................................................................................................................. 05 III Composição da Comissão Própria de Avaliação (CPA) .......................................................... 06 1 INTRODUÇÃO ............................................................................................................................... 06 2 METODOLOGIA ............................................................................................................................ 07 2.1 Cronograma de atividades da CPA .......................................................................................... 09 2.2 Sensibilização .............................................................................................................................. 10 2.3 Sujeitos da avaliação .................................................................................................................. 10 2.4 Instrumentos de coleta ............................................................................................................... 11 2.5 Procedimentos para a coleta ..................................................................................................... 11 2.6 Análise e discussão dos dados da coleta ................................................................................ 11 2.7 Organização das medidas para a composição do relatório .................................................. 12 2.8 Devolutiva dos resultados para os segmentos ....................................................................... 12 3 DESENVOLVIMENTO ................................................................................................................... 13 3.1 Eixo 1: Planejamento e Avaliação Institucional ...................................................................... 13 3.2 Eixo 2: Desenvolvimento Institucional ...................................................................................... 14 3.3 Eixo 3: Políticas Acadêmicas ..................................................................................................... 16 3.4 Eixo 4: Políticas de Gestão ........................................................................................................ 18 3.5 Eixo 5: Infraestrutura Física ....................................................................................................... 19 4 ANÁLISE DOS DADOS E AÇÕES PROPOSTAS ................................................................ 21 5 CONSIDERAÇÕES FINAIS ..................................................................................................... 26
+
+
+
+
+4
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2023/2º Parcial I. Identificação da FATEC (informação PDI/PGA/RCPA/RAA)  Dados da unidade Fatec: 270-Fatec Cotia - R-06 Razão social: [Faculdade de Tecnologia - FATEC de Cotia] Endereço: Rua Nelson Raineri, 700 – Cotia - SP]
+ Direção da Unidade Diretor: Sandra Regina Chaves Nunes
+ Coordenação de Curso CST em [Gestão Empresarial]: [Priscila Santos Oliveira] CST em [Gestão da Produção Industrial]: [Valter Yogui] CST em [Ciência de Dados]: [Johne Marcus Jarske] CST em [Desenvolvimento de Software Multiplataforma]: [Alexandre Calabro Simon]
+
+ Direção de Serviços Diretor de Serviços Acadêmicos: [Renan Ruivo Silva] Diretor de Serviços Administrativos: [Sabrina Aparecida dos Santos]
+
+5
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2023/2º Parcial II. Atos Regulatórios (informação PDI/PGA/RCPA/RAA)  Decreto de criação: nº 60037, de 07/01/2014  (Para citar documentos legais que formalizam a criação da unidade, consulte:  https://bkpsitecpsnew.blob.core.windows.net/uploadsitecps/sites/18/2021/07/Criacao- de-unidades-do-CPS.xls)
+Atos legais referentes aos cursos
+CST em Gestão Empresarial Data Tipo Portaria CEE/GP Parecer CD (p/ reestruturação) 2013 / Sem. Implantação Número 8 de 18/12/2013 Ano no formato XXXX / Sem. Atualização Número 53 de 30/01/2020 Ano no formato XXXX / Sem. Escolher um item. Número Ano no formato XXXX / Sem. Escolher um item. Número Ano no formato XXXX / Sem. Escolher um item. Número Ano no formato XXXX / Sem. Escolher um item. Número
+
+CST em Gestão da Produção Industrial Data Tipo Portaria CEE/GP Parecer CD (p/ reestruturação) Ano no formato 2013/2º Sem. Implantação Número 52 de 18/12/2013 Ano no formato 2019 / 2º Sem. Atualização Número 475/19 de 09/01/2020 Ano no formato XXXX / Sem. Escolher um item. Número Ano no formato XXXX / Sem. Escolher um item. Número Ano no formato XXXX / Sem. Escolher um item. Número Ano no formato XXXX / Sem. Escolher um item. Número
+CST em Ciência de Dados Data Tipo Portaria CEE/GP Parecer CD (p/ reestruturação) 2020 / 2º Sem. Implantação Número 881 de 29/10/2020 Ano no formato XXXX / Sem. Escolher um item. Número Ano no formato XXXX / Sem. Escolher um item. Número Ano no formato XXXX / Sem. Escolher um item. Número Ano no formato XXXX / Sem. Escolher um item. Número Ano no formato XXXX / Sem. Escolher um item. Número 6
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2023/2º Parcial
+CST em Desenvolvimento de Software Multiplataforma Data Tipo Portaria CEE/GP Parecer CD (p/ reestruturação) 2021 / 2º Sem. Implantação Número 73/2021 de 14/10/2021 Ano no formato XXXX / Sem. Escolher um item. Número Ano no formato XXXX / Sem. Escolher um item. Número Ano no formato XXXX / Sem. Escolher um item. Número Ano no formato XXXX / Sem. Escolher um item. Número Ano no formato XXXX / Sem. Escolher um item. Número
+
+
+
+III. Composição da Comissão Própria de Avaliação (CPA) A Comissão Própria de Avaliação da FATEC de Cotia foi instituída pela Portaria nº 1305/2016, de 31 de maio de 2016, com mandato até 31/03/2024, conforme ata da Congregação (Anexo – ATAs de Aprovação dos membros da CPA, registro de alterações e reuniões da CPA).
+
+
+7
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2023/2º Parcial 1. INTRODUÇÃO
+A Fatec Cotia possui a avaliação institucional como efetivo instrumento de gestão. Por meio da avaliação tem-se condições de reunir apontamentos capazes de suscitar análises e discussões possibilitando definir planos de melhorias de forma continuada. A Lei 10.861/2014, que define o Sistema Nacional de Avaliação da Educação Superior (SINAES), estabelece, em seu Artigo 3º, que a avaliação institucional tem por objetivo identificar o perfil da IES e o significado de sua atuação, por meio de suas atividades, cursos, programas, projetos e setores, considerando as diferentes dimensões institucionais, consolidadas em cinco eixos, sempre objetivando evidenciar os referenciais mínimos de qualidade exigidos pela excelência de ensino que é um dos pilares da pratica de todas as faculdades de tecnologias do Estado de São Paulo vinculadas ao Centro Paula Souza. Por meio do desenvolvimento do presente relatório, serão apresentados os dados e as informações referentes aos eixos, dimensões e indicadores em consonância com o Plano de Desenvolvimento Institucional (PDI) da Fatec e em consonância com as diretrizes emanadas do Centro Paula Souza.
+Alunos Matriculados (apenas os alunos que estejam CURSANDO) (referência - fevereiro do ano vigente) Curso Número de Alunos CST em Gestão Empresarial 330 CST em Gestão da Produção Industrial 293 CST em Ciência de Dados 146 CST em Desenvolvimento de Software Multiplataforma 93
+ Detalhamento do corpo docente da Unidade de Ensino (informação PDI/PGA/RCPA/RAA) 8
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2023/2º Parcial
+Nome Matrícula Cód. UE sede Titulação* Referência Experiência Profissional Curriculum Lattes (URL) Docência (anos) Não docência (anos) 1 Link para arquivo com detalhamento do corpo docente (PDI) – está colocado também no final deste relatório, depois do anexo das ATAS
+Escolha M I
+
+
+2
+
+Escolha M I
+
+
+3
+
+Escolha M I
+
+
+4
+
+Escolha M I
+
+
+5
+
+Escolha M I
+
+
+6
+
+Escolha M I
+
+
+7
+
+Escolha M I
+
+
+8
+
+Escolha M I
+
+
+9
+
+Escolha M I
+
+
+10
+
+Escolha M I
+
+
+11
+
+Escolha M I
+
+
+12
+
+Escolha M I
+
+
+13
+
+Escolha M I
+
+
+14
+
+Escolha M I
+
+
+15
+
+Escolha M I
+
+
+16
+
+Escolha M I
+
+
+17
+
+Escolha M I
+
+
+18
+
+Escolha M I
+
+
+* Titulação: D (Doutor), M (Mestre), E (Especialista)
+Organização do relatório:
+i. Identificação e dados gerais da Unidade de Ensino. ii. Metodologia a. Cronograma das atividades da CPA b. Ações de sensibilização da comunidade acadêmica c. Identificação dos sujeitos da avaliação d. Organização dos instrumentos de coleta e. Procedimentos para a coleta f. Análise e discussão dos dados da coleta g. Organização das medidas para composição do relatório h. Devolutiva dos resultados para a comunidade acadêmica iii. Desenvolvimento iv. Análise dos dados e ações propostas (PGA) v. Considerações finais vi. Anexo de ATAs
+9
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2023/2º Parcial
+
+
+
+
+10
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2023/2º Parcial 2. METODOLOGIA Para contribuir com a organização da Comissão Própria de Avaliação de cada Fatec, o Centro Paula Souza, por meio da Unidade do Ensino Superior de Graduação (Cesu), organizou a comissão da CPA Central, assumindo como centro organizativo as atribuições que lhe competem, a saber: I. Contribuir com o planejamento, orientação e monitoramento dos procedimentos da autoavaliação Institucional das Fatecs; II. Utilizar os indicadores coletados nas unidades como instrumento de gestão materializado por meio do Plano de Metas, do Plano de Desenvolvimento Institucional e do Plano de Gestão Anual, oferecendo subsídios para cada uma das áreas da administração central tomar as medidas corretivas e ações de melhoramento; III. Elaborar o Relatório Global da Autoavaliação para os processos de recredenciamento institucional. IV. Elaborar o cronograma da autoavaliação para as Fatecs, considerando o prazo de 31 de março de cada ano para o protocolo dos relatórios da autoavaliação no sistema e-MEC do Ministério da Educação. V. Avaliar, indicar possíveis ajustes e autorizar o protocolo dos relatórios das CPAs das Fatecs no sistema e-MEC. VI. Reunir-se ordinariamente duas vezes no semestre ou de forma extraordinária quando necessário.
+Por meio da CPA Central e da Gestão Educacional da Cesu, cada Fatec recebe o suporte necessário para sua CPA cumprir o que lhe compete, conforme segue: 1. Contribuir com o planejamento, elaboração, coordenação e monitoramento dos processos de avaliação interna, apresentando o projeto de autoavaliação Institucional que norteará todos os procedimentos de autoavaliação para a CPA Central em consonância com a equipe de Gestão Educacional da Cesu. 2. Apoiar os processos internos de avaliação; 3. Sistematizar e prestar informações relativas às políticas de autoavaliação institucional, solicitadas pelos Sistemas Federal e Estadual de Avaliação da Educação Superior, além de atender à demanda interna da Gestão Educacional da Cesu e da CPA Central do Centro Paula Souza; 4. Constituir subcomissões de avaliação; 5. Constituir grupos temáticos ou focais voltados para a avaliação de cada uma das dez dimensões estabelecidas no artigo anterior; 6. Elaborar e analisar relatórios e pareceres, encaminhando-os a CPA Central; 7. Desenvolver estudos e análises, colaborando com os órgãos próprios ou terceirizados do Centro Paula Souza, visando ao fornecimento de subsídios para afixação, o aperfeiçoamento e a modificação da política de avaliação institucional; 8. Acompanhar, analisar e correlacionar os resultados da autoavaliação com os resultados dos alunos do Centro Paula Souza no ENADE, bem como em outros processos de avaliação; 9. Aprovar seu próprio regulamento em consonância com as diretrizes emanadas pela CPA Central.
+11
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2023/2º Parcial Os relatórios parciais e/ou integrais da autoavaliação deverão ser elaborados com periodicidade anual, encaminhados para a CPA Central seguindo o cronograma de planejamento apresentado nas orientações gerais e protocolados até 31 de março de cada ano. Ficando disponíveis para serem apreciados pela comissão de especialistas designada pelo Conselho Estadual de Educação para a visita à Instituição em seu processo de recredenciamento, conforme dispõe a Deliberação do CEE 160/2018.
+2.1 Cronograma das atividades da CPA A partir desta estrutura a CPA da Fatec Cotia para cumprir o que lhe compete, durante o ano de 2023 elaborou o seguinte cronograma de trabalho:
+Atividades / Ações Mês jan fev mar abr mai jun jul ago set out nov dez Reuniões com a equipe gestora da UE para sistematização das ações e composições de grupos de trabalho.
+x
+x x
+
+x x x
+
+Encontros da equipe CPA para organizar e desenvolver estratégias de maneira integrada a partir da percepção dos diferentes segmentos que compõem a comissão.
+x
+x x
+
+x
+
+
+
+Sensibilização para participação nos procedimentos e coleta: Encontros com representantes de turmas, lives, webinar, informativos, site, entre outros, para alimentar a cultura avaliativa da Fatec.
+
+
+
+x x
+x
+
+
+
+Organização dos procedimentos de coleta de dados: elaboração das ações voltadas para estimular e monitorar a participação de toda a comunidade no preenchimento do formulário de coleta.
+
+
+
+
+
+
+
+x x
+
+Análise dos resultados – acolhimento dos dados da coleta e início dos procedimentos de análise.
+x x
+
+
+
+
+
+
+x
+Encaminhamento dos dados coletados para a equipe gestora da UE, que recebe os dados faz a análise e apresenta a justificativa e o Plano de Gestão Anual com ações de melhorias, e encaminha para a CPA
+
+x
+
+
+
+
+
+
+x
+Elaboração do relatório da CPA.
+
+x
+
+
+
+
+
+
+x x Envio do Relatório para a emissão do parecer da Cesu/DGE e apreciação da CPA Central
+
+x
+
+
+
+
+
+
+x x Divulgação dos resultados à comunidade acadêmica.
+
+
+
+x x
+x
+
+
+
+Conclusão do Relatório.
+
+x
+
+
+
+
+
+
+
+x
+
+
+
+
+
+
+
+
+
+
+
+
+12
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2023/2º Parcial 2.2 Ações de sensibilização da comunidade acadêmica Para a efetivação do cronograma destaca-se algumas das ações para a realização dos procedimentos de autoavaliação. Foram realizadas 3 apresentações da CPA divulgando a autoavaliação de 2022. Uma com os representantes discentes, em junho de 2023, e duas com os professores em maio e agosto de 2023. Nas ocasiões foram divulgados os dados colhidos no WebSai2022 e o relatório de autoavaliação desenvolvido pela CPA. Em setembro de 2023, foi realizada uma reunião com a direção unidade, a CPA e a responsável regional para sistematizar a autoavaliação de 2023. Abaixo temos prints de telas de eventos que colaboraram para sensibilização.
+
+13
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2023/2º Parcial
+
+
+
+2.3 Identificação dos sujeitos da avaliação Os dados para a autoavaliação foram coletados com a comunidade acadêmica da Fatec Cotia. De 1000 questionários esperados tivemos 535 respondidos (53,5%): 450 discentes, 69 docentes e 16 administrativos. A participação docente e de administrativos foi quase total. Pelos gráficos abaixo percebemos uma predominância feminina de 60,75%.
+
+14
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2023/2º Parcial
+
+A participação discente foi de 49%, distribuída entre os quatro cursos da faculdade e os três eixos tecnológicos.
+
+
+
+
+Na distribuição etária, mostrada abaixo, percebemos convivência entre jovens e os mais 15
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2023/2º Parcial experientes em todos os membros da comunidade. Os alunos com idades entre 18 e 29 anos são a grande maioria, mas se estendem até a idade de 63 anos. Os professores têm distribuição quase constante entre 39 e 63 anos, com ligeira queda entre 49 e 53 anos. Os administrativos estão distribuídos entre 24 e 63 anos
+
+
+2.4 Organização dos instrumentos de coleta Desde 1997 o Centro Paula Souza, evidenciando o seu pioneirismo em buscar indicadores para gerar melhoria de seus serviços criou o Sistema de Avaliação Institucional (SAI), implantado em 1999 em todas as Etecs (Escolas de Ensino Técnico no nível médio) e, em 2000, nas Fatecs, seguindo os mais rigorosos critérios estatísticos. Sendo os instrumentos elaborados e preenchidos em formulários impressos de 1999 a 2012. A partir de 2010, os questionários deixaram de ser preenchidos em formulário de papel e passaram a ser totalmente on-line, trazendo mais agilidade ao processo de avaliação. Desde então, todos os participantes realizam a pesquisa pela internet e o SAI passou a ser chamado de WebSAI. Para que as Fatecs tivessem apenas um instrumento que pudesse contemplar as 10 dimensões dentro dos 5 eixos avaliativos, a partir da criação da comissão da CPA Central a AAI em parceria com a CESU, por meio de uma equipe qualificada, reorganizou a elaboração dos Instrumentos adequando-os em torno dos 5 eixos avaliativos:
+Na reunião de início de semestre com os professores, 04 de agosto de 2023, a CPA contribuiu com uma palestra com o título “Pensando Avaliação”. Foi apresentado o relatório da autoavaliação da CPA 2022, o sistema WebSai e também foi feita uma pesquisa com os professores, “Pesquisa CPA 2023”, que tinha a intenção de aumentar o engajamento dos 16
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2023/2º Parcial professores nas atividades acadêmicas. Na pesquisa, respondida por 36 professores, os professores marcavam os pontos fortes e fracos na interação acadêmica. Segue abaixo o formulário apresentado.
+
+
+
+
+
+2.5 Procedimentos para a coleta
+A AAI disponibilizou o acesso ao sistema de coleta (WebSAI) a partir de 09 de setembro de 2023 ficou disponível para o preenchimento da comunidade do dia 25 de outubro de 2023. Para favorecer a participação da comunidade durante este período a CPA e Direção da Fatec Cotia, fez o acompanhamento da participação de cada segmento, realizando ações para sensibilização contínua para a participação da comunidade acadêmica, a saber: i. <emails enviados aos alunos e professores>; ii. <mensagens enviadas nos grupos de whatsapp de representantes de alunos, grupos de professores de todos os cursos, grupo de funcionários´>; iii. tabela com salas e professores de todos os semestres para avisar os alunos sobre a pesquisa WebSai 2023, sua relevância e encaminhar os alunos aos laboratórios de informática.
+
+2.6 Análise e discussão dos dados da coleta 17
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2023/2º Parcial A partir do dia 01de dezembro de 2023 os dados coletados por meio do WebSAI, foram disponibilizados pela AAI. A Fatec Cotia, por meio da CPA iniciou o processo de organização dos dados coletados para encaminhamento à equipe gestora da Unidade de Ensino. A CPA da Fatec Cotia, recebeu os dados e gráficos das respostas, organizou uma apresentação e encaminhou para a equipe gestora da Unidade de Ensino, para subsidiar seu Plano de Gestão Anual, por meio de reuniões para discussões sobre os dados, identificando as situações-problema e os recursos necessários para melhoramento, trazendo consigo as ações executivas e o cronograma/prazo de implementação
+2.7 Organização das medidas para composição do relatório
+Após o processo de elaboração do Plano de Gestão Anual (PGA), efetuou-se o preenchimento dos quadros de ações propostas, com o apontamento das medidas de melhoramento e respectivos prazos, em consonância com o PGA. Os quadros apresentados, foram condensados no capítulo 4 deste relatório, refletindo o planejamento da Unidade de Ensino a partir dos indicadores observados em cada eixo avaliativo.
+
+2.8 Devolutiva dos resultados para a comunidade acadêmica
+Após a apresentação do relatório para a Direção da Fatec.Cotia, foram organizadas as formas de divulgação dos resultados e apresentação das ações provenientes do processo de autoavaliação, permitindo o desenvolvimento institucional. Para a divulgação dos resultados e apresentação das ações que serão realizadas, será agendada reunião com os representantes de sala da Fatec Cotia, assim como será incluída pauta sobre isso na Semana de Planejamento (SPAP) de fevereiro de 2024.
+18
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2023/2º Parcial 3. DESENVOLVIMENTO Considerando os instrumentos da autoavaliação, estruturados a partir das 10 dimensões previstas no art. 3º da Lei nº 10.861 (SINAES), nesta parte do relatório, a CPA deverá apresentar as informações que foram coletadas, a partir da organização de 5 eixos, que articulam as 10 dimensões, conforme disposto na Nota Técnica INEP nº 065, como segue:
+3.1 Planejamento e Avaliação Institucional Eixo 1:
+Dimensão 8: Planejamento e Avaliação
+
+EIXO 1 - Planejamento e Avaliação Institucional Dimensão SINAES 8 APRESENTAÇÃO DAS PRINCIPAIS INFORMAÇÕES COLETADAS NO EIXO Como você avalia o uso dos indicadores da Avaliação Institucional (WEBSAI) no Planejamento Institucional?
+ALUNOS
+
+
+
+
+
+
+
+
+
+19
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2023/2º Parcial SERVIDORES
+
+DOCENTES
+
+Por volta de 50% da comunidade acadêmica relata não conhecer o uso dos indicadores para o planejamento institucional, necessitando de um reforço de ações de esclarecimento durante o próximo período de sensibilização.
+
+
+
+
+
+20
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2023/2º Parcial 3.2 Eixo 2: Desenvolvimento Institucional
+Dimensão 1: Missão e Plano de Desenvolvimento Institucional Dimensão 3: Responsabilidade Social da Instituição
+
+EIXO 2 – Desenvolvimento Institucional Dimensão SINAES 1 e 3 APRESENTAÇÃO DAS PRINCIPAIS INFORMAÇÕES COLETADAS NO EIXO
+
+
+21
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2023/2º Parcial ALUNOS:
+
+
+Quase 50% dos alunos reportam não conhecer o Regimento das Fatecs, necessitando ações de esclarecimento. Mais de 50% da comunidade acadêmica consideram as atividades científicas, tecnológicas, sociais, culturais e artísticas insuficientes na unidade, necessitando de ações para melhoria do quadro. Mais de 40% dos alunos consideram os programas de apoio pedagógico inexistentes, insuficientes ou regulares, necessitando melhorias nesse aspecto.
+
+
+
+O Plano de Desenvolvimento institucional (Ano 2022 – Ano 2026) foi um dos principais documentos que nortearam as ações da Fatec Cotia: tratou-se de um documento que 22
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2023/2º Parcial se caracterizou como uma identidade da Instituição, definindo, dentre outros, sua filosofia de trabalho, missão, estratégias, objetivos, estrutura e diretrizes pedagógicas, algo a ser continuado no PDI para os anos de XXXX - XXXX.
+A FATEC COTIA tem como ações desenvolvidas com a comunidade o projeto Fatec Paradiso, de discussão de questões do tempo presente,. e o Novotec, de formação de público jovem para o mercado de trabalho.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+23
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2023/2º Parcial 3.3 Eixo 3: Políticas Acadêmicas
+Dimensão 2: Políticas para o Ensino, a Pesquisa e a Extensão Dimensão 4: Comunicação com a Sociedade Dimensão 9: Política de Atendimento aos Discentes
+EIXO 3 – Políticas Acadêmicas Dimensão SINAES 2, 4 e 9 APRESENTAÇÃO DAS PRINCIPAIS INFORMAÇÕES COLETADAS NO EIXO
+
+
+Temos que mais de 50% da comunidade acadêmica relatam que as atividades de pesquisa são baixas ou inexistentes. Nesse ponto, serão necessárias ações para melhoria da situação.
+
+
+
+
+
+
+24
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2023/2º Parcial 3.4 Eixo 4: Políticas de Gestão
+Dimensão 5: Políticas de Pessoal Dimensão 6: Organização e Gestão da Instituição Dimensão 10: Sustentabilidade Financeira
+EIXO 4 – Políticas de Gestão Dimensão SINAES 5, 6 e 10 APRESENTAÇÃO DAS PRINCIPAIS INFORMAÇÕES COLETADAS NO EIXO DOCENTES
+SERVIDORES
+
+25
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2023/2º Parcial Mais de 50% dos servidores e docentes relatam insatisfação com o plano de carreira. A unidade precisa de iniciativas para abordar essa questão.
+A mesma pergunta foi formulada numa reunião de início de semestre com 36 professores e as respostas estão alinhadas indicando que o plano de carreira merece atenção.
+
+
+
+
+
+
+
+
+26
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2023/2º Parcial 3.5 Eixo 5: Infraestrutura Física
+Dimensão 7: Infraestrutura Física
+EIXO 5 – Infraestrutura Física Dimensão SINAES 7 APRESENTAÇÃO DAS PRINCIPAIS INFORMAÇÕES COLETADAS NO EIXO ALUNOS
+
+
+
+
+
+27
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2023/2º Parcial DOCENTES
+
+SERVIDORES
+28
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2023/2º Parcial
+
+
+Aproximadamente 50% dos servidores, docentes e discentes relatam insatisfação com a infraestrutura de laboratórios, equipamentos, adequação térmica, mobiliários e outros. É necessário recursos e melhorias em infraestrutura da unidade de ensino.
+
+
+
+
+
+4
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2023/2º Parcial 4. ANÁLISE DOS DADOS E AÇÕES PROPOSTAS (PGA)
+EIXO 1 - Planejamento e Avaliação Institucional AÇÃO PROPOSTA Prazo Código PGA Título
+Divulgar o PDI em informativos físicos e eletrônicos
+
+Professor tutor para orientar o planejamento de estudos
+
+Orientar projetos de participação na comunidade
+302 Dinamizar acolhimento com respeito à diversidade de opiniões
+
+
+
+EIXO 2 – Desenvolvimento Institucional AÇÃO PROPOSTA Prazo Código PGA Título
+Acolhimento de alunos ingressantes – evitar evasão
+
+Dinamizar matrículas de vagas remanescentes e em turno invertido
+
+Parceria com empresas que permitam pesquisas como estudo de caso
+
+Ações festivas Fatec 10 anos
+
+
+
+5
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2023/2º Parcial
+EIXO 3 – Políticas Acadêmicas AÇÃO PROPOSTA Prazo Código PGA Título
+Novos métodos de avaliação
+
+Monitorias / Nivelamento
+
+Intercâmbio
+
+Programas de Estágio
+
+Criação de Laboratórios
+
+
+EIXO 4 – Políticas de Gestão AÇÃO PROPOSTA Prazo Código PGA Título
+Incrementar visibilidade dos programas de apoio à pesquisa
+
+Fomentar participação em programas de capacitação, mestrado, doutorado
+
+Atualização permanente das informações da Instituição
+
+Promover atividades envolvendo a comunidade
+
+Criação de um Plano de carreira
+
+
+EIXO 5 – Infraestrutura Física AÇÃO PROPOSTA Prazo Código PGA Título
+Reformas de adequação para acessibilidade
+
+Reformas de adequação para instalação novos laboratórios
+6
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2023/2º Parcial
+Instalação de equipamentos novos
+
+Implantação de sala especial para Aula Remota
+
+
+7
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2023/2º Parcial 5. CONSIDERAÇÕES FINAIS A Comissão Própria de Avaliação, pelo seu trabalho, visa oferecer subsídios capazes de subsidiar à tomada de decisão e ao planejamento institucional, na busca de contínua melhoria da qualidade do ensino, da pesquisa, da extensão e da gestão. Sendo assim um importante instrumento para a Direção.
+Dentre as principais ações advindas desse processo, podemos salientar : 1) Importância que haja transparência das ações da faculdade; 2) que os dados obtidos pela autoavaliação estejam disponíveis à equipe gestora e toda comunidade; 3) que as informações servem para dar orientação a projetos de pesquisa que enriqueçam a sociedade; 4) alguns erros de interpretação poderão ser corrigidos com a continuidade das pesquisas de autoavaliação
+
+
+Os resultados apresentados contemplam as dez dimensões auto avaliativas do SINAES e foram analisados e discutidos por todos os membros da comunidade institucional: direção, coordenações de cursos, setores administrativos, gestores, professores e alunos.
+Os dados coletados, as análises e propostas foram amplamente divulgadas e serão objeto de comparação na próxima avaliação, para elucidar os avanços alcançados, reforçando o quanto a avaliação contribui para a gestão dos resultados.
+
+
+
+
+
+
+
+
+
+8
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2023/2º Parcial
+
+ANEXO - ATAs de Aprovação dos membros da CPA, registro de alterações e reuniões da CPA 9
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2023/2º Parcial 10
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2023/2º Parcial
+
+
+
+
+
+
+
+
+
+11
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2023/2º Parcial PORTARIA DA FATEC COTIA Nº 169 DE 15 DE NOVEMBRO DE 2023.
+Designação de membro para CPA
+A Diretora da Faculdade de Tecnologia de Cotia, no uso de suas atribuições legais e regimentais, expede a Portaria de Designação de Fernanda Coelho Peixoto como membro da CPA – Comissão Própria de Avaliação. Esta portaria entrará em vigor a partir da presente data.
+
+
+
+
+
+
+
+
+
+
+Cotia, 15 de novembro de 2023.
+
+
+Profa. Dra. Sandra Regina Chaves Nunes Diretora Geral da Fatec Cotia
+
+
+<fim>
+Detalhamento do corpo docente
+Nome Matrícula Cód. UE sede Titulação* Referência Experiência Profissional Curriculum Lattes (URL) Docência (anos) Não docência (anos) 19 Adauto Procopio Da Silva 45913 270 E II 41 46 http://lattes.cnpq.br/20495720845 06103 20 Aderaldo Dos Santos Junior 75917 129 M I 11 8 http://lattes.cnpq.br/49226312536 30853 21 Alberto Messias Rodrigues Bastos 61172 270 M I 16 32 http://lattes.cnpq.br/98977495295 88989 12
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2023/2º Parcial
+Nome Matrícula Cód. UE sede Titulação* Referência Experiência Profissional Curriculum Lattes (URL) Docência (anos) Não docência (anos) 22 Alessandra Fagundes Da Silva 72461 270 E I 16 0 http://lattes.cnpq.br/53058002263 45230 23 Alexandre Calabro Simon 48217 216 M II 11 25 http://lattes.cnpq.br/98294468295 70872 24 Alexandre Cardeal De Oliveira 73468 270 M I 4 10 http://lattes.cnpq.br/13026561161 24530 25 Alexandre Ichiro Hashimoto 24000 216 D III 20 20 http://lattes.cnpq.br/55474035162 50111 26 Andre Benito Fentanes Alvarez Marques 78057 270 M I 5 3 http://lattes.cnpq.br/91671757198 75373 27 André Luís Egreggio 76964 270 M I 10 26 http://lattes.cnpq.br/1391825238 402626 28 Antonio Cesar Silva Sacco 36828 265 D III 15 38 https://lattes.cnpq.br/9818810094 715247 29 Aparecida Dias De Oliveira Formigoni 78059 270 D I 24 35 http://lattes.cnpq.br/21457408489 63940 30 Aurelio Costa Rodrigues 75574 270 M I 15 5 http://lattes.cnpq.br/55640040578 03186 31 Benedito Cesar Ferraz 50182 003 E II 10 35 https://lattes.cnpq.br/2452891774 651719 32 Braz Izaias Da Silva Junior 73364 270 D I 6 34 http://lattes.cnpq.br/80491897375 62168 33 Carlos Cesar Cavalcante Dias 73811 270 M I 20 16 http://lattes.cnpq.br/56398457038 39851 34 Carlos Eduardo Melloni 73028 270 E I 3 32 http://lattes.cnpq.br/79058143688 90372 35 Cleverson Faber De Assis 73388 270 E I 4 26 http://lattes.cnpq.br/55998481336 53434 36 Daniel Nishiwaki 74692 270 E I 3 17 http://lattes.cnpq.br/45924029830 00277 37 Deborah Gomes De Paula 77101 270 D I 19 0 http://lattes.cnpq.br/96050712 34721995 38 Dionisio Gava Junior 20243 002 M III 39 45 https://lattes.cnpq.br/3448423030 703715 39 Donizetti Leonidas De Paiva 74036 270 D I 24 35 http://lattes.cnpq.br/97533183079 52525 40 Edillize Lourenço Graballos 63610 270 E I 7 8 http://lattes.cnpq.br/14328481369 56493 41 Edison Trombeta De Oliveira 63891 270 D I 6 10 http://lattes.cnpq.br/11499541343 20570 42 Edman Altheman 58532 216 D III 35 44 http://Lattes.cnpq.br/25147269556 27858 43 Edna Aparecida Ribeiro 76298 270 M I 19 27 https://lattes.cnpq.br/0486599639 035553 44 Eduardo Muller Nunes 58537 216 E I 11 19 http://lattes.cnpq.br/79565527291 24110 45 Eduardo Tadeu De Almeida 74654 270 E I 3 23 http://lattes.cnpq.br/87416572606 97950 46 Elifas Fernandes Gorgonho 58544 270 E I 10 23 http://lattes.cnpq.br/91648672152 56536 47 Ernesto Carlos Tavares De Almeida 60197 270 M II 22 41 http://lattes.cnpq.br/26250322223 16079 48 Ernesto Turman 73419 209 E I 15 24 http://lattes.cnpq.br/77288986852 36030 49 Fabiana Valeria Da Silva Tavares 77122 270 D I 17 17 http://lattes.cnpq.br/54974005107 18766 50 Fabio Pereira Duarti 78863 270 E I 5 13 http://lattes.cnpq.br/49074158 67195790 51 Felipe Carneiro Da Silva 65678 270 D I 13 0 http://lattes.cnpq.br/34375340005 25313 52 Francisco Eugenio Barrella 58534 216 D III 25 31 http://lattes.cnpq.br/04265672612 50055 53 Geraldo Ramos Da Silva 75895 132 M I 18 30 http://lattes.cnpq.br/10237470968 28726 54 Gilberto De Oliveira Antonio 74637 270 E I 19 15 http://lattes.cnpq.br/54033276128 65222 13
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2023/2º Parcial
+Nome Matrícula Cód. UE sede Titulação* Referência Experiência Profissional Curriculum Lattes (URL) Docência (anos) Não docência (anos) 55 Gilberto De Paiva 49316 216 M II 20 25 http://lattes.cnpq.br/53465511924 31386 56 Hamilton Fernandes Moraes Junior 45916 270 M II 20 4 http://lattes.cnpq.br/37668525818 22638 57 Ivan De Padua Ferreira 70296 270 M I 32 10 http://lattes.cnpq.br/86911906929 57187 58 Ivan Luiz Laranjeiras Silva 62797 270 M II 11 10 http://lattes.cnpq.br/13764087964 83699 59 Ivanildo Da Silva Brito 76181 270 E I 20 20 http://lattes.cnpq.br/59672011346 88121 60 Ivo Eduardo Roman Pons 62799 270 D I 20 21 http://lattes.cnpq.br/41357424965 37112 61 Iza Melão 49321 216 D III 31 25 http://lattes.cnpq.br/05179695225 19160 62 Jane Cardote 73031 270 M I 12 42 http://lattes.cnpq.br/34179836083 62954 63 Jeferson Cerqueira Dias 60348 257 D I 9 32 http://lattes.cnpq.br/63959553325 07543 64 Johne Marcus Jarske 62820 270 M I 8 18 https://lattes.cnpq.br/6733739825 285561 65 Jonas Reginaldo Prado 31326 216 M III 49 24 http://lattes.cnpq.br/80134794422 44721 66 Jorge Tenório Fernando 69591 292 D I 6 30 http://lattes.cnpq.br/69927977659 71402 67 Lea Rossi 72686 270 M I 3 40 http://lattes.cnpq.br/61387768286 83643 68 Marcelo Carvalho 70313 270 D I 2 38 http://lattes.cnpq.br/74103446614 98397 69 Maria Fernanda De Oliveira 64529 270 M I 13 4 http://lattes.cnpq.br/36945040543 65237 70 Mariane Teixeira Costa 78961 270 E I 11 16 http://lattes.cnpq.br/7984355741 775338 71 Mariluce Rodrigues 71577 270 E I 24 10 https://lattes.cnpq.br/6317548822 715959 72 Mario Da Silva De Jesus 74980 270 M I 13 10 http://lattes.cnpq.br/38061479988 43046 73 Mario Nobuyuki Nakashima 75559 270 M I 23 16 http://lattes.cnpq.br/08001510905 35414 74 Mauro Luiz Costa Campello 71209 270 M I 20 48 http://lattes.cnpq.br/15209982176 40798 75 Moises Donizeti Da Silva Cesar 75219 216 E I 8 42 http://lattes.cnpq.br/18539793587 45981 76 Narjara Ferreira Mitsuoka 63764 270 M I 10 33 http://lattes.cnpq.br/49799045192 82423 77 Nilza Aparecida Dos Santos 63778 270 D I 20 16 https://lattes.cnpq.br/0639440685 890286 78 Onofre Alves Portella Junior 66612 270 D I 18 45 https://lattes.cnpq.br/8728189561 553851 79 Paulo Rogerio Da Silva 75779 270 M I 17 25 http://lattes.cnpq.br/44815757861 44662 80 Priscila Santos Oliveira 65325 270 M I 8 12 http://lattes.cnpq.br/23558106211 90087 81 Ricardo Ramos Silva 46775 270 D III 27 0 http://lattes.cnpq.br/25300522186 09353 82 Roberto Mauro Dos Santos 60195 270 M II 23 23 http://lattes.cnpq.br/27725712069 57275 83 Romulo Francisco De Souza Maia 73778 270 M I 30 20 Http://lattes.cnpq.br/87927724627 31111 84 Rovilson De Freitas 75886 270 M I 17 2 http://lattes.cnpq.br/12518094193 70167 85 Sandra Regina Chaves Nunes 60196 270 D III 29 33 https://lattes.cnpq.br/1249507720 044771 86 Saulo Ferraz Junior 62814 270 M I 6 36 http://lattes.cnpq.br/04695582342 20767 87 Shun Yoshida 62798 270 E I 30 30 http://lattes.cnpq.br/06989435250 67501 14
+
+
+Relatório de Autoavaliação Institucional da Fatec – 2023/2º Parcial
+Nome Matrícula Cód. UE sede Titulação* Referência Experiência Profissional Curriculum Lattes (URL) Docência (anos) Não docência (anos) 88 Silvio Fernando Barbieri 71165 270 M I 8 30 http://lattes.cnpq.br/07873500203 14963 89 Tania Leticia Dos Santos 69990 283 D I 11 25 http://lattes.cnpq.br/26567838016 52315 90 Valeria Da Silva Moraes 60839 270 M I 15 8 http://lattes.cnpq.br/45756142990 61542 91 Valter Yogui 20231 002 M III 37 42 http://lattes.cnpq.br/68244398096 53409 92 Vickybert Pessoa Freire 51705 216 E I 10 16 http://lattes.cnpq.br/43521506751 65981 93 Victor Antonio Troitino Troitino 42977 002 E I 29 40 http://lattes.cnpq.br/46032798678 77462
+
+
+
+
