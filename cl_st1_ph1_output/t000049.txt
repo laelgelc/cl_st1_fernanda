@@ -1,208 +1,2542 @@
+PLANO DE GESTÃO ANUAL – PGA 
+v07 
+Estruturado em 3 etapas: 
+ETAPA I – PLANEJAMENTO PELA EQUIPE GESTORA DA UE 
+ETAPA II – APROVAÇÃO E HOMOLOGAÇÃO 
+ETAPA III – ACOMPANHAMENTO DAS AÇÕES GERENCIAIS 
  
-_____________________________________________________________________________________________ 
+IDENTIFICAÇÃO DA UNIDADE 
+Unidade 
+270 
+Fatec Cotia 
+Diretor 
+Profa. Dra. Sandra Regina Chaves Nunes 
  
-Administração Central 
-Unidade do Ensino Superior de Graduação 
+ETAPA I – PLANEJAMENTO PELA EQUIPE GESTORA DA UE 
+ANÁLISE DO CENÁRIO (Breve diagnóstico/Baseline) 
  
-_____________________________________________________________________________________________________________________________________________ 
-www.cps.sp.gov.br 
-Rua dos Andradas, 140  •  Santa Ifigênia  •  01208-000  •  São Paulo  •  SP  •  Tel.: (11) 3324-3300 
+Cotia está localizada na região sudoeste do Estado de São Paulo. É um local estratégico com 
+intersecção de duas sub-regiões com proximidade no entorno do Rodoanel, microrregião de Itapecerica 
+da Serra (Cotia, Taboão da Serra, Embu das artes, Itapecerica da Serra, Vargem Grande Paulista) e divisa 
+com as cidades de Jandira, Itapevi, Carapicuíba, Ibiúna. 
+ 
+A economia da cidade pode ser considerada bem variada, destacando-se os setores industrial e 
+agrícola. No setor industrial, localizado ao longo da Rodovia Raposo Tavares e seus arredores, os 
+produtos mais importantes são materiais elétricos, farmacêuticos, químicos, cerâmicos, brinquedos, 
+têxteis, explosivos, alimentos, vinho, aguardente e máquinas agrícolas. 
+ 
+Neste sentido, a Fatec Cotia localiza-se em um dos municípios da Região Metropolitana de São Paulo 
+(RMSP), uma das maiores e mais importantes do Brasil. A cidade tem cerca de 250 mil habitantes (IBGE, 
+2019). É, ainda, região de peso na economia nacional, particularmente, nos setores secundário e terciário. 
+Segundo a Federação das Indústrias de São Paulo (FIESP), o estado – liderado pela capital, região 
+metropolitana e baixada santista – é hoje o maior polo de negócios da América Latina, concentrando 30% 
+de todos os investimentos privados realizados em território nacional. São 155 mil indústrias que 
+representam 34% do PIB industrial brasileiro. 
+ 
+Particularmente no município de Cotia, as modificações no mundo do trabalho vêm exigindo mão de 
+obra crescentemente qualificada, cuja porta de entrada é, indiscutivelmente, o ensino superior. Assim, a 
+Fatec Cotia insere-se numa região fértil para o empreendedorismo, campo propício ao tipo de profissional 
+que a instituição vem formando. As condições sociais, políticas e demográficas são indicadores positivos 
+para a existência de uma instituição de ensino como a Fatec Cotia e para a expansão dos seus cursos 
+superiores. 
+ 
+No tocante à democratização do ensino e do acesso dos alunos à graduação, o levantamento do 
+Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP) aponta o aumento de 
+378,9% de matrículas em cursos na modalidade à distância no período entre 2009 a 2019. O INEP indica, 
+ainda, que em 2019 o número de matrículas no ensino superior já representava 43,8% do total dos 
+estudantes. 
+ 
+A Fatec Cotia é a única faculdade pública do município, com grande potencial para absorver os alunos 
+que se formam no ensino médio, compreendendo também as cidades Taboão da Serra, Embu das Artes, 
+Itapecerica da Serra, Vargem Grande Paulista, Jandira, Itapevi, Carapicuíba, Ibiúna atendendo a 
+crescente a necessidade das empresas da região por profissionais de excelência. 
+ 
+Ante o cenário mundial recente e o impacto na procura pelo ensino superior, os cursos superiores de 
+tecnologia surgem como uma opção bastante importante. A característica desta formação específica, ágil 
+e que pode atender às constantes mudanças verificadas no mundo do trabalho em todos os setores, 
+confere a estes cursos uma grande atratividade com grande potencial nas diversas regiões que compõem 
+o país. 
+ 
+ 
+ 
+APONTAMENTO DE SITUAÇÕES-PROBLEMA MAIS RELEVANTES (“Escuta”) 
+Fontes: relatório CPA, análise de processos críticos da UE, relatório de atendimento e ocorrências 
+Hórus GCom. relatório NDE, relatório de representação discente. 
 1 
-RELATÓRIO ANUAL DE ATIVIDADES – RAA (A vigorar a partir da elaboração do PDI 
-período 2022-2026) 
+Expansão, Criação de Cursos Superiores de 
+Tecnologia e de Capacitação funcionários, 
+discentes e docentes 
  
-FATEC / Código: _270__ Diretor(a): __Sandra Regina Chaves Nunes_ 
-Relatório Anual de Atividades relativo ao ano de: _____2023______ 
- 
-Prezado(a) Diretor(a), 
-Anualmente deverá ser elaborado o Relatório Anual de Atividades – RAA e, conforme 
-estabelecido em Portaria CESU no 9 de 21-11-2019, encaminhar para a CESU até o dia 15 de 
-janeiro do ano subsequente. 
-Nesse relatório a Direção da Unidade deverá pontuar todos os itens que foram 
-planejados e realizados, dentro do informado pela Unidade de Ensino nos seguintes 
-documentos: 
-• 
-Nos Anexos A até F do Template do Plano de Desenvolvimento Institucional (PDI); 
-• 
-No Plano de Gestão Anual da Unidade de Ensino (PGA). 
-Além disso, deve-se informar o que, por alguma razão, não foi possível de ser realizado, 
-dentro de tudo que foi planejado, justificando os motivos da não realização. 
-Uma cópia deste RAA deverá ser encaminhada à Comissão Própria de Avaliação da 
-Unidade de Ensino (CPA) para fins de elaboração do Relatório de Autoavaliação Institucional. 
-Dúvidas, favor entrar em contato com: cesu.pdi@cps.sp.gov.br 
- 
-ATIVIDADES REALIZADAS (máximo 12.000 caracteres) 
-Rememoro, antes de iniciar o RAA 2023, que ao assumir a Direção Geral da Fatec Cotia, em 
-janeiro de 2021, havia a necessidade de reestruturar significativamente espaços, atividades 
-administrativas etc. Assim, em 2023, deu-se a continuidade a esse processo de mudanças 
-organizacionais. 
-Importante, ainda, ressaltar que todas essas ações foram possíveis pelo trabalho integrado das 
-Diretorias: Geral, Acadêmica e Administrativa, Coordenações, Funcionários Administrativos, 
-Auxiliares-Docentes, Professores participantes da equipe gestora e dos professores em geral. 
- 
-1. Reorganização Administrativa 
-a. Mapeamento Patrimônio e colocação das placas patrimoniais que não haviam sido colocadas 
-desde o início da Instituição; 
-b. Reorganização Espacial e reformas internas para aproveitamento dos espaços não ocupados 
-ou subaproveitados. Com isso, o anexo do prédio, não ocupado há alguns anos, tornou-se 
-Diretoria Administrativa, sala dos Coordenadores, Diretoria Geral e Biblioteca; 
- 
-_____________________________________________________________________________________________ 
- 
-Administração Central 
-Unidade do Ensino Superior de Graduação 
- 
-_____________________________________________________________________________________________________________________________________________ 
-www.cps.sp.gov.br 
-Rua dos Andradas, 140  •  Santa Ifigênia  •  01208-000  •  São Paulo  •  SP  •  Tel.: (11) 3324-3300 
+5 
+Biblioteca e ações para o desenvolvimento 
+de estudos 
 2 
-c. Criação de Laboratórios e mudanças de nomes para Fauna local; Exemplo: Laboratório 
-Siriema etc. 
-d. Criação da Sala Maker; 
-e. Reestruturação do Espaço da Biblioteca; 
-f. Reorganização dos Recursos Humanos em função da ampliação do quadro administrativo; 
-g. Criação de Organograma, para visualização da Estrutura Organizacional da Fatec Cotia e suas 
-vinculações; 
-h. Organização, guarda ou descarte de documentação dos Cursos da Fatec Cotia coordenado 
-pela Profa. Priscila Oliveira. 
+Infraestrutura: expansão, manutenção e 
+reformas do espaço físico; defasagem de 
+computadores, 
+roteadores 
+e 
+rede 
+de 
+internet. 
  
-2. Reestruturação da Diretoria Acadêmica 
-Após a reorganização efetuada pelo Prof. Ernesto Carlos Tavares de Almeida, Renan Ruivo 
-assumiu a função de Diretor, para dar continuidade e aperfeiçoar esse trabalho; 
- 
-3. Projetos acadêmicos, científicos e extensionistas coordenados e executados por docentes, 
-individualmente ou em cooperação com alunos:  
-a. Gestão Empresarial: projeto História Fotografada, História Compartilhada, Profa. Sandra 
-Nunes, cuja missão é a construção da memória local, centrou-se em esboço de mapeamento 
-dos artistas de Cotia, para realização de parceria com a Secretaria da Cultura; 
-b. Gestão Empresarial, Gestão Produção Industrial, Ciência de Dados e Desenvolvimento de 
-Software Multiplataforma: retomada presencial do projeto Fatec Paradiso – projeção de filmes 
-para a discussão, com professores e alunos da instituição, de temáticas ligadas ao tempo 
-presente; 
-c. Desenvolvimento Software Multiplataforma e Ciência de Dados: Reuniões e encontros com 
-Secretário da Saúde de Cotia, Secretário Adjunto e equipe, a fim de elaborar uma validação 
-entre integrações de sistema e um painel informativo para auxiliar nos índices da Secretaria de 
-Saúde de Cotia; 
-d. Desenvolvimento Software Multiplataforma: palestras sobre Metaverso (Mauricio Andrade 
-de Paula, diretor da Capgemini); sobre Mercado de TI e seus desafios reais (Elcio Vieira, CEO da 
-Agante); 
-e. Gestão Produção Industrial: realização contínua do minicurso de Marcas, Patentes e Direitos 
-Autorais pelo Prof. Adalberto de Freitas e professores externos convidados, dentro do 
-programa da disciplina Projeto de Produto I com o Prof. Ivo Pons; 
-f. Gestão Produção Industrial: Reformatação do Projeto - Conscientização e Preparação do 
-corpo discente do curso, visando ao Exame Nacional de Desempenho dos Estudantes – ENADE, 
-nos anos de 2023 e 2024, pelo Prof. Braz Izaias da Silva Jr. e assessorado pela Prof. Maria 
-Fernanda de Oliveira; Gestão Empresarial: preparação, por meio da realização de simulados 
-(presencial e online), para a aplicação do ENADE 2022; 
-g. Gestão Produção Industrial: reestruturação do PPC do curso junto a Cesu, com a adequação 
-das competências de formação ao requisitado no CNST / CBO, com assessoria do Prof. Ivan 
-Laranjeiras e NDE; 
-h. Gestão Produção Industrial e Gestão Empresarial: Implementação da 2ª. Fase do projeto 
-Repositório de Trabalhos da Fatec Cotia, para contemplar o armazenamento eletrônico dos 
-trabalhos das disciplinas de TCC I e II e Projetos Integradores, visando principalmente ao 
- 
-_____________________________________________________________________________________________ 
- 
-Administração Central 
-Unidade do Ensino Superior de Graduação 
- 
-_____________________________________________________________________________________________________________________________________________ 
-www.cps.sp.gov.br 
-Rua dos Andradas, 140  •  Santa Ifigênia  •  01208-000  •  São Paulo  •  SP  •  Tel.: (11) 3324-3300 
+6 
+Sustentabilidade e atendimento aos ODS da 
+ONU 
 3 
-registro do histórico de soluções adotadas nos projetos de Solução de Situação-Problema e 
-suas possíveis continuidades. Responsável Prof. Nathan Ribeiro. 
-i. Gestão Produção Industrial: Implementação da Fase Inicial (protótipo) do Projeto Prêmios e 
-Concursos, visando à inscrição dos trabalhos de TCC e projetos integradores dos cursos da Fatec 
-Cotia. Responsável: Profa. Edillize Graballos. 
-Inscrições Iniciais: 
-Projeto Catraca – alunas do curso de GPI - Feteps/CPS; 
-Projeto Eco Tissue – alunas do curso de GE - Desafio SEBRAE Jovem Empreendedor; 
-Resultado de destaque inicial: Projeto Eco Tissue: 2º. Lugar na rodada estadual. 
-j. Organização e realização do 1º. Simpósio Fatec Cotia – Empregabilidade no século XXI. 
-Responsáveis: Prof. Shun Yoshida, Profa. Edillize Graballos e Profa. Priscila Santos Oliveira.  
-k. V SICED – Seminário Internacional de Comércio Exterior e Desenvolvimento Regional - 
-Capítulo: Desenvolvimento Regional: Organização e participação nas mesas-redondas: 
-a. INTERCÂMBIO UNIVERSIDADE E EMPRESA: A EXPERIÊNCIA DA FATEC COTIA NO 
-DESENVOVIMENTO REGIONAL - Profs. Valter Yogui e Saulo Ferraz; 
-b. O papel da Cultura no Desenvolvimento Regional: Profa. Sandra Nunes; 
-l. Gestão Empresarial: articulação entre discentes e docentes para a realização de atividades 
-de cunho extensionista:  
-l.1 Fatec CES kids Run, corrida de rua destinada às crianças atendidas pelo Centro de Educação 
-para Surdos do município;  
-l.2 Formação dos guardiões ambientais mirins, em pareceria com a Secretaria do Meio 
-Ambiente e com a Secretaria de Educação; 
-l.3 Entrega de sala de leitura ao Centro de Detenção Provisória de Itapecerica da Serra, por 
-meio do projeto Leitura Liberta; 
-l.4 Diversitec, projeto criado para discutir questões relativas à diversidade e direitos humanos:  
-visita à Casa das Flores (local de acolhida a pessoas trans em situação de vulnerabilidade); 
-l.5 Divulga Fatec, criado para auxiliar na divulgação institucional da Fatec Cotia no município e 
-arredores; 
+Comunicação com comunidade interna e 
+externa; transparência nos atos de gestão 
  
-4. Comissão de Pesquisa e Desenvolvimento Tecnológico (CPDT) Portaria 12/2022, órgão 
-responsável pelo planejamento, organização, coordenação, controle (análise das questões 
-éticas) das atividades de estudos e pesquisas acadêmicas-tecnológicas na FATEC COTIA.  
-  
-5. COMUNICAÇÃO E MARKETING: Mudança de Comissão para ações efetivas de divulgação do 
-Vestibular e dos Cursos da Fatec Cotia. Coordenação: Tânia Letícia dos Santos. 
- 
-6. Novotec: realização na Etec Cotia como forma de garantir público para o curso e como  
-aproximação para outras parcerias; 
- 
-7. Núcleo de Relações Empresariais:  
-a. expansão do Projeto Solução de Situação-Problema: 
-a.1. TRANTER, empresa multinacional de trocadores de calor, presente em Cotia, com 8 
-equipes de alunos de Projetos Integradores e de TCC de Gestão da Produção Industrial; 
- 
-_____________________________________________________________________________________________ 
- 
-Administração Central 
-Unidade do Ensino Superior de Graduação 
- 
-_____________________________________________________________________________________________________________________________________________ 
-www.cps.sp.gov.br 
-Rua dos Andradas, 140  •  Santa Ifigênia  •  01208-000  •  São Paulo  •  SP  •  Tel.: (11) 3324-3300 
+7 
+Evasão Escolar e engajamento dos alunos 
+em atividades acadêmicas 
 4 
-a.2. CACAU SHOW, empresa nacional líder em fabricação de chocolates e afins, presente entre 
-Cotia e Itapevi, com 2 equipes de alunos de Projetos Integradores e de TCC de Gestão da 
-Produção Industrial; 
-Responsáveis: Prof. Saulo Ferraz (Relações Empresariais) e Prof. Benedito Ferraz (Gestão 
-Interna do Projeto) 
-a.3 Parceria da PWC, multinacional inglesa, reconhecida mundialmente na área de consultoria 
-e auditoria, com o Curso de Ciência de Dados. 
+Memória institucional e local 
  
-8. Expansão de Cursos: criação de propostas dos Cursos de Manufatura Aditiva e Comércio 
-Exterior;  
+8 
+Aproximação das empresas e  
+esferas locais 
  
-9. Recursos Humanos:  
-a. diagnósticos das necessidades internas para solicitação de vagas para funcionários 
-administrativos; 
-b. realização de 17 concursos para docentes; 
+DEFINIÇÃO DE OBJETIVOS, METAS E AÇÕES (PROJETOS) 
+Objetivos 
+1 
+Atender às demandas sociais e do mercado de trabalho  
+2 
+Ampliar os projetos de pesquisa e iniciação científica 
+3 
+Ampliar a capacidade de criar e atualizar cursos de educação profissional em parceria com o 
+mercado  
+4 
+Alcançar e manter o grau de excelência nos processos de ensino e aprendizagem 
+5 
+Inovar processos de ensino e aprendizagem para a formação de profissionais atualizados em 
+tecnologias e processos produtivos, capazes de atuar com excelência no desenvolvimento 
+tecnológico e inovação 
+6 
+Expandir a capacidade de articulação com Governos e setores produtivos 
+7 
+Estimular a produção cultural, o empreendedorismo, o pensamento reflexivo e o desenvolvimento 
+científico e tecnológico 
+8 
+Propiciar a atualização e capacitação dos docentes, discentes e funcionários administrativos 
+9 
+Desenvolver programas e projetos educacionais para estimular intercâmbios e a aprendizagem 
+global 
+10 
+Implantar e implementar a comunicação organizacional a fim de promover a transparência de 
+gestão, de divulgar as atividades institucionais e propiciar uma nova cultura organizacional 
+ 
+Metas 
+1 
+Ampliar em mais 3 o número de cursos 
+superiores tecnológicos, em 05 de 
+aperfeiçoamento discentes. 
+  
+2 
+Promover 4 ações pedagógicas que 
+propiciem a redução da taxa de evasão em 
+5% com base nos indicadores de 2022 e 
+incentivar a elaboração de projetos. 
+3 
+Expandir a infraestrutura institucional: 5 
+laboratórios, com equipamentos, rede 
+elétrica e dados e adequar a sala maker e 
+os laboratórios atuais, em quantidade de 
+computadores, rede elétrica e dados. 
+  
+4 
+Desenvolver pelo menos 2 projetos 
+educacionais e 3 de pesquisa para 
+estimular intercâmbios, a produção cultural, 
+o desenvolvimento científico e tecnológico, 
+assim como a inovação de processos de 
+aprendizagem. 
+5 
+Ampliar a rede wifi para a unidade de 
+Ensino. 
+  
+6 
+Promover 4 atividades – mostras, sessões 
+individuais – utilizando o cinema. 
+7 
+Ampliar as visitas a empresas – 10 – e 
+escolas de ensino médio – 15 – da região e 
+estabelecer convênios com mais 4 
+empresas. 
+  
+8 
+Ampliar as atividades e parcerias com mais 
+3 Secretarias Municipais: Educação, 
+Turismo, Cultura, assim como com mais 4 
+empresas. 
+9 
+Realizar 2 projetos de capacitação, 
+integração e formação dos funcionários 
+administrativos e docentes. 
+  
+10 
+Aperfeiçoar e ampliar o Repositório de 
+Trabalhos de Projetos Integradores e de 
+TCC. 
+11 
+Alcançar a efetivação de 20% dos alunos 
+em curso em estágios promovidos e 
+tratados pela unidade. 
+  
+12 
+Realizar 1 Hackaton para os Cursos de 
+DSM E CD. 
+13 
+Criar o Núcleo de Marketing e 
+Comunicação. 
+  
+14 
+Criar 1 ambiente em Metaverso da Fatec 
+Cotia. 
+15 
+Desenvolver projetos de iniciação científica 
+envolvendo ao menos 2 alunos bolsistas na 
+modalidade MIDTI a cada semestre. 
  
  
-10. Reorganização de Cursos e Conteúdos: 
-a. Gestão da Produção Industrial: Adequação e continuidade da reorganização dos conteúdos 
-e das matrizes de resultados entre as disciplinas de Projeto Integrador I, II e III, Prof. Edson 
-Trombeta junto aos professores das referidas disciplinas; 
+16 
+Realizar, em conjunto com as demais 
+Fatecs que possuem o CST em Ciência de 
+Dados, o III encontro de Ciência de Dados 
+das Fatecs. 
+  
  
-11.  Realização do Exame TOIC; 
+ESTRUTURAÇÃO DAS AÇÕES/PROJETOS 
+01 - Didático-pedagógico 
+AÇÃO/PROJETO 
+A – Proposta de implantação do CST em Design do Produto com ênfase em 
+Processos de Produção e Industrialização 
+O que será feito: 
+Estruturação da Proposta de implantação do CST em Design do Produto com ênfase 
+em Processos de Produção e Industrialização. 
+Por que será feito: 
+Para atender a necessidade regional de profissionais de design e modelagem de 
+produtos para atuação na indústria regional. 
+Responsável(is) / 
+CH sem: 
+Prof. Felipe Carneiro da Silva (2 HAEs) 
+Período de 
+execução: 
+Data de início: 
+02/01/2023 
+Data final: 
+22/12/2023 
+Etapas do 
+processo: 
+1. Levantamento das ofertas de empregos na região 
+que demonstram a necessidade de profissionais 
+nessa área 
+02/01/2023 24/01/2023 
+2. Realização de reuniões com empresas da região 
+para validar/demonstrar evidências da pré-análise 
+realizada pela UE 
+16/01/2023 23/01/2023 
+3. Detalhamentos do escopo e disciplinas do curso 
+nas outras 6 UE já em atuação 
+16/01/2023 30/01/2023 
+4. Escolha dentre as ofertas de todas as unidades das 
+disciplinas de arranjo local 
+31/03/2023 03/02/2023 
+5. Enviar proposta inicial do CST em Design do 
+Produto com Ênfase em Processos de Produção e 
+Industrialização para análise e orientações da GPR 
+08/02/2023 08/02/2023 
  
-12. Aproximação das Escolas Estaduais e Etec em Cotia: visitas realizadas pela equipe 
-administrativa, corpo docente e auxiliares docentes às Escolas da Região para reuniões de 
-apresentação da Fatec Cotia e divulgação dos Cursos; 
+6. Encaminhar proposta inicial do CST em Design do 
+Produto com Ênfase em Processos de Produção e 
+Industrialização para análise e orientações da 
+Especialista CESU 
+13/02/2023 
  
-13. Aproximação do Poder Público Local:  reuniões realizadas com a Secretária da Educação, 
-Cultura e Finanças e equipe gestora da Fatec Cotia para parcerias e projetos 
+13/02/2023 
  
-ATIVIDADES NÃO REALIZADAS E JUSTIFICATIVAS (máximo 12.000 caracteres) 
-Esse ano, as atividades consideradas não realizadas em 2022 puderam sair dessa lista em 
-função dos Concursos para Docentes e Funcionários Administrativos:  
+7. Redigir proposta final do PPC de Design do Produto 
+com Ênfase em Processos de Produção e 
+Industrialização da Fatec Cotia 
+27/02/2023 
  
-1. Expansão de Cursos: Proposta do Curso de Manufatura Aditiva não foi aprovada pela CESU; 
-2. Minimização da “evasão escolar” 
-Apesar da atuação de Comissão criada para auxiliar discentes, a evasão escolar ainda é uma 
-preocupação local. 
+06/03/2023 
+ 
+8. Homologar o CST em Design do Produto com 
+Ênfase 
+em 
+Processos 
+de 
+Produção 
+e 
+Industrialização com a Congregação da UE 
+08/03/2023 
+ 
+08/03/2023 
+ 
+ 
+9. Encaminhar solicitação da Implantação do CST em 
+Design do Produto com Ênfase em Processos de 
+Produção e Industrialização da Fatec Cotia para a 
+CESU 
+10/03/2023 
+ 
+10/03/2023 
+ 
+ 
+10. Seleção de docentes e coordenação do CST em 
+Design do Produto com Ênfase em Processos de 
+Produção e Industrialização 
+24/04/2023 
+ 
+30/06/2023 
+ 
+ 
+11. Início das atividades acadêmicas da 1a turma do 
+CST em Design do Produto com Ênfase em 
+Processos de Produção e Industrialização da Fatec 
+Cotia 
+31/07/2023 
+ 
+22/12/2023 
+ 
+Custo (se houver): 
+ 
+Fonte(s) dos 
+recursos: 
+ 
+Objetivo(s) 
+relacionado(s): 
+Atender às demandas sociais e do mercado de trabalho; 
+Ampliar a capacidade de criar e atualizar cursos em parceria com o mercado.  
+Meta(s) 
+relacionada(s): 
+Ampliar em mais 3 o número de cursos superiores tecnológicos, em 05 de 
+aperfeiçoamento para funcionários, discentes e docentes. 
+ 
+AÇÃO/PROJETO 
+B – Proposta de implantação do CST em Comércio Exterior 
+O que será feito: 
+Estruturação da Proposta de implantação do CST em Comércio Exterior. 
+Por que será feito: 
+Para identificar novas tecnologias e demandas para planejamento e implantação 
+de novos cursos e iniciativas; para atender à necessidade regional de profissionais 
+de comércio exterior para atuação na indústria local, tanto na importação de 
+insumos e equipamentos como para a exportação. 
+Responsável(is) / CH 
+sem: 
+Prof. Valter Yogui (2 HAEs) 
+Período de 
+execução: 
+Data de início: 
+02/01/2023 
+Data final: 
+22/12/2023 
+Etapas do processo: 
+1. Levantamento das ofertas de emprego na região 
+que demonstram a necessidade de profissionais 
+nesta área 
+02/01/2023 23/01/2023 
+2. Realização de reuniões com empresas da região 
+para validar/demonstrar evidências da pré-análise 
+realizada pela UE 
+16/01/2023 23/01/2023 
+3. Detalhamento do escopo e disciplinas do curso 
+nas outras 6 UE já em atuação 
+16/01/2023 30/01/2023 
+4. Escolha dentre as ofertas de todas as unidades 
+das disciplinas de arranjo local 
+31/01/2023 03/02/2023 
+5. Enviar proposta inicial do CST em Comércio 
+Exterior para análise e orientações da GPR 
+08/02/2023 08/02/2023 
+6. Encaminhar proposta inicial do CST em Comércio 
+Exterior para análise e orientações da 
+especialista CESU 
+13/02/2023 13/02/2023 
+7. Redigir proposta final do PPC de Comércio 
+Exterior da Fatec Cotia 
+27/02/2023 06/03/2023 
+8. Homologar o CST em Comércio Exterior com a 
+Congregação da UE 
+08/03/2023 08/03/2023 
+9. Encaminhar solicitação da implantação do CST 
+em Comércio Exterior da Fatec Cotia para CESU 10/03/2023 10/03/2023 
+10. Seleção de docentes e coordenação para CST 
+em Comércio Exterior 
+01/08/2023 22/12/2023 
+11. Início das atividades acadêmicas da 1ª. Turma do 
+CST em Comércio Exterior da Fatec Cotia 
+01/02/2024 15/06/2024 
+Custo (se houver): 
+ 
+Fonte(s) dos 
+recursos: 
+ 
+Objetivo(s) 
+relacionado(s): 
+Atender às demandas sociais e do mercado de trabalho; 
+Ampliar a capacidade de criar e atualizar cursos em parceria com o mercado de 
+entorno da UE.  
+Meta(s) 
+relacionada(s): 
+Ampliar em mais 3 o número de cursos superiores tecnológicos, em 05 de 
+aperfeiçoamento para funcionários, discentes e docentes. 
+ 
+AÇÃO/PROJETO 
+C – Proposta de implantação do CST em Gestão de Turismo 
+O que será feito: 
+Estruturação da Proposta de implantação do CST em Gestão de Turismo. 
+Por que será feito: 
+Para identificar novas tecnologias e demandas para planejamento e implantação 
+de novos cursos e iniciativas; para atender a necessidade regional de profissionais 
+de Gestão de Turismo para atuação nos agentes de turismo locais, visando 
+potencializar o plano municipal de Cotia tornar-se um polo turístico. 
+Responsável(is) / CH 
+sem: 
+Prof. Valter Yogui  (2 HAEs) 
+Período de 
+execução: 
+Data de início: 
+01/03/2023 
+Data final: 
+22/12/2023 
+ 
+1. Estabelecer diálogo com o poder municipal 
+(Secretaria 
+de 
+Turismo) 
+para 
+realizar 
+convênio/parceria 
+e 
+entender: 
+estudo 
+de 
+demanda, Inventariado turístico, investimento da 
+prefeitura e o planejamento a longo prazo 
+01/03/2023 31/03/2023 
+2. Detalhamento do escopo e disciplinas do curso 
+nas outras 2 UE já em atuação 
+16/03/2023 31/03/2023 
+3. Escolha dentre as ofertas de todas as unidades 
+das disciplinas de arranjo local 
+31/03/2023 03/04/2023 
+4. Enviar proposta inicial do CST em Gestão de 
+Turismo para análise e orientações da GPR 
+08/04/2023 08/04/2023 
+5. Encaminhar proposta inicial do CST em Gestão de 
+Turismo para análise e orientações da especialista 
+Cesu 
+13/04/2023 13/04/2023 
+6. Redigir proposta final do PPC de Gestão de 
+Turismo da Fatec Cotia 
+27/04/2023 06/05/2023 
+7. Homologar o CST em Gestão de Turismo com a 
+Congregação da UE  
+08/05/2023 08/05/2023 
+8. Encaminhar solicitação da implantação do CST 
+em Gestão de Turismo da Fatec Cotia para Cesu 10/05/2023 10/05/2023 
+9. Seleção de docentes e coordenação para CST em 
+Gestão de Turismo 
+01/08/2023 22/12/2023 
+10. Início das atividades acadêmicas da 1ª. Turma do 
+CST em Gestão de Turismo da Fatec Cotia 
+01/02/2024 15/06/2024 
+Custo (se houver): 
+ 
+Fonte(s) dos 
+recursos: 
+ 
+Objetivo(s) 
+relacionado(s): 
+Atender às demandas sociais e do mercado de trabalho; 
+Ampliar a capacidade de criar e atualizar cursos em parceria com o mercado de 
+entorno da UE.  
+Meta(s) 
+relacionada(s): 
+Ampliar em mais 3 o número de cursos superiores tecnológicos, em 05 de 
+aperfeiçoamento para funcionários, discentes e docentes. 
+ 
+AÇÃO/PROJETO 
+D – Projeto Interdisciplinar de Alinhamento das entregas dos Projetos Integradores 
+I, II e III 
+O que será feito: 
+Para implantar programas que busquem melhorias contínuas dos resultados da 
+instituição; para alinhar os entregáveis de cada Projeto Integrador para o Projeto 
+Integrador seguinte. 
+Por que será feito: 
+Para estabelecer uma continuidade dos trabalhos desenvolvidos pelos grupos de 
+Projetos Integradores, independente da mudança de grupos ou integrantes, tendo 
+como referência os próprios entregáveis e documentos que serão armazenados 
+no Repositório de Trabalhos da Unidade.Este alinhamento torna-se condição 
+necessária para o desenvolvimento dos convênios com empresas nos Projetos de 
+Solução de Situação-Problema (detalhado em Convênios). 
+Responsável(is) / CH 
+sem: 
+Prof. Edison Trombeta de Oliveira (4 HAEs) 
+Período de 
+execução: 
+Data de início: 
+08/02/2023 
+Data final: 
+30/11/2023 
+Etapas do processo: 
+1. Apresentação e discussão do modelo de 
+alinhamento de entregáveis e sua metodologia. 
+2. Implementação das adaptações identificadas 
+para o 1º. Semestre 
+08/02/2023 15/02/2023 
+3. Divulgação da implementação das adaptações 
+para os docentes de Projetos Integradores 
+16/02/2023 16/02/2023 
+4. Acompanhamento dos resultados intermediários 
+(projetos, protótipos de entregáveis, pré-bancas 
+de apresentação) 
+17/02/2023 30/04/2023 
+5. Acompanhamento dos resultados finais (projetos, 
+entregáveis, bancas de apresentação) 
+01/04/2023 30/06/2023 
+6. Apresentação e discussão do modelo de 
+alinhamento de entregáveis e sua metodologia.  
+7. Implementação das adaptações identificadas 
+para o 2º. Semestre 
+02/08/2023 15/08/2023 
+8. Divulgação da implementação das adaptações 
+para os docentes de Projetos Integradores 
+16/08/2023 16/08/2023 
+9. Acompanhamento dos resultados intermediários 
+(projetos, protótipos de entregáveis, pré-bancas 
+de apresentação) 
+17/08/2023 31/10/2023 
+10. Acompanhamento 
+dos 
+resultados 
+(projetos, 
+entregáveis, bancas de apresentação) 
+01/10/2023 30/11/2023 
+Custo (se houver): 
+ 
+Fonte(s) dos 
+recursos: 
+ 
+Objetivo(s) 
+relacionado(s): 
+Inovar processos de ensino e aprendizagem para a formação de profissionais 
+atualizados em tecnologias e processos produtivos, capazes de atuar com 
+excelência no desenvolvimento tecnológico e inovação. 
+Meta(s) 
+relacionada(s): 
+Promover ações pedagógicas que propiciem a redução da taxa de evasão em 
+5% com base nos indicadores de 2022. 
+ 
+AÇÃO/PROJETO 
+E - Alinhamento das entregas dos componentes curriculares de Atividades 
+Autônomas de Projeto (AAPs) 
+O que será feito: 
+Alinhamento das entregas das Atividades Autônomas de Projeto (AAP), do 
+primeiro ao sexto semestre do CST em Gestão Empresarial, sem que se deixe de 
+considerar as ênfases previstas no Projeto Pedagógico do Curso. 
+Por que será feito: 
+Para buscar melhoria dos trabalhos desenvolvidos/entregues na instituição; para 
+promover a coerência entre os projetos desenvolvidos nos 6 semestres do CST 
+em Gestão Empresarial, a saber: Informática aplicada à gestão; Comportamento 
+organizacional; Organização, sistemas e métodos; Planejamento de marketing; 
+Gestão de projetos empresariais; e Desenvolvimento de negócios. 
+Responsável(is) / CH 
+sem: 
+Prof. Elifas Fernandes Farias Gorgonho (4 HAEs) 
+Período de 
+execução: 
+Data de início: 
+10/06/2023 
+Data final: 
+21/12/2023 
+Etapas do processo: 
+1. Análise de entregas anteriores e discussão sobre 
+o modelo de entrega que se espera em cada um 
+dos componentes 
+10/06/2023 09/07/2023 
+2. Recesso 
+10/07/2023 30/07/2023 
+3. Divulgação aos docentes das adaptações e do 
+guia/padrão de entregue esperada 
+31/07/2023 05/08/2023 
+4. Implementação ao longo das aulas 
+06/08/2023 30/11/2023 
+5. Apresentações das entregas discentes 
+01/12/2023 15/12/2023 
+6. Análise das entregas realizadas e eventual 
+propositura de novos ajustes 
+16/12/2023 21/12/2023 
+Custo (se houver): 
+ 
+Fonte(s) dos 
+recursos: 
+ 
+Objetivo(s) 
+relacionado(s): 
+Ampliar os projetos de pesquisa e iniciação científica; 
+Ampliar a capacidade de criar e atualizar cursos de educação profissional em 
+parceria com o mercado. 
+Meta(s) 
+relacionada(s): 
+Desenvolver pelo menos 2 projetos educacionais e 3 de pesquisa para estimular 
+intercâmbios, a produção cultural, o desenvolvimento científico e tecnológico, 
+assim como a inovação de processos de aprendizagem. 
+ 
+ 
+AÇÃO/PROJETO 
+F – Projeto de Memória e História Local  
+O que será feito: 
+Reestruturação e Ampliação do Blog História Fotografada História Compartilhada. 
+Por que será feito: 
+Para estudar novas ferramentas de ensino aprendizagem e de tecnologias sociais 
+da memória. 
+Responsável(is) / CH 
+sem: 
+Profa. Sandra Regina Chaves Nunes (4 HAEs)  
+Período de 
+execução: 
+Data de início: 
+08/03/2023 
+Data final: 
+20/12/2023 
+Etapas do processo: 
+1. Estudos para reestruturação do blog História 
+Fotografada  
+08/03/2023 08/04/2023 
+2. Escolha dos entrevistados e das fotografias para 
+o projeto 
+08/04/2023 30/06/2023 
+3. Realização das entrevistas  
+08/04/2023 30/06/2023 
+4. Apresentação do projeto em Congresso no 
+exterior   
+01/08/2023 07/08/2023 
+5. Transcrição e transcriação das entrevistas  
+01/08/2023 01/10/2023 
+6. Publicização das Fotografias e textos narrativos 
+01/10/2023 20/12/2023 
+Custo (se houver): 
+ 
+Fonte(s) dos 
+recursos: 
+ 
+Objetivo(s) 
+relacionado(s): 
+Desenvolver programas e projetos educacionais para estimular intercâmbios e a 
+aprendizagem global; 
+Expandir a capacidade de articulação com Governos e setores produtivos. 
+Meta(s) 
+relacionada(s): 
+Desenvolver pelo menos 2 projetos educacionais e 3 de pesquisa para estimular 
+intercâmbios, a produção cultural, o desenvolvimento científico e tecnológico, 
+assim como a inovação de processos de aprendizagem; 
+Ampliar as atividades e parcerias com mais 3 Secretarias Municipais: Educação, 
+Turismo, Cultura. 
+ 
+AÇÃO/PROJETO 
+G – Projeto Fatec Paradiso 
+O que será feito: 
+Exibição de filmes para discussão sobre questões referentes ao tempo presente. 
+Por que será feito: 
+Para propiciar a reflexão, pela linguagem cinematográfica, sobre diversidade, 
+intolerância, fake news, deslocamentos populacionais. 
+Responsável(is) / CH 
+sem: 
+Profa. Sandra Regina Chaves Nunes (2 HAEs voluntária), Profa. Priscila Santos 
+Oliveira (2 HAEs) e Prof. Onofre Alves Portella Junior (2 HAEs). 
+Período de 
+execução: 
+Data de início: 
+08/04/2023 
+Data final: 
+20/11/2023 
+Etapas do processo: 
+1. Escolha das obras e elaboração de 
+cronograma de exibição 
+08/04/2023 
+15/04/2023 
+2. Exibição dos filmes na Fatec Cotia e na 
+Biblioteca Municipal 
+15/04/2023 
+20/11/2023 
+Custo (se houver): 
+ 
+Fonte(s) dos 
+recursos: 
+ 
+Objetivo(s) 
+relacionado(s): 
+Estimular a produção cultural, o empreendedorismo, o pensamento reflexivo e o 
+desenvolvimento científico e tecnológico; 
+Expandir a capacidade de articulação com Governos e setores produtivos. 
+Meta(s) 
+relacionada(s): 
+Promover 4 atividades – mostras, sessões individuais – utilizando o cinema 
+Ampliar as atividades e parcerias com mais 3 Secretarias Municipais: Educação, 
+Turismo, Cultura.. 
+ 
+AÇÃO/PROJETO  
+H – Proposta de Organização de Hackaton 
+O que será feito:  
+Maratona de programação, para reunir programadores, cientistas de dados e 
+demais pessoas envolvidas em desenvolvimento de software, promovendo o
+trabalho em equipe em projetos de tecnologia durante um período. 
+Por que será feito:  
+Para aprender novas habilidades, ferramentas e tecnologias; para trabalhar em 
+equipes multidisciplinares, desenvolvendo habilidades de colaboração e 
+comunicação; para propiciar o Networking, criando conexões que poderão ser úteis 
+para futuros projetos ou oportunidades de trabalho. 
+Responsável(is) / CH 
+sem:  
+Prof. Alexandre Calabro Simon (2 HAEs), Prof. Johne Marcus Jarske (2 HAEs), 
+Profa. Lea Rossi (2 HAEs), Prof. Daniel Nishiwaki (5 HAEs) 
+Período de execução:  Data de início:  
+02/01/2023  
+Data final:  
+22/12/2023  
+Etapas do processo:  
+1. Definir o objetivo e o escopo da hackathon: O 
+primeiro passo é definir o objetivo e o escopo da 
+hackathon. Isso pode incluir o tema, o tempo de 
+12/03/2023 23/03/2023 
+duração, o público-alvo, os desafios a serem 
+abordados, as tecnologias a serem usadas, entre 
+outras coisas.  
+2. Formar a equipe organizadora: É importante formar 
+uma equipe organizadora que tenha as habilidades 
+e recursos necessários para planejar e executar o 
+evento.  
+24/03/2023 31/03/2023 
+3. Definir a infraestrutura: A infraestrutura inclui o local 
+do evento, a conectividade com a internet, as 
+ferramentas e tecnologias a serem utilizadas, e 
+outras necessidades logísticas.  
+03/04/2023 14/04/2023 
+4. Divulgar o evento: A divulgação é fundamental para 
+atrair participantes e apoiadores.  
+17/04/2023 12/05/2023 
+5. Selecionar os participantes.  
+15/05/2023 19/05/2023 
+6. Preparar os desafios e a programação do evento: 
+É importante preparar os desafios e a programação 
+do evento com antecedência, de modo a garantir 
+que haja atividades para os participantes durante 
+todo o evento. 
+22/05/2023 26/05/2023 
+7. Realizar o evento: Durante o evento, a equipe 
+organizadora deve coordenar as atividades, 
+garantir a logística e o bom funcionamento da 
+infraestrutura, e estar disponível para ajudar os 
+participantes.  
+02/06/2023 04/06/2023 
+8. Avaliar os resultados: Após o evento, é importante 
+avaliar os resultados e os feedbacks dos 
+participantes para identificar áreas de melhoria e 
+planejar futuras edições.   
+04/06/2023 04/06/2023 
+Custo (se houver):  
+ 
+Fonte(s) dos 
+recursos:  
+ 
+Objetivo(s) 
+relacionado(s):  
+Alcançar e manter o grau de excelência nos processos de ensino e aprendizagem;
+Inovar processos de ensino e aprendizagem para a formação de profissionais 
+atualizados em tecnologias e processos produtivos, capazes de atuar com 
+excelência no desenvolvimento tecnológico e inovação; 
+Desenvolver programas e projetos educacionais para estimular intercâmbios e a 
+aprendizagem global. 
+Meta(s) 
+relacionada(s):  
+Realizar 1 Hackaton para os Cursos de DSM E CD. 
+  
+AÇÃO/PROJETO  
+I – Fatec no Metaverso  
+O que será feito:  
+Construção de Protótipo da Fatec Cotia no Metaverso.  
+Por que será feito:  
+Para proporcionar oportunidades de aprendizado, tanto em termos técnicos quanto 
+criativos e sociais; para propor a utilização de ferramentas de desenvolvimento de 
+software, integrando diferentes componentes de software para a criação de um 
+ambiente imersivo. 
+Responsável(is) / CH 
+sem:  
+Prof. Alexandre Calabro Simon (2 HAEs), Prof. Johne Marcus Jarske (2 HAEs), 
+Profa. Sandra Regina Chaves Nunes (2 HAEs voluntário), Prof. Daniel Nishiwaki 
+(4 HAEs), Prof. Ivo Eduardo Roman Pons (voluntário) 
+Período de execução:  Data de início:  
+01/02/2023  
+Data final:  
+30/03/2024  
+Etapas do processo:  
+1. Formação do Grupo   
+01/02/2023 30/04/2023 
+2. Escolha a plataforma  
+01/05/2023 10/05/2023 
+3. Planejamento do ambiente   
+10/05/2023 20/05/2023 
+4. Criação do avatar  
+21/05/2023 20/09/2023 
+5. Construção do ambiente   
+21/05/2023 20/09/2023 
+6. Adição de interações  
+21/09/2023 30/10/2023 
+7. Realização de testes e ajustes  
+01/11/2023 20/11/2023 
+8. Divulgação do ambiente  
+21/11/2023 30/03/2024 
+Custo (se houver):  
+ 
+Fonte(s) dos 
+recursos:  
+ 
+Objetivo(s) 
+relacionado(s):  
+Ampliar os projetos de pesquisa e iniciação científica; 
+Alcançar e manter o grau de excelência nos processos de ensino e aprendizagem.
+Inovar processos de ensino e aprendizagem para a formação de profissionais 
+atualizados em tecnologias e processos produtivos, capazes de atuar com 
+excelência no desenvolvimento tecnológico e inovação; 
+Desenvolver programas e projetos educacionais para estimular intercâmbios e a 
+aprendizagem global. 
+Meta(s) 
+relacionada(s):  
+Criar 1 ambiente em Metaverso da Fatec Cotia. 
+  
+AÇÃO/PROJETO 
+J – III Encontro de Ciência de Dados – Fatec Adamantina, Cotia, Santana do 
+Parnaíba, Ourinhos e Baixada Santista 
+O que será feito: 
+Organização conjunta entre as Fatecs para viabilização do III Encontro de Ciência 
+de Dados, gerando mobilização interna dos alunos, com preparação de trabalhos 
+e apresentações. 
+Por que será feito: 
+Para integrar as Fatecs que possuem o curso; para trocar experiências e ideias, 
+promovendo a disseminação do conhecimento em Ciência de Dados.. 
+Responsável(is) / CH 
+sem: 
+Prof. Johne Marcus Jarske (1 HAE), Profa. Léa Rossi (2 HAEs) 
+Período de 
+execução: 
+Data de início: 
+01/08/2023 
+Data final: 
+30/09/2023 
+Etapas do processo: 
+1. Formação do Grupo Interno  
+01/08/2023 10/08/2023 
+2. Convite e mobilização dos alunos e professores 
+para desenvolver trabalhos para o evento 
+(especialmente alunos de TCC). 
+11/08/2023 11/08/2023 
+3. Realização de inscrições internas para submeter 
+trabalhos no evento 
+14/18/2013 18/11/2023 
+4. Acompanhamento do desenvolvimento dos 
+trabalhos com alunos e professores. 
+20/08/2023 10/09/2023 
+5. Participação em reuniões conjuntas com as 
+demais Fatecs. 
+01/08/2023 30/09/2023 
+6. Seleção de apresentações para o evento 
+01/08/2023 30/09/2023 
+7. Preparação de infraestrutura para transmissão 
+online do evento dentro da Fatec. 
+25/09/2026 26/09/2026 
+8. Divulgação do ambiente de transmissão online. 
+25/09/2026 29/09/2023 
+ 
+9. Coordenação interna do evento. 
+27/09/2023 29/09/2023 
+Custo (se houver): 
+ 
+Fonte(s) dos 
+recursos: 
+ 
+Objetivo(s) 
+relacionado(s): 
+Ampliar os projetos de pesquisa e iniciação científica; 
+Desenvolver programas e projetos educacionais para estimular intercâmbios e a 
+aprendizagem global. 
+Meta(s) 
+relacionada(s): 
+Realizar, em conjunto com as demais Fates que possuem o CST em Ciência de 
+Dados, o III encontro de Ciência de Dados das Fatecs. 
  
  
  
-Comissão de Análise dos PDIs das FATECs. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+02 – Ensino e Equipamentos Associados (Laboratórios) 
+AÇÃO/PROJETO 
+A – Elaboração de proposta para implementação de laboratório de Metrologia 
+O que será feito: 
+Adequação da infraestrutura e atualização dos laboratórios e equipamentos 
+didático-pedagógicos, seguido do estudo e documentação das necessidades para 
+a implementação de laboratório de Metrologia para o curso de Gestão da Produção 
+Industrial (GPI). 
+Por que será feito: 
+Para justificar a aquisição e especificar os itens necessários de um Laboratório de 
+Metrologia para o curso de GPI. 
+Responsável(is) / CH 
+sem: 
+Prof. Ernesto Carlos Tavares de Almeida (3 HAEs) e Profa. Iza Melão (3 HAEs) 
+Período de 
+execução: 
+Data de início: 
+01/03/2023 
+Data final: 
+30/06/2023 
+Etapas do processo: 
+1. Análise dos planos de ensino das disciplinas 
+constantes no PPC do curso de GPI e que 
+necessitam de Laboratório de Metrologia. 
+01/03/2023 15/03/2023 
+2. Especificação dos itens necessários para a 
+constituição do Laboratório de Metrologia 
+completo. 
+16/03/2023 31/03/2023 
+3. Análise das especificações técnicas dos itens 
+(equipamentos), suas características e itens 
+substitutos possíveis. 
+31/03/2023 05/04/2023 
+4. Especificação dos itens necessários para a 
+constituição de um Laboratório de Metrologia 
+somente com itens básicos. 
+06/04/2023 10/04/2023 
+5. Elaboração Proposta de Implementação do 
+Laboratório de Metrologia, de forma total ou 
+faseada, contendo a relação de itens e 
+componentes necessários, especificando o 
+que são itens de imobilizado e itens de 
+reposição contínua, quantidades necessárias 
+e os lotes de aquisição contínua. 
+10/04/2023 30/06/2023 
+Custo (se houver): 
+ 
+Fonte(s) dos 
+recursos: 
+ 
+Objetivo(s) 
+relacionado(s): 
+Alcançar e manter o grau de excelência nos processos de ensino e aprendizagem. 
+Ampliar os projetos de pesquisa e iniciação científica; 
+Inovar processos de ensino e aprendizagem para a formação de profissionais 
+atualizados em tecnologias e processos produtivos, capazes de atuar com 
+excelência no desenvolvimento tecnológico e inovação. 
+Meta(s) 
+relacionada(s): 
+Expandir a infraestrutura institucional: 5 laboratórios, com equipamentos, rede 
+elétrica e dados e adequar a sala maker e os laboratórios atuais, em quantidade 
+de computadores, rede elétrica e dados. 
+ 
+AÇÃO/PROJETO 
+B - Implantação e renovação de laboratórios de informática  
+O que será feito: 
+Implantação dos dois laboratórios do CST em Ciência de Dados (CD), conforme 
+planejado na implantação do curso; 
+ 
+Implantação de dois laboratórios do CST em Desenvolvimento de Software 
+Multiplataforma (DSM), conforme planejado na implantação do curso; 
+ 
+Renovação de parte do acervo tecnológico da instituição (computadores, cabos, 
+extensões e outros). 
+Por que será feito: 
+Para atender às necessidades descritas nos PPCs dos cursos ofertados pela 
+instituição; para atualizar parte dos equipamentos tecnológicos, recebidos quando 
+da inauguração da unidade, fato que aponta para sua desatualização e ineficiência 
+durante as aulas. 
+Responsável(is) 
+/ 
+CH sem: 
+Prof. Rômulo Francisco de Souza Maia (4 HAEs), Diego Correa da Rocha Aguiar 
+(auxiliar docente – 8 horas semanais), Gabriel de Souza Tavares (auxiliar docente – 
+8 horas semanais), Sergio Copeliovitch (auxiliar administrativo - 8 horas semanais) 
+Período de  
+execução: 
+Data de 
+início: 
+08/02/2023 
+Data final: 
+31/01/2024 
+Etapas 
+do 
+processo: 
+Para implementação: 
+ 
+1. Acompanhamento da solicitação 
+dos equipamentos de informática 
+feitos ao Centro Paula Souza (CPS) 
+para atender as necessidades dos 
+CSTs em CD e em DSM. 
+ 
+01/03/2023 
+Até a chegada 
+dos 
+equipamentos  
+2. Acompanhamento da solicitação do 
+mobiliário (mesas e cadeiras) feitas 
+ao Centro Paula Souza. 
+ 
+01/03/2023 
+Até a chegada 
+dos 
+equipamentos 
+3. Estudo e implementação de 
+soluções paliativas para atender as 
+necessidades do curso até a 
+chegada dos equipamentos 
+solicitados. 
+ 
+01/03/2023 
+Até a chegada 
+dos 
+equipamentos 
+4. Levantamento dos itens necessários 
+(infraestrutura, elétrica e dados). 
+ 
+17/04/2023 
+30/04/2023 
+5. Planejamento do leiaute das salas 
+de aula que serão convertidas em 
+laboratório: cabeamento elétrico e 
+de dados, mobiliário. 
+ 
+02/05/2023 
+19/05/2023 
+6. Estudo para definir a arquitetura de 
+software necessária para atender as 
+necessidades dos CSTs em CD e 
+em DSM. 
+  
+22/05/2023 
+01/06/2023 
+7. Preparação da infraestrutura de 
+cabeamento lógico e elétrico. 
+ 
+03/06/2023 
+19/06/2023 
+8. Instalação do mobiliário. 
+ 
+03/06/2023 
+14/06/2023 
+9. Instalação dos equipamentos de 
+informática. 
+ 
+17/06/2023 
+31/06/2023 
+10. Instalação de software nos PCS e 
+servidores, configuração do 
+ambiente de rede.  
+ 
+17/06/2023 
+31/06/2023 
+11. Acompanhamento em produção e 
+ajustes no ambiente, conforme a 
+demanda. 
+ 
+01/08/2023 
+30/11/2023 
+Etapas 
+do 
+processo: 
+Para renovação:  
+ 
+1. Estudo dos equipamentos atuais, 
+levantamento dos equipamentos 
+que demandam substituição e de 
+sua situação patrimonial. 
+ 
+01/06/2023 
+01/07/2023 
+2. Realização de testes de 
+funcionamento, levando em 
+consideração as demandas dos 
+projetos pedagógicos dos cursos e 
+02/07/2023 
+01/08/2023 
+as demandas do mundo do 
+trabalho. 
+3. Elaboração de projeto descrevendo 
+especificações dos equipamentos 
+necessários, conforme articulado 
+com os componentes curriculares 
+dos cursos oferecidos. 
+ 
+01/08/2023 
+15/08/2023 
+4. Elaboração e envio de memorando 
+da unidade de ensino para a UGAF, 
+contendo listagem de equipamentos 
+a providenciar. 
+ 
+01/01/2024 
+15/01/2024 
+5. Elaboração de projeto/proposta de 
+descarte correto dos equipamentos 
+substituídos e de sua situação 
+patrimonial. 
+16/01/2024 
+31/01/2024 
+Custo (se houver): 
+ 
+Fonte(s) 
+dos 
+recursos: 
+ 
+Objetivo(s) 
+relacionado(s): 
+Atender às demandas sociais e do mercado de trabalho; 
+Desenvolver programas e projetos educacionais para estimular intercâmbios e a 
+aprendizagem global; 
+Ampliar a capacidade de criar e atualizar cursos de educação profissional em 
+parceria com o mercado;  
+Alcançar e manter o grau de excelência nos processos de ensino e aprendizagem. 
+Meta(s) 
+relacionada(s): 
+Expandir a infraestrutura institucional: 5 laboratórios, com equipamentos, rede 
+elétrica e dados e adequar a sala maker e os laboratórios atuais, em quantidade de 
+computadores, rede elétrica e dados.  
+ 
+AÇÃO/PROJETO 
+C - Melhoramento do laboratório de línguas  
+O que será feito: 
+Realização de estudo que vise implementar melhorias no atual laboratório de 
+línguas da instituição, demandando a instalação de mobiliário que favoreça o 
+processo de aprendizagem, de lousa virtual, de softwares específicos e de 
+decoração que dialogue com a abordagem comunicativa de ensino da língua. 
+Por que será feito: 
+Para aperfeiçoar e tornar mais atrativo o processo de aprendizagem de línguas 
+estrangeiras. 
+Responsável(is) / CH 
+sem: 
+Profa. Priscila Santos Oliveira (2 HAEs), Profa. Narjara Ferreira Mitsuoka (2 HAEs) 
+Período de execução: Data de início: 
+01/05/2023 
+Data final: 
+22/12/2023 
+Etapas do processo: 
+1. Discussão com os docentes de línguas acerca 
+das principais deficiências do espaço atual, tendo 
+em vista a previsão dos projetos pedagógicos dos 
+cursos 
+01/05/2023 01/06/2023 
+2. Elaboração de projeto de melhoria que vise 
+solucionar 
+as 
+deficiências 
+apontadas, 
+organizando-se lista que contemple os itens 
+apontados como necessários 
+02/06/2023 15/06/2023 
+3. Socialização da versão final do projeto com o 
+grupo de docentes dedicados ao ensino de 
+línguas 
+16/06/2023 01/07/2023 
+4. Solicitação de visita da GPR para elaboração de 
+relatório in loco 
+02/07/2023 16/07/2023 
+5. Visita da GPR 
+17/07/2023 01/11/2023 
+6. Elaboração e envio de memorando da unidade de 
+ensino para a UGAF, contendo listagem de 
+equipamentos a providenciar 
+02/11/2023 15/11/2023 
+Custo (se houver): 
+ 
+Fonte(s) 
+dos 
+recursos: 
+ 
+Objetivo(s) 
+relacionado(s): 
+Atender às demandas sociais e do mercado de trabalho; 
+Desenvolver programas e projetos educacionais para estimular intercâmbios e a 
+aprendizagem global. 
+Meta(s) 
+relacionada(s): 
+Expandir a infraestrutura institucional: 5 laboratórios, com equipamentos, rede 
+elétrica e dados e adequar a sala maker e os laboratórios atuais, em quantidade 
+de computadores, rede elétrica e dados; 
+Desenvolver pelo menos 2 projetos educacionais e 3 de pesquisa para estimular 
+intercâmbios, a produção cultural, o desenvolvimento científico e tecnológico, 
+assim como a inovação de processos de aprendizagem.  
+AÇÃO/PROJETO 
+D – Aulas de reforço de matemática 
+O que será feito: 
+Oferecimento de aulas de reforço de matemática. 
+Por que será feito: 
+Para melhorar os processos de aprendizagem e reduzir a taxa de evasão. 
+Responsável(is) / CH 
+sem: 
+Prof. Ricardo Ramos Silva (4 HAEs) 
+Período de 
+execução: 
+Data de início: 
+06/02/2023 
+Data final: 
+20/12/2023 
+Etapas do processo: 
+1. Aulas de reforço fevereiro 
+06/02/2023 28/02/2023 
+2. Aulas de reforço março 
+01/03/2023 31/03/2023 
+3. Aulas de reforço abril 
+01/04/2023 29/04/2023 
+4. Aulas de reforço maio 
+01/05/2023 31/05/2023 
+5. Aulas de reforço junho 
+01/06/2023 15/06/2023 
+ 
+6. Organização e entrega dos relatórios de 
+fechamento da atividade (1º semestre) 
+16/06/2023 30/06/2023 
+ 
+7. Aulas de reforço agosto 
+01/08/2023 30/08/2023 
+ 
+8. Aulas de reforço setembro 
+01/09/2023 30/09/2023 
+ 
+9. Aulas de reforço outubro 
+01/10/2023 30/10/2023 
+ 
+10. Aulas de reforço novembro 
+01/11/2023 30/11/2023 
+ 
+11. Organização e entrega dos relatórios de 
+fechamento da atividade (2º semestre) 
+01/12/2023 20/12/2023 
+Custo (se houver): 
+ 
+Fonte(s) dos 
+recursos: 
+ 
+Objetivo(s) 
+relacionado(s): 
+Alcançar e manter o grau de excelência nos processos de ensino e aprendizagem. 
+Meta(s) 
+relacionada(s): 
+Promover 4 ações pedagógicas que propiciem a redução da taxa de evasão em 
+5% com base nos indicadores de 2022 e incentivem a elaboração de projetos. 
+ 
+AÇÃO/PROJETO 
+E – Monitoria de matemática, algoritmos, inglês e estatística 
+O que será feito: 
+Oferecimento de monitoria para as disciplinas de matemática, de  estatística, de 
+algoritmos e de inglês. 
+Por que será feito: 
+Para melhorar os processos de aprendizagem e reduzir a taxa de evasão.  
+Responsável(is) / CH 
+sem: 
+Professores responsáveis (2023-1):  
+Prof. Ricardo Ramos Silva (1 HAEs): Matemática Básica  (1 aluno, oferecendo 4 
+horas semanais de monitoria) 
+Prof. Johne Marcus Jarske (1 HAEs) – Algoritmos e Introdução a Computação (1 
+aluno, oferecendo 4 horas semanais de monitoria) 
+Profa. Alessandra Fagundes Silva (2 HAEs): Inglês (1 aluno, oferecendo 8 horas 
+semanais de monitoria) 
+Prof. Gilberto de Paiva (2 HAEs voluntária): Estatística (1 aluno, oferecendo 8 
+horas semanais de monitoria) 
+Período de 
+execução: 
+Data de início: 
+06/02/2023 
+Data final: 
+20/12/2023 
+Etapas do processo: 
+1. Monitoria fevereiro 
+06/02/2023 28/02/2023 
+2. Monitoria março 
+01/03/2023 31/03/2023 
+3. Monitoria abril 
+01/04/2023 29/04/2023 
+4. Monitoria maio 
+01/05/2023 31/05/2023 
+5. Monitoria junho 
+01/06/2023 15/06/2023 
+ 
+6. Organização e entrega dos relatórios de 
+fechamento da atividade (1º semestre) 
+16/06/2023 30/06/2023 
+ 
+7. Monitoria agosto 
+01/08/2023 30/08/2023 
+ 
+8. Monitoria setembro 
+01/09/2023 30/09/2023 
+ 
+9. Monitoria outubro 
+01/10/2023 30/10/2023 
+ 
+10. Monitoria novembro 
+01/11/2023 30/11/2023 
+ 
+11. Organização e entrega dos relatórios de 
+fechamento da atividade (2º semestre) 
+01/12/2023 20/12/2023 
+Custo (se houver): 
+ 
+Fonte(s) dos 
+recursos: 
+ 
+Objetivo(s) 
+relacionado(s): 
+Alcançar e manter o grau de excelência nos processos de ensino e aprendizagem. 
+Meta(s) 
+relacionada(s): 
+Promover 4 ações pedagógicas que propiciem a redução da taxa de evasão em 
+5% com base nos indicadores de 2022 e incentivem a elaboração de projetos. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+03 – Pesquisa / Extensão e Equipamentos Associados 
+AÇÃO/PROJETO 
+A - Mapeamento das expertises/competências do corpo docente da Fatec Cotia 
+O que será feito: 
+Mapear as expertises do corpo docente da Fatec Cotia no que diz respeito à 
+pesquisa e desenvolvimento tecnológico e prospectar possíveis parcerias 
+(externas e internas) que estejam dentro das áreas estratégicas do Centro Paula 
+Souza. 
+Por que será feito: 
+Para fomentar e otimizar a cultura de desenvolvimento tecnológico na Fatec 
+Cotia, além de prospectar potenciais parceiros tecnológicos. 
+Responsável(is) / CH 
+sem: 
+Prof. Felipe Carneiro da Silva (2 HAEs) 
+Período de 
+execução: 
+Data de início: 
+02/01/2023 
+Data final: 
+22/12/2023 
+Etapas do processo: 
+1. Elaboração do questionário  
+02/01/2023 08/02/2023 
+2. Divulgação do questionário para preenchimento 
+do corpo docente da Fatec Cotia 
+08/02/2023 24/02/2023 
+3. Análise e interpretação dos resultados gerados 
+pelo questionário 
+25/02/2023 26/05/2023 
+4. Mapeamento das expertises do corpo docente da 
+Fatec Cotia 
+01/06/2023 30/06/2023 
+5. Divulgação dos resultados junto ao corpo 
+docente da Fatec Cotia 
+03/07/2023 03/08/2023 
+6. Prospecção de potenciais parceiros tecnológicos 
+(público e privado) 
+03/08/2023 22/12/2023 
+Custo (se houver): 
+ 
+Fonte(s) dos 
+recursos: 
+ 
+Objetivo(s) 
+relacionado(s): 
+Ampliar os projetos de pesquisa e iniciação científica; 
+Alcançar e manter o grau de excelência nos processos de ensino e aprendizagem. 
+Meta(s) 
+relacionada(s): 
+Desenvolver pelo menos 2 projetos educacionais e 3 de pesquisa para estimular 
+intercâmbios, a produção cultural, o desenvolvimento científico e tecnológico, 
+assim como a inovação de processos de aprendizagem. 
+ 
+AÇÃO/PROJETO   
+B - Prospecção de parceiros da iniciativa privada para projetos e parcerias 
+estratégicas de inovação e desenvolvimento tecnológico  
+O que será feito:   
+Prospectar parceiros tecnológicos para o desenvolvimento e inovação no setor 
+produtivo com o auxílio da Fatec Cotia.   
+Por que será feito:   
+Desenvolvimento e inovação de produtos/processos/serviços para aumento da 
+produtividade dos parceiros tecnológicos.   
+Responsável(is) / CH 
+sem:   
+Prof. Felipe Carneiro da Silva (2 HAEs) 
+Período de execução:   Data de início:  
+02/01/2023  
+Data final:  
+22/12/2023 
+Etapas do processo:   
+1. Verificação da vocação regional e 
+principais áreas  
+02/01/2023  
+08/03/2023  
+2. Mapeamento dos potenciais parceiros 
+tecnológicos  
+08/03/2023  
+08/08/2023  
+3. Contato com os potenciais parceiros
+tecnológicos  
+08/08/2023  
+08/10/2023  
+4.  Verificação de viabilidade de possíveis
+parcerias tecnológicas e de inovação 
+com os potenciais parceiros, via órgãos 
+de fomento ou não  
+08/10/2023  
+22/12/2023  
+Custo (se houver):   
+  
+Fonte(s) dos 
+recursos:   
+  
+Objetivo(s) 
+relacionado(s):   
+Atender às demandas sociais e do mercado de trabalho; 
+Ampliar os projetos de pesquisa e iniciação científica; 
+Expandir a capacidade de articulação com Governos e setores produtivos. 
+Meta(s) 
+relacionada(s):   
+Ampliar a visita a empresas – 10 – e escolas de ensino médio – 15 – da região; 
+Desenvolver pelo menos 2 projetos educacionais e 3 de pesquisa para estimular 
+intercâmbios, a produção cultural, o desenvolvimento científico e tecnológico, assim 
+como a inovação de processos de aprendizagem. 
+ 
+AÇÃO/PROJETO 
+C – Desenvolvimento de Projetos de Iniciação Cientifica  
+O que será feito: 
+Incentivar docentes e alunos a participarem dos editais de abertura de 
+Monitoria de Iniciação em Desenvolvimento Tecnológico e Inovação ‐ MIDTI. 
+Por que será feito: 
+Para formar profissionais atualizados em tecnologias e processos produtivos, 
+capazes de atuar no desenvolvimento tecnológico e inovação. 
+Responsável(is) / CH 
+sem: 
+Prof. Gilberto de Paiva (coordenador administrativo - 4 horas voluntárias) 
+Prof. Johne Marcus Jarske (1 HAE): 1 aluno/semestre, com 8 horas semanais 
+Prof. Felipe Carneiro da Silva (1 HAE): 1 aluno/semestre, com 8 horas semanais 
+Profa. Sandra Regina Chaves Nunes (1 HAE): 1 aluno/semestre, com 8 horas 
+semanais 
+Período de 
+execução: 
+Data de início: 
+06/02/2023 
+Data final: 
+20/12/2023 
+Etapas do processo: 
+1. Enviar a documentação dos monitores 
+selecionados em 2022-2 para a CESU  
+06/02/2023 15/02/2023 
+2. Desenvolvimento dos projetos de pesquisa 
+MIDTI 2023-1 
+16/02/2023 23/06/2023 
+3. Abertura do Edital de Monitoria MIDTI 2023-2 
+15/04/2023 15/05/2023 
+4. Resultado do Edital de Monitoria MIDTI 2023-2 
+16/05/2023 01/06/2023 
+5. Entrega dos relatórios parciais e finais da MIDTI 
+2023-1 
+24/06/2023 30/06/2023 
+6. Enviar a documentação dos monitores 
+selecionados em 2023-2 para a CESU  
+01/08/2023 15/08/2023 
+7. Desenvolvimento dos projetos de pesquisa 
+MIDTI 2023-2 
+16/08/2023 30/11/2023 
+8. Abertura do Edital de Monitoria MIDTI 2024-1 
+01/10/2023 30/10/2023 
+9. Resultado do Edital de Monitoria MIDTI 2024-1 
+01/11/2023 15/11/2023 
+10. Entrega dos relatórios parciais e finais da MIDTI 
+2023-2 
+10/12/2023 20/12/2023 
+Custo (se houver): 
+ 
+Fonte(s) dos 
+recursos: 
+ 
+Objetivo(s) 
+relacionado(s): 
+Ampliar os projetos de pesquisa e iniciação científica. 
+Meta(s) 
+relacionada(s): 
+Desenvolver projetos de iniciação científica envolvendo ao menos 2 alunos 
+bolsistas na modalidade MIDTI a cada semestre. 
+ 
+AÇÃO/PROJETO 
+D - Realização de atividades extensionistas, de cunho social/ambiental/cultural  
+O que será feito: 
+Por meio de atividades propostas aos discentes, pretende-se realizar ações em 
+lares destinados a crianças e idosos da região, além de ações que objetivam 
+disponibilizar ao município produtos culturais. 
+Por que será feito: 
+Para propiciar formação de um egresso que seja capaz de refletir sobre as 
+condições do mundo contemporâneo, e para exercitar as competências, 
+habilidades e atitudes previstas no PPC do CST em Gestão Empresarial. 
+Responsável(is) / CH 
+sem: 
+Profa. Priscila Santos Oliveira (4HAEs), Prof. Alexandre Calabro Simon (2 HAEs) 
+Período de 
+execução: 
+Data de início: 
+08/02/2023 
+Data final: 
+01/07/2023 
+Etapas do processo: 
+1. Apresentação da proposta aos discentes, 
+evidenciando-se o tripé ensino-pesquisa-
+extensão   
+08/02/2023 20/02/2023 
+2. Adesão à proposta e escolha de ação a ser 
+desenvolvida 
+21/02/2023 18/03/2023 
+3. Apresentação da proposta de ação à Comissão 
+de ensino, pesquisa e extensão da unidade 
+19/03/2023 31/03/2023 
+4. Desenvolvimento da ação  
+01/04/2024 04/06/2023 
+5. Elaboração de relatório sobre a ação realizada e 
+reflexão sobre o desenvolvimento (ou não) de 
+competências do PPC, pelos alunos 
+05/06/2023 24/06/2023 
+6. Análise dos relatórios para refino da proposta no 
+semestre seguinte 
+25/06/2023 01/07/2023 
+Custo (se houver): 
+ 
+Fonte(s) dos 
+recursos: 
+ 
+Objetivo(s) 
+relacionado(s): 
+Atender às demandas sociais e do mercado de trabalho; 
+Alcançar e manter o grau de excelência nos processos de ensino e aprendizagem 
+Estimular a produção cultural, o empreendedorismo, o pensamento reflexivo e o 
+desenvolvimento científico e tecnológico. 
+Meta(s) 
+relacionada(s): 
+Promover 4 ações pedagógicas que propiciem a redução da taxa de evasão em 
+5% com base nos indicadores de 2022 e incentivem a elaboração de projetos. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+04 – Atividades Formativas em Projetos (nível tático) 
+AÇÃO/PROJETO 
+A – Oferecimento de cursos extracurriculares Novotec 
+O que será feito: 
+Organizar e oferecer cursos profissionalizantes Novotec para jovens da região. 
+Por que será feito: 
+Para aumentar a oferta de cursos na região, divulgando a unidade para jovens e 
+familiares. 
+Responsável(is) / CH 
+sem: 
+Prof. Gilberto de Paiva (12 HAEs)  
+Período de 
+execução: 
+Data de início: 
+11/01/2023 
+Data final: 
+16/12/2023 
+Etapas do processo: 
+1. Webinar e definição de cursos 
+11/01/2023 18/01/2023 
+2. Inscrições e matrículas, divulgação e preparo 
+dos recursos necessários 
+23/01/2023 14/03/2023 
+3. Seleção, contratação e orientação de 
+professores 
+15/03/2023 31/03/2023 
+4. Recepção dos alunos 
+28/03/2023 07/04/2023 
+5. Execução do período letivo 
+03/04/2023 15/07/2023 
+6. Finalização das atividades do 1º semestre de 
+2023 
+27/06/2023 15/07/2023 
+7. Realização das etapas acima no 2º semestre de 
+2023 
+31/07/2023 16/12/2023 
+Custo (se houver): 
+ 
+Fonte(s) dos 
+recursos: 
+ 
+Objetivo(s) 
+relacionado(s): 
+Atender às demandas sociais e do mercado de trabalho; 
+Propiciar oportunidade de atuação docentes em cursos extracurriculares.  
+Oferecer 
+oportunidades 
+de 
+capacitação 
+para 
+discentes, 
+funcionários 
+administrativos e familiares. 
+Meta(s) 
+relacionada(s): 
+Ampliar o número de cursos de extensão e a divulgação e atendimento ao público 
+externo. 
+ 
+AÇÃO/PROJETO 
+B - Desenvolvimento de protótipos para aplicações pedagógicas 
+O que será feito: 
+Projetos de construção de protótipos para fins pedagógicos. 
+Por que será feito: 
+Propiciar aulas com atividade prática. 
+Responsável(is) / CH 
+sem: 
+Prof. Ernesto Carlos Tavares de Almeida (6 HAEs)  
+Período de 
+execução: 
+Data de início: 
+08/02/2023 
+Data final: 
+16/12/2023 
+Etapas do processo: 
+1. Identificação de fenômenos e conceitos para 
+experimentos 
+08/02/2023 
+01/04/2023 
+2. Estudar métodos de visualização 
+01/04/2023 
+01/06/2023 
+3. Projetar metodologia de medições 
+01/06/2023 
+01/09/2023 
+4. Projetar protótipo 
+01/09/2023 
+16/12/2023 
+Custo (se houver): 
+ 
+Fonte(s) dos 
+recursos: 
+ 
+Objetivo(s) 
+relacionado(s): 
+Ampliar os projetos de pesquisa e iniciação científica. 
+Meta(s) 
+relacionada(s): 
+Desenvolver pelo menos 2 projetos educacionais e 3 de pesquisa para estimular 
+intercâmbios, a produção cultural, o desenvolvimento científico e tecnológico, 
+assim como a inovação de processos de aprendizagem. 
+ 
+ 
+ 
+ 
+ 
+ 
+05 – Infraestrutura (instalações prediais) 
+AÇÃO/PROJETO 
+A - Alteração de leiaute da sala maker 
+O que será feito: 
+Reestruturação da sala maker. 
+Por que será 
+feito: 
+Para melhorar o processo de aprendizado com aproveitamento adequado do espaço. 
+Responsável(is) / 
+CH sem: 
+Sabrina Aparecida dos Santos (diretora de serviços, 4h semanais), Samara Rabello 
+(assessoria técnica-administrativa, 4 horas semanais), Diego Correa da Rocha Aguiar 
+(auxiliar docente – 2 horas semanais), Gabriel de Souza Tavares (auxiliar docente – 2 
+horas semanais), Sergio Copeliovitch (auxiliar administrativo - 2 horas semanais) 
+Período de 
+execução: 
+Data de início: 
+01/02/2023 
+Data final: 
+15/04/2023 
+Etapas do 
+processo: 
+1. Levantamento da demanda e 
+reivindicação dos docentes 
+01/02/2023 
+28/02/2023 
+2. Solicitar três orçamentos para 
+execução do projeto 
+01/03/2023 
+15/03/2023 
+3. Realocar turma que utiliza a sala 
+15/03/2023 
+30/03/2023 
+4. Selecionar empresa e agendar 
+execução do processo 
+20/03/2023 
+24/03/2023 
+5. Retirar paredes e divisórias da sala 
+21/03/2023 
+07/04/2023 
+6. Reorganização de mobiliário e 
+equipamentos 
+10/04/2023 
+14/04/2023 
+Custo (se 
+houver): 
+R$ 800,00 
+Fonte(s) dos recursos: 
+DMPP 
+Objetivo(s) 
+relacionado(s): 
+Ampliar a capacidade de criar e atualizar cursos em parceria com o mercado. 
+Meta(s) 
+relacionada(s): 
+Expandir a infraestrutura institucional: 5 laboratórios, com equipamentos, rede elétrica 
+e dados e adequar a sala maker e os laboratórios atuais, em quantidade de 
+computadores, rede elétrica e dados. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+06 - Desenvolvimento de pessoas (docentes e servidores) 
+AÇÃO/PROJETO 
+A – Capacitação de servidores 
+O que será feito: 
+Treinamento da equipe administrativa, acadêmica e auxiliares docentes a fim de 
+mapear as atividades dos setores para otimização dos processos internos. 
+Por que será feito: 
+Para alinhar as expectativas e responsabilidades de cada setor, visando a melhoria 
+da comunicação interna.   
+Responsável(is) / 
+CH sem: 
+Profa. Sandra Regina Chaves Nunes (diretora geral, 4 horas semanais), Sabrina 
+Aparecida dos Santos (diretora de serviços, 4 horas semanais) e Samara Rabello 
+(assessora técnica-administrativa, 4 horas semanais) 
+Período de 
+execução: 
+Data de início: 
+03/07/2023 
+Data final: 
+20/07/2023 
+Etapas do processo: 
+1. Elaborar o material do treinamento 
+03/07/2023 04/07/2023 
+2. Aplicar treinamento com toda a equipe 
+05/07/2023 05/07/2023 
+3. A equipe prepara a documentação solicitada 
+(organograma de cada área, papéis e 
+responsabilidades de cada um, cronogramas 
+mensal, anual, semestral e esporádico, 
+processos realizados e demais arquivos) 
+06/07/2023 13/07/2023 
+4. Análise dos documentos pela direção 
+14/07/2023 18/07/2023 
+5. Reunião com toda a equipe para ajustes 
+necessários na documentação 
+19/07/2023 19/07/2023 
+6. Início da implantação das alterações.  
+20/07/2023 20/07/2023 
+Custo (se houver): 
+ 
+Fonte(s) dos 
+recursos: 
+ 
+Objetivo(s) 
+relacionado(s): 
+Implantar e implementar a comunicação organizacional e repositórios institucionais, 
+a fim de promover a transparência de gestão, de divulgar as atividades 
+institucionais e de propiciar uma nova cultura organizacional; 
+Propiciar a atualização e capacitação dos docentes, discentes e funcionários 
+administrativos. 
+Meta(s) 
+relacionada(s): 
+Realizar 2 projetos de capacitação, integração e formação dos funcionários 
+administrativos e docentes.  
+ 
+AÇÃO/PROJETO 
+B – Projeto de Integração docente 
+O que será feito: 
+Atividade de integração com a equipe de docentes a fim de melhorar a 
+comunicação interna e o clima organizacional. 
+Por que será feito: 
+Para o conhecimento da estrutura organizacional, dos funcionários e de suas 
+atribuições.  
+Responsável(is) / CH 
+sem: 
+Profa. Sandra Regina Chaves Nunes (diretora geral, 4 horas semanais), Sabrina 
+Aparecida dos Santos (diretora de serviços, 4 horas semanais) e Samara Rabello 
+(assessora técnica-administrativa, 4 horas semanais 
+Período de 
+execução: 
+Data de início: 
+31/07/2023 
+Data final: 
+03/08/2023 
+Etapas do processo: 
+1. Elaborar material da integração 
+31/07/2023 01/08/2023 
+2. Aplicar integração com toda a equipe, 
+apresentando todos os funcionários e suas 
+responsabilidades 
+02/08/2023 02/08/2023 
+3. Fixar os comunicados nas dependências da 
+Fatec 
+03/08/2023 03/08/2023 
+4. Enviar os comunicados e material da 
+capacitação a todos os envolvidos 
+03/08/2023 03/08/2023 
+Custo (se houver): 
+ 
+Fonte(s) dos 
+recursos: 
+ 
+Objetivo(s) 
+relacionado(s): 
+Implantar e implementar a comunicação organizacional e repositórios 
+institucionais, a fim de promover a transparência de gestão, de divulgar as 
+atividades institucionais e de propiciar uma nova cultura organizacional. 
+Meta(s) 
+relacionada(s): 
+Realizar 2 projetos de capacitação, integração e formação dos funcionários 
+administrativos e docentes. 
+ 
+AÇÃO/PROJETO 
+C – Repositório de Trabalhos de Projetos Integradores, Atividades Autônomas de 
+Projetos e de Trabalhos de Conclusão de Curso 
+O que será feito: 
+Aperfeiçoamento dos processos de planejamento, gestão e as atividades 
+operacionais/administrativas; e documentação dos entregáveis dos Projetos 
+Integradores, das Atividades Autônomas de Projeto e dos Trabalhos de Conclusão 
+de Curso da Unidade em ferramenta de usual manuseio (Microsoft Teams). 
+Por que será feito: 
+Para criar base de conhecimento dos trabalhos desenvolvidos e histórico de suas 
+continuidades para desenvolvimento dos convênios com empresas nos Projetos de 
+Solução de Situação-Problema (detalhado em Convênios). 
+Responsável(is) / 
+CH sem: 
+Prof. Nathan Ribeiro (4 HAEs), Prof. Hamilton Fernandes de Moraes Junior (2 
+HAEs) 
+Período de 
+execução: 
+Data de início: 
+08/02/2023 
+Data final: 
+30/11/2023 
+Etapas do processo: 
+1. Apresentação do método de armazenamento dos 
+entregáveis aos docentes das disciplinas de 
+Projetos Integradores e Trabalho de Conclusão 
+de Curso. 
+2. Implementação das adaptações identificadas 
+para o 1º. Semestre 
+08/02/2023 15/02/2023 
+3. Divulgação da implementação das adaptações 
+para os docentes de Projetos Integradores e 
+Trabalhos de Conclusão de Curso 
+16/02/2023 16/02/2023 
+4. Acompanhamento da catalogação de projetos a 
+serem desenvolvidos e seus respectivos 
+orientadores e alunos 
+17/02/2023 30/04/2023 
+5. Acompanhamento da catalogação de 
+agendamento de bancas, trabalhos depositados e 
+atas de banca de avaliação 
+01/04/2023 30/06/2023 
+6. Apresentação do método de armazenamento dos 
+entregáveis aos docentes das disciplinas de 
+Projetos Integradores e Trabalho de Conclusão 
+de Curso. 
+7. Implementação das adaptações identificadas 
+para o 2º. Semestre 
+02/08/2023 15/08/2023 
+8. Divulgação da implementação das adaptações 
+para os docentes de Projetos Integradores e 
+Trabalhos de Conclusão de Curso 
+16/08/2023 16/08/2023 
+9. Acompanhamento da catalogação de projetos a 
+serem desenvolvidos e seus respectivos 
+orientadores e alunos 
+17/08/2023 31/10/2023 
+10. Acompanhamento da catalogação de 
+agendamento de bancas, trabalhos depositados e 
+atas de banca de avaliação 
+01/10/2023 30/11/2023 
+11. Manutenção/correção contínua das funções de 
+manuseio do Repositório de Trabalhos 
+08/02/2023 30/11/2023 
+Custo (se houver): 
+ 
+Fonte(s) dos 
+recursos: 
+ 
+Objetivo(s) 
+relacionado(s): 
+Implantar e implementar a comunicação organizacional e repositórios institucionais, 
+a fim de promover a transparência de gestão, de divulgar as atividades 
+institucionais e de propiciar uma nova cultura organizacional. 
+Meta(s) 
+relacionada(s): 
+Aperfeiçoar e ampliar o Repositório de Trabalhos de Projetos Integradores e de 
+TCC. 
+ 
+AÇÃO/PROJETO 
+D – Projeto Inscrição de Trabalhos em Prêmios e Concursos 
+O que será feito: 
+Promover a inscrição centralizada dos trabalhos desenvolvidos por alunos ou 
+docentes da Unidade em prêmios e concursos oferecidos por entidades externas. 
+Além disso, garantir aos processos de avaliação institucional a viabilização da 
+métrica e da identificação dos resultados do Centro Paula Souza. 
+Por que será feito: 
+Para possibilitar a divulgação e a exposição dos trabalhos desenvolvidos pelos 
+grupos de Projetos Integradores, Atividades Autônomas de Projeto e dos 
+Trabalhos de Conclusão de Curso à comunidade em geral. para centralizar e 
+auxiliar os autores nas inscrições dos respectivos trabalhos, em função da 
+diversidade de inscrições e seus respectivos roteiros. 
+Responsável(is) / CH 
+sem: 
+Prof. Edillize Lourenço Graballos (4 HAEs) 
+Período de 
+execução: 
+Data de início: 
+08/02/2023 
+Data final: 
+30/11/2023 
+Etapas do processo: 
+1. Pesquisa contínua dos prêmios e concursos 
+disponíveis no mercado. 
+08/02/2023 30/06/2023 
+2. Documentação e divulgação para o corpo 
+docente e discente dos calendários e pré-
+requisitos dos prêmios e concursos abertos para 
+o 1º. Semestre. 
+08/02/2023 30/06/2023 
+3. Conciliação contínua dos trabalhos 
+desenvolvidos durante o 1º. semestre com os 
+potenciais prêmios e concursos abertos, visando 
+identificar os que podem ser inscritos e onde 
+melhor se encaixam. 
+08/02/2023 30/06/2023 
+4. Apoio aos discentes e docentes na inscrição dos 
+projetos identificados nos concursos escolhidos. 08/02/2023 30/06/2023 
+5. Acompanhamento dos resultados intermediários, 
+das fases dos concursos para identificação de 
+novas necessidades ou de alertas de 
+continuidade, e dos resultados finais. 
+01/04/2023 30/06/2023 
+6. Documentação e divulgação para o corpo 
+docente e discente dos calendários e pré-
+requisitos dos prêmios e concursos abertos para 
+o 2º. Semestre. 
+02/08/2023 30/11/2023 
+7. Conciliação contínua dos trabalhos 
+desenvolvidos durante o 2º. semestre com os 
+potenciais prêmios e concursos abertos, visando 
+identificar os que podem ser inscritos e onde 
+melhor se encaixam. 
+02/08/2023 30/11/2023 
+8. Apoio aos discentes e docentes na inscrição dos 
+projetos identificados nos concursos escolhidos; 02/08/2023 30/11/2023 
+9. Acompanhamento dos resultados intermediários, 
+das fases dos concursos para identificação de 
+novas necessidades ou de alertas de 
+continuidade, e dos resultados finais. 
+01/09/2023 30/11/2023 
+Custo (se houver): 
+ 
+Fonte(s) dos 
+recursos: 
+ 
+Objetivo(s) 
+relacionado(s): 
+Estimular a produção cultural, o empreendedorismo, o pensamento reflexivo e o 
+desenvolvimento científico e tecnológico; 
+Alcançar e manter o grau de excelência nos processos de ensino e aprendizagem. 
+Meta(s) 
+relacionada(s): 
+Promover 4 ações pedagógicas que propiciem a redução da taxa de evasão em 
+5% com base nos indicadores de 2022 e incentivar a elaboração de projetos. 
+ 
+AÇÃO/PROJETO 
+E - Núcleo de Marketing e Comunicação 
+O que será feito: 
+Criação e implementação do Núcleo de Marketing e Comunicação. 
+Por que será feito: 
+Para planejar e mediar a implementação de processo sistemático e participativo 
+para elaboração dos Planos de Desenvolvimento Institucional (PDI) e dos Planos 
+de Gestão Anual (PGA); para implementar plano de comunicação com público 
+interno e externo com vistas a: Promover a transparência dos atos da gestão da 
+UE; Fomentar a transformação da cultura organizacional; Aumentar a integração, 
+motivação e engajamento dos docentes, funcionários e discentes; e Promover a 
+UE por meio da divulgação dos cursos ofertados, exames vestibulares, eventos, 
+projetos, treinamentos e demais ações desenvolvidas pela UE. 
+Responsável(is) / CH 
+sem: 
+Profa. Tânia Letícia dos Santos (6 HAEs) 
+Período de 
+execução: 
+Data de início: 
+01/03/2023 
+Data final: 
+22/12/2023 
+Etapas do processo: 
+1. Realizar levantamento das necessidades da UE 
+com relação a atuação do Núcleo de Marketing e 
+Comunicação no(a): 
+Processo de elaboração do PDI e PGA. 
+Promoção da UE. 
+01/03/2023 15/04/2023 
+2. Analisar as necessidades identificadas e 
+elaborar proposta de Plano de Ação do Núcleo 
+de Marketing e Comunicação (atividades e 
+projetos regulares e pontuais, canais, 
+cronograma e recursos necessários). 
+16/04/2023 30/04/2023 
+3. Analisar as necessidades identificadas e 
+elaborar proposta de Plano de Ação do Núcleo 
+de Marketing e Comunicação (atividades e 
+projetos regulares e pontuais, canais, 
+cronograma e recursos necessários). 
+16/04/2023 30/04/2023 
+4. Apresentar a proposta de Plano de Ação do 
+Núcleo de Marketing e Comunicação para a 
+direção e atuais membros das comissões de 
+comunicação e vestibular. 
+02/05/2023 06/05/2023 
+5. Ajustar a proposta de Plano de Ação do Núcleo 
+de Marketing e Comunicação em função das 
+considerações da direção e atuais membros das 
+comissões de comunicação e vestibular. 
+07/05/2023 21/05/2023 
+6. Apresentar proposta de Plano de Ação do 
+Núcleo de Marketing e Comunicação para a 
+Congregação. 
+22/05/2023 27/05/2023 
+7. Ajustar a proposta de Plano de Ação do Núcleo 
+de Marketing e Comunicação em função das 
+considerações da congregação. 
+28/05/2023 04/06/2023 
+8. Implementação do Núcleo de Marketing e 
+Comunicação. 
+06/06/2023 06/06/2023 
+9. Implementação do Plano de Ação do Núcleo de 
+Marketing e Comunicação. 
+06/06/2023 
+contínuo 
+10. Acompanhamento de resultados do Núcleo de 
+Marketing e Comunicação. 
+06/06/2023 
+contínuo 
+11. Atualização e melhoria do Plano de Ação do 
+Núcleo de Marketing e Comunicação. 
+06/06/2023 
+contínuo 
+Custo (se houver): 
+ 
+Fonte(s) dos 
+recursos: 
+ 
+Objetivo(s) 
+relacionado(s): 
+Implantar e implementar a comunicação organizacional e repositórios 
+institucionais, a fim de promover a transparência de gestão, de divulgar as 
+atividades institucionais e de propiciar uma nova cultura organizacional. 
+Meta(s) 
+relacionada(s): 
+Criar o Núcleo de Comunicação e Marketing. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+07 – Convênios e Parcerias Institucionais 
+AÇÃO/PROJETO A- Núcleo de Relações Empresariais e Institucionais 
+O que será feito: 
+Implementação de núcleo que visa realizar ações para fortalecer o relacionamento 
+entre empresas e a faculdade, gerando benefícios mútuos, aproximando as empresas 
+e alunos para desenvolver competências empresariais atualizadas às exigências 
+profissionais de mercado. 
+Por que será 
+feito: 
+Para 
+desenvolver 
+convênios 
+de 
+cooperação 
+técnico-científica 
+entre 
+empresa/faculdade, tendo como foco o aprendizado e a participação discente; para 
+prover e consolidar parcerias empresariais que estimulem a realização de projetos e 
+atividades, proporcionando aprendizado em situação real; para estabelecer contato e 
+relacionamento com empresas (produção e serviços) e com instituição municipal, 
+ampliando a participação da Fatec Cotia no desenvolvimento regional; para melhorar 
+a empregabilidade dos alunos e o aprimoramento das competências requeridas pelas 
+organizações empresariais. 
+Responsável(is) / 
+CH sem: 
+ Prof. Saulo Ferraz Junior (2 HAEs) 
+Período de 
+execução: 
+Data de início: 
+08/02/2023 
+Data final: 
+30/11/2023 
+Etapas do 
+processo: 
+1. Estabelecer um banco de dados de contatos 
+atualizado de empresas da região – 
+conjuntamente com a Responsável por Estágios. 
+08/02/2023 
+30/09/2023 
+2. Contatar e visitar - por meio presencial ou virtual, 
+as empresas e instituição municipal interessadas 
+em participar de Convênios ou Parcerias. 
+  
+3. Orientar a Diretoria, Coordenadores de cursos e 
+professores sobre os requisitos a serem atendidos 
+para contato e estabelecimento de Convênios e 
+Parcerias, conforme regulamentado pelo CPS. 
+4. Introduzir no sistema digital CPS a intenção das 
+empresas e documentação para efetivação de 
+Convênio ou Parceria. 
+5. Acompanhar os trâmites até a aprovação do 
+Convênio e Parceria.  
+01/03/2023 
+ 
+30/11/2023 
+6. Planejar visitas de alunos e professores em 
+empresas para fins ampliação do relacionamento 
+com organizações e prover oportunidade de 
+contato dos alunos em processos produtivos e de 
+serviços. 
+01/03/2023 
+ 
+30/03/2023 
+7. Pesquisar e visitar empresas com o Professor 
+Responsável por propostas de novos cursos para 
+entender e discutir os temas de vocação regional, 
+empregabilidade do profissional formado, análise 
+da grade curricular proposta, em colaboração ao 
+estudo de proposta de novo curso na Fatec Cotia 
+junto ao CPS. 
+01/03/2023 
+ 
+30/06/2023 
+8. Estudo sobre a empregabilidade dos alunos da 
+Fatec-Cotia objetivando palestras, seminários, 
+Simpósios e ações conjuntas de desenvolvimento 
+regional empresa – faculdade 
+01/03/2023 
+ 
+30/11/2023 
+9. Selecionar e contatar empresas para participarem 
+do Projeto Solução Situação-Problema. 
+  
+10. Acompanhamento dos Coordenadores Internos do 
+Projeto Solução e Situação-Problema atuando 
+junto a eles e as empresas conveniadas, quando 
+necessário, a fim de manter o relacionamento e o 
+cumprimento das metas estabelecidas pelo projeto 
+01/03/2023 
+ 
+30/11/2023 
+11. Apresentar semestralmente os trabalhos 
+realizados e Convênios e Parcerias firmadas à 
+Diretoria, Coordenadores de cursos e professores. 
+20/06/2023 
+ 
+30/06/2023 
+12. Divulgação de vestibular e vagas remanescentes 
+aos contatos das empresas conveniadas ou não. 
+16/06/2023 
+ 
+30/06/2023 
+13. Desenvolvimento de trabalhos conjuntos com 
+Responsável por Estágios da Fatec Cotia por meio 
+de divulgação de vagas de estágios ou de vagas 
+para efetivação de alunos em formação ou 
+egressos, comunicadas por empresas com 
+entrada pelo Núcleo de Relações Empresariais. 
+01/03/2023 
+ 
+30/11/2023 
+Custo (se 
+houver): 
+  
+Fonte(s) dos 
+recursos: 
+ 
+Objetivo(s) 
+relacionado(s): 
+Prover e ampliar Convênios e Parcerias com empresas e instituição municipal visando 
+o desenvolvimento regional tendo como foco principal a boa formação profissional do 
+aluno em contato com a realidade de situações corporativa e empresarial; 
+Estabelecer um vínculo de contato e de reciprocidade, estreitando o relacionamento 
+entre empresa e faculdade visando ganhos e benefícios mútuos; 
+Alcançar e manter o grau de excelência em relacionamento empresarial; 
+Expandir a capacidade de articulação com Governos e setores produtivos. 
+Meta(s) 
+relacionada(s): 
+Ampliar a visita a empresas – 10 – e escolas de ensino médio – 15 – da região; 
+Ampliar as atividades e parcerias com mais 3 Secretarias Municipais: Educação, 
+Turismo, Cultura, assim como com mais 4 empresas. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AÇÃO/PROJETO 
+B – Projeto Solução de Situação-Problema 
+O que será feito: 
+Utilização de situações-problema reais, de empresas da região, como temas para os 
+trabalhos das Atividades Autônomas de Projetos (AAPs), dos Projetos Integradores 
+e dos Trabalho de Conclusão de Curso (TCCs) dos CSTs oferecidos na unidade de 
+ensino, sempre obedecendo à metodologia de pesquisa das disciplinas.  
+ 
+O projeto, em linhas gerais, funcionará da seguinte maneira: as empresas 
+contribuem com a relação das situações ou problemas reais, disponibilizando sua 
+infraestrutura para levantamento de informações e testes, bem como funcionários 
+monitores denominados “padrinhos” internos que acompanham o grupo no 
+desenvolvimento do trabalho. Os alunos recebem suporte e orientação dos 
+professores relativos a áreas específicas de conhecimento necessárias, 
+desenvolvendo e apresentando o trabalho com sugestões de solução sob um novo 
+olhar baseado na teoria aplicada. 
+Por que será feito: 
+Para estimular e consolidar parcerias (internas e externas), sinergia e a inovação 
+tecnológica; para promover aplicação da tecnologia e estimular a criatividade para o 
+desenvolvimento de competências humanas e organizacionais.  
+Responsável(is) / 
+CH sem: 
+Prof. Saulo Ferraz Junior (NRE - 2 HAEs), Prof. Benedito Cesar Ferraz (GPI - 4 
+HAEs), Prof. Bráz Izaías da Silva Junior (DSM – 4 HAEs), Profa. Léa Rossi (CD - 4 
+HAEs), Prof. Marcelo Carvalho (GE – 4 HAEs) 
+Período de 
+execução: 
+Data de início: 
+08/02/2023 
+Data final: 
+30/11/2023 
+Etapas do 
+processo: 
+1. Coletar temas de situação-problema das 
+empresas conveniadas para o 1º. Semestre de 
+2023. 
+2. Selecionar e particionar os temas de acordo com 
+o grau de dificuldade e disciplinas envolvidas. 
+3. Divulgar e distribuir os temas pelos grupos 
+interessados nas disciplinas de Projeto Integrador 
+e Trabalho de Conclusão de Curso. 
+08/02/2023 28/02/2023 
+4. Acompanhamento dos trabalhos pelas equipes, 
+monitorando o andamento e o contato com as 
+empresas conveniadas. 
+01/03/2023 15/06/2023 
+5. Apresentar os trabalhos realizados, com o devido 
+corte de expectativas visando o término do 1º 
+semestre e as respectivas avaliações. 
+16/06/2023 30/06/2023 
+6. Apresentar devolutiva para as empresas 
+conveniadas, com apresentações das 
+proposições de solução para elas. 
+16/06/2023 30/06/2023 
+7. Coletar temas de situação-problema das 
+empresas conveniadas para o 2º. Semestre de 
+2023. 
+8. Selecionar e particionar os temas de acordo com 
+o grau de dificuldade e disciplinas envolvidas. 
+9. Divulgar e distribuir os temas pelos grupos 
+interessados nas disciplinas de Projeto Integrador 
+e Trabalho de Conclusão de Curso. 
+01/08/2023 31/08/2023 
+10. Acompanhamento dos trabalhos pelas equipes, 
+monitorando o andamento e o contato com as 
+empresas conveniadas. 
+01/09/2023 15/11/2023 
+11. Apresentar os trabalhos realizados, com o devido 
+corte de expectativas visando o término do 2º 
+semestre e as respectivas avaliações. 
+16/11/2023 30/11/2023 
+12. Apresentar devolutiva para as empresas 
+conveniadas, com apresentações das 
+proposições de solução para elas. 
+16/11/2023 30/11/2023 
+13. Apresentar o projeto para outras empresas da e 
+estabelecer convênios. 
+01/08/2023 30/11/2023 
+Custo (se houver):  
+Fonte(s) dos 
+recursos: 
+ 
+Objetivo(s) 
+relacionado(s): 
+Inovar processos de ensino e aprendizagem para a formação de profissionais 
+atualizados em tecnologias e processos produtivos, capazes de atuar com 
+excelência no desenvolvimento tecnológico e inovação; 
+Alcançar e manter o grau de excelência nos processos de ensino e aprendizagem. 
+Expandir a capacidade de articulação com Governos e setores produtivos. 
+Meta(s) 
+relacionada(s): 
+Ampliar a visita a empresas – 10 – e escolas de ensino médio – 15 – da região; 
+Ampliar as atividades e parcerias com mais 3 Secretarias Municipais: Educação, 
+Turismo, Cultura, assim como com mais 4 empresas. 
+ 
+AÇÃO/PROJETO  
+C – Projeto para alinhamento, estruturação e coordenação do processo de 
+Estágios  
+O que será feito:  
+Projeto de organização do estágio, de todos os cursos, de modo a propiciar a 
+correta tramitação dos documentos pertinentes, plantões de dúvidas, busca de 
+vagas, interlocução com o setor produtivo, divulgação de vagas e outros processos 
+pertinentes. 
+Por que será feito:  
+Para consolidar os procedimentos necessários à regulamentação dos estágios dos 
+estudantes para cumprir a legislação vigente e as rotinas e padrões documentais 
+por meio do suporte aos alunos, professores, alunos e entidades concedentes de 
+estágio e para divulgar oportunidades de estágios. 
+Responsável(is) / CH 
+sem:  
+Prof. Edillize Lourenço Graballos (12 HAEs), Prof. Saulo Ferraz Junior (4 HAEs), 
+Prof. Ivan Luiz Laranjeiras (8 HAEs), Prof. Gilberto de Paiva (12 HAEs) 
+Período de execução:  
+Data de início: 
+08/02/2023 
+Data final: 
+30/11/2023 
+Etapas do processo:  
+1. Assessoria a alunos, professores, parceiros e 
+comunidade externa sobre os procedimentos para 
+a formalização do estágio de acordo com a 
+legislação Federal, resoluções do CPS e internas 
+da Unidade.  
+08/02/2023 30/11/2023 
+2. Apresentação do programa de estágios da Unidade 
+para as entidades concedentes (empresas da 
+região) em conjunto com o Núcleo de Relações 
+Empresariais.  
+08/02/2023 30/11/2023 
+3. Manutenção de cadastro atualizado de todas as 
+entidades concedentes com suas ofertas de 
+estágio.  
+08/02/2023 30/11/2023 
+4. Recepção e cadastramento das vagas existentes e 
+ofertadas pelas entidades concedentes.  
+08/02/2023 30/11/2023 
+5. Análise das vagas de estágio para direcionamento 
+das possibilidades dentro dos cursos da Unidade.  08/02/2023 30/11/2023 
+6. Divulgação de vagas de estágio e emprego por 
+meio de comunicação do sistema SIGA e em 
+painel expositivo físico na Unidade.  
+08/02/2023 30/11/2023 
+7. Manutenção de cadastro atualizado das vagas 
+preenchidas com os respectivos relatórios de 
+estágios elaborados pelos discentes após o 
+término do estágio e produção de indicadores.  
+08/02/2023 30/11/2023 
+8. Monitoramento da execução do estágio dos alunos 
+por meio dos relatórios finais de estágios e 
+intermediação de negociações de 
+conflitos/diferenças com as entidades 
+concedentes.  
+08/02/2023 30/11/2023 
+9. Orientação pedagógica e profissional aos discentes 
+em execução de estágio.  
+08/02/2023 30/11/2023 
+10. Registro, medição e avaliação da contratação de 
+estagiários em emprego efetivo e produção de 
+indicadores.  
+08/02/2023 30/11/2023 
+11. Atualização profissional do discente em parceria 
+com as entidades concedentes, Diretoria 
+Acadêmica, Coordenadorias de cursos e o Núcleo 
+de Relações Empresariais, mediante palestras, 
+seminários e treinamentos.  
+08/02/2023 30/11/2023 
+12. Execução de programa de estágios não-
+remunerados e internos na unidade para cobrir 
+déficit de vagas ou alunos sem oportunidade de 
+estágio.  
+08/02/2023 30/11/2023 
+Custo (se houver):  
+ 
+Fonte(s) dos 
+recursos:  
+Objetivo(s) 
+relacionado(s):  
+Atender às demandas sociais e do mercado de trabalho; 
+Desenvolver programas e projetos educacionais para estimular intercâmbios e a 
+aprendizagem global; 
+Expandir a capacidade de articulação com Governos e setores produtivos. 
+Meta(s) 
+relacionada(s):  
+Alcançar a efetivação de 20% dos alunos em curso em estágios promovidos e 
+tratados pela unidade; 
+Promover 4 ações pedagógicas que propiciem a redução da taxa de evasão em 
+5% com base nos indicadores de 2022 e incentivem a elaboração de projetos. 
+  
+ETAPA II – APROVAÇÃO E HOMOLOGAÇÃO 
+ 
+APROVAÇÃO DO PGA PELA CONGREGAÇÃO DA UE 
+Envio da Ata de aprovação 
+Ata assinada (.pdf) 
+Anexar arquivo 
+Data da aprovação: 
+dd/mm/aaaa  
+Data do envio: 
+dd/mm/aaaa  
+ 
+PARECER DA CESU 
+Data: 
+dd/mm/aaaa  
+Aprovado? 
+(   ) Sim                      (   ) 
+Não 
+Se não aprovado, devolvido para adequação, com prazo para 
+revisão até: 
+dd/mm/aaaa  
+Parecer: 
+ 
+ 
+ 
+ 
+ETAPA III – ACOMPANHAMENTO DAS AÇÕES GERENCIAIS 
+RELATÓRIO DE ACOMPANHAMENTO DE PROJETO (MENSAL) 
+Status mensal do projeto 
+Identificação do 
+Projeto 
+(automático) 
+Data: 
+dd/mm/aaaa 
+Situação: 
+(   ) Em andamento                   
+Previsão de término: 
+dd/mm/aaaa 
+Justificativa: 
+ 
+(   ) Ainda não foi iniciado         
+Previsão de início: 
+dd/mm/aaaa 
+Justificativa: 
+ 
+(   ) Cancelado (antes do 
+início) 
+Data: 
+dd/mm/aaaa 
+Justificativa: 
+ 
+(   ) Suspenso (interrompido 
+após iniciado) 
+Data: 
+dd/mm/aaaa 
+Justificativa: 
+ 
+(   ) Concluído 
+Data da conclusão: 
+dd/mm/aaaa 
+Resultados: 
+ 
+ 
+Intercorrências: 
+ 
+ 
+Observação: 
+ 
+ 
+Meta(s) 
+alcançada(s) 
+(aparecer a meta automaticamente, conforme indicada no projeto para a 
+indicação do percentual alcançado) 
+Evidência(s): 
+(descrever e inserir documento que evidencie a execução ou atingimento da 
+meta) 
+ 
+ 
+Validação do relatório (acompanhamento) 
+Identificação do Projeto 
+(automático) 
+Data: 
+dd/mm/aaaa 
+Parecer: 
+Favorável? 
+(   ) Sim              (   ) Não                     (    ) Parcialmente 
+favorável 
+Considerações/Recomendações: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

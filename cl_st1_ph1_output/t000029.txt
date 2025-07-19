@@ -1,12 +1,14 @@
-                      4
+     
+                  4
  
 __________________________________________________________________________ 
 Administração Central 
 Unidade do Ensino Superior de Graduação 
  
  
+ 
 Relatório de Autoavaliação Institucional 
-da Fatec – 2024/INTEGRAL
+da Fatec – 2024/INTEGRAL 
  
  
  
@@ -27,91 +29,90 @@ da Fatec – 2024/INTEGRAL
  
  
  
+Cotia  
+2024 
  
- 
- 
- 
- 
- 
- 
-FATEC:  204-Fatec Ipiranga - R-06 
+FATEC COTIA 
 RELATÓRIO DE AUTOAVALIAÇÃO 
 INSTITUCIONAL  
 2024 
-                      5
+     
+                  5
  
 __________________________________________________________________________ 
 Administração Central 
 Unidade do Ensino Superior de Graduação 
  
  
+ 
 Relatório de Autoavaliação Institucional 
-da Fatec – 2024/INTEGRAL
- 
- 
- 
- 
-<SÃO PAULO>  
-2024 
- 
- 
- 
+da Fatec – 2024/INTEGRAL 
 Direção / Coordenação de Cursos 
+ 
+ 
  
  
 Direção Geral  
  
-Profa. Ms. Fabiana Serralha 
-Miranda  
+Profa. Dra. Sandra Regina Chaves 
+Nunes 
+ 
+ 
 Coordenador do Curso de Graduação Tecnológica em 
-Análise e Desenvolvimento de Sistemas  
+Gestão Empresarial  
  
-Profa. Dra. Andreia Cristina Grisolio 
-Machion  
-Coordenador do Curso de Graduação Tecnológica em  
-em Big Data para Negócios   
-Prof. Ms. Antonio Fernando Nunes 
-Guardado  
-Coordenador do Curso de Graduação Tecnológica em  
-Eventos 
+Prof. Elifas Fernandes Gorgonho 
+Farias 
  
-Prof. Ms. Marcos Júlio  
 Coordenador do Curso de Graduação Tecnológica em 
-Recursos Humanos  
+Gestão da Produção Industrial  
  
-Prof. Ms. Eiko Enoki 
-Coordenador do Curso de Graduação Tecnológica 
-Análise de Sistemas – AMS  
+Prof. Hamilton Fernandes Moraes 
+Junior 
  
-Prof. Ms. Marco Aurélio Mazzei 
-                      6
+Coordenador do Curso de Graduação Tecnológica em 
+Ciência de Dados  
+ 
+Prof. Johne Marus Jarske 
+ 
+Coordenador do Curso de Graduação Tecnológica em 
+Desenvolvimento de Software Multiplataforma  
+ 
+Prof. Alexandre Calabro Simon 
+ 
+Coordenador do Curso de Graduação Tecnológica em 
+Comércio Exterior  
+ 
+Prof. Valter Yogui 
+ 
+Coordenador do Curso de Graduação Tecnológica em 
+Design de Produto com Ênfase em Processos de 
+Produção e Industrialização 
+ 
+Prof. Dr. Felipe Carneiro da Silva  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Presidente da CPA 
+Prof. Ernesto Carlos Tavares de 
+Almeida 
+ 
+ 
+     
+                  6
  
 __________________________________________________________________________ 
 Administração Central 
 Unidade do Ensino Superior de Graduação 
  
  
+ 
 Relatório de Autoavaliação Institucional 
-da Fatec – 2024/INTEGRAL
-Coordenador do Curso Superior de Tecnologia em 
-Gestão Comercial  
-Prof. Dr. Ricardo Di Bartolomeo  
-Presidente da CPA 
- Profa. Dra. Ana Claudia Melo 
-Tiessi Gomes de Oliveira 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+da Fatec – 2024/INTEGRAL 
  
  
  
@@ -120,315 +121,368 @@ Comissão Própria de Avaliação – CPA
  
  
  
-Presidente da CPA  
-Profa. Dra. Ana Claudia Melo 
-Tiessi Gomes de Oliveira 
+Representante docente (Presidente) 
+ 
+Prof. Ernesto Carlos Tavares de 
+Almeida 
 Representante docente 
  
-Profa. Ms. Rosangela Aparecida 
-de Queiros Manduca 
-Representante docente 
- 
- 
+Prof. Gilberto de Paiva 
 Representante discente 
  
+Thamires da Costa Nascimento 
+Representante discente 
  
-Representante do corpo técnico administrativo 
- 
-Virgínia Benassi Ramos de Nazaré 
-                      7
- 
-__________________________________________________________________________ 
-Administração Central 
-Unidade do Ensino Superior de Graduação 
- 
- 
-Relatório de Autoavaliação Institucional 
-da Fatec – 2024/INTEGRAL
+Aparecido dos Santos Silva 
 Representante da Sociedade Civil 
  
-Adnilson José de Almeida 
+Renan Ruivo Silva 
 Representante da Administração Central – Cesu/DGE 
  
-Profa Ms. Fernanda Peixoto 
-Coelho 
+Profa. Fernanda Peixoto Coelho 
  
  
  
  
  
  
-                      8
+ 
+ 
+     
+                  7
  
 __________________________________________________________________________ 
 Administração Central 
 Unidade do Ensino Superior de Graduação 
  
  
+ 
 Relatório de Autoavaliação Institucional 
-da Fatec – 2024/INTEGRAL
+da Fatec – 2024/INTEGRAL 
 SUMÁRIO 
  
  
+II. 
+1 
+III. 
+Erro! Indicador não definido. 
+IV. 
+4 
+1. 
+5 
+2. 
+11 
+2.1. 
+12 
+2.2. 
+13 
+2.3. 
+16 
+2.4. 
+20 
+2.5. 
+21 
+2.6. 
+22 
+2.7. 
+22 
+2.8. 
+23 
+2.9. 
+23 
+3. 
+23 
+3.1. 
+24 
+3.2. 
+28 
+3.3. 
+33 
+3.4. 
+56 
+3.5. 
+65 
+4. 
+68 
+EIXO 1: PLANEJAMENTO E AVALIAÇÃO INSTITUCIONAL 
+19 
+EIXO 2: DESENVOLVIMENTO INSTITUCIONAL 
+20 
+EIXO 3: POLÍTICAS ACADÊMICAS 
+21 
+EIXO 4: POLÍTICAS DE GESTÃO 
+22 
+EIXO 5: INFRAESTRUTURA 
+23 
+5. 
+74 
+EIXO 1: PLANEJAMENTO E AVALIAÇÃO INSTITUCIONAL 
+24 
+EIXO 2: DESENVOLVIMENTO INSTITUCIONAL 
+26 
+AÇÕES PLANEJADAS 
+26 
+     
+                  8
+ 
+__________________________________________________________________________ 
+Administração Central 
+Unidade do Ensino Superior de Graduação 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2024/INTEGRAL 
+PRAZOS 
+26 
+EIXO 2: DESENVOLVIMENTO INSTITUCIONAL 
+27 
+EIXO 3: POLÍTICAS ACADÊMICAS 
+28 
+EIXO 4: POLÍTICAS DE GESTÃO 
+30 
+EIXO 5: INFRAESTRUTURA 
+32 
+6. 
+80 
+ 
+ 
+Ao finalizar o Relatório, favor atualizar o sumário clicando com o botão direito do mouse e selecione 
+Atualizar Campo. Em seguida, selecione conforme abaixo. Feito isso, favor apagar esta orientação e o 
+print de tela.    
  
 I. 
-Identificação da FATEC .......................................................................................................... 1 
-II. 
-Atos Regulatórios .................................................................................................................... 2 
-III. 
-Composição da Comissão Própria de Avaliação (CPA) .................................................... 3 
-1. 
-INTRODUÇÃO ......................................................................................................................... 4 
-2. 
-METODOLOGIA .................................................................................................................... 12 
-2.1. 
-Cronograma das atividades da CPA .......................................................................... 13 
-2.2. 
-Ações de sensibilização da comunidade acadêmica ............................................ 14 
-2.3. 
-Identificação dos sujeitos da avaliação .................................................................... 19 
-2.4. 
-Organização dos instrumentos de coleta ................................................................. 20 
-2.5. 
-Procedimentos para a coleta ....................................................................................... 21 
-2.6. 
-Análise e discussão dos dados da coleta ................................................................ 21 
-2.7. 
-Elaboração do Quadro Comparativo para análise dos resultados das 
-avaliações parciais de 2022 e 2023 e análise global ........................................................... 21 
-2.8. 
-Organização das medidas para composição do relatório.................................... 22 
-2.9. 
-Devolutiva dos resultados para a comunidade acadêmica ................................. 22 
-3. 
-DESENVOLVIMENTO .......................................................................................................... 23 
-3.1. 
-Eixo 1: Planejamento e Avaliação Institucional ...................................................... 23 
-3.2. 
-Eixo 2: Desenvolvimento Institucional ...................................................................... 25 
-3.3. 
-Eixo 3: Políticas Acadêmicas ....................................................................................... 31 
-3.4. 
-Eixo 4: Políticas de Gestão ........................................................................................... 35 
-3.5. 
-Eixo 5: Infraestrutura Física ......................................................................................... 39 
-4. 
-QUADRO PARA A ANÁLISE COMPARATIVA DOS RELATÓRIOS PARCIAIS 
-2022/2023 E ANÁLISE GLOBAL ..................................................................................................... 41 
-EIXO 1: PLANEJAMENTO E AVALIAÇÃO INSTITUCIONAL .............................................. 41 
-EIXO 2: DESENVOLVIMENTO INSTITUCIONAL .................................................................... 43 
-EIXO 3: POLÍTICAS ACADÊMICAS .......................................................................................... 45 
-EIXO 4: POLÍTICAS DE GESTÃO .............................................................................................. 48 
-EIXO 5: INFRAESTRUTURA ....................................................................................................... 52 
-5. 
-ANÁLISE DOS DADOS DE 2024 E AÇÕES PROPOSTAS ........................................... 54 
-EIXO 1: PLANEJAMENTO E AVALIAÇÃO INSTITUCIONAL .............................................. 54 
-                      9
+     
+                  1
  
 __________________________________________________________________________ 
 Administração Central 
 Unidade do Ensino Superior de Graduação 
  
  
-Relatório de Autoavaliação Institucional 
-da Fatec – 2024/INTEGRAL
-EIXO 2: DESENVOLVIMENTO INSTITUCIONAL .................................................................... 56 
-6. 
-CONSIDERAÇÕES FINAIS ................................................................................................. 63 
- 
- 
-    
- 
-                      1
- 
-__________________________________________________________________________ 
-Administração Central 
-Unidade do Ensino Superior de Graduação 
- 
  
 Relatório de Autoavaliação Institucional 
-da Fatec – 2024/INTEGRAL
-I. Identificação da FATEC (informação PDI/PGA/RCPA/RAA) 
- 
-Dados da unidade 
-Fatec:  204-Fatec Ipiranga - R-06 
-Razão social: Fatec Ipiranga – Pastor Enéas Tognini 
-Endereço:  [Rua Frei João, 59 – Vila Nair – São Paulo - SP] 
+da Fatec – 2024/INTEGRAL 
+II. Identificação da FATEC (informação PDI/PGA/RCPA/RAA) 
+🢒 Dados da unidade 
+Fatec:  270 - Fatec Cotia - R06 
+Razão social: Faculdade de Tecnologia de Cotia 
+Endereço:  Rua Nelson Raineri, 700 - CEP 06702-155 - Cotia - São Paulo 
  
- 
-Direção da Unidade 
-Diretor: [Profa. Me. Fabiana Serralha Miranda] 
+🢒 Direção da Unidade 
+Diretor: Profa. Dra. Sandra Regina Chaves Nunes 
   
- 
-Coordenação de Curso 
-CST em [Análise e Desenvolvimento de Sistemas]: [Profa. Dra. Andreia Cristina Grisolio Machion] 
-CST em [Big Data para Negócios]: [Prof. Ms. Antônio Fernando Nunes Guardado] 
-CST em [Eventos]: [Prof. Ms. Marcos Júlio] 
-CST em [Gestão Comercial]: [Prof. Dr. Ricardo Di Bartolomeo] 
-CST em [Gestão de Recursos Humanos]: [Profa. Me. Eiko Enoki] 
-CST em [Análise de Sistemas - AMS]: [Prof. Me. Marcos Aurélio Mazzei 
+🢒 Coordenação de Curso 
+CST em Gestão Empresarial: Prof. Elifas Fernandes Gorgonho Farias 
+CST em Gestão da Produção Industrial: Prof. Hamilton Fernandes Moraes Junior 
+CST em Ciência de Dados: Prof. Johne Marus Jarske 
+CST em Desenvolvimento de Software Multiplataforma: Prof. Alexandre Calabro Simon 
+CST em Comércio Exterior: Prof. Valter Yogui 
+CST em Design de Produto com Ênfase em Processos de Produção e Industrialização: Prof. Dr. 
+Felipe Carneiro da Silva 
  
- 
-Direção de Serviços 
-Diretor de Serviços Acadêmicos: [Marcos Gonçalves de Araújo] 
-Diretor de Serviços Administrativos: [Adriana Pereira da Rosa] 
- 
- 
-                      2
+🢒 Direção de Serviços 
+Diretor de Serviços Acadêmicos: Renan Ruivo Silva 
+Diretor de Serviços Administrativos: Sabrina Aparecida dos Santos 
+     
+                  2
  
 __________________________________________________________________________ 
 Administração Central 
 Unidade do Ensino Superior de Graduação 
  
  
+ 
 Relatório de Autoavaliação Institucional 
-da Fatec – 2024/INTEGRAL
-II. Atos Regulatórios (informação PDI/PGA/RCPA/RAA) 
- 
-Decreto de criação: Decreto 53.372 de: 02/09/2008 
- 
-(Para citar documentos legais que formalizam a criação da unidade, consulte: 
- 
-https://bkpsitecpsnew.blob.core.windows.net/uploadsitecps/sites/18/2021/07/Criacao-
+da Fatec – 2024/INTEGRAL 
+Atos Regulatórios (informação PDI/PGA/RCPA/RAA) 
+🢒 Decreto de criação: nº 60037, de 07/01/2014 
+🢒 (Para citar documentos legais que formalizam a criação da unidade, consulte: 
+🢒 https://bkpsitecpsnew.blob.core.windows.net/uploadsitecps/sites/18/2021/07/Criacao-
 de-unidades-do-CPS.xls) 
  
 Atos legais referentes aos cursos 
  
-CST em Análise em Desenvolvimento de Sistemas 
+CST em Gestão Empresarial 
 Data 
 Tipo 
  Portaria CEE/GP 
 Parecer CD (p/ reestruturação) 
-Ano no formato 
-2010 / Sem. 
+2013 / Sem.  
 Implantação 
-Deliberação CEE 99/2010Portaria CEE/GP 
-nº 271, de 03-07-201 2.Parecer CEE nº 
-228/201 2 
-Ano no formato 
-2015 / Sem. 
- Renovação do 
-reconhecimento 
-Portaria CEE/GP 205, de 22-5- 2015 
-Parecer CEE 237/2015-renovação por 5 
-anos 
-Ano no formato 
-2016 / Sem. 
-Renovação do 
-reconhecimento 
-PORTARIA CEEGP-38, de 17-2-2016. 
-Renovação automática resultado ENADE 
- 
- 
-CST em Big Data para Negócios 
-Data 
-Tipo 
- Portaria CEE/GP 
-Parecer CD (p/ reestruturação) 
-Ano no formato 
-2021 / 1º Sem. 
-Implantação 
-CD –883/2021 PROCESSO CEETEPS n° 
-952/2015 
- 
-CST em Eventos 
-Data 
-Tipo 
- Portaria CEE/GP 
-Parecer CD (p/ reestruturação) 
-Ano no formato 
-2013 / 1º Sem. 
-Implantação 
-Deliberação CEE nº 99/2010. Portaria 
-CEEGP-14 de 14-1-2014Parecer CEE  
-nº 454/2013 
-Ano no formato 
-2016 / 1º Sem. 
+Número 8 de 18/12/2013 
+2020 / 1º Sem. 
 Reconhecimento  
-Reconhecimento: Parecer CEE-GP 454/2013, 
-Portaria CEE-GP-14 de 14 de janeiro de 2014. 
-Renovações: Portaria CEE-GP-353, de 4-11-
-2016 e Portaria CEE/GP 475/2021, Parecer 
-CEE 322/2021 
+Número 53 de 30/01/2020 
+Ano no formato 
+XXXX / Sem. 
  
-CST em Gestão Comercial 
+Número 
+ 
+ 
+CST em Gestão da Produção Industrial 
 Data 
 Tipo 
  Portaria CEE/GP 
 Parecer CD (p/ reestruturação) 
-Ano no formato 
-2011 / 1º Sem. 
+2013/2º Sem.  
 Implantação 
-Portarias CEE/GP 364, 365, 368/2010 e 
-91, 139, 146/2011. 
-Despacho da Presidente Nº 06/2015 - CD,  
-em 14-5-2015CD –219/2015 PROCESSO  
-CEETEPS n° 952/2015 
-                      3
+Número 52 de 18/12/2013 
+2019 / 2º Sem. 
+Reconhecimento  
+Número 475/19 de 09/01/2020  
+Ano no formato 
+XXXX / Sem. 
+ 
+Número 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     
+                  3
  
 __________________________________________________________________________ 
 Administração Central 
 Unidade do Ensino Superior de Graduação 
  
  
-Relatório de Autoavaliação Institucional 
-da Fatec – 2024/INTEGRAL
-Ano no formato 
-2014 / 2º Sem. 
-Reconhecimento  
-Portaria CEEGP-404, de 28-8-2017 
  
-CST em Gestão de Recursos Humanos 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2024/INTEGRAL 
+ 
+CST em Ciência de Dados 
 Data 
 Tipo 
  Portaria CEE/GP 
 Parecer CD (p/ reestruturação) 
-Ano no formato 
-2010/ 1º Sem. 
+2013 /2º Sem.  
 Implantação 
-Deliberação CEE nº 99/2010 
-Portaria CEE/GP 394, de 20-10-2014 
-Parecer CEE 299/2014 
+Número 881 de 29/10/2020 
 Ano no formato 
-2017 / 2º Sem. 
-Reconhecimento  
-Portaria CEEGP-218, de 10-5-2017 
-Renovação reconhecimento resultado  
-ENADE 
+XXXX / Sem. 
+ 
+Número 
+ 
+ 
+ 
+ 
+ 
+CST em Desenvolvimento de Software Multiplataforma 
+Data 
+Tipo 
+ Portaria CEE/GP 
+Parecer CD (p/ reestruturação) 
+2013 / Sem.  
+Implantação 
+Número 73/2021 de 14/10/2021 
+2024/ 2º Sem 
+ Reconhecimento 
+Número 281/2024 de 30/10/2024 
+Ano no formato 
+XXXX / Sem. 
+ 
+Número 
+ 
+ 
+ 
+ 
+ 
+CST em Comércio Exterior 
+Data 
+Tipo 
+ Portaria CEE/GP 
+Parecer CD (p/ reestruturação) 
+2023 /2º Sem.  
+Implantação 
+Número 309/2023 de 10/10/2023 
+Ano no formato 
+XXXX / Sem. 
+ 
+Número 
+ 
+ 
+ 
+ 
+ 
+CST em Design de Produto com Ênfase em Processos de Produção e 
+Industrialização 
+     
+                  4
+ 
+__________________________________________________________________________ 
+Administração Central 
+Unidade do Ensino Superior de Graduação 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2024/INTEGRAL 
+Data 
+Tipo 
+ Portaria CEE/GP 
+Parecer CD (p/ reestruturação) 
+2013 /2º Sem.  
+Implantação 
+Número 309/2023 de 10/10/2023 
+Ano no formato 
+XXXX / Sem. 
+ 
+Número 
+ 
+ 
  
  
  
 III. Composição da Comissão Própria de Avaliação (CPA)  
-A Comissão Própria de Avaliação da FATEC Ipiranga – Pastor Enéas Tognini foi 
-instituída pela Portaria nº 127/2024, de 01 de agosto de 2024, com mandato até 
-31/03/2025, conforme ata da Congregação (Anexo – ATAs de Aprovação dos 
-membros da CPA, registro de alterações e reuniões da CPA). 
+A Comissão Própria de Avaliação da FATEC de Cotia foi instituída pela Portaria nº 
+1305/2016, de 31 de maio de 2016, com mandato até 31/03/2024, conforme ata da 
+Congregação (Anexo – ATAs de Aprovação dos membros da CPA, registro de 
+alterações e reuniões da CPA). 
  
  
  
-                      4
+     
+                  5
  
 __________________________________________________________________________ 
 Administração Central 
 Unidade do Ensino Superior de Graduação 
  
  
+ 
 Relatório de Autoavaliação Institucional 
-da Fatec – 2024/INTEGRAL
+da Fatec – 2024/INTEGRAL 
 1. INTRODUÇÃO  
  
  
-A Fatec Ipiranga – Pastor Enéas Tognini possui a avaliação institucional como 
-efetivo instrumento de gestão. Por meio da avaliação tem-se condições de reunir 
-apontamentos capazes de suscitar análises e discussões possibilitando definir planos 
-de melhorias de forma continuada. 
+A Fatec de Cotia possui a avaliação institucional como efetivo instrumento de 
+gestão. Por meio da avaliação tem-se condições de reunir apontamentos capazes de 
+suscitar análises e discussões possibilitando definir planos de melhorias de forma 
+continuada. 
 A Lei 10.861/2014, que define o Sistema Nacional de Avaliação da Educação 
 Superior (SINAES), estabelece, em seu Artigo 3º, que a avaliação institucional tem 
 por objetivo identificar o perfil da IES e o significado de sua atuação, por meio de suas 
 atividades, cursos, programas, projetos e setores, considerando as diferentes 
 dimensões institucionais, consolidadas em cinco eixos, sempre objetivando evidenciar 
 os referenciais mínimos de qualidade exigidos pela excelência de ensino que é um 
-dos pilares da pratica de todas as faculdades de tecnologias do Estado de São Paulo 
+dos pilares da prática de todas as faculdades de tecnologias do Estado de São Paulo 
 vinculadas ao Centro Paula Souza. 
 Por meio do desenvolvimento do presente relatório, serão apresentados os 
 dados e as informações referentes aos eixos, dimensões e indicadores em 
@@ -440,40 +494,54 @@ Alunos Matriculados (alunos CURSANDO e TRANCADOS)
 Curso 
 Número de 
 Alunos 
-Curso Superior de Tecnologia em Desenvolvimento e Análise de Sistemas 
-483 
-Curso Superior de Tecnologia em Big Data para Negócios 
-194 
-Curso Superior de Tecnologia em Eventos 
-204 
-Curso Superior de Tecnologia em Gestão Comercial 
-502 
-Curso Superior de Tecnologia em Gestão de Recursos Humanos 
-226 
-Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas 
-– Articulado Médio Superior 
-40 
+Gestão Empresarial  
  
-                      5
+Gestão da Produção Industrial  
+ 
+Ciência de Dados  
+ 
+Desenvolvimento de Software Multiplataforma  
+ 
+CST em Comércio Exterior  
+ 
+     
+                  6
  
 __________________________________________________________________________ 
 Administração Central 
 Unidade do Ensino Superior de Graduação 
  
  
+ 
 Relatório de Autoavaliação Institucional 
-da Fatec – 2024/INTEGRAL
+da Fatec – 2024/INTEGRAL 
+CST em Design de Produto com Ênfase em Processos de Produção e 
+Industrialização 
  
  
  
- 
-Detalhamento do corpo docente da Unidade de Ensino (informação PDI/PGA/RCPA/RAA) 
+ 
+ 
+🢒 Detalhamento do corpo docente da Unidade de Ensino (informação PDI/PGA/RCPA/RAA) 
  
 Nome 
-Matrícula 
+Matrícul
+a 
 Cód. UE sede 
-Titulação 
-Referência 
+Tit
+ul
+aç
+ão 
+R
+e
+f
+e
+r
+ê
+n
+c
+i
+a 
 Experiência Profissional 
 Curriculum Lattes (URL) 
 Docência 
@@ -481,1388 +549,369 @@ Docência
 Não docência 
 (anos) 
 1 
-Aletéia Vanessa 
-Moreira Souto 
-20249 
-168 
-M 
-II 
-25 
-5 
-http://lattes.cnpq.br/5
-663911038423571 
+ 
+ 
+Escolha 
+G 
+I 
+ 
+ 
+ 
 2 
-Alessandro Manoel 
-Moreira 
-82074 
-132 
-E 
-I  
  
  
-http://lattes.cnpq.br/3
-853291017588413 
+Escolha 
+G 
+I 
+ 
+ 
+ 
 3 
-Alexandre 
-Fernando de 
-Almeida 
-79189 
-129 
-M 
-I  
  
  
-http://lattes.cnpq.br/3
-879061791171617 
+Escolha 
+G 
+I 
+ 
+ 
+ 
 4 
-Aline Correia de 
-Sousa Colantuono 
-38244 
-204 
-D 
-III  
-15 
-0 
-http://lattes.cnpq.br/0
-350856986437505 
+ 
+ 
+Escolha 
+G 
+I 
+ 
+ 
+ 
 5 
-Ana Cláudia Melo 
-Tiessi Gomes de 
-Oliveira 
-17748 
-204 
-D 
-III  
-18 
-19 
-http://lattes.cnpq.br/7
-414999378568541 
+ 
+ 
+Escolha 
+G 
+I 
+ 
+ 
+ 
 6 
-Ana Paula 
-Gonçalves Serra 
-49473 
-204 
-D 
-III  
-24 
+ 
+ 
+Escolha 
+G 
+I 
+ 
+ 
+ 
+7 
+ 
+ 
+Escolha 
+G 
+I 
+ 
+ 
+ 
+8 
+ 
+ 
+Escolha 
+G 
+I 
+ 
+ 
+ 
 9 
-http://lattes.cnpq.br/9
-640606649282934 
-7 
-Ana Travassos 
-Ichihara 
-33946 
-143 
-D 
-III  
-28 
-36 
-http://lattes.cnpq.br/2
-527290747244126 
-8 
-Anderson Antônio 
-de Lima 
-71707 
-286 
-D 
-I  
-4 
-12 
-http://lattes.cnpq.br/5
-585829243769748 
-9 
-Anderson 
-Mendonça de 
-Abreu 
-75539 
-204 
-E 
-I  
-30 
-12 
-http://lattes.cnpq.br/5
-616379871661659 
+ 
+ 
+Escolha 
+G 
+I 
+ 
+ 
+ 
 10 
-Andrea Braga de 
-Cazerta 
-58526 
-216 
-M 
-II  
-32 
-15 
-http://lattes.cnpq.br/6
-283396863185354 
+ 
+ 
+Escolha 
+G 
+I 
+ 
+ 
+ 
 11 
-Andreia Cristina 
-Grisolio Machion 
-38241 
-204 
-D 
-III  
-34 
-4 
-http://lattes.cnpq.br/3
-953376687450624 
+ 
+ 
+Escolha 
+G 
+I 
+ 
+ 
+ 
 12 
-Antonio Fernando 
-Nunes Guardado 
-32398 
-204 
-M 
-III  
-27 
-9 
-http://lattes.cnpq.br/7
-931801938932223 
+ 
+ 
+Escolha 
+G 
+I 
+ 
+ 
+ 
 13 
-Antonio Lobosco 
-62243 
-204 
-D 
-II  
-30 
-16 
-http://lattes.cnpq.br/4
-877780587436783 
-14 
-Antonio Venancio   
-56195 
-204 
-M 
-II  
-20 
-32 
-http://lattes.cnpq.br/6
-970722997789240 
-15 
-Aparecida Massako 
-Tomioka 
-80800 
-204 
-M 
-I  
  
  
-http://lattes.cnpq.br/7
-227208915446218 
-16 
-Ataulfo João dos 
-Santos 
-42347 
-002 
-E 
-I  
-19 
-8 
-http://lattes.cnpq.br/2
-681334071399453 
-17 
-Bárbara Gambaré 
-dos Santos 
-56205 
-204 
-M 
-II  
-16 
-10 
-http://lattes.cnpq.br/3
-380583918745767 
-18 
-Carlos Alberto Pina 
-Aragão 
-37676 
-204 
-M 
-II  
-25 
-40 
-http://lattes.cnpq.br/4
-654893114194887 
-19 
-Carlos Alberto Pina 
-Aragão 
-49477 
-204 
-M 
-III  
-25 
-45 
-http://lattes.cnpq.br/4
-654893114194887 
-                      6
+Escolha 
+G 
+I 
  
-__________________________________________________________________________ 
-Administração Central 
-Unidade do Ensino Superior de Graduação 
  
  
-Relatório de Autoavaliação Institucional 
-da Fatec – 2024/INTEGRAL
- 
-Nome 
-Matrícula 
-Cód. UE sede 
-Titulação 
-Referência 
-Experiência Profissional 
-Curriculum Lattes (URL) 
-Docência 
-(anos) 
-Não docência 
-(anos) 
-20 
-Carlos Alexandre 
-Pompeu 
-47359 
-204 
-M 
-II  
-35 
-6 
-http://lattes.cnpq.br/9
-305223007441057 
-21 
-Carlos Cesar 
-Cavalcante Dias 
-73811 
-270 
-M 
-I  
- 
- 
-http://lattes.cnpq.br/5
-639845703839851 
-22 
-Carlos Eduardo 
-Dantas de Menezes 
-38246 
-204 
-M 
-III  
-226 
-5 
-http://lattes.cnpq.br/5
-631533602081331 
-23 
-Carlos Henrique 
-Verissimo Pereira  
-70517 
-168 
-M 
-I  
-16 
- 
-http://lattes.cnpq.br/6
-335442749763160 
-24 
-Celi Langhi 
-50904 
-204 
-D 
-III   
-40 
-40 
-http://lattes.cnpq.br/7
-102231185159382 
-25 
-Cesar Torres 
-Fernandes 
-23987 
-126 
-M 
-II  
-15 
-35 
-http://lattes.cnpq.br/3
-669914601148390 
-26 
-Claudia de Lello 
-Courtouké 
-81501 
-292 
-D 
-I  
- 
- 
- 
-http://lattes.cnpq.br/3
-815598542869865 
-27 
-Claudia de Oliveira 
-27539 
-113 
-M 
-II  
-30 
- 
- 
-28 
-Claudio Roberto 
-Candido 
-50905 
-204 
-M 
-II  
-25 
-30 
-http://lattes.cnpq.br/8
-652780086188603 
-29 
-Cleber Silvestre 
-Leoncio 
-56203 
-204 
-M 
-II  
-15 
-25 
-http://lattes.cnpq.br/6
-359219758958630 
-30 
-Cristiane De Rossi 
-Zovin 
-77752 
-204 
-D 
-I  
-21 
-10 
-http://lattes.cnpq.br/4
-457965476736551 
-31 
-Danillo da Silva 
-Rocha 
-75930 
-111 
-M 
-I  
-7 
-15 
-http://lattes.cnpq.br/5
-921356721414190 
-32 
-Denise Maria 
-Martins 
-38249 
-204 
-D 
-III  
- 
- 
-http://lattes.cnpq.br/7
-456557750218055 
-33 
-Douglas Alexandre 
-Dias 
-56191 
-204 
-M 
-II  
-13 
-23 
-http://lattes.cnpq.br/5
-784991950431658 
-34 
-Edson Saraiva de 
-Almeida 
-49965 
-111 
-M 
-II  
-31 
-35 
-http://lattes.cnpq.br/1
-960517503466306 
-35 
-Eiko Enoki 
-49469 
-204 
-M 
-II  
-22 
-30 
-http://lattes.cnpq.br/1
-827514906321276 
-36 
-Elisabete Helena 
-Villas Boas 
-47354 
-204 
-M 
-II  
-24 
-53 
-http://lattes.cnpq.br/7
-068613810556099 
-37 
-Elizabete Geralda 
-Mendes 
-73085 
-127 
-E 
-I  
-8 
-20 
-http://lattes.cnpq.br/5
-531668610475580 
-38 
-Erasmo Assumpção 
-Filho 
-14678 
-126 
-M 
-III  
-36 
-56 
-http://lattes.cnpq.br/6
-307872593357944 
-39 
-Erick Enrique Melo 
-Santos                      
-71488 
-126 
-E 
-I  
-16 
-0 
-http://lattes.cnpq.br/2
-528673043241768 
-40 
-Fabiana Serralha 
-Miranda  
-18106 
-204 
-M 
-II  
-20 
-2 
-http://lattes.cnpq.br/7
-285134084547163 
-41 
-Fatima Penha 
-Leone 
-83416 
-204 
-D 
-I  
- 
- 
-http://lattes.cnpq.br/5
-429426210262216 
-42 
-Felipe Desiglo 
-Ferrare 
-81076 
-126 
-M 
-I  
- 
- 
-http://lattes.cnpq.br/6
-035797505367483 
-                      7
- 
-__________________________________________________________________________ 
-Administração Central 
-Unidade do Ensino Superior de Graduação 
- 
- 
-Relatório de Autoavaliação Institucional 
-da Fatec – 2024/INTEGRAL
- 
-Nome 
-Matrícula 
-Cód. UE sede 
-Titulação 
-Referência 
-Experiência Profissional 
-Curriculum Lattes (URL) 
-Docência 
-(anos) 
-Não docência 
-(anos) 
-43 
-Fernando Cachucho 
-da Silva 
-50902 
-204 
-D 
-III  
-27 
-0 
-http://lattes.cnpq.br/1
-403084633112798 
-44 
-Fernando Toniolli 
-73505 
-204 
-M 
-I  
-13 
-35 
-http://lattes.cnpq.br/0
-994576322450552 
-45 
-Flavia Frate  
-60530 
-155 
-D 
-II  
-20 
-15 
-http://lattes.cnpq.br/0
-963945749314677 
-46 
-Flavio Farah 
-49475 
-204 
-M 
-II  
-22 
-35 
-http://lattes.cnpq.br/8
-369059720323100 
-47 
-Floriano Ferreira 
-dos Reis Filho 
-78854 
-204 
-M 
-I  
- 
- 
-http://lattes.cnpq.br/8
-476928068426608 
-48 
-Geraldo Ramos da 
-Silva 
-75895 
-132 
-M 
-I  
- 
- 
-http://lattes.cnpq.br/1
-023747096828726 
-49 
-Getúlio Kazue 
-Akabane 
-20455 
-002 
-D 
-III  
-36 
-31 
-http://lattes.cnpq.br/9
-87150261435597 
-50 
-Giseli Angela 
-Tartaro Ho 
-50897 
-204 
-M 
-II  
-18 
-26 
-http://lattes.cnpq.br/4
-535913521337960 
-51 
-Hedney Carlos 
-Gomes 
-77801 
-257 
-M 
-I  
-11 
-20 
-http://lattes.cnpq.br/3
-023718699864170 
-52 
-Helio Rubens 
-Oliveira das Neves 
-50896 
-204 
-M 
-II  
-14 
-24 
-http://lattes.cnpq.br/6
-585280210944082 
-53 
-Ilka Maria de 
-Oliveira Santi 
-50906 
-257 
-M 
-II  
-4 
-14 
-http://lattes.cnpq.br/1
-428125896139449 
-54 
-Izaías Porfírio Faria 
-70472 
-126 
-M 
-I  
-23 
-33 
-http://lattes.cnpq.br/2
-053896173982467 
-55 
-Jander Temístocles 
-de Oliveira 
-79431 
-155 
-M 
-I  
- 
- 
-http://lattes.cnpq.br/0
-113035429915935 
-56 
-João Almeida 
-Santos 
-70175 
-250 
-D 
-I  
-38 
-22 
-http://lattes.cnpq.br/7
-665709611354075 
-57 
-Jobel Santos Corrêa 
-83034 
-113 
-M 
-I  
-10 
-30 
-http://lattes.cnpq.br/1
-968719412274542 
-58 
-José Augusto 
-Martins Garcia 
-79254 
-204 
-M 
-I  
-12 
-6 
-http://lattes.cnpq.br/2
-13337104663759 
-59 
-José Carlos Barbosa 
-Lopes 
-56428 
-002 
-M 
-II  
-23 
-0 
-http://lattes.cnpq.br/7
-278312916024956 
-60 
-José Fernando Lino 
-Santiago 
-76433 
-204 
-E 
-I  
-12 
-15 
-http://lattes.cnpq.br/7
-702814038846925 
-61 
-Juliana Pellegrinelli 
-Barbosa Costa 
-43635 
-209 
-M 
-III  
-15 
-0 
-http://lattes.cnpq.br/8
-722016695459352 
-62 
-Leandro Ramos da 
-Silva 
-24379 
-168 
-M 
-I  
- 
- 
-http://lattes.cnpq.br/6
-028101657727352 
-63 
-Lélia Zambrano 
-27811 
-204 
-D 
-III  
-25 
-30 
-http://lattes.cnpq.br/0
-396022701467450 
-64 
-Luciano Camilo 
-Malvesti 
-80753 
-204 
-E 
-I  
- 
- 
-http://lattes.cnpq.br/1
-908043027122782 
-65 
-Luciene Novais 
-Mazza 
-81505 
-111 
-D 
-I  
- 
- 
-http://lattes.cnpq.br/9
-252119426910269 
-                      8
- 
-__________________________________________________________________________ 
-Administração Central 
-Unidade do Ensino Superior de Graduação 
- 
- 
-Relatório de Autoavaliação Institucional 
-da Fatec – 2024/INTEGRAL
- 
-Nome 
-Matrícula 
-Cód. UE sede 
-Titulação 
-Referência 
-Experiência Profissional 
-Curriculum Lattes (URL) 
-Docência 
-(anos) 
-Não docência 
-(anos) 
-66 
-Lucio Tadeu 
-Costabile 
-78762 
-204 
-D 
-I  
-22 
-12 
-http://lattes.cnpq.br/1
-182451850603819 
-67 
-Luiz Alberto 
-Nogueira Machado 
-80958 
-270 
-E 
-I  
- 
- 
-http://lattes.cnpq.br/5
-465396679954088 
-68 
-Manoel Francisco 
-Guaranha 
-38248 
-204 
-D 
-III  
-34 
-42 
-http://lattes.cnpq.br/4
-903031520154061 
-69 
-Marcelo Massahiti 
-Yamauti 
-60497 
-272 
-D 
-III  
-21 
-12 
-http://lattes.cnpq.br/0
-849906302088139 
-70 
-Marcia Capelini 
-70629 
-111 
-D 
-I  
-5 
-11 
-http://lattes.cnpq.br/9
-905146661335460 
-71 
-Márcio José 
-Padovan de 
-Antônio 
-81484 
-114 
-E 
-I  
- 
- 
- 
-http://lattes.cnpq.br/9
-832300961614853 
-72 
-Marcio Magalhaes 
-Fontoura 
-49474 
-204 
-D 
-III  
-30 
-42 
-http://lattes.cnpq.br/3
-977385445758667 
-73 
-Marcio Roberto 
-Camarotto 
-49470 
-204 
-D 
-III  
-29 
-37 
-http://lattes.cnpq.br/5
-296151516468775 
-74 
-Marcio Rodrigues 
-47361 
-204 
-E 
-I  
-16 
-31 
-http://lattes.cnpq.br/3
-761724913259847 
-75 
-Marco Antonio Dias 
-56193 
-204 
-D 
-III  
-25 
-40 
-http://lattes.cnpq.br/5
-723475780000769 
-76 
-Marco Aurelio 
-Mazzei 
-70090 
-204 
-M 
-I  
-6 
-28 
-http://lattes.cnpq.br/1
-754036293301860 
-77 
-Marcos Julio 
-57397 
-168 
-M 
-II  
-27 
-23 
-http://lattes.cnpq.br/1
-245890743758737 
-78 
-Marcos Pereira da 
-Silva 
-29765 
-002 
-M 
-II  
-27 
-17 
-http://lattes.cnpq.br/6
-349737234076744 
-79 
-Maria Alice dos 
-Santos Ferreira 
-73992 
-250 
-D 
-I  
- 
- 
-http://lattes.cnpq.br/3
-176036144691593 
-80 
-Maria Carolina 
-Muniz e Silva de 
-Brito 
-72235 
-127 
-E 
-I  
-19 
-21 
-http://lattes.cnpq.br/4
-766787739171429 
-81 
-Maria Inês de 
-Oliveira Hernandez 
-33688 
-204 
-D 
-III  
-33 
-5 
-http://lattes.cnpq.br/4
-800300979250155 
-82 
-Mario Pereira 
-Roque Filho 
-49479 
-204 
-D 
-III  
-21 
-17 
-http://lattes.cnpq.br/1
-255272145583617 
-83 
-Monica Eboli de 
-Nigris 
-49969 
-111 
-D 
-III  
-39 
-38 
-http://lattes.cnpq.br/3
-960439685262146 
-84 
-Nicolas Kassalias 
-33942 
-143 
-M 
-II  
-24 
-7 
-http://lattes.cnpq.br/6
-047634654502950 
-85 
-Nilo Sérgio Guidelli 
-56201 
-204 
-M 
-II  
-21 
-40 
-http://lattes.cnpq.br/2
-452443744845347 
-86 
-Norma Licciardi 
-47358 
-204 
-M 
-II  
-23 
-28 
-http://lattes.cnpq.br/0
-958224562941153 
-87 
-Norton Barros 
-Glaser 
-50365 
-204 
-E 
-II  
-18 
-22 
-http://lattes.cnpq.br/5
-690510194161026 
-                      9
- 
-__________________________________________________________________________ 
-Administração Central 
-Unidade do Ensino Superior de Graduação 
- 
- 
-Relatório de Autoavaliação Institucional 
-da Fatec – 2024/INTEGRAL
- 
-Nome 
-Matrícula 
-Cód. UE sede 
-Titulação 
-Referência 
-Experiência Profissional 
-Curriculum Lattes (URL) 
-Docência 
-(anos) 
-Não docência 
-(anos) 
-88 
-Odenildo de França 
-Almeida 
-57407 
-204 
-M 
-II  
-18 
-13 
-http://lattes.cnpq.br/8
-702408672749291 
-89 
-Patrícia Sales 
-Patrício 
-45144 
-204 
-D 
-III  
-14 
-11 
-http://lattes.cnpq.br/4
-590082866290395 
-90 
-Paulo César 
-Pinheiro 
-75391 
-113 
-M 
-I  
-24 
-20 
-http://lattes.cnpq.br/1
-056706188942175 
-91 
-Regiane Caminni 
-Pereira da Silva 
-61202 
-204 
-D 
-II  
-25 
-30 
-http://lattes.cnpq.br/0
-123565049834202 
-92 
-Renato de Pierri 
-76938 
-184 
-E 
-I  
-6 
-10 
-http://lattes.cnpq.br/0
-021098091524911 
-93 
-Renato Henrique 
-da Luz 
-81558 
-155 
-M 
-I  
- 
- 
- 
-http://lattes.cnpq.br/4
-544694299114325 
-94 
-Renato Ribeiro 
-Soares 
-47366 
-204 
-M 
-II  
-38 
-45 
-http://lattes.cnpq.br/9
-315145107995001 
-95 
-Ricardo Di 
-Bartolomeo 
-57401 
-204 
-D 
-III  
-30 
-16 
-http://lattes.cnpq.br/4
-868107564946813 
-96 
-Rita de Cássia Félix 
-45133 
-204 
-M 
-III  
-27 
-20 
-http://lattes.cnpq.br/5
-879278240836544 
-97 
-Rita de Cássia 
-Rodrigues 
-37671 
-204 
-E 
-I  
-25 
-19 
-http://lattes.cnpq.br/3
-044313013426961 
-98 
-Rita de Cássia 
-Rodrigues  
-38245 
-204 
-E 
-III  
-25 
-19 
-http://lattes.cnpq.br/3
-044313013426961 
-99 
-Roberta Kelly 
-Bondade de Caldas 
-Cavalcanti 
-77005 
-113 
-D 
-I  
-2 
-8 
-http://lattes.cnpq.br/3
-041641221047702 
-100 Roberto Nicolosi 
-21467 
-160 
-M 
-II  
-38 
-5 
-http://lattes.cnpq.br/7
-459277710955529 
-101 Robson Jeremias 
-78772 
-292 
-M 
-I  
-1 
-30 
-http://lattes.cnpq.br/1
-695747060790043 
-102 Rodrigo Bossini 
-Tavares Moreira 
-59776 
-204 
-M 
-II  
-11 
-2 
-http://lattes.cnpq.br/6
-239865403144513 
-103 Rogério Stival 
-Morgado 
-78979 
-283 
-D 
-I  
- 
- 
-http://lattes.cnpq.br/9
-621914698576443 
-104 Rogerio Tergolina 
-83178 
-216 
-M 
-I  
- 
- 
-http://lattes.cnpq.br/8
-851246647906370 
-105 Rômulo Francisco 
-de Souza Maia 
-73778 
-270 
-M 
-I  
-30 
-25 
-http://lattes.cnpq.br/8
-792772462731111 
-106 Rony Aliberti 
-Hergert 
-50898 
-204 
-E 
-I  
-31 
-33 
-http://lattes.cnpq.br/2
-139367918404579 
-107 
-Rosângela 
-Aparecida de 
-Queiros Manduca 
-57409 
-217 
-M 
-II  
-18 
-8 
-http://lattes.cnpq.br/0
-811390298348235 
-108 Samuel Henrique 
-da Rocha 
-79177 
-204 
-E 
-I  
-7 
-10 
-http://lattes.cnpq.br/5
-913148522558064 
-109 Sandra Regina 
-Peres 
-80742 
-204 
-M 
-I  
-15 
-24 
-http://lattes.cnpq.br/1
-652818691107557 
-                      10
- 
-__________________________________________________________________________ 
-Administração Central 
-Unidade do Ensino Superior de Graduação 
- 
- 
-Relatório de Autoavaliação Institucional 
-da Fatec – 2024/INTEGRAL
- 
-Nome 
-Matrícula 
-Cód. UE sede 
-Titulação 
-Referência 
-Experiência Profissional 
-Curriculum Lattes (URL) 
-Docência 
-(anos) 
-Não docência 
-(anos) 
-110 
-Sérgio Luiz Banin 
-20600 
-002 
-M 
-II  
- 
- 
- 
-http://lattes.cnpq.br/2
-462495053340379 
-111 Sidnei Messias 
-Rodrigues 
-76352 
-204 
-M 
-I  
-11 
-16 
-http://lattes.cnpq.br/1
-414722177761039 
-112 Silvio Antonio da 
-Silva 
-77158 
-204 
-M 
-I  
-18 
-16 
-http://lattes.cnpq.br/7
-723652608082419 
-113 Simone Telles  
-49467 
-204 
-D 
-III  
-29 
-5 
-http://lattes.cnpq.br/2
-448546998447132 
-114 Talles Wile 
-Pessegueiro 
-78746 
-204 
-E 
-I  
-12 
-5 
-http://lattes.cnpq.br/4
-142044070706533 
-115 Tarcísio de Souza 
-Peres 
-57543 
-143 
-M 
-II  
-20 
-20 
-http://lattes.cnpq.br/2
-917566711486731 
-116 Thiago Duarte de 
-Oliveira 
-76974 
-113 
-E 
-I  
- 
- 
-http://lattes.cnpq.br/9
-972482779171562 
-117 Ulisses Ribeiro da 
-Silva Neto 
-38250 
-204 
-M 
-II  
-40 
-15 
-http://lattes.cnpq.br/3
-440587707825426 
-118 Viviane de Oliveira 
-Souza Gerardi 
-81486 
-257 
-M 
-I  
- 
- 
-http://lattes.cnpq.br/3
-938456484474502 
-119 Wagner Varalda 
-82362 
-168 
-D 
-I  
- 
- 
-http://lattes.cnpq.br/4
-691742972293434 
  
 * 
 Titulação: D (Doutor), M (Mestre), E (Especialista), G (Graduado) 
+Caso necessite incluir um número maior de Docentes, clique na tecla ENTER após a última linha. Se 
+não for necessário, apague esta orientação. 
+🢒 Detalhamento do corpo docente da Unidade de Ensino (Censup - maio 2024) 
+NOME_DOCENTE 
+ESCOLARIDADE 
+ADAUTO PROCOPIO DA SILVA 
+Especialização 
+ADERALDO DOS SANTOS JUNIOR 
+Mestrado 
+ALBERTO MESSIAS RODRIGUES BASTOS 
+Mestrado 
+ALESSANDRA FAGUNDES SILVA 
+Especialização 
+ALESSANDRO FERREIRA PAZ LIMA 
+Especialização 
+     
+                  7
+ 
+__________________________________________________________________________ 
+Administração Central 
+Unidade do Ensino Superior de Graduação 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2024/INTEGRAL 
+ALEX SILVEIRA DE CAMPOS 
+Especialização 
+ALEXANDRE CALABRO SIMON 
+Especialização 
+ALEXANDRE CARDEAL DE OLIVEIRA ARNEIRO 
+Mestrado 
+ALEXANDRE FILLIETAZ 
+Mestrado 
+ALEXANDRE ICHIRO HASHIMOTO 
+Doutorado 
+ANDRE BENITO FENTANES ALVAREZ MARQUES 
+Mestrado 
+ANDRE LUIS EGREGGIO 
+Mestrado 
+ANTONIO CESAR SILVA SACCO 
+Doutorado 
+APARECIDA DIAS DE OLIVEIRA FORMIGONI 
+Doutorado 
+ARTHUR KUROWSKI FILHO 
+Especialização 
+AURELIO COSTA RODRIGUES 
+Mestrado 
+BENEDITO CESAR FERRAZ 
+Especialização 
+BRAZ IZAIAS DA SILVA JUNIOR 
+Doutorado 
+BRUNO FIGUEIREDO DOS SANTOS 
+Especialização 
+BRUNO HENRIQUE DE OLIVEIRA 
+Mestrado 
+CARLOS CESAR CAVALCANTE DIAS 
+Mestrado 
+CARLOS EDUARDO MELLONI 
+Especialização 
+CLAUDIA BIANCHI PROGETTI 
+Doutorado 
+CLEVERSON FABER DE ASSIS 
+Especialização 
+DANIEL NISHIWAKI 
+Especialização 
+DAVI DE ALBUQUERQUE GOMES 
+Especialização 
+DAVID ALVES DE SOUZA JUNIOR 
+Especialização 
+DEBORAH GOMES DE PAULA 
+Doutorado 
+DIONISIO GAVA JUNIOR 
+Mestrado 
+DONIZETTI LEONIDAS DE PAIVA 
+Doutorado 
+EDILLIZE LOURENCO GRABALLOS 
+Especialização 
+EDISON TROMBETA DE OLIVEIRA 
+Doutorado 
+EDMAN ALTHEMAN 
+Doutorado 
+EDNA APARECIDA RIBEIRO 
+Mestrado 
+EDUARDO MULLER NUNES 
+Especialização 
+     
+                  8
+ 
+__________________________________________________________________________ 
+Administração Central 
+Unidade do Ensino Superior de Graduação 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2024/INTEGRAL 
+EDUARDO TADEU DE ALMEIDA 
+Especialização 
+ELIFAS FERNANDES GORGONHO FARIAS 
+Especialização 
+ERNESTO CARLOS TAVARES DE ALMEIDA 
+Mestrado 
+ERNESTO TURMAN 
+Especialização 
+FABIANA VALERIA DA SILVA TAVARES 
+Doutorado 
+FABIO PEREIRA DUARTI 
+Especialização 
+FELIPE CARNEIRO DA SILVA 
+Doutorado 
+FLAVIO AUGUSTO BARRELLA 
+Doutorado 
+FLAVIO SOUSA SILVA 
+Mestrado 
+FRANCISCO EUGENIO BARRELLA 
+Doutorado 
+GERALDO RAMOS DA SILVA 
+Mestrado 
+GILBERTO DE OLIVEIRA ANTONIO 
+Especialização 
+GILBERTO DE PAIVA 
+Mestrado 
+HAMILTON FERNANDES DE MORAES JUNIOR 
+Mestrado 
+IVAN DE PADUA FERREIRA 
+Mestrado 
+IVAN LUIZ LARANJEIRAS SILVA 
+Mestrado 
+IVANILDO DA SILVA BRITO 
+Especialização 
+IVO EDUARDO ROMAN PONS 
+Doutorado 
+IZA MELAO 
+Doutorado 
+JANE CARDOTE 
+Mestrado 
+JEFERSON CERQUEIRA DIAS 
+Doutorado 
+JEFERSON CIPRIANO DE ARAUJO 
+Mestrado 
+JOAO BATISTA DA SILVA 
+Mestrado 
+JOHNE MARCUS JARSKE 
+Mestrado 
+JONAS REGINALDO PRADO 
+Mestrado 
+JORGE TENORIO FERNANDO 
+Doutorado 
+JOSE FARIAS DOS SANTOS 
+Doutorado 
+LEA ROSSI 
+Mestrado 
+MARCELO CARVALHO 
+Doutorado 
+     
+                  9
+ 
+__________________________________________________________________________ 
+Administração Central 
+Unidade do Ensino Superior de Graduação 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2024/INTEGRAL 
+MARIA ELIANA GOMES CARDIM DE QUEIROZ GUIMARAES Mestrado 
+MARIA FERNANDA DE OLIVEIRA 
+Mestrado 
+MARIANE TEIXEIRA COSTA 
+Especialização 
+MARILUCE RODRIGUES 
+Especialização 
+MARIO DA SILVA DE JESUS 
+Mestrado 
+MARIO NOBUYUKI NAKASHIMA 
+Mestrado 
+MAURO LUIZ COSTA CAMPELLO 
+Mestrado 
+MICHEL MARCELO DE FRANCA 
+Doutorado 
+MOISES DONIZETI DA SILVA CESAR 
+Especialização 
+NARJARA FERREIRA MITSUOKA 
+Mestrado 
+NATHAN DE VASCONCELOS RIBEIRO 
+Mestrado 
+NILZA APARECIDA DOS SANTOS 
+Doutorado 
+ONOFRE ALVES PORTELLA JUNIOR 
+Mestrado 
+PAULA GECISLANY VIEIRA DA SILVA GOMES 
+Doutorado 
+PAULO ROGERIO DA SILVA 
+Mestrado 
+PRISCILA SANTOS OLIVEIRA 
+Mestrado 
+RAFAEL DE SA MASCARENHAS 
+Especialização 
+RICARDO RAMOS SILVA 
+Doutorado 
+ROBERTO MAURO DOS SANTOS 
+Especialização 
+ROMULO FRANCISCO DE SOUZA MAIA 
+Mestrado 
+ROVILSON DE FREITAS 
+Mestrado 
+SANDRA REGINA CHAVES NUNES 
+Doutorado 
+SAULO FERRAZ JUNIOR 
+Mestrado 
+SHUN YOSHIDA 
+Especialização 
+SILVIO FERNANDO BARBIERI 
+Mestrado 
+TANIA LETICIA DOS SANTOS 
+Doutorado 
+TARCISIO OLIVEIRA VASCONCELOS 
+Mestrado 
+VALDECI TADEU FERREIRA 
+Especialização 
+VALERIA DA SILVA MORAES 
+Mestrado 
+     
+                  10
+ 
+__________________________________________________________________________ 
+Administração Central 
+Unidade do Ensino Superior de Graduação 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2024/INTEGRAL 
+VALTER YOGUI 
+Mestrado 
+VICKYBERT PESSOA FREIRE 
+Especialização 
+VICTOR ANTONIO TROITINO TROITINO 
+Especialização 
+VINICIUS TENORIO DA SILVA GOIS 
+Especialização 
+ 
+ 
 Organização do relatório: 
  
 i. 
@@ -1881,29 +930,22 @@ iii.
 Desenvolvimento 
 iv. 
 Análise dos dados e ações propostas (PGA) 
-                      11
- 
-__________________________________________________________________________ 
-Administração Central 
-Unidade do Ensino Superior de Graduação 
- 
- 
-Relatório de Autoavaliação Institucional 
-da Fatec – 2024/INTEGRAL
 v. 
 Considerações finais 
 vi. 
 Anexo de ATAs 
  
-                      12
+     
+                  11
  
 __________________________________________________________________________ 
 Administração Central 
 Unidade do Ensino Superior de Graduação 
  
  
+ 
 Relatório de Autoavaliação Institucional 
-da Fatec – 2024/INTEGRAL
+da Fatec – 2024/INTEGRAL 
 2. METODOLOGIA 
 Para contribuir com a organização da Comissão Própria de Avaliação de cada 
 Fatec, o Centro Paula Souza, por meio da Unidade do Ensino Superior de Graduação 
@@ -1969,15 +1011,17 @@ processos de avaliação;
 Aprovar seu próprio regulamento em consonância com as diretrizes emanadas pela 
 CPA Central. 
  
-                      13
+     
+                  12
  
 __________________________________________________________________________ 
 Administração Central 
 Unidade do Ensino Superior de Graduação 
  
  
+ 
 Relatório de Autoavaliação Institucional 
-da Fatec – 2024/INTEGRAL
+da Fatec – 2024/INTEGRAL 
 Os relatórios parciais e/ou integrais da autoavaliação deverão ser elaborados com 
 periodicidade anual, encaminhados para a CPA Central seguindo o cronograma de 
 planejamento apresentado nas orientações gerais e protocolados até 31 de março de cada 
@@ -1988,10 +1032,8 @@ recredenciamento, conforme dispõe a Deliberação do CEE 160/2018.
 2.1. 
 Cronograma das atividades da CPA 
  
-A partir desta estrutura a CPA da Fatec Ipiranga – Pastor Enéas Tognini para 
-cumprir o que lhe compete, durante o ano de 2024 elaborou o seguinte cronograma 
-de trabalho: 
-  
+A partir desta estrutura a CPA da Fatec de Cotia para cumprir o que lhe 
+compete, durante o ano de 2024 elaborou o seguinte cronograma de trabalho:  
  
  
 Atividades / Ações 
@@ -2008,18 +1050,18 @@ out
 nov 
 dez 
 Reuniões com a equipe gestora da UE para 
-sistematização das ações e composições de grupos 
-de trabalho. 
+sistematização das ações e composições de 
+grupos de trabalho. 
   
-X 
-X 
-X 
-X 
-X 
  
-X 
-X 
-X 
+x 
+x 
+ 
+x 
+ 
+x 
+x 
+ 
   
   
 Encontros da equipe CPA para organizar e 
@@ -2033,9 +1075,9 @@ compõem a comissão.
  
  
  
-X 
-X 
-X 
+ 
+x 
+ 
  
   
 Sensibilização para participação nos 
@@ -2048,11 +1090,11 @@ cultura avaliativa da Fatec.
  
  
  
+x 
  
+x 
+x 
  
-X 
-X 
-X 
  
   
 Organização dos procedimentos de coleta de 
@@ -2067,13 +1109,13 @@ coleta.
  
  
  
-X 
-X 
-X 
+x 
+x 
+ 
   
   
-Análise dos resultados – acolhimento dos dados da 
-coleta e início dos procedimentos de análise.  
+Análise dos resultados – acolhimento dos dados 
+da coleta e início dos procedimentos de análise.  
  
  
  
@@ -2082,9 +1124,9 @@ coleta e início dos procedimentos de análise.
  
  
  
- 
- 
-X 
+x 
+x 
+x 
  
 Encaminhamento dos dados coletados para a 
 equipe gestora da UE, que recebe os dados faz a 
@@ -2101,10 +1143,11 @@ encaminha para a CPA
  
  
  
-X 
+x 
  
 Elaboração do relatório da CPA.  
  
+x 
  
  
  
@@ -2112,9 +1155,8 @@ Elaboração do relatório da CPA.
  
  
  
- 
- 
- X 
+x 
+x  
   
 Envio do Relatório para a emissão do parecer da 
 Cesu/DGE e apreciação da CPA Central 
@@ -2128,7 +1170,7 @@ Cesu/DGE e apreciação da CPA Central
   
   
   
-X  
+x  
   
 Divulgação dos resultados à comunidade 
 acadêmica. 
@@ -2136,6 +1178,7 @@ acadêmica.
  
  
  
+x  
   
   
   
@@ -2143,10 +1186,10 @@ acadêmica.
   
   
   
- X 
 Conclusão do Relatório. 
  
  
+x 
  
  
  
@@ -2156,172 +1199,159 @@ Conclusão do Relatório.
  
  
  
-X 
-                      14
+     
+                  13
  
 __________________________________________________________________________ 
 Administração Central 
 Unidade do Ensino Superior de Graduação 
  
  
+ 
 Relatório de Autoavaliação Institucional 
-da Fatec – 2024/INTEGRAL
+da Fatec – 2024/INTEGRAL 
 2.2. 
 Ações de sensibilização da comunidade acadêmica 
  
 Para a efetivação do cronograma destaca-se algumas das ações para a 
 realização dos procedimentos de autoavaliação.  
-Os integrantes da CPA contaram com a colaboração dos coordenadores de 
-curso e dos docentes na sensibilização para a participação da comunidade acadêmica 
-no processo de Avaliação Institucional. Sem dúvida a colaboração desses atores foi 
-de suma importância.  A sensibilização CPA foi feita em duas etapas; 
-1ª etapa:  
-a) Criação de materiais digitais, para conscientizar  a importância da avaliação 
-como instrumentos de definição dos rumos da instituição bem como em 
-relação aos prazos que foram divulgados. Esses materiais foram nas telas 
-dos computadores dos laboratórios, nas redes sociais e no site da Fatec. 
-b) Impressão de cartazes com as informações sobre o WebSai, esses cartazes 
-foram fixamos em todas as salas e laboratórios da Fatec Ipiranga. 
-c) Elaboração e divulgação de um vídeo institucional explicativo, feito pela 
-presidente da comissão da CPA, em que foram explanados os principais 
-eixos que o questionário Websai abordaria.  
-             2ª etapa: 
-a) As representantes docente e administrativa da CPA visitaram todas as 
-turmas de todos os cursos da Fatec, a fim de reforçar a importância da 
-participação nos alunos no WebSai 2024.  
-b) Os coordenadores de cursos selecionaram 1 docente por semestre para 
-apresentar o vídeo da CPA e explicar a importância da Avaliação 
-Institucional. Além disso, os coordenadores extraiam relatórios dos não 
-respondentes e enviavam e-mail para os alunos reforçando a importância 
-da participação no processo de avaliação.  
-                      15
+ 
+ Live sobre CPA Avaliação 
+Institucional em 12/09/24 no ambiente Teams 
+ 
+     
+                  14
  
 __________________________________________________________________________ 
 Administração Central 
 Unidade do Ensino Superior de Graduação 
  
  
-Relatório de Autoavaliação Institucional 
-da Fatec – 2024/INTEGRAL
-c) Os coordenadores e a CPA  também contaram com a participação dos 
-representantes discentes, que auxiliaram na divulgação do link para o 
-formulário do WebSai.  
-Na sequência são apresentados alguns dos materiais elaborados internamente: 
-(
  
-                      16
+Relatório de Autoavaliação Institucional 
+da Fatec – 2024/INTEGRAL 
+ 
+ 
+ Flyer - divulgação WebSai 2024 
+     
+                  15
  
 __________________________________________________________________________ 
 Administração Central 
 Unidade do Ensino Superior de Graduação 
  
  
-Relatório de Autoavaliação Institucional 
-da Fatec – 2024/INTEGRAL
  
-                      17
+Relatório de Autoavaliação Institucional 
+da Fatec – 2024/INTEGRAL 
+ 
+ Link para acompanhamento 
+das respostas WebSai 2024 
+ Informativo online 20/09/2024 
+ 
+Acompanhamento WebSai 
+     
+                  16
  
 __________________________________________________________________________ 
 Administração Central 
 Unidade do Ensino Superior de Graduação 
  
  
-Relatório de Autoavaliação Institucional 
-da Fatec – 2024/INTEGRAL
- 
-                      18
- 
-__________________________________________________________________________ 
-Administração Central 
-Unidade do Ensino Superior de Graduação 
- 
  
 Relatório de Autoavaliação Institucional 
-da Fatec – 2024/INTEGRAL
- 
- 
-                      19
- 
-__________________________________________________________________________ 
-Administração Central 
-Unidade do Ensino Superior de Graduação 
- 
- 
-Relatório de Autoavaliação Institucional 
-da Fatec – 2024/INTEGRAL
- 
- 
-Vídeo institucional:  
- 
-WEBSAI 2024 (youtube.com)  
-https://www.youtube.com/watch?v=YW7nGUyEAoM  
+da Fatec – 2024/INTEGRAL 
  
 2.3. 
 Identificação dos sujeitos da avaliação 
  
-Nesta avaliação participaram os funcionários administrativos, o corpo docente e o 
-corpo discente. Tivemos o seguinte quadro de respondentes: 
-Tipologia 
-Quantidade 
-Respondidos 
-percentual 
-Agente Técnico e Administrativo 
-Fatec 
-8 
-8 
-100% 
-Analista de Suporte de Gestão 
-Fatec 
-1 
-1 
-100% 
-Assessor Administrativo Fatec 
-1 
-1 
-100% 
-Assessor Técnico Administrativo 
-Fatec 
-1 
-1 
-100% 
-Auxiliar de Docente Fatec 
-2 
-2 
-100% 
-Coordenador de Curso FATEC 
-6 
-6 
-100% 
-Diretor de Serviço Fatec 
-2 
-2 
-100% 
-                      20
+A pesquisa WebSai 2024 foi respondida por alunos, professores e funcionários da 
+Fatec Cotia. Para um total esperado de 1149 respostas, tivemos a participação de 793 
+membros da comunidade acadêmica - 69% do total. 
+ 
+ 
+As respostas por perfil de alunos, professores e funcionários teve a distribuição 
+abaixo, mostrando fortíssima participação de funcionários e professores,100% 
+e 97%, respectivamente e uma grande participação dos alunos. 
+     
+                  17
  
 __________________________________________________________________________ 
 Administração Central 
 Unidade do Ensino Superior de Graduação 
  
  
+ 
 Relatório de Autoavaliação Institucional 
-da Fatec – 2024/INTEGRAL
-Diretor de Unidade Fatec 
-1 
-1 
-100% 
-Docente Fatec 
-106 
-105 
-99,06% 
-Discente Fatec 
-1370 
-978 
-71,39% 
+da Fatec – 2024/INTEGRAL 
+ 
+Com relação às respostas por eixo e curso, temos as seguintes distribuições abaixo
+que mostram que as participações estão entre 64% e 78% do total esperado. 
+ 
+O perfil de alunos dos cursos por participação no WebSai e gênero 
+     
+                  18
+ 
+__________________________________________________________________________ 
+Administração Central 
+Unidade do Ensino Superior de Graduação 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2024/INTEGRAL 
+Ciência de Dados
+ 
+Comércio Exterior
+ 
+Desenvolvimento de Software Multiplataforma 
+     
+                  19
+ 
+__________________________________________________________________________ 
+Administração Central 
+Unidade do Ensino Superior de Graduação 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2024/INTEGRAL 
+ 
+ 
+Design de Produto com Ênfase em Processos de Produção e Industrialização 
+ 
+ 
+Gestão da Produção Industrial 
+     
+                  20
+ 
+__________________________________________________________________________ 
+Administração Central 
+Unidade do Ensino Superior de Graduação 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2024/INTEGRAL 
+ 
+ 
+Gestão Empresarial 
  
  
 2.4. 
 Organização dos instrumentos de coleta  
  
+     
+                  21
+ 
+__________________________________________________________________________ 
+Administração Central 
+Unidade do Ensino Superior de Graduação 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2024/INTEGRAL 
 Desde 1997 o Centro Paula Souza, evidenciando o seu pioneirismo em buscar 
 indicadores para gerar melhoria de seus serviços criou o Sistema de Avaliação 
 Institucional (SAI), implantado em 1999 em todas as Etecs (Escolas de Ensino Técnico 
@@ -2330,54 +1360,62 @@ estatísticos. Sendo os instrumentos elaborados e preenchidos em formulários
 impressos de 1999 a 2012.  
 A partir de 2010, os questionários deixaram de ser preenchidos em formulário 
 de papel e passaram a ser totalmente on-line, trazendo mais agilidade ao processo 
-de avaliação. Desde então, todos os participantes realizam a pesquisa pela internet e 
-o SAI passou a ser chamado de WebSAI.  
+de avaliação. Desde então, a pesquisa é realizada pela internet com todos os 
+participantes e o SAI passou a ser chamado de WebSAI.  
 Para que as Fatecs tivessem apenas um instrumento que pudesse contemplar 
 as 10 dimensões dentro dos 5 eixos avaliativos, a partir da criação da comissão da 
 CPA Central a AAI em parceria com a CESU, por meio de uma equipe qualificada, 
 reorganizou a elaboração dos Instrumentos adequando-os em torno dos 5 eixos 
 avaliativos:  
-A coleta de dados foi feita por meio de um questionário com questões de múltiplas 
-escolhas, sendo 42 questões para os Docentes, 27 para os Servidores da Fatec e 39 
-para os Discentes. Nos questionários foram contemplados os 5 eixos e as 10 as 
-dimensões da avaliação.  
+A estrutura de coleta de dados foi disponibilizada pelo CPS, o número de 
+questões atribuídas a cada segmento foram: 
+⦁ 
+Nº de questões docentes: 42 questões 
+⦁ 
+Nº de questões discentes: 39 questões 
+⦁ 
+Nº de questões téc. administrativos: 27 questões  
  
+2.5. 
+Procedimentos para a coleta 
  
-                      21
+     
+                  22
  
 __________________________________________________________________________ 
 Administração Central 
 Unidade do Ensino Superior de Graduação 
  
  
-Relatório de Autoavaliação Institucional 
-da Fatec – 2024/INTEGRAL
-2.5. 
-Procedimentos para a coleta 
  
-A AAI disponibilizou o acesso ao sistema de coleta (WebSAI) a partir de 05 de 
-setembro de 2024 ficou disponível para o preenchimento da comunidade do dia 21 de 
-setembro de 2024. Para favorecer a participação da comunidade durante este período 
-a CPA e Direção da Fatec Ipiranga – Pastor Enéas Tognini, fez o acompanhamento 
-da participação de cada segmento, realizando ações para sensibilização contínua 
-para a participação da comunidade acadêmica, a saber: 
-i. Divulgação de banners por meio das redes sociais; 
-ii. Atuação das representantes docente e do corpo administrativo da CPA 
-interagindo diretamente com alunos e coordenadores; 
-iii. Sensibilização para a pesquisa por todos os docentes, coordenadores de 
-curso e diretorias (geral, acadêmica e de serviços). 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2024/INTEGRAL 
+A AAI disponibilizou o acesso ao sistema de coleta (WebSAI). A partir de 12 de 
+setembro de 2024 ficou disponível para o preenchimento da comunidade. Para 
+favorecer a participação da comunidade durante este período a CPA e Direção da 
+Fatec Cotia, fizeram o acompanhamento da participação de cada segmento, 
+realizando ações para sensibilização contínua para a participação da comunidade 
+acadêmica, a saber: 
+i. 
+Monitoramento pelo presidente CPA e diretora da unidade; 
+ii. 
+Lembretes aos discentes via WhatsApp pelos coordenadores; 
+iii. 
+Comunicados aos discentes via e-mail da Secretaria Acadêmica; 
+iv. 
+Preenchimento do questionário supervisionado pelos docentes em sala de aula.  
+ 
  
 2.6. 
 Análise e discussão dos dados da coleta  
  
 Os dados coletados por meio do WebSai foram disponibilizados a partir do dia 
-03 de setembro de 2024.  
-          Após a discussão e análise dos dados a equipe gestora da Fatec Ipiranga – 
-Pastor Enéas Tognini preencheu o Quadro síntese com as fragilidades e 
-potencialidades de cada um dos cinco eixos avaliativos e as ações de melhoria, 
-subsidiando a elaboração do Plano de Gestão Anual (PGA) para o ano de 2025. O 
-quadro síntese foi encaminhado para a CPA que o inseriu no relatório de 
-Autoavaliação Institucional.  
+01 de outubro de 2024.  
+          Após a discussão e análise dos dados a equipe gestora da Fatec Cotia 
+preencheu o Quadro síntese com as fragilidades e potencialidades de cada um dos 
+cinco eixos avaliativos e as ações de melhoria, subsidiando a elaboração do Plano de 
+Gestão Anual (PGA) para o ano de 2025. O quadro síntese foi encaminhado para a 
+CPA que o inseriu no relatório de Autoavaliação Institucional.  
  
  
  
@@ -2386,17 +1424,20 @@ Elaboração do Quadro Comparativo para análise dos resultados das
 avaliações parciais de 2022 e 2023 e análise global 
  
  
-                      22
+A CPA elaborou e disponibilizou o Quadro Comparativo com os resultados das 
+avaliações parciais, conforme Quadro do item 4, para que houvesse a análise global 
+Comentado [FP1]: Não localizei. 
+     
+                  23
  
 __________________________________________________________________________ 
 Administração Central 
 Unidade do Ensino Superior de Graduação 
  
  
+ 
 Relatório de Autoavaliação Institucional 
-da Fatec – 2024/INTEGRAL
-A CPA elaborou e disponibilizou o Quadro Comparativo com os resultados das 
-avaliações parciais, conforme Quadro do item 4, para que houvesse a análise global 
+da Fatec – 2024/INTEGRAL 
 das contribuições dos procedimentos de autoavaliação e o impacto, a partir dos 5 
 eixos, no planejamento e desenvolvimento Institucional.  
  
@@ -2416,29 +1457,34 @@ avaliativo.
 Devolutiva dos resultados para a comunidade acadêmica   
  
  
-Após a apresentação do relatório para a Direção da Fatec. Na Fatec Ipiranga – 
-Pastor Enéas Tognini, foram organizadas as formas de divulgação dos resultados e 
-apresentação das ações provenientes do processo de autoavaliação, permitindo o 
-desenvolvimento institucional.  
-O relatório elaborado por esta comissão será apresentado à comunidade 
-acadêmica em reuniões, para que os resultados sejam discutidos, destacando os 
-pontos fortes e fracos da unidade. Assim como, as medidas corretivas propostas, que 
-foram acatadas pela direção da unidade, que participou ativamente do processo. 
-Essas reuniões ocorrerão no começo de fevereiro de 2025, momento em que serão 
-retomadas as atividades acadêmicas. 
-                      23
+Após a apresentação do relatório para a Direção da Fatec de Cotia, foram 
+organizadas as formas de divulgação dos resultados e apresentação das ações 
+provenientes do processo de autoavaliação, permitindo o desenvolvimento 
+institucional.  
+Apresentar como os resultados da autoavaliação foram apresentados para a comunidade, destacando 
+as ações de melhoria que foram propostas. Se possível, colocar evidências da divulgação (convites 
+para reuniões, fotos dos encontros, fotos no mural com divulgação de dados, print de telas que 
+evidenciam divulgações etc.).  
+ 
+ 
+ 
+ 
+ 
+3. DESENVOLVIMENTO 
+ 
+Considerando os instrumentos da autoavaliação, estruturados a partir das 10 dimensões previstas 
+no art. 3º da Lei nº 10.861 (SINAES), nesta parte do relatório, a CPA deverá apresentar as 
+     
+                  24
  
 __________________________________________________________________________ 
 Administração Central 
 Unidade do Ensino Superior de Graduação 
  
  
-Relatório de Autoavaliação Institucional 
-da Fatec – 2024/INTEGRAL
-3. DESENVOLVIMENTO 
  
-Considerando os instrumentos da autoavaliação, estruturados a partir das 10 dimensões previstas 
-no art. 3º da Lei nº 10.861 (SINAES), nesta parte do relatório, a CPA deverá apresentar as 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2024/INTEGRAL 
 informações que foram coletadas, a partir da organização de 5 eixos, que articulam as 10 dimensões, 
 conforme disposto na Nota Técnica INEP nº 065, como segue: 
 3.1. 
@@ -2446,54 +1492,89 @@ Eixo 1: Planejamento e Avaliação Institucional
  
 Dimensão 8: Planejamento e Avaliação 
  
+No desenvolvimento, apresentar os gráficos das questões relativas a cada eixo 
+avaliado em 2024 
  
 EIXO 
 1 - Planejamento e Avaliação Institucional 
-Dimensão 
-SINAES 
+Dimensão SINAES 
 8 
 APRESENTAÇÃO DAS PRINCIPAIS INFORMAÇÕES COLETADAS NO EIXO 
+    DOCENTES 
  
  
- 
-                      24
+     
+                  25
  
 __________________________________________________________________________ 
 Administração Central 
 Unidade do Ensino Superior de Graduação 
  
  
+ 
 Relatório de Autoavaliação Institucional 
-da Fatec – 2024/INTEGRAL
-No Eixo 1 – Planejamento e Avaliação Institucional, a comunidade acadêmica da Fatec 
-Ipiranga avaliou positivamente as ações referentes as dimensões relacionadas a esse 
-eixo, uma vez que 40,97% afirmaram ser Muito bom e Bom, 25,10% Regular e 16,59% 
-acreditam ser Muito insatisfatório e Insatisfatório, sendo que 17,34% não souberam 
-opinar. 
+da Fatec – 2024/INTEGRAL 
  
-A CPA executou algumas ações durante o ano de 2024 a fim de manter uma 
-comunicação ativa com a comunidade acadêmica, tais como atualização no site e 
-criação de material digital para informar sobre o que é a CPA, PGA, PDI, CEPE, 
-apresentando resultados do WebSai de 2023 e a aplicação desses resultados no 
-planejamento estratégico da Fatec Ipiranga. 
-No entanto, 33,93% avaliaram de forma negativa as ações voltadas para a melhoria da 
-comunicação junto à comunidade acadêmica da Fatec Ipiranga, deverão continuar em 
-2025. 
  
+ 
+ 
+ 
+ 
+     
+                  26
+ 
+__________________________________________________________________________ 
+Administração Central 
+Unidade do Ensino Superior de Graduação 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2024/INTEGRAL 
+ 
+ 
+ 
+ 
+     
+                  27
+ 
+__________________________________________________________________________ 
+Administração Central 
+Unidade do Ensino Superior de Graduação 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2024/INTEGRAL 
+ 
+ 
+ 
+ 
+Percebe-se que os docentes e alunos tem um conhecimento bastante distinto sobre a 
+CPA. Sendo que os alunos relatam ter pouco conhecimento, necessitando ações de 
+esclarecimento e conscientização. 
    
  
+  
+ 
+ 
+  
  
  
  
-                      25
+ 
+ 
+     
+                  28
  
 __________________________________________________________________________ 
 Administração Central 
 Unidade do Ensino Superior de Graduação 
  
  
+ 
 Relatório de Autoavaliação Institucional 
-da Fatec – 2024/INTEGRAL
+da Fatec – 2024/INTEGRAL 
 3.2. 
 Eixo 2: Desenvolvimento Institucional 
  
@@ -2503,126 +1584,128 @@ Dimensão 3: Responsabilidade Social da Instituição
  
 EIXO 
 2 – Desenvolvimento Institucional 
-Dimensão 
-SINAES 
+Dimensã
+o SINAES 
 1 e 3 
 APRESENTAÇÃO DAS PRINCIPAIS INFORMAÇÕES COLETADAS NO EIXO 
  
  
+Dimensão 1: Missão e Plano de Desenvolvimento Institucional 
+ 
+Corpo Técnico-Administrativo 
+4 - Qual o seu nível de conhecimento sobre a missão institucional e sobre Plano de Desenvolvimento Institucional (PDI)? 
+5 - Como você avalia o cumprimento do Plano de Desenvolvimento Institucional (PDI) em sua Fatec? 
  
  
-No Eixo 2 – Desenvolvimento Institucional são consideradas duas dimensões, sendo: 1: 
-Missão e PDI e 3 Responsabilidade Social 47,66% da comunidade acadêmica acham 
-Muito bom e Bom as ações realizadas para o desenvolvimento institucional, 24,59% 
-acham Regular e 14% acham Muito insatisfatório e Insatisfatório, sendo que 12,94% 
-não souberam responder.  
-                      26
- 
-__________________________________________________________________________ 
-Administração Central 
-Unidade do Ensino Superior de Graduação 
  
  
-Relatório de Autoavaliação Institucional 
-da Fatec – 2024/INTEGRAL
-Esse eixo é de suma importância para o planejamento estratégico e desde o início de 
-2023 a Fatec Ipiranga tem investido no projeto de Identidade visual por meio o 
-desenvolvimento do Projeto de Design Gráfico da unidade. 
-Quanto a  Dimensão 3, após as ações de comunicação realizadas durante o segundo 
-semestre de 2023 e primeiro de 2024, os projetos: Fatec se importa e Projetos 
-Identidades, se tornaram mais conhecidos pelos alunos, professores e funcionários. 
-Assim como o que significa o  Selo Instituição Socialmente Responsável e como ele é 
-obtido. 
-Na sequência são apresentados os gráficos das dimensões relacionadas a esse Eixo. 
-As análises acerca dessas dimensões embasaram as propostas de ações para mitigar 
-as fragilidades e fortalecer a potencialidades identificadas. 
  
  
-                      27
+ 
+ 
+Corpo Discente 
+     
+                  29
  
 __________________________________________________________________________ 
 Administração Central 
 Unidade do Ensino Superior de Graduação 
  
  
+ 
 Relatório de Autoavaliação Institucional 
-da Fatec – 2024/INTEGRAL
-                      28
+da Fatec – 2024/INTEGRAL 
+4 - Como você avalia o seu nível de conhecimento sobre a missão institucional e sobre o Plano de Desenvolvimento Institucional 
+(PDI)? 
+5 - Como você avalia o cumprimento do Plano de Desenvolvimento Institucional (PDI) na sua Fatec? 
+ 
+ 
+ 
+ 
+Corpo Docente 
+4 - Como você avalia o seu nível de conhecimento sobre a missão institucional e sobre o Plano de Desenvolvimento Institucional 
+(PDI)? 
+5 - Como você avalia o cumprimento do Plano de Desenvolvimento Institucional (PDI) em sua Fatec? 
+ 
+ 
+Dimensão 3: Responsabilidade Social da Instituição 
+ 
+Corpo Técnico-Administrativo 
+6 - Como você avalia a participação da Fatec nas ações e eventos de responsabilidade social (serviços à comunidade, cursos 
+de extensão, palestras abertas, entre outros?  
+     
+                  30
  
 __________________________________________________________________________ 
 Administração Central 
 Unidade do Ensino Superior de Graduação 
  
  
+ 
 Relatório de Autoavaliação Institucional 
-da Fatec – 2024/INTEGRAL
+da Fatec – 2024/INTEGRAL 
  
  
-. 
+Corpo Discente 
+6 - Como você avalia a participação da Fatec nas ações e eventos de responsabilidade social (serviços à comunidade, cursos 
+de extensão, lives, palestras abertas, entre outros? 
  
  
  
-O Plano de Desenvolvimento Institucional (Ano 2022 – Ano 2026) foi um dos principais 
-documentos que nortearam as ações da Fatec Ipiranga Pastor Enéas Tognini: tratou-
-se de um documento que se caracterizou como uma identidade da Instituição, 
-definindo, dentre outros, sua filosofia de trabalho, missão, estratégias, objetivos, 
-estrutura e diretrizes pedagógicas, algo a ser continuado no PDI para os anos de 2022 
-- 2023.  
  
-                      29
+ 
+Corpo Docente 
+6 - Como você avalia a participação da Fatec nas ações e eventos de responsabilidade social (serviços à comunidade, cursos 
+de extensão, lives, palestras abertas, entre outros? 
+ 
+ 
+     
+                  31
  
 __________________________________________________________________________ 
 Administração Central 
 Unidade do Ensino Superior de Graduação 
  
  
+ 
 Relatório de Autoavaliação Institucional 
-da Fatec – 2024/INTEGRAL
-O Projeto Pedagógico Institucional (PPI) é um instrumento de natureza 
-filosófica, política e teórico-metodológica que norteia a prática didático-pedagógica, 
-administrativa e tecno-científica da instituição, propondo diretrizes articuladas entre as 
-diversas dimensões do ensino, pesquisa, extensão e inovação, não esquecendo dos 
-valores éticos, morais e humanos em geral, bem como de sua vocação, missão, visão 
-e objetivos gerais e específicos.  
-A Missão, Visão, Valores, Princípios, Objetivos e Diretrizes Estratégicas (CPS, 
-2016) podem ser consideradas como os principais rumos da Instituição, definindo 
-seus propósitos e objetivos, onde deseja chegar a longo prazo, dando norte para onde 
-seguir, para que a organização obtenha êxito em seus intentos. 
-  
-Missão: Promover a educação profissional pública dentro de referenciais de 
-excelência, visando ao atendimento das demandas sociais e do mundo do trabalho. 
-  
-Localizada em um bairro com o perfil econômico voltado ao setor de serviços e 
-comércio, a Fatec Ipiranga tem formado profissionais com excelência e que tem 
-galgado postos em grandes empresas em toda a cidade.  
-             A Fatec Ipiranga tem se notabilizado por incrementar ações que visam 
-atender à comunidade externa em várias frentes. São exemplos dessas ações: a 
-consultoria para o preenchimento da declaração do Imposto de Renda, a consultoria 
-jurídica no que tange igualdade social e racial, ações educativas sobre o correto 
-descarte de detritos domiciliares, além de eventos voltados para idosos e crianças, 
-que formam parte do Projeto Integrador do Curso de Eventos. É preciso destacar 
-também o oferecimento de Oficina de Libras, por meio digital, que tem tido bastante 
-procura da comunidade. Bem como as oficinas de inclusão social para a Terceira 
-Idade, que estão sendo oferecidas no segundo semestre de 2024. 
+da Fatec – 2024/INTEGRAL 
  
  
  
  
  
+Dimensão 1: Missão e Plano de Desenvolvimento Institucional 
+Dimensão 3: Responsabilidade Social da Instituição 
  
  
  
- 
- 
-                      30
+     
+                  32
  
 __________________________________________________________________________ 
 Administração Central 
 Unidade do Ensino Superior de Graduação 
  
  
+ 
 Relatório de Autoavaliação Institucional 
-da Fatec – 2024/INTEGRAL
+da Fatec – 2024/INTEGRAL 
+ 
+Importante comparar como funcionários administrativos, professores e alunos veem a 
+qualidade de ensino da instituição. 
+ 
+ 
+Percebe-se que os alunos relatam ter pouco conhecimento sobre o PDI, e alunos e 
+funcionários pouco conhecimento a respeito da responsabilidade social da instituição, 
+demandando ações de esclarecimento e conscientização. 
+ 
+ 
+O Plano de Desenvolvimento Institucional (Ano 2021 – Ano 2025) foi um dos principais 
+documentos que nortearam as ações da Fatec Cotia: tratou-se de um documento que 
+se caracterizou como uma identidade da Instituição, definindo, dentre outros, sua 
+filosofia de trabalho, missão, estratégias, objetivos, estrutura e diretrizes pedagógicas, 
+algo a ser continuado no PDI para os anos de 2024 - 2025.  
  
  
  
@@ -2631,18 +1714,19 @@ da Fatec – 2024/INTEGRAL
  
  
  
- 
- 
- 
-                      31
+     
+                  33
  
 __________________________________________________________________________ 
 Administração Central 
 Unidade do Ensino Superior de Graduação 
  
  
+ 
 Relatório de Autoavaliação Institucional 
-da Fatec – 2024/INTEGRAL
+da Fatec – 2024/INTEGRAL 
+ 
+ 
 3.3. 
 Eixo 3: Políticas Acadêmicas 
  
@@ -2652,71 +1736,593 @@ Dimensão 9: Política de Atendimento aos Discentes
  
 EIXO 
 3 – Políticas Acadêmicas 
-Dimensão 
-SINAES 
+Dimensão SINAES 
 2, 4 e 9 
 APRESENTAÇÃO DAS PRINCIPAIS INFORMAÇÕES COLETADAS NO EIXO 
+Dimensão 2: Políticas para o Ensino, a Pesquisa e a Extensão 
+Corpo Técnico-Administrativo 
+7 - Como você avalia a qualidade do serviço de ensino prestado pela Fatec aos alunos? 
+8 - Como você avalia a Fatec quanto ao que é oferecido para a comunidade externa (cursos ou projetos de extensão)? 
  
  
  
-No Eixo 3 são consideradas 3 dimensões: Dimensão 2, 4 e 9, sendo todas voltadas para as 
-atividades de ensino, pesquisa, extensão e atendimento ao docente.  
-Nesse eixo a percepção da comunidade acadêmica da Fatec Ipiranga foi: 58,33% Muito Bom 
-e Bom, 22,75% Regular, 10,56% Muito Insatisfatório e Insatisfatório e 7,07% não souberam 
-responder.  
-                      32
- 
-__________________________________________________________________________ 
-Administração Central 
-Unidade do Ensino Superior de Graduação 
- 
- 
-Relatório de Autoavaliação Institucional 
-da Fatec – 2024/INTEGRAL
-As coordenações de cursos por meio das reuniões de planejamento acadêmico desenvolvem 
-o senso de responsabilidade dos docentes no desenvolvimento de competências que o 
-mercado de trabalho exige, dessa forma as estratégias de ensino e aprendizagem são voltadas 
-para a preparação dos alunos para o mercado de trabalho.  
-Outro ponto importante são as ações da CEPE junto aos alunos, por meio das atividades de 
-pesquisa e extensão. 
-Na sequência são apresentados os gráficos das dimensões relacionadas a esse Eixo. As 
-análises acerca dessas dimensões embasaram as propostas de ações para mitigar as 
-fragilidades e fortalecer a potencialidades identificadas. 
  
  
  
-                      33
+     
+                  34
  
 __________________________________________________________________________ 
 Administração Central 
 Unidade do Ensino Superior de Graduação 
  
  
+ 
 Relatório de Autoavaliação Institucional 
-da Fatec – 2024/INTEGRAL
-                      34
+da Fatec – 2024/INTEGRAL 
+ 
+Corpo Discente 
+10 - Como você avalia a divulgação e o cumprimento do plano de ensino dos professores? 
+11 - Como você avalia a aplicação dos conteúdos ministrados no curso em sua atividade profissional? 
+12 - Como você avalia, de forma geral, os professores quanto ao domínio do conteúdo nas disciplinas que ministram? 
+13 - Como você avalia as disciplinas remotas e/ou semipresenciais quanto à metodologia e à didática dos professores? 
+14 - Como você avalia as disciplinas presenciais quanto à metodologia e à didática dos professores? 
+15 - Como você avalia, de forma geral, os instrumentos de avaliação que os professores utilizam? 
+7 - Como você avalia a qualidade do ensino no seu curso? 
+8 - Como você classifica as atividades da Fatec quanto à realização de projetos de Pesquisa? 
+9 - Como você avalia a atuação da Fatec na oferta de cursos de extensão? 
+ 
+Corpo Docente 
+10 - Como você avalia a aderência da(s) sua(s) disciplina(s), conforme o Projeto Pedagógico do Curso, à formação dos 
+alunos? 
+11 - Como você avalia o uso de recursos didáticos para favorecer a aprendizagem dos alunos? 
+12 - Como você avalia o uso de metodologias ativas na(s) sua(s) disciplina(s) com vistas a atingir os objetivos de formação do 
+tecnólogo? 
+13 - Como você avalia a contribuição da(s) sua(s) disciplina(s) em projetos de extensão? (não abrange curricularização da 
+extensão) 
+14 - Como você avalia a contribuição da(s) sua(s) disciplina(s) em projetos de pesquisa? 
+7 - Como você classifica as atividades da Fatec quanto à pesquisa? 
+8 - Como você avalia a atuação da Fatec na oferta de cursos de extensão? 
+9 - Como você avalia as políticas e planos institucionais quanto ao ensino, à pesquisa e à extensão? 
+ 
+     
+                  35
  
 __________________________________________________________________________ 
 Administração Central 
 Unidade do Ensino Superior de Graduação 
  
  
+ 
 Relatório de Autoavaliação Institucional 
-da Fatec – 2024/INTEGRAL
+da Fatec – 2024/INTEGRAL 
  
  
  
  
  
-                      35
+ 
+Dimensão 1: Missão e Plano de Desenvolvimento Institucional 
+ 
+Corpo Técnico-Administrativo 
+4 - Qual o seu nível de conhecimento sobre a missão institucional e sobre Plano de Desenvolvimento Institucional (PDI)? 
+5 - Como você avalia o cumprimento do Plano de Desenvolvimento Institucional (PDI) em sua Fatec? 
+ 
+     
+                  36
  
 __________________________________________________________________________ 
 Administração Central 
 Unidade do Ensino Superior de Graduação 
  
  
+ 
 Relatório de Autoavaliação Institucional 
-da Fatec – 2024/INTEGRAL
+da Fatec – 2024/INTEGRAL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Corpo Discente 
+4 - Como você avalia o seu nível de conhecimento sobre a missão institucional e sobre o Plano de Desenvolvimento Institucional 
+(PDI)? 
+5 - Como você avalia o cumprimento do Plano de Desenvolvimento Institucional (PDI) na sua Fatec? 
+ 
+     
+                  37
+ 
+__________________________________________________________________________ 
+Administração Central 
+Unidade do Ensino Superior de Graduação 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2024/INTEGRAL 
+ 
+ 
+ 
+Corpo Docente 
+4 - Como você avalia o seu nível de conhecimento sobre a missão institucional e sobre o Plano de Desenvolvimento Institucional 
+(PDI)? 
+5 - Como você avalia o cumprimento do Plano de Desenvolvimento Institucional (PDI) em sua Fatec? 
+ 
+ 
+Dimensão 3: Responsabilidade Social da Instituição 
+     
+                  38
+ 
+__________________________________________________________________________ 
+Administração Central 
+Unidade do Ensino Superior de Graduação 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2024/INTEGRAL 
+ 
+Corpo Técnico-Administrativo 
+6 - Como você avalia a participação da Fatec nas ações e eventos de responsabilidade social (serviços à comunidade, cursos 
+de extensão, palestras abertas, entre outros?  
+ 
+ 
+Corpo Discente 
+6 - Como você avalia a participação da Fatec nas ações e eventos de responsabilidade social (serviços à comunidade, cursos 
+de extensão, lives, palestras abertas, entre outros? 
+ 
+     
+                  39
+ 
+__________________________________________________________________________ 
+Administração Central 
+Unidade do Ensino Superior de Graduação 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2024/INTEGRAL 
+ 
+ 
+Corpo Docente 
+6 - Como você avalia a participação da Fatec nas ações e eventos de responsabilidade social (serviços à comunidade, cursos 
+de extensão, lives, palestras abertas, entre outros? 
+ 
+ 
+ 
+ 
+ 
+     
+                  40
+ 
+__________________________________________________________________________ 
+Administração Central 
+Unidade do Ensino Superior de Graduação 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2024/INTEGRAL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dimensão 1: Missão e Plano de Desenvolvimento Institucional 
+Dimensão 3: Responsabilidade Social da Instituição 
+ 
+ 
+ 
+     
+                  41
+ 
+__________________________________________________________________________ 
+Administração Central 
+Unidade do Ensino Superior de Graduação 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2024/INTEGRAL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dimensão 1: Missão e Plano de Desenvolvimento Institucional 
+Corpo Técnico-Administrativo 
+4 - Qual o seu nível de conhecimento sobre a missão institucional e sobre Plano de Desenvolvimento Institucional (PDI)? 
+5 - Como você avalia o cumprimento do Plano de Desenvolvimento Institucional (PDI) em sua Fatec? 
+ 
+ 
+Corpo Discente 
+4 - Como você avalia o seu nível de conhecimento sobre a missão institucional e sobre o Plano de Desenvolvimento Institucional 
+(PDI)? 
+5 - Como você avalia o cumprimento do Plano de Desenvolvimento Institucional (PDI) na sua Fatec? 
+     
+                  42
+ 
+__________________________________________________________________________ 
+Administração Central 
+Unidade do Ensino Superior de Graduação 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2024/INTEGRAL 
+ 
+ 
+ 
+ 
+Corpo Docente 
+4 - Como você avalia o seu nível de conhecimento sobre a missão institucional e sobre o Plano de Desenvolvimento Institucional 
+(PDI)? 
+5 - Como você avalia o cumprimento do Plano de Desenvolvimento Institucional (PDI) em sua Fatec? 
+ 
+ 
+     
+                  43
+ 
+__________________________________________________________________________ 
+Administração Central 
+Unidade do Ensino Superior de Graduação 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2024/INTEGRAL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dimensão 3: Responsabilidade Social da Instituição 
+Corpo Técnico-Administrativo 
+6 - Como você avalia a participação da Fatec nas ações e eventos de responsabilidade social (serviços à comunidade, cursos 
+de extensão, palestras abertas, entre outros?  
+ 
+     
+                  44
+ 
+__________________________________________________________________________ 
+Administração Central 
+Unidade do Ensino Superior de Graduação 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2024/INTEGRAL 
+ 
+ 
+Corpo Discente 
+6 - Como você avalia a participação da Fatec nas ações e eventos de responsabilidade social (serviços à comunidade, cursos 
+de extensão, lives, palestras abertas, entre outros? 
+ 
+ 
+ 
+ 
+ 
+     
+                  45
+ 
+__________________________________________________________________________ 
+Administração Central 
+Unidade do Ensino Superior de Graduação 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2024/INTEGRAL 
+Corpo Docente 
+6 - Como você avalia a participação da Fatec nas ações e eventos de responsabilidade social (serviços à comunidade, cursos 
+de extensão, lives, palestras abertas, entre outros? 
+ 
+ 
+ 
+ 
+Dimensão 1: Missão e Plano de Desenvolvimento Institucional 
+Dimensão 3: Responsabilidade Social da Instituição 
+ 
+     
+                  46
+ 
+__________________________________________________________________________ 
+Administração Central 
+Unidade do Ensino Superior de Graduação 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2024/INTEGRAL 
+ 
+ 
+ 
+ 
+Importante comparar como funcionários administrativos, professores e alunos veem a 
+qualidade de ensino da instituição. 
+ 
+ 
+Dimensão 4: Comunicação com a Sociedade 
+     
+                  47
+ 
+__________________________________________________________________________ 
+Administração Central 
+Unidade do Ensino Superior de Graduação 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2024/INTEGRAL 
+ 
+Corpo Técnico-Administrativo 
+ 
+10 - Como você avalia as comunicações internas da Fatec (e-mails, site, memorandos, mídias sociais, mural)? 
+9 - Como você avalia as comunicações da Fatec com a comunidade externa com relação às atividades desenvolvidas (site, 
+mural, faixas, mídias sociais e comunicação 
+ 
+Corpo Discente 
+ 
+16 - Como você avalia o acesso da comunidade externa às atividades desenvolvidas pela Fatec (site, mural, redes sociais e 
+comunicação em geral)? 
+17 - Como você avalia a comunicação da Fatec com seus alunos (site, Siga, mural, e-mail institucional, redes sociais e 
+comunicação em geral)? 
+ 
+     
+                  48
+ 
+__________________________________________________________________________ 
+Administração Central 
+Unidade do Ensino Superior de Graduação 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2024/INTEGRAL 
+ 
+ 
+Corpo Docente 
+ 
+15 - Como você avalia o acesso da comunidade externa às atividades desenvolvidas pela Fatec (site, mural, redes sociais e 
+comunicação em geral)? 
+16 - Como você avalia a comunicação da Fatec para a comunidade interna: docentes, discentes, técnico-administrativos (seja 
+por site, Siga, mural, e-mail institucional, redes sociais e comunicação em geral? 
+ 
+ 
+Dimensão 9: Política de Atendimento aos Discentes 
+     
+                  49
+ 
+__________________________________________________________________________ 
+Administração Central 
+Unidade do Ensino Superior de Graduação 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2024/INTEGRAL 
+ 
+Corpo Técnico-Administrativo 
+11 - Como você avalia os sistemas de apoio aos alunos: monitoria, orientações e participação em atividades artísticas, 
+esportivas, sociais e culturais? 
+ 
+Corpo Discente 
+18 - Como você avalia o atendimento ao aluno, nas áreas administrativas (Direção, secretaria e biblioteca)? 
+19 - Como você avalia o atendimento da coordenação do seu curso? 
+20 - Como você avalia a regularidade das reuniões do coordenador do curso com representantes de classe? 
+21 - Como você avalia o apoio prestado pela Fatec quanto ao oferecimento de monitorias para auxiliar os alunos com 
+dificuldades? 
+22 - Como você avalia as oportunidades disponibilizadas pela Fatec para participação em atividades artísticas, esportivas, 
+sociais e culturais? 
+     
+                  50
+ 
+__________________________________________________________________________ 
+Administração Central 
+Unidade do Ensino Superior de Graduação 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2024/INTEGRAL 
+ 
+Corpo Docente 
+17 - Qual seu nível de conhecimento sobre o programa de monitoria oferecido pela Fatec aos alunos com dificuldade nas 
+disciplinas? 
+18 - Como você avalia as ações adotadas pela Fatec para auxiliar os alunos quanto às questões relacionadas a Estágios e 
+Trabalhos de Conclusão de Curso? 
+19 - Como você avalia o incentivo da Fatec à participação dos alunos em atividades científicas, artísticas, esportivas, sociais e 
+culturais (Semana de Tecnologia, hackaton 
+ 
+ 
+ 
+Dimensão 2: Políticas para o Ensino, a Pesquisa e a Extensão 
+     
+                  51
+ 
+__________________________________________________________________________ 
+Administração Central 
+Unidade do Ensino Superior de Graduação 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2024/INTEGRAL 
+7 - Como você avalia a qualidade do ensino no seu curso? 
+7 - Como você avalia a qualidade do serviço de ensino prestado pela Fatec aos alunos? 
+7 - Como você classifica as atividades da Fatec quanto à pesquisa? 
+8 - Como você avalia a atuação da Fatec na oferta de cursos de extensão? 
+8 - Como você avalia a Fatec quanto ao que é oferecido para a comunidade externa (cursos ou projetos de extensão)? 
+8 - Como você classifica as atividades da Fatec quanto à realização de projetos de Pesquisa? 
+9 - Como você avalia a atuação da Fatec na oferta de cursos de extensão? 
+9 - Como você avalia as políticas e planos institucionais quanto ao ensino, à pesquisa e à extensão? 
+10 - Como você avalia a aderência da(s) sua(s) disciplina(s), conforme o Projeto Pedagógico do Curso, à formação dos alunos? 
+10 - Como você avalia a divulgação e o cumprimento do plano de ensino dos professores? 
+11 - Como você avalia a aplicação dos conteúdos ministrados no curso em sua atividade profissional? 
+11 - Como você avalia o uso de recursos didáticos para favorecer a aprendizagem dos alunos? 
+12 - Como você avalia o uso de metodologias ativas na(s) sua(s) disciplina(s) com vistas a atingir os objetivos de formação do tecnólogo? 
+12 - Como você avalia, de forma geral, os professores quanto ao domínio do conteúdo nas disciplinas que ministram? 
+13 - Como você avalia a contribuição da(s) sua(s) disciplina(s) em projetos de extensão? (não abrange curricularização da extensão) 
+13 - Como você avalia as disciplinas remotas e/ou semipresenciais quanto à metodologia e à didática dos professores? 
+14 - Como você avalia a contribuição da(s) sua(s) disciplina(s) em projetos de pesquisa? 
+14 - Como você avalia as disciplinas presenciais quanto à metodologia e à didática dos professores? 
+15 - Como você avalia, de forma geral, os instrumentos de avaliação que os professores utilizam? 
+ 
+ 
+ 
+     
+                  52
+ 
+__________________________________________________________________________ 
+Administração Central 
+Unidade do Ensino Superior de Graduação 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2024/INTEGRAL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dimensão 4: Comunicação com a Sociedade 
+ 
+10 - Como você avalia as comunicações internas da Fatec (e-mails, site, memorandos, mídias sociais, mural)? 
+15 - Como você avalia o acesso da comunidade externa às atividades desenvolvidas pela Fatec (site, mural, redes sociais e 
+comunicação em geral)? 
+16 - Como você avalia a comunicação da Fatec para a comunidade interna: docentes, discentes, técnico-administrativos (seja 
+por site, Siga, mural, e-mail institucional, redes sociais e comunicação em geral)? 
+16 - Como você avalia o acesso da comunidade externa às atividades desenvolvidas pela Fatec (site, mural, redes sociais e 
+comunicação em geral)? 
+17 - Como você avalia a comunicação da Fatec com seus alunos (site, Siga, mural, e-mail institucional, redes sociais e 
+comunicação em geral)? 
+9 - Como você avalia as comunicações da Fatec com a comunidade externa com relação às atividades desenvolvidas (site, 
+mural, faixas, mídias sociais e comunicação em geral? 
+ 
+     
+                  53
+ 
+__________________________________________________________________________ 
+Administração Central 
+Unidade do Ensino Superior de Graduação 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2024/INTEGRAL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     
+                  54
+ 
+__________________________________________________________________________ 
+Administração Central 
+Unidade do Ensino Superior de Graduação 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2024/INTEGRAL 
+Dimensão 9: Política de Atendimento aos Discentes 
+ 
+11 - Como você avalia os sistemas de apoio aos alunos: monitoria, orientações e participação em atividades artísticas, 
+esportivas, sociais e culturais? 
+17 - Qual seu nível de conhecimento sobre o programa de monitoria oferecido pela Fatec aos alunos com dificuldade nas 
+disciplinas? 
+18 - Como você avalia as ações adotadas pela Fatec para auxiliar os alunos quanto às questões relacionadas a Estágios e 
+Trabalhos de Conclusão de Curso? 
+18 - Como você avalia o atendimento ao aluno, nas áreas administrativas (Direção, secretaria e biblioteca)? 
+19 - Como você avalia o atendimento da coordenação do seu curso? 
+19 - Como você avalia o incentivo da Fatec à participação dos alunos em atividades científicas, artísticas, esportivas, sociais e 
+culturais (Semana de Tecnologia, hackatons, exames de proficiência de línguas)? 
+20 - Como você avalia a regularidade das reuniões do coordenador do curso com representantes de classe? 
+21 - Como você avalia o apoio prestado pela Fatec quanto ao oferecimento de monitorias para auxiliar os alunos com 
+dificuldades? 
+22 - Como você avalia as oportunidades disponibilizadas pela Fatec para participação em atividades artísticas, esportivas, 
+sociais e culturais? 
+ 
+ 
+ 
+     
+                  55
+ 
+__________________________________________________________________________ 
+Administração Central 
+Unidade do Ensino Superior de Graduação 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2024/INTEGRAL 
+ 
+ 
+Percebe-se que os alunos relatam que a comunicação com a comunidade acadêmica 
+e externa é pouco conhecida e insuficiente referente a dimensão 4, e alunos e 
+docentes relatam que as políticas e oportunidades de pesquisa e extensão são 
+insatisfatórias referente a dimensão 9. Temos assim demandas para ações de 
+melhoria de comunicação institucional e acadêmica e ações de promoção de pesquisa 
+e extensão universitária. 
+ 
+ 
+     
+                  56
+ 
+__________________________________________________________________________ 
+Administração Central 
+Unidade do Ensino Superior de Graduação 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2024/INTEGRAL 
 3.4. 
 Eixo 4: Políticas de Gestão 
  
@@ -2731,56 +2337,272 @@ SINAES
 5, 6 e 10 
 APRESENTAÇÃO DAS PRINCIPAIS INFORMAÇÕES COLETADAS NO EIXO 
  
+Dimensão 5: Políticas de Pessoal 
+Corpo Técnico-Administrativo 
  
-Nesse eixo, são consideradas as dimensões 5, 6 e 10. Em relação as dimensões relacionadas 
-a esse eixo, a comunidade acadêmica da Fatec tive a seguinte percepção: 49,42% acham 
-Muito bom e Bom, 22,13 % acham Regular, 16,46% Muito Insatisfatório e Insatisfatório e 
-11,29% não souberam responder.  
-                      36
- 
-__________________________________________________________________________ 
-Administração Central 
-Unidade do Ensino Superior de Graduação 
+12 - Como você avalia as oportunidades de formação e capacitação oferecidas pelo CPS? 
+13 - Como você avalia a qualidade das capacitações oferecidas pelo CPS? 
+14 - Como você avalia a transparência em relação aos indicadores utilizados para a progressão e promoção? 
+15 - Como você avalia a transparência em relação aos indicadores utilizados para a bonificação por resultados? 
  
  
-Relatório de Autoavaliação Institucional 
-da Fatec – 2024/INTEGRAL
-Na sequência são apresentados os gráficos das dimensões relacionadas a esse Eixo. As 
-análises acerca dessas dimensões embasaram as propostas de ações para mitigar as 
-fragilidades e fortalecer a potencialidades identificadas. 
-                      37
  
-__________________________________________________________________________ 
-Administração Central 
-Unidade do Ensino Superior de Graduação 
+Corpo Discente 
  
+23 - Considerando o atendimento prestado pelos funcionários da sua Fatec, como você avalia o nível de preparo para a 
+execução das suas funções? 
+24 - Como você avalia a quantidade de funcionários para propiciar o atendimento necessário aos alunos da sua Fatec? 
  
-Relatório de Autoavaliação Institucional 
-da Fatec – 2024/INTEGRAL
-                      38
+     
+                  57
  
 __________________________________________________________________________ 
 Administração Central 
 Unidade do Ensino Superior de Graduação 
  
  
+ 
 Relatório de Autoavaliação Institucional 
-da Fatec – 2024/INTEGRAL
+da Fatec – 2024/INTEGRAL 
+ 
+ 
+ 
+Corpo Docente 
+ 
+20 - Como você avalia as oportunidades de formação e capacitação oferecidas pelo CPS? 
+21 - Como você avalia a qualidade das capacitações oferecidas pelo CPS? 
+22 - Como você avalia a transparência em relação aos indicadores utilizados para a progressão e promoção? 
+23 - Como você avalia a transparência em relação aos indicadores utilizados para a bonificação por resultados? 
  
  
  
  
  
  
-                      39
+Dimensão 6: Organização e Gestão da Instituição 
+Corpo Técnico-Administrativo 
+     
+                  58
  
 __________________________________________________________________________ 
 Administração Central 
 Unidade do Ensino Superior de Graduação 
  
  
+ 
 Relatório de Autoavaliação Institucional 
-da Fatec – 2024/INTEGRAL
+da Fatec – 2024/INTEGRAL 
+ 
+16 - Como você avalia as ações administrativas da direção da Fatec? 
+17 - Como você avalia a atuação do(s) representante(s) técnico-administrativo(s) na CPA da Fatec? 
+18 - Como você avalia a atuação do(s) representante(s) técnico-administrativo(s) na Comissão de Implantação/Congregação 
+da Fatec? 
+19 - Como você avalia sua chefia imediata? 
+ 
+ 
+ 
+ 
+Corpo Discente 
+ 
+25 - Como você avalia a atuação da direção da Fatec nas rotinas administrativas e no acompanhamento da vida acadêmica do 
+seu curso? 
+26 - Como você avalia a atuação dos representantes discentes no colegiado do seu curso, na CPA e na 
+Congregação/Comissão de Implantação da Fatec? 
+ 
+ 
+ 
+     
+                  59
+ 
+__________________________________________________________________________ 
+Administração Central 
+Unidade do Ensino Superior de Graduação 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2024/INTEGRAL 
+ 
+Corpo Docente 
+ 
+24 - Como você avalia as ações (acadêmicas e administrativas) da direção da Fatec? 
+25 - Como você avalia a atuação do(s) representante(s) docente(s) na CPA da Fatec? 
+26 - Como você avalia a atuação do(s) representante(s) docente(s) na Comissão de Implantação/Congregação da Fatec? 
+27 - Como você avalia a atuação do(s) representante(s) docente(s) no(s) NDE(s) do(s) curso(s) em que você leciona nesta 
+Fatec? 
+ 
+ 
+ 
+ 
+ 
+Dimensão 10: Sustentabilidade Financeira 
+Corpo Técnico-Administrativo 
+ 
+20 - Qual a sua percepção sobre a realização de investimentos na Fatec ? 
+ 
+     
+                  60
+ 
+__________________________________________________________________________ 
+Administração Central 
+Unidade do Ensino Superior de Graduação 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2024/INTEGRAL 
+ 
+ 
+ 
+Corpo Discente 
+ 
+27 - Qual a sua percepção sobre a realização de investimentos na FATEC? 
+ 
+ 
+ 
+ 
+ 
+Corpo Docente 
+ 
+28 - Qual a sua percepção sobre a realização de investimentos na Fatec? 
+ 
+     
+                  61
+ 
+__________________________________________________________________________ 
+Administração Central 
+Unidade do Ensino Superior de Graduação 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2024/INTEGRAL 
+ 
+ 
+ 
+ 
+Dimensão 5: Políticas de Pessoal 
+ 
+12 - Como você avalia as oportunidades de formação e capacitação oferecidas pelo CPS? 
+13 - Como você avalia a qualidade das capacitações oferecidas pelo CPS? 
+14 - Como você avalia a transparência em relação aos indicadores utilizados para a progressão e promoção? 
+15 - Como você avalia a transparência em relação aos indicadores utilizados para a bonificação por resultados? 
+20 - Como você avalia as oportunidades de formação e capacitação oferecidas pelo CPS? 
+21 - Como você avalia a qualidade das capacitações oferecidas pelo CPS? 
+22 - Como você avalia a transparência em relação aos indicadores utilizados para a progressão e promoção? 
+23 - Como você avalia a transparência em relação aos indicadores utilizados para a bonificação por resultados? 
+23 - Considerando o atendimento prestado pelos funcionários da sua Fatec, como você avalia o nível de preparo para a 
+execução das suas funções? 
+24 - Como você avalia a quantidade de funcionários para propiciar o atendimento necessário aos alunos da sua Fatec? 
+ 
+     
+                  62
+ 
+__________________________________________________________________________ 
+Administração Central 
+Unidade do Ensino Superior de Graduação 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2024/INTEGRAL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dimensão 6: Organização e Gestão da Instituição 
+16 - Como você avalia as ações administrativas da direção da Fatec? 
+17 - Como você avalia a atuação do(s) representante(s) técnico-administrativo(s) na CPA da Fatec? 
+18 - Como você avalia a atuação do(s) representante(s) técnico-administrativo(s) na Comissão de Implantação/Congregação 
+da Fatec? 
+19 - Como você avalia sua chefia imediata? 
+24 - Como você avalia as ações (acadêmicas e administrativas) da direção da Fatec? 
+25 - Como você avalia a atuação da direção da Fatec nas rotinas administrativas e no acompanhamento da vida acadêmica do 
+seu curso? 
+25 - Como você avalia a atuação do(s) representante(s) docente(s) na CPA da Fatec? 
+26 - Como você avalia a atuação do(s) representante(s) docente(s) na Comissão de Implantação/Congregação da Fatec? 
+26 - Como você avalia a atuação dos representantes discentes no colegiado do seu curso, na CPA e na 
+Congregação/Comissão de Implantação da Fatec? 
+27 - Como você avalia a atuação do(s) representante(s) docente(s) no(s) NDE(s) do(s) curso(s) em que você leciona nesta 
+Fatec? 
+ 
+     
+                  63
+ 
+__________________________________________________________________________ 
+Administração Central 
+Unidade do Ensino Superior de Graduação 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2024/INTEGRAL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dimensão 10: Sustentabilidade Financeira 
+ 
+20 - Qual a sua percepção sobre a realização de investimentos na Fatec ? 
+27 - Qual a sua percepção sobre a realização de investimentos na FATEC? 
+28 - Qual a sua percepção sobre a realização de investimentos na Fatec? 
+ 
+     
+                  64
+ 
+__________________________________________________________________________ 
+Administração Central 
+Unidade do Ensino Superior de Graduação 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2024/INTEGRAL 
+ 
+ 
+ 
+Percebe-se que os funcionários relatam a necessidade de ações de capacitação e 
+promoção referente à dimensão 6. Alunos, docentes e funcionários relatam a 
+necessidade de maiores investimentos institucionais. Alunos e docentes também 
+relatam a necessidade de melhoria na representação em órgãos colegiados 
+(congregação, CPA e NDE). 
+ 
+ 
+ 
+ 
+     
+                  65
+ 
+__________________________________________________________________________ 
+Administração Central 
+Unidade do Ensino Superior de Graduação 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2024/INTEGRAL 
 3.5. 
 Eixo 5: Infraestrutura Física 
  
@@ -2792,50 +2614,119 @@ Dimensão
 SINAES 
 7 
 APRESENTAÇÃO DAS PRINCIPAIS INFORMAÇÕES COLETADAS NO EIXO 
+Dimensão 7: Infraestrutura Física 
  
+Corpo Técnico-Administrativo 
  
-O Eixo 5 está relacionado com Infraestrutura Física, sendo que a percepção da comunidade 
-acadêmica foi: apenas 29,27% acham Muito bom e Bom, 26,31% Regular, 9,58% não 
-souberam responder e 32,12% acham Muito Insatisfatório e Insatisfatório. 
-O percentual alto de insatisfeitos se deve aos problemas de infraestrutura do prédio 1, que está 
-passando por uma reforma. O atraso no término da reforma acarreta insatisfação nos alunos. 
-Outro ponto de atenção é a velocidade da Internet, que por vezes é muito lenta.  
-Como são 4 cursos no Eixo de Informação e Comunicação, o uso de Internet é essencial. Além 
-disso, os laboratórios precisam de uma atualização tanto de computadores, como de cadeiras. 
-Que 
-já 
-foram 
-solicitados, 
-porém 
-não 
-houve 
-investimento 
-nessa 
-área.  
-Diante do exposto, é natural que a porcentagem de alunos insatisfeitos seja significante. 
-  
- 
-                      40
- 
-__________________________________________________________________________ 
-Administração Central 
-Unidade do Ensino Superior de Graduação 
- 
- 
-Relatório de Autoavaliação Institucional 
-da Fatec – 2024/INTEGRAL
+21 - Como você avalia os recursos físicos necessários para a sua área de atuação? 
+22 - Como você avalia o espaço físico utilizado na sua área de atuação? 
+23 - Como você avalia a segurança patrimonial das instalações da Fatec? 
+24 - Como você avalia a limpeza das instalações da Fatec? 
+25 - Como você avalia a manutenção e conservação da infraestrutura da Fatec? 
  
  
  
-                      41
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Corpo Discente 
+     
+                  66
  
 __________________________________________________________________________ 
 Administração Central 
 Unidade do Ensino Superior de Graduação 
  
  
+ 
 Relatório de Autoavaliação Institucional 
-da Fatec – 2024/INTEGRAL
+da Fatec – 2024/INTEGRAL 
+ 
+28 - Quanto à ACESSIBILIDADE, como você avalia o atendimento a alunos PCD (Pessoas com Deficiência) na sua Fatec 
+(banheiros adequados, piso tátil, sinalização, rampas, elevadores, salas de aula, laboratórios, biblioteca, entre outros)? 
+29 - Como você avalia a disponibilidade de recursos oferecidos pela Fatec para auxiliar os alunos PCD (Pessoas com 
+Deficiência)? 
+30 - Como você avalia as salas de aula quanto à: segurança, iluminação, ventilação e limpeza? 
+31 - Como você avalia a disponibilidade de equipamentos para suporte aos professores durante as aulas (projetores, TVs, 
+computadores etc.)? 
+32 - Como você avalia os laboratórios de ensino (informática e específicos)? 
+33 - Como você avalia a biblioteca (espaço físico e espaço para estudos individuais)? 
+34 - Como você avalia a biblioteca, quanto ao acervo e sua atualização? 
+35 - Como você avalia as áreas de convivência, espaços para atividades artísticas e culturais (auditório etc.)? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Corpo Docente 
+ 
+29 - Como você avalia os recursos de Tecnologia da Informação (internet e plataformas de apoio docente – Teams)? 
+     
+                  67
+ 
+__________________________________________________________________________ 
+Administração Central 
+Unidade do Ensino Superior de Graduação 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2024/INTEGRAL 
+30 - Como você avalia a acessibilidade de pessoas com deficiência na Fatec (banheiros adequados, sinalização, piso tátil, 
+rampas, elevadores entre outros)? 
+31 - Como você avalia as salas de aula quanto à: segurança, iluminação, ventilação e limpeza? 
+32 - Como você avalia a disponibilidade de equipamentos para suporte aos professores durante as aulas (projetores, TVs, 
+computadores etc.)? 
+33 - Como você avalia os laboratórios de ensino (informática e específicos)? 
+34 - Como você avalia a biblioteca da Fatec (espaço físico e espaço para estudos individuais)? 
+35 - Como você avalia a biblioteca (acervo e atualização)? 
+36 - Como você avalia a sala dos professores? 
+37 - Como você avalia a segurança patrimonial das instalações da Fatec? 
+38 - Como você avalia a limpeza das instalações da Fatec? 
+39 - Como você avalia a manutenção e conservação da infraestrutura da Fatec? 
+ 
+ 
+Percebe-se que os alunos, funcionários e docentes relatam a necessidade de 
+melhorias de infraestrutura da instituição. 
+ 
+     
+                  68
+ 
+__________________________________________________________________________ 
+Administração Central 
+Unidade do Ensino Superior de Graduação 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2024/INTEGRAL 
 4. QUADRO PARA A ANÁLISE COMPARATIVA DOS RELATÓRIOS PARCIAIS 2022/2023 E ANÁLISE 
 GLOBAL 
 EIXO 1: PLANEJAMENTO E AVALIAÇÃO INSTITUCIONAL 
@@ -2848,18 +2739,20 @@ RELATÓRIO
 DE 2022 
  
  
-Código 
-PGA 
+ 
+Códig
+o PGA 
 DAS 
-AÇÕES 
+AÇÕE
+S 
  
 AÇÕES 
 REALIZADAS 
  
  
 AÇÕES 
-PROPOSTAS 
-NO 
+PROPOSTA
+S NO 
 RELATÓRIO 
 DE 2023 
  
@@ -2873,160 +2766,81 @@ REALIZADAS
 ANÁLISE GLOBAL E A CONTRIBUIÇÃO 
 PARA O PLANEJAMENTO E 
 DESENVOLVIMENTO INSTITUCIONAL 
-Intensificar as formas 
-de 
-divulgação, 
-com 
-vídeos 
-curtos 
-e 
-periódicos, 
-além 
-de 
-encontros 
-com 
-os 
-representantes 
-de 
-curso de forma a torná-
-los 
-agentes 
-de 
-divulgação, sobre o PDI 
-e 
-outros 
-temas 
-institucionais  
  
-101 
-( X  ) SIM 
-(   ) NÃO  
-(   ) Parcialmente 
-Projetos 
-de 
-Design 
-Gráfico para a 
-Fatec Ipiranga 
-101 
-( X  ) SIM 
-(   ) NÃO  
-(   ) Parcialmente 
-As principais ações realizadas em 2022 e 2023 
-foi a melhoria nos canais de comunicação da 
-Fatec, desde a  atualização do site, criação de 
-conteúdo digital para as redes sociais, descanso 
-de tela dos computadores e cronograma de 
-divulgação do WebSai. 
-A divulgação dos documentos oficiais, tais como 
-PDI, PGA e relatórios da CPA são divulgados 
-para a comunidade a fim de manter a 
-transparência da gestão. 
-Além 
-disso, foram criados materiais 
-de 
-divulgação da CEPE, CIPA, principais projetos e 
-sobretudo sobre a Missão, Visão e Valor do 
-CPS/FATEC Ipiranga.  
-Manter 
-políticas 
-de 
-divulgação  
  
-101 
-( X  ) SIM 
+(   ) SIM 
 (   ) NÃO  
-(   ) Parcialmente 
-Ações 
-de 
-Sensibilização 
-para 
-a 
-113 
-( X  ) SIM 
+(   ) 
+Parcialmente 
+ 
+ 
+(   ) SIM 
 (   ) NÃO  
-(   ) Parcialmente 
-                      42
+(   ) 
+Parcialmente 
+COLOCADO COMO ANEXO NO 
+FINAL DO RELATÓRIO 
+ 
+ 
+(   ) SIM 
+(   ) NÃO  
+(   ) 
+Parcialmente 
+ 
+ 
+(   ) SIM 
+(   ) NÃO  
+(   ) 
+Parcialmente 
+ 
+ 
+(   ) SIM 
+(   ) NÃO  
+(   ) 
+Parcialmente 
+ 
+ 
+(   ) SIM 
+(   ) NÃO  
+(   ) 
+Parcialmente 
+ 
+ 
+(   ) SIM 
+(   ) NÃO  
+(   ) 
+Parcialmente 
+ 
+ 
+(   ) SIM 
+(   ) NÃO  
+(   ) 
+Parcialmente 
+Comentado [FP2]: Não localizei a informação completa. 
+     
+                  69
  
 __________________________________________________________________________ 
 Administração Central 
 Unidade do Ensino Superior de Graduação 
  
  
+ 
 Relatório de Autoavaliação Institucional 
-da Fatec – 2024/INTEGRAL
-Autoavaliação 
-WebSai 
-As ações relacionadas a cursos de estratégicas 
-didáticas e criação de grupos de estudos foram 
-realizadas parcialmente, pois a biblioteca está 
-em reforma. Dessa forma, essas ações serão 
-retomadas em 2025.                                                                                                                
+da Fatec – 2024/INTEGRAL 
  
  
- 
-Estabelecer 
-junto ao NDE e 
-colegiado 
-de 
-cursos 
-estratégias 
-didáticas 
-que 
-propiciem 
-a 
-participação 
-dos alunos  
- 
- 
-(   ) SIM 
-(   ) NÃO  
-( X ) 
-Parcialmente 
- 
- 
-(   ) SIM 
-(   ) NÃO  
-(   ) Parcialmente 
-Incentivar 
-a 
-criação 
-de 
-grupos 
-de 
-estudos 
-utilizando 
-o 
-espaço 
-da 
-biblioteca além 
-de utilizar as 
-monitorias 
-como 
-oportunidade 
-de revisão de 
-conteúdo.  
- 
-107 
-(   ) SIM 
-(   ) NÃO  
-(X  ) 
-Parcialmente 
- 
- 
-(   ) SIM 
-(   ) NÃO  
-(   ) Parcialmente 
- 
- 
-                      43
+     
+                  70
  
 __________________________________________________________________________ 
 Administração Central 
 Unidade do Ensino Superior de Graduação 
  
  
+ 
 Relatório de Autoavaliação Institucional 
-da Fatec – 2024/INTEGRAL
+da Fatec – 2024/INTEGRAL 
 EIXO 2: DESENVOLVIMENTO INSTITUCIONAL 
  
  
@@ -3037,18 +2851,20 @@ RELATÓRIO
 DE 2022 
  
  
-Código 
-PGA 
+ 
+Códig
+o PGA 
 DAS 
-AÇÕES 
+AÇÕE
+S 
  
 AÇÕES 
 REALIZADAS 
  
  
 AÇÕES 
-PROPOSTAS 
-NO 
+PROPOSTA
+S NO 
 RELATÓRIO 
 DE 2023 
  
@@ -3062,146 +2878,68 @@ REALIZADAS
 ANÁLISE GLOBAL E A CONTRIBUIÇÃO 
 PARA O PLANEJAMENTO E 
 DESENVOLVIMENTO INSTITUCIONAL  
-Manter 
-os 
-níveis 
-de 
-satisfação 
-atual por meio 
-do diálogo e da 
-comunicação.  
  
- 
-(X   ) SIM 
-(   ) NÃO  
-(   ) Parcialmente 
-Projeto 
-de 
-Design 
-Gráfico para a 
-Fatec Ipiranga 
-101 
-( X ) SIM 
-(   ) NÃO  
-(   ) Parcialmente 
- As ações realizadas em 2022 e 2023 
-acarretaram uma melhora significativas nas 
-respostas 
-obtidas 
-no 
-WebSai 
-2024. 
-Principalmente no que tange a comunicação.  
-O Projeto Design da Fatec e a estruturação do 
-site melhorou a divulgação de ações e 
-documentos importantes para a comunidade 
-acadêmica da Fatec Ipiranga. 
- O Credenciamento não foi efetivado, porém em 
-2025 será realizada nova tentativa, pois uma 
-vez que a Fatec Ipiranga estava cadastrada no 
-CATI poderão surgir oportunidades de parceria 
-e projetos de inovação junto a empresas. 
-A capacitação dos funcionários administrativos, 
-foi de suma importância para o entendimento do 
-planejamento estratégico da Fatec bem como 
-as metas e ações que devem ser realizadas 
-para que essas metas sejam alcançadas.     
-Promover junto 
-às 
-coordenações 
-uma 
-divulgação 
-mais 
-efetiva 
-das atividades 
-que 
-possam 
-proporcionar 
-ao 
-aluno 
-a 
-visão 
-sobre 
-esse tipo de 
-ação, tanto na 
  
 (   ) SIM 
 (   ) NÃO  
-( X  ) 
+(   ) 
 Parcialmente 
-Credenciame
-nto no Comitê 
-da 
-área 
-de 
-Tecnologia da 
-Informação 
-(CATI) 
-701 
-(  ) SIM 
-( X  ) NÃO  
-(   ) Parcialmente 
-                      44
+ 
+ 
+(   ) SIM 
+(   ) NÃO  
+(   ) 
+Parcialmente 
+    
+ 
+ 
+(   ) SIM 
+(   ) NÃO  
+(   ) 
+Parcialmente 
+ 
+ 
+(   ) SIM 
+(   ) NÃO  
+(   ) 
+Parcialmente 
+ 
+ 
+(   ) SIM 
+(   ) NÃO  
+(   ) 
+Parcialmente 
+ 
+ 
+(   ) SIM 
+(   ) NÃO  
+(   ) 
+Parcialmente 
+ 
+ 
+(   ) SIM 
+(   ) NÃO  
+(   ) 
+Parcialmente 
+ 
+ 
+(   ) SIM 
+(   ) NÃO  
+(   ) 
+Parcialmente 
+ 
+ 
+     
+                  71
  
 __________________________________________________________________________ 
 Administração Central 
 Unidade do Ensino Superior de Graduação 
  
  
-Relatório de Autoavaliação Institucional 
-da Fatec – 2024/INTEGRAL
-própria 
-instituição 
-como 
-em 
-parcerias com 
-outras 
-instituições  
- 
-Engajar 
-um 
-maior número 
-de docentes, a 
-fim de envolver 
-mais 
-alunos 
-nessas ações  
- 
- 
-(   ) SIM 
-(   ) NÃO  
-( X  ) 
-Parcialmente 
-Capacitação 
-para 
-os 
-colaboradores 
-Administrativos 
-601 
-( X  ) SIM 
-(   ) NÃO  
-(   ) Parcialmente 
- 
- 
-(   ) SIM 
-(   ) NÃO  
-(   ) Parcialmente 
- 
- 
-(   ) SIM 
-(   ) NÃO  
-(   ) Parcialmente 
- 
- 
-                      45
- 
-__________________________________________________________________________ 
-Administração Central 
-Unidade do Ensino Superior de Graduação 
- 
  
 Relatório de Autoavaliação Institucional 
-da Fatec – 2024/INTEGRAL
+da Fatec – 2024/INTEGRAL 
 EIXO 3: POLÍTICAS ACADÊMICAS 
  
  
@@ -3212,18 +2950,20 @@ RELATÓRIO
 DE 2022 
  
  
-Código 
-PGA 
+ 
+Códig
+o PGA 
 DAS 
-AÇÕES 
+AÇÕE
+S 
  
 AÇÕES 
 REALIZADAS 
  
  
 AÇÕES 
-PROPOSTAS 
-NO 
+PROPOSTA
+S NO 
 RELATÓRIO 
 DE 2023 
  
@@ -3237,246 +2977,68 @@ REALIZADAS
 ANÁLISE GLOBAL E A CONTRIBUIÇÃO 
 PARA O PLANEJAMENTO E 
 DESENVOLVIMENTO INSTITUCIONAL  
-Realizar 
-um 
-trabalho 
-conjunto 
-entre 
-coordenações 
-de 
-curso 
-e 
-supervisões de 
-estágio 
-no 
-sentido 
-de 
-informar 
-aos 
-discentes sobre 
-a importância da 
-prática 
-na 
-formação 
-do 
-profissional 
-de 
-tecnologia 
  
  
-( X  ) SIM 
+(   ) SIM 
 (   ) NÃO  
-(   ) Parcialmente 
-PROGRAMAS 
-DE 
-MONITORIA 
-101 e 102 
-( X  ) SIM 
-(   ) NÃO  
-(   ) Parcialmente 
- Nesse eixo, em 2023 foram desenvolvidas 10 
-ações porém no template só é permitida a 
-inserção de 4.  
+(   ) 
+Parcialmente 
  
-109 
-CÂMARA 
-DE 
-ENSINO, 
-PESQUISA 
-E 
-EXTENSÃO (CEPE)  
-301 PROJETO DE INICIAÇÃO CIENTÍFICA (IC)  
-310 
-OFICINAS 
-PREPARATÓRIAS 
-PARA 
-O 
-VESTIBULAR 
-401 
-e 
-402 
-PROJETO 
-COLABORATIVOS INTERNACIONAIS  
-403 ESCOLA DE INOVADORES  
-404 MOSTRAS DE VÍDEOS DO CURSO DE 
-EVENTOS 
  
-Em 2022 também foram realizadas as seguintes 
-ações: Capacitação dos funcionários administrativos;  
-Propiciar aos professores clima institucional que propicie a melhoria contínua de sua atuação dentro 
-da Fatec Ipiranga.  
-  
-Divulgar 
-e 
-estimular 
-a 
+(   ) SIM 
+(   ) NÃO  
+(   ) 
+Parcialmente 
+    
  
-( X  ) SIM 
+ 
+(   ) SIM 
 (   ) NÃO  
-PALESTRAS 
-BIMESTRAIS 
-104 e 105 ( X  ) SIM 
+(   ) 
+Parcialmente 
+ 
+ 
+(   ) SIM 
 (   ) NÃO  
-                      46
+(   ) 
+Parcialmente 
+ 
+ 
+(   ) SIM 
+(   ) NÃO  
+(   ) 
+Parcialmente 
+ 
+ 
+(   ) SIM 
+(   ) NÃO  
+(   ) 
+Parcialmente 
+ 
+ 
+(   ) SIM 
+(   ) NÃO  
+(   ) 
+Parcialmente 
+ 
+ 
+(   ) SIM 
+(   ) NÃO  
+(   ) 
+Parcialmente 
+ 
+ 
+     
+                  72
  
 __________________________________________________________________________ 
 Administração Central 
 Unidade do Ensino Superior de Graduação 
  
  
-Relatório de Autoavaliação Institucional 
-da Fatec – 2024/INTEGRAL
-participação de 
-professores 
-e 
-alunos 
-nos 
-programas 
-de 
-intercâmbio, 
-apresentando 
-relatos 
-dos 
-alunos 
-da 
-unidade que já 
-participaram 
-dessas 
-atividades  
- 
-(   ) Parcialmente SOBRE 
-TEMAS 
-RELEVANTES 
-PARA 
-FORMAÇÃO 
-AMS NA ETEC 
-HELIÓPOLIS 
-(   ) Parcialmente Todas essas ações foram realizadas e tiveram reflexo 
-na percepção da comunidade acadêmica, conforme 
-pode ser observado no gráfico da página 34. 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-   
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Estimular o uso 
-das 
-mídias 
-sociais entre os 
-discentes 
-e 
-promover e torna 
-o 
-site 
-institucional um 
-repositório ativo 
-de informações 
-para 
-a 
-comunidade 
-interna 
-e 
-externa.  
- 
-( X ) SIM 
-(   ) NÃO  
-(   ) Parcialmente 
-MOSTRA 
-DE 
-SOFTWARE 
-DO 
-CURSO 
-ANÁLISE 
-E 
-DESENVOLVI
-MNTO 
-DE 
-SISTEMAS 
-106 
-( X  ) SIM 
-(   ) NÃO  
-(   ) Parcialmente 
- 
- 
-( X  ) SIM 
-(   ) NÃO  
-FEIRA 
-DE 
-NEGÓCIOS DO 
-107 e 108 (  X ) SIM 
-(   ) NÃO  
-                      47
- 
-__________________________________________________________________________ 
-Administração Central 
-Unidade do Ensino Superior de Graduação 
- 
  
 Relatório de Autoavaliação Institucional 
-da Fatec – 2024/INTEGRAL
-Manter 
-e 
-melhorar 
-a 
-qualidade 
-das 
-atividades 
-de 
-ensino, pesquisa 
-e 
-extensão 
-desenvolvidas 
-na unidade.  
- 
-(   ) Parcialmente CURSO 
-GESTÃO 
-COMERCIAL 
- 
- 
-(   ) Parcialmente 
- 
- 
- 
-                      48
- 
-__________________________________________________________________________ 
-Administração Central 
-Unidade do Ensino Superior de Graduação 
- 
- 
-Relatório de Autoavaliação Institucional 
-da Fatec – 2024/INTEGRAL
+da Fatec – 2024/INTEGRAL 
 EIXO 4: POLÍTICAS DE GESTÃO 
  
  
@@ -3487,18 +3049,20 @@ RELATÓRIO
 DE 2022 
  
  
-Código 
-PGA 
+ 
+Códig
+o PGA 
 DAS 
-AÇÕES 
+AÇÕE
+S 
  
 AÇÕES 
 REALIZADAS 
  
  
 AÇÕES 
-PROPOSTAS 
-NO 
+PROPOSTA
+S NO 
 RELATÓRIO 
 DE 2023 
  
@@ -3513,219 +3077,68 @@ ANÁLISE GLOBAL E A CONTRIBUIÇÃO
 PARA O PLANEJAMENTO E 
 DESENVOLVIMENTO INSTITUCIONAL  
  
-Levar 
-às 
-instâncias 
-superiores 
-essa 
-insatisfação ao 
-mesmo tempo 
-em 
-que 
-a 
-unidade 
-promove ações 
-educativas 
-sobre 
-esses 
-temas voltadas 
-para 
-toda 
-a 
-comunidade 
-acadêmica  
  
-( X  ) SIM 
+(   ) SIM 
 (   ) NÃO  
-(   ) Parcialmente 
-AÇÕES 
-DE 
-DIVERSIDADE, 
-EQUIDADE 
-E 
-INCLUSÃO 
-302 
-( X  ) SIM 
+(   ) 
+Parcialmente 
+ 
+ 
+(   ) SIM 
 (   ) NÃO  
-(   ) Parcialmente 
- Em 2022 além das ações apresentados no quadro, 
-também foram realizadas as seguintes ações:   
-403 ESCOLA DE INOVADORES  
-405 SELO INSTITUIÇÃO SOCIAL RESPONSÁVEL  
-406 FATEC IPIRANGA DE PORTAS ABERTAS  
-601 CAPACITAÇÃO PARA OS COLABORADORES 
-ADMINISTRATIVOS   
- 
-Em 2023/2024 também foram realizadas as seguintes 
-ações: 
-403 ESCOLA DE INOVADORES  
-405 SELO INSTITUIÇÃO SOCIAL RESPONSÁVEL  
-406 FATEC IPIRANGA DE PORTAS ABERTAS  
+(   ) 
+Parcialmente 
+    
  
  
-Essas ações corroboraram para o aumento da qualidade 
-do ensino, pesquisa e extensão. Bem  como a inserção 
-da Fatec Ipiranga na comunidade em torno. 
+(   ) SIM 
+(   ) NÃO  
+(   ) 
+Parcialmente 
  
-                      49
+ 
+(   ) SIM 
+(   ) NÃO  
+(   ) 
+Parcialmente 
+ 
+ 
+(   ) SIM 
+(   ) NÃO  
+(   ) 
+Parcialmente 
+ 
+ 
+(   ) SIM 
+(   ) NÃO  
+(   ) 
+Parcialmente 
+ 
+ 
+(   ) SIM 
+(   ) NÃO  
+(   ) 
+Parcialmente 
+ 
+ 
+(   ) SIM 
+(   ) NÃO  
+(   ) 
+Parcialmente 
+ 
+ 
+ 
+     
+                  73
  
 __________________________________________________________________________ 
 Administração Central 
 Unidade do Ensino Superior de Graduação 
  
  
-Relatório de Autoavaliação Institucional 
-da Fatec – 2024/INTEGRAL
- 
-Divulgar 
-a 
-possibilidade 
-de 
-sua 
-participação 
-nesses órgãos, 
-destacando a 
-sua 
-importância, 
-utilizando 
-os 
-diversos 
-canais 
-disponíveis 
-e 
-bem avaliados. 
-Recomenda-
-se 
-a 
-participação 
-ativa 
-dos 
-coordena  
- 
- 
-( X  ) SIM 
-(   ) NÃO  
-(   ) Parcialmente 
-AÇÕES 
-SUSTENTÁVEI
-S NO BAIRRO 
-DO IPIRANGA 
-303 
-( X ) SIM 
-(   ) NÃO  
-(   ) Parcialmente 
-Implementar 
-ações 
-de 
-comunicação 
-por meio de 
-informativos e 
- 
-( X  ) SIM 
-(   ) NÃO  
-(   ) Parcialmente 
-DIGA NÃO À 
-DISCRIMINAÇ
-ÃO 
-ÉTNICO-
-RACIAL, 
-RELIGIOSA, 
-LINGUÍSTICA, 
-ETÁRIA, 
-DE 
-306 
-( X  ) SIM 
-(   ) NÃO  
-(   ) Parcialmente 
-                      50
- 
-__________________________________________________________________________ 
-Administração Central 
-Unidade do Ensino Superior de Graduação 
- 
  
 Relatório de Autoavaliação Institucional 
-da Fatec – 2024/INTEGRAL
-palestras que 
-informem 
-a 
-professores e 
-alunos sobre a 
-Iniciação 
-Científica, 
-o 
-estágio (que já 
-foi 
-apontado 
-anteriormente) 
-e com relação 
-ao 
-INOVA 
-Paula 
-Souza, 
-de forma a que 
-todos 
-tenha 
-ciência de sua 
-constituição, 
-funções 
-e 
-formas 
-de 
-participação.  
- 
-GÊNERO 
-E 
-CLASSE 
- 
-Manter 
-as 
-políticas 
-de 
-atuação 
-e 
-oportunizar 
-outros 
- 
-(X  ) SIM 
-(   ) NÃO  
-(   ) Parcialmente 
-FATEC 
-IPIRANGA SE 
-IMPORTA 
-312 
-( X  ) SIM 
-(   ) NÃO  
-(   ) Parcialmente 
-                      51
- 
-__________________________________________________________________________ 
-Administração Central 
-Unidade do Ensino Superior de Graduação 
- 
- 
-Relatório de Autoavaliação Institucional 
-da Fatec – 2024/INTEGRAL
-momentos de 
-participação 
-dos 
-professores e 
-funcionários 
-nesses órgãos  
- 
- 
- 
- 
-                      52
- 
-__________________________________________________________________________ 
-Administração Central 
-Unidade do Ensino Superior de Graduação 
- 
- 
-Relatório de Autoavaliação Institucional 
-da Fatec – 2024/INTEGRAL
- 
+da Fatec – 2024/INTEGRAL 
  
  
 EIXO 5: INFRAESTRUTURA 
@@ -3738,18 +3151,20 @@ RELATÓRIO
 DE 2022 
  
  
-Código 
-PGA 
+ 
+Códig
+o PGA 
 DAS 
-AÇÕES 
+AÇÕE
+S 
  
 AÇÕES 
 REALIZADAS 
  
  
 AÇÕES 
-PROPOSTAS 
-NO 
+PROPOSTA
+S NO 
 RELATÓRIO 
 DE 2023 
  
@@ -3763,151 +3178,66 @@ REALIZADAS
 ANÁLISE GLOBAL E A CONTRIBUIÇÃO 
 PARA O PLANEJAMENTO E 
 DESENVOLVIMENTO INSTITUCIONAL  
-Manutenção 
-constante por 
-parte 
-dos 
-setores 
-administrativos 
-dos 
-equipamentos 
-disponibilizado
-s.  
  
  
-( X  ) SIM 
-(   ) NÃO  
-(   ) Parcialmente 
-LEVANTAMEN
-TO 
-DAS 
-NECESSIDAD
-ES 
-DE 
-INFRAESTRUT
-URA 
-DAS 
-SALAS 
-DE 
-AULA, 
-AUDITÓRIOS E 
-BIBLIOTECA 
-201 
-( X ) SIM 
-(   ) NÃO  
-(   ) Parcialmente 
- Em 2023 também foi realizada a ação 501 : 
-INFRAESTRUTURA CIVIL PREDIAL 
-Mesmo com todas essas ações realizadas, a percepção 
-da comunidade acadêmica acerca da infraestrutura 
-física da Fatec ainda não é positiva, conforme pode ser 
-observado na página 37. 
-Sem dúvida se faz necessário investimentos em 
-mobiliário 
-para 
-os 
-laboratórios 
-entre 
-outras 
-necessidades, tais como aumento da velocidade da 
-internet, troca das cortinas e instalação de mais 
-ventiladores.   
-Manutenção 
-constante por 
- 
-( X  ) SIM 
-(   ) NÃO  
-MANUTENÇÃO 
-DOS 
-203 
-( X  ) SIM 
-(   ) NÃO  
-                      53
- 
-__________________________________________________________________________ 
-Administração Central 
-Unidade do Ensino Superior de Graduação 
- 
- 
-Relatório de Autoavaliação Institucional 
-da Fatec – 2024/INTEGRAL
-parte 
-dos 
-setores 
-administrativos 
-dos 
-equipamentos 
-disponibilizado
-s  
- 
-(   ) Parcialmente LABORATÓRI
-OS 
-DE 
-INFORMÁTICA 
-(   ) Parcialmente 
-Apresentar 
-à 
-administração 
-central 
-os 
-dados 
-e 
-solicitar apoio 
-para aquisição 
-e ampliação do 
-número 
-de 
-laboratórios e a 
-compra 
-e 
-atualização de 
-seus 
-equipamentos. 
- 
- 
-( X  ) SIM 
-(   ) NÃO  
-(   ) Parcialmente 
- ADEQUAÇÃO 
-DO 
-AUDITÓRIO 
-204 
 (   ) SIM 
 (   ) NÃO  
-( X ) 
+(   ) 
 Parcialmente 
-Gerenciament
-o eficiente dos 
-serviços 
-por 
-parte 
-dos 
  
-( X  ) SIM 
+ 
+(   ) SIM 
 (   ) NÃO  
-(   ) Parcialmente 
-AMPLIAÇÃO 
-DOS 
-LABORATÓRI
-OS 
-DE 
-INFORMÁTICA 
-206 e 502 (   ) SIM 
-(   ) NÃO  
-( X  ) 
+(   ) 
 Parcialmente 
-                      54
+    
+ 
+ 
+(   ) SIM 
+(   ) NÃO  
+(   ) 
+Parcialmente 
+ 
+ 
+(   ) SIM 
+(   ) NÃO  
+(   ) 
+Parcialmente 
+ 
+ 
+(   ) SIM 
+(   ) NÃO  
+(   ) 
+Parcialmente 
+ 
+ 
+(   ) SIM 
+(   ) NÃO  
+(   ) 
+Parcialmente 
+ 
+ 
+(   ) SIM 
+(   ) NÃO  
+(   ) 
+Parcialmente 
+ 
+ 
+(   ) SIM 
+(   ) NÃO  
+(   ) 
+Parcialmente 
+     
+                  74
  
 __________________________________________________________________________ 
 Administração Central 
 Unidade do Ensino Superior de Graduação 
  
  
-Relatório de Autoavaliação Institucional 
-da Fatec – 2024/INTEGRAL
-setores 
-administrativos  
  
+Relatório de Autoavaliação Institucional 
+da Fatec – 2024/INTEGRAL 
  
  
 5. ANÁLISE DOS DADOS DE 2024 E AÇÕES PROPOSTAS 
@@ -3916,53 +3246,25 @@ administrativos
 centrais trabalhados 
 EIXO 1: PLANEJAMENTO E AVALIAÇÃO INSTITUCIONAL  
  
-FRAGILIDADES (SITUAÇÕES PROBLEMA) 
  
-  
+FRAGILIDADES (SITUAÇÕES 
+PROBLEMA) 
+ 
+ 
+ 
 AÇÕES PLANEJADAS  
 CÓDIGO PGA DA 
-AÇÃO PLANEJADA 
+AÇÃO 
+PLANEJADA 
  
 PRAZOS   
-Imagem Institucional: Baixa Visibilidade da Fatec Ipiranga 
-na região.  
  
-PROJETOS DE DESIGN GRÁFICO PARA A FATEC IPIRANGA  
+Discentes têm pouco conhecimento 
+sobre a CPA 
+Divulgar os trabalhos da CPA e fazer eleições para 
+novos membros. 
  
-404 
-Ação contínua 
-Comunicação Institucional:  
-PROJETOS DE DESIGN GRÁFICO PARA A FATEC IPIRANGA  
-404,106,113,114 
-Ação contínua 
-                      55
- 
-__________________________________________________________________________ 
-Administração Central 
-Unidade do Ensino Superior de Graduação 
- 
- 
-Relatório de Autoavaliação Institucional 
-da Fatec – 2024/INTEGRAL
-• 
-Desconhecimento dos docentes e 
-discentes dos programas de Iniciação 
-Científica, Estágio, Intercâmbios e 
-INOVA Paula Souza 
-• 
-Desconhecimento dos discentes e 
-docentes sobre a CPA,e resultados de 
-avaliação. 
-CÂMARA DE ENSINO, PESQUISA E EXTENSÃO (CEPE)  
-• 
-Projeto de iniciação científica (ic)  
-• 
-Ações de diversidade, equidade e inclusão  
-• 
-Ações sustentáveis no bairro do ipiranga  
-• 
-Plano de divulgação dos resultados do Websai no Site 
-e para a comunidade acadêmica da Fatec Ipiranga 
+08/2025 
  
  
  
@@ -3976,40 +3278,46 @@ e para a comunidade acadêmica da Fatec Ipiranga
  
  
  
-• 
  
  
  
- 
- 
-• 
- 
- 
- 
- 
- 
- 
- 
- 
-.  
- 
- 
- 
- 
- 
- 
- 
- 
- 
-                      56
+     
+                  75
  
 __________________________________________________________________________ 
 Administração Central 
 Unidade do Ensino Superior de Graduação 
  
  
+ 
 Relatório de Autoavaliação Institucional 
-da Fatec – 2024/INTEGRAL
+da Fatec – 2024/INTEGRAL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  
 EIXO 2: DESENVOLVIMENTO INSTITUCIONAL  
  
@@ -4022,89 +3330,60 @@ CÓDIGO PGA DA
 AÇÃO PLANEJADA 
  
 PRAZOS 
-Potencialidade: 
-a 
-maioria 
-dos 
-alunos, 
-docentes e funcionários avaliam bem a Fatec na questão do 
-desenvolvimento do PDI 
-Estudo para levantamento das necessidades dos novos cursos  AMS em 
-Gestão de Turismo, AMS em Gestão Empresarial e AMS em Gestão de 
-Recursos Humanos 
-504 
-Atividade contínua 
-Potencialidade: 
-a 
-maioria 
-dos 
-alunos 
-avaliaram bem os cursos, conteúdos, metodologias e didática dos 
-docentes. 
-Estudo de viabilidade para implantação do curso AMS em Gestão de 
-Recursos Humanos 
-103 
-Durante o primeiro semestre 
-de 2025 
-Potencialidade: 
-a 
-maioria 
-dos 
-alunos 
-avaliaram bem os cursos, conteúdos, metodologias e didática dos 
-docentes. 
-Implantação do curso AMS- Agenciamento de viagens e gestão do turismo  101 
-Durante o primeiro semestre 
-de 2025 
-Potencialidade: a maioria dos alunos avaliaram 
-bem os cursos, conteúdos, metodologias e didática dos docentes. 
-Estudo de viabilidade para implantação do curso AMS em Gestão 
-Empresarial   
-108 
-Durante o primeiro semestre 
-de 2025 
-Fragilidade: 
-Imagem 
-Institucional: 
-Baixa 
-Visibilidade da Fatec Ipiranga na região 
-Atividades para manter o 
-Selo de Responsabilidade 
-Social 
-106 
-Atividade contínua 
-Fragilidade: 
-Imagem 
-Institucional: 
-Baixa 
-Visibilidade da Fatec Ipiranga na região 
-Ações sustentáveis no Bairro Ipiranga 
-113 
-Atividade contínua 
-Fragilidade: 
-Imagem 
-Institucional: 
-Baixa 
-Visibilidade da Fatec Ipiranga na região 
-Parceiros da Sustentabilidade 
-114 
-Atividade contínua 
-                      57
+Alunos relatam pouco conhecimento sobre o 
+PDI. 
+Esclarecer sobre a organização e planejamento institucional. 
+ 
+08/2025 
+Alunos e funcionários pouco conhecimento a 
+respeito da responsabilidade social da 
+instituição. 
+Esclarecer sobre a missão institucional. 
+ 
+08/2025 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     
+                  76
  
 __________________________________________________________________________ 
 Administração Central 
 Unidade do Ensino Superior de Graduação 
  
  
+ 
 Relatório de Autoavaliação Institucional 
-da Fatec – 2024/INTEGRAL
-Fragilidade: 
-Imagem 
-Institucional: 
-Baixa 
-Visibilidade da Fatec Ipiranga na região 
-PROJETOS de Design Gráfico para a Fatec Ipiranga 
-404 
+da Fatec – 2024/INTEGRAL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  
  
  
@@ -4121,125 +3400,71 @@ CÓDIGO PGA DA
 AÇÃO PLANEJADA 
  
 PRAZOS 
-Potencialidade: 
+Alunos relatam que a comunicação com a 
+comunidade acadêmica e externa é pouco 
+conhecida 
+e 
+insuficiente 
+referente 
 a 
-maioria 
-dos 
-alunos 
-avaliaram bem os cursos, conteúdos, metodologias e didática dos 
-docentes 
-Palestras Bimestrais sobre temas relevantes para formação AMS na ETEC 
-Heliópolis   
-102 
-Atividades 
-a 
-serem 
-realizadas durante o ano de 
-2025 
-Potencialidade: 
-a 
-maioria 
-dos 
-alunos 
-avaliaram bem a oferta dos programas de monitoria. 
-Programas de Monitoria 
-115 
-Ação contínua 
-Fragilidade: a maioria dos alunos desconhecem 
-as atividades de pesquisa e extensão realizadas na unidade.  
-Mostra de software do curso de Análise e Desenvolvimento de Sistemas   104 
-Atividades 
-a 
-serem 
-realizadas durante o ano de 
-2025 
-Fragilidade: a maioria dos alunos desconhecem as 
-atividades de pesquisa e extensão realizadas na unidade 
-Mostra de vídeos do curso de Evento 
-105 
-Atividades 
-a 
-serem 
-realizadas durante o ano de 
-2025 
-Fragilidade: a maioria dos alunos desconhecem as 
-atividades de pesquisa e extensão realizadas na unidade 
-Virada da Maturidade 
-107 
-Primeiro semestre de 2025 
-Fragilidade: a maioria dos alunos desconhecem as 
-atividades de pesquisa e extensão realizadas na unidade 
-Feira de Negócios do Curso Gestão Comercial   
-109 
-Ação contínua 
-                      58
+dimensão 
+Melhorar a comunicação institucional com referente a atingir 
+maior eficiência e simplicidade. 
+ 
+08/2025 
+Alunos e docentes relatam que as políticas e 
+oportunidades de pesquisa e extensão são 
+insatisfatórias 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     
+                  77
  
 __________________________________________________________________________ 
 Administração Central 
 Unidade do Ensino Superior de Graduação 
  
  
-Relatório de Autoavaliação Institucional 
-da Fatec – 2024/INTEGRAL
-Fragilidade: a maioria dos alunos desconhecem as 
-atividades de pesquisa e extensão realizadas na unidade 
-Participação dos alunos no torneio Interfatecs 
-110 
-Ação contínua 
-Fragilidade: a maioria dos alunos desconhecem as 
-atividades de pesquisa e extensão realizadas na unidade 
- Ações de diversidade, equidade e inclusão 
-111 
-Ação contínua 
-Fragilidade: a maioria dos alunos desconhecem as 
-atividades de pesquisa e extensão realizadas na unidade 
-Publicação Editorial no formato livro (volume IX) – ATIVIDADES 
-AUTÔNOMAS DE PROJETOS – CST GESTÃO DE RECURSOS HUMANOS 
-112 
-Ação contínua 
-Fragilidade: a maioria dos alunos desconhecem as 
-atividades de pesquisa e extensão realizadas na unidade 
-Oficina de Libras 
-116 
-Ação contínua 
-Fragilidade: a maioria dos alunos desconhecem as 
-atividades voltadas para a comunidade externa realizadas na 
-unidade 
-Consultoria Imposto de Renda para Pessoas Física 
-402 
-Ação contínua 
-Fragilidade: a maioria dos alunos desconhecem as 
-atividades de pesquisa e extensão realizadas na unidade e Baixa 
-Visibilidade da Fatec Ipiranga na região.  
-Fatec Ipiranga se Importa 
-403 
-Ação contínua 
-Fragilidade: a maioria dos alunos desconhecem as 
-atividades de pesquisa e extensão realizadas na unidade 
-Palestras semestrais de apresentação do curso AMS-DS para familiares e 
-alunos interessados no curso 
-405 
-Ação contínua 
-Fragilidade: Baixa Visibilidade da Fatec Ipiranga 
-na região.  
- 
-Fatec Ipiranga de Portas Abertas 
-406 
-Ação Contínua 
-                      59
- 
-__________________________________________________________________________ 
-Administração Central 
-Unidade do Ensino Superior de Graduação 
- 
  
 Relatório de Autoavaliação Institucional 
-da Fatec – 2024/INTEGRAL
-Fragilidade: Baixa Visibilidade da Fatec Ipiranga 
-na região.  
-Oficinas preparatórias para o vestibular 
-407 
-Ação Contínua 
+da Fatec – 2024/INTEGRAL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  
  
 EIXO 4: POLÍTICAS DE GESTÃO 
@@ -4253,59 +3478,45 @@ CÓDIGO PGA DA
 AÇÃO PLANEJADA 
  
 PRAZOS 
-Fragilidade: Baixa Visibilidade da Fatec Ipiranga 
-na região. 
- Comitê 
-de 
-Políticas 
-Antidiscriminatórias 
+Funcionários relatam a necessidade de ações 
+de capacitação e promoção.   
  
-401 
- Ação Contínua 
-Fragilidade: Baixa Visibilidade da Fatec Ipiranga 
-na região. 
-Fatec Ipiranga de Portas 
-Abertas 
-406 
-Ação Contínua 
-Fragilidade: Baixa Visibilidade da Fatec Ipiranga 
-na região. 
-FATEC IPIRANGA SE IMPORTA  
-403 
-Ação Contínua 
-Fragilidade: Baixa Visibilidade da Fatec Ipiranga 
-na região. 
-PROJETOS 
+ 
+ 
+Alunos, docentes e funcionários relatam a 
+necessidade 
 de 
-Design 
-Gráfico 
-para 
-a 
-Fatec 
-Ipiranga 
-404 
-Ação Contínua 
-Potencialidade: a maioria dos alunos está 
-satisfeita com o atendimento ofertado pelos funcionários e 
-coordenadores 
-Capacitação para os colaborares administrativos 
-601 
-Ação Contínua 
-                      60
+maiores 
+investimentos 
+institucionais. 
+ 
+ 
+ 
+     
+                  78
  
 __________________________________________________________________________ 
 Administração Central 
 Unidade do Ensino Superior de Graduação 
  
  
+ 
 Relatório de Autoavaliação Institucional 
-da Fatec – 2024/INTEGRAL
-Potencialidade: a maioria dos alunos está 
-satisfeita com a metodologia de ensino e conteúdo ministrado pelos 
-docentes 
-SPAP 
-602 
-Ação Contínua 
+da Fatec – 2024/INTEGRAL 
+Alunos e docentes também relatam a 
+necessidade de melhoria na representação 
+em órgãos colegiados. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  
  
  
@@ -4341,94 +3552,71 @@ CÓDIGO PGA DA
 AÇÃO PLANEJADA 
  
 PRAZOS 
-Fragilidade: a maioria dos alunos e 
-docentes da Fatec Ipiranga demonstrou estar 
-insatisfeita com a infraestrutura  
-Manutenção dos Laboratórios de Informática 
-201 
-Ação Contínua 
-                      61
+     
+                  79
  
 __________________________________________________________________________ 
 Administração Central 
 Unidade do Ensino Superior de Graduação 
  
  
+ 
 Relatório de Autoavaliação Institucional 
-da Fatec – 2024/INTEGRAL
-Fragilidade: a maioria dos alunos e 
-docentes da Fatec Ipiranga demonstrou estar 
-insatisfeita com a infraestrutura 
-Adequação do Auditório 
-202 
-Ação Contínua 
-Fragilidade: a maioria dos alunos e 
-docentes da Fatec Ipiranga demonstrou estar 
-insatisfeita com a infraestrutura 
-Atualização da assinatura de softwares 
-203 
-Ação Contínua 
-Fragilidade: a maioria dos alunos e 
-docentes da Fatec Ipiranga demonstrou estar 
-insatisfeita com a infraestrutura 
-Ampliação dos Laboratórios de Informática 
-204 
-Ação Contínua 
-Fragilidade: a maioria dos alunos e 
-docentes da Fatec Ipiranga demonstrou estar 
-insatisfeita com a infraestrutura 
-Levantamento das necessidades de infraestrutura das salas de 
-205 
-Ação Contínua 
-Fragilidade: a maioria dos alunos e 
-docentes da Fatec Ipiranga demonstrou estar 
-insatisfeita com a infraestrutura 
-Infraestrutura civil e predial 
-501 
-Ação Contínua 
-Fragilidade: a maioria dos alunos e 
-docentes da Fatec Ipiranga demonstrou estar 
-insatisfeita com a infraestrutura 
-Ampliação dos laboratórios de informática 
-502 
-Ação Contínua 
-Fragilidade: a maioria dos alunos e 
-docentes da Fatec Ipiranga demonstrou estar 
-insatisfeita com a infraestrutura 
-Melhoria Sala de Ambientes pedagógicos 
-503 
-Ação Contínua 
+da Fatec – 2024/INTEGRAL 
+Alunos, funcionários e docentes relatam a 
+necessidade de melhorias de infraestrutura 
+da instituição. 
  
  
  
  
-                      62
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+80 
+                      80
  
 __________________________________________________________________________ 
 Administração Central 
 Unidade do Ensino Superior de Graduação 
  
  
-Relatório de Autoavaliação Institucional 
-da Fatec – 2024/INTEGRAL
- 
- 
- 
- 
- 
- 
- 
- 
-63 
-                      63
- 
-__________________________________________________________________________ 
-Administração Central 
-Unidade do Ensino Superior de Graduação 
- 
  
 Relatório de Autoavaliação Institucional 
-da Fatec – 2024/INTEGRAL
+da Fatec – 2024/INTEGRAL 
 6. CONSIDERAÇÕES FINAIS 
  
 A Comissão Própria de Avaliação, pelo seu trabalho, visa oferecer subsídios capazes 
@@ -4436,38 +3624,11 @@ de direcionar a tomada de decisão e ao planejamento institucional, na busca de
 contínua melhoria da qualidade do ensino, da pesquisa, da extensão e da gestão. 
 Sendo assim um importante instrumento para a Direção. 
  
-Dentre as principais ações advindas desse processo, podemos salientar que a maior 
-parte dos problemas apontados no relatório estão relacionados com a infraestrutura 
-oferecida aos discentes, principalmente laboratórios (quantidade e qualidade do 
-hardware e atualização dos softwares), mobiliários e conforto térmico, assim como 
-aconteceu no ano anterior. Dado que o aumento de apenas 1 laboratório não foi 
-suficiente para aumentar a percepção dos alunos. Diante desta análise, é importante 
-que se faça investimentos na atualização e adequação dos laboratórios, de acordo 
-com as necessidades previstas nos Projetos Pedagógicos dos Cursos (PPC).  
-A percepção em relação aos canais de comunicação e ao conhecimento do PDI, CPA, 
-atividades de Pesquisa, Extensão, Responsabilidade Social entre outras, nessa 
-avaliação mais bem avaliados do que no ano anterior. Acredita-se que seja devido a 
-execução do plano de comunicação, juntamente com o Projeto de Design Gráfico. No 
-entanto, ainda há uma porcentagem de alunos que desconhecem essas atividades, 
-ações e documentos, sendo necessário continuar com o projeto de Design Gráfico.  
-Esta Comissão, assim como no ano anterior, elaborou um plano de ação para divulgar 
-e conscientizar a comunidade acadêmica em relação aos resultados obtidos e as 
-ações previstas de melhorias das atividades desempenhadas pelos departamentos 
-envolvidos e avaliados, bem como apontou as fragilidades e potencialidades da Fatec 
-Ipiranga, a fim de apoiar o Plano de Gestão Anual da Direção da Unidade. 
+Dentre as principais ações advindas desse processo, podemos salientar 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 
  
 Os resultados apresentados contemplam as dez dimensões auto avaliativas do 
 SINAES e foram analisados e discutidos por todos os membros da comunidade 
-64 
-                      64
- 
-__________________________________________________________________________ 
-Administração Central 
-Unidade do Ensino Superior de Graduação 
- 
- 
-Relatório de Autoavaliação Institucional 
-da Fatec – 2024/INTEGRAL
 institucional: direção, coordenações de cursos, setores administrativos, gestores, 
 professores e alunos. 
  
@@ -4478,109 +3639,166 @@ alcançados, reforçando o quanto a avaliação contribui para a gestão dos res
  
  
  
+1) Retirar todas as orientações em vermelho 
+2) Fazer a revisão ortográfica antes de encaminhar para Cesu/DGE 
+cesu.gestaoeducacional@cps.sp.gov.br 
   
  
  
- 
- 
- 
-65 
-                      65
+81 
+                      81
  
 __________________________________________________________________________ 
 Administração Central 
 Unidade do Ensino Superior de Graduação 
  
  
+ 
 Relatório de Autoavaliação Institucional 
-da Fatec – 2024/INTEGRAL
+da Fatec – 2024/INTEGRAL 
  
  
 ANEXO - ATAs de Aprovação dos membros da CPA, registro de alterações e 
 reuniões da CPA 
-Ata da Reunião da Comissão Própria de Avaliação de 02  de setembro de 
-2024. 
-   
-Aos 02 dias do mês de setembro do ano de dois mil e vinte e quatro, às catorze horas e trinta 
-minutos, reuniram-se, por meio da plataforma Teams, os membros da Comissão Própria de 
-Avaliação, designados pela portaria nº148/2023 de 02 de agosto de 2023. Como representantes 
-do corpo docente: Prof. Ms. Marcos Júlio – Presidente; Profa. Ms. Fernanda Peixoto Coelho – 
-Gestora Pedagógica Regional 6; Profa. Dra. Ana Claudia Melo Tiessi Gomes de Oliveira, Profa. 
-Ms. Rosangela Aparecida de Queiros Manduca, como representante do corpo técnico-
-administrativo: Virgínia Benassi Ramos de Nazaré e como representante da comunidade Sr. 
-Adnilson José de Almeida, vinculado à Subprefeitura do Ipiranga. A reunião teve como objetivo a 
-troca da presidência da CPA, uma vez que o professor Marcos Júlio é coordenador do Curso de 
-Eventos e por deliberação da CESU, coordenadores de curso não podem mais participar da CPA. 
-Na sequência o professor Marcos Júlio informou que a diretora  Profa Ms. Fabiana Serralha 
-Miranda, designou a nova formação da CPA, sendo que a partir da presente data a CPA será 
-constituída pela Profa. Dra. Ana Claudia Melo Tiessi Gomes de Oliveira, Profa. Ms. Rosangela 
-Aparecida de Queiros Manduca, como representante do corpo técnico-administrativo: Virgínia 
-Benassi Ramos de Nazaré. Em seguida a professora Ana Cláudia Melo Tiessi Gomes de Oliveira 
-e  Profa. Ms. Rosangela Aparecida de Queiros Manduca apresentaram o plano de comunicação 
-para o WEBSAI 2024 e as estratégias que serão utilizadas para a divulgação e sensibilização da 
-comunidade acadêmica da Fatec Ipiranga  Como houve a concordância de todos com relação ao 
-relatório, a reunião encerrou-se às 15h30 e foi lavrada por mim, prof. Marcos Júlio, esta ata. 
-   
-   
-Prof. Ms. Marcos Júlio – Presidente 
-Profa. Ms. Fernanda Peixoto Coelho – Gestora Pedagógica Regional 6 
-Profa. Dra. Ana Claudia Melo Tiessi Gomes de Oliveira  
-Profa. Ms. Rosangela Aparecida de Queiros Manduca 
-Virgínia Benassi Ramos de Nazaré 
-Sr. Adnilson José de Almeida 
-66 
-                      66
+ 
+QUADRO PARA A ANÁLISE COMPARATIVA DO RELATÓRIO PARCIAL 
+2023 E ANÁLISE GLOBAL  
+AÇÕES PROPOSTAS  NO PGA 2023 
+ 
+EIXO 
+1 - Planejamento e Avaliação Institucional 
+AÇÃO PROPOSTA  
+Ações Realizadas  
+Código PGA 
+Título 
+ 
+Divulgar o PDI em informativos físicos e 
+eletrônicos 
+Não Realizada 
+ 
+Professor tutor para orientar o 
+planejamento de estudos 
+Parcialmente 
+ 
+Orientar projetos de participação na 
+comunidade 
+Realizada 
+302 
+Dinamizar acolhimento com respeito à 
+diversidade de opiniões 
+Parcialmente 
+ 
+EIXO 
+2 – Desenvolvimento Institucional 
+AÇÃO PROPOSTA  
+Ações Realizadas 
+Código PGA 
+Título 
+ 
+Acolhimento de alunos ingressantes – 
+evitar evasão 
+Realizada 
+ 
+Dinamizar matrículas de vagas 
+remanescentes e em turno invertido 
+Realizada 
+ 
+Parceria com empresas que permitam 
+pesquisas como estudo de caso 
+Realizada 
+ 
+Ações festivas Fatec 10 anos 
+Realizada 
+ 
+ 
+ 
+Comentado [FP3]: Qual o (s) projeto (s)? 
+Comentado [FP4]: Qual o (s) projeto (s)? 
+82 
+                      82
  
 __________________________________________________________________________ 
 Administração Central 
 Unidade do Ensino Superior de Graduação 
  
  
-Relatório de Autoavaliação Institucional 
-da Fatec – 2024/INTEGRAL
-Ata da Reunião da Comissão Própria de Avaliação de 21 de outubro de 2024. 
-   
-Aos 21 dias do mês de outubro do ano de dois mil e vinte e quatro, às catorze horas, reuniram-
-se, por meio da plataforma Teams, os membros da Comissão Própria de Avaliação, designados 
-pela portaria nº127/2024 de 01 de agosto de 2024. Como representantes do corpo docente: Profa. 
-Dra. Ana Claudia Melo Tiessi Gomes de Oliveira – Presidente; Profa. Ms. Fernanda Peixoto 
-Coelho – Gestora Pedagógica Regional 6; Profa. Ms. Rosangela Aparecida de Queiros Manduca, 
-como representante do corpo técnico-administrativo: Virgínia Benassi Ramos de Nazaré, e como 
-representante da comunidade Sr. Adnilson José de Almeida, vinculado à Subprefeitura do 
-Ipiranga. A reunião teve como objetivo apresentar o relatório elaborado pelos professoras Ana 
-Claudia Melo Tiessi Gomes de Oliveira e Profa. Ms. Rosangela Aparecida de Queiros Manduca, 
-com a ajuda da professora Fernanda Peixoto Coelho, aos demais membros da comissão. Foram 
-discutidas as análises e a ações propostas bem como as conclusões a que esta comissão chegou. 
-Como houve a concordância de todos com relação ao relatório, a reunião encerrou-se às 14h30 
-e foi lavrada por mim, Profa. Dra. Ana Claudia Melo Tiessi Gomes de Oliveira, esta ata. 
-   
-Profa. Dra. Ana Claudia Melo Tiessi Gomes de Oliveira  
-Profa. Ms. Fernanda Peixoto Coelho  
-Profa. Ms. Rosangela Aparecida de Queiros Manduca 
-Virgínia Benassi Ramos de Nazaré, 
-Sr. Adnilson José de Almeida 
- 
- 
- 
- 
- 
- 
- 
- 
-67 
-                      67
- 
-__________________________________________________________________________ 
-Administração Central 
-Unidade do Ensino Superior de Graduação 
- 
  
 Relatório de Autoavaliação Institucional 
-da Fatec – 2024/INTEGRAL
-Portaria 127/2024 
+da Fatec – 2024/INTEGRAL 
+EIXO 
+3 – Políticas Acadêmicas 
+AÇÃO PROPOSTA  
+Ações Realizadas  
+Código PGA 
+Título 
+ 
+Novos métodos de avaliação 
+Realizada 
+ 
+Monitorias / Nivelamento 
+Realizada 
+ 
+Intercâmbio 
+Realizada 
+ 
+Programas de Estágio 
+Realizada 
+ 
+Criação de Laboratórios 
+Realizada 
  
  
+EIXO 
+4 – Políticas de Gestão 
+AÇÃO PROPOSTA  
+Ações Realizadas   
+Código PGA 
+Título 
+ 
+Incrementar visibilidade dos programas de 
+apoio à pesquisa 
+Realizada 
+ 
+Fomentar participação em programas de 
+capacitação, mestrado, doutorado 
+Realizada 
+ 
+Atualização permanente das informações 
+da Instituição 
+Parcialmente 
+ 
+Promover atividades envolvendo a 
+comunidade 
+Parcialmente 
+ 
+Criação de um Plano de carreira 
+Parcialmente 
  
  
+EIXO 
+5 – Infraestrutura Física 
+AÇÃO PROPOSTA  
+Ações Realizadas 
+Código PGA 
+Título 
  
+Reformas de adequação para 
+acessibilidade 
+Realizada 
  
+Reformas de adequação para instalação 
+novos laboratórios 
+Realizada 
+ 
+Instalação de equipamentos novos 
+Realizada 
+ 
+Implantação de sala especial para Aula 
+Remota 
+Realizada 
+ 
+<fim> 
+ 
+Comentado [FP5]: Qual o (s) projeto (s)? 
+Comentado [FP6]: Qual o (s) projeto (s)? 
+Comentado [FP7]: Qual o (s) projeto (s)? 

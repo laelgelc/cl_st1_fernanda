@@ -1,1397 +1,475 @@
-PLANO DE GESTÃO ANUAL – PGA 
-v07 
-Estruturado em 3 etapas: 
-ETAPA I – PLANEJAMENTO PELA EQUIPE GESTORA DA UE 
-ETAPA II – APROVAÇÃO E HOMOLOGAÇÃO 
-ETAPA III – ACOMPANHAMENTO DAS AÇÕES GERENCIAIS 
  
-IDENTIFICAÇÃO DA UNIDADE 
-Unidade 
-129 
-Fatec Praia Grande 
-Diretor(a) 
-Viviam Ester de Souza 
+_____________________________________________________________________________________________ 
  
-ETAPA I – PLANEJAMENTO PELA EQUIPE GESTORA DA UE 
-ANÁLISE DO CENÁRIO (Breve diagnóstico/Baseline) 
+Administração Central 
+Unidade do Ensino Superior de Graduação 
  
-A FATEC de Praia Grande iniciou suas atividades acadêmicas em 03 de setembro de 2002, oferecendo aos 
-munícipes 80 (oitenta vagas) para o curso de Tecnologia em Informática – Ênfase em Gestão de Negócios sendo 40 
-para o turno vespertino e 40 vagas para o turno noturno. 
- 
-Em março de 2003, em parceria com o IPEN/CEETEPS, iniciou as atividades de Pós-Graduação Lato Sensu, 
-oferecendo o curso de Gestão Empresarial, Formação de Gestores Educacionais, Consultoria Web, Gestão da 
-Qualidade na Construção Civil e Energia e Meio Ambiente. Atualmente oferece em parceria com o CEETEPS o curso 
-de MBA em Gestão de Projetos e Processos Organizacionais e MBA Executivo em Gestão Empresarial. Em 02 de 
-março de 2006 através do decreto do governador do estado de São Paulo, sr. Geraldo Alckmin, número 50.577, 
-publicado no D.O.E. seção 01 página 03, a unidade de Praia Grande deixa de ser extensão da Faculdade de 
-Tecnologia da Baixada Santista passando a ser denominada Faculdade de Tecnologia de Praia Grande. 
-Em fevereiro de 2009 iniciaram-se as atividades do curso de graduação em Tecnologia em Comércio Exterior no 
-turno vespertino, sendo que no segundo semestre foram iniciadas as atividades do curso noturno. 
- 
-A FATEC de Praia Grande, atualmente, possui em torno de 1400 alunos regularmente matriculados nos Cursos de 
-Graduação em Tecnologia em Análise e Desenvolvimento de Sistemas, Comércio Exterior, Gestão Empresarial e 
-Tecnologia em Processos Químicos e Desenvolvimento de Software Multiplataformas. Em setembro de 2022 a 
-instituição completou vinte anos de atividade, sendo ainda a única Instituição de Ensino Superior Público na cidade 
-de Praia Grande, atendendo também estudantes dos municípios vizinhos como Itanhaém, Mongaguá, São Vicente, 
-Santos, Cubatão e Guarujá.  
- 
-O setor de Tecnologia da Informação e Comunicação (TIC) é um dos setores que mais gera vagas de emprego no 
-país. Segundo dados da Associação Brasileira de Empresas de Tecnologia da Informação e Comunicação 
-(Brasscom), o mercado nacional emprega 1,56 milhão de trabalhadores atualmente, com mais de 40 mil postos de 
-trabalho criados em 2019. Desse montante, 42,8% estão em São Paulo. A previsão é de que o setor demande, até 
-2024, 70 mil profissionais por ano, cerca de 20 mil a mais do que se formam em cursos da área de TIC. A subárea 
-Softwares e Serviços TIC, uma das principais em que o egresso poderá atuar, possui 656.711 postos de trabalho, 
-com um aumento de quase 30 mil vagas em 2019, ainda segundo estudo da Brasscom1. 
- 
-A Unidade de Ensino cresceu nos últimos anos e juntamente com ela cresceram os problemas de infraestrutura, 
-tendo em vista que o espaço cedido para a instalação da FATEC-PG no município é um prédio com mais de 50 anos 
-de idade e apresenta diversos problemas estruturais. 
- 
- 
- 
- 
-Discorrer sobre o cenário, realizando um breve diagnóstico (limitar o espaço da escrita, para que seja inserido de 
-forma suscinta). 
- 
- 
- 
- 
-APONTAMENTO DE SITUAÇÕES-PROBLEMA MAIS RELEVANTES (“Escuta”) 
-Fontes: relatório CPA, análise de processos críticos da UE, relatório de atendimento e ocorrências 
-Hórus GCom. relatório NDE, relatório de representação discente. 
+_____________________________________________________________________________________________________________________________________________ 
+www.cps.sp.gov.br 
+Rua dos Andradas, 140  •  Santa Ifigênia  •  01208-000  •  São Paulo  •  SP  •  Tel.: (11) 3324-3300 
 1 
+RELATÓRIO ANUAL DE ATIVIDADES – PDI 
  
-Prédio da unidade com problemas estruturais. 
+FATEC / Código: Fatec São Caetano do Sul – Antonio Russo / 168_ Diretor(a): Profa. Dra. 
+Adriane Monteiro Fontana  
  
-5 
+Prezado(a) Diretor(a), 
+Anualmente deverá ser elaborado o Relatório Anual de Atividades – RAA e, conforme 
+estabelecido em Portaria CESU no 9 de 21-11-2019, encaminhar para a CESU até o dia 15 de 
+janeiro do ano subsequente. 
+Nesse relatório a Direção da Unidade deverá pontuar todos os itens que foram 
+planejados e realizados, dentro do estabelecido: 
+• 
+Nos itens III.A, III.B, III.C e III.D do modelo e; 
+• 
+Nos formulários eletrônicos preenchidos. 
+Além disso, deve-se informar o que, por alguma razão, não foi possível de ser realizado, 
+dentro de tudo que foi planejado, justificando os motivos da não realização. 
+Dúvidas, favor entrar em contato com: cesu.pdi@cps.sp.gov.br 
  
-Estrutura de monitoramento insuficientes de câmeras 
-internas. 
+ATIVIDADES REALIZADAS (máximo 12.000 caracteres) 
+Tendo em vista estratégias e medidas para potencializar pontos fortes de nossa 
+unidade, destacamos atividades realizadas em 2022: 
+ 
+ 
+IIII. A – Estratégias e medidas para potencializar PONTOS FORTES 
+ 
+Visando sempre inserir a atuação escolar e acadêmica no contexto da realidade social 
+e econômica, disponibilizamos atividades que possibilitaram além da inserção, atuação 
+com responsabilidade no desenvolvimento socioeconômico e ambiental. 
+ 
+Projeto Minha Chance 
+O projeto Minha Chance foi ampliado e oferecido: Dynamics 365 – CRM (Microsoft), 
+Microsoft – Computação em Nuvem (AI900, AZ900, DP900, PL900), Cisco Networking 
+Academy, Google Cloud, Green Belt Six Sigma, SAP S/4 Hana e Salesforce 
+oportunizando vagas para alunos e também professores da Fatec São Caetano do Sul. 
+ 
+Escola de Inovadores 
+O projeto, em 2022, teve mais de 70 inscritos. 
+ 
+Fasci-Tech 
+ 
+_____________________________________________________________________________________________ 
+ 
+Administração Central 
+Unidade do Ensino Superior de Graduação 
+ 
+_____________________________________________________________________________________________________________________________________________ 
+www.cps.sp.gov.br 
+Rua dos Andradas, 140  •  Santa Ifigênia  •  01208-000  •  São Paulo  •  SP  •  Tel.: (11) 3324-3300 
 2 
+Periódico científico eletrônico da Fatec São Caetano do Sul teve sua 18ª edição 
+publicada em dezembro de 2022. 
  
-Refrigeração inadequada das salas de aula, 
-laboratórios e ambientes internos. 
+Maratona Interfatecs 
+A Fatec São Caetano do Sul participou da 11ª edição da Maratona de Programação 
+Interfatecs, realizada, de forma presencial, em 24/09/2022, na Fatec Santana de 
+Parnaíba e contou com 8 equipes da unidade. 
+  
+COIL – Projeto de Internacionalização 
+A COIL, também conhecida como Virtual Exchange ou Telecollaboration, conecta 
+professores e seus alunos com colegas de outros países via Internet. Em 2022, os 
+alunos do quinto semestre do curso de Comércio Exterior, com a supervisão das 
+professoras Maria Márcia Matos Pinto, do terceiro semestre com a supervisão da 
+professora Paula Daniela da Silva Monciatti, além dos alunos do quarto semestre do 
+curso de Jogos Digitais com a supervisão dos professores Alexandre Santaella e 
+Miguel Saad participaram dessa colaboração virtual entre instituições de ensino 
+superior dos Estados Unidos e da África do Sul. 
  
-6 
+Escritório de Carreiras 
+No ano de 2022 os atendimentos retornaram presencialmente e foram realizados pela 
+profa. Izar Munhoz, com orientações às segundas pela manhã e terças e quartas no 
+período da tarde.   
  
-Ausência de Convênio de Cooperação com a 
-Prefeitura de Praia Grande. 
+Atendimento Psicopedagógico 
+No ano de 2022 os atendimentos retornaram presencialmente, com orientação da 
+profa. Eliane Porta e atendimento às quartas-feiras a tarde.  
+ 
+Minuto Fatec 
+Criado em 2020, o Minuto Fatec foi pensado em acontecer de forma híbrida, online, em 
+formato de live ou presencial no auditório da unidade. Em 2022, tivemos as seguintes 
+palestras:  
+- Depressão e Ansiedade com a Dra. Samanta Mendes Fonseca Marzano, realizado 
+em 21/03/2022. 
+- Sororidade com a Dra. Jane Sanchez, realizado em 14/04/2022. 
+- Saúde Bucal com Dr. André Lima, realizado em 31/08/2022 
+- Suicídio com Dra. Fernanda Piotto, realizado em 28/09/2022 
+- Câncer de Mama com Dra Maria Monica Pereira, realizado em 24/10/2022 
+Monitorias 
+No ano de 2022 o programa de monitoria atendeu os cursos de Análise e 
+Desenvolvimento de Sistemas, Comércio Exterior, Jogos Digitais e Segurança da 
+Informação nos dois semestres, com as disciplinas: 
+Algoritmos e Lógica de Programação  
+Cálculo  
+Cálculo Diferencial e Integral 
+Matemática Aplicada e Estatística Aplicada/Comex 
+Programação para Jogos Digitais I e II  
+Programação Orientada a Objetos para Jogos Digitais 
+Estatística Aplicada / ADS 
+ 
+_____________________________________________________________________________________________ 
+ 
+Administração Central 
+Unidade do Ensino Superior de Graduação 
+ 
+_____________________________________________________________________________________________________________________________________________ 
+www.cps.sp.gov.br 
+Rua dos Andradas, 140  •  Santa Ifigênia  •  01208-000  •  São Paulo  •  SP  •  Tel.: (11) 3324-3300 
 3 
+Matemática Discreta / JOGOS 
+Programação I  
+Protocolos e Roteamento em Redes de Computadores  
+Sistemas de Informações Contábeis 
  
-Problemas estruturais e elétricos nos laboratórios de 
-química. 
+Projeto de Iniciação Científica 
+Em 2022 não tivemos projetos inscritos no primeiro semestre. O aluno Dylan de 
+Carvalho Ribeiro, do curso de Segurança da Informação, se inscreveu no final do 
+segundo semestre e iniciará o projeto em 2023. Para os professores, não tivemos 
+candidatos inscritos no ano de 2022.  
  
+Game Dev Toolkit  2022 
+Com a proposta de promover de forma gratuita um diálogo entre estudantes e 
+profissionais da área de jogos, Fatec São Caetano do Sul realizou entre os dias 17 e 
+23 de janeiro, em formato online, o Game Dev- Toolkit 2022. O evento é organizado 
+por alunos e ex-alunos do curso de Jogos Digitais, e contou com palestras para todos 
+que se interessam por desenvolvimento de games, sejam iniciantes, estudantes ou 
+profissionais. 
+ 
+Global Game Jam 
+De 27 a 30/01/2022 a Fatec São Caetano do Sul foi uma das sedes da Global Game 
+Jam (GGJ), a maior game jam (maratona de desenvolvimento de jogos) do mundo. 
+Nessa que foi a 12ª edição consecutiva realizada pela Unidade, tivemos 81 
+participantes inscritos, com nove jogos desenvolvidos, tendo sido a 77ª sede com 
+maior quantidade de inscritos entre as 680 sedes do mundo, a segunda no Brasil e a 
+primeira no estado de São Paulo. Todos os jogos desenvolvidos ficam em exposição 
+no site mundial da GGJ. 
+ 
+13ª Fatecnologia 
+Realizada entre os dias 10 e 12 de maio de 2022, o evento aconteceu de forma 
+presencial, contando com palestras, mini-cursos e workshops nas áreas de 
+tecnologia, gestão e carreira.  
+ 
+VI ENCOMEX 
+No dia 20 de outubro de 2022, foi realizado, no auditório da Fatec São Caetano do Sul 
+– Antonio Russo, o VI ENCOMEX – Encontro de Comércio Exterior, evento voltado 
+para alunos e professores do curso de Comércio Exterior da Unidade, bem como para 
+o público externo. Aproximadamente, 90 alunos assistiram ao evento. O VI ENCOMEX 
+foi dividido em dois blocos de palestras, Os primeiros convidados foram o Kimio Ishiaki, 
+representante do Conselho Regional de Administração (CRA-SP) em São Caetano do 
+Sul e Diretor de Comércio Exterior e Logística Internacional na WSERV Logistics 
+Group, e a Gabriele Salina, egressa do curso de Comércio Exterior da Fatec São 
+Caetano do Sul e Coordenadora de Agenciamento de Cargas na WSERV Logistics 
+Group. O tema da palestra que eles proferiram foi o seguinte: “CRA-SP - Valorização 
+Profissional em Administração e Sumário da Administração em Comércio Exterior”. 
+Na sequência a Tatiana Chaves, Supervisora de Controle Aduaneiro da Wilson Sons, 
+Logística, falou sobre “Terminal Alfandegado: a importância da zona secundária na 
+cadeia logística” 
+ 
+_____________________________________________________________________________________________ 
+ 
+Administração Central 
+Unidade do Ensino Superior de Graduação 
+ 
+_____________________________________________________________________________________________________________________________________________ 
+www.cps.sp.gov.br 
+Rua dos Andradas, 140  •  Santa Ifigênia  •  01208-000  •  São Paulo  •  SP  •  Tel.: (11) 3324-3300 
+4 
+ 
+ADS DAY 
+O ADS Day aconteceu no dia 27 de outubro de 2022, presencialmente, com palestras 
+no período matutino e vespertino:  
+Matutino: 
+- Requisitos de Segurança para Desenvolvimento e Manutenção de Sistemas, com 
+Estefânia Pianoski. 
+- Blockchain, com Ricardo Mühlbauer 
+Vespertino:  
+-  Sinalização ferroviária - O papel das tecnologias de software na implementação das 
+soluções para sistemas críticos, com Sergio Fumio. 
+- Desmitificando a Internet das Coisas, com Wellington Roque. 
+- Gestão de Projetos Ágeis com Scrum, com Caroline Oliveira. 
+ 
+Fatec SCS Games Day 
+No dia 26/11/2022 foi realizada a 11ª edição do evento anual do curso de Jogos 
+Digitais, dessa vez dando ênfase ao empreendedorismo no setor e contando com 
+uma programação de palestras ministradas por ex-alunos do curso que estão obtendo 
+destaque com suas iniciativas, inclusive iniciadas durante a graduação. Foram 
+realizadas as palestras “Como ingressar com seus jogos na Steam sendo um 
+iniciante”, com Caique Albuquerque Nadal e Nicolas Araújo da empresa Opala 
+Project, “Acelerando Juntos”, com Aleck Fernandes Inacio e Anderson Lima Marques 
+do SP Racers, trabalho de conclusão de curso que foi selecionado para mentoria e 
+captação de recursos no edital Vai Tec Games e “Pedra, Papel e Tesoura Ganharam 
+Vida. VE-POWER // A Cura”, com Victor Garcez, responsável pelo projeto “A Cura”, 
+que teve seu desenvolvimento iniciado ainda durante a graduação, também tendo 
+sido selecionado no edital Vat Tec Games. Para o evento foram convidados alunos, 
+ex-alunos, público externo e candidatos ao vestibular. 
+ 
+Security Day 
+O Security Day aconteceu no dia 6 de outubro, nos períodos da manhã e da noite, de 
+forma presencial. Foram 3 palestras no período da manhã: 
+- Carreira em Segurança da Informação: uma abordagem prática de Blue Team e Red 
+Team com Marcos Veides. 
+- Neurociência aplicada ao comportamento de risco com João Paulo. 
+- Cyber Guerra: o lado empresarial da força com Mayara Guerini. 
+No período da noite:  
+- Mesa redonda com egressos do curso de Segurança da Informação, com o tema 
+“Segurança da Informação, vários caminhos, mas uma única origem”. 
+- Palestra “Ingressando na carreira de perícia forense” com Estefânia Pianoski. 
+ 
+Selo Instituição Socialmente Responsável 
+Pelo 7º ano consecutivo a Fatec São Caetano do Sul foi condecorada como o Selo de 
+Instituição Socialmente Responsável pela ABMES. 
+ 
+Ação Solidária 
+Campanha de arrecadação de roupas para o Centro de Solidariedade de São Caetano  
+ 
+ 
+_____________________________________________________________________________________________ 
+ 
+Administração Central 
+Unidade do Ensino Superior de Graduação 
+ 
+_____________________________________________________________________________________________________________________________________________ 
+www.cps.sp.gov.br 
+Rua dos Andradas, 140  •  Santa Ifigênia  •  01208-000  •  São Paulo  •  SP  •  Tel.: (11) 3324-3300 
+5 
+Trote Solidário 
+Retorno do trote solidário, arrecadação de alimentos para o Fundo Social de 
+Solidariedade de São Caetano do Sul 
+ 
+Lançamento de Livro 
+Celebrando os 15 anos da unidade, no dia 25 de outubro, foi lançado o livro Inovação 
+no contexto pós-pandemia, com capítulos escritos pelos professores da Fatec São 
+Caetano do Sul. 
+ 
+Reconhecimento de Cursos 
+Em 18/03/2022 o curso de Jogos Digitais recebeu os especialistas do Conselho 
+Estadual de Educação para a visita in loco como parte do processo de renovação de 
+reconhecimento do curso de Jogos Digitais. Houve reuniões com o Corpo Docente, 
+Discente e Técnico-Administrativo, com a Coordenação do Curso e a Direção da 
+Unidade, além da análise do Projeto Pedagógico do Curso e visita às instalações da 
+Unidade. No último dia 07/12/2022 foi publicada a Portaria CEE-GP-540, confirmando 
+a renovação de reconhecimento do curso por mais quatro anos. 
+O curso de Comércio Exterior também recebeu visita de especialistas no dia 
+08/03/2022, realizando reuniões com docentes, discentes, técnicos administrativo, 
+coordenação e direção, além de visitar as instalações da unidade. O parecer de 
+renovação de reconhecimento do curso foi publicado em 30/06/2022, aprovando a 
+renovação do curso por 5 anos. 
+ 
+Participação no Fórum de Ensino de Jogos Digitais 
+O Prof. Alan Carvalho, Coordenador do Curso de Jogos Digitais, novamente foi 
+responsável pela organização do Fórum de Ensino de Jogos Digitais, atividade 
+realizada como parte do SBGames 2022, o maior simpósio da América Latina voltado 
+a discussões sobre jogos e entretenimento digital. Nessa atividade, que já ocorre há 
+sete anos, docentes, pesquisadores e profissionais do setor de diversas instituições 
+de ensino e pesquisa, bem como de estúdios brasileiros e empresas promotoras de 
+cursos livres na área, reúnem-se para discutir questões relacionadas à formação de 
+profissionais para o setor. Na edição 2022 do evento, realizado em 25/10/2022 na 
+cidade de Natal/RN, foram discutidos temas como a curricularização da extensão e os 
+reflexos da pandemia no ensino de Jogos Digitais. 
+ 
+Joga Fatec SCS 
+No dia 03/12/2022 foram realizadas as apresentações dos Projetos de Graduação 
+(TCC) do curso de Jogos Digitais, sendo para isso organizada uma exposição dos 
+jogos classificados numa primeira fase de avaliação, realizada pelos orientadores dos 
+diversos projetos. Na exposição, os convidados (alunos, ex-alunos, público externo e 
+candidatos ao vestibular) puderam conhecer e jogar os jogos, além de interagir com 
+os alunos desenvolvedores. Foram apresentados os jogos Dungeon's End 
+(desenvolvido pelos alunos Bruno Goncalves Pedreira, Carlos Antonio dos Reis e 
+Gustavo Tajima Moraes), Glam (desenvolvido pelos alunos Barbara Perez Teixeira, 
+Gabriel Gomes Correa e Maxwell Maia), Tetrisverse (desenvolvido pelos alunos 
+Augusto Sousa Gomes, Fernando Pla, Gabriel Silva de Camargo e Giulia Neves 
+Galvão de Oliveira) e Tower Mafagafense (desenvolvido pelos alunos Estevan de 
+ 
+_____________________________________________________________________________________________ 
+ 
+Administração Central 
+Unidade do Ensino Superior de Graduação 
+ 
+_____________________________________________________________________________________________________________________________________________ 
+www.cps.sp.gov.br 
+Rua dos Andradas, 140  •  Santa Ifigênia  •  01208-000  •  São Paulo  •  SP  •  Tel.: (11) 3324-3300 
+6 
+Paula Zuppo, Katty Yuri Sato, Murilo do Amaral Rocha e Ulisses Augusto Lucio de 
+Paula). 
+ 
+ENADE 
+Os alunos, concluintes, do curso de Comércio Exterior e Gestão Empresarial (EaD) 
+participaram da prova Enade em 27 de novembro de 2022. O curso de Análise e 
+Desenvolvimento de Sistemas, que participou do Enade 2021, obteve nota 4,0. 
+ 
+IIII. B – Estratégias e medidas para minimizar os PONTOS FRACOS 
+ 
+Em 2022 foi possível finalizar a reforma para correção do problema das patologias do 
+piso em virtude do recalque do solo, bem como a selação das tricas do piso e conserto 
+das calhas e correção do gesso do Hall, conserto da parte elétrica da área da cantina 
+e troca de caixilhos das janelas dos laboratórios 3 e 4, além de pintura interna e externa 
+do prédio. 
+ 
+Com o ingresso dos alunos do curso de Análise e Desenvolvimento de Sistemas – 
+Articulação Médio e Superior, foi possível montar dois laboratórios móveis, com reforma 
+elétrica nas salas 7 e 9, porém a mobilidade ainda não é possível por não termos os 
+carrinhos para transporte dos notebooks adequados para o procedimento. 
+ 
+Os alunos do curso de ADS-AMS puderam participara do ADS Day e de eventos 
+específicos: 
+Internet das Coisas com o professor Fabio Cabrini 
+A função da TI e a Cybersegurança com Ricardo Mühlbauer 
+Visita à Volkswagen do Brasil 
+ 
+Em 2022 recebemos equipamentos para o Espaço Maker (notebooks, televisor, lousa 
+digital) porém ainda falta o recebimento de mobiliário. Também recebemos televisores 
+de 65 polegadas que substituíram os projetores e melhoram a qualidade do material 
+expositivo dos professores em sala de aula. 
+ 
+Com a retorno das aulas presenciais, todos os esforços às solicitações reivindicadas 
+no Plano de Desenvolvimento Institucional, pela direção da unidade, foram 
+parcialmente implantadas, fazendo com que a unidade, que completou 15 anos em 
+2022, tenha celebrado com uma restauração predial e atualização tecnológica, 
+atendendo às expectativas de ensino superior de qualidade.  
+ 
+III. C – Estratégias e medidas para aproveitar as OPORTUNIDADES 
+No ano de 2022 a diretora da unidade manteve sua participação no Conselho de 
+Inovação e no Conselho de Desenvolvimento Econômico do município de São Caetano 
+do Sul  e retornou ao Conselho do IBGE, possibilitando parcerias e contribuindo de 
+forma mais efetiva com o município e o relacionamento com empresas.  
+ 
+III. D – Estratégias e medidas para sua suavizar as AMEAÇAS 
+Reiteramos todos os itens de ameaças para os cursos de nossa unidade, em 2022, 
+com o retorno do vestibular presencial a partir do 2º. Semestre, tivemos uma queda na 
+média de inscrições.  
+ 
+_____________________________________________________________________________________________ 
+ 
+Administração Central 
+Unidade do Ensino Superior de Graduação 
+ 
+_____________________________________________________________________________________________________________________________________________ 
+www.cps.sp.gov.br 
+Rua dos Andradas, 140  •  Santa Ifigênia  •  01208-000  •  São Paulo  •  SP  •  Tel.: (11) 3324-3300 
 7 
  
-Desconhecimento do público externo sobre os cursos 
-da instituição. 
-4 
  
-Estrutura de segurança insuficiente para prevenção de 
-acidentes. 
  
+Divulgação vestibular  
+A unidade tem consolidado a divulgação dos cursos ofertados, em 2022 foi possível 
+participar ativamente de alguns eventos de profissões organizados por escolas de 
+Ensino Médio na Grande São Paulo, presencialmente, e manter o engajamento e por 
+meio das redes sociais. Professores e coordenadores de curso da Fatec São Caetano 
+do Sul – Antonio Russo participaram da Feira de Profissões, promovida pela Uniexpo, 
+para divulgação do vestibular da Fatec e orientação em relação aos cursos oferecidos 
+pela Unidade. Representantes da Fatec São Caetano do Sul estiveram presentes nas 
+feiras realizadas na ETEC Camargo Aranha, na ETEC Jorge Street, na ETEC Martin 
+Luther king e na ETEC Lauro Gomes. 
+ 
+Cursos QBFic 
+Cursos em parceria com a Secretaria Municipal de Desenvolvimento de São Caetano 
+do Sul (SEDETI), o CPS e o QBFic foram realizados para a comunidade externa: 
+1 turma do Curso Assistente Administrativo (maio/2022) 
+2 turmas do Curso de Assistente de RH (junho e agosto/2022) 
+ 
+Parcerias 
+- Em março de 2022, aconteceu reunião de para uma maior sinergia entre a Fatec 
+São Caetano do Sul - Antônio Russo, Coalizão digital do ABC, parque tecnológico 
+SA, ABC Valley e o SEBRAE. 
+- SAMU: curso de treinamento para funcionários (19/04/2022). Estamos em andamento 
+com convênio com a Secretaria Municipal de Saúde para projetos com o SAMU. 
+- Receita Federal: assinatura de convênio para implantação do NAF (Núcleo de 
+Atendimento Financeiro) que terá a participação dos alunos de Comércio Exterior. 
+- NUBE: Ação presencial para cadastramento de vagas (09/06/2022) 
+- Conexão Brasil-França: encontro online com a universidade francesa Université 
+Grenoble Alpes sobre pesquisa acadêmica com o uso de Jogos Digitais. 
+- Toeic: Aplicação do exame por professores credenciados, oferecido aos alunos de 5º 
+e 6º semestres de todos os cursos. 
+- Visita Técnica à Wilson Sons, Logística: As visitas técnicas realizadas com os 
+estudantes de 2º a 6º semestre do curso de Comércio Exterior da FATEC São Caetano 
+do Sul – Antonio Russo ao Centro de Distribuição (CD) da Wilson, Sons Logística, nos 
+dias 11 de agosto, e 8 e 9 de setembro de 2022, os estudantes puderam verificar na 
+prática não só a integração das disciplinas de Logística Aplicada, Logística 
+Internacional e Modais de Transporte e Seguro de Carga, como também as demais 
+ 
+_____________________________________________________________________________________________ 
+ 
+Administração Central 
+Unidade do Ensino Superior de Graduação 
+ 
+_____________________________________________________________________________________________________________________________________________ 
+www.cps.sp.gov.br 
+Rua dos Andradas, 140  •  Santa Ifigênia  •  01208-000  •  São Paulo  •  SP  •  Tel.: (11) 3324-3300 
 8 
+disciplinas do curso que tratam de questões estratégicas e legais voltadas ao comércio 
+exterior. 
+- Visita Técnica ao evento Movimat/FENATRAN: No dia 8 de novembro de 2022, foi 
+realizada uma visita técnica ao evento Movimant/FENATRAN com alunos do 3º. e 6º 
+semestres do curso de Comércio Exterior.  
  
-Evasão escolar. 
+ATIVIDADES NÃO REALIZADAS E JUSTIFICATIVAS (máximo 12.000 caracteres) 
+IIII. A – Estratégias e medidas para potencializar os PONTOS FORTES 
  
-DEFINIÇÃO DE OBJETIVOS, METAS E AÇÕES (PROJETOS) 
-Objetivos 
-1 
-Atender às demandas sociais e do mercado de trabalho. 
-2 
-Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem. 
-3 
-Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no desenvolvimento 
-tecnológico e inovação. 
-4 
-Aumentar a eficiência, a produtividade e a competitividade da instituição. 
-5 
-Ampliar a oferta da Educação Profissional. 
- 
-Os objetivos devem estar relacionados com melhoria ou ação, sobre itens do PDI. 
+Tendo em vista a retirada de todos os itens de Bens e Serviços para ampliação do 
+prédio de nossa unidade, entendemos que tal solicitação não poderá ser atendida, 
+neste momento, e todo o planejamento realizado para esta ampliação mantem-se 
+suspenso. 
  
-Metas 
-1 
-Apresentar à CESU, até julho de 2023, o Projeto de 
-Implantação de mais 01 CST na unidade. 
+Aplicativo de Carona 
+Desde 2020 solicitamos a hospedagem do aplicativo no servidor do Centro Paula 
+Souza, 
+porém 
+ainda 
+não 
+tivemos 
+retorno 
+do 
+Gabinete 
+sobre 
+a 
+disponibilidade/possibilidade.  
  
-5 
-Atualizar até julho de 2023, os Relatórios Técnicos 
-para adequação estrutural do prédio da unidade. 
-2 
-Apresentar à CESU, até agosto de 2023, os Projetos 
-de Implantação de 04 Cursos de Pós-Graduação na 
-unidade.  
+Novotec 
+A Fatec São Caetano do Sul propôs o curso de Técnicas de Atendimento, porém não 
+houve demanda para abertura do curso no ano de 2022.  
  
-6 
-Reduzir em 10% a evasão escolar em 2023. 
+Informativo Trimestral 
+Visando a ampliação da transparência das ações realizadas pelo corpo diretivo, desde 
+o segundo semestre de 2019, foi implantado o informativo trimestral com todas as 
+realizações e acontecimentos da unidade, com divulgação para comunidade interna e 
+externa.  
  
-3 
-Apresentar à CESU, até setembro de 2023, os Projetos 
-de Implantação de 02 Cursos AMS na unidade. 
- 
-7 
-Aumentar em 10% a empregabilidade dos alunos da 
-Fatec Praia Grande no ano de 2023. 
-4 
-Atualizar até julho de 2023, os Relatórios Técnicos 
-para adequação dos ambientes físicos das salas e 
-laboratórios da unidade.  
- 
-8 
-Aumentar em 20% o número de candidato-vaga para 
-os cursos de menor demanda (GE manhã, Comex 
-manhã, PQ manhã e noite, DSM vespertino). 
- 
-Observar que cada meta deve ser: específica, mensurável, atingível, relevante e temporal. 
- 
- 
- 
-ESTRUTURAÇÃO DAS AÇÕES/PROJETOS 
-01 - Didático-pedagógico 
-AÇÃO/PROJETO 
-A - ESTUDO PRELIMINAR DE IMPLANTAÇÃO DO CST EM SISTEMAS BIOMÉDICOS 
-O que será feito: 
-Estudo sobre a viabilidade de implantação do Curso de Sistemas Biomédicos 
-Por que será feito: 
-O objetivo é atender as necessidades do município de Praia Grande que vem investindo cada vez 
-mais na área de saúde, procurando elevar cada vez mais a qualidade do atendimento do 
-munícipe em todos os bairros, para tanto, implantou nos últimos anos 30 Unidades de Saúde da 
-Família e oferece O Programa de Residência Médica (R1), visa o preenchimento de um total de 12 
-vagas para o Programa Municipal de Residência Médica em Medicina Geral de Família e 
-Comunidade da Prefeitura da Estância Balneária de Praia Grande, instituído por meio da Portaria 
-SESAP/Nº 025/2015 em 25/11/2015, e com credenciamento de 5 anos aprovado pela Comissão 
-Nacional de Residência Médica – CNRM, em seu Parecer SISCNRM n°. 949/2018, de 21 de 
-novembro de 2018 (Processo n°2017- 1629 – Secretaria de Educação Superior/Ministério da 
-Educação) em consonância com as Normas e Resoluções emanadas da Comissão Nacional de 
-Residência Médica, da Secretaria de Educação Superior do Ministério da Educação 
-(CNRM/SESu/MEC), 
-No que diz respeito a unidade de emergência, Praia Grande possui o atendimento no Hospital 
-Irmã Dulce e nas Unidades de Urgência e Emergência que ocorre 24 horas todos os dias.  
-A cidade possui ainda diversos Centros de Especialidades: 
- 
-Responsável(is) / CH sem: Nilson Carlos Duarte da Silva/ 04h 
-Período de execução: 
-Data de início: 
-01/02/2023 
-Data final: 
-31/07/2023 
-Etapas do processo: 
-Estudo Técnico de viabilidade social e mercadológica do pedido. 
-01/02/2023 
-27/03/2023 
-Estudo sobre infraestrutura necessária. 
-28/03/2023 
-31/03/2023 
-Estudo sobre laboratórios e seus equipamentos e materiais/Rec. 
-Humano. 
-04/04/2023 
-29/04/2023 
-Ata do Grupo de Especialistas. 
-03/05/2023 
-04/05/2023 
-Ata da Congregação. 
-01/06/2023 
-13/06/2023 
-Ata da Regional. 
-16/06/2023 
-26/06/2023 
-Protocolo e oficialização do Pedido na CESU. 
-31/07/2023 
-31/07/2023 
-Custo (se houver): 
- 
-Fonte(s) dos recursos: 
- 
-Objetivo(s) relacionado(s): Ampliar o número de cursos da FATEC-PG, bem como ampliar a oferta de cursos de Graduação 
-no município, buscando atender o mercado e contribuir para a educação profissional da região. 
-Meta(s) relacionada(s): 
-Apresentar proposta de implantação de novos cursos: 01 CST. 
- 
-AÇÃO/PROJETO 
-B – ESTUDO PRELIMINAR DE IMPLANTAÇÃO DE CURSO AMS EM ADS 
-O que será feito: 
-Estudo sobre a viabilidade de implantação do Curso MTEC/MEC de Informática para Internet e 
-Desenvolvimento de Sistemas. 
-Por que será feito: 
-A cidade de Praia Grande conta com a instalação da ETEC Guilhermina e ETEC Maracanã que 
-oferece Ensino Médio MTEC/MEC nas áreas de Informática para Internet e Desenvolvimento de 
-Sistemas. A Fatec Praia Grande oferece o curso superior de Tecnologia em Análise e 
-Desenvolvimento de Sistemas e recentemente implantou o curso de Desenvolvimento de 
-Software Multiplataforma. A modalidade AMS permite que em um período de cinco anos, o 
-estudante conclua o ensino médio, técnico e superior. A região possui o porto de santos e conta 
-com empresas de vários segmentos. Com essa modalidade sendo implantada no período 
-vespertino, poder-se-á atender uma parcela dos estudantes da região permitindo que estes 
-possam passar por diferentes níveis de ensino em uma única instituição, a fim de que possam 
-chegar ao mercado de trabalho qualificados em um tempo mais curto. 
- 
-Responsável(is)/CH sem: 
-Nilson Carlos Duarte da Silva/ 02h 
-Período de execução: 
-Data de início: 
-01/02/2023 
-Data final: 
-30/09/2023 
-Etapas do processo: 
-Estudo Técnico de viabilidade social e demanda na região (NDE). 
-01/03/2023 
-30/04/2023 
-Estudo sobre infraestrutura necessária (NDE). 
-01/03/2023 
-30/04/2023 
-Elaboração do Projeto Pedagógico do Curso. 
-01/05/2023 
-16/06/2023 
-Ata com parecer do Núcleo Docente Estruturante (NDE). 
-19/06/2023 
-19/06/2023 
-Ata da Congregação.  
-Ata da Regional. 
-26/06/2023 
-30/07/2023 
-Reunião com a Direção da ETEC-PG. 
- 
-01/08/2023 
-30/08/2023 
-Protocolo e oficialização do Pedido na CESU. 
-30/09/2023 
-30/09/2023 
-Custo (se houver): 
- 
-Fonte(s) dos recursos: 
- 
-Objetivo(s) 
-relacionado(s): 
-Ampliar o número de cursos da FATEC-PG, bem como ampliar a oferta de cursos de Graduação 
-no município, buscando atender o mercado e contribuir para a educação profissional da região. 
-Meta(s) relacionada(s): 
-Apresentar proposta de implantação de novos cursos AMS: 01 curso na área TI. 
- 
-AÇÃO/PROJETO 
-C - ESTUDO PRELIMINAR DE IMPLANTAÇÃO DE CURSO AMS EM PROCESSO QUÍMICOS 
-O que será feito: 
-Estudo sobre a viabilidade de implantação do Curso de Processos Químicos modalidade AMS 
-(Matutino). 
-Por que será feito: 
-A cidade de Praia Grande possui uma ETEC que oferece Ensino Médio com Habilitação Profissional 
-para Técnico em Química (M-Tec) e uma Fatec que oferece o curso superior de Tecnologia em 
-Processos Químicos. A modalidade AMS permite que em um período de cinco anos, o estudante 
-conclua o ensino médio, técnico e superior. A região também possui um pólo petroquímico 
-contando com empresas de vários segmentos. Com essa modalidade sendo implantada no período 
-matutino, poderemos atender uma parcela dos estudantes da região permitindo que estes possam 
-passar por diferentes níveis de ensino em uma única instituição, a fim de que possam chegar ao 
-mercado de trabalho qualificados em um tempo mais curto.         O conceito por trás dessa proposta 
-visa atender dois segmentos diferentes de estudantes: o curso em AMS atenderia no matutino e 
-o curso de Processos Químicos atual (em 3 anos), no noturno, continuaria atendendo a demanda 
-existente de alunos que já cursaram o Ensino Médio ou que fizeram outra graduação. 
-Responsável(is)/CHsem: 
-Waldemar Alves Ribeiro Filho/ 02h 
-Período de execução: 
-Data de início: 
-01/02/2023 
-Data final: 
-30/09/2023 
-Etapas do processo: 
-Estudo Técnico de viabilidade social e demanda na região (NDE). 
-01/03/2023 
-30/04/2023 
-Estudo sobre infraestrutura necessária (NDE). 
-01/03/2023 
-30/04/2023 
-Elaboração do Projeto Pedagógico do Curso. 
-01/05/2023 
-16/06/2023 
-Ata com parecer do Núcleo Docente Estruturante (NDE). 
-19/06/2023 
-19/06/2023 
-Ata da Congregação.  
-Ata da Regional.  
-26/06/2023 
-30/06/2023 
-Reunião com a Direção da ETEC-PG. 
-01/04/2023 
-30/04/2023 
-Protocolo e oficialização do Pedido na CESU.  
- 
-30/09/2023 
-30/09/2023 
-Custo (se houver): 
- 
-Fonte(s) dos 
-recursos: 
- 
-Objetivo(s) 
-relacionado(s): 
-Ampliar o número de cursos da FATEC-PG, bem como ampliar a oferta de cursos de Graduação no 
-município, buscando atender o mercado e contribuir para a educação profissional da região. 
-Meta(s) relacionada(s): 
-Apresentar proposta de implantação de novos cursos AMS: 01 curso na área Química. 
- 
-AÇÃO/PROJETO 
-D - ESTUDO PRELIMINAR DE IMPLANTAÇÃO DE CURSO PÓS-GRADUAÇÃO EM ANÁLISE DE 
-SISTEMAS. 
-O que será feito: 
-Implantação de curso de Pós-Graduação “lato sensu” na área de Análise de Sistemas. 
-Especialização com 360 h. 
-Por que será feito: 
-Uma pós-graduação em Análise de Sistemas pode ajudar a melhorar suas perspectivas de carreira, 
-dando-lhe habilidades e conhecimentos adicionais que os empregadores estão procurando. Os 
-graduados em Análise de Sistemas são procurados por empresas de TI, empresas de software, 
-instituições financeiras, empresas de varejo e muitos outros setores. 
- 
-Responsável(is) / CH sem: Nilson Carlos Duarte da Silva/ 02h  
-Período de execução: 
-Data de início: 
-01/03/2023 
-Data final: 
-30/08/2023 
-Etapas do processo: 
-Estudo Técnico de viabilidade social e demanda na região (comissão 
-designada pelo NDE). 
-01/03/2023 
-31/03/2023 
-Estudo sobre infraestrutura necessária (Comissão designada). 
-01/03/2023 
-31/03/2023 
-Elaboração do Projeto Pedagógico do Curso. 
-01/04/2023 
-12/06/2023 
-Ata com parecer do Núcleo Docente Estruturante (NDE). 
-19/06/2023 
-19/06/2023 
-Ata da Congregação.  
-26/06/2023 
-30/06/2023 
-Ata da Regional. 
-01/07/2023 
-30/07/2023 
-Protocolo e oficialização do Pedido na CESU.  
-30/08/2023 
-30/08/2023 
-Custo (se houver): 
- 
-Fonte(s) dos recursos: 
- 
-Objetivo(s) relacionado(s): 
-Ampliar o número de cursos da FATEC-PG, bem como ampliar a oferta de cursos de Pós-
-Graduação no município, buscando atender o mercado e contribuir para a educação profissional 
-da região. 
-Meta(s) relacionada(s): 
- 
-Apresentar proposta de implantação de novos cursos de Pós-Graduação: 01curso na área TI. 
- 
-AÇÃO/PROJETO 
-E - ESTUDO PRELIMINAR DE IMPLANTAÇÃO DE CURSO PÓS-GRADUAÇÃO EM PROCESSOS 
-QUÍMICOS 
-O que será feito: 
-Implantação de curso de Pós-Graduação “lato sensu” na área de Processos Químicos. 
-Especialização com 360 h. 
-Por que será feito: 
-Muitos de nossos egressos desejam após concluir a graduação continuar os estudos fazendo uma 
-pós-graduação. Esses ex-alunos não têm hoje na região da Baixada Santista nenhuma oferta de 
-curso de especialização direcionado para o trabalho na Indústria, seja na área de produção ou 
-nos laboratórios. 
-Responsável(is)/CH sem: 
-Waldemar Alves Ribeiro Filho/ 02h 
-Período de execução: 
-Data de início: 
-01/03/2023 
-Data final: 
-30/08/2023 
-Etapas do processo: 
-Estudo Técnico de viabilidade social e demanda na região (comissão 
-designada pelo NDE). 
-01/03/2023 
-31/03/2023 
-Estudo sobre infraestrutura necessária (Comissão designada). 
-01/03/2023 
-31/03/2023 
-Elaboração do Projeto Pedagógico do Curso. 
-01/04/2023 
-12/06/2023 
-Ata com parecer do Núcleo Docente Estruturante (NDE). 
-19/06/2023 
-19/06/2023 
-Ata da Congregação.  
-26/06/2023 
-30/06/2023 
-Ata da Regional. 
-01/07/2023 
-30/07/2023 
-Protocolo e oficialização do Pedido na CESU.  
-30/08/2023 
-30/08/2023 
-Custo (se houver): 
- 
-Fonte(s) dos recursos: 
- 
-Objetivo(s) 
-relacionado(s): 
-Ampliar o número de cursos da FATEC-PG, bem como ampliar a oferta de cursos de Pós-
-Graduação no município, buscando atender o mercado e contribuir para a educação profissional 
-da região. 
-Meta(s) relacionada(s): 
-Apresentar proposta de implantação de novos cursos de Pós-Graduação: 01curso na área 
-Química. 
- 
-AÇÃO/PROJETO 
-F - ESTUDO PRELIMINAR DE IMPLANTAÇÃO DE CURSO PÓS-GRADUAÇÃO EM GESTÃO 
-ESTRATÉGICA DE NEGÓCIOS. 
-O que será feito: 
-Um estudo sobre a viabilidade de Implantação do Curso de Pós-Graduação em Gestão 
-Estratégica de Negócios 
-Por que será feito: 
-Atendimento da Demanda da Região Metropolitana de Santos 
-Responsável(is) / CH 
-sem: 
-João Carlos Gomes/ 02h 
-Período de execução: 
-Data de início: 
-01/03/2023 
-Data final 
-30/08/2023 
- 
-Estudo Técnico de viabilidade social e demanda na região 
-(comissão designada pelo NDE). 
-01/03/2023 
-31/03/2023 
-Estudo sobre infraestrutura necessária (Comissão designada). 
-01/03/2023 
-31/03/2023 
-Elaboração do Projeto Pedagógico do Curso. 
-01/04/2023 
-12/06/2023 
-Ata com parecer do Núcleo Docente Estruturante (NDE). 
-19/06/2023 
-19/06/2023 
-Ata da Congregação.  
-26/06/2023 
-30/06/2023 
-Ata da Regional. 
-01/07/2023 
-30/07/2023 
-Protocolo e oficialização do Pedido na CESU.  
-30/08/2023 
-30/08/2023 
-Custo (se houver): 
- 
-Fonte(s) dos recursos: 
- 
-Objetivo(s) 
-relacionado(s): 
-Ampliar o número de cursos da FATEC-PG, bem como ampliar a oferta de cursos de Pós-
-Graduação no município, buscando atender o mercado e contribuir para a educação profissional 
-da região. 
-Meta(s) relacionada(s): 
-Apresentar proposta de implantação de novos cursos de Pós-Graduação: 01curso na área de 
-Negócios. 
- 
-AÇÃO/PROJETO 
-G - ESTUDO PRELIMINAR DE IMPLANTAÇÃO DE CURSO PÓS-GRADUAÇÃO EM NEGÓCIOS 
-INTERNACIONAIS, DIREITO MARÍTIMO E LEGISLAÇÃO PORTUÁRIA  
-O que será feito: 
-Um estudo sobre a viabilidade de implantação do Curso de Pós-Graduação em Negócios 
-Internacionais, Direito Marítimo e Legislação Portuária 
-Por que será feito: 
-Para atendimento às demandas da Região Metropolitana de Santos 
-Responsável(is) / CH 
-sem: 
-Ulysses Camargo Corrêa Diegues/ 02h 
-Período de execução: 
-Data de início 
-01/03/2023 
-Data final 
-30/08/2023 
- 
-Estudo Técnico de viabilidade social e demanda na região 
-(comissão designada pelo NDE). 
-01/03/2023 
-31/03/2023 
-Estudo sobre infraestrutura necessária (Comissão designada). 
-01/03/2023 
-31/03/2023 
-Elaboração do Projeto Pedagógico do Curso. 
-01/04/2023 
-12/06/2023 
-Ata com parecer do Núcleo Docente Estruturante (NDE). 
-19/06/2023 
-19/06/2023 
-Ata da Congregação.  
-26/06/2023 
-30/06/2023 
-Ata da Regional. 
-01/07/2023 
-30/07/2023 
-Protocolo e oficialização do Pedido na CESU.  
-30/08/2023 
-30/08/2023 
-Custo (se houver): 
- 
-Fonte(s) dos recursos: 
- 
-Objetivo(s) 
-relacionado(s): 
-Ampliar o número de cursos da FATEC-PG, bem como ampliar a oferta de cursos de Pós-
-Graduação no município, buscando atender o mercado e contribuir para a educação profissional 
-da região. 
-Meta(s) relacionada(s): 
-Apresentar proposta de implantação de novos cursos de Pós-Graduação: 01curso na área 
-Portuária e Negócios Internacionais. 
- 
-AÇÃO/PROJETO  
-H - ESTUDO PRELIMINAR DE IMPLANTAÇÃO DE EVENTOS HACKATHON 
-O que será feito:  
-Um estudo sobre a viabilidade de capacitação docente para Implantação e execução de eventos 
-Hackathon na Fatec Praia Grande.  
-Por que será feito:  
-Para gerar competências na solução de problemas/oportunidades na vida dos jovens 
-possibilitando a criação de mecanismos de comunicação, digital ou não, relacionamento 
-interpessoal, condutas proativas para o trabalho e para o estudo. 
-Responsável(is)/CH sem:  João Carlos Gomes/ 02h  
-Período de execução:  
-Data de início:  
-01/04/2023  
-Data final:  
-30/04/2023  
-Etapas do processo:  
-Desenvolver os conceitos, diretrizes primárias e regras que visam 
-auxiliar no planejamento e Execução do Hackathon.  
-01/04/2023  
-07/04/2023  
-Elaborar os critérios para definição dos grupos de pessoas 
-envolvidos: estudantes, professores, empresários, apoiadores, 
-tutores, mentores e jurados  
-08/04/2023  
-15/04/2023  
-Mapear o ambiente de empreendedorismo e inovação nas 
-cidades do entorno da Unidade. Definição dos recursos a serem 
-utilizados   
-16/04/2023  
-22/04/2023  
-Desenvolver as Diretrizes Legais   
-22/04/2023  
-30/04/2023  
-Custo (se houver):  
+IIII. B – Estratégias e medidas para minimizar os PONTOS FRACOS 
   
-Fonte(s) dos recursos:  
-  
-Objetivo(s) 
-relacionado(s):  
-Melhorar a formação profissional dos alunos com foco em tecnologias e processos produtivos 
-inovadores. 
-Meta(s) relacionada(s):  
-Reduzir a evasão escolar em 10% e aumentar a empregabilidade dos alunos em 10%. 
- 
-AÇÃO/PROJETO  
-I – ORGANIZAR PROGRAMA DE BOLSAS MONITORIA DE DISCIPLINAS - MD 
-O que será feito:  
-Edital de seleção de alunos monitores de disciplinas com bolsas semestrais para o curso de 
-Análise e Desenvolvimento de Sistemas, Comércio Exterior, Gestão Empresarial e Processos 
-Químicos.  
-Por que será feito:  
-Para apoiar a aprendizagem dos alunos em disciplinas de maior dificuldade, por meio dos alunos 
-monitores e orientação dos professores.  
-Responsável(is)/CH sem:  Nilson Carlos Duarte da Silva/ 01h; Ulysses Camargo Corrêa Diegues/ 01h; João Carlos Gomes/ 
-01h; Waldemar Alves Ribeiro Filho/ 01h. 
-Período de execução:  
-Data de início:  
-01/12/2022  
-Data final:  
-08/02/2023  
-Etapas do processo:  
-Elaboração dos editais de monitoria, a partir da análise das 
-disciplinas com maior índice de reprovação em cada um dos 
-cursos.  
-01/12/2022 
-03/12/2022 
-Divulgação dos editais de monitoria para a comunidade discente.  04/12/2022 
-20/12/2022 
-Análise das inscrições e apuração dos resultados.  
-21/12/2022 
-22/12/2022 
-Divulgação dos resultados da seleção dos monitores.  
-01/02/2023 
-08/02/2023 
-Custo (se houver):  
-  
-Fonte(s) dos recursos:  
-  
-Objetivo(s) 
-relacionado(s):  
-Alcançar maior nível de aprendizagem para a melhoria da formação profissional dos alunos.  
-Meta(s) relacionada(s):  
-Reduzir a evasão escolar em 10%. 
- 
- 
-02 – Ensino e Equipamentos Associados (Laboratórios) 
-AÇÃO/PROJETO 
-A – ORGANIZAR E ADEQUAR OS LABORATÓRIOS DE QUÍMICA 
-O que será feito: 
-Atualização da proposta de adequação elétrica e estrutural dos laboratórios do Curso de Processos 
-Químicos. 
-Por que será feito: 
-Para atender a necessidade das aulas práticas das disciplinas de Química Geral, Química Inorgânica, 
-Química Orgânica, Química Analítica, Análise Instrumental, Corrosão, Química do Meio Ambiente, 
-Física, Operações Unitárias, Mecânica dos Fluídos e Processos Químicos I e II.  
-Responsável(is) / CH sem: Viviam Ester de Souza/ 02h e Waldemar Alves Ribeiro Filho/ 02h 
-Período de execução: 
-Data de início: 
-01/02/2023 
-Data final: 
-01/06/2023 
-Etapas do processo: 
-Revisão dos relatórios técnicos dos laboratórios dos Curso de 
-Química. 
-01/02/2023  
-30/03/2023  
-Atualização dos relatórios de acordo com os dados apresentados. 
-01/04/2023  
-15/04/2023  
-Levantamento orçamentário das necessidades dos laboratórios 
-16/04/2023  
-30/04/2023  
-Encaminhamento ao GRP para análise dos relatórios. 
-02/05/2023  
-15/05/2023  
-Encaminhamento à UIE para análise. 
-16/05/2023 
-31/05/2023 
- 
- 
- 
- 
- 
- 
-Custo (se houver): 
- 
-Fonte(s) dos recursos: 
- 
-Objetivo(s) relacionado(s): Alcançar maior grau de excelência no processo de ensino e aprendizagem. E aumentar a eficiência, 
-a produtividade e a competitividade da instituição. 
-Meta(s) relacionada(s): 
-Reduzir a evasão escolar em 10% e aumentar a empregabilidade dos alunos em 10%. Aumentar 
-em 20% a demanda candidato-vaga dos cursos da unidade. 
- 
-AÇÃO/PROJETO 
-B – ORGANIZAR E ADEQUAR OS LABORATÓRIO DE INFORMÁTICA 
-O que será feito: 
-Atualização da proposta de adequação elétrica e de redes dos laboratórios de Informática. 
-Por que será feito: 
-Atender as necessidades básicas de utilização do espaço físico, atendendo as normas NR17, NR 26, 
-NR10 e conforto ambiental (térmico, visual e acústico), para as disciplinas de TI, projetos e 
-pesquisa dos cursos de ADS, Comex, DSM, GE e PQ. 
-Responsável(is) / CH 
-sem: 
-Viviam Ester de Souza/ 02h; Nilson Carlos Duarte da Silva/ 02h e Gilmar Aquino/ 02h 
-Período de execução: 
-Data de início: 
-03/04/2023 
-Data final: 
-01/07/2023 
-Etapas do processo: 
-Revisão dos relatórios técnicos dos laboratórios de informática. 
-03/04/2023  
-30/04/2023  
-Atualização dos relatórios de acordo com os dados apresentados. 
-02/05/2023  
-15/05/2023  
-Levantamento orçamentário das necessidades dos laboratórios. 
-16/05/2023  
-31/05/2023  
-Encaminhamento ao GRP para análise dos relatórios. 
-01/06/2023  
-15/06/2023  
-Encaminhamento à UIE para análise. 
-16/06/2023 
-30/06/2023 
- 
- 
- 
- 
- 
- 
-Custo (se houver): 
- 
-Fonte(s) dos recursos: 
- 
-Objetivo(s) 
-relacionado(s): 
-Alcançar maior grau de excelência no processo de ensino e aprendizagem. E aumentar a eficiência, 
-a produtividade e a competitividade da instituição. 
-Meta(s) relacionada(s): 
-Reduzir a evasão escolar em 10% e aumentar a empregabilidade dos alunos em 10%. Aumentar 
-em 20% a demanda candidato-vaga dos cursos da unidade. 
- 
-AÇÃO/PROJETO 
-C – APRESENTAR PROPOSTA DE AQUISIÇÃO DE SOFTWARE SISCOMEX 
-O que será feito: 
-AQUISIÇÃO DO SOFTWARE SISCOMEX 
-Por que será feito: 
-Para atender as aulas práticas em laboratório de informática da disciplina de Sistemática do 
-Comércio Exterior do curso de Comex. 
-Responsável(is) / CH sem: Ulysses Camargo Corrêa Diegues/ 01h 
-Período de execução: 
-Data de início: 
-08/02/2023 
-Data final: 
-06/06/2023 
-Etapas do processo: 
-1. Solicitação de orçamento ao Setor de Compras para os módulos de 
-importação e exportação do software. 
-13/02/2023 
-13/02/2023 
-2. Recebimento do orçamento. 
-14/02/2023 
-17/03/2023 
-3. Aquisição do software módulo exportação para uso em sala de 
-aula. 
-18/03/2023 
-18/04/2023 
-4. Aquisição do software módulo importação para uso em sala de 
-aula. 
-06/05/2023 
-06/06/2023 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Custo (se houver): 
-R$ 1.458,00 
-Fonte(s) dos recursos: 
- 
-Objetivo(s) relacionado(s): Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no 
-desenvolvimento tecnológico e inovação. 
-Meta(s) relacionada(s): 
-Reduzir a evasão escolar em 10% e aumentar a empregabilidade dos alunos em 10%. Aumentar 
-em 20% a demanda candidato-vaga dos cursos da unidade. 
- 
- 
-03 – Pesquisa / Extensão e Equipamentos Associados 
-AÇÃO/PROJETO 
-A – IMPLANTAR O CURSO DE EXTENSÃO EM LÍNGUAS ESTRANGEIRAS 
-O que será feito: 
-Estruturação da proposta de curso de extensão de língua inglesa aberto a comunidade.  
-Por que será feito: 
-Para atender a demanda dos munícipes de Praia Grande 
-Responsável(is) / CH sem: Ana Lucia Kfouri/ 03h 
-Período de execução: 
-Data de início: 
-14/08/2023 
-Data final: 
-04/12/2023 
-Etapas do processo: 
-Elaboração da ementa do curso. 
-01/02/2023 
-17/02/2023 
-Divulgação do curso. 
-23/02/2023 
-06/03/2023 
-Preparação do material utilizado no curso. 
-17/02/2023 
-14/06/2023 
-Realização das aulas. 
-08/03/2023 
-14/06/2023 
-Avaliação dos resultados com a finalidade de aprimorar o curso e 
-oferecer uma segunda edição no segundo semestre. 
-15/06/2023 
-31/06/2023 
-Emissão dos certificados. 
-15/06/2023 
-31/06/2023 
- 
- 
- 
-Custo (se houver): 
-03 Haes 
-Fonte(s) dos recursos: 
-Fatec PG 
-Objetivo(s) relacionado(s): Atender às demandas sociais e do mercado de trabalho e ampliar a oferta de educação 
-profissional. 
-Meta(s) relacionada(s): 
-Reduzir em 10% a evasão escolar. Aumentar em 20% a demanda candidato-vaga dos cursos da 
-unidade. 
- 
-AÇÃO/PROJETO 
-B – IMPLANTAR O CURSO DE EXTENSÃO ENGLISH FOR TOEFL. 
-O que será feito: 
-Oferecimento de um curso em Língua Inglesa com a finalidade de preparar alunos e egressos para 
-a realização do TOEFL – Test of English as a Foreign Language.  
-Por que será feito: 
-Apesar do discente da Fatec Praia Grande ter em sua grade curricular a disciplina de língua inglesa, 
-não é objetivo dessas aulas o preparo para exames internacionais. Portanto, faz-se necessário 
-que um curso seja oferecido para preparar aqueles estudantes ou egressos que desejam prestar 
-o TOEFL e ingressar em programas de pós-graduação no exterior.  
-Responsável(is) / CH 
-sem: 
-Graziela Pigatto Bohn/ 05h 
-Período de execução: 
-Data de início: 
-01/02/2023 
-Data final: 
-31/06/2023 
-Etapas do processo: 
-Elaboração da ementa do curso. 
-01/02/2023 
-17/02/2023 
-Divulgação do curso. 
-23/02/2023 
-06/03/2023 
-Preparação do material utilizado no curso. 
-17/02/2023 
-14/06/2023 
-Realização das aulas. 
-08/03/2023 
-14/06/2023 
-Avaliação dos resultados com a finalidade de aprimorar o curso e 
-oferecer uma segunda edição no segundo semestre. 
-15/06/2023 
-31/06/2023 
-Emissão dos certificados. 
-15/06/2023 
-31/06/2023 
- 
- 
- 
-Custo (se houver): 
-05 Haes 
-Fonte(s) dos recursos: 
-Fatec PG 
-Objetivo(s) 
-relacionado(s): 
-Atender às demandas sociais e do mercado de trabalho e ampliar a oferta de educação 
-profissional. 
-Meta(s) relacionada(s): 
-Reduzir em 10% a evasão escolar e aumentar a empregabilidade dos alunos em 10%. Aumentar 
-em 20% a demanda candidato-vaga dos cursos da unidade. 
- 
-AÇÃO/PROJETO  
-C – ORGANIZAR PROGRAMA DE BOLSAS MONITORIA DE INICIAÇÃO EM DESENVOLVIMENTO 
-TECNOLÓGICO E INOVAÇÃO - MIDIT  
-O que será feito:  
-Edital de seleção de alunos para bolsas semestrais de pesquisa de Iniciação em Desenvolvimento 
-tecnológico para o Curso de Comércio Exterior e Processos Químicos.  
-Por que será feito:  
-Para incentivar a pesquisa e preparar os alunos para a inovação e desenvolvimento tecnológico, 
-como desenvolvimento de competências na profissão.  
-Responsável(is)/CH sem:  Ulysses Camargo Corrêa Diegues/ 01h e Waldemar Alves Ribeiro Filho/ 01h. 
-Período de execução:  
-Data de início:  
-01/12/2022  
-Data final:  
-08/02/2023  
-Etapas do processo:  
-Elaboração dos editais do programa MIDIT, a partir da análise 
-dos projetos de pesquisa apresentados pelos professores de 
-Comércio exterior e Processos Químicos. 
-01/12/2022 
-03/12/2022 
-Divulgação dos editais para a comunidade discente.  
-04/12/2022 
-20/12/2022 
-Análise das inscrições e apuração dos resultados.  
-21/12/2022 
-22/12/2022 
-Divulgação dos resultados da seleção dos monitores.  
-01/02/2023 
-08/02/2023 
-Custo (se houver):  
-  
-Fonte(s) dos recursos:  
-  
-Objetivo(s) 
-relacionado(s):  
-Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no 
-desenvolvimento tecnológico e inovação. 
-Meta(s) relacionada(s):  
-Reduzir a evasão escolar em 10% e aumentar a empregabilidade dos alunos em 10%. Aumentar 
-em 20% a demanda candidato-vaga dos cursos da unidade. 
- 
-04 – Atividades Formativas em Projetos (nível tático) 
-AÇÃO/PROJETO 
-A – RENOVAR PCI - DUT 
-O que será feito: 
-Parceria com a Durban University of Technology (África do Sul) 
-Por que será feito: 
-Para estimular e consolidar parcerias do CPS com instituições públicas e privadas 
-internacionais 
-Responsável(is) / CH sem: Ulysses Camargo Corrêa Diegues/ 01h; Fernanda de Mendonça Macedo/ 02h; Graziela Pigatto 
-Bohn/ 02h e Waldemar Alves Ribeiro Filho/ 01h 
-Período de execução: 
-Data de início: 
-01/03/2023 
-Data final: 
-30/06/2023 
-Etapas do processo: 
-Reuniões de alinhamento com o Prof. Dr. Osvaldo Succi Junior e com a 
-equipe da profa. Dra. Mamothibe Thamae (DUT). 
-01/02/2023 
-01/03/2023 
-Discussão do Processo Químico que será trabalhado com os alunos do 
-4 ciclo do curso de Tecnologia em Processos Químicos. Tema: 
-fabricação de sabonetes. 
-06/03/2023 
-10/03/2023 
-Execução do projeto. 
-13/03/2023 
-23/06/2023 
-Avaliação dos resultados. 
-26/06/2023 
-30/06/2023 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Custo (se houver): 
- 
-Fonte(s) dos recursos: 
- 
-Objetivo(s) relacionado(s): Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem 
-Meta(s) relacionada(s): 
-Reduzir a evasão escolar em 10% e aumentar a empregabilidade dos alunos em 10%. 
- 
-AÇÃO/PROJETO 
-B – RENOVAR PCI – Sapir College e Kaye College 
-O que será feito: 
-Parceria com a Sapir College e Kaye College (Israel) 
-Por que será feito: 
-Para estimular e consolidar parcerias do CPS com instituições públicas e privadas 
-internacionais 
-Responsável(is) / CH sem: Ulysses Camargo Corrêa Diegues/ 01h e Maria Claudia Delfino/02h 
-Período de execução: 
-Data de início: 
-01/03/2023 
-Data final: 
-30/06/2023 
-Etapas do processo: 
-Reuniões de alinhamento com os professores envolvidos para 
-discussão da proposta de trabalho. 
-01/02/2023 
-01/03/2023 
-Redação da proposta de trabalho com os objetivos, cronograma e 
-avaliação.  
-06/03/2023 
-10/03/2023 
-Execução do projeto. 
-13/03/2023 
-23/06/2023 
-Avaliação dos resultados. 
-26/06/2023 
-30/06/2023 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Custo (se houver): 
- 
-Fonte(s) dos recursos: 
- 
-Objetivo(s) relacionado(s): Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem 
-Meta(s) relacionada(s): 
-Reduzir a evasão escolar em 10% e aumentar a empregabilidade dos alunos em 10%. 
- 
-AÇÃO/PROJETO 
-C – APRESENTAR PROPOSTA DE IMPLANTAÇÃO DO ESCRITÓRIO MODELO EM COMÉRCIO 
-EXTERIOR 
-O que será feito: 
-Estudo sobre viabilidade de implantação do escritório modelo para o curso de Comércio Exterior 
-Por que será feito: 
-Para proporcionar aos alunos a possibilidade de aplicação prática dos conceitos teóricos 
-recebidos, preparando-os de forma mais estruturada para o mercado de trabalho, fomentando o 
-empreendedorismo, gerando o desenvolvimento à região e atuando fortemente na construção 
-social 
-Responsável(is) / CH 
-sem: 
-Ulysses Camargo Corrêa Diegues /01h e Rubens Cury/ 3h 
-Período de execução: 
-Data de início: 
-23/02/2023 
-Data final: 
-22/06/2023 
-Etapas do processo: 
-Escrita da proposta de criação do escritório modelo para o curso 
-23/02/2023 
-30/03/2023 
-Apresentação da proposta de criação do escritório modelo ao Núcleo 
-Docente Estruturante  
-31/03/2023 
-18/04/2023 
-Ajuste da proposta de criação, se necessário, conforme parecer do 
-Núcleo Docente Estruturante 
-19/04/2023 
-03/05/2023 
-Redação final da proposta de criação do escritório modelo 
-04/05/2023 
-12/06/2023 
-Apresentação da proposta de criação do escritório modelo ao 
-Colegiado 
-13/06/2023 
-20/06/2023 
-Apresentação da proposta de criação do escritório modelo a Direção 
-da Fatec 
-21/06/2023 
-21/06/2023 
-Início do escritório modelo 
-22/06/2023 
-22/12/2023 
- 
- 
- 
- 
- 
- 
-Custo (se houver): 
- 
-Fonte(s) dos recursos: 
- 
-Objetivo(s) 
-relacionado(s): 
-Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem 
-Meta(s) relacionada(s): 
-Reduzir a evasão escolar em 10% e aumentar a empregabilidade dos alunos em 10%. 
- 
-05 – Infraestrutura (instalações prediais) 
-AÇÃO/PROJETO 
-A – ATUALIZAR RELATÓRIO TÉCNICO ESTRUTURAL DA UNIDADE  
-O que será feito: 
-Revisão dos relatórios estruturais do prédio da faculdade 
-Por que será feito: 
-Para atender as demandas de reformas e reparos da estrutura do prédio da faculdade 
-Responsável(is) / CH sem: Viviam Ester de Souza/ 02h 
-Período de execução: 
-Data de início: 
-01/02/2023 
-Data final: 
-01/07/2023 
-Etapas do processo: 
-Revisão dos relatórios técnicos estruturais do prédio 
-01/02/2023  
-30/03/2023  
-Atualização dos relatórios  
-01/04/2023  
-30/04/2023  
-Consulta à GRP para avaliação das prioridades 
-02/05/2023  
-15/05/2023  
-Encaminhamento dos Relatórios à UIE para análise 
-16/05/2023  
-30/06/2023  
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Custo (se houver): 
- 
-Fonte(s) dos recursos: 
- 
-Objetivo(s) relacionado(s): Atender às demandas sociais e do mercado de trabalho. E alcançar o grau de excelência em seus 
-processos de ensino e aprendizagem. 
-Meta(s) relacionada(s): 
-Reduzir em 10% a evasão escolar e aumentar a empregabilidade dos alunos em 10%.  
- 
-AÇÃO/PROJETO 
-B - ATUALIZAR RELATÓRIO TÉCNICO DAS SALAS DE AULA E LABORATÓRIOS 
-O que será feito: 
-Revisão dos relatórios técnicos para renovação do pedido de aquisição de equipamentos, ares-
-condicionados e mobiliários 
-Por que será feito: 
-Para atender a demanda de adequação física das salas de aulas, laboratórios (informática e 
-química) e ambientes internos do prédio. 
-Responsável(is) / CH sem: Viviam Ester de Souza/ 02h 
-Período de execução: 
-Data de início: 
-01/02/2023 
-Data final: 
-01/07/2023 
-Etapas do processo: 
-Revisão dos relatórios técnicos da estrutura das salas de aula, 
-laboratórios de informática e laboratórios do Curso de Processos 
-Químicos 
-01/02/2023  
-30/03/2023  
-Atualização dos relatórios sobre o ambiente de refrigeração das salas 
-e laboratórios  
-01/04/2023  
-30/04/2023  
-Atualização dos relatórios sobre a estrutura física, de equipamentos e 
-mobiliários 
-01/04/2023  
-30/04/2023  
-Consulta à GRP para avaliação dos relatórios 
-02/05/2023  
-15/05/2023  
-Encaminhamento dos Relatórios à UGAF para análise 
-16/05/2023  
-30/06/2023  
- 
- 
- 
- 
- 
- 
-Custo (se houver): 
- 
-Fonte(s) dos recursos: 
- 
-Objetivo(s) relacionado(s): Atender às demandas sociais e do mercado de trabalho. E alcançar o grau de excelência em seus 
-processos de ensino e aprendizagem. 
-Meta(s) relacionada(s): 
-Reduzir em 10% a evasão escolar e aumentar a empregabilidade dos alunos em 10%. 
- 
-06 - Desenvolvimento de pessoas (docentes e servidores) 
-AÇÃO/PROJETO 
-A – IMPLEMENTAR PROPOSTA DE CAPACITAÇÃO PARA OS DOCENTES DA UNIDADE 
-O que será feito: 
-Proposta de capacitação para os docentes de todos os cursos da unidade  
-Por que será feito: 
-Para capacitar os docentes a fim de desenvolver suas atividades de ensino, pesquisa e extensão 
-de maneira mais eficiente e eficaz 
-Responsável(is) / CH sem: Ulysses Camargo Corrêa Diegues /02h 
-Período de execução: 
-Data de início: 
-03/04/2023 
-Data final: 
-10/12/2023 
-Etapas do processo: 
-1. Diagnóstico das necessidades de formação dos professores 
-03/04/2023 
-02/06/2023 
-2. Planejamento das atividades de formação 
-03/06/2023 
-03/08/2023 
-3. Implementação das ações formativas 
-04/08/2023 
-04/11/2023 
-4. Avaliação dos resultados alcançados 
-05/11/2023 
-10/12/2023 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Custo (se houver): 
- 
-Fonte(s) dos recursos: 
- 
-Objetivo(s) relacionado(s): Alcançar e manter o grau de excelência nem seus processos de ensino e aprendizagem. E 
-aumentar a eficiência, a produtividade e a competividade da instituição.  
-Meta(s) relacionada(s): 
-Reduzir em 10% a evasão escolar e aumentar a empregabilidade dos alunos em 10%. Aumentar 
-em 20% a demanda candidato-vaga dos cursos da unidade. 
- 
- 
-07 – Convênios e Parcerias Institucionais 
-AÇÃO/PROJETO 
-A - ATUALIZAR PEDIDO DE RENOVAÇÃO DO CONVÊNIO COM A PREFEITURA DE PRAIA GRANDE 
-O que será feito: 
-Atualização dos documentos do Pedido de Renovação do Convênio 
-Por que será feito: 
-Para que a unidade recebe o apoio da prefeitura  
-Responsável(is) / CH sem: Viviam Ester de Souza/ 2h 
-Período de execução: 
-Data de início: 
-01/03/2023 
-Data final: 
-31/07/2023 
-Etapas do processo: 
-Revisão do levantamento do processo anterior. 
-01/03/2023 
-01/04/2023 
-Consulta ao setor de convênios do CPS para alinhamento das 
-demandas documentais do processo. 
-02/04/2023 
-15/04/2023 
-Consulta à prefeitura de Praia Grande para alinhamento das 
-demandas documentais do processo. 
-16/04/2023 
-31/05/2023 
-Levantamento dos documentos e certidões necessárias  
-01/06/2023 
-30/07/2023 
-Protocolar o pedido do convênio. 
-31/07/2023 
-31/07/2023 
- 
- 
- 
- 
- 
- 
-Custo (se houver): 
- 
-Fonte(s) dos recursos: 
- 
-Objetivo(s) relacionado(s): Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem. E 
-aumentar a eficiência, a produtividade e a competitividade da instituição.  
-Meta(s) relacionada(s): 
-Reduzir em 10% a evasão escolar e aumentar a empregabilidade dos alunos em 10%. Aumentar 
-em 20% a demanda candidato-vaga dos cursos da unidade. 
- 
-AÇÃO/PROJETO 
-B – APRESENTAR PROPOSTA DE PARCERIA DE ESTÁGIO 
-O que será feito: 
-Parceria de estágio com a empresa Maersk. 
-Por que será feito: 
-Atender a demanda de estágio e capacitação profissional dos alunos do Curso de Comércio 
-Exterior. 
-Responsável(is) / CH 
-sem: 
-Ulysses Camargo Corrêa Diegues /02h 
-Período de execução: 
-Data de início: 
-01/03/2023 
-Data final: 
-30/06/2023 
-Etapas do processo: 
-Reunião de alinhamento e propostas para o convênio com a 
-empresa. 
-01/03/2023 
-25/03/2023 
-Definição dos requisitos para a parceria incluindo habilidades e 
-conhecimentos, tarefas, responsabilidades, carga horária e 
-remuneração. 
-26/03/2023 
-26/04/2023 
-Reunião de alinhamento e revisão das condições do convênio. 
-27/04/2023 
-10/05/2023 
-Divulgação do Edital para as vagas de estágio. 
-11/05/2023 
-30/05/2023 
-Análise das inscrições e deferimento. 
-01/06/2023 
-25/06/2023 
-Divulgação do resultado do edital. 
-26/06/2023 
-30/06/2023 
- 
- 
- 
-Custo (se houver): 
- 
-Fonte(s) dos recursos: 
- 
-Objetivo(s) 
-relacionado(s): 
-Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem. E 
-aumentar a eficiência, a produtividade e a competitividade da instituição.  
-Meta(s) relacionada(s): 
-Reduzir em 10% a evasão escolar e aumentar a empregabilidade dos alunos em 10%. Aumentar 
-em 20% a demanda candidato-vaga dos cursos da unidade. 
- 
- 
-ETAPA II – APROVAÇÃO E HOMOLOGAÇÃO 
- 
-APROVAÇÃO DO PGA PELA CONGREGAÇÃO DA UE 
-Envio da Ata de aprovação 
-Ata assinada (.pdf) 
-Anexar arquivo 
-Data da aprovação: 
-dd/mm/aaaa  
-Data do envio: 
-dd/mm/aaaa  
- 
-PARECER DA CESU 
-Data: 
-dd/mm/aaaa  
-Aprovado? 
-(   ) Sim                      (   ) Não 
-Se não aprovado, devolvido para adequação, com prazo para revisão até: 
-dd/mm/aaaa  
-Parecer: 
- 
- 
- 
- 
-ETAPA III – ACOMPANHAMENTO DAS AÇÕES GERENCIAIS 
-RELATÓRIO DE ACOMPANHAMENTO DE PROJETO (MENSAL) 
-Status mensal do projeto 
-Identificação do Projeto 
-(automático) 
-Data: 
-dd/mm/aaaa 
-Situação: 
-(   ) Em andamento                             
-Previsão de término: 
-dd/mm/aaaa 
-Justificativa: 
- 
-(   ) Ainda não foi iniciado                   
-Previsão de início: 
-dd/mm/aaaa 
-Justificativa: 
- 
-(   ) Cancelado (antes do início) 
-Data: 
-dd/mm/aaaa 
-Justificativa: 
- 
-(   ) Suspenso (interrompido após 
-iniciado) 
-Data: 
-dd/mm/aaaa 
-Justificativa: 
- 
-(   ) Concluído 
-Data da conclusão: 
-dd/mm/aaaa 
-Resultados: 
- 
- 
-Intercorrências: 
- 
- 
-Observação: 
- 
- 
-Meta(s) alcançada(s) 
-(aparecer a meta automaticamente, conforme indicada no projeto para a indicação do percentual 
-alcançado) 
-Evidência(s): 
-(descrever e inserir documento que evidencie a execução ou atingimento da meta) 
- 
- 
-Validação do relatório (acompanhamento) 
-Identificação do Projeto 
-(automático) 
-Data: 
-dd/mm/aaaa 
-Parecer: 
-Favorável? 
-(   ) Sim              (   ) Não                     (    ) Parcialmente favorável 
-Considerações/Recomendações: 
- 
- 
- 
- 
- 
- 
- 
- 
+Um dos principais pontos fracos de nossa unidade continua sendo a dificuldade na 
+aquisição de títulos nacionais e importados. A unidade reiterou as solicitações durante 
+o ano de 2020 e 2021. Em 2022 algumas solicitações do curso de Comércio Exterior 
+foram atendidas e os títulos foram entregues para a biblioteca, porém ainda faltam 
+títulos para o curso de Comércio Exterior, Jogos Digitais e Análise e Desenvolvimento 
+de Sistemas. 
+ 
+III. C – Estratégias e medidas para aproveitar as OPORTUNIDADES 
+ 
+Em 2019 o poder público substituiu a intenção de ampliação da malha metrô-ferroviária 
+por BRT (Bus Rapid Transport), tal decisão afeta as intenções da unidade em minimizar 
+o tempo gasto para a chegada na Fatec São Caetano do Sul. De todo modo, a equipe 
+responsável pelo planejamento tem refletido e analisado possibilidades de ações 
+dentro da cidade de São Caetano para minimizar os problemas no trajeto entre Estação 
+da CPTM e Metrô, há possibilidade de termos ônibus, na saída do período noturno 
+diretamente da unidade para à estação da CPTM. 
+ 
+ 
+_____________________________________________________________________________________________ 
+ 
+Administração Central 
+Unidade do Ensino Superior de Graduação 
+ 
+_____________________________________________________________________________________________________________________________________________ 
+www.cps.sp.gov.br 
+Rua dos Andradas, 140  •  Santa Ifigênia  •  01208-000  •  São Paulo  •  SP  •  Tel.: (11) 3324-3300 
+9 
+Formulários Eletrônicos preenchidos: 
+Estamos aguardando o envio dos Bens e Serviços já autorizados pela CESU. Em 2020 
+atualizamos as planilhas de Bens e Serviços reiterando para a aquisição de 
+Impressoras, Aparelhos de Ar Condicionado, Armários de Aço. Com mudança no 
+processo do Plano Institucional de Desenvolvimento – PDI, faremos novas 
+solicitações.. 
+ 
+ 
+Comissão de Análise dos PDIs das FATECS. 
  

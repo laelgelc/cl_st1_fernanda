@@ -6,7 +6,8 @@ Unidade do Ensino Superior de Graduação
  
  
  
-Relatório de Autoavaliação Institucional da Fatec SBC - 2023/Final 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
  
  
  
@@ -29,13 +30,15 @@ Relatório de Autoavaliação Institucional da Fatec SBC - 2023/Final
  
  
  
-São Bernardo do Campo   
+Diadema – São Paulo  
 2023 
  
-FATEC 126  
-Fatec São Bernardo do Campo  
-R-06 
+ 
+ 
+FATEC:  217-Fatec Diadema - R-06 
 RELATÓRIO DE AUTOAVALIAÇÃO 
+INSTITUCIONAL  
+2023 
                       2
  
 __________________________________________________________________________ 
@@ -44,32 +47,38 @@ Unidade do Ensino Superior de Graduação
  
  
  
-Relatório de Autoavaliação Institucional da Fatec SBC - 2023/Final 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
+ 
+ 
 Direção / Coordenação de Cursos 
  
  
 Direção Geral  
  
-Prof. Claudio Cesar José dos Santos  
-Coordenador do Curso de Graduação Tecnológica em 
-Informática para Negócios  
- 
-Prof.  Douglas Duarte 
-Coordenador do Curso de Graduação Tecnológica em 
-Manufatura Avançada 
- 
-Prof. Jorge Luis Sarapka 
+Profª. Drª. Rosângela Maura             
+Correia Bonici 
 Coordenador do Curso de Graduação Tecnológica em  
-Automação Industrial 
  
-Prof. Marcelo Griese 
-Coordenadora do Curso de Graduação Tecnológica em 
-Gestão Comercial EAD 
+Cosméticos 
+Profº. Drº. Jhonny Frank Joca 
+Sousa 
+Coordenador do Curso de Graduação Tecnológica em  
  
-Profa. Jediane Teixeira de Souza 
+Desenvolvimento de Software 
+Multiplataforma 
+Profª Ms. Andrea Zotovici 
+Coordenador do Curso de Graduação Tecnológica em  
+ 
+Coordenador do Curso de 
+Graduação Tecnologia em Gestão 
+da Produção Industrial  
+Profº. Drº. Gonçalo Siqueira 
  
 Presidente da CPA 
-Prof. Wellington Batista de Sousa 
+ 
+Profa. Ms. Rosilene Kinue Ito  
+ 
  
  
  
@@ -91,37 +100,32 @@ Unidade do Ensino Superior de Graduação
  
  
  
-Relatório de Autoavaliação Institucional da Fatec SBC - 2023/Final 
-Comissão Própria de Avaliação - CPA 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
+ 
+ 
+ 
+Comissão Própria de Avaliação – CPA 
  
  
  
  
 Representante docente (Presidente) 
  
-Prof. Wellington Batista de Sousa  
-Representante docente 
+Profª Me. Rosilene Kinue Ito 
+Representante da Administração Central – Cesu/DGE 
  
-Profa. Giseli Angela Tartaro Ho  
-Representante docente 
- 
-Profa. Jediane Teixeira de Souza   
- 
+Profª Ms. Fernanda Peixoto 
+Coelho  
 Representante discente 
  
-Carmen Silva Eboli 
+Thaís Santos de Souza 
 Representante do corpo técnico administrativo 
  
-Silvio Luis Francisco  
+Maria Lucelane da Silva Santos 
 Representante da Sociedade Civil 
  
-Sadao Hayashi 
- 
-Representante da Administração Central - Cesu/DGE 
- 
-Fernanda Peixoto Coelho 
- 
- 
+Abner Brancaglion da Luz 
  
  
  
@@ -134,53 +138,36 @@ Unidade do Ensino Superior de Graduação
  
  
  
-Relatório de Autoavaliação Institucional da Fatec SBC - 2023/Final 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
+ 
 SUMÁRIO 
  
  
  
-I Identificação da FATEC: 
-04 
-II Atos Regulatório 
-05 
-III Composição da Comissão Própria de Avaliação (CPA) 
-06 
-1  INTRODUÇÃO 
-06 
-2  METODOLOGIA 
-07 
-2.1 Cronograma de atividades da CPA 
-09 
-2.2 Sensibilização 
-10 
-2.3 Sujeitos da avaliação 
-10 
-2.4 Instrumentos de coleta 
-11 
-2.5 Procedimentos para a coleta 
-11 
-2.6 Análise e discussão dos dados da coleta 
-11 
-2.7 Organização das medidas para a composição do relatório 
-12 
-2.8 Devolutiva dos resultados para os segmentos 
-12 
-3 DESENVOLVIMENTO 
-13 
-3.1 Eixo 1: Planejamento e Avaliação Institucional 
-13 
-3.2 Eixo 2: Desenvolvimento Institucional 
-14 
-3.3 Eixo 3: Políticas Acadêmicas 
-16 
-3.4 Eixo 4: Políticas de Gestão 
-18 
-3.5 Eixo 5: Infraestrutura Física 
-19 
-4 ANÁLISE DOS DADOS E AÇÕES PROPOSTAS 
-21 
-5 CONSIDERAÇÕES FINAIS 
-26 
+I Identificação da FATEC: ................................................................................................................. 04 
+II Atos Regulatório ............................................................................................................................. 05 
+III Composição da Comissão Própria de Avaliação (CPA) .......................................................... 06 
+1  INTRODUÇÃO ............................................................................................................................... 06 
+2  METODOLOGIA ............................................................................................................................ 07 
+2.1 Cronograma de atividades da CPA .......................................................................................... 09 
+2.2 Sensibilização .............................................................................................................................. 10 
+2.3 Sujeitos da avaliação .................................................................................................................. 10 
+2.4 Instrumentos de coleta ............................................................................................................... 11 
+2.5 Procedimentos para a coleta ..................................................................................................... 11 
+2.6 Análise e discussão dos dados da coleta ................................................................................ 11 
+2.7 Organização das medidas para a composição do relatório .................................................. 12 
+2.8 Devolutiva dos resultados para os segmentos ....................................................................... 12 
+3 DESENVOLVIMENTO ................................................................................................................... 13 
+3.1 Eixo 1: Planejamento e Avaliação Institucional ...................................................................... 13 
+3.2 Eixo 2: Desenvolvimento Institucional ...................................................................................... 14 
+3.3 Eixo 3: Políticas Acadêmicas ..................................................................................................... 16 
+3.4 Eixo 4: Políticas de Gestão ........................................................................................................ 18 
+3.5 Eixo 5: Infraestrutura Física ....................................................................................................... 19 
+4 ANÁLISE DOS DADOS E AÇÕES PROPOSTAS ................................................................ 21 
+5 CONSIDERAÇÕES FINAIS ..................................................................................................... 26 
+ 
+ 
  
  
  
@@ -188,1106 +175,1012 @@ III Composição da Comissão Própria de Avaliação (CPA)
  
  
  
-Relatório de Autoavaliação Institucional da Fatec SBC - 2023/Final 
-Identificação da FATEC 
- 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
+I. Identificação da FATEC  
+ 
 Dados da unidade 
-Fatec:  126 - Fatec São Bernardo do Campo - R-06 
-Razão social: Adib Moisés Dib  
-Endereço:  Avenida Pereira Barreto nº 400 - Baeta Neves - São Bernardo do Campo - SP 
+Fatec:  217-Fatec Diadema - R-06 
+Razão social: Faculdade de Tecnologia de Diadema Luigi Papaiz - FATEC DIADEMA 
+Endereço:  Avenida Luiz Merenda, 443 – CEP: 09931-390 
+Bairro: Jardim Campanário 
+Município: Diadema 
+Telefone: (11) 4092-2328 e 4092-2471 
+E-mail: f217dir@cps.sp.gov.br 
  
+ 
 Direção da Unidade 
-Diretor: Prof. Claudio Cesar José dos Santos  
+Diretor: Profª. Drª. Rosângela Maura Correia Bonici 
   
+ 
 Coordenação de Curso 
-CST em Automação Industrial:  Prof. Marcelo George Griese   
-CST em Informática para Negócios: Prof. Douglas Duarte 
-CST em Manufatura Avançada: Prof. Jorge Luis Sarapka 
-CST em Gestão Comercial EAD: Profa. Jediane Teixeira de Souza 
+CST em Cosméticos: Profº. Drº. Jhonny Frank Joca Sousa 
+CST em Desenvolvimento de Software Multiplataforma: Profª Ms. Andrea Zotovici 
+CST em Gestão da Produção Industrial: Profº. Drº. Gonçalo Siqueira 
  
+ 
+ 
 Direção de Serviços 
-Diretor de Serviços Acadêmicos: Eliacy Freitas da Silva 
-Diretor de Serviços Administrativos: Ana Paula Florêncio Teixeira Fonseca 
+Diretor de Serviços Acadêmicos: Cláudia Regina de Carvalho Souza 
+Diretor de Serviços Administrativos: Francielli Ferreira de Oliveira 
 5 
  
  
  
-Relatório de Autoavaliação Institucional da Fatec SBC - 2023/Final 
-I. Atos Regulatórios  
-Decreto de criação: 49.838/2005 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
  
-CST em Informática-Ênfase em Gestão de Negócios 
+II. Atos Regulatórios  
+ 
+Decreto de criação: Decreto nº54.728, de 1º de setembro de 2009 
+ 
+ 
+Atos legais referentes aos cursos 
+ 
+T em Cosméticos  
 Data 
 Tipo 
  Portaria CEE/GP 
 Parecer CD (p/ reestruturação) 
-2005 / 2º / Sem. 
+2012 / 2º Sem. 
 Implantação 
-Decreto 49838, de 29/07/2005; Parecer CEE 
-458/2005, DOE de 21/12/2005, Portaria 
-417/2005, DOE de 23/12/2005 
-2008 / 1º / Sem. 
-Estruturação  
-Parecer CEE 84/2008, Portaria CEE/GP nº 
-142, de 01/04/2008, DOE de 04/04/2008 
-2009 / 1º / Sem. 
-Estruturação 
-Parecer CEE 672/2008, Portaria CEE/GP nº 
-35 de 17/02/2009, DOE de 19/02/2009 
- 
-2012 / 2º / Sem. 
+Decreto 54.728/2009; Parecer 
+CD/CEETEPS 079/2012, DOE de 
+07/06/2016 com fundamento n 
+Deliberação CEE 106/2011. 
+2015/ 1º Sem. 
+Reconhecimento 
+- Parecer CEE 56/2015, Portaria 
+CEE/GP 70/2015 
+2017 /1º Sem. 
+Reconhecimento 
+Reconhecimento - Parecer CEE 324/177, 
+Portaria CEE/GP 325/2017. 
+2020/ 1º Sem. 
 Adequação 
-Parecer CEE 230/2012, Portaria CEE/GP nº 
-273 de 03/07/2012, DOE de 06/07/2012 
-2017 / 2º / Sem. 
-Estruturação 
-Parecer CEE 327/2017, Portaria CEE/GP nº 
-326 de 11/07/2017, DOE de 12/07/2017 
-2022 / 1º / Sem. 
-Estruturação 
-Parecer CEE 212/2022, Portaria CEE/GP nº 
-283 de 06/06/2022, DOE de 07/06/2022 
+Memorando Circular 18/2020 de 19 de 
+junho de 2020 
+2023 / 1º Sem. 
+Reconhecimento 
+Reconhecimento - Portaria CEE/GP 65/2023, 
+Parecer CEE 06/2023  
  
-CST em Eletrônica na Modalidade Automação Industrial 
+ 
+T em Gestão da Produção Industrial 
 Data 
 Tipo 
  Portaria CEE/GP 
 Parecer CD (p/ reestruturação) 
-2007 / 2º / Sem. 
+2019/1º sem 
 Implantação 
-Parecer CEE 16/2007, Portaria CEE CEE/GP 
-nº 362/2007 de 15/08/2007, DOE de 
-16/08/2007 
-2009 / 2º / Sem. 
-Estruturação  
-Parecer CEE 359/2009, Portaria CEE/GP 337 
-de 13/10/2009, DOE de 17/10/2009 
-2011 / 2º / Sem. 
-Adequação 
-Parecer CEE nº 305/2011, Portaria CEE/GP nº 
-419 de 06/10/2011, DOE de 07/10/2011 
-2016 / 1º / Sem. 
-Estruturação 
-Portaria CEE-GP-38, de 17/02/2016, DOE de  
-publicada no D.O. de 18/02/2016, 
-republicada no D.O. de 19/10/2016, no D.O. 
-de 16/03/2018 e no D.O de 08/05/2018 
-2019 / 1º / Sem. 
-Estruturação 
-Parecer CEE/GP 139/2019, Portaria CEE-GP-
-232 de 10/06/2019, DOE de 11/06/2019 
+Parecer CD/CEETEPS 661/2019, DOE de 
+12/04/2019, com fundamento na 
+Deliberação CEE 106/2011, que concedeu 
+ao CEETEPS prerrogativas de autonomia 
+universitária. 
+2022/ 2º sem 
+Reconhecimento 
+CEE/GP 425/2022, Parecer CEE 317/2022 
+ 
+T em Desenvolvimento de Software Multiplataforma 
+Data 
+Tipo 
+ Portaria CEE/GP 
+Parecer CD (p/ reestruturação) 
+2022 / 1º Sem. 
+Implantação 
+Parecer CD nº 94/2020 
  
  
- 
- 
+III. Composição da Comissão Própria de Avaliação (CPA)  
+A Comissão Própria de Avaliação da FATEC Diadema – Luigi Papaiz foi instituída pela 
+Portaria nº 42/2021, de 14 de setembro de 2021, com mandato até 12/09/2024, 
+conforme ata da Congregação (Anexo – ATAs de Aprovação dos membros da CPA, 
+registro de alterações e reuniões da CPA). 
  
 6 
  
  
  
-Relatório de Autoavaliação Institucional da Fatec SBC - 2023/Final 
-CST em Gestão Empresarial - EAD 
-Data 
-Tipo 
- Portaria CEE/GP 
-Parecer CD (p/ reestruturação) 
-2015/ 2º / Sem. 
-Implantação 
-Processo CEETEPS 894814/2020 
-2017/2º / Sem. 
-Estruturação  
-Portaria CEE/GP 404 de 28/08/2017, 
-publicada no DOE de 29/08/2017 
-2020/1º / Sem. 
-Estruturação 
-Portaria CEE/GP 101 de 02/03/2020, DOE de 
-03/03/2020 e retificada DOE de 04/03/2020 
-Manufatura avançada   
- 
-CST em Manufatura Avançada   
-Data 
-Tipo 
- Portaria CEE/GP 
-Parecer CD (p/ reestruturação) 
-2020/ 1º / Sem. 
-Implantação 
-Processo CEETEPS 894814/2020 
-2023/2º/Sem. 
-Estruturação   
-Deliberação CEE 157/17, CEESP PRC 
-2022/00492, Parecer CEE 468/2023. Portaria 
-CEEGP 383 de 01/09/2023  
- 
- 
-II. Composição da Comissão Própria de Avaliação (CPA)  
- 
-A Comissão Própria de Avaliação da FATEC Adib Moisés Dib foi instituída pela 
-Portaria nº 168/2022 de 22 de dezembro de 2022 com mandato até 25/05/2025, 
-conforme ata da Congregação. 
- 
- 
- 
-7 
- 
- 
- 
-Relatório de Autoavaliação Institucional da Fatec SBC - 2023/Final 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
 1. INTRODUÇÃO  
  
-A Fatec Adib Moisés Dib possui a avaliação institucional como efetivo 
+A Fatec Diadema – Luigi Papaiz possui a avaliação institucional como efetivo 
 instrumento de gestão. Por meio da avaliação tem-se condições de reunir 
 apontamentos capazes de suscitar análises e discussões possibilitando definir planos 
-de melhorias de forma contínua. 
+de melhorias de forma continuada. 
 A Lei 10.861/2014, que define o Sistema Nacional de Avaliação da Educação 
 Superior (SINAES), estabelece, em seu Artigo 3º, que a avaliação institucional tem 
 por objetivo identificar o perfil da IES e o significado de sua atuação, por meio de suas 
 atividades, cursos, programas, projetos e setores, considerando as diferentes 
 dimensões institucionais, consolidadas em cinco eixos, sempre objetivando evidenciar 
 os referenciais mínimos de qualidade exigidos pela excelência de ensino que é um 
-dos pilares da prática de todas as faculdades de tecnologias do Estado de São Paulo 
+dos pilares da pratica de todas as faculdades de tecnologias do Estado de São Paulo 
 vinculadas ao Centro Paula Souza. 
 Por meio do desenvolvimento do presente relatório, serão apresentados os 
 dados e as informações referentes aos eixos, dimensões e indicadores em 
 consonância com o Plano de Desenvolvimento Institucional (PDI) da Fatec e em 
-consonância com as diretrizes emanadas do Centro Paula Souza. Na tabela abaixo é 
-apresentado o número de alunos nos cursos presenciais presentes na Unidade de 
-Ensino. 
+consonância com as diretrizes emanadas do Centro Paula Souza.  
  
+Alunos Matriculados (apenas os alunos que estejam CURSANDO) 
+(referência - fevereiro do ano vigente) 
 Curso 
-Número de alunos 
-CST em Automação Industrial 
-349 
-CST em Informática para Negócios 
-401 
-CST em Manufatura Avançada 
-147 
+Número de 
+Alunos 
+Cosméticos 
+358 
+Gestão da Produção Industrial 
+178 
+Desenvolvimento de Software Multiplataforma 
+125 
+ 
+ 
+Detalhamento do corpo docente da Unidade de Ensino (informação PDI/PGA/RCPA/RAA) * 
  
  
-A seguir é apresentado um detalhamento do corpo docente da Unidade de 
-Ensino. 
- 
- 
-8 
- 
- 
- 
-Relatório de Autoavaliação Institucional da Fatec SBC - 2023/Final 
-Corpo docente da Unidade de Ensino 
-  
 Nome 
 Matrícula 
-Cód. UE sede 
+Cód. UE 
+sede 
 Titulação* 
 Referência 
-Experiência 
-Profissional 
-Curriculum 
-Lattes (URL) 
+Experiência Profissional 
+Curriculum Lattes (URL) 
 Docência 
 (anos) 
-Não 
-docência 
+Não docência 
 (anos) 
 1 
-ADILSON DE BARROS 
-27546 
-113 
-M 
+ADELIA CRISTINA PERES 
+TORRECILLAS  
+46592 
+137 
 II 
-17 
-45 
-http://lattes.cnpq.br/4040200
-479385240 
+M 
+11 Anos e 
+6 Meses 
+  
+http://lattes.cnpq.br/06571759843
+98022 
 2 
-ALEX DE OLIVEIRA 
-DUTRA 
-76842 
-126 
-A 
+AIRTON RODRIGUES 
+61245 
+217 
 I 
-13 
-5 
-http://lattes.cnpq.br/6096708
-831461043 
-3 
-ANDRE LUIS DOS 
-SANTOS DUARTE DA 
-SILVA 
-76917 
-126 
-A 
-I 
-3 
-0 
-http://lattes.cnpq.br/8493211
-052578603 
-4 
-ANNA CRISTINA 
-BARBOSA DIAS DE 
-CARVALHO 
-19131 
-257 
 D 
-III 
-32 
-5 
-http://lattes.cnpq.br/8110357
-294405717 
-5 
-ANTONIO CARLOS DE 
-ALCANTARA THIMOTEO 
-48030 
-126 
-M 
-II 
-15 
-22 
-http://lattes.cnpq.br/5031757
-934711087 
-6 
-ANTONIO HERNANDES 
-GONÇALVES 
-48022 
-126 
-E 
+5 Anos e 8 
+Meses 
+  
+http://lattes.cnpq.br/26270347913
+81456 
+3 
+AMAURY FLAVIO SILVA 
+60610 
+258 
 I 
-45 
-52 
-http://lattes.cnpq.br/1373368
-101215540 
-7 
-BIANCA AGARIE 
-60538 
-120 
-M 
-I 
-12 
+D 
+7 Anos e 3 
+Meses 
+  
+http://lattes.cnpq.br/08277526969
+56343 
 4 
-http://lattes.cnpq.br/4013462
-769714857 
-8 
-CARLOS ALBERTO DE 
-FREITAS 
-42952 
-216 
-M 
-II 
-23 
+ANDERSON CLAYTON 
+NASCIMENTO RIBEIRO  
+61870 
+257 
+I 
+D 
+8 Anos e 8 
+Meses 
+  
+http://lattes.cnpq.br/70817403385
+08918 
+7 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
+ 
+Nome 
+Matrícula 
+Cód. UE 
+sede 
+Titulação* 
+Referência 
+Experiência Profissional 
+Curriculum Lattes (URL) 
+Docência 
+(anos) 
+Não docência 
+(anos) 
 5 
-http://lattes.cnpq.br/1322346
-182378442 
-9 
-CARLOS EDUARDO 
-LUMINATTI 
-75087 
-126 
-E 
+ANDERSON JOSE CORREA 
+70612 
+292 
 I 
-1 
-26 
-http://lattes.cnpq.br/6205022
-301551178 
-10 
-CLAUDEMIR MARTINS 
-DA SILVA 
-23990 
-126 
 M 
+2 Anos e 2 
+Meses 
+  
+http://lattes.cnpq.br/69454338257
+69993 
+6 
+ANDREA ZOTOVICI 
+37673 
+111 
 II 
-18 
-18 
-http://lattes.cnpq.br/2151226
-868312988 
+M 
+12 Anos e 
+8 Meses 
+  
+http://lattes.cnpq.br/67480090058
+12163 
+7 
+AVANIR CARLOS LESSA 
+73343 
+217 
+I 
+M 
+1 Anos e 6 
+Meses 
+  
+http://lattes.cnpq.br/54517275921
+25342 
+8 
+BRUNO ZOLOTAREFF DOS 
+SANTOS 
+74983 
+217 
+I 
+M 
+1 Anos e 2 
+Meses 
+  
+http://lattes.cnpq.br/55653112651
+98737 
+9 
+CARLA APARECIDA PEDRIALI 
+MORAES 
+55330 
+217 
+III 
+D 
+8 Anos e 8 
+Meses 
+  
+http://lattes.cnpq.br/65448460414
+19880 
+10 
+CELIO TAKASHI HIGUCHI 
+55341 
+217 
+II 
+D 
+7 Anos e 6 
+Meses 
+  
+http://lattes.cnpq.br/03050119232
+65263 
 11 
-CLAUDIA BIANCHI 
-PROGETTI 
-75854 
-168 
-A 
-I 
-9 
-25 
-http://lattes.cnpq.br/4241060
-493580956 
-12 
-CLAUDIA RODRIGUES 
-DE CARVALHO 
-71630 
-126 
-E 
-I 
-10 
-14 
-http://lattes.cnpq.br/9566234
-997746502 
-13 
-CLÁUDIO CÉSAR JOSÉ 
-DOS SANTOS 
-26700 
-126 
-M 
+CELSO LUIZ RIGOTTO 
+57305 
+137 
 II 
-25 
+E 
+10 Anos e 
+8 Meses 
+  
+http://lattes.cnpq.br/46596187215
+78081 
 12 
-http://lattes.cnpq.br/4872679
-058724465 
-14 
-CLAUDIO RODRIGO 
-TORRES 
+CLAUDIO RODRIGO TORRES 
 63877 
 126 
-D 
 III 
-22 
-10 
-http://lattes.cnpq.br/1455540
-390103569 
+D 
+7 Anos e 
+11 Meses 
+  
+http://lattes.cnpq.br/14555403901
+03569 
+13 
+CLEBER SILVESTRE LEONCIO  
+56203 
+204 
+II 
+M 
+7 Anos e 8 
+Meses 
+  
+http://lattes.cnpq.br/63592197589
+58630 
+14 
+DANILO MARIN FERMINO 
+56449 
+217 
+II 
+D 
+7 Anos e 4 
+Meses 
+  
+http://lattes.cnpq.br/63352362142
+06982 
 15 
-CRISTIANE GOMES DE 
-CARVALHO FONTANA 
-63881 
-126 
-M 
-II 
-22 
-19 
-http://lattes.cnpq.br/0196814
-913062200 
-16 
-DANIEL PEZZA 
-TCHERNOV 
-72132 
-126 
-M 
-I 
-6 
-5 
-http://lattes.cnpq.br/9405884
-663554148 
-17 
-DARLI REGINA 
-PASCHOALINI VACCARI 
-21463 
-126 
-M 
-II 
-35 
-10 
-http://lattes.cnpq.br/4364970
-326652517 
-18 
 DAVI SOUZA SANTOS 
 NAGAZAWA 
 77244 
 126 
-A 
 I 
-1 
-1 
-http://lattes.cnpq.br/8473905
-112971492 
+M 
+0 Anos e 4 
+Meses 
   
+http://lattes.cnpq.br/84739051129
+71492 
+16 
+DIEGO NOGUEIRA RAFAEL 
+73070 
+204 
+I 
+D 
+1 Anos e 6 
+Meses 
+  
+http://lattes.cnpq.br/02025076264
+10078 
+17 
+EDMILSON DE SOUZA 
+CARVALHO 
+21460 
+217 
+III 
+E 
+15 Anos e 
+7 Meses 
+  
+http://lattes.cnpq.br/21939350499
+61834 
+18 
+EDNEY EBOLI DOS SANTOS 
+71390 
+250 
+I 
+M 
+2 Anos e 0 
+Meses 
+  
+http://lattes.cnpq.br/62198800077
+38872 
 19 
-DELCINIO RICCI 
-18022 
-126 
-D 
-III 
-47 
-61 
-http://lattes.cnpq.br/4621284
-276761338 
+EDSON SARAIVA DE 
+ALMEIDA 
+49965 
+111 
+II 
+M 
+11 Anos e 
+2 Meses 
+  
+http://lattes.cnpq.br/19605175034
+66306 
 20 
-DOUGLAS DUARTE 
-26697 
-126 
-E 
-I 
-27 
-29 
-http://lattes.cnpq.br/0660841
-342492582 
-21 
-EDMÍLSON DE EIRÓS 
-OLIVEIRA 
-32456 
-126 
-E 
-I 
-13 
-37 
-http://lattes.cnpq.br/3879517
-158126535 
-22 
-ELISANGELA BOTELHO 
-GRACIAS 
-79094 
-126 
-A 
-I 
-2 
-20 
-http://lattes.cnpq.br/5672234
-349631502 
-23 
-ERALDO CORDEIRO 
-BARROS FILHO 
-51135 
-2 
-D 
-III 
-10 
-12 
-http://lattes.cnpq.br/4517816
-558612151 
-24 
-ERASMO ASSUMPÇÃO 
-FILHO 
+ERASMO ASSUMPCAO FILHO 
 14678 
 126 
-M 
 III 
-35 
-56 
-http://lattes.cnpq.br/6307872
-593357944 
-25 
-ERICK ENRIQUE MELO 
-SANTOS 
-71488 
-167 
-E 
-I 
-15 
-0 
-http://lattes.cnpq.br/2528673
-043241768 
-9 
- 
- 
- 
-Relatório de Autoavaliação Institucional da Fatec SBC - 2023/Final 
-26 
-ERVALDO GARCIA 
-JUNIOR 
-110097 
-126 
 M 
+16 Anos e 
+5 Meses 
+  
+http://lattes.cnpq.br/63078725933
+57944 
+21 
+ETEVALDO FRANCISCO 
+CARREIRA JUNIOR 
+52437 
+257 
 II 
-38 
-12 
-http://lattes.cnpq.br/8396466
-947693505 
-27 
+D 
+10 Anos e 
+8 Meses 
+  
+http://lattes.cnpq.br/95939502974
+53387 
+22 
+EVANILTON RIOS ALVES 
+73050 
+250 
+I 
+M 
+1 Anos e 6 
+Meses 
+  
+http://lattes.cnpq.br/54251875126
+94047 
+23 
+FERNANDA VERDASCA 
+BOTTON 
+52034 
+217 
+III 
+D 
+11 Anos e 
+0 Meses 
+  
+http://lattes.cnpq.br/79362176786
+92771 
+24 
 FERNANDO RIBEIRO DOS 
 SANTOS 
 24787 
 129 
-D 
 III 
-21 
-14 
-http://lattes.cnpq.br/1016795
-045258728 
-28 
-FLÁVIO SANTOS DE 
-SOUZA 
-66245 
-257 
 D 
+15 Anos e 
+5 Meses 
+  
+http://lattes.cnpq.br/10167950452
+58728 
+25 
+FLORIANO FERREIRA DOS 
+REIS FILHO 
+78854 
+204 
 I 
-11 
-8 
-http://lattes.cnpq.br/2833574
-289460427 
-29 
-GABRIELA RAIZARO 
-TOSI 
-76653 
-126 
-A 
-I 
-12 
-9 
-http://lattes.cnpq.br/1781727
-623976707 
-30 
-GEDEANE GOMES DA 
-SILVA KENSHIMA 
-73506 
-126 
 M 
+0 Anos e 1 
+Meses 
+  
+http://lattes.cnpq.br/84769280684
+26608 
+26 
+GABRIELE WANDER RUAS DE 
+LIMA 
+55329 
+217 
 I 
-4 
-4 
- 
-http://lattes.cnpq.br/1456607
-470616155 
-31 
-GERVÁSIO DAS NEVES 
-SALVADOR 
-24004 
-126 
-E 
-III 
-39 
-41 
-http://lattes.cnpq.br/2213743
-245558733 
-32 
-GISELI ANGELA 
-TARTARO HO 
+M 
+8 Anos e 8 
+Meses 
+  
+http://lattes.cnpq.br/52743856796
+66879 
+27 
+GILBERTO FRANCISCO DE 
+OLIVEIRA  
+64948 
+283 
+I 
+M 
+6 Anos e 1 
+Meses 
+  
+http://lattes.cnpq.br/70352778661
+71075 
+28 
+GISELI ANGELA TARTARO HO 
 50897 
 204 
-M 
 II 
-17 
-25 
-http://lattes.cnpq.br/4535913
-521337960 
-33 
-ILKA MARIA DE 
-OLIVEIRA SANTI 
+M 
+11 Anos e 
+2 Meses 
+  
+http://lattes.cnpq.br/45359135213
+37960 
+29 
+GONCALO SIQUEIRA 
+26699 
+257 
+III 
+D 
+14 Anos e 
+11 Meses 
+  
+http://lattes.cnpq.br/85223242764
+22070 
+30 
+HELIO RUBENS OLIVEIRA DAS 
+NEVES 
+50896 
+204 
+II 
+M 
+11 Anos e 
+2 Meses 
+  
+http://lattes.cnpq.br/65852802109
+44082 
+31 
+ILKA MARIA DE OLIVEIRA 
+SANTI 
 50906 
 257 
-M 
 II 
-15 
-23 
-http://lattes.cnpq.br/1428125
-896139449 
-34 
+M 
+10 Anos e 
+8 Meses 
+  
+http://lattes.cnpq.br/14281258961
+39449 
+32 
 ISMAEL MOURA PAREDE 
 24001 
 126 
-M 
 II 
-23 
-52 
-http://lattes.cnpq.br/9940636
-692194943 
-35 
-IVAN DE PÁDUA 
-FERREIRA 
-70296 
-270 
 M 
-I 
-25 
-8 
-http://lattes.cnpq.br/8691190
-692957187 
-36 
-IZAIAS PORFIRIO FARIA 
-70472 
-126 
-M 
-I 
-25 
-30 
-http://lattes.cnpq.br/0113035
-429915935 
-37 
-JACY MARCONDES 
-DUARTE 
-21464 
-126 
-D 
-III 
-40 
-10 
-http://lattes.cnpq.br/3559315
-866101801 
-38 
-JEDIANE TEIXEIRA DE 
-SOUZA 
-48026 
-126 
-M 
-II 
-15 
-15 
-http://lattes.cnpq.br/4652529
-194648867 
-39 
-JOÃO DE DEUS DIAS 
-NETO 
-74862 
-113 
-A 
-I 
-19 
-29 
-http://lattes.cnpq.br/5825312
-336323002 
-40 
-JORGE LUIS SARAPKA 
-23996 
-126 
-E 
-III 
-43 
-20 
-http://lattes.cnpq.br/1594125
-714019924 
-41 
-JOVELINO SERGIO 
-SERAPHIM 
-21130 
-113 
-M 
-III 
-28 
-35 
-http://lattes.cnpq.br/1375719
-050925932 
-42 
-LEANDRO BARBOSA DE 
-SOUZA 
-77259 
-126 
-A 
-i 
-14 
-0 
-http://lattes.cnpq.br/4228248
-837751609 
-43 
-LEIDE APARECIDA 
-VIEIRA 
-72573 
-129 
-M 
-I 
-8 
-5 
-http://lattes.cnpq.br/2790416
-469108872 
-44 
-LILIAN KATIA DE 
-OLIVEIRA 
-73733 
-168 
-D 
-I 
-19 
-0 
-http://lattes.cnpq.br/9231571
-001073269 
-45 
-MALON DA SILVA 
-OLIVEIRA 
-75286 
-126 
-M 
-I 
-20 
-5 
-http://lattes.cnpq.br/4707450
-164748289 
-46 
-MARCELINO SIQUEIRA 
-DE CARVALHO 
-75084 
-257 
-M 
-I 
-6 
-37 
-http://lattes.cnpq.br/8615025
-352454563 
-47 
-MARCELO CLÉCIO 
-VARGAS VEGA 
-61892 
-257 
-M 
-I 
-7 
-20 
-http://lattes.cnpq.br/6048704
-190676732 
-48 
-MARCELO GEORGE 
-GRIESE 
-63878 
-126 
-M 
-II 
-12 
-16 
-http://lattes.cnpq.br/0693582
-689983897 
-49 
-MARCELO TSUGUIO 
-OKANO 
-27810 
-209 
-D 
-III 
-21 
-31 
-http://lattes.cnpq.br/2884802
-638051403 
-50 
-MÁRCIA CRISTINA DOS 
-SANTOS FERREIRA 
-52444 
-257 
-E 
-II 
-26 
-15 
-http://lattes.cnpq.br/9541008
-021046002 
-51 
-MARCO ANTONIO 
-BAPTISTA DE SOUSA 
-26693 
-126 
-M 
-II 
+15 Anos e 
+7 Meses 
+  
+http://lattes.cnpq.br/99406366921
+94943 
 33 
-45 
-http://lattes.cnpq.br/6389544
-443644248 
-52 
+JEFERSON CERQUEIRA DIAS 
+60348 
+257 
+I 
+D 
+6 Anos e 0 
+Meses 
+  
+http://lattes.cnpq.br/63959553325
+07543 
+34 
+JHONNY FRANK SOUSA JOCA 
+44518 
+160 
+II 
+D 
+12 Anos e 
+1 Meses 
+  
+http://lattes.cnpq.br/71820753366
+31763 
+35 
+JONY ANDRADE 
+47650 
+129 
+II 
+M 
+11 Anos e 
+7 Meses 
+  
+http://lattes.cnpq.br/38704479353
+77685 
+36 
+KLAUSS ENGELMANN 
+78491 
+217 
+I 
+D 
+0 Anos e 2 
+Meses 
+  
+http://lattes.cnpq.br/94739284146
+75346 
+8 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
+ 
+Nome 
+Matrícula 
+Cód. UE 
+sede 
+Titulação* 
+Referência 
+Experiência Profissional 
+Curriculum Lattes (URL) 
+Docência 
+(anos) 
+Não docência 
+(anos) 
+37 
+LEANDRO GABRIEL 
+72302 
+111 
+I 
+M 
+1 Anos e 8 
+Meses 
+  
+http://lattes.cnpq.br/72335204487
+38105 
+38 
+LEANDRO MARQUES 
+55325 
+217 
+II 
+M 
+9 Anos e 6 
+Meses 
+  
+http://lattes.cnpq.br/73534710833
+23795 
+39 
+LEANDRO SOUZA DE JESUS 
+77240 
+217 
+I 
+M 
+0 Anos e 4 
+Meses 
+  
+ http://lattes.cnpq.br/54239349384
+77820 
+40 
+LORENZO DE MICHELI 
+76641 
+3 
+I 
+D 
+0 Anos e 6 
+Meses 
+  
+http://lattes.cnpq.br/49001056859
+27327 
+41 
+LUCIO NUNES DE LIRA 
+75203 
+292 
+I 
+M 
+1 Anos e 2 
+Meses 
+  
+http://lattes.cnpq.br/44057237530
+50403 
+42 
+LUIZ CELSO PERETTI 
+49974 
+113 
+II 
+M 
+10 Anos e 
+7 Meses 
+  
+http://lattes.cnpq.br/17854400525
+57076 
+43 
+MARCELO ALEXANDRE 
+TIRELLI 
+74470 
+217 
+I 
+D 
+1 Anos e 3 
+Meses 
+  
+http://lattes.cnpq.br/46301942302
+01313 
+44 
 MARCOS DE OLIVEIRA 
 MORAIS 
 73268 
 160 
-D 
 I 
-7 
-33 
-http://lattes.cnpq.br/0457273
-047319501 
-53 
-MARCOS VAGNER 
-ZAMBONI 
-18901 
-126 
-E 
-II 
-40 
-31 
-http://lattes.cnpq.br/4362024
-201127453 
-54 
-MAURICIO MARSURA 
-48034 
-126 
-M 
-II 
-22 
-20 
-http://lattes.cnpq.br/3714614
-282169538 
-55 
-MIGUEL FERREIRA LUZ 
-71305 
-111 
 D 
-I 
-17 
-19 
-http://lattes.cnpq.br/8878358
-548307198 
-56 
-MOACYR DA SILVA 
-CAMINADA 
-31852 
-160 
-M 
+1 Anos e 6 
+Meses 
+  
+http://lattes.cnpq.br/04572730473
+19501 
+45 
+MARCOS VASCONCELOS DE 
+OLIVEIRA 
+46043 
+155 
 II 
-20 
-10 
-http://lattes.cnpq.br/2954370
-224317366 
-57 
-NELSON LAVECCHIA 
-JUNIOR 
-26694 
-126 
 E 
-II 
-30 
-35 
-http://lattes.cnpq.br/1503656
-345186689 
-10 
+11 Anos e 
+8 Meses 
+  
  
- 
- 
-Relatório de Autoavaliação Institucional da Fatec SBC - 2023/Final 
-58 
-NILZA APARECIDA DOS 
-SANTOS 
-63778 
+http://lattes.cnpq.br/84498958329
+44711 
+46 
+MARIANA DIAS MOREIRA 
+71463 
+217 
+I 
+D 
+2 Anos e 0 
+Meses 
+  
+http://lattes.cnpq.br/47915985554
+20419 
+47 
+MAURO LUIZ COSTA 
+CAMPELLO 
+71209 
 270 
-D 
 I 
-20 
-16 
-http://lattes.cnpq.br/0639440
-685890286 
-59 
-ODAIR FURLANETTO 
-52860 
-2 
 M 
-I 
-23 
-36 
-http://lattes.cnpq.br/3109459
-681761730 
-60 
-OSWALDO TADAMI 
-ARIMURA 
-14280 
-2 
-M 
-III 
-33 
-37 
-http://lattes.cnpq.br/9340032
-124901190 
-61 
-PAULO CÉSAR PINHEIRO 
-75391 
-113 
-A 
-I 
-30 
-0 
-http://lattes.cnpq.br/1056706
-188942175 
-62 
-PAULO SERGIO 
-GERMANO DA SILVA 
-72084 
-126 
-M 
-I 
-5 
-30 
-http://lattes.cnpq.br/2722064
-425288008 
-63 
-PEDRO ADOLFO GALANI 
-26695 
-126 
-M 
+2 Anos e 1 
+Meses 
+  
+http://lattes.cnpq.br/15209982176
+40798 
+48 
+MIRIAN ARID SOARES 
+41831 
+111 
 II 
-35 
-40 
-http://lattes.cnpq.br/8246422
-714098115 
-64 
-RENAN RODRIGUES 
-MENDES 
+M 
+12 Anos e 
+7 Meses 
+  
+ http://lattes.cnpq.br/57559650012
+13249 
+49 
+MONICA REAL BISPO 
+MEDEIROS 
+55331 
+217 
+I 
+E 
+8 Anos e 8 
+Meses 
+  
+http://lattes.cnpq.br/61423277791
+99016 
+50 
+PATRICIA GALLO DE FRANÇA 
+76350 
+217 
+I 
+D 
+0 Anos e 6 
+Meses 
+  
+http://lattes.cnpq.br/24168997086
+64987 
+51 
+PAULO ROGERIO DA SILVA 
+75779 
+270 
+I 
+M 
+0 Anos e 8 
+Meses 
+  
+http://lattes.cnpq.br/44815757861
+44662 
+52 
+PRISCILA PRAXEDES GARCIA 
+52039 
+217 
+III 
+D 
+10 Anos e 
+5 Meses 
+  
+http://lattes.cnpq.br/22855638308
+54784 
+53 
+PRISCILLA DE ALMEIDA 
+SANCHEZ 
+73535 
+217 
+I 
+M 
+1 Anos e 5 
+Meses 
+  
+http://lattes.cnpq.br/14744551737
+12256 
+54 
+REGINALDO GONÇALVES 
+76426 
+21 
+I 
+M 
+0 Anos e 6 
+Meses 
+  
+ http://lattes.cnpq.br/65171734953
+77371 
+55 
+REGIS REIS 
+78866 
+113 
+I 
+D 
+0 Anos e 1 
+Meses 
+  
+http://lattes.cnpq.br/06287238911
+01198 
+56 
+RENAN RODRIGUES MENDES 
 71749 
 294 
-M 
 I 
-2 
-7 
-http://lattes.cnpq.br/1823759
-481070452 
-65 
-ROBERTA DE OLIVEIRA 
-CABRERA 
-71201 
-126 
 M 
-I 
-15 
-25 
-http://lattes.cnpq.br/1325063
-573672435 
-66 
-ROMULO OLIVEIRA 
-ALBUQUERQUE 
-16535 
-126 
-M 
+1 Anos e 
+11 Meses 
+  
+http://lattes.cnpq.br/18237594810
+70452 
+57 
+RICARDO PEDRO 
+55321 
+217 
 III 
-40 
-0 
-http://lattes.cnpq.br/4396669
-854200565 
-67 
-ROSANGELA KRONIG 
-19188 
-126 
-M 
-II 
-16 
-20 
-http://lattes.cnpq.br/3792305
-668361148 
-68 
-SAMARIS RAMIRO 
-PEREIRA 
-26696 
-126 
 D 
-III 
-25 
-37 
-http://lattes.cnpq.br/1414652
-257642258 
-69 
-SAMUEL ANDRE DE 
-OLIVEIRA NETO 
-69929 
-183 
-M 
-I 
-22 
-39 
-http://lattes.cnpq.br/4261110
-292394989 
-70 
-SERGIO LUIZ VOLPIANO 
-21458 
-126 
-M 
+9 Anos e 
+11 Meses 
+  
+http://lattes.cnpq.br/99012396011
+36730 
+58 
+ROSANGELA APARECIDA DE 
+QUEIROS MANDUCA 
+57409 
+217 
 II 
-29 
-10 
-http://lattes.cnpq.br/8600069
-416756468 
-71 
+M 
+10 Anos e 
+2 Meses 
+  
+ 
+http://lattes.cnpq.br/08113902983
+48235 
+59 
+ROSANGELA MAURA 
+CORREIA BONICI  
+18353 
+111 
+III 
+D 
+17 Anos e 
+0 Meses 
+  
+http://lattes.cnpq.br/39974307959
+81624 
+60 
+ROSEMEIRE DOS SANTOS 
+ALMEIDA   
+52226 
+113 
+III 
+D 
+11 Anos e 
+0 Meses 
+  
+http://lattes.cnpq.br/15231305666
+20121 
+61 
+ROSILENE KINUE ITO 
+52043 
+217 
+II 
+M 
+10 Anos e 
+2 Meses 
+  
+http://lattes.cnpq.br/11998339950
+62100 
+62 
+SAMUEL FERNANDES NUNES 
+76589 
+250 
+I 
+E 
+0 Anos e 6 
+Meses 
+  
+http://lattes.cnpq.br/62291527214
+73375 
+63 
+SERGIO AUGUSTO MOREIRA 
+DE MELLO SENRA 
+20131 
+2 
+III 
+E 
+46 Anos e 
+5 Meses 
+  
+http://lattes.cnpq.br/70839259603
+29072 
+64 
 SERGIO MIELE RUGGERO 
 74816 
 113 
-A 
 I 
-0 
-35 
-http://lattes.cnpq.br/7250447
-343368947 
-72 
-SILVIO ALVES DA SILVA 
-73988 
-167 
 M 
-I 
-28 
-10 
-http://lattes.cnpq.br/3199258
-725627659 
-73 
-SIMONE FACCIO 
-23997 
-126 
-M 
-II 
-25 
-20 
-http://lattes.cnpq.br/2270030
-529194004 
-74 
-SUELI APARECIDA 
-LODDI 
+1 Anos e 2 
+Meses 
+  
+http://lattes.cnpq.br/72504473433
+68947 
+65 
+SUELI APARECIDA LODDI 
 21461 
 126 
-M 
 II 
-18 
-13 
-http://lattes.cnpq.br/0139250
-723451165 
-75 
-TANIA REGINA 
-EXPOSITO FERREIRA 
-63356 
-216 
-E 
-I 
-33 
-13 
-http://lattes.cnpq.br/4913049
-121135638 
-76 
-THIERRI VIEIRA DOS 
-SANTOS 
+M 
+15 Anos e 
+7 Meses 
+  
+http://lattes.cnpq.br/01392507234
+51165 
+66 
+THIERRI VIEIRA DOS SANTOS 
 69842 
 217 
-M 
 I 
-5 
-0 
-http://lattes.cnpq.br/7431549
-107525061 
-77 
+M 
+2 Anos e 6 
+Meses 
+  
+http://lattes.cnpq.br/74315491075
+25061 
+67 
 VALTEIR BENEDITO VAZ 
 75612 
-258 
-D 
+217 
 I 
-12 
-10 
-http://lattes.cnpq.br/7858853
-184194380 
-78 
-VALTER ESPINDOLA 
-THOMAZ 
-48033 
-126 
+D 
+0 Anos e 
+10 Meses 
+  
+http://lattes.cnpq.br/78588531841
+94380 
+9 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
+ 
+Nome 
+Matrícula 
+Cód. UE 
+sede 
+Titulação* 
+Referência 
+Experiência Profissional 
+Curriculum Lattes (URL) 
+Docência 
+(anos) 
+Não docência 
+(anos) 
+68 
+VINICIUS HELTAI PACHECO 
+74587 
+217 
+I 
 M 
-II 
-35 
-4 
-http://lattes.cnpq.br/3611720
-555484124 
-79 
-VINICIUS VONO PERUZZI 
-76843 
-126 
-A 
-I 
-11 
-1 
-http://lattes.cnpq.br/4052000
-121702617 
-80 
-WARNEY FERNANDO 
-TESTA 
-74994 
-126 
-E 
-I 
-30 
-30 
-http://lattes.cnpq.br/1015168
-167966726 
-81 
-WELLINGTON BATISTA 
-DE SOUSA 
-52854 
-126 
-D 
+1 Anos e 3 
+Meses 
+  
+ 
+http://lattes.cnpq.br/31452868983
+22254 
+69 
+WILLIAM MANJUD MALUF 
+FILHO 
+56439 
+113 
 III 
-29 
-5 
-http://lattes.cnpq.br/9686022
-954869257 
-82 
-WILLIAM APARECIDO 
-CELESTINO LOPES 
-70975 
-126 
-M 
-I 
-15 
-5 
-http://lattes.cnpq.br/7780238
-428342077 
+D 
+9 Anos e 4 
+Meses 
+  
+http://lattes.cnpq.br/98889141708
+75821 
  
  
-Para a elaboração do relatório, a organização seguiu da seguinte forma: 
+Titulação: D (Doutor), M (Mestre), E (Especialista) 
+ 
+Organização do relatório: 
  
 i. 
 Identificação e dados gerais da Unidade de Ensino. 
@@ -1296,11 +1189,6 @@ Metodologia
 a. Cronograma das atividades da CPA 
 b. Ações de sensibilização da comunidade acadêmica 
 c. Identificação dos sujeitos da avaliação 
-11 
- 
- 
- 
-Relatório de Autoavaliação Institucional da Fatec SBC - 2023/Final 
 d. Organização dos instrumentos de coleta 
 e. Procedimentos para a coleta 
 f. Análise e discussão dos dados da coleta 
@@ -1318,13 +1206,13 @@ Anexo de ATAs
  
  
  
- 
- 
-12 
+10 
  
  
  
-Relatório de Autoavaliação Institucional da Fatec SBC - 2023/Final 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
+ 
 2. METODOLOGIA 
 Para contribuir com a organização da Comissão Própria de Avaliação de cada 
 Fatec, o Centro Paula Souza, por meio da Unidade do Ensino Superior de Graduação 
@@ -1373,12 +1261,13 @@ os resultados dos alunos do Centro Paula Souza no ENADE, bem como em
 outros processos de avaliação; 
 9. Aprovar seu próprio regulamento em consonância com as diretrizes 
 emanadas pela CPA Central. 
- 
-13 
- 
+11 
  
  
-Relatório de Autoavaliação Institucional da Fatec SBC - 2023/Final 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
+ 
 Os relatórios parciais e/ou integrais da autoavaliação deverão ser elaborados com 
 periodicidade anual, encaminhados para a CPA Central seguindo o cronograma de 
 planejamento apresentado nas orientações gerais e protocolados até 31 de março de cada 
@@ -1387,22 +1276,28 @@ pelo Conselho Estadual de Educação para a visita à Instituição em seu proce
 recredenciamento, conforme dispõe a Deliberação do CEE 160/2018.  
  
 2.1 Cronograma das atividades da CPA 
-A partir desta estrutura a CPA da Fatec São Bernardo do Campo - Adib Moisés 
-Dib para cumprir o que lhe compete, durante o ano de 2023 elaborou o seguinte 
-cronograma de trabalho:  
+A partir desta estrutura a CPA da Fatec Diadema – Luigi Papaiz para cumprir o 
+que lhe compete, durante o ano de 2023 elaborou o seguinte cronograma de trabalho:  
 Atividades / Ações 
 Mês 
 jan 
-fev mar abr mai jun 
+fev 
+mar 
+abr 
+mai 
+jun 
 jul 
-ago set 
-out nov dez 
-Reuniões com a equipe gestora da UE 
-para sistematização das ações e 
-composições de grupos de trabalho. 
+ago 
+set 
+out 
+nov 
+dez 
+Reuniões com a equipe gestora da UE para 
+sistematização das ações e composições de 
+grupos de trabalho. 
   
  
-X 
+x 
  
  
  
@@ -1412,39 +1307,28 @@ X
  
   
   
-Encontros 
-da 
-equipe 
-CPA 
-para 
-organizar e desenvolver estratégias de 
-maneira integrada a partir da percepção 
-dos 
-diferentes 
-segmentos 
-que 
-compõem a comissão. 
+Encontros da equipe CPA para organizar e 
+desenvolver estratégias de maneira 
+integrada a partir da percepção dos 
+diferentes segmentos que compõem a 
+comissão. 
   
  
-X 
-X 
+x 
  
  
  
  
  
- 
+x 
+x 
  
   
 Sensibilização para participação nos 
 procedimentos e coleta:  Encontros com 
-representantes 
-de 
-turmas, 
-lives, 
-webinar, informativos, site, entre outros, 
-para alimentar a cultura avaliativa da 
-Fatec. 
+representantes de turmas, lives, webinar, 
+informativos, site, entre outros, para 
+alimentar a cultura avaliativa da Fatec. 
   
  
  
@@ -1452,16 +1336,16 @@ Fatec.
  
  
  
-X 
-X 
-X 
+ 
+ 
+x 
  
   
-Organização dos procedimentos de 
-coleta de dados: elaboração das ações 
-voltadas para estimular e monitorar a 
-participação de toda a comunidade no 
-preenchimento do formulário de coleta. 
+Organização dos procedimentos de coleta 
+de dados: elaboração das ações voltadas 
+para estimular e monitorar a participação de 
+toda a comunidade no preenchimento do 
+formulário de coleta.  
  
  
  
@@ -1471,12 +1355,30 @@ preenchimento do formulário de coleta.
  
  
  
-X 
- X 
+x 
   
-Análise dos resultados - acolhimento 
-dos dados da coleta e início dos 
-procedimentos de análise. 
+  
+Análise dos resultados – acolhimento dos 
+dados da coleta e início dos procedimentos 
+de análise.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+x 
+x 
+ 
+Encaminhamento dos dados coletados para 
+a equipe gestora da UE, que recebe os 
+dados faz a análise e apresenta a 
+justificativa e o Plano de Gestão Anual com 
+ações de melhorias, e encaminha para a 
+CPA  
  
  
  
@@ -1487,14 +1389,9 @@ procedimentos de análise.
  
  
  
-X 
-X 
-Encaminhamento dos dados coletados 
-para a equipe gestora da UE, que 
-recebe os dados faz a análise e 
-apresenta a justificativa e o Plano de 
-Gestão Anual com ações de melhorias, 
-e encaminha para a CPA. 
+x 
+ 
+Elaboração do relatório da CPA.  
  
  
  
@@ -1505,37 +1402,25 @@ e encaminha para a CPA.
  
  
  
- 
-X 
-14 
- 
- 
- 
-Relatório de Autoavaliação Institucional da Fatec SBC - 2023/Final 
- 
-2.2 Ações de sensibilização da comunidade acadêmica 
-Para a efetivação do cronograma, destaca-se algumas das ações para a 
-realização dos procedimentos de autoavaliação. Inicialmente, a sensibilização foi feita 
-junto à comunidade com a divulgação de folders, vídeo explicativo sobre a CPA na TV 
-na entrada da faculdade, apresentação sobre a importância da CPA e da AAI. Houve 
-ainda reuniões e divulgação nas salas de aulas. A seguir é apresentado o material 
-utilizado nas ações de sensibilização junto à comunidade escolar. 
- 
-Elaboração do relatório da CPA. 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-X   X 
+ x 
+  
 Envio do Relatório para a emissão do 
-parecer da Cesu/DGE e apreciação da 
-CPA Central. 
+parecer da Cesu/DGE e apreciação da CPA 
+Central 
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+  
+  
+ x 
+  
+Divulgação dos resultados à comunidade 
+acadêmica. 
  
  
  
@@ -1547,24 +1432,7 @@ CPA Central.
   
   
   
- X 
-Divulgação 
-dos 
-resultados 
-à 
-comunidade acadêmica. 
- 
- 
- 
- 
-  
-  
-  
-  
-  
-  
-  
- X 
+x  
 Conclusão do Relatório. 
   
   
@@ -1577,7 +1445,7 @@ Conclusão do Relatório.
   
   
   
- X 
+  
  
  
  
@@ -1590,35 +1458,63 @@ Conclusão do Relatório.
  
  
  
+x 
  
-15 
- 
- 
- 
-Relatório de Autoavaliação Institucional da Fatec SBC - 2023/Final 
- 
-       
+12 
  
  
-2.3 Identificação dos sujeitos da avaliação 
-Após a realização da coleta de dados e o recebimento dos resultados, 
-constatou-se que foram 781 participantes que efetivamente contribuíram com a 
-pesquisa, distribuídos da seguinte maneira: 
-• Docentes .....................................  72 participantes (9,2 % do total) 
-• Discentes .................................... 692 participantes (88,6 % do total) 
-• Administrativo ..............................  17 participantes (2,2 % do total) 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
+2.2 Ações de sensibilização da comunidade acadêmica 
+Para a efetivação do cronograma destaca-se algumas das ações para a 
+realização dos procedimentos de autoavaliação.  
+No mês de outubro a sensibilização foi iniciada por meio dos cartazes abaixo, 
+estes foram colocados em todos os quadros de aviso, na sala dos professores, nas 
+salas de aula e na TV de avisos da Secretaria Acadêmica e Biblioteca, além disso, 
+foram enviados e-mails aos docentes, funcionários e alunos informando sobre a 
+importância de participarem da pesquisa. Os membros da CPA ficaram à disposição 
+da comunidade acadêmica para sanar dúvidas e resolver problemas de acesso ao 
+questionário, acompanharam a participação através dos relatórios do WebSai e 
+passaram em todas as salas convidando os alunos que ainda não haviam participado 
+do avaliação a irem aos laboratórios de informática para participarem. 
  
  
-2.4 Organização dos instrumentos de coleta  
+Folder de divulgação  
+ 
+Email da direção de 02/10 solicitando 
+divulgar nas redes sociais da Unidade 
+13 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
+ 
+Informação sobre o que é CPA  
+ 
+Identificação dos sujeitos da avaliação 
+Participaram da autoavaliação os discentes do 1º ao 6º período (matutino e 
+noturno) do CST em Cosméticos, do 1º ao 6º período (noturno) do CST em GPI e do 
+1° ao 4° período (matutino)do CST em Desenvolvimento de Software Multiplataforma; 
+os docentes; os servidores técnico-administrativo da unidade; os docentes; e a equipe 
+gestora. Responderam aos questionários 212 alunos, 56 docentes, 12 servidores, 4 
+gestores, que corresponde a 33% dos alunos matriculados, 95% dos docentes, 100% 
+dos servidores técnico-administrativo e 100% da equipe gestora. O instrumento 
+utilizado para a coleta de dados contém 16 questões organizado de acordo com os 
+cinco eixos e sete dimensões do Sistema Nacional de Avaliação da Educação 
+Superior (Sinaes).  
+2.3 Organização dos instrumentos de coleta  
+14 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
 Desde 1997 o Centro Paula Souza, evidenciando o seu pioneirismo em buscar 
 indicadores para gerar melhoria de seus serviços criou o Sistema de Avaliação 
 Institucional (SAI), implantado em 1999 em todas as Etecs (Escolas de Ensino Técnico 
-no Nível Médio) e, em 2000, nas Fatecs, seguindo os mais rigorosos critérios 
-16 
- 
- 
- 
-Relatório de Autoavaliação Institucional da Fatec SBC - 2023/Final 
+no nível médio) e, em 2000, nas Fatecs, seguindo os mais rigorosos critérios 
 estatísticos. Sendo os instrumentos elaborados e preenchidos em formulários 
 impressos de 1999 a 2012.  
 A partir de 2010, os questionários deixaram de ser preenchidos em formulário 
@@ -1629,98 +1525,83 @@ Para que as Fatecs tivessem apenas um instrumento que pudesse contemplar
 as 10 dimensões dentro dos 5 eixos avaliativos, a partir da criação da comissão da 
 CPA Central a AAI em parceria com a CESU, por meio de uma equipe qualificada, 
 reorganizou a elaboração dos Instrumentos adequando-os em torno dos 5 eixos 
-avaliativos. 
+avaliativos: o questionário foi composto por 16 questões de múltipla escolha que 
+comtemplaram as dimensões mencionadas.  
  
-2.5 Procedimentos para a coleta 
  
-A AAI disponibilizou o acesso ao sistema de coleta (WebSAI) a partir de 09 de 
-outubro de 2023 ficou disponível para o preenchimento da comunidade do dia 27 de 
-outubro de 2023. Para favorecer a participação da comunidade durante este período 
-a CPA e Direção da Fatec Adib Moisés Dib, fez o acompanhamento da participação 
-de cada segmento, realizando ações para sensibilização contínua para a participação 
-da comunidade acadêmica, a saber: 
+2.4 Procedimentos para a coleta 
  
-i. Folder foram fixados em cada sala de aula e nos murais de avisos; os professores foram 
-orientados a incentivarem a participação dos alunos destinando um tempo nos 
-laboratórios para acesso ao WebSAI; 
- 
-ii. Um vídeo com a apresentação da CPA foi disponibilizado na TV na entrada da unidade, 
-assim o convite foi feito para todos participarem respondendo o WebSAI;  
- 
-iii. Divulgação da CPA e de suas atividades por meio de mensagens enviadas ao corpo 
-docente, corpo discente e corpo técnico, além de informações disponibilizadas na página 
-da Internet e mídias sociais em geral. Além disso, a CPA promoveu informes sobre a 
-coleta de dados e o período em que o mesmo seria realizado por meio da plataforma 
-17 
+A AAI disponibilizou o acesso ao sistema de coleta (WebSAI) a partir de 02 de 
+outubro de 2023 ficou disponível para o preenchimento da comunidade do dia 09 de 
+outubro até 27 de outubro de 2023. Para favorecer a participação da comunidade 
+durante este período a CPA e Direção da Fatec Diadema – Luigi Papaiz fez o 
+acompanhamento da participação de cada segmento, realizando ações para 
+sensibilização contínua para a participação da comunidade acadêmica, a saber: 
+i. Divulgação de arte informativa sobre a CPA; 
+ii. Divulgação das artes enviadas pela ADP por meio de e-mails e redes 
+sociais a todos os servidores, docentes e alunos; 
+iii. Foram colocados cartazes em todas as salas de aula e espaços da 
+Unidade; 
+15 
  
  
  
-Relatório de Autoavaliação Institucional da Fatec SBC - 2023/Final 
-Teams, e-mail institucional e folders espalhados pela faculdade. Informativos foram 
-enviados por e-mail, redes sociais e site da instituição. 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
+iv. Divulgação das artes por meio das TVs que temos em frente à Secretaria 
+Acadêmica e Biblioteca; 
+v. Membros da CPA passaram nas salas de aula conscientizando sobre a 
+importância de responder ao questionário da WebSai e tirando dúvidas.  
  
- 
-2.6 Análise e discussão dos dados da coleta  
- 
+2.5 Análise e discussão dos dados da coleta  
 A partir do dia 09 de novembro de 2023 os dados coletados por meio do 
-WebSAI foram disponibilizados pela AAI. A Fatec Adib Moisés Dib, por meio da CPA 
-iniciou o processo de organização dos dados coletados para encaminhamento à 
-equipe gestora da Unidade de Ensino. Em seguida, a CPA da Fatec Adib Moisés Dib  
-após a coleta dos dados, os membros da CPA se reuniram com a equipe gestora para 
-confrontar os dados obtidos com o Plano de Gestão Anual para verificar se os pontos 
-fracos levantados foram contemplados por ações e tarefas definidas no PGA. Visto 
-que a AAI se propõe a ser um instrumento de gestão, dessa forma, as ações a serem 
-executadas pela unidade devem se pautar prioritariamente nos dados obtidos e nas 
-situações-problemas apresentadas.  
+WebSai, foram disponibilizados pela AAI. A Fatec Diadema – Luigi Papaiz por meio 
+da CPA iniciou o processo de organização dos dados coletados para encaminhamento 
+à equipe gestora da Unidade de Ensino. A CPA da Fatec Diadema fez a leitura 
+detalhada dos dados e descreveu cada um deles. Foi realizada reunião com a equipe 
+gestora para que os dados fossem apresentados e discutidos identificando as 
+situações-problema, potencialidades e fragilidades.  O resultado da pesquisa identifica 
+para a equipe gestora os recursos necessários para melhoramento, possibilitando que 
+se planeje as ações executivas e o cronograma de implementação. 
  
- 
-2.7 Organização das medidas para composição do relatório 
+2.6 Organização das medidas para composição do relatório 
  
 Após o processo de elaboração do Plano de Gestão Anual (PGA), efetuou-se 
 o preenchimento dos quadros de ações propostas, com o apontamento das medidas 
 de melhoramento e respectivos prazos, em consonância com o PGA. Os quadros 
-apresentados, foram condensados no capítulo 4 do presente relatório, refletindo o 
-planejamento da Unidade de Ensino a partir dos indicadores observados em cada eixo 
-avaliativo.  
+apresentados, foram condensados no capítulo 4 deste relatório, refletindo o 
+planejamento da Unidade de Ensino a partir dos indicadores observados em cada 
+eixo/dimensão avaliativa.  
  
  
-2.8 Devolutiva dos resultados para a comunidade acadêmica   
+2.7 Devolutiva dos resultados para a comunidade acadêmica   
  
-Após a apresentação do relatório para a Direção da Fatec Adib Moisés Dib, 
-foram organizadas as formas de divulgação dos resultados e apresentação das ações 
-provenientes do processo de autoavaliação, permitindo o desenvolvimento 
+Após a apresentação do relatório para a Direção da Fatec Diadema – Luigi 
+Papaiz foram organizadas as formas de divulgação dos resultados e apresentação 
+das ações provenientes do processo de autoavaliação, permitindo o desenvolvimento 
 institucional.  
  
-18 
+Foi feito um resumo dos dados do relatório e enviado a toda a comunidade 
+acadêmica. Destacou-se as melhorias propostas baseado no resultado.  
+ 
+16 
  
  
  
-Relatório de Autoavaliação Institucional da Fatec SBC - 2023/Final 
-Os resultados da AAI de 2023 serão apresentados aos docentes e ao corpo 
-técnico administrativo na reunião de encerramento convocada pela Direção da 
-Unidade que será realizada no dia 15/12/23, e para os alunos o resultado será 
-divulgado no início do semestre letivo de 2024.  
-Haverá também a participação dos membros da CPA para a apresentação das 
-informações, sendo conferido espaço para a apresentação de sugestões de melhoria 
-e das ações a serem desenvolvidas ao longo do ano de 2024. Ressalta-se ainda que 
-houve a apresentação do relatório da CPA de 2023 por meio de um e-mail da direção 
-enviado para ciência de todos, conforme mostra a figura abaixo. 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
  
+DESENVOLVIMENTO 
+Considerando os instrumentos da autoavaliação, estruturados a partir das 10 dimensões previstas no 
+art. 3º da Lei nº 10.861 (SINAES), nesta parte do relatório, a CPA deverá apresentar as informações 
+que foram coletadas, a partir da organização de 5 eixos, que articulam as 10 dimensões, conforme 
+disposto na Nota Técnica INEP nº 065, como segue: 
  
- 
-A seguir será apresentado o desenvolvimento do relatório com seus respectivos 
-gráficos, sua análise e ações que serão desencadeadas a partir dos dados obtidos pelo 
-WebSAI para o ano letivo de 2024. 
-19 
- 
- 
- 
-Relatório de Autoavaliação Institucional da Fatec SBC - 2023/Final 
-3. DESENVOLVIMENTO 
-3.1 
-Eixo 1: Planejamento e Avaliação Institucional  
+2.8 
+Planejamento e Avaliação Institucional Eixo 1:  
  
 Dimensão 8: Planejamento e Avaliação 
+ 
 EIXO 
 1 - Planejamento e Avaliação Institucional 
 Dimensão 
@@ -1729,48 +1610,75 @@ SINAES
 APRESENTAÇÃO DAS PRINCIPAIS INFORMAÇÕES COLETADAS NO EIXO 
  
  
-Para análise da dimensão foram separadas categorias e selecionadas questões que 
-permitem a análise do Eixo 1. Os dados tabulados foram disponibilizados pelo 
-ambiente do Microsoft Power Bi e encaminhados aos responsáveis por departamentos 
-(cursos) para que, juntos com os representantes da CPA de cada segmento, fossem 
+ 
+ 
+17 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
+ 
+ 
+ 
+ 
+No eixo 1 avaliamos o Planejamento e Avaliação Institucional. Os dados mostram 
+que a maioria dos alunos (71%) e servidores (79%) avalia as atividades de 
+participação de estudantes em pesquisa de forma positiva – excelente ou bom. Os 
+servidores (79%) entendem que os indicadores da avaliação institucional WebSai 
+são usados no planejamento institucional. 
+ 
+18 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
+ 
+ 
+2.9 
+Eixo 2: Desenvolvimento Institucional 
+ 
+Dimensão 1: Missão e Plano de Desenvolvimento Institucional 
+Dimensão 3: Responsabilidade Social da Instituição 
+ 
+ 
+EIXO 
+2 – Desenvolvimento Institucional 
+Dimensão 
+SINAES 
+1 e 3 
+APRESENTAÇÃO DAS PRINCIPAIS INFORMAÇÕES COLETADAS NO EIXO 
+Dimensão 1: Missão e Plano de Desenvolvimento Institucional 
+ 
+ 
+ 
+ 
+ 
+ 
+19 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 20 
  
  
  
-Relatório de Autoavaliação Institucional da Fatec SBC - 2023/Final 
-realizadas as análises e, também, fossem definidas as propostas de melhoria e 
-correções necessárias. A Direção da Unidade analisou junto com a CPA os resultados 
-sobre as seguintes questões: 
- 
-DOCENTE: questões 1 e 2. 
-DISCENTE: questões 1 e 2. 
-TÉCNICO ADMINISTRATIVO: questões 1 e 2. 
- 
-As Coordenadorias de Cursos analisaram junto com a CPA analisou os resultados 
-obtidos para as seguintes questões: 
- 
-DOCENTE: questão 3. 
-DISCENTE: questão 3. 
- 
-A Diretoria Administrativa junto com a CPA analisou os resultados obtidos para as 
-seguintes questões: 
- 
-TÉCNICO ADMINISTRATIVO: questão 1. 
- 
-Considerando que nesse quesito os índices atingiram a maioria de resultado bom e 
-excelente em todos os cursos, é possível concluir que houve o devido processo de 
-sensibilização quanto a finalidade do processo de avaliação institucional. Ainda há 
-ponto a melhorar para o próximo processo de avaliação, de modo que o índice 
-apontado como regular seja reduzido nas próximas avaliações. 
- 
-Foi possível verificar que a ação de esclarecimento sobre o processo de avaliação com 
-a utilização da ferramenta WebSAI auxiliou nesse processo de sensibilização. 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
  
  
  
- 
- 
- 
+Dimensão 3: Responsabilidade Social da Instituição 
  
  
  
@@ -1779,19 +1687,11 @@ a utilização da ferramenta WebSAI auxiliou nesse processo de sensibilização.
  
  
  
-Relatório de Autoavaliação Institucional da Fatec SBC - 2023/Final 
-3.2 
-Eixo 2: Desenvolvimento Institucional 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
  
-Dimensão 1: Missão e Plano de Desenvolvimento Institucional 
-Dimensão 3: Responsabilidade Social da Instituição 
  
-EIXO 
-2 - Desenvolvimento Institucional 
-Dimensão 
-SINAES 
-1 e 3 
-APRESENTAÇÃO DAS PRINCIPAIS INFORMAÇÕES COLETADAS NO EIXO 
+ 
  
  
  
@@ -1799,56 +1699,51 @@ APRESENTAÇÃO DAS PRINCIPAIS INFORMAÇÕES COLETADAS NO EIXO
  
  
  
-Relatório de Autoavaliação Institucional da Fatec SBC - 2023/Final 
-Para análise da dimensão foram separadas categorias e selecionadas questões que 
-permitem a análise do Eixo 2. Os dados tabulados foram disponibilizados pelo 
-ambiente do Microsoft Power Bi e encaminhados aos responsáveis por departamentos 
-(cursos) para que, juntos com os representantes da CPA de cada segmento, fossem 
-realizadas as análises e, também, fossem definidas as propostas de melhoria e 
-correções necessárias. A Direção da Unidade analisou junto com a CPA os resultados 
-sobre as seguintes questões: 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
  
-DOCENTE: questões 4 e 5. 
-DISCENTE: questões 4 e 5. 
-TÉCNICO ADMINISTRATIVO: questões 4 e 5. 
  
-As Coordenadorias de Cursos analisaram junto com a CPA analisou os resultados 
-obtidos para as seguintes questões: 
  
-DOCENTE: questão 6. 
-DISCENTE: questão 6. 
  
-A Diretoria Administrativa junto com a CPA analisou os resultados obtidos para as 
-seguintes questões: 
+No Eixo Desenvolvimento Institucional, foram avaliadas as dimensões: Dimensão 1: 
+Missão e Plano de Desenvolvimento Institucional e Dimensão 3: Responsabilidade 
+Social da Instituição. Os dados mostram que em relação a missão do CPS 91% dos 
+estudantes consideram que ele é cumprido plenamente, bem como 96% dos 
+servidores. Foi perguntado se os estudantes e servidores conhecem o regimento 
+das Fatecs, 71% dos estudantes dizem conhecer, bem como praticamente a 
+totalidade dos servidores. Cerca de 91% dos estudantes consideram que a 
+comunidade externa participa de atividades propostas pela Instituição de Ensino e 
+os servidores dividem sua opinião entre a participação da comunidade ser elevada e 
+constante (50%) e baixa ou eventual (50%)  
+Na percepção dos estudantes 35% consideram que há interação entre os setores 
+públicos e/ou privado a fim de desenvolver parcerias, soluções técnicas e 
+tecnológicas de forma frequente, 52% consideram ser de forma ocasional. Cerca de 
+60% dos servidores consideram que as interações são frequentes e 39% de forma 
+ocasional.  
  
-TÉCNICO ADMINISTRATIVO: questão 4. 
  
-Nesse quesito foi possível identificar uma variação de percepção entre os cursos. 
-Sendo que para o curso de Informática foi apontado o percentual de 24,76% como 
-regular e o curso de Automação apontou 15,15% como regular. Isso chamou a atenção 
-e será verificado junto a coordenação medidas para tentar amenizar essa divergência 
-nos resultados. Visto que para o curso o curso de automação a percepção foi de 
-excelente para 31,15% ao passo que para o curso de Informática foi de 14,42%. 
-Dessa forma, importante reforçar a divulgação do PDI e da missão da instituição de 
-forma clara para todos os cursos da Instituição. No geral esse quesito foi avaliado como 
-bom para todos os cursos. Mas esse percentual pode melhorar para as próximas 
-avaliações. 
+ 
 23 
  
  
  
-Relatório de Autoavaliação Institucional da Fatec SBC - 2023/Final 
-O Plano de Desenvolvimento Institucional (2022 - 2026) foi um dos principais 
-documentos que nortearam as ações da Fatec São Bernardo do Campo, pois se trata 
-de um documento que se caracterizou como uma identidade da Instituição, definindo, 
-dentre outros, sua filosofia de trabalho, missão, estratégias, objetivos, estrutura e 
-diretrizes pedagógicas, algo a ser continuado no PDI para os anos seguintes.  
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
+2.1 
+Eixo 3: Políticas Acadêmicas 
  
+Dimensão 2: Políticas para o Ensino, a Pesquisa e a Extensão 
+Dimensão 4: Comunicação com a Sociedade 
+Dimensão 9: Política de Atendimento aos Discentes 
  
+EIXO 
+3 – Políticas Acadêmicas 
+Dimensão 
+SINAES 
+2, 4 e 9 
+APRESENTAÇÃO DAS PRINCIPAIS INFORMAÇÕES COLETADAS NO EIXO 
  
- 
- 
- 
+Dimensão 2: Políticas para o Ensino, a Pesquisa e a Extensão 
  
  
  
@@ -1857,76 +1752,35 @@ diretrizes pedagógicas, algo a ser continuado no PDI para os anos seguintes.
  
  
  
-Relatório de Autoavaliação Institucional da Fatec SBC - 2023/Final 
-3.3 
-Eixo 3: Políticas Acadêmicas 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
  
-Dimensão 2: Políticas para o Ensino, a Pesquisa e a Extensão 
-Dimensão 4: Comunicação com a Sociedade 
-Dimensão 9: Política de Atendimento aos Discentes 
  
-EIXO 
-3 - Políticas Acadêmicas 
-Dimensão 
-SINAES 
-2, 4 e 9 
-APRESENTAÇÃO DAS PRINCIPAIS INFORMAÇÕES COLETADAS NO EIXO 
+ 
+ 
+ 
+ 
+ 
+ 
 25 
  
  
  
-Relatório de Autoavaliação Institucional da Fatec SBC - 2023/Final 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
  
-Para análise da dimensão foram separadas categorias e selecionadas questões que 
-permitem a análise do Eixo 3. Os dados tabulados foram disponibilizados pelo 
-ambiente do Microsoft Power Bi e encaminhados aos responsáveis por departamentos 
-(cursos) para que, juntos com os representantes da CPA de cada segmento, fossem 
-realizadas as análises e, também, fossem definidas as propostas de melhoria e 
-correções necessárias. A Direção da Unidade analisou junto com a CPA os resultados 
-sobre as seguintes questões: 
  
-DOCENTE: questões 7, 8 e 15. 
-DISCENTE: questões 7, 8 e 15. 
-TÉCNICO ADMINISTRATIVO: questões 7 e 8. 
+Dimensão 4: Comunicação com a Sociedade 
  
-As Coordenadorias de Cursos analisaram junto com a CPA analisou os resultados 
-obtidos para as seguintes questões: 
  
-DOCENTE: questão 15. 
-DISCENTE: questão 15. 
- 
-A Diretoria Administrativa junto com a CPA analisou os resultados obtidos para as 
-seguintes questões: 
- 
-TÉCNICO ADMINISTRATIVO: questões 8. 
- 
-Nesse quesito que avalia ações acadêmico-administrativas para a pesquisa ou 
-iniciação científica, a inovação tecnológica e o desenvolvimento artístico e cultural; 
-políticas institucionais e ações acadêmico-administrativas para a extensão; Políticas 
-institucionais e ações de estímulo e difusão para a produção acadêmica docente; 
-Política institucional de acompanhamento dos egressos, verificou -se divergência entre 
-os cursos. No geral todos os cursos indicaram o conceito bom, mas para melhorar essa 
-avaliação medidas serão propostas para reforçar a implementação de políticas de 
-pesquisa e extensão. 
  
 26 
  
  
  
-Relatório de Autoavaliação Institucional da Fatec SBC - 2023/Final 
-3.4 
-Eixo 4: Políticas de Gestão 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
  
-Dimensão 5: Políticas de Pessoal 
-Dimensão 6: Organização e Gestão da Instituição 
-Dimensão 10: Sustentabilidade Financeira 
- 
-EIXO 
-4 - Políticas de Gestão 
-Dimensão 
-SINAES 
-5, 6 e 10 
-APRESENTAÇÃO DAS PRINCIPAIS INFORMAÇÕES COLETADAS NO EIXO 
  
  
  
@@ -1937,38 +1791,12 @@ APRESENTAÇÃO DAS PRINCIPAIS INFORMAÇÕES COLETADAS NO EIXO
  
  
  
-Relatório de Autoavaliação Institucional da Fatec SBC - 2023/Final 
- 
-Para análise da dimensão foram separadas categorias e selecionadas questões que 
-permitem a análise do Eixo 4. Os dados tabulados foram disponibilizados pelo 
-ambiente do Microsoft Power Bi e encaminhados aos responsáveis por departamentos 
-(cursos) para que, juntos com os representantes da CPA de cada segmento, fossem 
-realizadas as análises e, também, fossem definidas as propostas de melhoria e 
-correções necessárias. A Direção da Unidade analisou junto com a CPA os resultados 
-sobre as seguintes questões: 
- 
-DOCENTE: questões 9 e 10. 
-DISCENTE: questões 9 e 10. 
-TÉCNICO ADMINISTRATIVO: questões 9 e 10. 
- 
-As Coordenadorias de Cursos analisaram junto com a CPA analisou os resultados 
-obtidos para as seguintes questões: 
- 
-DOCENTE: questão 9. 
-DISCENTE: questão 9. 
- 
-A Diretoria Administrativa junto com a CPA analisou os resultados obtidos para as 
-seguintes questões: 
- 
-TÉCNICO ADMINISTRATIVO: questão 10. 
- 
-Nesse quesito que avalia as condições que de  apoio, reconhecimento e formação 
-continuada do  corpo docente e técnico administrativo, foram apontadas em sua 
-maioria como “ bom”. Ações precisam ser implementadas para melhorar esse resultado 
-para as próximas avaliações. 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
  
  
  
+Dimensão 9: Política de Atendimento aos Discentes 
  
  
  
@@ -1979,51 +1807,44 @@ para as próximas avaliações.
  
  
  
-Relatório de Autoavaliação Institucional da Fatec SBC - 2023/Final 
-3.5 
-Eixo 5: Infraestrutura Física 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
  
-Dimensão 7: Infraestrutura Física 
  
-EIXO 
-5 - Infraestrutura Física 
-Dimensão 
-SINAES 
-7 
-APRESENTAÇÃO DAS PRINCIPAIS INFORMAÇÕES COLETADAS NO EIXO 
  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+No Eixo Políticas Acadêmicas analisam-se os elementos constitutivos das práticas de 
+ensino, pesquisa e extensão, considerando como meta o aprendizado. Enfatiza-se 
+também a relação entre as políticas acadêmicas, a comunicação com a sociedade e 
+o atendimento ao discente. Na dimensão Políticas para o Ensino, a Pesquisa e a 
+Extensão, a maioria dos estudantes e quase a totalidade dos servidores avaliam o 
+nível de ensino da Unidade como Excelente ou Bom. As opiniões sobre as atividades 
+de pesquisa entre os estudantes variam, 45% consideram elevado, 33% baixo, 19% 
+não conhece e 3% dizem que não existe; entre os servidores também há uma variação 
+de opiniões, 60% dizem ser elevado, 29% baixo, 10% não conhece e 1% diz que não 
+existe. Na dimensão Comunicação com a Sociedade, os estudantes e docentes dizem 
+que o acesso a documentos informativos e normativos da instituição é excelente ou 
+bom.  Em relação aos meios de comunicação interna a maioria dos estudantes e 
+servidores também dizem ser excelente ou bom. Em relação à Política de Atendimento 
 29 
  
  
  
-Relatório de Autoavaliação Institucional da Fatec SBC - 2023/Final 
- 
-Para análise da dimensão foram separadas categorias e selecionadas questões que 
-permitem a análise do Eixo 5. Os dados tabulados foram disponibilizados pelo 
-ambiente do Microsoft Power Bi e encaminhados aos responsáveis por departamentos 
-(cursos) para que, juntos com os representantes da CPA de cada segmento, fossem 
-realizadas as análises e, também, fossem definidas as propostas de melhoria e 
-correções necessárias. A Direção da Unidade analisou junto com a CPA os resultados 
-sobre as seguintes questões: 
- 
-DOCENTE: questão 12. 
-DISCENTE: questão 12. 
-TÉCNICO ADMINISTRATIVO: questão 12. 
- 
-As Coordenadorias de Cursos analisaram junto com a CPA analisou os resultados 
-obtidos para as seguintes questões: 
- 
-DOCENTE: questão 12. 
-DISCENTE: questão 12. 
- 
-A Diretoria Administrativa junto com a CPA analisou os resultados obtidos para as 
-seguintes questões: 
- 
-TÉCNICO ADMINISTRATIVO: questão 12. 
- 
-Nesse quesito verifica -se quando índice de avaliação “regular” o que sugere que a 
-unidade precisa implementar esforços para a melhoria desse índice. 
- 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
+aos Discente, 69% dos estudantes avaliam os programas de apoio pedagógico como 
+excelente ou bom e 31% como regular ou insuficiente, nessa categoria a maioria dos 
+servidores (89%) avaliam os programas como excelente ou bom.  
  
  
  
@@ -2031,8 +1852,125 @@ unidade precisa implementar esforços para a melhoria desse índice.
  
  
  
-Relatório de Autoavaliação Institucional da Fatec SBC - 2023/Final 
-4. ANÁLISE DOS DADOS E AÇÕES PROPOSTAS (PGA) 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
+2.2 
+Eixo 4: Políticas de Gestão 
+ 
+Dimensão 5: Políticas de Pessoal 
+Dimensão 6: Organização e Gestão da Instituição 
+Dimensão 10: Sustentabilidade Financeira 
+ 
+EIXO 
+4 – Políticas de Gestão 
+Dimensão 
+SINAES 
+5, 6 e 10 
+APRESENTAÇÃO DAS PRINCIPAIS INFORMAÇÕES COLETADAS NO EIXO 
+Dimensão 5: Políticas de Pessoal 
+ 
+ 
+ 
+Dimensão 6: Organização e Gestão da Instituição 
+ 
+ 
+ 
+31 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+O Eixo Políticas de Gestão tem como foco a verificação do desenvolvimento das 
+políticas de pessoal e da organização e gestão da instituição. Na dimensão Políticas 
+32 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
+de Pessoal no que diz respeito ao plano de carreira os servidores têm opiniões 
+divergentes, 15% consideram plenamente satisfatório, 33% satisfatório, 28% pouco 
+satisfatório, 21% insatisfatório e 3% não soube responder. Na dimensão Organização 
+e Gestão da Instituição observamos que 83% dos discentes e 97% dos servidores 
+reconhecem a equipe gestora da unidade como uma liderança capaz de conduzir 
+ações de melhoria das condições de ensino. Cerca de 69% dos alunos e 93% dos 
+servidores avaliam a comunicação interna entre gestão pedagógica, gestão 
+administrativa, gestão acadêmica e os alunos como excelente ou boa. Entre os alunos 
+ainda há opiniões que variam entre regular (19%), insuficiente (9%) e não sabe 
+responder (2%).  
+ 
+ 
+33 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
+2.3 
+Eixo 5: Infraestrutura Física 
+ 
+Dimensão 7: Infraestrutura Física 
+ 
+EIXO 
+5 – Infraestrutura Física 
+Dimensão 
+SINAES 
+7 
+APRESENTAÇÃO DAS PRINCIPAIS INFORMAÇÕES COLETADAS NO EIXO 
+Dimensão 7: Infraestrutura Física 
+ 
+ 
+ 
+ 
+ 
+34 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+No Eixo Infraestrutura Física, verificam-se as condições que a IES apresenta para o 
+desenvolvimento de suas atividades de ensino, pesquisa, extensão e gestão. 
+Observamos que 75% dos alunos e 85% dos docentes consideram que o conjunto de 
+laboratórios e ambientes que proporcionam atividades práticas é excelente ou bom.  
+E ainda 83% dos alunos consideram as condições das salas de aula excelente ou 
+boa. Mas ainda há algumas espaços e equipamentos que precisam ser melhorados, 
+modernizados ou adquiridos.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+35 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
+3. ANÁLISE DOS DADOS E AÇÕES PROPOSTAS (PGA) 
+ 
  
 EIXO 
 1 - Planejamento e Avaliação Institucional 
@@ -2041,313 +1979,355 @@ Prazo
 Código 
 PGA 
 Título 
-1.04 
-Sensibilização da Comunidade Acadêmica, para participação nos 
-procedimentos e coleta de dados da Pesquisa do WebSAI. 
+101 
+DIVULGAR PROJETOS DE PESQUISA  
+Dez/2024 
+102  
+SENSIBILIZA WEBSAI - PARTICIPE DO WEBSAI E AJUDE A 
+MELHORAR A UNIDADE  
+Dez/2024 
  
-27/10/2023 
+ 
+ 
+ 
+ 
+ 
+ 
  
 EIXO 
-2 - Desenvolvimento Institucional 
+2 – Desenvolvimento Institucional 
 AÇÃO PROPOSTA  
 Prazo   
 Código 
 PGA 
 Título 
-1.04 
-Sensibilização da Comunidade Acadêmica, para participação nos 
-procedimentos e coleta de dados da Pesquisa do WebSAI. 
-27/10/2023 
+201 
+ALUNO – CONHEÇA O REGIMENTO DAS FATECS   
+Dez/2024 
+202 
+DIVULGAR OS EVENTOS OFERECIDOS PELA FATEC DIADEMA 
+PARA A COMUNIDADE EXTERNA 
+Dez/2024 
+203 
+FOMENTAR PARCERIAS COM EMPRESAS PÚBLICAS E 
+PRIVADAS PARA OFERTA DE ESTÁGIO E DESENVOLVIMENTO 
+TECNOLÓGICO  
+Dez/2024 
+ 
+ 
+ 
+ 
  
 EIXO 
-3 - Políticas Acadêmicas 
+3 – Políticas Acadêmicas 
 AÇÃO PROPOSTA  
 Prazo   
 Código 
 PGA 
 Título 
-1.03 
-Proposta de atualização do curso de Automação Industrial. 
-15/12/2023 
-1.05 
-Elaboração e implementação estratégias para fomentar uma demanda 
-crescente para vestibulares futuros. 
-20/12/2023 
-1.06 
-Estabelecimento de parceria para motivação dos alunos ingressantes 
-com a Secretaria de Desenvolvimento Econômico, Ciência, Tecnologia, 
-Trabalho e Turismo de São Bernardo do Campo. 
-15/12/2023 
-2.01 
-Adequar a infraestrutura da internet e mobiliários para os laboratórios de 
-TI. 
-01/12/2023 
-2.02 
-Estudar formas de obter/alocar recursos para: manutenção dos 
-equipamentos de laboratórios específicos (robôs, sistemas de controle, 
-kit didático de instrumentação, impressoras 3D); e para aquisição e 
-01/12/2023 
-31 
- 
- 
- 
-Relatório de Autoavaliação Institucional da Fatec SBC - 2023/Final 
-implantação de módulos e dispositivos para a modernização de alguns 
-dos laboratórios, que se encontram desatualizados frente ao mercado de 
-trabalho. 
-2.03 
-Criar/preparar espaço físico para confecção dos protótipos de TCC’s e 
-de Projetos de Iniciação Científica/Tecnológica, inclusive com ações de 
-descarte de equipamentos inutilizáveis, que fazem parte do patrimônio. 
-01/12/2023 
-2.04 
-Recuperar 
-Laboratório 
-de 
-Controle 
-de 
-Processos 
-Contínuos 
-(Equipamentos locados no Laboratório 29), visando ampliar as aulas 
-práticas para algumas disciplinas formativas. 
-01/12/2023 
- 
-EIXO 
-4 - Políticas de Gestão 
-AÇÃO PROPOSTA  
-Prazo   
-Código 
-PGA 
-Título 
-1.01 
-Articular formas de otimizar a colocação/contratação de docentes para 
-as disciplinas sem professor, evitando os longos períodos de claros 
-docentes. 
-20/12/2023 
-1.04 
-Sensibilização da Comunidade Acadêmica, para participação nos 
-procedimentos e coleta de dados da Pesquisa do WebSAI. 
-27/10/2023 
-1.07 
-Estratégias para ampliar a consciência de preservação ambiental nos 
-alunos da FATEC SBC com a Secretaria do Meio Ambiente de São 
-Bernardo do Campo. 
-06/11/2023 
-6.01 
-Incentivar a leitura e estabelecer programas de desenvolvimento 
-pessoal. 
-01/12/2023 
-6.02 
-Institucionalizar programas de treinamento e cursos de aperfeiçoamento, 
-visando a atualização dos docentes e administrativos, em suas 
-atividades, assim como a manutenção de motivação. 
-01/12/2023 
-6.03 
-Projeto de Sustentabilidade baseado na coleta de tampas plásticas para 
-reciclagem (Projeto “Tampinha Legal da FATEC”). 
-01/12/2023 
-6.04 
-Projeto de Sustentabilidade baseado em programa de coleta de óleo de 
-cozinha usado e seu envio para a reciclagem (Projeto “Eco óleo da 
-FATEC”). 
-01/12/2023 
-6.05 
-Projeto Inclusão social de pessoas com deficiências na FATEC SBC. 
-01/12/2023 
-7.01 
-Estabelecer a parceria da FATEC SBC com a empresa Altus Sistemas 
-de Automação S.A. 
-20/12/2023 
-7.02 
-Estabelecer a parceria da FATEC SBC com a empresa METRA - Sistema 
-Metropolitano de Transportes LTDA. 
-20/12/2023 
-7.03 
-Estabelecer a parceria da FATEC SBC com a empresa M. SHIMIZU 
-Elétrica e Pneumática LTDA. 
-20/12/2023 
- 
-32 
- 
- 
- 
-Relatório de Autoavaliação Institucional da Fatec SBC - 2023/Final 
-EIXO 
-5 - Infraestrutura Física 
-AÇÃO PROPOSTA  
-Prazo   
-Código 
-PGA 
-Título 
-2.01 
-Adequar a infraestrutura da internet e mobiliários para os laboratórios de 
-TI. 
-01/12/2023 
-2.02 
-Estudar formas de obter/alocar recursos para: manutenção dos 
-equipamentos de laboratórios específicos (robôs, sistemas de controle, 
-kit didático de instrumentação, impressoras 3D); e para aquisição e 
-implantação de módulos e dispositivos para a modernização de alguns 
-dos laboratórios, que se encontram desatualizados frente ao mercado de 
-trabalho. 
-01/12/2023 
-2.03 
-Criar/preparar espaço físico para confecção dos protótipos de TCC’s e 
-de Projetos de Iniciação Científica/Tecnológica, inclusive com ações de 
-descarte de equipamentos inutilizáveis, que fazem parte do patrimônio. 
-01/12/2023 
-2.04 
-Recuperar 
-Laboratório 
-de 
-Controle 
-de 
-Processos 
-Contínuos 
-(Equipamentos locados no Laboratório 29), visando ampliar as aulas 
-práticas para algumas disciplinas formativas. 
-01/12/2023 
-5.01 
-Projeto de Reforma predial para implantação de espaço necessário aos 
-trabalhos de iniciação científica, inovação, extensão e TCC’s - 
-complementar 2.03. 
-01/12/2023 
-5.02 
-Elaborar estudos para atacar os problemas de manutenção elétrica no 
-campus da unidade (Redimensionamento de circuitos elétricos, reparo 
-no disjuntor de entrada da cabine primária de energia elétrica). 
-01/12/2023 
-5.03 
-Elaborar estudos visando a correção dos problemas devidos à falta e 
-falhas de manutenção predial (Manutenções nas dependências da 
-FATEC SBC, exclusivamente). 
-01/12/2023 
-5.04 
-Projeto para garantir a segurança das pessoas e das instalações da 
-FATEC SBC com estudo para implantação de políticas de segurança dos 
-alunos, funcionários, professores e das instalações físicas da FATEC 
-SBC. 
-01/12/2023 
- 
- 
-33 
- 
- 
- 
-Relatório de Autoavaliação Institucional da Fatec SBC - 2023/Final 
-5. CONSIDERAÇÕES FINAIS 
- 
-A Comissão Própria de Avaliação (CPA), dentro das suas obrigações e limitações, procura 
-oferecer subsídios que sejam capazes de auxiliar na tomada de decisão dentro do planejamento 
-institucional na busca contínua pela melhoria da qualidade do ensino da Instituição, no que tange 
-aos aspectos da pesquisa, extensão e gestão.  
- 
-Dessa forma, a CPA corresponde a um instrumento importante, porém não único, a 
-disposição da direção e coordenações da unidade, baseada em uma coleta de dados que permite 
-a tomada de medidas corretivas na busca de melhorias, desde aspectos da infraestrutura física até 
-a política de atendimento aos discentes. Para isso, os dados obtidos por intermédio do WebSAI, 
-sua tabulação e os gráficos gerados são de fundamental importância nesse processo, demandando 
-um trabalho da equipe da CPA local.  
- 
-É importante ressaltar a existência do Centro de Inovação, Pesquisa e Desenvolvimento 
-na Fatec SBC, que busca promover a integração entre docentes e discentes, bem como a 
-aproximação da faculdade com empresas locais. Esse movimento tem se ampliado com novos 
-convênios, o que tem contribuído cada vez mais para a formação dos estudantes, uma vez que os 
-mesmos têm a oportunidade de vivenciarem a rotina dentro das empresas e perceberem a 
-aplicação dos conhecimentos acadêmicos adquiridos no ambiente industrial. Esse mesmo aspecto 
-já havia sido apontado no relatório do WebSAI do ano anterior. 
- 
-Dentre as principais ações advindas desse processo, podemos salientar que das ações 
-propostas definidas no item 4 desse relatório a grande maioria foi implementada grande parte está 
-em andamento.  
- 
-Como destaque favorável pode -se citar as ações de sensibilização para participação do 
-processo de avaliação. Isso é comprovado pelo aumento no número de respondentes ao Web Sai. 
- 
-Nas ações propostas em relação as Políticas Acadêmicas, foram implementadas ações 
-para o aumento do número de laboratórios de informática que foram de 4 para 7. Destaca -se ainda 
-a parceria com a empresa Next ( Metra) que irá reformar o espaço físico para a criação do espaço 
-destinado aos Projetos de Iniciação Científica. Também está acontecendo o estabelecimento de 
-34 
- 
- 
- 
-Relatório de Autoavaliação Institucional da Fatec SBC - 2023/Final 
-parceria com a Secretaria de Desenvolvimento Econômico, Ciência, Tecnologia, Trabalho e 
-Turismo de São Bernardo do Campo. 
- 
-Com relação as questões relacionadas as Políticas de Gestão, pode dizer que algumas das 
-ações propostas foram implementadas e outras estão em andamento. Houve uma ação conjunta 
-realizada com a Secretaria do meio ambiente de São Bernardo do Campo, para estimular a 
-consciência de preservação ambiental. Ação de será de fluxo contínuo visando criar essa 
-percepção na comunidade. Foi concretizada a parceria com a empresa Next ( Metra) e estão em 
-andamento parcerias com as empresas Altus Sistemas de Automação S.A. e M. SHIMIZU Elétrica 
-e Pneumática LTDA.  Projeto de coleta de tampinhas e reciclagem de óleo seguem em fluxo 
-contínuo. 
- 
-Tocante as questões relacionadas a Infraestrutura Física, e aso projetos indicados, registra 
--se que poucas mudanças foram implementadas. Isso corrobora com o resultado apresentado 
-nesse quesito de alto índice “regular”. A autoavaliação apontou que medidas precisam ser tomadas 
-nesse sentido para melhorar o índice nesse quesito nas próximas avaliações. De todas as ações 
-propostas para o Eixo 5 que comtempla a Infraestrutura Física verificou se que a questão de 
-manutenção predial para evitar problemas está em andamento e que o projeto para garantir a 
-segurança das pessoas está em andamento contando com a contribuição a ação efetiva da CIPA 
-da unidade. No mais, não houve implementação das ações propostas, que seguem para o próximo 
-plano de gestão. Assim, medidas efetivas devem ser implementadas nesse sentido. 
- 
-Com base nos dados obtidos a CPA indica que medidas devem ser tomadas para reforçar 
-a divulgação do PDI e da missão institucional para amenizar a discrepância de percepção entre os 
-cursos. Também deve ser implementada ações para promover o desenvolvimento de docentes e 
-técnicos administrativos. E ações de melhoria da infraestrutura física a unidade deve ser efetivada, 
-visto que houve um alto índice de conceito “ regular “ nesse quesito. 
- 
-Com base nos resultados obtidos é possível perceber que eles contemplam as dez 
-dimensões avaliativas apontadas no SINAES, sendo que eles foram analisados e discutidos pelos 
-membros da comunidade acadêmica da instituição, da direção as coordenações de cursos, setores 
-administrativos, gestores, professores e, finalmente, os estudantes. Para que a comunidade 
-acadêmica tomasse ciência de todo o processo realizado pela CPA, desde os dados coletados até 
-as respectivas análises e propostas, procurou-se de forma organizada e ampliada a divulgação no 
-interior da Instituição por diversos meios.  
-35 
- 
- 
- 
-Relatório de Autoavaliação Institucional da Fatec SBC - 2023/Final 
- 
-Ressaltamos também que as deficiências levantadas permitirão a comparação com a 
-próxima avaliação, de forma que possa ser possível a identificação dos avanços alcançados, 
-salientando que o WebSAI em conjunto com o trabalho exercido pela CPA, podem oferecer 
-subsídios para que a gestão possa ser feita de forma mais assertiva. 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+301 
+OFICINA DE VELAS  
+Dez/2024 
+302 
+AULAS DE REDAÇÃO E LÍNGUA PORTUGUESA PREPARATÓRIO 
+PARA O VESTIBULAR E PROVÃO PAULISTA  
+Dez/2024 
 36 
  
  
  
-Relatório de Autoavaliação Institucional da Fatec SBC - 2023/Final 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
+303 
+VENHA PARTICIPAR DA INICIAÇÃO CIENTIFICA  
+Dez/2024 
+304 
+DIVULGAR PROJETOS REALIZADOS PELOS DOCENTES NAS 
+AULAS 
+Dez/2024 
+305 
+REFORÇO/MONITORIA EM DISCIPLINAS DO 1º SEMESTRE  
+Dez/2024 
+306 
+PROJETO SOCIALIZA 
+Dez/2024 
+307 
+VISITAS E PALESTRAS TÉCNICAS 
+Dez/2024 
+ 
+EIXO 
+4 – Políticas de Gestão 
+AÇÃO PROPOSTA  
+Prazo   
+Código 
+PGA 
+Título 
+401 
+CAMPANHA – COMUNICAÇÃO INTERNA PARA OS ALUNOS 
+Dez/2024 
+ 
+ 
+ 
+ 
+ 
+EIXO 
+5 – Infraestrutura Física 
+AÇÃO PROPOSTA  
+Prazo   
+Código 
+PGA 
+Título 
+501 
+PROPOSTA PARA ESTUDO E SUBSTITUIÇÃO DE CADEIRAS 
+GIRATÓRIAS PARA OS LABORATÓRIOS DE INFORMÁTICA E 
+SALAS HÍBRIDAS 
+Dez/2024 
+502 
+PROPOSTA PARA ESTUDO E IMPLANTAÇÃO DE CONJUNTO DE 
+MESA SEXTAVADA E CADEIRAS PARA TRANSFORMAR DUAS 
+SALAS DE AULA CONVENCIONAIS EM SALAS HIBRIDAS.  
+Dez/2024 
+503 
+ESTUDO PARA AQUISIÇÃO LAPTOPS PARA SEREM 
+UTILIZADOS PELOS ALUNOS 
+Dez/2024 
+504 
+ESTUDO PARA AQUISIÇÃO DE 2 CONTÊINERS PARA SEREM 
+UTILIZADOS COMO ALMOXARIFADO 
+Dez/2024 
+505 
+PROPOSTA PARA ESTUDO E ADEQUAÇÃO DOS 
+LABORATÓRIOS DO CST EM COSMÉTICOS 
+Dez/2024 
+506 
+PROPOSTA PARA ESTUDO E IMPLANTAÇÃO DOS ITENS QUE 
+FALTAM PARA O LABORATÓRIO METROLOGIA E SIMULAÇÃO 
+DO CST EM GPI 
+Dez/2024 
+507 
+PROPOSTA PARA ESTUDO DA DEMANDA EFETIVA DA REDE 
+WI-FI PARA A UNIDADE DE ENSINO 
+Dez/2024 
+508 
+PROPOSTA PARA ADEQUAÇÃO DA UNIDADE PARA INCLUSÃO 
+DE PESSOAS COM NECESSIDADES ESPECIAIS   
+Dez/2024 
+509 
+PROPOSTA E ESTUDO PARA INSTALAÇÃO DE CÂMERAS DE 
+SEGURANÇA NA UNIDADE   
+Dez/2024 
+37 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
+510 
+PROPOSTA PARA MODERNIZAR A BIBLIOTECA COM LIVROS 
+PARA O CURSO DE DSM 
+ 
+ 
+38 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
+ 
+4. CONSIDERAÇÕES FINAIS 
+A Comissão Própria de Avaliação, pelo seu trabalho, visa oferecer subsídios capazes 
+de subsidiar à tomada de decisão e ao planejamento institucional, na busca de 
+contínua melhoria da qualidade do ensino, da pesquisa, da extensão e da gestão. 
+Sendo assim um importante instrumento para a Direção.  
+O Plano de Desenvolvimento institucional (Ano 2022 – Ano 2026) foi um dos principais 
+documentos que nortearam as ações da Fatec Diadema – Luigi Papaiz tratou-se de 
+um documento que se caracterizou como uma identidade da Instituição, definindo, 
+dentre outros, sua filosofia de trabalho, missão, estratégias, objetivos, estrutura e 
+diretrizes pedagógicas, algo a ser continuado no PDI para os anos de 2023 - 2026.  
+Os dados da pesquisa nos fizeram perceber nossas fragilidades e pontos fortes. No 
+Eixo 1 avaliamos o Planejamento e Avaliação Institucional. Os dados mostram que a 
+maioria dos alunos (71%) e servidores (79%) avalia as atividades de participação de 
+estudantes em pesquisa de forma positiva – excelente ou bom. Os servidores (79%) 
+entendem que os indicadores da avaliação institucional WebSai são usados no 
+planejamento das ações da Unidade. A autoavaliação bem e o parecer dos 
+especialistas das comissões de avaliação in loco do Conselho Estadual de Educação 
+(CEE) contribuem para gerar medidas corretivas a partir do processo de 
+planejamento.  
+No Eixo 2 Desenvolvimento Institucional, foram avaliadas as dimensões: Dimensão 1: 
+Missão e Plano de Desenvolvimento Institucional e Dimensão 3: Responsabilidade 
+Social da Instituição. Os dados mostram que 91% dos estudantes consideram que a 
+Missão do CPS é cumprida plenamente, bem como 96% dos servidores e que as 
+ações institucionais estão articuladas com a missão do CPS que é promover a 
+educação pública profissional e tecnológica dentro de referenciais de excelência, 
+visando o desenvolvimento tecnológico, econômico e social do Estado de São Paulo. 
+Foi perguntado se os estudantes e servidores conhecem o regimento das Fatecs, 71% 
+dos estudantes dizem conhecer, bem como praticamente a totalidade dos servidores. 
+Cerca de 91% dos estudantes consideram que a comunidade externa participa de 
+atividades propostas pela Instituição de Ensino e os servidores dividem sua opinião 
+entre a participação da comunidade ser elevada e constante (50%) e baixa ou eventual 
+39 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
+(50%). Na percepção dos estudantes 35% consideram que há interação entre os 
+setores públicos e/ou privado a fim de desenvolver parcerias, soluções técnicas e 
+tecnológicas de forma frequente, 52% consideram ser de forma ocasional. Cerca de 
+60% dos servidores consideram que as interações são frequentes e 39% de forma 
+ocasional. Nesse sentido, o Plano de Gestão Anual (PGA) trabalhou com projetos que 
+possibilitaram  a inserção da comunidade  externa na Unidade e a interação entre o 
+setor público e privado para desenvolver parcerias: i)  Melhoria da Visibilidade da 
+Unidade de Ensino e a Demanda do Vestibular que consiste na visita e empresas 
+e escolas de ensino médio da região do ABCD e região Sul e promoção da Unidade 
+nas redes sociais da Unidade cujo objetivo é melhorar a visibilidade da Instituição na 
+região, aumentar a demanda do vestibular e a competitividade dos cursos; ii) Projeto 
+Socializa envolve toda a comunidade cujo objetivo é retirar lixo do planeta por meio 
+da coleta de tampinhas plásticas e lacres de alumínio para ajudar duas ONGS. Esse 
+projeto foi certificado pela Associação Brasileira de Mantenedoras de Ensino Superior 
+(ABMES) que reconheceu a Fatec Diadema – Luigi Papaiz como Instituição 
+Socialmente Responsável; iii) O projeto interdisciplinar Web Que Localiza Ponto de 
+Coleta de Lixo Reciclável desenvolvido pelos alunos do Curso de DSM que 
+trabalhou a proposta de um site da Web que apoiará a localização de pontos de coleta 
+de lixo reciclável, iv) O projeto de Visitas Técnicas que dá a oportunidade aos alunos 
+de melhorar e complementar a aprendizagem por meio de exemplos práticos e 
+consequentemente dá visibilidade à Instituição de ensino na região. E ainda fomenta 
+novos campos de estágio e promove aprendizagens ativas; v) Projeto Velas 
+Aromáticas, pelo prof. Dr. Célio Higuchi e seus alunos da disciplina de Perfumaria 
+que tem por objetivo trazer a comunidade para dentro da FATEC, foram oferecidas 3 
+workshops: um para os profissionais da área de Beleza de Diadema, desenvolvido 
+com 
+apoio 
+do 
+Polo 
+Cosmético 
+de 
+Diadema 
+( 
+https://portal.diadema.sp.gov.br/profissionais-da-area-da-beleza-fazem-oficina-de-
+velas-aromaticas/ ); e outros dois durante a semana de Tecnologia que ocorreu entre 
+os dias 23 e 25 de novembro com a participação de alunos do Ensino Médio e Cieja.  
+No Eixo 3 Políticas Acadêmicas analisam-se os elementos constitutivos das práticas 
+de ensino, pesquisa e extensão, considerando como meta o aprendizado. Enfatiza-se 
+também a relação entre as políticas acadêmicas, a comunicação com a sociedade e 
+o atendimento ao discente. Na dimensão Políticas para o Ensino, a Pesquisa e a 
+40 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
+Extensão, a maioria dos estudantes e quase a totalidade dos servidores avaliam o 
+nível de ensino da Unidade como Excelente ou Bom. As opiniões sobre as atividades 
+de pesquisa entre os estudantes variam, 45% consideram elevado, 33% baixo, 19% 
+não conhece e 3% dizem que não existe; entre os servidores também há uma variação 
+de opiniões, 60% dizem ser elevado, 29% baixo, 10% não conhece e 1% diz que não 
+existe. Em relação à Política de Atendimento aos Discente, 69% dos estudantes 
+avaliam os programas de apoio pedagógico como excelente ou bom e 31% como 
+regular ou insuficiente, nessa categoria a maioria dos servidores (89%) avaliam os 
+programas como excelente ou bom. No PGA foram propostos projetos de monitoria 
+e/ou reforço de Inglês; Matemática e; Algoritmos e Lógica de Programação, 
+modernização da biblioteca com compra de livros para o curso de DSM. Todos eles 
+visando o atendimento ao discente, a sociedade e melhorar o nível de ensino e de 
+aprendizagem. Muitos docentes aplicam em suas aulas metodologias ativas que 
+possibilitam a pesquisa e interação com o que há de mais moderno nas áreas em que 
+os cursos estão enquadrados. A Iniciação Cientifica da Unidade foi implantada em 
+2021 de forma experimental e já trouxe reconhecimento para a Unidade no 35º 
+Congresso Brasileiro de Cosmetologia, que aconteceu em São Paulo entre os dias 13 
+e 15 de junho de 2023. A aluna Jéssica Ferreira Xavier, monitora de Iniciação 
+Cientifica do curso de Cosméticos, orientada pela Profª. Drª Mariana Moreira Dias e 
+coorientada pela Profª Ms. Gabriele Wander Ruas submeteu a pesquisa intitulada 
+"Análise Microbiológica de Produtos Cosméticos Orgânicos" e foi premiada com o 3º 
+lugar  em um dos maiores Congressos da área ( https://www.cps.sp.gov.br/aluna-da-
+fatec-diadema-recebe-premio-inedito-em-congresso-de-cosmetologia/). 
+Apesar 
+desse sucesso ainda há muito a ser feito principalmente na divulgação das Bolsas de 
+Monitoria de Iniciação Cientifica, como apontam os resultados da pesquisa. Na 
+dimensão Comunicação com a Sociedade, os estudantes e docentes dizem que o 
+acesso a documentos informativos e normativos da instituição é excelente ou bom.  
+Em relação aos meios de comunicação interna a maioria dos estudantes e servidores 
+também dizem ser excelente ou bom. Todas as informações relevantes que chegam 
+até a Unidade de Ensino são repassadas à comunidade escolar por e-mail 
+institucional, quadros de aviso e redes sociais.   
+O Eixo 4 - Políticas de Gestão tem como foco a verificação do desenvolvimento das 
+políticas de pessoal; da organização e gestão da instituição; e da sustentabilidade 
+41 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
+financeira. Na dimensão Políticas de Pessoal no que diz respeito ao plano de carreira 
+os servidores têm opiniões divergentes, 15% consideram plenamente satisfatório, 
+33% satisfatório, 28% pouco satisfatório, 21% insatisfatório e 3% não soube 
+responder. Na dimensão Organização e Gestão da Instituição observamos que 83% 
+dos discentes e 97% dos servidores reconhecem a equipe gestora da unidade como 
+uma liderança capaz de conduzir ações de melhoria das condições de ensino. Essas 
+ações serão descritas no Eixo 5 – Infraestrutura Física, pois muitas dessas ações se 
+relacionam a essa Dimensão. Os dados mostram que cerca de 69% dos alunos e 93% 
+dos servidores avaliam a comunicação interna entre gestão pedagógica, gestão 
+administrativa, gestão acadêmica e os alunos como excelente ou boa. Entre os alunos 
+ainda há opiniões que variam entre regular (19%), insuficiente (9%) e não sabe 
+responder (2%). A Sustentabilidade Financeira cabe exclusivamente à Administração 
+Central do CPS em razão da dotação orçamentária da autarquia.  
+No Eixo 5 - Infraestrutura Física, verificam-se as condições que a IES apresenta para 
+o desenvolvimento de suas atividades de ensino, pesquisa, extensão e gestão. 
+Observamos que 75% dos alunos e 85% dos docentes consideram que o conjunto de 
+laboratórios e ambientes que proporcionam atividades práticas é excelente ou bom.  
+E ainda 83% dos alunos que consideram as condições das salas de aula excelente 
+ou boa. Mas ainda há algumas espaços e equipamentos que precisam ser 
+melhorados, modernizados ou adquiridos. No ano de 2023 fomos contemplados com 
+115 laptops que possibilitou a reorganização e atualização dos dois laboratórios de 
+informática já existentes, onde foram colocados 20 computadores em cada. No 
+laboratório “Aquário” que os alunos têm livre acesso para fazerem pesquisa e 
+trabalhos, trocamos os desktops antigos por outros com melhor configuração e bom 
+estado retirados dos laboratórios de informática. Organizamos a Sala Maker com 25 
+computadores, uma sala híbrida com 25 computadores e temos um carrinho com 25 
+computadores a disposição dos docentes para uso em sala de aula. Apesar de não 
+temos wifi, todos os ambientes têm acesso a Internet via cabo de rede. A organização 
+dos laboratórios ajudou a melhorar a demanda reprimida do CST em DSM por 5 
+laboratórios e ainda possibilita aos docentes dos demais cursos usarem os 
+computadores com seus alunos nas aulas.  Com a verba do DMPP conseguimos 
+comprar 10 (dez) kits de IOT e Sistemas Embarcados para o curso de DSM, mas ainda 
+há softwares que precisam ser adquiridos, os docentes têm trabalhado com similares 
+42 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
+de livre demanda. Apesar dessas melhorias, ainda precisamos de mais equipamentos 
+e infraestrutura para o curso de DSM, pois não atende ao manual de Padronização da 
+Infraestrutura Mínima Necessária para os Cursos Superiores de Tecnologia do Eixo 
+Tecnológico de Informação e Comunicação organizado pela CESU. Quanto ao curso 
+de GPI recebemos os livros e alguns itens do laboratório de metrologia e softwares do 
+laboratório de Simulação Aplicada, mas ainda não atende o manual de Padronização 
+da Infraestrutura Mínima Necessária para os Cursos Superiores de Tecnologia do Eixo 
+Produção Industrial organizado pela CESU. Falta o software GRP, porém os docentes 
+usam similares livres durante as aulas. Precisamos dos demais itens de metrologia 
+também. Para o Curso de Cosméticos foram feitas solicitações de equipamentos que 
+até o momento não recebemos. Todos os desktops das salas de aula e dos servidores 
+administrativos foram trocados pelos 25 que recebemos do CPS. Todas as salas de 
+aula tem TV de 65 polegadas. Solicitamos cadeiras giratórias para os laboratórios de 
+informática e conjuntos de mesa sextavada e cadeiras para transformar duas salas de 
+aula convencionais em salas hibridas. Nessas salas serão utilizados notebooks que 
+serão usados pelos CST em Cosméticos, GPI e DSM. Não pudemos solicitar, apesar 
+de estar no PGA, pois o sistema não abriu esse ano.  
+Os resultados apresentados contemplam as dez dimensões auto avaliativas do 
+SINAES e foram analisados e discutidos por todos os membros da comunidade 
+institucional: direção, coordenações de cursos, setores administrativos, gestores, 
+professores e alunos. 
+ 
+Os dados coletados, as análises e propostas foram amplamente divulgadas e serão 
+objeto de comparação na próxima avaliação, para elucidar os avanços alcançados, 
+reforçando o quanto a avaliação contribui para a gestão dos resultados. 
+43 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
+ 
 ANEXO - ATAs de Aprovação dos membros da CPA, registro de alterações e 
 reuniões da CPA 
  

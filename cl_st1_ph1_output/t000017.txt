@@ -1,8 +1,13 @@
-  
-_ 
+                      1
+ 
+__________________________________________________________________________ 
 Administração Central 
 Unidade do Ensino Superior de Graduação 
-Relatório de Autoavaliação Institucional da Fatec Praia Grande – 2023 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
  
  
  
@@ -27,365 +32,448 @@ Relatório de Autoavaliação Institucional da Fatec Praia Grande – 2023
  
  
  
-FATEC: 129-Fatec Praia Grande  
-R-06 
-RELATÓRIO DE AUTOAVALIAÇÃO 
-INSTITUCIONAL 
+ 
+ 
+ 
+                      2
+ 
+__________________________________________________________________________ 
+Administração Central 
+Unidade do Ensino Superior de Graduação 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
  
  
  
  
-Praia Grande 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+São Paulo  
 2023 
-  
-_ 
+ 
+ 
+ 
+FATEC:  204-Fatec Ipiranga - R-06 
+RELATÓRIO DE AUTOAVALIAÇÃO 
+INSTITUCIONAL  
+2023 
+                      3
+ 
+__________________________________________________________________________ 
 Administração Central 
 Unidade do Ensino Superior de Graduação 
-Relatório de Autoavaliação Institucional da Fatec Praia Grande – 2023 
  
  
  
- 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
  
  
 Direção / Coordenação de Cursos 
  
  
+Direção Geral  
  
-Direção Geral 
-Viviam Ester de Souza 
+Profa. Me. Fabiana Serralha de 
+Miranda> 
+Coordenador do Curso de Graduação Tecnológica em 
+Análise e Desenvolvimento de Sistemas 
+ 
+Profa. Dra. Andreia Cristina  
+Grisolio Machion 
+Coordenador do Curso de Graduação Tecnológica em 
+Big Data  
+ 
+Prof. Ms. Antonio Fernando  
+Nunes Guardado 
+Coordenador do Curso de Graduação Tecnológica em 
+Eventos 
+ 
+Prof. Ms. Marcos Júlio 
+Coordenador do Curso de Graduação Tecnológica em 
+Gestão Comercial  
+ 
+Prof. Dr. Ricardo Di Bartolomeo 
+Coordenador do Curso de Graduação Tecnológica em 
+Recursos Humanos  
+ 
+Prof. Ms. Eiko Enoki 
 Coordenador do Curso de Graduação Tecnológica 
-em Análise e Desenvolvimento de Sistemas 
-Nilson Carlos Duarte 
-Coordenador do Curso de Graduação Tecnológica 
-em Comércio Exterior 
-Ulysses Camargo Correa Diegues 
-  Coordenador do Curso de Graduação Tecnológica   
-em Gestão Empresarial 
-   João Carlos Gomes 
-  Coordenador do Curso de Graduação Tecnológica 
-em Processos Químicos 
-   Waldemar Alves Ribeiro Filho 
-  Coordenador do Curso de Graduação Tecnológica 
-em Desenv. de Software Multiplataforma 
-Gilmar Ferreira de Aquino Filho 
-  
-_ 
+Análise de Sistemas – AMS  
+ 
+<Prof. Ms. Marco Aurélio Mazzei 
+ 
+ 
+ 
+ 
+ 
+Presidente da CPA 
+Prof. Ms. Marcos Júlio 
+ 
+ 
+ 
+ 
+ 
+ 
+                      4
+ 
+__________________________________________________________________________ 
 Administração Central 
 Unidade do Ensino Superior de Graduação 
-Relatório de Autoavaliação Institucional da Fatec Praia Grande – 2023 
  
  
  
- 
- 
- 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
 Comissão Própria de Avaliação – CPA 
  
  
-Representante docente (Presidente) 
-Norberto Luiz de França Paul 
-Representante docente 
-Maria Claudia Nunes Delfino 
-Representante docente 
-Luciana Nogueirol Lobo  
-Marcondes 
-Representante discente 
-Ana Dayana Leite Brasileiro 
-Representante do corpo técnico administrativo 
-Tatiane Edo de Carvalho 
-Representante da Sociedade Civil 
-Luiz Henrique Mariano 
-Representante da Administração Central – 
-Cesu/DGE 
-Fernanda Peixoto Coelho 
  
-  
-_ 
+ 
+Representante docente (Presidente) 
+ 
+Prof. Ms. Marcos Júlio 
+Representante docente 
+ 
+Profa. Ms. Fernanda Peixoto 
+Coelho 
+Representante docente 
+ 
+Profa. Dra. Ana Claudia Melo 
+Tiessi Gomes de Oliveira  
+Representante docente 
+ 
+<nome Prof> 
+ 
+Representante docente 
+ 
+<nome Prof> 
+ 
+Representante docente 
+ 
+<nome Prof> 
+ 
+Representante discente 
+ 
+Isabel Cristina Vieira 
+Representante discente 
+ 
+<nome> 
+Representante discente 
+ 
+<nome> 
+Representante discente 
+ 
+<nome> 
+Representante do corpo técnico administrativo 
+ 
+Edimário Silva de Paula 
+ 
+Representante do corpo técnico administrativo 
+ 
+<nome> 
+ 
+Representante da Sociedade Civil 
+ 
+Adnilson José de Almeida 
+Representante da Administração Central – Cesu/DGE 
+ 
+<nome Prof> 
+ 
+ 
+ 
+ 
+ 
+ 
+                      5
+ 
+__________________________________________________________________________ 
 Administração Central 
 Unidade do Ensino Superior de Graduação 
-Relatório de Autoavaliação Institucional da Fatec Praia Grande – 2023 
  
  
  
- 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
 SUMÁRIO 
-I Identificação da FATEC ........................................................................................ 04 
-II Atos Regulatório .................................................................................................. 05 
-III Composição da Comissão Própria de Avaliação (CPA) ...................................... 06 
-1 INTRODUÇÃO ................................................................................................... 06 
-2 METODOLOGIA ................................................................................................. 07 
-2.1 Cronograma de atividades da CPA ................................................................... 09 
-2.2 Sensibilização ................................................................................................... 10 
-2.3 Sujeitos da avaliação ........................................................................................ 10 
-2.4 Instrumentos de coleta ...................................................................................... 11 
-2.5 Procedimentos para a coleta............................................................................. 11 
-2.6 Análise e discussão dos dados da coleta .......................................................... 11 
-2.7 Organização das medidas para a composição do relatório ............................... 12 
-2.8 Devolutiva dos resultados para os segmentos .................................................. 12 
-3 DESENVOLVIMENTO ......................................................................................... 13 
-3.1 Eixo 1: Planejamento e Avaliação Institucional ................................................. 13 
-3.2 Eixo 2: Desenvolvimento Institucional ............................................................... 14 
-3.3 Eixo 3: Políticas Acadêmicas ............................................................................ 16 
-3.4 Eixo 4: Políticas de Gestão ............................................................................... 18 
-3.5 Eixo 5: Infraestrutura Física .............................................................................. 19 
-4 ANÁLISE DOS DADOS E AÇÕES PROPOSTAS................................................ 21 
-5 CONSIDERAÇÕES FINAIS ................................................................................. 26 
+ 
+ 
+ 
+I Identificação da FATEC: ................................................................................................................. 04 
+II Atos Regulatório ............................................................................................................................. 05 
+III Composição da Comissão Própria de Avaliação (CPA) .......................................................... 06 
+1  INTRODUÇÃO ............................................................................................................................... 06 
+2  METODOLOGIA ............................................................................................................................ 07 
+2.1 Cronograma de atividades da CPA .......................................................................................... 09 
+2.2 Sensibilização .............................................................................................................................. 10 
+2.3 Sujeitos da avaliação .................................................................................................................. 10 
+2.4 Instrumentos de coleta ............................................................................................................... 11 
+2.5 Procedimentos para a coleta ..................................................................................................... 11 
+2.6 Análise e discussão dos dados da coleta ................................................................................ 11 
+2.7 Organização das medidas para a composição do relatório .................................................. 12 
+2.8 Devolutiva dos resultados para os segmentos ....................................................................... 12 
+3 DESENVOLVIMENTO ................................................................................................................... 13 
+3.1 Eixo 1: Planejamento e Avaliação Institucional ...................................................................... 13 
+3.2 Eixo 2: Desenvolvimento Institucional ...................................................................................... 14 
+3.3 Eixo 3: Políticas Acadêmicas ..................................................................................................... 16 
+3.4 Eixo 4: Políticas de Gestão ........................................................................................................ 18 
+3.5 Eixo 5: Infraestrutura Física ....................................................................................................... 19 
+4 ANÁLISE DOS DADOS E AÇÕES PROPOSTAS ................................................................ 21 
+5 CONSIDERAÇÕES FINAIS ..................................................................................................... 26 
+ 
+ 
+ 
+ 
+ 
 4 
-Relatório de Autoavaliação Institucional da Fatec P. Grande – 2023 
  
  
  
- 
-I. Identificação da FATEC  
-🢒 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
+I. Identificação da FATEC (informação PDI/PGA/RCPA/RAA) 
+ 
 Dados da unidade 
-Fatec: 129-Fatec Praia Grande - R-06 
-Razão social: Faculdade de Tecnologia de Praia Grande 
-Endereço: Praça 19 de janeiío, 144 - Praia Grande (SP) - CEP: 11700-100 
+Fatec:  204-Fatec Ipiranga - R-06 
+Razão social: Fatec Ipiranga – Pastor Enéas Tognini] 
+Endereço:  [Rua Frei João, 59 – Vila Nair – São Paulo - SP] 
  
- 
-🢒 
+ 
 Direção da Unidade 
-Diretor: Viviam Ester de Souza 
- 
- 
-🢒 
+Diretor: [Profa. Me. Fabiana Serralha Miranda] 
+  
+ 
 Coordenação de Curso 
-CST em Análise e Desenvolvimento de Sistemas: Nilson Carlos Duarte 
-CST em Comércio Exterior: Ulysses Camargo Correa Diegues 
-CST em Desenvolvimento de Software Multiplataforma: Gilmar Ferreira de Aquino Filho 
-CST em Gestão Empresarial: João Carlos Gomes 
-CST em Processos Químicos: Waldemar Alves Ribeiro Filho 
- 
- 
-🢒 
+CST em [Análise e Desenvolvimento de Sistemas: [Profa. Dra. Andreia Cristina Grisolio Machion] 
+CST em [Big Data para Negócios]: [Prof. Ms. Antonio Fernando Nunes Guardado] 
+CST em [Eventos]: Prof. Ms. Marcos Júlio] 
+CST em [Gestão Comercial]: [Prof. Dr. Ricardo Di Bartolomeo] 
+CST [Gestão de Recursos Humanos]: [Profa. Me. Eiko Enoki] 
+CST em [Análise de Sistemas - AMS]: [Prof. Me. Marcos Aurélio Mazzei 
+ 
 Direção de Serviços 
-Diretor de Serviços Acadêmicos: Denise Silva de Souza Vilar 
-Diretor de Serviços Administrativos: Rosângela Cândida da Costa 
+Diretor de Serviços Acadêmicos: [Marcos Gonçalves de Araújo] 
+Diretor de Serviços Administrativos: [Adriana Pereira da Rosa] 
+ 
+ 
 5 
-Relatório de Autoavaliação Institucional da Fatec P. Grande – 2023 
  
  
  
- 
-II. Atos Regulatórios  
-Decreto de criação: Decreto nº50.577, de 02 de março de 2006 e publicado em 03 de março de 
-2006. 
- 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
+II. Atos Regulatórios (informação PDI/PGA/RCPA/RAA) 
+ 
+Decreto de criação: Decreto 53.372 de: 02/09/2008] 
+ 
+(Para citar documentos legais que formalizam a criação da unidade, consulte: 
+ 
+https://bkpsitecpsnew.blob.core.windows.net/uploadsitecps/sites/18/2021/07/Criacao-
+de-unidades-do-CPS.xls) 
  
 Atos legais referentes aos cursos 
  
-CST em Análise e Desenvolvimento de Sistemas 
+CST em Análise e Desenvolvimento de sistemas  
 Data 
 Tipo 
-Portaria CEE/GP 
+ Portaria CEE/GP 
 Parecer CD (p/ reestruturação) 
-2012 /2º./ 
-Sem. 
+Ano no formato 
+2010/ Sem. 
 Implantação 
-Parecer CEE 44/12 publicado no D.O.E. 
-de 
-09/03/2012 
-2013 / 2º./ 
-Sem. 
-Atualização 
-Portaria CEE/GP nº 483 de 
-12/12/2013, 
-publicada no D.O.E. de 13/12/2013 
-2017 / 1º / 
-Sem. 
-Atualização 
-Portaria CEE/GP nº 32, de 
-08/02/2017, 
-publicada no D.O.E de 09/02/2017 
-2022 / 1º/ 
-Sem. 
-Atualização 
-Portaria CEE/GP nº 22, de 28/01/22, 
-publicada no D.O.E. de 29/01/22 
+Deliberação CEE 99/2010Portaria CEE/GP 
+nº 271, de 03-07-201 2.Parecer CEE nº 
+228/201 2 
+Ano no formato 
+2015 / Sem. 
+Escolher um item.  
+Portaria CEE/GP 205, de 22-5- 2015 
+Parecer CEE 237/2015-renovação por 5 
+anos 
+Ano no formato 
+2016, / Sem. 
+Escolher um item. 
+PORTARIA CEEGP-38, de 17-2-2016. 
+Renovação automática resultado ENADE 
+Ano no formato 
+XXXX / Sem. 
+Escolher um item. 
+Número 
+Ano no formato 
+XXXX / Sem. 
+Escolher um item. 
+Número 
+Ano no formato 
+XXXX / Sem. 
+Escolher um item. 
+Número 
+Ano no formato 
+XXXX / Sem. 
+Escolher um item. 
+Número 
+Ano no formato 
+XXXX / Sem. 
+Escolher um item. 
+Número 
+Ano no formato 
+XXXX / Sem. 
+Escolher um item. 
+Número 
  
  
-CST em Comércio Exterior 
+CST em Big Data para Negócios 
 Data 
 Tipo 
-Portaria CEE/GP 
+ Portaria CEE/GP 
 Parecer CD (p/ reestruturação) 
-2009 /2º./ 
-Sem. 
+Ano no formato 
+2021 / 1º Sem. 
 Implantação 
-Parecer 87/09, publicado no D.O.E. 
-de 20/03/2009 
-2011 / 2º./ 
-Sem. 
-Atualização 
-Portaria CEE/GP nº 538, de 
-14/12/2011, 
-publicada no D.O.E. de 15/12/2011 
-2014 / 2º / 
-Sem. 
-Atualização 
-Portaria CEE/GP nº 417, de 
-22/10/2014, 
-publicada no D.O.E. de 23/10/2014 
-2017 / 1º/ 
-Sem. 
+CD –883/2021 PROCESSO CEETEPS n° 
+952/2015 
  
-Atualização 
-Portaria CEE/GP nº 218, de 
-10/05/2017, 
-publicada no D.O.E de 11/05/2017 
-e republicada no D.O.E. de 
-16/03/2018 
- 
-2020/ 1º Sem. 
- 
-Atualização 
-Portaria CEE/GP nº 101, de 
-02/03/2020, publicada no D.O.E. de 
-03/03/2020 e 
-retificada no D.O.E. de 04/03/2020 
- 
- 
-CST em Desenvolvimento de Software Multiplataforma 
+CST em Eventos 
 Data 
 Tipo 
-Portaria CEE/GP 
+ Portaria CEE/GP 
 Parecer CD (p/ reestruturação) 
-2023 /1º./ 
-Sem. 
+Ano no formato 
+2013 / 1º Sem. 
 Implantação 
-Parecer 31410/22, publicado no D.O.E. 
-de 
-30/06/2022 
- 
- 
+Deliberação CEE nº 99/2010. Portaria 
+CEEGP-14 de 14-1-2014Parecer CEE  
+nº 454/2013 
+Ano no formato 
+2016 / 1º Sem. 
+Escolher um item.  
+Reconhecimento: Parecer CEE-GP 454/2013, 
+Portaria CEE-GP-14 de 14 de janeiro de 2014. 
+Renovações: Portaria CEE-GP-353, de 4-11-
+2016 e Portaria CEE/GP 475/2021, Parecer 
+CEE 322/2021 
+Ano no formato 
+XXXX / Sem. 
+Escolher um item. 
+Número 
+Ano no formato 
+XXXX / Sem. 
+Escolher um item. 
+Número 
 6 
-Relatório de Autoavaliação Institucional da Fatec P. Grande – 2023 
  
  
  
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
+Ano no formato 
+XXXX / Sem. 
+Escolher um item. 
+Número 
  
- 
- 
-CST em Gestão Empresarial - EAD 
+CST em Gestão Comercial 
 Data 
 Tipo 
-Portaria CEE/GP 
+ Portaria CEE/GP 
 Parecer CD (p/ reestruturação) 
-2015 /1º./ 
-Sem. 
+Ano no formato 
+2011 / 1º Sem. 
 Implantação 
-Parecer CD/CEETEPS nº 140/2014, DOE 
-19/09/2014 
-2017 / 2º./ 
-Sem. 
-Adequação 
-Parecer nº 384/17 de 
-25/08/2017 publicada no DOE 
-de 26/08/2017 
-2017 / 2º / 
-Sem. 
-Atualização 
-Portaria CEE/GP nº 404, de 
-28/08/2017, 
-publicada no DOE de 29/08/2017 
-2020 / 1º/ 
-Sem. 
+Portarias CEE/GP 364, 365, 368/2010 e 
+91, 139, 146/2011. 
+Despacho da Presidente Nº 06/2015 - CD,  
+em 14-5-2015CD –219/2015 PROCESSO  
+CEETEPS n° 952/2015 
+Ano no formato 
+2014 / 2º Sem. 
+Escolher um item.  
+Portaria CEEGP-404, de 28-8-2017 
  
-Atualização 
-Portaria CEE/GP nº 101, de 
-02/03/2020, publicada no D.O. de 
-03/03/2020 e 
-retificada no D.O. de 04/03/2020 
- 
- 
-CST em Processos Químicos 
+CST em Gestão de Recursos Humanos 
 Data 
 Tipo 
-Portaria CEE/GP 
+ Portaria CEE/GP 
 Parecer CD (p/ reestruturação) 
-2011 /2º./ 
-Sem. 
+Ano no formato 
+2010/ 1º Sem. 
 Implantação 
-Parecer CD 66/2011, de 12/05/2011, 
-publicado no DOE de 14/05/2011 
-2013 / 1º./ 
-Sem. 
-Atualização 
-Portaria CEE-GP nº 286 de 5/8/2013 
-publicada no D.O. de 07/08/2013 
-2016 / 2º / 
-Sem. 
-Atualização 
-Portaria CEE/GP nº 177, de 
-09/06/2016, 
-publicada no DO de 10/06/2016 
-2020 / 1º/ 
-Sem. 
-Atualização 
-Portaria CEE/GP nº 137, de 
-15/05/2020, 
-publicado no D.O de 16/05/2020 
-2020 / 2º Sem. 
-Atualização 
-Portaria CEE/GP nº 191, de 
-06/08/2020, 
-publicado no D.O de 07/08/2020 
-2023 / 1º Sem. 
-Atualização 
-Portaria CEE/GP nº 267, de 
-30/05/2023, 
-publicado no D.O. de 31/05/2023 
+Deliberação CEE nº 99/2010 
+Portaria CEE/GP 394, de 20-10-2014 
+Parecer CEE 299/2014 
+Ano no formato 
+2017 / 2º Sem. 
+Escolher um item.  
+Portaria CEEGP-218, de 10-5-2017 
+Renovação reconhecimento resultado  
+ENADE 
+ 
+ 
+III. Composição da Comissão Própria de Avaliação (CPA)  
+A Comissão Própria de Avaliação da FATECIpiranga – Pastor Enéas Tognini.foi 
+instituída pela Portaria nº 148/2023, de 02 de agosto de 2023, com mandato até 
+31/03/2025, conforme ata da Congregação (Anexo – ATAs de Aprovação dos 
+membros da CPA, registro de alterações e reuniões da CPA). 
  
  
  
-III. Composição da Comissão Própria de Avaliação (CPA) 
-A Comissão Própria de Avaliação da FATEC Praia Grande.foi instituída pela Portaria nº 
-82/2022, de 12 de dezembro de 2022, com mandato até 11/12/2025, conforme ata da 
-Congregação (Anexo – ATAs de Aprovação dos membros da CPA, registro de alterações e 
-reuniões da CPA). 
 7 
-Relatório de Autoavaliação Institucional da Fatec P. Grande – 2023 
  
  
  
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
+1. INTRODUÇÃO  
  
- 
-1. INTRODUÇÃO 
-A Fatec Praia Grande. possui a avaliação institucional como efetivo instrumento de 
-gestão. Por meio da avaliação tem-se condições de reunir apontamentos capazes de suscitar 
-análises e discussões possibilitando definir planos de melhorias de forma continuada. 
-A Lei 10.861/2014, que define o Sistema Nacional de Avaliação da Educação Superior 
-(SINAES), estabelece, em seu Artigo 3º, que a avaliação institucional tem por objetivo 
-identificar o perfil da IES e o significado de sua atuação, por meio de suas atividades, cursos, 
-programas, projetos e setores, considerando as diferentes dimensões institucionais, 
-consolidadas em cinco eixos, sempre objetivando evidenciar os referenciais mínimos de 
-qualidade exigidos pela excelência de ensino que é um dos pilares da pratica de todas as 
-faculdades de tecnologias do Estado de São Paulo vinculadas ao Centro Paula Souza. 
-Por meio do desenvolvimento do presente relatório, serão apresentados os dados e as 
-informações referentes aos eixos, dimensões e indicadores em consonância com o Plano de 
-Desenvolvimento Institucional (PDI) da Fatec e em consonância com as diretrizes emanadas 
-do Centro Paula Souza. 
- 
- 
-Alunos Matriculados  
- 
+A Fatec Ipiranga – Pastor Enéas Tognini possui a avaliação institucional como 
+efetivo instrumento de gestão. Por meio da avaliação tem-se condições de reunir 
+apontamentos capazes de suscitar análises e discussões possibilitando definir planos 
+de melhorias de forma continuada. 
+A Lei 10.861/2014, que define o Sistema Nacional de Avaliação da Educação 
+Superior (SINAES), estabelece, em seu Artigo 3º, que a avaliação institucional tem 
+por objetivo identificar o perfil da IES e o significado de sua atuação, por meio de suas 
+atividades, cursos, programas, projetos e setores, considerando as diferentes 
+dimensões institucionais, consolidadas em cinco eixos, sempre objetivando evidenciar 
+os referenciais mínimos de qualidade exigidos pela excelência de ensino que é um 
+dos pilares da pratica de todas as faculdades de tecnologias do Estado de São Paulo 
+vinculadas ao Centro Paula Souza. 
+Por meio do desenvolvimento do presente relatório, serão apresentados os 
+dados e as informações referentes aos eixos, dimensões e indicadores em 
+consonância com o Plano de Desenvolvimento Institucional (PDI) da Fatec e em 
+consonância com as diretrizes emanadas do Centro Paula Souza.  
+Alunos Matriculados (apenas os alunos que estejam CURSANDO) 
+(referência - fevereiro do ano vigente) 
 Curso 
 Número de 
 Alunos 
-Análise e Desenvolvimento de Sistemas 
-425 
-Comércio Exterior 
-354 
-Gestão Empresarial 
-327 
-Gestão Empresarial – EaD 
-143 
-Processos Químicos 
-296 
-Desenvolvimento de Software Multiplataforma 
-79 
+Curso Superior de Tecnologia em Desenvolvimento e Análise de Sistemas 
+454 
+Curso Superior de Tecnologia em Big Data para Negócios 
+148 
+Curso Superior de Tecnologia em Eventos 
+164 
+Curso Superior de Tecnologia em Gestão Comercial 
+376 
+Curso Superior de Tecnologia em Gestão de Recursos Humanos 
+218 
+Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas 
+– Articulado Médio Superior 
+24 
  
  
  
@@ -396,16 +484,18 @@ Desenvolvimento de Software Multiplataforma
  
  
 8 
-Relatório de Autoavaliação Institucional da Fatec P. Grande – 2023 
  
  
-🢒 Detalhamento do corpo docente da Unidade de Ensino  
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
+ 
+Detalhamento do corpo docente da Unidade de Ensino (informação PDI/PGA/RCPA/RAA) 
  
  
 Nome 
 Matrícula 
-Cód. UE 
-sede 
+Cód. UE sede 
 Titulação* 
 Referência 
 Experiência Profissional 
@@ -415,739 +505,307 @@ Docência
 Não docência 
 (anos) 
 1 
-Adauto Procópio da Silva 
-45913 
-270 
-M 
-II 
-08 anos 
-10 anos 
-http://lattes.cnpq.br/20495720845
-06103 
-2 
-Adélia da Silva Saraiva 
-42689 
-129 
-D 
-III 
-21 anos 
-19 anos 
-http://lattes.cnpq.br/96318291535
-36061 
-3 
-Aderaldo dos Santos Júnior 
-75917 
-129 
+Adriana Alves 
+ 
+76480 
+143-Fatec 
+Carapicuíba - 
+R-05 
 M 
 I 
-12 anos 
-06 anos 
-http://lattes.cnpq.br/49226312536
-30853 
-4 
-Adilson Gomes do 
-Nascimento 
-75976 
-129 
-M 
-I 
-22 anos 
-____ 
-http://lattes.cnpq.br/21281587891
-28794 
-5 
-Adilson Oliveira da Costa 
-24796 
-129 
-M 
-II 
-36 anos 
-____ 
-http://lattes.cnpq.br/74117869628
-15760 
-6 
-Aguinaldo Eduardo de Souza 
-62126 
-5 
-M 
-I 
-16 anos 
-15 anos 
-http://lattes.cnpq.br/58063196955
-69442 
-7 
-Alessandro José Padin 
-Ferreira 
-42690 
-129 
-M 
-II 
-17 anos 
-____ 
-http://lattes.cnpq.br/23422748175
-65060 
-8 
-Aleksei Piterskih 
-52230 
-113 
-M 
-II 
-21 anos 
-____ 
-http://lattes.cnpq.br/54256573538
-02371 
-9 
-Alexandre Cardeal de 
-Oliveira Arneiro 
-73468 
-270 
-M 
-I 
-15 anos 
-____ 
-http://lattes.cnpq.br/13026561161
-24530 
-10 
-Ana Lúcia da Silva Kfouri 
-73685 
-5 
-M 
-I 
-27 anos 
-____ 
-http://lattes.cnpq.br/36277609928
-73373 
-11 
-Anselmo Laurini Sant'anna 
-59577 
-129 
-M 
-II 
-14 anos 
-30 anos 
-http://lattes.cnpq.br/57461102135
-59940 
-12 
-Antônio Jorge Ferreira Pires 
-47655 
-129 
-M 
-II 
-12 anos 
-35 anos 
-http://lattes.cnpq.br/74050255756
-43889 
-13 
-Bárbara Soares da Silva 
-62701 
-129 
-D 
-III 
-09 anos 
-14 anos 
-http://lattes.cnpq.br/30298415755
-61543 
-14 
-Carlos Cesar Cavalcante Dias 
-73811 
-270 
-M 
-I 
-21 anos 
-16 anos 
-http://lattes.cnpq.br/56398457038
-39851 
-15 
-Carlos Eduardo Dezan 
-Scopinho 
-77860 
-129 
-D 
-I 
-20 anos 
-14 anos 
-http://lattes.cnpq.br/56572470380
-69006 
-16 
-Ciro Cirne Trindade 
-27198 
-129 
-M 
-II 
-26 anos 
-_____ 
-http://lattes.cnpq.br/82560467520
-32589 
-17 
-Cláudia Pereira Dos Santos  
-59576 
-129 
-M 
-II 
-23 anos 
-04 anos 
-http://lattes.cnpq.br/49046234234
-18358 
-18 
-Clayton Suguio Hida 
-73337 
-129 
-D 
-I 
-07 anos 
-04 anos__ 
-http://lattes.cnpq.br/17886938301
-87416 
-19 
-Cristina dos Santos Co 
-73000 
-129 
-E 
-I 
-08 anos 
-18 anos 
-http://lattes.cnpq.br/80241696334
-79570 
-20 
-Danilo Nunes 
-70482 
-129 
-D 
-I 
-26 anos 
-16 anos 
-http://lattes.cnpq.br/00622748087
-02347 
-21 
-Deise Maria Biazon  
-62122 
-129 
-M 
-I 
-36 anos 
-____ 
-http://lattes.cnpq.br/12892050401
-51992 
-22 
-Denilson Luiz de Carvalho 
-62120 
-5 
-M 
-I 
-13 anos 
-10 anos 
-http://lattes.cnpq.br/45856603741
-77742 
 23 
-Douglas de Lima Savioli 
-57643 
-129 
-E 
-II 
-14 anos 
-29 anos 
-http://lattes.cnpq.br/06448601275
-93957 
-24 
-Eliana Josefa Da Silva 
-24233 
-129 
-E 
-II 
-21 anos 
-11 anos 
-http://lattes.cnpq.br/85955201984
-89726 
-25 
-Fabio Emmerich de Souza 
-Mossini 
-75067 
-5 
-D 
-I 
-20 anos 
-19 anos 
-http://lattes.cnpq.br/16317726350
-07808 
-26 
-Fábio Pessôa De Sá 
-24240 
-129 
+0 
+http://lattes.cnpq.br/060
+0413978365387 
+2 
+Aletéia Vanessa 
+Moreira Souto 
+20249 
+168 -Fatec São 
+Caetano do Sul - 
+R-06 
 M 
-II 
-25 anos 
-3 anos 
-http://lattes.cnpq.br/70531137115
-22455 
+III 
 27 
-Fernanda De Mendonça 
-Macedo 
-40416 
-129 
+5 
+http://lattes.cnpq.br/566
+3911038423571 
+3 
+Aline Correia de 
+Souza Colantuono 
+38244 
+204-Fatec 
+Ipiranga - R-06 
 D 
 III 
-17 anos 
-13 anos 
-http://lattes.cnpq.br/89635063533
-44328 
-28 
-Fernanda Peixoto Coelho 
-42681 
-129 
-M 
-II 
-19 anos 
-09 anos 
-http://lattes.cnpq.br/98846091832
-48970 
-29 
-Fernanda Schmitz de 
-Almeida Larguesa 
-24229 
-129 
-E 
-II 
-18 anos 
-18 anos 
-http://lattes.cnpq.br/12617058152
-55329 
-30 
-Fernando Di Gianni  
-59598 
-129 
-M 
-I 
-14 anos 
-33 anos 
-http://lattes.cnpq.br/03449143925
-92993 
-31 
-Fernando Ribeiro Dos Santos 
-24787 
-129 
+14 
+0 
+http://lattes.cnpq.br/035
+0856 98643750 
+4 
+Ana Cláudia Melo 
+Tiessi Gomes de 
+Oliveira 
+17748 
+204-Fatec 
+Ipiranga - R-06 
 D 
 III 
-22 anos 
-15 anos 
-http://lattes.cnpq.br/10167950452
-58728 
-32 
-Frederico Moreira Carbonari 
-59585 
-129 
-M 
-II 
-07 anos 
-06 anos 
-http://lattes.cnpq.br/03920832871
-65998 
-33 
-Gilmar Ferreira de Aquino 
-Filho 
-70212 
-129 
+17 
+19 
+https://lattes.cnpq.br/74
+14999378568541 
+5 
+Ana Paula Gonçalves 
+Serra 
+49473 
+204-Fatec 
+Ipiranga - R-06 
 D 
-I 
-17 anos 
-09 anos 
-http://lattes.cnpq.br/87100720711
-46044 
-34 
-Graziela Pigatto Bohn 
-68434 
-129 
-M 
-I 
-20 anos 
-____ 
-http://lattes.cnpq.br/35492158097
-57924 
+III 
+23 
 9 
-Relatório de Autoavaliação Institucional da Fatec P. Grande – 2023 
- 
- 
- 
-Nome 
-Matrícula 
-Cód. UE 
-sede 
-Titulação* 
-Referência 
-Experiência Profissional 
-Curriculum Lattes (URL) 
-Docência 
-(anos) 
-Não docência 
-(anos) 
-35 
-Guilherme Santos da Silva 
-73334 
-129 
+http://lattes.cnpq.br/964
+0606649282934 
+6 
+Ana Travassos 
+Ichihara 
+33946 
+143-Fatec 
+Carapicuíba - R-
+05 
 M 
 I 
-8 anos 
-____ 
-http://lattes.cnpq.br/22780874719
-36352 
+27 
 36 
-Henrique Cesar Nanni 
-24792 
-129 
-M 
-II 
-23 anos 
-20 anos 
-http://lattes.cnpq.br/99095334577
-82687 
-37 
-Janara De Camargo Matos 
-47645 
-129 
-D 
-III 
-15 anos 
-08 anos 
-http://lattes.cnpq.br/80671589874
-23792 
-38 
-João Carlos Gomes 
-34681 
-129 
-D 
-III 
-33 anos 
-08 anos 
-http://lattes.cnpq.br/60589286478
-94563 
-39 
-João Luiz Hollanda da Rocha 
-73551 
-5 
-M 
-I 
-19 anos 
-32 anos 
-http://lattes.cnpq.br/22299039030
-43013 
-40 
-Jônatas Cerqueira Dias 
-59575 
-129 
-M 
-II 
-21 anos 
-08 anos 
-http://lattes.cnpq.br/77331254412
-52426 
-41 
-Jony Andrade 
-47650 
-129 
-M 
-II 
-16 anos 
-10 anos 
-http://lattes.cnpq.br/38704479353
-77685 
-42 
-José Ângelo Justo Alvarez 
-74451 
-129 
-M 
-I 
-20 anos 
-15 anos 
-http://lattes.cnpq.br/74955926540
-53844 
-43 
-José Augusto Theodósio 
-Pazetti  
-74451 
-5 
-D 
-III 
-21 anos 
-21 anos 
-http://lattes.cnpq.br/84454698052
-05594 
-44 
-Joseffe Barroso de Oliveira 
-373571 
-5 
-M 
-I 
-07 anos 
-13 anos 
-http://lattes.cnpq.br/45060518059
-53838 
-45 
-Julio Cesar Raymundo  
-34679 
-129 
-D 
-III 
-19 anos 
-07 anos 
-http://lattes.cnpq.br/82094809314
-61913 
-46 
-Leide Aparecida Vieira 
-72573 
-129 
-M 
-I 
-10 anos 
-13 anos 
-http://lattes.cnpq.br/27904164691
-08872 
-47 
-Leonardo Villani 
-50784 
-129 
-M 
-II 
-12 anos 
-04 anos 
-http://lattes.cnpq.br/31760573922
-40845 
-48 
-Luciana Nogueirol Lobo 
-Marcondes 
-24797 
-129 
-M 
-II 
-16 anos 
-23 anos 
-http://lattes.cnpq.br/23417684103
-90408 
-49 
-Luiz Antonio de Lima 
-73612 
-5 
-D 
-I 
-18 anos 
-13 anos 
-http://lattes.cnpq.br/88933768367
-66464 
-50 
-Marcelo Pereira De Andrade 
-11862 
-129 
-M 
-II 
-19 anos 
-____ 
-http://lattes.cnpq.br/74083431918
-63236 
-51 
-Márcio André Ferreira 
-Pereira 
-48225 
-216 
-D 
-III 
-16 anos 
-____ 
-http://lattes.cnpq.br/28003611223
-69298 
-52 
-Márcio André Ferreira 
-Pereira 
-24889 
-209 
-D 
-III 
-18 anos 
-07 anos 
-http://lattes.cnpq.br/28003611223
-69298 
-53 
-Márcio Galvão Ribeiro 
-34097 
-137 
-M 
-II 
-19 anos 
-13 anos 
-http://lattes.cnpq.br/51134841358
-32947 
-54 
-Marcos Fernandez Nardi 
-71523 
-129 
-M 
-I 
-14 anos 
-10 anos 
-http://lattes.cnpq.br/35447340189
-38313 
-55 
-Maria Claudia Nunes Delfino 
-44761 
-129 
-D 
-II 
-21 anos 
-____ 
-http://lattes.cnpq.br/64011339974
-23273 
-56 
-Maria Cristina Pereira Da 
-Silva  
-67005 
-272 
-M 
-I 
-28 anos 
-____ 
-http://lattes.cnpq.br/10972058232
-24449 
-57 
-Maria Rita Barros Leite De 
-Moraes 
-57635 
-129 
-M 
-II 
-14 anos 
-14 anos 
-http://lattes.cnpq.br/67715556844
-21168 
-58 
-Marlon Cavalcante Maynart 
-74090 
-129 
-D 
-I 
-20 anos 
-____ 
-http://lattes.cnpq.br/18420010843
-03013 
-59 
-Miriam Vidal Correia 
-Franzese 
-10580 
-129 
-M 
-III 
-36 anos 
-____ 
-http://lattes.cnpq.br/55712860091
-10522 
-60 
-Moisés Tavares Da 
-Conceição 
-42680 
-129 
+https://lattes,cnpq.br/25
+27290747244126 
+7 
+Anderson Mendonça 
+de Abreu 
+75539 
+204-Fatec 
+Ipiranga - R-06 
 E 
-I 
-18 anos 
-24 anos 
-http://lattes.cnpq.br/16968979860
-24872 
-61 
-Nilson Carlos Duarte da Silva 
-220060 
-129 
+III 
+29 
+12 
+http://lattes.cnpq.br/561
+6379 
+8 
+Andrea Braga de 
+Cazerta  
+58256 
+216-Fatec 
+Osasco - R-05 
+M 
+II 
+26 
+7 
+http://lattes.cnpq.br/628
+3396863185354 
+9 
+Andreia Cristina 
+Grisolio Machion 
+38241 
+204-Fatec 
+Ipiranga - R-06 
 D 
 III 
-27 anos 
-15 anos 
-http://lattes.cnpq.br/67886502319
-64768 
-62 
-Nilton Rogério Marcondes 
-34686 
-129 
-M 
-II 
-18 anos 
-____ 
-http://lattes.cnpq.br/22934461597
-99099 
-63 
-Norberto Luiz De França Paul 
-50783 
-129 
-M 
-II 
-19 anos 
-21 anos 
-http://lattes.cnpq.br/18444907066
-14060 
-64 
-Patricia da Silva 
-73726 
-129 
-M 
-I 
-16 anos 
-05 anos 
-http://lattes.cnpq.br/34348416208
-15834 
-65 
-Paulo Frederico Paganini 
-Oliveira Juúnior 
-74072 
-129 
-D 
-I 
-07 anos 
-14 anos 
-http://lattes.cnpq.br/82840669180
-48110 
-66 
-Paulo Roberto Tazinazo 
-Candido 
-24234 
-129 
-M 
-II 
-19 anos 
-30 anos 
-http://lattes.cnpq.br/38570826134
-28113 
-67 
-Renata Neves Ferreira 
-47646 
-129 
-E 
-I 
-11 anos 
-08 anos 
-http://lattes.cnpq.br/51628103929
-83379 
-68 
-Ricardo Cruz Gomes 
-74707 
-129 
-M 
-I 
-15 meses 
-08 anos 
-http://lattes.cnpq.br/49562741729
-76038 
-69 
-Ricardo Pupo Larguesa 
-18201 
-129 
-E 
-II 
-20 anos 
-16 anos 
-http://lattes.cnpq.br/78152205829
-60179 
+31 
+4 
+http://lattes.cnpq.br/395
+3376687450624 
 10 
-Relatório de Autoavaliação Institucional da Fatec P. Grande – 2023 
+Antonio Fernando 
+Nunes Guardado 
+32398 
+204-Fatec 
+Ipiranga - R-06 
+M 
+III 
+26 
+9 
+https://lattes.cnpq.br/79
+31801938932223 
+11 
+Antonio Lobosco 
+62243 
+113-Fatec Mauá 
+- R-06 
+D 
+III 
+22 
+16 
+http://lattes.cnpq.br/487
+7780587436783 
+12 
+Antonio Venancio 
+56195 
+204-Fatec 
+Ipiranga - R-06 
+M 
+II 
+19 
+32 
+http://lattes.cnpq.br/697
+072299778924 
+13 
+Ataulfo João Dos 
+Santos 
+42347 
+002 -Fatec São 
+Paulo - R-05 
+E 
+I 
+18 
+8 
+https://lattes.cnpq.br/26
+81334071399453 
+14 
+Barbara Gambaré dos 
+Santos 
+56205 
+204-Fatec 
+Ipiranga - R-06 
+M 
+II 
+15 
+10 
+https://lattes.cnpq.br/33
+80583 918745767 
+15 
+Bruno Montserrat 
+Perillo 
+78170 
+204-Fatec 
+Ipiranga - R-06 
+M 
+I 
+3 
+14 
+http://lattes.cnpq.br/092
+1878747570094 
+16 
+Carlos Alberto Pina 
+Aragão 
+37676 e 
+5+477 
+204-Fatec 
+Ipiranga - R-06 
+M 
+III 
+20 
+45 
+http://lattes.cnpq.br/46
+54893 
+114194887 
+17 
+Carlos Alexandre 
+Pompeu 
+47359 
+204-Fatec 
+Ipiranga - R-06 
+M 
+II 
+34 
+6 
+https://lattes.cnpq.br/93
+05223 007441057 
+18 
+Carlos Cesar 
+Cavalcnate Dias 
+73811 
+270-Fatec Cotia 
+- R-06 
+M 
+I 
+5 
+34 
+http://lattes.cnpq.br/563
+9845 703839851 
+19 
+Carlos Eduardo 
+Dantas de Menezes 
+38246 
+204-Fatec 
+Ipiranga - R-06 
+M 
+II 
+25 
+3 
+http://lattes.cnpq.br/56
+31533602081331 
+20 
+Carlos Henrique 
+Veríssimo Pereira 
+70517 
+168 -Fatec São 
+Caetano do Sul - 
+R-06 
+M 
+I 
+15 
+ 
+http://lattes.cnpq.br/633
+5442 749763160 
+21 
+Celi Langhi 
+50904 
+204-Fatec 
+Ipiranga - R-06 
+D 
+III 
+40 
+40 
+https://lattes.cnpq.br/71
+02231 185159382 
+22 
+Cesar Torres 
+Fernandes 
+23987 
+126 -Fatec São 
+Bernardo do 
+Campo - R-06 
+M 
+II 
+15 
+35 
+http://lattes.cnpq.br/366
+9914601148390 
+23 
+Claudia de Oliveira 
+27539 
+113-Fatec Mauá 
+- R-06 
+M 
+II 
+30 
+ 
+http://lattes.cnpq.br/460
+5287 758374868 
+24 
+Claudio Roberto 
+Cândido 
+50905 
+204-Fatec 
+Ipiranga - R-06 
+M 
+II 
+24 
+29 
+https://lattes.cnpq.br/865
+2780 086188603 
+9 
  
  
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
  
 Nome 
 Matrícula 
-Cód. UE 
-sede 
+Cód. UE sede 
 Titulação* 
 Referência 
 Experiência Profissional 
@@ -1156,246 +814,1073 @@ Docência
 (anos) 
 Não docência 
 (anos) 
-70 
-Rodrigo Lopes Salgado 
-19191 
-129 
-E 
-II 
-16 anos 
-14 anos 
-http://lattes.cnpq.br/02673669163
-13225 
-71 
-Rogério Carnevali Nery 
-40414 
-129 
+25 
+Cléber Silvestre 
+Leôncio 
+56203 
+204-Fatec 
+Ipiranga - R-06 
 M 
 II 
-28 anos 
-20 anos 
-http://lattes.cnpq.br/51130419490
-04078 
-72 
-Roseli Tonini 
-34678 
-129 
-M 
-II 
-29 anos 
-____ 
-http://lattes.cnpq.br/05281185955
-08366 
-73 
-Rubens Cury 
-34687 
-129 
-E 
-I 
-14 anos 
-34 anos 
-http://lattes.cnpq.br/59713839100
-79637 
-74 
-Ruy Cordeiro Accioly 
-24236 
-129 
-M 
-III 
-24 anos 
-06 anos 
-http://lattes.cnpq.br/31860273819
-79039 
-75 
-Sabrina Boto Martins 
-50782 
-129 
-D 
-III 
-12 anos 
-14 anos 
-http://lattes.cnpq.br/89806159641
-19335 
-76 
-Samanta Roveri 
-70600 
-129 
-E 
-I 
-16 anos 
-____ 
-http://lattes.cnpq.br/66414647686
-63229 
-77 
-Sandra De Oliveira Soares 
-Cardoso 
-40418 
-129 
-M 
-II 
-15 anos 
-____ 
-http://lattes.cnpq.br/58092762229
-31608 
-78 
-Sávio Mendes França 
-24795 
-129 
-D 
-III 
-29 anos 
-____ 
-http://lattes.cnpq.br/49278722050
-40091 
-79 
-Sergiana Dos Passos Ramos 
-59593 
-129 
-M 
-I 
-12 anos 
-____ 
-http://lattes.cnpq.br/47847374304
-14550 
-80 
-Simone Maria Viana Romano 
-14087 
-129 
-M 
-II 
-20 anos 
-17 anos 
-http://lattes.cnpq.br/56788340079
-18002 
-81 
-Sônia Maria de Barros 
-Alberto 
-71797 
-129 
-E 
-I 
-25 anos 
-____ 
-http://lattes.cnpq.br/32360111989
-97052 
-82 
-Sônia Oliveira de Lima 
-44755 
-129 
-E 
-II 
-17 anos 
-19 anos 
-http://lattes.cnpq.br/25094143843
-23332 
-83 
-Tatiana Schmitz De Almeida 
-40415 
-129 
-M 
-II 
-14 anos 
-18 anos 
- http://lattes.cnpq.br/26156651397
-54134 
-84 
-Ulysses Camargo Correa 
-Diegues 
-44759 
-129 
-M 
-II 
-17 anos 
-08 anos 
-http://lattes.cnpq.br/20107470755
-30278 
-85 
-Vanderlei Rodrigues da Silva 
-73330 
-129 
-E 
-I 
-30 anos 
-23 anos 
-http://lattes.cnpq.br/86423902451
-64336 
-86 
-Vagner Dos Santos Macedo 
-47652 
-129 
-M 
-II 
-22 anos 
-10 anos 
- http://lattes.cnpq.br/44099796186
-49510 
-87 
-Vandré Felipe de Oliveira 
-Nicolau 
-13653 
-129 
-E 
-II 
-25 anos 
-____ 
-http://lattes.cnpq.br/63197809313
-01854 
-88 
-Victor De Oliveira Kühne 
-50787 
-129 
-E 
-II 
-11 anos 
-07 anos 
-http://lattes.cnpq.br/93161801876
-32193 
-89 
-Vinícius Bianchi Soares  
 15 
-129 
+25 
+https://lattes.cnpq.br/63
+59219758958630 
+26 
+Cristiane De Rossi 
+Zovin 
+77752 
+204-Fatec 
+Ipiranga - R-06 
 M 
 I 
-10 anos 
-____ 
-http://lattes.cnpq.br/70143158755
-43159 
-90 
-Viviam Ester de Souza 
-024228 
-129 
+20 
+8 
+http://lattes.cnpq.br/445
+7965476736551 
+27 
+Daniela Ferreira 
+Correia e Castro de 
+Carvalho 
+68235 
+204-Fatec 
+Ipiranga - R-06 
+D 
+I 
+10 
+18 
+http://lattes.cnpq.br/060
+0413978365387 
+28 
+Carlos de Amorim 
+Levita 
+68675 
+294-Fatec 
+Franco da 
+Rocha - R-05 
+M 
+I 
+5 
+34 
+http://lattes.cnpq.br/645
+8576 665876588 
+29 
+Danilo da Silva Rocha 
+75930 
+111-Fatec Zona 
+Leste - R-04 
+M 
+I 
+6 
+14 
+http://lattes.cnpq.br/59
+21356721414190 
+30 
+Denise Maria Martins 
+38249 
+204-Fatec 
+Ipiranga - R-06 
+D 
+III 
+ 
+ 
+ 
+31 
+Diego Nogueira 
+Rafael 
+73070 
+204-Fatec 
+Ipiranga - R-06 
+M 
+I 
+2 
+16 
+http://lattes.cnpq.br/020
+2507 626410078 
+32 
+Djacy Mangueira de 
+Almeida 
+50903 
+204-Fatec 
+Ipiranga - R-06 
 M 
 II 
-22 anos 
-10 anos 
- http://lattes.cnpq.br/1604202649
-304533 
-91 
-Waldemar Alves Ribeiro 
+21 
+52 
+http://lattes.cnpq.br/667
+3214 557329602 
+33 
+Douglas Alexandre 
+Dias 
+56191 
+204-Fatec 
+Ipiranga - R-06 
+M 
+II 
+12 
+23 
+https://lattes.cnpq.br/57
+84991950431658 
+34 
+Edson Saraiva de 
+Almeida 
+49965 
+111-Fatec Zona 
+Leste - R-04 
+M 
+II 
+30 
+35 
+https://lattes.cnpq.br/19
+60517 503466306 
+35 
+Eiko Enoki 
+49469 
+204-Fatec 
+Ipiranga - R-06 
+M 
+II 
+22 
+30 
+https://lattes.cnpq.br/18
+27514906321276 
+36 
+Elisabete Helena 
+Villas Boas 
+47354 
+204-Fatec 
+Ipiranga - R-06 
+M 
+II 
+23 
+53 
+http://lattes.cnpq.br/706
+8613 810556099 
+37 
+Eramo Assunpção 
 Filho 
-59583 
-129 
+14678 
+126 -Fatec São 
+Bernardo do 
+Campo - R-06 
+M 
+III 
+35 
+56 
+http://lattes.cnpq.br/630
+7872593357944 
+38 
+Erick Enrique Melo 
+Santos 
+71488 
+167-Fatec 
+Guarulhos - R-
+04 
+E 
+I 
+15 
+ 
+http://lattes.cnpq.br/252
+8673 043241768 
+39 
+Fabiana Serralha 
+Miranda 
+18106 
+204-Fatec 
+Ipiranga - R-06 
 M 
 II 
-27 anos 
-06 anos 
-http://lattes.cnpq.br/07534520577
-36480 
+17 
+2 
+http://lattes.cnpq.br/728
+5134084547163 
+40 
+Fernando Cachucho 
+da Silva 
+50902 
+204-Fatec 
+Ipiranga - R-06 
+D 
+III 
+26 
+0 
+https://lattes.cnpq.br/14
+03084 633112798 
+41 
+Fernando Toniolli  
+73505 
+204-Fatec 
+Ipiranga - R-06 
+M 
+I 
+12 
+35 
+https://lattes.cnpq.br/09
+94576322450552 
+42 
+Flavia Frate 
+60530 
+155-Fatec 
+Itaquaquecetub
+a - R-04 
+D 
+II 
+19 
+15 
+http://lattes.cnpq.br/096
+3945 749314677 
+43 
+Flavio Farah 
+49475 
+204-Fatec 
+Ipiranga - R-06 
+M 
+II 
+21 
+35 
+http://lattes.cnpq.br/83
+69059 
+720323100 
+44 
+Floriano Ferreira dos 
+Reis Filho 
+78854 
+204-Fatec 
+Ipiranga - R-06 
+M 
+I 
+ 
+ 
+ 
+45 
+Francisco Antonio 
+Pereira 
+73256 
+Escolha 
+M 
+I 
+ 
+ 
+ 
+46 
+Getulio Kazue 
+Akabane 
+20455 
+002 -Fatec São 
+Paulo - R-05 
+D 
+III 
+35 
+31 
+http://lattes.cnpq.br/987
+1502614355970 
+47 
+Giseli Angela Tartaro 
+Ho 
+ 
+50897 
+204-Fatec 
+Ipiranga - R-06 
+M 
+II 
+17 
+25 
+http://lattes.cnpq.br/45
+35913521337960 
+48 
+Helio Rubens Oliveira 
+das Neves 
+ 
+50896 
+204-Fatec 
+Ipiranga - R-06 
+M 
+II 
+13 
+23 
+http://lattes.cnpq.br/65
+85280 210944082 
+49 
+Ivan Ferreira dos 
+Santos 
+77174 
+204-Fatec 
+Ipiranga - R-06 
+M 
+I 
+16 
+21 
+http://lattes.cnpq.br/205
+3896173982467 
+50 
+Izaías Porfírio Faria 
+70472 
+126 -Fatec São 
+Bernardo do 
+Campo - R-06 
+M 
+I 
+22 
+33 
+http://lattes.cnpq.br/011
+3035429915935 
+10 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
+ 
+Nome 
+Matrícula 
+Cód. UE sede 
+Titulação* 
+Referência 
+Experiência Profissional 
+Curriculum Lattes (URL) 
+Docência 
+(anos) 
+Não docência 
+(anos) 
+51 
+João Almeida Santos 
+70175 
+250-Fatec 
+Tatuapé - R-04 
+M 
+I 
+37 
+18 
+https://lattes.cnpq.br/19
+68719 
+412274542 
+52 
+Jobel Santos Correa 
+74887 
+002 -Fatec São 
+Paulo - R-05 
+M 
+I 
+9 
+30 
+http://lattes.cnpq.br/21
+33371 046637590 
+53 
+José Augusto Martins 
+Garcia 
+79254 
+Escolha 
+M 
+I 
+11 
+6 
+ 
+54 
+José Carlos Barbosa 
+Lopes 
+56428 
+002 -Fatec São 
+Paulo - R-05 
+M 
+II 
+22 
+0 
+http://lattes.cnpq.br/770
+2814038846925 
+55 
+José Fernando Lino 
+Santiago 
+76433 
+204-Fatec 
+Ipiranga - R-06 
+E 
+I 
+11 
+15 
+http://lattes.cnpq.br/872
+2016695459352 
+56 
+Juliana Pellegrinelli 
+Barbosa Costa 
+ 
+43635 
+209-Fatec 
+Barueri - R-05 
+M 
+II 
+11 
+0 
+http://lattes.cnpq.br/602
+8101657727352 
+57 
+Karina Alves de Melo
+ 
+ 
+78681 
+204-Fatec 
+Ipiranga - R-06 
+M 
+I 
+ 
+ 
+https://lattes.cnpq.br/03
+96022701467450 
+58 
+Lélia Zambrano 
+ 
+27811 
+204-Fatec 
+Ipiranga - R-06 
+D 
+III 
+20 
+30 
+http://lattes.cnpq.br/932
+0680619801331 
+59 
+Levi de Oliveira Souza
+ 
+ 
+74675 
+294-Fatec 
+Franco da 
+Rocha - R-05 
+M 
+I 
+35 
+5 
+http://lattes.cnpq.br/292
+4905592840995 
+60 
+Lilian Venturi 
+ 
+76303 
+204-Fatec 
+Ipiranga - R-06 
+M 
+I 
+17 
+14 
+http://lattes.cnpq.br/389
+2895 134783073 
+61 
+Lucio Tadeu Costabile
+ 
+ 
+78762 
+Escolha 
+M 
+I 
+21 
+12 
+http://lattes.cnpq.br/118
+2451850603819 
+62 
+Luiz Antonio de Lima
+ 
+ 
+73612 
+Escolha 
+M 
+I 
+ 
+ 
+ 
+63 
+Luiza Carla Duarte  
+Thomaz da Rosa 
+73465 
+204-Fatec 
+Ipiranga - R-06 
+D 
+I 
+5 
+11 
+https://lattes.cnpq.br/58
+67684 660996280 
+64 
+Lucas Domiciano 
+Pereira 
+71121 
+111-Fatec Zona 
+Leste - R-04 
+E 
+I 
+4 
+23 
+https://lattes.cnpq.br/78
+98085223019271 
+65 
+Manoel Francisco 
+Guaranha 
+38248 
+204-Fatec 
+Ipiranga - R-06 
+D 
+III 
+33 
+40 
+http://lattes.cnpq.br/49
+03031520154061 
+66 
+Marcelo Massahiti 
+Yamauti 
+60497 
+272-Fatec 
+Sebrae - R-05 
+M 
+III 
+20 
+10 
+http://lattes.cnpq.br/08
+49906302088139 
+67 
+Marcia Capelini 
+70629 
+111-Fatec Zona 
+Leste - R-04 
+D 
+4 
+ 
+11 
+http://lattes.cnpq.br/990
+5146661335460 
+68 
+Marcio Magalhães 
+Fontoura 
+49474 
+204-Fatec 
+Ipiranga - R-06 
+D 
+III 
+29 
+12 
+http://lattes.cnpq.br/397
+7385445758667 
+69 
+Marcio Roberto 
+Camarotto 
+49470 
+204-Fatec 
+Ipiranga - R-06 
+D 
+III 
+28 
+36 
+http://lattes.cnpq.br/529
+6151516468775 
+70 
+Márcio Rodrigues 
+47361 
+204-Fatec 
+Ipiranga - R-06 
+D 
+I 
+15 
+31 
+http://lattes.cnpq.br/955
+4386718667247 
+71 
+Marco Antonio Dias 
+56193 
+204-Fatec 
+Ipiranga - R-06 
+D 
+III 
+19 
+39 
+http://lattes.cnpq.br/572
+3475780000769 
+72 
+Marco Aurelio Mazzei 
+70090 
+204-Fatec 
+Ipiranga - R-06 
+M 
+I 
+6 
+27 
+http://lattes.cnpq.br/17
+54036 293301860 
+73 
+Marcos Júlio 
+57397 
+168 -Fatec São 
+Caetano do Sul 
+- R-06 
+M 
+I 
+24 
+23 
+https://lattes.cnpq.br/12
+45890 743758737 
+74 
+Marcos Pereira da 
+Silva 
+29765 
+002 -Fatec São 
+Paulo - R-05 
+M 
+II 
+26 
+19 
+https://lattes.cnpq.br/63
+49737234076744 
+75 
+Maria Carolina Muniz 
+e Silva de Brito 
+72235 
+127-Fatec 
+Cruzeiro - R-12 
+E 
+I 
+17 
+21 
+https://lattes.cnpq.br/47
+66787739171429 
+76 
+Maria Inês de Oliveira 
+Hernandez 
+33688 
+204-Fatec 
+Ipiranga - R-06 
+D 
+III 
+32 
+5 
+http://lattes.cnpq.br/480
+0300 979250155 
+77 
+Mariane Teixeira 
+27813 
+257-Fatec 
+Itaquera - R-04 
+M 
+II 
+26 
+8 
+https://lattes.cnpq.br/45
+03770 
+329482442 
+78 
+Mario Pereira Roque 
+Filho 
+49479 
+204-Fatec 
+Ipiranga - R-06 
+D 
+III 
+20 
+17 
+http://lattes.cnpq.br/12
+55272 145583617 
+11 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
+ 
+Nome 
+Matrícula 
+Cód. UE sede 
+Titulação* 
+Referência 
+Experiência Profissional 
+Curriculum Lattes (URL) 
+Docência 
+(anos) 
+Não docência 
+(anos) 
+79 
+Monica Eboli de 
+Nigris 
+49969 
+111-Fatec Zona 
+Leste - R-04 
+D 
+III 
+38 
+38 
+http://lattes.cnpq.br/39
+604396852 
+80 
+Nicolas Kassalias 
+33942 
+143-Fatec 
+Carapicuíba - 
+R-05 
+M 
+II 
+23 
+7 
+http://lattes.cnpq.br/604
+7634 654502950 
+81 
+Nilo Sérgio Guidelli 
+56201 
+204-Fatec 
+Ipiranga - R-06 
+M 
+I 
+20 
+40 
+http://lattes.cnpq.br/245
+2443744845347 
+82 
+Norma Licciardi 
+47358 
+204-Fatec 
+Ipiranga - R-06 
+M 
+II 
+22 
+26 
+https://lattes.cnpq.br/09
+58224 562941153 
+83 
+Norton Barros Glasser 
+50365 
+204-Fatec 
+Ipiranga - R-06 
+E 
+II 
+17 
+22 
+https://lattes.cnpq.br/56
+90510194161026 
+84 
+Odenildo de França 
+Almeida 
+57407 
+204 
+M 
+II 
+17 
+10 
+https://lattes.cnpq.br/87
+02408 672749291 
+85 
+Patricia Sales Patricio 
+47144 
+204-Fatec 
+Ipiranga - R-06 
+D 
+III 
+13 
+11 
+http://lattes.cnpq.br/459
+0082866290395 
+86 
+Paulo César Pinheiro 
+75391 
+113-Fatec 
+Mauá - R-06 
+M 
+I 
+30 
+15 
+https://lattes.cnpq.br/10
+56706188942175 
+87 
+Pedro Panhoca da 
+Silva 
+76872 
+Escolha 
+M 
+I 
+ 
+ 
+ 
+88 
+Regiane Caminni 
+Pereira da Silva 
+61202 
+204-Fatec 
+Ipiranga - R-06 
+D 
+I 
+24 
+30 
+http://lattes.cnpq.br/012
+3565 049834202 
+89 
+Renato Mauro Richter 
+73408 
+113-Fatec 
+Mauá - R-06 
+D 
+I 
+18 
+22 
+http://lattes.cnpq.br/999
+8457346711166 
+90 
+Renato Ribeiro Soares 
+47366 
+204-Fatec 
+Ipiranga - R-06 
+M 
+II 
+32 
+35 
+http://lattes.cnpq.br/931
+5145 107995001 
+91 
+Ricardo Di 
+Bartolomeo 
+57401 
+204-Fatec 
+Ipiranga - R-06 
+D 
+III 
+28 
+16 
+http://lattes.cnpq.br/486
+8107 564946813 
+92 
+Rita de Cássia Felix 
+45133 
+204-Fatec 
+Ipiranga - R-06 
+M 
+III 
+26 
+20 
+http://lattes.cnpq.br/587
+9278240836544 
+93 
+Rita de Cássia 
+Rodrigues 
+37671 e 
+38245 
+204-Fatec 
+Ipiranga - R-06 
+M 
+III 
+24 
+19 
+http://lattes.cnpq.br/304
+4313013426961 
+94 
+Roberta Kelly 
+Bondade de Caldas 
+Cavalcante 
+77005 
+113-Fatec 
+Mauá - R-06 
+D 
+I 
+1 
+8 
+http://lattes.cnpq.br/304
+1641221047702 
+95 
+Roberto Nicolosi 
+21465 
+160 -Fatec 
+Santo André - 
+R-06 
+M 
+II 
+32 
+ 
+http//lattes.cnpq/745927
+7710955529 
+96 
+Rodrigo Bossini 
+Tavares Moreira 
+59776 
+204-Fatec 
+Ipiranga - R-06 
+M 
+I 
+10 
+2 
+http://lattes.cnpq.br/62
+39865403144513 
+97 
+Rony Aliberti Hergert 
+50898 
+204-Fatec 
+Ipiranga - R-06 
+E 
+I 
+30 
+33 
+http://lattes.cnpq.br/213
+9367918404579 
+98 
+Rosangela Aparecida 
+de Queirós Manduca 
+57409 
+216-Fatec 
+Osasco - R-05 
+M 
+II 
+17 
+7 
+http://lattes.cnpq.br/081
+1390298348235 
+99 
+Samuel Henrique da 
+Rocha 
+79177 
+216-Fatec 
+Osasco - R-05 
+E 
+I 
+6 
+10 
+https://lattes.cnpq.br/59
+13148522558064 
+100 Sandra Joyce Silva de 
+Souza 
+75006 
+216-Fatec 
+Osasco - R-05 
+M 
+I 
+1 
+24 
+https://lattes.cnpq.br/20
+37439 465651171 
+101 Sidnei Messias 
+Rodrigues 
+76352 
+204-Fatec 
+Ipiranga - R-06 
+M 
+I 
+10 
+27 
+http://lattes.cnpq.br/141
+4722177761039 
+102 Silvio Antonio da Silva 
+77158 
+204-Fatec 
+Ipiranga - R-06 
+M 
+I 
+17 
+16 
+http://lattes.cnpq.br/772
+3652608082419 
+103 Simone Telles 
+49467 
+204-Fatec 
+Ipiranga - R-06 
+D 
+III 
+28 
+5 
+http://lattes.cnpq.br/737
+6769 532572414 
+104 Tania Regina Barreira 
+Rodrigues 
+74863 
+204-Fatec 
+Ipiranga - R-06 
+D 
+I 
+25 
+25 
+http://lattes.cnpq.br/291
+756671148673 
+105 Tarcisio de Souza 
+Peres 
+57543 
+143-Fatec 
+Carapicuíba - 
+R-05 
+M 
+II 
+40 
+20 
+http://lattes.cnpq.br/344
+0587 707825426 
+12 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
+ 
+Nome 
+Matrícula 
+Cód. UE sede 
+Titulação* 
+Referência 
+Experiência Profissional 
+Curriculum Lattes (URL) 
+Docência 
+(anos) 
+Não docência 
+(anos) 
+106 Thiago Duarte de 
+Oliveira 
+76974 
+113-Fatec 
+Mauá - R-06 
+E 
+I 
+5 
+10 
+http://lattes.cnpq.br/997
+2482779171562 
+107 Tiago Brasil de Ávila 
+77104 
+ 
+ 
+ 
+ 
+ 
+ 
+108 Ulisses Ribeiro da 
+Silva Neto 
+38250 
+204-Fatec 
+Ipiranga - R-06 
+M 
+II 
+20 
+21 
+http://lattes.cnpq.br/864
+2390245164336 
+109 Vanderlei Rodrigues 
+da Silva 
+73330 
+129-Fatec Praia 
+Grande - R-06 
+E 
+I 
+20 
+21 
+http://lattes.cnpq.br/864
+2390 245164336 
+110 Walter de Mendonça 
+73801 
+168 -Fatec São 
+Caetano do Sul 
+- R-06 
+M 
+I 
+20 
+30 
+http://lattes.cnpq.br/463
+5507021583959 
  
  
 * 
 Titulação: D (Doutor), M (Mestre), E (Especialista) 
  
  
+13 
  
  
  
- 
-11 
-Relatório de Autoavaliação Institucional da Fatec P. Grande – 2023 
- 
- 
- 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
 Organização do relatório: 
  
 i. 
@@ -1418,18 +1903,23 @@ v.
 Considerações finais 
 vi. 
 Anexo de ATAs 
-12 
-Relatório de Autoavaliação Institucional da Fatec P. Grande – 2023 
  
  
  
  
  
+ 
+14 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
 2. METODOLOGIA 
-Para contribuir com a organização da Comissão Própria de Avaliação de cada Fatec, o 
-Centro Paula Souza, por meio da Unidade do Ensino Superior de Graduação (Cesu), organizou 
-a comissão da CPA Central, assumindo como centro organizativo as atribuições que lhe 
-competem, a saber: 
+Para contribuir com a organização da Comissão Própria de Avaliação de cada 
+Fatec, o Centro Paula Souza, por meio da Unidade do Ensino Superior de Graduação 
+(Cesu), organizou a comissão da CPA Central, assumindo como centro organizativo 
+as atribuições que lhe competem, a saber:  
 I. 
 Contribuir com o planejamento, orientação e monitoramento dos 
 procedimentos da autoavaliação Institucional das Fatecs; 
@@ -1439,30 +1929,30 @@ Institucional e do Plano de Gestão Anual, oferecendo subsídios para cada
 uma das áreas da administração central tomar as medidas corretivas e 
 ações de melhoramento; 
 III. Elaborar o Relatório Global da Autoavaliação para os processos de 
-recredenciamento institucional. 
+recredenciamento institucional.  
 IV. Elaborar o cronograma da autoavaliação para as Fatecs, considerando o 
 prazo de 31 de março de cada ano para o protocolo dos relatórios da 
-autoavaliação no sistema e-MEC do Ministério da Educação. 
+autoavaliação no sistema e-MEC do Ministério da Educação.  
 V. Avaliar, indicar possíveis ajustes e autorizar o protocolo dos relatórios das 
 CPAs das Fatecs no sistema e-MEC. 
 VI. Reunir-se ordinariamente duas vezes no semestre ou de forma 
 extraordinária quando necessário. 
  
-Por meio da CPA Central e da Gestão Educacional da Cesu, cada Fatec recebe o 
-suporte necessário para sua CPA cumprir o que lhe compete, conforme segue: 
+Por meio da CPA Central e da Gestão Educacional da Cesu, cada Fatec recebe 
+o suporte necessário para sua CPA cumprir o que lhe compete, conforme segue: 
 1. Contribuir com o planejamento, elaboração, coordenação e monitoramento 
 dos processos de avaliação interna, apresentando o projeto de 
 autoavaliação Institucional que norteará todos os procedimentos de 
 autoavaliação para a CPA Central em consonância com a equipe de Gestão 
-Educacional da Cesu. 
+Educacional da Cesu.  
 2. Apoiar os processos internos de avaliação; 
 3. Sistematizar e prestar informações relativas às políticas de autoavaliação 
 institucional, solicitadas pelos Sistemas Federal e Estadual de Avaliação da 
 Educação Superior, além de atender à demanda interna da Gestão 
 Educacional da Cesu e da CPA Central do Centro Paula Souza; 
 4. Constituir subcomissões de avaliação; 
-5. Constituir grupos temáticos ou focais voltados para a avaliação de cada uma 
-das dez dimensões estabelecidas no artigo anterior; 
+5. Constituir grupos temáticos ou focais voltados para a avaliação de cada 
+uma das dez dimensões estabelecidas no artigo anterior; 
 6. Elaborar e analisar relatórios e pareceres, encaminhando-os a CPA Central; 
 7. Desenvolver estudos e análises, colaborando com os órgãos próprios ou 
 terceirizados do Centro Paula Souza, visando ao fornecimento de subsídios 
@@ -1473,25 +1963,24 @@ os resultados dos alunos do Centro Paula Souza no ENADE, bem como em
 outros processos de avaliação; 
 9. Aprovar seu próprio regulamento em consonância com as diretrizes 
 emanadas pela CPA Central. 
-13 
-Relatório de Autoavaliação Institucional da Fatec P. Grande – 2023 
+ 
+15 
  
  
  
- 
- 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
 Os relatórios parciais e/ou integrais da autoavaliação deverão ser elaborados com 
 periodicidade anual, encaminhados para a CPA Central seguindo o cronograma de 
 planejamento apresentado nas orientações gerais e protocolados até 31 de março de cada 
 ano. Ficando disponíveis para serem apreciados pela comissão de especialistas designada 
 pelo Conselho Estadual de Educação para a visita à Instituição em seu processo de 
-recredenciamento, conforme dispõe a Deliberação do CEE 160/2018. 
+recredenciamento, conforme dispõe a Deliberação do CEE 160/2018.  
  
 2.1 Cronograma das atividades da CPA 
- 
-A partir desta estrutura a CPA da Fatec Praia Grande para cumprir o que lhe compete, 
-durante o ano de 2023 elaborou o seguinte cronograma de trabalho: 
- 
+A partir desta estrutura a CPA da Fatec Ipiranga – Pastor Enéas Tognini para 
+cumprir o que lhe compete, durante o ano de 2023 elaborou o seguinte cronograma 
+de trabalho:  
  
 Atividades / Ações 
 Mês 
@@ -1507,66 +1996,60 @@ set
 out 
 nov 
 dez 
-Reuniões com a equipe gestora da UE 
-para sistematização das ações e 
-composições de grupos de trabalho. 
+Reuniões com a equipe gestora da UE para 
+sistematização das ações e composições de 
+grupos de trabalho. 
+  
+x 
+x 
+x 
+x 
+x 
  
- 
- 
- 
- 
- 
- 
- 
+x 
 X 
- 
- 
- 
-Encontros da equipe CPA para organizar 
-e desenvolver estratégias de maneira 
+x 
+  
+  
+Encontros da equipe CPA para organizar e 
+desenvolver estratégias de maneira 
 integrada a partir da percepção dos 
 diferentes segmentos que compõem a 
 comissão. 
+  
  
  
  
  
  
  
- 
- 
- 
- 
- 
+x 
 X 
+x 
  
- 
+  
 Sensibilização para participação nos 
-procedimentos e coleta: Encontros com 
-representantes de turmas, lives, 
-webinar, informativos, site, entre outros, 
-para alimentar a cultura avaliativa da 
-Fatec. 
+procedimentos e coleta:  Encontros com 
+representantes de turmas, lives, webinar, 
+informativos, site, entre outros, para 
+alimentar a cultura avaliativa da Fatec. 
+  
  
  
  
  
  
  
- 
- 
- 
+x 
 X 
+x 
  
-X 
- 
-X 
- 
+  
 Organização dos procedimentos de coleta 
 de dados: elaboração das ações voltadas 
-para estimular e monitorar a participação 
-de toda a comunidade no preenchimento 
-do formulário de coleta. 
+para estimular e monitorar a participação de 
+toda a comunidade no preenchimento do 
+formulário de coleta.  
  
  
  
@@ -1574,16 +2057,14 @@ do formulário de coleta.
  
  
  
- 
- 
- 
+x 
 X 
- 
-X 
- 
+x 
+  
+  
 Análise dos resultados – acolhimento dos 
-dados da coleta e início dos 
-procedimentos de análise. 
+dados da coleta e início dos procedimentos 
+de análise.  
  
  
  
@@ -1594,14 +2075,14 @@ procedimentos de análise.
  
  
  
-X 
-X 
-Encaminhamento dos dados coletados 
-para a equipe gestora da UE, que recebe 
-os dados faz a análise e apresenta a 
-justificativa e o Plano de Gestão Anual 
-com ações de melhorias, e encaminha 
-para a CPA 
+x 
+ 
+Encaminhamento dos dados coletados para 
+a equipe gestora da UE, que recebe os 
+dados faz a análise e apresenta a 
+justificativa e o Plano de Gestão Anual com 
+ações de melhorias, e encaminha para a 
+CPA  
  
  
  
@@ -1612,9 +2093,9 @@ para a CPA
  
  
  
-X 
-X 
-Elaboração do relatório da CPA. 
+x 
+ 
+Elaboração do relatório da CPA.  
  
  
  
@@ -1625,38 +2106,50 @@ Elaboração do relatório da CPA.
  
  
  
- 
-X 
+ x 
+  
 Envio do Relatório para a emissão do 
-parecer da Cesu/DGE e apreciação da 
-CPA Central 
+parecer da Cesu/DGE e apreciação da CPA 
+Central 
  
  
  
  
+  
+  
+  
+  
+  
+  
+ x 
+  
+Divulgação dos resultados à comunidade 
+acadêmica. 
  
  
  
  
- 
- 
- 
-X 
-Divulgação dos resultados à 
-comunidade acadêmica. 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-X 
+  
+  
+  
+  
+  
+  
+  
+ x 
 Conclusão do Relatório. 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ X 
  
  
  
@@ -1668,262 +2161,279 @@ Conclusão do Relatório.
  
  
  
-X 
-14 
-Relatório de Autoavaliação Institucional da Fatec P. Grande – 2023 
- 
- 
- 
- 
-2.2 Ações de sensibilização da comunidade acadêmica 
- 
-Para a efetivação do cronograma destaca-se algumas das ações para a realização dos 
-procedimentos de autoavaliação. 
-Em setembro de 2023, os alunos do CST em Gestão Empresarial do 4º semestre dos 
-períodos matutino e vespertino, disciplina “Planejamento de Marketing”, desenvolveram uma 
-pesquisa aplicada à comunidade acadêmica para identificar a percepção sobre a Fatec Praia 
-Grande, fazendo uso da metodologia Net Promoter Score (NPS). A ferramenta criada por 
-Reichheld se propõe a medir a lealdade de consumidores de uma empresa ou uma marca. 
-Trata-se de uma metodologia que, basicamente faz duas perguntas ao respondente: 
-- O quanto você recomendaria a FATEC Praia Grande a parentes e amigos? 
-- Por que você deu essa nota? 
-Fazendo uso de uma escala de 0 a 10, considera-se que as notas de 0 a 6 são 
-concedidas por DETRATORES; 7 e 8 seriam os NEUTROS; 9 e 10 seriam os PROMOTORES 
-da Instituição. Lee (2012) entende que quanto mais promotores a empresa atinge, maior a 
-probabilidade de que o “negócio cresça e se destaque” e, mutato mutandis, forneceria um 
-excelente “retrato” do que a comunidade acadêmica pensa a respeito da Instituição. Portanto, 
-essa ação foi realizada no sentido de “perceber” o que a comunidade acadêmica sentia em 
-relação à Instituição e, a partir dos resultados observados, ações poderiam ser realizadas com 
-base na análise realizada pelos alunos, mentorados pelo docente do componente curricular. 
-Os alunos fizeram a pesquisa in loco, nas salas de aula, entregando cédulas a alunos, 
-professores, além do pessoal administrativo e terceirizados em seus postos de trabalho. A 
-proposta seria a de atingir o maior número de respondentes possível a fim de obter um 
-“retrato” da Instituição naquele momento. 
-Os resultados foram semelhantes, pois no período matutino o NPS foi de 82 e no 
-período noturno foi de 78. 
-Os alunos das duas turmas apresentaram os resultados e além de identificar eventuais 
-gaps propuseram soluções e ideias para resolver os problemas detectados. Os principais 
-estão ligados à infraestrutura do prédio. Com o resultado em mãos, a Direção orientou sobre 
-as obras que estavam sendo realizadas e também sobre a oportunidade de manifestação da 
-comunidade acadêmica na pesquisa WEB SAI. Os mesmos alunos que realizaram a pesquisa 
-forneceram feedback à comunidade acadêmica, ao mesmo tempo que comunicaram a todos 
-sobre a importância de participação do WEB SAI que seria realizado em breve. 
-Com o anúncio do início o WEB SAI, a CPA percorreu todas as salas de aula para 
-comunicar aos alunos que o processo teria início, conclamando a comunidade à participação 
-a fim de formalizarmos as eventuais demandas para possíveis soluções. 
-Também foram confeccionados dois banners dispostos um, na entrada principal do 
-prédio e outro na entrada do Laboratório de Informática 6 que foi reservado durante o período 
-15 
-Relatório de Autoavaliação Institucional da Fatec P. Grande – 2023 
- 
- 
-da pesquisa de maneira exclusiva, para que a comunidade acadêmica pudesse fazer uso e o 
-máximo de pessoas pudessem participar. 
- 
- 
-(Banner colocado em frente ao Laboratório de Informática 6, reservado para 
-realização do WEB SAI) 
  
  
 16 
-Relatório de Autoavaliação Institucional da Fatec P. Grande – 2023 
  
  
  
-(Banner colocado junto à Secretaria, na entrada principal do prédio da FATEC Praia Grande) 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
+2.2 Ações de sensibilização da comunidade acadêmica 
+Para a efetivação do cronograma destaca-se algumas das ações para a 
+realização dos procedimentos de autoavaliação.  
+A sensibilização para a coleta de dados da CPA foi feita em duas partes; a 
+primeira eletrônica, com a criação de divulgação de banners criados internamente 
+chamando a atenção para a importância da avaliação como instrumentos de definição 
+dos rumos da instituição bem como em relação aos prazos. A segunda teve a 
+importante participação da representante discente da CPA, Isabel Cristina Vieira, que 
+entrou em contato com todos os representantes de sala e passou em cada uma das 
+turmas para reforçar a mensagem da importância da avalição institucional. O corpo 
+docente, também participou desse processo de sensibilização de forma bastante 
+ativa, dando espaço em suas aulas para que os alunos respondessem a pesquisa e 
+destacando seu papel gerencial. Os coordenadores de curso também conversaram 
+com seus alunos e mostraram com clareza a importância do processo. Na sequência 
+são apresentados alguns dos materiais elaborados internamente: 
+ 
+ 
+ 
+ 
+17 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
+ 
+ 
+ 
+ 
+18 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
+ 
  
  
 2.3 Identificação dos sujeitos da avaliação 
+Nesta avaliação participaram os funcionários administrativos, o corpo docente e o 
+corpo discente. Tivemos o seguinte quadro de respondentes: 
  
-SEGMENTO REPRESENTATIVO 
-QUANTIDADE 
-% Participação 
-Corpo Docente  
-80 participantes 
- 97,56 
-Corpo Administrativo 
-19 participantes 
-100,0 
-Corpo Discente  
-750 alunos 
-  50,67 
+Tipologia 
+Quantidade 
+Respondidos 
+percentual 
+Agente Técnico e Administrativo 
+Fatec 
+8 
+8 
+100% 
+Analista de Suporte de Gestão 
+Fatec 
+1 
+1 
+100% 
+Assessor Administrativo Fatec 
+1 
+1 
+100% 
+Assessor Técnico Administrativo 
+Fatec 
+1 
+1 
+100% 
+Auxiliar de Docente Fatec 
+2 
+2 
+100% 
+Coordenador de Curso FATEC 
+6 
+6 
+100% 
+Diretor de Serviço Fatec 
+2 
+2 
+100% 
+Diretor de Unidade Fatec 
+1 
+1 
+100% 
+Docente Fatec 
+100 
+98 
+98% 
+Discente Fatec 
+1362 
+914 
+67% 
+ 
+ 
+19 
  
  
  
-2.4 Organização dos instrumentos de coleta 
- 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
+2.4 Organização dos instrumentos de coleta  
 Desde 1997 o Centro Paula Souza, evidenciando o seu pioneirismo em buscar 
-indicadores para gerar melhoria de seus serviços criou o Sistema de Avaliação Institucional 
-(SAI), implantado em 1999 em todas as Etecs (Escolas de Ensino Técnico no nível médio) e, em 
-2000, nas Fatecs, seguindo os mais rigorosos critérios estatísticos. Sendo os instrumentos 
-elaborados e preenchidos em formulários impressos de 1999 a 2012. 
-17 
-Relatório de Autoavaliação Institucional da Fatec P. Grande – 2023 
- 
- 
- 
-A partir de 2010, os questionários deixaram de ser preenchidos em formulário de papel 
-e passaram a ser totalmente on-line, trazendo mais agilidade ao processo de avaliação. Desde 
-então, todos os participantes realizam a pesquisa pela internet e o SAI passou a ser chamado 
-de WebSAI. 
-Para que as Fatecs tivessem apenas um instrumento que pudesse contemplar as 10 
-dimensões dentro dos 5 eixos avaliativos, a partir da criação da comissão da CPA Central a 
-AAI em parceria com a CESU, por meio de uma equipe qualificada, reorganizou a elaboração 
-dos Instrumentos adequando-os em torno dos 5 eixos avaliativos: 
- 
-I - Eixo 1: Planejamento e Avaliação Institucional  
-Dimensão 8: Planejamento e Avaliação 
-II - Eixo 2: Desenvolvimento Institucional  
-Dimensão 1: Missão e Plano de Desenvolvimento Institucional 
-Dimensão 3: Responsabilidade Social da Instituição  
-III - Eixo 3: Políticas Acadêmicas 
-Dimensão 2: Políticas para o Ensino, a Pesquisa e a Extensão 
-Dimensão 4: Comunicação com a Sociedade 
-Dimensão 9: Política de Atendimento aos Discentes 
-IV - Eixo 4: Políticas de Gestão 
-Dimensão 5: Políticas de Pessoal 
-Dimensão 6: Organização e Gestão da Instituição 
-Dimensão 10: Sustentabilidade Financeira 
-V - Eixo 5: Infraestrutura Física 
-Dimensão 7: Infraestrutura Física 
- 
- 
+indicadores para gerar melhoria de seus serviços criou o Sistema de Avaliação 
+Institucional (SAI), implantado em 1999 em todas as Etecs (Escolas de Ensino Técnico 
+no nível médio) e, em 2000, nas Fatecs, seguindo os mais rigorosos critérios 
+estatísticos. Sendo os instrumentos elaborados e preenchidos em formulários 
+impressos de 1999 a 2012.  
+A partir de 2010, os questionários deixaram de ser preenchidos em formulário 
+de papel e passaram a ser totalmente on-line, trazendo mais agilidade ao processo 
+de avaliação. Desde então, todos os participantes realizam a pesquisa pela internet e 
+o SAI passou a ser chamado de WebSAI.  
+Para que as Fatecs tivessem apenas um instrumento que pudesse contemplar 
+as 10 dimensões dentro dos 5 eixos avaliativos, a partir da criação da comissão da 
+CPA Central a AAI em parceria com a CESU, por meio de uma equipe qualificada, 
+reorganizou a elaboração dos Instrumentos adequando-os em torno dos 5 eixos 
+avaliativos:  
+A coleta de dados foi feita por meio de um questionário com 16 questões de múltiplas 
+escolhas para Servidores da Fatec e um questionário com 17 para os Alunos. Nos 
+questionários foram contempladas todas as dimensões da avaliação. Este ano a 
+pesquisa foi bem mais objetiva do que nos anos anteriores,  o que trouxe um ganho 
+no número de respondentes. 
  
 2.5 Procedimentos para a coleta 
  
- 
-A AAI disponibilizou o acesso ao sistema de coleta (WebSAI) a partir de 03 de outubro 
-de 2023 e ficou disponível para o preenchimento da comunidade do dia de 09 a 27 de 
-outubro de 2023. Para favorecer a participação da comunidade durante este período a CPA 
-e Direção da Fatec Praia Grande fizeram o acompanhamento da participação de cada 
-segmento, realizando ações de sensibilização contínua para a participação da comunidade 
-acadêmica, a saber: 
-i. Envio os alunos, professores e funcionários e-mails informativos sobre o processo 
-do Websai 2023; 
-ii. Postagens nos grupos de Whatsapp dos alunos, professores e funcionários com 
-informações, link de acesso e folder ilustrativo do Websai 2023; 
-18 
-Relatório de Autoavaliação Institucional da Fatec P. Grande – 2023 
+A AAI disponibilizou o acesso ao sistema de coleta (WebSAI) a partir de 09 de 
+outubro de 2023 ficou disponível para o preenchimento da comunidade do dia 02 de 
+outubro de 2023. Para favorecer a participação da comunidade durante este período 
+a CPA e Direção da Fatec Ipiranga – Pastor Enéas Tognini, fez o acompanhamento 
+da participação de cada segmento, realizando ações para sensibilização contínua 
+para a participação da comunidade acadêmica, a saber: 
+i. Divulgação de banners por meio das redes sociais; 
+20 
  
  
-iii. Postagens nas Redes Sociais com o chamamento do Websai 2023 (Facebbok, 
-Instagram e Site da Fatec Praia Grande; 
-iv. Visita às salas de aulas por parte das coordenações e membros da CPA para 
-informar e convidar os alunos para que respondessem o Websai, incluindo o 
-deslocamento aos laboratórios de informática para acesso durante os intervalos das 
-aulas, ou até mesmo, na parte final de algumas aulas. 
  
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
+ii. Atuação da representante discente da CPA interagindo diretamente com 
+alunos e representantes de classe; 
+Sensibilização para a pesquisa por todos os docentes, coordenadores de curso 
+e diretorias (geral, acadêmica e de serviços). 
  
-2.6 Análise e discussão dos dados da coleta 
- 
-A partir do dia  09 de novembro de 2023, os dados coletados por meio do WebSAI 
-foram disponibilizados pela AAI. A Fatec Praia Grande, por meio da CPA, iniciou o processo de 
-organização dos dados coletados para encaminhamento à equipe gestora da Unidade de 
-Ensino. A CPA da Fatec Praia Grande importou os dados da   organizando em pastas o material 
-de cada Eixo e as análises que foram construídas com as respostas obtidas. A Direção e 
-coordenações iniciarem as primeiras reuniões para discutirem os dados e identificar os 
-principais apontamentos. Com base no PGA 2023, as discussões sobre as situações-problema 
-foram reforçadas com as observações iniciais do Websai, assim como se identificou  a 
-necessidade de recursos e de melhoramentos para a unidade que já foram apontados em 
-relatórios anteriores e que estão sendo solicitados anualmente. 
+2.6 Análise e discussão dos dados da coleta  
+A partir do dia 06 de novembro de 2023 os dados coletados por meio do 
+WebSAI, foram disponibilizados pela AAI. A Fatec Ipiranga – Pastor Enéas Tognini, 
+por meio da CPA iniciou o processo de organização dos dados coletados para 
+encaminhamento à equipe gestora da Unidade de Ensino. A CPA da Fatec Ipiranga 
+Pastor Enéas Tognini,  recebeu a consolidação dos resultados pela CPA Central, em 
+forma de gráficos gerados pelo Power BI e a partir disso começou a analisar cada um 
+dos perfis existentes, buscando identificar os pontos fortes e fracos percebidos pela 
+comunidade. Essa análise foi enviada aos departamentos competentes diretorias: 
+geral, acadêmica e de serviços; e coordenação de cursos para discussões sobre os 
+resultados da avaliação, identificando as situações-problema, bem como a definição 
+dos recursos necessários para melhoramento, trazendo consigo as ações e o 
+cronograma/prazo de implementação.  O relatório da CPA é o principal insumo para à 
+elaboração do Plano de Gestão Anual (PGA). 
  
 2.7 Organização das medidas para composição do relatório 
-Após o processo de elaboração do Plano de Gestão Anual (PGA), efetuou-se o 
-preenchimento dos quadros de ações propostas, com o apontamento das medidas de 
-melhoramento e respectivos prazos, em consonância com o PGA. Os quadros apresentados, 
-foram condensados no capítulo 4 deste relatório, refletindo o planejamento da Unidade de 
-Ensino a partir dos indicadores observados em cada eixo  avaliativo. 
+ 
+Após o processo de elaboração do Plano de Gestão Anual (PGA), efetuou-se 
+o preenchimento dos quadros de ações propostas, com o apontamento das medidas 
+de melhoramento e respectivos prazos, em consonância com o PGA. Os quadros 
+apresentados, foram condensados no capítulo 4 deste relatório, refletindo o 
+planejamento da Unidade de Ensino a partir dos indicadores observados em cada eixo 
+avaliativo.  
  
  
-2.8 Devolutiva dos resultados para a comunidade acadêmica 
-Após a apresentação do relatório para a Direção da Fatec Praia Grande, foram 
-organizadas as formas de divulgação dos resultados e apresentação das ações provenientes 
-do processo de autoavaliação, permitindo o desenvolvimento institucional. 
-O Relatório da CPA será apresentado à comunidade acadêmica por meio do Site da 
-Fatec PG, no qual alunos, professores e funcionários poderão acessar a versão final do 
-documento (www.fatecpg.edu.br). 
-As reuniões  futuras de Colegiado e Direção também discutirão os principais  
-resultados obtidos com o Websai, enquanto novas reuniões da CPA serão organizadas para 
-consolidação da ações de melhoria. 
+2.8 Devolutiva dos resultados para a comunidade acadêmica   
  
-19 
-Relatório de Autoavaliação Institucional da Fatec P. Grande – 2023 
+Após a apresentação do relatório para a Direção da Fatec.Ipiranga – Pastor 
+Enéas Tognini, foram organizadas as formas de divulgação dos resultados e 
+apresentação das ações provenientes do processo de autoavaliação, permitindo o 
+desenvolvimento institucional.  
+21 
  
  
  
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
+O relatório elaborado por esta comissão será apresentado a comunidade 
+acadêmica em forma de reuniões, apresentando os resultados (pontos fortes e fracos), 
+como as medidas corretivas propostas e a posição da direção da unidade, que 
+participou ativamente do processo. Essas reuniões ocorrerão no começo de fevereiro 
+de 2024, momento em que serão retomadas as atividades acadêmicas. 
+22 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
 3. DESENVOLVIMENTO 
- 
- 
- 
+Considerando os instrumentos da autoavaliação, estruturados a partir das 10 dimensões previstas no 
+art. 3º da Lei nº 10.861 (SINAES), nesta parte do relatório, a CPA deverá apresentar as informações 
+que foram coletadas, a partir da organização de 5 eixos, que articulam as 10 dimensões, conforme 
+disposto na Nota Técnica INEP nº 065, como segue: 
  
 3.1 
-Planejamento e Avaliação Institucional Eixo 1: 
+Planejamento e Avaliação Institucional Eixo 1:  
+ 
 Dimensão 8: Planejamento e Avaliação 
+ 
  
 EIXO 
 1 - Planejamento e Avaliação Institucional 
 Dimensão 
 SINAES 
 8 
- 
 APRESENTAÇÃO DAS PRINCIPAIS INFORMAÇÕES COLETADAS NO EIXO 
+Os gráficos e as análise são apresentados de acordo com os perfis Discente, Docente 
+e Administrativo. 
  
-Questão 13: Como você avalia o uso dos indicadores da Avaliação Institucional 
-(WEBSAI) no Planejamento Institucional? 
- 
- 
- 
- 
- 
- 
-Cerca de 1/4 dos alunos não conhece o PDI da Instituição ou entende ser insuficiente o 
-uso de indicadores do WEBSAI, mesmo com todas as visitas dos membros da CPA nas 
-salas de aula. Para melhorar este indicador, a CPA sugere: 
-• 
-Publicação do PDI no site institucional; 
-Considerando os instrumentos da autoavaliação, estruturados a partir das 10 dimensões previstas no 
-art. 3º da Lei nº 10.861 (SINAES), nesta parte do relatório, a CPA deverá apresentar as informações 
-que foram coletadas, a partir da organização de 5 eixos, que articulam as 10 dimensões, conforme 
-disposto na Nota Técnica INEP nº 065, como segue: 
-20 
-Relatório de Autoavaliação Institucional da Fatec P. Grande – 2023 
- 
- 
-• 
-Apresentação do PDI nos inícios de semestres letivos por membros da CPA; 
-• 
-Campanhas periódicas de conscientização dos alunos através das comunicações 
-em redes sociais da Instituição. 
- 
-Questão 14: Como você avalia a política de participação dos estudantes em 
-atividades de pesquisa? 
- 
- 
-Cerca de 2/3 do pessoal administrativo entende que a participação dos estudantes 
-em atividades de pesquisa é excelente ou bom, o que permite dizer que na percepção 
-de quem não está diretamente ligado ao cotidiano acadêmico do aluno há pesquisa 
-nas atividades realizadas. 
- 
- 
- 
-Já, em relação aos professores, o número de docentes é também considerável, mas há 
-que se destacar que um percentual de 7,50% entende que a participação dos alunos deve 
-ser melhorada. Considerando que no último ENADE (2022), o CST de Gestão Empresarial 
-teve nota 4 e o CST de Comércio Exterior teve nota 3, entende-se que as pesquisas 
-acadêmicas sejam ferramentas utilizadas por, pelo menos, boa parte dos professores. 
-Neste sentido, a CPA sugere que na reunião da Congregação o tema seja abordado e que 
-seja proposto aos docentes que as atividades de pesquisa sejam realizadas com mais 
-frequência. 
- 
- 
- 
-21 
-Relatório de Autoavaliação Institucional da Fatec P. Grande – 2023 
+Perfil Discente  
+Para a dimensão 8 está relacionada a Questão 13, sendo que 49,30% dos discentes 
+avaliaram como “Excelente e Bom” o uso dos indicadores do WebSai no Planejamento 
+Institucional. Apenas 9,85% dos discentes avaliaram como “Insuficiente”. Destaca-se 
+que 16,63% dos alunos “não souberam responder”. Este é um ponto que merece 
+atenção e que serão tomadas medidas para informar e esclarecer aos alunos a questão 
+do uso dos Indicadores WebSai no Planejamento Institucional.  
  
  
  
  
+23 
  
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
+ 
+Perfil Docente 
+ 
+Para o formulário Servidores da Fatec a questão 14 está relacionada à dimensão 8. 
+No perfil Docente 71,68% avaliaram como “Excelente e Bom” enquanto 7,7% 
+“Insuficiente”. O percentual dos docentes que “não souberam responder” merece 
+atenção, pois foi 16,66%. Este fato pode indicar que houve falha na comunicação e por 
+isso, serão implementadas ações para informar e esclarecer os servidores sobre o uso 
+dos Indicadores no Planejamento Institucional. 
+ 
+ 
+ 
+Perfil Administrativo 
+ 
+No perfil administrativo 72,73% avaliaram como “Excelente e Bom”, sendo que o 
+percentual que acham “Regular, Insuficiente ou Não souberam responder” é de 9,09%.  
+ 
+ 
+24 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
+ 
+ 
+Os resultados dos perfis Discente, Docente e Administrativo são considerados 
+positivos, pois 72,73% avaliaram como “Excelente e Bom”, no entanto, ações serão 
+planejadas a fim de melhorar a comunicação no que tange o uso dos Indicadores no 
+Planejamento Institucional  
+ 
+ 
+ 
+ 
+25 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
 3.2 
 Eixo 2: Desenvolvimento Institucional 
  
@@ -1936,377 +2446,196 @@ EIXO
 Dimensão 
 SINAES 
 1 e 3 
-APRESENTAÇÃO DAS PRINCIPAIS INFORMAÇÕES 
-COLETADAS NO EIXO 
- 
-Questão 1: Com relação à missão institucional do centro Paula Souza de: 
-“Promover a educação pública profissional e tecnológica dentro de referenciais 
-de excelência, visando o desenvolvimento tecnológico, econômico e social do 
-Estado de São Paulo”, como você avalia o cumprimento deste item por parte da 
-unidade de ensino? 
- 
- 
- 
-Inicialmente, cumpre reconhecer que a declaração de MISSÃO da Instituição é 
-desconhecida por boa parte dos alunos. Em pesquisa WEBSAI de 2022, cerca de 45% 
-dos alunos não sabiam do que se tratava. 
-Ao indicar a missão na questão proposta, os alunos puderam então avaliar se a FATEC 
-Praia Grande estaria cumprindo e o resultado foi animador, pois uma parte significativa 
-dos alunado reconhece que a missão vem sendo cumprida. A CPA propõe investigar o 
-22 
-Relatório de Autoavaliação Institucional da Fatec P. Grande – 2023 
- 
- 
-percentual de cerca de 12% de alunos que entendem que a missão da instituição não 
-vem sendo cumprida a fim de compreender a percepção do corpo discente. Sugere-se, 
-também, que no início de cada semestre letivo, junto com a apresentação dos Planos 
-de Ensino, a missão e outros elementos importantes sejam levados ao conhecimento 
-dos alunos, tornando-se uma prática. 
- 
- 
-Questão 2: você conhece o Regimento das Fatecs? 
- 
- 
-Considerando o alto percentual de alunos que não conhece o regimento, sugere-se que 
-seja publicado no site institucional da FATEC Praia Grande, além de também ser objeto 
-de apresentação nas aulas inaugurais no início de cada semestre letivo. 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-23 
-Relatório de Autoavaliação Institucional da Fatec P. Grande – 2023 
- 
- 
-QUESTÃO 5: Considerando as atividades científicas, tecnológicas, inovativas, 
-sociais, culturais e artísticas. Qual o nível de participação da comunidade externa 
-nas atividades propostas pela instituição de ensino? 
- 
- 
- 
- 
-O percentual de respostas que consideram baixa a participação da comunidade externa 
-(mais de 70%) evidenciou a necessidade de um estreitamento nas relações 
-institucionais com o entorno da FATEC Pria Grande. 
-A CPA convidou um membro da comunidade, ex-aluno, que tem participado ativamente 
-de associações ligadas ao comércio local para que, através dele, possamos contatar 
-com mais frequência a comunidade local e desenvolver atividades que, de alguma 
-maneira, possa trazer benefícios mútuos. Neste sentido, a CPA já tem agendada 
-reunião no início de 2024 para estabelecer ações que possam melhorar este indicador. 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-QUESTÃO 6: A unidade de ensino promove interações com os setores público 
-24 
-Relatório de Autoavaliação Institucional da Fatec P. Grande – 2023 
- 
- 
-e/ou privado, a fim de desenvolver parcerias, soluções técnicas e tecnológicas? 
- 
- 
- 
-Boa parte dos alunos entende que há parcerias entre a Instituição e os diversos 
-stakeholders, pois contam com palestras, debates e mesas-redondas com pessoas que 
-se destacam em seus ramos de atuação (Semana de Tecnologia), parceria com o 
-Conselho Regional de Adminsitral (CRA-SP) (CST de Comércio Exterior e Gestão 
-Empresarial), maratona de programação patrocinada por empresa da região, entre 
-outros eventos. 
-Além disso, um bom número de alunos consegue estágio remuerado nos setores da 
-Prefeitura Municipal de Praia Grande, o que lhes oportuna conhecer e vivenciar o 
-cotidiano de repartições públicas e isso se reflete no número de alunos que vem a 
-participar de concursos para ingresso no setor público. 
-A CPA propôs uma atuação mais forte da Empresa Jr., o que foi ajustado com a nova 
-coordenação do CST em Gestão Empresarial que toma posse em fevereiro de 2024 
-para que haja maior intereção entre alunos e o empresariado da cidade e região. 
- 
- 
- 
- 
- 
- 
- 
- 
-Questão 14: Como você avalia a política de participação dos estudantes em 
-25 
-Relatório de Autoavaliação Institucional da Fatec P. Grande – 2023 
- 
- 
-atividades de pesquisa? 
- 
- 
-Há um nível considerável de alunos que desenvolve e participa de atividades de 
-pesquisa. Se por um lado os docentes em sua grande maioria (cerca de 85%) entendem 
-que as pesquisas são realizadas e a participação dos alunos acontece, a CPA sugere 
-que pesquisas sejam constantemente desenvolvidas a fim de fornecer o arcabouço para 
-o exercíco de competências técnicas necessárias a profissional. 
-Os TCC´s têm se mostrado valiosos para o exercício da pesquisa, seja na formade 
-artigos, monografias, planos de negócio.  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-QUESTÃO 15: Considerando a monitoria de disciplina, e metodologias para 
-26 
-Relatório de Autoavaliação Institucional da Fatec P. Grande – 2023 
- 
- 
-reforço ou recuperação de aprendizagem. Como você avalia os programas de 
-apoio pedagógico? 
- 
- 
-Os Planos de Ensino são apresentados sempre na 1ª aula semestral, por orientação da 
-Direção e coordenadores de curso.Os alunos podem tirar suas dúvidas sobre o que será 
-desenvolvido no semestre, oportunizando eventuais ajustes pelos docentes. 
-Além dessa explanação, a Instituição oferece monitoria desenvolvida pelos alunos que 
-se destacam nos componentes curriculares. Eles possuem sala própria para 
-atendimento aos colegas a partir de agendamento. Eventos de recuperação e revisão 
-dos conteúdos estudados são realizados pelos docentes, o que é percebido pelos 
-alunos, como se observa no número significativo de alunos que responderam 
-positivamente à questão. 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-QUESTÃO 1: Com relação à missão institucional do Centro Paula Souza de: 
-27 
-Relatório de Autoavaliação Institucional da Fatec P. Grande – 2023 
- 
- 
-“Promover a educação pública profissional e tecnológica dentro de referenciais 
-de excelência, visando o desenvolvimento tecnológico, econômico e social 
-do Estado de São Paulo”, como você avalia o cumprimento deste item por parte 
-da unidade de ensino. 
- 
- 
-A maioria dos funcionários da Instituição entende que a missão co CPS vem sendo 
-realizada e deve-se destacar o comprometimento do corpo de funcionários da FATEC 
-Praia Grande para esse cumprimento. 
- 
- 
-Em relação aos docentes, é notória a dedicação e comprometimento quanto ao 
-cumprimento da missão Institucional, o que pode ser comprovado com as notas obtidas 
-nos últimos ENADEe avaliações in loco. 
-A CPA sugere que as coordenações de cursos estimulem os docentes a se 
-desenvolverem continuamente, lembrando que o CPS oferece qualificações e cursos 
-constantementeque melhoram as competências dos professores. 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Questão 2: Você conhece o Regimento das Fatecs? 
-28 
-Relatório de Autoavaliação Institucional da Fatec P. Grande – 2023 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Os funcionários e docentes da FATEC Praia Grande se dividem quanto a conhecer o 
-Regimento das Fatecs. Percebe-se um número considerável de pessoas que não sabe 
-do que se trata o documento. 
-Para reverter tal situação, a CPA sugere que Direção e Coordenadores que abordem o 
-tema nas reuniões realizadas semestralmente a fim de reforçar o conhecimento sobre  
-documento. Também, que o mesmo esteja disponível para consulta no site institucional. 
-A CPA tambénm sugere que seja desenvolvida uma cartilha para ser distribuída aos 
-docentes e funcionários contendo a documentação que deve ser conhecida por todos. 
- 
- 
- 
- 
- 
-QUESTÃO 5:  Considerando as atividades científicas, tecnológicas, inovativas, 
-sociais, culturais e artísticas. Qual o nível de participação da comunidade externa 
-29 
-Relatório de Autoavaliação Institucional da Fatec P. Grande – 2023 
- 
- 
-nas atividades propostas pela instituição de ensino? 
- 
-Na percepção dos funcionários, há uma baixa participação da comunidade externa nas 
-atividades realziadas pela FATEC Praia Grande. 2/3 dos respondentes entendem que 
-a comunidade quase não tem relação com as atividades realizadas pela Instituição. 
-Neste caso, a CPA sugere que haja comunicações assertivas e formais acerca do que 
-está sendo desenvolvido e de que maneiras a comunidade externa tem participado. 
- 
-Quanto aos docentes, a percepção é diferente. Depreende-se que as atividades 
-estimuladas e realizadas por vários docentes envolvem a comunidade externa, como 
-por exemplo: simulações de consultorias nas empresas de pequeno porte do entorno e 
-atuação da Empresa Jr. que se dispõe a colaborar com o empresariado local para 
-melhorar o modelo de gestão adotado. 
-Aqui, a CPA sugere que as coordenações estimulem os docentes a desenvolver 
-atividade que possam ser “sentidas” pela comunidade externa e que tragam benefícios 
-a ela, considerando as competências desenvolvidas e exercitadas pelos alunos. 
- 
- 
- 
-QUESTÃO 6: A unidade de ensino promove interações com os setores público 
-e/ou privado, a fim de desenvolver parcerias, soluções técnicas e tecnológicas? 
-30 
-Relatório de Autoavaliação Institucional da Fatec P. Grande – 2023 
- 
- 
- 
-Da mesma forma que observamos na questão anterior, os funcionários desconhecem 
-ou não compreendem as interações com os setores externos e as parcerias firmadas. 
-Da mesma forma como abordado anteriormente, a CPA sugere que haja comunicações 
-assertivas e formais acerca do que está sendo desenvolvido e de que maneiras a 
-comunidade externa tem participado. 
- 
-Igualmente, por estarem mais ligados ao cotidiano dos alunos e das relações 
-institucionais com os seores público e privado, os docentes já tem uma percepção 
-diferente dos funcionários, mas mesmo assm, há um número considerável de 
-professores que entende que as ações são ocasionais. 
-Como anteriormente, a CPA sugere que as coordenações estimulem os docentes a 
-desenvolver atividade que possam ser “sentidas” pela comunidade externa e que tragam 
-benefícios a ela, considerando as competências desenvolvidas e exercitadas pelos 
-alunos. 
- 
- 
-INSERIR A APRESENTAÇÃO DOS GRÁFICOS 
-31 
-Relatório de Autoavaliação Institucional da Fatec P. Grande – 2023 
- 
- 
- 
-O Plano de Desenvolvimento institucional (Ano 2022 – Ano 2023) foi um dos principais 
-documentos que nortearam as ações da Fatec Praia Grande tratou-se de um documento que 
-se caracterizou como uma identidade da Instituição, definindo, dentre outros, sua filosofia de 
-trabalho, missão, estratégias, objetivos, estrutura e diretrizes pedagógicas, algo a ser 
-continuado no PDI para os anos de 2024 - 2025. 
-A Fatec Praia Grande define sua Missão, Visão e Objetivos Estratégicos, pautando a análise 
-dos pontos fortes e fracos, bem como, as oportunidades e as possíveis ameaças às ações da 
-Instituição, sendo elas: 
- 
-Missão 
-“Formar profissionais competentes, éticos e criativos, capazes de oferecer soluções à 
-comunidade e de contribuir para o desenvolvimento sustentável de nossa região, estado e, 
-consequentemente, de nosso País”. 
- 
-Visão 
-“Ser reconhecida como uma Instituição de Ensino de excelência na Educação Superior 
-Tecnológica em suas áreas de atuação”. 
- 
-Objetivos Estratégicos 
-Os objetivos estratégicos são os resultados que a Fatec Praia Grande pretende atingir, 
-gerados a partir da análise de ambiente, e que nortearão os planos de ação e o 
-acompanhamento do processo de implantação do Planejamento Estratégico.  
-Foram definidos quatro objetivos estratégicos:  
-a) crescimento nas áreas de atuação;  
-b) empregabilidade de egressos;  
-c) fortalecimento de parcerias; e  
-d) pesquisa aplicada. 
-32 
-Relatório de Autoavaliação Institucional da Fatec P. Grande – 2023 
- 
- 
- 
- 
-3.3 
-Eixo 3: Políticas Acadêmicas 
- 
-Dimensão 2: Políticas para o Ensino, a Pesquisa e a Extensão 
-Dimensão 4: Comunicação com a Sociedade 
-Dimensão 9: Política de Atendimento aos Discentes 
- 
-EIXO 
-3 – Políticas Acadêmicas 
-Dimensão 
-SINAES 
-2, 4 e 9 
- 
 APRESENTAÇÃO DAS PRINCIPAIS INFORMAÇÕES COLETADAS NO EIXO 
-QUESTÃO 3 – Com relação à missão institucional do Centro Paula Souza de: 
-‘Promover a educação pública profissional e tecnológica dentro de referenciais 
-de excelência, visando o desenvolvimento tecnológico, econômico e social do 
-Estado de São Paulo’, como você avalia o cumprimento deste item por parte da 
-unidade de ensino: 
+Dimensão 1 : Missão e Plano de Desenvolvimento Institucional  
+ 
+Tanto para o formulário Alunos e quanto Servidores da Fatec as questões 1 e 2 são 
+relacionadas à dimensão 1. 
+ 
+Perfil Discente 
+  
+No perfil Discente 87,75% avaliaram como “Excelente e Bom”,  10,39% “Regular” e 
+apenas 1,86% “Insuficiente”. Diante desses percentuais, considera-se que a Fatec 
+Ipiranga alcançou o cumprimento da missão institucional. 
  
  
  
-Um elevado número de alunos avalia a missão institucional do Centro Paula Souza  
-como excelente e boa. Contudo, os demais pontos do grafico demonstram um mcerto 
-desconhecimento pelos discentes sobre o tema, mesmo com todas as visitas dos 
-membros da CPA nas salas de aula. Para melhorar este indicador, a CPA sugere: 
-• 
-Publicação da missão institucional no site institucional; 
-• 
-Apresentação da missão nos inícios de semestres letivos por membros da CPA; 
-• 
-Campanhas periódicas de conscientização dos alunos através das comunicações 
+Em relação a questão 2, 57,44 % dos alunos “conhecem o regimento”, sendo que 
+42,56% afirmam “não conhecer”. Esta Comissão considera um percentual alto, 
+referente ao não conhecimento por parte dos alunos, por isso, promoverá ações de 
+divulgação do regimento, enfatizando a importância de seu conhecimento pelo aluno. 
+No entanto, cabe ressaltar que os discentes devem conhecer o Regulamento das 
+Fatecs e não apenas o Regimento.  
+26 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
+ 
+ 
+Perfil Docente 
+ 
+No perfil dos Docentes, em relação a questão 1, novamente o resultado foi positivo, 
+sendo que 98,99 % avaliaram como “Excelente e Bom” o cumprimento deste item pela 
+unidade. Apenas 1,01% considera Regular.  
+ 
+ 
+ 
+ 
+Quanto a questão 2, no perfil dos Docentes, 97,52% “conhecem” o regimento, sendo 
+que apenas 2,48% o “desconhecem”. 
+ 
+27 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
+ 
+ 
+Perfil Administrativo 
+ 
+No perfil Administrativo, 95,45% consideram “Excelente e Bom” e apenas 4,55% 
+“Regular”.  
+ 
+ 
+Na questão 2, no perfil dos Servidores Administrativos, 95,45% “conhecem” o 
+Regimento e apenas 4,55% o “desconhecem”. 
+ 
+28 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
+ 
+Dimensão 3: Responsabilidade Social da Instituição 
+Na dimensão 3, tanto para o perfil Discente quanto para o perfil dos Docentes e 
+Administrativo, são relacionadas as questões 5 e 6.  
+Perfil Discente 
+No perfil dos Discentes, 27,68% avaliaram como “Elevado e Constante” a participação 
+da comunidade externa nas atividades da Fatec Ipiranga, sendo que 68,68% avaliam 
+como “Baixo ou Eventual” e 8,64% afirmam que “não há”. Esta questão merece 
+atenção, uma vez que a Fatec Ipiranga por 6 anos consecutivos recebeu o Selo de 
+Instituição Socialmente Responsável.  Esse selo premia o trabalho de desenvolvimento 
+de competências proposto no programa Fatec Ipiranga se Importa e o Projeto 
+Identidades, trazendo uma discussão, por meio de vídeos elaborados pelos alunos, de 
+questões relevantes para a constituição da identidade social dos alunos, como por 
+exemplo sexualidade e memória.  Os alunos convidam a comunidade, mas a resposta 
+não é muito significativa. Diante do exposto é possível concluir que os alunos não têm 
+a percepção de que essas ações são idealizadas para toda a comunidade acadêmica 
+(interna e externa) da Fatec Ipiranga.  
+29 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
+ 
+Em relação à questão 6, o resultado não é positivo, uma vez que somente 22,65%  dos 
+alunos avaliaram ser “frequente” a interação da Fatec Ipiranga com os setores públicos 
+e privados, enquanto 55,14% consideram que esta interação é “ocasional” e 22,21% 
+que a Fatec Ipiranga “não tem interação com os setores públicos e privados”. Esta 
+análise será apresentada para a Presidência da CEPE, com a intenção de oportunizar 
+a divulgação das parcerias e ações desenvolvidas pela unidade.  
+ 
+ 
+ 
+30 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
+ Perfil Docente 
+No perfil Docente os resultados são positivos para as questões 5 e 6.  Na 5, que trata 
+da participação da comunidade externa nas atividades da Fatec Ipiranga, 65,66% 
+avaliaram como “Elevado e Constante”, enquanto 33,33% “Baixo ou Eventual”, sendo 
+que apenas 1,01% considera “não existir”.  
+ 
+Já para a questão 6, 66,69% avaliaram que a interação acontece de forma “Frequente” 
+enquanto 30,30% que é “Ocasional”, e apenas 1,01% avaliaram como ausente as 
+interações”.  
+ 
+31 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
+ 
+Perfil Administrativo 
+ 
+No perfil administrativo, no que tange à Questão 5, 59,09% avaliaram que a 
+participação da comunidade externa é “Elevado e Constante”, enquanto 40,91% “Baixo 
+e Eventual”.  Esse resultado demonstra que as ações realizadas na Fatec Ipiranga 
+devem envolver mais o corpo administrativo.  
+ 
+ 
+ 
+Em relação à questão 6, 63,64% do corpo administrativo avaliaram como “Frequente” 
+a interação com os setores públicos e privado, enquanto 27,27% “Ocasional” e apenas 
+9,09% avaliaram como “ausente” as interações.  
+ 
+ 
+ 
+32 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
+Diante da análise comparativa entre os três perfis, é possível afirmar que os 
+resultados são positivos, necessitando apenas de melhorias nas ações de divulgação 
+e no engajamento de cada um dos perfis. 
+ 
+ 
+ 
+O Plano de Desenvolvimento institucional (Ano 2022 – Ano 2026) foi um dos principais 
+documentos que nortearam as ações da Fatec Ipiranga Pastor Enéas Tognini; tratou-
+se de um documento que se caracterizou como uma identidade da Instituição, 
+definindo, dentre outros, sua filosofia de trabalho, missão, estratégias, objetivos, 
+estrutura e diretrizes pedagógicas, algo a ser continuado no PDI para os anos de 
+XXXX - XXXX.  
+ 
+O Projeto Pedagógico Institucional (PPI) é um instrumento de natureza 
+filosófica, política e teórico-metodológica que norteia a prática didático-pedagógica, 
+administrativa e tecno-científica da instituição, propondo diretrizes articuladas entre as 
+diversas dimensões do ensino, pesquisa, extensão e inovação, não esquecendo dos 
+valores éticos, morais e humanos em geral, bem como de sua vocação, missão, visão 
+e objetivos gerais e específicos. 
+A Missão, Visão, Valores, Princípios, Objetivos e Diretrizes Estratégicas (CPS, 
+2016) podem ser consideradas como os principais rumos da Instituição, definindo 
+seus propósitos e objetivos, onde deseja chegar a longo prazo, dando norte para onde 
+seguir, para que a organização obtenha êxito em seus intentos. 
 33 
-Relatório de Autoavaliação Institucional da Fatec P. Grande – 2023 
- 
- 
-em redes sociais da Instituição. 
- 
- 
-QUESTÃO 4 – Considerando a quantidade de projetos de pesquisa que você tem 
-conhecimento, o impacto da pesquisa no desenvolvimento local e regional e a 
-articulação da unidade com os setores produtivos para o desenvolvimento de 
-tecnologias inovadoras, como você avalia o nível das atividades de pesquisa na 
-sua unidade de ensino? 
  
  
  
-Apenas 38,4% dos dissentes conhece e aprova os projetos de pesquisa da unidade. 
-Ainda quanto ao tema, 35,2% entende como baixa a atividade de pesquisa na unidade 
-e mais 25,40% não conhece ou entende que não existe. Ou seja, do corpo discente 
-60.60% dos discentes apresenta um olhar negativo com relação aos projetos de 
-pesquisa. Para melhorar este indicador, a CPA sugere: 
-• 
-A facilitação para efetivação de novos projetos, tornando-os de conhecimento dos 
-discentes, através do envolvimento dos mesmos. 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
+ 
+Missão: Promover a educação profissional pública dentro de referenciais de 
+excelência, visando ao atendimento das demandas sociais e do mundo do trabalho 
+Localizada em bairro com o perfil econômico voltado ao setor de serviços e 
+comércio, a Fatec Ipiranga tem formado profissionais com excelência e que tem 
+galgado postos em grandes empresas em toda a cidade. 
+A Fatec Ipiranga tem se notabilizado por incrementar ações que visam atender 
+à comunidade externa em várias frentes. Podemos citar, por exemplo, a consultoria 
+para o preenchimento da declaração do Imposto de Renda, a consultoria jurídica no 
+que tange igualdade social e racial, ações educativas sobre o correto descarte de 
+detritos domiciliares, além de eventos voltados para idosos e crianças, que formam 
+parte do Projeto Integrador do Curso de Eventos. É preciso destacar também o 
+oferecimento de Oficina de Libras, por meio digital, que tem tido bastante procura da 
+comunidade. Às oficinas de inclusão social para a Terceira Idade estão previstas para 
+retornar no segundo semestre de 2024  
+ 
+ 
+ 
+ 
+ 
+ 
  
  
  
@@ -2323,306 +2652,319 @@ discentes, através do envolvimento dos mesmos.
  
  
 34 
-Relatório de Autoavaliação Institucional da Fatec P. Grande – 2023 
- 
- 
-QUESTÃO 7 – Como você avalia o acesso às Resoluções, Normas Acadêmicas, 
-Legislação, planos de ensino, planos de aula, planos de gestão e calendários de 
-atividades da instituição? 
  
  
  
-Os dissentes, de acordo com o gráfico, avaliaram, na sua maioria, ou seja, 80,73% 
-positivamente o acesso às Resolulção, normas acâdemica, legislçaão, planos de 
-ensino, planos de aula, planos de gestão e o calendário. Para melhorar este indicador, 
-a CPA sugere: 
-• 
-Maior divulgação dos itens relacionados na questão através da publicação dos itens 
-no site institucional; 
-• 
-Apresentação dos planos de ensino  e das legislações aos docentes para que estes 
-informem os discentes. 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
+3.3 
+Eixo 3: Políticas Acadêmicas 
  
+Dimensão 2: Políticas para o Ensino, a Pesquisa e a Extensão 
+Dimensão 4: Comunicação com a Sociedade 
+Dimensão 9: Política de Atendimento aos Discentes 
  
+EIXO 
+3 – Políticas Acadêmicas 
+Dimensão 
+SINAES 
+2, 4 e 9 
+APRESENTAÇÃO DAS PRINCIPAIS INFORMAÇÕES COLETADAS NO EIXO 
+Dimensão 2: Políticas para o Ensino, a Pesquisa e a Extensão, nesta dimensão 
+as questões relacionadas são a 3 e 4 para os três perfis. 
+Perfil Discente  
+Na Questão 3, que trata do domínio dos conteúdos pelo corpo discente, uso de 
+metodologias entre outros aspectos, 82,06% avaliaram como “Excelente e Bom”, 
+enquanto 15,65%  como “Regular” e apenas 2,30% “Insuficiente”. Diante do exposto, 
+considera-se este resultado positivo. Além disso, demonstra o resultado das ações das 
+coordenações de cursos, no assessoramento e acompanhamento das atividades 
+docentes, tais como: reuniões de planejamento, validação e acompanhamento da 
+execução dos planos de ensino e reuniões com o NDE. 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+Na Questão 4, que trata da quantidade de projetos de pesquisa desenvolvidos na Fatec 
+Ipiranga, 34,79% avaliaram ser “Elevado”, enquanto 33,67% avaliaram como “Baixo 
+ou Não existe” e 30,63% “Não conhece”. Diante desses percentuais é possível notar a 
+necessidade de ampliar a divulgação das ações executadas pela CEPE, uma vez que 
+esta desenvolve Projetos de Iniciação Científica e Tecnológica, Projetos Colaborativos 
 35 
-Relatório de Autoavaliação Institucional da Fatec P. Grande – 2023 
- 
- 
-QUESTÃO 8 – Considerando os canais de comunicação tais como site oficial da 
-Fatec, publicações nos murais, informações no SIGA, Ouvidoria, mídias 
-sociais/digitais, jornais e rádio, como você avalia os meios e sistemas de 
-comunicação interna? 
  
  
  
-Os discentes, de acordo com o gráfico, avaliaram, na sua maioria, ou seja,70% 
-positivamente os meios e sistemas de comunicação interna, contudo a CPA, no intuito 
-de melhorar esse indicador sugere: 
-• 
-Uma ampliação dos meios de  divulgação, utilizando, não apenas o site 
-institucional, mas também, revigorando os murais, e a utilização das mídias sociais 
-como um todo. 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
+Internacionais entre outros. Ou seja, existem projetos, porém os discentes os 
+desconhecem.  
  
-QUESTÃO 3 – Com relação à missão institucional do Centro Paula Souza de: 
-‘Promover a educação pública profissional e tecnológica dentro de referenciais 
-de excelência, visando o desenvolvimento tecnológico, econômico e social do 
-Estado de São Paulo’, como você avalia o cumprimento deste item por parte da 
-unidade de ensino: (administrativo) 
- 
- 
- 
+Perfil Docente 
+A Questão 5, para o perfil Docente pode não representar a realidade, uma vez que a 
+Fatec Ipiranga tem inúmeros professores e nem todos se conhecem e podem avaliar 
+se o colega domina o conteúdo ou utiliza metodologias adequadas. Mesmo não 
+considerando esta questão como possiblidade de indicar ações de melhoria, a análise 
+que se dá é: 97,98% avaliaram como “Excelente e Bom” o domínio de conteúdo e uso 
+de metodologias, sendo que apenas 2,02% avaliaram como “Regular”.  
 36 
-Relatório de Autoavaliação Institucional da Fatec P. Grande – 2023 
- 
- 
-A grande maioria dos servidores administrativos avalia  positivamente a missão 
-institucional do Centro Paula Souza  como excelente e boa. Contudo, os demais pontos 
-do grafico demonstram um mcerto desconhecimento pelos discentes sobre o tema, 
-mesmo com todas as visitas dos membros da CPA nas salas de aula. Para melhorar 
-este indicador, a CPA sugere: 
-• 
-Publicação da missão institucional no site institucional; 
-• 
-Apresentação, analise e discussão da missão junto aos servidores, a fim de gerar 
-maior conhecimento e conscientização. 
- 
- 
-QUESTÃO 4 – Considerando a quantidade de projetos de pesquisa que você tem 
-conhecimento, o impacto da pesquisa no desenvolvimento local e regional e a 
-articulação da unidade com os setores produtivos para o desenvolvimento de 
-tecnologias inovadoras, como você avalia o nível das atividades de pesquisa na 
-sua unidade de ensino? (administrativo) 
  
  
  
-A grande maioria dos servidores avaliam positivamente a atividade de pesquisa na 
-unidade. Para melhorar este indicador, a CPA sugere: 
-• 
-A facilitação para efetivação de novos projetos, tornando-os de conhecimento dos 
-discentes, através do envolvimento dos mesmos. 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
  
- 
-QUESTÃO 7 – Como você avalia o acesso às Resoluções, Normas Acadêmicas, 
-Legislação, planos de ensino, planos de aula, planos de gestão e calendários de 
-atividades da instituição? (administrativo) 
- 
- 
- 
-Os servidores que laboram junto ao administrativo da unidade dissentes, de acordo com 
+Na Questão 4, que trata dos projetos de pesquisa, 57,58% avaliaram ser “Elevado”, 
+enquanto 28,28% “Baixo”, 2,02% “Não existe” e 12,12% “Não souberam responder”. 
+Diante desses percentuais, as ações relacionadas ao compartilhamento dos projetos 
+realizados pela CEPE se faz necessária para o Corpo Docente também.  
+Perfil Administrativo 
+As questões 3 e 4 não são pertinentes para o perfil Administrativo, pois muitos 
+funcionários não têm contato com os docentes e não têm como fazer uma efetiva 
+avaliação. Essas questões deveriam levar em consideração quem é o cliente, ou seja, 
+quem é o ator que recebe o serviço. Nesse caso, apenas os discentes. Por essa razão, 
 37 
-Relatório de Autoavaliação Institucional da Fatec P. Grande – 2023 
- 
- 
-o gráfico, avaliaram, na sua maioria, positivamente o acesso às Resolução, normas 
-acadêmicas, legislação, planos de ensino, planos de aula, planos de gestão e o 
-calendário. Para melhorar este indicador, a CPA sugere: 
-• 
-Maior divulgação dos itens relacionados na questão através da publicação dos itens 
-no site institucional; 
-• 
-Apresentação das resoluções em reuniões da direção e da CPA junto a estes, a fim 
-de dar conhecimento e possibilitar a análise. 
- 
- 
-QUESTÃO 8 – Considerando os canais de comunicação tais como site oficial da 
-Fatec, publicações nos murais, informações no SIGA, Ouvidoria, mídias 
-sociais/digitais, jornais e rádio, como você avalia os meios e sistemas de 
-comunicação interna? (administrativo) 
  
  
  
-Os servidores que laboram junto ao administrativo da unidade dissentes, de acordo com 
-o gráfico, avaliaram, na sua maioria, positivamente o acesso às Resolução, normas 
-acadêmica, legislação, planos de ensino, planos de aula, planos de gestão e o 
-calendário. Para melhorar este indicador, a CPA sugere: 
-• 
-Maior divulgação dos itens relacionados na questão através da publicação dos itens 
-no site institucional; 
-• 
-Apresentação das resoluções em reuniões da direção e da CPA junto a estes, a fim 
-de dar conhecimento e possibilitar a analise. 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
+no plano de gestão e de melhorias, será empregada apenas a análise referente ao 
+perfil detalhado Coordenador de Curso. 
+A análise do Perfil Administrativo, de forma geral, obteve um resultado positivo, uma 
+vez que 95,45% avaliaram como “Excelente e Bom” e apenas 4,55% “Regular”.   
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+Em relação à questão 4 para o perfil administrativo, esta questão não tem aderência, 
+uma vez que alguns funcionários não interagem com os docentes.  Destaca-se que 
+27,27% afirmaram que “Não conhecem os projetos de pesquisa”, enquanto 4,55% 
+afirmaram que não existemr, 27,27% relataram ser “Baixo” e 40,91% “Elevado”.  
  
 38 
-Relatório de Autoavaliação Institucional da Fatec P. Grande – 2023 
- 
- 
-QUESTÃO 15 – Considerando a metodologia para reforço ou recuperação de 
-aprendizagem, como você avalia os programas de apoio pedagógico? 
  
  
  
-Os servidores que laboram na administração da unidade avaliam positivamente, ou seja, 
-95,83, os programas de apoio pedagógico.. Para melhorar este indicador, a CPA sugere: 
-• 
-Possibilitar uma maior discussão sobre as possibilidades de apoio pedagógico. 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
+Perfil Administrativos/Perfil Detalhado: Coordenador de Curso  
+Ao analisar a questão 3, levando em consideração apenas as respostas dos 
+coordenadores de curso, nota-se que os percentuais são melhores, uma vez que 
+66,67% avaliaram como “Excelente” e 33,33% “Bom”. Os coordenadores, assim como 
+os alunos, são os atores que podem  e devem avaliar se o corpo docente domina o 
+conteúdo, emprega metodologias e recursos inovadores, já que são eles que avaliam 
+os planos de ensino e planos de aulas. Além disso, eles também recebem constantes 
+feedbacks dos alunos.  
  
- 
-QUESTÃO 16 – Como você avalia o acesso às Resoluções, Normas Acadêmicas, 
-Legislação, planos de ensino, planos de aula, planos de gestão e calendários de 
-atividades da instituição? 
- 
- 
- 
-Os servidores que laboram na administração da unidade avaliam positivamente. Para 
-melhorar este indicador, a CPA sugere: 
-• 
-Possibilitar uma maior discussão junto aos docentes sobre novas possibilidades 
-sobre o tema. 
- 
- 
-QUESTÃO 3 – Com relação à missão institucional do Centro Paula Souza de: 
-‘Promover a educação pública profissional e tecnológica dentro de referenciais 
-de excelência, visando o desenvolvimento tecnológico, econômico e social do 
-Estado de São Paulo’, como você avalia o cumprimento deste item por parte da 
-unidade de ensino: (docente) 
- 
+Na questão 4, onde é avaliada a quantidade de projetos de pesquisa, quando a análise 
+é realizada apenas pelos coordenadores de curso, as respostas “Não existe” ou “Não 
+conheço” não aparecem como alternativas, ocasionando uma distorção na análise 
+geral. Os resultados obtidos apenas com as respostas dos coordenadores é: 33,33% 
+consideram “Elevado” enquanto 66,67% “Baixo”.   
 39 
-Relatório de Autoavaliação Institucional da Fatec P. Grande – 2023 
  
  
  
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
  
  
-A grande maioria dos docentes avalia positivamente a missão institucional do Centro 
-Paula Souza como excelente e boa. Contudo, os demais pontos do gráfico demonstram 
-um certo desconhecimento pelos discentes sobre o tema, mesmo com todas as visitas 
-dos membros da CPA nas salas de aula. Para melhorar este indicador, a CPA sugere: 
-• 
-Publicação da missão institucional no site institucional; 
-• 
-Apresentação, análise e discussão da missão junto aos servidores, a fim de gerar 
-maior conhecimento e conscientização. 
- 
- 
-Questão 4 – Considerando a quantidade de projetos de pesquisa que você tem 
-conhecimento, o impacto da pesquisa no desenvolvimento local e regional e a 
-articulação da unidade com os setores produtivos para o desenvolvimento de 
-tecnologias inovadoras, como você avalia o nível das atividades de pesquisa na 
-sua unidade de ensino? (docente) 
- 
- 
- 
-A grande maioria dos servidores avaliam positivamente a atividade de pesquisa na 
-unidade, sendo que apenas 2,5% entendem como insuficiente. Para melhorar este 
-indicador, a CPA sugere: 
-• 
-A facilitação para efetivação de novos projetos, tornando-os de conhecimento dos 
-discentes, através do envolvimento dos mesmos, fomentando, assim, novas ideias e 
-projetos. 
- 
- 
-QUESTÃO 7 – Como você avalia o acesso às Resoluções, Normas Acadêmicas, 
-Legislação, planos de ensino, planos de aula, planos de gestão e calendários de 
-atividades da instituição? (docentes) 
+Dimensão 4: Comunicação com a Sociedade 
+Perfil Discente 
+As Questões 7 e 8 estão vinculadas ao perfil dos Discentes e tratam a qualidade da 
+comunicação com a Sociedade. Ao analisar os resultados é possível notar que: 77,87 
+avaliaram como “Excelente e Bom”, 18,60%  como “Regular” e apenas 2,75% 
+“Insuficiente”. Este resultado é considerado positivo, porém a questão pode gerar 
+distorções, uma vez que o acesso a tais informações é realizado de maneiras e meios 
+diferentes. 
+As 
+Resoluções, 
+Normas, 
+Legislação, 
+Planos 
+de 
+Gestão 
+são 
+disponibilizados no site. Já os planos de ensino, planos de aula e calendários são 
+apresentados pelos professores e disponibilizados no SIGA. Ou seja, algumas dessas 
+informações são apresentadas de forma passiva e outra de forma ativa. Além disso, a 
+divulgação e disponibilização são feitas por atores diferentes e em momentos 
+diferentes.  Diante do exposto, os resultados desta questão se transformarão em 
+diferentes ações de divulgação.  
 40 
-Relatório de Autoavaliação Institucional da Fatec P. Grande – 2023 
  
  
  
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
  
+Na questão 8, que avalia os canais de comunicação da Fatec Ipiranga, 66,52% 
+avaliaram como “Excelente e Bom”, 23,74% “Regular”, 8,75% “Insuficiente” e apenas 
+0,987% “Não souberam responder”.  
  
-Os professores, de acordo com o gráfico, avaliaram, na sua maioria, positivamente o 
-acesso às Resolução, normas acadêmicas, legislação, planos de ensino, planos de 
-aula, planos de gestão e o calendário, posto que apenas, 2,5% entendem esse item 
-como insuficiente. Para melhorar este indicador, a CPA sugere: 
-• 
-Maior divulgação dos itens relacionados na questão através da publicação destes 
-no site institucional; 
-• 
-Apresentação das resoluções em reuniões da direção e da CPA junto a estes 
-servidores, a fim de dar maior conhecimento e possibilitar a análise. 
- 
-QUESTÃO 8 – Considerando os canais de comunicação tais como site oficial da 
-Fatec, publicações nos murais, informações no SIGA, Ouvidoria, mídias 
-sociais/digitais, jornais e rádio, como você avalia os meios e sistemas de 
-comunicação interna? (docentes) 
- 
-Os docentes, de acordo com o gráfico, avaliaram, na sua maioria, positivamente os 
-meios e sistemas de comunicação interna, contudo a CPA, no intuito de melhorar esse 
-indicador sugere: 
-• 
-Uma ampliação dos meios de divulgação, utilizando, não apenas o site institucional, 
-mas também, revigorando os murais, e a utilização das mídias sociais como um todo, 
-além de estreitar ainda mais os meios de comunicação entre a direção e os docentes. 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Questão 15 – Considerando a metodologia para reforço ou recuperação de 
-aprendizagem, como você avalia os programas de apoio pedagógico? (docentes) 
+Perfil Docente 
+Quanto ao perfil docente, em relação à questão 7,  97,98% avaliaram como “Excelente 
+e Bom”, sendo que apenas 2,02% avaliaram como Regular. Este resultado é 
+extremamente positivo, sendo um reflexo da gestão realizada pela direção e 
+coordenadores de cursos.  
 41 
-Relatório de Autoavaliação Institucional da Fatec P. Grande – 2023 
  
  
  
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
+ 
+A questão 8 referente aos Canais de Comunicação, 93,94 % do Corpo Docente 
+avaliaram como “Excelente e Bom”, sendo que apenas 6,06% afirmaram “Regular”.  
  
  
-Os docentes da unidade avaliam positivamente, os programas de apoio pedagógico. 
-Para melhorar este indicador, a CPA sugere: 
-• 
-Possibilitar uma maior discussão junto aos docentes sobre novas possibilidades de 
-apoio pedagógico. 
- 
-QUESTÃO 16 – Como você avalia o acesso às Resoluções, Normas Acadêmicas, 
-Legislação, planos de ensino, planos de aula, planos de gestão e calendários de 
-atividades da instituição? (docentes) 
- 
- 
- 
-Os servidores que laboram na administração da unidade avaliam positivamente. Para 
-melhorar este indicador, a CPA sugere: 
-• 
-Possibilitar uma maior discussão junto aos docentes sobre novas possibilidades 
-sobre o tema. 
- 
- 
- 
- 
- 
+Perfil Administrativo 
+No Perfil Administrativo, a questão 7 pode apresentar alguma inconsistência no 
+resultado, pois a maioria dos funcionários administrativos não possuem acesso aos 
+planos de Ensino e de Aulas, uma vez que tais atividades não são pertinentes a função 
 42 
-Relatório de Autoavaliação Institucional da Fatec P. Grande – 2023 
  
  
  
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
+por eles exercida. Por esta razão a análise foi realizada no perfil detalhado 
+Coordenadores de Curso.  
+ 
+Na questão 8, apenas 4,55% avaliaram os canais de comunicação  como  
+“Insuficientes”, enquanto 95,45% “Excelente e Bom”.  
+ 
+Perfil Administrativo/Perfil Detalhado: Coordenador de Curso  
+Na questão 7, em relação ao perfil detalhado do Coordenador de Curso, os resultados 
+são: 33,33% avaliaram como “Excelente” enquanto 66,67% “Bom”.  Os resultados são 
+43 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
+diferentes, uma vez que os coordenadores precisam acessar estas informações em 
+bases diferentes.  
+ 
+ 
+ 
+Dimensão 9: Política de Atendimento aos Discentes 
+Perfil Discente 
+Na questão 14 é avaliada a política de participação dos estudantes em atividades de 
+pesquisa, sendo que 50,77% avaliaram como “Excelente e Bom”, 32,06% “Regular”, 
+14,11% “Insuficiente” e 3,06% afirmaram que “Não há”. Cabe ressaltar que esta 
+questão é exclusiva para o perfil dos Discentes. Ao considerar os extremos: positivo e 
+negativo, conclui-se que existe a necessidade de melhorar as ações de divulgação da 
+CEPE e demais atividades realizadas na Fatec Ipiranga para os alunos.  
+44 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
+ 
+ 
+ 
+Na questão 5, em que se avalia a percepção dos discentes sobre as monitorias e 
+metodologias para reforço e recuperação de aprendizagem, 4,70% dos discentes 
+avaliaram que “não há”. No entanto, esse percentual apesar de baixo, indica que há 
+uma falha na comunicação, uma vez que todos os cursos oferecem programas de 
+monitoria. Ao avaliarmos os outros resultados observou-se que: 55,91% dos docentes 
+avaliaram como “Excelente e Bom”, 29,43% “Regular” e 9,60% “Insuficiente”. Os 
+coordenadores divulgam semestralmente ao corpo discente os editais para seleção de 
+monitores e depois da finalização do processo de seleção é divulgado as disciplinas 
+elencadas e os monitores responsáveis. Contudo, dependendo da disciplina a procura 
+de alunos interessados para a realização da monitoria é baixa ou inexistente. 
+ 
+ 
+45 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
+ 
+Para o formulário dos Servidores da Fatec, nos perfis Docente e Administrativo, as 
+questões relacionadas à dimensão 9 são as 15 e 16.  
+ 
+Perfil Docente 
+Na questão 15 é avaliada a percepção do corpo docente acerca da participação dos 
+alunos nas atividades de pesquisa, sendo que: 56,20% avaliaram como “Excelente e 
+Boa” 23,14% “Regular”, 7,44% “Insuficiente” e 13,22% “Não sabem responder”.  
+ 
+ 
+ 
+ 
+Na Questão 16 é avaliada a opinião do corpo docente sobre os programas de 
+monitorias, metodologias para reforço ou recuperação de aprendizagem, sendo que 
+46 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
+83,47% do corpo docente avaliaram como “Excelentes e Bons”, 11,57% “Regulares” e 
+apenas 4,96% avaliaram como “Insuficientes”.  
+ 
+ 
+Perfil Administrativo 
+ 
+As Questões 15 e 16 no formulário dos Servidores Fatec no perfil Administrativo não 
+podem ser utilizadas como indicadores para tomada de decisão, uma vez que a 
+maioria dos funcionários administrativos não interagem com os discentes e os 
+programas mencionados. Cabe ressaltar que por mais que os coordenadores de 
+cursos façam parte desse perfil, a percepção deles não é numericamente expressiva. 
+Sendo assim, será levada em consideração apenas a análise do perfil detalhado, 
+selecionando os coordenadores de curso.  
+Em relação a questão 15, 9,09% avaliaram como “Excelente”, 36,36% “Boa”, 18,18% 
+“Regular”, 9,09% “Insuficiente” e 27,27% “Não souberam responder”.  
+ 
+47 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
+ 
+ 
+Na Questão 16, referente a Monitoria 90,91% avaliaram como “Excelentes e Bons”, 
+enquanto 4,55% “Regulares” e  4,55% “Insuficientes”.  
+ 
+ 
+ 
+ 
+Perfil Administrativo/Perfil Detalhado: Coordenador de Curso 
+ 
+A análise do perfil detalhado Coordenador de Curso FATEC, demonstra que o 
+percentual que avaliaram como “Boa” a política de participação dos estudantes nas 
+atividades de pesquisa é de 33,33% enquanto 66,67% avaliaram como “Regular”.  Ao 
+comparar com a análise do perfil Administrativo nota-se a diferença dos percentuais, 
+evidenciando a necessidade de um perfil para servidores que realizam atividades, 
+48 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
+exclusivamente administrativas e outro para servidores que realizam atividades 
+administrativas, acadêmicas e pedagógicas como é o caso dos coordenadores de 
+curso nas Fatecs .  
+ 
+ 
+A mesma diferença ocorre quando se analisa a percepção dos coordenadores quanto 
+a monitoria. No perfil detalhado apenas 16,67% avaliaram como “Excelente” enquanto 
+83,33% avaliaram como “Bons”.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+49 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
 3.4 
 Eixo 4: Políticas de Gestão 
+ 
 Dimensão 5: Políticas de Pessoal 
 Dimensão 6: Organização e Gestão da Instituição 
 Dimensão 10: Sustentabilidade Financeira 
@@ -2632,168 +2974,124 @@ EIXO
 Dimensão 
 SINAES 
 5, 6 e 10 
- 
 APRESENTAÇÃO DAS PRINCIPAIS INFORMAÇÕES COLETADAS NO EIXO 
+Dimensão 5: Política de Pessoal, esta dimensão está relacionada a questão 9 
+apenas no perfil  Docente e Administrativo. 
+Essa questão está relacionada à Administração Central, uma vez que a Unidade não 
+tem autonomia para propor alterações no quadro de pessoal. No entanto, o resultado 
+da análise dessa questão pode ser utilizado na propositura de ações para mitigar o 
+descontentamento dos docentes, criando um clima organizacional amigável, respeitoso 
+e de pertencimento.  
+Perfil Docente 
  
-QUESTÃO 9 – A equipe gestora da unidade é reconhecida como uma liderança 
-capaz de conduzir as ações de melhoria das condições de ensino? 
- 
- 
- 
-Cerca de 80% dos alunos veem positivamente a equipe gestora da unidade, com uma 
-liderança capaz de conduzir as ações de melhoria das condições de ensino. Para 
-melhorar este indicador, a CPA sugere: 
-• 
-Possibilitar uma maior discussão junto aos discentes sobre outros instrumentos de 
-gestão, de acordo com a legislação vigente. 
- 
-QUESTÃO 10 – Como você avalia a Comunicação interna da unidade de ensino, 
-entre a gestão pedagógica, gestão administrativa, gestão acadêmica e os alunos? 
- 
-43 
-Relatório de Autoavaliação Institucional da Fatec P. Grande – 2023 
+Dentre o corpo docente 20,20% avaliaram como “Plenamente Satisfatório”, 36,36% 
+“Satisfatório”, 23,23% “Pouco Satisfatório”, 17,17% “Insatisfatório” e apenas 3,03% 
+“Não souberam responder”.  
  
  
+Perfil Administrativo 
  
+Dentre 
+os 
+Servidores 
+Fatec/perfil 
+Administrativo, 
+27,27% 
+avaliaram 
+como  
+“Satisfatório”, 40,91% “Pouco Satisfatório”, e 31,82% “Insatisfatório”. 
  
-Cerca de 70% dos alunos avaliam positivamente a comunicação interna entre eles e a 
-UE, a gestão pedagógica, administrativa e acadêmica. Entretanto, a fim de melhorar 
-este indicador, a CPA sugere: 
-• 
-O fomento ao uso dos murais e aumentar o número de encontros entre os pares. 
- 
- 
-QUESTÃO 9 – A equipe gestora da unidade é reconhecida como uma liderança 
-capaz de conduzir as ações de melhoria das condições de ensino? 
-(administrativos) 
+50 
  
  
  
-Cerca de 80% dos funcionários da administração junto a unidade veem positivamente a 
-equipe gestora da unidade, com uma liderança capaz de conduzir as ações de melhoria 
-das condições de ensino. Para melhorar este indicador, a CPA sugere: 
-• 
-Possibilitar uma maior discussão junto aos discentes sobre outros instrumentos de 
-gestão, de acordo com a legislação vigente. 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
+ 
+ 
+Dimensão 6: Organização e Gestão da Instituição 
+Nesta dimensão, as questões 9 e 10 estão relacionadas ao perfil Discente e a 10 e 11 
+ao perfil Docente e Administrativo.  
+Perfil Discente 
+Na Questão 9, em que se avalia a liderança da equipe gestora, 40,92 % avaliaram que 
+a liderança ocorre de “Forma plena”, 38,84% de “Forma razoável”, 7,88% “Forma 
+insuficiente”, 7,88% avaliaram como “inexistente” e 9,63% “Não souberam responder”. 
+51 
  
  
  
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
  
- 
-44 
-Relatório de Autoavaliação Institucional da Fatec P. Grande – 2023 
- 
- 
-QUESTÃO 10 – Como você avalia a Comunicação interna da unidade de ensino, 
-entre a gestão pedagógica, gestão administrativa, gestão acadêmica e os alunos? 
-(administrativo) 
- 
- 
- 
-Mais de 80% dos funcionários ligados ao setor administrativo da unidade avaliam 
-positivamente a comunicação interna entre eles e a UE, a gestão pedagógica, 
-administrativa e acadêmica. Entretanto, a fim de melhorar este indicador, a CPA sugere: 
-• 
-Fomentar do uso dos murais e aumentar o número de encontros entre os pares. 
- 
- 
-QUESTÃO 11 – Considerando a quantidade de ambientes, disponibilidade de 
-horários, disponibilidade de recursos tecnológicos e condições de atendimento 
-às necessidades do curso, como você avalia o conjunto de laboratórios e 
-ambientes de ensinam que proporcionam atividades práticas na unidade de 
-ensino? 
- 
- 
- 
-A avaliação do conjunto de laboratórios e ambientes de ensino não foi positiva. Para 
-melhorar este indicador, a CPA sugere: 
-45 
-Relatório de Autoavaliação Institucional da Fatec P. Grande – 2023 
- 
- 
-• 
-A solicitação junto ao Centro Paula Souza de um maior investimento nos recurso 
-tecnológicos e perante os laboratórios 
- 
- 
-QUESTÃO 9 – A equipe gestora da unidade é reconhecida como uma liderança 
-capaz de conduzir as ações de melhoria das condições de ensino? (docentes) 
- 
- 
- 
-Mais de 90% dos docentes veem positivamente a equipe gestora da unidade, com uma 
-liderança capaz de conduzir as ações de melhoria das condições de ensino. Para 
-melhorar este indicador, a CPA sugere: 
-• 
-Possibilitar uma maior discussão junto aos discentes sobre outros instrumentos de 
-gestão, de acordo com a legislação vigente. 
- 
- 
-QUESTÃO 10 – Como você avalia a Comunicação interna da unidade de ensino, 
-entre a gestão pedagógica, gestão administrativa, gestão acadêmica e os alunos? 
-(docentes) 
- 
- 
- 
-Mais de 90% dos professores da UE avaliam positivamente a comunicação interna entre 
-eles e a IE, a gestão pedagógica, administrativa e acadêmica. Entretanto, a fim de 
-melhorar este indicador, a CPA sugere: 
-• 
-O fomento ao uso dos murais e aumentar o número de encontros entre os pares. 
+Em relação à questão 10, 68,05 % avaliaram como “Excelente e Boa”, 21,12% 
+“Regular”, 5,58% “Insuficiente” e apenas 5,25% “Não souberam responder”.  
  
  
  
  
  
  
-QUESTÃO 11 – Considerando a quantidade de ambientes, disponibilidade de 
-46 
-Relatório de Autoavaliação Institucional da Fatec P. Grande – 2023 
- 
- 
-horários, disponibilidade de recursos tecnológicos e condições de atendimento 
-às necessidades do curso, como você avalia o conjunto de laboratórios e 
-ambientes de ensinam que proporcionam atividades práticas na unidade de 
-ensino? (docentes) 
+52 
  
  
  
-A avaliação do conjunto de laboratórios e ambientes de ensino não foi positiva. Para 
-melhorar este indicador, a CPA sugere: 
-• 
-A solicitação junto ao Centro Paula Souza de um maior investimento nos recurso 
-tecnológicos e perante os laboratórios. 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
+Perfil Docente 
+73,74% dos docentes avaliaram que a equipe gestora conduz as ações de “Forma 
+plena” enquanto 26,26% de” Forma razoável”.  
+ 
+Na Questão 10 é avaliada a qualidade da comunicação interna:  97,98% dos docentes 
+avaliaram como “Excelente e Boa”, sendo que apenas 2,02% “Regular”.  
+ 
+Perfil Administrativo 
+53 
  
  
-47 
-Relatório de Autoavaliação Institucional da Fatec P. Grande – 2023 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
+Dentre os servidores administrativos da Fatec Ipiranga, 72,73% avaliaram que a 
+liderança da equipe gestora ocorre de “Forma plena”, 22,73% que ocorre de “Forma 
+razoável” e 4,55% “Não reconhecem a liderança”.  
+ 
+Quanto à comunicação interna, 95,45% avaliaram como “Excelente e Boa” e apenas 
+4,55% como “Insuficiente”.  
+ 
+Dimensão 10: Sustentabilidade Financeira 
+Não tem nenhuma questão vinculada a esta dimensão.  
  
  
  
  
+54 
  
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
 3.5 
 Eixo 5: Infraestrutura Física 
+ 
 Dimensão 7: Infraestrutura Física 
+ 
 EIXO 
 5 – Infraestrutura Física 
 Dimensão 
 SINAES 
 7 
 APRESENTAÇÃO DAS PRINCIPAIS INFORMAÇÕES COLETADAS NO EIXO 
+Na Dimensão 7, para o perfil discentes estão relacionadas as questões 11 e 12, 
+enquanto para os perfis: Docente e Administrativo, as questões são as 12 e 13. 
  
-QUESTÃO 11 – Considerando a quantidade de ambientes, disponibilidade de 
-horários, disponibilidade de recursos tecnológicos e condições de atendimento 
-às necessidades do curso, como você avalia o conjunto de laboratórios e 
-ambientes de ensinam que proporcionam atividades práticas na unidade de 
-ensino? (alunos) 
+Perfil Discente 
  
- 
-Mais de 30% dos discentes avaliam o conjunto de laboratórios e ambientes de ensino 
-negativamente. Para melhorar este indicador, a CPA sugere: 
-• 
-A solicitação junto ao Centro Paula Souza de um maior investimento nos recurso 
-tecnológicos e perante os laboratórios. 
+A questão 11, relacionada a qualidade dos ambientes e disponibilidade de recursos 
+tecnológicos, 19,26% avaliaram como “Excelente”, 33,92% “Bom”, 28,23% “Regular” e 
+18,60% como “Insuficiente”. Ao analisar esses percentuais, constatou-se que 
+aproximadamente 50% dos discentes não estão satisfeitos. Esse alto índice de 
+insatisfação é reflexo da falta de atualização dos equipamentos e melhoria das 
+instalações físicas.  
  
  
  
@@ -2802,563 +3100,421 @@ tecnológicos e perante os laboratórios.
  
  
  
-48 
-Relatório de Autoavaliação Institucional da Fatec P. Grande – 2023 
- 
- 
- 
-QUESTÃO 12 – Considerando o tamanho em relação à quantidade de alunos, 
-assim como as condições de iluminação e conforto térmico (ventilação ou 
-climatização), como você avalia a condição das salas de aula da unidade de 
-ensino? 
- 
- 
- 
-Mais de 50% dos discentes avaliam negativamente as condições de iluminação e o 
-conforto térmico das salas de aula. Para melhorar este indicador, a CPA sugere: 
-• 
-A solicitação junto ao Centro Paula Souza de um maior investimento na estrutura 
-da unidade. 
- 
- 
-QUESTÃO 12 – Considerando o tamanho em relação à quantidade de alunos, 
-assim como as condições de iluminação e conforto térmico (ventilação ou 
-climatização), como você avalia a condição das salas de aula da unidade de 
-ensino? (administrativo) 
- 
- 
- 
-A avaliação da infraestrutura das salas de aula não foi positiva junto ao administrativo, 
-no que tange a iluminação e o conforto térmico das salas de aula. Para melhorar este 
-indicador, a CPA sugere: 
-49 
-Relatório de Autoavaliação Institucional da Fatec P. Grande – 2023 
- 
- 
-• 
-A solicitação junto ao CPS de um maior investimento na estrutura da unidade. 
- 
-QUESTÃO 13 – Como você avalia o uso dos indicadores da Avaliação Institucional 
-(WEBSAI) no Planejamento Institucional? 
- 
- 
- 
-A avaliação dos indicadores no planejamento institucional foi feita de forma positiva 
-pelos funcionários que compõem o quadro administrativo da unidade.  Para melhorar 
-este indicador, a CPA sugere: 
-• 
-Maior divulgação e explicação dos indicadores e o quanto as respostas são 
-relevantes para a melhoria da unidade. 
- 
- 
-QUESTÃO 12 – Considerando o tamanho em relação à quantidade de alunos, 
-assim como as condições de iluminação e conforto térmico (ventilação ou 
-climatização), como você avalia a condição das salas de aula da unidade de 
-ensino? (docentes) 
- 
- 
- 
-A avaliação da infraestrutura das salas de aula foi positiva junto aos docentes, no que 
-tange a iluminação e o conforto térmico das salas de aula. Para melhorar este indicador, 
-a CPA sugere: 
-• 
-A solicitação junto ao Centro Paula Souza de um maior investimento na estrutura 
-da unidade. 
  
  
  
  
+55 
  
  
  
-50 
-Relatório de Autoavaliação Institucional da Fatec P. Grande – 2023 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
+Na questão 12, apenas 11% avaliaram como “Excelente” as condições das salas de 
+aula, enquanto 26,59% “Boa”. Ressalta-se que 32,82% consideram “Regular” e 29,43% 
+“Ruim”. Este alto percentual de discentes descontentes é o reflexo da necessidade de 
+melhorais das instalações, tais como troca das cortinas, instalação de novos 
+ventiladores ou ar-condicionado. 
+ 
+  
+ 
+Perfil Docente 
+ 
+Dentre os docentes 72,72% avaliaram como “Excelente e Boa” a quantidade de 
+ambientes e os recursos tecnológicos. Esse resultado é reflexo da organização e 
+gestão dos coordenadores que fazem o possível para compartilhar os ambientes 
+disponibilizados na Fatec Ipiranga. No entanto, nosso principal cliente é o aluno, sendo 
+que aproximadamente 50% deste perfil está insatisfeito. Cabe ressaltar que esta 
+percepção já foi apontada nos últimos relatórios do relatório desta Comissão. 
+ 
+56 
  
  
  
-QUESTÃO 13 – Como você avalia o uso dos indicadores da Avaliação Institucional 
-(WEBSAI) no Planejamento Institucional? (docentes) 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
+ 
+Na questão 13, na qual são consideradas as condições das salas de aulas da Fatec 
+Ipiranga, 32,32% do corpo docente avaliaram como “Excelente”, 36,36% “Boa”, 22,22% 
+“Regular” e 9,09% responderam que é “Ruim”.  Cabe ressaltar que o resultado é 
+positivo e mesmo a infraestrutura não obtendo um resultado satisfatório pelo corpo 
+discente, o corpo docente não sente tanto o impacto, pois as coordenações se 
+esforçam para mitigar as limitações existentes.  
+ 
+ 
+Perfil Administrativo  
+ 
+Dentre os Servidores Administrativos, as questões 12 e 13 não são condizentes, pois 
+não cabe aos funcionários administrativos avaliarem o conjunto de laboratórios e 
+ambientes de ensino, disponibilidade de horários e recursos tecnológicos utilizados 
+pelos cursos. Por isso, nesta dimensão, também foi considerado o perfil detalhado, 
+dando ênfase aos coordenadores de curso.  
+57 
  
  
  
-A avaliação dos indicadores no planejamento institucional foi feita de forma positiva 
-pelos docentes da unidade.  Para melhorar este indicador, a CPA sugere: 
-• 
-Maior divulgação e explicação dos indicadores e o quanto as respostas são 
-relevantes para a melhoria da unidade. 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
+Em relação à questão 12, 18,18% avaliaram como “Excelente”, 36,36% “Boa”, 31,82% 
+“Regular” e 13,64% “Insuficiente”.  
+ 
+ 
+ 
+Perfil Administrativos/Perfil Detalhado: Coordenador de Curso 
+ 
+Com a análise do perfil detalhado “ Coordenadores de Curso” conclui-se que o 
+percentual que avaliaram como “Bom” foi de apenas 16,66%, 66,67% “Regular” e 
+16,67% “Insuficiente”. Com esse detalhamento infere-se que no perfil coordenadores a 
+insatisfação é maior, pois são eles que precisam gerenciar o uso dos laboratórios e 
+salas de aulas a fim de garantir aos professores e alunos as condições mínimas para 
+o desenvolvimento das atividades acadêmicas.  
+ 
+58 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
+ 
+Na Questão 13, apenas  9,09% avaliaram como “Excelente”, 36,36% “Boa”, 31,82% 
+“Regular” e 22,73% “Ruim”.  
+ 
+ 
+ 
+Perfil Administrativo/Perfil Detalhado: Coordenador de Curso 
+ 
+Na Questão 13, o percentual que avaliou como “Bom” foi de apenas 16,67%, sendo 
+que 66,67% avaliaram como “Regular” e 16,67% “Insuficiente”. Dentre o perfil 
+coordenador de curso nota-se uma insatisfação maior quando comparada com o perfil 
+geral (Servidores Administrativos e Coordenação de Curso)  
+59 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
+ 
+ 
+ 
+ 
  
  
  
 4 
-Relatório de Autoavaliação Institucional da Fatec P. Grande – 2023 
  
  
  
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
 4. ANÁLISE DOS DADOS E AÇÕES PROPOSTAS (PGA) 
- 
  
 EIXO 
 1 - Planejamento e Avaliação Institucional 
-AÇÃO PROPOSTA 
- 
-Prazo 
+AÇÃO PROPOSTA  
+Prazo   
 Código 
 PGA 
 Título 
-115, 116, 
-117, 118, 
-119, 120 
-• Publicação do PDI no site institucional; 
-• Apresentação do PDI nos inícios de semestres letivos por 
-membros da CPA; 
-• Campanhas periódicas de conscientização dos alunos 
-através das comunicações em redes sociais da Instituição. 
+101 
+Projetos de Design Gráfico para a Fatec Ipiranga 
+20/12/2023 
+113 
+Ações de Sensibilização para a Autoavaliação WebSai 
+20/12/2023 
  
-ABRIL 
-2024 
-115, 116, 
-301, 302, 
-303, 401, 
-402, 403 
-• A CPA sugere que na reunião da Congregação o tema seja 
-abordado e que seja proposto aos docentes que as 
-atividades de pesquisa sejam realizadas com mais 
-frequência. 
-ABRIL 
-2024 
+ 
+ 
+ 
+ 
+ 
  
  
  
 EIXO 
-2 - Desenvolvimento Institucional 
-AÇÃO PROPOSTA 
- 
-Prazo 
+2 – Desenvolvimento Institucional 
+AÇÃO PROPOSTA  
+Prazo   
 Código 
 PGA 
 Título 
-115, 116, 
-117, 118, 
-119, 120 
-• A CPA propõe investigar o percentual de cerca de 12% de 
-alunos que entendem que a missão da instituição não vem 
-sendo cumprida a fim de compreender a percepção do 
-corpo discente. Sugere também, que no início de cada 
-semestre letivo, junto com a apresentação dos Planos de 
-Ensino, a missão, visão, valores da UE outros elementos 
-importantes sejam levados ao conhecimento dos alunos, 
-tornando-se uma prática. 
-• A CPA sugere que as coordenações de cursos estimulem 
-os 
-docentes 
-a 
-se desenvolverem 
-continuamente, 
-lembrando que o CPS oferece qualificações e cursos 
-constantementeque melhoram as competências dos 
-professores. A CPA sugere que Direção e Coordenadores 
-que 
-abordem 
-o 
-tema 
-nas 
-reuniões 
-realizadas 
-ABRIL 
-2024 
-5 
-Relatório de Autoavaliação Institucional da Fatec P. Grande – 2023 
- 
- 
-semestralmente a fim de reforçar o conhecimento sobre  
-documento.  
-• Também, que o mesmo esteja disponível para consulta no 
-site institucional. A CPA tambénm sugere que seja 
-desenvolvida uma cartilha para ser distribuída aos 
-docentes e funcionários contendo a documentação que 
-deve ser conhecida por todos. 
- 
-115, 116 
-• A CPA já tem agendada reunião no início de 2024 para 
-estabelecer ações que possam melhorar este indicador. 
-• A CPA sugere que haja comunicações assertivas e formais 
-acerca do que está sendo desenvolvido e de que maneiras 
-a comunidade externa tem participado. 
-• A CPA sugere que as coordenações estimulem os 
-docentes a desenvolver atividade que possam ser 
-“sentidas” pela comunidade externa e que tragam 
-benefícios 
-a 
-ela, 
-considerando 
-as 
-competências 
-desenvolvidas e exercitadas pelos alunos. 
-• A CPA propôs uma atuação mais forte da Empresa Jr., o 
-que foi ajustado com a nova coordenação do CST em 
-Gestão Empresarial que toma posse em fevereiro de 2024 
-para que haja maior intereção entre alunos e o 
-empresariado da cidade e região. 
-ABRIL 
-2024 
+101 
+Projetos de Desing Gráfico para a Fatec Ipiranga 
+20/12/2023 
+701 
+Credenciamento no Comitê da área de Tecnologia da Informação 
+20/12/2023 
 601 
-• A CPA sugere que pesquisas sejam constantemente 
-desenvolvidas a fim de fornecer o arcabouço para o 
-exercíco de competências técnicas necessárias a 
-profissional. 
-ABRIL 
-2024 
+Capacitação para os colaboradores Administrativos  
+20/12/2023 
  
  
+ 
+ 
+ 
+ 
+5 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
  
 EIXO 
 3 – Políticas Acadêmicas 
-AÇÃO PROPOSTA 
- 
-Prazo 
+AÇÃO PROPOSTA  
+Prazo   
 Código 
 PGA 
 Título 
-115, 116, 
-117, 118 
-• 
-Publicação da missão institucional no site institucional; 
-▪ 
-Apresentação da missão nos inícios de semestres letivos 
-por membros da CPA; 
-▪ 
-Campanhas periódicas de conscientização dos alunos 
-MAIO 
-2024 
-6 
-Relatório de Autoavaliação Institucional da Fatec P. Grande – 2023 
+101 e 102 
+PROGRAMAS DE MONITORIA 
+20/12/2023 
+104 e 105 
+PALESTRAS BIMESTRAIS SOBRE TEMAS RELEVANTES PARA 
+FORMAÇÃO AMS NA ETEC HELIÓPOLIS  
+20/12/2023 
+106 
+MOSTRA DE SOFTWARE DO CURSO ANÁLISE E 
+DESENVOLVIMNTO DE SISTEMAS 
+20/12/2023 
+107 e 108 
+FEIRA DE NEGÓCIOS DO CURSO GESTÃO COMERCIAL 
+20/12/2023 
+109 
+CÂMARA DE ENSINO, PESQUISA E EXTENSÃO (CEPE) 
+20/12/2023 
+301 
+PROJETO DE INICIAÇÃO CIENTÍFICA (IC) 
+20/12/2023 
+310 
+OFICINAS PREPARATÓRIAS PARA O VESTIBULAR 
+20/12/2023 
+401 e 402 
+PROJETO COLABORATIVOS INTERNACIONAIS 
  
- 
-através das comunicações em redes sociais da Instituição. 
-▪ 
-Apresentação, análise e discussão da missão junto aos 
-servidores, a fim de gerar maior conhecimento e 
-conscientização. 
-115, 116, 
-117 
-• 
-A facilitação para efetivação de novos projetos, tornando-
-os 
-de 
-conhecimento 
-dos 
-discentes, 
-através 
-do 
-envolvimento dos mesmos. 
-MAIO 
-2024 
-115, 116, 
-117 
-• 
-Maior divulgação dos itens relacionados na questão 
-através da publicação dos itens no site institucional; 
-▪ 
-Apresentação das resoluções em reuniões da direção e da 
-CPA junto a estes, a fim de dar conhecimento e possibilitar 
-a análise. 
-▪ 
-Apresentação dos planos de ensino  e das legislações aos 
-docentes para que estes informem os discentes. 
-MAIO 
-2024 
-115, 116, 
-117, 118 
-• 
-Uma ampliação dos meios de  divulgação, utilizando, não 
-apenas o site institucional, mas também, revigorando os 
-murais, e a utilização das mídias sociais como um todo. 
-MAIO 
-2024 
-601, 702 
-• 
-Possibilitar uma maior discussão sobre as possibilidades 
-de apoio pedagógico. 
-MAIO 
-2024 
- 
+20/12/2023 
+403 
+ESCOLA DE INOVADORES 
+20/12/2023 
+404 
+MOSTRAS DE VÍDEOS DO CURSO DE EVENTOS 
+20/12/2023 
  
  
 EIXO 
 4 – Políticas de Gestão 
-AÇÃO PROPOSTA 
- 
-Prazo 
+AÇÃO PROPOSTA  
+Prazo   
 Código 
 PGA 
 Título 
-115, 116 
-• 
-Possibilitar uma maior discussão junto aos discentes sobre 
-outros instrumentos de gestão, de acordo com a legislação 
-vigente. 
- 
-JUNHO 
-2024 
-115, 116, 
-117 
-• 
-O fomento ao uso dos murais e aumentar o número de 
-encontros entre os pares. 
-JUNHO 
-2024 
-503, 504, 
-201, 202, 
-203 
-• 
-A solicitação junto ao Centro Paula Souza de um maior 
-investimento nos recursos tecnológicos e perante os 
-laboratórios. 
-JUNHO 
-2024 
- 
+302 
+AÇÕES DE DIVERSIDADE, EQUIDADE E INCLUSÃO 
+20/12/2023 
+303 
+AÇÕES SUSTENTÁVEIS NO BAIRRO DO IPIRANGA 
+20/12/2023 
+306 
+DIGA NÃO À DISCRIMINAÇÃO ÉTNICO-RACIAL, RELIGIOSA, 
+LINGUÍSTICA, ETÁRIA, DE GÊNERO E CLASSE. 
+20/12/2023 
+312 
+FATEC IPIRANGA SE IMPORTA 
+20/12/2023 
+403 
+ESCOLA DE INOVADORES 
+20/12/2023 
+405 
+SELO INSTITUIÇÃO SOCIAL RESPONSÁVEL 
+20/12/2023 
+406 
+FATEC IPIRANGA DE PORTAS ABERTAS 
+20/12/2023 
+6 
  
  
-7 
-Relatório de Autoavaliação Institucional da Fatec P. Grande – 2023 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
+601 
+CAPACITAÇÃO PARA OS COLABORADORES ADMINISTRATIVOS 
+20/12/2023 
  
  
 EIXO 
 5 – Infraestrutura Física 
-AÇÃO PROPOSTA 
- 
-Prazo 
+AÇÃO PROPOSTA  
+Prazo   
 Código 
 PGA 
 Título 
-501, 502, 
-503, 504 
-• 
-A solicitação junto ao Centro Paula Souza de um maior 
-investimento na estrutura da unidade. 
-JUNHO 
-2024 
-Questão 
-115,116 
-• 
-Maior divulgação e explicação dos indicadores e o quanto 
-as respostas são relevantes para a melhoria da unidade. 
-JUNHO 
-2024 
+201 
+LEVANTAMENTO DAS NECESSIDADES DE INFRAESTRUTURA 
+DAS SALAS DE AULA, AUDITÓRIOS E BIBLIOTECA 
+20/12/2023 
+203 
+MANUTENÇÃO DOS LABORATÓRIOS DE INFORMÁTICA 
+20/12/2023 
+204 
+ADEQUAÇÃO DO AUDITÓRIO 
+20/12/2023 
+206 e 502 
+AMPLIAÇÃO DOS LABORATÓRIOS DE INFORMÁTICA 
+20/12/2023 
+501 
+INFRAESTRUTURA CIVIL PREDIAL 
+20/12/2023 
+ 
+ 
+7 
  
  
  
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
+5. CONSIDERAÇÕES FINAIS 
+A Comissão Própria de Avaliação, pelo seu trabalho, visa oferecer subsídios capazes 
+de subsidiar à tomada de decisão e ao planejamento institucional, na busca de 
+contínua melhoria da qualidade do ensino, da pesquisa, da extensão e da gestão. 
+Sendo assim um importante instrumento para a Direção. 
  
+Dentre as principais ações advindas desse processo, podemos salientar que a maior 
+parte dos problemas apontados no relatório estão relacionados com a infraestrutura 
+oferecida aos discentes, principalmente laboratórios (quantidade e qualidade do 
+hardware e atualização dos softwares), mobiliários e conforto térmico. Esse resultado 
+é corroborado pela percepção dos coordenadores de curso que mediam as 
+necessidades dos docentes e discentes. Além disso, evidenciou a necessidade de 
+melhorias nos canais de comunicação, no que tange a divulgação das ações voltadas 
+à comunidade externa e interna. Também é necessário que se façam conhecidos os 
+documentos oficiais que regulamentam a Fatec. O mesmo deve ser feito com relação 
+aos projetos de pesquisa e ações de nivelamento e monitoria. Diante desta análise, é 
+importante que se faça investimentos na atualização e adequação dos laboratórios, 
+de acordo com as necessidades previstas nos Projetos Pedagógicos dos Cursos 
+(PPC). Esta Comissão, elaborou um plano de ação para divulgar e conscientizar a 
+comunidade acadêmica em relação aos resultados obtidos e as ações previstas de 
+melhorias das atividades desempenhadas pelos departamentos envolvidos e 
+avaliados. 
+ 
+ 
+Os resultados apresentados contemplam as dez dimensões auto avaliativas do 
+SINAES e foram analisados e discutidos por todos os membros da comunidade 
+institucional: direção, coordenações de cursos, setores administrativos, gestores, 
+professores e alunos. 
+ 
+Os dados coletados, as análises e propostas foram amplamente divulgadas e serão 
+objeto de comparação na próxima avaliação, para elucidar os avanços alcançados, 
+reforçando o quanto a avaliação contribui para a gestão dos resultados.  
  
  
 8 
-Relatório de Autoavaliação Institucional da Fatec P. Grande – 2023 
  
  
  
-5. CONSIDERAÇÕES FINAIS 
-A Comissão Própria de Avaliação, pelo seu trabalho, visa oferecer subsídios capazes de 
-subsidiar à tomada de decisão e ao planejamento institucional, na busca de contínua melhoria 
-da qualidade do ensino, da pesquisa, da extensão e da gestão. Sendo assim um importante 
-instrumento para a Direção. 
-Os resultados apresentados contemplam as dez dimensões auto avaliativas do SINAES e 
-estão sendo analisados e discutidos pelos membros da comunidade institucional: direção, 
-coordenações de cursos, setores administrativos, gestores, professores e alunos. 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
  
-Os dados coletados, as análises e propostas serão amplamente divulgadas e servirão como 
-objeto de comparação na próxima avaliação, para elucidar os avanços alcançados, reforçando 
-o quanto a avaliação contribui para a gestão dos resultados. 
  
-Para aprimorar o trabalho da CPA, a equipe de gestão está trabalhando para a melhoria dos 
-canais de comunicação junto à comunidade acadêmica, assim como da equipe 
-desenvolvedora do site e do sistema acadêmico da instituição. O objetivo é promover a maior 
-participação dos alunos, professores e funcionários no processo de melhoria da unidade, 
-aprimorando a comunicação, a divulgação dos relatórios e o uso dos dados como ferramenta 
-de melhoria contínua da Fatec Praia Grande.  
+  
  
  
  
-7 
-Relatório de Autoavaliação Institucional da Fatec P. Grande – 2023 
  
  
-ANEXOS 
+9 
  
  
  
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
  
-7 
-Relatório de Autoavaliação Institucional da Fatec P. Grande – 2023 
  
+ANEXO - ATAs de Aprovação dos membros da CPA, registro de alterações e 
+reuniões da CPA 
  
  
  
  
  
-7 
-Relatório de Autoavaliação Institucional da Fatec P. Grande – 2023 
+______________________________________________________________________________________________ 
  
+Administração Central 
+Unidade do Ensino Superior de Graduação 
  
+FACULDADE DE TECNOLOGIA DE IPIRANGA “PASTOR ENÉAS TOGNINI”                              
  
  
-7 
-Relatório de Autoavaliação Institucional da Fatec P. Grande – 2023 
+Ata da Reunião da Comissão Própria de Avaliação de 04 de outubro de 2023. 
+   
+Aos 04 dias do mês de outubro do ano de dois mil e vinte e três, às onze horas, 
+reuniram-se, por meio da plataforma Teams, os membros da Comissão Própria de 
+Avaliação, designados pela portaria nº148/2023 de 02 de agosto de 2023. Como 
+representantes do corpo docente: Prof. Ms. Marcos Júlio – Presidente; Profa. Ms. 
+Fernanda Peixoto Coelho – Gestora Pedagógica Regional 6; Profa. Dra. Ana 
+Claudia Melo Tiessi Gomes de Oliveira, como representantes do corpo discente: 
+Isabel Cristina Vieira, como representante do corpo técnico-administrativo: Edimario 
+Silva de Paula e como representante da comunidade Sr. Adnilson José de Almeida, 
+vinculado à Subprefeitura do Ipiranga. A reunião teve como objetivo planejar as 
+ações de sensibilização para a coleta de dados pelo WEBSai. Foi decidido que seria 
+importante uma atuação ativa da representante discente, sr. Isabel, que se 
+prontificou a contatar os representantes de turma e visitar todas as salas de aula 
+nos três períodos letivos para conversar com os colegas. Foi também estabelecido 
+que seria solicitado aos coordenadores de curso que passassem em todas suas 
+turmas e que pedissem aos professores que ajudassem nessa ação, colocando, 
+inclusive, o material gráfico da pesquisa institucional nos seus slides de aula. 
+Destacou-se na reunião a importância do material gráfico próprio, elaborado pelo 
+professor Cláudio Roberto Cândido, para divulgação por meio dos grupos de 
+Whatsapp e redes sociais. Nessa reunião decidiu-se que o relatório seria elaborado 
+pelos professores Ana Claudia e Marcos Júlio, com a ajuda da professora Fernanda, 
+e que os resultados e ações propostas passariam pelo crivo do restante da 
+comissão antes do envio às instâncias superiores. Sem nada mais a discutir, a 
+reunião encerrou-se às 11h30 e foi lavrada esta ata. 
  
+   
+Prof. Ms. Marcos Júlio – Presidente 
+Profa. Ms. Fernanda Peixoto Coelho – Gestora Pedagógica Regional 6 
+Profa. Dra. Ana Claudia Melo Tiessi Gomes de Oliveira  
+Isabel Cristina Vieira 
  
+______________________________________________________________________________________________ 
  
+Administração Central 
+Unidade do Ensino Superior de Graduação 
+Edimario Silva de Paula 
+Sr. Adnilson José de Almeida 
  
-7 
-Relatório de Autoavaliação Institucional da Fatec P. Grande – 2023 
  
  
+______________________________________________________________________________________________ 
  
  
+FACULDADE DE TECNOLOGIA DE IPIRANGA “PASTOR ENÉAS TOGNINI”                              
  
  
-7 
-Relatório de Autoavaliação Institucional da Fatec P. Grande – 2023 
  
- 
- 
- 
- 
- 
- 
- 
- 
-7 
-Relatório de Autoavaliação Institucional da Fatec P. Grande – 2023 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-7 
-Relatório de Autoavaliação Institucional da Fatec P. Grande – 2023 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-7 
-Relatório de Autoavaliação Institucional da Fatec P. Grande – 2023 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-7 
-Relatório de Autoavaliação Institucional da Fatec P. Grande – 2023 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-7 
-Relatório de Autoavaliação Institucional da Fatec P. Grande – 2023 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-7 
-Relatório de Autoavaliação Institucional da Fatec P. Grande – 2023 
- 
- 
- 
- 
- 
- 
- 
-7 
-Relatório de Autoavaliação Institucional da Fatec P. Grande – 2023 
- 
- 
- 
-7 
-Relatório de Autoavaliação Institucional da Fatec P. Grande – 2023 
- 
- 
- 
-7 
-Relatório de Autoavaliação Institucional da Fatec P. Grande – 2023 
- 
- 
+Ata da Reunião da Comissão Própria de Avaliação de 13 de dezembro de 
+2023. 
+   
+Aos 13 dias do mês de dezembro do ano de dois mil e vinte e três, às catorze horas, 
+reuniram-se, por meio da plataforma Teams, os membros da Comissão Própria de 
+Avaliação, designados pela portaria nº148/2023 de 02 de agosto de 2023. Como 
+representantes do corpo docente: Prof. Ms. Marcos Júlio – Presidente; Profa. Ms. 
+Fernanda Peixoto Coelho – Gestora Pedagógica Regional 6; Profa. Dra. Ana 
+Claudia Melo Tiessi Gomes de Oliveira, como representantes do corpo discente: 
+Isabel Cristina Vieira, como representante do corpo técnico-administrativo: Edimario 
+Silva de Paula e como representante da comunidade Sr. Adnilson José de Almeida, 
+vinculado à Subprefeitura do Ipiranga. A reunião teve como objetivo apresentar o 
+relatório elaborado pelos professores Ana Claudia Melo Tiesse Gomes de Oliveira 
+e Marcos Júlio, com a ajuda da professora Fernanda Peixoto Coelho, aos demais 
+membros da comissão. Foram discutidas as análises e a ações propostas bem 
+como as conclusões a que esta comissão chegou. Como houve a concordância de 
+todos com relação ao relatório, a reunião encerrou-se às 14h30 e foi lavrada por 
+mim, prof. Marcos Júlio, esta ata. 
+   
+   
+Prof. Ms. Marcos Júlio – Presidente 
+Profa. Ms. Fernanda Peixoto Coelho – Gestora Pedagógica Regional 6 
+Profa. Dra. Ana Claudia Melo Tiessi Gomes de Oliveira  
+Isabel Cristina Vieira 
+Edimario Silva de Paula 
+Sr. Adnilson José de Almeida 
  

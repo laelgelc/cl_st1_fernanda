@@ -8,6 +8,27 @@ Unidade do Ensino Superior de Graduação
  
 Relatório de Autoavaliação Institucional 
 da Fatec – 2023/2º Parcial
+INSTRUÇÕES PARA ELABORAÇÃO DO RELATÓRIO DE AUTOAVALIAÇÃO 
+INSTITUCIONAL 
+ 
+Para a elaboração do relatório, cabe à CPA: 
+a) realizar preenchimento do template preenchendo as partes introdutórias e 
+relatando os procedimentos metodológicos utilizados pela CPA, conforme 
+itens 1 e 2 do template;  
+b) após acessar os dados coletados, apresentar os dados coletados, 
+organizando-os no item 3 do relatório (Desenvolvimento) explicitando os 
+dados por meio dos gráficos; 
+c) encaminhar as questões e o formulário para análise de cada dimensão pela 
+equipe gestora da Unidade de Ensino; 
+d) após a devolutiva da equipe gestora da Unidade de Ensino, por meio do PGA, 
+organizar as ações propostas para consolidação do relatório da 
+autoavaliação, em seu item 4 (Análise dos dados e ações propostas) 
+e) realizar as considerações finais; 
+f) encaminhar o relatório para manifestação da Cesu/DGE mediante parecer do 
+GPR e anuência institucional da CPA Central; 
+g) após autorização da CPA Central, realizar a inserção do relatório até 31 de 
+março e dar ampla divulgação para toda a comunidade dos resultados.  
+(retirar as instruções após utilizar).  
  
  
  
@@ -18,27 +39,6 @@ da Fatec – 2023/2º Parcial
  
  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-FATEC:  137-Fatec Zona Sul - R-06 
-RELATÓRIO DE AUTOAVALIAÇÃO 
-INSTITUCIONAL  
-2023 
                       2
  
 __________________________________________________________________________ 
@@ -50,49 +50,34 @@ Unidade do Ensino Superior de Graduação
 Relatório de Autoavaliação Institucional 
 da Fatec – 2023/2º Parcial
  
- São Paulo   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Mauá  
 2023 
  
  
  
  
  
-Direção / Coordenação de Cursos 
- 
- 
-Direção Geral  
- 
- Alex Macedo de Araújo  
-Coordenador do Curso de Graduação Tecnológica em 
-Análise e Desenvolvimento de Sistemas 
- 
- Eliseu Lemes da Silva  
-Coordenador do Curso de Graduação Tecnológica em 
-Desenvolvimento de Software Multiplataforma  
- 
- Walcyr de Moura e Silva  
-Coordenador do Curso de Graduação Tecnológica em 
-Gestão Empresarial 
- 
- Marcus Leandro Torrano Ignatti  
-Coordenador do Curso de Graduação Tecnológica em 
-Logística 
- 
- Adélia Cristina Peres Torrecillas  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Presidente da CPA 
- Adélia Cristina Peres Torrecillas  
- 
- 
+FATEC:  113-Fatec Mauá - R-06 
+RELATÓRIO DE AUTOAVALIAÇÃO 
+INSTITUCIONAL  
+2023 
                       3
  
 __________________________________________________________________________ 
@@ -103,6 +88,52 @@ Unidade do Ensino Superior de Graduação
  
 Relatório de Autoavaliação Institucional 
 da Fatec – 2023/2º Parcial
+Direção / Coordenação de Cursos 
+ 
+ 
+Direção Geral  
+ 
+Prof. Jarbas Thaunahy Santos de 
+Almeida 
+Coordenador do Curso de Graduação Tecnológica em 
+Desenvolvimento de Produtos Plásticos  
+ 
+Prof. Marcos Oliveira Gentil  
+Coordenador do Curso de Graduação Tecnológica em 
+Desenvolvimento de Software Multiplataforma  
+ 
+Prof. João Carlos de Souza 
+Coordenador do Curso de Graduação Tecnológica em 
+Fabricação Mecânica  
+ 
+Prof. Sandro Oliveira dos Santos  
+Coordenador do Curso de Graduação Tecnológica em 
+Informática para Negócios  
+ 
+Profa. Maria da Conceição 
+Medeiros 
+Coordenador do Curso de Graduação Tecnológica em 
+Logística  
+ 
+Prof. Nelson Afonso Thomaz 
+Coordenador do Curso de Graduação Tecnológica em 
+Polímeros  
+ 
+Prof. Antônio José de Moura 
+Júnior 
+Coordenador do Curso de Graduação Tecnológica em 
+Gestão Empresarial – modalidade EaD 
+Profa. Edilene de Cássia Dutra 
+Nunes 
+ 
+ 
+ 
+ 
+ 
+Presidente da CPA 
+Prof. Leandro da Silva Oliveira 
+ 
+ 
  
  
  
@@ -124,45 +155,51 @@ Comissão Própria de Avaliação – CPA
  
 Representante docente (Presidente) 
  
-Adélia Cristina Peres Torrecillas  
+Prof. Leandro da Silva Oliveira 
 Representante docente 
  
-Fernanda Peixoto Coelho - GPR  
+Prof. Antônio Youssef 
 Representante docente 
  
-Silza Maria Librelon Raia  
+Prof. Paulo César Pinheiro 
 Representante docente 
  
-Denilson Ferreira  
+Prof. Afonso Henriques Neto 
 Representante docente 
  
-Eliseu Lemes da Silva  
+Prof. Levi de Oliveira Souza 
 Representante docente 
  
-Walcyr de Moura e Silva  
-Representante discente 
- 
- Bruno César de Souza Santos  
-Representante discente 
- 
+Profa. Litzy Lina Choquechambi 
+Catorceno 
  
 Representante discente 
  
- 
+Henrique Frutuoso dos Santos 
 Representante discente 
  
+<nome> 
+Representante discente 
  
+<nome> 
+Representante discente 
+ 
+<nome> 
 Representante do corpo técnico administrativo 
  
- Michele Ramalho Dias  
+Silmara Crepaldi 
 Representante do corpo técnico administrativo 
  
- Simone Pereira da Silva Borges  
+<nome> 
+ 
 Representante da Sociedade Civil 
  
- Ana Lúcia Aragão  
+Michele Matos de Oliveira 
+Representante da Administração Central – Cesu/DGE 
  
- 
+Profa. Fernanda Peixoto Coelho 
+Representante docente 
+Prof. Fretz Sievers Júnior 
  
  
  
@@ -218,28 +255,28 @@ da Fatec – 2023/2º Parcial
 I. Identificação da FATEC (informação PDI/PGA/RCPA/RAA) 
  
 Dados da unidade 
-Fatec:  137-Fatec Zona Sul - R-06 
-Razão social:  Fatec Zona Sul - Dom Paulo Evaristo Arns  
-Endereço:   Rua Frederico Grotte, 322 – Jardim São Luíz – CEP: 05818-270 – São Paulo – SP  
+Fatec:  113-Fatec Mauá - R-06 
+Razão social: Faculdade de Tecnologia de Mauá] 
+Endereço:  [Av. Antônia Rosa Fioravanti, 804 - Centro, Mauá - SP, 09390-120] 
  
  
 Direção da Unidade 
-Diretor:  Alex Macedo de Araújo  
- 
+Diretor: Prof. Jarbas Thaunahy Santos de Almeida 
   
  
 Coordenação de Curso 
-CST em  Análise e Desenvolvimento de Sistemas :  Eliseu Lemes da Silva  
-CST em  Desenvolvimento de Software Multiplataforma :  Walcyr de Moura e Silva  
-CST em Gestão Empresarial: Marcus Leandro Torrano Ignatti 
-CST em Logística: Adélia Cristina Peres Torrecillas 
- 
- 
+CST em Desenvolvimento de Produtos Plásticos]: Prof. Marcos Oliveira Gentil 
+CST em Desenvolvimento de Software Multiplataforma: Prof. João Carlos de Souza  
+CST em Fabricação Mecânica: Prof. Sandro Oliveira dos Santos 
+CST em Informática para Negócios: Profa. Maria da Conceição Medeiros  
+CST em Logística: Prof. Nelson Afonso Thomaz  
+CST em Polímeros: Prof. Antônio José de Moura Júnior]  
+(CST em Gestão Empresarial – modalidade EaD: Profa. Edilene de Cássia Dutra Nunes 
  
  
 Direção de Serviços 
-Diretor de Serviços Acadêmicos:  Anderson Tadeu dos Reis  
-Diretor de Serviços Administrativos:  Michele Ramalho Dias  
+Diretor de Serviços Acadêmicos: Maria Estela de Lima Nunes 
+Diretor de Serviços Administrativos: Robinson Migues D´onofre] 
  
  
 5 
@@ -250,10 +287,7 @@ Relatório de Autoavaliação Institucional
 da Fatec – 2023/2º Parcial
 II. Atos Regulatórios (informação PDI/PGA/RCPA/RAA) 
  
-Decreto de criação:  50579, de 02/03/2006 e denominação da unidade Decreto 62412 
-de 04/01/2017 
- 
- 
+Decreto de criação: Decreto 46.930 de 19/07/2002 e publicado em 20/07/2002 
  
 (Para citar documentos legais que formalizam a criação da unidade, consulte: 
  
@@ -262,86 +296,235 @@ de-unidades-do-CPS.xls)
  
 Atos legais referentes aos cursos 
  
-CST em  Análise e Desenvolvimento de Sistemas  
+CST em Desenvolvimento de Produtos Plásticos 
 Data 
 Tipo 
  Portaria CEE/GP 
 Parecer CD (p/ reestruturação) 
- 2010/2º/ Sem. 
+2018/ Sem. 
 Implantação 
- 365/20210  
-/ Sem. 
-Escolher um item.  
- 
-/ Sem. 
+Portaria 1418650/2018, publicado no DOE 
+de 11 de outubro de 2018 
+2021/ Sem. 
+Adequação  
+Reconhecimento: Portaria CEE-GP 480, de 
+21-12-2021, publicada no D.O. de 22-12-
+2021 
+Ano no formato 
+XXXX / Sem. 
 Escolher um item. 
- 
-/ Sem. 
+Número 
+Ano no formato 
+XXXX / Sem. 
 Escolher um item. 
- 
-/ Sem. 
+Número 
+Ano no formato 
+XXXX / Sem. 
 Escolher um item. 
- 
-/ Sem. 
+Número 
+Ano no formato 
+XXXX / Sem. 
 Escolher um item. 
- 
-/ Sem. 
+Número 
+Ano no formato 
+XXXX / Sem. 
 Escolher um item. 
- 
-/ Sem. 
+Número 
+Ano no formato 
+XXXX / Sem. 
 Escolher um item. 
- 
-/ Sem. 
+Número 
+Ano no formato 
+XXXX / Sem. 
 Escolher um item. 
+Número 
  
  
- 
- 
-CST em Desenvolvimento de Software Multiplataforma 
+(CST em Desenvolvimento de Software Multiplataforma 
 Data 
 Tipo 
  Portaria CEE/GP 
 Parecer CD (p/ reestruturação) 
-2021/2º/ Sem. 
+2021 / 2º Sem. 
 Implantação 
-2021/07472 
- 
-CST em Gestão Empresarial 
+CD - 78/2021 - Processo CEETEPS-PRC-
+2021/03431 - Autorização para a 
+Implantação do Curso Superior de 
+Tecnologia em Desenvolvimento de Software 
+Multiplataforma – Noturno, 
+publicado no D.O de 19-10-2021 
+* 
+CST em Fabricação Mecânica 
 Data 
 Tipo 
  Portaria CEE/GP 
 Parecer CD (p/ reestruturação) 
-2010/2º/ Sem. 
+2012 / 1º Sem. 
 Implantação 
-365/2010 
- 
-CST em Logística 
-Data 
-Tipo 
- Portaria CEE/GP 
-Parecer CD (p/ reestruturação) 
-2010/2º/ Sem. 
-Implantação 
-365/2010 
- 
- 
- 
- 
+CD/CEETEPS, despacho da presidente de 
+06/06/2012, n. 004/2012, publicado no  
+DOE de 07/06/2012. 
+CD 076/2012: Processo CEETEPS Nº 
+3298/2012 
+2015/ 1º Sem. 
+Adequação  
+Reconhecimento: 
+Portaria CEE/GP nº79, de 03/03/2015, 
+publicada no D.O. de 04/03/2015. 
+2017 / 2º Sem. 
+Atualização 
+Renovação de reconhecimento: 
+ Portaria CEE/GP nº 605, de 28/11/2017, 
+publicada no D.O. de 29/11/2017.  
 6 
  
  
  
 Relatório de Autoavaliação Institucional 
 da Fatec – 2023/2º Parcial
-III. Composição da Comissão Própria de Avaliação (CPA)  
-A Comissão Própria de Avaliação da FATEC Zona Sul foi instituída pela Portaria nº  
-12 /20 23 , de _06  de  novembro  de  2023 , com mandato até  05 / 11 / 2026 , 
-conforme ata da Congregação (Anexo – ATAs de Aprovação dos membros da CPA, 
-registro de alterações e reuniões da CPA). 
+2021 / 1º Sem. 
+Atualização 
+Renovação de reconhecimento:   
+ Portaria CEE/GP nº 179, de 19/05/2021,   
+publicada no D.O. de 20/05/2021.úmero 
  
+CST em Informática para Negócios 
+Data 
+Tipo 
+ Portaria CEE/GP 
+Parecer CD (p/ reestruturação) 
+2006/ 1º Sem. 
+Implantação 
+Resolução de 25-02-2002, publicada no 
+DOE de 26-06-2002 
+2012/ 1º Sem. 
+Adequação  
+Reconhecimento: Portaria CEE/GP - 230, de 
+05-06-2012, publicada no D.O.E. de 
+06/06/2012 
+2017/ 2º Sem. 
+Atualização 
+Renovação de reconhecimento:  Portaria 
+CEE/GP - 376 de 18-08-2017, publicada 
+no D.O.E. de 19/08/2017. 
+2020/ 1º Sem. 
+Atualização 
+Renovação de reconhecimento: Portaria 
+CEE/GP 101, de 02-03-2020, 
+Publicado no D.O de 03-03-2020 e 
+retificado em 04-03-2020 
+  
+CST em Logística 
+Data 
+Tipo 
+ Portaria CEE/GP 
+Parecer CD (p/ reestruturação) 
+2009/ 1º Sem. 
+Implantação 
+Portaria CEE/GP 234, de 20-08-2009, 
+publicada no D. O. de 21/08/2009 
+2011/ 2º Sem. 
+Adequação  
+Reconhecimento: Portaria CEE/GP 550, de 
+21-12-2011, publicada no D.O. de 
+22/12/2011 
+2013/ 2º Sem. 
+Atualização 
+Renovação de reconhecimento: 
+Portaria CEE/GP 436, de 29-10-2013, 
+publicada no D.O. de 30/10/2013, 
+republicada no D. O. de 18/09/2015. 
+2017/ 1º Sem. 
+Atualização 
+Renovação de reconhecimento: 
+Portaria CEE/GP 218, de 10-05-2017, 
+publicada no D.O. de 11/05/2017, 
+republicada no D. O. de 16/03/2018 
+2020 / 1º Sem. 
+Atualização 
+Renovação de reconhecimento: 
+Portaria CEE-GP-101, de 02-03-2020, 
+Publicada no D.O. de 03-03-2020, 
+republicada no D.O. de 04-03-2020. 
+2022 / 2º Sem. 
+Reestruturação 
+CEETEPS-PR 2022-34051 
+Autorização para Reestruturação do Projeto 
+Pedagógico do Curso de Tecnologia de 
+Logística  (Despacho da Presidente  n°. 11-
+2022 de 27-10-2022) 
  
- 
+CST em Polímeros 
+Data 
+Tipo 
+ Portaria CEE/GP 
+Parecer CD (p/ reestruturação) 
+2009/ 2º Sem. 
+Implantação 
+Portaria CEE/GP 426, de 10/12/2009, 
+publicada no DO de 08-10-2010,  
+2011 / 2º Sem. 
+Adequação  
+Reconhecimento: 
+Portaria CEE/GP nº308, de 21/07/2011, 
+publicada no D.O. de 23/07/2011.  
+2014 / 1º Sem. 
+Adequação 
+Renovação de reconhecimento: 
+Portaria CEE/GP -  199, de 09/06/2014, 
+Publicada no D.O. de 
+11/06/2014. 
+2019 / 2º Sem. 
+Adequação 
+Renovação de reconhecimento: 
+Portaria CEE/GP - 354, de 13-09-2019, 
+publicada no D.O. de 14-09-2019. 
 7 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
+2021 / 2º Sem. 
+Reestruturação 
+Parecer CD 103-21 - CEETEPS-PRC-
+2021/06082 Autorização para 
+Reestruturação do Projeto Pedagógico do 
+Curso Superior de Tecnologia em Polímeros, 
+publicado no D.O. em 27-10-2021 
+ 
+CST em Gestão Empresarial – modalidade EaD 
+Data 
+Tipo 
+ Portaria CEE/GP 
+Parecer CD (p/ reestruturação) 
+2011 / 1º Sem. 
+Implantação 
+CD/CEETEPS 219/2015, DOE 16/05/2015, 
+com fundamento na Deliberação CEE 
+106/2011 
+2017 / 2º Sem. 
+Adequação  
+Reconhecimento: 
+Portaria CEE/GP nº 404, de 28/08/2017, 
+publicada no D.O de 29/08/2017. 
+2020/ 1º Sem. 
+Atualização 
+Renovação de reconhecimento: 
+Portaria CEE/GP nº 101, de 02/03/2020. 
+publicado no D.O de 03/03/2020, e 
+retificada no D. O. de 04/03/2020 
+ 
+ 
+III. Composição da Comissão Própria de Avaliação (CPA)  
+A Comissão Própria de Avaliação da FATEC Mauáfoi instituída pela Portaria nº 
+177/2023, de 05 de dezembro de 2023, com mandato até 04/12/2025, conforme ata 
+da Congregação (Anexo – ATAs de Aprovação dos membros da CPA, registro de 
+alterações e reuniões da CPA). 
+ 
+ 
+ 
+8 
  
  
  
@@ -349,7 +532,7 @@ Relatório de Autoavaliação Institucional
 da Fatec – 2023/2º Parcial
 1. INTRODUÇÃO  
  
-A Fatec  Zona Sul  possui a avaliação institucional como efetivo instrumento de 
+A Fatec Mauá possui a avaliação institucional como efetivo instrumento de 
 gestão. Por meio da avaliação tem-se condições de reunir apontamentos capazes de 
 suscitar análises e discussões possibilitando definir planos de melhorias de forma 
 continuada. 
@@ -370,19 +553,27 @@ Alunos Matriculados (apenas os alunos que estejam CURSANDO)
 Curso 
 Número de 
 Alunos 
+Curso de Graduação Tecnológica em Desenvolvimento de Produtos 
+Plásticos 
+30 
+Curso de Graduação Tecnológica em Desenvolvimento de Software 
+Multiplataforma 
+124 
+Curso de Graduação Tecnológica em Fabricação Mecânica 
+360 
+Curso de Graduação Tecnológica em Informática para Negócios 
+432 
+Curso de Graduação Tecnológica em Logística 
+362 
+Curso de Graduação Tecnológica em Polímeros 
+171 
+Curso de Graduação Tecnológica em Gestão Empresarial – modalidade 
+EaD 
+132 
  
- CST em Análise e Desenvolvimento de Sistemas 
- 551 
- CST em Desenvolvimento de Software Multiplataforma 
- 91 
- CST em Gestão Empresarial (Presencial e EaD) 
- 627 
- CST em Logística 
- 460 
  
  
- 
-8 
+9 
  
  
  
@@ -394,9 +585,7 @@ Detalhamento do corpo docente da Unidade de Ensino (informação PDI/PGA/RCPA/RA
  
 Nome 
 Matrícula 
-Cód. 
-UE 
-sede 
+Cód. UE sede 
 Titulação* 
 Referência 
 Experiência Profissional 
@@ -406,313 +595,327 @@ Docência
 Não docência 
 (anos) 
 1 
-ADÉLIA CRISTINA PERES 
-TORRECILLAS 
-46592 
-137 
-M 
-II 
-21 
-28 
- http://lattes.cnpq.br/06571
-75984398022 
-2 
-ALEX MACEDO DE ARAUJO 
-46588 
-137 
+Adilson de Barros 
+27546 
+113-Fatec Mauá - 
+R-06 
 M 
 II 
 20 
-31 
-http://lattes.cnpq.br/515038
-4560617328 
-3 
-ALEXANDRE BITTENCOURT FARIA 
-57306 
-137 
-M 
-II 
-12 
-22 
-http://lattes.cnpq.br/656554
-0672197089 
-4 
-CARLOS ALBERTO LOIOLA DE 
-SOUZA 
-19611 
-137 
-M 
-II 
-20 
-34 
-http://lattes.cnpq.br/480526
-5327108036 
-5 
-CARLOS VITAL GIORDANO 
-50370 
-137 
-D 
-III 
-28 
 45 
-http://lattes.cnpq.br/138819
-0299864215 
-6 
-CARMEN LÚCIA DE BARTOLO 
-COSTA 
-27059 
-137 
-M 
-II 
-39 
-39 
-http://lattes.cnpq.br/187884
-7284854130 
-7 
-DENILSON FERREIRA 
-17139 
-137 
-M 
-II 
-23 
-23 
-http://lattes.cnpq.br/409013
-4508862899 
-8 
-DENILSON FERREIRA 
-50361 
-137 
-M 
-II 
-23 
-23 
-http://lattes.cnpq.br/409013
-4508862899 
-9 
-DENISE LEMES FERNANDES 
-NEVES 
-27063 
-137 
-M 
-III 
-36 
-36 
-http://lattes.cnpq.br/322042
-7256100569 
-10 
-EDSON ROBERTO BARBOSA 
-CERONI 
-38166 
-137 
-M 
-II 
-18 
-34 
-http://lattes.cnpq.br/374168
-1942375190 
-11 
-EDUARDO BONETTI DE FREITAS 
-45674 
-137 
-E 
-I 
-15 
-17 
-http://lattes.cnpq.br/568679
-6275777394 
-12 
-EDUARDO BONETTI DE FREITAS 
-21427 
-137 
-E 
-I 
-15 
-17 
-http://lattes.cnpq.br/568679
-6275777394 
-13 
-EDUARDO PAULINO DA SILVA 
-27065 
-137 
+http://lattes.cnpq.br/404020
+0479385240 
+2 
+Afonso H. Neto  
+27544 
+113-Fatec Mauá - 
+R-06 
 E 
 II 
-35 
-32 
-http://lattes.cnpq.br/738741
-3809288213 
-14 
-ELISEU LEMES DA SILVA 
-16669 
-137 
-D 
-III 
-28 
-28 
-http://lattes.cnpq.br/930010
-4925024179 
-15 
-JACY FERREIRA BRAGA 
-15201 
-137 
-M 
-II 
-35 
-44 
- http://lattes.cnpq.br/39969
-15968369733 
-16 
-JOSÉ LEÔNCIO FERREIRA FILHO 
-57312 
-137 
-E 
-III 
-29 
-9 
-http://lattes.cnpq.br/390261
-8181419933 
-17 
-JOSENYR SANTOS ROSA 
-62741 
-137 
-M 
-II 
-34 
-34 
-http://lattes.cnpq.br/533864
-9111078338 
-18 
-LAWTON NANNI BENATTI 
-62745 
-283 
-M 
-I 
-20 
-30 
-http://lattes.cnpq.br/691130
-5482544189 
-19 
-LELIS TETSUO MURAKAMI 
-49471 
-137 
-D 
-III 
-11 
-46 
-http://lattes.cnpq.br/936652
-2628827235 
-20 
-LEÔNIDAS ALVAREZ NETO 
-50364 
-137 
-D 
-III 
-11 
-44 
-http://lattes.cnpq.br/731797
-4922598531 
-21 
-LILZA MARA BOSCHESI MAZUQUI 
-46593 
-137 
-D 
-III 
-27 
-4 
-http://lattes.cnpq.br/485329
-9548598526 
-22 
-LUCIANA SILVA ZAPPAROLLI 
-26620 
-137 
-M 
-II 
-31 
-3 
-http://lattes.cnpq.br/587648
-1781313594 
-23 
-LUIZ CLAUDIO GONÇALVES 
-34308 
-137 
-D 
-III 
-26 
-10 
-http://lattes.cnpq.br/728070
-8160946697 
-24 
-MARCIA LUIZA PIRES DE ARAUJO 
-38163 
-137 
-D 
-III 
-27 
-27 
-http://lattes.cnpq.br/704681
-3577271190 
-25 
-MARCIO GALVÃO RIBEIRO 
-34097 
-137 
-M 
-II 
-20 
-25 
- http://lattes.cnpq.br/51134
-84135832947 
-26 
-MARCO ANTONIO BARRETO 
-28906 
-137 
-M 
-II 
-28 
-28 
-http://lattes.cnpq.br/291567
-9986049630 
-27 
-MARCO ANTONIO DIAS 
-56193 
-204 
-D 
-III 
 19 
 40 
-http://lattes.cnpq.br/572347
-5780000769 
-28 
-MARCO ANTONIO LAURELLI 
-MOREIRA 
-21429 
-137 
+http://lattes.cnpq.br/270561
+8115886338 
+3 
+Aleksei Piterskih 
+52230 
+113-Fatec Mauá - 
+R-06 
+M 
+II 
+24 
+8 
+http://lattes.cnpq.br/542565
+7353802371 
+4 
+Alessandra F. Santos 
+29902 
+113-Fatec Mauá - 
+R-06 
 D 
 III 
-26 
-33 
-http://lattes.cnpq.br/292576
-8593477466 
-29 
-MARCUS LEANDRO TORRANO 
-IGNATTI 
-29422 
-137 
+10 
+0 
+http://lattes.cnpq.br/008044
+4596436540 
+5 
+Anderson Maia 
+24208 
+113-Fatec Mauá - 
+R-06 
+M 
+III 
+16 
+21 
+http://lattes.cnpq.br/524045
+3793200026 
+6 
+Anderson S. Vanin 
+76338 
+113-Fatec Mauá - 
+R-06 
+M 
+I 
+2 
+20 
+http://lattes.cnpq.br/735412
+5673070574 
+7 
+André L. Grande 
+13538 
+113-Fatec Mauá - 
+R-06 
+D 
+III 
+20 
+10 
+http://lattes.cnpq.br/756333
+5650248681 
+8 
+Andréa F. de Sá 
+29911 
+113-Fatec Mauá - 
+R-06 
+M 
+II 
+16 
+32 
+https://lattes.cnpq.br/41335
+40222906780 
+9 
+Andrea R. Yoshizawa 
+44301 
+002 -Fatec São 
+Paulo - R-05 
+D 
+III 
+18 
+0 
+http://lattes.cnpq.br/697322
+8088111312 
+10 
+Andreza M. de S. Rocha 
+74896 
+113-Fatec Mauá - 
+R-06 
+M 
+I 
+2 
+5 
+http://lattes.cnpq.br/840152
+6615749895 
+11 
+Angelo L. Filho 
+13483 
+113-Fatec Mauá - 
+R-06 
 M 
 III 
 22 
+45 
+http://lattes.cnpq.br/222739
+9068145570 
+12 
+Antonio C. A. Thimóteo 
+48030 
+126 -Fatec São 
+Bernardo do 
+Campo - R-06 
+M 
+II 
+16 
 26 
-http://lattes.cnpq.br/411528
-8948454287 
+https://lattes.cnpq.br/50317
+57934711087 
+13 
+Antonio C. Gracias 
+56436 
+113-Fatec Mauá - 
+R-06 
+D 
+III 
+23 
+0 
+http://lattes.cnpq.br/431382
+3172445184 
+14 
+Antonio J. de M. Junior 
+52237 
+113-Fatec Mauá - 
+R-06 
+M 
+II 
+10 
+27 
+http://lattes.cnpq.br/785922
+3977584046 
+15 
+Antonio Lobosco 
+62243 
+113-Fatec Mauá - 
+R-06 
+D 
+I 
+23 
+29 
+http://lattes.cnpq.br/487778
+0587436783 
+16 
+Antonio Youssef 
+41952 
+113-Fatec Mauá - 
+R-06 
+E 
+II 
+20 
+40 
+http://lattes.cnpq.br/266359
+8223298672 
+17 
+Bruno Z. dos Santos 
+74983 
+217-Fatec 
+Diadema - R-06 
+E 
+I 
+12 
+10 
+http://lattes.cnpq.br/556531
+1265198737 
+18 
+Carine S. de S. Ribeiro 
+75589 
+113-Fatec Mauá - 
+R-06 
+D 
+I 
+3 
+2 
+http://lattes.cnpq.br/546749
+7998185530 
+19 
+Carla A. Correia 
+76200 
+113-Fatec Mauá - 
+R-06 
+D 
+I 
+1 
+8 
+https://lattes.cnpq.br/51416
+15599049838 
+20 
+Carlos A. Vaz 
+69913 
+113-Fatec Mauá - 
+R-06 
+E 
+I 
+5 
 30 
-MARIA CLÁUDIA DE GÓES 
-57316 
-137 
+http://lattes.cnpq.br/053283
+3504096453 
+21 
+Carlos C. C. Dias 
+73811 
+204-Fatec 
+Ipiranga - R-06 
+M 
+I 
+22 
+24 
+http://lattes.cnpq.br/563984
+5703839851 
+22 
+Carlos F. da Silva 
+27535 
+113-Fatec Mauá - 
+R-06 
+M 
+III 
+17 
+43 
+http://lattes.cnpq.br/507049
+1578307631 
+23 
+Carlos R. de Sousa 
+76572 
+168 -Fatec São 
+Caetano do Sul - 
+R-06 
+M 
+I 
+1 
+5 
+http://lattes.cnpq.br/608422
+2142012985 
+24 
+Celio Daroncho 
+14481 
+111-Fatec Zona 
+Leste - R-04 
+M 
+II 
+20 
+2 
+http://lattes.cnpq.br/438069
+1022305399 
+25 
+Cláudia de Oliveira 
+27539 
+113-Fatec Mauá - 
+R-06 
+M 
+II 
+30 
+10 
+http://lattes.cnpq.br/460528
+7758374868 
+26 
+Clayton S. Hida 
+73337 
+129-Fatec Praia 
+Grande - R-06 
+D 
+I 
+3 
+3 
+http://lattes.cnpq.br/178869
+3830187416 
+27 
+Daniel B. de Almeida 
+49029 
+209-Fatec Barueri 
+- R-05 
+M 
+I 
+12 
+7 
+https://lattes.cnpq.br/71973
+9279062874 
+28 
+Darli R. P. Vaccari 
+41955 
+113-Fatec Mauá - 
+R-06 
 M 
 II 
 23 
-16 
-http://lattes.cnpq.br/988219
-8084532247 
-9 
+8 
+http://lattes.cnpq.br/436497
+0326652517 
+29 
+Dermeval S. Cerqueira 
+77918 
+167-Fatec 
+Guarulhos - R-04 
+D 
+I 
+20 
+20 
+http://lattes.cnpq.br/515704
+8998523158 
+10 
  
  
  
@@ -721,9 +924,7 @@ da Fatec – 2023/2º Parcial
  
 Nome 
 Matrícula 
-Cód. 
-UE 
-sede 
+Cód. UE sede 
 Titulação* 
 Referência 
 Experiência Profissional 
@@ -732,325 +933,984 @@ Docência
 (anos) 
 Não docência 
 (anos) 
+30 
+Diana Navas 
+41957 
+113-Fatec Mauá - 
+R-06 
+D 
+III 
+13 
+16 
+http://lattes.cnpq.br/977005
+0223986051 
 31 
-MOACIR DE FREITAS JUNIOR 
-29429 
-137 
+Douglas L. de Lima 
+68493 
+113-Fatec Mauá - 
+R-06 
 M 
-II 
-21 
-20 
-http://lattes.cnpq.br/758302
-5747950699 
+I 
+6 
+5 
+http://lattes.cnpq.br/021092
+8711758377 
 32 
-MOISÉS TAVARES DA CONCEIÇÃO 
-27064 
-137 
-M 
-II 
-18 
-50 
-http://lattes.cnpq.br/169689
-7986024872 
+Edivaldo A. Bulba 
+20220 
+002 -Fatec São 
+Paulo - R-05 
+D 
+III 
+38 
+40 
+http://lattes.cnpq.br/157803
+8285477852 
 33 
-MOISÉS TAVARES DA CONCEIÇÃO 
-42680 
-129 
+Eduardo F. da Silva 
+79284 
+113-Fatec Mauá - 
+R-06 
 M 
-II 
-18 
-50 
-http://lattes.cnpq.br/169689
-7986024872 
+I 
+7 
+28 
+http://lattes.cnpq.br/939390
+3235473291 
 34 
-REBECCA BIGNARDI ARAMBASIC 
-REBELO DA SILVA 
-21424 
-137 
+Érick T. Yamamoto 
+76139 
+113-Fatec Mauá - 
+R-06 
 M 
-II 
-25 
-25 
-http://lattes.cnpq.br/405319
-3530262588 
+I 
+8 
+4 
+http://lattes.cnpq.br/390713
+7660834883 
 35 
-REGINALDO CÉSAR IZELLI 
-50366 
-137 
+Fernanda P. Paniz 
+72346 
+113-Fatec Mauá - 
+R-06 
+D 
+I 
+9 
+9 
+http://lattes.cnpq.br/138518
+9475323434 
+36 
+Fretz S. Junior 
+29908 
+113-Fatec Mauá - 
+R-06 
+D 
+III 
+19 
+24 
+http://lattes.cnpq.br/882139
+8582307961 
+37 
+Gisele da S. E. C. Prado 
+78465 
+113-Fatec Mauá - 
+R-06 
+M 
+I 
+14 
+22 
+http://lattes.cnpq.br/139739
+5633033038 
+38 
+Gleisa Pitareli 
+76971 
+113-Fatec Mauá - 
+R-06 
+M 
+I 
+11 
+12 
+http://lattes.cnpq.br/147454
+5616247879 
+39 
+Guilherme T. de Alencar 
+72558 
+113-Fatec Mauá - 
+R-06 
+D 
+I 
+2 
+14 
+http://lattes.cnpq.br/806184
+3696414051 
+40 
+Helio M. Omura 
+78887 
+113-Fatec Mauá - 
+R-06 
+E 
+I 
+3 
+33 
+http://lattes.cnpq.br/596532
+1523315697 
+41 
+Humberto L. de Toledo 
+44657 
+168 -Fatec São 
+Caetano do Sul - 
+R-06 
+M 
+I 
+18 
+8 
+http://lattes.cnpq.br/141161
+4386068364 
+42 
+Imário Vieira 
+75890 
+113-Fatec Mauá - 
+R-06 
+D 
+I 
+26 
+30 
+http://lattes.cnpq.br/888208
+3208272976 
+43 
+Ismael M. Parede 
+24001 
+126 -Fatec São 
+Bernardo do 
+Campo - R-06 
 M 
 II 
 16 
-1 
-http://lattes.cnpq.br/467472
-9078322469 
-36 
-RICARDO SOARES DE MENESES 
-21428 
-137 
-M 
-II 
-24 
-10 
-http://lattes.cnpq.br/090640
-8309749531 
-37 
-RODRIGO AVELLA RAMIREZ 
-34310 
-137 
-D 
-III 
-30 
-30 
-http://lattes.cnpq.br/387585
-7514322336 
-38 
-ROSANA MARIANO 
-46585 
-137 
+52 
+http://lattes.cnpq.br/994063
+6692194943 
+44 
+Ivan C. Pavão 
+11430 
+113-Fatec Mauá - 
+R-06 
 M 
 II 
 20 
-10 
-http://lattes.cnpq.br/968660
-7821594724 
-39 
-SILAS GUTIERREZ 
-46584 
-137 
-D 
-III 
-26 
-8 
-http://lattes.cnpq.br/947037
-0810010437 
-40 
-SILZA MARIA  LIBRELON RAIA 
-46591 
-137 
+23 
+http://lattes.cnpq.br/709602
+5584502487 
+45 
+Izar M. Alvares 
+58073 
+168 -Fatec São 
+Caetano do Sul - 
+R-06 
 M 
 II 
+18 
 35 
-1 
- http://lattes.cnpq.br/60849
-18928452105 
-41 
-SOLANGE CHAGAS DO 
-NASCIMENTO MUNHOZ 
-21988 
-137 
+http://lattes.cnpq.br/488068
+8080004543 
+46 
+Jacinto C. A. Cansado 
+33694 
+209-Fatec Barueri 
+- R-05 
+E 
+III 
+22 
+25 
+http://lattes.cnpq.br/773800
+3166416550 
+47 
+Jarbas T.S. de Almeida 
+24204 
+113-Fatec Mauá - 
+R-06 
 D 
 III 
-31 
-31 
-http://lattes.cnpq.br/229167
-6644260687 
+22 
+25 
+http://lattes.cnpq.br/681653
+4719827375 
+48 
+João C. de Souza 
+27547 
+113-Fatec Mauá - 
+R-06 
+M 
+II 
+19 
+32 
+http://lattes.cnpq.br/401447
+6863900541 
+49 
+João de D. D. Neto 
+74862 
+113-Fatec Mauá - 
+R-06 
+M 
+I 
+19 
+22 
+http://lattes.cnpq.br/582531
+2336323002 
+50 
+Jobel S. Corrêa 
+74887 
+005-Fatec Baixada 
+Santista - R-06 
+E 
+I 
+10 
+23 
+http://lattes.cnpq.br/213337
+1046637590 
+51 
+José F. Messias 
+73409 
+113-Fatec Mauá - 
+R-06 
+M 
+I 
+23 
+15 
+http://lattes.cnpq.br/388308
+9627486653 
+52 
+José M. da Silva 
+75578 
+113-Fatec Mauá - 
+R-06 
+E 
+I 
+1 
+14 
+http://lattes.cnpq.br/026622
+3185790458 
+53 
+Jovelino S. Seraphim 
+21130 
+113-Fatec Mauá - 
+R-06 
+M 
+III 
+21 
+35 
+http://lattes.cnpq.br/137571
+9050925932 
+54 
+Leandro da S. Oliveira 
+66071 
+113-Fatec Mauá - 
+R-06 
+M 
+II 
+7 
+14 
+http://lattes.cnpq.br/523568
+6227307611 
+55 
+Leandro Gabriel 
+72302 
+111-Fatec Zona 
+Leste - R-04 
+M 
+I 
+4 
+13 
+http://lattes.cnpq.br/723352
+0448738105 
+56 
+Leticia O. dos Ouros 
+73254 
+113-Fatec Mauá - 
+R-06 
+M 
+I 
+6 
+16 
+http://lattes.cnpq.br/456640
+5745534282 
+57 
+Levi de O. Souza 
+74675 
+294-Fatec Franco 
+da Rocha - R-05 
+M 
+I 
+28 
+35 
+http://lattes.cnpq.br/292490
+5592840995 
+58 
+Litzy L. C. Catorceno 
+73350 
+257-Fatec 
+Itaquera - R-04 
+M 
+I 
+8 
+2 
+http://lattes.cnpq.br/512973
+8002277494 
+59 
+Luana Lourenco 
+75824 
+113-Fatec Mauá - 
+R-06 
+E 
+I 
+17 
+5 
+http://lattes.cnpq.br/482658
+5805901816 
+60 
+Lucas M. Néia 
+76955 
+113-Fatec Mauá - 
+R-06 
+D 
+I 
+1 
+10 
+http://lattes.cnpq.br/042561
+9768915928 
+11 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
+ 
+Nome 
+Matrícula 
+Cód. UE sede 
+Titulação* 
+Referência 
+Experiência Profissional 
+Curriculum Lattes (URL) 
+Docência 
+(anos) 
+Não docência 
+(anos) 
+61 
+Lucia M. dos Santos 
+74830 
+294-Fatec Franco 
+da Rocha - R-05 
+M 
+I 
+7 
+20 
+http://lattes.cnpq.br/405549
+4058362834 
+62 
+Luciana S. Zapparolli 
+12047 
+113-Fatec Mauá - 
+R-06 
+M 
+II 
+19 
+26 
+http://lattes.cnpq.br/587648
+17813135941997 
+63 
+Luiz A. de Lima 
+73612 
+113-Fatec Mauá - 
+R-06 
+D 
+I 
+17 
+25 
+http://lattes.cnpq.br/889337
+6836766464 
+64 
+Luiz C. Peretti 
+49974 
+113-Fatec Mauá - 
+R-06 
+M 
+II 
+10 
+40 
+http://lattes.cnpq.br/178544
+0052557076 
+65 
+Luiz T. Filho 
+27538 
+113-Fatec Mauá - 
+R-06 
+D 
+III 
+38 
 42 
-TOKIO  HOSSOKAWA 
+http://lattes.cnpq.br/541182
+5778363044 
+66 
+Marcelo A. P. Aragão 
+62174 
+111-Fatec Zona 
+Leste - R-04 
+E 
+I 
+10 
+0 
+http://lattes.cnpq.br/731790
+8958392191 
+67 
+Marcos O. Gentil 
+29904 
+113-Fatec Mauá - 
+R-06 
+M 
+II 
+16 
+16 
+http://lattes.cnpq.br/352847
+4192471665 
+68 
+Maria da C. Medeiros 
+68526 
+113-Fatec Mauá - 
+R-06 
+M 
+I 
+5 
+14 
+https://lattes.cnpq.br/64523
+03103701180 
+69 
+Mauro A. de Sousa 
+29910 
+113-Fatec Mauá - 
+R-06 
+D 
+III 
+18 
+0 
+http://lattes.cnpq.br/437542
+2010698791 
+70 
+Moacyr da S. Caminada 
+49311 
+216-Fatec Osasco 
+- R-05 
+M 
+III 
+21 
+11 
+http://lattes.cnpq.br/295437
+0224317366 
+71 
+Nelson A. Thomaz 
+28135 
+113-Fatec Mauá - 
+R-06 
+M 
+II 
+20 
+24 
+http://lattes.cnpq.br/144351
+7362780368 
+72 
+Nizi V. Morselli 
+15487 
+113-Fatec Mauá - 
+R-06 
+M 
+II 
+22 
+8 
+http://lattes.cnpq.br/849783
+477637327 
+73 
+Osmil A. Morselli 
+13784 
+113-Fatec Mauá - 
+R-06 
+M 
+II 
+20 
+49 
+http://lattes.cnpq.br/128352
+3367056773 
+74 
+Paulo A. Pereira 
+79017 
+113-Fatec Mauá - 
+R-06 
+M 
+III 
+2 
+17 
+http://lattes.cnpq.br/722378
+0190902459 
+75 
+Paulo C. Pinheiro 
+75391 
+113-Fatec Mauá - 
+R-06 
+M 
+I 
+23 
+15 
+http://lattes.cnpq.br/105670
+6188942175 
+76 
+Paulo H. L. Fernando 
+79019 
+113-Fatec Mauá - 
+R-06 
+D 
+I 
+7 
+23 
+http://lattes.cnpq.br/205710
+9098852026 
+77 
+Paulo H. Ogata 
+54413 
+257-Fatec 
+Itaquera - R-04 
+D 
+III 
+13 
+0 
+http://lattes.cnpq.br/980563
+8959282989 
+78 
+Paulo J. F. de A. Junior 
+17951 
+005-Fatec Baixada 
+Santista - R-06 
+D 
+III 
+24 
+30 
+http://lattes.cnpq.br/464404
+1240765676 
+79 
+Raimundo D. Camargo 
+31457 
+113-Fatec Mauá - 
+R-06 
+M 
+II 
+27 
+6 
+http://lattes.cnpq.br/464404
+1240765676 
+80 
+Regis Reis 
+73546 
+113-Fatec Mauá - 
+R-06 
+D 
+I 
+26 
+14 
+http://lattes.cnpq.br/062872
+3891101198 
+81 
+Renata Rodrigues 
+52227 
+113-Fatec Mauá - 
+R-06 
+M 
+II 
+25 
+9 
+https://lattes.cnpq.br/57945
+53745733353 
+82 
+Renato M. Richter 
+73408 
+113-Fatec Mauá - 
+R-06 
+M 
+I 
+20 
+15 
+http://lattes.cnpq.br/583814
+9860130363 
+83 
+Renato M. de Barros 
+56438 
+113-Fatec Mauá - 
+R-06 
+D 
+III 
+25 
+6 
+http://lattes.cnpq.br/583814
+9860130363 
+84 
+Rennan S. de Araujo 
+75276 
+113-Fatec Mauá - 
+R-06 
+M 
+I 
+1 
+10 
+http://lattes.cnpq.br/619961
+3389286948 
+85 
+Ricardo P. Brzozowski 
+49511 
+113-Fatec Mauá - 
+R-06 
+M 
+III 
+37 
+12 
+http://lattes.cnpq.br/265601
+7066576032 
+86 
+Rivaldo J. da Silva 
+75043 
+113-Fatec Mauá - 
+R-06 
+M 
+I 
+15 
+25 
+http://lattes.cnpq.br/942721
+4301965869 
+87 
+Roberta K.B.C.Cavalcanti 
+77005 
+113-Fatec Mauá - 
+R-06 
+D 
+I 
+1 
+5 
+http://lattes.cnpq.br/304164
+1221047702 
+88 
+Roberto Giusti 
+41946 
+113-Fatec Mauá - 
+R-06 
+E 
+I 
+17 
+11 
+http://lattes.cnpq.br/123193
+8111199045 
+89 
+Rogério Baqueiro 
+76265 
+113-Fatec Mauá - 
+R-06 
+M 
+I 
+11 
+8 
+http://lattes.cnpq.br/768817
+7107693983 
+90 
+Ronaldo C. Cozza 
+17897 
+113-Fatec Mauá - 
+R-06 
+D 
+III 
+17 
+5 
+http://lattes.cnpq.br/429491
+2514809657 
+91 
+Rondes F. da S. Torin 
+49510 
+113-Fatec Mauá - 
+R-06 
+D 
+III 
+11 
+0 
+http://lattes.cnpq.br/149480
+9578346372 
+92 
+Rosemeire S. Almeida 
+52226 
+113-Fatec Mauá - 
+R-06 
+D 
+III 
+19 
+1 
+http://lattes.cnpq.br/152313
+0566620121 
+12 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
+ 
+Nome 
+Matrícula 
+Cód. UE sede 
+Titulação* 
+Referência 
+Experiência Profissional 
+Curriculum Lattes (URL) 
+Docência 
+(anos) 
+Não docência 
+(anos) 
+93 
+Samuel A. de O. Neto 
+69929 
+183-Fatec 
+Bragança Paulista 
+- R-03 
+M 
+I 
+28 
+28 
+http://lattes.cnpq.br/426111
+0292394989 
+94 
+Sandro O. dos Santos 
+66068 
+113-Fatec Mauá - 
+R-06 
+M 
+II 
+10 
+13 
+http://lattes.cnpq.br/241427
+6392001885 
+95 
+Sebastião G. de Campos 
+29906 
+113-Fatec Mauá - 
+R-06 
+M 
+II 
+16 
+25 
+http://lattes.cnpq.br/577143
+3908875153 
+96 
+Sérgio L. Volpiano 
+21458 
+126 -Fatec São 
+Bernardo do 
+Campo - R-06 
+M 
+II 
+24 
+3 
+http://lattes.cnpq.br/860006
+9416756468 
+97 
+Sergio M. Ruggero 
+74816 
+113-Fatec Mauá - 
+R-06 
+M 
+I 
+2 
+34 
+http://lattes.cnpq.br/725044
+7343368947 
+98 
+Sérgio Scuotto 
+56433 
+113-Fatec Mauá - 
+R-06 
+M 
+II 
+9 
+49 
+http://lattes.cnpq.br/823513
+8487366729 
+99 
+Sidioney O. Silveira 
+60954 
+272 – Fatec 
+Sebrae -R-05 
+M 
+I 
+21 
+15 
+http://lattes.cnpq.br/674040
+0861418731 
+100 Sidney N. P. de Jesus 
+56435 
+113-Fatec Mauá - 
+R-06 
+D 
+II 
+30 
+38 
+http://lattes.cnpq.br/149901
+0482300656 
+101 Silvio A. da Silva 
+73988 
+167-Fatec 
+Guarulhos - R-04 
+M 
+I 
+22 
+16 
+http://lattes.cnpq.br/319925
+8725627659 
+102 Talita A. dos Santos 
+72834 
+113-Fatec Mauá - 
+R-06 
+D 
+I 
+2 
+12 
+http://lattes.cnpq.br/409611
+2790755154 
+103 Tarcis A. da Silva 
+71785 
+278-Fatec Itapira - 
+R-02 
+E 
+I 
+12 
+15 
+http://lattes.cnpq.br/216867
+6963781545 
+104 Taylor M. F. Junior 
+56431 
+113-Fatec Mauá - 
+R-06 
+M 
+II 
+19 
+0 
+http://lattes.cnpq.br/168451
+6537290416 
+105 Telma A. Mafra 
+29912 
+113-Fatec Mauá - 
+R-06 
+D 
+III 
+23 
+6 
+http://lattes.cnpq.br/985992
+6710500351 
+106 Thiago L. Merissi 
+73048 
+173-Fatec 
+Jaboticabal - R-09 
+M 
+I 
+2 
+0 
+http://lattes.cnpq.br/140422
+1890822636 
+107 Thierri V. dos Santos 
+69842 
+217-Fatec 
+Diadema - R-06 
+M 
+I 
+4 
+8 
+http://lattes.cnpq.br/743154
+9107525061 
+108 Tiago B. de Avila 
+77104 
+114-Fatec Jundiaí 
+- R-03 
+M 
+I 
+5 
+11 
+http://lattes.cnpq.br/588988
+9631054668 
+109 Tokio Hossokawa 
 46589 
-137 
+137-Fatec Zona 
+Sul - R-06 
 M 
 II 
 25 
 0 
 http://lattes.cnpq.br/951650
 4758927224 
-43 
-WALCYR DE MOURA E SILVA 
-20948 
-137 
-E 
-III 
-26 
-52 
-http://lattes.cnpq.br/986802
-2803819572 
-44 
-WINSTON APARECIDO ANDRADE 
-59453 
-137 
-M 
-II 
-13 
-24 
-http://lattes.cnpq.br/458507
-1894386581 
-45 
-ALEXANDRE MARCHIORI DE 
-ALMEIDA 
-71721 
-168 
+110 Vanessa Hildebrando 
+73545 
+113-Fatec Mauá - 
+R-06 
 M 
 I 
-34 
-34 
-http://lattes.cnpq.br/161604
-5933064370 
-46 
-CELSO LUIZ RIGOTTO 
-57305 
-137 
-E 
-II 
-27 
-27 
-http://lattes.cnpq.br/465961
-8721578081 
-47 
-DANIELA MENEZES GARZARO 
-71799 
-168 
-D 
-I 
-6 
-30 
-http://lattes.cnpq.br/663770
-6373384890 
-48 
-EDISON QUIRINO D AMARIO 
-71343 
-257 
-D 
-I 
-38 
-38 
- http://lattes.cnpq.br/93790
-50696843573 
-49 
-FATIMA GUARDA SARDEIRO 
-27057 
-209 
-M 
-I 
-18 
-22 
-http://lattes.cnpq.br/669145
-8019154364 
-50 
-GETÚLIO KAZUE AKABANE 
-20455 
 2 
+0 
+http://lattes.cnpq.br/351942
+2247330742 
+111 Vitor da S. Bittencourt 
+73004 
+113-Fatec Mauá - 
+R-06 
+D 
+I 
+22 
+30 
+http://lattes.cnpq.br/359142
+7487589282 
+112 Walker S. Drumond 
+49964 
+113-Fatec Mauá - 
+R-06 
 D 
 III 
-50 
-50 
-http://lattes.cnpq.br/987150
-2614355970 
-51 
-GILBERTO DE OLIVEIRA ANTONIO 
-74637 
-270 
-M 
-I 
-20 
-20 
-http://lattes.cnpq.br/540332
-7612865222 
-52 
-GLEICIANE OLIVEIRA DE MORAIS 
-71338 
-111 
-M 
-I 
-22 
-22 
-http://lattes.cnpq.br/383274
-1952135991 
-53 
-LUCAS PEREIRA DA ROCHA 
-73982 
-137 
+11 
+5 
+http://lattes.cnpq.br/422047
+4601865847 
+113 Wil R. R. de Brito 
+52234 
+113-Fatec Mauá - 
+R-06 
 E 
-I 
-7 
+II 
 14 
-http://lattes.cnpq.br/655759
-2417785571 
-54 
-LUCIANA AKEMI NAKABAYASHI 
-71803 
-209 
-M 
-I 
-29 
-29 
-http://lattes.cnpq.br/298660
-0638202040 
-55 
-MAURY LUIZ MARTINS DE SOUZA 
-73466 
-137 
-M 
-I 
-26 
-26 
-http://lattes.cnpq.br/435455
-9308238661 
-56 
-PAULO CÉSAR DE OLIVEIRA 
-BARROSO DE CARVALHO 
-70111 
-137 
-M 
-I 
+16 
+http://lattes.cnpq.br/305934
+3400422544 
+114 William M. M. Filho 
+43034 
+113-Fatec Mauá - 
+R-06 
+D 
+III 
+20 
 23 
-23 
-http://lattes.cnpq.br/813510
-4814161504 
-57 
-SONIA REGINA SOARES DA 
-CUNHA 
-72231 
-137 
+http://lattes.cnpq.br/988891
+4170875821 
+115 William R. Soares 
+78254 
+002-Fatec São 
+Paulo - R-05 
 M 
 I 
 3 
-9 
-http://lattes.cnpq.br/081703
-2642818752 
-58 
-TARCÍSIO OLIVEIRA 
-VASCONCELOS 
-71006 
-270 
-M 
-I 
-22 
-28 
-http://lattes.cnpq.br/655759
-5946011722 
-59 
-VANESSA DE ALMEIDA SILVA 
-75434 
-137 
-E 
-I 
-1 
-14 
-http://lattes.cnpq.br/971172
-6786421533 
-60 
-VINICIUS HELTAI PACHECO 
-74587 
-217 
-M 
-I 
-16 
-16 
-http://lattes.cnpq.br/314528
-6898322254 
+12 
+http://lattes.cnpq.br/482921
+0510781381 
  
  
-10 
- 
- 
- 
-Relatório de Autoavaliação Institucional 
-da Fatec – 2023/2º Parcial
 * 
 Titulação: D (Doutor), M (Mestre), E (Especialista) 
  
  
-11 
+13 
  
  
  
@@ -1084,7 +1944,7 @@ Anexo de ATAs
  
  
  
-12 
+14 
  
  
  
@@ -1139,7 +1999,7 @@ outros processos de avaliação;
 9. Aprovar seu próprio regulamento em consonância com as diretrizes 
 emanadas pela CPA Central. 
  
-13 
+15 
  
  
  
@@ -1153,8 +2013,8 @@ pelo Conselho Estadual de Educação para a visita à Instituição em seu proce
 recredenciamento, conforme dispõe a Deliberação do CEE 160/2018.  
  
 2.1 Cronograma das atividades da CPA 
-A partir desta estrutura a CPA da Fatec  Zona Sul  para cumprir o que lhe 
-compete, durante o ano de 2023 elaborou o seguinte cronograma de trabalho:  
+A partir desta estrutura a CPA da Fatec Mauá para cumprir o que lhe compete, 
+durante o ano de 2023 elaborou o seguinte cronograma de trabalho:  
  
 Atividades / Ações 
 Mês 
@@ -1174,13 +2034,13 @@ Reuniões com a equipe gestora da UE para
 sistematização das ações e composições de 
 grupos de trabalho. 
   
+X 
  
  
  
  
  
- 
- X 
+X 
  
  
   
@@ -1191,16 +2051,16 @@ integrada a partir da percepção dos
 diferentes segmentos que compõem a 
 comissão. 
   
+X 
+X 
+X 
+X 
  
  
- 
- 
- 
- 
- 
- X 
- 
- 
+X 
+X 
+X 
+X 
   
 Sensibilização para participação nos 
 procedimentos e coleta:  Encontros com 
@@ -1214,9 +2074,9 @@ alimentar a cultura avaliativa da Fatec.
  
  
  
+X 
+X 
  
- 
- X 
  
   
 Organização dos procedimentos de coleta 
@@ -1231,9 +2091,9 @@ formulário de coleta.
  
  
  
+X 
+X 
  
- 
- X 
   
   
 Análise dos resultados – acolhimento dos 
@@ -1248,8 +2108,8 @@ de análise.
  
  
  
- 
- X 
+X 
+X 
  
 Encaminhamento dos dados coletados para 
 a equipe gestora da UE, que recebe os 
@@ -1267,8 +2127,8 @@ CPA
  
  
  
- X 
  
+X 
 Elaboração do relatório da CPA.  
  
  
@@ -1280,7 +2140,7 @@ Elaboração do relatório da CPA.
  
  
  
- X 
+X  
  X 
 Envio do Relatório para a emissão do 
 parecer da Cesu/DGE e apreciação da CPA 
@@ -1300,17 +2160,17 @@ Central
 Divulgação dos resultados à comunidade 
 acadêmica. 
  
+X 
  
  
- 
-  
-  
-  
-  
   
   
   
  X 
+  
+  
+  
+  
 Conclusão do Relatório. 
   
   
@@ -1322,8 +2182,8 @@ Conclusão do Relatório.
   
   
   
-  
  X 
+X 
  
  
  
@@ -1335,64 +2195,6 @@ Conclusão do Relatório.
  
  
  
- 
- 
-14 
- 
- 
- 
-Relatório de Autoavaliação Institucional 
-da Fatec – 2023/2º Parcial
-2.2 Ações de sensibilização da comunidade acadêmica 
-Para a efetivação do cronograma destaca-se algumas das ações para a 
-realização dos procedimentos de autoavaliação.  
-• 
- Reuniões periódicas com todos os participantes da 
-comunidade acadêmica; 
-• Apresentação de relatórios parciais para leitura detalhada, 
-discussão, correção e aperfeiçoamento; 
-• Incentivo permanente e orientação para que todos 
-participassem da pesquisa do WEBSAI e estivessem  
-presentes nos momentos em que fossem discutidos os 
-resultados desta sondagem; 
-• Envio de vários e-mails a todos os discentes pela Diretoria 
-Acadêmica e Coordenações de Curso, além de mensagens 
-postadas em todas as Equipes do Teams, e também enviadas 
-pelo chat pelos Coordenadores de Curso aos alunos que não 
-tinham respondido a pesquisa quando faltavam poucos dias 
-para o término, todas estas ações sempre orientando sobre 
-a importância da participação na pesquisa do WEBSAI;  
-• Publicação de lembrete para participação da pesquisa do 
-WEBSAI no site da Fatec Zona Sul, com “pop up” que era 
-visualizado automaticamente por quem acessasse a página; 
-• Publicação de lembrete para participação da pesquisa do 
-WEBSAI nas redes sociais da Fatec Zona Sul;  
-• Distribuição de grupos de alunos entre os docentes que 
-ministram aulas em cada turma, para orientação individual, 
-e auxílio, quando necessário, para participação da pesquisa 
-do WEBSAI;  
-• Emissão de relatórios de questionários não respondidos e 
-encaminhamento de mensagens, oferecendo auxílio com 
-quaisquer dificuldades, a todos os discentes, docentes e 
-funcionários que ainda não tinham participado da pesquisa 
-do WEBSAI; e  
-• Tabulação dos dados coletados, elaboração de gráficos, 
-tabelas e quadro para posterior redação dos relatórios e 
-informes aos membros da comunidade acadêmica local e 
-instituições reguladoras externas. 
-15 
- 
- 
- 
-Relatório de Autoavaliação Institucional 
-da Fatec – 2023/2º Parcial
- 
-Seguem evidências de algumas ações que foram implementadas para a 
-sensibilização de toda a comunidade acadêmica: 
-Figura 1 – “Pop up” no site da Fatec Zona Sul: 
- 
- 
-Figura 2 – “Pop up” no site da Fatec Zona Sul sobre a prorrogação do prazo da pesquisa:  
  
  
 16 
@@ -1401,9 +2203,20 @@ Figura 2 – “Pop up” no site da Fatec Zona Sul sobre a prorrogação do pra
  
 Relatório de Autoavaliação Institucional 
 da Fatec – 2023/2º Parcial
-Figura 3 – Post nas redes sociais da Fatec Zona Sul:  
+2.2 Ações de sensibilização da comunidade acadêmica 
+Para a efetivação do cronograma destaca-se algumas das ações para a 
+realização dos procedimentos de autoavaliação.  
+➢ Espaço da aula destinado para preenchimento do Websai; 
+➢ Notificação via Teams aos professores; 
+➢ Mensagens de whatsapp (individual) nos dias finais do processo; 
+➢ Reforço aos alunos por representantes dos alunos da CPA e por 
+representantes de sala; 
+➢ Ingresso dos Coordenadores em aulas para sensibilizar alunos sobre o 
+WebSAI; 
+➢ Envio de mensagem pelos Coordenadores ao e-mail institucional dos 
+alunos; 
  
-Figura 4 – E-mail enviado pelas Coordenações a todos os professores:  
+ 
  
  
  
@@ -1416,16 +2229,8 @@ Figura 4 – E-mail enviado pelas Coordenações a todos os professores:
  
 Relatório de Autoavaliação Institucional 
 da Fatec – 2023/2º Parcial
-Figura 5 – E-mail enviado pelas Coordenações a todos os alunos:  
- 
- 
- 
 2.3 Identificação dos sujeitos da avaliação 
-  Participou do processo de avaliação institucional toda a comunidade acadêmica: 
-docentes ( 7,32 %), funcionários administrativos ( 2,52 %) e discentes ( 90,15 %). 
-Dos docentes, participaram 100%; dos funcionários administrativos, 100%; e dos 
-discentes, 48,89 %, destacando que os alunos do Curso de Gestão Empresarial na 
-modalidade EaD ( 213 no 2º semestre de 2023) não participaram da pesquisa.  
+.  
  
 2.4 Organização dos instrumentos de coleta  
 Desde 1997 o Centro Paula Souza, evidenciando o seu pioneirismo em buscar 
@@ -1434,12 +2239,6 @@ Institucional (SAI), implantado em 1999 em todas as Etecs (Escolas de Ensino Té
 no nível médio) e, em 2000, nas Fatecs, seguindo os mais rigorosos critérios 
 estatísticos. Sendo os instrumentos elaborados e preenchidos em formulários 
 impressos de 1999 a 2012.  
-18 
- 
- 
- 
-Relatório de Autoavaliação Institucional 
-da Fatec – 2023/2º Parcial
 A partir de 2010, os questionários deixaram de ser preenchidos em formulário 
 de papel e passaram a ser totalmente on-line, trazendo mais agilidade ao processo 
 de avaliação. Desde então, todos os participantes realizam a pesquisa pela internet e 
@@ -1449,165 +2248,136 @@ as 10 dimensões dentro dos 5 eixos avaliativos, a partir da criação da comiss
 CPA Central a AAI em parceria com a CESU, por meio de uma equipe qualificada, 
 reorganizou a elaboração dos Instrumentos adequando-os em torno dos 5 eixos 
 avaliativos:  
- Planejamento e Avaliação Institucional, Desenvolvimento Institucional, 
-Políticas Acadêmicas, Políticas de Gestão e Infraestrutura Física. 
-Os instrumentos de avaliação foram organizados em  três categorias: docentes, 
-discentes e técnicos-administrativos e são constituídos por perguntas de múltipla 
-escolha. Para os docentes foram disponibilizadas 16 questões; aos discentes, 17 
-questões; e aos técnicos-administrativos, 16 questões, organizadas nas 9 dimensões, 
-dentro dos 5 eixos avaliativos propostos pelo SINAES.  
-A metodologia para coleta de dados incluiu reuniões com os membros efetivos 
-da Comissão Própria de Avaliação e segmentos da comunidade acadêmica, com 
-destaque a professores, funcionários e discentes. 
-As informações deste relatório foram obtidas durante as reuniões da CPA, 
-aplicação e tabulação dos   questionários da pesquisa institucional WEBSAI 2023, 
-sondagem realizada todos os anos pelo Centro Paula Souza, para conhecer a 
-satisfação e o atendimento de expectativas de toda a comunidade. Os dados 
-coletados por ela possibilitam analisar os principais processos de funcionamento das   
-unidades de ensino do Centro Paula Souza, seus resultados, seu desempenho com o 
-passar do tempo e o impacto na realidade social em que a instituição se insere”. 
-(https://websai.cps.sp.gov.br). 
-O WEBSAI - 2023 da FATEC Zona Sul contou com a participação de 833 
-membros da comunidade acadêmica, avaliando as seguintes dimensões: cadastro, 
+18 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
+ 
+ 
+ 
+2.5 Procedimentos para a coleta 
+ 
+A AAI disponibilizou o acesso ao sistema de coleta (WebSAI) a partir de 09 de 
+outubro de 2023 ficou disponível para o preenchimento da comunidade do dia 09 de 
+outubro de 2023. Para favorecer a participação da comunidade durante este período 
+a CPA e Direção da Fatec Mauá, fez o acompanhamento da participação de cada 
+segmento, realizando ações para sensibilização contínua para a participação da 
+comunidade acadêmica, a saber: 
+i. 
+Reunião com a coordenação e CPA; 
+ii. 
+Envio de Email para comunidade acadêmica; 
+iii. 
+Acompanhamento da evolução dos Números 
+iv. 
+Disponibilização de laboratório e tempo de aula para o preenchimento 
+ 
+ 
+2.6 Análise e discussão dos dados da coleta  
+A partir do dia 14 de novembro de 2023 os dados coletados por meio do 
+WebSAI, foram disponibilizados pela AAI. A Fatec Mauá, por meio da CPA iniciou o 
+processo de organização dos dados coletados para encaminhamento à equipe 
+gestora da Unidade de Ensino. A CPA da Fatec .Mauá., aglutinou os dados extraídos 
+Pergunta
+Item
+Pergunta
+Item
+Pergunta
+Item
+1 - Planejamento e 
+Avaliação Institucional
+8 - Planejamento e Avaliação
+13
+3.1
+14
+3.1
+14
+3.1
+1 - Missão e Plano de 
+Desenvolvimento Institucional
+01, 02
+3.2
+01, 02
+3.2
+01, 02
+3.2
+3 - Responsabilidade social da 
+instituição
+05, 06
+3.2
+05, 06
+3.2
+05, 06
+3.2
+2 - Política para ensino, 
+pesquisa e extensão
+03, 04
+3.3
+03, 04
+3.3
+03, 04
+3.3
+4 - Comunicação com a 
+sociedade
+07, 08
+3.3
+07, 08
+3.3
+07, 08
+3.3
+9 - Política de atendimento aos 
+discentes
+14, 15
+3.3
+15, 16
+3.3
+15, 16
+3.3
+5 - Políticas de pessoal
+09
+3.4
+09
+3.4
+6 - Organização e Gestão da 
+Organização
+09, 10
+3.4
+10, 11
+3.4
+10, 11
+3.4
+10 - Sustentabilidade 
+Financeira
+5 - Infraestrutura Física
+7 - Infraestrutura Física
+11, 12
+3.5
+12, 13
+3.5
+12, 13
+3.5
+16, 17
+3 - Políticas Acadêmicas
+4 - Política de Gestão
+Eixo
+Dimensão
+2 - Desenvolvimento 
+Institucional
+Alunos
+Técnico Administrativo
+Docente
+Distribuição das questões por eixo, dimensão e relatório
 19 
  
  
  
 Relatório de Autoavaliação Institucional 
 da Fatec – 2023/2º Parcial
-condições de ensino, ambiente educativo, gestão administrativa, gestão pedagógica 
-e nível de satisfação. Os resultados dos questionários foram tabulados, transformados 
-em gráficos e submetidos à avaliação ao longo deste relatório dentro dos seguintes 
-eixos: Planejamento e Avaliação Institucional, Desenvolvimento Institucional, Políticas 
-Acadêmicas, Políticas de Gestão e Infraestrutura Física. 
-  
- 
- 
-2.5 Procedimentos para a coleta 
- 
-A AAI disponibilizou o acesso ao sistema de coleta (WebSAI) a partir de  09  de  
-outubro  de 2023 ficou disponível para o preenchimento da comunidade do dia  27  de  
-outubro   de 2023. Para favorecer a participação da comunidade durante este período 
-a CPA e Direção da Fatec Zona Sul  , fez o acompanhamento da participação de cada 
-segmento, realizando ações para sensibilização contínua para a participação da 
-comunidade acadêmica, a saber: 
-i.  Envio de vários e-mails a todos os discentes pela 
-Diretoria Acadêmica e Coordenações de Curso, além de 
-mensagens postadas em todas as Equipes do Teams, e 
-também enviadas pelo chat pelos Coordenadores de 
-Curso aos alunos que não tinham respondido a 
-pesquisa quando faltavam poucos dias para o término, 
-todas estas ações sempre orientando sobre a 
-importância da participação na pesquisa do WEBSAI;  
-ii. Publicação de lembrete para participação da pesquisa 
-do WEBSAI no site da Fatec Zona Sul, com “pop up” que 
-era visualizado automaticamente por quem acessasse 
-a página; 
-iii. Publicação de lembrete para participação da pesquisa 
-do WEBSAI nas redes sociais da Fatec Zona Sul;  
-iv. Distribuição de grupos de alunos entre os docentes que 
-ministram aulas em cada turma, para orientação 
-individual, e auxílio, quando necessário, para 
-participação da pesquisa do WEBSAI; e 
-v. Emissão 
-de 
-relatórios 
-de 
-questionários 
-não 
-respondidos e encaminhamento de mensagens, 
-oferecendo auxílio com quaisquer dificuldades, a todos 
-20 
- 
- 
- 
-Relatório de Autoavaliação Institucional 
-da Fatec – 2023/2º Parcial
-os discentes, docentes e funcionários que ainda não 
-tinham participado da pesquisa do WEBSAI. 
-  
-Seguem alguns exemplos das ações adotadas com o monitoramento do 
-andamento da pesquisa WEBSAI, para que toda a comunidade acadêmica que ainda 
-não havia participado, o fizesse: 
- 
-Figura 6 – E-mail enviado pelas Coordenações a todos os professores sobre a prorrogação do prazo 
-da pesquisa e distribuição entre os docentes da tarefa de incentivar os alunos a responderem: 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-21 
- 
- 
- 
-Relatório de Autoavaliação Institucional 
-da Fatec – 2023/2º Parcial
-Figura 7 – E-mail enviado a todos os representantes de sala, com relação dos alunos que ainda não 
-haviam respondido à pesquisa, quando da prorrogação do prazo da pesquisa: 
- 
- 
- 
- 
-2.6 Análise e discussão dos dados da coleta  
-A partir do dia  09 de _novembro  de 2023 os dados coletados por meio do 
-WebSAI, foram disponibilizados pela AAI. A Fatec  Zona Sul , por meio da CPA iniciou 
-o processo de organização dos dados coletados para encaminhamento à equipe 
-gestora da Unidade de Ensino. A CPA da Fatec  Zona Sul ,  então, encaminhou os 
-dados coletados por e-mail para todos os setores, a fim de que a Diretoria Geral, a 
-Diretoria Acadêmica, a Diretoria Administrativa e as Coordenações de Cursos 
-realizassem 
-discussões 
-sobre 
-os 
-dados, 
-identificando 
-as 
-fragilidades, 
-potencialidades, ações corretivas, e elaborassem a justificativa em relação aos dados 
-e o plano de melhoria com o respectivo cronograma de implementação.  
-Seguem os e-mails enviados à Diretoria Geral, Diretoria Acadêmica, Diretoria 
-Administrativa e Coordenações de Curso, com os gráficos do WEBSAI, solicitando as 
-contribuições de cada setor, a partir das respostas obtidas com a pesquisa: 
- 
-Figura 8 – E-mail enviado à Diretoria Geral: 
-22 
- 
- 
- 
-Relatório de Autoavaliação Institucional 
-da Fatec – 2023/2º Parcial
- 
-Figura 9 – E-mail enviado à Diretoria Acadêmica: 
- 
- 
-Figura 10 – E-mail enviado à Diretoria de Serviços: 
-23 
- 
- 
- 
-Relatório de Autoavaliação Institucional 
-da Fatec – 2023/2º Parcial
- 
-Figura 11 – E-mail enviado às Coordenações de Curso: 
- 
-Figura 12 – E-mail enviado pela Coordenação do Curso de Gestão Empresarial aos Integrantes do CC 
-e NDE: 
-24 
- 
- 
- 
-Relatório de Autoavaliação Institucional 
-da Fatec – 2023/2º Parcial
- 
- 
-Figura 13 – E-mail enviado pela Coordenação do Curso de Logística aos Integrantes do CC e NDE: 
- 
- 
+do WebSAI e realizou discussões semanalmente por meio de reuniões via plataforma 
+Teams. Com os gráficos elaborados, houve a análise e a inserção dos PGAs para 
+atendimento das ações necessárias para adequação de cada Eixo.. 
  
 2.7 Organização das medidas para composição do relatório 
  
@@ -1615,106 +2385,20 @@ Após o processo de elaboração do Plano de Gestão Anual (PGA), efetuou-se
 o preenchimento dos quadros de ações propostas, com o apontamento das medidas 
 de melhoramento e respectivos prazos, em consonância com o PGA. Os quadros 
 apresentados, foram condensados no capítulo 4 deste relatório, refletindo o 
-25 
- 
- 
- 
-Relatório de Autoavaliação Institucional 
-da Fatec – 2023/2º Parcial
 planejamento da Unidade de Ensino a partir dos indicadores observados em cada eixo 
 avaliativo.  
  
  
 2.8 Devolutiva dos resultados para a comunidade acadêmica   
  
-Após a apresentação do relatório para a Direção da Fatec. Zona Sul , foram 
+Após a apresentação do relatório para a Direção da Fatec..Mauá., foram 
 organizadas as formas de divulgação dos resultados e apresentação das ações 
 provenientes do processo de autoavaliação, permitindo o desenvolvimento 
 institucional.  
- Os resultados da auto avaliação foram apresentados para os vários segmentos 
-da comunidade, por meio de relatórios escritos pelos membros da Comissão Própria 
-de Avaliação, com destaque para as medidas que visam dar manutenção à 
-infraestrutura predial e melhorar as condições didático- pedagógicas da Fatec Zona 
-Sul, no que tange aos processos de ensino e aprendizagem e atendimento à 
-comunidade externa do entorno da faculdade. 
- 
-Por fim, a Diretoria Geral fez uma síntese das análises e propostas de melhorias 
-enviadas pelos diversos departamentos, após ampla discussão interna, síntese esta 
-que foi enviada pela CPA a todos os segmentos, para que pudessem vislumbrar de 
-que forma suas contribuições serão norteadoras do planejamento institucional para 
-2023. 
-             Dentre as principais melhorias propostas, destacam-se: 
- 
-• 
-publicar o PDI internamente e no site da FATEC Zona Sul, e fazer reuniões com os 
-representantes de sala, Núcleos Docentes Estruturante dos Cursos (NDE) e Conselhos de 
-Curso (CC), para maior divulgação e compreensão deste documento por todos; 
-• 
-manter os cursos de nivelamento, reforço e recuperação das disciplinas em que os alunos 
-possuem maior dificuldade de aprendizagem ou deficiência advindas do Ensino Médio; 
-• 
-capacitar professores nas metodologias ativas de ensino, melhorar os equipamentos utilizados 
-em sala de aula e adequar as propostas de aula às necessidades do mercado de trabalho; 
-• 
-promover eventos na unidade que disseminem Ciência, Tecnologia e Inovação, e também 
-eventos voltados à valorização da cultura e arte para formação integral de nossos alunos, além 
-de incentivar sempre a inclusão social e o desenvolvimento sustentável; 
-26 
- 
- 
- 
-Relatório de Autoavaliação Institucional 
-da Fatec – 2023/2º Parcial
-• 
-continuar a incentivar o diálogo, valores éticos e democráticos no cotidiano das relações 
-acadêmicas e sociais que ocorrem na faculdade;  
-• 
-promover a abertura de cursos de pós-graduação lato sensu na FATEC Zona Sul; 
-• 
-criar eventos para difundir as atividades de ensino, pesquisa e extensão são boas na FATEC 
-Zona Sul; 
-• 
-incrementar a política de divulgação do vestibular semestralmente, sobretudo junto à 
-comunidades carentes para garantir acesso ao ensino superior e inclusão social; 
-• 
-manter a cultura de diálogo e informação entre os funcionários da unidade por meio da 
-qualidade de vida no trabalho, conversas diárias e capacitações institucionais; 
-• 
-ampliar a comunicação com a comunidade acadêmica via e-mails, redes sociais e participação 
-da representação discente nos colegiados da FATEC Zona Sul; 
-• 
-aumentar o número de parcerias institucionais com empresas que possam oferecer estágios; 
-• 
-manter e ampliar o diálogo no ambiente universitário através do exemplo dado por professores, 
-coordenadores, diretores e funcionários da FATEC Zona Sul, dando exemplo de ação aos 
-nossos alunos; 
-• 
-ampliar a capacitação profissional dos funcionários, garantindo um bom ambiente de trabalho 
-que valorize o diálogo e negociação para solução de conflitos; 
-• 
-trocar mobiliário e computadores mais antigos nos laboratórios, substituir mesas e cadeiras em 
-sala de aula por cadeiras universitárias que ocupam menos espaço, e trocar ventiladores nas 
-salas de aula e áreas administrativas; 
-• 
-adquirir catracas eletrônicas para controle de acesso dos alunos.;  
-• 
-pintar os ambientes, trocar os móveis e refazer os circuitos elétricos da Secretaria Acadêmica 
-e Biblioteca, para melhorar as condições de trabalho ofertadas à comunidade acadêmica da 
-FATEC Zona Sul.; e 
-• 
-Instituir um programa interno de manutenção preventiva das instalações prediais. 
- 
-Figura 14 – E-mail com síntese das análises e propostas de melhorias de todos os 
-departamentos enviado pela Diretoria Geral à Presidência da CPA: 
- 
-27 
- 
- 
- 
-Relatório de Autoavaliação Institucional 
-da Fatec – 2023/2º Parcial
- 
-28 
+Será apresentado o relatório da CPA 2023 à comunidade acadêmica na 
+Semana de Planejamento do 1º. Semestre de 2024 com as ações tomadas e o 
+respectivo status. 
+20 
  
  
  
@@ -1738,7 +2422,76 @@ Dimensão
 SINAES 
 8 
 APRESENTAÇÃO DAS PRINCIPAIS INFORMAÇÕES COLETADAS NO EIXO 
-29 
+ 
+Alunos - Dimensão - 8) Planejamento e Avaliação 
+ 
+ 
+ 
+21 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
+ 
+Técnico Administrativo – Dimensão - 8) Planejamento e Avaliação 
+ 
+ 
+Docente – Dimensão - 8) Planejamento e Avaliação 
+ 
+ 
+A - Plenamente 
+Satisfatório 9,09%
+B - Satisfatório 
+27,27%
+C - Pouco Satisfatório
+27,27%
+D - Insatisfatório 
+31,82%
+E - Não sei responder 
+4,55%
+22 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
+ 
+O Plano de Desenvolvimento Institucional (PDI) (Ano 2019 – Ano 2023) e o 
+PGA – Plano de Gestão Anual, são alguns dos principais documentos que norteiam 
+as ações da Fatec Mauá. Trata-se de documentos em que se caracterizam a 
+identidade da instituição, definindo sua filosofia de trabalho, missão, estratégias, 
+objetivos, estrutura e diretrizes pedagógicas.  
+ 
+Destaca-se neste eixo o alinhamento a missão no sentido de promover uma 
+educação pública de excelência, como pode ser observado no reconhecimento dos 
+dois cursos em funcionamento: 
+➢ CST em Desenvolvimento de Produtos Plásticos 
+➢ CST em Desenvolvimento de Software Multiplataforma 
+➢ CST em Fabricação Mecânica 
+➢ CST em Informática em Negócios 
+➢ CST em Logística que obteve a nota 4 do ENADE 
+➢ CST em Polímeros 
+➢ CST em Gestão Empresarial – modalidade EaD 
+Em relação a grande defasagem de conhecimentos pregressos e formação 
+deficitária da educação básica, como apontam todos os índices controlados pelo 
+estado e união, destaca-se o alinhamento e comprometimento, de forma somativa, ao 
+Plano de Desenvolvimento Institucional e PGA no que tange a qualidade de ensino 
+buscando estratégias de aprendizagem, articulação entre as disciplinas, múltiplos 
+instrumentos de avaliação, criação de mecanismos para superação das dificuldades 
+discentes e comprometimento docente como pode ser evidenciado nas respostas 
+docentes as perguntas. Naturalmente tais atitudes criam eco no comportamento 
+discente com a percepção da qualidade de ensino, compromisso com a aprendizagem 
+e convívio acadêmico, atitudes que podem ser evidenciadas nas respostas discentes 
+as perguntas. 
+Como item a ser melhorado destaca-se a comunicação mais efetiva do PDI, 
+PGA e regimentos, bem como a visão e valores da unidade junto à comunidade 
+acadêmica.  
+Evidencia-se neste tópico e nos demais a relevância desta pesquisa acadêmica 
+como instrumento de identificação da realidade e, consequentemente balizador das 
+ações corretivas e potencializadoras a serem implementadas, revelando sua essencial 
+importância como ferramenta de gestão acadêmica. 
+23 
  
  
  
@@ -1746,49 +2499,8 @@ Relatório de Autoavaliação Institucional
 da Fatec – 2023/2º Parcial
  
  
-Dimensão 8: Planejamento e Avaliação 
-A análise realizada pela Área de Avaliação Institucional, responsável pelo 
-WEBSAI, também tem contribuído para a melhoria da qualidade dos cursos oferecidos 
-pela Instituição. Além desta avaliação, as sondagens externas realizadas pelo 
-Conselho Estadual de Educação (CEE-SP) também contribuem para essa melhoria, 
-Perfil: Docente e Técnico Administrativo    
  
-Perfil Discente 
- 
- 
-30 
- 
- 
- 
-Relatório de Autoavaliação Institucional 
-da Fatec – 2023/2º Parcial
-sendo de se destacar que a FATEC Zona Sul possui nota 3 ou 4 em todos os seus 
-cursos avaliados pelo ENADE. 
-Analisando os dados da pesquisa do WEBSAI, conforme gráficos supra, quanto 
-ao perfil docente e técnico administrativo e também ao perfil discente, verifica-se que 
-as ferramentas de planejamento e avaliação institucional constituem uma grande força 
-da unidade, pois para as três categorias, as respostas voltam-se para resultados muito 
-bons ou excelentes, com destaque para elevado comprometimento e proatividade dos 
-funcionários administrativos e dos docentes, que conhecem o PDI e adotam medidas  
-positivas voltadas ao ensino-aprendizagem, com reconhecimento da sua eficiência e 
-eficácia pelos discentes. Analisando detidamente as respostas dos discentes, embora 
-haja grande fragilidade no fato de que apenas menos de 60% reconhece como 
-excelente e bom que o planejamento institucional ajuda a promover melhorias na 
-unidade, sendo o WEBSAI um bom instrumento de avaliação, pode-se atribuir esta 
-situação ao fato de que muitos discentes não conhecem detalhadamente o PDI. 
-A fim de atacar a fragilidade apontada, e incrementar a potencialidade 
-supramencionada, a unidade deverá promover em 2024 reuniões com os discentes, 
-para apresentação do PDI e divulgá-lo por meio de material simplificado, no site e 
-também nos murais, e continuará estimulando os funcionários administrativos e 
-docentes a tomarem conhecimento dos documentos institucionais por meio de 
-reuniões e aplicação prática dos planejamentos operacional, tático e estratégico.  
-Acredita-se, assim, que cada vez mais haverá majoração de participação e 
-envolvimento de todos e em especial dos alunos com as iniciativas de avaliação 
-institucional, para incrementar os subsídios para planejamento estratégico da gestão.  
- 
- 
- 
-31 
+24 
  
  
  
@@ -1807,96 +2519,58 @@ Dimensão
 SINAES 
 1 e 3 
 APRESENTAÇÃO DAS PRINCIPAIS INFORMAÇÕES COLETADAS NO EIXO 
-32 
+ 
+ 
+ 
+ 
+ 
+ 
+Técnico Administrativo - Dimensão – 1) Missão e Plano de Desenvolvimento Institucional 
+ 
+ 
+ 
+ 
+Alunos - Dimensão - 1) Missão e Plano de Desenvolvimento Institucional 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A-Excelente
+39,29%
+B-Bom
+47,93%
+C-Regular
+10,15%
+D-Insuficiente
+2,63%
+25 
  
  
  
 Relatório de Autoavaliação Institucional 
 da Fatec – 2023/2º Parcial
- 
   
-              
  
  
-                                     
-              
-33 
+Técnico Administrativo - Dimensão – 1) Missão e Plano de Desenvolvimento Institucional 
  
  
  
-Relatório de Autoavaliação Institucional 
-da Fatec – 2023/2º Parcial
- 
-Dimensão 1: Missão e Plano de Desenvolvimento Institucional 
-Missão - Promover a educação profissional pública dentro de referenciais 
-de excelência, visando ao atendimento das demandas sociais e do mundo do trabalho. 
-Visão - Consolidar-se como centro de excelência e estímulo ao 
-desenvolvimento humano e tecnológico, adaptado às necessidades da sociedade. 
-Objetivos Estratégicos - Atender/Antecipar-se às demandas sociais e do 
-mercado de trabalho; Obter a satisfação dos públicos que se relacionam com o Centro 
-Paula Souza; Aperfeiçoar continuamente os processos de planejamento, gestão e as 
-atividades operacionais/administrativas; Alcançar e manter o grau de excelência 
-diante do mercado em seus processos de ensino e aprendizagem; Estimular e 
-consolidar parcerias (internas e externas), sinergias e a inovação tecnológica; 
-Reconfigurar a infraestrutura e intensificar a utilização de recursos tecnológicos; 
-Promover a adequação, o reconhecimento e o desenvolvimento permanente do 
-capital humano; Incentivar a transparência e o compartilhamento de informações e 
-conhecimentos; Assegurar a sustentabilidade financeira da instituição. 
-Diretrizes Estratégicas - Excelência em educação humana e tecnológica: 
-Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem 
-focados na aplicação da tecnologia, criatividade e no desenvolvimento de 
-competências humanas e organizacionais; Satisfação dos públicos (interno e externo): 
-Compreender as necessidades dos públicos interno e externo com objetivo de atender 
-as suas expectativas; Valorização do capital humano: Assegurar a valorização dos 
-servidores do Centro Paula Souza por meio de ações que estimulem a prática 
-inovadora; 
-Alto desempenho e melhoria permanente: Garantir processos 
-permanentes de autocrítica institucional que viabilizem a melhoria contínua das 
-atividades do Centro Paula Souza com o objetivo de alcançar  resultados e metas; 
-Parcerias, sinergias e inovação tecnológica: Estimular a busca de interesses comuns 
-nas iniciativas pública e privada para o aprimoramento do conhecimento, da formação 
-profissional e da gestão administrativa de modo a prover a sustentabilidade da 
-instituição; Transparência: Compartilhar de forma sistêmica informações de interesse 
-dos públicos  interno e externo. 
-34 
  
  
  
-Relatório de Autoavaliação Institucional 
-da Fatec – 2023/2º Parcial
-A análise dos dados da pesquisa do WEBSAI mostra que a unidade tem grande 
-força quanto ao cumprimento de sua Missão e Plano de Desenvolvimento 
-Institucional, restando evidenciada a disseminação da cultura, arte, ciência, 
-tecnologia, inovação, valores éticos, inclusão social e formação profissional de 
-qualidade, como demonstram os gráficos supra, representativos das respostas tanto 
-dos funcionários administrativos e docentes como dos discentes.  
-Apesar da fragilidade consistente no fato de apenas 31,56% dos alunos 
-considerar elevado o constante o nível de participação da comunidade externa nas 
-atividades propostas pela instituição de ensino, e somente 30,89% dos discentes 
-entender que a unidade promove, frequentemente, interações com os setores público 
-e/ou privado, a fim de desenvolver parcerias, soluções técnicas e tecnológicas, o que 
-será enfrentado pela unidade por meio de reuniões periódicas com os representantes 
-de sala e da comunidade externa, e inclusão da pauta em eventos internos, como a 
-Semana de Tecnologia, que ocorre semestralmente, e convites à comunidade, por 
-meio de seus líderes, a participarem de eventos na unidade, além de ampla divulgação 
-destes no site e redes sociais da Fatec Zona Sul, devem ser ressaltadas as seguintes 
-potencialidades: apenas menos de 40% dos alunos desconhece o Regimento das 
-Fatecs e quase 80% do corpo discente entende ser excelente o cumprimento da 
-missão institucional do CPS pela unidade de ensino, e a quase totalidade dos 
-funcionários administrativos e docentes afirma que a Fatec Zona Sul é um polo de 
-ciência, tecnologia e inovação, que dissemina cultura, arte, valores éticos e 
-democráticos, promove inclusão social e desenvolvimento sustentável, além de 
-praticar a missão da instituição. 
  
-Dimensão 3: Responsabilidade Social da Instituição 
-Desde 2006, a Faculdade de Tecnologia da Zona Sul vem se destacando muito 
-por seus trabalhos socialmente responsáveis. Os trabalhos são realizados durante 
-todo o ano, e entre eles estão as palestras educativas, o incentivo ao trote solidário, 
-por meio do qual calouros e veteranos se unem e trabalham em prol do bem da 
-sociedade, arrecadando alimentos e doando sangue, além de aulas de informática e 
-idiomas para crianças de baixa renda e pessoas da terceira idade de modo mais 
-amplo. 
-35 
+A - Sim, 
+totalmente
+13,25%
+B - Sim
+63,35%
+C - Não
+23,40%
+26 
  
  
  
@@ -1904,247 +2578,76 @@ Relatório de Autoavaliação Institucional
 da Fatec – 2023/2º Parcial
  
  
-O Plano de Desenvolvimento institucional (Ano 2022 – Ano 2026) foi um dos principais 
-documentos que nortearam as ações da Fatec  Zona Sul  tratou-se de um documento 
-que se caracterizou como uma identidade da Instituição, definindo, dentre outros, sua 
+ 
+Alunos - Dimensão – 3) Responsabilidade Social da Instituição 
+ 
+ 
+ 
+ 
+27 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
+ 
+ 
+ 
+Técnico Administrativo - Dimensão – 3) Responsabilidade Social da Instituição 
+ 
+ 
+ 
+ 
+28 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
+ 
+ 
+ 
+Docente - Dimensão – 3) Responsabilidade Social da Instituição 
+ 
+ 
+ 
+29 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
+ 
+ 
+ 
+ 
+O Plano de Desenvolvimento institucional (Ano 2019 – Ano 2023) foi um dos principais 
+documentos que nortearam as ações da Fatec Mauá: tratou-se de um documento que 
+se caracterizou como uma identidade da Instituição, definindo, dentre outros, sua 
 filosofia de trabalho, missão, estratégias, objetivos, estrutura e diretrizes pedagógicas, 
 algo a ser continuado no PDI para os anos de XXXX - XXXX.  
  
-Objetivos institucionais:  
-1) Atender às demandas sociais e do mercado de trabalho.  
-2) Obter a satisfação dos públicos que se relacionam com o Centro Paula Souza 
-(stakeholders).  
-3) Alcançar e manter o grau de excelência em seus processos de ensino e 
-aprendizagem.  
-4) Assegurar a perenidade do crescimento da instituição com recursos financeiros 
-disponíveis.  
-5) Garantir celeridade e efetividade na prestação de serviços.  
-6) Formar profissionais atualizados em tecnologias e processos produtivos, capazes 
-de atuar no desenvolvimento tecnológico e inovação.  
-7) Promover a cultura de inovação e empreendedorismo. 8) Aumentar a eficiência, a 
-produtividade e a competitividade da instituição. 
-9) Ampliar a oferta da Educação Profissional. 
+O PDI da Fatec Mauá, bem como o PGA preconiza a unidade como uma polo 
+irradiador de conhecimentos e valores. Na missão destacamos a formação 
+profissional e cultural, na visão o desenvolvimento econômico e social da região e por 
+fim os valores preconizam a valorização e desenvolvimento do ser humano baseado 
+em ética, justiça social e democracia. Em relação aos docentes e funcionários 
+administrativos podemos destacar o alinhamento ao PDI, PGA e a percepção dos 
+valores da Fatec Mauá construídos, naturalmente, por meio de todas as práticas da 
+unidade.  
  
-A Faculdade de Tecnologia da Zona Sul – Dom Paulo Evaristo Arns está sediada na 
-Zona Sul da cidade de São Paulo, especificamente na região que pertence a 
-subprefeitura do M´Boi Mirim atendendo a quase 600 mil pessoas. De acordo com o 
-IBGE (2018), a população estimada do município de São Paulo é de 12.176.866 
-habitantes. Se for considerada a região metropolitana, os 39 municípios que 
-circundam a capital, a população chega a aproximadamente 21 milhões de habitantes, 
-que se concentram entre as idades de 17 a 39 anos na região urbana. 
-Na cidade de São Paulo estão concentrados 18,6% do Produto Interno Bruto (PIB) e 
-56,3% do PIB do Estado de São Paulo e 6% da população do Brasil. A Região conta 
-com mais de 872 mil estudantes no ensino superior, dos quais 783.030 estão no setor 
-privado. Matriculados no ensino médio no munícipio são 162.485, possíveis 
-36 
+30 
  
  
  
 Relatório de Autoavaliação Institucional 
 da Fatec – 2023/2º Parcial
-candidatos aos cursos de graduação inclusive os de tecnologia. Importante centro de 
-serviços corporativos e financeiros, sede de algumas das maiores corporações 
-globais, a cidade oferece toda a infraestrutura de tecnologia e serviços. É considerada 
-uma das cidades de maior movimento com turismo de negócios do planeta. “A renda 
-per capita na capital é 70% acima da dos brasileiros em geral” (IBGE, 2022). 
- Cursos implantados - Vocação da Fatec em face da demanda regional 
-A indústria, com 1,1 milhão de pessoas, emprega 16,4% dos trabalhadores brasileiros 
-deste setor. Neste mesmo segmento, os mais de 47 mil estabelecimentos localizados 
-no território metropolitano respondem por 13% do parque industrial brasileiro, mais de 
-46% do montante estadual e aproximadamente metade dos industriários paulistas. 
-Os quase 249 mil estabelecimentos comerciais e de serviços metropolitanos 
-representam mais de 13% daqueles em atividade no País. No Estado, sua 
-participação ultrapassa os 46 pontos percentuais. Os 2,8 milhões de comerciários e 
-prestadores de serviços correspondem a 19% dos 14,5 milhões de brasileiros 
-cadastrados no setor terciário formal. No âmbito estadual, a importância deste setor 
-fica evidenciada pelo peso exercido pela Metrópole. 
-Seis em cada dez comerciários ou prestadores de serviços atuam na Grande São 
-Paulo. São Paulo é reconhecidamente a capital brasileira dos negócios, da 
-gastronomia e da cultura, com atividades diversificadas. É sede de 38% das 100 
-maiores empresas privadas de capital nacional. Dos grupos internacionais instalados 
-no Brasil, 63% estão em São Paulo. A Bolsa de Valores de São Paulo é a maior da 
-América do Sul. A Bolsa de Mercadoria e Futuros (BM&F) é a sexta maior do mundo 
-em volume de negócios. A cidade ainda conta com 31 das 50 maiores seguradoras e 
-aproximadamente 100 das 200 maiores empresas de tecnologia do Brasil. 
-Esses dados são reveladores de intensa ação comercial e econômica. Apontam 
-também para a necessidade de mão de obra qualificada, especializada e bem 
-formada. Por isso, em relação à educação, o município de São Paulo registra 136 
-faculdades, 15 universidades e 13 Centros de Educação Tecnológica. A cidade é 
-responsável por 28%  da produção científica nacional. Por isso a demanda qualificada 
-em relação aos cursos superiores de graduação e de pós‐graduação são as 
-prioridades das instituições de ensino superior. 
-37 
- 
- 
- 
-Relatório de Autoavaliação Institucional 
-da Fatec – 2023/2º Parcial
-É nesse contexto que a inserção da Fatec Zona Sul – Dom Paulo Evaristo Arns se 
-concretiza, identificada pelo número de egressos que se inserem no mercado de 
-trabalho ou pelo número de estudantes que realizam estágio supervisionado em 
-grandes empresas da região, associando o ensino à profissionalização. 
-Embora sendo um polo financeiro e comercial, São Paulo possui áreas de pobreza, 
-consequência de sua própria história de crescimento, levando uma parcela 
-significativa da população a condições de vida precária. Consciente dessa situação, a 
-Fatec Zona Sul – Dom Paulo Evaristo Arns procura responder às demandas da região 
-na qual está inserida, por meio da integração ensino, pesquisa e extensão, 
-desenvolvendo projetos e programas que visem ao impacto acadêmico e social, com 
-repercussão local, nacional ou mesmo internacional, a fim de dar cumprimento à sua 
-missão e aos objetivos institucionais. 
-Na economia, mesmo com toda essa plenitude, a cidade de São Paulo, assim como 
-o estado, sofre muito com a crise instalada nos últimos anos no país, foram centros 
-dos maiores números de demissões do país. Tomando os períodos de 2014 (10,3%). 
-2015 (12,8%), 2016 (16%), chegando a maio de 2017 a 18,8% e recuando no final do 
-ano (SEADE, IBGE). 
-Segundo o Dieese, em 2017, o nível de ocupação na Região Metropolitana de São 
-Paulo diminuiu 1,3% em relação ao ano anterior. A eliminação de 119 mil postos de 
-trabalho, associada à relativa estabilidade da População Economicamente Ativa 
-(PEA) da região (18 mil pessoas se integraram à força de trabalho, ou 0,2%), resultou 
-no acréscimo do contingente de desempregados em 137 mil pessoas.  
- Indicadores socioeconômicos 
-A taxa de desemprego na região Metropolitana de São Paulo ficou em 17,3% no mês 
-de setembro de 2018, mantendo-se praticamente estável em relação a agosto, 
-quando foi registrada taxa de 17,4%. O total de desempregados em setembro de 2018 
-foi estimado em 1,91 milhão de pessoas, 13 mil a menos que no mês anterior. O nível 
-de ocupação não apresentou variação e o contingente de ocupados foi estimado em 
-9,132 milhão de pessoas. 
-O índice de desemprego aberto, ou seja, pessoas que buscaram trabalho nos últimos 
-30 dias e não trabalharam nos últimos sete dias, variou de 14,6% para 14,4%. A taxa 
-38 
- 
- 
- 
-Relatório de Autoavaliação Institucional 
-da Fatec – 2023/2º Parcial
-de desemprego oculto (pessoas que fizeram trabalhos eventuais, não remunerados 
-em negócios de parentes, tentaram mudar de emprego nos últimos 30 dias ou que 
-não buscaram emprego em 30 dias) variou de 2,8% para 2,9%. 
-Por setores, no mês de setembro de 2018, houve elevação de 46 mil postos de 
-trabalho (alta de 2,8% em relação a agosto) no comércio e reparação de veículos 
-automotores e motocicletas. O restante dos setores apresentou queda. Na indústria 
-de transformação, a redução foi de 36 mil (ou -2,5% ante agosto); nos serviços a 
-queda foi de 9 mil postos de trabalho (-0,2% ante agosto) e, na construção, foram 9 
-mil postos a menos (-1,6% ante agosto). E entre julho e agosto de 2018, o rendimento 
-médio real dos ocupados aumentou 0,8%, chegando a R$ 2.061, e dos assalariados 
-ficou estável em R$ 2.084, esses números sofreram forte retração durante 2020 e 
-2021 por causa da pandemia de Covid-19 (SEADE). 
-A região deve sua denominação consolidada – M’Boi Mirim – a uma a tradição oral 
-oriunda do Tupi-Guarani que significa “cobra pequena”. Não há informações 
-disponíveis sobre a atividade pré-colonial. Os primeiros registros conhecidos datam 
-do início do séc. XVII quando da instalação da atividade econômica agrícola 
-(engenhos de açúcar) cuja presença no planalto paulista não prosperou. 
-A posição relativamente estratégica do assentamento colonial (São Paulo de 
-Piratininga) foi um fator importante no desenvolvimento da própria ocupação. A vila 
-de São Paulo oferecia um ponto adequado de conexão entre diversas rotas comerciais 
-– àquela época representada pelas cargas em tropas de muares e os grupos de 
-exploradores do território, chamados bandeirantes. No princípio do séc. XIX grupos 
-de imigrantes (sobretudo alemães) se instalaram na região. 
-Verifica-se que o número de favelas é elevado, sendo que a densidade deste padrão 
-de habitação chega a dobrar em relação à média em áreas de baixo padrão que não 
-são favelas. De qualquer modo, a densidade média da região ainda pode ser 
-considerada baixa, e está sujeita a crescimento desde que mantido o baixo padrão de 
-ocupação do território. 
-Em valores numéricos, a densidade urbana na aglomeração urbana de São Paulo 
-varia entre 25 e 300 habitantes por hectare (hab./ha.), ou seja, a intensidade de 
-ocupação das zonas de maior adensamento chega a superar em 10 vezes as regiões 
-de patamar mais baixo. Como esta população está espraiada por um amplo território, 
-39 
- 
- 
- 
-Relatório de Autoavaliação Institucional 
-da Fatec – 2023/2º Parcial
-a densidade média metropolitana é baixa, ficando em torno de 80 hab./ha. A 
-densidade média no município de São Paulo é um pouco mais alta, aproximadamente 
-110 hab./ha., mas ainda baixa se comparada a outros centros urbanos importantes.  
- Arranjos produtivos locais – Condições atuais e perspectivas 
-O tipo de emprego ofertado no vetor Sul e em Santo Amaro são do tipo central – 
-indicativos do grau de polarização do espaço, cuja presença é, sobretudo, reflexo do 
-padrão de urbanização, nos ramos da tecnologia em gestão e tecnologia de 
-informática. Verifica-se, portanto, um adensamento da oferta de empregos no vetor 
-Sudoeste que permite inferir que o subcentro de Santo Amaro, assim que receber as 
-novas  aberturas viárias planejadas (continuação da Av. Chucri Zaidan) passará por 
-um processo de intensa renovação urbana, à semelhança do que ocorreu em passado 
-recente no eixo Faria Lima – Berrini. O adensamento dos empregos implicará a 
-necessidade de ampliação da oferta de transporte das regiões mais ao Sul do Vetor 
-Sudoeste, assim como nas demais direções, incluindo o próprio eixo Santo Amaro – 
-Pinheiros. 
- Empreendimento regional 
-A combinação de informações relevantes como a distribuição de renda, o preço da 
-terra, o padrão das redes de transporte, comunicação e infraestruturas, e o nível da 
-atividade econômica de uma região, permite identificar os principais fatores de 
-nucleação dos empregos. 
-Com a incorporação imobiliária das zonas marginais do rio Pinheiros, e irradiando-se 
-desse aglomerado na direção Sul e Sudoeste (chamado de vetor Sudoeste), a 
-ampliação de centros empresariais, hotéis e shoppings tem ofertado grande número 
-de empregos ao norte de Santo Amaro com forte tendência de expansão para na 
-direção Sul na qual a Fatec está localizada. 
- Ecossistema tecnológico 
-[Ecossistema é um ambiente em que vive um conjunto de formas de vida que 
-interagem entre si, formando um sistema estável. Essa definição é muito conhecida 
-entre os biólogos, mas com algumas adaptações, o mundo corporativo inseriu a 
-palavra “ecossistema” no seu vocabulário, referindo-se a uma forte tendência presente 
-no meio empresarial. O relatório global Startup Ecosystem Report, da Startup 
-40 
- 
- 
- 
-Relatório de Autoavaliação Institucional 
-da Fatec – 2023/2º Parcial
-Genome, indica a capital paulista como um dos ecossistemas mais promissores do 
-mundo. O estudo aponta a cidade como o maior centro financeiro do Brasil, com 
-potencial de gerar até US$ 24 bilhões nos próximos dez anos.  
-O maior município brasileiro também é grande no sucesso de seus empreendimentos. 
-Dentre os 11 unicórnios brasileiros, são nativos: Nubank, 99, Gympass, Movile 
-(iFood), Loggi, QuintoAndar, Wildlife Studios e Loft, Amaro, Banco Neon, Banco 
-Original, CargoX, Creditas, Docket, Doutor Consulta, Guiabolso, Pipefy. Cubo Itaú. O 
-Cubo Itaú, localizado no bairro Vila Olímpia, é o maior centro de empreendedorismo 
-tecnológico da América Latina. Ele surgiu em 2015, com a intenção de conectar 
-corporações, instituições de ensino, investidores e empreendedores. O espaço possui 
-14 andares e mais de 20 mil metros quadrados, abrigando mais de 300 startups em 
-um mesmo lugar. 
-InovaBra Habitat, este é o espaço de empreendedorismo do banco Bradesco. Assim 
-como o Cubo, o InovaBra é um espaço de mais de 20 mil metros quadrados, com 
-quase 200 startups em um prédio de 10 andares. São mais de 1.500 inovadores 
-trabalhando diariamente na estrutura, entre empreendedores, grandes empresas, 
-mentores, acadêmicos e funcionários. 
- Evolução da demanda por profissionais com formação tecnológica – 
-necessidades setoriais 
-A região do M’Boi Mirim tem nível de renda e taxas de emprego menores que a média 
-metropolitana. Seja por causa de seu baixo padrão de acessibilidade, por falta de 
-infraestruturas demandadas pela produção, ou por seu baixo patamar de renda, a 
-região alvo do projeto não tem capacidade para ampliação significativa da oferta de 
-empregos. Somente os investimentos em infraestrutura tornarão a região apta a 
-receber investimentos privados geradores de emprego e renda. É pouco provável que 
-a região consiga gerar empregos suficientes apoiados apenas na capacidade de 
-consumo da população local. 
-Segundo os dados do IPEA, a renda média mensal familiar da Região Metropolitana 
-correspondia a 1800,00 Reais em 2007 e 2450,00 em 2018. Em que pese a redução 
-da renda média devido a situação econômica atual, houve significativa redução do 
-desemprego e aumento do número de assalariados com carteira assinada nos últimos 
-3 anos (anteriores à atual depressão econômica). Este fato sugere que um número 
-41 
- 
- 
- 
-Relatório de Autoavaliação Institucional 
-da Fatec – 2023/2º Parcial
-maior de assalariados de baixa renda (1 a 3 salários-mínimos) contribuiu para a 
-redução da renda média da RMSP. Como a região do projeto se caracteriza pelo 
-predomínio das rendas mais baixas, é provável que a demanda por maior qualificação 
-profissional tecnológica. 
-A Fatec Zona Sul – Dom Paulo Evaristo Arns é a única instituição de nível superior 
-pública nas proximidades da subprefeitura do M’Boi Mirim, região densamente 
-povoada com quase 600 pessoas somente nos bairros Jardim Ângela e Jardim São 
-Luiz, com vocação voltada ao setor secundário e terciário, fortemente dependentes 
-de profissionais com boa formação tecnológica em gestão e informática. Deste forma, 
-oferta de cursos tecnológicos pela Fatec Zona Sul continuará em alta, ensejando a 
-possibilidade de abertura de novos cursos para atender a demanda por profissionais 
-de diversos ramos de tecnologia. Os curso oferecidos pela FATEC Zona Sul atendem 
-plenamente às demandas da região por profissionais voltados para a área de negócios 
-(comércio e serviços – superior à 70% da atividade econômica), possibilitando ainda 
-a atuação em outros segmentos voltados aos novos mercados que estão sendo 
-abertos com o avanço das tecnologias de informática. 
+Em relação ao corpo discente, apesar do conhecimento mediano em relação 
+ao PDI, missão, visão e valores, percebemos um reconhecimento deste mesmo corpo 
+discente em relação a efetividade, entre outros tópicos da promoção de uma educação 
+de qualidade, formação de profissionais qualificados, disseminação da ciência e 
+tecnologia, valores éticos e democráticos e inclusão social, mostrando desta forma o 
+alinhamento da unidade ao PDI, PGA, missão, visão e valores no corpo discente. 
  
  
  
@@ -2166,7 +2669,7 @@ abertos com o avanço das tecnologias de informática.
  
  
  
-42 
+31 
  
  
  
@@ -2187,12 +2690,71 @@ SINAES
 APRESENTAÇÃO DAS PRINCIPAIS INFORMAÇÕES COLETADAS NO EIXO 
  
  
+Alunos - Dimensão – 2) Política para ensino, pesquisa e extensão 
  
  
-                                     
-                                     
-              
-43 
+ 
+32 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
+ 
+Alunos - Dimensão – 2) Política para ensino, pesquisa e extensão 
+ 
+ 
+ 
+ 
+Técnico Administrativo - Dimensão – 2) Política para ensino, pesquisa e extensão 
+ 
+ 
+ 
+ 
+ 
+ 
+Técnico Administrativo - Dimensão – 2) Política para ensino, pesquisa e extensão 
+ 
+ 
+33 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
+ 
+ 
+ 
+Docentes - Dimensão – 2) Política para ensino, pesquisa e extensão 
+ 
+ 
+34 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
+ 
+ 
+ 
+Alunos - Dimensão - 4) Comunicação com a sociedade 
+ 
+ 
+ 
+35 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
+ 
+ 
+ 
+Técnico Administrativo - Dimensão – 4) Comunicação com a sociedade 
+ 
+ 
+ 
+36 
  
  
  
@@ -2202,128 +2764,92 @@ da Fatec – 2023/2º Parcial
  
  
  
+Docentes - Dimensão – 4) Comunicação com a sociedade 
  
  
- 
- 
-Dimensão 2: Políticas para o Ensino, a Pesquisa e a Extensão 
-A FATEC Zona Sul se mantém fiel ao  atendimento das diretrizes estabelecidas 
-pelo Centro Estadual de Educação Tecnológica CEETEPS em 2012:  
-• Carga horária referencial para todos os cursos de tecnologia oferecidos: 
-2400 horas, excetuando-se as atividades de estágio e trabalho de 
-graduação (TG); 
-• Incentivo à inclusão de estágio supervisionado e trabalho de graduação, 
-com duração total de 400 horas, tendo como referência 240 horas de 
-estágio e 160 horas para o Trabalho de Graduação; 
-• Distribuição da carga horária dos cursos em 6 semestres de 400 horas 
-cada, ou seja, com 480 aulas; 
-• Colocação de semestre com 20 semanas corridas, contendo 24 aulas 
-semanais, de modo a possibilitar o cumprimento das 480 aulas 
-semestrais; 
-• Uso de atividades EaD (Ensino a Distância) ou reposições aos sábados 
-para a complementação da carga horária até o limite das 480 aulas, 
-              
-44 
+37 
  
  
  
 Relatório de Autoavaliação Institucional 
 da Fatec – 2023/2º Parcial
-desde que essas atividades não ultrapassem a 20% do total, conforme 
-determina a legislação; 
-• Incentivo à colocação de disciplinas de língua estrangeira (Inglês), em 
-todos os semestres do curso, com foco em todas as habilidades 
-linguísticas, mas com ênfase na comunicação oral, como forma de 
-qualificar a empregabilidade dos egressos e, com isso, permitir que 
-atinjam, pelo menos, o estágio pré-intermediário na classificação 
-europeia de desenvolvimento linguístico; 
-• Incentivo à colocação da disciplina de espanhol para os cursos que têm 
-forte relação com o MERCOSUL, de modo a garantir dois semestres de 
-estudos, com ênfase na oralidade e comunicação; 
-• Estabelecimento de calendário unificado para os períodos letivos, 
-possibilitando que o sistema acadêmico possa ser implantado; 
-• Existência da Revista Eletrônica da FATEC - Zona Sul (REFAS). 
-Analisando as respostas da pesquisa do WEBSAI, constata-se novo ponto forte 
-da unidade, com mais de 70% dos alunos e a quase totalidade do corpo técnico de 
-funcionários e docentes considerando bom ou excelente o domínio dos conteúdos 
-pelo corpo docente, a apresentação prévia aos alunos do planejamento das aulas, o 
-uso de metodologias/recursos educacionais que estimulam o aprendizado e o respeito 
-à diversidade e à participação da comunidade acadêmica no processo educacional.  
-Porém, é de se atentar para a fragilidade indicada pelo fato de apenas 37,42% 
-dos discentes considerar elevado o nível das atividades de pesquisa na unidade, 
-embora a quase totalidade dos docentes e funcionários administrativos considerem 
-esta de nível bom ou excelente. 
-Para atacar a fragilidade apontada pelo corpo discente quanto à pesquisa, a 
-unidade introduzirá o debate sobre a importância do prosseguimento dos estudos 
-após a conclusão do curso nas disciplinas do último semestre, e promoverá a abertura 
-de cursos de pós-graduação lato sensu na Fatec Zona Sul. Já para conservar e 
-melhorar as diversas potencialidades indicadas, continuarão sendo realizados 
-eventos para difundir as atividades de ensino, pesquisa e extensão da unidade; serão 
-incrementados os incentivos aos professores para capacitação profissional e bom 
-planejamento semanal dos conteúdos e metodologias; será mantida a política de 
-45 
+ 
+ 
+ 
+ 
+Alunos - Dimensão – 9) Política de atendimento aos discentes 
+ 
+ 
+ 
+38 
  
  
  
 Relatório de Autoavaliação Institucional 
 da Fatec – 2023/2º Parcial
-divulgação do vestibular, sobretudo junto às comunidades carentes, para garantir 
-acesso ao ensino superior e inclusão social; será ampliada a política já adotada de 
-diálogo, respeito e negociação ao lidar com conflitos na instrumentalização das rotinas 
-da faculdade; e serão continuadas as medidas para manter os docentes informados a 
-respeito das alterações nos PPCs e garantir sua representatividade nos colegiados 
-na Fatec Zona Sul.  
- 
-Dimensão 4: Comunicação com a sociedade 
-A comunicação da FATEC Zona Sul com a sociedade é realizada através de 
-seu Site Institucional (http://www.fateczonasul.edu.br/), páginas oficiais das redes 
-sociais Facebook, Instagram e Linkedin, membros  participantes da Congregação da 
-Unidade e Comissão Própria de Avaliação. O site  oficial da unidade e as páginas das 
-redes sociais trazem informações detalhadas a respeito da revista REFAS, vestibular, 
-cursos, horários dos cursos, calendário acadêmico, eventos abertos ao público, 
-histórico da unidade, expediente da secretaria, informes da diretoria de serviços, 
-currículo e endereços eletrônicos dos docentes, downloads de documentos e 
-regulamentos, concursos públicos, estágios, parcerias e localização. 
- 
-Neste item, com a análise dos gráficos supra, percebe-se a melhora com 
-relação à pesquisa do ano anterior, pois dos docentes e funcionários, quase a 
-totalidade considera excelente ou bom o acesso aos documentos e informações da 
-instituição e os meios e sistemas de comunicação interna, enquanto que do corpo 
-discente, mais de 70% julga bom ou excelente o acesso aos documentos informativos 
-da unidade e 60% considera bons ou excelentes os meios e sistemas de comunicação 
-interna. 
-Dimensão 9: Políticas de Atendimento aos Discentes 
-As políticas de atendimento aos discentes estão direcionadas ao alcance de  
-objetivos como a promoção do acesso e da permanência nos estudos, a inclusão 
-social e a democratização do ensino superior e dispõe de: 
  
  
-46 
+ 
+ 
+Técnico Administrativo - Dimensão – 9) Política de atendimento aos discentes 
+ 
+39 
  
  
  
 Relatório de Autoavaliação Institucional 
 da Fatec – 2023/2º Parcial
-• Estímulo de permanência; 
-• Central e Supervisões de estágios; 
-• Orientações e Auxílios Diversos para os Trabalhos de Graduação; 
-• Mobilidade acadêmica; 
-• Mecanismos de nivelamento; e 
-• Múltiplas Recuperações do ensino e da aprendizagem. 
-Novamente a análise dos dados representados nos gráficos supra demonstra 
-que funcionários, docentes e discentes consideram que as políticas de atendimento 
-aos alunos é boa ou excelente na Fatec Zona Sul, sendo que será mantida a cultura 
-do diálogo e informação entre toda a comunidade acadêmica, por meio de 
-capacitações institucionais e desenvolvimento de conversas diárias voltadas à 
-identificação de melhores soluções para problemas que se apresentarem Por fim, 
-continuarão sendo incentivadas ações de esclarecimento aos discentes para criação 
-de diretório acadêmico e grêmio estudantil, o que certamente proporcionará maior 
-organização e convivência estudantil na unidade. 
+ 
+ 
+ 
+Docentes - Dimensão – 9) Política de atendimento aos discentes 
+. 
+ 
+40 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
+ 
+A Fatec Mauá considera necessário estabelecer uma estratégia de inclusão e 
+recuperação dos acadêmicos ingressantes, visto o notório déficit de aprendizagem na 
+área de lógica, interpretação de textos, matemática e ciências, frequentemente 
+comprovados no ranking do exame do Programa Internacional de Avaliação de 
+Estudantes (PISA).  
+A Fatec Mauá em consonância com o PDI e o PGA, tem por responsabilidade 
+manter a excelência de seu ensino, aferido pelo MEC na realização do ENADE 
+(Exame Nacional de Desempenho dos Estudantes), bem como entender as 
+expectativas dos acadêmicos captadas pela Avaliação Institucional, objeto deste 
+relatório, a fim de aumentar as possibilidades de inserção dos egressos no mercado 
+de trabalho.  
+Diante disso, a unidade executa uma série de ações visando o ingresso, a 
+permanência e a motivação do acadêmico, conforme pode ser visto abaixo: 
+➢ Política de acolhimento ao ingressante; 
+➢ Combate a quaisquer tipos de discriminação e preconceito; 
+➢ Atendimento de monitoria dos acadêmicos para as disciplinas de maior 
+dificuldade; 
+➢ Desenvolvimento de projetos integradores; 
+. 
+41 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
+➢ Capacitação dos docentes e adoção de metodologias ativas; 
+➢ Núcleo de atendimento Psicopedagógico aos acadêmicos; 
+➢ Promoção de eventos culturais: 
+➢ Cursos de extensão oferecidos para toda a comunidade acadêmica; 
+➢ Workshop Tecnológico com diversas palestras e oficinas; 
+➢ Semana de Tecnologia; 
+➢ Trote Solidário: doação de sangue; 
+➢ Grupos de estudos filosóficos.  
  
  
  
  
-47 
+42 
  
  
  
@@ -2343,120 +2869,95 @@ SINAES
 5, 6 e 10 
 APRESENTAÇÃO DAS PRINCIPAIS INFORMAÇÕES COLETADAS NO EIXO 
  
+Técnico Administrativo - Dimensão – 5) Políticas de Pessoal 
  
  
-                                     
-              
-48 
+A - Plenamente 
+Satisfatório 9,09%
+B - Satisfatório 
+27,27%
+C - Pouco Satisfatório 
+27,27%
+D - Insatisfatório 
+31,82%
+E - Não sei responder 
+4,55%
+43 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
+ 
+Docentes - Dimensão – 5) Políticas de Pessoal 
+ 
+ 
+Alunos - Dimensão – 6) Organização e Gestão da Organização 
+ 
+ 
+44 
  
  
  
 Relatório de Autoavaliação Institucional 
 da Fatec – 2023/2º Parcial
  
-    Dimensão 5: Políticas de Pessoal 
-O sistema de avaliação dos servidores para promoção, conforme Lei 
-Complementar 1.044/2008 e suas alterações e/ou complementações, pelas Leis 
-complementares 1.240, de 22/04/2014 e 1.252, de 03/07/2014, promoveu, após a 
-implantação da carreira funcional, um sistema de evolução que contava com 
-interstícios mínimos de 3 anos e, posteriormente, de 2 anos, para progressão 
-determinada na lei, cujo sistema avaliativo encontra-se em curso, visando a promoção 
-de docentes e funcionários da instituição. O primeiro desses processos de evolução 
-foi concluído em dezembro de 2011. 
-A nova redação dada à Lei Complementar 1.044/2008 estipula que a 
-progressão funcional ocorrerá após o cumprimento de 2 (dois) anos de efetivo 
-exercício e resultado satisfatório em 2 (duas) avaliações de desempenho. No ano de 
-2015, houve uma progressão especial, na qual foi considerado apenas o tempo de 
-efetivo exercício. A partir de julho de 2016, a progressão foi efetivada com base no 
-cumprimento de 2 (dois) anos e avaliação de desempenho. 
  
-Em 2018 ocorreram capacitações específicas para o Curso Superior de 
-Tecnologia em Gestão Empresarial na modalidade EaD, com vistas à  melhoria 
-continuada da atuação dos professores envolvidos. Com estas capacitações, e por 
-meio de uma reformulação, pode-se perceber a melhoria do AVA (Ambiente Virtual 
-de Aprendizagem), aprimorando também os aspectos de visualização e da 
-performance da plataforma utilizada. 
  
-Em 2020 e 2021 foram oferecidas inúmeras capacitações para implementação 
-e aprimoramento das aulas remotas, em razão da pandemia de Covid 19, o que 
-proporcionou a inevitável introdução de metodologias ativas nos planos de aula de 
-todos os docentes, além da adoção de diversas formas inovadoras de avaliação 
-continuada dos discentes. 
  
-Em 2022 e 2023 continuaram a ser oferecidas várias capacitações, em todas 
-as áreas do conhecimento, tanto para docentes quanto funcionários administrativos, 
-em diversas modalidades, em especial na remota e híbrida, o que permitiu que muitos 
-participassem, melhorando sua capacidade e produtividade no desempenho de suas 
-atividades na unidade. 
-49 
+Técnico Administrativo - Dimensão – 6) Organização e Gestão da Organização 
+ 
+ 
+ 
+A - SIM, de forma 
+plena 
+86,36%
+B - SIM, de forma 
+razoável 9,09%
+C - NÃO sei responder 
+4,55%
+45 
  
  
  
 Relatório de Autoavaliação Institucional 
 da Fatec – 2023/2º Parcial
-O mestrado e o doutorado são exigência mínima de titulação para docentes 
-das faculdades públicas. A Lei nº 9394/96, de Diretrizes e Bases da Educação 
-Nacional, conceitua as faculdades como instituições pluridisciplinares de formação 
-dos quadros profissionais de nível superior, de pesquisa, de extensão e de domínio 
-do saber humano, caracterizadas, entre outros elementos, pelo corpo docente com, 
-no mínimo, 1/3 (um terço) do total constituído por portadores de titulação acadêmica 
-de mestrado ou doutorado (Art. 52, inciso III). 
-A FATEC Zona Sul atende às exigências da LDB, pois 80% de seus docentes 
-são mestres ou doutores, o que corresponde a mais de 2/3 dos titulados de portadores 
-dos títulos indicados.  
-A pesquisa do WEBSAI mostra por meio dos gráficos supra que tanto 
-funcionários administrativos quanto docentes consideram excelentes as políticas de 
-pessoal tais como vêm sendo implementadas. 
  
-Dimensão 6: Organização e Gestão da Instituição 
-A gestão da Instituição é composta pela estrutura hierarquizada que é  
-precedida pela estrutura organizacional do CEETEPS, que é composto nessa ordem: 
-Conselho Deliberativo, Superintendência, Unidades Administrativas, dentre elas a 
-Unidade de Ensino Superior de Graduação (CESU). Na Faculdade de Tecnologia 
-FATEC - Zona Sul “Dom Paulo Evaristo Arns”, há a Congregação, a Diretoria Geral, 
-a Diretoria Administrativa, a Diretoria Acadêmica, as Coordenadorias de Cursos, a 
-Orientação do Polo EaD do Curso de Gestão Empresarial, os  Conselhos de Curso e 
-os Núcleos Docentes Estruturantes. 
-O sistema de avaliação institucional WEBSAI (2023) detectou que docentes, 
-discentes e funcionários administrativos acreditam que a equipe de gestão é 
-reconhecida como uma liderança capaz de coordenar e levar adiante os projetos da 
-unidade. 
-Os órgãos colegiados deliberam por meio de reuniões de natureza ordinária, 
-conforme calendário previamente elaborado e que se renova a cada gestão de dois  
-anos letivos, e quando necessário, fazem reuniões extraordinárias para atendimento 
-de situações inesperadas. 
-50 
+ 
+ 
+ 
+ 
+Docente - Dimensão – 6) Organização e Gestão da Organização 
+ 
+A - Excelente 54,55%
+B - Boa 40,91%
+C - Insuficiente 4,55%
+46 
  
  
  
 Relatório de Autoavaliação Institucional 
 da Fatec – 2023/2º Parcial
-A importância dos órgãos colegiados nas faculdades se dá pelo foco na gestão 
-democrática com a garantia da prática da participação dos docentes, funcionários e 
-discentes na descentralização do poder e da consciência social entorno da oferta de 
-uma educação de qualidade. 
-Considera-se uma gestão democrática quando é possibilitada a autonomia dos 
-sujeitos no compartilhamento das decisões, identificando o potencial de colaboração 
-de cada pessoa e segmento escolar, promovendo um trabalho coletivo  na construção 
-da cidadania e efetivação do processo democrático. 
-Para ampliar esta potencialidade, a unidade deverá: manter e ampliar o diálogo 
-no ambiente acadêmico por meio do exemplo dado aos alunos por professores, 
-coordenadores, diretores e funcionários, pois a prática diária capilariza-se entre todos 
-os membros da comunidade acadêmica; ampliar a capacitação profissional dos 
-funcionários, garantindo um bom ambiente de trabalho, que valorize o diálogo e a 
-negociação para solução de conflitos; manter o diálogo com todos os membros da 
-comunidade acadêmica, sem grupos preferenciais ou favorecimentos, evitando 
-sempre embates desnecessários, de modo que o clima organizacional mantenha-se 
-bom para todos; e manter a rotina de reuniões ordinárias e extraordinárias dos 
-colegiados.  
- 
-Dimensão 10: Sustentabilidade Financeira 
-A sustentabilidade financeira cabe exclusivamente à Administração Central do 
-CPS em razão da dotação orçamentária da autarquia. 
  
  
  
-51 
+ 
+Neste eixo que está ligado a políticas de pessoal e gestão da instituição 
+podemos destacar os bons resultados, na percepção docente e da área 
+administrativa, em relação ao incentivo a formação docente e funcionários 
+administrativos, bem como a atuação e representatividade dos colegiados.  O apoio 
+da direção em relação a participação na tomada de decisões e resolução de conflitos 
+também fica em destaque. 
+Como pontos a serem melhorados destacam-se tanto o conhecimento em 
+relação as questões de progressão e evolução funcional bem como a satisfação 
+mediana em relação a elas. 
+ 
+ 
+ 
+I
+ 
+ 
+47 
  
  
  
@@ -2474,47 +2975,82 @@ SINAES
 7 
 APRESENTAÇÃO DAS PRINCIPAIS INFORMAÇÕES COLETADAS NO EIXO 
  
+Aluno - Dimensão – 7) Infraestrutura Física 
  
  
+  
  
-A infraestrutura da FATEC Zona Sul é composta por salas de aula e 
-laboratórios de informática, além das instalações administrativas, sala de professores, 
-                                     
-              
-52 
+ 
+48 
  
  
  
 Relatório de Autoavaliação Institucional 
 da Fatec – 2023/2º Parcial
-sala de descanso, copa equipada, sala “maker”, salas de coordenações, sala de 
-orientação do Polo EaD, biblioteca e auditório compartilhados com a Etec.  
-Analisadas as recomendações apresentadas pelos especialistas, referentes às 
-avaliações externas para reconhecimento e renovações de reconhecimento, verifica-
-se que dentre o universo de pontos fracos elencados pelas comissões de especialistas 
-do Conselho Estadual de Educação (CEE- SP), 60% referem-se à infraestrutura, 
-biblioteca e laboratórios, destacando-se que a FATEC Zona Sul possui todos os livros 
-das bibliografias básicas e complementares de seus cursos, disponíveis para consulta 
-e empréstimo em sua biblioteca.  
-Os gráficos supra indicam que a comunidade acadêmica considera que as 
-instalações e os equipamentos são adequados ao desenvolvimento dos conteúdos de 
-todas as disciplinas dos cursos ofertados pela unidade, sendo que mais de 60%dos 
-alunos considera excelente ou bom o conjunto de laboratórios e ambientes que 
-proporcionam atividades práticas na unidade, e mais de 50% entende ser boa ou 
-excelente a condição das salas de aula. 
-De qualquer forma, ainda para melhora a satisfação de todos, devem ser 
-implementadas as seguintes providências: substituição de mobiliário e computadores 
-mais antigos dos laboratórios; substituição de mesas e cadeiras das salas de aula por 
-carteiras universitárias que ocupam menos espaço; substituição de ventiladores nas 
-salas de aula e áreas administrativas; reforma dos banheiros; aumento do número de 
-funcionários na limpeza e segurança;  melhora das condições gerais da cantina; e 
-elevação da capacidade de internet para que toda a comunidade acadêmica possa 
-executar plenamente suas atividades nas instalações da unidade. 
  
-Para atender todas essas necessidades, a unidade deverá solicitar ao Centro 
-Paula Souza novo mobiliário e aumento de banda de internet, negociar o aumento de 
-funcionários e provisionar verba ao longo do ano para executar melhorias. 
  
+ 
+ 
+ 
+ 
+49 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
+ 
+ 
+ 
+Técnico Administrativo - Dimensão – 7) Infraestrutura Física 
+ 
+ 
+ 
+A - Excelente 22,73%
+B - Boa
+C - Regular 18,18%
+D - Insuficiente 4,55%
+50 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
+ 
+I
+ 
+ 
+Docentes - Dimensão – 7) Infraestrutura Física 
+ 
+ 
+A - Excelente 27,27%
+B - Boa 45,45%
+C - Regular 18,18%
+D - Ruim 9,09%
+51 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
+ 
+ 
+ 
+ 
+ 
+A infraestrutura da Fatec Mauá tem sido atualizada para atendimento do novo 
+curso de Desenvolvimento de Software Multiplataforma e há uma preocupação 
+constante da montagem de novos laboratórios para atender a demanda dos demais 
+cursos, mas há necessidade de acelerar as ações para melhoria. No entanto, as 
+questões de segurança, constituem um problema que afeta alguns estudantes e 
+atualmente há uma demanda para locação de motos dos estudantes que está sendo 
+tratado junto a prefeitura. Estas questões são de natureza relativa ao entorno onde 
+está situada a Fatec Mauá é de responsabilidade do poder público municipal. Não 
+obstante a este fato a direção tem, reiterada vezes, solicitado providencias do setor 
+público responsável.  
+ 
+ 
+I
  
  
 4 
@@ -2532,62 +3068,18 @@ Prazo
 Código 
 PGA 
 Título 
-108 - 111 
-Publicação do PDI internamente e no site da FATEC Zona Sul, 
-realização de reuniões com os representantes de sala, Núcleos 
-Docentes Estruturantes dos Cursos (NDE) e Conselhos de Curso (CC) 
-Atividade 
-contínua 
-ao longo 
-do ano 
-103 a 107 
-– 111 – 
-113 a 115 
-Realização de reuniões com os representantes de sala e inclusão de 
-atividade para divulgação do PDI em eventos internos, como a Semana 
-de Tecnologia realizada ao longo do ano letivo. 
-Atividade 
-contínua 
-ao longo 
-do ano 
-103 a 107 
-Manutenção dos cursos de nivelamento, reforço e recuperação das 
-disciplinas em que os alunos possuem maior dificuldade de 
-aprendizagem ou deficiência advindas do Ensino Médio. 
-Atividade 
-contínua 
-ao longo 
-do ano 
-103 a 107 
-– 113 a 
-115 
-Incentivo da presença às aulas por meio de metodologias ativas e 
-melhorias físicas no espaço universitário dedicado ao ensino-
-aprendizagem. 
-Atividade 
-contínua 
-ao longo 
-do ano 
-103 a 107 
-– 113 a 
-115 
-Capacitação dos professores nas metodologias ativas de ensino, 
-melhoria dos equipamentos utilizados em sala de aula e adequação 
-das propostas de aula às necessidades do mercado de trabalho. 
-Atividade 
-contínua 
-ao longo 
-do ano 
-103 a 107 
-– 113 a 
-115 
-Promoção do diálogo, negociação e respeito à opinião diversa, em 
-todos os ambientes da universidade, como sala de aula, biblioteca, 
-atendimento aos alunos e nas relações hierárquicas do tipo botton up. 
-Atividade 
-contínua 
-ao longo 
-do ano 
+701 
+Projeto Facelera 
+09/2023 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  
  
  
@@ -2598,58 +3090,22 @@ Prazo
 Código 
 PGA 
 Título 
-101 -102 
-Majoração do número de parcerias para estágios na faculdade e 
-adequar os conteúdos ministrados em sala de aula às necessidades do 
-mercado de trabalho atual. 
-Atividade 
-contínua 
-ao longo 
-do ano. 
-101 – 108 
-– 113 a 
-115 
-Promoção de eventos na unidade que disseminem Ciência, Tecnologia 
-e Inovação. 
-Atividade 
-contínua 
-ao longo 
-do ano. 
-101 – 108 
-– 112 a 
-115 
-Promoção de eventos na unidade que valorizem a cultura e arte para 
-formação integral de nossos alunos. 
-Atividade 
-contínua 
+103 
+Promoção de inclusão digital 
+10/2023 
+104 / 105 
+Feira / exposição de intercâmbio Brasil x Canadá 
+10/2023 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 5 
- 
- 
- 
-Relatório de Autoavaliação Institucional 
-da Fatec – 2023/2º Parcial
-ao longo 
-do ano. 
-103 a 107 
-– 112 a 
-115 - 301 
-Continuidade ao incentivo do diálogo, valores éticos e democráticos no 
-cotidiano das relações acadêmicas e sociais que ocorrem na faculdade. 
-Atividade 
-contínua 
-ao longo 
-do ano. 
-112 – 115 
-Promoção de eventos na unidade e situações problema em sala de 
-aula que valorizem a inclusão social e desenvolvimento sustentável. 
-Atividade 
-contínua 
-ao longo 
-do ano. 
- 
- 
- 
-6 
  
  
  
@@ -2663,49 +3119,19 @@ Prazo
 Código 
 PGA 
 Título 
-109 - 110 
-Inserção da importância da iniciação científica nas disciplinas do último 
-semestre dos cursos tecnológicos e promoção da abertura de cursos 
-de pós-graduação lato sensu na FATEC Zona Sul. 
-Atividade 
-contínua 
-ao longo 
-do ano. 
-101 – 102 
-– 112 a 
-115 
-Criação de eventos para difundir as atividades de ensino, pesquisa e 
-extensão são boas na FATEC Zona Sul. 
-Atividade 
-contínua 
-ao longo 
-do ano. 
-103 a 107 
-- 301 
-Motivação dos professores à capacitação profissional e ao bom 
-planejamento dos conteúdos e metodologias das aulas semanalmente. 
-Atividade 
-contínua 
-ao longo 
-do ano. 
-101 – 102 
-Incremento da política de divulgação do vestibular semestralmente, 
-sobretudo junto à comunidades carentes para garantir acesso ao 
-ensino superior e inclusão social. 
-Atividade 
-contínua 
-ao longo 
-do ano. 
-103 a 107 
-– 111 - 
+101 
+Realização de visita técnica específica para área da logística 
+06/2023 
+102 
+Realização de visita técnica específica para área da tecnologia da 
+informação 
+06/2023 
 301 
-Manutenção da cultura de diálogo e informação entre os funcionários 
-da unidade por meio da qualidade de vida no trabalho, conversas 
-diárias e capacitações institucionais. 
-Atividade 
-contínua 
-ao longo 
-do ano. 
+Curso de cultura hispânica 
+06/2023 
+302 
+Desenvolvimento de app soft skil 
+12/2023 
  
  
 EIXO 
@@ -2715,57 +3141,18 @@ Prazo
 Código 
 PGA 
 Título 
-102 – 108 
-- 301 
-Ampliação da comunicação com a comunidade acadêmica via e-mails, 
-redes sociais e participação da representação discente nos colegiados 
-da FATEC Zona Sul. 
-Atividade 
-contínua 
-ao longo 
-do ano. 
-101 - 301 
-Aumento do número de parcerias institucionais com empresas que 
-possam oferecer estágios. 
-Atividade 
-contínua 
-ao longo 
-do ano. 
-109 - 110 
-Ampliação do número de vagas oferecidas à iniciação científica via 
-programa de monitoria do Centro Paula Souza. 
-Atividade 
-contínua 
-ao longo 
-do ano. 
-102 – 108 
-– 112 a 
-115 - 301 
-Ampliação do diálogo no ambiente universitário através do exemplo 
-dado por professores, coordenadores, diretores e funcionários da 
-FATEC Zona Sul, dando exemplo de ação aos nossos alunos, pois a 
-prática diária se capilariza entre todos os membros da comunidade 
-acadêmica. 
-Atividade 
-contínua 
-ao longo 
-do ano. 
-111 a 115 
-- 301 
-Ampliação da capacitação profissional dos funcionários, garantindo um 
-bom ambiente de trabalho que valorize o diálogo e negociação para 
-Atividade 
-contínua 
-7 
+303 
+Divulgação da IES nas redes sociais 
+07/2023 
+601 
+Planejamento financeiro individual e familiar 
  
  
  
-Relatório de Autoavaliação Institucional 
-da Fatec – 2023/2º Parcial
-solução de conflitos, considerando que todos os nossos funcionários 
-possuem nível superior. 
-ao longo 
-do ano. 
+ 
+ 
+ 
+ 
  
  
 EIXO 
@@ -2775,62 +3162,22 @@ Prazo
 Código 
 PGA 
 Título 
-201 - 202 
-Troca do mobiliário e computadores mais antigos nos laboratórios. 
-Atividade 
-contínua 
-ao longo 
-do ano. 
-501 a 504 
-Substituição das mesas e cadeiras em sala de aula por cadeiras 
-universitárias que ocupam menos espaço. 
-Atividade 
-contínua 
-ao longo 
-do ano. 
-501 a 504 
-Troca de ventiladores nas salas de aula e áreas administrativas. 
-Atividade 
-contínua 
-ao longo 
-do ano. 
-201 - 202 
-Solicitação ao Centro Paula Souza o aumento da banda de internet da 
-FATEC Zona Sul. 
-Atividade 
-contínua 
-ao longo 
-do ano. 
-501 a 504 
-Pintura, troca dos móveis e refazimento dos circuitos elétricos da 
-Secretaria Acadêmica e Biblioteca para melhorar as condições de 
-trabalho ofertadas à comunidade acadêmica da FATEC Zona Sul. 
-Atividade 
-contínua 
-ao longo 
-do ano. 
-501 a 504 
-Aquisição de catracas eletrônicas para controle de acesso dos alunos. 
-Atividade 
-contínua 
-ao longo 
-do ano. 
-501 a 504 
-Instituição de um programa interno de manutenção preventiva das 
-instalações prediais. 
-Atividade 
-contínua 
-ao longo 
-do ano. 
- 
-Pintura da área externa da faculdade: prédios e muros. 
-Atividade 
-contínua 
-ao longo 
-do ano. 
+201 
+Organização do espaço de laboratório – CST em Fabricação Mecânica 
+10/2023 
+202 
+Organização do espaço de laboratório – CST em Polímeros 
+10/2023 
+203 
+Organização do espaço de laboratório – CST em Desenvolvimento de 
+Produtos Plásticos 
+10/2023 
  
  
-8 
+ 
+ 
+ 
+6 
  
  
  
@@ -2842,42 +3189,16 @@ de subsidiar à tomada de decisão e ao planejamento institucional, na busca de
 contínua melhoria da qualidade do ensino, da pesquisa, da extensão e da gestão. 
 Sendo assim um importante instrumento para a Direção. 
  
-Dentre as principais ações advindas desse processo, podemos salientar  
-• planejar reuniões de apresentação do PDI aos discentes e divulgar material 
-simplificado no site e murais da unidade; 
-• ampliar os cursos de nivelamento, reforço e recuperação de disciplinas em que 
-os alunos possuem maior dificuldade de aprendizagem ou deficiência advindas 
-do Ensino Médio; 
-• promover ações incentivadoras aos discentes pelos docentes com utilização de 
-metodologias ativas, para majorar a participação dos discentes durante as 
-aulas; 
-• convidar a comunidade externa, por meio de seus líderes, a participar de 
-eventos na unidade, com ampla divulgação; 
-• promover o ambiente de diálogo, negociação e respeito à opinião diversa nos 
-ambientes acadêmicos, como sala de aula, biblioteca, locais de atendimento 
-aos alunos e nas relações hierárquicas do tipo “botton up”; 
-• aumentar o número de parcerias para estágios na faculdade e adequar os 
-conteúdos ministrados em sala de aula às necessidades do mercado de 
-trabalho atual; 
-• ampliar a política de divulgação do vestibular semestralmente, junto às 
-comunidades carentes para garantir acesso ao ensino superior e inclusão 
-social; 
-• aumentar o número de vagas oferecidas à iniciação científica via programa de 
-monitoria do Centro Paula Souza; 
-• ampliar o diálogo no ambiente acadêmico por meio do exemplo dado por 
-professores, coordenadores, diretores e funcionários, para que a prática diária 
-se capilarize entre todos os membros da comunidade; 
-• solicitar ao Centro Paula Souza o aumento da banda de internet na unidade; e 
-• instituir um programa de manutenção preventiva das instalações prediais. 
-9 
- 
- 
- 
-Relatório de Autoavaliação Institucional 
-da Fatec – 2023/2º Parcial
-. 
- 
- 
+Dentre as principais ações advindas desse processo, podemos salientar o clima de 
+respeito a diversidade, o envolvimento dos docentes e corpo administrativo em todas 
+as funções pertinentes a instituição, o reconhecimento na excelência de ensino por 
+parte de todos, docentes, funcionários administrativos e principalmente o corpo 
+discente. Apontamos ainda os problemas relacionados a comunicação, em especial 
+com os discentes e suas dúvidas em relação a sua representatividade, programas 
+oferecidos pela instituição e atuação dos colegiados. O problema de segurança e 
+locação de motos destacam-se como uma das principais reclamações discentes. As 
+ações propostas nos capítulos anteriores visarão mitigar o quadro de fragilidades e 
+ampliar as boas práticas de sucesso. 
  
  
 Os resultados apresentados contemplam as dez dimensões auto avaliativas do 
@@ -2892,13 +3213,22 @@ reforçando o quanto a avaliação contribui para a gestão dos resultados.
  
  
  
+1) Retirar todas as orientações em vermelho 
+2) Fazer a revisão ortográfica antes de encaminhar para Cesu/DGE 
+cesu.gestaoeducacional@cps.sp.gov.br 
   
  
  
  
+7 
  
  
-10 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
+ 
+ 
+8 
  
  
  
@@ -2908,14 +3238,28 @@ da Fatec – 2023/2º Parcial
  
 ANEXO - ATAs de Aprovação dos membros da CPA, registro de alterações e 
 reuniões da CPA 
-Ata da 74ª Reunião Extraordinária da Congregação de 09/11/2023. 
-11 
+ 
+9 
  
  
  
 Relatório de Autoavaliação Institucional 
 da Fatec – 2023/2º Parcial
  
+ 
+10 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
+ 
+11 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
 12 
  
  
@@ -2928,14 +3272,20 @@ da Fatec – 2023/2º Parcial
  
 Relatório de Autoavaliação Institucional 
 da Fatec – 2023/2º Parcial
- 
 14 
  
  
  
 Relatório de Autoavaliação Institucional 
 da Fatec – 2023/2º Parcial
-  
+15 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional 
+da Fatec – 2023/2º Parcial
+ 
+ 
  
  
  
