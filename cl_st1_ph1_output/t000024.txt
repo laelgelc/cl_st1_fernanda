@@ -25,14 +25,13 @@ postadas em todas as Equipes do Teams, e também enviadas pelo chat pelos Coorde
 
 • Tabulação dos dados coletados, elaboração de gráficos, tabelas e quadro para posterior redação dos relatórios e informes aos membros da comunidade acadêmica local e instituições reguladoras externas. 
 
-Por fim, a Diretoria Geral fez uma síntese das análises e propostas de melhorias enviadas pelos diversos departamentos, após ampla discussão interna, síntese esta que foi enviada pela CPA a todos os segmentos, para que pudessem vislumbrar de 
-que forma suas contribuições serão norteadoras do planejamento institucional para 2025. Dentre as principais melhorias propostas, destacam-se: 
+Por fim, a Diretoria Geral fez uma síntese das análises e propostas de melhorias enviadas pelos diversos departamentos, após ampla discussão interna, síntese esta que foi enviada pela CPA a todos os segmentos, para que pudessem vislumbrar de que forma suas contribuições serão norteadoras do planejamento institucional para 2025. Dentre as principais melhorias propostas, destacam-se: 
  
 • publicar o PDI internamente e no site da FATEC Zona Sul, e fazer reuniões com os representantes de sala, Núcleos Docentes Estruturante dos Cursos (NDE) e Conselhos de Curso (CC), para maior divulgação e compreensão deste documento por todos; 
 
 • manter os cursos de nivelamento, reforço e recuperação das disciplinas em que os alunos possuem maior dificuldade de aprendizagem ou deficiência advindas do Ensino Médio; 
-• 
-capacitar professores nas metodologias ativas de ensino, melhorar os equipamentos utilizados em sala de aula e adequar as propostas de aula às necessidades do mercado de trabalho; 
+
+• capacitar professores nas metodologias ativas de ensino, melhorar os equipamentos utilizados em sala de aula e adequar as propostas de aula às necessidades do mercado de trabalho; 
 
 • promover eventos na unidade que disseminem Ciência, Tecnologia e Inovação, e também eventos voltados à valorização da cultura e arte para formação integral de nossos alunos, além de incentivar sempre a inclusão social e o desenvolvimento sustentável; 
 
@@ -66,8 +65,7 @@ Section: 3 DESENVOLVIMENTO
  
 A análise realizada pela Área de Avaliação Institucional, responsável pelo WEBSAI, também tem contribuído para a melhoria da qualidade dos cursos oferecidos pela Instituição. Além desta avaliação, as sondagens externas realizadas pelo Conselho Estadual de Educação (CEE-SP) também contribuem para essa melhoria, sendo de se destacar que a FATEC Zona Sul possui nota 3 ou 4 em todos os seus cursos avaliados pelo ENADE. 
 
-Analisando os dados da pesquisa do WEBSAI, conforme gráficos supra, quanto ao perfil docente e técnico administrativo e também ao perfil discente, verifica-se que as ferramentas de planejamento e avaliação institucional constituem uma grande força da unidade, pois para as três categorias, as respostas voltam-se para resultados bons ou muito bons no que concerne à forma de divulgação dos resultados da autoavaliação, e para os funcionários administrativos e docentes, também é muito bom ou bom o uso feito pela gestão da unidade dos resultados da pesquisa para implementar melhorias na qualidade de ensino, embora para os discentes, apenas 35% consideram boa ou muito boa esta utilização dos dados da autoavaliação, o que aponta para uma fragilidade, que pode ser atribuída ao fato de que boa parte dos alunos não consegue tecer critérios de comparação referente à melhoria da qualidade de ensino, em razão do curto período em que cada um permanece na instituição, após  
-a participação e o feedback de cada autoavaliação, que acontece apenas uma vez por ano.  
+Analisando os dados da pesquisa do WEBSAI, conforme gráficos supra, quanto ao perfil docente e técnico administrativo e também ao perfil discente, verifica-se que as ferramentas de planejamento e avaliação institucional constituem uma grande força da unidade, pois para as três categorias, as respostas voltam-se para resultados bons ou muito bons no que concerne à forma de divulgação dos resultados da autoavaliação, e para os funcionários administrativos e docentes, também é muito bom ou bom o uso feito pela gestão da unidade dos resultados da pesquisa para implementar melhorias na qualidade de ensino, embora para os discentes, apenas 35% consideram boa ou muito boa esta utilização dos dados da autoavaliação, o que aponta para uma fragilidade, que pode ser atribuída ao fato de que boa parte dos alunos não consegue tecer critérios de comparação referente à melhoria da qualidade de ensino, em razão do curto período em que cada um permanece na instituição, após  a participação e o feedback de cada autoavaliação, que acontece apenas uma vez por ano.  
 
 A fim de atacar a fragilidade apontada, e incrementar a potencialidade supramencionada, a unidade deverá promover em 2025 reuniões com os discentes, para apresentação das melhorias implementadas a cada semestre, a partir das estratégias traçadas com o resultado da autoavaliação, fazendo também divulgação destas melhorias por meio de material simplificado, no site e também nos murais.  
  
@@ -75,1117 +73,119 @@ Acredita-se, assim, que cada vez mais haverá majoração de participação e en
  
  
  
-                      28
+Missão - Promover a educação profissional pública dentro de referenciais de excelência, visando ao atendimento das demandas sociais e do mundo do trabalho. 
+
+Visão - Consolidar-se como centro de excelência e estímulo ao desenvolvimento humano e tecnológico, adaptado às necessidades da sociedade. 
+
+Objetivos Estratégicos:
+
+- Atender/Antecipar-se às demandas sociais e do mercado de trabalho; 
+
+- Obter a satisfação dos públicos que se relacionam com o Centro Paula Souza; 
+
+- Aperfeiçoar continuamente os processos de planejamento, gestão e as atividades operacionais/administrativas; 
+
+- Alcançar e manter o grau de excelência diante do mercado em seus processos de ensino e aprendizagem; 
+
+- Estimular e consolidar parcerias (internas e externas), sinergias e a inovação tecnológica; 
+
+- Reconfigurar a infraestrutura e intensificar a utilização de recursos tecnológicos; 
+
+- Promover a adequação, o reconhecimento e o desenvolvimento permanente do capital humano; 
+
+- Incentivar a transparência e o compartilhamento de informações e conhecimentos; 
+
+- Assegurar a sustentabilidade financeira da instituição. 
+
+A análise dos dados da pesquisa do WEBSAI mostra que a unidade tem grande força quanto ao cumprimento de sua Missão e Plano de Desenvolvimento Institucional, restando evidenciada a disseminação da cultura, arte, ciência, tecnologia, inovação, valores éticos, inclusão social e formação profissional de qualidade, como demonstram os gráficos supra, representativos das respostas tanto dos funcionários administrativos e docentes como dos discentes.  
+
+Verifica-se que o conhecimento do PDI pelos funcionários administrativos e docentes constitui uma grande força da unidade, com destaque para seu elevado comprometimento e proatividade, com adoção de medidas positivas voltadas ao ensino-aprendizagem, com reconhecimento da sua eficiência e eficácia pelos discentes. 
+
+Analisando detidamente as respostas dos discentes, nota-se grande fragilidade no fato de que apenas menos de 40% reconhece como excelente e bom o cumprimento do PDI na unidade, sendo que pode-se atribuir esta situação ao fato de que muitos discentes não conhecem detalhadamente o PDI, de modo que para atacar esta fragilidade, a unidade deverá promover mais reuniões com os discentes em 2025,  para apresentação do PDI e incrementar sua divulgação por meio de material simplificado, no site e também nos murais, além de continuar estimulando os funcionários administrativos e docentes a tomarem conhecimento dos documentos institucionais por meio de reuniões e aplicação prática dos planejamentos operacional, tático e estratégico. 
+
+Apesar da fragilidade consistente no fato de apenas 50% dos alunos considerar ótima ou boa a participação da unidade em eventos de responsabilidade social, constata-se que os funcionários administrativos e docentes julgam, em sua grande maioria, excelente o oferecimento pela Fatec Zona Sul de serviços à comunidade, cursos de extensão, “lives”, palestras abertas, entre outros, reforçando o elevado nível de participação da comunidade externa nas atividades propostas pela instituição. 
+
+A fim de melhor informar os discentes sobre esta participação ativa da Fatec Zona Sul junto à comunidade externa, serão realizadas reuniões periódicas com os representantes de sala, e também haverá a inclusão da pauta em eventos internos, como a Semana de Tecnologia, que ocorre anualmente, além de ampla divulgação destes no site e redes sociais da Fatec Zona Sul. 
  
-__________________________________________________________________________ 
-Administração Central 
-Unidade do Ensino Superior de Graduação 
- 
- 
-Relatório de Autoavaliação Institucional 
-da Fatec – 2024/INTEGRAL
-3.2. 
-Eixo 2: Desenvolvimento Institucional 
- 
-Dimensão 1: Missão e Plano de Desenvolvimento Institucional 
-Dimensão 3: Responsabilidade Social da Instituição 
- 
- 
-EIXO 
-2 – Desenvolvimento Institucional 
-Dimensão 
-SINAES 
-1 e 3 
-APRESENTAÇÃO DAS PRINCIPAIS INFORMAÇÕES COLETADAS NO EIXO 
-                      29
- 
-__________________________________________________________________________ 
-Administração Central 
-Unidade do Ensino Superior de Graduação 
- 
- 
-Relatório de Autoavaliação Institucional 
-da Fatec – 2024/INTEGRAL
- 
- 
- 
- 
- 
-                      30
- 
-__________________________________________________________________________ 
-Administração Central 
-Unidade do Ensino Superior de Graduação 
- 
- 
-Relatório de Autoavaliação Institucional 
-da Fatec – 2024/INTEGRAL
- 
- 
- Missão - Promover a educação profissional pública dentro de referenciais 
-de excelência, visando ao atendimento das demandas sociais e do mundo do trabalho. 
-Visão - Consolidar-se como centro de excelência e estímulo ao 
-desenvolvimento humano e tecnológico, adaptado às necessidades da sociedade. 
-Objetivos Estratégicos - Atender/Antecipar-se às demandas sociais e do 
-mercado de trabalho; Obter a satisfação dos públicos que se relacionam com o Centro 
-Paula Souza; Aperfeiçoar continuamente os processos de planejamento, gestão e as 
-atividades operacionais/administrativas; Alcançar e manter o grau de excelência 
-diante do mercado em seus processos de ensino e aprendizagem; Estimular e 
-consolidar parcerias (internas e externas), sinergias e a inovação tecnológica; 
-Reconfigurar a infraestrutura e intensificar a utilização de recursos tecnológicos; 
-Promover a adequação, o reconhecimento e o desenvolvimento permanente do 
-capital humano; Incentivar a transparência e o compartilhamento de informações e 
-conhecimentos; Assegurar a sustentabilidade financeira da instituição. 
-                      31
- 
-__________________________________________________________________________ 
-Administração Central 
-Unidade do Ensino Superior de Graduação 
- 
- 
-Relatório de Autoavaliação Institucional 
-da Fatec – 2024/INTEGRAL
-Diretrizes Estratégicas - Excelência em educação humana e tecnológica: 
-Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem 
-focados na aplicação da tecnologia, criatividade e no desenvolvimento de 
-competências humanas e organizacionais; Satisfação dos públicos (interno e externo): 
-Compreender as necessidades dos públicos interno e externo com objetivo de atender 
-as suas expectativas; Valorização do capital humano: Assegurar a valorização dos 
-servidores do Centro Paula Souza por meio de ações que estimulem a prática 
-inovadora; Alto desempenho e melhoria permanente: Garantir processos 
-permanentes de autocrítica institucional que viabilizem a melhoria contínua das 
-atividades do Centro Paula Souza com o objetivo de alcançar  resultados e metas; 
-Parcerias, sinergias e inovação tecnológica: Estimular a busca de interesses comuns 
-nas iniciativas pública e privada para o aprimoramento do conhecimento, da formação 
-profissional e da gestão administrativa de modo a prover a sustentabilidade da 
-instituição; Transparência: Compartilhar de forma sistêmica informações de interesse 
-dos públicos  interno e externo. 
-A análise dos dados da pesquisa do WEBSAI mostra que a unidade tem grande 
-força quanto ao cumprimento de sua Missão e Plano de Desenvolvimento 
-Institucional, restando evidenciada a disseminação da cultura, arte, ciência, 
-tecnologia, inovação, valores éticos, inclusão social e formação profissional de 
-qualidade, como demonstram os gráficos supra, representativos das respostas tanto 
-dos funcionários administrativos e docentes como dos discentes.  
-Verifica-se que o conhecimento do PDI pelos funcionários administrativos e 
-docentes constitui uma grande força da unidade, com destaque para seu elevado 
-comprometimento e proatividade, com adoção de medidas positivas voltadas ao 
-ensino-aprendizagem, com reconhecimento da sua eficiência e eficácia pelos 
-discentes. Analisando detidamente as respostas dos discentes, nota-se grande 
-fragilidade no fato de que apenas menos de 40% reconhece como excelente e bom o 
-cumprimento do PDI na unidade, sendo que pode-se atribuir esta situação ao fato de 
-que muitos discentes não conhecem detalhadamente o PDI, de modo que para atacar 
-esta fragilidade, a unidade deverá promover mais reuniões com os discentes em 2025,  
-                      32
- 
-__________________________________________________________________________ 
-Administração Central 
-Unidade do Ensino Superior de Graduação 
- 
- 
-Relatório de Autoavaliação Institucional 
-da Fatec – 2024/INTEGRAL
-para apresentação do PDI e incrementar sua divulgação por meio de material 
-simplificado, no site e também nos murais, além de continuar estimulando os 
-funcionários administrativos e docentes a tomarem conhecimento dos documentos 
-institucionais por meio de reuniões e aplicação prática dos planejamentos operacional, 
-tático e estratégico. 
-Apesar da fragilidade consistente no fato de apenas 50% dos alunos considerar 
-ótima ou boa a participação da unidade em eventos de responsabilidade social, 
-constata-se que os funcionários administrativos e docentes julgam, em sua grande 
-maioria, excelente o oferecimento pela Fatec Zona Sul de serviços à comunidade, 
-cursos de extensão, “lives”, palestras abertas, entre outros, reforçando o elevado nível 
-de participação da comunidade externa nas atividades propostas pela instituição. A 
-fim de melhor informar os discentes sobre esta participação ativa da Fatec Zona Sul 
-junto à comunidade externa, serão realizadas reuniões periódicas com os 
-representantes de sala, e também haverá a inclusão da pauta em eventos internos, 
-como a Semana de Tecnologia, que ocorre anualmente, além de ampla divulgação 
-destes no site e redes sociais da Fatec Zona Sul. 
- 
- 
-O Plano de Desenvolvimento Institucional (Ano 2022  – Ano 2026 ) foi um dos 
-principais documentos que nortearam as ações da Fatec Zona Sul:  tratou-se de um 
-documento que se caracterizou como uma identidade da Instituição, definindo, dentre 
-outros, sua filosofia de trabalho, missão, estratégias, objetivos, estrutura e diretrizes 
-pedagógicas, algo a ser continuado no PDI para os anos de 2027 – 2030 .  
- 
- Desde 2006, a Faculdade de Tecnologia da Zona Sul vem se destacando muito 
-por seus trabalhos socialmente responsáveis. Os trabalhos são realizados durante 
-todo o ano, e entre eles estão as palestras educativas, o incentivo ao trote solidário, 
-por meio do qual calouros e veteranos se unem e trabalham em prol do bem da 
-sociedade, arrecadando alimentos e doando sangue, além de aulas de informática e 
-                      33
- 
-__________________________________________________________________________ 
-Administração Central 
-Unidade do Ensino Superior de Graduação 
- 
- 
-Relatório de Autoavaliação Institucional 
-da Fatec – 2024/INTEGRAL
-idiomas para crianças de baixa renda e pessoas da terceira idade de modo mais 
-amplo. 
 São objetivos institucionais da Fatec Zona Sul:  
+
 1) Atender às demandas sociais e do mercado de trabalho.  
-2) Obter a satisfação dos públicos que se relacionam com o Centro Paula Souza 
-(stakeholders).  
-3) Alcançar e manter o grau de excelência em seus processos de ensino e 
-aprendizagem.  
-4) Assegurar a perenidade do crescimento da instituição com recursos financeiros 
-disponíveis.  
+
+2) Obter a satisfação dos públicos que se relacionam com o Centro Paula Souza (stakeholders).  
+
+3) Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem.  
+
+4) Assegurar a perenidade do crescimento da instituição com recursos financeiros disponíveis.  
+
 5) Garantir celeridade e efetividade na prestação de serviços.  
-6) Formar profissionais atualizados em tecnologias e processos produtivos, capazes 
-de atuar no desenvolvimento tecnológico e inovação.  
-7) Promover a cultura de inovação e empreendedorismo. 8) Aumentar a eficiência, a 
-produtividade e a competitividade da instituição. 
+
+6) Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no desenvolvimento tecnológico e inovação.  
+
+7) Promover a cultura de inovação e empreendedorismo. 
+
+8) Aumentar a eficiência, a produtividade e a competitividade da instituição. 
+
 9) Ampliar a oferta da Educação Profissional. 
  
-A Faculdade de Tecnologia da Zona Sul – Dom Paulo Evaristo Arns está 
-sediada na Zona Sul da cidade de São Paulo, especificamente na região que pertence 
-a subprefeitura do M´Boi Mirim atendendo a quase 600 mil pessoas. De acordo com 
-o IBGE (2018), a população estimada do município de São Paulo é de 12.176.866 
-habitantes. Se for considerada a região metropolitana, os 39 municípios que 
-circundam a capital, a população chega a aproximadamente 21 milhões de habitantes, 
-que se concentram entre as idades de 17 a 39 anos na região urbana. 
-Na cidade de São Paulo estão concentrados 18,6% do Produto Interno Bruto 
-(PIB) e 56,3% do PIB do Estado de São Paulo e 6% da população do Brasil. A Região 
-conta com mais de 872 mil estudantes no ensino superior, dos quais 783.030 estão 
-no setor privado. Matriculados no ensino médio no munícipio são 162.485, possíveis 
-candidatos aos cursos de graduação inclusive os de tecnologia. Importante centro de 
-                      34
- 
-__________________________________________________________________________ 
-Administração Central 
-Unidade do Ensino Superior de Graduação 
- 
- 
-Relatório de Autoavaliação Institucional 
-da Fatec – 2024/INTEGRAL
-serviços corporativos e financeiros, sede de algumas das maiores corporações 
-globais, a cidade oferece toda a infraestrutura de tecnologia e serviços. É considerada 
-uma das cidades de maior movimento com turismo de negócios do planeta. “A renda 
-per capita na capital é 70% acima da dos brasileiros em geral” (IBGE, 2022). 
- Cursos implantados - Vocação da Fatec em face da demanda regional 
-A indústria, com 1,1 milhão de pessoas, emprega 16,4% dos trabalhadores 
-brasileiros deste setor. Neste mesmo segmento, os mais de 47 mil estabelecimentos 
-localizados no território metropolitano respondem por 13% do parque industrial 
-brasileiro, mais de 46% do montante estadual e aproximadamente metade dos 
-industriários paulistas. 
-Os quase 249 mil estabelecimentos comerciais e de serviços metropolitanos 
-representam mais de 13% daqueles em atividade no País. No Estado, sua 
-participação ultrapassa os 46 pontos percentuais. Os 2,8 milhões de comerciários e 
-prestadores de serviços correspondem a 19% dos 14,5 milhões de brasileiros 
-cadastrados no setor terciário formal. No âmbito estadual, a importância deste setor 
-fica evidenciada pelo peso exercido pela Metrópole. 
-Seis em cada dez comerciários ou prestadores de serviços atuam na Grande 
-São Paulo. São Paulo é reconhecidamente a capital brasileira dos negócios, da 
-gastronomia e da cultura, com atividades diversificadas. É sede de 38% das 100 
-maiores empresas privadas de capital nacional. Dos grupos internacionais instalados 
-no Brasil, 63% estão em São Paulo. A Bolsa de Valores de São Paulo é a maior da 
-América do Sul. A Bolsa de Mercadoria e Futuros (BM&F) é a sexta maior do mundo 
-em volume de negócios. A cidade ainda conta com 31 das 50 maiores seguradoras e 
-aproximadamente 100 das 200 maiores empresas de tecnologia do Brasil. 
-Esses dados são reveladores de intensa ação comercial e econômica. Apontam 
-também para a necessidade de mão de obra qualificada, especializada e bem 
-formada. Por isso, em relação à educação, o município de São Paulo registra 136 
-faculdades, 15 universidades e 13 Centros de Educação Tecnológica. A cidade é 
-                      35
- 
-__________________________________________________________________________ 
-Administração Central 
-Unidade do Ensino Superior de Graduação 
- 
- 
-Relatório de Autoavaliação Institucional 
-da Fatec – 2024/INTEGRAL
-responsável por 28%  da produção científica nacional. Por isso a demanda qualificada 
-em relação aos cursos superiores de graduação e de pós‐graduação são as 
-prioridades das instituições de ensino superior. 
-É nesse contexto que a inserção da Fatec Zona Sul – Dom Paulo Evaristo Arns 
-se concretiza, identificada pelo número de egressos que se inserem no mercado de 
-trabalho ou pelo número de estudantes que realizam estágio supervisionado em 
-grandes empresas da região, associando o ensino à profissionalização. 
-Embora sendo um polo financeiro e comercial, São Paulo possui áreas de 
-pobreza, consequência de sua própria história de crescimento, levando uma parcela 
-significativa da população a condições de vida precária. Consciente dessa situação, a 
-Fatec Zona Sul – Dom Paulo Evaristo Arns procura responder às demandas da região 
-na qual está inserida, por meio da integração ensino, pesquisa e extensão, 
-desenvolvendo projetos e programas que visem ao impacto acadêmico e social, com 
-repercussão local, nacional ou mesmo internacional, a fim de dar cumprimento à sua 
-missão e aos objetivos institucionais. 
-Na economia, mesmo com toda essa plenitude, a cidade de São Paulo, assim 
-como o estado, sofre muito com a crise instalada nos últimos anos no país, foram 
-centros dos maiores números de demissões do país. Tomando os períodos de 2014 
-(10,3%). 2015 (12,8%), 2016 (16%), chegando a maio de 2017 a 18,8% e recuando 
-no final do ano (SEADE, IBGE). 
-Segundo o Dieese, em 2017, o nível de ocupação na Região Metropolitana de 
-São Paulo diminuiu 1,3% em relação ao ano anterior. A eliminação de 119 mil postos 
-de trabalho, associada à relativa estabilidade da População Economicamente Ativa 
-(PEA) da região (18 mil pessoas se integraram à força de trabalho, ou 0,2%), resultou 
-no acréscimo do contingente de desempregados em 137 mil pessoas.  
- Indicadores socioeconômicos 
-A taxa de desemprego na região Metropolitana de São Paulo ficou em 17,3% 
-no mês de setembro de 2018, mantendo-se praticamente estável em relação a agosto, 
-                      36
- 
-__________________________________________________________________________ 
-Administração Central 
-Unidade do Ensino Superior de Graduação 
- 
- 
-Relatório de Autoavaliação Institucional 
-da Fatec – 2024/INTEGRAL
-quando foi registrada taxa de 17,4%. O total de desempregados em setembro de 2018 
-foi estimado em 1,91 milhão de pessoas, 13 mil a menos que no mês anterior. O nível 
-de ocupação não apresentou variação e o contingente de ocupados foi estimado em 
-9,132 milhão de pessoas. 
-O índice de desemprego aberto, ou seja, pessoas que buscaram trabalho nos 
-últimos 30 dias e não trabalharam nos últimos sete dias, variou de 14,6% para 14,4%. 
-A taxa de desemprego oculto (pessoas que fizeram trabalhos eventuais, não 
-remunerados em negócios de parentes, tentaram mudar de emprego nos últimos 30 
-dias ou que não buscaram emprego em 30 dias) variou de 2,8% para 2,9%. 
-Por setores, no mês de setembro de 2018, houve elevação de 46 mil postos de 
-trabalho (alta de 2,8% em relação a agosto) no comércio e reparação de veículos 
-automotores e motocicletas. O restante dos setores apresentou queda. Na indústria 
-de transformação, a redução foi de 36 mil (ou -2,5% ante agosto); nos serviços a 
-queda foi de 9 mil postos de trabalho (-0,2% ante agosto) e, na construção, foram 9 
-mil postos a menos (-1,6% ante agosto). E entre julho e agosto de 2018, o rendimento 
-médio real dos ocupados aumentou 0,8%, chegando a R$ 2.061, e dos assalariados 
-ficou estável em R$ 2.084, esses números sofreram forte retração durante 2020 e 
-2021 por causa da pandemia de Covid-19 (SEADE). 
-A região deve sua denominação consolidada – M’Boi Mirim – a uma a tradição 
-oral oriunda do Tupi-Guarani que significa “cobra pequena”. Não há informações 
-disponíveis sobre a atividade pré-colonial. Os primeiros registros conhecidos datam 
-do início do séc. XVII quando da instalação da atividade econômica agrícola 
-(engenhos de açúcar) cuja presença no planalto paulista não prosperou. 
-A posição relativamente estratégica do assentamento colonial (São Paulo de 
-Piratininga) foi um fator importante no desenvolvimento da própria ocupação. A vila 
-de São Paulo oferecia um ponto adequado de conexão entre diversas rotas comerciais 
-– àquela época representada pelas cargas em tropas de muares e os grupos de 
-exploradores do território, chamados bandeirantes. No princípio do séc. XIX grupos 
-de imigrantes (sobretudo alemães) se instalaram na região. 
-                      37
- 
-__________________________________________________________________________ 
-Administração Central 
-Unidade do Ensino Superior de Graduação 
- 
- 
-Relatório de Autoavaliação Institucional 
-da Fatec – 2024/INTEGRAL
-Verifica-se que o número de favelas é elevado, sendo que a densidade deste 
-padrão de habitação chega a dobrar em relação à média em áreas de baixo padrão 
-que não são favelas. De qualquer modo, a densidade média da região ainda pode ser 
-considerada baixa, e está sujeita a crescimento desde que mantido o baixo padrão de 
-ocupação do território. 
-Em valores numéricos, a densidade urbana na aglomeração urbana de São 
-Paulo varia entre 25 e 300 habitantes por hectare (hab./ha.), ou seja, a intensidade de 
-ocupação das zonas de maior adensamento chega a superar em 10 vezes as regiões 
-de patamar mais baixo. Como esta população está espraiada por um amplo território, 
-a densidade média metropolitana é baixa, ficando em torno de 80 hab./ha. A 
-densidade média no município de São Paulo é um pouco mais alta, aproximadamente 
-110 hab./ha., mas ainda baixa se comparada a outros centros urbanos importantes.  
- Arranjos produtivos locais – Condições atuais e perspectivas 
-O tipo de emprego ofertado no vetor Sul e em Santo Amaro são do tipo central 
-– indicativos do grau de polarização do espaço, cuja presença é, sobretudo, reflexo 
-do padrão de urbanização, nos ramos da tecnologia em gestão e tecnologia de 
-informática. Verifica-se, portanto, um adensamento da oferta de empregos no vetor 
-Sudoeste que permite inferir que o subcentro de Santo Amaro, assim que receber as 
-novas  aberturas viárias planejadas (continuação da Av. Chucri Zaidan) passará por 
-um processo de intensa renovação urbana, à semelhança do que ocorreu em passado 
-recente no eixo Faria Lima – Berrini. O adensamento dos empregos implicará a 
-necessidade de ampliação da oferta de transporte das regiões mais ao Sul do Vetor 
-Sudoeste, assim como nas demais direções, incluindo o próprio eixo Santo Amaro – 
-Pinheiros. 
- Empreendimento regional 
-A combinação de informações relevantes como a distribuição de renda, o preço 
-da terra, o padrão das redes de transporte, comunicação e infraestruturas, e o nível 
-                      38
- 
-__________________________________________________________________________ 
-Administração Central 
-Unidade do Ensino Superior de Graduação 
- 
- 
-Relatório de Autoavaliação Institucional 
-da Fatec – 2024/INTEGRAL
-da atividade econômica de uma região, permite identificar os principais fatores de 
-nucleação dos empregos. 
-Com a incorporação imobiliária das zonas marginais do rio Pinheiros, e 
-irradiando-se desse aglomerado na direção Sul e Sudoeste (chamado de vetor 
-Sudoeste), a ampliação de centros empresariais, hotéis e shoppings tem ofertado 
-grande número de empregos ao norte de Santo Amaro com forte tendência de 
-expansão para na direção Sul na qual a Fatec está localizada. 
- Ecossistema tecnológico 
-Ecossistema é um ambiente em que vive um conjunto de formas de vida que 
-interagem entre si, formando um sistema estável. Essa definição é muito conhecida 
-entre os biólogos, mas com algumas adaptações, o mundo corporativo inseriu a 
-palavra “ecossistema” no seu vocabulário, referindo-se a uma forte tendência presente 
-no meio empresarial. O relatório global Startup Ecosystem Report, da Startup 
-Genome, indica a capital paulista como um dos ecossistemas mais promissores do 
-mundo. O estudo aponta a cidade como o maior centro financeiro do Brasil, com 
-potencial de gerar até US$ 24 bilhões nos próximos dez anos.  
-O maior município brasileiro também é grande no sucesso de seus 
-empreendimentos. Dentre os 11 unicórnios brasileiros, são nativos: Nubank, 99, 
-Gympass, Movile (iFood), Loggi, QuintoAndar, Wildlife Studios e Loft, Amaro, Banco 
-Neon, Banco Original, CargoX, Creditas, Docket, Doutor Consulta, Guiabolso, Pipefy. 
-Cubo Itaú. O Cubo Itaú, localizado no bairro Vila Olímpia, é o maior centro de 
-empreendedorismo tecnológico da América Latina. Ele surgiu em 2015, com a 
-intenção de conectar corporações, instituições de ensino, investidores e 
-empreendedores. O espaço possui 14 andares e mais de 20 mil metros quadrados, 
-abrigando mais de 300 startups em um mesmo lugar. InovaBra Habitat, este é o 
-espaço de empreendedorismo do banco Bradesco. Assim como o Cubo, o InovaBra 
-é um espaço de mais de 20 mil metros quadrados, com quase 200 startups em um 
-prédio de 10 andares. São mais de 1.500 inovadores trabalhando diariamente na 
-                      39
- 
-__________________________________________________________________________ 
-Administração Central 
-Unidade do Ensino Superior de Graduação 
- 
- 
-Relatório de Autoavaliação Institucional 
-da Fatec – 2024/INTEGRAL
-estrutura, entre empreendedores, grandes empresas, mentores, acadêmicos e 
-funcionários. 
- Evolução da demanda por profissionais com formação tecnológica – 
-necessidades setoriais 
-A região do M’Boi Mirim tem nível de renda e taxas de emprego menores que a 
-média metropolitana. Seja por causa de seu baixo padrão de acessibilidade, por falta 
-de infraestruturas demandadas pela produção, ou por seu baixo patamar de renda, a 
-região alvo do projeto não tem capacidade para ampliação significativa da oferta de 
-empregos. Somente os investimentos em infraestrutura tornarão a região apta a 
-receber investimentos privados geradores de emprego e renda. É pouco provável que 
-a região consiga gerar empregos suficientes apoiados apenas na capacidade de 
-consumo da população local. 
-Segundo os dados do IPEA, a renda média mensal familiar da Região 
-Metropolitana correspondia a 1800,00 Reais em 2007 e 2450,00 em 2018. Em que 
-pese a redução da renda média devido a situação econômica atual, houve significativa 
-redução do desemprego e aumento do número de assalariados com carteira assinada 
-nos últimos 3 anos (anteriores à atual depressão econômica). Este fato sugere que 
-um número maior de assalariados de baixa renda (1 a 3 salários-mínimos) contribuiu 
-para a redução da renda média da RMSP. Como a região do projeto se caracteriza 
-pelo predomínio das rendas mais baixas, é provável que a demanda por maior 
-qualificação profissional tecnológica. 
-A Fatec Zona Sul – Dom Paulo Evaristo Arns é a única instituição de nível 
-superior pública nas proximidades da subprefeitura do M’Boi Mirim, região 
-densamente povoada com quase 600 pessoas somente nos bairros Jardim Ângela e 
-Jardim São Luiz, com vocação voltada ao setor secundário e terciário, fortemente 
-dependentes de profissionais com boa formação tecnológica em gestão e informática. 
-Desta forma, oferta de cursos tecnológicos pela Fatec Zona Sul continuará em alta, 
-ensejando a possibilidade de abertura de novos cursos para atender a demanda por 
-profissionais de diversos ramos de tecnologia. Os cursos oferecidos pela FATEC Zona 
-                      40
- 
-__________________________________________________________________________ 
-Administração Central 
-Unidade do Ensino Superior de Graduação 
- 
- 
-Relatório de Autoavaliação Institucional 
-da Fatec – 2024/INTEGRAL
-Sul atendem plenamente às demandas da região por profissionais voltados para a 
-área de negócios (comércio e serviços – superior à 70% da atividade econômica), 
-possibilitando ainda a atuação em outros segmentos voltados aos novos mercados 
-que estão sendo abertos com o avanço das tecnologias de informática. 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-                      41
- 
-__________________________________________________________________________ 
-Administração Central 
-Unidade do Ensino Superior de Graduação 
- 
- 
-Relatório de Autoavaliação Institucional 
-da Fatec – 2024/INTEGRAL
-3.3. 
-Eixo 3: Políticas Acadêmicas 
- 
-Dimensão 2: Políticas para o Ensino, a Pesquisa e a Extensão 
-Dimensão 4: Comunicação com a Sociedade 
-Dimensão 9: Política de Atendimento aos Discentes 
- 
-EIXO 
-3 – Políticas Acadêmicas 
-Dimensão 
-SINAES 
-2, 4 e 9 
-APRESENTAÇÃO DAS PRINCIPAIS INFORMAÇÕES COLETADAS NO EIXO 
- 
- 
- 
- 
- 
-Os gráficos seguintes são dos Discentes. 
-7 – Como você avalia a qualidade do ensino 
-do seu curso? 
- 
-9 - Como você avalia a atuação da Fatec na oferta de 
-cursos de extensão? 
- 
-10 – Como você avalia a divulgação e o cumprimento  
-do plano de ensino dos professores? 
- 
-12 - Como você avalia, de forma geral, os professores 
-quanto ao domínio do conteúdo nas disciplinas que 
-ministram? 
- 
-14 - Como você avalia as disciplinas presenciais 
-quanto a metodologia e a didática dos professores? 
- 
-15 - Como você avalia, de forma geral, os 
-instrumentos de avaliação que os professores 
-utilizam? 
- 
-16 - Como você avalia o acesso da comunidade 
-externa as atividades desenvolvidas pela Fatec (site, 
-mural, redes sociais e comunicação em geral? 
- 
-17 - Como você avalia a comunicação da Fatec com 
-seus alunos (site , Siga, mural, e-mail institucional, 
-redes sociais e comunicação em geral? 
- 
-18 - Como você avalia o atendimento ao aluno, nas 
-áreas administrativas (Direção, secretaria e 
-biblioteca)? 
- 
-19 – Como avalia a coordenação do seu curso? 
- 
-21 – Como você avalia o apoio prestado pela Fatec 
-quanto ao oferecimento de monitorias para auxiliar 
-os alunos com dificuldades? 
- 
-                      42
- 
-__________________________________________________________________________ 
-Administração Central 
-Unidade do Ensino Superior de Graduação 
- 
- 
-Relatório de Autoavaliação Institucional 
-da Fatec – 2024/INTEGRAL
- 
- A FATEC Zona Sul se mantém fiel às diretrizes estabelecidas pelo Centro 
-Estadual de Educação Tecnológica CEETEPS em 2012:  
-• Carga horária referencial para todos os cursos de tecnologia oferecidos: 
-2400 horas, excetuando-se as atividades de estágio e trabalho de 
-graduação (TG); 
-• Incentivo à inclusão de estágio supervisionado e trabalho de graduação, 
-com duração total de 400 horas, tendo como referência 240 horas de 
-estágio e 160 horas para o Trabalho de Graduação; 
-• Distribuição da carga horária dos cursos em 6 semestres de 400 horas 
-cada, ou seja, com 480 aulas; 
-• Colocação de semestre com 20 semanas corridas, contendo 24 aulas 
-semanais, de modo a possibilitar o cumprimento das 480 aulas 
-semestrais; 
-• Uso de atividades EaD (Ensino a Distância) ou reposições aos sábados 
-para a complementação da carga horária até o limite das 480 aulas, 
-desde que essas atividades não ultrapassem a 20% do total, conforme 
-determina a legislação; 
-• Incentivo à colocação de disciplinas de língua estrangeira (Inglês), em 
-todos os semestres do curso, com foco em todas as habilidades 
-linguísticas, mas com ênfase na comunicação oral, como forma de 
-qualificar a empregabilidade dos egressos e, com isso, permitir que 
-atinjam, pelo menos, o estágio pré-intermediário na classificação 
-europeia de desenvolvimento linguístico; 
-• Incentivo à colocação da disciplina de espanhol para os cursos que têm 
-forte relação com o MERCOSUL, de modo a garantir dois semestres de 
-estudos, com ênfase na oralidade e comunicação; 
-• Estabelecimento de calendário unificado para os períodos letivos, 
-possibilitando que o sistema acadêmico possa ser implantado; 
-• Existência da Revista Eletrônica da FATEC - Zona Sul (REFAS). 
-                      43
- 
-__________________________________________________________________________ 
-Administração Central 
-Unidade do Ensino Superior de Graduação 
- 
- 
-Relatório de Autoavaliação Institucional 
-da Fatec – 2024/INTEGRAL
-Analisando as respostas da pesquisa do WEBSAI, constata-se novo ponto forte 
-da unidade, com cerca de 60% dos alunos considerando boa ou excelente a qualidade 
-do curso que fazem, a divulgação e o cumprimento do plano de ensino, a aplicação 
-dos conteúdos na atividade profissional, e cerca de 70% julgando boa ou ótima a 
-metodologia e a didática dos professores quanto às disciplinas presenciais e remotas, 
-assim como os instrumentos de avaliação e o domínio dos conteúdos pelo corpo 
-docente. Porém, é de se atentar para a fragilidade indicada pelo fato de apenas 47% 
-dos discentes considerar boa ou ótima a oferta de cursos de extensão pela unidade. 
-Para atacar esta fragilidade apontada pelo corpo discente, a unidade 
-incrementará a oferta, e sobretudo, atuará de forma mais ampla na divulgação de 
-cursos de extensão. Já para conservar e melhorar as diversas potencialidades 
-indicadas, continuarão sendo realizados eventos para difundir as atividades de ensino, 
-pesquisa e extensão da unidade; serão incrementados os incentivos aos professores 
-para capacitação profissional e bom planejamento semanal dos conteúdos e 
-metodologias; será mantida a política de divulgação do vestibular, sobretudo junto às 
-comunidades carentes, para garantir acesso ao ensino superior e inclusão social; será 
-ampliada a política já adotada de diálogo, respeito e negociação ao lidar com conflitos 
-na instrumentalização das rotinas da faculdade; e serão continuadas as medidas para 
-manter os docentes informados a respeito das alterações nos PPCs e garantir sua 
-representatividade nos colegiados na Fatec Zona Sul.  
-A comunicação da FATEC Zona Sul com a sociedade é realizada através de 
-seu Site Institucional (http://www.fateczonasul.edu.br/), páginas oficiais das redes 
-sociais Facebook, Instagram e Linkedin, membros  participantes da Congregação da 
-Unidade e Comissão Própria de Avaliação. O site oficial da unidade e as páginas das 
-redes sociais trazem informações detalhadas a respeito da revista REFAS, vestibular, 
-cursos, horários dos cursos, calendário acadêmico, eventos abertos ao público, 
-histórico da unidade, expediente da secretaria, informes da diretoria de serviços, 
-currículo e endereços eletrônicos dos docentes, downloads de documentos e 
-regulamentos, concursos públicos, estágios, parcerias e localização. 
-                      44
- 
-__________________________________________________________________________ 
-Administração Central 
-Unidade do Ensino Superior de Graduação 
- 
- 
-Relatório de Autoavaliação Institucional 
-da Fatec – 2024/INTEGRAL
- 
-Neste item, com a análise dos gráficos supra, percebe-se a fragilidade 
-consistente em apenas pouco mais de 40% dos alunos julgarem bom ou ótimo o 
-acesso da comunidade externa às atividades desenvolvidas pela Fatec Zona Sul, e a 
-potencialidade de mais de 50% do corpo discente julgar boa ou ótima a comunicação 
-da instituição com os alunos. 
-As políticas de atendimento aos discentes estão direcionadas ao alcance de  
-objetivos como a promoção do acesso e da permanência nos estudos, a inclusão 
-social e a democratização do ensino superior e dispõe de: 
+
+Section: 3 DESENVOLVIMENTO
+
+Analisando as respostas da pesquisa do WEBSAI, constata-se novo ponto forte da unidade, com cerca de 60% dos alunos considerando boa ou excelente a qualidade do curso que fazem, a divulgação e o cumprimento do plano de ensino, a aplicação dos conteúdos na atividade profissional, e cerca de 70% julgando boa ou ótima a metodologia e a didática dos professores quanto às disciplinas presenciais e remotas, assim como os instrumentos de avaliação e o domínio dos conteúdos pelo corpo docente.
+
+Porém, é de se atentar para a fragilidade indicada pelo fato de apenas 47% dos discentes considerar boa ou ótima a oferta de cursos de extensão pela unidade. 
+
+Para atacar esta fragilidade apontada pelo corpo discente, a unidade incrementará a oferta, e sobretudo, atuará de forma mais ampla na divulgação de cursos de extensão. 
+
+Já para conservar e melhorar as diversas potencialidades indicadas, continuarão sendo realizados eventos para difundir as atividades de ensino, pesquisa e extensão da unidade; serão incrementados os incentivos aos professores para capacitação profissional e bom planejamento semanal dos conteúdos e metodologias; será mantida a política de divulgação do vestibular, sobretudo junto às comunidades carentes, para garantir acesso ao ensino superior e inclusão social; será ampliada a política já adotada de diálogo, respeito e negociação ao lidar com conflitos na instrumentalização das rotinas da faculdade; e serão continuadas as medidas para manter os docentes informados a respeito das alterações nos PPCs e garantir sua representatividade nos colegiados na Fatec Zona Sul.  
+
+A comunicação da FATEC Zona Sul com a sociedade é realizada através de seu Site Institucional (http://www.fateczonasul.edu.br/), páginas oficiais das redes sociais Facebook, Instagram e Linkedin, membros  participantes da Congregação da Unidade e Comissão Própria de Avaliação. O site oficial da unidade e as páginas das redes sociais trazem informações detalhadas a respeito da revista REFAS, vestibular, cursos, horários dos cursos, calendário acadêmico, eventos abertos ao público, histórico da unidade, expediente da secretaria, informes da diretoria de serviços, currículo e endereços eletrônicos dos docentes, downloads de documentos e regulamentos, concursos públicos, estágios, parcerias e localização. 
+ 
+Neste item, com a análise dos gráficos supra, percebe-se a fragilidade consistente em apenas pouco mais de 40% dos alunos julgarem bom ou ótimo o acesso da comunidade externa às atividades desenvolvidas pela Fatec Zona Sul, e a potencialidade de mais de 50% do corpo discente julgar boa ou ótima a comunicação da instituição com os alunos. 
+
+As políticas de atendimento aos discentes estão direcionadas ao alcance de  objetivos como a promoção do acesso e da permanência nos estudos, a inclusão social e a democratização do ensino superior e dispõe de: 
+
 • Estímulo de permanência; 
+
 • Central e Supervisões de estágios; 
+
 • Orientações e Auxílios Diversos para os Trabalhos de Graduação; 
+
 • Mobilidade acadêmica; 
+
 • Mecanismos de nivelamento; e 
+
 • Múltiplas Recuperações do ensino e da aprendizagem. 
-A análise dos dados representados nos gráficos supra aponta a potencialidade 
-consistente no fato de mais de 50% dos alunos considerar bom ou excelente o 
-atendimento das áreas administrativas, e quase 60% fazer o mesmo julgamento do 
-atendimento das coordenações de cursos, mas destaca fragilidade em relação ao 
-apoio dado por meio de monitorias, com menos de 40% dos discentes considerando 
-este apoio da unidade bom ou ótimo. Nota-se aqui que as políticas de atendimento 
-aos alunos são boas ou excelentes na Fatec Zona Sul, sendo que será mantida a 
-cultura do diálogo e informação entre toda a comunidade acadêmica, por meio de 
-capacitações institucionais e desenvolvimento de conversas diárias voltadas à 
-identificação de melhores soluções para problemas que se apresentarem Por fim, 
-continuarão sendo incentivadas ações de esclarecimento aos discentes para criação 
-de diretório acadêmico e grêmio estudantil, o que certamente proporcionará maior 
-organização e convivência estudantil na unidade. 
- 
- 
-                      45
- 
-__________________________________________________________________________ 
-Administração Central 
-Unidade do Ensino Superior de Graduação 
- 
- 
-Relatório de Autoavaliação Institucional 
-da Fatec – 2024/INTEGRAL
- 
- 
- 
-                      46
- 
-__________________________________________________________________________ 
-Administração Central 
-Unidade do Ensino Superior de Graduação 
- 
- 
-Relatório de Autoavaliação Institucional 
-da Fatec – 2024/INTEGRAL
-3.4. 
-Eixo 4: Políticas de Gestão 
- 
-Dimensão 5: Políticas de Pessoal 
-Dimensão 6: Organização e Gestão da Instituição 
-Dimensão 10: Sustentabilidade Financeira 
- 
-EIXO 
-4 – Políticas de Gestão 
-Dimensão 
-SINAES 
-5, 6 e 10 
-APRESENTAÇÃO DAS PRINCIPAIS INFORMAÇÕES COLETADAS NO EIXO 
-                      47
- 
-__________________________________________________________________________ 
-Administração Central 
-Unidade do Ensino Superior de Graduação 
- 
- 
-Relatório de Autoavaliação Institucional 
-da Fatec – 2024/INTEGRAL
- 
- 
-O sistema de avaliação dos servidores para promoção, conforme Lei 
-Complementar 1.044/2008 e suas alterações e/ou complementações, pelas Leis 
-complementares 1.240, de 22/04/2014 e 1.252, de 03/07/2014, promoveu, após a 
-implantação da carreira funcional, um sistema de evolução que contava com 
-Discentes 
-23 – Considerando o atendimento prestado 
-pelos funcionários da sua Fatec, como você 
-avalia o nível de preparo para a execução das 
-suas funções? 
- 
-Discentes 
-27 – Qual a sua percepção sobre a realização 
-de investimentos na Fatec? 
- 
-Docentes 
-20 – Como você avalia as oportunidades de 
-formação e capacitação oferecidas pelo CPS? 
- 
-Docentes 
-21 – Como você avalia a qualidade das 
-capacitações oferecidas pelo CPS? 
- 
-Docentes 
-22 – Como você avalia a transparência em 
-relação aos indicadores utilizados para s 
-progressão e promoção? 
- 
-Docentes 
-22 – Como você avalia as ações (acadêmicas 
-e administrativas) da direção da Fatec? 
- 
-Docentes 
-28 – Qual a sua percepção sobre a realização 
-de investimentos na Fatec? 
-                      48
- 
-__________________________________________________________________________ 
-Administração Central 
-Unidade do Ensino Superior de Graduação 
- 
- 
-Relatório de Autoavaliação Institucional 
-da Fatec – 2024/INTEGRAL
-interstícios mínimos de 3 anos e, posteriormente, de 2 anos, para progressão 
-determinada na lei, cujo sistema avaliativo encontra-se em curso, visando a promoção 
-de docentes e funcionários da instituição. O primeiro desses processos de evolução 
-foi concluído em dezembro de 2011. 
-A nova redação dada à Lei Complementar 1.044/2008 estipula que a 
-progressão funcional ocorrerá após o cumprimento de 2 (dois) anos de efetivo 
-exercício e resultado satisfatório em 2 (duas) avaliações de desempenho. No ano de 
-2015, houve uma progressão especial, na qual foi considerado apenas o tempo de 
-efetivo exercício. A partir de julho de 2016, a progressão foi efetivada com base no 
-cumprimento de 2 (dois) anos e avaliação de desempenho. 
- 
-Em 2018 ocorreram capacitações específicas para o Curso Superior de 
-Tecnologia em Gestão Empresarial na modalidade EaD, com vistas à  melhoria 
-continuada da atuação dos professores envolvidos. Com estas capacitações, e por 
-meio de uma reformulação, pode-se perceber a melhoria do AVA (Ambiente Virtual 
-de Aprendizagem), aprimorando também os aspectos de visualização e da 
-performance da plataforma utilizada. 
- 
-Em 2020 e 2021 foram oferecidas inúmeras capacitações para implementação 
-e aprimoramento das aulas remotas, em razão da pandemia de Covid 19, o que 
-proporcionou a inevitável introdução de metodologias ativas nos planos de aula de 
-todos os docentes, além da adoção de diversas formas inovadoras de avaliação 
-continuada dos discentes. 
- 
-Em 2022, 2023 e 2024 continuaram a ser oferecidas várias capacitações, em 
-todas as áreas do conhecimento, tanto para docentes quanto funcionários 
-administrativos, em diversas modalidades, em especial na remota e híbrida, o que 
-permitiu que muitos participassem, melhorando sua capacidade e produtividade no 
-desempenho de suas atividades na unidade. 
-O mestrado e o doutorado são exigência mínima de titulação para docentes 
-das faculdades públicas. A Lei nº 9394/96, de Diretrizes e Bases da Edu cação 
-                      49
- 
-__________________________________________________________________________ 
-Administração Central 
-Unidade do Ensino Superior de Graduação 
- 
- 
-Relatório de Autoavaliação Institucional 
-da Fatec – 2024/INTEGRAL
-Nacional, conceitua as faculdades como instituições pluridisciplinares de formação 
-dos quadros profissionais de nível superior, de pesquisa, de extensão e de domínio 
-do saber humano, caracterizadas, entre outros elementos, pelo corpo docente com, 
-no mínimo, 1/3 (um terço) do total constituído por portadores de titulação acadêmica 
-de mestrado ou doutorado (Art. 52, inciso III). 
-A FATEC Zona Sul atende às exigências da LDB, pois 80% de seus docentes 
-são mestres ou doutores, o que corresponde a mais de 2/3 dos titulados de portadores 
-dos títulos indicados.  
-A pesquisa do WEBSAI mostra por meio dos gráficos supra que toda a 
-comunidade acadêmica considera excelentes as políticas de pessoal tais como vêm 
-sendo implementadas. 
-A gestão da Instituição é composta pela estrutura hierarquizada que é  
-precedida pela estrutura organizacional do CEETEPS, que é composto nessa ordem: 
-Conselho Deliberativo, Superintendência, Unidades Administrativas, dentre elas a 
-Unidade de Ensino Superior de Graduação (CESU). Na Faculdade de Tecnologia 
-FATEC - Zona Sul “Dom Paulo Evaristo Arns”, há a Congregação, a Diretoria Geral, 
-a Diretoria Administrativa, a Diretoria Acadêmica, as Coordenadorias de Cursos, a 
-Orientação do Polo EaD do Curso de Gestão Empresarial, os  Conselhos de Curso e 
-os Núcleos Docentes Estruturantes. 
-O sistema de avaliação institucional WEBSAI detectou que docentes, discentes 
-e funcionários administrativos acreditam que a equipe de gestão é reconhecida como 
-uma liderança capaz de coordenar e levar adiante os projetos da unidade. 
-Os órgãos colegiados deliberam por meio de reuniões de natureza ordinária, 
-conforme calendário previamente elaborado e que se renova a cada gestão de dois  
-anos letivos, e quando necessário, fazem reuniões extraordinárias para atendimento 
-de situações inesperadas. 
-A importância dos órgãos colegiados nas faculdades se dá pelo foco na gestão 
-democrática com a garantia da prática da participação dos docentes, funcionários e 
-                      50
- 
-__________________________________________________________________________ 
-Administração Central 
-Unidade do Ensino Superior de Graduação 
- 
- 
-Relatório de Autoavaliação Institucional 
-da Fatec – 2024/INTEGRAL
-discentes na descentralização do poder e da consciência social entorno da oferta de 
-uma educação de qualidade. 
-Considera-se uma gestão democrática quando é possibilitada a autonomia dos 
-sujeitos no compartilhamento das decisões, identificando o potencial de colaboração 
-de cada pessoa e segmento escolar, promovendo um trabalho coletivo  na construção 
-da cidadania e efetivação do processo democrático. 
-Merece destaque apontado nos gráficos acima o fato de mais de 62% dos 
-alunos considerarem bom ou excelente o nível de preparo dos funcionários para a 
-execução de suas funções, e também é de se salientar uma grande potencialidade no 
-fato de 90% dos docentes enxergar como boas ou ótimas as oportunidades de 
-formação e capacitação oferecidas pelo CPS, assim como a qualidade das 
-capacitações, sendo que 95% deles avalia as ações acadêmicas e administrativas da 
-Fatec como boas ou muito boas, sendo que 80% julga boa ou ótima a transparência 
-em relação aos indicadores para progressão e promoção da evolução funcional.  
-Para ampliar estas potencialidades, a unidade deverá: manter e ampliar o 
-diálogo no ambiente acadêmico por meio do exemplo dado aos alunos por 
-professores, coordenadores, diretores e funcionários, pois a prática diária capilariza-
-se entre todos os membros da comunidade acadêmica; ampliar a capacitação 
-profissional dos funcionários, garantindo um bom ambiente de trabalho, que valorize 
-o diálogo e a negociação para solução de conflitos; manter o diálogo com todos os 
-membros da comunidade acadêmica, sem grupos preferenciais ou favorecimentos, 
-evitando sempre embates desnecessários, de modo que o clima organizacional 
-mantenha-se bom para todos; e manter a rotina de reuniões ordinárias e 
-extraordinárias dos colegiados.  
-Embora a sustentabilidade financeira caiba exclusivamente à Administração 
-Central do CPS em razão da dotação orçamentária da autarquia, merece realce o fato 
-de que apenas 30% dos discentes enxergam como boa ou ótima a realização de 
-investimentos na Fatec, enquanto no grupo de docentes este número sobe para 80%. 
- 
-                      51
- 
-__________________________________________________________________________ 
-Administração Central 
-Unidade do Ensino Superior de Graduação 
- 
- 
-Relatório de Autoavaliação Institucional 
-da Fatec – 2024/INTEGRAL
- 
- 
-                      52
- 
-__________________________________________________________________________ 
-Administração Central 
-Unidade do Ensino Superior de Graduação 
- 
- 
-Relatório de Autoavaliação Institucional 
-da Fatec – 2024/INTEGRAL
-3.5. 
-Eixo 5: Infraestrutura Física 
- 
-Dimensão 7: Infraestrutura Física 
- 
-EIXO 
-5 – Infraestrutura Física 
-Dimensão 
-SINAES 
-7 
-APRESENTAÇÃO DAS PRINCIPAIS INFORMAÇÕES COLETADAS NO EIXO 
- 
- 
- 
-Discentes 
-30 – Como você avalia as salas de aula 
-quanto à: segurança, iluminação, ventilação e 
-limpeza? 
- 
-Discentes 
-31 – Como você avalia a disponibilidade de 
-equipamentos para suporte aos professores 
-durante as aulas (projetores, TVs, 
-computadores etc.)? 
- 
-Discentes 
-32 – Como você avalia os laboratórios de 
-ensino (informática e específicos)? 
- 
-Discentes 
-33 – Como você avalia a biblioteca (espaço 
-físico e espaço para estudos individuais)? 
- 
-Docentes 
-30 – Como você avalia a acessibilidade de 
-pessoas com deficiência na Fatec (banheiros 
-adequados, sinalização, piso tátil, rampas, 
-elevadores entre outros)? 
- 
-Docentes 
-31 – Como você avalia as salas de aulas 
-quanto à: segurança, iluminação, ventilação e 
-limpeza? 
- 
-Docentes 
-32 – Como você avalia a disponibilidade de 
-equipamentos para suporte aos professores 
-durante as aulas (projetores, TVs, 
-computadores etc.)? 
- 
-Docentes 
-34 – Como você avalia a biblioteca da Fatec 
-(espaço físico e espaço para estudos 
-individuais)? 
- 
-Docentes 
-36 – Como você avalia a sala dos 
-professores? 
- 
-Docentes 
-39 – Como você avalia a manutenção e 
-conservação da infraestrutura da Fatec? 
- 
-                      53
- 
-__________________________________________________________________________ 
-Administração Central 
-Unidade do Ensino Superior de Graduação 
- 
- 
-Relatório de Autoavaliação Institucional 
-da Fatec – 2024/INTEGRAL
- 
- 
- 
-A infraestrutura da FATEC Zona Sul é composta por salas de aula e 
-laboratórios de informática, além das instalações administrativas, sala de professores, 
-sala de descanso, copa equipada, sala “maker”, salas de coordenações, sala de 
-orientação do Polo EaD, biblioteca e auditório compartilhados com a Etec.  
-Analisadas as recomendações apresentadas pelos especialistas, referentes às 
-avaliações externas para reconhecimento e renovações de reconhecimento, verifica-
-se que dentre o universo de pontos fracos elencados pelas comissões de especialistas 
-do Conselho Estadual de Educação (CEE- SP), 60% referem-se à infraestrutura, 
-biblioteca e laboratórios, destacando-se que a FATEC Zona Sul possui todos os livros 
-das bibliografias básicas e complementares de seus cursos, disponíveis para consulta 
-e empréstimo em sua biblioteca.  
-Os gráficos supra indicam que a comunidade acadêmica considera que as 
-instalações e os equipamentos são adequados ao desenvolvimento dos conteúdos de 
-todas as disciplinas dos cursos ofertados pela unidade, sendo que mais de 60%dos 
-alunos considera excelente ou bom o conjunto de laboratórios e ambientes que 
-proporcionam atividades práticas na unidade, e mais de 50% entende ser boa ou 
-excelente a condição das salas de aula. 
-De qualquer forma, ainda para aumentar a satisfação de todos, devem ser 
-implementadas as seguintes providências: substituição de mobiliário e computadores 
-mais antigos dos laboratórios; substituição de mesas e cadeiras das salas de aula por 
-carteiras universitárias que ocupam menos espaço; aumento do número de 
-funcionários na limpeza e segurança;  melhora das condições gerais da cantina; e 
-elevação da capacidade de internet para que toda a comunidade acadêmica possa 
-executar plenamente suas atividades nas instalações da unidade. 
- 
-Para atender todas essas necessidades, a unidade deverá solicitar ao Centro 
-Paula Souza novo mobiliário e aumento de banda de internet, negociar o aumento de 
-funcionários e provisionar verba ao longo do ano para executar melhorias. 
-                      54
- 
-__________________________________________________________________________ 
-Administração Central 
-Unidade do Ensino Superior de Graduação 
- 
- 
-Relatório de Autoavaliação Institucional 
-da Fatec – 2024/INTEGRAL
- 
-                      55
- 
-__________________________________________________________________________ 
-Administração Central 
-Unidade do Ensino Superior de Graduação 
- 
- 
-Relatório de Autoavaliação Institucional 
-da Fatec – 2024/INTEGRAL
-4. QUADRO PARA A ANÁLISE COMPARATIVA DOS RELATÓRIOS PARCIAIS 2022/2023 E ANÁLISE 
-GLOBAL 
-EIXO 1: PLANEJAMENTO E AVALIAÇÃO INSTITUCIONAL 
- 
- 
-AÇÕES 
-PROPOSTAS 
-NO 
-RELATÓRIO 
-DE 2022 
- 
- 
-Código 
-PGA 
-DAS 
-AÇÕES 
- 
-AÇÕES 
-REALIZADAS 
- 
- 
-AÇÕES 
-PROPOSTAS 
-NO 
-RELATÓRIO 
-DE 2023 
- 
-Código 
-PGA 
-DAS 
-AÇÕES 
- 
-AÇÕES 
-REALIZADAS 
-ANÁLISE GLOBAL E A CONTRIBUIÇÃO 
-PARA O PLANEJAMENTO E 
-DESENVOLVIMENTO INSTITUCIONAL 
-Melhorar 
-o 
-percentual 
-de 
-coleta do WEBSAI 
-por meio da ação 
-de representantes 
-de 
-sala, 
-coordenadores de 
-curso, 
-direção 
-acadêmica 
-e 
-funcionários 
-administrativos. 
-108 - 111 
-( X  ) SIM 
-(   ) NÃO  
-(   ) Parcialmente 
- 
-108 - 111 
-(   ) SIM 
-(   ) NÃO  
-(X ) Parcialmente 
- Foi de fundamental importância para o 
-desenvolvimento institucional identificar 
-a partir das pesquisas do WEBSAI e dos 
-relatórios da CPA de 2022 e de 2023, a 
-necessidade de estimular mais a 
-participação dos alunos da coleta de 
-dados da avaliação institucional, para 
-que a gestão tenha uma visão mais 
-efetiva da realidade a partir do ponto de 
-vista da comunidade discente, a fim de 
-realizar o planejamento estratégico de 
-modo mais assertivo e eficiente, para de 
-fato, proporcionar maior satisfação a 
-toda a comunidade acadêmica.   
-Melhorar o espaço 
-de 
-estudo 
-na 
-biblioteca e criar 
-espaços 
-dedicados 
-ao 
-estudo 
-na 
-faculdade na forma 
-de ambientes de 
-convivência 
-acadêmica. 
-501 a 504 
-( X ) SIM 
-(   ) NÃO  
-(   ) Parcialmente 
- 
-103 
-a 
-107 
-– 
-111 
-– 
-113 
-a 
-115 
-( X  ) SIM 
-(   ) NÃO  
-(   ) Parcialmente 
-                      56
- 
-__________________________________________________________________________ 
-Administração Central 
-Unidade do Ensino Superior de Graduação 
- 
- 
-Relatório de Autoavaliação Institucional 
-da Fatec – 2024/INTEGRAL
-Capacitar 
-professores 
-nas 
-metodologias 
-ativas de ensino, 
-melhorar 
-os 
-equipamentos 
-utilizados em sala 
-de aula e adequar 
-as propostas de 
-aula 
-às 
-necessidades do 
-mercado 
-de 
-trabalho. 
-103 a 107 
-( X  ) SIM 
-(   ) NÃO  
-(   ) Parcialmente 
-Manutenção dos 
-cursos 
-de 
-nivelamento, 
-reforço 
-e 
-recuperação das 
-disciplinas 
-em 
-que os alunos 
-possuem 
-maior 
-dificuldade 
-de 
-aprendizagem ou 
-deficiência 
-advindas 
-do 
-Ensino Médio 
-103 a 107 
-(X   ) SIM 
-(   ) NÃO  
-(   ) Parcialmente 
+
+A análise dos dados representados nos gráficos supra aponta a potencialidade consistente no fato de mais de 50% dos alunos considerar bom ou excelente o atendimento das áreas administrativas, e quase 60% fazer o mesmo julgamento do atendimento das coordenações de cursos, mas destaca fragilidade em relação ao apoio dado por meio de monitorias, com menos de 40% dos discentes considerando este apoio da unidade bom ou ótimo. 
+
+Nota-se aqui que as políticas de atendimento aos alunos são boas ou excelentes na Fatec Zona Sul, sendo que será mantida a cultura do diálogo e informação entre toda a comunidade acadêmica, por meio de capacitações institucionais e esenvolvimento de conversas diárias voltadas à identificação de melhores soluções para problemas que se apresentarem.
+
+Por fim, continuarão sendo incentivadas ações de esclarecimento aos discentes para criação de diretório acadêmico e grêmio estudantil, o que certamente proporcionará maior organização e convivência estudantil na unidade. 
+ 
+A pesquisa do WEBSAI mostra por meio dos gráficos supra que toda a comunidade acadêmica considera excelentes as políticas de pessoal tais como vêm sendo implementadas. 
+
+Considera-se uma gestão democrática quando é possibilitada a autonomia dos sujeitos no compartilhamento das decisões, identificando o potencial de colaboração de cada pessoa e segmento escolar, promovendo um trabalho coletivo  na construção da cidadania e efetivação do processo democrático. 
+
+Merece destaque apontado nos gráficos acima o fato de mais de 62% dos alunos considerarem bom ou excelente o nível de preparo dos funcionários para a execução de suas funções, e também é de se salientar uma grande potencialidade no fato de 90% dos docentes enxergar como boas ou ótimas as oportunidades de formação e capacitação oferecidas pelo CPS, assim como a qualidade das capacitações, sendo que 95% deles avalia as ações acadêmicas e administrativas da Fatec como boas ou muito boas, sendo que 80% julga boa ou ótima a transparência em relação aos indicadores para progressão e promoção da evolução funcional.  
+
+Para ampliar estas potencialidades, a unidade deverá: manter e ampliar o diálogo no ambiente acadêmico por meio do exemplo dado aos alunos por professores, coordenadores, diretores e funcionários, pois a prática diária capilariza-se entre todos os membros da comunidade acadêmica; ampliar a capacitação profissional dos funcionários, garantindo um bom ambiente de trabalho, que valorize o diálogo e a negociação para solução de conflitos; manter o diálogo com todos os membros da comunidade acadêmica, sem grupos preferenciais ou favorecimentos, evitando sempre embates desnecessários, de modo que o clima organizacional mantenha-se bom para todos; e manter a rotina de reuniões ordinárias e extraordinárias dos colegiados.  
+Embora a sustentabilidade financeira caiba exclusivamente à Administração Central do CPS em razão da dotação orçamentária da autarquia, merece realce o fato de que apenas 30% dos discentes enxergam como boa ou ótima a realização de investimentos na Fatec, enquanto no grupo de docentes este número sobe para 80%. 
+ 
+Os gráficos supra indicam que a comunidade acadêmica considera que as instalações e os equipamentos são adequados ao desenvolvimento dos conteúdos de todas as disciplinas dos cursos ofertados pela unidade, sendo que mais de 60%dos 
+alunos considera excelente ou bom o conjunto de laboratórios e ambientes que proporcionam atividades práticas na unidade, e mais de 50% entende ser boa ou excelente a condição das salas de aula. 
+
+De qualquer forma, ainda para aumentar a satisfação de todos, devem ser implementadas as seguintes providências: substituição de mobiliário e computadores mais antigos dos laboratórios; substituição de mesas e cadeiras das salas de aula por carteiras universitárias que ocupam menos espaço; aumento do número de funcionários na limpeza e segurança;  melhora das condições gerais da cantina; e elevação da capacidade de internet para que toda a comunidade acadêmica possa executar plenamente suas atividades nas instalações da unidade. 
+ 
+Para atender todas essas necessidades, a unidade deverá solicitar ao Centro Paula Souza novo mobiliário e aumento de banda de internet, negociar o aumento de funcionários e provisionar verba ao longo do ano para executar melhorias. 
+
+Foi de fundamental importância para o desenvolvimento institucional identificar a partir das pesquisas do WEBSAI e dos relatórios da CPA de 2022 e de 2023, a necessidade de estimular mais a participação dos alunos da coleta de dados da avaliação institucional, para que a gestão tenha uma visão mais efetiva da realidade a partir do ponto de vista da comunidade discente, a fim de realizar o planejamento estratégico de modo mais assertivo e eficiente, para de fato, proporcionar maior satisfação a toda a comunidade acadêmica.   
+
+Melhorar o espaço de estudo na biblioteca e criar espaços dedicados ao estudo na faculdade na forma de ambientes de convivência acadêmica. 
+
+Capacitar professores nas metodologias ativas de ensino, melhorar os equipamentos utilizados em sala de aula e adequar as propostas de aula às necessidades do mercado de trabalho. 
+
+Manutenção dos cursos de nivelamento, reforço e rEcuperação das disciplinas em que os alunos possuem maior dificuldade de 
+aprendizagem ou deficiência advindas do Ensino Médio.
 Incentivar 
 a 
 presença às aulas 
@@ -1663,16 +663,8 @@ e
 metodologias das 
 aulas 
 semanalmente. 
-(   ) Parcialmente demonstra a relevância da avaliação 
-institucional como ferramenta eficaz de 
-planejamento e desenvolvimento da 
-instituição. Também foi de grande 
-importância 
-a 
-constatação 
-dos 
-resultados positivos proporcionados 
-pela política interna de diálogo, respeito 
+
+Também foi de grande importância a constatação dos resultados positivos proporcionados pela política interna de diálogo, respeito 
 e negociação para solucionar conflitos, 
 e implementar melhorias constantes na 
 qualidade de vida no trabalho dentro da 
@@ -1689,239 +681,15 @@ conversas diárias
 e 
 capacitações 
 institucionais. 
-103 a 107 
-– 111 – 
-301  
-( X  ) SIM 
-(   ) NÃO  
-(   ) Parcialmente 
-Inserção 
-da 
-importância 
-da 
-iniciação 
-científica 
-nas 
-disciplinas 
-do 
-último semestre 
-dos 
-cursos 
-tecnológicos 
-e 
-promoção 
-da 
-abertura 
-de 
-cursos de pós-
-graduação 
-lato 
-sensu na FATEC 
-Zona Sul 
-109 a 110 
-( X  ) SIM 
-(   ) NÃO  
-(   ) Parcialmente 
- 
- 
-                      61
- 
-__________________________________________________________________________ 
-Administração Central 
-Unidade do Ensino Superior de Graduação 
- 
- 
-Relatório de Autoavaliação Institucional 
-da Fatec – 2024/INTEGRAL
-EIXO 4: POLÍTICAS DE GESTÃO 
- 
- 
-AÇÕES 
-PROPOSTAS 
-NO 
-RELATÓRIO 
-DE 2022 
- 
- 
-Código 
-PGA 
-DAS 
-AÇÕES 
- 
-AÇÕES 
-REALIZADAS 
- 
- 
-AÇÕES 
-PROPOSTAS 
-NO 
-RELATÓRIO 
-DE 2023 
- 
-Código 
-PGA 
-DAS 
-AÇÕES 
- 
-AÇÕES 
-REALIZADAS 
-ANÁLISE GLOBAL E A CONTRIBUIÇÃO 
-PARA O PLANEJAMENTO E 
-DESENVOLVIMENTO INSTITUCIONAL  
-Aumentar 
-o 
-número 
-de 
-parcerias 
-institucionais com 
-empresas 
-que 
-possam oferecer 
-estágios. 
-101 – 301 
- 
-(  X ) SIM 
-(   ) NÃO  
-(   ) Parcialmente 
-Aumento 
-do 
-número 
-de 
-parcerias 
-institucionais com 
-empresas 
-que 
-possam oferecer 
-estágios. 
-101 - 301 
-(  X ) SIM 
-(   ) NÃO  
-(   ) Parcialmente 
-  A constatação a partir das pesquisas 
-do WEBSAI e dos relatório da CPA de 
-2022 e 2023 da plena satisfação dos 
-docentes e funcionários administrativos 
-com seu ambiente de trabalho ratificou 
-a necessidade da manutenção de clima 
-organizacional 
-harmonioso, 
-proporcionando 
-bem-estar 
-aos 
-colaboradores, o que fez com que a 
-gestão da unidade atentasse para as 
-regras da progressão funcional, e sua 
-ampla divulgação entre todos 
-os 
-colaboradores, 
-mantendo 
-plena 
-satisfação no ambiente de trabalho. 
-Também 
-constatar 
-que a grande 
-maioria dos discentes gosta muito de 
-Ampliar o número 
-de 
-vagas 
-oferecidas 
-à 
-iniciação científica 
-via programa de 
-monitoria 
-do 
-Centro 
-Paula 
-Souza. 
-109 - 110 
-( X  ) SIM 
-(   ) NÃO  
-(   ) Parcialmente 
-Ampliação 
-do 
-número de vagas 
-oferecidas 
-à 
-iniciação 
-científica 
-via 
-programa 
-de 
-monitoria 
-do 
-Centro 
-Paula 
-Souza. 
-109 – 110 
-(X   ) SIM 
-(   ) NÃO  
-(   ) Parcialmente 
-Manter a rotina de 
-reuniões ordinárias 
-e 
-extraordinárias 
-de 
-todos 
-os 
-colegiados 
-da 
-faculdade. 
-102 a 108 
-- 301 
-(X   ) SIM 
-(   ) NÃO  
-(   ) Parcialmente 
-Ampliação 
-da 
-comunicação com 
-a 
-comunidade 
-acadêmica via e-
-mails, 
-redes 
-sociais 
-e 
-participação 
-da 
-representação 
-discente 
-nos 
-102 a 108 
-- 301 
-(X   ) SIM 
-(   ) NÃO  
-(   ) Parcialmente 
-                      62
- 
-__________________________________________________________________________ 
-Administração Central 
-Unidade do Ensino Superior de Graduação 
- 
- 
-Relatório de Autoavaliação Institucional 
-da Fatec – 2024/INTEGRAL
-colegiados 
-da 
-FATEC Zona Sul. 
-frequentar a unidade e percebe que os 
-docentes e funcionários se orgulham de 
-trabalhar ali, ratificou a importância da 
-manutenção 
-das 
-políticas 
-de 
-convivência e 
-apoio 
-à 
-toda 
-a 
-comunidade 
-acadêmica, 
-o 
-que 
-evidenciou a relevância da avaliação 
-institucional como elemento norteador 
-do planejamento e desenvolvimento da 
+
+
+A constatação a partir das pesquisas do WEBSAI e dos relatório da CPA de 2022 e 2023 da plena satisfação dos docentes e funcionários administrativos com seu ambiente de trabalho ratificou a necessidade da manutenção de clima organizacional 
+harmonioso, proporcionando bem-estar aos colaboradores, o que fez com que a gestão da unidade atentasse para as regras da progressão funcional, e sua ampla divulgação entre todos os colaboradores, mantendo plena satisfação no ambiente de rabalho. 
+
+Ampliação da comunicação com a comunidade acadêmica via e-mails, redes sociais e participação da representação discente 
+nos colegiados da FATEC Zona Sul. 
+
+
 instituição. A avaliação institucional foi 
 fundamental para a percepção da 
 necessidade de ampliar as vagas de 
@@ -1982,190 +750,9 @@ negociação
 para solução de 
 conflitos, 
 considerando que 
-todos os nossos 
-funcionários 
-possuem 
-nível 
-superior. 
-111 a 115 
-- 301 
-(  X ) SIM 
-(   ) NÃO  
-(   ) Parcialmente 
- 
- 
- 
-                      63
- 
-__________________________________________________________________________ 
-Administração Central 
-Unidade do Ensino Superior de Graduação 
- 
- 
-Relatório de Autoavaliação Institucional 
-da Fatec – 2024/INTEGRAL
- 
- 
- 
-EIXO 5: INFRAESTRUTURA 
- 
- 
-AÇÕES 
-PROPOSTAS 
-NO 
-RELATÓRIO 
-DE 2022 
- 
- 
-Código 
-PGA 
-DAS 
-AÇÕES 
- 
-AÇÕES 
-REALIZADAS 
- 
- 
-AÇÕES 
-PROPOSTAS 
-NO 
-RELATÓRIO 
-DE 2023 
- 
-Código 
-PGA 
-DAS 
-AÇÕES 
- 
-AÇÕES 
-REALIZADAS 
-ANÁLISE GLOBAL E A CONTRIBUIÇÃO 
-PARA O PLANEJAMENTO E 
-DESENVOLVIMENTO INSTITUCIONAL  
-Solicitar ao Centro 
-Paula 
-Souza 
-novos ventiladores 
-para substituir os 
-antigos. 
-501 a 504 
-(X   ) SIM 
-(   ) NÃO  
-(   ) Parcialmente 
-Troca 
-de 
-ventiladores nas 
-salas de aula e 
-áreas 
-administrativas. 
-501 a 504 
-(  X ) SIM 
-(   ) NÃO  
-(   ) Parcialmente 
- A indicação a partir das pesquisas do 
-WEBSAI e dos relatórios da CPA de 
-2022 e 2023 da necessidade de 
-realização de consertos na estrutura 
-predial inequivocamente contribuiu para 
-a manutenção da estrutura dos prédios 
-onde a Fatec Zona Sul está instalada, o 
-que mostra a relevância da ferramenta 
-para 
-o 
-planejamento 
-e 
-o 
-desenvolvimento 
-institucional. 
-Da 
-mesma 
-forma 
-inequivocamente 
-contribuiu 
-para 
-a 
-imprescindível 
-Reformar a Copa 
-da FATEC Zona 
-Sul de modo que 
-os 
-funcionários 
-possam usar com 
-mais 
-frequência 
-para preparo e 
-consumo 
-de 
-refeições. 
-501 a 504 
-( X  ) SIM 
-(   ) NÃO  
-(   ) Parcialmente 
-Troca 
-do 
-mobiliário 
-e 
-computadores 
-mais antigos nos 
-laboratórios. 
-201 a 202 
-(   ) SIM 
-(   ) NÃO  
-(X ) Parcialmente 
-Negociar com o 
-Centro 
-Paula 
-Souza o aumento 
-201  - 202 (X   ) SIM 
-(   ) NÃO  
-(   ) Parcialmente 
-Solicitação 
-ao 
-Centro 
-Paula 
-Souza o aumento 
-da 
-banda 
-de 
-201 – 202 ( X  ) SIM 
-(   ) NÃO  
-(   ) Parcialmente 
-                      64
- 
-__________________________________________________________________________ 
-Administração Central 
-Unidade do Ensino Superior de Graduação 
- 
- 
-Relatório de Autoavaliação Institucional 
-da Fatec – 2024/INTEGRAL
-do 
-número 
-de 
-funcionários. 
-internet 
-da 
-FATEC Zona Sul. 
-atualização 
-permanente 
-dos 
-laboratórios, a melhoria das instalações 
-das salas de aula, com ventiladores 
-novos, além da reforma dos banheiros e 
-da copa, o que evidencia a pertinência 
-da 
-avaliação institucional 
-para o 
-planejamento e o desenvolvimento da 
-unidade.    
-Provisionar verba 
-ao longo do ano 
-para executar as 
-melhorias 
-necessárias 
-nos 
-banheiros. 
-S   
+
+A indicação a partir das pesquisas do WEBSAI e dos relatórios da CPA de 2022 e 2023 da necessidade de realização de consertos na estrutura predial inequivocamente contribuiu para a manutenção da estrutura dos prédios onde a Fatec Zona Sul está instalada, o que mostra a relevância da ferramenta para o planejamento e o desenvolvimento institucional. 
+
 Total de 50% dos alunos não conhecem o PDI da FATEC Zona Sul. 
 
 Os alunos reconhecem que o planejamento institucional ajuda a promover melhorias na unidade de ensino. 
