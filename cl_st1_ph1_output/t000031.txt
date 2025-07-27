@@ -1,52 +1,44 @@
- 
-Caracterização socioeconômica da área de abrangência da Fatec 
- Localizada na região sudeste da Região Metropolitana de São Paulo, no ABC paulista, Mauá tem 469 
-mil habitantes e 61,886 km² de extensão territorial. O município está localizado em região de Mata Atlântica 
-e está estruturando a política de desenvolvimento sustentável, uma vez que abriga várias nascentes de rios, 
-como o Tamanduateí e diversas áreas de proteção permanente e tem vocação eminentemente industrial. Mauá 
-conta, segundo estimativas do IBGE para 2020, 11.212 empresas atuantes locais e um salário médio de 3,6 
-salários-mínimos. A frota de 121.881 veículos de passeio representa 3,4 moradores por automóvel. São 
-125.369 domicílios. 
-O potencial econômico do município de Maua é evidenciado, primeiramente, por sua localização no 
-centro da Região Metropolitana de São Paulo, possui logística privilegiada está a 46 km do aeroporto de 
-Congonhas; 62 km do porto de Santos; 36 km do aeroporto de Guarulhos; e está a 8 km do Rodoanel Mário 
-Covas. Percebemos que em termos geográficos, a oferta do curso também se justifica, pois poderia atender 
-toda a região do Grande ABC, assim como a Região Metropolitana de São Paulo, tendo em vista as vias de 
-fácil acesso. 
- 
-Cursos implantados - Vocação da Fatec em face da demanda regional 
-[Oferta de cursos objetivos que atendam às necessidades de mão de obra das empresas e indústrias 
-locais, vasta oferta de cursos voltados para área de tecnologia em razão da expansão histórica deste setor. 
-Pontos específicos, tais como a chegada de empresas do setor, as necessidades evidenciadas pelas 
-entidades representativas da comunidade econômica local, são utilizados como subsídios avaliativos para a 
-implantação de novos cursos afim de melhor reforçar a geração de mão de obra qualificada prosperadora 
-da competitividade regional 
-Ensino focado na teoria direcionada para soluções práticas do dia a dia empresarial garantindo sua 
-formação mais prática e adequada à operacionalidade e duplicidade da qualidade de ensino técnico. 
-Portanto, a Fatec atua na capacitação de padrões de excelência essenciais ao nível de qualificação 
-oportuna, para as necessidades das empresas e indústrias da região. Destaca-se, assim, como um centro de 
-formação de tecnólogos altamente capacitados com raciocínio complexo e empreendedor, que contribui tanto 
-para o desenvolvimento profissional dos alunos, como também para o progresso socioeconômico regional. 
-Com o advento da pandemia, o setor de Tecnologia da Informação e Comunicação (TIC) que já era 
-forte, se tornou um dos setores que mais gera vagas de emprego no país. Segundo dados da Associação 
-Brasileira de Empresas de Tecnologia da Informação e Comunicação (Brasscom), o mercado nacional emprega 
-Plano de Desenvolvimento Institucional – PDI 2022-2026  
-18. Anexo A – Perfil da Unidade de Ensino (capítulo 4.6) 
+Section: 1 ECOSSISTEMA DE INOVAÇÃO
+
+Historicamente, a região do Grande ABC paulista concentra um grande número de empresas ligadas à tecnologia. Nos últimos anos, inúmeras startups foram criadas na região, além de empresas instaladas na região há bastante tempo, que investe fortemente em pesquisa e desenvolvimento. 
+
+Na região do ABC onde Mauá está inserida, foi inaugurado em dezembro de 2019 o Parque Tecnológico para promover o desenvolvimento econômico e social de Santo André e região. Seu propósito é promover a inovação e competitividade das empresas por intermédio da integração dos atores que integram o ecossistema de inovação local. 
+
+O Parque Tecnológico é uma rede com governança estabelecida envolvendo o governo da cidade, entidades representativas da sociedade e universidades, faculdades, escolas técnicas e centros de pesquisa.
+
+Juntos, atuam em rede para o desenvolvimento tecnológico, promoção da inovação e da competitividade na região. A partir do Parque Tecnológico e sua rede, as empresas e a sociedade em geral conseguem acessar uma ampla infraestrutura e serviços estabelecidos e em constante evolução para o desenvolvimento de iniciativas que promovam a inovação e a competitividade. 
+
+A região conta com polos tecnológicos e arranjos produtivos importantes. São destaques o polo Petroquímico de Capuava. 
+O Parque Tecnológico de Santo André é tratado, pela atual administração, não somente como um projeto específico, mas sim como uma política pública central para o desenvolvimento econômico. 
+
+Além do objetivo de atração de investimentos e de novas empresas, o Parque Tecnológico também tem como grande missão ampliar o suporte ao desenvolvimento tecnológico das empresas, para que aumentem seus níveis de competitividade e com isto possam fortalecer seu posicionamento no mercado local, nacional e mundial, conforme seus objetivos estratégicos.
+   
+A demanda por profissionais com formação tecnológica tem evoluído de forma significativa nos últimos anos. Setores como o de serviços, indústria, comunicação, entretenimento. As necessidades setoriais variam de acordo com as especificidades de cada setor. Por exemplo, na indústria, a demanda por profissionais capacitados em automação e robótica tem crescido onstantemente. 
+
+Já no setor de serviços, há grande demanda por desenvolvedores de aplicativos e web designers. No setor de entretenimento, a tecnologia vem transformando a forma como o público consome produtos audiovisuais, exigindo profissionais com habilidades em áreas como realidade virtual e inteligência artificial. No governo, a demanda por profissionais capacitados em tecnologia da informação tem sido crescente, principalmente na área de segurança cibernética. 
+
+Para atender às necessidades setoriais, é fundamental que os profissionais estejam em constante atualização e evolução de suas habilidades tecnológicas, visto que as demandas evoluem de forma contínua e rápida. Além disso, é importante que as instituições de ensino e empresas incentivem a formação e capacitação de novos profissionais, para suprir a demanda crescente do mercado de trabalho. 
+
+Section: 2 INDICADORES SOCIOECNÔMICOS
+
+Localizada na região sudeste da Região Metropolitana de São Paulo, no ABC paulista, Mauá tem 469 mil habitantes e 61,886 km² de extensão territorial. O município está localizado em região de Mata Atlântica e está estruturando a política de desenvolvimento sustentável, uma vez que abriga várias nascentes de rios, como o Tamanduateí e diversas áreas de proteção permanente e tem vocação eminentemente industrial. 
+
+Mauá conta, segundo estimativas do IBGE para 2020, 11.212 empresas atuantes locais e um salário médio de 3,6 salários-mínimos. A frota de 121.881 veículos de passeio representa 3,4 moradores por automóvel. São 125.369 domicílios. 
+
+O potencial econômico do município de Maua é evidenciado, primeiramente, por sua localização no centro da Região Metropolitana de São Paulo, possui logística privilegiada está a 46 km do aeroporto de Congonhas; 62 km do porto de Santos; 36 km do aeroporto de Guarulhos; e está a 8 km do Rodoanel Mário Covas. Percebemos que em termos geográficos, a oferta do curso também se justifica, pois poderia atender toda a região do Grande ABC, assim como a Região Metropolitana de São Paulo, tendo em vista as vias de fácil acesso. 
+
+Oferta de cursos objetivos que atendam às necessidades de mão de obra das empresas e indústrias locais, vasta oferta de cursos voltados para área de tecnologia em razão da expansão histórica deste setor. 
+
+Pontos específicos, tais como a chegada de empresas do setor, as necessidades evidenciadas pelas entidades representativas da comunidade econômica local, são utilizados como subsídios avaliativos para a implantação de novos cursos afim de melhor reforçar a geração de mão de obra qualificada prosperadora da competitividade regional Ensino focado na teoria direcionada para soluções práticas do dia a dia empresarial garantindo sua formação mais prática e adequada à operacionalidade e duplicidade da qualidade de ensino técnico. 
+
+Portanto, a Fatec atua na capacitação de padrões de excelência essenciais ao nível de qualificação oportuna, para as necessidades das empresas e indústrias da região. Destaca-se, assim, como um centro de formação de tecnólogos altamente capacitados com raciocínio complexo e empreendedor, que contribui tanto para o desenvolvimento profissional dos alunos, como também para o progresso socioeconômico regional. 
+
+Com o advento da pandemia, o setor de Tecnologia da Informação e Comunicação (TIC) que já era forte, se tornou um dos setores que mais gera vagas de emprego no país. Segundo dados da Associação Brasileira de Empresas de Tecnologia da Informação e Comunicação (Brasscom), o mercado nacional emprega 1,56 milhão de trabalhadores atualmente, com mais de 40 mil postos de trabalho criados em 2019. Desse montante, 42,8% está em São Paulo.
+
+A previsão é de que o setor demande, até 2024, 70 mil profissionais por ano, cerca de 20 mil a mais do que se formam em cursos da área de TIC.  A subárea Softwares e Serviços TIC, uma das principais em que o egresso poderá atuar, possui 656.711 postos de trabalho, com um aumento de quase 30 mil vagas em 2019, ainda segundo estudo da Brasscom1.  Destaca-se ainda o grande crescimento no número de startups no Brasil, empresas que geralmente absorvem grande número de desenvolvedores, por 
+terem seus modelos de negócio centrados em TI. Em 2019, o Brasil já tinha 12.700 empresas neste modelo, 27% a mais que em 2018, segundo a Associação Brasileira de Startups (Abstartups). 
  
  
-Pág. 
-1,56 milhão de trabalhadores atualmente, com mais de 40 mil postos de trabalho criados em 2019. Desse 
-montante, 42,8% está em São Paulo. A previsão é de que o setor demande, até 2024, 70 mil profissionais por 
-ano, cerca de 20 mil a mais do que se formam em cursos da área de TIC.  A subárea Softwares e Serviços TIC, 
-uma das principais em que o egresso poderá atuar, possui 656.711 postos de trabalho, com um aumento de 
-quase 30 mil vagas em 2019, ainda segundo estudo da Brasscom1.  Destaca-se ainda o grande crescimento 
-no número de startups no Brasil, empresas que geralmente absorvem grande número de desenvolvedores, por 
-terem seus modelos de negócio centrados em TI. Em 2019, o Brasil já tinha 12.700 empresas neste modelo, 
-27% a mais que em 2018, segundo a Associação Brasileira de Startups (Abstartups)2. 
- 
- 
- 
-Indicadores socioeconômicos 
 [A cidade de Mauá é um município da Região Metropolitana do Estado de São Paulo localizada na região do 
 Grande ABC. Segundo dados publicados pelo IBGE (2020) possui uma população estimada de 481.725 habitantes, 
 contando com um arranjo produtivo estruturado por 11.212 empresas, das quais, 4.494 são comércios, 4.364 do setor 
