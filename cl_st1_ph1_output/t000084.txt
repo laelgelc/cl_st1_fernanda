@@ -1,39 +1,16 @@
- 
-_____________________________________________________________________________________________ 
- 
-Administração Central 
-Unidade do Ensino Superior de Graduação 
- 
-_____________________________________________________________________________________________________________________________________________ 
-www.cps.sp.gov.br 
-Rua dos Andradas, 140  •  Santa Ifigênia  •  01208-000  •  São Paulo  •  SP  •  Tel.: (11) 3324-3300 
-1 
-RELATÓRIO ANUAL DE ATIVIDADES – RAA 
+Section: 1 INTRODUÇÃO
+
 FATEC / Código: FATEC Zona Sul “Dom Paulo Evaristo Arns/137  
-Diretor(a): Alex Macedo de Araujo  
+
 Relatório Anual de Atividades relativo ao ano de: 2022 
-Prezado(a) Diretor(a), 
-Anualmente deverá ser elaborado o Relatório Anual de Atividades – RAA e, conforme 
-estabelecido em Portaria CESU no 9 de 21-11-2019, encaminhar para a CESU até o dia 15 de 
-janeiro do ano subsequente. 
-Nesse relatório a Direção da Unidade deverá pontuar todos os itens que foram 
-planejados e realizados, dentro do informado pela Unidade de Ensino nos seguintes 
-documentos: 
-• 
-Nos Anexos A até F do Template do Plano de Desenvolvimento Institucional (PDI); 
-• 
-No Plano de Gestão Anual da Unidade de Ensino (PGA). 
-Além disso, deve-se informar o que, por alguma razão, não foi possível de ser realizado, 
-dentro de tudo que foi planejado, justificando os motivos da não realização. 
-Uma cópia deste RAA deverá ser encaminhada à Comissão Própria de Avaliação da 
-Unidade de Ensino (CPA) para fins de elaboração do Relatório de Autoavaliação Institucional. 
-Dúvidas, favor entrar em contato com: cesu.pdi@cps.sp.gov.br 
-ATIVIDADES REALIZADAS (máximo 12.000 caracteres) 
-IV. A 
-Recursos Humanos: 
+
+Section: 2 DESENVOLVIMENTO
+
+ATIVIDADES REALIZADAS 
+
+IV. A Recursos Humanos: 
  
-a) A Fatec Zona Sul contratou um novo Diretor de Serviços, promoveu um dos funcionários a Assistente Técnico Administrativo e contratou uma nova assessora administrativa, além de redistribuir os funcionários em novos setores de acordo com sua formação específica. No corpo docente foram contratados novos professores para satisfazer a defasagem no curso de Análise 
-e Desenvolvimento de Sistemas, bem como as licenças e aposentadorias nos cursos de Logística e Gestão Empresarial. Atualmente o corpo docente da FATEC Zona Sul é majoritariamente formado por Mestres e Doutores. 
+a) A Fatec Zona Sul contratou um novo Diretor de Serviços, promoveu um dos funcionários a Assistente Técnico Administrativo e contratou uma nova assessora administrativa, além de redistribuir os funcionários em novos setores de acordo com sua formação específica. No corpo docente foram contratados novos professores para satisfazer a defasagem no curso de Análise e Desenvolvimento de Sistemas, bem como as licenças e aposentadorias nos cursos de Logística e Gestão Empresarial. Atualmente o corpo docente da FATEC Zona Sul é majoritariamente formado por Mestres e Doutores. 
  
 b) Desenvolvimento de automatização das rotinas administrativas para aumentar a eficiência dos processos. O objetivo foi automatizar as atividades administrativas da FATEC-Zona Sul na diretoria acadêmica e administrativa. Após avaliações dos servidores e docentes no ano de 2021, concluímos que duas ferramentas digitais seriam as mais interessantes. Um sistema aplicativo para facilitar a geração da folha de ponto, “Gestão de folha de ponto” e outro para a organização interna dos patrimônios da unidade, “Gestão de patrimônio na FATEC-Zona Sul”. Na Secretaria as solicitações dos alunos são todas realizadas pela internet, ampliando o conceito de Secretaria Digital. 
  
