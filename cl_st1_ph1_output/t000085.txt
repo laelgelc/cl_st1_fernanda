@@ -1,102 +1,29 @@
- 
-_____________________________________________________________________________________________ 
- 
-Administração Central 
-Unidade do Ensino Superior de Graduação 
- 
-_____________________________________________________________________________________________________________________________________________ 
-www.cps.sp.gov.br 
-Rua dos Andradas, 140  •  Santa Ifigênia  •  01208-000  •  São Paulo  •  SP  •  Tel.: (11) 3324-3300 
-1 
-RELATÓRIO ANUAL DE ATIVIDADES – RAA  
+Section: 1 INTRODUÇÃO  
   
-FATEC / Código: FATEC Santo André - 160 Diretor(a): Alexsander Tressino 
+FATEC / Código: FATEC Santo André - 160
+
 Relatório Anual de Atividades relativo ao ano de 2022 
  
-Prezado(a) Diretor(a), 
-Anualmente deverá ser elaborado o Relatório Anual de Atividades – RAA e, conforme 
-estabelecido em Portaria CESU no 9 de 21-11-2019, encaminhar para a CESU até o dia 15 de 
-janeiro do ano subsequente. 
-Nesse relatório a Direção da Unidade deverá pontuar todos os itens que foram 
-planejados e realizados, dentro do informado pela Unidade de Ensino nos seguintes 
-documentos: 
-• 
-Nos Anexos A até F do Template do Plano de Desenvolvimento Institucional (PDI); 
-• 
-No Plano de Gestão Anual da Unidade de Ensino (PGA). 
-Além disso, deve-se informar o que, por alguma razão, não foi possível de ser realizado, 
-dentro de tudo que foi planejado, justificando os motivos da não realização. 
-Uma cópia deste RAA deverá ser encaminhada à Comissão Própria de Avaliação da 
-Unidade de Ensino (CPA) para fins de elaboração do Relatório de Autoavaliação Institucional. 
-Dúvidas, favor entrar em contato com: cesu.pdi@cps.sp.gov.br 
- 
-ATIVIDADES REALIZADAS (máximo 12.000 caracteres) 
-• 
-Aprovação do novo curso de sistemas embarcados: No ano de 2021 foram realizados 
-ajustes na grade do curso de sistemas embarcados para adequação ao APL e assim 
-disponibilizar o curso para o vestibular de 2022-1. Incialmente este curso será 
-oferecido apenas no período diurno, mas como os últimos semestres no noturno. 
-• 
-No ano de 2021 a unidade apresentou, em conjunto com outras universidades o 
-projeto ROTA 2030. A consolidação deste projeto já gerou um relatório prévio 
-enviado a FUNDEP, nele consta as atividades das ICTs participantes. Neste período a 
-FATEC Santo André selecionou dois bolsistas de IC, além de coordenar o 
-desenvolvimento técnico do protótipo antes da implementação final em sistemas 
-automotivos e agrícola. 
-• 
-A unidade designou a tarefa a um professor para ser interlocutor com empresas no 
-grande ABC, participando de reuniões do comitê permanente de rede de inovação de 
-Santo André e da agência do grande ABC. 
- 
- 
-_____________________________________________________________________________________________ 
- 
-Administração Central 
-Unidade do Ensino Superior de Graduação 
- 
-_____________________________________________________________________________________________________________________________________________ 
-www.cps.sp.gov.br 
-Rua dos Andradas, 140  •  Santa Ifigênia  •  01208-000  •  São Paulo  •  SP  •  Tel.: (11) 3324-3300 
-2 
- 
-• 
-Outro projeto está em elaboração pela unidade, intitulado Desenvolvimento de um 
-diferencial eletrônica para veículos urbanos, que foi aprovado pelos órgãos de 
-fomento do governo federal e está em fase de assinatura. Todo processo está em 
-análise do jurídico do CPS e da ADP. Outros participantes do projeto são: Escola 
-Politécnica da USP, Escola de Engenharia de São Carlos e Universidade Federal de 
-Santa Maria, além das empresas parceiras – Mercedes-Benz, ETAS, VirtualCae e a 
-Schaeffler. A FATEC Santo André será a parceira responsável pelas bolsas de iniciação 
-científica, além de ser contemplada com os equipamentos específicos da área 
-automotiva. 
- 
+Section: 2 DESENVOLVIMENTO
+
+ATIVIDADES REALIZADAS
+
+• Aprovação do novo curso de sistemas embarcados: No ano de 2021 foram realizados ajustes na grade do curso de sistemas embarcados para adequação ao APL e assim disponibilizar o curso para o vestibular de 2022-1. Incialmente este curso será oferecido apenas no período diurno, mas como os últimos semestres no noturno. 
+
+• No ano de 2021 a unidade apresentou, em conjunto com outras universidades o projeto ROTA 2030. A consolidação deste projeto já gerou um relatório prévio enviado a FUNDEP, nele consta as atividades das ICTs participantes. Neste período a FATEC Santo André selecionou dois bolsistas de IC, além de coordenar o desenvolvimento técnico do protótipo antes da implementação final em sistemas automotivos e agrícola. 
+
+• A unidade designou a tarefa a um professor para ser interlocutor com empresas no grande ABC, participando de reuniões do comitê permanente de rede de inovação de Santo André e da agência do grande ABC. 
+
+
+• Outro projeto está em elaboração pela unidade, intitulado Desenvolvimento de um diferencial eletrônica para veículos urbanos, que foi aprovado pelos órgãos de fomento do governo federal e está em fase de assinatura. Todo processo está em análise do jurídico do CPS e da ADP. Outros participantes do projeto são: Escola Politécnica da USP, Escola de Engenharia de São Carlos e Universidade Federal de Santa Maria, além das empresas parceiras – Mercedes-Benz, ETAS, VirtualCae e a Schaeffler. A FATEC Santo André será a parceira responsável pelas bolsas de iniciação científica, além de ser contemplada com os equipamentos específicos da área automotiva.  
   
-ATIVIDADES NÃO REALIZADAS E JUSTIFICATIVAS (máximo 12.000 caracteres) 
+ATIVIDADES NÃO REALIZADAS E JUSTIFICATIVAS 
  
-1. Aquisição de equipamentos para os cursos – As demandas gerais solicitadas através 
-do PDI estão sendo entregues, uma vez que os pregões são realizados pelo CPS, 
-contudo as demandas específicas foram prejudicadas ao longo do ano pela não 
-aprovação por falta de recursos UGAF em certos casos, mas com a verba de 
-adiantamento e outros recursos disponibilizados pelo CPS reparos e upgrades em 
-equipamentos já disponíveis na unidade foram feitos ou estão em execução. As 
-aquisições para laboratórios didáticos serão readequadas para gestão de 2023-2027. 
+1. Aquisição de equipamentos para os cursos – As demandas gerais solicitadas através do PDI estão sendo entregues, uma vez que os pregões são realizados pelo CPS, contudo as demandas específicas foram prejudicadas ao longo do ano pela não aprovação por falta de recursos UGAF em certos casos, mas com a verba de adiantamento e outros recursos disponibilizados pelo CPS reparos e upgrades em equipamentos já disponíveis na unidade foram feitos ou estão em execução. As aquisições para laboratórios didáticos serão readequadas para gestão de 2023-2027. 
  
-2.  Contratação de Recursos Humanos – devido a não autorização governamental para 
-realização de concursos para área administrativa em 2021 e , a unidade de ensino 
-não pode repor colaboradores/servidores em seu quadro os funcionários para ano 
-de 2021 e 2022, além do afastamento médico da diretora de serviços 
-administrativos. A unidade conta hoje com apenas 4 funcionários administrativos 
-para atendimento nos três turnos. Com a autorização e o concurso a ser realizado no 
-final deste ano, a unidade poderá em 2023 ter uma melhor organização 
-administrativa com as vagas destinadas pelo CPS, mesmo com afastamento do DSA 
-da unidade. 
+2.  Contratação de Recursos Humanos – devido a não autorização governamental para realização de concursos para área administrativa em 2021 e , a unidade de ensino não pode repor colaboradores/servidores em seu quadro os funcionários para ano 
+de 2021 e 2022, além do afastamento médico da diretora de serviços administrativos. 
+
+A unidade conta hoje com apenas 4 funcionários administrativos para atendimento nos três turnos. Com a autorização e o concurso a ser realizado no final deste ano, a unidade poderá em 2023 ter uma melhor organização administrativa com as vagas destinadas pelo CPS, mesmo com afastamento do DSA da unidade. 
  
-3. Implantação do curso de mecatrônica industrial no período noturno – Em consenso 
-pelos colegiados da unidade de ensino, foi decido pelo oferecimento do curso apenas 
-no período diurno devido a implantação do novo curso de sistemas embarcados. 
- 
- 
- 
- 
-Comissão de Análise dos PDIs das FATECs. 
- 
+3. Implantação do curso de mecatrônica industrial no período noturno – Em consenso pelos colegiados da unidade de ensino, foi decido pelo oferecimento do curso apenas no período diurno devido a implantação do novo curso de sistemas embarcados. 
