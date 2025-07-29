@@ -40,7 +40,6 @@ Em 2023 foram realizadas novas avaliações para atualização dos Relatórios T
  
 Ainda em 2023, foram realizadas novas avaliações para a atualização dos Relatórios Técnicos dos Laboratórios de Informática, com vistas à manutenção dos 08 labs em funcionamento, que atendem diariamente os Cursos de Análise e Desenvolvimento de Sistemas, Desenvolvimento de Software Multiplataforma, Gestão Empresarial e Comércio Exterior. 
  
- 
 Pesquisa/Extensão 
 
 Foram realizadas as seleções dos alunos para as bolsas de Monitoria de Iniciação em Desenvolvimento Tecnológico e Inovação (MDTI), do 1º e 2º Semestres de 2023, conforme Memorandos da CESU, tendo sido selecionados no ano 06 Bolsas para os Cursos de Análise e Desenvolvimento de Sistemas, Comércio Exterior e Processos Químicos, conforme planejado no PGA. Os projetos foram desenvolvidos nas áreas de Inteligência Artificial, Química de Produtos Naturais, Química Ambiental, Administração, Comércio Exterior e Direito.  
@@ -148,5 +147,3 @@ Metas (Institucionais):
 - Atualizar até julho de 2023, os Relatórios Técnicos para adequação dos ambientes físicos das salas e laboratórios da unidade.  
  
 - Aumentar em 10% a empregabilidade dos alunos da Fatec Praia Grande no ano de 2023. 
-
- 
