@@ -1,68 +1,19 @@
+Section: 1 ANÁLISE DO CENÁRIO
+
 PLANO DE GESTÃO ANUAL – PGA 
-v07 
-Estruturado em 3 etapas: 
-ETAPA I – PLANEJAMENTO PELA EQUIPE GESTORA DA UE 
-ETAPA II – APROVAÇÃO E HOMOLOGAÇÃO 
-ETAPA III – ACOMPANHAMENTO DAS AÇÕES GERENCIAIS 
+
+Considerando o cenário pós pandemia e a retomada das atividades presenciais, observa -se que a instituição está retomando a normalidade de suas atividades.  Nesse sentido, novas parcerias com empresas estão em elaboração, visando o aperfeiçoamento no processo de aprendizagem do aluno, mas considerando os dados apurados no Web Sai e do relatório da CPA, nota -se que 
+a unidade apresenta alguns problemas recorrentes, bem como observa-se uma acentuada queda na demanda do Vestibular de nossos cursos e aumento na taxa de evasão, devido, provavelmente, às contingências causadas pelo período de pandemia. 
+
+Assim, diante desse quadro apresenta-se o presente plano de ação, com definição de projetos e metas visando eliminar ou amenizar a situação dos problemas apresentados. Ressaltando que os projetos e metas aqui levantados consideram a FATEC como parte integrante do Centro Paula Souza (CPS) que enquanto autarquia do Governo do Estado de São Paulo encontra -se vinculada à Secretaria de Ciência, Tecnologia e Inovação, por isso, a proposta principal é estimular o desenvolvimento do espirito empreendedor inovativo em nossos alunos, visando estimulá-los e assim aumentar a demanda do vestibular e reduzir o número de evasão. 
  
-IDENTIFICAÇÃO DA UNIDADE 
-Unidade 
-126 
-Faculdade de Tecnologia Adib Moisés Dib  
-Diretor(a) 
-Claudio Cesar José dos Santos 
- 
-ETAPA I – PLANEJAMENTO PELA EQUIPE GESTORA DA UE 
-ANÁLISE DO CENÁRIO (Breve diagnóstico/Baseline) 
- 
-Considerando o cenário pós pandemia e a retomada das atividades presenciais, observa -se que 
-a instituição está retomando a normalidade de suas atividades.  Nesse sentido, novas parcerias 
-com empresas estão em elaboração, visando o aperfeiçoamento no processo de aprendizagem 
-do aluno, mas considerando os dados apurados no Web Sai e do relatório da CPA, nota -se que 
-a unidade apresenta alguns problemas recorrentes, bem como observa-se uma acentuada queda 
-na demanda do Vestibular de nossos cursos e aumento na taxa de evasão, devido, 
-provavelmente, às contingências causadas pelo período de pandemia. Assim, diante desse 
-quadro apresenta-se o presente plano de ação, com definição de projetos e metas visando 
-eliminar ou amenizar a situação dos problemas apresentados. Ressaltando que os projetos e 
-metas aqui levantados consideram a FATEC como parte integrante do Centro Paula Souza (CPS) 
-que enquanto autarquia do Governo do Estado de São Paulo encontra -se vinculada à Secretaria 
-de Ciência, Tecnologia e Inovação, por isso, a proposta principal é estimular o desenvolvimento 
-do espirito empreendedor inovativo em nossos alunos, visando estimulá-los e assim aumentar a 
-demanda do vestibular e reduzir o número de evasão. 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-• 
-Discorrer sobre o cenário, realizando um breve diagnóstico (limitar o espaço da escrita, para que seja inserido de 
-forma suscinta). 
 APONTAMENTO DE SITUAÇÕES-PROBLEMA MAIS RELEVANTES (“Escuta”) 
-Fontes: relatório CPA, análise de processos críticos da UE, relatório de atendimento e ocorrências 
-Hórus GCom. relatório NDE, relatório de representação discente. 
-1 
-Redução da demanda do vestibular da 
-FATEC. 
+
+- Redução da demanda do vestibular da FATEC.  
  
+- Falta de manutenção predial. (Manutenção na parede que sustenta a calha da FATEC, defeito no disjuntor de entrada da cabine primária de energia elétrica.) 
  
-5 
-Falta de manutenção predial. 
-(Manutenção na parede que sustenta a 
-calha da FATEC, defeito no disjuntor de 
-entrada da cabine primária de energia 
-elétrica.) 
- 
-2 
-Evasão escolar e baixa taxa concluinte. 
- 
+- Evasão escolar e baixa taxa concluinte. 
  
 - Falta de recurso para manutenção dos equipamentos de laboratórios específicos (robôs, sistemas de controle, kit didático de instrumentação). 
 
@@ -143,7 +94,6 @@ Realizar estudos complementares para implantação do curso AMS em Automação I
 
 O que será feito: Estudos para implantação eficaz e eficiente do curso de AMS em Automação Industrial em 2024. Por que será feito: Para atender às demandas sociais e do mercado de trabalho regional. 
 
- 
 Objetivo(s) relacionado(s): 
 
 Ampliar a capacidade de criar e atualizar cursos em parceria com o mercado; 
@@ -184,8 +134,7 @@ Promover ações administrativas e pedagógicas que proporcionem a redução da 
 
 A –Estabelecer estratégia, através de reuniões, para desenvolvimento dos docentes e servidores. 
 
-O que será feito: Reuniões gerais, por grupos e individuais para troca de informações e orientações dos docentes e 
-servidores. Por que será feito: Para o funcionamento adequado da unidade. 
+O que será feito: Reuniões gerais, por grupos e individuais para troca de informações e orientações dos docentes e servidores. Por que será feito: Para o funcionamento adequado da unidade. 
  
 Objetivo(s) relacionado(s): 
 
@@ -199,7 +148,6 @@ Meta(s) relacionada(s):
 
 Promover ações administrativas e pedagógicas que proporcionem a redução da taxa de evasão em 5% com relação ao indicador de desempenho de 2022, no ano de 2023. 
  
-
 B – Incentivar a leitura  e estabelecer programas de desenvolvimento pessoal 
 
 O que será feito: Sugestão de livros e promoção de encontros para o desenvolvimento pessoal. Por que será feito: Para o aprimoramento das relações pessoais na FATEC 
@@ -214,8 +162,7 @@ Alcançar e manter o grau de excelência em seus processos de ensino e aprendiza
 
 Meta(s) relacionada(s): 
 
-Promover ações administrativas e pedagógicas que proporcionem a redução da taxa de evasão em 5% com relação ao indicador de desempenho de 2022, no ano de 2023. 
- 
+Promover ações administrativas e pedagógicas que proporcionem a redução da taxa de evasão em 5% com relação ao indicador de desempenho de 2022, no ano de 2023.  
  
 C – Estruturar programas de treinamento e cursos de aperfeiçoamento 
 
