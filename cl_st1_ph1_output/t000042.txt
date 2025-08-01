@@ -64,1245 +64,196 @@ elétrica.)
 Evasão escolar e baixa taxa concluinte. 
  
  
-6 
-Falta de recurso para manutenção dos 
-equipamentos de laboratórios 
-específicos (robôs, sistemas de controle, 
-kit didático de instrumentação). 
+- Falta de recurso para manutenção dos equipamentos de laboratórios específicos (robôs, sistemas de controle, kit didático de instrumentação). 
+
 Necessidade de atualização dos 
 laboratórios da FATEC. 
  
-3 
-Falta de professores para as disciplinas. 
-(Maior flexibilidade para contratação) 
+- Falta de professores para as disciplinas. (Maior flexibilidade para contratação) 
  
+- Poucas as parcerias oficiais da FATEC com os empresas e órgãos públicos. 
  
-7 
-Poucas as parcerias oficiais da FATEC 
-com os empresas e órgãos públicos. 
+- Falta de equipamentos de TI (necessário melhorar a infraestrutura da internet)  e de mobiliários para sala de aula 
  
-4 
-Falta de equipamentos de TI (necessário 
-melhorar a infraestrutura da internet) 
- e de mobiliários para sala de aula 
- 
-8 
-Falta de espaço para confecção dos 
-protótipos de TCC’s, atividades de 
-iniciação científica e Inovação. 
-Dificuldade de descarte de 
-equipamentos inutilizáveis, 
-componentes do patrimônio. 
- 
- 
- 
+- Falta de espaço para confecção dos protótipos de TCC’s, atividades de iniciação científica e Inovação. Dificuldade de descarte de equipamentos inutilizáveis, componentes do patrimônio. 
  
 DEFINIÇÃO DE OBJETIVOS, METAS E AÇÕES (PROJETOS) 
+
 Objetivos 
-1 
-Atender às demandas sociais e do mercado de trabalho; 
-2 
-Obter a satisfação dos públicos que se relacionam com o Centro Paula Souza (stakeholders); 
-3 
-CPS - Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem; 
-4 
-Assegurar a perenidade do crescimento da instituição com recursos financeiros disponíveis; 
-5 
-Garantir celeridade e efetividade na prestação de serviços; 
-6 
-Integrar as diferentes modalidades de ensino, otimizando itinerários e tempo para a formação profissional; 
-7 
-Inovar processos de ensino e aprendizagem para manter excelência diante do mercado; 
-8 
-Ampliar a capacidade de criar e atualizar cursos em parceria com o mercado; 
-9 
-Expandir e ampliar a capacidade de articulação com Governos e Setores Produtivos; e 
+
+1 Atender às demandas sociais e do mercado de trabalho; 
+
+2 Obter a satisfação dos públicos que se relacionam com o Centro Paula Souza (stakeholders); 
+
+3 CPS - Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem; 
+
+4 Assegurar a perenidade do crescimento da instituição com recursos financeiros disponíveis; 
+
+5 Garantir celeridade e efetividade na prestação de serviços; 
+
+6 Integrar as diferentes modalidades de ensino, otimizando itinerários e tempo para a formação profissional; 
+
+7 Inovar processos de ensino e aprendizagem para manter excelência diante do mercado; 
+
+8 Ampliar a capacidade de criar e atualizar cursos em parceria com o mercado; 
+
+9 Expandir e ampliar a capacidade de articulação com Governos e Setores Produtivos; e 
+
 10 Promover a captação de recursos extras e não orçamentários. 
-• 
-Os objetivos devem estar relacionados com melhoria ou ação, sobre itens do PDI. 
+
 Metas 
-1 
-Ampliar as inscrições para o Vestibular dos cursos 
-tecnológicos ofertados por esta unidade em 10% 
-no ano de 2023. 
+
+Ampliar as inscrições para o Vestibular dos cursos tecnológicos ofertados por esta unidade em 10% no ano de 2023. 
  
-5 
-Adequar a infraestrutura da internet e mobiliários 
-para os laboratórios de TI, até 1 de dezembro de 
-2023. 
-2 
-Acordar pelo menos 03 parcerias com as 
-empresas/órgãos públicos  na região, no ano de 
-2023. 
+Adequar a infraestrutura da internet e mobiliários para os laboratórios de TI, até 1 de dezembro de 2023. 
+
+Acordar pelo menos 03 parcerias com as empresas/órgãos públicos  na região, no ano de 2023. 
  
-6 
-Ampliar o espaço da FATEC montando uma oficina, 
-para desenvolver atividades de iniciação científica, 
-inovação e TCC’s, iniciando implantação até 01 de 
-dezembro de 2023.. 
-3 
-Reestruturar os três laboratório de informática, 
-com equipamentos e mobiliários até dezembro 
-de 2023. 
+Ampliar o espaço da FATEC montando uma oficina, para desenvolver atividades de iniciação científica, inovação e TCC’s, iniciando implantação até 01 de dezembro de 2023.
+
+Reestruturar os três laboratório de informática, com equipamentos e mobiliários até dezembro de 2023. 
  
-7 
-Promover ações para aumentar a 
-empregabilidade dos alunos formados em 
-Automação Industrial, em 5% em 2023. 
-4 
-Promover ações administrativas e pedagógicas 
-que proporcionem a redução da taxa de evasão 
-em 5% com relação ao indicador de desempenho 
-de 2022, no ano de 2023. 
+Promover ações para aumentar a empregabilidade dos alunos formados em Automação Industrial, em 5% em 2023. 
+
+Promover ações administrativas e pedagógicas que proporcionem a redução da taxa de evasão em 5% com relação ao indicador de desempenho de 2022, no ano de 2023. 
  
-8 
 Implantar um curso AMS em 2024. 
  
-• 
-Observar que cada meta deve ser: específica, mensurável, atingível, relevante e temporal. 
- 
- 
- 
-ESTRUTURAÇÃO DAS AÇÕES/PROJETOS 
-01 - Didático-pedagógico 
-AÇÃO/PROJETO 
-A – Articular formas de otimizar a colocação/contratação de docentes para as disciplinas 
-sem professor 
-O que será feito: 
-Estudar e articular com o CESU Administrativo, estratégias e ações táticas para otimizar a 
-colocação/contratação de docentes para as disciplinas sem professor 
- Por que será feito: 
-Será feiro para promover a formação adequada e com qualidade para os alunos da FATEC-SBC, 
-diminuir a evasão e aumentar a taxa concluinte. 
-Responsável(is) / CH sem: Prof Marcelo Griese: 40h   Prof Douglas Duarte: 40h e Prof Jorge Sarapka: 40h 
-Período de execução: 
-Data de início: 
-01/02/2023 
-Data final: 
-20/12/2023 
-Etapas do processo: 
-Levantamento das disciplinas sem professores. 
-01/02/2023 
-15/02/2023 
-Estudo de alternativas e formas de agilizar a cobertura de claro 
-docentes 
-01/02/2023 
-30/03/2023 
-Estabelecimento de contato inicial e cronograma com CESU 
-Administrativo 
-30/03/2023 
-30/04/2023 
-Realização de estudos em conjunto com CESU Administrativo 
-02/05/2023 
-30/06/2023 
-Implantação das ações acordadas na FATEC SBC 
-01/08/2023 
-20/12/2023 
- 
- 
- 
- 
- 
- 
-Custo (se houver): 
- 
-Fonte(s) dos recursos: 
+A – Articular formas de otimizar a colocação/contratação de docentes para as disciplinas sem professor 
+
+O que será feito: Estudar e articular com o CESU Administrativo, estratégias e ações táticas para otimizar a colocação/contratação de docentes para as disciplinas sem professor 
+
+Por que será feito: Será feiro para promover a formação adequada e com qualidade para os alunos da FATEC-SBC, diminuir a evasão e aumentar a taxa concluinte. 
  
 Objetivo(s) relacionado(s): 
+
 Atender às demandas sociais e do mercado de trabalho; 
-1Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem; 
+
+Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem; 
+
 Garantir celeridade e efetividade na prestação de serviços. 
+
 Meta(s) relacionada(s): 
-Promover ações administrativas e pedagógicas que proporcionem a redução da taxa de evasão 
-em 5% com relação ao indicador de desempenho de 2022, no ano de 2023. 
+
+Promover ações administrativas e pedagógicas que proporcionem a redução da taxa de evasão em 5% com relação ao indicador de desempenho de 2022, no ano de 2023. 
+
 Ampliar as inscrições para o Vestibular dos cursos tecnológicos ofertados em 10%. 
  
-AÇÃO/PROJETO 
-B – Realizar estudos complementares para implantação do curso AMS em Automação Industrial  
-O que será feito: 
-Estudos para implantação eficaz e eficiente do curso de AMS em Automação Industrial em 2024 
-Por que será feito: 
-Para atender às demandas sociais e do mercado de trabalho regional. 
-Responsável(is) / CH sem: Prof. Gervásio das Neves: 20 HAEs  e Prof. Gedeane Gomes da Silva Kenshima: 40 HAEs 
-Período de execução: 
-Data de início: 
-15/03/2023 
-Data final: 
-18/12/2023 
-Etapas do processo: 
-Apresentação da proposta de ação aos diretores da FATEC e ETEC e à 
-Cesu. 
-15/03/2023 
-30/03/2023 
-Apresentação do curso a comunidade de São Bernardo do Campo. 
-30/03/2023 
-30/04/2023 
-Fechar parcerias com as empresas. 
-01/05/2023 
-15/08/2023 
-Identificar recursos e materiais necessários e a infraestrutura 
-disponível nas unidades de ensino (FATEC e ETEC) 
-15/08/2023 
-15/10/2023 
-Análise do quadro docente para verificar a viabilidade de 
-atendimento das disciplinas do projeto pedagógico. 
-15/10/2023 
-15/11/2023 
-Apresentação do relatório de estudos para a implantação do AMS a 
-equipe de direção das unidades 
-18/11/2023 
-18/11/2023 
- 
- 
- 
-Custo (se houver): 
- 
-Fonte(s) dos recursos: 
+Realizar estudos complementares para implantação do curso AMS em Automação Industrial  
+
+O que será feito: Estudos para implantação eficaz e eficiente do curso de AMS em Automação Industrial em 2024. Por que será feito: Para atender às demandas sociais e do mercado de trabalho regional. 
+
  
 Objetivo(s) relacionado(s): 
+
 Ampliar a capacidade de criar e atualizar cursos em parceria com o mercado; 
-Integrar as diferentes modalidades de ensino, otimizando itinerários e tempo para formação 
-profissional; 
+
+Integrar as diferentes modalidades de ensino, otimizando itinerários e tempo para formação profissional; 
+
 Atender às demandas sociais e do mercado de trabalho. 
+
 Meta(s) relacionada(s): 
+
 Implantar um curso AMS em 2024. 
+
 Redução da taxa de evasão em 5% 
- 
- 
- 
- 
-AÇÃO/PROJETO 
-C – Proposta de atualização do curso de Automação Industrial 
-O que será feito: 
-Estruturação de proposta para atualização do PPC do curso de Automação Industrial mediante 
-análise dos conteúdos programáticos dos componentes curriculares do curso e construção da 
-nova grade curricular segundo as exigências mercadológicas. 
-Por que será feito: 
-Para atualização do projeto pedagógico do curso em virtude do avanço tecnológico industrial. 
-Responsável(is) / CH sem: Prof. Gervásio - 120 HAEs  e Prof. Marco Antônio - 40 HAEs 
-Período de execução: 
-Data de início: 
-01/02/2023 
-Data final: 
-15/12/2023 
-Etapas do processo: 
-Designação das frentes de trabalho e respectivos colaboradores, e 
-alinhamento da proposta com a CESU. 
-01/02/2023 
-28/02/2023 
-Desenvolvimento das frentes de trabalho e compilação das propostas 
-apresentadas. 
-01/03/2023 
-01/05/2023 
-Revisão da proposta apresentada do PPC. 
-01/05/2023 
-15/08/2023 
-Apresentação e análise da proposta da versão atualizada do PPC junto 
-ao colegiado do curso. 
-10/10/2023 
-10/10/2023 
-Consolidação da versão atualizada do PPC com as sugestões 
-apresentadas pelo colegiado. 
-18/11/2023 
-18/11/2023 
-Apresentação da proposta de versão atualizada do PPC à 
-congregação. 
-21/11/2023 
-21/11/2023 
-Revisão final da proposta período de ajuste e sugestão feira a 
-congregação 
-Encaminhamento da proposta de reestruturação do PPC para a CESU 
-01/12/2023 
-15/12/2023 
-Custo (se houver): 
- 
+  
+Proposta de atualização do curso de Automação Industrial 
+
+O que será feito: Estruturação de proposta para atualização do PPC do curso de Automação Industrial mediante análise dos conteúdos programáticos dos componentes curriculares do curso e construção da nova grade curricular segundo as exigências mercadológicas. Por que será feito: Para atualização do projeto pedagógico do curso em virtude do avanço tecnológico industrial. 
+
 Fonte(s) dos recursos: 
  
-Objetivo(s) relacionado(s): CPS – Formar profissionais atualizados em tecnologia e processos produtivos, capazes de atuar 
-no desenvolvimento tecnológico e inovação. 
+Objetivo(s) relacionado(s): CPS – Formar profissionais atualizados em tecnologia e processos produtivos, capazes de atuar no desenvolvimento tecnológico e inovação. 
+
 Meta(s) relacionada(s): 
+
 Aumentar a empregabilidade dos alunos formados em Automação Industrial em 5% em 2023. 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-02 – Ensino e Equipamentos Associados (Laboratórios) 
- 
-AÇÃO/PROJETO 
-A - Adequar a infraestrutura da internet e mobiliários para os laboratórios de TI 
-O que será feito: 
-Elaborar projeto de melhoria de leiaute e reorganização de mobiliário, equipamentos de rede, 
-ferramentas e dispositivos, com adequação de iluminação e climatização. 
-Por que será feito: 
-Para atendimento às disciplinas com conteúdo prático (desenvolvimento e simulação), previstas 
-nos PPCs dos 3 cursos, visando reduzir evasão e atrair novos candidatos aos cursos. 
- 
-Responsável(is) / CH sem: Prof. Reanan 40 HAEs, Prof Willian 40 HAEs, Auxiliar de instrução Vagner 40h e Técnico de TI 
-Silvio 40h 
-Período de execução: 
-Data de início: 
-01/03/2023 
-Data final: 
-01/12/2023 
-Etapas do processo: 
-Levantamento da demanda do uso de laboratórios de informática, 
-por curso e por componente curricular mobiliário necessário. 
-01/03/2023 
-01/05/2023 
-Levantamento dos equipamentos de TI e mobiliário atuais e o status 
-de cada componente. 
-01/03/2023 
-01/05/2023 
-Levantamento do link de internet que atende as necessidades 
-01/03/2023 
-01/05/2023 
-Solicitar e acompanhar visita da GPR para suporte, orientações de 
-validação dos dados levantados. 
-01/05/2023 
-01/07/2023 
-Elaboração Projeto e Lista de materiais (equipamentos, mobiliário, 
-instalações) necessários para o objetivo e envio de Memorando à 
-UGAF com as necessidades levantadas.  
-01/07/2023 
-01/10/2023 
-Acompanhamento junto à UAGF para esclarecimento de dúvidas e 
-feedback 
-01/10/2023 
-01/12/2023 
- 
- 
- 
-Custo (se houver): 
- 
-Fonte(s) dos recursos: 
- 
+
 Objetivo(s) relacionado(s): 
-Obter a satisfação dos públicos que se relacionam com o Centro Paula Souza 
-(stakeholders). 
-Assegurar a perenidade do crescimento da instituição com recursos financeiros 
-disponíveis 
-Formar profissionais atualizados em tecnologias e processos produtivos, capazes de 
-atuar no desenvolvimento tecnológico e inovação 
-Meta(s) relacionada(s): 
-Adequar a infraestrutura da internet e mobiliários para os laboratórios de TI, iniciando 
-implantação até 1 de dezembro de 2023. 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-AÇÃO/PROJETO 
-B –Estudar formas de alocar recursos para manutenção dos equipamentos de 
-laboratórios específicos (robôs, sistemas de controle, kit didático de 
-instrumentação, impressoras 3D). Idem para atualização dos laboratórios da 
-FATEC. 
- 
-O que será feito: 
-Elaborar projeto para manutenção e atualização dos laboratórios da FATEC-SBC e viabilizá-lo. 
-Por que será feito: 
-Para atendimentos das disciplinas práticas dos cursos de Automação Industrial e Manufatura 
-Avançada e seus conteúdos práticos previstos no PPC. 
-Responsável(is) / CH sem: Prof. Jorge Sarapka - 20 h e professor Marcelo Griese - 20 h  
-Período de execução: 
-Data de início: 
-01/02/2023 
-Data final: 
-01/12/2023 
-Etapas do processo: 
-Estudo dos equipamentos com defeito e possíveis soluções 
-01/02/2023 
-15/03/2023 
-Elaboração do projeto para reparo dos equipamentos. 
-15/03/2023 
-30/03/2023 
-Elaboração de Estratégias para execução da manutenção requerida. 
-30/03/2023 
-30/04/2023 
-Elaboração do projeto para adequação dos laboratórios. 
-30/04/2023 
-30/05/2023 
-Elaboração e envio de Memorando à UGAF com as necessidades 
-levantadas. 
-30/05/2023 
-30/06/2023 
-Acompanhamento junto à UAGF para esclarecimento de dúvidas e 
-feedback. 
-01/07/2023 
-01/12/2023 
-Desenvolvimento de parcerias na comunidade para obtenção de 
-recursos complementares. 
-01/07/2023 
-01/12/2023 
-Custo (se houver): 
- 
-Fonte(s) dos recursos: 
-  
-Objetivo(s) relacionado(s): 
-Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no 
-desenvolvimento tecnológico e inovação. 
-Aumentar a eficiência, a produtividade e a competitividade da instituição. 
-Meta(s) relacionada(s): 
-Estruturar a Reestruturação de 03 laboratórios com equipamento e mobiliário até 01 dezembro 
-de 2023. 
-Ampliar as inscrições para o Vestibular dos cursos tecnológicos ofertados por esta unidade em 
-10%. 
- 
-AÇÃO/PROJETO 
-C- Preparar espaço para confecção dos protótipos de TCC’s, descarte de 
-equipamentos inutilizáveis, componentes do patrimônio. 
- 
-O que será feito: 
-Projeto para reforma do espaço para confecção dos protótipos de TCC’s. 
-Projeto para descarte de equipamentos inutilizáveis, componentes do patrimônio. 
-Por que será feito: 
-Para construção dos protótipos de TCC1s dos cursos de Automação Industrial e Manufatura 
-Avançada previstos no PPC, visando uma diminuição da evasão. 
-Responsável(is) / CH sem: Prof. Renan-40 HAEs  Prof. Willian-40HAEs Prof. Gervásio-40HAEs 
-Período de execução: 
-Data de início: 
-01/02/2023 
-Data final: 
-01/12/2023 
-Etapas do processo: 
-Estudo do espaço disponível para montar a oficina de construção dos 
-protótipos 
-01/02/2023 
-01/04/2023 
-Elaboração do projeto para reforma e aquisição de ferramentas e 
-mobiliário para estruturação e implantação da oficina. 
-01/04/2023 
-01/05/2023 
-Solicitar e acompanhar visita da GPR para suporte, orientações de 
-validação dos dados levantados. 
-01/06/2023 
-01/12/2023 
-Elaboração de Lista de materiais (equipamentos, mobiliário, 
-instalações) necessários para o objetivo e envio de Memorando à 
-UGAF com as necessidades levantadas.  
-01/04/2023 
-01/05/2023 
-Acompanhamento junto à UAGF para esclarecimento de dúvidas e 
-feedback. 
-01/06/2023 
-01/12/2023 
-Levantamento dos equipamentos e mobiliários inúteis da unidade 
-01/06/2023 
-01/09/2023 
-Processo para descarte do patrimônio.  
-01/10/2023 
-01/12/2023 
-Custo (se houver): 
- 
-Fonte(s) dos recursos: 
- 
-Objetivo(s) relacionado(s): 
-Aumentar a eficiência, a produtividade e a competitividade da instituição. 
-Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no 
-desenvolvimento tecnológico e inovação 
-Meta(s) relacionada(s): 
-Promover ações administrativas e pedagógicas que proporcionem a redução da taxa de 
-evasão em 5% com relação ao indicador de desempenho de 2022, no ano de 2023 
-Promover ações para aumentar a empregabilidade dos alunos formados em Automação 
-Industrial, em 5% em 2023. 
-03 – Pesquisa / Extensão e Equipamentos Associados 
- 
-AÇÃO/PROJETO 
-A - Adequar a infraestrutura da internet e mobiliários para os laboratórios de TI 
-O que será feito: 
-Elaborar projeto de melhoria de leiaute e reorganização de mobiliário, equipamentos de rede, 
-ferramentas e dispositivos, com adequação de iluminação e climatização. 
-Por que será feito: 
-Para atendimento às disciplinas com conteúdo prático (desenvolvimento e simulação), previstas 
-nos PPCs dos 3 cursos, visando reduzir evasão e atrair novos candidatos aos cursos. 
- 
-Responsável(is) / CH sem: Prof. Reanan 40 HAEs, Prof Willian 40 HAEs, Auxiliar de instrução Vagner 40h e Técnico de TI 
-Silvio 40h 
-Período de execução: 
-Data de início: 
-01/03/2023 
-Data final: 
-01/12/2023 
-Etapas do processo: 
-Levantamento da demanda do uso de laboratórios de informática, 
-por curso e por componente curricular mobiliário necessário. 
-01/03/2023 
-01/05/2023 
-Levantamento dos equipamentos de TI e mobiliário atuais e o status 
-de cada componente. 
-01/03/2023 
-01/05/2023 
-Levantamento do link de internet que atende as necessidades 
-01/03/2023 
-01/05/2023 
-Solicitar e acompanhar visita da GPR para suporte, orientações de 
-validação dos dados levantados. 
-01/05/2023 
-01/07/2023 
-Elaboração Projeto e Lista de materiais (equipamentos, mobiliário, 
-instalações) necessários para o objetivo e envio de Memorando à 
-UGAF com as necessidades levantadas.  
-01/07/2023 
-01/10/2023 
-Acompanhamento junto à UAGF para esclarecimento de dúvidas e 
-feedback 
-01/10/2023 
-01/12/2023 
- 
- 
- 
-Custo (se houver): 
- 
-Fonte(s) dos recursos: 
- 
-Objetivo(s) relacionado(s): 
-Obter a satisfação dos públicos que se relacionam com o Centro Paula Souza 
-(stakeholders). 
-Assegurar a perenidade do crescimento da instituição com recursos financeiros 
-disponíveis 
-Formar profissionais atualizados em tecnologias e processos produtivos, capazes de 
-atuar no desenvolvimento tecnológico e inovação 
-Meta(s) relacionada(s): 
-Adequar a infraestrutura da internet e mobiliários para os laboratórios de TI, iniciando 
-implantação até 1 de dezembro de 2023. 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-AÇÃO/PROJETO 
-B –Estudar formas de alocar recursos para manutenção dos equipamentos de 
-laboratórios específicos (robôs, sistemas de controle, kit didático de 
-instrumentação, impressoras 3D). Idem para atualização dos laboratórios da 
-FATEC. 
- 
-O que será feito: 
-Elaborar projeto para manutenção e atualização dos laboratórios da FATEC-SBC e viabilizá-lo 
-Por que será feito: 
-Para atendimentos das disciplinas práticas dos cursos de Automação Industrial e Manufatura 
-Avançada e seus conteúdos práticos previstos no PPC. 
-Responsável(is) / CH sem: Prof. Jorge Sarapka - 20 h e professor Marcelo Griese - 20 h  
-Período de execução: 
-Data de início: 
-01/02/2023 
-Data final: 
-01/12/2023 
-Etapas do processo: 
-Estudo dos equipamentos com defeito e possíveis soluções 
-01/02/2023 
-15/03/2023 
-Elaboração do projeto para reparo dos equipamentos. 
-15/03/2023 
-30/03/2023 
-Elaboração de Estratégias para execução da manutenção requerida. 
-30/03/2023 
-30/04/2023 
-Elaboração do projeto para adequação dos laboratórios. 
-30/04/2023 
-30/05/2023 
-Elaboração e envio de Memorando à UGAF com as necessidades 
-levantadas. 
-30/05/2023 
-30/06/2023 
-Acompanhamento junto à UAGF para esclarecimento de dúvidas e 
-feedback. 
-01/07/2023 
-01/12/2023 
-Desenvolvimento de parcerias na comunidade para obtenção de 
-recursos complementares. 
-01/07/2023 
-01/12/2023 
-Custo (se houver): 
- 
-Fonte(s) dos recursos: 
-  
-Objetivo(s) relacionado(s): 
-Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no 
-desenvolvimento tecnológico e inovação. 
-Aumentar a eficiência, a produtividade e a competitividade da instituição. 
-Meta(s) relacionada(s): 
-Estruturar a Reestruturação de 03 laboratórios com equipamento e mobiliário até 01 dezembro 
-de 2023. 
-Ampliar as inscrições para o Vestibular dos cursos tecnológicos ofertados por esta unidade em 
-10%. 
- 
-AÇÃO/PROJETO 
-C- Preparar espaço para confecção dos protótipos de TCC’s, descarte de 
-equipamentos inutilizáveis, componentes do patrimônio. 
- 
-O que será feito: 
-Projeto para reforma do espaço para confecção dos protótipos de TCC’s. 
-Projeto para descarte de equipamentos inutilizáveis, componentes do patrimônio. 
-Por que será feito: 
-Para construção dos protótipos de TCC1s dos cursos de Automação Industrial e Manufatura 
-Avançada previstos no PPC, visando uma diminuição da evasão. 
-Responsável(is) / CH sem: Prof. Renan-40 HAEs  Prof. Willian-40HAEs Prof. Gervásio-40HAEs 
-Período de execução: 
-Data de início: 
-01/02/2023 
-Data final: 
-01/12/2023 
-Etapas do processo: 
-Estudo do espaço disponível para montar a oficina de construção dos 
-protótipos 
-01/02/2023 
-01/04/2023 
-Elaboração do projeto para reforma e aquisição de ferramentas e 
-mobiliário para estruturação e implantação da oficina. 
-01/04/2023 
-01/05/2023 
-Solicitar e acompanhar visita da GPR para suporte, orientações de 
-validação dos dados levantados. 
-01/06/2023 
-01/12/2023 
-Elaboração de Lista de materiais (equipamentos, mobiliário, 
-instalações) necessários para o objetivo e envio de Memorando à 
-UGAF com as necessidades levantadas.  
-01/04/2023 
-01/05/2023 
-Acompanhamento junto à UAGF para esclarecimento de dúvidas e 
-feedback. 
-01/06/2023 
-01/12/2023 
-Levantamento dos equipamentos e mobiliários inúteis da unidade 
-01/06/2023 
-01/09/2023 
-Processo para descarte do patrimônio.  
-01/10/2023 
-01/12/2023 
-Custo (se houver): 
- 
-Fonte(s) dos recursos: 
- 
-Objetivo(s) relacionado(s): 
-Aumentar a eficiência, a produtividade e a competitividade da instituição. 
-Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no 
-desenvolvimento tecnológico e inovação 
-Meta(s) relacionada(s): 
-Promover ações administrativas e pedagógicas que proporcionem a redução da taxa de 
-evasão em 5% com relação ao indicador de desempenho de 2022, no ano de 2023 
-Promover ações para aumentar a empregabilidade dos alunos formados em Automação 
-Industrial, em 5% em 2023. 
-04 – Atividades Formativas em Projetos (nível tático) 
- 
-AÇÃO/PROJETO 
-A - Adequar a infraestrutura da internet e mobiliários para os laboratórios de TI 
-O que será feito: 
-Elaborar projeto de melhoria de leiaute e reorganização de mobiliário, equipamentos de rede, 
-ferramentas e dispositivos, com adequação de iluminação e climatização. 
-Por que será feito: 
-Para atendimento às disciplinas com conteúdo prático (desenvolvimento e simulação), previstas 
-nos PPCs dos 3 cursos, visando reduzir evasão e atrair novos candidatos aos cursos. 
- 
-Responsável(is) / CH sem: Prof. Reanan 40 HAEs, Prof Willian 40 HAEs, Auxiliar de instrução Vagner 40h e Técnico de TI 
-Silvio 40h 
-Período de execução: 
-Data de início: 
-01/03/2023 
-Data final: 
-01/12/2023 
-Etapas do processo: 
-Levantamento da demanda do uso de laboratórios de informática, 
-por curso e por componente curricular mobiliário necessário. 
-01/03/2023 
-01/05/2023 
-Levantamento dos equipamentos de TI e mobiliário atuais e o status 
-de cada componente. 
-01/03/2023 
-01/05/2023 
-Levantamento do link de internet que atende as necessidades 
-01/03/2023 
-01/05/2023 
-Solicitar e acompanhar visita da GPR para suporte, orientações de 
-validação dos dados levantados. 
-01/05/2023 
-01/07/2023 
-Elaboração Projeto e Lista de materiais (equipamentos, mobiliário, 
-instalações) necessários para o objetivo e envio de Memorando à 
-UGAF com as necessidades levantadas.  
-01/07/2023 
-01/10/2023 
-Acompanhamento junto à UAGF para esclarecimento de dúvidas e 
-feedback 
-01/10/2023 
-01/12/2023 
- 
- 
- 
-Custo (se houver): 
- 
-Fonte(s) dos recursos: 
- 
-Objetivo(s) relacionado(s): 
-Obter a satisfação dos públicos que se relacionam com o Centro Paula Souza 
-(stakeholders). 
-Assegurar a perenidade do crescimento da instituição com recursos financeiros 
-disponíveis 
-Formar profissionais atualizados em tecnologias e processos produtivos, capazes de 
-atuar no desenvolvimento tecnológico e inovação 
-Meta(s) relacionada(s): 
-Adequar a infraestrutura da internet e mobiliários para os laboratórios de TI, iniciando 
-implantação até 1 de dezembro de 2023. 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-AÇÃO/PROJETO 
-B –Estudar formas de alocar recursos para manutenção dos equipamentos de 
-laboratórios específicos (robôs, sistemas de controle, kit didático de 
-instrumentação, impressoras 3D). Idem para atualização dos laboratórios da 
-FATEC. 
-O que será feito: 
-Elaborar projeto para manutenção e atualização dos laboratórios da FATEC-SBC e viabilizá-lo 
-Por que será feito: 
-Para atendimentos das disciplinas práticas dos cursos de Automação Industrial e Manufatura 
-Avançada e seus conteúdos práticos previstos no PPC. 
-Responsável(is) / CH sem: Prof. Jorge Sarapka - 20 h e professor Marcelo Griese - 20 h  
-Período de execução: 
-Data de início: 
-01/02/2023 
-Data final: 
-01/12/2023 
-Etapas do processo: 
-Estudo dos equipamentos com defeito e possíveis soluções 
-01/02/2023 
-15/03/2023 
-Elaboração do projeto para reparo dos equipamentos. 
-15/03/2023 
-30/03/2023 
-Elaboração de Estratégias para execução da manutenção requerida. 
-30/03/2023 
-30/04/2023 
-Elaboração do projeto para adequação dos laboratórios. 
-30/04/2023 
-30/05/2023 
-Elaboração e envio de Memorando à UGAF com as necessidades 
-levantadas. 
-30/05/2023 
-30/06/2023 
-Acompanhamento junto à UAGF para esclarecimento de dúvidas e 
-feedback. 
-01/07/2023 
-01/12/2023 
-Desenvolvimento de parcerias na comunidade para obtenção de 
-recursos complementares. 
-01/07/2023 
-01/12/2023 
-Custo (se houver): 
- 
-Fonte(s) dos recursos: 
-  
-Objetivo(s) relacionado(s): 
-Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no 
-desenvolvimento tecnológico e inovação. 
-Aumentar a eficiência, a produtividade e a competitividade da instituição. 
-Meta(s) relacionada(s): 
-Estruturar a Reestruturação de 03 laboratórios com equipamento e mobiliário até 01 dezembro 
-de 2023. 
-Ampliar as inscrições para o Vestibular dos cursos tecnológicos ofertados por esta unidade em 
-10%. 
- 
- 
-AÇÃO/PROJETO 
-C- Preparar espaço para confecção dos protótipos de TCC’s, descarte de 
-equipamentos inutilizáveis, componentes do patrimônio. 
- 
-O que será feito: 
-Projeto para reforma do espaço para confecção dos protótipos de TCC’s. 
-Projeto para descarte de equipamentos inutilizáveis, componentes do patrimônio. 
-Por que será feito: 
-Para construção dos protótipos de TCC1s dos cursos de Automação Industrial e Manufatura 
-Avançada previstos no PPC, visando uma diminuição da evasão. 
-Responsável(is) / CH sem: Prof. Renan-40 HAEs  Prof. Willian-40HAEs Prof. Gervásio-40HAEs 
-Período de execução: 
-Data de início: 
-01/02/2023 
-Data final: 
-01/12/2023 
-Etapas do processo: 
-Estudo do espaço disponível para montar a oficina de construção dos 
-protótipos 
-01/02/2023 
-01/04/2023 
-Elaboração do projeto para reforma e aquisição de ferramentas e 
-mobiliário para estruturação e implantação da oficina. 
-01/04/2023 
-01/05/2023 
-Solicitar e acompanhar visita da GPR para suporte, orientações de 
-validação dos dados levantados. 
-01/06/2023 
-01/12/2023 
-Elaboração de Lista de materiais (equipamentos, mobiliário, 
-instalações) necessários para o objetivo e envio de Memorando à 
-UGAF com as necessidades levantadas.  
-01/04/2023 
-01/05/2023 
-Acompanhamento junto à UAGF para esclarecimento de dúvidas e 
-feedback. 
-01/06/2023 
-01/12/2023 
-Levantamento dos equipamentos e mobiliários inúteis da unidade 
-01/06/2023 
-01/09/2023 
-Processo para descarte do patrimônio.  
-01/10/2023 
-01/12/2023 
-Custo (se houver): 
- 
-Fonte(s) dos recursos: 
- 
-Objetivo(s) relacionado(s): 
-Aumentar a eficiência, a produtividade e a competitividade da instituição. 
-Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no 
-desenvolvimento tecnológico e inovação 
-Meta(s) relacionada(s): 
-Promover ações administrativas e pedagógicas que proporcionem a redução da taxa de 
-evasão em 5% com relação ao indicador de desempenho de 2022, no ano de 2023 
-Promover ações para aumentar a empregabilidade dos alunos formados em Automação 
-Industrial, em 5% em 2023. 
-05 – Infraestrutura (instalações prediais) 
- 
-AÇÃO/PROJETO 
-A – Reforma predial para implantação de espaço necessário aos trabalhos de 
-iniciação científica, inovação e TCCs (complementar) 
- 
-O que será feito: 
-Projeto para reforma visando a criação do espaço para iniciação científica, inovação e TCC’s. 
-Por que será feito: 
-Para possibilitar o desenvolvimento de trabalhos de iniciação científica, inovação e TCC’s  (espaço 
-complementar) dos alunos da fatec, previstos nos PPC’s dos cursos. 
-Responsável(is) / CH 
-sem: 
-Prof. Gervásio das Neves- 40 HAEs , Prof. William – 40 HAEs 
-Período de execução: 
-Data de início: 
-01/02/2023 
-Data final: 
-01/12/2023 
-Etapas do processo: 
-Estudo do espaço disponível para montar a oficina de construção 
-dos protótipos 
-01/02/2023 
-01/04/2023 
-Estudo das necessidades da reforma predial   
-01/04/2023 
-01/05/2023 
-Levantamento do mobiliário e das ferramentas necessárias 
-01/06/2023 
-01/12/2023 
-Elaboração do projeto de reforma 
-01/04/2023 
-01/05/2023 
-Solicitar e acompanhar visita da GPR para suporte, orientações de 
-validação dos dados levantados. 
-01/06/2023 
-01/09/2023 
-Elaboração de Lista de materiais (equipamentos, mobiliário, 
-instalações) necessários para o objetivo e envio de Memorando à 
-UGAF com as necessidades levantadas.  
-01/10/2023 
-01/12/2023 
- 
- 
- 
-Custo (se houver): 
- 
-Fonte(s) dos recursos: 
- 
-Objetivo(s) 
-relacionado(s): 
-Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem. 
-Integrar as diferentes modalidades de ensino, otimizando itinerários e tempo para a formação 
-profissional 
-Inovar processos de ensino e aprendizagem para manter excelência diante do mercado. 
-Meta(s) relacionada(s): 
-Ampliar o espaço da FATEC montando uma oficina, para desenvolver atividades de iniciação 
-científica, inovação e TCC’s  ate 01 de dezembro de 2023. 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-AÇÃO/PROJETO 
-B- Sanar os problemas de manutenção elétrica no campus da unidade. 
-(Redimensionamento de circuitos elétricos, reparo no disjuntor de entrada da 
-cabine primária de energia elétrica.) 
-O que será feito: 
-Estudo de impacto da falta do disjuntor na cabine primária do campus FATEC e ETEC e estudos 
-dos circuitos elétricos da FATEC. 
-Por que será feito: 
-Para evitar possíveis falta de energia elétrica na FATEC de vido a falta do disjuntor da cabine 
-primária de alimentação e possível sobrecarga nos circuitos da FATEC, que provocam a 
-suspenção das aulas. 
-Responsável(is) / CH sem: Prof. Marcos Vagner Zamboni - 40HAEs  e auxiliar docente Antônio de Oliveira - 40H 
-Período de execução: 
-Data de início: 
-01/03/2023 
-Data final: 
-01/12/2023 
-Etapas do processo: 
-Estudo do impacto da falta do disjuntor na cabine primária do 
-campus FATEC e ETEC. 
-01/03/2023 
-20/04/2023 
-Análise dos circuitos elétricos na FATEC 
-21/04/2023 
-05/06/2023 
-Adequação dos circuitos pela equipe da FATEC 
-05/06/2023 
-15/09/2023 
-Elaboração do projeto de adequação dos circuitos elétricos da FATEC 
-e parecer da falta do disjuntor da cabine primária. 
-16/09/2023 
-5/11/2023 
-Solicitar e acompanhar visita da GPR para suporte, orientações de 
-validação dos dados levantados. 
-06/11/2023 
-08/11/2023 
-Elaboração de Lista de materiais (equipamentos, mobiliário, 
-instalações) necessários para o objetivo e envio de Memorando à 
-UGAF com as necessidades levantadas.  
-09/11/2023 
-01/12/2023 
- 
- 
- 
-Custo (se houver): 
- 
-Fonte(s) dos recursos: 
- 
-Objetivo(s) relacionado(s): 
-Obter a satisfação dos públicos que se relacionam com o Centro Paula Souza 
-(stakeholders); 
-Assegurar a perenidade do crescimento da instituição com recursos financeiros 
-disponíveis; 
-Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem. 
-Meta(s) relacionada(s): 
-Promover ações administrativas e pedagógicas que proporcionem a redução da taxa de 
-evasão em 5% com relação ao indicador de desempenho de 2022, no ano de 2023. 
- 
- 
-AÇÃO/PROJETO 
-C- Sanar os problemas devidos à falta de manutenção predial. (Manutenção nas 
-dependências da FATEC.) 
-O que será feito: 
-Projeto para garantir o bom funcionamento da FATEC 
-Por que será feito: 
-Evitar suspensão das aulas por problemas causados pela falta de manutenção 
-Responsável(is) / CH sem: Prof .Rômulo Oliveira Albuquerque- 40 HAEs , e Marlon Hideki - 40h 
-Período de execução: 
-Data de início: 
-01/03/2023 
-Data final: 
-01/12/2023 
-Etapas do processo: 
-Levantamento de todas as necessidades de manutenção nas 
-dependências da FATEC 
-01/03/2023 
-15/04/2023 
-Fazer um cronograma das ações que podem ser realizadas pela 
-própria FATEC. 
-16/04/2023 
-30/04/2023 
-Execução das ações pela própria unidade 
-30/04/2023 
-30/06/2023 
-Elaboração do projeto de manutenção predial 
-30/06/2023 
-30/09/2023 
-Solicitar e acompanhar visita da GPR para suporte, orientações de 
-validação dos dados levantados. 
-30/09/2023 
-15/11/2023 
-Elaboração de Lista de materiais (equipamentos, mobiliário, 
-instalações) necessários para o objetivo e envio de Memorando à 
-UGAF com as necessidades levantadas.  
-16/11/2023 
-01/12/2023 
- 
- 
- 
-Custo (se houver): 
- 
-Fonte(s) dos recursos: 
- 
-Objetivo(s) relacionado(s): 
-Obter a satisfação dos públicos que se relacionam com o Centro Paula Souza 
-(stakeholders); 
-Assegurar a perenidade do crescimento da instituição com recursos financeiros 
-disponíveis; 
-Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem. 
-Meta(s) relacionada(s): 
-Promover ações administrativas e pedagógicas que proporcionem a redução da taxa de 
-evasão em 5% com relação ao indicador de desempenho de 2022, no ano de 2023. 
-06 - Desenvolvimento de pessoas (docentes e servidores) 
- 
-AÇÃO/PROJETO 
-A –Estabelecer estratégia, através de reuniões, para desenvolvimento dos docentes e servidores 
-O que será feito: 
-Reuniões gerais, por grupos e individuais para troca de informações e orientações dos docentes e 
-servidores 
-Por que será feito: 
-Para o funcionamento adequado da unidade. 
-Responsável(is) / CH sem: Ana Paula 20h , Eliaci 20h, Jorge Sarapka 20h, Dougas Duarte20h e Marcelo Griese20h 
-Período de execução: 
-Data de início: 
-01/02/2023 
-Data final: 
-01/12/2023 
-Etapas do processo: 
-Análise dos pontos fortes e pontos fracos da unidade 
-01/02/2023 
-01/03/2023 
-Levantar os temas relevantes para as reuniões 
-01/03/2023 
-01/04/2023 
-Elaborar um cronograma de reuniões 
-01/04/2023 
-10/04/2023 
-Fazer as reuniões 
-10/04/2023 
-10/10/2023 
-Avaliação dos resultados das reuniões 
-10/10/2023 
-10/11/2023 
-Apresentar a congregação os resultados das reuniões e sugestões. 
-10/11/2023 
-01/12/2023 
- 
- 
- 
-Custo (se houver): 
- 
-Fonte(s) dos recursos: 
- 
-Objetivo(s) relacionado(s): 
+
 Obter a satisfação dos públicos que se relacionam com o Centro Paula Souza (stakeholders); 
+
 Assegurar a perenidade do crescimento da instituição com recursos financeiros disponíveis; 
+
 Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem. 
+
 Meta(s) relacionada(s): 
-Promover ações administrativas e pedagógicas que proporcionem a redução da taxa de evasão 
-em 5% com relação ao indicador de desempenho de 2022, no ano de 2023. 
+
+Promover ações administrativas e pedagógicas que proporcionem a redução da taxa de evasão em 5% com relação ao indicador de desempenho de 2022, no ano de 2023. 
+
+A –Estabelecer estratégia, através de reuniões, para desenvolvimento dos docentes e servidores. 
+
+O que será feito: Reuniões gerais, por grupos e individuais para troca de informações e orientações dos docentes e 
+servidores. Por que será feito: Para o funcionamento adequado da unidade. 
  
-AÇÃO/PROJETO 
+Objetivo(s) relacionado(s): 
+
+Obter a satisfação dos públicos que se relacionam com o Centro Paula Souza (stakeholders); 
+
+Assegurar a perenidade do crescimento da instituição com recursos financeiros disponíveis; 
+
+Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem. 
+
+Meta(s) relacionada(s): 
+
+Promover ações administrativas e pedagógicas que proporcionem a redução da taxa de evasão em 5% com relação ao indicador de desempenho de 2022, no ano de 2023. 
+ 
+
 B – Incentivar a leitura  e estabelecer programas de desenvolvimento pessoal 
-O que será feito: 
-Sugestão de livros e promoção de encontros para o desenvolvimento pessoal 
-Por que será feito: 
-Para o aprimoramento das relações pessoais na FATEC 
-Responsável(is) / CH sem: Ana Paula 20h , Eliaci 20h, Jorge Sarapka 20h, Dougas Duarte 20h e Marcelo Griese20h 
-Período de execução: 
-Data de início: 
-01/02/2023 
-Data final: 
-01/12/2023 
-Etapas do processo: 
-Análise dos pontos fortes e pontos fracos da unidade 
-01/02/2023 
-01/03/2023 
-Levantar os temas relevantes para as reuniões 
-01/03/2023 
-01/04/2023 
-Elaborar um cronograma de reuniões 
-01/04/2023 
-10/04/2023 
-Fazer as reuniões 
-10/04/2023 
-10/10/2023 
-Avaliação dos resultados das reuniões 
-10/10/2023 
-10/11/2023 
-Apresentar a congregação os resultados das reuniões e sugestões. 
-10/11/2023 
-01/12/2023 
-Análise dos pontos fortes e pontos fracos da unidade 
-01/02/2023 
-01/03/2023 
-Custo (se houver): 
- 
-Fonte(s) dos recursos: 
+
+O que será feito: Sugestão de livros e promoção de encontros para o desenvolvimento pessoal. Por que será feito: Para o aprimoramento das relações pessoais na FATEC 
  
 Objetivo(s) relacionado(s): 
+
 Obter a satisfação dos públicos que se relacionam com o Centro Paula Souza (stakeholders); 
+
 Assegurar a perenidade do crescimento da instituição com recursos financeiros disponíveis; 
+
 Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem. 
+
 Meta(s) relacionada(s): 
-Promover ações administrativas e pedagógicas que proporcionem a redução da taxa de evasão 
-em 5% com relação ao indicador de desempenho de 2022, no ano de 2023. 
+
+Promover ações administrativas e pedagógicas que proporcionem a redução da taxa de evasão em 5% com relação ao indicador de desempenho de 2022, no ano de 2023. 
  
  
- 
- 
- 
- 
- 
- 
- 
- 
-AÇÃO/PROJETO 
 C – Estruturar programas de treinamento e cursos de aperfeiçoamento 
-O que será feito: 
-Incentivar e oferecer aos professores e funcionários treinamentos e cursos de aperfeiçoamentos. 
-Por que será feito: 
-Para otimizar a prestação de serviços da FATEC 
-Responsável(is) / CH sem: Ana Paula 20h , Eliaci 20h, Jorge Sarapka 20h, Dougas Duarte 20h e Marcelo Griese 20h 
-Período de execução: 
-Data de início: 
-01/02/2023 
-Data final: 
-01/12/2023 
-Etapas do processo: 
-Análise dos pontos fortes e pontos fracos da unidade 
-01/02/2023 
-01/03/2023 
-Levantar os temas relevantes para os treinamentos e cursos de 
-aperfeiçoamento 
-01/03/2023 
-01/04/2023 
-Elaborar um cronograma das ações  
-01/04/2023 
-10/04/2023 
-Realizar os treinamentos e cursos de aperfeiçoamento 
-10/04/2023 
-10/10/2023 
-Avaliação dos resultados das ações 
-10/10/2023 
-10/11/2023 
-Apresentar a congregação os resultados das ações e sugestões. 
-10/11/2023 
-01/12/2023 
- 
- 
- 
-Custo (se houver): 
- 
-Fonte(s) dos recursos: 
+
+O que será feito: Incentivar e oferecer aos professores e funcionários treinamentos e cursos de aperfeiçoamentos. Por que será feito: Para otimizar a prestação de serviços da FATEC.
  
 Objetivo(s) relacionado(s): 
+
 Obter a satisfação dos públicos que se relacionam com o Centro Paula Souza (stakeholders); 
+
 Assegurar a perenidade do crescimento da instituição com recursos financeiros disponíveis; 
+
 Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem. 
+
 Meta(s) relacionada(s): 
-Promover ações administrativas e pedagógicas que proporcionem a redução da taxa de evasão 
-em 5% com relação ao indicador de desempenho de 2022, no ano de 2023. 
- 
- 
- 
- 
-07 – Convênios e Parcerias Institucionais 
- 
-AÇÃO/PROJETO 
-A – Estabelecer a parceria da FATEC com a empresa Altus Sistemas de 
-Automação S.A. 
+
+Promover ações administrativas e pedagógicas que proporcionem a redução da taxa de evasão em 5% com relação ao indicador de desempenho de 2022, no ano de 2023. 
+
+A – Estabelecer a parceria da FATEC com a empresa Altus Sistemas de Automação S.A. 
   
-O que será feito: 
-Dar continuidade no processo de parceria já iniciado e fechar acordo. 
-Por que será feito: 
-Para ampliar parcerias com empresas e órgãos públicos, visando melhorar empregabilidade dos 
-egressos  
-Responsável(is) / CH sem: Prof. Jorge Luis Sarapka - 20h e Marcelo Griese - 20h 
-Período de execução: 
-Data de início: 
-01/02/2023 
-Data final: 
-20/12/2023 
-Etapas do processo: 
-Elaborar documento de parceria em conjunto com a Altus. 
-01/02/2023 
-30/04/2023 
-Revisar itens do contrato de parceria 
-01/05/2023 
-30/05/2023 
-Entrar com processo de parceria junto ao Centro Paula Sousa 
-01/06/2023 
-30/06/2023 
-Fazer o follow up do processo, junto ao CPS. 
-01/07/2023 
-20/12/2023 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Custo (se houver): 
- 
-Fonte(s) dos recursos: 
- 
+O que será feito: Dar continuidade no processo de parceria já iniciado e fechar acordo. Por que será feito: Para ampliar parcerias com empresas e órgãos públicos, visando melhorar empregabilidade dos egressos.
+
 Objetivo(s) relacionado(s): 
+
 Ampliar a capacidade de criar e atualizar cursos em parceria com o mercado. 
+
 Expandir e ampliar a capacidade de articulação com Governos e Setores Produtivos.  
+
 Promover a captação de recursos extras e não orçamentários. 
+
 Meta(s) relacionada(s): 
+
 Acordar pelo menos 3 parcerias em 2023. 
+
 Aumentar a empregabilidade dos alunos formados em Automação Industrial em 5% em 2023. 
  
-AÇÃO/PROJETO 
-B - Estabelecer a parceria da FATEC com a empresa METRA – Sistema 
-Metropolitano de Transportes LTDA. 
+B - Estabelecer a parceria da FATEC com a empresa METRA – Sistema Metropolitano de Transportes LTDA. 
  
-O que será feito: 
-Dar continuidade no processo de parceria já iniciado e fechar acordo.Por que será feito: Para ampliar parcerias com empresas/órgãos públicos, visando melhorar empregabilidade dos egressos, 
-
-
+O que será feito: Dar continuidade no processo de parceria já iniciado e fechar acordo.Por que será feito: Para ampliar parcerias com empresas/órgãos públicos, visando melhorar empregabilidade dos egressos, 
  
 Objetivo(s) relacionado(s): 
 
