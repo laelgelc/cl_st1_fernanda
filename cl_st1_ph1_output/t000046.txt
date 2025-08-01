@@ -1,2034 +1,526 @@
+Section: 1 ANÁLISE DO CENÁRIO
+
 PLANO DE GESTÃO ANUAL – PGA 
-v07 
-Estruturado em 3 etapas: 
-ETAPA I – PLANEJAMENTO PELA EQUIPE GESTORA DA UE 
-ETAPA II – APROVAÇÃO E HOMOLOGAÇÃO 
-ETAPA III – ACOMPANHAMENTO DAS AÇÕES GERENCIAIS 
- 
-IDENTIFICAÇÃO DA UNIDADE 
-Unidade 
-168 
-Fatec São Caetano do Sul – Antonio Russo 
-Diretor(a) 
-Profa. Dra. Adriane Monteiro Fontana 
- 
-ETAPA I – PLANEJAMENTO PELA EQUIPE GESTORA DA UE 
-ANÁLISE DO CENÁRIO (Breve diagnóstico/Baseline) 
- 
- 
-Considerando o cenário de pós-Covid, incluindo readequação do ensino presencial, saúde mental dos discentes, docentes e 
-equipe técnico administrativa, mudança nas relações de trabalho e estágio (home-office), desenvolvimento e mudanças na área 
-de tecnologia da informação, gestão e negócios; sendo a cidade de São Caetano do Sul um polo de inovação tecnológica, 
-“ouvimos” nossa comunidade acadêmica no formato de reuniões, formulários, professores que desenvolvem projetos de apoio à 
-direção, além das informações coletadas pelo WebSai e consolidadas pela CPA, para elaboração deste Planejamento de 
-Gestão Anual.  
- 
- 
+
+Considerando o cenário de pós-Covid, incluindo readequação do ensino presencial, saúde mental dos discentes, docentes e equipe técnico administrativa, mudança nas relações de trabalho e estágio (home-office), desenvolvimento e mudanças na rede tecnologia da informação, gestão e negócios; sendo a cidade de São Caetano do Sul um polo de inovação tecnológica, ouvimos” nossa comunidade acadêmica no formato de reuniões, formulários, professores que desenvolvem projetos de apoio à direção, além das informações coletadas pelo WebSai e consolidadas pela CPA, para elaboração deste Planejamento de Gestão Anual.  
  
 APONTAMENTO DE SITUAÇÕES-PROBLEMA MAIS RELEVANTES (“Escuta”) 
-Fontes: relatório CPA, análise de processos críticos da UE, reuniões com a comunidade acadêmica, 
-formulário de apontamento de situações-problemas respondido por docentes e técnicos-administrativos. 
-1 
-Pedagógico: Projeto Pedagógico de Curso com 
-necessidades de reestruturação 
+
+Pedagógico: Projeto Pedagógico de Curso com necessidades de reestruturação 
  
-5 
-Gestão de pessoas: conflitos de relacionamento entre 
-docentes, discentes, servidores, clima organizacional, 
-etc. 
-2 
-Recursos tecnológicos: falta ou defasagem de 
-computadores, roteadores, velocidade da internet,etc 
+Gestão de pessoas: conflitos de relacionamento entre docentes, discentes, servidores, clima organizacional, etc. 
+
+Recursos tecnológicos: falta ou defasagem de computadores, roteadores, velocidade da internet,etc 
  
-6 
 Parcerias: prospecção e gestão de parcerias. 
-3 
-Infraestrutura: reformas – salas de aulas, laboratórios, 
-instalações elétricas, etc 
  
-7 
+Infraestrutura: reformas – salas de aulas, laboratórios, instalações elétricas, etc 
+ 
 Pedagógico: evasão e trancamento de alunos. 
-4 
-Imagem institucional: divulgação dos cursos e da 
-unidade de ensino. 
+
+Imagem institucional: divulgação dos cursos e da unidade de ensino. 
  
-8 
 Pedagógico: falta de aquisição de bibliografias 
  
 DEFINIÇÃO DE OBJETIVOS, METAS E AÇÕES (PROJETOS) 
+
 Objetivos 
-1 
-Atender às demandas sociais e do mercado de trabalho. 
-2 
-Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem. 
-3 
-Garantir celeridade e efetividade na prestação de serviços. 
-4 
-Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no desenvolvimento 
-tecnológico e inovação. 
-5 
+
+1 Atender às demandas sociais e do mercado de trabalho. 
+
+2 Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem. 
+
+3 Garantir celeridade e efetividade na prestação de serviços. 
+
+4 Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no desenvolvimento tecnológico e inovação. 
+
 Aumentar a eficiência, a produtividade e a competitividade da instituição  
-• 
-Os objetivos devem estar relacionados com melhoria ou ação, sobre itens do PDI. 
+
 Metas 
-1 
-Ampliar as inscrições para o vestibular em 5% no ano 
-de 2023. 
- 
-5 
-Firmar pelo menos 2 parcerias para realização de 
-ações na unidade. 
-2 
-Promover ações pedagógicas e administrativas que 
-proporcionem a redução da taxa de evasão em 5% 
- 
-6 
-Reestruturar e otimizar a rede de comunicação de 
-dados da unidade. 
-3 
-Ampliar a empregabilidade dos egressos em 5% 
- 
-7 
-Adequar mobiliário, instalação elétrica e equipamentos 
-tecnológicos. 
-4 
-Reduzir em 10% os índices de retenções em 
-disciplinas específicas (Matemática e Estágio) 
- 
-8 
-Licitar espaços, instalação e manutenção de 
-equipamentos de segurança e conservação da 
-unidade 
- 
-ESTRUTURAÇÃO DAS AÇÕES/PROJETOS 
-01 - Didático-pedagógico 
-AÇÃO/PROJETO 
-A - The English HUB - Ação coordenada da Fatec São Caetano do Sul para área de inglês 
-O que será feito: 
-01- Inglês para a comunidade 
-02- Legendagem 
-03- Conversação para grupos avançados 
-04- Laboratório de línguas para alunos regulares da FATEC. 
-05- Preparatório para testes de proficiência 
-Por que será feito: 
-01- Diminuir a evasão discente 
-02- Manutenção dos alunos regulares nos cursos 
-03- Engajamento da comunidade dentro da Fatec (o inglês como ferramenta para auxiliar a 
-comunidade na busca por melhores vagas de emprego, no mercado de trabalho, e 
-participação ativa da comunidade em assuntos de relevância intelectual, cultural, etc.) 
-04- Investimento na melhora do uso de língua estrangeira pelo aluno, que está em busca de bons 
-empregos, em um mercado, que exige a língua estrangeira no processo de seleção e 
-contratação do futuro profissional da área de TI. 
-Responsável(is) / CH sem: 
-Miguel Saad 
-Margareth Miyamoto 
-Maria Fernanda Meira 
-Marcos Oliveira 
-Período de execução: 
-Data de início: 
-15/03/2023 
-Data final: 
-21/12/2023 
-Etapas do processo: 
-A - Verificação dos equipamentos necessários para implementação do 
-projeto 
-B- Pesquisa sobre softwares específicos de ensino de idiomas ( 
-interface aluno-professor e valores) 
-15/03/2023 
-30/04/2023 
-Pesquisa de livros didáticos, paradidáticos e materiais pedagógicos 
-para utilização no projeto 
-02/05/2023 
-31/05/2023 
-Montagem do Laboratório de línguas (uso da sala maker e os recursos 
-que a sala já possui: caixa de som, Lousa comum e interativa, 
-computadores, mesas e cadeiras, armário para livros didáticos, fones 
-de ouvido, aparelho de DVD) 
-01/06/2023 
-30/06/2023 
-Chamada para a comunidade – curso de inglês – lançamento on-line 
-01/08/2023 
-31/08/2023 
-Curso de legendagem 
-01/09/2023 
-31/09/2023 
-Gincana para alunos – (evitar evasão) 
-Elaboração do cronograma das  atividades para 2024 
-01/10/2023 
-21/12/2023 
-Custo (se houver): 
- 
-Fonte(s) dos recursos:  
-Objetivo(s) relacionado(s): Atender às demandas sociais e do mercado de trabalho. 
-Meta(s) relacionada(s): 
-Ampliar as inscrições para o vestibular em 5% no ano de 2023. 
-Promover ações pedagógicas e administrativas que proporcionem a redução da taxa de evasão 
-em 5% 
- 
- 
- 
-AÇÃO/PROJETO 
-B - Ação coordenada da Fatec São Caetano do Sul para (1) atendimento da comunidade; (2) 
-Aprendizado na prática; e (3) divulgação da Unidade através do Projeto - Imposto de Renda e 
-Finanças Pessoais 
-O que será feito: 
-1) 
-Atendimento de Dúvidas - Imposto de Renda Atendimento para Comunidade Interna e 
-Externa  
-2) 
-Disponibilizar/Ministrar Palestra – Imposto de Renda 
-3) 
-Disponibilizar/Ministrar Palestra Finanças Pessoais e Economia Doméstica 
- 
-Por que será feito: 
-Para apoiar a comunidade interna e externa relacionadas a dúvidas sobre imposto IR, atenção as 
-suas finanças pessoais e divulgar Software Livre. 
-Responsável(is) / CH sem: Sonia Cristina Menoce 
-Período de execução: 
-Data de início: 
-01/02/2023 
-Data final: 
-01/07/2023 
-Etapas do processo: 
-1) Planejamento e desenvolvimento dos Materiais, legislação, sistema 
-IR. 
-01/02/2023 
-13/03/2023 
-2) Palestra IR – Comunidade Interna e Externa. 
-         
-14/03/2023 
-14/03/2023 
-3) Treinamento de alunos para apoiar atendimento ao público 
-15/03/2023 
-31/03/2023 
-Atendimento à comunidade dúvidas - IR 
-01/04/2023 
-01/04/2023 
-Atendimento à comunidade dúvidas - IR 
-15/04/2023 
-15/04/2023 
-Participar da organização do Evento Software na Fatecnologia e 
-preparar materiais para palestra. 
-01/04/2023 
-11/05/2023 
-Palestra sobre Finanças Pessoais e Economia Doméstica para a 
-Comunidade e preparação de materiais. Finalização dos relatórios. 
-09/05/2023 
-08/06/2023 
-Custo (se houver): 
- 
-Fonte(s) dos recursos:  
-Objetivo(s) relacionado(s): Atender às demandas sociais e do mercado de trabalho. 
-Meta(s) relacionada(s): 
-Ampliar as inscrições para o vestibular em 5% no ano de 2023. 
-Promover ações pedagógicas e administrativas que proporcionem a redução da taxa de evasão 
-em 5% 
-Ampliar a empregabilidade dos egressos em 5% 
- 
-AÇÃO/PROJETO 
-C - Nivelamento de Matemática 
-O que será feito: 
-Resgatar, aprofundar e solidificar os conhecimentos em matemática básica. 
-Por que será feito: 
-Melhorar o aproveitamento dos estudantes nas disciplinas de graduação. 
-Responsável(is) / CH sem: Lilian Kátia de Oliveira 
-Período de execução: 
-Data de início: 
-27/02/2023 
-Data final: 
-01/07/2023 
-Etapas do processo: 
-Potenciação 
-27/02/2023 
-05/03/2023 
-Radiciação 
-06/03/2023 
-12/03/2023 
-Produtos Notáveis 
-13/03/2023 
-19/03/2023 
-Fatoração Algébrica 
-20/03/2023 
-26/03/2023 
-Equação do 1º grau 
-27/03/2023 
-02/04/2023 
-Inequação do 1º grau 
-03/04/2023 
-09/04/2023 
-Equação do 2º grau 
-10/04/2023 
-16/04/2023 
-Inequação do 2º grau 
-17/04/2023 
-23/04/2023 
-Funções Polinomiais 
-24/04/2023 
-30/04/2023 
-Função Exponencial 
-01/05/2023 
-07/05/2023 
-Função Logarítmica 
-08/05/2023 
-14/05/2023 
-Plantão de dúvidas 
-15/05/2023 
-21/05/2023 
-Plantão de dúvidas 
-22/05/2023 
-28/05/2023 
-Plantão de dúvidas 
-29/05/2023 
-04/06/2023 
-Plantão de dúvidas 
-05/06/2023 
-11/06/2023 
-Plantão de dúvidas 
-12/06/2023 
-18/06/2023 
-Plantão de dúvidas 
-19/06/2023 
-25/06/2023 
-Plantão de dúvidas 
-26/06/2023 
-01/07/2023 
-Custo (se houver): 
- 
-Fonte(s) dos recursos:  
-Objetivo(s) 
-relacionado(s): 
-Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem. 
-Meta(s) relacionada(s): 
-Reduzir em 10% os índices de retenções em disciplinas específicas (Matemática e Estágio) 
- 
- 
- 
-AÇÃO/PROJETO 
-D - Desenvolvimento de um evento de Segurança da Informação conhecido por CTF (Capture in 
-the Flag). 
-O que será feito: 
-Localização de parceiros que desenvolvem atividades afins para dar suporte técnico ao evento. 
-Por que será feito: 
-Este evento é tradicional nas instituições que possuem o curso de Segurança da Informação. 
-Responsável(is) / CH sem: 
-Mario Eugenio Longato 
-Everson Denis 
-Kleber Divino 
-Período de execução: 
-Data de início: 
-31/03/2023 
-Data final: 
-21/12/2023 
-Etapas do processo: 
-Busca por parcerias que hospedam o serviço 
-31/03/2023 
-30/04/2023 
-Divulgação do evento 1º. Semestre 
-01/05/2023 
-20/05/2023 
-Preparação do evento 1º. Semestre 
-01/05/2023 
-31/05/2023 
-Realização do evento 1º. Semestre 
-01/06/2023 
-30/06/2023 
-Divulgação do evento 2º. Semestre 
-01/09/2023 
-24/10/2023 
-Preparação do evento 2º. Semestre 
-01/09/2023 
-24/10/2023 
-Realização do evento 2º. Semestre 
-25/10/2023 
-05/11/2023 
-Custo (se houver): 
- 
-Fonte(s) dos recursos:  
-Objetivo(s) relacionado(s): 
-Atender às demandas sociais e do mercado de trabalho. 
-Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no 
-desenvolvimento tecnológico e inovação. 
-Meta(s) relacionada(s): 
-Promover ações pedagógicas e administrativas que proporcionem a redução da taxa de evasão 
-em 5% 
-Ampliar a empregabilidade dos egressos em 5% 
- 
-AÇÃO/PROJETO (título) 
-E - Proposta de atualização do PPC do Curso de Segurança da Informação 
-O que será feito: 
-Estruturação de proposta para a atualização do Projeto Pedagógico do curso superior em tecnologia 
-de segurança da informação, revendo as disciplinas e os conteúdos, bem como a sequência das 
-mesmas. 
-Por que será feito: 
-A área de TI e especificamente a área de Segurança da Informação tiveram grandes mudanças e 
-avanços nos últimos anos. Temos como BigData, Cloud Computing, IoT e Business Intelligence 
-fazem parte deste mundo, e nem tudo é contemplado no curso de forma explícita. 
-Responsável(is) / CH sem: 
-Mario Eugenio Longato  
-Edna Mataruco Duarte  
-Nilton Stringasci Moreira  
-Marcelo Jose Szewczyk 
-Fabio Cabrini 
-Período de execução: 
-Data de início: 
-31/03/2023 
-Data final: 
-20/11/2023 
-Etapas do processo: 
-Alinhamento da proposta com a CESU e criação das rentes de trabalho 
-conforme eixos tecnológicos. 
-31/03/2023 
-15/04/2023 
-Desenvolvimento dos trabalhos em razão do PPC existente, 
-comparando com as situações da atualidade no quesito tecnológico e 
-legal. 
-17/04/2023 
-13/05/2023 
-Desenvolvimento de ementas e objetivos de cada disciplina, incluindo o 
-NDE do curso. 
-15/05/2023 
-31/08/2023 
-Apresentação dos trabalhos ao colegiado do curso. 
-04/09/2023 
-09/09/2023 
-Validação das sugestões apresentadas pelo colegiado de curso 
-11/09/2023 
-16/09/2023 
-Nova apresentação ao colegiado do curso, após mitigação das 
-sugestões. 
-18/09/2023 
-23/09/2023 
-Apresentação da proposta à Congregação. 
-25/09/2023 
-14/10/2023 
-Trabalhos finais adequando às sugestões apresentadas pela 
-Congregação. 
-16/10/2023 
-11/11/2023 
-Encaminhamento da proposta do PPC de Segurança da Informação 
-para a CESU 
-20/11/2023 
-20/11/2023 
-Custo (se houver): 
- 
-Fonte(s) dos recursos:  
-Objetivo(s) relacionado(s): 
-Aumentar a eficiência, a produtividade e a competitividade da instituição 
-Atender às demandas sociais e do mercado de trabalho. 
-Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no 
-desenvolvimento tecnológico e inovação. 
-Meta(s) relacionada(s): 
-Ampliar as inscrições para o vestibular em 5% no ano de 2023. 
-Promover ações pedagógicas e administrativas que proporcionem a redução da taxa de evasão 
-em 5% 
- 
- 
- 
-AÇÃO/PROJETO (título) 
-F - Elaboração do evento temático anual do Curso Superior em Tecnologia em Segurança da 
-Informação conhecido por FATEC SecurityDay. 
-O que será feito: 
-Preparação de um evento com palestras e demonstrações práticas das ações e ferramentas 
-ligadas à Segurança Cibernética 
-Por que será feito: 
-Nossos estudantes devem ser apresentados ao mercado formal da área de Segurança Cibernética 
-por meio de eventos que trazem profissionais e empresas da área, desenvolvendo um contato 
-próximo a eles. 
-Responsável(is) / CH sem: Mario Eugenio Longato 
-Edna Mataruco Duarte 
-Período de execução: 
-Data de início: 
-07/08/2023 
-Data final: 
-19/10/2023 
-Etapas do processo: 
-Chamamento dos alunos do curso para comporem uma comissão 
-organizadora juntamente com a coordenação de curso. 
-07/08/2023 15/08/2023 
-Elaboração dos temas recorrentes da área 
-21/08/2023 04/09/2023 
-Contato com empresas, profissionais e ex-alunos FATEC para 
-apresentarem os temas 
-04/09/2023 30/09/2023 
-Preparação da agenda e divulgação aos alunos, professores e 
-comunidade 
-02/10/2023 18/10/2023 
-Realizar o evento 
-19/10/2023 19/10/2023 
-Custo (se houver): 
- 
-Fonte(s) dos recursos:  
-Objetivo(s) relacionado(s): Atender às demandas sociais e do mercado de trabalho. 
-Meta(s) relacionada(s): 
-Ampliar as inscrições para o vestibular em 5% no ano de 2023. 
-Promover ações pedagógicas e administrativas que proporcionem a redução da taxa de evasão 
-em 5% 
- 
-AÇÃO/PROJETO (título) 
-G - Proposta de atualização do PPC do Curso Superior de Tecnologia em Análise e Desenvolvimento 
-de Sistemas com vistas à reestruturação. 
-O que será feito: 
-Estruturação de proposta atualização do PPC do CST em ADS mediante análise dos conteúdos 
-programáticos dos componentes curriculares do curso, e construção de nova grade curricular 
-segundo as exigências mercadológicas e legislação vigente. 
-Por que será feito: 
-Para atualização do Projeto Pedagógico do Curso em virtude do avanço tecnológico na área da 
-tecnologia da informação e comunicação (TIC) 
-Responsável(is) / CH sem: 
-César Torres Fernandes  
-Rosangela Kronig 
-Adilson Ferreira da Silva  
-Celso Denis Gallão  
-Flavio Viotti  
-Período de execução: 
-Data de início: 
-06/03/2023 
-Data final: 
-15/12/2023 
-Etapas do processo: 
-Designação das frentes de trabalho e respectivos colaboradores, e 
-alinhamento da proposta com a CESU (GPR e GAP) 
-06/03/2023 
-31/03/2023 
-Desenvolvimento das frentes de trabalho e compilação das propostas 
-apresentadas 
-03/04/2023 
-08/05/2023 
-Revisão da proposta do PPC do CST em ADS 
-08/05/2023 
-13/10/2023 
-Apresentação e análise da proposta da versão atualizada do PPC ADS 
-junto ao Colegiado de Curso 
-16/10/2023 
-16/10/2023 
-Consolidação da versão atualizada do PPC do CST em ADS com as 
-sugestões apresentadas pelo Colegiado 
-17/10/2023 
-24/11/2023 
-Apresentação da proposta de versão atualizada do PPC do CST em 
-ADS à Congregação 
-27/11/2023 
-27/11/2023 
-Revisão final da proposta – período de ajustes e sugestões feitas pela 
-Congregação 
-27/11/2023 
-12/12/2023 
-Encaminhamento da proposta de reestruturação do PPC do CST em 
-ADS para a CESU 
-12/12/2023 
-15/12/2023 
-Custo (se houver): 
- 
-Fonte(s) dos recursos:  
-Objetivo(s) relacionado(s): 
-Aumentar a eficiência, a produtividade e a competitividade da instituição 
-Atender às demandas sociais e do mercado de trabalho. 
-Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no 
-desenvolvimento tecnológico e inovação. 
-Meta(s) relacionada(s): 
-Ampliar as inscrições para o vestibular em 5% no ano de 2023. 
-Promover ações pedagógicas e administrativas que proporcionem a redução da taxa de evasão 
-em 5% 
- 
- 
- 
- 
-AÇÃO/PROJETO (título) 
-H - Proposta de aquisição de assinaturas de simulador do Siscomex, com vistas a impulsionar as 
-atividades práticas no curso de Comércio Exterior. 
-O que será feito: 
-Aquisição de assinaturas do Siscomex, treinamento docente e discente para conhecimento da 
-ferramenta, e uso do software em disciplinas profissionalizantes do curso. 
-Por que será feito: 
-Para impulsionamento de atividades práticas no curso de Comércio Exterior, através do uso de 
-simulador do Siscomex em disciplinas profissionalizantes do curso. 
-Responsável(is) / CH sem: 
-Aline Correia de Sousa Colantuono 
-Celso Luiz Rigotto 
-Docentes de outras disciplinas profissionalizantes cujo uso da ferramenta seja pertinente 
-Período de execução: 
-Data de início: 
-31/03/2023 
-Data final: 
-22/12/2023 
-Etapas do processo: 
-Elaboração de proposta de aquisição de assinaturas de simulador do 
-Siscomex 
-01/03/2023 
-31/03/2023 
-Aquisição de assinaturas do Siscomex 
-01/03/2023 
-31/03/2023 
-Acompanhamento do treinamento dos docentes 
-01/04/2023 
-30/04/2023 
-Acompanhamento do treinamento dos discentes 
-01/05/2023 
-30/06/2023 
-Acompanhamento do uso do software em disciplinas profissionalizantes 
-do curso 
-01/07/2023 
-22/12/2023 
-Custo (se houver): 
-20 
-Licenciamento 
-SimulaComex - Modulo de 
-Importação. R$ 500,0 
-20 
-Licenciamento 
-SimulaComex - Modulo de 
-Exportação. R$ 500,0 
-Fonte(s) dos recursos: 
- 
-Objetivo(s) relacionado(s): 
-Atender às demandas sociais e do mercado de trabalho. 
-Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no 
-desenvolvimento tecnológico e inovação. 
-Meta(s) relacionada(s): 
-Promover ações pedagógicas e administrativas que proporcionem a redução da taxa de evasão 
-em 5% 
- 
-AÇÃO/PROJETO (título) 
-I - Organização do Encontro de Comércio Exterior (ENCOMEX) para público externo, professores e 
-alunos interessados na área, visando uma aproximação entre a academia e o mercado de atuação 
-em comércio exterior.  
-O que será feito: 
-Prospecção de convidados para ministrar palestras e oficinas durante o evento, preparação do 
-cronograma de atividades, divulgação do evento junto ao público interno e externo, organização do 
-evento e aplicação de pesquisa de satisfação após o evento. 
-Por que será feito: 
-Para aproximação da academia, representada por alunos e professores, ao mercado de atuação em 
-comércio exterior, representado pelos profissionais convidados para proferir palestras e oficinas no 
-evento. 
-Responsável(is) / CH sem: 
-Aline Correia de Sousa Colantuono 
-Discentes e docentes que queiram contribuir com o evento, por meio de indicação de profissionais 
-da área de comércio exterior para participarem do ENCOMEX 
-Período de execução: 
-Data de início: 
-01/08/2023 
-Data final: 
-03/11/2023 
-Etapas do processo: 
-Prospecção de convidados para ministrar palestras e oficinas 
-01/08/2023 
-31/08/2023 
-Preparação do cronograma de atividades 
-01/09/2023 
-29/09/2023 
-Divulgação do evento junto ao público interno e externo 
-01/09/2023 
-29/09/2023 
-Organização do evento 
-02/10/2023 
-27/10/2023 
-Aplicação de pesquisa de satisfação após o evento 
-30/10/2023 
-03/11/2023 
-Custo (se houver): 
- 
-Fonte(s) dos recursos: 
- 
-Objetivo(s) relacionado(s): Atender às demandas sociais e do mercado de trabalho. 
-Meta(s) relacionada(s): 
-Ampliar as inscrições para o vestibular em 5% no ano de 2023. 
-Promover ações pedagógicas e administrativas que proporcionem a redução da taxa de evasão em 
-5% 
- 
- 
-AÇÃO/PROJETO 
-J - Projeto Oficina de Soluções (Estágio Voluntariado) 
-O que será feito: 
-Desenvolvimento de atividades junto aos alunos em Estágio Voluntariado na Unidade 
-Por que será feito: 
-O desenvolvimento de atividades colabora com ações de extensão, aumenta o interesse dos 
-alunos e colabora com habilidades e competências na formação do aluno 
-Responsável(is) / CH sem: Rodrigo Amorim Motta Carvalho  
-Período de execução: 
-Data de início: 
-08/02/2023 
-Data final: 
-21/12/2023 
-Etapas do processo: 
- Definição de Projetos/Atividades 
-08/02/2023 
-31/08/2023 
- Admissão dos alunos  
-08/02/2023 
-31/08/2023 
- Desenvolvimento de Projetos 
-01/03/2023 
-22/12/2023 
- Elaboração de documentação para fins de controle 
-01/03/2023 
-22/12/2023 
- Finalização de Projetos 
-31/05/2023 
-22/12/2023 
-Custo (se houver): 
- 
-Fonte(s) dos recursos:  
-Objetivo(s) relacionado(s): 
-Atender às demandas sociais e do mercado de trabalho. 
-Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no 
-desenvolvimento tecnológico e inovação. 
-Meta(s) relacionada(s): 
-Promover ações pedagógicas e administrativas que proporcionem a redução da taxa de evasão 
-em 5% 
-Ampliar a empregabilidade dos egressos em 5% 
-Reduzir em 10% os índices de retenções em disciplinas específicas (Matemática e Estágio) 
- 
-AÇÃO/PROJETO 
-L - COMUNICANDO VESTIBULAR 2023 
-O que será feito: 
-Artes e vídeos para auxiliar na divulgação de vestibular para os cursos da Fatec São Caetano do 
-Sul 
-Por que será feito: 
-Para auxiliar a faculdade na captação de novos alunos 
-Responsável(is) / CH sem: Claudemir Martins da Silva  
-Período de execução: 
-Data de início: 
-01/02/2023 
-Data final: 
-01/07/2023 
-Etapas do processo: 
- Planejamento 
-01/02/2023 
-31/03/2023 
- Produção  
-01/04/2023 
-30/04/2023 
- Edição 
-02/05/2023 
-31/05/2023 
- Publicação 
-01/06/2023 
-30/06/2023 
- Planejamento 
-01/08/2023 
-30/09/2023 
- Produção  
-01/10/2023 
-31/10/2023 
- Edição 
-01/11/2023 
-30/11/2023 
- Publicação 
-01/12/2023 
-21/12/2023 
-Custo (se houver): 
- 
-Fonte(s) dos recursos:  
-Objetivo(s) relacionado(s): Atender às demandas sociais e do mercado de trabalho. 
-Aumentar a eficiência, a produtividade e a competitividade da instituição 
-Meta(s) relacionada(s): 
+
 Ampliar as inscrições para o vestibular em 5% no ano de 2023. 
  
+Firmar pelo menos 2 parcerias para realização de ações na unidade. 
+
+Promover ações pedagógicas e administrativas que proporcionem a redução da taxa de evasão em 5% 
  
- 
- 
-AÇÃO/PROJETO 
-M - Escritório de Carreiras 
-O que será feito: 
-Orientações gerais sobre carreiras e processos seletivos aos alunos da Fatec São Caetano do Sul 
-– Antonio Russo 
-Por que será feito: 
-Orientar os alunos para processos seletivos (certificações, currículos, entrevistas, comportamento), 
-e possíveis carreiras. 
-Responsável(is) / CH sem: Izar Munhoz Alvares  
-Período de execução: 
-Data de início: 
- 08/02/2023 
-Data final: 
-20/12/2023 
-Etapas do processo: 
-Divulgação em sala de aula (convite) 
-Objetivo: 
-Apresentar o programa do Escritório de Carreiras e estimular os alunos 
-do primeiro semestre a participarem dos encontros individuais e dos 
-eventos de capacitação. 
- 
-Conteúdo: 
-• 
-Objetivo do Escritório de Carreiras 
-• 
-Como funciona o Escritório de carreiras (agendamento, local de 
-atendimento, etc) 
-• 
-Dicas básicas de como montar o currículo e se candidatar a uma 
-vaga 
-1º semestre: 
-08/02/2023 
- 
-2° 
-semestre: 
-16/08/2023 
- 
-08/03/2023 
- 
- 
- 
- 
-23/08/2023 
- 
- Atendimento individual 
-Objetivo: Apoiar os alunos com orientações gerais sobre carreiras, 
-certificações, entrevistas em processos seletivos, elaboração de 
-currículos, e demais assuntos relacionados à escolha e preparação 
-para carreiras na área escolhida. 
- 
-Conteúdo: O foco do atendimento é solucionar as dúvidas do aluno 
-relacionadas a: 
-• 
-Mercado de trabalho 
-• 
-Certificações 
-• 
-Elaboração de Currículo 
-• 
-Entrevistas 
-• 
-Processos seletivos 
-1º semestre: 
-08/02/2023 
- 
-2° 
-semestre: 
-09/08/2023 
-01/07/2023 
- 
- 
- 
- 
-20/12/2023 
-Eventos de capacitação 
-Objetivo: Incentivar os alunos a participarem do Escritório de Carreiras 
-através de curtas capacitações. 
- 
-Formato: Encontros presenciais (ou on-line) com duração máxima de 
-1(uma) hora. 
-Conteúdo: Os temas abordados nos eventos serão: 
-• 
-Produtividade 
-• 
-Gestão do tempo 
-• 
-Comportamentos e competências 
-1º semestre: 
-15/03/2023 
- 
-2° 
-semestre:  
-28/08/2023 
-31/05/2023 
- 
- 
- 
-20/11/2023 
-Custo (se houver): 
- 
-Fonte(s) dos recursos:  
-Objetivo(s) relacionado(s): 
-Atender às demandas sociais e do mercado de trabalho. 
-Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no 
-desenvolvimento tecnológico e inovação. 
-Meta(s) relacionada(s): 
-Promover ações pedagógicas e administrativas que proporcionem a redução da taxa de evasão 
-em 5% 
-Ampliar a empregabilidade dos egressos em 5% 
-Reduzir em 10% os índices de retenções em disciplinas específicas (Matemática e Estágio) 
- 
- 
- 
-AÇÃO/PROJETO 
-N - Projeto Atendimento Psicopedagógico 
-O que será feito: 
-Serão realizados atendimentos individualizados aos alunos dos cursos presenciais da unidade São 
-Caetano do Sul, mediante ao agendamento prévio. 
-Por que será feito: 
-Para acolhimento às questões psicológicas e também a dificuldade de aprendizagem. 
-Responsável(is) / CH sem: ELIANE VEIGA PORTA  
-Período de execução: 
-Data de início: 
-08/02/2023 
-Data final: 
-31/12/2023 
-Etapas do processo: 
- Divulgação em Quadros de Avisos  
- Serão afixados nos Quadros de Aviso da Unidade os horários 
-disponíveis para agendamento. 
-1º sem - 
-08/02/2023 
-2ª sem – 
-16/08/2023 
-       
-02/07/2023 
-       
-20/12/2023 
- Atendimento individual aos alunos 
- A partir do agendamento dos alunos serão realizados atendimentos 
-individualizados, onde serão abordados os assuntos de interesse dos 
-alunos. 
-1º sem - 
-08/02/2023 
-2ª sem – 
-16/08/2023 
-        
-02/07/2023 
-        
-20/12/2023 
-Evento especial -  Roda de Conversa (grupos) 
-Serão formados pequenos grupos de alunos que tenham interesse na 
-discussão dos seguintes temas: 
-• 
-Ansiedade 
-• 
-Depressão  
- 
-1º sem - 
-15/03/2023 
-2ª sem – 
-20/08/2023 
- 
-30/05/2023 
- 
-20/11/2023 
-Custo (se houver): 
- 
-Fonte(s) dos recursos:  
-Objetivo(s) relacionado(s): 
-Atender às demandas sociais e do mercado de trabalho. 
-Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem. 
-Garantir celeridade e efetividade na prestação de serviços. 
-Meta(s) relacionada(s): 
-Promover ações pedagógicas e administrativas que proporcionem a redução da taxa de evasão 
-em 5% 
- 
-AÇÃO/PROJETO 
-O - Site da Unidade 
-O que será feito: 
-Adaptação do site da Unidade ao modelo definido pela AssCom. 
-Por que será feito: 
-Trazer uma identidade visual atualizada ao site por meio do alinhamento à identidade visual 
-definida pela AssCom. 
-Responsável(is) / CH sem: 
-Adriane Monteiro Fontana  
-Alan Henrique Pardo de Carvalho 
-Clair Elvira Hipólito Peixoto  
-Período de execução: 
-Data de início: 
-06/03/2023 
-Data final: 
-15/05/2023 
-Etapas do processo: 
-Ambientação com o sistema de publicação provido pela AssCom 
-06/03/2023 
-17/03/2023 
-Revisão e consolidação dos conteúdos a serem publicados na nova 
-versão do site da Unidade 
-06/03/2023 
-31/03/2023 
-Publicação dos conteúdos na nova versão do site da Unidade 
-20/03/2023 
-28/04/2023 
-Realização de testes de navegação e ajustes no conteúdo publicado 
-na nova versão do site da Unidade 
-02/05/2023 
-12/05/2023 
-Divulgação da nova versão do site da Unidade 
-15/05/2023 
-15/05/2023 
-Custo (se houver): 
- 
-Fonte(s) dos recursos:  
-Objetivo(s) relacionado(s): Aumentar a eficiência, a produtividade e a competitividade da instituição 
-Meta(s) relacionada(s): 
-Ampliar as inscrições para o vestibular em 5% no ano de 2023. 
- 
-AÇÃO/PROJETO 
-P - Fatec SCS Games Day 2023 
-O que será feito: 
-Organizar o evento anual do CST em Jogos Digitais. 
-Por que será feito: 
-Oferecer aos alunos e ao público externo uma oportunidade de atualização em temas ligados ao 
-desenvolvimento de jogos. Contribuir para o aumento da visibilidade do Curso e da Unidade. 
-Responsável(is) / CH sem: Alan Henrique Pardo de Carvalho 
-Comissão Organizadora formada por alunos (voluntários) 
-Período de execução: 
-Data de início: 
-02/05/2023 
-Data final: 
-18/11/2023 
-Etapas do processo: 
-Chamada para composição da comissão organizadora 
-02/05/2023 
-15/05/2023 
-Reuniões para definição da programação do evento e estratégias de 
-divulgação 
-16/05/2023 
-14/10/2023 
-Divulgação do evento e recebimento de inscrições 
-16/10/2023 
-17/11/2023 
-Realização do evento 
-18/11/2023 
-18/11/2023 
-Custo (se houver): 
- 
-Fonte(s) dos recursos:  
-Objetivo(s) relacionado(s): Atender às demandas sociais e do mercado de trabalho. 
-Meta(s) relacionada(s): 
-Ampliar as inscrições para o vestibular em 5% no ano de 2023. 
-Promover ações pedagógicas e administrativas que proporcionem a redução da taxa de evasão 
-em 5% 
- 
- 
- 
-AÇÃO/PROJETO 
-Q - Global Game Jam 2024 
-O que será feito: 
-Inscrição da Fatec São Caetano do Sul como sede da Global Game Jam 2024 e organização da 
-sede visando a realização do evento. 
-Por que será feito: 
-Organizar a sede da Global Game Jam 2024 @ Fatec São Caetano do Sul, oferecendo aos alunos 
-e ao público externo a oportunidade de participar dessa que é a maior game jam do mundo na 
-sede da Fatec São Caetano do Sul, que realiza o evento ininterruptamente desde 2011. Contribuir 
-para o aumento da visibilidade do Curso e da Unidade. 
-Responsável(is) / CH sem: 
-Adriane Monteiro Fontana  
-Alan Henrique Pardo de Carvalho 
-Equipe administrativa da Unidade  
-Período de execução: 
-Data de início: 
-01/11/2023 
-Data final: 
-28/01/2024 
-Etapas do processo: 
-Cadastramento da sede no site mundial da Global Game Jam 
-01/11/2023 
-(previsão) 
-30/11/2023 
-(previsão) 
-Confirmação da sede pela organização regional brasileira da Global 
-Game Jam 
-01/11/2023 
-(previsão) 
-30/11/2023 
-(previsão) 
-Divulgação do evento e recebimento das inscrições 
-01/11/2023 
-(previsão) 
-28/01/2024 
-Preparação do local para recepção dos participantes 
-08/01/2024 
-19/01/2024 
-Realização do evento 
-22/01/2024 
-28/01/2024 
-Custo (se houver): 
- 
-Fonte(s) dos recursos:  
-Objetivo(s) relacionado(s): Atender às demandas sociais e do mercado de trabalho. 
-Meta(s) relacionada(s): 
-Ampliar as inscrições para o vestibular em 5% no ano de 2023. 
-Promover ações pedagógicas e administrativas que proporcionem a redução da taxa de evasão 
-em 5% 
- 
-AÇÃO/PROJETO 
-R - Proposta de atualização do PPC do CST em Jogos Digitais com vistas a reestruturação 
-O que será feito: 
-Estruturação de proposta para atualização do PPC do CST em Jogos Digitais por meio de análise 
-do perfil profissional do egresso atual, das necessidades do setor e da identificação de novo perfil 
-profissional do egresso, competências a serem desenvolvidas e definição de nova estrutura 
-curricular de forma a contemplar essas competências. 
-Por que será feito: 
-Atualização do Projeto Pedagógico do Curso em função das necessidades do setor. 
-Responsável(is) / CH sem: 
-Alan Henrique Pardo de Carvalho 
-Adilson Ferreira da Silva 
-Leandro Ramos da Silva 
-Sérgio Luiz Banin 
-Willians Monteiro da Silva 
-Período de execução: 
-Data de início: 
-13/03/2023 
-Data final: 
-05/12/2023 
-Etapas do processo: 
-Designação das frentes de trabalho e respectivos colaboradores e 
-alinhamento da proposta com a Cesu (GPR e GAP) 
-13/03/2023 
-07/04/2023 
-Desenvolvimento das frentes de trabalho e compilação das propostas 
-apresentadas 
-10/04/2023 
-09/06/2023 
-Revisão da proposta do PPC do CST em Jogos Digitais 
-12/06/2023 
-25/08/2023 
-Apresentação e análise da proposta da versão atualizada do PPC 
-junto ao Colegiado do Curso 
-28/08/2023 
-28/08/2023 
-Consolidação da versão atualizada do PPC com as sugestões 
-apresentadas pelo Colegiado 
-29/08/2023 
-29/09/2023 
-Apresentação da versão consolidada do PPC a partir das sugestões 
-apresentadas pelo Colegiado 
-02/10/2023 
-02/10/2023 
-Apresentação da proposta da versão consolidada do PPC à 
-Congregação 
-03/10/2023 
-03/10/2023 
-Revisão final da proposta a partir das sugestões feitas pela 
-Congregação 
-04/10/2023 
-01/12/2023 
-Apresentação da versão final da proposta à Congregação 
-04/12/2023 
-04/12/2023 
-Encaminhamento da proposta de reestruturação do PPC do CST em 
-Jogos Digitais à Cesu 
-05/12/2023 
-05/12/2023 
-Custo (se houver): 
- 
-Fonte(s) dos recursos:  
-Objetivo(s) relacionado(s): 
-Aumentar a eficiência, a produtividade e a competitividade da instituição 
-Atender às demandas sociais e do mercado de trabalho. 
-Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no 
-desenvolvimento tecnológico e inovação. 
-Meta(s) relacionada(s): 
-Ampliar as inscrições para o vestibular em 5% no ano de 2023. 
-Promover ações pedagógicas e administrativas que proporcionem a redução da taxa de evasão 
-em 5% 
- 
- 
- 
-AÇÃO/PROJETO 
-S - Aquisição de livros importados para o curso de Jogos Digitais 
-O que será feito: 
-Elaboração de relatório de necessidades de aquisição de livros importados de acordo com as 
-bibliografias básica e complementar do PPC do CST em Jogos Digitais. 
-Por que será feito: 
-Manter o acervo completo e atualizado conforme a bibliografia do curso descrita no PPC. 
-Responsável(is) / CH sem: Alan Henrique Pardo de Carvalho  
-Daniel Luis Fatobene de Souza 
-Período de execução: 
-Data de início: 
-06/03/2023 
-Data final: 
-08/05/2023 
-Etapas do processo: 
-Levantamento das obras importadas que compõem as bibliografias 
-básica e complementar do curso conforme o PPC 
-06/03/2023 
-17/03/2023 
-Verificação das quantidades disponíveis no acervo físico da Biblioteca 
-da Unidade 
-20/03/2023 
-14/04/2023 
-Elaboração da lista de obras necessárias para aquisição 
-17/04/2023 
-05/05/2023 
-Encaminhamento da lista de obras necessárias para aquisição 
-08/05/2023 
-08/05/2023 
-Custo (se houver): 
- 
-Fonte(s) dos recursos:  
-Objetivo(s) relacionado(s): 
-Aumentar a eficiência, a produtividade e a competitividade da instituição 
-Atender às demandas sociais e do mercado de trabalho. 
-Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no 
-desenvolvimento tecnológico e inovação. 
-Meta(s) relacionada(s): 
-Promover ações pedagógicas e administrativas que proporcionem a redução da taxa de evasão 
-em 5% 
- 
-AÇÃO/PROJETO 
-T - Aquisição de insumos para o curso de Jogos Digitais 
-O que será feito: 
-Elaboração de relatório de necessidades de aquisição de insumos para utilização em atividades do 
-CST em Jogos Digitais. 
-Por que será feito: 
-Atender a solicitação de especialistas do CEESP decorrentes da última renovação de 
-reconhecimento do Curso 
-Responsável(is) / CH sem: Adriane Monteiro Fontana  
-Alan Henrique Pardo de Carvalho 
-Período de execução: 
-Data de início: 
-06/03/2023 
-Data final: 
-05/08/2023 
-Etapas do processo: 
-Levantamento das necessidades apontadas no relatório dos 
-especialistas do CEESP 
-06/03/2023 
-12/06/2023 
-Determinação de especificações técnicas dos insumos a serem 
-adquiridos 
-20/03/2023 
-26/05/2023 
-Elaboração da lista de insumos necessários para aquisição 
-29/05/2023 
-09/06/2023 
-Encaminhamento da lista de insumos necessários para aquisição 
-12/06/2023 
-12/06/2023 
-Custo (se houver): 
- 
-Fonte(s) dos recursos:  
-Objetivo(s) relacionado(s): 
-Aumentar a eficiência, a produtividade e a competitividade da instituição 
-Atender às demandas sociais e do mercado de trabalho. 
-Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no 
-desenvolvimento tecnológico e inovação. 
-Meta(s) relacionada(s): 
-Promover ações pedagógicas e administrativas que proporcionem a redução da taxa de evasão 
-em 5% 
- 
-AÇÃO/PROJETO 
-U – Implantação novo curso AMS  
-O que será feito: 
-Em parceria com a Etec Jorge Street implantar o curso AMS Tecnólogo em Processos Gerenciais 
-(a partir do curso técnico de Administração) 
-Por que será feito: 
-Ampliar vagas oferecidas em curso superior utilizando salas de aula ociosas no período matutino. 
-Responsável(is) / CH sem: Adriane Monteiro Fontana 
-Paula Daniela da Silva Monciatti 
-Período de execução: 
-Data de início: 
-01/04/2023 
-Data final: 
-31/12/2023 
-Etapas do processo: 
-Firmar parceria e interesse com Etec Jorge Street 
-01/04/2023 
-30/04/2023 
-Apresentar proposta de implantação do curso à CESU 
-01/05/2023 
-30/05/2023 
-Aprovação da CESU 
-01/06/2023 
-30/07/2023 
-Aprovação do Conselho Deliberativo 
-01/08/2023 
-30/09/2023 
-Oferecimento do cursos AMS Administração/Processos Gerenciais no 
-vestibulinho 2024 
-01/10/2023 
-31/12/2023 
-Custo (se houver): 
- 
-Fonte(s) dos recursos:  
-Objetivo(s) relacionado(s): 
-Aumentar a eficiência, a produtividade e a competitividade da instituição 
-Atender às demandas sociais e do mercado de trabalho. 
-Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no 
-desenvolvimento tecnológico e inovação. 
-Meta(s) relacionada(s): 
-Ampliar as inscrições para o vestibular em 5% no ano de 2023. 
- 
- 
- 
- 
-02 – Ensino e Equipamentos Associados (Laboratórios) 
- 
-AÇÃO/PROJETO (título) 
-A- Proposta de atualização da infraestrutura de rede de comunicação de dados da unidade 
-O que será feito: 
-Levantamento da situação atual e elaboração de um projeto adequando a infraestrutura às normas 
-e boas práticas de mercado. 
-Por que será feito: 
-Atualmente a unidade tem vários problemas de conexão dos equipamentos (servidores e desktops) 
-dos laboratórios e da área administrativa. Além dos problemas existentes, a unidade deve estar 
-preparada para receber os novos equipamentos que recebemos, sendo estes provenientes de 
-projetos maiores do Centro Paula Souza, como TVs inteligentes, impressoras 3D, Switches. 
-Responsável(is) / CH sem: 
-Mario Eugenio Longato 
-Alexandre Marchiori 
-Ismael Parede 
-Período de execução: 
-Data de início: 
-31/03/2023 
-Data final: 
-31/10/2023 
-Etapas do processo: 
-Levantamento da situação atual da infraestrutura 
-31/03/2023 15/04/2023 
-Mapeamento dos pontos para alocação dos concentradores de cabos 
-17/04/2023 30/04/2023 
-Dimensionamento da metragem de cabos categoria 6 e categoria 6ª 
-necessários, de acordo com as práticas do CESU. 
-02/05/2023 15/06/2023 
-Elaboração de planilha de custos junto à regional NRA6 
-16/06/2023 05/07/2023 
-Submissão do orçamento junto as vias legais do CPS 
-05/07/2023 31/07/2023 
-Instalação da infraestrutura 
-01/09/2023 31/10/2023 
-Custo (se houver): 
- 
-Fonte(s) dos recursos: 
- 
-Objetivo(s) relacionado(s): Aumentar a eficiência, a produtividade e a competitividade da instituição     
-Meta(s) relacionada(s): 
 Reestruturar e otimizar a rede de comunicação de dados da unidade. 
+
+Ampliar a empregabilidade dos egressos em 5% 
  
+Adequar mobiliário, instalação elétrica e equipamentos tecnológicos. 
+
+Reduzir em 10% os índices de retenções em disciplinas específicas (Matemática e Estágio) 
  
-03 – Pesquisa / Extensão e Equipamentos Associados 
- 
-AÇÃO/PROJETO (título) 
-A- Proposta de indexação do Fasci-Tech, periódico científico eletrônico da Fatec de São Caetano 
-do Sul, nas principais bases de dados. 
-O que será feito: 
-Identificação dos critérios para o processo de indexação do Fasci-Tech, definição de cronograma de 
-atividades para atendimento aos requisitos das principais bases de dados e estabelecimento de 
-plano de ação para conclusão do registro do periódico.  
-Por que será feito: 
-Para estabelecimento da correta padronização dos dados bibliográficos do periódico, mirando não 
-somente a visibilidade da revista para publicação, bem como seu reconhecimento pelos pares na 
-área de atuação. 
-Responsável(is) / CH sem: 
-Aline Correia de Sousa Colantuono 
-Alan Henrique Pardo de Carvalho 
-Adriane Monteiro Fontana 
-Período de execução: 
-Data de início: 
-01/03/2023 
-Data final: 
-22/12/2023 
-Etapas do processo: 
-Identificação dos critérios para o processo de indexação do Fasci-Tech 01/03/2023 
-30/04/2023 
-Definição de cronograma de atividades para atendimento aos requisitos 
-das principais bases de dados 
-01/05/2023 
-01/07/2023 
-Estabelecimento de plano de ação para conclusão do registro do 
-periódico 
-02/07/2023 
-22/12/2023 
-Custo (se houver): 
- 
-Fonte(s) dos recursos: 
- 
-Objetivo(s) relacionado(s): Aumentar a eficiência, a produtividade e a competitividade da instituição 
-Garantir celeridade e efetividade na prestação de serviços. 
-Meta(s) relacionada(s): 
-Ampliar as inscrições para o vestibular em 5% no ano de 2023. 
-Promover ações pedagógicas e administrativas que proporcionem a redução da taxa de evasão em 
-5% 
- 
- 
- 
-AÇÃO/PROJETO 
-B - FaSCi-Tech 
-O que será feito: 
-Atualização da plataforma de suporte ao periódico. 
-Por que será feito: 
-Necessidade técnica. 
-Responsável(is) / CH 
-sem: 
-Adriane Monteiro Fontana 
-Alan Henrique Pardo de Carvalho 
-Período de execução: 
-Data de início: 
-22/05/2023 
-Data final: 
-17/07/2023 
-Etapas do processo: 
-Levantamento de requisitos técnicos para implementação da 
-nova versão da plataforma de suporte ao periódico 
-22/05/2023 
-26/05/2023 
-Instalação e testes da nova versão da plataforma de suporte ao 
-periódico 
-29/05/2023 
-02/06/2023 
-Migração da base de dados e artigos publicados da versão 
-anterior para a nova versão da plataforma de suporte ao 
-periódico 
-05/06/2023 
-07/07/2023 
-Realização de testes e ajustes de navegação, acesso e 
-funcionalidades da nova versão da plataforma de suporte ao 
-periódico 
-10/07/2023 
-14/07/2023 
-Divulgação da nova versão da plataforma de suporte ao 
-periódico ao público em geral 
-17/07/2023 
-17/07/2023 
-Custo (se houver): 
- 
-Fonte(s) dos 
-recursos: 
- 
-Objetivo(s) 
-relacionado(s): 
-Aumentar a eficiência, a produtividade e a competitividade da instituição 
-Garantir celeridade e efetividade na prestação de serviços. 
-Meta(s) relacionada(s): 
-Ampliar as inscrições para o vestibular em 5% no ano de 2023. 
-Promover ações pedagógicas e administrativas que proporcionem a redução da taxa de evasão em 
-5% 
- 
- 
-AÇÃO/PROJETO (título) 
-C - Proposta de oferecimento semestral do edital de abertura para submissão de propostas de 
-pesquisa docente e discente para o Programa Institucional de Iniciação Científica (PCITec) da Fatec 
-São Caetano do Sul. 
-O que será feito: 
-Promoção do Programa Institucional de Iniciação Científica (PCITec) da Fatec São Caetano do Sul 
-à comunidade acadêmica, atualização do edital de abertura de inscrições, divulgação do cronograma 
-do PCITec para submissão de propostas de pesquisa docente e discente, análise dos projetos 
-enviados, divulgação dos resultados, início da pesquisa docente e discente e entrega dos relatórios 
-parciais de orientadores e orientados. 
-Por que será feito: 
-Para desenvolvimento de atividades científicas e tecnológicas nos cursos de Análise e 
-Desenvolvimento de Sistemas, Comércio Exterior, Jogos Digitais e Segurança da Informação, 
-através da promoção do PCITec da Fatec São Caetano do Sul à comunidade acadêmica. 
-Responsável(is) / CH sem: 
-Adriane Monteiro Fontana 
-Aline Correia de Sousa Colantuono 
-Guilherme Cortonesi Cela 
-Período de execução: 
-Data de início: 
-01/02/2023 
-Data final: 
-08/12/2023 
-Etapas do processo: 
-Promoção do PCITec à comunidade acadêmica 
-01/02/2023 
-01/03/2023 
-Atualização do edital de abertura de inscrições 
-01/02/2023 
-03/02/2023 
-Divulgação do cronograma do PCITec para submissão de propostas de 
-pesquisa docente e discente 
-01/02/2023 
-17/03/2023 
-Análise dos projetos enviados 
-17/03/2023 
-14/04/2023 
-Divulgação dos resultados 
-14/04/2023 
-14/04/2023 
-Início da pesquisa docente e discente 
-01/08/2023 
-01/08/2023 
-Entrega dos relatórios parciais de orientadores e orientados 
-08/12/2023 
-08/12/2023 
-Custo (se houver): 
- 
-Fonte(s) dos recursos:  
-Objetivo(s) relacionado(s): 
-Aumentar a eficiência, a produtividade e a competitividade da instituição 
-Garantir celeridade e efetividade na prestação de serviços. 
-Aumentar a eficiência, a produtividade e a competitividade da instituição 
-Meta(s) relacionada(s): 
-Ampliar as inscrições para o vestibular em 5% no ano de 2023. 
-Promover ações pedagógicas e administrativas que proporcionem a redução da taxa de evasão 
-em 5% 
- 
- 
- 
- 
-04 – Atividades Formativas em Projetos (nível tático) 
- 
-AÇÃO/PROJETO 
-A – Monitoria 
-O que será feito: 
-Programa de monitoria para disciplinas com maior reprovação. 
-Por que será feito: 
-Para auxiliar no processo de aprovação dos alunos com dificuldades em disciplinas específicas 
-que tem maior índice de retenção. 
-Responsável(is) / CH sem: 
-Adriane Monteiro Fontana 
-Guilherme Cortonesi Cela 
-Rosimeire Samara Rogeri Yamada 
-Período de execução: 
-Data de início: 
-08/02/2023 
-Data final: 
-21/12/2023 
-Etapas do processo: 
-Edital de inscrições para vagas para monitoria 
-08/02/2023 
-16/02/2023 
-Resultado das inscrições 
-19/02/2023 
-21/02/2023 
-Edital de inscrições para vagas remanescentes 
-21/02/2023 
-23/02/2023 
-Resultado das inscrições para vagas remanescentes 
-24/02/2023 
-24/02/2023 
-Atuação Monitores 
-01/03/2023 
-01/07/2023 
-Edital de inscrições para vagas para monitoria 
-01/08/2023 
-08/08/2023 
-Resultado das inscrições 
-15/08/2023 
-18/08/2023 
-Edital de inscrições para vagas remanescentes 
-20/08/2023 
-21/08/2023 
-Resultado das inscrições para vagas remanescentes 
-22/08/2023 
-23/08/2023 
-Atuação Monitores 
-01/09/2023 
-21/12/2023 
-Custo (se houver): 
- 
-Fonte(s) dos recursos:  
-Objetivo(s) relacionado(s): Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem. 
-Meta(s) relacionada(s): 
-Promover ações pedagógicas e administrativas que proporcionem a redução da taxa de evasão 
-em 5% 
- 
- 
-05 – Infraestrutura (instalações prediais) 
- 
-AÇÃO/PROJETO 
-A – Ação coordenada da Fatec São Caetano do Sul para melhorias no Parque tecnológico e 
-mobiliário da unidade 
-O que será feito: 
-Solicitação de compra / manutenção de itens tecnológicos e de mobiliário que estejam obsoletos 
-ou carecendo de melhorias. 
-Por que será feito: 
-Defasagem e alta manutenção de equipamentos tecnológicos 
-Responsável(is) / CH sem: 
-Rosimeire Samara Rogeri Yamada 
-Adriane Monteiro Fontana 
-Marcia Nahomi Matsui Ogawa 
-Marcia Gorete da Silva 
-Período de execução: 
-Data de início: 
-01/04/2023 
-Data final: 
-01/07/2023 
-Etapas do processo: 
-Solicitação 
-01/04/2023 
-10/04/2023 
-Escolha dos modelos adequados dos seguintes itens: 
-Impressora/Computador/Leitor de fita digital de livros/ Detector de fita 
-digital de livros/ cadeiras/ mesa e cadeira acoplada/ longarinas 
-01/04/2023 
-10/04/2023 
-Definição de quantitativos 
-01/04/2023 
-01/04/2023 
-Inserção no SIAF 
-Quando 
-autorizado 
-Quando 
-autorizado 
-Custo (se houver): 
- 
-Fonte(s) dos recursos:  
-Objetivo(s) relacionado(s): Atender às demandas sociais e do mercado de trabalho. 
-Aumentar a eficiência, a produtividade e a competitividade da instituição 
-Meta(s) relacionada(s): 
-Adequar mobiliário, instalação elétrica e equipamentos tecnológicos 
- 
- 
- 
-AÇÃO/PROJETO 
-B - Ação coordenada da Fatec São Caetano do Sul para LICITAÇÃO DA CANTINA/ 
-TOLDOS/ESTRUTURA 
-O que será feito: 
-Licitação e adequação para uso de espaço Cantina 
-Por que será feito: 
-Falta de local adequado para alimentação de discentes, docentes e técnicos-administrativos 
-Responsável(is) / CH sem: 
-Rosimeire Samara Rogeri Yamada 
-Adriane Monteiro Fontana 
-Marcia Nahomi Matsui Ogawa 
-Marcia Gorete da Silva 
-Período de execução: 
-Data de início: 
-01/04/2023 
-Data final: 
-31/12/2023 
-Etapas do processo: 
- Licitação - Cotação de valores do local 
-25/03/2023 
-05/05/2023 
- Licitação - Solicitação de tramites de licitação 
-25/03/2023 
-05/05/2023 
- Licitação - Abertura de licitação 
-25/03/2023 
-05/05/2023 
- Licitação - Disponibilização do espaço 
-25/03/2023 
-05/05/2023 
- Cotação – Toldo – fechamento cantina 
-01/04/2023 
-30/04/2023 
- Cotação – Toldo – fechamento corredor 
-01/04/2023 
-30/04/2023 
- Cotação Bancada granito 
-01/04/2023 
-30/04/2023 
-Aprovação para todos os serviços 
-02/05/2023 
-02/06/2023 
-Execução para todos os serviços 
-15/06/2023 
-15/07/2023 
-Custo (se houver): 
- 
-Fonte(s) dos recursos:  
-Objetivo(s) relacionado(s): Atender às demandas sociais e do mercado de trabalho. 
-Aumentar a eficiência, a produtividade e a competitividade da instituição 
-Meta(s) relacionada(s): 
-Licitar espaços, instalação e manutenção de equipamentos de segurança e conservação da 
-unidade 
- 
-AÇÃO/PROJETO 
-C - Ação coordenada da Fatec São Caetano do Sul para melhorias relacionadas a Ar 
-Condicionado/Grelhas estacionamento/Jardinagem/Segurança 
-O que será feito: 
-Instalação e manutenção 
-Por que será feito: 
-Defasagem e alta manutenção 
-Responsável(is) / CH sem: 
-Rosimeire Samara Rogeri Yamada 
-Adriane Monteiro Fontana 
-Marcia Nahomi Matsui Ogawa 
-Marcia Gorete da Silva 
-Período de execução: 
-Data de início: 
-01/06/2023 
-Data final: 
-20/10/2023 
-Etapas do processo: 
-Escolha dos locais necessários 
-Cotação de aparelhos 
-Cotação de instalação 
-Cotação de manutenção 
-01/06/2023 
-01/08/2023 
-Definição de quantitativos 
-01/06/2023 
-10/06/2023 
-Aprovação 
-Quando 
-autorizado 
-Quando 
-autorizado 
-Execução 
-01/09/2023 
-20/10/2023 
-Custo (se houver): 
- 
-Fonte(s) dos recursos:  
-Objetivo(s) relacionado(s): Atender às demandas sociais e do mercado de trabalho. 
-Aumentar a eficiência, a produtividade e a competitividade da instituição 
-Meta(s) relacionada(s): 
-Licitar espaços, instalação e manutenção de equipamentos de segurança e conservação da 
-unidade 
- 
-AÇÃO/PROJETO 
-D -  Ação coordenada da Fatec São Caetano do Sul para PROJETO DE MONITORAMENTO POR 
-CÂMERA 
-O que será feito: 
-Solicitação de compra de sistema de monitoramento 
-Por que será feito: 
-Alto índice de assaltos na região 
-Responsável(is) / CH 
-sem: 
-Rosimeire Samara Rogeri Yamada 
-Adriane Monteiro Fontana 
-Marcia Nahomi Matsui Ogawa 
-Marcia Gorete da Silva 
-Período de execução: 
-Data de início: 
-01/05/2023 
-Data final: 
-01/08/2023 
-Etapas do processo: 
-Levantar quantidade de câmeras e locais necessários 
-01/05/2023 
-01/06/2023 
-Estudar sistema de monitoramento por câmera 
-01/05/2023 
-01/06/2023 
-Cotar monitoramento 
-01/06/2023 
-01/07/2023 
-Aprovação para todos os serviços 
-01/07/2023 
-10/07/2023 
-Execução para todos os serviços 
-10/07/2023 
-01/08/2023 
-Custo (se houver): 
- 
-Fonte(s) dos 
-recursos: 
- 
-Objetivo(s) 
-relacionado(s): 
-Atender às demandas sociais e do mercado de trabalho. 
-Aumentar a eficiência, a produtividade e a competitividade da instituição 
-Meta(s) relacionada(s): 
 Licitar espaços, instalação e manutenção de equipamentos de segurança e conservação da unidade 
  
- 
- 
- 
-06 - Desenvolvimento de pessoas (docentes e servidores) 
- 
-AÇÃO/PROJETO 
-A – Atividades sobre Relações Interpessoais  
+The English HUB - Ação coordenada da Fatec São Caetano do Sul para área de inglês 
+
 O que será feito: 
-Realizar palestras e workshops sobre relacionamento interpessoal aos servidores técnico-
-administrativo. 
+
+01- Inglês para a comunidade 
+
+02- Legendagem 
+
+03- Conversação para grupos avançados 
+
+04- Laboratório de línguas para alunos regulares da FATEC. 
+
+05- Preparatório para testes de proficiência 
+
 Por que será feito: 
-Em pesquisa realizada percebeu-se que há conflitos de relacionamento entre docentes, discentes 
-e servidores que afeta o clima organizacional. 
-Responsável(is) / CH sem: Paula Daniela da Silva Monciatti 
-Período de execução: 
-Data de início: 
-01/03/2023 
-Data final: 
-31/12/2023 
-Etapas do processo: 
-Identificação dos problemas e conflitos 
-01/03/2023 
-30/04/2023 
-Elaboração de material didático para palestra e workshop 
-01/05/2023 
-30/06/2023 
-Aplicação de palestra 
-01/07/2023 
-31/07/2023 
-Aplicação de pesquisa pós palestra 
-01/08/2023 
-30/08/2023 
-Aplicação de workshop 
-01/10/2023 
-30/10/2023 
-Aplicação de pesquisa pós workshop 
-01/11/2023 
-30/11/2023 
-Elaboração de relatório  
-01/12/2023 
-31/12/2023 
-Custo (se houver): 
+
+01- Diminuir a evasão discente 
+
+02- Manutenção dos alunos regulares nos cursos 
+
+03- Engajamento da comunidade dentro da Fatec (o inglês como ferramenta para auxiliar a comunidade na busca por melhores vagas de emprego, no mercado de trabalho, e participação ativa da comunidade em assuntos de relevância intelectual, cultural, etc.) 
+
+04- Investimento na melhora do uso de língua estrangeira pelo aluno, que está em busca de bons empregos, em um mercado, que exige a língua estrangeira no processo de seleção e contratação do futuro profissional da área de TI. 
  
-Fonte(s) dos recursos:  
-Objetivo(s) relacionado(s): Garantir celeridade e efetividade na prestação de serviços. 
-Aumentar a eficiência, a produtividade e a competitividade da instituição 
+Objetivo(s) relacionado(s): Atender às demandas sociais e do mercado de trabalho. 
+
 Meta(s) relacionada(s): 
-Promover ações pedagógicas e administrativas que proporcionem a redução da taxa de evasão 
-em 5% 
+
+Ampliar as inscrições para o vestibular em 5% no ano de 2023. 
+
+Promover ações pedagógicas e administrativas que proporcionem a redução da taxa de evasão em 5% 
+
+Ação coordenada da Fatec São Caetano do Sul para (1) atendimento da comunidade; (2) Aprendizado na prática; e (3) divulgação da Unidade através do Projeto - Imposto de Renda e Finanças Pessoais. 
+
+O que será feito: 
+
+1) Atendimento de Dúvidas - Imposto de Renda Atendimento para Comunidade Interna e Externa  
+
+2) Disponibilizar/Ministrar Palestra – Imposto de Renda 
+
+3) Disponibilizar/Ministrar Palestra Finanças Pessoais e Economia Doméstica. Por que será feito: Para apoiar a comunidade interna e externa relacionadas a dúvidas sobre imposto IR, atenção as suas finanças pessoais e divulgar Software Livre. 
+
+Objetivo(s) relacionado(s): Atender às demandas sociais e do mercado de trabalho. 
+
+Meta(s) relacionada(s): 
+
+Ampliar as inscrições para o vestibular em 5% no ano de 2023. 
+
+Promover ações pedagógicas e administrativas que proporcionem a redução da taxa de evasão em 5% 
+
+Ampliar a empregabilidade dos egressos em 5% 
+ 
+Nivelamento de Matemática. O que será feito: Resgatar, aprofundar e solidificar os conhecimentos em matemática básica. Por que será feito: Melhorar o aproveitamento dos estudantes nas disciplinas de graduação. 
+
+Objetivo(s) relacionado(s): 
+
+Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem. 
+
+Meta(s) relacionada(s): 
+
+Reduzir em 10% os índices de retenções em disciplinas específicas (Matemática e Estágio) 
+  
+ 
+Desenvolvimento de um evento de Segurança da Informação conhecido por CTF (Capture in 
+the Flag). O que será feito: Localização de parceiros que desenvolvem atividades afins para dar suporte técnico ao evento. Por que será feito: Este evento é tradicional nas instituições que possuem o curso de Segurança da Informação. 
+ 
+Objetivo(s) relacionado(s): 
+
+Aumentar a eficiência, a produtividade e a competitividade da instituição 
+
+Atender às demandas sociais e do mercado de trabalho. 
+
+Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no desenvolvimento tecnológico e inovação. 
+
+Meta(s) relacionada(s):
+
+Ampliar as inscrições para o vestibular em 5% no ano de 2023. 
+
+Promover ações pedagógicas e administrativas que proporcionem a redução da taxa de evasão em 5% 
+ 
+Proposta de atualização do PPC do Curso de Segurança da Informação 
+
+O que será feito: Estruturação de proposta para a atualização do Projeto Pedagógico do curso superior em tecnologia de segurança da informação, revendo as disciplinas e os conteúdos, bem como a sequência das mesmas. 
+
+Por que será feito: A área de TI e especificamente a área de Segurança da Informação tiveram grandes mudanças e avanços nos últimos anos. Temos como BigData, Cloud Computing, IoT e Business Intelligence fazem parte deste mundo, e nem tudo é contemplado no curso de forma explícita. 
+
+ 
+Objetivo(s) relacionado(s): 
+
+Aumentar a eficiência, a produtividade e a competitividade da instituição 
+
+Atender às demandas sociais e do mercado de trabalho. 
+
+Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no desenvolvimento tecnológico e inovação. 
+
+Meta(s) relacionada(s):
+
+Ampliar as inscrições para o vestibular em 5% no ano de 2023. 
+
+Promover ações pedagógicas e administrativas que proporcionem a redução da taxa de evasão em 5% 
+ 
+Elaboração do evento temático anual do Curso Superior em Tecnologia em Segurança da Informação conhecido por FATEC SecurityDay. 
+
+O que será feito: Preparação de um evento com palestras e demonstrações práticas das ações e ferramentas ligadas à Segurança Cibernética 
+
+Por que será feito: Nossos estudantes devem ser apresentados ao mercado formal da área de Segurança Cibernética por meio de eventos que trazem profissionais e empresas da área, desenvolvendo um contato próximo a eles. 
+
+Aumentar a eficiência, a produtividade e a competitividade da instituição 
+
+Atender às demandas sociais e do mercado de trabalho. 
+
+Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no desenvolvimento tecnológico e inovação. 
+
+Meta(s) relacionada(s):
+
+Ampliar as inscrições para o vestibular em 5% no ano de 2023. 
+
+Promover ações pedagógicas e administrativas que proporcionem a redução da taxa de evasão em 5% 
+
+ 
+Proposta de atualização do PPC do Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas com vistas à reestruturação. 
+
+O que será feito: Estruturação de proposta atualização do PPC do CST em ADS mediante análise dos conteúdos programáticos dos componentes curriculares do curso, e construção de nova grade curricular segundo as exigências mercadológicas e legislação vigente. 
+
+Por que será feito: Para atualização do Projeto Pedagógico do Curso em virtude do avanço tecnológico na área da tecnologia da informação e comunicação (TIC) 
+
+Aumentar a eficiência, a produtividade e a competitividade da instituição 
+
+Atender às demandas sociais e do mercado de trabalho. 
+
+Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no desenvolvimento tecnológico e inovação. 
+
+Meta(s) relacionada(s):
+
+Ampliar as inscrições para o vestibular em 5% no ano de 2023. 
+
+Promover ações pedagógicas e administrativas que proporcionem a redução da taxa de evasão em 5% 
+
+Meta(s) relacionada(s): 
+
+Ampliar as inscrições para o vestibular em 5% no ano de 2023. 
+
+Promover ações pedagógicas e administrativas que proporcionem a redução da taxa de evasão em 5% 
+
+ 
+Organização do Encontro de Comércio Exterior (ENCOMEX) para público externo, professores e alunos interessados na área, visando uma aproximação entre a academia e o mercado de atuação em comércio exterior. 
+
+O que será feito: Prospecção de convidados para ministrar palestras e oficinas durante o evento, preparação do cronograma de atividades, divulgação do evento junto ao público interno e externo, organização do evento e aplicação de pesquisa de satisfação após o evento. 
+
+Por que será feito: Para aproximação da academia, representada por alunos e professores, ao mercado de atuação em comércio exterior, representado pelos profissionais convidados para proferir palestras e oficinas no evento. 
+ 
+Objetivo(s) relacionado(s): Atender às demandas sociais e do mercado de trabalho. 
+
+Meta(s) relacionada(s): 
+
+Ampliar as inscrições para o vestibular em 5% no ano de 2023. 
+
+Promover ações pedagógicas e administrativas que proporcionem a redução da taxa de evasão em 5% 
+ 
+Projeto Oficina de Soluções (Estágio Voluntariado) 
+
+O que será feito: Desenvolvimento de atividades junto aos alunos em Estágio Voluntariado na Unidade. Por que será feito: O desenvolvimento de atividades colabora com ações de extensão, aumenta o interesse dos alunos e colabora com habilidades e competências na formação do aluno 
+
+ 
+Meta(s) relacionada(s): 
+
+Ampliar as inscrições para o vestibular em 5% no ano de 2023. 
+
+Promover ações pedagógicas e administrativas que proporcionem a redução da taxa de evasão em 5% 
+ 
+Proposta de atualização do PPC do CST em Jogos Digitais com vistas a reestruturação 
+ 
+COMUNICANDO VESTIBULAR 2023 
+
+O que será feito: Artes e vídeos para auxiliar na divulgação de vestibular para os cursos da Fatec São Caetano do 
+Sul. Por que será feito: Para auxiliar a faculdade na captação de novos alunos 
+
+Meta(s) relacionada(s): 
+
+Ampliar as inscrições para o vestibular em 5% no ano de 2023. 
+
+Promover ações pedagógicas e administrativas que proporcionem a redução da taxa de evasão em 5% 
+ 
+Proposta de atualização do PPC do CST em Jogos Digitais com vistas a reestruturação 
+ 
+Escritório de Carreiras 
+
+O que será feito: Orientações gerais sobre carreiras e processos seletivos aos alunos da Fatec São Caetano do Sul 
+– Antonio Russo. Por que será feito: Orientar os alunos para processos seletivos (certificações, currículos, entrevistas, comportamento), e possíveis carreiras. 
+
+Meta(s) relacionada(s): 
+
+Ampliar as inscrições para o vestibular em 5% no ano de 2023. 
+
+Promover ações pedagógicas e administrativas que proporcionem a redução da taxa de evasão em 5% 
+ 
+Proposta de atualização do PPC do CST em Jogos Digitais com vistas a reestruturação 
+
+Reduzir em 10% os índices de retenções em disciplinas específicas (Matemática e Estágio) 
+ 
+Projeto Atendimento Psicopedagógico 
+
+O que será feito: Serão realizados atendimentos individualizados aos alunos dos cursos presenciais da unidade São Caetano do Sul, mediante ao agendamento prévio. Por que será feito: Para acolhimento às questões psicológicas e também a dificuldade de aprendizagem. 
+ 
+Meta(s) relacionada(s): 
+
+Ampliar as inscrições para o vestibular em 5% no ano de 2023. 
+
+Promover ações pedagógicas e administrativas que proporcionem a redução da taxa de evasão em 5% 
+ 
+Proposta de atualização do PPC do CST em Jogos Digitais com vistas a reestruturação 
+ 
+Site da Unidade 
+
+O que será feito: Adaptação do site da Unidade ao modelo definido pela AssCom. Por que será feito: Trazer uma identidade visual atualizada ao site por meio do alinhamento à identidade visual definida pela AssCom. 
+
+Meta(s) relacionada(s): 
+
+Ampliar as inscrições para o vestibular em 5% no ano de 2023. 
+
+Promover ações pedagógicas e administrativas que proporcionem a redução da taxa de evasão em 5% 
+ 
+Proposta de atualização do PPC do CST em Jogos Digitais com vistas a reestruturação 
+ 
+Fatec SCS Games Day 2023
+
+O que será feito: Organizar o evento anual do CST em Jogos Digitais. Por que será feito: Oferecer aos alunos e ao público externo uma oportunidade de atualização em temas ligados ao desenvolvimento de jogos. Contribuir para o aumento da visibilidade do Curso e da Unidade. 
+
+Meta(s) relacionada(s): 
+
+Ampliar as inscrições para o vestibular em 5% no ano de 2023. 
+
+Promover ações pedagógicas e administrativas que proporcionem a redução da taxa de evasão em 5% 
+ 
+Global Game Jam 2024 
+
+O que será feito: Inscrição da Fatec São Caetano do Sul como sede da Global Game Jam 2024 e organização da sede visando a realização do evento. Por que será feito: Organizar a sede da Global Game Jam 2024 @ Fatec São Caetano do Sul, oferecendo aos alunos e ao público externo a oportunidade de participar dessa que é a maior game jam do mundo na sede da Fatec São Caetano do Sul, que realiza o evento ininterruptamente desde 2011. Contribuir para o aumento da visibilidade do Curso e da Unidade. 
+
+Objetivo(s) relacionado(s): Atender às demandas sociais e do mercado de trabalho. 
+
+Meta(s) relacionada(s): 
+
+Ampliar as inscrições para o vestibular em 5% no ano de 2023. 
+
+Promover ações pedagógicas e administrativas que proporcionem a redução da taxa de evasão em 5% 
+ 
+Proposta de atualização do PPC do CST em Jogos Digitais com vistas a reestruturação 
+
+O que será feito: Estruturação de proposta para atualização do PPC do CST em Jogos Digitais por meio de análise do perfil profissional do egresso atual, das necessidades do setor e da identificação de novo perfil profissional do egresso, competências a serem desenvolvidas e definição de nova estrutura curricular de forma a contemplar essas competências. 
+
+Por que será feito: Atualização do Projeto Pedagógico do Curso em função das necessidades do setor. 
+
+Objetivo(s) relacionado(s): 
+
+Aumentar a eficiência, a produtividade e a competitividade da instituição 
+
+Atender às demandas sociais e do mercado de trabalho. 
+
+Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no desenvolvimento tecnológico e inovação. 
+
+Meta(s) relacionada(s): 
+
+Ampliar as inscrições para o vestibular em 5% no ano de 2023. 
+
+Promover ações pedagógicas e administrativas que proporcionem a redução da taxa de evasão em 5% 
+ 
+Aquisição de livros importados para o curso de Jogos Digitais. O que será feito: Elaboração de relatório de necessidades de aquisição de livros importados de acordo com as bibliografias básica e complementar do PPC do CST em Jogos Digitais. Por que será feito: Manter o acervo completo e atualizado conforme a bibliografia do curso descrita no PPC. 
+  
+Objetivo(s) relacionado(s): 
+
+Aumentar a eficiência, a produtividade e a competitividade da instituição 
+
+Atender às demandas sociais e do mercado de trabalho. 
+
+Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no desenvolvimento tecnológico e inovação. 
+
+Meta(s) relacionada(s): 
+
+Promover ações pedagógicas e administrativas que proporcionem a redução da taxa de evasão em 5% 
+
+Aquisição de insumos para o curso de Jogos Digitais. O que será feito: Elaboração de relatório de necessidades de aquisição de insumos para utilização em atividades do 
+CST em Jogos Digitais. Por que será feito: Atender a solicitação de especialistas do CEESP decorrentes da última renovação de reconhecimento do Curso 
+ 
+Objetivo(s) relacionado(s): 
+
+Aumentar a eficiência, a produtividade e a competitividade da instituição.
+
+Atender às demandas sociais e do mercado de trabalho. 
+
+Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no desenvolvimento tecnológico e inovação. 
+
+Meta(s) relacionada(s): 
+
+Promover ações pedagógicas e administrativas que proporcionem a redução da taxa de evasão em 5% 
+
+Implantação novo curso AMS  
+
+O que será feito: Em parceria com a Etec Jorge Street implantar o curso AMS Tecnólogo em Processos Gerenciais (a partir do curso técnico de Administração) 
+
+Por que será feito: Ampliar vagas oferecidas em curso superior utilizando salas de aula ociosas no período matutino. 
+
+
+Objetivo(s) relacionado(s): 
+
+Aumentar a eficiência, a produtividade e a competitividade da instituição 
+
+Atender às demandas sociais e do mercado de trabalho. 
+
+Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no desenvolvimento tecnológico e inovação. 
+
+Meta(s) relacionada(s): Ampliar as inscrições para o vestibular em 5% no ano de 2023. 
+ 
+
+Objetivo(s) relacionado(s): Aumentar a eficiência, a produtividade e a competitividade da instituição  
+
+Meta(s) relacionada(s): Reestruturar e otimizar a rede de comunicação de dados da unidade. 
+
+A- Proposta de indexação do Fasci-Tech, periódico científico eletrônico da Fatec de São Caetano 
+do Sul, nas principais bases de dados. 
+
+O que será feito: Identificação dos critérios para o processo de indexação do Fasci-Tech, definição de cronograma de atividades para atendimento aos requisitos das principais bases de dados e estabelecimento de plano de ação para conclusão do registro do periódico.  
+
+Por que será feito: Para estabelecimento da correta padronização dos dados bibliográficos do periódico, mirando não somente a visibilidade da revista para publicação, bem como seu reconhecimento pelos pares na área de atuação. 
+ 
+Objetivo(s) relacionado(s): 
+
+Aumentar a eficiência, a produtividade e a competitividade da instituição 
+
+Garantir celeridade e efetividade na prestação de serviços. 
+
+Meta(s) relacionada(s): 
+
+Ampliar as inscrições para o vestibular em 5% no ano de 2023. 
+
+Promover ações pedagógicas e administrativas que proporcionem a redução da taxa de evasão em 5% 
+ 
+FaSCi-Tech. O que será feito: Atualização da plataforma de suporte ao periódico. Por que será feito: Necessidade técnica. 
+ 
+Objetivo(s) relacionado(s): 
+
+Aumentar a eficiência, a produtividade e a competitividade da instituição 
+
+Garantir celeridade e efetividade na prestação de serviços. 
+
+Meta(s) relacionada(s): 
+
+Ampliar as inscrições para o vestibular em 5% no ano de 2023. 
+
+Promover ações pedagógicas e administrativas que proporcionem a redução da taxa de evasão em 5% 
+ 
+Proposta de oferecimento semestral do edital de abertura para submissão de propostas de 
+pesquisa docente e discente para o Programa Institucional de Iniciação Científica (PCITec) da Fatec 
+São Caetano do Sul. 
+
+O que será feito: Promoção do Programa Institucional de Iniciação Científica (PCITec) da Fatec São Caetano do Sul à comunidade acadêmica, atualização do edital de abertura de inscrições, divulgação do cronograma do PCITec para submissão de propostas de pesquisa docente e discente, análise dos projetos enviados, divulgação dos resultados, início da pesquisa docente e discente e entrega dos relatórios parciais de orientadores e orientados. 
+
+Por que será feito: Para desenvolvimento de atividades científicas e tecnológicas nos cursos de Análise e Desenvolvimento de Sistemas, Comércio Exterior, Jogos Digitais e Segurança da Informação, através da promoção do PCITec da Fatec São Caetano do Sul à comunidade acadêmica. 
+
+
+Objetivo(s) relacionado(s): 
+
+Aumentar a eficiência, a produtividade e a competitividade da instituição 
+
+Garantir celeridade e efetividade na prestação de serviços. 
+
+Aumentar a eficiência, a produtividade e a competitividade da instituição 
+
+Meta(s) relacionada(s): 
+
+Ampliar as inscrições para o vestibular em 5% no ano de 2023. 
+
+Promover ações pedagógicas e administrativas que proporcionem a redução da taxa de evasão em 5% 
+ 
+Monitoria
+
+O que será feito: Programa de monitoria para disciplinas com maior reprovação. 
+
+Por que será feito: Para auxiliar no processo de aprovação dos alunos com dificuldades em disciplinas específicas 
+que tem maior índice de retenção. 
+
+Objetivo(s) relacionado(s): Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem. 
+
+Meta(s) relacionada(s): Promover ações pedagógicas e administrativas que proporcionem a redução da taxa de evasão em 5% 
+ 
+ 
+Atividades sobre Relações Interpessoais  
+
+O que será feito: Realizar palestras e workshops sobre relacionamento interpessoal aos servidores técnico-
+administrativo. 
+
+Por que será feito: Em pesquisa realizada percebeu-se que há conflitos de relacionamento entre docentes, discentes e servidores que afeta o clima organizacional. 
+
+Objetivo(s) relacionado(s): 
+
+Garantir celeridade e efetividade na prestação de serviços. 
+
+Aumentar a eficiência, a produtividade e a competitividade da instituição 
+
+Meta(s) relacionada(s): Promover ações pedagógicas e administrativas que proporcionem a redução da taxa de evasão em 5% 
  
  
 07 – Convênios e Parcerias Institucionais 
  
-AÇÃO/PROJETO 
-A - Proposta de ampliação de parcerias externas para o desenvolvimento de Projetos Colaborativos 
-Internacionais (PCIs) nos cursos tecnológicos oferecidos na Fatec São Caetano do Sul. 
-O que será feito: 
-Identificação de novas parcerias externas, definição de objetivos para o desenvolvimento dos novos 
-projetos, elaboração dos cronogramas de atividades, execução dos projetos e otimização dos PCIs 
-para o contínuo aperfeiçoamento deles.      
-Por que será feito: 
-Para promoção de trocas de experiências internacionais entre os parceiros; desenvolvimento de 
-habilidades digitais, linguísticas e interculturais, e realização de projetos colaborativos que estimulem 
-o aprendizado prático. 
-Responsável(is) / CH sem: Adriane Monteiro Fontana 
-Aline Correia de Sousa Colantuono 
-Período de execução: 
-Data de início: 
-01/03/2023 
-Data final: 
-22/12/2023 
-Etapas do processo: 
-Identificação de novas parcerias externas 
-01/03/2023 
-22/12/2023 
-Definição de objetivos para o desenvolvimento dos novos projetos 
-01/03/2023 
-22/12/2023 
-Elaboração dos cronogramas de atividades 
-01/03/2023 
-22/12/2023 
-Execução dos projetos 
-01/03/2023 
-22/12/2023 
-Otimização dos PCIs para o contínuo aperfeiçoamento deles 
-01/03/2023 
-22/12/2023 
-Custo (se houver): 
- 
-Fonte(s) dos recursos:  
-Objetivo(s) relacionado(s): Atender às demandas sociais e do mercado de trabalho. 
-Aumentar a eficiência, a produtividade e a competitividade da instituição 
-Meta(s) relacionada(s): 
-Firmar pelo menos 2 parcerias para realização de ações na unidade. 
- 
- 
- 
- 
-AÇÃO/PROJETO 
-B – Projeto de pesquisa e desenvolvimento de sistema para o Serviço de Atendimento Móvel de 
-Urgência (SAMU) do município de São Caetano do Sul. 
-O que será feito: 
-Projeto de pesquisa e desenvolvimento de sistema para controle de ambulâncias, insumos e 
-usuários (enfermeiros, administrativos e condutores) para o Serviço de Atendimento Móvel de 
-Urgência (SAMU) do município de São Caetano do Sul 
-Por que será feito: 
-Para atendimento às demandas sociais e do mercado de trabalho regional 
-Responsável(is) / CH sem: 
-Adriane Monteiro Fontana 
-César Torres Fernandes  
-Adilson Ferreira da Silva  
-Celso Denis Gallão  
-Período de execução: 
-Data de início: 
-06/03/2023 
-Data final: 
-15/12/2023 
-Etapas do processo: 
-1. 
-Conhecer as necessidades do SAMU 
-06/03/2023 
-31/03/2023 
-2. 
-Levantamento e especificação de requisitos 
-03/04/2023 
-08/05/2023 
-3. 
-Avaliação da viabilidade do projeto 
-08/05/2023 
-31/05/2023 
-4. 
-Design do projeto do sistema 
-31/05/2023 
-30/06/2023 
-5. 
-Implementação do sistema 
-03/07/2023 
-29/09/2023 
-6. 
-Testes do sistema 
-02/10/2023 
-31/10/2023 
-7. 
-Implantação do sistema no SAMU 
-01/11/2023 
-15/12/2023 
-Custo (se houver): 
- 
-Fonte(s) dos recursos:  
-Objetivo(s) relacionado(s): 
+Proposta de ampliação de parcerias externas para o desenvolvimento de Projetos Colaborativos Internacionais (PCIs) nos cursos tecnológicos oferecidos na Fatec São Caetano do Sul. 
+
+O que será feito: Identificação de novas parcerias externas, definição de objetivos para o desenvolvimento dos novos projetos, elaboração dos cronogramas de atividades, execução dos projetos e otimização dos PCIs para o contínuo perfeiçoamento deles.      
+
+Por que será feito: Para promoção de trocas de experiências internacionais entre os parceiros; desenvolvimento de habilidades digitais, linguísticas e interculturais, e realização de projetos colaborativos que estimulem o aprendizado prático. 
+  
+Objetivo(s) relacionado(s):
+
 Atender às demandas sociais e do mercado de trabalho. 
+
 Aumentar a eficiência, a produtividade e a competitividade da instituição 
-Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no 
-desenvolvimento tecnológico e inovação. 
-Garantir celeridade e efetividade na prestação de serviços. 
-Meta(s) relacionada(s): 
-Firmar pelo menos 2 parcerias para realização de ações na unidade. 
+
+Meta(s) relacionada(s): Firmar pelo menos 2 parcerias para realização de ações na unidade. 
  
- 
-AÇÃO/PROJETO 
-C - Proposta de implantação do Núcleo de Apoio Fiscal (NAF), em parceria com a Receita Federal 
-do Brasil (RFB), com vistas à atuação da Unidade junto à comunidade externa. 
-O que será feito: 
-Conclusão da parceria com a RFB para implantação do NAF na Unidade, adequação do local para 
-atendimento à comunidade, elaboração de editais e seleção dos alunos que vão fazer o treinamento 
-fornecido pela RBF, e acompanhamento do treinamento e do atendimento dos estudantes junto ao 
-público externo. 
-Por que será feito: 
-Para implantação do NAF em virtude do compartilhamento, com o público externo, do conhecimento 
-adquirido por meio das atividades de ensino, pesquisa e extensão desenvolvidas na instituição. 
-Responsável(is) / CH sem: 
-Adriane Monteiro Fontana 
-Aline Correia de Sousa Colantuono  
-Sonia Cristina Menoce  
-Celso Luiz Rigotto 
-Período de execução: 
-Data de início: 
-31/03/2023 
-Data final: 
-22/12/2023 
-Etapas do processo: 
-Conclusão da parceria com a RFB 
-01/03/2023 
-31/03/2023 
-Adequação do local para atendimento à comunidade 
-01/03/2023 
-31/03/2023 
-Elaboração de editais e seleção dos alunos que vão fazer o treinamento 
-fornecido pela RBF 
-01/04/2023 
-30/04/2023 
-Acompanhamento do treinamento dos alunos 
-01/05/2023 
-30/06/2023 
-Acompanhamento do atendimento dos estudantes junto ao público 
-externo 
-01/07/2023 
-22/12/2023 
-Custo (se houver): 
-Sem custos 
-Fonte(s) dos recursos:  
+Projeto de pesquisa e desenvolvimento de sistema para o Serviço de Atendimento Móvel de Urgência (SAMU) do município de São Caetano do Sul. 
+
+O que será feito: Projeto de pesquisa e desenvolvimento de sistema para controle de ambulâncias, insumos e usuários (enfermeiros, administrativos e condutores) para o Serviço de Atendimento Móvel de Urgência (SAMU) do município de São Caetano do Sul 
+
+Por que será feito: Para atendimento às demandas sociais e do mercado de trabalho regional 
+
 Objetivo(s) relacionado(s): 
+
 Atender às demandas sociais e do mercado de trabalho. 
+
 Aumentar a eficiência, a produtividade e a competitividade da instituição 
+
+Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no desenvolvimento tecnológico e inovação. 
+
 Garantir celeridade e efetividade na prestação de serviços. 
-Meta(s) relacionada(s): 
-Firmar pelo menos 2 parcerias para realização de ações na unidade. 
+
+Meta(s) relacionada(s): Firmar pelo menos 2 parcerias para realização de ações na unidade. 
  
  
- 
-AÇÃO/PROJETO 
-D – Escola de Psicologia da USCS 
-O que será feito: 
-Atendimento psicológico a discentes, docentes e servidores técnico-administrativos 
-Por que será feito: 
-Minimizar as consequências do pós-Covid 19 na saúde mental de nossos discentes, docentes e 
-equipe técnico-administrativa, considerando o período de isolamento e ensino remoto emergencial 
-Responsável(is) / CH sem: Adriane Monteiro Fontana 
-Paula Daniela da Silva Monciatti 
-Período de execução: 
-Data de início: 
-01/02/2023 
-Data final: 
-31/12/2023 
-Etapas do processo: 
-Contato com a Escola de Psicologia da USCS 
-01/02/2023 
-07/02/2023 
-Apresentação da Escola de Psicologia da USCS aos docentes e 
-servidores administrativos 
-08/02/2023 
-15/02/2023 
-Elaboração de Convênio (GDS/CESU/Fatec São Caetano do Sul) 
-16/02/2023 
-30/03/2023 
-Elaboração de cronograma de atividades para atendimento 
-01/04/2023 
-15/04/2023 
-Atendimento dos discentes, docentes e servidores técnico-
-administrativos): pessoal, rodas de conversa, palestras, etc. 
-16/04/2023 
-21/12/2023 
-Custo (se houver): 
- 
-Fonte(s) dos recursos:  
+Proposta de implantação do Núcleo de Apoio Fiscal (NAF), em parceria com a Receita Federal do Brasil (RFB), com vistas à atuação da Unidade junto à comunidade externa. 
+
+O que será feito: Conclusão da parceria com a RFB para implantação do NAF na Unidade, adequação do local para atendimento à comunidade, elaboração de editais e seleção dos alunos que vão fazer o treinamento fornecido pela RBF, e acompanhamento do treinamento e do atendimento dos estudantes junto ao público externo. 
+
+Por que será feito: Para implantação do NAF em virtude do compartilhamento, com o público externo, do conhecimento adquirido por meio das atividades de ensino, pesquisa e extensão desenvolvidas na instituição. 
+
 Objetivo(s) relacionado(s): 
+
 Atender às demandas sociais e do mercado de trabalho. 
+
 Aumentar a eficiência, a produtividade e a competitividade da instituição 
+
 Garantir celeridade e efetividade na prestação de serviços. 
+
+Meta(s) relacionada(s): Firmar pelo menos 2 parcerias para realização de ações na unidade. 
+ 
+Escola de Psicologia da USCS 
+
+O que será feito: Atendimento psicológico a discentes, docentes e servidores técnico-administrativos 
+
+Por que será feito: Minimizar as consequências do pós-Covid 19 na saúde mental de nossos discentes, docentes e equipe técnico-administrativa, considerando o período de isolamento e ensino remoto emergencial 
+
+
+Objetivo(s) relacionado(s): 
+
+Atender às demandas sociais e do mercado de trabalho. 
+
+Aumentar a eficiência, a produtividade e a competitividade da instituição 
+
+Garantir celeridade e efetividade na prestação de serviços. 
+
 Meta(s) relacionada(s): 
+
 Firmar pelo menos 2 parcerias para realização de ações na unidade. 
- 
- 
- 
-ETAPA II – APROVAÇÃO E HOMOLOGAÇÃO 
- 
-APROVAÇÃO DO PGA PELA CONGREGAÇÃO DA UE 
-Envio da Ata de aprovação 
-Ata assinada (.pdf) 
- 
-Data da aprovação: 
-14/03/2023 
-Data do envio: 
-14/03/2023 
- 
-PARECER DA CESU 
-Data: 
-dd/mm/aaaa  
-Aprovado? 
-(   ) Sim                      (   ) Não 
-Se não aprovado, devolvido para adequação, com prazo para revisão até: 
-dd/mm/aaaa  
-Parecer: 
- 
- 
- 
- 
-ETAPA III – ACOMPANHAMENTO DAS AÇÕES GERENCIAIS 
-RELATÓRIO DE ACOMPANHAMENTO DE PROJETO (MENSAL) 
-Status mensal do projeto 
-Identificação do Projeto 
-(automático) 
-Data: 
-dd/mm/aaaa 
-Situação: 
-(   ) Em andamento                             
-Previsão de término: 
-dd/mm/aaaa 
-Justificativa: 
- 
-(   ) Ainda não foi iniciado                   
-Previsão de início: 
-dd/mm/aaaa 
-Justificativa: 
- 
-(   ) Cancelado (antes do início) 
-Data: 
-dd/mm/aaaa 
-Justificativa: 
- 
-(   ) Suspenso (interrompido após 
-iniciado) 
-Data: 
-dd/mm/aaaa 
-Justificativa: 
- 
-(   ) Concluído 
-Data da conclusão: 
-dd/mm/aaaa 
-Resultados: 
- 
- 
-Intercorrências: 
- 
- 
-Observação: 
- 
- 
-Meta(s) alcançada(s) 
-(aparecer a meta automaticamente, conforme indicada no projeto para a indicação do percentual 
-alcançado) 
-Evidência(s): 
-(descrever e inserir documento que evidencie a execução ou atingimento da meta) 
- 
- 
-Validação do relatório (acompanhamento) 
-Identificação do Projeto 
-(automático) 
-Data: 
-dd/mm/aaaa 
-Parecer: 
-Favorável? 
-(   ) Sim              (   ) Não                     (    ) Parcialmente favorável 
-Considerações/Recomendações: 
- 
- 
- 
- 
- 
- 
- 
- 
- 
