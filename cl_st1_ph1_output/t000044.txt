@@ -168,8 +168,7 @@ Meta(s) relacionada(s): Aumentar em 20% a demanda dos curso da tarde.
 
 Ampliação da digitalização dos serviços da secretaria acadêmica 
 
-O que será feito: Desenvolver um novo sistema de requisições à secretaria acadêmica. 
-Por que será feito: Diminuir o tempo de atendimento ao aluno na secretaria acadêmica. 
+O que será feito: Desenvolver um novo sistema de requisições à secretaria acadêmica. Por que será feito: Diminuir o tempo de atendimento ao aluno na secretaria acadêmica. 
  
 Objetivo(s) relacionado(s): Aumentar a eficiência, a produtividade e a competitividade da instituição. 
 
