@@ -3,6 +3,7 @@ Section: 1 INTRODUÇÃO
 RELATÓRIO ANUAL DE ATIVIDADES - RAA - Unidade: F160 - Fatec Santo André 
 
 Srection: 2 DESENVOLVIMENTO
+
 • Aprovação do curso de sistemas embarcados e mecânica automobilística no período manhã: Para adequação ao APL e consulta a empresas do setor automobilístico, a unidade de ensino apresentou a proposta de ampliação das vagas na unidade, com esses dois cursos. A abertura desses cursos contribuirá aos projetos de P&D do rota 2030, onde a unidade possuí investimentos na ordem de 2 milhões de reais em equipamentos e bolsas de estudos. 
 
 • No ano de 2021 a unidade apresentou, em conjunto com outras universidades o projeto ROTA 2030. A consolidação deste projeto já gerou um relatório prévio enviado a FUNDEP, nele consta as atividades das ICTs participantes. No período a FATEC Santo André selecionou dois bolsistas de IC, além de coordenar o desenvolvimento técnico do protótipo antes da implementação final em sistemas automotivos e agrícola. 
