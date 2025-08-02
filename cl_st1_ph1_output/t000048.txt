@@ -1,1318 +1,172 @@
+Section: 1 ANÁLISE DO CENÁRIO
+
 PLANO DE GESTÃO ANUAL – PGA 
-v07 
-Estruturado em 3 etapas: 
-ETAPA I – PLANEJAMENTO PELA EQUIPE GESTORA DA UE 
-ETAPA II – APROVAÇÃO E HOMOLOGAÇÃO 
-ETAPA III – ACOMPANHAMENTO DAS AÇÕES GERENCIAIS 
+
+A Fatec de Diadema – Luigi Papaiz foi criada no dia 01 de setembro de 2009 e iniciou suas atividades acadêmicas em agosto de 2012 com o Curso Superior de Tecnologia (CST) em Cosméticos, com 80 vagas semestrais no período vespertino e noturno. Em 2016 foi solicitado a CESU autorização para mudança de turno do curso do período vespertino para o período matutino, que foi autorizado para o 1º semestre de 2017.  
+
+Objetivando expandir a oferta de cursos à comunidade local, em 2018 foi realizada uma pesquisa entre empresários locais e Prefeitura de Diadema a fim de identificar o perfil da região. Ficou evidente a importância do setor da indústria no estado de São Paulo e na região do grande ABC e Diadema. Por meio desses contatos identificou-se a necessidade e a existência de demanda para a oferta do CST em Gestão da Produção Industrial. Em agosto de 2019 recebemos autorização da CESU para a oferta desse curso, no período noturno, com a oferta de 40 vagas.  
+
+Em 2020 com o início da pandemia muitas coisas transformaram o cotidiano das pessoas e a demanda por profissionais do setor de Tecnologia da Informação e Comunicação (TIC) tornou-se muito maior do que já era. Segundo dados da Associação Brasileira de Empresas de Tecnologia da Informação e Comunicação (Brasscom), o mercado nacional empregava 1,56 milhão de trabalhadores, com mais de 40 mil postos de trabalho criados em 2019. Desse montante, 42,8% está em São Paulo. A previsão era de que o setor demandasse, até 2024, 70 mil profissionais por ano, cerca de 20 mil a mais do que se formam em cursos da área de TIC. Dessa forma, solicitamos ao Centro Paula Souza a implantação do CST em Desenvolvimento de Software Multiplataforma que foi autorizada para funcionar no período matutino, com 40 vagas a partir do primeiro semestre de 2021. 
+
+Temos visto, diante da pandemia e do retorno às aulas presenciais, que o vestibular das Fatecs e das Faculdades em geral vem apresentando diminuição da demanda por vagas. Notícia recente publicada pelo Jornal Estadão – A Universidade em xeque, disponível em: https://www.estadao.com.br/opiniao/a-universidade-em-xeque/, mostra que a queda vem acontecendo na última década e segundo eles:  [...] diversos motivos explicam tamanha redução − entre eles, os desdobramentos da pandemia de covid-19, o empobrecimento de boa parte da população e o descaso do governo [...] com a área educacional. 
+
+Mas há uma questão de fundo que não pode passar despercebida: o ensino universitário, da forma como está estruturado, parece incapaz de despertar o interesse de uma parcela da juventude.  
+
+O CPS tem investido em capacitação em novas metodologias de ensino, como as ativas,  porém a adesão entre os docentes é pequena e eles têm dificuldade em aplicadas na prática. De outro lado, os alunos ingressantes apresentam uma defasagem grande de aprendizagem que precisa ser superada para que eles deem prosseguimentos aos estudos em nível superior. 
+
+De acordo com a reportagem citada: a certificação de competências em cursos de curta duração, por exemplo, vem ganhando força, assim como há empresas que dispensam o diploma ao selecionar seus funcionários. É nesse contexto que uma parcela da juventude deixa de perceber a universidade como a principal rota para a conquista do emprego. 
+
+Outro fator preocupante é o alto índice de evasão nos cursos superiores em geral que se dá, de acordo com a reportagem, porque o jovem não consegue se manter e deixa de estudar para trabalhar e tem até quem desiste porque não se identifica com o curso.  
+
+Em relação a demanda no vestibular, o quadro descrito na reportagem vem sendo vivido aqui na Fatec Diadema – Luigi Papaiz, principalmente pelo CST em Cosméticos que nos últimos vestibulares (2022-2 e 2023-1) não atingiu a demanda mínima. Também enfrentamos problemas com relação ao alto índice de evasão.  
  
-IDENTIFICAÇÃO DA UNIDADE 
-Unidade 
-217 
-Fatec Diadema – Luigi Papaiz  
-Diretor(a) 
-Profa. Dra. Rosângela Maura Correia Bonici 
- 
-ETAPA I – PLANEJAMENTO PELA EQUIPE GESTORA DA UE 
-ANÁLISE DO CENÁRIO (Breve diagnóstico/Baseline) 
- 
-A Fatec de Diadema – Luigi Papaiz foi criada no dia 01 de setembro de 2009 e iniciou suas atividades 
-acadêmicas em agosto de 2012 com o Curso Superior de Tecnologia (CST) em Cosméticos, com 80 vagas 
-semestrais no período vespertino e noturno. Em 2016 foi solicitado a CESU autorização para mudança de 
-turno do curso do período vespertino para o período matutino, que foi autorizado para o 1º semestre de 
-2017.  
-Objetivando expandir a oferta de cursos à comunidade local, em 2018 foi realizada uma pesquisa entre 
-empresários locais e Prefeitura de Diadema a fim de identificar o perfil da região. Ficou evidente a 
-importância do setor da indústria no estado de São Paulo e na região do grande ABC e Diadema. Por 
-meio desses contatos identificou-se a necessidade e a existência de demanda para a oferta do CST em 
-Gestão da Produção Industrial. Em agosto de 2019 recebemos autorização da CESU para a oferta desse 
-curso, no período noturno, com a oferta de 40 vagas.  
-Em 2020 com o início da pandemia muitas coisas transformaram o cotidiano das pessoas e a demanda 
-por profissionais do setor de Tecnologia da Informação e Comunicação (TIC) tornou-se muito maior do 
-que já era. Segundo dados da Associação Brasileira de Empresas de Tecnologia da Informação e 
-Comunicação (Brasscom), o mercado nacional empregava 1,56 milhão de trabalhadores, com mais de 40 
-mil postos de trabalho criados em 2019. Desse montante, 42,8% está em São Paulo. A previsão era de 
-que o setor demandasse, até 2024, 70 mil profissionais por ano, cerca de 20 mil a mais do que se formam 
-em cursos da área de TIC. Dessa forma, solicitamos ao Centro Paula Souza a implantação do CST em 
-Desenvolvimento de Software Multiplataforma que foi autorizada para funcionar no período matutino, com 
-40 vagas a partir do primeiro semestre de 2021.  
-Temos visto, diante da pandemia e do retorno às aulas presenciais, que o vestibular das Fatecs e das 
-Faculdades em geral vem apresentando diminuição da demanda por vagas. Notícia recente publicada 
-pelo Jornal Estadão – A Universidade em xeque, disponível em: https://www.estadao.com.br/opiniao/a-
-universidade-em-xeque/, mostra que a queda vem acontecendo na última década e segundo eles:  
-[...] diversos motivos explicam tamanha redução − entre eles, os desdobramentos da 
-pandemia de covid-19, o empobrecimento de boa parte da população e o descaso do 
-governo [...] com a área educacional. Mas há uma questão de fundo que não pode passar 
-despercebida: o ensino universitário, da forma como está estruturado, parece incapaz de 
-despertar o interesse de uma parcela da juventude.  
-O CPS tem investido em capacitação em novas metodologias de ensino, como as ativas,  porém a adesão 
-entre os docentes é pequena e eles têm dificuldade em aplicadas na prática. De outro lado, os alunos 
-ingressantes apresentam uma defasagem grande de aprendizagem que precisa ser superada para que 
-eles deem prosseguimentos aos estudos em nível superior. 
-De acordo com a reportagem citada: 
-a certificação de competências em cursos de curta duração, por exemplo, vem ganhando 
-força, assim como há empresas que dispensam o diploma ao selecionar seus funcionários. 
-É nesse contexto que uma parcela da juventude deixa de perceber a universidade como a 
-principal rota para a conquista do emprego. 
-Outro fator preocupante é o alto índice de evasão nos cursos superiores em geral que se dá, de acordo 
-com a reportagem, porque o jovem não consegue se manter e deixa de estudar para trabalhar e tem até 
-quem desiste porque não se identifica com o curso.  
-Em relação a demanda no vestibular, o quadro descrito na reportagem vem sendo vivido aqui na Fatec 
-Diadema – Luigi Papaiz, principalmente pelo CST em Cosméticos que nos últimos vestibulares (2022-2 e 
-2023-1) não atingiu a demanda mínima. Também enfrentamos problemas com relação ao alto índice de 
-evasão.  
- 
- 
-• 
-Discorrer sobre o cenário, realizando um breve diagnóstico (limitar o espaço da escrita, para que seja inserido de 
-forma sucinta). 
 APONTAMENTO DE SITUAÇÕES-PROBLEMA MAIS RELEVANTES (“Escuta”) 
-Fontes: relatório CPA, análise de processos críticos da UE, relatório de atendimento e ocorrências 
-Hórus GCom. relatório NDE, relatório de representação discente. 
-1 
-Recursos tecnológicos: falta ou defasagem 
-de computadores, roteadores, velocidade da 
-internet, etc. 
+
+1 Recursos tecnológicos: falta ou defasagem de computadores, roteadores, velocidade da internet, etc. 
  
-5 
-Pedagógico: falta de aquisição de 
-bibliografias. 
-2 
-Infraestrutura: reformas - sala de aulas, 
-laboratórios, e instalações elétricas, etc. 
+Pedagógico: falta de aquisição de bibliografias. 
  
-6 
-Gestão de pessoas: número insuficiente de 
-funcionários. 
-3 
-Imagem institucional: divulgação dos cursos 
-e da unidade de ensino. 
+Infraestrutura: reformas - sala de aulas, laboratórios, e instalações elétricas, etc. 
  
-7 
-Pedagógico: Projeto Pedagógico de Curso 
-com necessidade de adequação. 
-4 
-Pedagógico: evasão e trancamento dos 
-alunos. 
+Gestão de pessoas: número insuficiente de funcionários. 
  
-8 
-Vestibular: baixa demanda no vestibular, alta 
-taxa de inscrição. 
+Imagem institucional: divulgação dos cursos e da unidade de ensino. 
+ 
+Pedagógico: Projeto Pedagógico de Curso com necessidade de adequação. 
+
+Pedagógico: evasão e trancamento dos alunos. 
+ 
+Vestibular: baixa demanda no vestibular, alta taxa de inscrição. 
  
 DEFINIÇÃO DE OBJETIVOS, METAS E AÇÕES (PROJETOS) 
+
 Objetivos 
-1 
-Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no 
-desenvolvimento tecnológico e inovação. 
-2 
-Aumentar a eficiência, a produtividade e a competitividade da instituição. 
-3 
-Atender às demandas sociais e do mercado de trabalho. 
-4 
-Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem. 
-5 
-Ampliar a capacidade de criar e atualizar cursos em parceria com o mercado 
-• 
-Os objetivos devem estar relacionados com melhoria ou ação, sobre itens do PDI. 
+
+1 Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no desenvolvimento tecnológico e inovação. 
+
+2 Aumentar a eficiência, a produtividade e a competitividade da instituição. 
+
+3 Atender às demandas sociais e do mercado de trabalho. 
+
+4 Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem. 
+
+5 Ampliar a capacidade de criar e atualizar cursos em parceria com o mercado 
+
 Metas 
-1 
-Ampliar os laboratórios de informática em 2 
-unidades, com equipamentos, elétrica e 
-dados; os laboratórios de GPI com 
-equipamentos e softwares e de Cosméticos 
-com equipamentos até dezembro de 2023. 
+
+1 Ampliar os laboratórios de informática em 2 unidades, com equipamentos, elétrica e dados; os laboratórios de GPI com 
+equipamentos e softwares e de Cosméticos com equipamentos até dezembro de 2023. 
  
-5 
-Adequar 100% da bibliografia básica dos 
-cursos de GPI e DSM até dezembro de 2023 
-atendendo as demandas dos alunos e do 
+2 Adequar 100% da bibliografia básica dos cursos de GPI e DSM até dezembro de 2023 atendendo as demandas dos alunos e do 
 CEE 
-2 
-Adequar rede wifi para a unidade de ensino  
  
-6 
-Ampliar em 100% o quadro de funcionários 
-da Unidade  até dezembro de 2023. 
-3 
-Ampliar a visita a pelo menos 10 empresas e 
-10 escolas de ensino médio da região até 
-dezembro de 2023 
+3 Adequar rede wifi para a unidade de ensino  
  
-7 
-Adequar o PPC do CST em GPI de modo 
-atender as demandas do CEE e atender as 
-demandas sociais do mercado de trabalho 
-até abril de 2023.  
-4 
-Promover ações administrativas e 
-pedagógicas que proporcionem a redução da 
-taxa de evasão em 5% com relação ao 
-indicador de desempenho de 2022, no ano 
-de 2023. 
+4 Ampliar em 100% o quadro de funcionários da Unidade  até dezembro de 2023. 
+
+5 Ampliar a visita a pelo menos 10 empresas e 10 escolas de ensino médio da região até dezembro de 2023 
  
-8 
-Ampliar as inscrições para o Vestibular dos 
-CST em Cosméticos em 10% no ano de 
-2023. 
-• 
-Observar que cada meta deve ser: específica, mensurável, atingível, relevante e temporal. 
+6 Adequar o PPC do CST em GPI de modo atender as demandas do CEE e atender as demandas sociais do mercado de trabalho até abril de 2023.  
  
+7 Promover ações administrativas e pedagógicas que proporcionem a redução da taxa de evasão em 5% com relação ao 
+indicador de desempenho de 2022, no ano de 2023. 
  
+8 Ampliar as inscrições para o Vestibular dos CST em Cosméticos em 10% no ano de 2023. 
  
-ESTRUTURAÇÃO DAS AÇÕES/PROJETOS 
-01 - Didático-pedagógico 
- 
-AÇÃO/PROJETO 
 A -  Melhorar a visibilidade da Unidade de ensino e a demanda do vestibular  
-O que será feito: 
-Visita a empresas e escolas de ensino médio da região do ABCD 
-Por que será feito: 
-Melhorar a visibilidade da Instituição de ensino na região, aumentar a demanda do vestibular 
-e a competitividade dos cursos. Gerar ideias e projetos para melhorar e alcançar esse 
-objetivo. 
-Responsável(is) / CH sem: 
-Carla Pedriali Morais (4h voluntária) 
-Período de execução: 
-Data de início: 
-06/02/2023 
-Data final: 
-20/12/2023 
-Etapas do processo: 
-1- Planejamento do cronograma de visitas  
-01/03/2023 
-15/03/2023 
-2- Visita a 5 empresas da região do ABCD  
-16/03/2023 
-29/04/2023 
-3- Visita à 5 escolas de ensino Médio de 
-Diadema e região 
-01/05/2023 
-15/06/2023 
-4- Organização e entrega do relatório de 
-fechamento da atividade (1º semestre) 
-16/06/2023 
-30/06/2023 
+
+O que será feito: Visita a empresas e escolas de ensino médio da região do ABCD 
+
+Por que será feito: Melhorar a visibilidade da Instituição de ensino na região, aumentar a demanda do vestibular e a competitividade dos cursos. Gerar ideias e projetos para melhorar e alcançar esse objetivo. 
  
-5- Planejamento do cronograma de visitas 
-01/08/2023 
-15/08/2023 
- 
-6- Visita a 5 empresas da região do ABCD 
-16/08/2023 
-30/09/2023 
- 
-7- Visita à 5 escolas de ensino Médio de 
-Diadema e região  
-01/10/2023 
-30/11/2023 
- 
-8- Organização e entrega do relatório de 
-fechamento da atividade (2º semestre) 
-01/12/2023  
-20/12/2023 
-Custo (se houver): 
- 
-Fonte(s) dos recursos: 
- 
-Objetivo(s) relacionado(s): 
-Aumentar a eficiência, a produtividade e a competitividade da instituição. 
+Objetivo(s) relacionado(s): Aumentar a eficiência, a produtividade e a competitividade da instituição. 
+
 Meta(s) relacionada(s): 
-Ampliar a visita a pelo menos 10 empresas e 10 escolas de ensino médio da região até 
-dezembro de 2023. 
+
+Ampliar a visita a pelo menos 10 empresas e 10 escolas de ensino médio da região até dezembro de 2023. 
+
 Ampliar as inscrições para o Vestibular dos CST em Cosméticos em 10% no ano de 2023. 
  
-AÇÃO/PROJETO 
 B – Reforço e monitoria de inglês - CST em Cosméticos 
-O que será feito: 
-Oferecimento de aulas de reforço e monitoria de inglês  
-Por que será feito: 
-Melhorar os processos de aprendizagem e reduzir a taxa de evasão  
-Responsável(is) / CH sem: 
-Profa. Rosangela Aparecida de Q. Manduca – 2  HAES 
-Patrícia Trindade Rodrigues Costa (monitora) (8h semanais) 
-Período de execução: 
-Data de início: 
-06/02/2023 
-Data final: 
-20/12/2023 
-Etapas do processo: 
-1- Aulas e monitoria fevereiro 
-06/02/2023 28/02/2023 
-2- Aulas e monitoria março 
-01/03/2023 31/03/2023 
-3- Aulas e monitoria abril 
-01/04/2023 29/04/2023 
-4- Aulas e monitoria maio 
-01/05/2023 31/05/2023 
-5- Aulas e monitoria junho 
-01/06/2023 15/06/2023 
- 
-6- Organização e entrega dos relatórios de fechamento da 
-atividade (1º semestre) 
-16/06/2023 30/06/2023 
- 
-7- Aulas e monitoria agosto 
-01/08/2023 30/08/2023 
- 
-8- Aulas e monitoria setembro 
-01/09/2023 30/09/2023 
- 
-9- Aulas e monitoria outubro 
-01/10/2023 30/10/2023 
- 
-10- Aulas e monitoria novembro 
-01/11/2023 30/11/2023 
- 
-11- Organização e entrega dos relatórios de fechamento da 
-atividade (2º semestre) 
-01/12/2023  20/12/2023 
-Custo (se houver): 
- 
-Fonte(s) dos recursos: 
+
+O que será feito: Oferecimento de aulas de reforço e monitoria de inglês  
+
+Por que será feito: Melhorar os processos de aprendizagem e reduzir a taxa de evasão  
  
 Objetivo(s) relacionado(s): Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem. 
-Meta(s) relacionada(s): 
-Promover ações administrativas e pedagógicas que proporcionem a redução da taxa de evasão 
-em 5% com relação ao indicador de desempenho de 2022, no ano de 2023. 
+
+Meta(s) relacionada(s): Promover ações administrativas e pedagógicas que proporcionem a redução da taxa de evasão em 5% com relação ao indicador de desempenho de 2022, no ano de 2023. 
  
-AÇÃO/PROJETO 
 C - Reforço de Matemática - CST em Cosméticos 
-O que será feito: 
-Oferecimento de aulas de reforço de matemática (pós aula manhã e pré-aula noite) 
-Por que será feito: 
-Melhorar os processos de aprendizagem e reduzir a taxa de evasão 
-Responsável(is) / CH sem: 
-Leandro Marques – 4 HAES 
-Período de execução: 
-Data de início: 
-06/02/2023 
-Data final: 
-20/12/2023 
-Etapas do processo: 
-1- Aulas de reforço fevereiro 
-06/02/2023 28/02/2023 
-2- Aulas de reforço março 
-01/03/2023 31/03/2023 
-3- Aulas de reforço abril 
-01/04/2023 29/04/2023 
-4- Aulas de reforço maio 
-01/05/2023 31/05/2023 
-5- Aulas de reforço a junho 
-01/06/2023 15/06/2023 
- 
-6- Organização e entrega dos relatórios de fechamento da 
-atividade (1º semestre) 
-16/06/2023 30/06/2023 
- 
-7- Aulas de reforço agosto 
-01/08/2023 30/08/2023 
- 
-8- Aulas de reforço setembro 
-01/09/2023 30/09/2023 
- 
-9- Aulas de reforço outubro 
-01/10/2023 30/10/2023 
- 
-10- Aulas de reforço novembro 
-01/11/2023 30/11/2023 
- 
-11- Organização e entrega do relatório de fechamento da 
-atividade (2º semestre) 
-01/12/2023  20/12/2023 
-Custo (se houver): 
- 
-Fonte(s) dos recursos: 
+
+O que será feito: Oferecimento de aulas de reforço de matemática (pós aula manhã e pré-aula noite) 
+
+Por que será feito: Melhorar os processos de aprendizagem e reduzir a taxa de evasão 
  
 Objetivo(s) relacionado(s): Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem. 
-Meta(s) relacionada(s): 
-Promover ações administrativas e pedagógicas que proporcionem a redução da taxa de evasão 
-em 5% com relação ao indicador de desempenho de 2022, no ano de 2023. 
+
+Meta(s) relacionada(s): Promover ações administrativas e pedagógicas que proporcionem a redução da taxa de evasão em 5% com relação ao indicador de desempenho de 2022, no ano de 2023. 
  
- 
-AÇÃO/PROJETO 
 D – Monitoria em Algoritmos e lógica de programação para o CST em DSM 
-O que será feito: 
-Oferecimento de apoio aos conteúdos de algoritmos e lógica de programação para o CST em 
-DSM através de Monitor (aluno) 
-Por que será feito: 
-Melhorar os processos de aprendizagem e reduzir a taxa de evasão 
-Responsável(is) / CH sem: 
-Profa Andrea Zotovici (2 h semanais) e monitor José Anderson Silva De Souza (8h semanais) 
-Período de execução: 
-Data de início: 
-06/02/2023 
-Data final: 
-20/12/2023 
-Etapas do processo: 
-1- Plantão de dúvidas fevereiro  
-06/02/2023 28/02/2023 
-2- Plantão de dúvidas março 
-01/03/2023 31/03/2023 
-3- Plantão de dúvidas abril 
-01/04/2023 29/04/2023 
-4- Plantão de dúvidas maio 
-01/05/2023 31/05/2023 
-5- Plantão de dúvidas a junho 
-01/06/2023 15/06/2023 
- 
-6- Organização e entrega dos relatórios de fechamento da 
-atividade (1º semestre) 
-16/06/2023 30/06/2023 
- 
-7- Plantão de dúvidas agosto 
-01/08/2023 30/08/2023 
- 
-8- Plantão de dúvidas setembro 
-01/09/2023 30/09/2023 
- 
-9- Plantão de dúvidas outubro 
-01/10/2023 30/10/2023 
- 
-10- Plantão de dúvidas novembro 
-01/11/2023 30/11/2023 
- 
-11- Organização e entrega do relatório de fechamento da 
-atividade (2º semestre) 
-01/12/2023  20/12/2023 
-Custo (se houver): 
- 
-Fonte(s) dos recursos: 
- 
+
+O que será feito: Oferecimento de apoio aos conteúdos de algoritmos e lógica de programação para o CST em DSM através de Monitor (aluno) 
+
+Por que será feito: Melhorar os processos de aprendizagem e reduzir a taxa de evasão 
+
 Objetivo(s) relacionado(s): Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem. 
-Meta(s) relacionada(s): 
-Promover ações administrativas e pedagógicas que proporcionem a redução da taxa de evasão 
+
+Meta(s) relacionada(s): Promover ações administrativas e pedagógicas que proporcionem a redução da taxa de evasão 
 em 5% com relação ao indicador de desempenho de 2022, no ano de 2023. 
- 
- 
-AÇÃO/PROJETO 
+
 E – Adequação do Projeto Pedagógico de Curso  de GPI 
-O que será feito: 
-Adequação do Projeto Pedagógico de Curso  de GPI para o novo template 
-Por que será feito: 
-Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no 
-desenvolvimento tecnológico e inovação e alcançar e manter o grau de excelência nos processos 
-de ensino e aprendizagem, bem como atender as demandas do Conselho Estadual de Educação.  
-Responsável(is) / CH sem: 
-Carla Pedriali Morais(4 HAE) / Gonçalo Siqueira (2 horas) 
-Período de execução: 
-Data de início: 
-06/02/2023 
-Data final: 
-30/04/2023 
-Etapas do processo: 
-Envio do template e PPC para adequação  
-06/02/2023 06/02/2023 
-Adequação do PPC 
-07/02/2023 25/03/2023 
-Revisão do PPC pela Coordenação de curso  
-26/03/2023 03/04/2023 
-Envio do PPC à  CESU 
-04/04/2023 04/04/2023 
-Custo (se houver): 
- 
-Fonte(s) dos recursos: 
+
+O que será feito: Adequação do Projeto Pedagógico de Curso  de GPI para o novo template 
+
+Por que será feito: Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no desenvolvimento tecnológico e inovação e alcançar e manter o grau de excelência nos processos de ensino e aprendizagem, bem como atender as demandas do Conselho Estadual de Educação.  
  
 Objetivo(s) relacionado(s): Ampliar a capacidade de criar e atualizar cursos em parceria com o mercado 
-Meta(s) relacionada(s): 
-Adequar o PPC do CST em GPI de modo atender as demandas do CEE e atender as demandas 
-sociais do mercado de trabalho até abril de 2023. 
+
+Meta(s) relacionada(s): Adequar o PPC do CST em GPI de modo atender as demandas do CEE e atender as demandas sociais do mercado de trabalho até abril de 2023. 
  
 AÇÃO/PROJETO 
 F – Modernizar a Biblioteca com livros para os cursos de GPI e DSM 
-O que será feito: 
-Solicitação de bibliografia básica à CESU 
-Por que será feito: 
-Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no 
-desenvolvimento tecnológico e inovação e alcançar e manter o grau de excelência nos processos 
-de ensino e aprendizagem  
-Responsável(is) / CH sem: 
-Cláudia Regina Souza / Andrea Zotovici / Gonçalo Siqueira (2h semanais)  
-Período de execução: 
-Data de início: 
-06/02/2023 
-Data final: 
-20/12/2023 
-01/Etapas do processo: 
-1- Levantar a bibliografia básica necessária para cada curso  
-06/02/2023 30/02/2023 
-2- Elaborar relatório  
-01/03/2023 30/03/2023 
-3- Solicitar à CESU 
-01/04/2023 30/04/2023 
- 
- 
- 
- 
- 
- 
-Custo (se houver): 
- 
-Fonte(s) dos recursos: 
- 
-Objetivo(s) relacionado(s): 
-Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no 
-desenvolvimento tecnológico e inovação e alcançar e manter o grau de excelência nos processos 
-de ensino e aprendizagem  
-Meta(s) relacionada(s): 
-Adquirir 100% da bibliografia básica dos cursos de GPI e DSM até dezembro de 2023 atendendo 
-as demandas dos alunos e do CEE 
- 
- 
-AÇÃO/PROJETO 
-B -  
-O que será feito: 
- 
-Por que será feito: 
- 
-Responsável(is) / CH sem:  
-Período de execução: 
-Data de início: 
-dd/mm/aaaa 
-Data final: 
-dd/mm/aaaa 
-Etapas do processo: 
- 
-dd/mm/aaaa dd/mm/aaaa 
- 
-dd/mm/aaaa dd/mm/aaaa 
- 
-dd/mm/aaaa dd/mm/aaaa 
- 
-dd/mm/aaaa dd/mm/aaaa 
- 
-dd/mm/aaaa dd/mm/aaaa 
- 
-dd/mm/aaaa dd/mm/aaaa 
- 
-dd/mm/aaaa dd/mm/aaaa 
-Custo (se houver): 
- 
-Fonte(s) dos recursos: 
- 
-Objetivo(s) relacionado(s):  
-Meta(s) relacionada(s): 
- 
- 
- 
- 
-02 – Ensino e Equipamentos Associados (Laboratórios) 
-AÇÃO/PROJETO 
-A -  Organizar Ampliar os laboratórios de informática com equipamentos, elétrica e dados 
-O que será feito: 
-Levantamento dos itens necessários e solicitação a UGAF/DI 
-Por que será feito: 
-Para atendimento às disciplinas do curso de DSM em seus conteúdos práticos previstos no PPC, a 
-disciplina de informática, desenho técnico, Planejamento, Programação e Controle da Produção, 
-Tecnologia da Informação Aplicada á Gestão de Operações e Processos, Simulação Aplicada à 
-Produção do curso de GPI previsto no PPC e ainda para desenvolvimento de competências 
-socioemocionais dos alunos. 
-Responsável(is) / CH sem: 
-Francielli de Oliveira /Reginaldo Santos de Oliveira / Andrea Zotovici (2h sem cada um) 
-Período de execução: 
-Data de início: 
-01/03/2023 
-Data final: 
-20/12/2023 
-Etapas do processo: 
-1 - Levantamento dos itens necessários (infraestrutura, elétrica e 
-dados)  
-01/03/2023 30/03/2023 
-2 - Solicitar à UGAF/DI com instalação  
-01/04/2023 30/04/2023 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Custo (se houver): 
- 
-Fonte(s) dos recursos: 
- 
+
+O que será feito: Solicitação de bibliografia básica à CESU 
+
+Por que será feito: Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no desenvolvimento tecnológico e inovação e alcançar e manter o grau de excelência nos processos de ensino e aprendizagem  
 Objetivo(s) relacionado(s): Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no 
-desenvolvimento tecnológico e inovação. 
-Meta(s) relacionada(s): 
-Ampliar os laboratórios de informática em 2 unidades, com equipamentos, elétrica e dados; os 
-laboratórios de GPI com equipamentos e softwares e de Cosméticos com equipamentos até 
-dezembro de 2023. 
- 
-AÇÃO/PROJETO 
-B -  Adquirir equipamentos para os laboratórios do CST em Cosméticos  
-O que será feito: 
-Solicitação a UGAF 
-Por que será feito: 
-Alcançar e manter o grau de excelência do ensino e aprendizagem os alunos de GPI e atender as 
-demandas do mercado de trabalho.  
-Responsável(is) / CH sem: 
-Francielli de Oliveira /Reginaldo Santos de Oliveira /Keite Cristiane Vera Muniz / Ricardo Pedro / 
-Carla Pedriali Morais (2h semanais cada)  
-Período de execução: 
-Data de início: 
-01/03/2023 
-Data final: 
-20/12/2023 
-Etapas do processo: 
-1 - Levantamento dos itens necessários  
-01/03/2023 30/03/2023 
-2 - Solicitar a UGAF os itens com instalação  
-01/04/2023 30/04/2023 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Custo (se houver): 
- 
-Fonte(s) dos recursos: 
- 
-Objetivo(s) relacionado(s): Atender às demandas sociais e do mercado de trabalho. 
-Meta(s) relacionada(s): 
-Ampliar os laboratórios de informática em 2 unidades, com equipamentos, elétrica e dados; os 
-laboratórios de GPI com equipamentos e softwares e de Cosméticos com equipamentos até 
-dezembro de 2023. 
- 
-AÇÃO/PROJETO 
-C -  Adquirir o laboratório de metrologia e simulação do CST em GPI 
-O que será feito: 
-Solicitação a UGAF 
-Por que será feito: 
-Alcançar e manter o grau de excelência do ensino e aprendizagem os alunos de GPI e atender as 
-demandas do mercado de trabalho.  
-Responsável(is) / CH sem: 
-Francielli de Oliveira /Reginaldo Santos de Oliveira /Gonçalo Siqueira (2h semanais cada)  
-Período de execução: 
-Data de início: 
-01/03/2023 
-Data final: 
-20/12/2023 
-Etapas do processo: 
-1 - Levantamento dos itens necessários  
-01/03/2023 30/03/2023 
-2 - Solicitar a UGAF os itens com instalação  
-01/04/2023 30/04/2023 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Custo (se houver): 
- 
-Fonte(s) dos recursos: 
- 
-Objetivo(s) relacionado(s): Inovar processos de ensino e aprendizagem para manter excelência diante do mercado; 
-Meta(s) relacionada(s): 
-Ampliar os laboratórios de informática em 2 unidades, com equipamentos, elétrica e dados; os 
-laboratórios de GPI com equipamentos e softwares e de Cosméticos com equipamentos até 
-dezembro de 2023. 
-AÇÃO/PROJETO 
-E -  Adquirir cadeiras giratórias para os laboratórios de informática  
-O que será feito: 
-Solicitação a UGAF 
-Por que será feito: 
-Alcançar e manter o grau de excelência do ensino e aprendizagem os alunos da Fatec Diadema - 
-Luigi e atender as demandas do mercado de trabalho.  
-Responsável(is) / CH sem: 
-Francielli de Oliveira /Reginaldo Santos de Oliveira /Andréa Zotovici  (2h semanais cada)  
-Período de execução: 
-Data de início: 
-01/03/2023 
-Data final: 
-20/12/2023 
-Etapas do processo: 
-1 - Levantamento dos itens necessários  
-01/03/2023 30/03/2023 
-2 - Solicitar a UGAF os itens  
-01/04/2023 30/04/2023 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Custo (se houver): 
- 
-Fonte(s) dos recursos: 
- 
-Objetivo(s) relacionado(s): Atender às demandas sociais e do mercado de trabalho. 
-Meta(s) relacionada(s): 
-Ampliar os laboratórios de informática em 2 unidades, com equipamentos, elétrica e dados; os 
-laboratórios de GPI com equipamentos e softwares e de Cosméticos com equipamentos até 
-dezembro de 2023. 
- 
-AÇÃO/PROJETO 
-F -  Adquirir mesa sextavada e cadeiras para duas salas de aula onde serão utilizados notebooks  
-O que será feito: 
-Estudo de mobiliário necessário para salas de aula 
-Por que será feito: 
-Alcançar e manter o grau de excelência do ensino e aprendizagem os alunos da Fatec Diadema - 
-Luigi e atender as demandas do mercado de trabalho.  
-Responsável(is) / CH sem: 
-Francielli de Oliveira /Reginaldo Santos de Oliveira /Andréa Zotovici  (2h semanais cada)  
-Período de execução: 
-Data de início: 
-01/03/2023 
-Data final: 
-20/12/2023 
-Etapas do processo: 
-1 - Levantamento dos itens necessários  
-01/03/2023 30/03/2023 
-2 - Solicitar a UGAF os itens  
-01/04/2023 30/04/2023 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Custo (se houver): 
- 
-Fonte(s) dos recursos: 
- 
-Objetivo(s) relacionado(s): Atender às demandas sociais e do mercado de trabalho. 
-Meta(s) relacionada(s): 
-Ampliar os laboratórios de informática em 2 unidades, com equipamentos, elétrica e dados; os 
-laboratórios de GPI com equipamentos e softwares e de Cosméticos com equipamentos até 
-dezembro de 2023. 
- 
- 
-AÇÃO/PROJETO 
-C -  
-O que será feito: 
- 
-Por que será feito: 
- 
-Responsável(is) / CH sem:  
-Período de execução: 
-Data de início: 
-dd/mm/aaaa 
-Data final: 
-dd/mm/aaaa 
-Etapas do processo: 
- 
-dd/mm/aaaa dd/mm/aaaa 
- 
-dd/mm/aaaa dd/mm/aaaa 
- 
-dd/mm/aaaa dd/mm/aaaa 
- 
-dd/mm/aaaa dd/mm/aaaa 
- 
-dd/mm/aaaa dd/mm/aaaa 
- 
-dd/mm/aaaa dd/mm/aaaa 
- 
-dd/mm/aaaa dd/mm/aaaa 
-Custo (se houver): 
- 
-Fonte(s) dos recursos: 
- 
-Objetivo(s) relacionado(s):  
-Meta(s) relacionada(s): 
- 
- 
- 
- 
- 
- 
-03 – Pesquisa / Extensão e Equipamentos Associados 
-AÇÃO/PROJETO 
+desenvolvimento tecnológico e inovação e alcançar e manter o grau de excelência nos processos de ensino e aprendizagem  
+
+Meta(s) relacionada(s): Adquirir 100% da bibliografia básica dos cursos de GPI e DSM até dezembro de 2023 atendendo as demandas dos alunos e do CEE 
+
 A – Desenvolvimento de Projetos de Iniciação Cientifica  
-O que será feito: 
-Incentivar docentes e alunos a participarem dos editais de abertura de 
-Monitoria de Iniciação em Desenvolvimento Tecnológico e Inovação ‐ MIDTI 
-Por que será feito: 
-Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no 
-desenvolvimento tecnológico e inovação 
-Responsável(is) / CH sem: 
-Carla Pedriali Morais (4 HAE) 
-Período de execução: 
-Data de início: 
-06/02/2023 
-Data final: 
-20/12/2023 
-Etapas do processo: 
-Enviar a documentação dos monitores selecionados em 2022-2 para a 
-CESU  
-06/02/2023 15/02/2023 
-Desenvolvimento dos projetos de pesquisa MIDTI 2023-1 
-16/02/2023 23/06/2023 
-Abertura do Edital de Monitoria MIDTI 2023-2 
-15/04/2023 15/05/2023 
-Resultado do  Edital de Monitoria MIDTI 2023-2 
-16/05/2023 01/06/2023 
-Entrega dos relatórios da parciais e finais da MIDTI 2023-1 
-24/06/2023 30/06/2023 
-Enviar a documentação dos monitores selecionados em 2023-2 para a 
-CESU  
-01/08/2023 15/08/2023 
-Desenvolvimento dos projetos de pesquisa MIDTI 2023-2 
-16/08/2023 30/11/2023 
-Abertura do Edital de Monitoria MIDTI 2024-1 
-01/10/2023 30/10/2023 
-Resultado do  Edital de Monitoria MIDTI 2024-1 
-01/11/2023 15/11/2023 
-Entrega dos relatórios da parciais e finais da MIDTI 2023-2 
-10/12/2023 20/12/2023 
-Custo (se houver): 
- 
-Fonte(s) dos recursos: 
+
+O que será feito: Incentivar docentes e alunos a participarem dos editais de abertura de Monitoria de Iniciação em Desenvolvimento Tecnológico e Inovação ‐ MIDTI 
+
+Por que será feito: Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no desenvolvimento tecnológico e inovação 
+
  
 Objetivo(s) relacionado(s): Alcançar e manter o grau de excelência nos processos de ensino e aprendizagem 
+
 Meta(s) relacionada(s): 
-Promover ações administrativas e pedagógicas que proporcionem a redução da taxa de evasão 
-em 5% com relação ao indicador de desempenho de 2022, no ano de 2023. 
- 
- 
-AÇÃO/PROJETO 
-A -  
-O que será feito: 
- 
-Por que será feito: 
- 
-Responsável(is) / CH sem:  
-Período de execução: 
-Data de início: 
-dd/mm/aaaa 
-Data final: 
-dd/mm/aaaa 
-Etapas do processo: 
- 
-dd/mm/aaaa dd/mm/aaaa 
- 
-dd/mm/aaaa dd/mm/aaaa 
- 
-dd/mm/aaaa dd/mm/aaaa 
- 
-dd/mm/aaaa dd/mm/aaaa 
- 
-dd/mm/aaaa dd/mm/aaaa 
- 
-dd/mm/aaaa dd/mm/aaaa 
- 
-dd/mm/aaaa dd/mm/aaaa 
-Custo (se houver): 
- 
-Fonte(s) dos recursos: 
- 
-Objetivo(s) relacionado(s):  
-Meta(s) relacionada(s): 
- 
- 
- 
-04 – Atividades Formativas em Projetos (nível tático) 
- 
-AÇÃO/PROJETO 
-A-  
-O que será feito: 
- 
-Por que será feito: 
- 
-Responsável(is) / CH sem:  
-Período de execução: 
-Data de início: 
-dd/mm/aaaa 
-Data final: 
-dd/mm/aaaa 
-Etapas do processo: 
- 
-dd/mm/aaaa dd/mm/aaaa 
- 
-dd/mm/aaaa dd/mm/aaaa 
- 
-dd/mm/aaaa dd/mm/aaaa 
- 
-dd/mm/aaaa dd/mm/aaaa 
- 
-dd/mm/aaaa dd/mm/aaaa 
- 
-dd/mm/aaaa dd/mm/aaaa 
- 
-dd/mm/aaaa dd/mm/aaaa 
-Custo (se houver): 
- 
-Fonte(s) dos recursos: 
- 
-Objetivo(s) relacionado(s):  
-Meta(s) relacionada(s): 
- 
- 
- 
- 
- 
- 
-05 – Infraestrutura (instalações prediais) 
- 
-AÇÃO/PROJETO 
-A-  Estudo da demanda efetiva da rede wifi para a unidade de ensino 
-O que será feito: 
-Levantamento dos itens necessários e solicitação a UGAF/DI 
-Por que será feito: 
-Atender as necessidades reais de desenvolvimento das atividades administrativas e pedagógicas 
-da Fatec Diadema. 
-Responsável(is) / CH sem: 
-Francielli de Oliveira /Reginaldo Santos de Oliveira /Andréa Zotovici  (2h semanais cada) 
-Período de execução: 
-Data de início: 
-01/03/2023 
-Data final: 
-20/12/2023 
-Etapas do processo: 
-1 - Levantamento dos itens necessários (infraestrutura, elétrica e 
-dados)  
-01/03/2023 30/03/2023 
-2- Elaboração de Relatório Documental para solicitação UGAF/DI 
-01/04/2023 30/04/2023 
-3 - Solicitar a UGAF/DI com instalação  
-01/05/2023 30/05/2023 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Custo (se houver): 
- 
-Fonte(s) dos recursos: 
- 
-Objetivo(s) relacionado(s): Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem. 
-Meta(s) relacionada(s): 
-Adquirir rede wifi para a unidade de ensino 
- 
- 
-AÇÃO/PROJETO 
-B -  Organizar os laboratórios de informática com elétrica e dados 
-O que será feito: 
-Estudo do espaço físico para projeto de leiaute e reorganização de mobiliário, equipamentos, 
-ferramentas e dispositivos, com adequação das instalações de iluminação e climatização para 
-solicitação a UGAF/DI 
-Por que será feito: 
-Atender as necessidades reais de desenvolvimento das atividades pedagógicas dos CST em 
-Cosméticos, DSM e GPI. 
-Responsável(is) / CH sem: 
-Francielli de Oliveira /Reginaldo Santos de Oliveira /Andréa Zotovici  (2h semanais cada) 
-Período de execução: 
-Data de início: 
-01/03/2023 
-Data final: 
-20/12/2023 
-Etapas do processo: 
-1 - Levantamento dos itens necessários (infraestrutura, elétrica e 
-dados)  
-01/03/2023 30/03/2023 
-2- Elaboração de Relatório Documental para solicitação UGAF/DI 
-01/04/2023 30/04/2023 
-3 - Solicitar a UGAF/DI com instalação  
-01/05/2023 30/05/2023 
- 
- 
- 
- 
- 
- 
-Custo (se houver): 
- 
-Fonte(s) dos recursos: 
- 
-Objetivo(s) relacionado(s): Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no 
-desenvolvimento tecnológico e inovação. 
-Meta(s) relacionada(s): 
-Ampliar os laboratórios de informática em 2 unidades, com equipamentos, elétrica e dados; os 
-laboratórios de GPI com equipamentos e softwares e de Cosméticos com equipamentos até 
-dezembro de 2023. 
- 
-AÇÃO/PROJETO 
-C -  Organizar os laboratórios do CST em Cosméticos para instalação dos equipamentos adquiridos 
-para os laboratórios do CST em Cosméticos  
-O que será feito: 
-Projeto de leiaute e reorganização de mobiliário e instalação de equipamentos, ferramentas e 
-dispositivos para solicitação a UIE  
-Por que será feito: 
-Para atendimento às disciplinas do eixo tecnológico em seus conteúdos práticos previstos no PPC. 
-Responsável(is) / CH sem: Francielli de Oliveira /Reginaldo Santos de Oliveira /Keite Cristiane Vera Muniz / Ricardo Pedro / 
-Carla Pedriali Morais (2h semanais cada) 
-Período de execução: 
-Data de início: 
-01/03/2023 
-Data final: 
-20/12/2023 
-Etapas do processo: 
-1 - Levantamento dos itens necessários (infraestrutura, elétrica e 
-dados)  
-01/03/2023 30/03/2023 
-2- Elaboração de Relatório Documental para solicitação UGAF/DI 
-01/04/2023 30/04/2023 
-3 - Solicitar a UGAF/DI com instalação  
-01/05/2023 30/05/2023 
- 
- 
- 
- 
- 
- 
-Custo (se houver): 
- 
-Fonte(s) dos recursos: 
- 
-Objetivo(s) relacionado(s): Atender às demandas sociais e do mercado de trabalho. 
-Meta(s) relacionada(s): 
-Ampliar os laboratórios de informática em 2 unidades, com equipamentos, elétrica e dados; os 
-laboratórios de GPI com equipamentos e softwares e de Cosméticos com equipamentos até 
-dezembro de 2023. 
- 
-AÇÃO/PROJETO 
-A -  
-O que será feito: 
- 
-Por que será feito: 
- 
-Responsável(is) / CH sem:  
-Período de execução: 
-Data de início: 
-dd/mm/aaaa 
-Data final: 
-dd/mm/aaaa 
-Etapas do processo: 
- 
-dd/mm/aaaa dd/mm/aaaa 
- 
-dd/mm/aaaa dd/mm/aaaa 
- 
-dd/mm/aaaa dd/mm/aaaa 
- 
-dd/mm/aaaa dd/mm/aaaa 
- 
-dd/mm/aaaa dd/mm/aaaa 
- 
-dd/mm/aaaa dd/mm/aaaa 
- 
-dd/mm/aaaa dd/mm/aaaa 
-Custo (se houver): 
- 
-Fonte(s) dos recursos: 
- 
-Objetivo(s) relacionado(s):  
-Meta(s) relacionada(s): 
- 
- 
- 
- 
-06 - Desenvolvimento de pessoas (docentes e servidores) 
- 
-AÇÃO/PROJETO 
+
+Promover ações administrativas e pedagógicas que proporcionem a redução da taxa de evasão em 5% com relação ao indicador de desempenho de 2022, no ano de 2023. 
+
 A – Contratação de servidores e bibliotecário para a Biblioteca 
-O que será feito: 
-Solicitação de 1 bibliotecário e 5 servidores para o URH/CESU  
-Por que será feito: 
-Para atender alunos e docentes de forma satisfatória, hoje os servidores que temos estão muito 
-sobrecarregados e muitas vezes precisam ter desvio de função para dar conta de atender a todas 
-as demandas da comunidade escolar e do CPS.  
-Responsável(is) / CH sem: 
-Francielli de Oliveira (2h semanais) 
-Período de execução: 
-Data de início: 
-06/02/2023 
-Data final: 
-20/12/2023 
-01/Etapas do processo: 
-1- Análise da demanda atual e do cenário futuro. 
-01/03/2023 30/03/2023 
-2 - Organizar processo documental necessário para 
-contratação/abertura de vagas. 
-01/04/2023 30/042023 
-3 - Encaminhar solicitação URH.  
-01/05/2023  30/05/2023 
-Custo (se houver): 
+
+O que será feito: Solicitação de 1 bibliotecário e 5 servidores para o URH/CESU  
+
+Por que será feito: Para atender alunos e docentes de forma satisfatória, hoje os servidores que temos estão muito sobrecarregados e muitas vezes precisam ter desvio de função para dar conta de atender a todas as demandas da comunidade escolar e do CPS.  
  
-Fonte(s) dos recursos: 
- 
-Objetivo(s) relacionado(s): Garantir celeridade e efetividade na prestação de serviços à comunidade escolar e alcançar e 
-manter o grau de excelência nos processos de ensino e aprendizagem; 
+Objetivo(s) relacionado(s): Garantir celeridade e efetividade na prestação de serviços à comunidade escolar e alcançar e manter o grau de excelência nos processos de ensino e aprendizagem; 
+
 Meta(s) relacionada(s): 
+
 Ampliar em 100% o quadro de funcionários da Unidade  até dezembro de 2023 
  
-AÇÃO/PROJETO 
+
 B – Contratação de auxiliar docente para o curso de DSM, GPI e Cosméticos  
-O que será feito: 
-Solicitação da contratação de 3 auxiliares docentes URH/CESU, sendo um para cada curso 
-Por que será feito: 
-Para atendimento aos professores que ministram disciplinas do eixo tecnológico em seus 
-conteúdos práticos previstos no PPC dos cursos de GPI, Cosméticos e DSM.  
-Responsável(is) / CH sem: 
-Francielli de Oliveira (2h semanais) 
-Período de execução: 
-Data de início: 
-06/02/2023 
-Data final: 
-20/12/2023 
-01/Etapas do processo: 
-1- Análise da demanda atual e do cenário futuro. 
-01/03/2023 30/03/2023 
-2- Organizar processo documental necessário para 
-contratação/abertura de vagas. 
-01/04/2023 30/042023 
-3- Encaminhar solicitação URH.  
-01/05/2023  30/05/2023 
-Custo (se houver): 
- 
-Fonte(s) dos recursos: 
- 
-/Objetivo(s) relacionado(s): Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem; 
- 
-Meta(s) relacionada(s): 
-Ampliar em 100% o quadro de funcionários da Unidade  até dezembro de 2023 
- 
-AÇÃO/PROJETO 
-C -  
-O que será feito: 
- 
-Por que será feito: 
- 
-Responsável(is) / CH sem:  
-Período de execução: 
-Data de início: 
-dd/mm/aaaa 
-Data final: 
-dd/mm/aaaa 
-Etapas do processo: 
- 
-dd/mm/aaaa dd/mm/aaaa 
- 
-dd/mm/aaaa dd/mm/aaaa 
- 
-dd/mm/aaaa dd/mm/aaaa 
- 
-dd/mm/aaaa dd/mm/aaaa 
- 
-dd/mm/aaaa dd/mm/aaaa 
- 
-dd/mm/aaaa dd/mm/aaaa 
- 
-dd/mm/aaaa dd/mm/aaaa 
-Custo (se houver): 
- 
-Fonte(s) dos recursos: 
- 
-Objetivo(s) relacionado(s):  
-Meta(s) relacionada(s): 
- 
- 
- 
- 
- 
-07 – Convênios e Parcerias Institucionais 
- 
-AÇÃO/PROJETO 
-A -  
-O que será feito: 
- 
-Por que será feito: 
- 
-Responsável(is) / CH sem:  
-Período de execução: 
-Data de início: 
-dd/mm/aaaa 
-Data final: 
-dd/mm/aaaa 
-Etapas do processo: 
- 
-dd/mm/aaaa dd/mm/aaaa 
- 
-dd/mm/aaaa dd/mm/aaaa 
- 
-dd/mm/aaaa dd/mm/aaaa 
- 
-dd/mm/aaaa dd/mm/aaaa 
- 
-dd/mm/aaaa dd/mm/aaaa 
- 
-dd/mm/aaaa dd/mm/aaaa 
- 
-dd/mm/aaaa dd/mm/aaaa 
-Custo (se houver): 
- 
-Fonte(s) dos recursos: 
- 
-Objetivo(s) relacionado(s):  
-Meta(s) relacionada(s): 
- 
- 
-AÇÃO/PROJETO 
-B -  
-O que será feito: 
- 
-Por que será feito: 
- 
-Responsável(is) / CH sem:  
-Período de execução: 
-Data de início: 
-dd/mm/aaaa 
-Data final: 
-dd/mm/aaaa 
-Etapas do processo: 
- 
-dd/mm/aaaa dd/mm/aaaa 
- 
-dd/mm/aaaa dd/mm/aaaa 
- 
-dd/mm/aaaa dd/mm/aaaa 
- 
-dd/mm/aaaa dd/mm/aaaa 
- 
-dd/mm/aaaa dd/mm/aaaa 
- 
-dd/mm/aaaa dd/mm/aaaa 
- 
-dd/mm/aaaa dd/mm/aaaa 
-Custo (se houver): 
- 
-Fonte(s) dos recursos: 
- 
-Objetivo(s) relacionado(s):  
-Meta(s) relacionada(s): 
- 
- 
-AÇÃO/PROJETO 
-C -  
-O que será feito: 
- 
-Por que será feito: 
- 
-Responsável(is) / CH sem:  
-Período de execução: 
-Data de início: 
-dd/mm/aaaa 
-Data final: 
-dd/mm/aaaa 
-Etapas do processo: 
- 
-dd/mm/aaaa dd/mm/aaaa 
- 
-dd/mm/aaaa dd/mm/aaaa 
- 
-dd/mm/aaaa dd/mm/aaaa 
- 
-dd/mm/aaaa dd/mm/aaaa 
- 
-dd/mm/aaaa dd/mm/aaaa 
- 
-dd/mm/aaaa dd/mm/aaaa 
- 
-dd/mm/aaaa dd/mm/aaaa 
-Custo (se houver): 
- 
-Fonte(s) dos recursos: 
- 
-Objetivo(s) relacionado(s):  
-Meta(s) relacionada(s): 
- 
- 
- 
-ETAPA II – APROVAÇÃO E HOMOLOGAÇÃO 
- 
-APROVAÇÃO DO PGA PELA CONGREGAÇÃO DA UE 
-Envio da Ata de aprovação 
-Ata assinada (.pdf) 
-Anexar arquivo 
-Data da aprovação: 
-06/03/2023 
-Data do envio: 
-dd/mm/aaaa  
- 
-PARECER DA CESU 
-Data: 
-dd/mm/aaaa  
-Aprovado? 
-(   ) Sim                      (   ) Não 
-Se não aprovado, devolvido para adequação, com prazo para revisão até: 
-dd/mm/aaaa  
-Parecer: 
- 
- 
- 
- 
-ETAPA III – ACOMPANHAMENTO DAS AÇÕES GERENCIAIS 
-RELATÓRIO DE ACOMPANHAMENTO DE PROJETO (MENSAL) 
-Status mensal do projeto 
-Identificação do 
-Projeto 
-(automático) 
-Data: 
-dd/mm/aaaa 
-Situação: 
-(   ) Em andamento                             
-Previsão de término: 
-dd/mm/aaaa 
-Justificativa: 
- 
-(   ) Ainda não foi iniciado                   
-Previsão de início: 
-dd/mm/aaaa 
-Justificativa: 
- 
-(   ) Cancelado (antes do início) 
-Data: 
-dd/mm/aaaa 
-Justificativa: 
- 
-(   ) Suspenso (interrompido após 
-iniciado) 
-Data: 
-dd/mm/aaaa 
-Justificativa: 
- 
-(   ) Concluído 
-Data da conclusão: 
-dd/mm/aaaa 
-Resultados: 
- 
- 
-Intercorrências: 
- 
- 
-Observação: 
- 
- 
-Meta(s) alcançada(s) 
-(aparecer a meta automaticamente, conforme indicada no projeto para a indicação do percentual 
-alcançado) 
-Evidência(s): 
-(descrever e inserir documento que evidencie a execução ou atingimento da meta) 
- 
- 
-Validação do relatório (acompanhamento) 
-Identificação do Projeto 
-(automático) 
-Data: 
-dd/mm/aaaa 
-Parecer: 
-Favorável? 
-(   ) Sim              (   ) Não                     (    ) Parcialmente favorável 
-Considerações/Recomendações: 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
+O que será feito: Solicitação da contratação de 3 auxiliares docentes URH/CESU, sendo um para cada curso
+
+Por que será feito: Para atendimento aos professores que ministram disciplinas do eixo tecnológico em seus conteúdos práticos previstos no PPC dos cursos de GPI, Cosméticos e DSM.  
