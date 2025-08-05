@@ -1,0 +1,214 @@
+Section: 1 ANÁLISE DO CENÁRIO
+PLANO DE GESTÃO ANUAL – PGA 2024
+A FATEC de Praia Grande atualmente possui em torno de 1600 alunos regularmente matriculados nos Cursos Presenciais de Graduação em Tecnologia em Análise e Desenvolvimento de Sistemas, Comércio Exterior, Gestão Empresarial, Processos Químicos e Desenvolvimento de Software Multiplataformas. Também possui o Curso EAD em Gestão Empresarial.
+Em setembro de 2023, a Fatec Praia Grande completou 21 anos de atividade, sendo ainda a única Instituição de Ensino Superior Público na Cidade de Praia Grande, atendendo também estudantes dos Municípios vizinhos como Peruíbe, Itanhaém, Mongaguá, São Vicente, Santos, Cubatão e Guarujá.
+A Unidade de Ensino cresceu nos últimos anos e juntamente com ela cresceram os problemas de infraestrutura, tendo em vista que o espaço cedido para a instalação da FATEC-PG no município é um prédio da Prefeitura de Praia Grande muito antigo, com mais de 50 anos de idade e que apresenta diversos problemas estruturais.
+APONTAMENTO DE SITUAÇÕES-PROBLEMA MAIS RELEVANTES
+1 Manutenção e conservação predial
+2 Materiais, equipamentos e mobiliários
+3 Infraestrutura predial (espaços, sistemas)
+4 Segurança pessoal e patrimonial
+5 Infraestrutura laboratorial e ambientes de ensino
+6 Participação da comunidade e sociedade
+7 Metodologia de ensino, desempenho de alunos, evasão
+8 Acesso/Inclusão ao Ensino Superior (social, PCD)
+9 Redução do número de inscrições no Vestibular Matutino.
+Objetivos Institucionais – CPS (Plano de Metas)
+1) Atender às demandas sociais e do mercado de trabalho.
+2) Obter a satisfação dos públicos que se relacionam com o Centro Paula Souza (stakeholders).
+3) Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem.
+4) Assegurar a perenidade do crescimento da instituição com recursos financeiros disponíveis.
+5) Garantir celeridade e efetividade na prestação de serviços.
+6) Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no desenvolvimento tecnológico e inovação.
+7) Promover a cultura de inovação e empreendedorismo.
+8) Aumentar a eficiência, a produtividade e a competitividade da instituição.
+9) Ampliar a oferta da Educação Profissional.
+10) Resolução Conjunta SOG/SFP/SG-3, de 28-12-2022 - Bonificação por Resultados – BR das Secretarias de Estado, Procuradoria Geral do Estado, Controladoria Geral do Estado e das Autarquias, de que trata a LC 1361-2021
+Objetivos Institucionais – Cesu (Plano de Metas)
+A. Integrar as diferentes modalidades de ensino, otimizando itinerários e tempo para a formação profissional.
+B. Inovar processos de ensino e aprendizagem para manter excelência diante do mercado.
+C. Ampliar a capacidade de criar e atualizar cursos em parceria com o mercado.
+D. Expandir e ampliar a capacidade de articulação com Governos e Setores Produtivos.
+E. Promover a captação de recursos extras e não orçamentários.
+Adequação/reestruturação de PPC, implantação de novos cursos.
+O que será feito: Estudo sobre a viabilidade de implantação do Curso de Sistemas Biomédicos.
+Por que será feito: Para atender os arranjos locais do seguimento de medicina e empresas correlatas, devido ao aumento das necessidades dos municípios da Baixada Santista no que diz respeito a conserto de equipamentos hospitalares, tendo em vista o aumento de hospitais e clínicas médicas implantadas na região nos últimos anos.
+Situação problema:
+Metodologia de ensino, desempenho de alunos, evasão (a ser resolvida/mitigada)
+Gestão da unidade de ensino e dos cursos (indicadores)
+Adequação/reestruturação de PPC, implantação de novos cursos.
+O que será feito: Solicitação de alteração na matriz curricular do CST em Análise e Desenvolvimento de Sistemas para oferecimento do sexto semestre no formato on-line e síncrono, e alteração do sexto ciclo vespertino para o noturno, para os alunos que já estão em curso
+Por que será feito: Para atender a demanda dos alunos em curso, que trabalham na área de TI e precisam conciliar as atividades profissionais com as atividades acadêmicas
+Situação problema:
+Metodologia de ensino, desempenho de alunos, evasão (a ser resolvida/mitigada)
+Gestão da unidade de ensino e dos cursos (indicadores)
+Adequação/reestruturação de PPC, implantação de novos cursos.
+O que será feito: Estudo sobre a viabilidade de implantação do Curso AMS em Desenvolvimento de Sistemas, em parceria com a ETEC Praia Grande
+Por que será feito: Para atender o aumento da demanda de profissionais capacitados na área de TI, tendo como oportunidade a proximidade com a unidade da ETEC Guilhermina e ETEC Maracanã, que oferecem Ensino Médio MTEC/MEC nas áreas de Informática para Internet e Desenvolvimento de Sistemas, aproveitando a estrutura de laboratórios do Curso de ADS da Fatec PG
+Situação problema:
+Metodologia de ensino, desempenho de alunos, evasão (a ser resolvida/mitigada)
+Gestão da unidade de ensino e dos cursos (indicadores)
+Adequação/reestruturação de PPC, implantação de novos cursos.
+O que será feito: Estudo sobre a viabilidade de implantação do Curso AMS em Processos Químicos, em parceria com a ETEC Praia Grande.
+Por que será feito: Para atender o mercado de trabalho do polo petroquímico de Cubatão, tendo como oportunidade a proximidade com a unidade da ETEC Maracanã, que oferece Ensino Médio MTEC/MEC na área de Química, aproveitando a estrutura de laboratórios do Curso de Processos Químicos da Fatec PG
+Metodologia de ensino, desempenho de alunos, evasão (a ser resolvida/mitigada)
+Gestão da unidade de ensino e dos cursos (indicadores)
+Adequação/reestruturação de PPC, implantação de novos cursos.
+O que será feito: Estudo sobre a viabilidade de implantação de curso de Pós-Graduação “lato sensu” na área de Análise de Sistemas. Especialização com 360 h.
+Por que será feito: Identificou-se através de análise de mercado que a área de TI é a que mais tem empregado nos últimos anos, portanto, a formação em pós-graduação pode proporcionar uma vantagem competitiva aos profissionais do mercado e ex-alunos da Instituição que vem em busca de mais titulação, uma vez que as empresas geralmente procuram por candidatos mais qualificados e com uma formação mais completa, sem contar na possibilidade de fomentar pesquisas e desenvolvimento.
+Situação problema:
+Metodologia de ensino, desempenho de alunos, evasão (a ser resolvida/mitigada)
+Gestão da unidade de ensino e dos cursos (indicadores)
+Adequação/reestruturação de PPC, implantação de novos cursos.
+O que será feito: Estudo sobre a viabilidade de implantação de curso de Pós-Graduação “lato sensu” na área de Processos Químicos. Especialização com 360 h.
+Por que será feito: Conforme levantamento realizado com formandos do Curso de Tecnologia em Processos Químicos, estudantes egressos desejam após concluir a graduação continuar os estudos fazendo uma pós-graduação. Esses ex-alunos não têm hoje na região da Baixada Santista nenhuma oferta de curso de especialização direcionado para o trabalho na Indústria, seja na área de produção ou nos laboratórios.
+Situação problema:
+Metodologia de ensino, desempenho de alunos, evasão (a ser resolvida/mitigada)
+Gestão da unidade de ensino e dos cursos (indicadores)
+Adequação/reestruturação de PPC, implantação de novos cursos.
+O que será feito: Estudo sobre a viabilidade de implantação de curso de Pós-Graduação “lato sensu” na área de Gestão Estratégica de Negócios. Especialização com 360 h.
+Por que será feito: Conforme identificado com os alunos, egressos desejam após concluir a graduação continuar os estudos fazendo uma pós-graduação. Esses ex-alunos têm hoje na região da Baixada Santista pouca oferta de cursos de especialização direcionado para o trabalho na Gestão Estratégica de Negócios. Temos em nossos arquivos e-mails de 1500 egressos para serem contactados. Segundo a Fundação SEADE 24% dos empregos formais estão concentrados nos setores de comercio varejista armazenagem e atividades de transportes, setores que demandam por profissionais especializados na área de Gestão Empresarial.
+Situação problema:
+Metodologia de ensino, desempenho de alunos, evasão (a ser resolvida/mitigada)
+Gestão da unidade de ensino e dos cursos (indicadores)
+Adequação/reestruturação de PPC, implantação de novos cursos.
+O que será feito: Estudo sobre a viabilidade de implantação de curso de Pós-Graduação “lato sensu” na área de Negócios Internacionais, Direito Marítimo e Legislação Portuária. Especialização com 360 h.
+Por que será feito: A implantação de um curso de pós-graduação em Negócios Internacionais, Direito Marítimo e Legislação Portuária é justificada pela necessidade de atender à demanda crescente do mercado de trabalho por profissionais especializados nessas áreas, conforme interesse verificado com pesquisas junto a ex-alunos, alunos e docentes da unidade.
+Situação problema:
+Metodologia de ensino, desempenho de alunos, evasão (a ser resolvida/mitigada)
+Gestão da unidade de ensino e dos cursos (indicadores)
+Monitoria em disciplina do curso
+O que será feito: Seleção de alunos para Bolsas Semestrais de Monitoria para o Curso de Análise e Desenvolvimento de Sistemas.
+Por que será feito: Para apoiar a aprendizagem dos alunos em disciplinas de maior dificuldade, por meio dos alunos monitores e orientação dos professores.
+Situação problema:
+Metodologia de ensino, desempenho de alunos, evasão (a ser resolvida/mitigada)
+Gestão da unidade de ensino e dos cursos (indicadores)
+Monitoria em disciplina do curso
+O que será feito: Seleção de alunos para Bolsas Semestrais de Monitoria para o Curso de Comércio Exterior. Por que será feito: Para apoiar a aprendizagem dos alunos em disciplinas de maior dificuldade, por meio dos alunos monitores e orientação dos professores.
+Situação problema:
+Metodologia de ensino, desempenho de alunos, evasão (a ser resolvida/mitigada)
+Gestão da unidade de ensino e dos cursos (indicadores)
+Monitoria em disciplina do curso
+O que será feito: Seleção de alunos para Bolsas Semestrais de Monitoria para o Curso de Processos Químicos
+Por que será feito: Para apoiar a aprendizagem dos alunos em disciplinas de maior dificuldade, por meio dos alunos monitores e orientação dos professores.
+Situação problema:
+Metodologia de ensino, desempenho de alunos, evasão (a ser resolvida/mitigada)
+Gestão da unidade de ensino e dos cursos (indicadores)
+Monitoria em disciplina do curso
+O que será feito: Seleção de alunos para Bolsas Semestrais de Monitoria para o Curso de Gestão Empresarial. Por que será feito: Para apoiar a aprendizagem dos alunos em disciplinas de maior dificuldade, por meio dos alunos monitores e orientação dos professores.
+Situação problema:
+Metodologia de ensino, desempenho de alunos, evasão (a ser resolvida/mitigada)
+Gestão da unidade de ensino e dos cursos (indicadores)
+Monitoria em disciplina do curso
+O que será feito: Seleção de alunos para Bolsas Semestrais de Monitoria para o Curso de Gestão Empresarial.
+Por que será feito: Para apoiar a aprendizagem dos alunos em disciplinas de maior dificuldade, por meio dos alunos monitores e orientação dos professores.
+Situação problema:
+Metodologia de ensino, desempenho de alunos, evasão (a ser resolvida/mitigada)
+Gestão da unidade de ensino e dos cursos (indicadores)
+Ações pedagógicas: visitas técnicas, projetos integradores/interdisciplinares, dias de campo, feira das profissões, cursos extracurriculares para alunos.
+O que será feito: Organização do projeto de disciplina para implantação de uma ONG com a responsabilidade de criar soluções inovadoras para os problemas reais relacionados às mudanças climáticas na Baixada Santista, associados a um, ou mais objetivos, dos 17 Objetivos de Desenvolvimento Sustentável (ODS) das Nações Unidas, desenvolvido na Disciplina Química Ambiental do Curso de Processos Químicos.
+Por que será feito: Para difundir conhecimentos sobre processos de responsabilidade ambiental no ambiente discente e na formação profissional e tecnológica do aluno, aproveitando as disciplinas com foco em química e meio ambiente.
+Situação problema:
+Metodologia de ensino, desempenho de alunos, evasão (a ser resolvida/mitigada)
+Gestão da unidade de ensino e dos cursos (indicadores)
+Divulgação do vestibular e ações de fortalecimento de imagem institucional
+O que será feito: Participação na 8ª Feira do Estudante 2024, evento organizado pela Prefeitura de Praia Grande, o qual se concede um stand para as faculdades apresentarem seus cursos aos alunos dos Ensinos Médio e Fundamental da região. Por que será feito: Para divulgar os cursos da FATEC-PG.
+Situação problema:
+Participação da comunidade e sociedade (a ser resolvida/mitigada)
+Gestão da unidade de ensino e dos cursos (indicadores)
+Divulgação do vestibular e ações de fortalecimento de imagem institucional
+O que será feito: Participação na 8ª Feira do Estudante 2024, evento organizado pela Prefeitura de Praia Grande, o qual se concede um stand para as faculdades apresentarem seus cursos aos alunos dos Ensinos Médio e Fundamental da região. Por que será feito: Para divulgar os cursos da FATEC-PG.
+Situação problema:
+Participação da comunidade e sociedade (a ser resolvida/mitigada)
+Gestão da unidade de ensino e dos cursos (indicadores)
+COIL/PCI e Escola de Inovadores
+O que será feito: Renovação da Parceria com a Durban University of Technology (África do Sul). Por que será feito: Para estimular e consolidar parcerias do CPS com instituições públicas e privadas internacionais.
+Situação problema:
+Metodologia de ensino, desempenho de alunos, evasão (a ser resolvida/mitigada)
+Gestão da unidade de ensino e dos cursos (indicadores)
+COIL/PCI e Escola de Inovadores
+O que será feito: Renovação da Parceria com a Sapir College e Kaye College (Israel). Por que será feito: Para estimular e consolidar parcerias do CPS com instituições públicas e privadas internacionais.
+Situação problema:
+Metodologia de ensino, desempenho de alunos, evasão (a ser resolvida/mitigada)
+Gestão da unidade de ensino e dos cursos (indicadores)
+COIL/PCI e Escola de Inovadores
+O que será feito: Parceria com a Universidad Tecnológica Nacional (Argentina). Por que será feito: Para estimular e consolidar parcerias do CPS com instituições públicas e privadas internacionais.
+Situação problema:
+Metodologia de ensino, desempenho de alunos, evasão (a ser resolvida/mitigada)
+Gestão da unidade de ensino e dos cursos (indicadores)
+Divulgação do vestibular e ações de fortalecimento de imagem institucional
+O que será feito: A partir dos resultados publicados no WEBSAI 2023, desenvolver uma campanha de conscientização dos alunos da FATEC-PG sobre a importância de participar do processo de avaliação institucional WEBSAI 2024.
+Por que será feito: Para aumentar a participação dos estudantes no processo de avaliação interno da Fatec-PG e para identificar os pontos de melhoria para a gestão, a partir desta avaliação.
+Situação problema:
+Metodologia de ensino, desempenho de alunos, evasão (a ser resolvida/mitigada)
+Gestão da unidade de ensino e dos cursos (indicadores)
+Divulgação do vestibular e ações de fortalecimento de imagem institucional
+O que será feito: Visitas programadas de alunos de Escolas do Ensino Médio da região, realizadas no projeto Faculdade de Portas Abertas.
+Por que será feito: Para apresentar a faculdade com foco em ciência e tecnologia, divulgando os cursos da Fatec Praia Grande.
+Situação problema:
+Metodologia de ensino, desempenho de alunos, evasão (a ser resolvida/mitigada)
+Participação da comunidade e sociedade
+Ações de nivelamento de conhecimento, ENADE, acolhimento e permanência discente.
+O que será feito: Oferecimento de um programa de nivelamento em Química, Física e Matemática para os alunos ingressantes, estendendo-se aos alunos veteranos, sendo as aulas organizadas no modelo híbrido, com encontros presenciais e remotos durante o semestre.
+Por que será feito: Para buscar recuperar a defasagem de conhecimento na área de exatas dos alunos que ingressam na faculdade, assim como os alunos de outros ciclos.
+Situação problema:
+Metodologia de ensino, desempenho de alunos, evasão (a ser resolvida/mitigada)
+Gestão da unidade de ensino e dos cursos (indicadores)
+O que será feito: Seleção de alunos para Bolsas Semestrais de Pesquisa de Iniciação em Desenvolvimento Tecnológico para o Curso de Análise e Desenvolvimento de Sistemas, na área de Inteligência Artificial.
+Por que será feito: Para incentivar a pesquisa e preparar os alunos para a inovação e desenvolvimento tecnológico, como desenvolvimento de competências na profissão em TI.
+Desenvolvimento de Projetos de IC - MDITI
+O que será feito: Seleção de alunos para Bolsas Semestrais de Pesquisa de Iniciação em Desenvolvimento Tecnológico para o Curso de Comércio Exterior, na área de Visual Law e a influência no Direito Aduaneiro.
+Por que será feito: Para incentivar a pesquisa e preparar os alunos para a inovação e desenvolvimento tecnológico, como desenvolvimento de competências na profissão do comércio exterior.
+Situação problema:
+Metodologia de ensino, desempenho de alunos, evasão (a ser resolvida/mitigada)
+Gestão da unidade de ensino e dos cursos (indicadores)
+Desenvolvimento de Projetos de IC - MDITI
+O que será feito: Seleção de alunos para Bolsas Semestrais de Pesquisa de Iniciação em Desenvolvimento Tecnológico para o Curso de Processos Químicos, sobre a presença de compostos organoclorados em área pública do bairro Quarentenário na cidade de São Vicente.
+Por que será feito: Para incentivar a pesquisa e desenvolver estudos sobre contaminação ambiental com foco nos compostos organoclorados por meio de experimentos em laboratório de Química.
+Situação problema:
+Metodologia de ensino, desempenho de alunos, evasão (a ser resolvida/mitigada)
+Gestão da unidade de ensino e dos cursos (indicadores)
+Desenvolvimento de Projetos de IC - MDITI
+O que será feito: Seleção de alunos para Bolsas Semestrais de Pesquisa de Iniciação em Desenvolvimento Tecnológico para o Curso de Processos Químicos, sobre um estudo comparativo entre carvão ativado e borra de café como adsorventes para metais pesados presentes em solução aquosa.
+Por que será feito: Para incentivar a pesquisa e o desenvolvimento de estudos sobre sustentabilidade com foco no uso de biomassa para descontaminação da água por meio de experimentos em laboratório de Química.
+Situação problema:
+Metodologia de ensino, desempenho de alunos, evasão (a ser resolvida/mitigada)
+Gestão da unidade de ensino e dos cursos (indicadores)
+O que será feito: Projeto de Pesquisa sobre uso de plantas na descontaminação da água, por meio de experimentos em laboratório de Química, com foco na qualidade ambiental da Cidade de Praia Grande.
+Por que será feito: Para o desenvolvimento de estudos sobre sustentabilidade com foco no uso adequado da água em córregos e praias, a partir das experiências dos alunos de Processos Químicos em disciplinas com conteúdo sobre meio ambiente e em cooperação com a Secretaria do Meio Ambiente da Praia Grande.
+Situação problema:
+Metodologia de ensino, desempenho de alunos, evasão (a ser resolvida/mitigada)
+Gestão da unidade de ensino e dos cursos (indicadores)
+Situação problema:
+Metodologia de ensino, desempenho de alunos, evasão (a ser resolvida/mitigada)
+Participação da comunidade e sociedade
+AÇÃO/PROJETO (Tema)
+Núcleo de pesquisa em química de produtos naturais, com a seleção de espécies vegetais com o objetivo de realizar um estudo Químico e Biológico de diferentes partes das plantas, a fim de estabelecer a relação entre as Atividades Biológicas observadas e o Perfil Químico dos extratos e óleos essenciais obtidos, através da compreensão de suas respectivas estruturas moleculares.
+Por que será feito: Para oferecer atividades práticas, com aplicação da teoria desenvolvimento de habilidades analíticas, pensamento crítico, trabalho em equipe e networking na área de química e ciências relacionadas.
+Projetos estudantis diversos
+O que será feito: Núcleo de pesquisa em química ambiental, com a análises de amostras ambientais coletadas no sistema água-solo-ar para identificar e quantificar poluentes químicos presentes no ambiente para avaliação de riscos ambientais e promoção do desenvolvimento de métodos de remediação.
+Por que será feito: Para inserir os alunos da Fatec no cenário acadêmico com foco na área de conservação ambiental, saúde humana, desenvolvimento de tecnologias sustentáveis e legislação ambiental, reunindo profissionais e pesquisadores para troca de experiências.
+Situação problema:
+Metodologia de ensino, desempenho de alunos, evasão (a ser resolvida/mitigada)
+Gestão da unidade de ensino e dos cursos (indicadores)
+O que será feito: Continuação da implementação do Escritório modelo para Comércio Exterior. Por que será feito: Para proporcionar aos alunos a possibilidade de aplicação prática dos conceitos teóricos recebidos, preparando-os de forma mais estruturada para o mercado de trabalho, fomentando o empreendedorismo e a pesquisa na região da Baixada Santista e seu comércio internacional.
+Situação problema:
+Acesso/Inclusão ao Ensino Superior (social, PCD) (a ser resolvida/mitigada)
+Gestão da unidade de ensino e dos cursos (indicadores)
+Curso/Oficina/Capacitação/ Treinamento/ Palestra/Reunião/Encontro
+O que será feito: Proposta de capacitação de novas metodologias de ensino para os docentes de todos os cursos da unidade, a partir dos resultados do Websai 2023.
+Por que será feito: Para capacitar os docentes da unidade, a fim de desenvolver suas atividades de ensino, pesquisa e extensão de maneira mais eficiente e eficaz, minimizando a evasão escolar.
+Situação problema:
+Metodologia de ensino, desempenho de alunos, evasão (a ser resolvida/mitigada)
+Gestão da unidade de ensino e dos cursos (indicadores)
+
+Convênio de uso de prédio
+O que será feito: Análise da Minuta do Convênio com a Prefeitura de Praia Grande. Por que será feito: Para que a unidade possa estar regularizada para obter apoio e autorização da prefeitura e do CPS
+Situação problema:
+Manutenção e conservação predial (a ser resolvida/mitigada)
+Infraestrutura predial (espaços, sistemas)
+Projetos com empresas e/ou demais parceiros
+O que será feito: Renovar o Acordo de Cooperação entre a Fatec Praia Grande e a Fundação Parque Tecnológico de Santos – FPTS para desenvolvimento de pesquisas e projetos de base tecnológica, com possibilidade de uso do espaço físico do parque, localizado no bairro Vila Nova em Santos.
+Por que será feito: Para fomentar as atividades de pesquisa e fomento de projetos de inovação tecnológica, servindo de laboratório para os alunos dos cursos da Fatec PG
+Metodologia de ensino, desempenho de alunos, evasão (a ser resolvida/mitigada)
+Gestão da unidade de ensino e dos cursos (indicadores)

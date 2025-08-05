@@ -1,0 +1,130 @@
+Section: 1 ANÁLISE DO CENÁRIO
+PLANO DE GESTÃO ANUAL – PGA
+A FATEC de Praia Grande iniciou suas atividades acadêmicas em 03 de setembro de 2002, oferecendo aos munícipes 80 (oitenta vagas) para o curso de Tecnologia em Informática – Ênfase em Gestão de Negócios sendo 40 para o turno vespertino e 40 vagas para o turno noturno.
+Em março de 2003, em parceria com o IPEN/CEETEPS, iniciou as atividades de Pós-Graduação Lato Sensu, oferecendo o curso de Gestão Empresarial, Formação de Gestores Educacionais, Consultoria Web, Gestão da Qualidade na Construção Civil e Energia e Meio Ambiente. Atualmente oferece em parceria com o CEETEPS o curso de MBA em Gestão de Projetos e Processos rganizacionais e MBA Executivo em Gestão Empresarial. Em 02 de março de 2006 através do decreto do governador do estado de São Paulo, sr. Geraldo Alckmin, número 50.577, publicado no D.O.E. seção 01 página 03, a unidade de Praia Grande deixa de ser extensão da Faculdade de Tecnologia da Baixada Santista passando a ser denominada Faculdade de Tecnologia de Praia Grande. Em fevereiro de 2009 iniciaram-se as atividades do curso de graduação em Tecnologia em Comércio Exterior no turno vespertino, sendo que no segundo semestre foram iniciadas as atividades do curso noturno.
+A FATEC de Praia Grande, atualmente, possui em torno de 1400 alunos regularmente matriculados nos Cursos de Graduação em Tecnologia em Análise e Desenvolvimento de Sistemas, Comércio Exterior, Gestão Empresarial e Tecnologia em Processos Químicos e Desenvolvimento de Software Multiplataformas. Em setembro de 2022 a instituição completou vinte anos de atividade, sendo ainda a única Instituição de Ensino Superior Público na cidade de Praia Grande, atendendo também estudantes dos municípios vizinhos como Itanhaém, Mongaguá, São Vicente, Santos, Cubatão e Guarujá.
+O setor de Tecnologia da Informação e Comunicação (TIC) é um dos setores que mais gera vagas de emprego no país. Segundo dados da Associação Brasileira de Empresas de Tecnologia da Informação e Comunicação (Brasscom), o mercado nacional emprega 1,56 milhão de trabalhadores atualmente, com mais de 40 mil postos de trabalho criados em 2019. Desse montante, 42,8% estão em São Paulo. A previsão é de que o setor demande, até 2024, 70 mil profissionais por ano, cerca de 20 mil a mais do que se formam em cursos da área de TIC. A subárea Softwares e Serviços TIC, uma das principais em que o egresso poderá atuar, possui 656.711 postos de trabalho, com um aumento de quase 30 mil vagas em 2019, ainda segundo estudo da Brasscom1.
+A Unidade de Ensino cresceu nos últimos anos e juntamente com ela cresceram os problemas de infraestrutura, tendo em vista que o espaço cedido para a instalação da FATEC-PG no município é um prédio com mais de 50 anos de idade e apresenta diversos problemas estruturais.
+APONTAMENTO DE SITUAÇÕES-PROBLEMA MAIS RELEVANTES (“Escuta”)
+Prédio da unidade com problemas estruturais.
+Estrutura de monitoramento insuficientes de câmeras internas.
+Refrigeração inadequada das salas de aula, laboratórios e ambientes internos.
+Ausência de Convênio de Cooperação com a Prefeitura de Praia Grande.
+Problemas estruturais e elétricos nos laboratórios de química.
+Desconhecimento do público externo sobre os cursos da instituição.
+Estrutura de segurança insuficiente para prevenção de acidentes.
+Evasão escolar.
+DEFINIÇÃO DE OBJETIVOS, METAS E AÇÕES (PROJETOS)
+Objetivos
+1 Atender às demandas sociais e do mercado de trabalho.
+2 Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem.
+3 Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no desenvolvimento tecnológico e inovação.
+4 Aumentar a eficiência, a produtividade e a competitividade da instituição.
+5 Ampliar a oferta da Educação Profissional.
+Metas:
+Apresentar à CESU, até julho de 2023, o Projeto de Implantação de mais 01 CST na unidade.
+Atualizar até julho de 2023, os Relatórios Técnicos para adequação estrutural do prédio da unidade.
+Apresentar à CESU, até agosto de 2023, os Projetos de Implantação de 04 Cursos de Pós-Graduação na unidade.
+Reduzir em 10% a evasão escolar em 2023.
+Apresentar à CESU, até setembro de 2023, os Projetos de Implantação de 02 Cursos AMS na unidade.
+Aumentar em 10% a empregabilidade dos alunos da Fatec Praia Grande no ano de 2023.
+Atualizar até julho de 2023, os Relatórios Técnicos para adequação dos ambientes físicos das salas e laboratórios da unidade.
+Aumentar em 20% o número de candidato-vaga para os cursos de menor demanda (GE manhã, Comex manhã, PQ manhã e noite, DSM vespertino).
+ESTUDO PRELIMINAR DE IMPLANTAÇÃO DO CST EM SISTEMAS BIOMÉDICOS
+O que será feito: Estudo sobre a viabilidade de implantação do Curso de Sistemas Biomédicos
+Por que será feito: O objetivo é atender as necessidades do município de Praia Grande que vem investindo cada vez mais na área de saúde, procurando elevar cada vez mais a qualidade do atendimento do munícipe em todos os bairros, para tanto, implantou nos últimos anos 30 Unidades de Saúde da Família e oferece O Programa de Residência Médica (R1), visa o preenchimento de um total de 12 vagas para o Programa Municipal de Residência Médica em Medicina Geral de Família e Comunidade da Prefeitura da Estância Balneária de Praia Grande, instituído por meio da Portaria SESAP/Nº 025/2015 em 25/11/2015, e com credenciamento de 5 anos aprovado pela Comissão Nacional de Residência Médica – CNRM, em seu Parecer SISCNRM n°. 949/2018, de 21 de novembro de 2018 (Processo n°2017- 1629 – Secretaria de Educação Superior/Ministério da Educação) em consonância com as Normas e Resoluções emanadas da Comissão Nacional de Residência Médica, da Secretaria de Educação Superior do Ministério da Educação (CNRM/SESu/MEC). No que diz respeito a unidade de emergência, Praia Grande possui o atendimento no Hospital Irmã Dulce e nas Unidades de Urgência e Emergência que ocorre 24 horas todos os dias.
+Objetivo(s) relacionado(s): Ampliar o número de cursos da FATEC-PG, bem como ampliar a oferta de cursos de Graduação no município, buscando atender o mercado e contribuir para a educação profissional da região.
+Meta(s) relacionada(s): Apresentar proposta de implantação de novos cursos: 01 CST.
+ESTUDO PRELIMINAR DE IMPLANTAÇÃO DE CURSO AMS EM ADS
+O que será feito: Estudo sobre a viabilidade de implantação do Curso MTEC/MEC de Informática para Internet e Desenvolvimento de Sistemas.
+Por que será feito: A cidade de Praia Grande conta com a instalação da ETEC Guilhermina e ETEC Maracanã que oferece Ensino Médio MTEC/MEC nas áreas de Informática para Internet e Desenvolvimento de Sistemas. A Fatec Praia Grande oferece o curso superior de Tecnologia em Análise e Desenvolvimento de Sistemas e recentemente implantou o curso de Desenvolvimento de Software Multiplataforma.
+A modalidade AMS permite que em um período de cinco anos, o estudante conclua o ensino médio, técnico e superior. A região possui o porto de santos e conta com empresas de vários segmentos. Com essa modalidade sendo implantada no período vespertino, poder-se-á atender uma parcela dos estudantes da região permitindo que estes possam passar por diferentes níveis de ensino em uma única instituição, a fim de que possam chegar ao mercado de trabalho qualificados em um tempo mais curto.
+Objetivo(s) relacionado(s): Ampliar o número de cursos da FATEC-PG, bem como ampliar a oferta de cursos de Graduação no município, buscando atender o mercado e contribuir para a educação profissional da região.
+Meta(s) relacionada(s): Apresentar proposta de implantação de novos cursos AMS: 01 curso na área TI.
+ESTUDO PRELIMINAR DE IMPLANTAÇÃO DE CURSO AMS EM PROCESSO QUÍMICOS
+O que será feito: Estudo sobre a viabilidade de implantação do Curso de Processos Químicos modalidade AMS (Matutino).
+Por que será feito: A cidade de Praia Grande possui uma ETEC que oferece Ensino Médio com Habilitação Profissional para Técnico em Química (M-Tec) e uma Fatec que oferece o curso superior de Tecnologia em Processos Químicos. A modalidade AMS permite que em um período de cinco anos, o estudante conclua o ensino médio, técnico e superior.
+A região também possui um pólo petroquímico contando com empresas de vários segmentos. Com essa modalidade sendo implantada no período matutino, poderemos atender uma parcela dos estudantes da região permitindo que estes possam passar por diferentes níveis de ensino em uma única instituição, a fim de que possam chegar ao mercado de trabalho qualificados em um tempo mais curto.
+O conceito por trás dessa proposta visa atender dois segmentos diferentes de estudantes: o curso em AMS atenderia no matutino e o curso de Processos Químicos atual (em 3 anos), no noturno, continuaria atendendo a demanda existente de alunos que já cursaram o Ensino Médio ou que fizeram outra graduação.
+Objetivo(s) relacionado(s): Ampliar o número de cursos da FATEC-PG, bem como ampliar a oferta de cursos de Graduação no município, buscando atender o mercado e contribuir para a educação profissional da região.
+Meta(s) relacionada(s): Apresentar proposta de implantação de novos cursos AMS: 01 curso na área Química.
+ESTUDO PRELIMINAR DE IMPLANTAÇÃO DE CURSO PÓS-GRADUAÇÃO EM ANÁLISE DE SISTEMAS. O que será feito: Implantação de curso de Pós-Graduação “lato sensu” na área de Análise de Sistemas. Especialização com 360 h. Por que será feito: Uma pós-graduação em Análise de Sistemas pode ajudar a melhorar suas perspectivas de carreira, dando-lhe habilidades e conhecimentos adicionais que os empregadores estão procurando. Os graduados em Análise de Sistemas são procurados por empresas de TI, empresas de software, instituições financeiras, empresas de varejo e muitos outros setores.
+Objetivo(s) relacionado(s): Ampliar o número de cursos da FATEC-PG, bem como ampliar a oferta de cursos de Pós-Graduação no município, buscando atender o mercado e contribuir para a educação profissional da região.
+Meta(s) relacionada(s): Apresentar proposta de implantação de novos cursos de Pós-Graduação: 01curso na área TI.
+ESTUDO PRELIMINAR DE IMPLANTAÇÃO DE CURSO PÓS-GRADUAÇÃO EM PROCESSOS QUÍMICOS. O que será feito: Implantação de curso de Pós-Graduação “lato sensu” na área de Processos Químicos. Especialização com 360 h. Por que será feito: Muitos de nossos egressos desejam após concluir a graduação continuar os estudos fazendo uma pós-graduação. Esses ex-alunos não têm hoje na região da Baixada Santista nenhuma oferta de curso de especialização direcionado para o trabalho na Indústria, seja na área de produção ou nos laboratórios.
+Objetivo(s) relacionado(s): Ampliar o número de cursos da FATEC-PG, bem como ampliar a oferta de cursos de Pós-Graduação no município, buscando atender o mercado e contribuir para a educação profissional da região.
+Meta(s) relacionada(s): Apresentar proposta de implantação de novos cursos de Pós-Graduação: 01curso na área Química.
+ESTUDO PRELIMINAR DE IMPLANTAÇÃO DE CURSO PÓS-GRADUAÇÃO EM GESTÃO ESTRATÉGICA DE NEGÓCIOS. O que será feito: Um estudo sobre a viabilidade de Implantação do Curso de Pós-Graduação em Gestão Estratégica de Negócios. Por que será feito: Atendimento da Demanda da Região Metropolitana de Santos.
+Objetivo(s) relacionado(s): Ampliar o número de cursos da FATEC-PG, bem como ampliar a oferta de cursos de Pós-Graduação no município, buscando atender o mercado e contribuir para a educação profissional da região.
+Meta(s) relacionada(s): Apresentar proposta de implantação de novos cursos de Pós-Graduação: 01curso na área de Negócios.
+ESTUDO PRELIMINAR DE IMPLANTAÇÃO DE CURSO PÓS-GRADUAÇÃO EM NEGÓCIOS INTERNACIONAIS, DIREITO MARÍTIMO E LEGISLAÇÃO PORTUÁRIA. O que será feito: Um estudo sobre a viabilidade de implantação do Curso de Pós-Graduação em Negócios Internacionais, Direito Marítimo e Legislação Portuária. Por que será feito: Para atendimento às demandas da Região Metropolitana de Santos
+Objetivo(s) relacionado(s): Ampliar o número de cursos da FATEC-PG, bem como ampliar a oferta de cursos de Pós-Graduação no município, buscando atender o mercado e contribuir para a educação profissional da região.
+Meta(s) relacionada(s): Apresentar proposta de implantação de novos cursos de Pós-Graduação: 01curso na área Portuária e Negócios Internacionais.
+AÇÃO/PROJETO H - ESTUDO PRELIMINAR DE IMPLANTAÇÃO DE EVENTOS HACKATHON. O que será feito: Um estudo sobre a viabilidade de capacitação docente para Implantação e execução de eventos. Hackathon na Fatec Praia Grande. Por que será feito: Para gerar competências na solução de problemas/oportunidades na vida dos jovens possibilitando a criação de mecanismos de comunicação, digital ou não, relacionamento interpessoal, condutas proativas para o trabalho e para o estudo.
+Objetivo(s) relacionado(s):
+Melhorar a formação profissional dos alunos com foco em tecnologias e processos produtivos inovadores.
+Meta(s) relacionada(s):
+Reduzir a evasão escolar em 10% e aumentar a empregabilidade dos alunos em 10%.
+I – ORGANIZAR PROGRAMA DE BOLSAS MONITORIA DE DISCIPLINAS - MD. O que será feito: Edital de seleção de alunos monitores de disciplinas com bolsas semestrais para o curso de Análise e Desenvolvimento de Sistemas, Comércio Exterior, Gestão Empresarial e Processos Químicos. Por que será feito: Para apoiar a aprendizagem dos alunos em disciplinas de maior dificuldade, por meio dos alunos monitores e orientação dos professores.
+Objetivo(s) relacionado(s): Alcançar maior nível de aprendizagem para a melhoria da formação profissional dos alunos.
+Meta(s) relacionada(s): Reduzir a evasão escolar em 10%.
+Objetivo(s) relacionado(s): Alcançar maior grau de excelência no processo de ensino e aprendizagem. E aumentar a eficiência, a produtividade e a competitividade da instituição.
+Meta(s) relacionada(s):
+Reduzir a evasão escolar em 10% e aumentar a empregabilidade dos alunos em 10%. Aumentar em 20% a demanda candidato-vaga dos cursos da unidade.
+Objetivo(s) relacionado(s): Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no desenvolvimento tecnológico e inovação.
+Meta(s) relacionada(s):
+Reduzir a evasão escolar em 10% e aumentar a empregabilidade dos alunos em 10%. Aumentar em 20% a demanda candidato-vaga dos cursos da unidade.
+Pesquisa / Extensão e Equipamentos Associados
+IMPLANTAR O CURSO DE EXTENSÃO EM LÍNGUAS ESTRANGEIRAS
+O que será feito: Estruturação da proposta de curso de extensão de língua inglesa aberto a comunidade. Por que será feito: Para atender a demanda dos munícipes de Praia Grande
+Objetivo(s) relacionado(s): Atender às demandas sociais e do mercado de trabalho e ampliar a oferta de educação profissional.
+Meta(s) relacionada(s):
+Reduzir em 10% a evasão escolar. Aumentar em 20% a demanda candidato-vaga dos cursos da unidade.
+IMPLANTAR O CURSO DE EXTENSÃO ENGLISH FOR TOEFL.
+O que será feito: Oferecimento de um curso em Língua Inglesa com a finalidade de preparar alunos e egressos para a realização do TOEFL – Test of English as a Foreign Language.
+Por que será feito: Apesar do discente da Fatec Praia Grande ter em sua grade curricular a disciplina de língua inglesa, não é objetivo dessas aulas o preparo para exames internacionais. Portanto, faz-se necessário que um curso seja oferecido para preparar aqueles estudantes ou egressos que desejam prestar o TOEFL e ingressar em programas de pós-graduação no exterior.
+Objetivo(s) relacionado(s):
+Atender às demandas sociais e do mercado de trabalho e ampliar a oferta de educação profissional.
+Meta(s) relacionada(s):
+Reduzir em 10% a evasão escolar e aumentar a empregabilidade dos alunos em 10%. Aumentar em 20% a demanda candidato-vaga dos cursos da unidade.
+ORGANIZAR PROGRAMA DE BOLSAS MONITORIA DE INICIAÇÃO EM DESENVOLVIMENTO TECNOLÓGICO E INOVAÇÃO - MIDIT
+O que será feito: Edital de seleção de alunos para bolsas semestrais de pesquisa de Iniciação em Desenvolvimento tecnológico para o Curso de Comércio Exterior e Processos Químicos.
+Por que será feito: Para incentivar a pesquisa e preparar os alunos para a inovação e desenvolvimento tecnológico, como desenvolvimento de competências na profissão.
+Objetivo(s) relacionado(s):
+Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no desenvolvimento tecnológico e inovação.
+Meta(s) relacionada(s):
+Reduzir a evasão escolar em 10% e aumentar a empregabilidade dos alunos em 10%. Aumentar em 20% a demanda candidato-vaga dos cursos da unidade.
+RENOVAR PCI - DUT
+O que será feito: Parceria com a Durban University of Technology (África do Sul). Por que será feito: Para estimular e consolidar parcerias do CPS com instituições públicas e privadas internacionais
+Objetivo(s) relacionado(s): Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem
+Meta(s) relacionada(s):
+Reduzir a evasão escolar em 10% e aumentar a empregabilidade dos alunos em 10%.
+RENOVAR PCI – Sapir College e Kaye College
+O que será feito: Parceria com a Sapir College e Kaye College (Israel). Por que será feito: Para estimular e consolidar parcerias do CPS com instituições públicas e privadas internacionais
+Objetivo(s) relacionado(s): Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem
+Meta(s) relacionada(s):
+Reduzir a evasão escolar em 10% e aumentar a empregabilidade dos alunos em 10%.
+APRESENTAR PROPOSTA DE IMPLANTAÇÃO DO ESCRITÓRIO MODELO EM COMÉRCIO EXTERIOR
+O que será feito: Estudo sobre viabilidade de implantação do escritório modelo para o curso de Comércio Exterior
+Por que será feito: Para proporcionar aos alunos a possibilidade de aplicação prática dos conceitos teóricos recebidos, preparando-os de forma mais estruturada para o mercado de trabalho, fomentando o empreendedorismo, gerando o desenvolvimento à região e atuando fortemente na construção social
+Objetivo(s) relacionado(s): Atender às demandas sociais e do mercado de trabalho. E alcançar o grau de excelência em seus processos de ensino e aprendizagem.
+Meta(s) relacionada(s):
+Reduzir em 10% a evasão escolar e aumentar a empregabilidade dos alunos em 10%.
+A – IMPLEMENTAR PROPOSTA DE CAPACITAÇÃO PARA OS DOCENTES DA UNIDADE
+O que será feito: Proposta de capacitação para os docentes de todos os cursos da unidade. Por que será feito: Para capacitar os docentes a fim de desenvolver suas atividades de ensino, pesquisa e extensão de maneira mais eficiente e eficaz
+Objetivo(s) relacionado(s): Alcançar e manter o grau de excelência nem seus processos de ensino e aprendizagem. E aumentar a eficiência, a produtividade e a competividade da instituição.
+Meta(s) relacionada(s):
+Reduzir em 10% a evasão escolar e aumentar a empregabilidade dos alunos em 10%. Aumentar em 20% a demanda candidato-vaga dos cursos da unidade.
+ATUALIZAR PEDIDO DE RENOVAÇÃO DO CONVÊNIO COM A PREFEITURA DE PRAIA GRANDE
+O que será feito: Atualização dos documentos do Pedido de Renovação do Convênio. Por que será feito: Para que a unidade recebe o apoio da prefeitura
+Objetivo(s) relacionado(s): Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem. E aumentar a eficiência, a produtividade e a competitividade da instituição.
+Meta(s) relacionada(s):
+Reduzir em 10% a evasão escolar e aumentar a empregabilidade dos alunos em 10%. Aumentar em 20% a demanda candidato-vaga dos cursos da unidade.
+APRESENTAR PROPOSTA DE PARCERIA DE ESTÁGIO
+O que será feito: Parceria de estágio com a empresa Maersk. Por que será feito: Atender a demanda de estágio e capacitação profissional dos alunos do Curso de Comércio Exterior.
+Objetivo(s) relacionado(s):
+Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem.
+E aumentar a eficiência, a produtividade e a competitividade da instituição.
+Meta(s) relacionada(s):
+Reduzir em 10% a evasão escolar e aumentar a empregabilidade dos alunos em 10%.
+Aumentar em 20% a demanda candidato-vaga dos cursos da unidade.

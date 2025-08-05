@@ -1,0 +1,82 @@
+Section: 1 INTRODUÇÃO
+APONTAMENTO DE SITUAÇÕES-PROBLEMA MAIS RELEVANTES (“Escuta”):
+- EVASÃO ESCOLAR
+- COMPRA DE MATERIAIS E EQUIPAMENTOS
+- MANUTENÇÃO PREDIAL E AMBIENTAÇÃO EDUCACIONAL
+- CAPACITAÇÃO E ENGAJAMENTO DE PROFESSORES E ADMINISTRATIVOS NAS PRÁTICAS E PROCESSOS INSTITUCIONAIS E EDUCACIONAIS
+- APOIAR E ORIENTAR O A COMUNIDADE ESTUDANTIL EM SAÚDE MENTAL
+Objetivos:
+1 Atender às demandas sociais e do mercado de trabalho.
+2 Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem.
+3 Garantir celeridade e efetividade na prestação de serviços.
+4 Assegurar a perenidade do crescimento da instituição com recursos financeiros disponíveis;
+5 Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no desenvolvimento tecnológico e inovação.
+Metas:
+- Realizar seis encontros com os diversos segmentos da sociedade e do mercado de trabalho.
+- Criar e desenvolver 01 projeto para atender à terceira idade.
+- Desenvolver 02 projetos para manter o grau de excelência nos processos de ensino e aprendizagem.
+- Criar e desenvolver 01 projeto para melhorar à acessibilidade virtual das pessoas com deficiência, aumentando em 10% o número de acessos ao site da Fatec RL.
+- Desenvolver 01 projeto para a diminuição da evasão escolar nas disciplinas de língua estrangeira.
+- Realizar a ampliação em 30% da oferta dos cursos de graduação.
+- Desenvolver 01 projeto para a orientação em saúde mental.
+- Implantar 03 cursos de pós-graduação
+- Criar projetos para a diminuição da evasão escolar em 5%.
+- Implantar 03 cursos de extensão
+- Ampliar em 5 % os recursos pedagógicos.
+
+Section: 2 DESENVOLVIMENTO
+A – NÚCLEO DE ATENÇÃO AO ESTUDANTE.
+O que será feito: Atender a comunidade estudantil em sua demanda de apoio e orientação em saúde mental
+Por que será feito: Orientar e apoiar os alunos com demandas em saúde mental.
+Objetivo(s) relacionado(s): Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem.
+Meta(s) relacionada(s): Diminuir em 5% a evasão escolar.
+LABORATÓRIO DE LÍNGUA ESTRANGEIRA
+O que será feito: CRIAÇÃO DO CENTRO LÍNGUAS ESTRANGEIRAS
+Por que será feito: DIMUIR A EVASÃO NAS DISCIPLINAS DE LÍNGUAS ESTRANGEIRAS
+Objetivo(s) relacionado(s): Atingir o maior índice de aprovação dos alunos, aumentar o interesse na língua estrangeira
+Meta(s) relacionada(s): Diminuir em 5% a evasão escolar nas disciplinas de língua estrangeira.
+PROJETO NOVA ERA – MELHOR IDADE
+O que será feito: Promover as condições necessárias para que os alunos da terceira idade possam ingressar nesse novo ambiente e assistir as aulas e explorar os aplicativos do pacote office oferecidos na Plataforma Microsoft Teams.
+Por que será feito: Conscientizar os alunos envolvidos sobre o uso da tecnologia na Plataforma Microsoft Teams tanto nos computadores como nos celulares, no aprendizado da língua Inglesa, língua Italiana e Informática.
+Objetivo(s) relacionado(s): Promover o aprendizado, a sociabilização e a autoestima do idoso mostrando que ele é capaz de aprender as novas tecnologias.
+Meta(s) relacionada(s): Inserir 100% dos alunos inscritos no ambiente digital
+PROJETO WEB – FATEC ACESSÍVEL
+O que será feito: Implementar acessibilidade no site da Fatec Baixada Santista – Rubens Lara, utilizando as diretrizes de acessibilidade para conteúdo web contidas no documento WCAG 2.1 – Web Content Acessibility Guidelines, estabelecidas pela W3C – World Wide Web Consortium e publicadas pela WAI – Web Acessibility Iniciative
+Por que será feito: Implementar padrões de acessibilidade, além de permitir que pessoas com deficiência acessem o site e consequentemente atender a LBI – 13.146. Aumentar a possibilidade dos mecanismos de busca “Google” de encontrar com mais facilidade o site da Fatec, ampliando as visualizações de nosso conteúdo.
+Objetivo(s) relacionado(s): Aumentar a acessibilidade das pessoas com deficiência ao site da Fatec e mecanismos de busca.
+Meta(s) relacionada(s): Facilitar a acessibilidade das pessoas com deficiência e Aumentar em 10% o acesso ao site da Fatec RL
+AMPLIAR LABORATÓRIO DE INFORMÁTICA – 2 ANDAR (SI+DIREÇÃO)
+O que será feito: PROJETO DE LEIAUTE E REORGANIZAÇÃO DE LABORATÓRIO, EQUIPAMENTOS, FERRAMENTAS E DISPOSITIVOS, COM ADEQUAÇÃO DAS INSTALAÇÕES DE ILUMINAÇÃO E CLIMATIZAÇÃO
+Por que será feito: Ampliar em 30% a oferta dos cursos de graduação
+Objetivo(s) relacionado(s): Ampliar a oferta da Educação Profissional Aumentar a eficiência, a produtividade e a competitividade da instituição
+Meta(s) relacionada(s): Ampliar em 30% a oferta de cursos de graduação.
+AMPLIAR SALAS DE AULA - 09 – 2 ANDAR (DIREÇÃO)
+O que será feito: PROJETO DE LEIAUTE E REORGANIZAÇÃO DAS SALAS, EQUIPAMENTOS, FERRAMENTAS E DISPOSITIVOS, COM ADEQUAÇÃO DAS INSTALAÇÕES DE ILUMINAÇÃO E CLIMATIZAÇÃO
+Por que será feito: Ampliar em 30% a oferta dos cursos de graduação
+Objetivo(s) relacionado(s): Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem Ampliar a oferta da Educação Profissional.
+Meta(s) relacionada(s): Ampliar em 30% a oferta de cursos de graduação.
+AMPLIAR LABORATÓRIOS DE INFORMÁTICA (12) - 2 ANDAR (DIREÇÃO)
+O que será feito: PROJETO DE LEIAUTE E REORGANIZAÇÃO DOS LABORATÓRIOS, EQUIPAMENTOS, FERRAMENTAS E DISPOSITIVOS, COM ADEQUAÇÃO DAS INSTALAÇÕES DE ILUMINAÇÃO E CLIMATIZAÇÃO
+Por que será feito: Ampliar em 30% a oferta dos cursos de graduação
+Objetivo(s) relacionado(s): Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem Ampliar a oferta da Educação Profissional
+Meta(s) relacionada(s): Ampliar em 30% a oferta de cursos de graduação.
+AMPLIAR SALAS DE AULA (10)
+O que será feito: PROJETO DE LEIAUTE E REORGANIZAÇÃO DAS SALAS, EQUIPAMENTOS, FERRAMENTAS E DISPOSITIVOS, COM ADEQUAÇÃO DAS INSTALAÇÕES DE ILUMINAÇÃO E CLIMATIZAÇÃO
+Por que será feito: Ampliar em 30% a oferta dos cursos de graduação
+Objetivo(s) relacionado(s): Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem Ampliar a oferta da Educação Profissional
+Meta(s) relacionada(s): Ampliar em 30% a oferta de cursos de graduação.
+AMPLIAR LABORATÓRIO - ESPAÇO MAKER
+O que será feito: PROJETO DE LEIAUTE E REORGANIZAÇÃO DOS LABORATÓRIOS, EQUIPAMENTOS, FERRAMENTAS E DISPOSITIVOS, COM ADEQUAÇÃO DAS INSTALAÇÕES DE ILUMINAÇÃO E CLIMATIZAÇÃO
+Por que será feito: PARA ATENDIMENTO ÀS DISCIPLINAS CRIAÇÃO DE EMPRESAS PARA A INTERNET, MARKETING DIGITAL E NEGÓSCIOS EM SEUS CONTEÚDOS PRÁTICOS PREVISTOS NO PPC
+Objetivo(s) relacionado(s): Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem Ampliar a oferta da Educação Profissional
+Meta(s) relacionada(s): Ampliar em 5% a infraestrutura de apoio educacional
+AMPLIAR LABORATÓRIO - NÚCLEO DE INTELIGÊNCIA E INOVAÇÃO PORTUÁRIA (CD/GP)
+O que será feito: ENCAMINHAR PROPOSTA PARA A CRIAÇÃO DO LABORATÓRIO - NÚCLEO DE INTELIGÊNCIA PORTUÁRIA
+Por que será feito: PARA ATENDIMENTO À DISCIPLINA TEORIA DO APRENDIZADO ESTATÍSTICO, INTELIGÊNCIA ARTIFICAL, GESTÃO ÁGIL DE PROJETOS, TERMINAL DE REGASEIFICAÇÃO, GESTÃO DE OPERAÇÕES PORTUÁRIAS E PORTO SECO, SIMULAÇÃO DE OPERAÇÕES PORTUÁRIAS E AFINS EM SEUS CONTEÚDOS PRÁTICOS PREVISTOS NO PPC
+Objetivo(s) relacionado(s): Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem Ampliar a oferta da Educação Profissional
+Meta(s) relacionada(s): Ampliar em 5% a infraestrutura de apoio educacional
+AMPLIAR LABORATÓRIO DE LÍNGUAS ESTRANGEIRAS
+O que será feito: PROJETO DE LEIAUTE E REORGANIZAÇÃO DE LABORATÓRIO, EQUIPAMENTOS, FERRAMENTAS E DISPOSITIVOS, COM ADEQUAÇÃO DAS INSTALAÇÕES DE ILUMINAÇÃO E CLIMATIZAÇÃO
+Por que será feito: REDUÇÃO DE 5% DA EVASÃO ESCOLAR NAS DISCIPLINAS DE LÍNGUA ESTRANGEIRA
+Objetivo(s) relacionado(s): Ampliar a oferta da Educação Profissional Aumentar a eficiência, a produtividade e a Competitividade da instituição
+Meta(s) relacionada(s): Reduzir em 5% a evasão nas disciplinas de língua estrangeira.
