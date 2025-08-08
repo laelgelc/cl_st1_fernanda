@@ -1,3 +1,5 @@
+Section: 1 ANÁLISE DO CENÁRIO
+
 A Fatec Baixada Santista – Rubens Lara, possui a crença na avaliação como instrumento de gestão. Por meio da 
 avaliação temos condições de reunir indicadores capazes de suscitar análises e discussões possibilitando definir planos de 
 melhorias de forma continuada. 
@@ -106,3 +108,4 @@ breve histórico sobre a IES, seguido pela metodologia aplicada na avaliação. 
 análise dos eixos e suas respectivas dimensões. Na quarta etapa são levantados os dados tratados em um software de 
 Business intelligence mais relevantes para melhorias e identificar oportunidades para toda a comunidade acadêmica e por fim 
 as considerações finais do processo de avaliação. 
+
