@@ -14,7 +14,9 @@ Segundo dados do Observatório Econômico da Universidade Metodista, o Grande AB
 
 O município foi fundado oficialmente em 8 de abril de 1553. Com área de 174,38 km², está localizado no Grande ABC (Região Metropolitana de São Paulo), distante 18 km da Capital. A cidade é estratégica para o setor logístico, pois está inserida no principal polo econômico do país, próxima a algumas das principais rodovias estaduais e federais, as quais dão acesso ao Porto de Santos e aos aeroportos de Cumbica e de Congonhas. 
 
-Como ocorreu com a maior parte dos municípios da região do ABC, marcada pelas indústrias metalúrgica, automobilística, química, plástico e borracha, a partir da segunda metade dos anos de 1980 a economia da região passou por transformações, provocada especialmente pelo processo de abertura econômica, que trouxe uma nova dinâmica à economia brasileira. A economia de Santo André que já teve uma grande representatividade do setor industrial. Atualmente, de acordo o PIB de 2011 divulgado pelo SEADE, a indústria responde por 26,2% do valor adicionado na economia de Santo André. No Grande ABC a Indústria responde por 32,62% da Economia da Região. 
+Como ocorreu com a maior parte dos municípios da região do ABC, marcada pelas indústrias metalúrgica, automobilística, química, plástico e borracha, a partir da segunda metade dos anos de 1980 a economia da região passou por transformações, provocada especialmente pelo processo de abertura econômica, que trouxe uma nova dinâmica à economia brasileira. A economia de Santo André que já teve uma grande representatividade do setor industrial. 
+
+Atualmente, de acordo o PIB de 2011 divulgado pelo SEADE, a indústria responde por 26,2% do valor adicionado na economia de Santo André. No Grande ABC a Indústria responde por 32,62% da Economia da Região. 
 
 Observando a série dos últimos dez anos, a indústria diminuiu sua participação do PIB do município de Santo André em aproximadamente 10 pontos percentuais. 
 
@@ -36,12 +38,11 @@ Com a crescente demanda por eficiência e redução de custos nas empresas, a bu
 
 O curso de Mecatrônica Industrial está diretamente relacionado com a demanda por profissionais pelas empresas de automação e controle de processos, uma vez que a cidade possui um forte polo industrial e tecnológico, com destaque para empresas de alta tecnologia e avançada capacidade produtiva. A formação Mecatrônico industrial capacita o profissional a aplicar tecnologias avançadas na produção industrial, a robótica e a automação, tornando-se um profissional altamente valorizado pelo mercado. Com a crescente demanda por tecnologias inovadoras, empresas buscam profissionais com essa formação para otimizar seus processos produtivos, reduzir custos e aumentar a competitividade no mercado. 
  
-Section 2: DESENVOLVIMENTO
+Section: 2 DESENVOLVIMENTO
 
 O Grande ABC apresentou, em setembro de 2022, saldo positivo de 4.162 de vagas formais e totalizou 30.735 vagas abertas nos nove primeiros meses do ano. O saldo acumulado dos últimos 12 meses (de outubro de 2021 até setembro de 2022) registra a abertura de 35.131 vagas formais na região. Os dados são do Cadastro Geral de Empregados e Desempregados (Caged). 
 
-As informações, divulgadas pelo Ministério do Trabalho e Previdência, foram organizadas pelo Observatório Grande ABC, iniciativa do Consórcio Intermunicipal Grande ABC e da Agência de Desenvolvimento Econômico Grande ABC, com o objetivo de 
-levantar números regionais dos mais diversos setores para embasar políticas públicas para a região. Seis municípios da região encerraram o mês passado com saldo positivo: São Bernardo do Campo (+1.929), Santo  André (+950), Diadema (+545), Mauá (+524), São Caetano do Sul (+253) e Rio Grande da Serra (+11). 
+As informações, divulgadas pelo Ministério do Trabalho e Previdência, foram organizadas pelo Observatório Grande ABC, iniciativa do Consórcio Intermunicipal Grande ABC e da Agência de Desenvolvimento Econômico Grande ABC, com o objetivo de levantar números regionais dos mais diversos setores para embasar políticas públicas para a região. Seis municípios da região encerraram o mês passado com saldo positivo: São Bernardo do Campo (+1.929), Santo  André (+950), Diadema (+545), Mauá (+524), São Caetano do Sul (+253) e Rio Grande da Serra (+11). 
 
 Ribeirão Pires apresentou recuo (-50. Nos últimos 12 meses, considerando o período entre outubro de 2021 e setembro de 2022, apenas o estoque de empregos de Rio Grande da Serra apresentou variação negativa (-70 postos), ao passo que Todos os demais municípios da região ampliaram seu saldo de empregos, superando 35 mil novas vagas. No saldo por sexo verifica-se que, no mês, o saldo entre os homens (+2.321) foi superior ao das mulheres (+1.841). Em relação à escolaridade, o resultado no mês demonstrou predomínio de vagas para pessoas com o nível médio completo (+3.811). 
 
@@ -137,13 +138,15 @@ Dentre as iniciativas, destacam-se: a formação de arcabouço legal de incentiv
 
 Diante deste contexto, a Fundação CERTI foi contratada pelo Consórcio Intermunicipal Grande ABC para apoiar no desenvolvimento científico e tecnológico da região através de um projeto, cujo objetivo refere-se a prestação de consultoria técnica para o planejamento e modelagem do Parque Tecnológico de Santo André e seu Centro de Inovação como Elemento Âncora do Polo Tecnológico do Grande ABC. 
 
-
 Em consonância ao cronograma de um ano – contado a partir de 03 de outubro de 2016 – e ao conjunto das entregas compreendidas no escopo desta consultoria, este relatório tem por objeto a formalização da execução da Etapa 2 do contrato nº 017/2016, que trata do levantamento de informações das bases de CT&I e empresarial, da identificação de oportunidades para o Ecossistema de Inovação do Grande ABC, compreendido no âmbito desta consultoria, como sendo o Polo Tecnológico do Grande ABC. 
 
 Os levantamentos realizados culminaram na identificação das áreas tecnológicas e de inovação estratégicas para o Ecossistema de Inovação do Grande ABC e na elaboração do mapa de atores de ciência, tecnologia e inovação da região. Esta etapa foi contratualmente denominada de Análise do Ecossistema de Inovação do Grande ABC. 
  
-A identificação das áreas tecnológicas e de inovação estratégicas para o Ecossistema de Inovação do Grande ABC fundamentou-se no levantamento, análise e combinação de três componentes: as vocações/competências produtivas instaladas, as potencialidades científico-tecnológicas e o mapeamento de tendências e projetos de interesse dos municípios e região. A combinação destas três componentes constitui o que denominou-se de “Delta Opportunity”, metodologia desenvolvida pela Fundação CERTI e utilizada em projetos orientados para o planejamento de ambientes de inovação tais como: polos e parques tecnológicos, incubadoras de empresas e centros de inovação. Em termos simplificados, o “Delta Opportunity” constituise de 
-levantamentos secundários e da combinação de pesquisas primárias1 que tem como intuito a identificação de oportunidades a partir da conexão das três componentes. 
+A identificação das áreas tecnológicas e de inovação estratégicas para o Ecossistema de Inovação do Grande ABC fundamentou-se no levantamento, análise e combinação de três componentes: as vocações/competências produtivas instaladas, as potencialidades científico-tecnológicas e o mapeamento de tendências e projetos de interesse dos municípios e região. 
+
+A combinação destas três componentes constitui o que denominou-se de “Delta Opportunity”, metodologia desenvolvida pela Fundação CERTI e utilizada em projetos orientados para o planejamento de ambientes de inovação tais como: polos e parques tecnológicos, incubadoras de empresas e centros de inovação. 
+
+Em termos simplificados, o “Delta Opportunity” constitui-se de levantamentos secundários e da combinação de pesquisas primárias1 que tem como intuito a identificação de oportunidades a partir da conexão das três componentes. 
  
 No que diz respeito à identificação das vocações (competências produtivas instaladas), foram avaliados indicadores econômicos, tais como: o produto interno bruto (PIB), a representatividade do valor adicionado bruto (VAB2) e a configuração do estoque de empresas e empregos nos municípios e região. Complementarmente avaliou-se a presença de aglomeraçõesprodutivas, quantificando-as em termos de empresas, empregos e índices de especialização (quociente locacional3). 
 
@@ -215,8 +218,7 @@ Do ponto de vista de tecnologias relevantes para esta indústria, vale assinalar
 
 Igualmente vislumbra-se um cenário favorável para a adoção de soluções advindas da área de tecnologia da informação e comunicação, as quais podem oferecer oportunidades de aprimoramentos para a indústria química, tais como: controle de processos produtivos, sensoriamento e melhoria dos padrões de qualidade e segurança dos processos industriais. 
 
-Reforçando a visão a respeito das oportunidades aventadas, é oportuno salientar que foi identificada junto às IES (Instituições de Ensino Superior) da região, a existência de linhas e grupos de pesquisas aderentes e com potencial de agregação de valor para o setor químico, dentre estes, cumpre listar: polímeros, polímeros em condutores elétricos, materiais poliméricos, estudos na área de química ambiental e novos processos de produção, resinas naturais, plásticos com alta condutividade térmica e elétrica, materiais nanoestruturados, modelagem molecular, química computacional, materiais 
-sintéticos e biodegradáveis entre outros. 
+Reforçando a visão a respeito das oportunidades aventadas, é oportuno salientar que foi identificada junto às IES (Instituições de Ensino Superior) da região, a existência de linhas e grupos de pesquisas aderentes e com potencial de agregação de valor para o setor químico, dentre estes, cumpre listar: polímeros, polímeros em condutores elétricos, materiais poliméricos, estudos na área de química ambiental e novos processos de produção, resinas naturais, plásticos com alta condutividade térmica e elétrica, materiais nanoestruturados, modelagem molecular, química computacional, materiais sintéticos e biodegradáveis entre outros. 
 
 3. Complexo Industrial da Saúde – A Região do Grande ABC constitui um importante polo de atendimento à saúde. Em adição a esta competência, constatouse nos levantamentos e entrevistas realizados, a presença de estudos importantes no campo da neurociência, doenças negligenciadas e engenharia biomédica, esta última, com um mais avançado nível de cooperação entre empresas e universidades. 
 
