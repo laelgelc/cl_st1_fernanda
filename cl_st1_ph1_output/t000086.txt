@@ -76,12 +76,12 @@ VI ENCOMEX. No dia 20 de outubro de 2022, foi realizado, no auditório da Fatec 
 
 O VI ENCOMEX foi dividido em dois blocos de palestras, Os primeiros convidados foram o Kimio Ishiaki, representante do Conselho Regional de Administração (CRA-SP) em São Caetano do Sul e Diretor de Comércio Exterior e Logística Internacional na WSERV Logistics Group, e a Gabriele Salina, egressa do curso de Comércio Exterior da Fatec São Caetano do Sul e Coordenadora de Agenciamento de Cargas na WSERV Logistics Group. 
 
-O tema da palestra que eles proferiram foi o seguinte: “CRA-SP - Valorização Profissional em Administração e Sumário da Administração em Comércio Exterior”. Na sequência a Tatiana Chaves, Supervisora de Controle Aduaneiro da Wilson Sons, 
-Logística, falou sobre “Terminal Alfandegado: a importância da zona secundária na cadeia logística” 
+O tema da palestra que eles proferiram foi o seguinte: “CRA-SP - Valorização Profissional em Administração e Sumário da Administração em Comércio Exterior”. Na sequência a Tatiana Chaves, Supervisora de Controle Aduaneiro da Wilson Sons, Logística, falou sobre “Terminal Alfandegado: a importância da zona secundária na cadeia logística” 
  
 O ADS Day aconteceu no dia 27 de outubro de 2022, presencialmente, com palestras no período matutino e vespertino:  
 
 Matutino: 
+
 - Requisitos de Segurança para Desenvolvimento e Manutenção de Sistemas, com Estefânia Pianoski. 
 
 - Blockchain, com Ricardo Mühlbauer 
@@ -125,8 +125,7 @@ Reconhecimento de Cursos. Em 18/03/2022 o curso de Jogos Digitais recebeu os esp
 
 O curso de Comércio Exterior também recebeu visita de especialistas no dia 08/03/2022, realizando reuniões com docentes, discentes, técnicos administrativo, coordenação e direção, além de visitar as instalações da unidade. O parecer de renovação de reconhecimento do curso foi publicado em 30/06/2022, aprovando a renovação do curso por 5 anos. 
  
-Participação no Fórum de Ensino de Jogos Digitais. O Prof. Alan Carvalho, Coordenador do Curso de Jogos Digitais, novamente foi 
-responsável pela organização do Fórum de Ensino de Jogos Digitais, atividade realizada como parte do SBGames 2022, o maior simpósio da América Latina voltado a discussões sobre jogos e entretenimento digital. Nessa atividade, que já ocorre há sete anos, docentes, pesquisadores e profissionais do setor de diversas instituições de ensino e pesquisa, bem como de estúdios brasileiros e empresas promotoras de cursos livres na área, reúnem-se para discutir questões relacionadas à formação de profissionais para o setor. 
+Participação no Fórum de Ensino de Jogos Digitais. O Prof. Alan Carvalho, Coordenador do Curso de Jogos Digitais, novamente foi responsável pela organização do Fórum de Ensino de Jogos Digitais, atividade realizada como parte do SBGames 2022, o maior simpósio da América Latina voltado a discussões sobre jogos e entretenimento digital. Nessa atividade, que já ocorre há sete anos, docentes, pesquisadores e profissionais do setor de diversas instituições de ensino e pesquisa, bem como de estúdios brasileiros e empresas promotoras de cursos livres na área, reúnem-se para discutir questões relacionadas à formação de profissionais para o setor. 
 
 Na edição 2022 do evento, realizado em 25/10/2022 na cidade de Natal/RN, foram discutidos temas como a curricularização da extensão e os reflexos da pandemia no ensino de Jogos Digitais. 
  
@@ -136,7 +135,7 @@ Na exposição, os convidados (alunos, ex-alunos, público externo e candidatos 
  
 ENADE. Os alunos, concluintes, do curso de Comércio Exterior e Gestão Empresarial (EaD) participaram da prova Enade em 27 de novembro de 2022. O curso de Análise e Desenvolvimento de Sistemas, que participou do Enade 2021, obteve nota 4,0. 
  
-IIII. B – Estratégias e medidas para minimizar os PONTOS FRACOS 
+III. B – Estratégias e medidas para minimizar os PONTOS FRACOS 
  
 Em 2022 foi possível finalizar a reforma para correção do problema das patologias do piso em virtude do recalque do solo, bem como a selação das tricas do piso e conserto das calhas e correção do gesso do Hall, conserto da parte elétrica da área da cantina e troca de caixilhos das janelas dos laboratórios 3 e 4, além de pintura interna e externa do prédio. 
  
@@ -153,13 +152,11 @@ Os alunos do curso de ADS-AMS puderam participara do ADS Day e de eventos espec�
 Em 2022 recebemos equipamentos para o Espaço Maker (notebooks, televisor, lousa digital) porém ainda falta o recebimento de mobiliário. Também recebemos televisores de 65 polegadas que substituíram os projetores e melhoram a qualidade do material
 expositivo dos professores em sala de aula. 
  
-Com a retorno das aulas presenciais, todos os esforços às solicitações reivindicadas no Plano de Desenvolvimento Institucional, pela direção da unidade, foram parcialmente implantadas, fazendo com que a unidade, que completou 15 anos em 
-2022, tenha celebrado com uma restauração predial e atualização tecnológica, atendendo às expectativas de ensino superior de qualidade.  
+Com a retorno das aulas presenciais, todos os esforços às solicitações reivindicadas no Plano de Desenvolvimento Institucional, pela direção da unidade, foram parcialmente implantadas, fazendo com que a unidade, que completou 15 anos em 2022, tenha celebrado com uma restauração predial e atualização tecnológica, atendendo às expectativas de ensino superior de qualidade.  
  
 III. C – Estratégias e medidas para aproveitar as OPORTUNIDADES 
 
-No ano de 2022 a diretora da unidade manteve sua participação no Conselho de Inovação e no Conselho de Desenvolvimento Econômico do município de São Caetano do Sul  e retornou ao Conselho do IBGE, possibilitando parcerias e contribuindo de 
-forma mais efetiva com o município e o relacionamento com empresas.  
+No ano de 2022 a diretora da unidade manteve sua participação no Conselho de Inovação e no Conselho de Desenvolvimento Econômico do município de São Caetano do Sul  e retornou ao Conselho do IBGE, possibilitando parcerias e contribuindo de forma mais efetiva com o município e o relacionamento com empresas.  
  
 III. D – Estratégias e medidas para sua suavizar as AMEAÇAS Reiteramos todos os itens de ameaças para os cursos de nossa unidade, em 2022, com o retorno do vestibular presencial a partir do 2º. Semestre, tivemos uma queda na média de inscrições.  
 Divulgação vestibular. A unidade tem consolidado a divulgação dos cursos ofertados, em 2022 foi possível participar ativamente de alguns eventos de profissões organizados por escolas de Ensino Médio na Grande São Paulo, presencialmente, e manter o engajamento e por meio das redes sociais. Professores e coordenadores de curso da Fatec São Caetano do Sul – Antonio Russo participaram da Feira de Profissões, promovida pela Uniexpo, para divulgação do vestibular da Fatec e orientação em relação aos cursos oferecidos pela Unidade. Representantes da Fatec São Caetano do Sul estiveram presentes nas feiras realizadas na ETEC Camargo Aranha, na ETEC Jorge Street, na ETEC Martin Luther king e na ETEC Lauro Gomes. 
@@ -184,8 +181,7 @@ Parcerias
 
 - Toeic: Aplicação do exame por professores credenciados, oferecido aos alunos de 5º e 6º semestres de todos os cursos. 
 
-- Visita Técnica à Wilson Sons, Logística: As visitas técnicas realizadas com os estudantes de 2º a 6º semestre do curso de Comércio Exterior da FATEC São Caetano do Sul – Antonio Russo ao Centro de Distribuição (CD) da Wilson, Sons Logística, nos dias 11 de agosto, e 8 e 9 de setembro de 2022, os estudantes puderam verificar na prática não só a integração das disciplinas de Logística Aplicada, Logística Internacional e Modais de Transporte e Seguro de Carga, como também as demais disciplinas do curso que tratam de questões estratégicas e legais voltadas ao comércio 
-exterior. 
+- Visita Técnica à Wilson Sons, Logística: As visitas técnicas realizadas com os estudantes de 2º a 6º semestre do curso de Comércio Exterior da FATEC São Caetano do Sul – Antonio Russo ao Centro de Distribuição (CD) da Wilson, Sons Logística, nos dias 11 de agosto, e 8 e 9 de setembro de 2022, os estudantes puderam verificar na prática não só a integração das disciplinas de Logística Aplicada, Logística Internacional e Modais de Transporte e Seguro de Carga, como também as demais disciplinas do curso que tratam de questões estratégicas e legais voltadas ao comércio exterior. 
 
 - Visita Técnica ao evento Movimat/FENATRAN: No dia 8 de novembro de 2022, foi realizada uma visita técnica ao evento Movimant/FENATRAN com alunos do 3º. e 6º semestres do curso de Comércio Exterior.  
  
