@@ -22,8 +22,7 @@ APONTAMENTO DE SITUAÇÕES-PROBLEMA MAIS RELEVANTES (“Escuta”)
  
 2 Biblioteca e ações para o desenvolvimento de estudos 
 
-3 Infraestrutura: expansão, manutenção e reformas do espaço físico; defasagem de computadores, roteadores e rede de 
-internet. 
+3 Infraestrutura: expansão, manutenção e reformas do espaço físico; defasagem de computadores, roteadores e rede de internet. 
  
 4 Sustentabilidade e atendimento aos ODS da ONU 
 
@@ -204,8 +203,7 @@ Inovar processos de ensino e aprendizagem para a formação de profissionais atu
 
 Desenvolver programas e projetos educacionais para estimular intercâmbios e a aprendizagem global. 
 
-Meta(s) relacionada(s):  Realizar 1 Hackaton para os Cursos de DSM E CD. 
-  
+Meta(s) relacionada(s):  Realizar 1 Hackaton para os Cursos de DSM E CD.   
 
 I – Fatec no Metaverso. O que será feito:  Construção de Protótipo da Fatec Cotia no Metaverso.  Por que será feito:  Para proporcionar oportunidades de aprendizado, tanto em termos técnicos quanto criativos e sociais; para propor a utilização de ferramentas de desenvolvimento de software, integrando diferentes componentes de software para a criação de um ambiente imersivo. 
 
@@ -236,6 +234,7 @@ Meta(s) relacionada(s):
 Realizar, em conjunto com as demais Fates que possuem o CST em Ciência de Dados, o III encontro de Ciência de Dados das Fatecs. 
 
 Objetivo(s) relacionado(s): 
+
 Atender às demandas sociais e do mercado de trabalho; 
 
 Desenvolver programas e projetos educacionais para estimular intercâmbios e a aprendizagem global; 
