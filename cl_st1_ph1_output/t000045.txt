@@ -4,7 +4,9 @@ PLANO DE GESTÃO ANUAL – PGA
 
 O Grande ABC está inserido a sudeste da Região Metropolitana de São Paulo e é composto por sete municípios: Santo André, São Bernardo do Campo, São Caetano do Sul, Diadema, Mauá, Ribeirão Pires e Rio Grande da Serra. 
 
-Mais de 2,7 milhões (IBGE/2015) de pessoas habitam a região em uma área territorial de 828 km² (IBGE/2015). A região é especialmente interligada, a ponto de ser difícil definir suas divisas terrestres, com muitas ruas e grandes vias de alta circulação. O Grande ABC ou ABC Paulista, como também é conhecido, está localizado em um ponto privilegiado, próximo ao Porto de Santos e à capital, além de possuir fácil acesso às rodovias Anchieta e Imigrantes, ao Rodoanel e à rede ferroviária.  
+Mais de 2,7 milhões (IBGE/2015) de pessoas habitam a região em uma área territorial de 828 km² (IBGE/2015). A região é especialmente interligada, a ponto de ser difícil definir suas divisas terrestres, com muitas ruas e grandes vias de alta circulação. 
+
+O Grande ABC ou ABC Paulista, como também é conhecido, está localizado em um ponto privilegiado, próximo ao Porto de Santos e à capital, além de possuir fácil acesso às rodovias Anchieta e Imigrantes, ao Rodoanel e à rede ferroviária.  
 
 O ABC recebeu forte fluxo de imigrantes no fim do séc. XIX e de migrantes ao longo do séc. XX, favorecendo o povoamento da região. É também o berço da indústria automobilística e de multinacionais que se instalaram na região ao longo do último século, com destaque para a década de 1950, quando a industrialização iniciada na capital chegou às regiões próximas (apenas dois dos sete municípios não fazem fronteira com a cidade de São Paulo). 
 
@@ -23,6 +25,7 @@ APONTAMENTO DE SITUAÇÕES-PROBLEMA MAIS RELEVANTES (“Escuta”)
 - Dificuldade de distinção entre o ensino técnico e o tecnológico 
  
 - Redução da evasão 
+
 - Construção de novos ambientes acadêmicos e administrativos 
 
 - Ampliação dos cursos existentes na unidade 
@@ -94,8 +97,7 @@ Meta(s) relacionada(s): Aumentar a empregabilidade dos alunos formados em 10%
  
 Organizar Laboratório de Ensaios Dinamométrico 
 
-O que será feito: Adequação e ou aquisição de novo dinamômetro de rolo para atender as crescentes demandas. futuras de propulsores de alta potência e de energia renováveis. Por que será feito: O equipamento atual atender as demandas atuais do PPC e ainda os veículos a combustão interna de limitada potência 
-
+O que será feito: Adequação e ou aquisição de novo dinamômetro de rolo para atender as crescentes demandas. futuras de propulsores de alta potência e de energia renováveis. Por que será feito: O equipamento atual atender as demandas atuais do PPC e ainda os veículos a combustão interna de limitada potência.
  
 Meta(s) relacionada(s): Aumentar a empregabilidade dos alunos formados em 10% 
  
@@ -127,8 +129,7 @@ Meta(s) relacionada(s): Promover o aprendizado do aluno com as aulas práticas.
  
 Desenvolvimento de Sistema de Segurança para Veículo Autônomo em Aplicação Agrícola. 
 
-O que será feito: Desenvolvimento de um caminhão autônomo nível SAE-3 para colheita de cana de açúcar   Por que será feito: Projeto de Pesquisa aplicada financiada pela FUNDEP e em parceria com a UFABC, POLI-USP, Mercedes Benz, Bosch e Grunner.  
-
+O que será feito: Desenvolvimento de um caminhão autônomo nível SAE-3 para colheita de cana de açúcar   Por que será feito: Projeto de Pesquisa aplicada financiada pela FUNDEP e em parceria com a UFABC, POLI-USP, Mercedes Benz, Bosch e Grunner. 
 
 Objetivo(s) relacionado(s): Pesquisa de desenvolvimento com capacidade de ter um produto em nível TRL-8 
 
