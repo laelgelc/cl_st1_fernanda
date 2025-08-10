@@ -96,8 +96,7 @@ CPA (RADE, RCEE, RLAB, RWebSAI, RAAI)
 
 O que será feito: Security Day: Preparação de um evento com palestras e demonstrações práticas das ações e ferramentas ligadas à Segurança Cibernética. Por que será feito: Nossos estudantes devem ser apresentados ao mercado formal da área de Segurança Cibernética por meio de eventos que trazem profissionais e empresas da área, desenvolvendo um contato próximo a eles. 
 
-Ações pedagógicas: visitas técnicas, projetos integradores/interdisciplinares, dias de campo, 
-feira das profissões, cursos extracurriculares para alunos. 
+Ações pedagógicas: visitas técnicas, projetos integradores/interdisciplinares, dias de campo, feira das profissões, cursos extracurriculares para alunos. 
 
 Estudo para aquisição de assinaturas do Siscomex, treinamento docente e discente para conhecimento da ferramenta, e uso do software em disciplinas profissionalizantes do curso. 
 
