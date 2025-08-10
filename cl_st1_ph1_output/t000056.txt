@@ -109,8 +109,7 @@ O que será feito:
 
 4) Organização de evento de Software Livre 
 
-Por que será feito: Para apoiar a comunidade interna e externa relacionadas a dúvidas sobre imposto IR, atenção as 
-suas finanças pessoais e divulgar Software Livre. 
+Por que será feito: Para apoiar a comunidade interna e externa relacionadas a dúvidas sobre imposto IR, atenção as suas finanças pessoais e divulgar Software Livre. 
 
 Situação problema: 
 
@@ -126,8 +125,7 @@ Situação problema:
 
 Metodologia de ensino, desempenho de alunos, evasão (a ser resolvida/mitigada) 
 
-Ações pedagógicas: visitas técnicas, projetos integradores/interdisciplinares, dias de campo, 
-feira das profissões, cursos extracurriculares para alunos. 
+Ações pedagógicas: visitas técnicas, projetos integradores/interdisciplinares, dias de campo, feira das profissões, cursos extracurriculares para alunos. 
 
 O que será feito: Localização de parceiros que desenvolvem atividades afins para dar suporte técnico ao evento. Por que será feito: Este evento é tradicional nas instituições que possuem o curso de Segurança da Informação. 
 
@@ -227,8 +225,7 @@ Situação problema:
 
 Comunicação com a comunidade acadêmica (a ser resolvida/mitigada) 
 
-Ações pedagógicas: visitas técnicas, projetos integradores/interdisciplinares, dias de campo, 
-feira das profissões, cursos extracurriculares para alunos. 
+Ações pedagógicas: visitas técnicas, projetos integradores/interdisciplinares, dias de campo, feira das profissões, cursos extracurriculares para alunos. 
 
 O que será feito: 
 
@@ -468,8 +465,7 @@ Comunicação com a comunidade acadêmica
 
 Ações de nivelamento de conhecimento, ENADE, acolhimento e permanência discente. 
 
-O que será feito: Familiarização com o formato do teste Melhoria da compreensão auditiva Simulação de testes práticos 
-Desenvolvimento da leitura Monitoramento do progresso 
+O que será feito: Familiarização com o formato do teste Melhoria da compreensão auditiva Simulação de testes práticos Desenvolvimento da leitura Monitoramento do progresso 
 
 Situação problema: 
 
