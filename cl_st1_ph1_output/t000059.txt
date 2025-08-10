@@ -131,8 +131,7 @@ Metodologia de ensino, desempenho de alunos, evasão (a ser resolvida/mitigada)
 
 Adequação/reestruturação de PPC, implantação de novos cursos. 
 
-O que será feito: Estudos para adequação/reestruturação da nova matriz do CST em Ciência de Dados. Por que será feito: 
-Demanda CESU após a reestruturação do curso realizada pela CESU e unidades  
+O que será feito: Estudos para adequação/reestruturação da nova matriz do CST em Ciência de Dados. Por que será feito: Demanda CESU após a reestruturação do curso realizada pela CESU e unidades  
 
 Situação problema: 
 
@@ -303,7 +302,6 @@ O que será feito: Projeto Solução de Situação-Problema - Utilização de si
 O projeto, em linhas gerais, funcionará da seguinte maneira: as empresas contribuem com a relação das situações ou problemas reais, disponibilizando sua infraestrutura para levantamento de informações e testes, bem como funcionários monitores denominados “padrinhos” internos que acompanham o grupo no desenvolvimento do trabalho. Os alunos recebem suporte e orientação dos professores relativos a áreas específicas de conhecimento necessárias, desenvolvendo e apresentando o trabalho com sugestões de solução sob um novo olhar baseado na teoria aplicada. 
 
 Por que será feito: Para estimular e consolidar parcerias (internas e externas), sinergia e a inovação tecnológica; para promover aplicação da tecnologia e estimular a criatividade para o desenvolvimento de competências humanas e organizacionais  
-
 Situação problema: 
 
 Metodologia de ensino, desempenho de alunos, evasão (a ser resolvida/mitigada) 
