@@ -10,7 +10,7 @@ Praia Grande é o 3º município mais populoso da região da Baixada Santista, c
 
 Outro dado importante é que Praia Grande tem atraído atividades imobiliárias e movimentado o setor de construção civil, tendo alcançado mais que o dobro de empreendimentos residenciais lançados em Santos entre 2016 e 2019, conforme apresentado na Figura 2. 
  
-Section: DESENVOLVIMENTO
+Section: 2 DESENVOLVIMENTO
 
 Quanto ao Produto Interno Bruto (PIB), a cidade de Praia Grande apresenta um valor de R$ 8,1 bilhões de reais, sendo que 69,34% se referem ao setor de serviços; 20,9% é gerado pela administração pública; 9,7% pela indústria, e por fim, 0,06% é a participação da agropecuária (IBGE, 2021). Além disso, em 2022, foram registradas 20,9 mil admissões formais de empregos e 19,3 mil desligamentos, resultando em um saldo positivo de 1.588 novos trabalhadores na cidade, ficando acima do resultado de 2021, que foi um saldo de 492, com a abertura de 1.347 novas empresas na cidade (CARAVELAS DADOS ESTATÍSTICOS, 2023).
 
@@ -80,8 +80,7 @@ Neste contexto, a Fatec Praia Grande trabalha pela melhoria contínua dos cursos
  
 Os Arranjos Produtivos Locais (APLs) são uma estratégia de desenvolvimento econômico regional que visa fortalecer as empresas e organizações de uma determinada região, promovendo a cooperação entre elas e fomentando a inovação e a competitividade. No caso de Praia Grande, é possível identificar alguns APLs em atividade, como o turismo e o comércio. O setor turístico é uma das principais fontes de renda do município, com uma grande oferta de hotéis, pousadas, restaurantes e atividades de lazer.
 
-O comércio também é forte, com destaque para o comércio varejista de produtos diversos. Contudo, é inegável notar como a região foi afetada pela pandemia de Covid-19, no qual o turismo e o comércio foram prejudicados. Muitas empresas foram obrigadas a fechar as portas, outras tiveram que se adaptar rapidamente ao comércio eletrônico para 
-continuar vendendo seus produtos e serviços. 
+O comércio também é forte, com destaque para o comércio varejista de produtos diversos. Contudo, é inegável notar como a região foi afetada pela pandemia de Covid-19, no qual o turismo e o comércio foram prejudicados. Muitas empresas foram obrigadas a fechar as portas, outras tiveram que se adaptar rapidamente ao comércio eletrônico para continuar vendendo seus produtos e serviços. 
 
 Para que esses APLs possam se desenvolver de forma sustentável e gerar mais oportunidades de emprego e renda para a população de Praia Grande, é fundamental que sejam criados mecanismos de apoio às empresas locais, como incentivos fiscais, acesso ao crédito e capacitação técnica. Além disso, é preciso promover a cooperação entre as empresas e organizações, estimulando a criação de redes de colaboração e parcerias estratégicas. 
 
@@ -127,10 +126,7 @@ Energia renovável: a transição para fontes de energia renovável, como solar,
 
 Além disso, o governo vem buscando promover a formação de profissionais com formação tecnológica por meio de iniciativas como programas de bolsas de estudo para cursos técnicos e de graduação, além de parcerias com instituições de ensino para promover a capacitação profissional. 
 
-Em resumo, a demanda por profissionais com formação tecnológica vem crescendo em Praia Grande e 
-na região metropolitana da Baixada Santista, impulsionada pela evolução da tecnologia em todos os setores 
-da economia. É importante que os profissionais acompanhem as tendências do mercado e busquem se manter 
-atualizados em relação às novas tecnologias e tendências. 
+Em resumo, a demanda por profissionais com formação tecnológica vem crescendo em Praia Grande e na região metropolitana da Baixada Santista, impulsionada pela evolução da tecnologia em todos os setores da economia. É importante que os profissionais acompanhem as tendências do mercado e busquem se manter atualizados em relação às novas tecnologias e tendências. 
 
 Section: 3 CONSIDERAÇÕES
 
