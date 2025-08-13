@@ -1,4 +1,4 @@
-Setion: 1 INTRODUÇÃO
+Section: 1 INTRODUÇÃO
 F126 - Fatec Adib Moisés Dib
 Período: 2023 (exercício) – 2024 (homologação)
 Section: 2 DESENVOLVIMENTO

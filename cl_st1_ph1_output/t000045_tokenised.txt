@@ -1,7 +1,8 @@
 Section: 1 ANÁLISE DO CENÁRIO
 PLANO DE GESTÃO ANUAL – PGA
 O Grande ABC está inserido a sudeste da Região Metropolitana de São Paulo e é composto por sete municípios: Santo André, São Bernardo do Campo, São Caetano do Sul, Diadema, Mauá, Ribeirão Pires e Rio Grande da Serra.
-Mais de 2,7 milhões (IBGE/2015) de pessoas habitam a região em uma área territorial de 828 km² (IBGE/2015). A região é especialmente interligada, a ponto de ser difícil definir suas divisas terrestres, com muitas ruas e grandes vias de alta circulação. O Grande ABC ou ABC Paulista, como também é conhecido, está localizado em um ponto privilegiado, próximo ao Porto de Santos e à capital, além de possuir fácil acesso às rodovias Anchieta e Imigrantes, ao Rodoanel e à rede ferroviária.
+Mais de 2,7 milhões (IBGE/2015) de pessoas habitam a região em uma área territorial de 828 km² (IBGE/2015). A região é especialmente interligada, a ponto de ser difícil definir suas divisas terrestres, com muitas ruas e grandes vias de alta circulação.
+O Grande ABC ou ABC Paulista, como também é conhecido, está localizado em um ponto privilegiado, próximo ao Porto de Santos e à capital, além de possuir fácil acesso às rodovias Anchieta e Imigrantes, ao Rodoanel e à rede ferroviária.
 O ABC recebeu forte fluxo de imigrantes no fim do séc. XIX e de migrantes ao longo do séc. XX, favorecendo o povoamento da região. É também o berço da indústria automobilística e de multinacionais que se instalaram na região ao longo do último século, com destaque para a década de 1950, quando a industrialização iniciada na capital chegou às regiões próximas (apenas dois dos sete municípios não fazem fronteira com a cidade de São Paulo).
 Representa, ainda, um dos maiores mercados consumidores do país. Se o Grande ABC fosse um município, seria a 4ª maior cidade em Produto Interno Bruto (PIB) do país com R$ 114,8 bilhões de riquezas geradas em 2013 (IBGE/2013). Sob este olhar, ficaria atrás apenas das capitais: São Paulo, Rio de Janeiro e Brasília. No Estado, apenas a capital paulista teria PIB mais elevado que o do conjunto dos sete municípios do ABC Paulista.
 O PIB Industrial é de cerca de R$ 29,7 bilhões, sendo o 2º do Estado (atrás apenas de São Paulo) e o 3º do país (superado apenas pela capital paulista e por Campos dos Goytacazes). O setor industrial ainda representa fatia considerável no desenvolvimento socioeconômico da região.
@@ -10,7 +11,8 @@ A FATEC Santo André - completou 16 anos de existência com três cursos na áre
 Hoje a unidade é atuante na Cidade com a participação do Conselho Municipal de Desenvolvimento Econômico, convênios e projetos do setor automotivo e de processos industriais.
 APONTAMENTO DE SITUAÇÕES-PROBLEMA MAIS RELEVANTES (“Escuta”)
 - Dificuldade de distinção entre o ensino técnico e o tecnológico
-- Redução da evasão - Construção de novos ambientes acadêmicos e administrativos
+- Redução da evasão
+- Construção de novos ambientes acadêmicos e administrativos
 - Ampliação dos cursos existentes na unidade
 - Melhorar a divulgação dos cursos da unidade
 - Melhora dos índices do vestibular
@@ -45,8 +47,7 @@ Organizar Laboratório de Controle
 O que será feito: Ampliação do laboratório de Controle dedicado às disciplinas correlatas. Por que será feito: Atualmente, o curso contempla prática dessa disciplina, porém com recursos limitados. Necessário a aquisição de softwares de simulação específicos.
 Meta(s) relacionada(s): Aumentar a empregabilidade dos alunos formados em 10%
 Organizar Laboratório de Ensaios Dinamométrico
-O que será feito: Adequação e ou aquisição de novo dinamômetro de rolo para atender as crescentes demandas. futuras de propulsores de alta potência e de energia renováveis. Por que será feito: O equipamento atual atender as demandas atuais do PPC e ainda os veículos a combustão interna de limitada potência
-
+O que será feito: Adequação e ou aquisição de novo dinamômetro de rolo para atender as crescentes demandas. futuras de propulsores de alta potência e de energia renováveis. Por que será feito: O equipamento atual atender as demandas atuais do PPC e ainda os veículos a combustão interna de limitada potência.
 Meta(s) relacionada(s): Aumentar a empregabilidade dos alunos formados em 10%
 Organizar Laboratório de Máquinas de Tração Elétrica
 O que será feito: Elaboração do descritivo dos conjuntos didáticos que possam atender as características de funcionamento e gerenciamento de veículos elétricos e híbridos. Por que será feito: Para atender a atualização dos veículos que estão no mercado atualmente atendendo as novas leis de emissão de poluentes e atendimento ao PPC do curso.
@@ -63,7 +64,6 @@ Objetivo(s) relacionado(s): Atender a melhoria dos recursos didáticos para a fo
 Meta(s) relacionada(s): Promover o aprendizado do aluno com as aulas práticas.
 Desenvolvimento de Sistema de Segurança para Veículo Autônomo em Aplicação Agrícola.
 O que será feito: Desenvolvimento de um caminhão autônomo nível SAE-3 para colheita de cana de açúcar Por que será feito: Projeto de Pesquisa aplicada financiada pela FUNDEP e em parceria com a UFABC, POLI-USP, Mercedes Benz, Bosch e Grunner.
-
 Objetivo(s) relacionado(s): Pesquisa de desenvolvimento com capacidade de ter um produto em nível TRL-8
 Meta(s) relacionada(s):
 Desenvolver ambiente de pesquisa aplicada e aumentar a visibilidade da unidade perante os players comercias de maneira a aumentar a empregabilidade dos nossos alunos

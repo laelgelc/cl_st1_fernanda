@@ -57,7 +57,6 @@ Objetivo(s) relacionado(s):
 Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem.
 Meta(s) relacionada(s):
 Reduzir em 10% os índices de retenções em disciplinas específicas (Matemática e Estágio)
-
 Desenvolvimento de um evento de Segurança da Informação conhecido por CTF (Capture in the Flag). O que será feito: Localização de parceiros que desenvolvem atividades afins para dar suporte técnico ao evento. Por que será feito: Este evento é tradicional nas instituições que possuem o curso de Segurança da Informação.
 Objetivo(s) relacionado(s):
 Aumentar a eficiência, a produtividade e a competitividade da instituição
@@ -69,7 +68,6 @@ Promover ações pedagógicas e administrativas que proporcionem a redução da 
 Proposta de atualização do PPC do Curso de Segurança da Informação
 O que será feito: Estruturação de proposta para a atualização do Projeto Pedagógico do curso superior em tecnologia de segurança da informação, revendo as disciplinas e os conteúdos, bem como a sequência das mesmas.
 Por que será feito: A área de TI e especificamente a área de Segurança da Informação tiveram grandes mudanças e avanços nos últimos anos. Temos como BigData, Cloud Computing, IoT e Business Intelligence fazem parte deste mundo, e nem tudo é contemplado no curso de forma explícita.
-
 Objetivo(s) relacionado(s):
 Aumentar a eficiência, a produtividade e a competitividade da instituição
 Atender às demandas sociais e do mercado de trabalho.
@@ -86,7 +84,6 @@ Formar profissionais atualizados em tecnologias e processos produtivos, capazes 
 Meta(s) relacionada(s):
 Ampliar as inscrições para o vestibular em 5% no ano de 2023.
 Promover ações pedagógicas e administrativas que proporcionem a redução da taxa de evasão em 5%
-
 Proposta de atualização do PPC do Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas com vistas à reestruturação.
 O que será feito: Estruturação de proposta atualização do PPC do CST em ADS mediante análise dos conteúdos programáticos dos componentes curriculares do curso, e construção de nova grade curricular segundo as exigências mercadológicas e legislação vigente.
 Por que será feito: Para atualização do Projeto Pedagógico do Curso em virtude do avanço tecnológico na área da tecnologia da informação e comunicação (TIC)
@@ -99,7 +96,6 @@ Promover ações pedagógicas e administrativas que proporcionem a redução da 
 Meta(s) relacionada(s):
 Ampliar as inscrições para o vestibular em 5% no ano de 2023.
 Promover ações pedagógicas e administrativas que proporcionem a redução da taxa de evasão em 5%
-
 Organização do Encontro de Comércio Exterior (ENCOMEX) para público externo, professores e alunos interessados na área, visando uma aproximação entre a academia e o mercado de atuação em comércio exterior.
 O que será feito: Prospecção de convidados para ministrar palestras e oficinas durante o evento, preparação do cronograma de atividades, divulgação do evento junto ao público interno e externo, organização do evento e aplicação de pesquisa de satisfação após o evento.
 Por que será feito: Para aproximação da academia, representada por alunos e professores, ao mercado de atuação em comércio exterior, representado pelos profissionais convidados para proferir palestras e oficinas no evento.
@@ -109,7 +105,6 @@ Ampliar as inscrições para o vestibular em 5% no ano de 2023.
 Promover ações pedagógicas e administrativas que proporcionem a redução da taxa de evasão em 5%
 Projeto Oficina de Soluções (Estágio Voluntariado)
 O que será feito: Desenvolvimento de atividades junto aos alunos em Estágio Voluntariado na Unidade. Por que será feito: O desenvolvimento de atividades colabora com ações de extensão, aumenta o interesse dos alunos e colabora com habilidades e competências na formação do aluno
-
 Meta(s) relacionada(s):
 Ampliar as inscrições para o vestibular em 5% no ano de 2023.
 Promover ações pedagógicas e administrativas que proporcionem a redução da taxa de evasão em 5%
@@ -177,13 +172,11 @@ Promover ações pedagógicas e administrativas que proporcionem a redução da 
 Implantação novo curso AMS
 O que será feito: Em parceria com a Etec Jorge Street implantar o curso AMS Tecnólogo em Processos Gerenciais (a partir do curso técnico de Administração)
 Por que será feito: Ampliar vagas oferecidas em curso superior utilizando salas de aula ociosas no período matutino.
-
 Objetivo(s) relacionado(s):
 Aumentar a eficiência, a produtividade e a competitividade da instituição
 Atender às demandas sociais e do mercado de trabalho.
 Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no desenvolvimento tecnológico e inovação.
 Meta(s) relacionada(s): Ampliar as inscrições para o vestibular em 5% no ano de 2023.
-
 Objetivo(s) relacionado(s): Aumentar a eficiência, a produtividade e a competitividade da instituição
 Meta(s) relacionada(s): Reestruturar e otimizar a rede de comunicação de dados da unidade.
 A- Proposta de indexação do Fasci-Tech, periódico científico eletrônico da Fatec de São Caetano do Sul, nas principais bases de dados.
@@ -205,7 +198,6 @@ Promover ações pedagógicas e administrativas que proporcionem a redução da 
 Proposta de oferecimento semestral do edital de abertura para submissão de propostas de pesquisa docente e discente para o Programa Institucional de Iniciação Científica (PCITec) da Fatec São Caetano do Sul.
 O que será feito: Promoção do Programa Institucional de Iniciação Científica (PCITec) da Fatec São Caetano do Sul à comunidade acadêmica, atualização do edital de abertura de inscrições, divulgação do cronograma do PCITec para submissão de propostas de pesquisa docente e discente, análise dos projetos enviados, divulgação dos resultados, início da pesquisa docente e discente e entrega dos relatórios parciais de orientadores e orientados.
 Por que será feito: Para desenvolvimento de atividades científicas e tecnológicas nos cursos de Análise e Desenvolvimento de Sistemas, Comércio Exterior, Jogos Digitais e Segurança da Informação, através da promoção do PCITec da Fatec São Caetano do Sul à comunidade acadêmica.
-
 Objetivo(s) relacionado(s):
 Aumentar a eficiência, a produtividade e a competitividade da instituição
 Garantir celeridade e efetividade na prestação de serviços.
@@ -218,15 +210,13 @@ O que será feito: Programa de monitoria para disciplinas com maior reprovação
 Por que será feito: Para auxiliar no processo de aprovação dos alunos com dificuldades em disciplinas específicas que tem maior índice de retenção.
 Objetivo(s) relacionado(s): Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem.
 Meta(s) relacionada(s): Promover ações pedagógicas e administrativas que proporcionem a redução da taxa de evasão em 5%
-
 Atividades sobre Relações Interpessoais
-O que será feito: Realizar palestras e workshops sobre relacionamento interpessoal aos servidores técnico- administrativo.
+O que será feito: Realizar palestras e workshops sobre relacionamento interpessoal aos servidores técnico-administrativo.
 Por que será feito: Em pesquisa realizada percebeu-se que há conflitos de relacionamento entre docentes, discentes e servidores que afeta o clima organizacional.
 Objetivo(s) relacionado(s):
 Garantir celeridade e efetividade na prestação de serviços.
 Aumentar a eficiência, a produtividade e a competitividade da instituição
 Meta(s) relacionada(s): Promover ações pedagógicas e administrativas que proporcionem a redução da taxa de evasão em 5%
-
 07 – Convênios e Parcerias Institucionais
 Proposta de ampliação de parcerias externas para o desenvolvimento de Projetos Colaborativos Internacionais (PCIs) nos cursos tecnológicos oferecidos na Fatec São Caetano do Sul.
 O que será feito: Identificação de novas parcerias externas, definição de objetivos para o desenvolvimento dos novos projetos, elaboração dos cronogramas de atividades, execução dos projetos e otimização dos PCIs para o contínuo perfeiçoamento deles.
@@ -244,7 +234,6 @@ Aumentar a eficiência, a produtividade e a competitividade da instituição
 Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no desenvolvimento tecnológico e inovação.
 Garantir celeridade e efetividade na prestação de serviços.
 Meta(s) relacionada(s): Firmar pelo menos 2 parcerias para realização de ações na unidade.
-
 Proposta de implantação do Núcleo de Apoio Fiscal (NAF), em parceria com a Receita Federal do Brasil (RFB), com vistas à atuação da Unidade junto à comunidade externa.
 O que será feito: Conclusão da parceria com a RFB para implantação do NAF na Unidade, adequação do local para atendimento à comunidade, elaboração de editais e seleção dos alunos que vão fazer o treinamento fornecido pela RBF, e acompanhamento do treinamento e do atendimento dos estudantes junto ao público externo.
 Por que será feito: Para implantação do NAF em virtude do compartilhamento, com o público externo, do conhecimento adquirido por meio das atividades de ensino, pesquisa e extensão desenvolvidas na instituição.
@@ -256,7 +245,6 @@ Meta(s) relacionada(s): Firmar pelo menos 2 parcerias para realização de açõ
 Escola de Psicologia da USCS
 O que será feito: Atendimento psicológico a discentes, docentes e servidores técnico-administrativos
 Por que será feito: Minimizar as consequências do pós-Covid 19 na saúde mental de nossos discentes, docentes e equipe técnico-administrativa, considerando o período de isolamento e ensino remoto emergencial
-
 Objetivo(s) relacionado(s):
 Atender às demandas sociais e do mercado de trabalho.
 Aumentar a eficiência, a produtividade e a competitividade da instituição

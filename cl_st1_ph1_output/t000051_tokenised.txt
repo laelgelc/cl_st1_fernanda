@@ -34,7 +34,7 @@ Participação da comunidade e sociedade
 Ações pedagógicas: visitas técnicas, projetos integradores/interdisciplinares, dias de campo, feira das profissões, cursos extracurriculares para alunos.
 O que será feito: Planejar visitas técnicas em diversas empresas e prestadores de serviços para área de Polímeros. Por que será feito: Promover a interação didático-pedagógica – Teoria de sala de aula x prática nos processos operacionais (se for o caso).
 Situação problema:
-cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão (a ser resolvida/mitigada)
+Metodologia de ensino, desempenho de alunos, evasão (a ser resolvida/mitigada)
 Participação da comunidade e sociedade
 Ações pedagógicas: visitas técnicas, projetos integradores/interdisciplinares, dias de campo, feira das profissões, cursos extracurriculares para alunos.
 O que será feito: Planejar visitas técnicas em diversas empresas e prestadores de serviços para área de Fabricação Mecânica. Por que será feito: Promover a interação didático-pedagógica – Teoria de sala de aula x prática nos processos operacionais (se for o caso).
@@ -75,14 +75,14 @@ O que será feito: Este projeto tem como objetivo a parceria com Fatecs e de sua
 Cursos de Extensão
 O que será feito: Curso de extensão universitária sobre a cultura hispânica. Por que será feito: Melhorar o entendimento da língua espanhola para os estudantes de CST em Logística e Informática para Negócios)
 Situação problema:
-cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão (a ser resolvida/mitigada)
+Metodologia de ensino, desempenho de alunos, evasão (a ser resolvida/mitigada)
 Jornada/Evento/Revista Científico e Tecnológico
 O que será feito: Projeto Humanístico em Filosofia - Café Filosófico. Por que será feito: Propiciar a comunidade escolar reflexões no contexto humanístico na atualidade.
 Situação problema:
-cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão (a ser resolvida/mitigada)
+Metodologia de ensino, desempenho de alunos, evasão (a ser resolvida/mitigada)
 Jornada/Evento/Revista Científico e Tecnológico
 O que será feito: Projeto Humanístico em Filosofia - Grupo de estudos e ciclo de palestras em filosofia. Por que será feito: Propiciar a comunidade escolar aprofundamento e discussões em estudos no contexto humanístico na atualidade.
-cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão (a ser resolvida/mitigada)
+Metodologia de ensino, desempenho de alunos, evasão (a ser resolvida/mitigada)
 Situação problema:
 Metodologia de ensino, desempenho de alunos, evasão (a ser resolvida/mitigada)
 Jornada/Evento/Revista Científico e Tecnológico

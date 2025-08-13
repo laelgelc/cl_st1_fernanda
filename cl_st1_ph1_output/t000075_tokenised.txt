@@ -45,7 +45,6 @@ Estruturação das atividades de extensão CST Sistemas Embarcados
 Para atualização do PPC em virtude do avanço tecnológico na área e da crescente demanda por profissionais formados com o perfil do egresso do curso.
 Estruturação / Criação de Cursos de Pós Graduação Latu Sensu na área de Mobilidade de Baixo Carbono
 Para atualização e adequação do PCC de novas tecnologias, visando atender as novas leis de emissão de poluentes, conectividade automotiva e eletrificação veicular.
-
 Desenvolvimento, projeto e construção de uma bancada dinamométrica para motores de monocilindros de até 20 HP em parceria com a POLI-USP e para emprego multidisciplinar
 Para melhorar o aprendizado do aluno sobre funcionamento dinâmico dos motores de combustão interna e as influências dos elementos externos tais como: ar, umidade, carga e combustível Responsável:
 Desenvolvimento de um caminhão autônomo nível SAE-3 para colheita de cana de açúcar

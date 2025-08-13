@@ -13,7 +13,8 @@ APONTAMENTO DE SITUAÇÕES-PROBLEMA MAIS RELEVANTES:
 - Gestão da unidade de ensino e dos cursos (indicadores)
 - Comunicação com a comunidade acadêmica
 Objetivos Institucionais – CPS (Plano de Metas):
-1) Atender às demandas sociais e do mercado de trabalho. 2) Obter a satisfação dos públicos que se relacionam com o Centro Paula Souza (stakeholders).
+1) Atender às demandas sociais e do mercado de trabalho.
+2) Obter a satisfação dos públicos que se relacionam com o Centro Paula Souza (stakeholders).
 3) Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem.
 4) Assegurar a perenidade do crescimento da instituição com recursos financeiros disponíveis.
 5) Garantir celeridade e efetividade na prestação de serviços.
@@ -32,7 +33,6 @@ Formação para o Futuro - Curricularização da extensão –AMS Processos Gere
 Escritório- Modelo - Curricularização da extensão – Consultorias e Treinamentos - AMS Processos Gerenciais. Reuniões com representantes de empresas, entidades de classe, sindicatos, organizações não-governamentais, órgãos públicos a fim de identificar oportunidades de assessoria na área de gestão e formação. Apresentar aos discentes as oportunidades de aplicação dos conhecimentos aprendidos no curso e desenvolver projetos aplicados.
 FEIRA DO EMPREENDEDORISMO E EMPREGABILIDADE – CST EM GESTÃO EMPRESARIAL. DIVULGAÇÃO VESTIBULAR – FOMENTO AO EMPREENDEDORISMO – FATEC PORTAS ABERTAS
 Proposta para reestruturação do projeto pedagógico do CST EM ADS. Atualização da grade curricular e respectivas refferências bibliográficas
-
 Empresas, seus problemas na Região e Poder Público – Curricularização da Extensão - AMS Logística. Ciclo de palestras com gestores locais de diversos setores para discussão de problemas da região. Apresentar aos discentes as oportunidades de aprofundamento e aplicação de conhecimentos na área de gestão e empreendedorismo a partir de problemas da região apontados pelas empresas locais.
 Formação para o Futuro - Curricularização da extensão –AMS Logística. Mesas-redondas com profissionais de mercado de diversos setores para discussão sobre formação universitária, mercado de trabalho, empregabilidade e empreendedorismo. Apresentar aos discentes as oportunidades de discussão sobre mercado de trabalho e formação profissional.
 Escritório- Modelo - Curricularização da extensão – Consultorias e Treinamentos - AMS Logística. Reuniões com representantes de empresas, entidades de classe, sindicatos, organizações não-governamentais, órgãos públicos a fim de identificar oportunidades de assessoria na área de gestão e formação. Apresentar aos discentes as oportunidades de aplicação dos conhecimentos aprendidos no curso e desenvolver projetos aplicados.
@@ -44,7 +44,6 @@ Criação do Laboratório – Núcleo de Inteligência e Inovação Portuária n
 Integrar a Fatec com Autoridade Portuária de Santos; Aprimorar a troca de experiências entre o mercado de trabalho e a Comunidade Acadêmica; Incentivar o desenvolvimento da pesquisa científica.
 Promover as condições necessárias para que os alunos da terceira idade possam ingressar nesse novo ambiente e assistir as aulas e explorar os aplicativos do pacote office oferecidos na Plataforma Microsoft Teams.
 Conscientizar os alunos envolvidos sobre o uso da tecnologia na Plataforma Microsoft Teams tanto nos computadores como nos celulares, no aprendizado da língua Inglesa, língua Italiana, espanhol e Informática.
-
 Levantamento de eventos, publicações da área acadêmica
 Apurar as necessidades de cada curso quanto à divulgação das pesquisas acadêmicas.
 Laboratório de Língua Estrangeira
@@ -70,14 +69,11 @@ Criar, fortalecer e evoluir a cultura de acesso ao site institucional
 Maior visibilidade da unidade na WEB
 Divulgar Novas Práticas de Ensino: Promover e disseminar entre o corpo docente da FATEC Santos as novas práticas de ensino, com a possibilidade de expandir essa divulgação para outras unidades da FATEC
 A globalização, seguida pela informatização e, mais recentemente, a chegada ao ensino superior e ao mercado de trabalho das gerações Y e Z, impulsionaram as instituições de ensino a adotarem metodologias ativas em sala de aula.
-
 Transformar e adequar a Revista Conecta em um periódico científico com projeção nacional.
-
 Revisão gramatical/linguística (gramática e ortografia) dos artigos submetidos à Revista Conecta da Fatec Rubens Lara.
 O projeto visa melhorar a clareza, a coesão e a coerência dos trabalhos apresentados.
 Manutenção da utilização do Sistema Acadêmico SIGA na Fatec Rubens Lara.
 Desenvolver melhorias nos processos administrativos e pedagógicos da UES.
-
 Desenvolver um aplicativo web semiautomatizado para a segmentação de regiões de não-perfusão capilar em imagens de OCTA.
 O propósito é facilitar a detecção e medição das áreas afetadas, contribuindo para a avaliação clínica e estudos sobre a retinopatia diabética.
 IMPLANTAÇÃO DE PRÁTICAS LABORATORIAIS PARA AS DISCIPLINAS DO CURSO DE TECNOLOGIA EM LOGÍSTICA
@@ -88,7 +84,6 @@ DESENVOLVER UM BANCO DE DADOS, NA LINGUAGEM DE PROGRAMAÇÃO DATAFLEX, QUE INTEG
 PERMITIR UMA GESTÃO MAIS EFICIENTE DO PROCESSO
 As aulas on-line serão ministradas na plataforma Jitsu Meet através de um link fornecido a eles no momento da inscrição e relembrado durante todas as aulas através de um WhatsApp criado especialmente para o curso.
 A principal finalidade desse curso é mostrar ao aluno que ele tem condições de utilizar o computador e aprender a acessar o aplicativo Jitsi Meet. Além disso, o curso tem o objetivo de estimulá-lo a realizar novas descobertas de forma independente, seja no uso do computador ou do celular, e a compartilhar com os colegas os seus novos aprendizados.
-
 Possibilitar o aluno de logística por meio da utilização do laboratório prático, com atividades simuladas, integrar as competências formativas e somativas, promovendo um ambiente integrativo e resolutivo.
 A Pesquisa Aplicada constitui um importante recurso metodológico facilitador do processo de ensino-aprendizagem nas disciplinas do curso de logística.
 Implementar acessibilidade no site da Fatec Baixada Santista – Rubens

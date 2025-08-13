@@ -39,7 +39,8 @@ VI ENCOMEX. No dia 20 de outubro de 2022, foi realizado, no auditório da Fatec 
 O VI ENCOMEX foi dividido em dois blocos de palestras, Os primeiros convidados foram o Kimio Ishiaki, representante do Conselho Regional de Administração (CRA-SP) em São Caetano do Sul e Diretor de Comércio Exterior e Logística Internacional na WSERV Logistics Group, e a Gabriele Salina, egressa do curso de Comércio Exterior da Fatec São Caetano do Sul e Coordenadora de Agenciamento de Cargas na WSERV Logistics Group.
 O tema da palestra que eles proferiram foi o seguinte: “CRA-SP - Valorização Profissional em Administração e Sumário da Administração em Comércio Exterior”. Na sequência a Tatiana Chaves, Supervisora de Controle Aduaneiro da Wilson Sons, Logística, falou sobre “Terminal Alfandegado: a importância da zona secundária na cadeia logística”
 O ADS Day aconteceu no dia 27 de outubro de 2022, presencialmente, com palestras no período matutino e vespertino:
-Matutino: - Requisitos de Segurança para Desenvolvimento e Manutenção de Sistemas, com Estefânia Pianoski.
+Matutino:
+- Requisitos de Segurança para Desenvolvimento e Manutenção de Sistemas, com Estefânia Pianoski.
 - Blockchain, com Ricardo Mühlbauer
 Vespertino:
 - Sinalização ferroviária - O papel das tecnologias de software na implementação das soluções para sistemas críticos, com Sergio Fumio.
@@ -65,7 +66,7 @@ Na edição 2022 do evento, realizado em 25/10/2022 na cidade de Natal/RN, foram
 Joga Fatec SCS. No dia 03/12/2022 foram realizadas as apresentações dos Projetos de Graduação (TCC) do curso de Jogos Digitais, sendo para isso organizada uma exposição dos jogos classificados numa primeira fase de avaliação, realizada pelos orientadores dos diversos projetos.
 Na exposição, os convidados (alunos, ex-alunos, público externo e candidatos ao vestibular) puderam conhecer e jogar os jogos, além de interagir com os alunos desenvolvedores. Foram apresentados os jogos Dungeon's End (desenvolvido pelos alunos Bruno Goncalves Pedreira, Carlos Antonio dos Reis e Gustavo Tajima Moraes), Glam (desenvolvido pelos alunos Barbara Perez Teixeira, Gabriel Gomes Correa e Maxwell Maia), Tetrisverse (desenvolvido pelos alunos Augusto Sousa Gomes, Fernando Pla, Gabriel Silva de Camargo e Giulia Neves Galvão de Oliveira) e Tower Mafagafense (desenvolvido pelos alunos Estevan de Paula Zuppo, Katty Yuri Sato, Murilo do Amaral Rocha e Ulisses Augusto Lucio de Paula).
 ENADE. Os alunos, concluintes, do curso de Comércio Exterior e Gestão Empresarial (EaD) participaram da prova Enade em 27 de novembro de 2022. O curso de Análise e Desenvolvimento de Sistemas, que participou do Enade 2021, obteve nota 4,0.
-IIII. B – Estratégias e medidas para minimizar os PONTOS FRACOS
+III. B – Estratégias e medidas para minimizar os PONTOS FRACOS
 Em 2022 foi possível finalizar a reforma para correção do problema das patologias do piso em virtude do recalque do solo, bem como a selação das tricas do piso e conserto das calhas e correção do gesso do Hall, conserto da parte elétrica da área da cantina e troca de caixilhos das janelas dos laboratórios 3 e 4, além de pintura interna e externa do prédio.
 Com o ingresso dos alunos do curso de Análise e Desenvolvimento de Sistemas – Articulação Médio e Superior, foi possível montar dois laboratórios móveis, com reforma elétrica nas salas 7 e 9, porém a mobilidade ainda não é possível por não termos os carrinhos para transporte dos notebooks adequados para o procedimento.
 Os alunos do curso de ADS-AMS puderam participara do ADS Day e de eventos específicos:

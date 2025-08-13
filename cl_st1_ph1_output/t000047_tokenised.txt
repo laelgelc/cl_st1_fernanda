@@ -8,22 +8,16 @@ Utilizando-se a renda nominal mensal per capita dos domicílios particulares per
 Já no distrito do Sacomã, que em 2010 reunia 52% dos domicílios da Subprefeitura, 34,0% dos domicílios apresentavam renda de até 1 salário-mínimo, enquanto apenas 7,4% apresentavam renda nominal mensal domiciliar per capita de 5 salários-mínimos ou mais (IBGE, 201-?).
 Este cenário de vulnerabilidade social exige um contínuo esforço para ampliar as condições de empregabilidade dos alunos, considerando que as condições financeiras impactam diretamente na taxa de evasão
 A Fatec Ipiranga situa-se numa região vocacionada para a área comercial e de serviços e os cursos oferecidos estão voltados para satisfazer as necessidades formativas da região. Porém, apresenta-se como desafio a necessidade de acompanhar a velocidade, imposta pelas novas tecnologias e pelas transformações que ocorrem na região.
-Outro importante fator a ser mencionado é o cenário pós pandemia. Um número expressivo de alunos com problemas de ordem psicológica desafia as Instituições de Ensino a rever as práticas educacionais e ampliar a formação humanista e socioemocional. Sem contar, o impacto das gerações formadas no ensino médio durante a pandemia, com significativa defasagem formativa, o que exige um contínuo trabalho de “nivelamento e recuperação da aprendizagem”. Um outro desdobramento deste cenário pós pandemia e de impacto direto nas Instituições de Ensino é um número cada vez maior de alunos interessados no ensino híbrido e da educação à distância.
+Outro importante fator a ser mencionado é o cenário pós pandemia. Um número expressivo de alunos com problemas de ordem psicológica desafia as Instituições de Ensino a rever as práticas educacionais e ampliar a formação humanista e socioemocional.
+Sem contar, o impacto das gerações formadas no ensino médio durante a pandemia, com significativa defasagem formativa, o que exige um contínuo trabalho de “nivelamento e recuperação da aprendizagem”. Um outro desdobramento deste cenário pós pandemia e de impacto direto nas Instituições de Ensino é um número cada vez maior de alunos interessados no ensino híbrido e da educação à distância.
 Embora com tantos desafios, a Fatec Ipiranga tem se destacado pelos elevados índices conquistados, sobretudo, nas avaliações externas (ENADE, processos de renovação de reconhecimento, aprovação de alunos para intercâmbio e concursos); o elevado nível de satisfação dos alunos com o corpo docente e técnico-administrativo da instituição; a eficiência em todos os processos (secretaria e gestão) e a prestação de serviços por meio de inúmeros projetos e atividades de extensão que passam a ser cada vez mais impulsionadores da reputação positiva que a Fatec Ipiranga possui perante seus stakeholders.
 A partir deste breve cenário, no quadro abaixo elencamos as situações problemas que impactam nos resultados. Porém, ressalta-se que as ações dependem sempre do apoio e suporte das áreas que compõe a administração central (UIE, UGAF) pois há necessidade de investimento em infraestrutura, considerando que sempre são apontados como pontos de insatisfação nos relatórios de autoavaliação, o que exige melhorias nos equipamentos de T.I (computadores defasados e baixa velocidade de internet); problemas hidráulicos e na rede elétrica; falta de atualização e de novas aquisições bibliográficas, sobretudo considerando os novos cursos ofertados e suporte para melhorar as condições de visibilidade física da Fatec Ipiranga.
 APONTAMENTO DE SITUAÇÕES-PROBLEMA MAIS RELEVANTES (“Escuta”)
-Imagem Institucional:
-• Baixa Visibilidade da Fatec Ipiranga na região.
-Vestibular:
-• Baixa demanda,
-• Alta taxa de inscrição;
-• Não oferta de vagas pelo SISU
-Infraestrutura de Recursos Tecnológicos:
-Defasagem e quantidade insuficiente de equipamentos de T.I (computadores, roteadores, switches, nobreak, servidores, dispositivos sem fios, cabos etc.).
-Baixa Velocidade de Internet.
+Imagem Institucional: Baixa Visibilidade da Fatec Ipiranga na região.
+Vestibular: Baixa demanda, Alta taxa de inscrição; Não oferta de vagas pelo SISU
+Infraestrutura de Recursos Tecnológicos: Defasagem e quantidade insuficiente de equipamentos de T.I (computadores, roteadores, switches, nobreak, servidores, dispositivos sem fios, cabos etc.). Baixa Velocidade de Internet.
 Gestão de Pessoas: número insuficiente de funcionários administrativos e docentes.
-Infraestrutura Física: Necessidade de reparo: instalações elétricas, hidráulicas e prediais.
-Condição térmica ruim.
+Infraestrutura Física: Necessidade de reparo: instalações elétricas, hidráulicas e prediais. Condição térmica ruim.
 Aumento do índice de trancamento geral e cancelamento.
 Infraestrutura Pedagógica: Falta de aquisição de bibliografias para os novos cursos e atualização das bibliografias para os cursos existentes.
 Comunicação Institucional: Desconhecimento dos docentes e discentes dos programas de Iniciação Científica, Estágio, Intercâmbios e INOVA Paula Souza.
@@ -168,7 +162,8 @@ Meta(s) relacionada(s):
 Melhorar a satisfação dos docentes e discentes em 10% quanto a manutenção dos computadores dos laboratórios.
 Pesquisa / Extensão e Equipamentos Associados
 INICIAÇÃO CIENTÍFICA (IC)
-O que será feito: Estudo da aplicação de Aprendizado de Máquina para o auxílio ao diagnóstico de doenças crônicas não transmissíveis, com foco em diabetes. Por que será feito: A IC é uma excelente oportunidade para todos os alunos no desenvolvimento de habilidades básicas, como escrita e investigação que podem ser úteis para a vida profissional. Além de beneficiar o aluno, a IC é benéfica para a sociedade, pois as pesquisas desenvolvidas na faculdade incentivam o desenvolvimento da sociedade ao buscar soluções para os problemas do cotidiano.
+O que será feito: Estudo da aplicação de Aprendizado de Máquina para o auxílio ao diagnóstico de doenças crônicas não transmissíveis, com foco em diabetes.
+Por que será feito: A IC é uma excelente oportunidade para todos os alunos no desenvolvimento de habilidades básicas, como escrita e investigação que podem ser úteis para a vida profissional. Além de beneficiar o aluno, a IC é benéfica para a sociedade, pois as pesquisas desenvolvidas na faculdade incentivam o desenvolvimento da sociedade ao buscar soluções para os problemas do cotidiano.
 Objetivo(s) relacionado(s):
 Atender às demandas sociais e do mercado de trabalho.
 Obter a satisfação dos públicos que se relacionam com o Centro Paula Souza (stakeholders).
@@ -303,7 +298,8 @@ Meta(s) relacionada(s):
 Ampliar a participação dos discentes nos eventos de seus respectivos cursos ou em eventos gerais da unidade em 10% de modo a desenvolver o sentimento de pertencimento a unidade.
 Desenvolver mensalmente ações/serviços que reforcem a imagem institucional da unidade junto à comunidade acadêmica.
 Promover ações administrativas e pedagógicas que proporcionem a redução da taxa de evasão e trancamento em 5% com relação ao indicador de desempenho de 2022, no ano de 2023
-SELO INSTITUIÇÃO SOCIAL RESPONSÁVEL O que será feito: Ações que tem como objetivo despertar a consciência da comunidade interna para sua responsabilidade social com o entorno da instituição com vistas ao Selo de Responsabilidade emitido pela ABMES – Associação Brasileira dos Mantenedores do Ensino Superior
+SELO INSTITUIÇÃO SOCIAL RESPONSÁVEL.
+O que será feito: Ações que tem como objetivo despertar a consciência da comunidade interna para sua responsabilidade social com o entorno da instituição com vistas ao Selo de Responsabilidade emitido pela ABMES – Associação Brasileira dos Mantenedores do Ensino Superior
 Por que será feito: Para atender as demandas sociais do bairro do Ipiranga no que tange as ações de responsabilidade social.
 Objetivo(s) relacionado(s): Atender às demandas sociais e do mercado de trabalho.
 Obter a satisfação dos públicos que se relacionam com o Centro Paula Souza (stakeholders).

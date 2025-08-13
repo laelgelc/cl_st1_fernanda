@@ -55,7 +55,8 @@ O que será feito: Estudo sobre a viabilidade de implantação do curso de Pós-
 Metodologia de ensino, desempenho de alunos, evasão (a ser resolvida/mitigada)
 Gestão da unidade de ensino e dos cursos (indicadores)
 Adequação/reestruturação de PPC, implantação de novos cursos.
-2-Gestão Estratégica Institucional (AMS, novos cursos e unidades) O que será feito: Estudo sobre a viabilidade de implantação do curso de Pós-Graduação “lato sensu” na área de Gestão Estratégica de Negócios. Especialização com 360 h. Por que será feito: Conforme identificado com os alunos, egressos desejam após concluir a graduação continuar os estudos fazendo uma pós-graduação. Esses ex-alunos têm hoje na região da Baixada Santista pouca oferta de cursos de especialização direcionado para o trabalho na Gestão Estratégica de Negócios. Temos em nossos arquivos e-mails de 1500 egressos para serem contactados. Segundo a Fundação SEADE 24% dos empregos formais estão concentrados nos setores de comercio varejista armazenagem e atividades de transportes, setores que demandam por profissionais especializados na área de Gestão Empresarial.
+2-Gestão Estratégica Institucional (AMS, novos cursos e unidades)
+O que será feito: Estudo sobre a viabilidade de implantação do curso de Pós-Graduação “lato sensu” na área de Gestão Estratégica de Negócios. Especialização com 360 h. Por que será feito: Conforme identificado com os alunos, egressos desejam após concluir a graduação continuar os estudos fazendo uma pós-graduação. Esses ex-alunos têm hoje na região da Baixada Santista pouca oferta de cursos de especialização direcionado para o trabalho na Gestão Estratégica de Negócios. Temos em nossos arquivos e-mails de 1500 egressos para serem contactados. Segundo a Fundação SEADE 24% dos empregos formais estão concentrados nos setores de comercio varejista armazenagem e atividades de transportes, setores que demandam por profissionais especializados na área de Gestão Empresarial.
 Metodologia de ensino, desempenho de alunos, evasão (a ser resolvida/mitigada)
 Gestão da unidade de ensino e dos cursos (indicadores)
 Adequação/reestruturação de PPC, implantação de novos cursos.
@@ -95,7 +96,6 @@ Metodologia de ensino, desempenho de alunos, evasão (a ser resolvida/mitigada)
 Gestão da unidade de ensino e dos cursos (indicadores)
 COIL/PCI e Escola de Inovadores
 O que será feito: Renovação da Parceria com a Sapir College e Kaye College (Israel). Por que será feito: Para estimular e consolidar parcerias do CPS com instituições públicas e privadas internacionais.
-
 Metodologia de ensino, desempenho de alunos, evasão (a ser resolvida/mitigada)
 Gestão da unidade de ensino e dos cursos (indicadores)
 COIL/PCI e Escola de Inovadores
@@ -116,7 +116,6 @@ Desenvolvimento de Projetos de IC - MDITI
 O que será feito: Seleção de alunos para Bolsas Semestrais de Pesquisa de Iniciação em Desenvolvimento Tecnológico para o Curso de Processos Químicos, sobre a presença de compostos organoclorados em área pública do bairro Quarentenário na cidade de São Vicente. Por que será feito: Para incentivar a pesquisa e desenvolver estudos sobre contaminação ambiental com foco nos compostos organoclorados por meio de experimentos em laboratório de Química.
 Desenvolvimento de Projetos de IC - MDITI
 O que será feito: Seleção de alunos para Bolsas Semestrais de Pesquisa de Iniciação em Desenvolvimento Tecnológico para o Curso de Processos Químicos, sobre um estudo comparativo entre carvão ativado e borra de café como adsorventes para metais pesados presentes em solução aquosa. Por que será feito: Para incentivar a pesquisa e o desenvolvimento de estudos sobre sustentabilidade com foco no uso de biomassa para descontaminação da água por meio de experimentos em laboratório de Química.
-
 O que será feito: Projeto de Pesquisa sobre uso de plantas na descontaminação da água, por meio de experimentos em laboratório de Química, com foco na qualidade ambiental da Cidade de Praia Grande. Por que será feito: Para o desenvolvimento de estudos sobre sustentabilidade com foco no uso adequado da água em córregos e praias, a partir das experiências dos alunos de Processos Químicos em disciplinas com conteúdo sobre meio ambiente e em cooperação com a Secretaria do Meio Ambiente da Praia Grande.
 Cursos de Extensão
 O que será feito: A Fatec, em colaboração com a prefeitura, disponibilizará seus alunos para ministrarem treinamentos à comunidade. Estes treinamentos abrangerão cursos de Informática Básica e Segurança na Utilização de Dispositivos Móveis. Por que será feito: Esta iniciativa visa proporcionar à comunidade acesso ao conhecimento essencial de Informática Básica, capacitando-os para a utilização eficaz de dispositivos móveis. Além disso, o curso de Segurança tem o propósito de conscientizar sobre os riscos e melhores práticas ao utilizar esses dispositivos, promovendo uma utilização mais segura da tecnologia. Ao colaborar com a prefeitura, a Fatec busca fortalecer o elo entre a instituição de ensino e a comunidade, contribuindo para o desenvolvimento e a inclusão digital de todos.
@@ -126,7 +125,6 @@ Projetos estudantis diversos
 O que será feito: Núcleo de pesquisa em química ambiental, com a análises de amostras ambientais coletadas no sistema água-solo-ar para identificar e quantificar poluentes químicos presentes no ambiente para avaliação de riscos ambientais e promoção do desenvolvimento de métodos de remediação. Por que será feito: Para inserir os alunos da Fatec no cenário acadêmico com foco na área de conservação ambiental, saúde humana, desenvolvimento de tecnologias sustentáveis e legislação ambiental, reunindo profissionais e pesquisadores para troca de experiências.
 Projetos estudantis diversos
 O que será feito: Continuação da implementação do Escritório modelo para Comércio Exterior. Por que será feito: Para proporcionar aos alunos a possibilidade de aplicação prática dos conceitos teóricos recebidos, preparando-os de forma mais estruturada para o mercado de trabalho, fomentando o empreendedorismo e a pesquisa na região da Baixada Santista e seu comércio internacional.
-
 Curso/Oficina/Capacitação/ Treinamento/ Palestra/Reunião/Encontro
 O que será feito: Proposta de capacitação de novas metodologias de ensino para os docentes de todos os cursos da unidade, a partir dos resultados do Websai 2023. Por que será feito: Para capacitar os docentes da unidade, a fim de desenvolver suas atividades de ensino, pesquisa e extensão de maneira mais eficiente e eficaz, minimizando a evasão escolar.
 Convênio de uso de prédio

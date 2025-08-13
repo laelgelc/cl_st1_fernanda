@@ -100,7 +100,6 @@ Alcançar e manter o grau de excelência nos processos de ensino e aprendizagem.
 Inovar processos de ensino e aprendizagem para a formação de profissionais atualizados em tecnologias e processos produtivos, capazes de atuar com excelência no desenvolvimento tecnológico e inovação;
 Desenvolver programas e projetos educacionais para estimular intercâmbios e a aprendizagem global.
 Meta(s) relacionada(s): Realizar 1 Hackaton para os Cursos de DSM E CD.
-
 I – Fatec no Metaverso. O que será feito: Construção de Protótipo da Fatec Cotia no Metaverso. Por que será feito: Para proporcionar oportunidades de aprendizado, tanto em termos técnicos quanto criativos e sociais; para propor a utilização de ferramentas de desenvolvimento de software, integrando diferentes componentes de software para a criação de um ambiente imersivo.
 Objetivo(s) relacionado(s):
 Ampliar os projetos de pesquisa e iniciação científica;
@@ -115,7 +114,8 @@ Ampliar os projetos de pesquisa e iniciação científica;
 Desenvolver programas e projetos educacionais para estimular intercâmbios e a aprendizagem global.
 Meta(s) relacionada(s):
 Realizar, em conjunto com as demais Fates que possuem o CST em Ciência de Dados, o III encontro de Ciência de Dados das Fatecs.
-Objetivo(s) relacionado(s): Atender às demandas sociais e do mercado de trabalho;
+Objetivo(s) relacionado(s):
+Atender às demandas sociais e do mercado de trabalho;
 Desenvolver programas e projetos educacionais para estimular intercâmbios e a aprendizagem global;
 Ampliar a capacidade de criar e atualizar cursos de educação profissional em parceria com o mercado;
 Alcançar e manter o grau de excelência nos processos de ensino e aprendizagem.
