@@ -1,59 +1,37 @@
 Section: 1 ANÁLISE DO CENÁRIO  
  
 PLANO DE GESTÃO ANUAL - PGA 2026 
-
 A FATEC São Bernardo do Campo está situada em uma região estratégica do Grande ABC, marcada por forte tradição industrial e localização privilegiada, com fácil acesso a aeroportos, porto e principais rodovias do Estado. Apesar desse potencial logístico e econômico, a região enfrenta processos de desindustrialização e altos índices de desemprego, gerando impactos diretos na economia local. 
 
 Empresários da região relatam dificuldades na contratação de mão de obra qualificada, o que evidencia a importância da atuação da FATEC como formadora de profissionais preparados para os desafios atuais e futuros do mercado. A unidade tem buscado firmar parcerias com empresas e ampliar sua atuação nas áreas de Inovação, Tecnologia, Economia Verde e Economia Criativa, com foco na Quarta Revolução Industrial. 
 
-Mesmo diante dessas demandas, a unidade enfrenta baixa procura pelos cursos e elevada evasão escolar. Diante desse cenário, os projetos e metas institucionais visam ampliar a integração entre a formação acadêmica e as necessidades do setor produtivo, estimulando o protagonismo estudantil, o empreendedorismo e a inovação, com o objetivo de fortalecer a missão da FATEC como agente de transformação educacional, econômica e social da região. 
-
-A proposta principal é fomentar o espírito empreendedor e inovador entre os alunos, com o intuito de motivá-los, aumentar a procura pelos cursos e reduzir a evasão escolar. 
+Mesmo diante dessas demandas, a unidade enfrenta baixa procura pelos cursos e elevada evasão escolar. Diante desse cenário, os projetos e metas institucionais visam ampliar a integração entre a formação acadêmica e as necessidades do setor produtivo, estimulando o protagonismo estudantil, o empreendedorismo e a inovação, com o objetivo de fortalecer a missão da FATEC como agente de transformação educacional, econômica e social da região. A proposta principal é fomentar o espírito empreendedor e inovador entre os alunos, com o intuito de motivá-los, aumentar a procura pelos cursos e reduzir a evasão escolar. 
 
 APONTAMENTO DE SITUAÇÕES-PROBLEMA MAIS RELEVANTES 
-
-- Metodologia de ensino, desempenho de alunos, evasão 
- 
+- Metodologia de ensino, desempenho de alunos, evasão  
 - Materiais, equipamentos e mobiliários 
-
-- Manutenção e conservação predial 
- 
+- Manutenção e conservação predial  
 - Quantidade de professores/funcionários 
-
 - Infraestrutura predial (espaços, sistemas) 
-
 - Infraestrutura laboratorial e ambientes de ensino 
  
 Objetivos Institucionais – CPS (Plano de Metas): 
-
 1) Atender às demandas sociais e do mercado de trabalho.  
-
 2) Obter a satisfação dos públicos que se relacionam com o Centro Paula Souza (stakeholders). 
-
 3) Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem. 
-
 4) Assegurar a perenidade do crescimento da instituição com recursos financeiros disponíveis. 
-
 5) Garantir celeridade e efetividade na prestação de serviços. 
-
 6) Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no desenvolvimento tecnológico e inovação. 
-
 7) Promover a cultura de inovação e empreendedorismo.  
-
 8) Aumentar a eficiência, a produtividade e a competitividade da instituição.  
-
 9) Ampliar a oferta da Educação Profissional.  
-
 10) Resolução Conjunta SOG/SFP/SG-3, de 28-12-2022 - Bonificação por Resultados – BR das Secretarias de Estado, Procuradoria Geral do Estado, Controladoria Geral do Estado e das Autarquias, de que trata a LC 1361-2021 
 
+Objetivos Institucionais – CESU:
 A. Integrar as diferentes modalidades de ensino, otimizando itinerários e tempo para a formação profissional. 
-
 B. Inovar processos de ensino e aprendizagem para manter excelência diante do mercado. 
-
 C. Ampliar a capacidade de criar e atualizar cursos em parceria com o mercado. 
-
 D. Expandir e ampliar a capacidade de articulação com Governos e Setores Produtivos. 
-
 E. Promover a captação de recursos extras e não orçamentários. 
 
 Viabilização dos projetos de extensão incluídos na grade para o CST em Automação Industrial, prospecção de empresas, órgãos públicos e sociedade civil organizada com demandas de atividades para os alunos para Cumprir a exigência do novo PPC do CST em Automação industrial 
@@ -61,29 +39,23 @@ Viabilização dos projetos de extensão incluídos na grade para o CST em Autom
 Viabilização dos projetos de extensão incluídos na grade para o CST em Manufatura Avançada, na prospecção de empresas, órgãos públicos e sociedade civil organizada, buscando demandas de atividades para os alunos. Para cumprir a exigência do novo PPC do CST em Manufatura Avançada.  
 
 Elaboração, implantação e acompanhamento de projetos interdisciplinares no curso de Automação Industrial  
-
 Os projetos terão o objetivo de engajamento dos alunos no curso visando melhor aproveitamento acadêmico e a redução da evasão escolar 
 
 Ações de acompanhamento e registro de projetos de extensão no CST de Manufatura avançada Para garantir e apoiar a realização e o registro das atividades de extensão nas disciplinas elencadas. 
 
 Elaboração, implantação e acompanhamento de projetos interdisciplinares no curso de Informática para Negócios. 
-
 Os projetos terão o objetivo de engajamento dos alunos no curso visando melhor aproveitamento acadêmico e a redução da evasão escolar 
-
 Os projetos terão o objetivo de criar um novo curso que busque um maior engajamento dos alunos, melhor aproveitamento da unidade, maior desenvolvimento da região, visando melhor aproveitamento acadêmico e a redução da evasão escolar. 
 
 Prospecção e estabelecimento de parceria(s) com empresa(s) para viabilização do novo curso AMS na área de Desenvolvimento de Sistemas para viabilizar a implantação do curso AMS visando melhor aproveitamento acadêmico e a redução da evasão escolar. 
 
 Estruturação e Coordenação do Grupo de Parcerias Institucionais. Formação e gestão de um grupo dedicado ao desenvolvimento de projetos em parceria com empresas e órgãos do poder público, com o objetivo de promover a excelência na formação dos tecnólogos da FATEC-SBC e obter recursos através das leis de incentivo a inovação tecnológica. 
-
 Será feito para gerenciar as atividades do grupo e garantir o alinhamento com os objetivos institucionais. Representar oficialmente a FATEC-SBC junto às entidades parceiras. Organizar reuniões estratégicas e operacionais. Monitorar e acompanhar os resultados dos projetos desenvolvidos em colaboração. Responsável: 
- 
 Porque nossa Fatec é uma unidade credenciada do ICT, e precisa desenvolver projetos com empresas; Obtenção de recursos externos para o desenvolvimento das pesquisas / projetos didáticos 
 
 Manter os fortes laços de amizade, colaboração e trabalhos com o CIESP de São Bernardo do Campo com o objetivo de facilitar a colocação de nossos egressos no mercado de trabalho. O objetivo é facilitar a inserção de nossos egressos no mercado de trabalho, além de captar recursos privados para o desenvolvimento e aprimoramento das atividades da FATEC-SBC. 
 
 Estabelecer uma parceria com a empresa ELECTRA de São Bernardo do Campo. Projeção da FATEC-SBC no cenário industrial da região. 
-
 Nossa Fatec é uma unidade credenciada do ICT e, por isso, precisa desenvolver projetos em parceria com a empresa MASIPAK, visando à captação de recursos externos para o desenvolvimento de pesquisas e projetos didáticos. O objetivo é facilitar a inserção de nossos egressos no mercado de trabalho, além de captar empresas. 
 
 Buca de parceria com empresa Quantum (ramo automotivo), para imersão de alunos em ambiente real de trabalho Para conseguir submeter os alunos em um ambiente real de trabalho e fomentar atividades de projetos com objetivos reais e necessários na indústria regional, visando uma melhor capacitação, bem como a diminuição da taxa de evasão escolar. Atividades farão parte da Extensão Curricularizada – Porjeto 101 
@@ -108,9 +80,7 @@ Atender a NR-5 que regulamenta a constituição da CIPA nas instituições
 
 Editais de Ampliação de Aulas para oferecimento das disciplinas dos cursos de Automação Industrial, Informática para Negócios e Manufatura Avançada  
 
-Atendimento à Instrução Cesu n. 02, de 12 de fevereiro de 2025 que dispõe sobre os procedimentos e critérios para alteração de carga horária docente  
-
-Processo Seletivo Simplificado para contração de docente por prazo determinado para preenchimento de disciplinas que foram oferecidas por meio de editais de ampliação de aulas  
+Atendimento à Instrução Cesu n. 02, de 12 de fevereiro de 2025 que dispõe sobre os procedimentos e critérios para alteração de carga horária docente. Processo Seletivo Simplificado para contração de docente por prazo determinado para preenchimento de disciplinas que foram oferecidas por meio de editais de ampliação de aulas  
 
 Garantir que todas as disciplinas sejam ministradas por docentes da área e evitar prejuízos pedagógicos pela falta de docentes que já possuem contrato com o Centro Paula Souza 
 
@@ -120,12 +90,6 @@ Melhoria dos cursos para uma maior atração e retenção de alunos, evitando a 
 
 Consolidação do grupo Sustentabilidade e Meio Ambiente. Em parceria com a Secretaria do Meio Ambiente de São Bernardo do Campo, promover ações que sensibilizem os alunos e a comunidade, da importância da preservação do meio ambiente e aplicação da tecnologia para a preservação e sustentabilidade. 
 
-Atender às demandas sociais e do mercado de trabalho. Contribuir com a comunidade. 
+Atender às demandas sociais e do mercado de trabalho. Contribuir com a comunidade. Desenvolvimento e implantação de curso de inclusão digital para terceira idade. Para acolher membros da comunidade local e fornecer um serviço de utilidade pública e, ao mesmo tempo, aumentar a visibilidade da Unidade 
 
-Desenvolvimento e implantação de curso de inclusão digital para terceira idade. 
-
-Para acolher membros da comunidade local e fornecer um serviço de utilidade pública e, ao mesmo tempo, aumentar a visibilidade da Unidade 
-
-Estruturação e Coordenação dos programas de Estágio dos cursos e suporte aos alunos na construção de suas carreiras profissionais. 
-
-Para cumprir os requisitos de graduação (Estágio Supervisionado Obrigatório) e apoiar o corpo discente na colocação no mercado de trabalho e consequente sucesso profissional, o que motivará os alunos, reduzindo a taxa de evasão e com o aumento do sucesso dos egressos, aumentar a demanda dos concursos vestibulares. 
+Estruturação e Coordenação dos programas de Estágio dos cursos e suporte aos alunos na construção de suas carreiras profissionais. Para cumprir os requisitos de graduação (Estágio Supervisionado Obrigatório) e apoiar o corpo discente na colocação no mercado de trabalho e consequente sucesso profissional, o que motivará os alunos, reduzindo a taxa de evasão e com o aumento do sucesso dos egressos, aumentar a demanda dos concursos vestibulares. 
