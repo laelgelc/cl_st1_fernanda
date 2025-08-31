@@ -1,7 +1,6 @@
 Section: 1 ANÁLISE DO CENÁRIO 
 
 PLANO DE GESTÃO ANUAL - PGA 2025 
-
 Descrever de forma breve e objetiva o cenário da Unidade perante sua missão como Unidade de Ensino na localidade em que se encontra (é este cenário que se pretende melhorar). 
 
 A Fatec Ipiranga está localizada na região da Subprefeitura do Ipiranga, na zona sul de São Paulo e, atualmente oferece os seguintes CST: Análise e Desenvolvimento de Sistemas, Articulado Médio Superior em Desenvolvimento de Sistemas, Big Data para Negócios, Eventos, Gestão Comercial, Gestão de Recursos Humanos e Gestão Empresarial (EAD). A Subprefeitura do Ipiranga ocupa 2,5% da área do município e é composta por 3 distritos: Ipiranga, Sacomã e Cursino (PREFEITURA DE SÃO PAULO, 2016). A região da Fatec Ipiranga possui duas estações do metrô (Alto do Ipiranga e Sacomã) e uma ampla rede de ônibus. 
@@ -12,9 +11,7 @@ Segundo informações da Prefeitura de São Paulo, a subprefeitura do Ipiranga a
 
 Porém, quando é realizada a desagregação da renda por distrito, verifica-se que no do Ipiranga 21,8% dos domicílios apresentavam renda de até 1 salário-mínimo e 20,4% apresentavam renda de 5 salários-mínimos ou mais. Já no distrito do Sacomã, que em 2010 reunia 52% dos domicílios da Subprefeitura, 34,0% dos domicílios apresentavam renda de até 1 salário-mínimo, enquanto apenas 7,4% apresentavam renda nominal mensal domiciliar per capita de 5 salários-mínimos ou mais.
 
-Este cenário de vulnerabilidade social exige um contínuo esforço para ampliar as condições de empregabilidade dos alunos, considerando que as condições financeiras impactam diretamente na taxa de evasão.  
-
-A Fatec Ipiranga situa-se numa região vocacionada para a área comercial e de serviços e os cursos oferecidos estão voltados para satisfazer as necessidades formativas da região. Porém, apresenta-se como desafio a necessidade de acompanhar a velocidade, imposta pelas novas tecnologias e pelas transformações que ocorrem na região. 
+Este cenário de vulnerabilidade social exige um contínuo esforço para ampliar as condições de empregabilidade dos alunos, considerando que as condições financeiras impactam diretamente na taxa de evasão.  A Fatec Ipiranga situa-se numa região vocacionada para a área comercial e de serviços e os cursos oferecidos estão voltados para satisfazer as necessidades formativas da região. Porém, apresenta-se como desafio a necessidade de acompanhar a velocidade, imposta pelas novas tecnologias e pelas transformações que ocorrem na região. 
 
 Outro importante fator a ser mencionado é o cenário pós pandemia. Um número expressivo de alunos com problemas de ordem psicológica desafia as Instituições de Ensino a rever as práticas educacionais e ampliar a formação humanista e socioemocional. 
 
@@ -25,140 +22,162 @@ Embora com tantos desafios, a Fatec Ipiranga tem se destacado pelos elevados ín
 A partir deste breve cenário, no quadro abaixo elencamos as situações problemas que impactam nos resultados, apontados nas avaliações internas e externas. Ressalta-se que as ações dependem do apoio e suporte das áreas que compõe a administração central (UIE, UGAF) pois há necessidade de investimento em infraestrutura física, infraestrutura de TI e aquisições bibliográficas, sobretudo considerando os novos cursos ofertado. 
 
 APONTAMENTO DE SITUAÇÕES-PROBLEMA MAIS RELEVANTES 
-
-- Metodologia de ensino, desempenho de alunos, evasão 
- 
+- Metodologia de ensino, desempenho de alunos, evasão  
 - Quantidade de professores/funcionários 
-
-- Infraestrutura predial (espaços, sistemas) 
- 
+- Infraestrutura predial (espaços, sistemas)  
 - Participação da comunidade e sociedade 
-
-- Infraestrutura laboratorial e ambientes de ensino 
- 
+- Infraestrutura laboratorial e ambientes de ensino  
 - Manutenção e conservação predial 
 
 Objetivos Institucionais – CPS (Plano de Metas):
-
 1) Atender às demandas sociais e do mercado de trabalho. 
-
 2) Obter a satisfação dos públicos que se relacionam com o Centro Paula Souza (stakeholders). 
-
 3) Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem. 
-
 4) Assegurar a perenidade do crescimento da instituição com recursos financeiros disponíveis. 
-
 5) Garantir celeridade e efetividade na prestação de serviços. 
-
 6) Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no desenvolvimento tecnológico e inovação. 
-
 7) Promover a cultura de inovação e empreendedorismo. 
-
 8) Aumentar a eficiência, a produtividade e a competitividade da instituição. 
-
 9) Ampliar a oferta da Educação Profissional. 
-
 10) Resolução Conjunta SOG/SFP/SG-3, de 28-12-2022 - Bonificação por Resultados – BR das Secretarias de Estado, Procuradoria Geral do Estado, Controladoria Geral do Estado e das Autarquias, de que trata a LC 1361-2021 
 
 Objetivos Institucionais – Cesu (Plano de Metas) 
-
 A. Integrar as diferentes modalidades de ensino, otimizando itinerários e tempo para a formação profissional. 
-
 B. Inovar processos de ensino e aprendizagem para manter excelência diante do mercado. 
-
 C. Ampliar a capacidade de criar e atualizar cursos em parceria com o mercado. 
-
 D. Expandir e ampliar a capacidade de articulação com Governos e Setores Produtivos. 
-
 E. Promover a captação de recursos extras e não orçamentários. 
  
-Ações associadas ao PPC/PE de CSTs e Disciplinas: CST (implantação, alteração, readequação, reestruturação), prática pedagógica (PE, PA), projeto interdisciplinar/ integrador, extensão curricularizada. 
- 
+Ações associadas ao PPC/PE de CSTs e Disciplinas: CST (implantação, alteração, readequação, reestruturação), prática pedagógica (PE, PA), projeto interdisciplinar/ integrador, extensão curricularizada.  
 Implantação do curso AMS- Agenciamento de viagens e gestão do turismo  - Adequação/reestruturação de PPC, implantação de novos cursos. 
-
 No primeiro semestre de 2025 será implantado o curso AMS- Agenciamento de viagens e gestão do turismo em pareceria com a Etec Carlos de Campos. Por que será feito: Para atender a demanda de mercado referente ao profissional “Gestor de Turismo”. 
-
 Palestras Bimestrais sobre temas relevantes para formação AMS na ETEC Heliópolis  - Ações pedagógicas: visitas técnicas, projetos integradores/interdisciplinares, dias de campo, feira das profissões, cursos extracurriculares para alunos. 
-
 O que será feito: Organização de palestras bimestrais sobre temas de interesse para a formação AMS-DS com apresentação das oportunidades profissionais associadas aos temas, discussão de comportamentos e atitudes esperadas dos profissionais atuando e funcionamento das tecnologias utilizadas. Por que será feito: Ampliar a compreensão dos alunos sobre a formação AMS-DS, enfatizando sua relevância alinhada às novas tendências educacionais 
+situação-problema:
+Metodologia de ensino, desempenho de alunos, evasão 
+Participação da comunidade e sociedade 
 
 Estudo de viabilidade para implantação do curso AMS em Gestão de Recursos Humanos 
-
 O que será feito: Estudo de viabilidade para implantação de novo curso. Por que será feito: Para atender a demanda do mercado e ampliar o número de vagas  
+situação-problema:
+Metodologia de ensino, desempenho de alunos, evasão 
+Participação da comunidade e sociedade 
 
-104 -Mostra de software do curso de Análise e Desenvolvimento de Sistemas  - cat 1.06 - Ações pedagógicas: visitas técnicas, projetos integradores/interdisciplinares, dias de campo, feira das profissões, cursos extracurriculares para alunos.
-
+Mostra de software do curso de Análise e Desenvolvimento de Sistemas  - cat 1.06 - Ações pedagógicas: visitas técnicas, projetos integradores/interdisciplinares, dias de campo, feira das profissões, cursos extracurriculares para alunos.
 No final de cada semestre, os alunos apresentam seus projetos de softwares desenvolvidos durante a realização do Trabalho de Conclusão de Curso. Por que será feito: A mostra acontece por duas razões: a primeira para que os alunos realizadores tenham a oportunidade de apresentar seus trabalhos para as bancas, para os alunos mais jovens e para a comunidade; a segunda é para que os alunos mais jovens possam se inspirar e idealizar seus futuros projetos. 
+situação-problema:
+Metodologia de ensino, desempenho de alunos, evasão 
+Participação da comunidade e sociedade 
 
 Mostra de vídeos do curso de Eventos- cat 1.06 - Ações pedagógicas: visitas técnicas, projetos 
 integradores/interdisciplinares, dias de campo, feira das profissões, cursos extracurriculares para alunos. 
-
 O que será feito: XIII e XIV Projeto Identidades e XXII e XXIII Mostra de Vídeos. Por que será feito: Para divulgação da imagem de excelência dos Projetos Integradores II e VI para as comunidades interna e externa 
+situação-problema:
+Metodologia de ensino, desempenho de alunos, evasão 
+Participação da comunidade e sociedade 
 
-106 -Selo Instituição Socialmente Responsável. O que será feito: Ações de responsabilidade social. Por que será feito: Para despertar a consciência da comunidade interna para sua responsabilidade social com o entorno da instituição com vistas ao Selo de Responsabilidade emitido pela ABMES – Associação Brasileira dos Mantenedores do Ensino Superior e também para aplicar na prática os conceitos abordados na disciplina Responsabilidade Socioambiental. 
- 
-Virada da Maturidade - cat 1.06 - Ações pedagógicas: visitas técnicas, projetos integradores/interdisciplinares, dias de campo, feira das profissões, cursos extracurriculares para alunos. O que será feito: Atividades lúdicas, educativas e de saúde voltadas à Terceira Idade 
- 
+Selo Instituição Socialmente Responsável. O que será feito: Ações de responsabilidade social. Por que será feito: Para despertar a consciência da comunidade interna para sua responsabilidade social com o entorno da instituição com vistas ao Selo de Responsabilidade emitido pela ABMES – Associação Brasileira dos Mantenedores do Ensino Superior e também para aplicar na prática os conceitos abordados na disciplina Responsabilidade Socioambiental. 
+situação-problema:
+Metodologia de ensino, desempenho de alunos, evasão 
+Participação da comunidade e sociedade 
+
+Virada da Maturidade - Ações pedagógicas: visitas técnicas, projetos integradores/interdisciplinares, dias de campo, feira das profissões, cursos extracurriculares para alunos. O que será feito: Atividades lúdicas, educativas e de saúde voltadas à Terceira Idade 
+situação-problema:
+Metodologia de ensino, desempenho de alunos, evasão 
+Participação da comunidade e sociedade 
+
 Estudo de viabilidade para implantação do curso AMS em Gestão Empresarial  - Adequação/reestruturação de PPC, implantação de novos cursos. 
-
 O que será feito: Estudo de viabilidade para implantação de novo curso. Por que será feito: Para atender a demanda do mercado e ampliar o número de vagas  
+situação-problema:
+Metodologia de ensino, desempenho de alunos, evasão 
+Participação da comunidade e sociedade 
  
-Feira de Negócios do Curso Gestão Comercial  - cat 1.06 - Ações pedagógicas: visitas técnicas, projetos integradores/interdisciplinares, dias de campo, feira das profissões, cursos extracurriculares para 
-alunos. 
-
+Feira de Negócios do Curso Gestão Comercial  - Ações pedagógicas: visitas técnicas, projetos integradores/interdisciplinares, dias de campo, feira das profissões, cursos extracurriculares para alunos. 
 Uma apresentação pelos discentes do 6º semestre das propostas de negócios desenvolvidos por meio dos conteúdos trabalhados em diferentes disciplinas ministradas no curso. Por que será feito: A feira acontece por duas razões: a primeira para que os discentes tenham a oportunidade de expor os planos de negócios para a comunidade interna e externa; a segunda é para que os alunos dos semestres anteriores possam se inspirar e idealizar seus futuros planos de negócios. 
+situação-problema:
+Metodologia de ensino, desempenho de alunos, evasão 
+Participação da comunidade e sociedade 
 
 Participação dos alunos no torneio Interfatecs -  - Ações pedagógicas: visitas técnicas, projetos integradores/interdisciplinares, dias de campo, feira das profissões, cursos extracurriculares para alunos. 
-
 Preparação dos alunos dos cursos de TI e viabilização de suas participações no torneio, primeira e segunda fases. Por que será feito: A Maratona Interfatecs é a segunda maior competição de programação de computadores do país, voltada especificamente para alunos das Fatec. A prática e o estudo diário de programação são a melhor forma de aprimorar a lógica de programação, o conhecimento de algoritmos e a habilidade para resolver problemas. 
+situação-problema:
+Metodologia de ensino, desempenho de alunos, evasão 
+Participação da comunidade e sociedade 
 
 Ações de diversidade, equidade e inclusãocat - Inclusão: Palestras e rodas de conversa para conscientização dos estudantes e da comunidade do entorno sobre a importância da diversidade e inclusão nas organizações. Por que será feito: Para atender as demandas da sociedade no que tange as questões de diversidade e inclusão e para aplicar na prática os conceitos abordados na disciplina Responsabilidade Socioambiental, com interfaces com as disciplinas de Inglês do curso de Gestão Comercial e com o Comitê de Ações Antidiscriminatórias da Fatec do Ipiranga, além de fomentar ações de onscientização sobre o tema da diversidade e inclusão com o público interno e externo, e também aumentar a visibilidade da unidade pela comunidade externa. 
- 
-Publicação Editorial no formato livro (volume IX) – ATIVIDADES AUTÔNOMAS DE PROJETOS – CST GESTÃO DE RECURSOS HUMANOS -  Ações pedagógicas: visitas técnicas, projetos integradores/interdisciplinares, dias de campo, feira das profissões, cursos extracurriculares para alunos. 
-Organização de atividades em eixos formativos profissionais do curso para publicação de livro. 
+situação-problema:
+Metodologia de ensino, desempenho de alunos, evasão 
+Participação da comunidade e sociedade 
 
+Publicação Editorial no formato livro (volume IX) – ATIVIDADES AUTÔNOMAS DE PROJETOS – CST GESTÃO DE RECURSOS HUMANOS -  Ações pedagógicas: visitas técnicas, projetos integradores/interdisciplinares, dias de campo, feira das profissões, cursos extracurriculares para alunos. 
+situação-problema:
+Metodologia de ensino, desempenho de alunos, evasão 
+Participação da comunidade e sociedade 
+
+Organização de atividades em eixos formativos profissionais do curso para publicação de livro. 
 A publicação do editorial no formato livro acontece por duas razões: a primeira para que os discentes tenham a oportunidade de apresentar os artigos desenvolvidos durante o curso para a comunidade interna e externa. 
+situação-problema:
+Metodologia de ensino, desempenho de alunos, evasão 
+Participação da comunidade e sociedade 
 
 Ações sustentáveis no Bairro Ipiranga: Palestras e estudos dirigidos sobre os conceitos relacionados a Responsabilidade Socioambiental, bem como a divulgação de ações positivas sobre o meio ambiente para a comunidade acadêmica e público externo do entorno da Fatec Ipiranga, para que possam implementar no seu cotidiano atitudes sustentáveis.
-
 Para atender as demandas sociais do bairro do Ipiranga no que tange as ações de responsabilidade social e para aplicar na prática os conceitos abordados na disciplina de Responsabilidade Social do CST em Gestão Comercial, e também para potencializar a comunicação sobre o meio ambiente com o público interno e externo, e também aumentar a visibilidade da unidade pela comunidade externa. 
-  
-Parceiros da Sustentabilidade: Projetos e palestras para conscientização dos estudantes e da comunidade do entorno sobre os conceitos de sustentabilidade 
+situação-problema:
+Metodologia de ensino, desempenho de alunos, evasão 
+Participação da comunidade e sociedade 
 
+Parceiros da Sustentabilidade: Projetos e palestras para conscientização dos estudantes e da comunidade do entorno sobre os conceitos de sustentabilidade 
 Para atender as demandas sociais do bairro do Ipiranga no que tange as ações de sustentabilidade e para aplicar na prática os conceitos abordados na disciplina Gestão Ambiental no CST em Eventos e Comportamento Consumidor no CST em Gestão Comercial, e também para potencializar a comunicação sobre o meio ambiente com o público interno e externo, aumentando a visibilidade da unidade pela comunidade externa. 
+situação-problema:
+Metodologia de ensino, desempenho de alunos, evasão 
+Participação da comunidade e sociedade 
 
 Programas de Monitoria: Plantões de monitoria nas disciplinas Para melhorar os processos de aprendizagem. 
-
 Oficina de Libras - Inclusão 
-
 Desenvolvimento e integração da comunidade interna e externa à Língua Brasileira de sinais Para a promoção e inclusão de pessoas no contexto e vivência inclusiva da comunidade interna e externa. 
+situação-problema:
+Metodologia de ensino, desempenho de alunos, evasão 
+Participação da comunidade e sociedade 
 
 Exposições, Palestras e Rodas de Conversa para conscientização dos estudantes e da comunidade do entorno sobre os preconceitos sociais e fobias, elucidando-se os diferentes níveis de medição das respectivas categorias 
-
 Para realçar os valores constitucionais da dignidade da pessoa humana; apontar ações afirmativas atinentes; indicar órgãos públicos e ONGs de apoio e defesa dos referidos valores com o público interno e externo, mormente consolidar na prática os conceitos expostos nas disciplinas de Políticas Públicas e Direito; bem como, para aumentar a visibilidade da unidade pela comunidade externa. 
+situação-problema:
+Metodologia de ensino, desempenho de alunos, evasão 
+Participação da comunidade e sociedade 
 
 Consultoria Imposto de Renda para Pessoas Física
- 
 Preencher eletronicamente as declarações de imposto de renda pessoa física – através de programa fornecido pela Receita Federal. para Ajudar o contribuinte a entregar declaração de Imposto de Renda Pessoa Física- exercício 2024 – ano base – 2023 
- 
+situação-problema:
+Metodologia de ensino, desempenho de alunos, evasão 
+Participação da comunidade e sociedade 
+
 Fatec Ipiranga se Importa
-
 Oferecer à comunidade externa ações que visem à sua formação, por meio do oferecimento de oficinas, palestras e workshops, na área profissional dos cursos oferecidos na unidade, e também ações de arrecadação e encaminhamento de doações de roupas, alimentos, artigos de higiene, brinquedos para entidades da região do Ipiranga, bem como o oferecimento de curso de extensão com reflexão sobre a sociedade brasileira. 
-
 Para engajar a comunidade externa e interna em ações formativas e fomentar a responsabilidade social e o pensamento cidadão. 
+situação-problema:
+Metodologia de ensino, desempenho de alunos, evasão 
+Participação da comunidade e sociedade 
 
 Desenvolvimento de projetos gráficos e audiovisuais para a Fatec Ipiranga. Esses projetos gráficos atendem às necessidades de comunicação interna e externa da unidade e para a divulgação do vestibular 
-
 Para melhorar a comunicação com a comunidade interna e externa e impulsionar a atratividade de alunos para o vestibular. 
+situação-problema:
+Metodologia de ensino, desempenho de alunos, evasão 
+Participação da comunidade e sociedade 
 
 Organização de palestras e visitas para os alunos e familiares dos alunos da Fatec, Etec Heliópolis e do Céu Heliópolis 
-
 Promover a visibilidade da formação AMS-DS da Etec Heliópolis e da Fatec Ipiranga como opção de qualidade para a formação de nível superior no bairro do Ipiranga e região, buscando atrair novos alunos para a formação e reduzir a evasão e o trancamento dos alunos matriculados atualmente no curso. Paralelamente, aproveitar a oportunidade para divulgação dos demais cursos da Fatec Ipiranga junto à comunidade 
+situação-problema:
+Metodologia de ensino, desempenho de alunos, evasão 
+Participação da comunidade e sociedade 
 
-O que será feito: Evento Fatec Ipiranga de Portas Abertas, com o objetivo de abrir a unidade para a comunidade externa com o objetivo de dar informações sobre os cursos oferecidos, expor os trabalhos desenvolvidos em cada um dos cursos além de apresentações artísticas e culturais. Para divulgação da Fatec perante a comunidade bem como incrementar as inscrições para o vestibular 
- 
+O que será feito: Evento Fatec Ipiranga de Portas Abertas, com o objetivo de abrir a unidade para a comunidade externa com o objetivo de dar informações sobre os cursos oferecidos, expor os trabalhos desenvolvidos em cada um dos cursos além de apresentações artísticas e culturais. Para divulgação da Fatec perante a comunidade bem como incrementar as inscrições para o vestibular
+situação-problema:
+Metodologia de ensino, desempenho de alunos, evasão 
+Participação da comunidade e sociedade 
+
 Oficinas preparatórias para o vestibular
-
 Oficinas de preparação para os vestibulares voltadas para a comunidade externa. 
-
 Para aproximação da comunidade com o ambiente acadêmico e, em especial, para que conheçam a estrutura da Fatec Ipiranga e, consequentemente, incrementar a demanda dos vestibulares dos cursos oferecidos pela unidade. 
+situação-problema:
+Metodologia de ensino, desempenho de alunos, evasão 
+Participação da comunidade e sociedade 
