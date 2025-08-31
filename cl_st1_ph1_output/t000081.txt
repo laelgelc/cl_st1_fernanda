@@ -1,8 +1,6 @@
 Section: 1 INTRODUÇÃO  
 
-FATEC / Código: FATEC Mauá / 113 
-
-Relatório Anual de Atividades relativo ao ano de: 2022 
+FATEC Mauá - Relatório Anual de Atividades relativo ao ano de: 2022 
 
 Section: 2 DESENVOLVIMENTO
 
