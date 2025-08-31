@@ -1,27 +1,20 @@
 Section: 1 IDENTIFICAÇÃO DA UNIDADE 
 
 RELATÓRIO ANUAL DE ATIVIDADES - RAA 
-
 Unidade: F137 - Fatec Zona Sul Dom Paulo Evaristo Arns 
 
 Section: 2 CONSIDERAÇÕES
 
 Recursos Humanos:
-
 a) A Fatec Zona Sul teve dois funcionário contratados por concurso em 2023 que pediram exoneração de seus cargos, mas conseguiu contratar por transferência dois novos auxiliares docentes da área de informática, além de redistribuir os funcionários em novos setores de acordo com sua formação específica. No corpo docente foram contratados novos professores para satisfazer a defasagem no curso de Análise e Desenvolvimento de Sistemas, bem como as licenças e aposentadorias nos cursos de Logística e Gestão Empresarial. Atualmente o corpo docente da FATEC Zona Sul é majoritariamente formado por Mestres e Doutores e temos um total de 109 funcionários, em 2022 tínhamos apenas 80 funcionários no total.  
- 
 b) Desenvolvimento de automatização das rotinas administrativas para aumentar a eficiência dos processos. O objetivo foi automatizar as atividades administrativas da FATEC-Zona Sul na diretoria acadêmica e administrativa. Após avaliações dos servidores e docentes no ano de 2024, concluímos que duas ferramentas digitais seriam as mais interessantes. Na Secretaria as solicitações dos alunos são todas realizadas pela internet, ampliando o conceito de Secretaria Digital e as documentações de finalização do semestre também são apenas digitais, conseguimos diminuir a espera de até dois anos pelos diplomas para apenas 2 meses.  
- 
 c) Os diretores de Serviços Acadêmicos e Serviços Administrativos foram demitidos e substituídos por dois professores da Unidade, sendo assim, os departamentos ganharam em eficiência com as mudanças com diminuição das reclamações. 
  
 Cursos Existentes:  
- 
 a) Aumento do grau de pertencimento à FATEC-Zona Sul. Para tanto, ao longo do curso, os alunos são informados frequentemente em reuniões, nas aulas e cartazes, de todos os aspectos de sucesso obtidos na unidade, desde o histórico da sua instalação, o sucesso obtido no ENADE com nota 4  nos cursos de ADS e Gestão Empresarial e nota 3 em Logística, além da solicitação de reconhecimento do curso de Desenvolvimento de Software Multiplataforma (DSM) implantado em 2021, melhoria da qualificação dos docentes através de formações como especialização, mestrado e doutorado. 
-
 A participação dos discentes nos colegiados também são atividades de integração que possibilitam aos alunos integrarem um ambiente de sucesso, o que os leva sentirem-se especiais, orgulhosos, contentes e interessados em pertencer e participar de uma instituição que apresenta continuadamente, ótimas soluções e resultados. Atualmente nossos cursos possuem carga horária de 20% de aulas remotas síncronas através da ferramenta TEAMS da Microsoft. 
  
 b) Aumento do grau de empregabilidade. Nesse aspecto a FATEC-Zona Sul colaborou com relativo sucesso na elevação do grau de empregabilidade, pois a avaliação informal nos permite afirmar que o fato de ser aluno facilitou o ingresso no campo de trabalho. Os dados do WEBSAI (2024) indicam aumento na empregabilidade. 
-
 No ano de 2024, conforme proposto no PDI, tivemos a participação do empresariado em várias atividades na FATEC-Zona Sul, como palestras, aula conjunta com o professor responsável pela disciplina, desenvolvimento do projeto do carro elétrico (E-Kar), processo STEAM de ensino-aprendizagem, e parcerias com empresas (SAP, IBM, BRQ Digital, GFT, Totvs; Elektra; HDLL, RoutEasy). Pretendemos, com a continuidade das atividades expostas acima, não excluindo as condições econômicas do país, obtermos uma ampliação no número de alunos com atividades de trabalho remunerado.  
  
 c) Criação de um sistema de apoio para recuperação dos alunos com dificuldades de aprendizagem em disciplinas específicas. Verificou-se que as disciplinas nas quais os alunos indicam maiores dificuldades são as das matemáticas e línguas estrangeiras. Como solução para esse problema oferecemos em 2024, aulas de recuperação das disciplinas de Matemática, Matemática financeira, Matemática Discreta, Estatística e Inglês, num total de 20 horas de aulas e outras atividades extraclasse ao longo do semestre através da ferramenta TEAMS e MOODLE. Esse processo de recuperação diminuiu a evasão e aumentou o percentual de formandos em 2024. 
@@ -45,142 +38,84 @@ k) Exponenciar trabalhos conjuntos com as ETECs da região no sentido da amplia�
 l) Aumento do percentual de formandos de 57% para 62% durante o ano de 2024 a devida a implantação de práticas pedagógicas voltadas ao acompanhamento individual dos alunos, gestão de evasão e recuperação contínua e paralela.  
  
 Cursos de Pós-Graduação e Extensão:  
- 
 a) A unidade não possui cursos de pós-graduação lato ou strictu sensu, mas a congregação aprovou estudos para implantação de cursos nas áreas de Gestão, Logística e Informática. Os Projetos Pedagógicos dos Cursos serão elaborados por uma comissão interna de professores e enviados à CESU com as respectivas propostas para abertura dos referidos cursos na unidade ao longo de 2024 e 2025. 
-  
-b) Reclassificação da Revista da FATEC- Zona Sul, REFAS”. Em atenção ao proposto no PDI, esse item foi alcançado com sucesso. A revista foi reclassificada de Qualis B3 para Qualis B2 em 2019. Diante do resultado já alcançado, ampliamos a nossa pretensão de atender as exigências da Capes no sentido de alcançar a classificação Qualis B1, no decorrer restante da vigência do PDI (2022 – 2026).  
- 
+b) Reclassificação da Revista da FATEC- Zona Sul, REFAS”. Em atenção ao proposto no PDI, esse item foi alcançado com sucesso. A revista foi reclassificada de Qualis B3 para Qualis B2 em 2019. Diante do resultado já alcançado, ampliamos a nossa pretensão de atender as exigências da Capes no sentido de alcançar a classificação Qualis B1, no decorrer restante da vigência do PDI (2022 – 2026).   
 c) Atividades adicionais de extensão: Semanas de Tecnologia, Hackatech, o evento Maria Tecnólogas e a Semana Global do Empreendedorismo são realizadas semestralmente e oferecidos a todos os membros da comunidade acadêmica.  
  
-Cursos Novos:  
- 
+Cursos Novos:   
 Não houve implantação de novos cursos durante o ano de 2024, mas a congregação aprovou estudos para abertura de dois novos cursos superiores de tecnologia na Unidade, são os cursos de Marketing no período noturno e o de Comércio Exterior no turno da manhã, ambos atendem às necessidades do mercado de trabalho da região, além disso, a congregação votou pela mudança do turno do curso de Gestão Empresarial da noite para tarde. Deste maneira, a unidade vai chegar ao oferecimento de 7 (sete) cursos superiores de tecnologia, caso a CESU aprove a criação dos cursos de Marketing e Comércio Exterior ao longo de 2025 e 2026. 
 
 A implantação do curso de graduação em Tecnologia em Marketing pretende garantir a seus egressos uma formação que lhes permita ter conhecimento sobre múltiplas formas em que podem se estruturar os mais variados tipos de organizações, tendo em vista que as atividades de gestão estão direcionadas à oferta do apoio administrativo e logístico a todas as atividades de marketing, qualquer que seja o setor econômico no que elas se desenvolvam. O objetivo do Curso Superior de Tecnologia em Comércio exterior é formar profissionais com visão empreendedora, ética e promotora de novos conhecimentos na área de negócios e comércio internacionais. Específicos Preparar profissionais aptos a: elaborar planos de exportação; analisar mercado internacional de produtos e serviços; expressar-se em língua estrangeira; realizar os processos para importação e exportação de produtos e serviços; processar operações de importação e orientar o desembaraço aduaneiro.  
  
-Bens e Serviços: 
-  
+Bens e Serviços:   
 Conforme solicitado no PDI – Plano de Desenvolvimento Institucional a FATEC-Zona Sul recebeu os equipamentos solicitados, além de novos computadores, impressoras e equipamentos como televisores, computadores de mesa, notebooks e periféricos para melhoria dos serviços prestados à comunidade acadêmica. 
 
 Em 2024 foram realizados os seguintes serviços em continuidade a 2023: todas as salas de aulas equipadas com data show, notebook e televisor de 65 polegadas, limpeza e organização de todos os ambientes utilizados como depósitos na unidade, manutenção de todas as fechaduras da unidade, pintura interna do prédio administrativos, aquisição de novos bebedouros para alunos e professores - temos mais de 400 litros de água filtrada e gelada disponível aos alunos e professores - , trocas de todas as válvulas dos banheiros dos alunos, troca das caixa d’água, término da troca das lâmpadas fluorescentes por lâmpadas led, reforma da quadra, reforma cantina, melhorias na iluminação do campus com instalação de holofotes, concretagem das caixas de passagem de rede elétrica, reforma das ferragens da lixeira externa,  novo vestiário para os funcionários da segurança, novas saboneteiras nos banheiros, manutenção e pintura dos armários dos professores, instalação de 24 novos ventiladores nas salas de aula e laboratórios, novos espaços de coworking para os professores, manutenção reventiva, instalação de armários no hall de entrada para recolhimento de doações para as campanhas de roupas, alimentos e brinquedos, manutenção corretiva, preventiva e preditiva em todos os ambientes físicos dos prédios do campus da FATEC Zona Sul.  
  
-Biblioteca: 
-  
+Biblioteca:   
 a) Acervo geral: (a) livros: 2688 livros e 10347 exemplares, (b) periódicos: 462 títulos e 1962 exemplares, (c) trabalhos de conclusão de curso: 1258 títulos e exemplares, (d) dissertações/teses: 7 títulos e exemplares.  
- 
-b) Infraestrutura: cadeiras de plástico foram trocadas por estofadas, a biblioteca recebeu desktops mais avançados para uso dos alunos, foram instaladas novas mesas na sala de estudo e fixada um televisor de 65” na biblioteca para uso dos alunos nas capacitações que ocorrem no local.  
- 
+b) Infraestrutura: cadeiras de plástico foram trocadas por estofadas, a biblioteca recebeu desktops mais avançados para uso dos alunos, foram instaladas novas mesas na sala de estudo e fixada um televisor de 65” na biblioteca para uso dos alunos nas capacitações que ocorrem no local.   
 c) Recursos humanos: foram alocadas duas funcionárias na biblioteca para melhor cobertura de atendimento ao público da comunidade acadêmica local.  
  
 Apresentação de resultados em forma de Matriz PDCA  
-
 P - Planejar Identificação de problemas prioritários: 
-
 - Evasão e desempenho acadêmico: Alta taxa de desistência, especialmente em cursos diurnos e disciplinas como Matemática, Estatística e Línguas Estrangeiras. 
-
 - Infraestrutura inadequada: Necessidade de modernização de laboratórios, manutenção predial e adequação de acessibilidade.
-
 - Baixa procura em cursos diurnos: Fatores como horários e desafios econômicos desmotivam os candidatos. 
  
 Definição de objetivos e alinhamento ao PDI e PGA. 
-
 - Qualidade do ensino: Melhorar indicadores acadêmicos e ampliar a taxa de empregabilidade dos alunos. 
-
 - Infraestrutura: Garantir condições físicas que sustentem o ensino-aprendizagem eficiente. 
-
 - Engajamento com o mercado: Fortalecer parcerias empresariais para projetos práticos e estágios. 
-
 - Inclusão e acessibilidade: Tornar a FATEC mais inclusiva para toda a comunidade acadêmica. 
 
 D - Fazer:
-
 Implementação de ações corretivas e melhorias estratégicas. 
-
 1. Educação e suporte aos alunos: 
-
 - Aulas de recuperação em disciplinas críticas com ferramentas TEAMS e MOODLE. 
-
 - Apoio individualizado no Trabalho de Conclusão de Curso (TCC). 
-
-- Procedimento padrão para identificação de alunos em risco de evasão (falta prolongada ou dispersão). 
- 
+- Procedimento padrão para identificação de alunos em risco de evasão (falta prolongada ou dispersão).  
 2. Infraestrutura: 
-
 - Reestruturação dos laboratórios de informática, incluindo atualização de software e hardware. 
-
 - Manutenção predial: pintura externa e interna, iluminação em LED, reforma de quadras e acessibilidade com instalação de piso tátil. 
-
 - Ampliação da rede Wi-Fi e melhorias no coworking dos professores. 
- 
-3. Engajamento com o mercado e empregabilidade: 
-
+ 3. Engajamento com o mercado e empregabilidade: 
 - Desenvolvimento de projetos práticos com empresas (ex.: carro elétrico em parceria com a ECATU). 
-
 - Parcerias com grandes empresas como IBM, SAP, GFT e Coca-Cola para oportunidades de estágio e empregabilidade. 
-
 - Realização de eventos como "Semana de Tecnologia" e "Hackatech" para integração entre discentes, docentes e o mercado. 
- 
-4. Digitalização de processos administrativos: 
-
+ 4. Digitalização de processos administrativos: 
 - Expansão da Secretaria Digital, reduzindo o tempo de emissão de diplomas de 2 anos para 2 meses. 
-
 - Informatização dos processos de reserva de recursos e solicitações de serviços. 
 
 C - Checar 
-
 Monitoramento dos resultados das ações realizadas. 
-
 Indicadores de desempenho: 
-
 - Aumento da taxa de formandos de 57% para 62%. 
-
 - Redução de evasão em disciplinas críticas e maior adesão às atividades acadêmicas. 
-
-- Consolidação da empregabilidade com aumento da participação empresarial em projetos e eventos. 
- 
+- Consolidação da empregabilidade com aumento da participação empresarial em projetos e eventos.  
 Avaliação da infraestrutura: 
-
 - Uso mais eficiente de laboratórios e recursos tecnológicos. 
-
 - Feedback positivo dos alunos sobre as reformas realizadas, incluindo melhoria de conforto e acessibilidade. 
-
-- Avanços na digitalização de processos administrativos, com redução de reclamações relacionadas à demora em serviços. 
- 
+- Avanços na digitalização de processos administrativos, com redução de reclamações relacionadas à demora em serviços.  
 Reconhecimento acadêmico: 
-
 - Nota 4 no ENADE para os cursos de ADS e Gestão Empresarial. 
-
 - Elevação da classificação da Revista REFAS para Qualis B2 e planejamento para alcançar B1. 
 
 A - Agir:
-
 Realização de ajustes e planejamento contínuo para melhorias futuras. 
-
 Ações pedagógicas futuras: 
-
 - Planejar a abertura de novos cursos de Marketing e Comércio Exterior, atendendo às demandas do mercado. 
-
 - Expandir as atividades de recuperação e suporte acadêmico para outras disciplinas. 
- 
 Infraestrutura: 
-
 - Aumentar a segurança do campus, incluindo melhorias no entorno (altura do muro, iluminação externa). 
-
 - Ampliar acessibilidade com mais investimentos em sinalização tátil e mobiliário inclusivo. 
-
-- Realizar manutenção contínua nos ambientes acadêmicos para sustentar o aumento de atividades práticas e novas turmas. 
- 
+- Realizar manutenção contínua nos ambientes acadêmicos para sustentar o aumento de atividades práticas e novas turmas.  
 Parcerias e integração com o mercado: 
-
 - Ampliar o número de parcerias e formalizar novos convênios com empresas regionais. 
- 
 - Oferecer cursos de extensão e atividades como o "Novotec", promovendo a inclusão social e a integração com a comunidade local. 
-
 - Reforçar a presença da FATEC em eventos regionais para melhorar sua imagem institucional e atrair novos alunos. 
 
-Com 17 anos de implantação, a Fatec Zona Sul  já conta com vários projetos e eventos importantes para os públicos interno (docentes, discentes e colaboradores) e externos (comunidade, empresas, indústrias e outras instituições). 
-
-Um dos principais eventos é a Semana de Tecnologia, que ocorre anualmente, no 2º semestre e conta com a Semana Global de Empreendedorismo, Hackatech Zona Sul e o evento Maria Tecnólogas, este dedicado ao empoderamento das mulheres que estudam tecnologia na FATEC Zona Sul. 
+Com 17 anos de implantação, a Fatec Zona Sul  já conta com vários projetos e eventos importantes para os públicos interno (docentes, discentes e colaboradores) e externos (comunidade, empresas, indústrias e outras instituições). Um dos principais eventos é a Semana de Tecnologia, que ocorre anualmente, no 2º semestre e conta com a Semana Global de Empreendedorismo, Hackatech Zona Sul e o evento Maria Tecnólogas, este dedicado ao empoderamento das mulheres que estudam tecnologia na FATEC Zona Sul. 
 
 Os projetos e eventos institucionais, bem como as ações planejadas e praticadas pelos professores, alunos e administrativos são alinhados na missão e visão desta unidade. Para isso, o trabalho de divulgação desses propósitos é intensamente reforçado. Conduzir nossas ações em consonância as metas do CPS, alinhado à missão e visão da unidade e em trabalho conjunto é crucial para o alcance dos objetivos institucionais e são as conquistas que incentivam a Fatec Zona Sul perseguir novos caminhos, motivando a busca pelo aperfeiçoamento contínuo da todos os campos pedagógicos, administrativos e colaborativos que envolvem a Unidade.  
 
@@ -191,53 +126,30 @@ Como pontos fracos podemos indicar percentual acima de 20% de alunos matriculado
 Quanto ao que diz respeito a ameaças, o bairro em que está a FATEC tem grande índice de furtos, o que incomoda os alunos transitarem no entorno da unidade; os cursos presenciais concorrem com a ampliação da oferta de cursos na modalidade EAD, o que pode diminuir a procura pelos cursos na modalidade presencial. 
  
 APONTAMENTO DE SITUAÇÕES-PROBLEMA MAIS RELEVANTES 
-
-- Gestão da unidade de ensino e dos cursos (indicadores) 
- 
+- Gestão da unidade de ensino e dos cursos (indicadores)  
 - Infraestrutura laboratorial e ambientes de ensino 
-
-- Metodologia de ensino, desempenho de alunos, evasão 
- 
+- Metodologia de ensino, desempenho de alunos, evasão  
 - Manutenção e conservação predial 
-
-- Infraestrutura predial (espaços, sistemas) 
- 
+- Infraestrutura predial (espaços, sistemas)  
 - Materiais, equipamentos e mobiliários 
-
 - Participação da comunidade e sociedade 
-
 - Segurança pessoal e patrimonial 
-
 - Baixa demanda dos cursos da tarde 
  
 Objetivos Institucionais – CPS (Plano de Metas) 
-
 1) Atender às demandas sociais e do mercado de trabalho. 
-
 2) Obter a satisfação dos públicos que se relacionam com o Centro Paula Souza (stakeholders). 
-
 3) Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem. 
-
 4) Assegurar a perenidade do crescimento da instituição com recursos financeiros disponíveis. 
-
 5) Garantir celeridade e efetividade na prestação de serviços. 
-
 6) Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no desenvolvimento tecnológico e inovação. 
-
 7) Promover a cultura de inovação e empreendedorismo. 
-
 8) Aumentar a eficiência, a produtividade e a competitividade da instituição. 
-
 9) Ampliar a oferta da Educação Profissional. 
 
 Objetivos Institucionais – Cesu (Plano de Metas) 
-
 A. Integrar as diferentes modalidades de ensino, otimizando itinerários e tempo para a formação profissional. 
-
 B. Inovar processos de ensino e aprendizagem para manter excelência diante do mercado. 
-
 C. Ampliar a capacidade de criar e atualizar cursos em parceria com o mercado. 
-
 D. Expandir e ampliar a capacidade de articulação com Governos e Setores Produtivos. 
-
 E. Promover a captação de recursos extras e não orçamentários. 
