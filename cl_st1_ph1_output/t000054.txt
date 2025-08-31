@@ -1,7 +1,6 @@
 Section: 1 ANÁLISE DO CENÁRIO 
 
 PLANO DE GESTÃO ANUAL – PGA 2024 
-
 A FATEC Zona Sul foi oficialmente inaugurada em 2006 (Decreto nº 50.579 de 2-3-2006) em um campus de 31.096,67 m2, na região do subdistrito do Jardim São  Luís, tendo como foco de atuação os cursos tecnológicos, e por meio deles um ensino e aprendizagem que impactem na melhoria das condições sociais e econômicas das pessoas que escolheram a formação profissional de Tecnólogo, atendendo assim à constante demanda do mercado de trabalho gerado pelas empresas de todos os portes e segmentos da região sul da capital da cidade de São Paulo.
 
 Os cursos de Análise e Desenvolvimento de Sistemas, Desenvolvimento de Software Multiplataforma, Logística e Gestão Empresarial, oferecidos pela FATEC Zona Sul abarcam os eixos tecnológicos da informação, comunicação, gestão e negócios, o que vai ao encontro das atividades da grande maioria das empresas instaladas na região sul da capital da cidade de São Paulo. No ano de 2023, a FATEC Zona Sul teve, durante o 1º Semestre, 1274 alunos, e durante o 2º Semestre, 1667 alunos, divididos entre os cursos de Análise e Desenvolvimento de Sistemas, Desenvolvimento de Software Multiplataforma, Gestão Empresarial (presencial e EaD) e Logística.  
@@ -21,139 +20,82 @@ Temos entre as oportunidades o fato das faculdades particulares da região, ent�
 Quanto ao que diz respeito a ameaças, o bairro em que está a FATEC tem grande índice de furtos, o que incomoda os alunos transitarem no entorno da unidade; os cursos presenciais concorrem com a ampliação da oferta de cursos na modalidade EAD, o que pode diminuir a procura pelos cursos na modalidade presencial. 
  
 APONTAMENTO DE SITUAÇÕES-PROBLEMA MAIS RELEVANTES 
-
-1 Gestão da unidade de ensino e dos cursos (indicadores) 
- 
+1 Gestão da unidade de ensino e dos cursos (indicadores)  
 2 Infraestrutura laboratorial e ambientes de ensino 
-
-3 Metodologia de ensino, desempenho de alunos, evasão 
- 
-4 Manutenção e conservação predial 
- 
-5 Infraestrutura predial (espaços, sistemas) 
- 
+3 Metodologia de ensino, desempenho de alunos, evasão  
+4 Manutenção e conservação predial  
+5 Infraestrutura predial (espaços, sistemas)  
 6 Materiais, equipamentos e mobiliários 
-
-7 Participação da comunidade e sociedade 
- 
+7 Participação da comunidade e sociedade  
 8 Segurança pessoal e patrimonial 
-
 9 Baixa demanda dos cursos da tarde 
  
 Objetivos Institucionais – CPS (Plano de Metas) 
-
 1) Atender às demandas sociais e do mercado de trabalho. 
-
 2) Obter a satisfação dos públicos que se relacionam com o Centro Paula Souza (stakeholders). 
-
 3) Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem. 
-
 4) Assegurar a perenidade do crescimento da instituição com recursos financeiros disponíveis. 
-
 5) Garantir celeridade e efetividade na prestação de serviços. 
-
 6) Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no desenvolvimento tecnológico e inovação. 
-
 7) Promover a cultura de inovação e empreendedorismo. 
-
 8) Aumentar a eficiência, a produtividade e a competitividade da instituição. 
-
 9) Ampliar a oferta da Educação Profissional. 
-
 10) Resolução Conjunta SOG/SFP/SG-3, de 28-12-2022 - Bonificação por Resultados – BR das Secretarias de Estado, Procuradoria Geral do Estado, Controladoria Geral do Estado e das Autarquias, de que trata a LC 1361-2021 
 
 Objetivos Institucionais – Cesu (Plano de Metas) 
-
 A. Integrar as diferentes modalidades de ensino, otimizando itinerários e tempo para a formação profissional. 
-
 B. Inovar processos de ensino e aprendizagem para manter excelência diante do mercado. 
-
 C. Ampliar a capacidade de criar e atualizar cursos em parceria com o mercado. 
-
 D. Expandir e ampliar a capacidade de articulação com Governos e Setores Produtivos. 
-
 E. Promover a captação de recursos extras e não orçamentários. 
- 
+
 Divulgação do vestibular e ações de fortalecimento de imagem institucional 
-
 O que será feito: Visita a empresas,  escolas de ensino médio e cursinho populares da Zona Sul da Cidade de São Paulo Por que será feito: Melhorar a visibilidade da Instituição de ensino na região e aumentar a demanda do vestibular e a competitividade dos cursos. 
-
 Situação problema: 
-
 Acesso/Inclusão ao Ensino Superior (social, PCD) (a ser resolvida/mitigada) 
-
 Participação da comunidade e sociedade 
 
 Ações de nivelamento de conhecimento, ENADE, acolhimento e permanência discente. 
-
 O que será feito: Cursos de recuperação de Inglês, Espanhol, disciplinas da área de exatas e recuperação geral para prováveis formandos. Por que será feito: Melhorar os índices de evasão e consequentemente números de formandos em todos os cursos. 
-
 Situação problema: 
-
 Metodologia de ensino, desempenho de alunos, evasão (a ser resolvida/mitigada) 
-
 Comunicação com a comunidade acadêmica 
  
 Divulgação do vestibular e ações de fortalecimento de imagem institucional 
-
 O que será feito: Informatização de Eventos para Instituição, Reestruturação e Manutenção do site e Manutenção das Redes Sociais, elaboração de artes para divulgação de notícias, desenvolvimento de sistema Web para Reserva de Recursos, desenvolvimento de Sistema para ordens de Serviços, gerais. 
-
 Por que será feito: Para que a comunidade acadêmica tenha informações atualizadas sobre a Instituição bem como os eventos promovidos por ela. Auxiliar os docentes na reserva de espaços, tais como, laboratórios, auditório, sala de reuniões e informatizar as solicitações de serviços para um melhor controle dos departamentos e acompanhamento das partes solicitantes. 
-
 Situação problema: 
-
 Comunicação com a comunidade acadêmica (a ser resolvida/mitigada) 
 
 Participação da comunidade e sociedade 
-
 O que será feito: Elaboração do relatório da Comissão Própria de Avaliação da FATEC Zona Sul. Por que será feito: Para atender às exigências do MEC – Ministério da Educação 
 
 Ações pedagógicas: visitas técnicas, projetos integradores/interdisciplinares, dias de campo, feira das profissões, cursos extracurriculares para alunos. 
-
 O que será feito: Semana de Tecnologia, Semana de Inteligência Artificial e Semana Global de Empreendedorismo: Evento com apresentação de palestrantes convidados, tratando de temas relevantes aos cursos oferecidos pela FATEC Zona Sul. Por que será feito: Promover a integração entre os membros da comunidade acadêmica. 
-
 Situação problema: 
-
 Comunicação com a comunidade acadêmica (a ser resolvida/mitigada) 
-
 Participação da comunidade e sociedade 
  
 Jornada/Evento/Revista Científico e Tecnológico 
-
 O que será feito: Manutenção, edição, divulgação e disseminação da Revista Fatec Zona Sul (Refas). Por que será feito: Instrumento de pesquisa, divulgação, extensão e desenvolvimento acadêmico e profissional dos docentes e discentes, intimamente ligado à Fatec Zona Sul, e, de docentes e discentes de outras instituições nacionais e internacionais. 
-
 Situação problema: 
-
 Comunicação com a comunidade acadêmica (a ser resolvida/mitigada) 
-
 Participação da comunidade e sociedade 
 
 Novotec 
-
 O que será feito: Oferecimento dos cursos do Novotec à comunidade acadêmica interna e externa. Por que será feito: Ampliar a divulgação da imagem da instituição na região em que está inserida e promover a inclusão social na periferia da cidade de São Paulo. 
-
 Situação problema: 
-
 Comunicação com a comunidade acadêmica (a ser resolvida/mitigada) 
-
 Participação da comunidade e sociedade 
  
 Desenvolvimento de pessoas (docentes e servidores) 
-
 Formação continuada de docentes e servidores, associadas às competências gerais e específicas de suas atividades: Metodologias de ensino, Tecnologias educacionais, Sistemas (processos, procedimentos, plataformas computacionais) acadêmicos e pedagógicos.  
-
 O que será feito: Ampliação da digitalização dos serviços da secretaria acadêmica. Por que será feito: Diminuir o tempo de atendimento ao aluno na secretaria acadêmica. 
-
 Situação problema: 
-
 Comunicação com a comunidade acadêmica (a ser resolvida/mitigada) 
-
 Participação da comunidade e sociedade 
  
 Convênios e Parcerias Institucionais 
-
 O que será feito: Montagem de um carro elétrico em parceria com a empresa ECATU. Por que será feito: Aplicação dos conhecimentos práticos em gestão de projetos pelos alunos dos Cursos Superiores de Tecnologia Gestão Empresarial e Logística. 
-
 Situação problema: 
-
 Metodologia de ensino, desempenho de alunos, evasão (a ser resolvida/mitigada) 
