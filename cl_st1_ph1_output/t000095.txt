@@ -19,61 +19,39 @@ Section: 2 DESENVOLVIMENTO
 • Ampliações e manutenções dos ambientes laboratoriais: Este ponto é crítico dentro da unidade de ensino, apesar de diversos laboratórios e bem equipados, os equipamentos estão desgastados e muitos não há possibilidade de manutenção, um exemplo são os equipamentos de ar-condicionado. Realizamos o pedido a UGAF de novos equipamentos, mas recebemos o memorando informando que não havia recurso e que submetêssemos o pedido no ano de 2024. A falta de investimento em infraestrutura é um dos pontos cruciais afetando a evasão.  
  
 ANÁLISE DO CENÁRIO (Breve diagnóstico/Baseline) 
- 
 O ABC 
- 
 O Grande ABC está inserido a sudeste da Região Metropolitana de São Paulo e é composto por sete municípios: Santo André, São Bernardo do Campo, São Caetano do Sul, Diadema, Mauá, Ribeirão Pires e Rio Grande da Serra. 
-
 Mais de 2,7 milhões (IBGE/2015) de pessoas habitam a região em uma área territorial de 828 km² (IBGE/2015). 
-
 A região é especialmente interligada, a ponto de ser difícil definir suas divisas terrestres, com muitas ruas e grandes vias de alta circulação. O Grande ABC ou ABC Paulista, como também é conhecido, está localizado em um ponto privilegiado, próximo ao Porto de Santos e à capital, além de possuir fácil acesso às rodovias Anchieta e Imigrantes, ao Rodoanel e à rede ferroviária. 
  
 O ABC recebeu forte fluxo de imigrantes no fim do séc. XIX e de migrantes ao longo do séc. XX, favorecendo o povoamento da região. É também o berço da indústria automobilística e de multinacionais que se instalaram na região ao longo do último século, com destaque para a década de 1950, quando a industrialização iniciada na capital chegou às regiões próximas (apenas dois dos sete municípios não fazem fronteira com a cidade de São Paulo). 
-
 Representa, ainda, um dos maiores mercados consumidores do país. Se o Grande ABC fosse um município, seria a 4ª maior cidade em Produto Interno Bruto (PIB) do país com R$ 114,8 bilhões de riquezas geradas em 2013 (IBGE/2013). Sob este olhar, ficaria atrás apenas das capitais: São Paulo, Rio de Janeiro e Brasília. No Estado, apenas a capital paulista teria PIB mais elevado que o do conjunto dos sete municípios do ABC Paulista. 
 
 O PIB Industrial é de cerca de R$ 29,7 bilhões, sendo o 2º do Estado (atrás apenas de São Paulo) e o 3º do país (superado apenas pela capital paulista e por Campos dos Goytacazes). O setor industrial ainda representa fatia considerável no desenvolvimento socioeconômico da região. 
- 
-Segundo dados do Observatório Econômico da Universidade Metodista, o Grande ABC conta com mais de 24 mil indústrias distribuídas entre os sete municípios que empregam aproximadamente 26% da população economicamente ativa, proporção superior à cidade de São Paulo (13%). 
+ Segundo dados do Observatório Econômico da Universidade Metodista, o Grande ABC conta com mais de 24 mil indústrias distribuídas entre os sete municípios que empregam aproximadamente 26% da população economicamente ativa, proporção superior à cidade de São Paulo (13%). 
  
 A FATEC Santo André - completou 16 anos de existência com três cursos na área de processos industriais que estruturam a unidade: Eletrônica Automotiva, Mecânica Automobilística e Mecatrônica Industrial. 
-
 Para abrigar os três cursos disponibilizamos um prédio com uma área de 2300 m2,composto de: 1 Secretaria acadêmica, Sala de direção, Sala administrativa, almoxarifado, 8 salas de aulas com capacidade para 40 alunos, laboratórios de Eletrônica, 1 Laboratório de metrologia, 2 laboratórios de informática, 1 Laboratório de usinagem e uma praça técnica automotiva de 200 m2, para ensaios mecânicos veiculares e eletrônica embarcada, além de uma biblioteca compartilhada com a ETEC Júlio de Mesquita com um acervo de 2639 exemplares.  
-
 Hoje, a unidade é atuante na cidade com a participação no Conselho Municipal de Desenvolvimento conômico, convênios e projetos do setor automotivo e de processos industriais. 
  
 APONTAMENTO DE SITUAÇÕES-PROBLEMA MAIS RELEVANTES (“Escuta”) 
-
-- Dificuldade de distinção entre o ensino técnico e o tecnológico 
- 
-- Evasão escolar 
- 
-- Manutenção e construção de novos ambientes acadêmicos e administrativos 
- 
+- Dificuldade de distinção entre o ensino técnico e o tecnológico  
+- Evasão escolar  
+- Manutenção e construção de novos ambientes acadêmicos e administrativos  
 - Vestibular com procura baixa 
-
 - Comunicação Institucional: Melhorar a divulgação dos cursos da unidade 
-
 - PPC’s desatualizados 
 
 DEFINIÇÃO DE OBJETIVOS, METAS E AÇÕES (PROJETOS) 
-
 Objetivos:
-
 1 - Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem. 
-
 2 - Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no desenvolvimento tecnológico e inovação 
-
 3 - Promover a cultura de inovação e empreendedorismo. 
+4 - Aumentar a eficiência, a produtividade e a competitividade da instituição.  
 
-4 - Aumentar a eficiência, a produtividade e a competitividade da instituição. 
- 
 Metas: 
-
 - Ampliar a relação candidato/vaga em um ponto percentual em cada curso. 
  
 - Abertura de um CST de sistemas embarcados 
-
 - Reformulação dos PPCs dos cursos da unidade para aumentar a atratividade e adequar com as demandas do mercado de trabalho 
- 
 - Redução em 10% da evasão na unidade nos primeiros semestres 
