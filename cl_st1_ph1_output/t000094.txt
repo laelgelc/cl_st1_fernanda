@@ -1,61 +1,45 @@
 Section: 1 INTRODUÇÃO
 
 RELATÓRIO ANUAL DE ATIVIDADES - RAA 
-
 F137 - Fatec Zona Sul “Dom Paulo Evaristo Arns” 
 
 Section: 2 DESENVOLVIMENTO
 
 Recursos Humanos:  
- 
 a) A Fatec Zona Sul contratou por concurso quatro novos funcionários e um funcionário de confiança, todos Assistentes Técnico Administrativos, além de redistribuir os funcionários em novos setores de acordo com sua formação específica.
-
 No corpo docente foram contratados novos professores para satisfazer a defasagem no curso de Análise e Desenvolvimento de Sistemas, bem como as licenças e aposentadorias nos cursos de Logística e Gestão Empresarial. Atualmente o corpo docente da FATEC Zona Sul é majoritariamente formado por Mestres e Doutores.  
  
 b) Desenvolvimento de automatização das rotinas administrativas para aumentar a eficiência dos processos. O objetivo foi automatizar as atividades administrativas da FATEC-Zona Sul na diretoria acadêmica e administrativa. Após avaliações dos servidores e docentes no ano de 2023, concluímos que duas ferramentas digitais seriam as mais interessantes. Na Secretaria as solicitações dos alunos são todas realizadas pela internet, ampliando o conceito de Secretaria Digital.  
  
 Cursos Existentes:  
- 
 a) Aumento do grau de pertencimento à FATEC-Zona Sul. Para tanto, ao longo do curso, os alunos são informados frequentemente em reuniões, nas aulas e cartazes, de todos os aspectos de sucesso obtidos na unidade, desde o histórico da sua instalação, o sucesso obtido no ENADE com nota 4  nos cursos de ADS e Gestão Empresarial e nota 3 em Logística, além da solicitação de reconhecimento do curso de Desenvolvimento de Software Multiplataforma (DSM) implantado em 2021, melhoria da qualificação dos docentes através de formações como especialização, mestrado e doutorado. 
-
 A participação dos discentes nos colegiados também são atividades de integração que possibilitam aos alunos integrarem um ambiente de sucesso, o que os leva sentirem-se especiais, orgulhosos, contentes e interessados em pertencer e participar de uma instituição que apresenta continuadamente, ótimas soluções e resultados. 
-
 Durante a pandemia, a FATEC-Zona Sul esteve conectada através das ferramentas TEAMS, redes sociais que permitiu um aumento do grau de envolvimento, pois os trabalhos foram realizados em períodos mais longos e intensos para que a transição do presencial para o remoto ocorresse com êxito. 
   
 b) Aumento do grau de empregabilidade. Nesse aspecto a FATEC-Zona Sul colaborou com relativo sucesso na elevação do grau de empregabilidade, pois a avaliação informal nos permite afirmar que o fato de ser aluno facilitou o ingresso no campo de trabalho. 
-
 Os dados do WEBSAI (2023) indicam aumento na empregabilidade. No ano de 2023, conforme proposto no PDI, tivemos a participação do empresariado em várias atividades na FATEC-Zona Sul, como palestras, aula conjunta com o professor responsável pela disciplina, desenvolvimento do projeto do carro elétrico (E-Kar), processo STEAM de ensino-aprendizagem, e parcerias com empresas (SAP, IBM, BRQ Digital, GFT, Totvs; Elektra; HDLL, RoutEasy). Pretendemos, com a continuidade das atividades expostas acima, não excluindo as condições econômicas do país, obtermos uma ampliação no número de alunos com atividades de trabalho remunerado.  
  
 c) Nota no ENADE. Os coordenadores de curso listaram todas as questões das provas do ENADE com referência ao seu respectivo curso. Estas listas foram divulgadas aos docentes que incluíram no conteúdo programático das disciplinas, os conceitos, teorias e práticas que permitem os alunos responderem acertadamente as referidas questões. 
-
 Além disso, ao longo dos semestres são abordados questões e conceitos durante as avaliações e trabalhos das disciplinas envolvidas, bem como apresentados minicursos e exames simulados com questões de nível de complexidade semelhantes as utilizadas no ENADE.  
  
 d) Criação de um sistema de apoio para recuperação dos alunos com dificuldades de aprendizagem em disciplinas específicas. Verificou-se que as disciplinas nas quais os alunos indicam maiores dificuldades são as das matemáticas e línguas estrangeiras. 
-
 Como solução para esse problema oferecemos em 2023, aulas de recuperação das disciplinas de Matemática, Matemática financeira, Matemática Discreta, Estatística e Inglês, num total de 20 horas de aulas e outras atividades extraclasse ao longo do semestre através da ferramenta TEAMS e MOODLE. Esse processo de recuperação diminuiu a evasão e aumentou o percentual de formandos em 2023. 
  
 e) Analisar a situação atual da evasão de alunos nos cursos oferecidos nos períodos manhã e tarde. Entendemos neste trabalho que a evasão escolar pode ser vista por dois âmbitos. Numa, a preocupação centra-se em fatores externos à escola, e a outra se fundamenta a fatores internos da FATEC-Zona Sul. 
-
 Nos fatores externos da evasão enumeramos a importância do trabalho e ou atividade remunerada para os alunos, os aspectos gerados pelas diferenças sociais a condição econômica familiar, erro na escolha do curso, minimização das expectativas em relação às teorias e práticas estudadas e defasagem escolar por falta de pré-requisitos de conhecimentos. 
-
 Já os fatores internos centram-se nos aspectos inter-relacionados com a FATEC-Zona Sul e sua infraestrutura, professorado, alunado, adequação do processo de ensino-aprendizagem, baixo aproveitamento, metodologia de ensino, currículos dos cursos, Interrelação dos alunos com o corpo docente. 
-
 No momento da pandemia, com o recurso remoto notou-se uma diminuição pela busca de mudança de horário, devido a Flexibilização do corpo docente em disponibilizar as aulas gravadas.  
  
 f) Auxiliar e incentivar o aluno, por meio de trabalho conjunto dos professores das disciplinas dos 5º e 6º Semestres e do orientador, no sentido da eliminação de dificuldades específicas para elaboração do Trabalho de Conclusão de Curso. 
-
 Além do professor orientador, o grupo de professores das disciplinas tecnológicas do curso ficam à disposição dos alunos para dirimir dúvidas específicas na elaboração do trabalho de graduação nas equipes do TEAMS, que facilitou a comunicação neste momento de trabalhos remotos/híbridos.  
  
 g) Adoção de procedimento padrão para encaminhamento, pelos professores, a lista dos alunos que se ausentarem duas semanas seguidas ao responsável pela gestão de evasão. 
-
 Desde o início de 2023, todos os docentes são lembrados de anotar e informar por escrito aos coordenadores e ao professor responsável pela gestão de evasão, o nome dos alunos que faltarem a duas aulas consecutivas. O objetivo dessa ação é procurar reduzir a evasão.  
 
 h) Adotar procedimento padrão para encaminhamento pelos professores dos alunos que se apresentarem dispersos, nas aulas, ao responsável pela gestão de evasão e ao coordenador. Desde o início de 2023 todos os docentes são lembrados de anotar e informar, por escrito aos coordenadores e ao professor responsável pela gestão da evasão, o nome dos alunos que se Apresentarem continuadamente dispersos nas aulas. 
-
 O objetivo dessa ação é a redução da evasão e a reprovação de alunos. No momento da pandemia os professores foram orientados a mapear estes alunos e encaminhar as coordenações que entraram em contato para analisar e auxiliar nas dificuldades encontradas, assim com o atendimento personalizado na tentativa de dirimir a evasão.  
  
 i) Implementar parcerias com empresas da região pelo departamento de Estágios. A FATEC-Zona Sul tem feito parcerias com empresas nas quais já temos alunos contratados como estagiários e outras para ampliar as oportunidades de trabalho aos alunos. 
-
 Destacamos que os eventos das “Jornada de soluções” que ocorrem semestralmente também colaboram para a efetivação das parcerias. As empresas parcerias são: BRQ, GFT, SAP, IBM, Totvs; Elektra; HDLL, RoutEasy, AWS, BRQ, Coca-Cola, Deloitte, Everis, LinkedIn, Microsoft, Oracle, SalesForce, Tigre, Cognizant, IAPMESP, CAPRICHADO e empresários da região. 
 
 j) Exponenciar a divulgação da FATEC-Zona Sul nos bairros cujos ônibus trafegam na avenida onde a unidade está instalada. Ao longo do ano de 2023 foi desenvolvido o projeto de divulgação junto a regional, com o FATEC DAY, em que foram realizadas palestras de diferentes profissionais para alunos das ETEC´s e escolas do entorno regional. A FATEC-Zona Sul em parceria com as ETEC´s da região sul envolve os alunos nas Semanas de Tecnologias que ocorrem no mês de Março e Novembro.  
@@ -67,7 +51,6 @@ l) Exponenciar trabalhos conjuntos com as ETECs da região no sentido da amplia�
 m) Aumento do percentual de formandos de 55% para 60% durante o ano de 2023 a devida a implantação de práticas pedagógicas voltadas ao acompanhamento individual dos alunos, gestão de evasão e recuperação contínua e paralela.  
  
 Cursos de Pós-Graduação e Extensão:  
- 
 a) A unidade não possui cursos de pós-graduação lato ou strictu sensu, mas a congregação aprovou estudos para implantação de cursos nas áreas de Gestão, Logística e Informática. Os Projetos Pedagógicos dos Cursos serão elaborados por uma comissão interna de professores e enviados à CESU com as respectivas propostas para abertura dos referidos cursos na unidade ao longo de 2023 e 2024.  
 
 b) Reclassificação da Revista da FATEC- Zona Sul, REFAS”. Em atenção ao proposto no PDI, esse item foi alcançado com sucesso. A revista foi reclassificada de Qualis B3 para Qualis B2 em 2019. Diante do resultado já alcançado, ampliamos a nossa pretensão de atender as exigências da Capes no sentido de alcançar a classificação Qualis B1, no decorrer restante da vigência do PDI (2022 – 2026).  
@@ -75,7 +58,6 @@ b) Reclassificação da Revista da FATEC- Zona Sul, REFAS”. Em atenção ao pr
 c) Atividades adicionais de extensão: Semanas de Tecnologia, Hackatech, o evento Maria Tecnólogas e a Semana Global do Empreendedorismo são realizadas semestralmente e oferecidos a todos os membros da comunidade acadêmica.  
  
 Cursos Novos:  
- 
 Não houve implantação de novos cursos durante o ano de 2023, mas a congregação aprovou estudos para abertura de dois novos cursos superiores de tecnologia na Unidade, são os cursos de Marketing no período noturno e o de Comércio Exterior no turno da manhã, ambos atendem às necessidades do mercado de trabalho da região, além disso, a congregação votou pela mudança do turno do curso de Gestão Empresarial da noite para tarde. Deste maneira, a unidade vai chegar ao oferecimento de 7 (sete) cursos superiores de tecnologia, caso a CESU aprove a criação dos cursos de Marketing e Comércio Exterior ao longo de 2024. 
 
 A implantação do curso de graduação em Tecnologia em Marketing pretende garantir a seus egressos uma formação que lhes permita ter conhecimento sobre múltiplas formas em que podem se estruturar os mais variados tipos de organizações, tendo em vista que as atividades de gestão estão direcionadas à oferta do apoio administrativo e logístico a todas as atividades de marketing, qualquer que seja o setor econômico no que elas se desenvolvam. 
@@ -83,17 +65,13 @@ A implantação do curso de graduação em Tecnologia em Marketing pretende gara
 O objetivo do Curso Superior de Tecnologia em Comércio exterior é formar profissionais com visão empreendedora, ética e promotora de novos conhecimentos na área de negócios e comércio internacionais. Específicos Preparar profissionais aptos a: elaborar planos de exportação; analisar mercado internacional de produtos e serviços; expressar-se em língua estrangeira; realizar os processos para importação e exportação de produtos e serviços; processar operações de importação e orientar o desembaraço aduaneiro.  
 
 Bens e Serviços: 
-  
 Conforme solicitado no PDI 2019-2023, a FATEC-Zona Sul recebeu os equipamentos solicitados, além de novos computadores, impressoras e equipamentos como televisores, computadores de mesa, notebooks e periféricos para melhoria dos serviços prestados à comunidade acadêmica. 
 
 Em 2023 foram realizados os seguintes serviços em continuidade a 2022: limpeza e organização de todos os ambientes tilizados como depósitos na unidade, manutenção de todas as fechaduras da unidade, pintura interna do prédio administrativos, aquisição de novos bebedouros para alunos e professores, reformas total dos banheiros, troca das caixa d’água, criação de uma nova sala para direção geral e serviços, nova sala dos professores ampliada de 20m2 para 60m2, alojamento para professores visitantes, criação de sala de descanso para os professores, novo espaço de coworking para os professores, novo almoxarifado, manutenção e reorganização do CPD da Unidade, instalação de fechadura eletrônica no acesso ao corredor da sala dos professores, pintura de todas as portas de madeiras da faculdade, manutenção preventiva e corretiva nas caixas d’água da faculdade.  
  
 Biblioteca: 
-  
 a) Acervo geral: (a) livros: 2688 livros e 10347 exemplares, (b) periódicos: 462 títulos e 1962 exemplares, (c) trabalhos de conclusão de curso: 1258 títulos e exemplares, (d) dissertações/teses: 7 títulos e exemplares.  
-
 b) Infraestrutura: cadeiras de plástico foram trocadas por estofadas, a biblioteca recebeu desktops mais avançados para uso dos alunos, foram instaladas novas mesas na sala de estudo e fixada um televisor de 65” na biblioteca para uso dos alunos nas capacitações que ocorrem no local.  
-
 c) Recursos humanos: foram alocadas duas funcionárias na biblioteca para melhor cobertura de atendimento ao público da comunidade acadêmica local.  
  
 A FATEC Zona Sul foi oficialmente inaugurada em 2006 (Decreto nº 50.579 de 2-3-2006) em um campus de 31.096,67 m2, na região do subdistrito do Jardim São  Luís, tendo como foco de atuação os cursos tecnológicos, e por meio deles um ensino e aprendizagem que impactem na melhoria das condições sociais e econômicas das pessoas que escolheram a formação profissional de Tecnólogo, atendendo assim à constante demanda do mercado de trabalho gerado pelas empresas de todos os portes e segmentos da região sul da capital da cidade de São Paulo.
@@ -119,53 +97,30 @@ Quanto ao que diz respeito a ameaças, o bairro em que está a FATEC tem grande 
 • Discorrer sobre o cenário, realizando um breve diagnóstico (limitar o espaço da escrita, para que seja inserido de forma suscinta). 
 
 APONTAMENTO DE SITUAÇÕES-PROBLEMA MAIS RELEVANTES (“Escuta”) 
-
 1 Baixa demanda nos cursos da tarde. 
-
 2 Evasão acima de 20%.  
-
 3 Infraestrutura do campus. 
-
 4 Infraestrutura dos laboratórios. 
-
 5 Atendimento à comunidade externa. 
-
 6 Velocidade da internet no campus. 
-
 7 Parcerias para estágios. 
- 
 8 Parcerias com empresas para capacitações. 
  
 DEFINIÇÃO DE OBJETIVOS, METAS E AÇÕES (PROJETOS) 
-
 Objetivos 
-
 Os objetivos devem estar relacionados com melhoria ou ação, sobre itens do PDI. 
-
 1 Atender às demandas sociais e do mercado de trabalho. 
-
 2 Obter a satisfação dos públicos que se relacionam com o Centro Paula Souza (stakeholders). 
-
 3 Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no desenvolvimento tecnológico e inovação. 
-
 4 Aumentar a eficiência, a produtividade e a competitividade da instituição. 
-
 5 Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem. 
 
 Metas:
-
 - 1 Aumentar em 20% a demanda dos curso da tarde. 
-
 - Digitalizar 100% dos serviços que secretaria oferece à comunidade acadêmica. 
-
 - 2 Diminuir em 20% a evasão dos cursos da FATEC Zona Sul. 
- 
 - Aumentar de 100 megas para 1 giga a banda larga de internet disponível na FATEC Zona Sul. 
-
 - Realizar manutenção corretiva, preventiva e preditiva em 100% da área intramuros do campus. 
-
 - Estudo para implantação dos Cursos Superiores de Tecnologia de Marketing e Comércio Exterior. 
-
 - Realizar manutenção corretiva, preventiva e preditiva em 100% dos laboratórios. 
- 
 - Conseguir parceria com pelo menos 5 empresas líderes de mercado que possam ministrar cursos de formação e capacitação à comunidade interna da FATEC Zona Sul. 
