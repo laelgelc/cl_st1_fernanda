@@ -1,7 +1,6 @@
 Section: 1 INTRODUÇÃO
   
 RELATÓRIO ANUAL DE ATIVIDADES - RAA 
-
 Rememoro, uma vez mais, antes de iniciar o RAA 2024, que ao assumir a Direção Geral da Fatec Cotia, em janeiro de 2021, havia a necessidade de reestruturar significativamente espaços, atividades administrativas etc. Assim, em 2023, deu-se a continuidade a esse processo de mudanças organizacionais, assim como de expansão de projetos, parcerias e cursos. Além da reestruturação organizacional, fez-se necessário, seja pela demanda do próprio CPS, ou do MEC, iniciou-se uma revisão significativa nas grades dos cursos de Gestão da Produção Industrial, Gestão Empresarial e Ciência de Dados. 
 
 A autorização de abertura dos Cursos de Comércio Exterior e Design de Produtos permitiu a expansão da atuação da Fatec Cotia; atualmente, temos 6 cursos. Nesse processo de expansão, houve uma revisão dos espaços para atender as necessidades didático-pedagógicas previstas nos Planos de Curso. A revisão também se fez necessária na medida em que não houve a possibilidade, em função de orçamento, de requisitar os equipamentos para Laboratórios previstos no PGA. 
@@ -49,81 +48,44 @@ A Fatec Cotia é a única faculdade pública do município, com grande potencial
 Ante o cenário mundial recente e o impacto na procura pelo ensino superior, os cursos superiores de tecnologia surgem como uma opção bastante importante. A característica desta formação específica, ágil e que pode atender às constantes mudanças verificadas no mundo do trabalho em todos os setores, confere a estes cursos uma grande atratividade com grande potencial nas diversas regiões que compõem o país. 
 
 APONTAMENTO DE SITUAÇÕES-PROBLEMA MAIS RELEVANTES (“Escuta”) 
-
-1 Expansão e Criação de Cursos Superiores de Tecnologia  
- 
-2 Biblioteca e ações para o desenvolvimento de estudos 
- 
-3 Infraestrutura: expansão, manutenção e reformas do espaço físico; defasagem de computadores, roteadores e rede de internet. 
- 
-4 Sustentabilidade e atendimento aos ODS da ONU  
- 
-5 Baixa Interlocução com a Comunidade Interna e Externa; 
- 
+1 Expansão e Criação de Cursos Superiores de Tecnologia   
+2 Biblioteca e ações para o desenvolvimento de estudos  
+3 Infraestrutura: expansão, manutenção e reformas do espaço físico; defasagem de computadores, roteadores e rede de internet.  
+4 Sustentabilidade e atendimento aos ODS da ONU   
+5 Baixa Interlocução com a Comunidade Interna e Externa;  
 6 Evasão Escolar 
-
-7 Memória institucional e local 
- 
+7 Memória institucional e local  
 8 Aproximação das empresas e  esferas locais 
-
-9 Capacitação funcionários, discentes e docentes 
- 
+9 Capacitação funcionários, discentes e docentes  
 10 Baixo engajamento dos alunos em atividades acadêmicas 
  
 DEFINIÇÃO DE OBJETIVOS, METAS E AÇÕES (PROJETOS) 
-
 Objetivos 
-
 1 Atender às demandas sociais e do mercado de trabalho  
-
 2 Ampliar os projetos de pesquisa e iniciação científica 
-
 3 Ampliar a capacidade de criar e atualizar cursos de educação profissional em parceria com o mercado  
-
 4 Alcançar e manter o grau de excelência nos processos de ensino e aprendizagem 
-
 5 Inovar processos de ensino e aprendizagem para a formação de profissionais atualizados em tecnologias e processos produtivos, capazes de atuar com excelência no desenvolvimento tecnológico e inovação 
-
 6 Expandir a capacidade de articulação com Governos e setores produtivos 
-
 7 Estimular a produção cultural, o empreendedorismo, o pensamento reflexivo e o desenvolvimento científico e tecnológico 
-
 8 Propiciar a atualização e capacitação dos docentes, discentes e funcionários administrativos 
-
 9 Desenvolver programas e projetos educacionais para estimular intercâmbios e a aprendizagem global 
-
 10 Implantar e implementar a comunicação organizacional a fim de promover a transparência de gestão, de divulgar as atividades institucionais e propiciar uma nova cultura organizacional 
  
 Metas 
-
 1 Ampliar em mais 3 o número de cursos superiores tecnológicos, em 05 de aperfeiçoamento discentes.   
-
 2 Promover 4 ações pedagógicas que propiciem a redução da taxa de evasão em 5% com base nos indicadores de 2022 e incentivar a elaboração de projetos. 
-
 3 Expandir a infraestrutura institucional: 5 laboratórios (4 de informática e 1 de metrologia), com equipamentos, rede elétrica e dados e adequar a sala maker e os laboratórios atuais, em quantidade de computadores, rede elétrica e dados. 
-
 4 Desenvolver pelo menos 2 projetos educacionais e 3 de pesquisa para estimular intercâmbios, a produção cultural, o desenvolvimento científico e tecnológico, assim como a inovação de processos de aprendizagem. 
-
 5 Implementar uma rede de internet com capacidade de 10 Gb, para atender às demandas de conectividade da unidade de ensino. 
-  
 6 Promover 4 atividades – mostras, sessões individuais – utilizando o cinema. 
-
-7 Ampliar as visitas a empresas – 10 – e escolas de ensino médio – 15 – da região e estabelecer convênios com mais 4 empresas. 
-  
+7 Ampliar as visitas a empresas – 10 – e escolas de ensino médio – 15 – da região e estabelecer convênios com mais 4 empresas.   
 8 Ampliar as atividades e parcerias com mais 3 Secretarias Municipais: Educação, Turismo, Cultura, assim como com mais 4 empresas. 
-
-9 Realizar 2 projetos de capacitação, integração e formação dos funcionários administrativos e docentes. 
-  
+9 Realizar 2 projetos de capacitação, integração e formação dos funcionários administrativos e docentes.   
 10 Implementar 1 Repositório de Trabalhos de Projetos Integradores e de TCC. 
-
-11 Alcançar a efetivação de 20% dos alunos em curso em estágios promovidos e tratados pela unidade. 
-  
+11 Alcançar a efetivação de 20% dos alunos em curso em estágios promovidos e tratados pela unidade.   
 12 Realizar 1 Hackaton para os Cursos de DSM E CD. 
-
-13 Implementar 1 Núcleo de Marketing e Comunicação. 
-  
+13 Implementar 1 Núcleo de Marketing e Comunicação.   
 14 Implementar 1 ambiente de meta verso na Fatec de Cotia  
-
-15 Desenvolver projetos de iniciação científica envolvendo ao menos 2 alunos bolsistas na modalidade MIDTI a cada semestre. 
- 
+15 Desenvolver projetos de iniciação científica envolvendo ao menos 2 alunos bolsistas na modalidade MIDTI a cada semestre.  
 16 Organizar o IV Encontro de Ciência de Dados, reunindo as Fatecs Adamantina, Baixada Santista, Cotia, Ourinhos e Santana de Parnaíba 
