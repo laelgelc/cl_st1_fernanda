@@ -1,7 +1,6 @@
 Section: 1 ANÁLISE DO CENÁRIO 
 
 PLANO DE GESTÃO ANUAL – PGA 2024 
-
 Em 2023, a Fatec São Caetano do Sul – Antonio Russo conta com 4 Cursos Superiores Tecnológicos: Análise e Desenvolvimento de Sistemas, Comércio Exterior, Jogos Digitais e Segurança da Informação. A unidade oferece, também, o CST em Gestão Empresarial na modalidade EaD e Programa AMS em Análise e Desenvolvimento de Sistemas. 
 
 Além disso, possui 33 turmas com aproximadamente 1500 alunos. Muitos alunos já fazem estágio em empresas da região, contraíram nos cursos conhecimentos teóricos que faltavam para complementar o desenvolvimento nas suas carreiras. Com 15 anos de implantação, a Fatec São Caetano do Sul – Antonio Russo já conta com vários projetos e eventos importantes para os públicos interno (docentes, discentes e colaboradores) e externos (comunidade, prefeitura, empresas, indústrias e outras instituições). 
@@ -10,553 +9,321 @@ Um dos principais eventos é a Fatecnologia, que ocorre anualmente, no 1º semes
 
 Além disso, no 2º semestre há os eventos focados diretamente nos cursos superiores de tecnologia, também com palestras, workshops. A unidade também participa ativamente do Projetos de Colaboração Internacional (COIL) em parceria com a Finlândia, Estados Unidos, Holanda, dentre outros. A Fasci-Tech é a revista científica eletrônica da unidade e possui Qualis B4 Os projetos e eventos institucionais, bem como as ações planejadas e praticadas pelos professores, alunos e administrativos são alinhados na missão e visão do Centro Paula Souza. Para isso, o trabalho de divulgação desses propósitos é intensamente reforçado: 
 
-Missão: “Promover a educação pública profissional e tecnológica dentro de referenciais de excelência, visando o desenvolvimento tecnológico, econômico e social do Estado de São Paulo.  
-
-Visão: “Consolidar-se como referência nacional na formação e capacitação profissional, bem como na gestão educacional, estimulando a produtividade e competitividade da economia paulista”. 
+Missão: “Promover a educação pública profissional e tecnológica dentro de referenciais de excelência, visando o desenvolvimento tecnológico, econômico e social do Estado de São Paulo.  Visão: “Consolidar-se como referência nacional na formação e capacitação profissional, bem como na gestão educacional, estimulando a produtividade e competitividade da economia paulista”. 
 
 Conduzir nossas ações em consonância as metas do CPS, alinhado à missão e visão da unidade e em trabalho conjunto é crucial para o alcance dos objetivos institucionais e são as conquistas que incentivam a Fatec São Caetano do Sul – Antonio Russo perseguir novos caminhos, motivando a busca pelo aperfeiçoamento contínuo da todos os campos pedagógicos, administrativos e colaborativos que envolvem a Unidade. 
  
 APONTAMENTO DE SITUAÇÕES-PROBLEMA MAIS RELEVANTES 
-
-1 Metodologia de ensino, desempenho de alunos, evasão 
- 
+1 Metodologia de ensino, desempenho de alunos, evasão  
 2 Materiais, equipamentos e mobiliários 
-
-3 Manutenção e conservação predial 
- 
+3 Manutenção e conservação predial  
 4 Participação da comunidade e sociedade 
-
-5 Infraestrutura predial (espaços, sistemas) 
- 
-6 Acesso/Inclusão ao Ensino Superior (social, PCD) 
- 
-8 Infraestrutura laboratorial e ambientes de ensino 
- 
+5 Infraestrutura predial (espaços, sistemas)  
+6 Acesso/Inclusão ao Ensino Superior (social, PCD)  
+8 Infraestrutura laboratorial e ambientes de ensino  
 9 Gestão da unidade de ensino e dos cursos (indicadores) 
  
 Objetivos Institucionais – CPS (Plano de Metas) 
-
 1) Atender às demandas sociais e do mercado de trabalho. 
-
 2) Obter a satisfação dos públicos que se relacionam com o Centro Paula Souza (stakeholders). 
-
 3) Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem. 
-
 4) Assegurar a perenidade do crescimento da instituição com recursos financeiros disponíveis. 
-
 5) Garantir celeridade e efetividade na prestação de serviços. 
-
 6) Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no desenvolvimento tecnológico e inovação. 
-
-7) Promover a cultura de inovação e empreendedorismo. 
-
 8) Aumentar a eficiência, a produtividade e a competitividade da instituição. 
-
 9) Ampliar a oferta da Educação Profissional. 
-
 10) Resolução Conjunta SOG/SFP/SG-3, de 28-12-2022 - Bonificação por Resultados – BR das Secretarias de Estado, Procuradoria Geral do Estado, Controladoria Geral do Estado e das Autarquias, de que trata a LC 1361-2021 
 
 Objetivos Institucionais – Cesu (Plano de Metas) 
-
 A. Integrar as diferentes modalidades de ensino, otimizando itinerários e tempo para a formação profissional. 
-
 B. Inovar processos de ensino e aprendizagem para manter excelência diante do mercado. 
-
 C. Ampliar a capacidade de criar e atualizar cursos em parceria com o mercado. 
-
 D. Expandir e ampliar a capacidade de articulação com Governos e Setores Produtivos. 
-
 E. Promover a captação de recursos extras e não orçamentários. 
 
 Ações pedagógicas: visitas técnicas, projetos integradores/interdisciplinares, dias de campo, feira das profissões, cursos extracurriculares para alunos. 
-
 O que será feito: 
-
 01- Inglês para  a comunidade 
-
 02- Legendagem 
-
 03- Conversação para grupos avançados 
-
 04- Laboratório de línguas para alunos regulares da fatec. 
-
 05- Preparatório para testes de proficiência 
-
 Por que será feito: 
 01- Diminuir a evasão discente 
-
 02- Manutenção dos alunos regulares nos cursos 
-
 03- Engajamento da comunidade dentro da Fatec (o inglês como ferramenta para auxiliar a comunidade na busca por melhores vagas de emprego, no mercado de trabalho, e participação ativa da comunidade em assuntos de relevância intelectual, cultural, etc.) 
-
 04- Investimento na melhora do uso de língua estrangeira pelo aluno, que está em busca de bons empregos, em um mercado, que exige a língua estrangeira no processo de seleção e contratação do futuro profissional da área de TI. 
-
 Situação problema: 
-
 Metodologia de ensino, desempenho de alunos, evasão (a ser resolvida/mitigada) 
-
 Participação da comunidade e sociedade 
 
 Monitoria em disciplina do curso 
-
 O que será feito: 
-
 1) Atendimento de Dúvidas - Imposto de Renda Atendimento para Comunidade Interna e Externa 
-
 2) Disponibilizar/Ministrar Palestra – Imposto de Renda 
-
 3) Disponibilizar/Ministrar Palestra Finanças Pessoais e Economia Doméstica 
-
 4) Organização de evento de Software Livre 
-
 Por que será feito: Para apoiar a comunidade interna e externa relacionadas a dúvidas sobre imposto IR, atenção as suas finanças pessoais e divulgar Software Livre. 
-
 Situação problema: 
-
- Metodologia de ensino, desempenho de alunos, evasão (a ser resolvida/mitigada) 
-
+Metodologia de ensino, desempenho de alunos, evasão (a ser resolvida/mitigada) 
 Participação da comunidade e sociedade 
 
 Ações de nivelamento de conhecimento, ENADE, acolhimento e permanência discente. 
-
 O que será feito: Resgatar, aprofundar e solidificar os conhecimentos em matemática básica. Por que será feito: Melhorar o aproveitamento dos estudantes nas disciplinas de graduação. 
-
 Situação problema: 
-
 Metodologia de ensino, desempenho de alunos, evasão (a ser resolvida/mitigada) 
 
 Ações pedagógicas: visitas técnicas, projetos integradores/interdisciplinares, dias de campo, feira das profissões, cursos extracurriculares para alunos. 
-
 O que será feito: Localização de parceiros que desenvolvem atividades afins para dar suporte técnico ao evento. Por que será feito: Este evento é tradicional nas instituições que possuem o curso de Segurança da Informação. 
 
 Adequação/reestruturação de PPC, implantação de novos cursos. 
-
 O que será feito: Estruturação de proposta para a atualização do Projeto Pedagógico do curso superior em tecnologia de segurança da informação, revendo as disciplinas e os conteúdos, bem como a sequência das mesmas. 
-
 Por que será feito: A área de TI e especificamente a área de Segurança da Informação tiveram grandes mudanças e avanços nos últimos anos. Temos como BigData, Cloud Computing, IoT e Business Intelligence fazem parte deste mundo, e nem tudo é contemplado no curso de forma explícita. 
-
 Situação problema: 
-
 Metodologia de ensino, desempenho de alunos, evasão (a ser resolvida/mitigada) 
 
 Eventos e publicações acadêmicos e científicos 
-
 O que será feito: Preparação de um evento com palestras e demonstrações práticas das ações e ferramentas ligadas à Segurança Cibernética 
-
 Por que será feito: Nossos estudantes devem ser apresentados ao mercado formal da área de Segurança Cibernética por meio de eventos que trazem profissionais e empresas da área, desenvolvendo um contato próximo a eles. 
-
 Situação problema: 
-
 Metodologia de ensino, desempenho de alunos, evasão (a ser resolvida/mitigada) 
 
 Comunicação com a comunidade acadêmica 
- 
 O que será feito: Estudo para aquisição de assinaturas do Siscomex, treinamento docente e discente para conhecimento da ferramenta, e uso do software em disciplinas profissionalizantes do curso. Por que será feito: Para impulsionamento de atividades práticas no curso de Comércio Exterior, através do uso de simulador do Siscomex em disciplinas profissionalizantes do curso. 
-
 Situação problema: 
-
 Infraestrutura laboratorial e ambientes de ensino (a ser resolvida/mitigada) 
 
 Eventos e publicações acadêmicos e científicos 
-
 O que será feito: Prospecção de convidados para ministrar palestras e oficinas durante o evento, preparação do cronograma de atividades, divulgação do evento junto ao público interno e externo, organização do evento e aplicação de pesquisa de satisfação após o evento. 
-
 Por que será feito: Para aproximação da academia, representada por alunos e professores, ao mercado de atuação em comércio exterior, representado pelos profissionais convidados para proferir palestras e oficinas no evento. 
-
 Situação problema: 
-
 Metodologia de ensino, desempenho de alunos, evasão (a ser resolvida/mitigada) 
-
 Comunicação com a comunidade acadêmica 
 
 Monitoria em disciplina do curso 
-
 O que será feito: Desenvolvimento de atividades junto aos alunos em Estágio Voluntariado na Unidade 
-
 Por que será feito: O desenvolvimento de atividades colabora com ações de extensão, aumenta o interesse dos alunos e colabora com habilidades e competências na formação do aluno 
-
 Situação problema: 
-
 Metodologia de ensino, desempenho de alunos, evasão (a ser resolvida/mitigada) 
 
 Divulgação do vestibular e ações de fortalecimento de imagem institucional 
-
 O que será feito: Artes e vídeos para auxiliar na divulgação de vestibular para os cursos da Fatec São Caetano do Sul. Por que será feito: Para auxiliar a faculdade na captação de novos alunos 
 
 Orientação profissional para discentes, mentoria e apoio psicopedagógico 
-
 O que será feito: Serão realizados atendimentos individualizados aos alunos dos cursos presenciais da unidade São Caetano do Sul, mediante ao agendamento prévio. Por que será feito: Para acolhimento às questões psicológicas e também a dificuldade de aprendizagem. 
-
 Situação problema: 
+Acesso/Inclusão ao Ensino Superior (social, PCD) (a ser resolvida/mitigada)  
 
-Acesso/Inclusão ao Ensino Superior (social, PCD) (a ser resolvida/mitigada) 
- 
 Divulgação do vestibular e ações de fortalecimento de imagem institucional 
-
 O que será feito: Adaptação do site da Unidade ao modelo definido pela AssCom. Por que será feito: Trazer uma identidade visual atualizada ao site por meio do alinhamento à identidade visual definida pela AssCom. 
-
 Situação problema: 
-
 Comunicação com a comunidade acadêmica (a ser resolvida/mitigada) 
 
 Eventos e publicações acadêmicos e científicos 
-
 O que será feito: Organizar o evento anual do CST em Jogos Digitais. Por que será feito: Oferecer aos alunos e ao público externo uma oportunidade de atualização em temas ligados ao desenvolvimento de jogos. Contribuir para o aumento da visibilidade do Curso e da Unidade. 
-
 Situação problema: 
-
 Comunicação com a comunidade acadêmica (a ser resolvida/mitigada) 
 
 Participação da comunidade e sociedade 
-
 Eventos e publicações acadêmicos e científicos 
-
 O que será feito: Inscrição da Fatec São Caetano do Sul como sede da Global Game Jam 2025 e organização da sede visando a realização do evento. 
-
 Por que será feito: Organizar a sede da Global Game Jam 2025 @ Fatec São Caetano do Sul, oferecendo aos alunos e ao público externo a oportunidade de participar dessa que é a maior game jam do mundo na sede da Fatec São Caetano do Sul, que realiza o evento ininterruptamente desde 2011. Contribuir para o aumento da visibilidade do Curso e da Unidade. 
-
 Situação problema: 
-
 Comunicação com a comunidade acadêmica (a ser resolvida/mitigada) 
-
 Participação da comunidade e sociedade 
-
-Situação problema: 
-
-Comunicação com a comunidade acadêmica (a ser resolvida/mitigada) 
 
 Ações pedagógicas: visitas técnicas, projetos integradores/interdisciplinares, dias de campo, feira das profissões, cursos extracurriculares para alunos. 
-
 O que será feito: 
-
 1) Abertura de edital para estagiários – publicação do edital 
-
 2) Seleção e reunião com estagiários  
-
 3) Elaboração de cronograma – material de divulgação e datas das postagens. 
-
 4) Coordenação do projeto 
-
 Por que será feito: Para fornecer conteúdos atualizados sobre eventos, testes internacionais, bolsas de estudo, oportunidades de trabalho no exterior, notícias; assim como divulgar o vestibular da Fatec São Caetano do Sul 
-
 Situação problema: 
-
 Comunicação com a comunidade acadêmica (a ser resolvida/mitigada) 
-
 Participação da comunidade e sociedade 
 
 Monitoria em disciplina do curso 
-
 O que será feito: Desenvolvimento de atividades junto aos alunos em Estágio Voluntariado na Unidade 
-
 Por que será feito: O desenvolvimento de atividades colabora com ações de extensão, aumenta o interesse dos alunos e colabora com habilidades e competências na formação do aluno 
-
 Situação problema: 
-
 Metodologia de ensino, desempenho de alunos, evasão (a ser resolvida/mitigada) 
 
 Curso de Extensão 
-
 O que será feito: 1) Disponibilizar/Ministrar Palestras na área de Educação Financeira Por que será feito: Para apoiar a comunidade interna e externa relacionadas a área de educação financeira; 
-
 Situação problema: 
-
 Comunicação com a comunidade acadêmica (a ser resolvida/mitigada) 
-
 Participação da comunidade e sociedade 
 
 Eventos e publicações acadêmicos e científicos 
-
 O que será feito: 
-
 1) 1 Atendimento de Dúvidas - Imposto de Renda Atendimento para Comunidade Interna e Externa (Primeiro semestre de 2024) 
-
 2) Disponibilizar/Ministrar Palestra – Imposto de Renda (primeiro semestre de 2024) 
-
 3) Disponibilizar/Ministrar Palestra Educação Financeira 
-
 Por que será feito: Para apoiar a comunidade interna e externa relacionadas a dúvidas sobre imposto IR primeiro semestre de 2024 e ministrar palestras para o público externo e interno relacionadas a educação financeira; 
-
 Situação problema: 
-
 Participação da comunidade e sociedade (a ser resolvida/mitigada) 
 
 Ações de nivelamento de conhecimento, ENADE, acolhimento e permanência discente. 
-
 O que será feito: Para o primeiro semestre é proposto trabalhar tema transversal vinculando relações étnico-raciais e direitos humanos a partir de quatro atividades de até três horas em dois ou três turnos, de modo a abranger todas as turmas de Comércio Exterior, ADS AMS e ADS: 
-
 1) 1º encontro – apresentação aos discentes de tema transversal escolhido mediante exposição docente seguida de discussão; 
-
 a. a apresentação será feita no auditório, com todas as turmas do respectivo turno (são três turnos), no auditório; 
-
 b. a apresentação será respaldada com a legislação em vigor e discussão por autores clássicos brasileiros ou internacionais; 
-
 c. ao término da apresentação haverá uma sessão de discussão com vistas a colher recepção do tema pelos discentes e fomentar o 2º encontro. 
-
 2) 2º encontro – apresentação aos discentes com vistas ao aprofundamento do tema transversal escolhido; 
-
 a. a apresentação será feita no auditório, para todas as turmas do respectivo turno (são três turnos), e partirá dos resultados da experiência do primeiro encontro, verticalizando o entendimento do tema; 
-
 b. como forma alternativa, o encontro poderá ser animado por entrevista formal a pessoas ligadas ao tema, apresentação e discussão de filme sobre a temática ou outra abordagem que se considere apropriada; 
-
 c. ao término do encontro haverá sessão de discussão aberta aos discentes. 
-
 3) Simulado ENADE – Formação Geral – elaboração de prova simulada com duas questões objetivas de provas anteriores do ENADE sobre o tema desenvolvido 
-
 a. A prova será impressa e obrigatória a todos os estudantes do curso e poderá ser realizada pelo professor do projeto ou coordenação de curso; 
-
 b. A coordenação e o NDE do curso decidirão sobre a pertinência de uso da nota aferida; 
-
 c. Será feita a correção das questões pelo professor do projeto com entrega da listagem à coordenação e colegiado do curso. 
-
 4) Resolução do simulado e balanço da atividade – o encontro promoverá a resolução das questões do simulado com comentários do professor. Ao término da sessão os estudantes serão convidados a opinar sobre a experiência e a indicar temas relevantes e de interesse para o próximo ano. 
- 
 Para o segundo semestre é proposto trabalhar tema transversal vinculando meio ambiente, sustentabilidade e especificidades da formação social brasileira a partir de quatro atividades de até quatro horas: 
-
 5) 1º encontro – apresentação aos discentes de tema transversal escolhido mediante exposição docente seguida de discussão; 
-
 a. a apresentação será feita no auditório, com todas as turmas do ADS AMS; 
-
 b. a apresentação será respaldada com a legislação em vigor e discussão por autores clássicos brasileiros ou internacionais; 
-
 c. ao término da apresentação haverá uma sessão de discussão com vistas a colher recepção do tema pelos discentes e fomentar o 2º encontro. 
-
 6) 2º encontro – apresentação aos discentes com vistas ao aprofundamento do tema transversal escolhido; 
-
 a. a apresentação partirá dos resultados da experiência do primeiro encontro, verticalizando o entendimento do tema; 
-
 b. como forma alternativa, o encontro poderá ser animado por entrevista formal a pessoas ligadas ao tema, apresentação e discussão de filme sobre a temática ou outra abordagem que se considere apropriada 
-
 c. ao término do encontro haverá sessão de discussão aberta aos discentes. 
-
 7) Simulado ENADE – Formação Geral – elaboração de prova simulada com duas questões objetivas de provas anteriores do ENADE sobre o tema desenvolvido e duas questões objetivas o tema desenvolvido no primeiro semestre, totalizando quatro questões 
-
 a. A prova será impressa e obrigatória a todos os estudantes do curso e poderá ser realizada pelo professor do projeto ou coordenação de curso; 
-
 b. A coordenação e o NDE do curso decidirão sobre a pertinência de uso da nota aferida; 
-
 c. Será feita a correção das questões pelo professor do projeto com entrega da listagem à coordenação e colegiado do curso. 
-
 Resolução do simulado e balanço da atividade – esse encontro promoverá a resolução das questões do simulado com comentários do professo. Ao término da sessão os estudantes serão convidados a opinar sobre a experiência e a indicar temas relevantes e de interesse para o próximo ano. 
-
 Por que será feito: Para propiciar uma formação discente voltada ao exercício da cidadania de acordo com os princípios dos 
 direitos humanos, meio ambiente sustentável, diversidade (relações étnico-raciais) e formação histórico-
 social (inclui cultura afro-brasileira, africana e indígena) 
-
 Situação problema: 
-
 Metodologia de ensino, desempenho de alunos, evasão (a ser resolvida/mitigada) 
-
 Acesso/Inclusão ao Ensino Superior (social, PCD) 
 
 Eventos e publicações acadêmicos e científicos 
-
 O que será feito: 
-
 1) Livro científico, organizado e estruturado em capítulos, com a temática central de Tecnologia, Gestão e Sociedade;  
-
 2) Desenvolvimento de todo o processo de divulgação, recepção, diagramação e editoração da obra, com Editora que contemple o perfil temático da organização e possuam catálogo editorial compatível; 
-
 3) Após concluído o processo editorial, promover um planejamento estratégico para divulgação da obra, para redes dos autores e demais envolvidos no processo. 
-
 Por que será feito: Contribuir para a consolidação de uma cultura de produção científica, envolvendo o corpo docente como agentes produtores de conhecimento nas respectivas áreas de atuação e consequentemente compartilhar e estimular os alunos, acerca da importância e real possibilidade de pensar e produzir cientificamente. 
-
 Situação problema: 
-
 Gestão da unidade de ensino e dos cursos (indicadores) (a ser resolvida/mitigada) 
 
 Adequação/reestruturação de PPC, implantação de novos cursos. 
-
 O que será feito: Estruturação de proposta atualização do PPC do CST em ADS mediante análise dos conteúdos programáticos dos componentes curriculares do curso, e construção de nova grade curricular segundo as exigências mercadológicas e legislação vigente. 
-
 Por que será feito: Para atualização do Projeto Pedagógico do Curso em virtude do avanço tecnológico na área da tecnologia da informação e comunicação (TIC) 
-
 Situação problema: 
-
 Metodologia de ensino, desempenho de alunos, evasão (a ser resolvida/mitigada) 
 
 Eventos e publicações acadêmicos e científicos 
-
 O que será feito: Projeto de pesquisa e desenvolvimento de sistema para controle de ambulâncias, insumos e usuários (enfermeiros, administrativos e condutores) para o Serviço de Atendimento Móvel de Urgência (SAMU) do município de São Caetano do Sul 
-
 Por que será feito: Para atendimento às demandas sociais e do mercado de trabalho regional 
-
 Situação problema: 
-
 Metodologia de ensino, desempenho de alunos, evasão (a ser resolvida/mitigada) 
-
 Participação da comunidade e sociedade 
 
 Eventos e publicações acadêmicos e científicos 
-
 O que será feito: Projeto de pesquisa e desenvolvimento de sistema para atendimento/suporte aos projetos de pesquisa do Laboratório de Criatividade, Empreendedorismo e Inovação (LABDIS/Unifesp) 
-
 Por que será feito: Para atendimento às demandas sociais e do mercado de trabalho regional 
- 
 Situação problema: 
-
 Comunicação com a comunidade acadêmica (a ser resolvida/mitigada) 
-
 Participação da comunidade e sociedade 
 
 Adequação/reestruturação de PPC, implantação de novos cursos. 
-
 O que será feito: Estruturação de proposta para atualização do PPC do CST em Jogos Digitais por meio de análise do perfil profissional do egresso atual, das necessidades do setor e da identificação de novo perfil profissional do egresso, competências a serem desenvolvidas e definição de nova estrutura curricular de forma a contemplar essas competências. 
-
-Por que será feito: Atualização do Projeto Pedagógico do Curso em função das necessidades do setor. 
-
+por que será feito: Atualização do Projeto Pedagógico do Curso em função das necessidades do setor. 
 Metodologia de ensino, desempenho de alunos, evasão (a ser resolvida/mitigada) 
 
 Adequação/reestruturação de PPC, implantação de novos cursos. 
-
 O que será feito: Elaboração de relatório de necessidades de aquisição de insumos para utilização em atividades do CST em Jogos Digitais. 
-
 Por que será feito: Atender a solicitação de especialistas do CEESP decorrentes da última renovação de reconhecimento do Curso 
-
 Situação problema: 
-
 Comunicação com a comunidade acadêmica (a ser resolvida/mitigada) 
 
 Divulgação do vestibular e ações de fortalecimento de imagem institucional 
-
 O que será feito: English Hub – Curso de Inglês para a Comunidade  
-
 Por que será feito: 
-
 Desenvolvimento da Comunicação oral e escrita capacitar os participantes a se comunicarem eficientemente em inglês em situações cotidianas, bem como aprimorar as Habilidades de escrita.  
-
 Integração Cultural  
-
 Comunicação global e intercultural 
-
 Preparar os participantes para situações práticas 
-
 Inclusão digital 
-
 Por meio de ferramentas web – para aprendizagem de Línguas. 
-
 Situação problema: 
-
 Participação da comunidade e sociedade (a ser resolvida/mitigada) 
 
 Eventos e publicações acadêmicos e científicos 
-
 O que será feito: 
-
 Minuto Fatec 
-
 Educação sobre prevenção 
-
 Conscientização sobre doenças específicas 
-
 Promoção da saúde mental 
-
 Orientação sobre estilo de vida saudável 
-
 Adoção de hábitos preventivos 
-
 Esclarecimento de dúvidas e mitos 
-
 Incentivar a responsabilidade social em saúde. 
-
 Situação problema: 
-
 Comunicação com a comunidade acadêmica 
 
 Ações de nivelamento de conhecimento, ENADE, acolhimento e permanência discente. 
-
 O que será feito: Familiarização com o formato do teste Melhoria da compreensão auditiva Simulação de testes práticos Desenvolvimento da leitura Monitoramento do progresso 
-
 Situação problema: 
-
 Comunicação com a comunidade acadêmica (a ser resolvida/mitigada) 
 
 Adequação/reestruturação de PPC, implantação de novos cursos. 
-
 O que será feito: Estruturação de proposta para atualização do PPC do CST em Jogos Digitais por meio de análise do perfil profissional do egresso atual, das necessidades do setor e da identificação de novo perfil profissional do egresso, competências a serem desenvolvidas e definição de nova estrutura curricular de forma a contemplar essas competências. 
-
 Metodologia de ensino, desempenho de alunos, evasão (a ser resolvida/mitigada) 
  
 Pesquisa / Extensão e Equipamentos Associados 
-
 O que será feito: Proposta de indexação do FaSCi-Tech, periódico científico eletrônico da Fatec São Caetano do Sul, nas principais bases de dados. Identificação dos critérios para o processo de indexação do Fasci-Tech, definição de cronograma de atividades para atendimento aos requisitos das principais bases de dados e estabelecimento de plano de ação para conclusão do registro do periódico. 
-
 Por que será feito: Para estabelecimento da correta padronização dos dados bibliográficos do periódico, mirando não somente a visibilidade da revista para publicação, bem como seu reconhecimento pelos pares na área de atuação. 
 
 Projetos de Pesquisa para Desenvolvimento de Equipamentos/Materiais Didáticos 
+O que será feito: FaSCi-Tech - Atualização da plataforma de suporte ao periódico. Por que será feito: Necessidade técnica.  
 
-O que será feito: FaSCi-Tech - Atualização da plataforma de suporte ao periódico. Por que será feito: Necessidade técnica. 
- 
 Desenvolvimento de Projetos de IC - MDITI 
-
 O que será feito: Promoção do Programa Institucional de Iniciação Científica (PCITec) da Fatec São Caetano do Sul à comunidade acadêmica, atualização do edital de abertura de inscrições, divulgação do cronograma do PCITec para submissão de propostas de pesquisa docente e discente, análise dos projetos enviados, divulgação dos resultados, início da pesquisa docente e discente e entrega dos relatórios parciais de orientadores e orientados. 
-
 Por que será feito: Para desenvolvimento de atividades científicas e tecnológicas nos cursos de Análise e Desenvolvimento de Sistemas, Comércio Exterior, Jogos Digitais e Segurança da Informação, através da promoção do PCITec da Fatec São Caetano do Sul à comunidade acadêmica. 
-
 Situação problema: 
-
 Metodologia de ensino, desempenho de alunos, evasão (a ser resolvida/mitigada) 
 
 O que será feito: Identificação dos critérios para o processo de indexação do Fasci-Tech, definição de cronograma de atividades para atendimento aos requisitos das principais bases de dados e estabelecimento de plano de ação para conclusão do registro do periódico. 
-
 Por que será feito: Para estabelecimento da correta padronização dos dados bibliográficos do periódico, mirando não somente a visibilidade da revista para publicação, bem como seu reconhecimento pelos pares na área de atuação. 
- 
-Atividades Formativas em Projetos (nível tático) 
 
+Atividades Formativas em Projetos (nível tático) 
 O que será feito: Programa de monitoria para disciplinas com maior reprovação. Por que será feito: Para auxiliar no processo de aprovação dos alunos com dificuldades em disciplinas específicas que tem maior índice de retenção. 
  
 Desenvolvimento de pessoas (docentes e servidores) 
-
 Curso/Oficina/Capacitação/ Treinamento/ Palestra/Reunião/Encontro 
-
 O que será feito: Realizar palestras e workshops sobre relacionamento interpessoal aos servidores técnico-administrativo. 
-
 Por que será feito: Em pesquisa realizada, os servidores técnico-administrativos solicitaram workshop sobre atendimento ao público 
 
 Projetos com empresas e/ou demais parceiros 
-
 O que será feito: Identificação de novas e manutenção de parcerias externas, definição de objetivos para o desenvolvimento dos novos projetos, elaboração dos cronogramas de atividades, execução dos projetos e otimização dos PCIs para o contínuo aperfeiçoamento deles.      
-
 Por que será feito: Para promoção de trocas de experiências internacionais entre os parceiros; desenvolvimento de habilidades digitais, linguísticas e interculturais, e realização de projetos colaborativos que estimulem o aprendizado prático. 
 
 Projetos com empresas e/ou demais parceiros 
-
 O que será feito: Projeto de pesquisa e desenvolvimento de sistema para controle de ambulâncias, insumos e usuários (enfermeiros, administrativos e condutores) para o Serviço de Atendimento Móvel de Urgência (SAMU) do município de São Caetano do Sul. Por que será feito: Para atendimento às demandas sociais e do mercado de trabalho regional 
-
 Situação problema: 
-
 Metodologia de ensino, desempenho de alunos, evasão (a ser resolvida/mitigada) 
  
 Projetos com empresas e/ou demais parceiros 
-
 O que será feito: Conclusão da parceria com a RFB para implantação do NAF na Unidade, adequação do local para atendimento à comunidade, elaboração de editais e seleção dos alunos que vão fazer o treinamento fornecido pela RBF, e acompanhamento do treinamento e do atendimento dos estudantes junto ao público externo 
-
 Por que será feito: Para implantação do NAF em virtude do compartilhamento, com o público externo, do conhecimento adquirido por meio das atividades de ensino, pesquisa e extensão desenvolvidas na instituição. 
-
 Situação problema: 
-
 Metodologia de ensino, desempenho de alunos, evasão (a ser resolvida/mitigada) 
 
 Participação da comunidade e sociedade 
-
 Projetos com empresas e/ou demais parceiros 
-
 O que será feito: Parceria Escola de Psicologia da USCS  Rodas de Conversa a discentes, docentes e servidores técnico-administrativos Por que será feito: Minimizar as consequências do pós-Covid 19 na saúde mental de nossos discentes, docentes e equipe técnico-administrativa, considerando o período de isolamento e ensino remoto emergencial 
 
-Projetos com empresas e/ou demais parceiros 
- 
+Projetos com empresas e/ou demais parceiros  
 O que será feito: Easy Cargo  - Planejamento e simulação 3D de carregamento de frete, a partir de diversas dimensões de carga, e de diferentes modelos de contêineres e de veículos de transporte existentes no mercado. 
-
 Por que será feito: Para simular o carregamento de diferentes tipos de carga em contêineres e veículos de transporte diversos, a partir de um planejamento de frete prévio, a fim de tornar a aula de Modais de Transporte e Seguro de Carga mais aplicada 
-
 Situação problema: 
-
 Metodologia de ensino, desempenho de alunos, evasão (a ser resolvida/mitigada) 
 
 Projetos com empresas e/ou demais parceiros 
-
 O que será feito: Parcerias Prefeitura de São Caetano do Sul: Por que será feito: Reuniões com a Secretaria de Educação para fomentar a divulgação do vestibular nas escolas de ensino médio municipais; Participação do Conselho da Secretaria de Desenvolvimento Econômico como titular (e suplente); Participação em encontros regionais para melhoria do município. 
-
 Situação problema: 
-
 Participação da comunidade e sociedade (a ser resolvida/mitigada) 
