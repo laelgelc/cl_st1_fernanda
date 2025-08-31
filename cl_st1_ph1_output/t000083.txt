@@ -1,13 +1,11 @@
 Section: 1 INTRODUÇÃO
 
-FATEC / Código: FATEC PRAIA GRANDE/129 
-
+FATEC PRAIA GRANDE/129 
 Relatório Anual de Atividades relativo ao ano de: 2022 
 
 Section: 2 DESENVOLVIMENTO
 
-ATIVIDADES REALIZADAS (máximo 12.000 caracteres) 
-
+ATIVIDADES REALIZADAS 
 No ano de 2022, os trabalhos de Readequação do Projeto Pedagógico de Curso (PPC) do Curso de Gestão Empresarial se mantiveram com a participação do Profº João Carlos Gomes em reuniões do Comitê de Coordenadores. O processo de eestruturação deverá ser finalizado em 2023. 
  
 Em maio de 2022 foi apresentado o Projeto para Implantação de um novo curso na unidade, o de “Desenvolvimento de Software Multiplataforma”. Este projeto teve como base o Estudo Técnico realizado pela Coordenação e Professores do curso de Análise e esenvolvimento de Sistemas, que identificaram um aumento na demanda de profissionais na área de TI. 
@@ -17,35 +15,26 @@ O curso é para o turno vespertino, de modo a aproveitar as instalações dos la
 Os Projetos Integradores na unidade foram desenvolvidos no Curso de Gestão Empresarial, nas áreas de Comportamento Organizacional, Organização Sistemas e Métodos, Marketing, Projetos e Desenvolvimento de Negócios. Semestralmente, as equipes de alunos, orientadas pelo Professor da disciplina, estudam a estrutura das empresas e desenvolvem ideias de negócios que são apresentados em bancas e entregues os trabalhos escritos. Boa parte destes trabalhos são aproveitados como projetos para os Trabalhos de Conclusão do Curso.  
  
 Em 2022 foram realizadas adequações nos Laboratórios de Informática e nos laboratórios do Curso de Processos Químicos.  
- 
 A unidade recebeu 50 mesas de computadores, 280 cadeiras, 50 mesas de computadores, 40 notebooks, 114 computadores e 16 televisões de 65”. Com estes equipamentos e mobiliários foi possível renovar os 06 laboratórios de informática e melhorar os equipamentos de 25 salas de aula. 
- 
 Além disso, a unidade recebeu os seguintes equipamentos que permitiram a organização de dois novos laboratórios para o Curso de Processos Químicos: 01 Bancada de Cervejaria, 01 Bancada de Reatores, 20 Mantas aquecedoras, 01 Centrífuga, 04 Banhos ultratermostatizados, 02 Estufas de esterilização e 01 Medidor de vazão. 
  
 Para o Espaço Maker foram recebidos 15 notebooks, 01 plataforma de carregamento, 01 impressora 3D, 01 kit Arduino, 15 caixa de som portátil e 02 televisões de 65”. Foram realizadas adequações na sala do Espaço Maker, com reparos na laje da sala, instalação de luminárias, adequações da parte elétrica e reparos nas paredes mais a pintura. 
 
-Seguem os projetos realizados, sem aquisição de equipamentos: 
- 
 Projetos de Iniciação Científica 
-
 Iniciado em 2021 e em curso em 2022: "Uso da quimiodiversidade de áreas remanescentes da Mata Atlântica do Estado de São Paulo para seleção de espécies vegetais com potencial Atividade Biológica". Docente responsável: Prof. Me. Waldemar Alves Ribeiro Filho (coordenador do Curso de Processos Químicos). 
 
 Discente participante com bolsa PIBITI/CAPES – PROGRAMA DE INICIAÇÃO CIENTÍFICA E TECNOLÓGICA: Beatriz Isabel Mota do Carmo e Isabella Bibiano Pedroza Martins. 
 
 Discente participante com bolsa FATEC – INICIAÇÃO EM DESENVOLVIMENTO TECNOLÓGICO E INOVAÇÃO; Letícia Ramos Cruz. Discente participante voluntário - Igor Augusto Nascimento Orcajo. 
-
 O projeto está cadastrado no SisGen – Sistema Nacional de Gestão do Patrimônio Genético e do Conhecimento Tradicional Associado, estando devidamente registrado no SIMA - Núcleo de Acompanhamento dos Projetos Externos da Secretaria de Infraestrutura e Meio Ambiente do Governo do Estado de São Paulo. 
- 
+
 Simpósio de Comércio Exterior - II COMEXIN 
-
 Evento realizado em 11 e 12 de abril de 2022. Organizado pela coordenação do Curso de Comércio Exterior, com o objetivo de fomentar o interesse pela pesquisa e incentivar as experiências acadêmicas dos alunos, com apresentações de projetos de pesquisa em desenvolvimento, ou concluídos, nas disciplinas de Projetos. 
-
 Tema central "As Abordagens Multissetoriais e Interdisciplinares sobre o Conflito entre a Rússia e Ucrânia e suas Consequências Globais: legais, econômicas e sociais". Professores responsáveis: Profª Ma. Fernanda Peixoto Coelho e Profº Me. Ulysses Camargo Corrêa Diegues. 
- 
+
 Evento realizado de 17 a 22 de outubro de 2022. Organizada anualmente, em conjunto com o Parque Tecnológico de Santos e agendada na Semana Nacional de Tecnologia, a Semana de Tecnologia realizou 80 atividades, entre palestras e oficinas com a participação de todos os cursos da unidade, mais a integração com 30 convidados externos e a emissão de certificados de participação para alunos e professores. Os temas principais apresentados foram: tecnologia de informação; o trabalho na era da Internet; IA e uso da nuvem; inteligência emocional; negócios digitais entre outros. 
  
 Revista da Fatec Praia Grande.
-
 Publicação anual da Edição 2022, v.14. Revista Acadêmica da Fatec Praia Grande que passou a ser totalmente digital (eISSN 2179-5150). Nesta edição foram publicados artigos de diferentes áreas, com a participação de professores e alunos de diferentes Fatecs. Acesso pelo link: https://www.fatecpg.edu.br/revista/index.php/ps  
 
 Em 2022 foram realizadas duas versões do Curso. No 1º semestre, com os alunos de Comércio Exterior e no 2º semestre, com os alunos de Análise e Desenvolvimento de Sistemas (participação de aproximadamente 120 alunos). Os parceiros no projeto são as 
@@ -76,9 +65,7 @@ Também foi firmado o Acordo de Cooperação da Fatec com a receita Federal no P
 Com a Coordenação de Estágio foram firmados os Convênios com pequenas empresas na região, além dos Convênios por intermédio dos Agentes Integradores. Inúmeros alunos participaram dos processos de seleção de estagiários em 2022, por meio destes convênios, especialmente dos Cursos de Análise e Desenvolvimento de Sistemas, Gestão empresarial e Comércio Exterior. 
  
 ATIVIDADES NÃO REALIZADAS E JUSTIFICATIVAS 
-
 Dentre as ações que não puderam ser realizadas em 2022, foram identificadas as seguintes atividades: 
-
 - Apesar de terem sido realizadas adequações na sala do “Espaço Maker”, não foi possível concluir os trabalhos. Este espaço, que era o antigo laboratório 7 de informática, estava inutilizado em razão dos problemas de infiltração e vazamentos, porém, foi escolhido por ser o mais apropriado para o projeto maker. 
 
 Com as reformas realizadas ao longo do ano, visto a dificuldade de corrigir seus problemas estruturais graves, este ambiente e suas adequações não chegaram a ser plenamente concluídas. Faltam ainda ajustes na pintura (depois de resolvida a questão dos vazamentos), o conserto do ar condicionado e as instalações dos equipamentos até o momento recebidos (ainda faltam receber os mobiliários). Com isso, espera-se que no 1º semestre de 2023 o Espaço Maker possa ser utilizado.   
