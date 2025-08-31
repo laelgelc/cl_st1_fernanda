@@ -33,147 +33,89 @@ D. Expandir e ampliar a capacidade de articulação com Governos e Setores Produ
 E. Promover a captação de recursos extras e não orçamentários. 
 
 Planejar visitas técnicas em diversas empresas e prestadores de serviços para área da Logística. 
-
 Promover a interação didático-pedagógica – Teoria de sala de aula x prática nos processos operacionais (se for o caso). 
-
 Planejar visitas técnicas em diversas empresas e prestadores de serviços para área de Polímeros  
-
 Promover a interação didático-pedagógica – Teoria de sala de aula x prática nos processos operacionais (se for o caso) 
- 
 Planejar visitas técnicas em diversas empresas e prestadores de serviços para área de Informática para Negócios   
-
 Promover a interação didático-pedagógica – Teoria de sala de aula x prática nos processos operacionais (se for o caso) 
-
 Planejar visitas técnicas em diversas empresas e prestadores de serviços para área de Fabricação Mecânica  
-
 Promover a interação didático-pedagógica – Teoria de sala de aula x prática nos processos operacionais (se for o caso) 
-
 Planejar visitas técnicas em diversas empresas e prestadores de serviços para área de Desenvolvimento de Software Multiplataforma 
-
 Promover a interação didático-pedagógica – Teoria de sala de aula x prática nos processos operacionais (se for o caso) 
- 
 Desenvolver um trabalho prático baseado em problema que integre as teorias abordadas nas disciplinas do semestre referente ao Projeto Interdisciplinar  
-
 Este projeto objetiva melhorar a comunicação da empresa ou do grupo social atendido pelo projeto  
 
 Desenvolver um trabalho prático baseado em problema 
-
 Organizar um conjunto de informações da empresa ou do grupo social atendido pelo projeto 
-
 Desenvolver e implementar uma aplicação web utilizando metodologias ágeis de gestão de projetos 
-
 Desenvolver e implantar uma aplicação web e móvel 
-
 Proporcionar aos participantes uma experiência prática e abrangente no desenvolvimento de soluções tecnológicas inovadoras 
-
 Desenvolvimento de uma aplicação móvel 
-
 Fornecer uma solução que ofereça funcionalidades inovadoras e proteção eficaz dos dados para os usuários finais 
 
 Desenvolver uma aplicação multiplataforma hospedada na nuvem 
-
 Utilizar serviços de computação em nuvem, para hospedar e gerenciar a aplicação, aproveitando os benefícios de escalabilidade, disponibilidade e segurança 
-
 Estudo da relação Das disciplinas do semestre x possíveis não conformidades empresariais em empresas entrevistadas – Matutino / Noturno – PIL I / Extensão 
-
 Apontar possíveis situações não conformes para proposição de soluções 
-
 Identificar práticas e resultados específicos dessas empresas. 
-
 Estudo da relação Das disciplinas do semestre x possíveis não conformidades empresariais em empresas entrevistadas – Matutino / Noturno – PIL II / Extensão 
-
 Apontar possíveis situações não conformes para proposição de soluções 
 
 Estudo da relação Das disciplinas do semestre x possíveis não conformidades empresariais em empresas entrevistadas – Matutino / Noturno – PIL III / Extensão 
-
 Apontar possíveis situações não conformes para proposição de soluções 
 
 Estudo da relação Das disciplinas do semestre x possívels não conformidades empresariais em empresas entrevistadas – Matutino / Noturno – PIL IV / Extensão 
-
 Apontar possíveis situações não conformes para proposição de soluções 
 
 Estudo da relação Das disciplinas do semestre x possíveis não conformidades empresariais em empresas entrevistadas – Matutino / Noturno – PIL V / Extensão 
-
 Apontar possíveis situações não conformes para proposição de soluções 
 
 Estudo da relação Das disciplinas do semestre x Possívels não conformidades empresariais em empresas entrevistadas – Matutino / Noturno – PIL VI / Extensão 
-
 Apontar possíveis situações não conformes para proposição de soluções 
 
 Estudo de caso organizacional com desenvolvimento de website e documentos empresariais 
-
 Compreender a estrutura e processos organizacionais. Matutino/Noturno – Extensão. 
 
 Orientar o estudo organizacional sobre sistemas de informação gerenciais e tecnologias emergentes para suporte aos negócios. 
-
 Analisar propostas de sistemas de informação gerenciais a partir de levantamento de requisitos de negócios empresariais. Matutino/Noturno – Extensão. 
-
 Desenvolvimento de um MPV (Mínimo Produto Viável) de software para gestão de uma organização. 
 
 Projetar, desenvolver, testar e entregar um MPV funcional. 
-
 Desenvolvimento de um MPV de aplicação Web para uma organização 
 
 Promover um estudo de qualidade total e melhoria contínua de uma organização. Matutino/Noturno – Extensão. 
-
 Orientar, estimular, acompanhar e assegurar que os alunos participem do Projeto Escola de Inovadores. 
 
 Proporcionar um curso que possibilite ao participante atuar de forma colaborativa e dinâmica através da promoção do empreendedorismo e a inovação bem como o desenvolvimento de competências socioemocionais, além de servir como ferramenta para a geração de renda visando a sustentabilidade do negócio no mercado. 
-
 Este projeto tem como objetivo a parceria com Fatecs e de suas respectivas coordenações do Núcleo de Relações Internacionais com a finalidade de proporcionar aos alunos da unidade escolar um maior acesso às informações relativas a intercambio e possibilidades de estudos no exterior. 
 
 A língua inglesa sempre foi um diferencial nos cursos de Tecnologia das Fatecs, visando proporcionar uma maior empregabilidade nas empresas e indústrias 4.0 da região de São Paulo e do ABCDM. 
-
 Permitir o aprendizado de práticas laboratoriais para atendimento das demandas das indústrias 
 
 Curso de extensão universitária sobre cultura hispânica 
- 
 Melhorar o entendimento da língua espanhola com os estudantes do CST e logística e Informática para negócios 
 
 Projeto Humanístico em filosofia – Café filosófico 
-
 Propiciar a comunidade escolar reflexões no contexto humanístico na atualidade 
 
 Projeto humanístico de filosofia – Grupo de estudos e ciclo de palestras em filosofia 
-
 Propiciar a comunidade escolar aprofundamento e discussões em estudos no contexto humanístico na atualidade 
- 
-Curso de extensão universitária em controle estatístico de processos 
 
+Curso de extensão universitária em controle estatístico de processos 
 Propiciar a comunidade escolar aprofundamentoi em controle estatístico de processos 
 
 Curso de extensão universitária em dimensionamento e toleramento geométrico 
-
 Propiciar a comunidade escolar aprofundamento em dimensionamento e toleramento geométrico 
- 
-Curso de extensão universitária gestão dos sistemas da qualidade em polímeros 
 
+Curso de extensão universitária gestão dos sistemas da qualidade em polímeros 
 Propiciar a comunidade escolar aprofundamento em gestão dos sistemas da qualidade 
 
 Academia Estudantil de Teatro e Literatura 
-
 Propiciar a comunidade escolar o desenvolvimento da expressão e criatividade, por meio do estímulo ao pensamento crítico e reflexivo 
 
+Reuniões NDE
 Reuniões programadas e / ou ordinárias de acordo com a necessidade do curso 
-
-Análise de demandas existentes em relação ao curso e / ou colocadas pela CESU para melhoria contínua do curso 
-
-Reuniões programadas e / ou ordinárias de acordo com a necessidade do curso 
-
-Análise de demandas existentes em relação ao curso e / ou colocadas pela CESU para melhoria contínua do curso 
- 
-Reuniões programadas e / ou ordinárias de acordo com a necessidade do curso 
-
-Análise de demandas existentes em relação ao curso e / ou colocadas pela CESU para melhoria contínua do curso 
-
-Reuniões programadas e / ou ordinárias de acordo com a necessidade do curso 
-
-Análise de demandas existentes em relação ao curso e / ou colocadas pela CESU para melhoria contínua do curso 
-
-Reuniões programadas e / ou ordinárias de acordo com a necessidade do curso 
-
 Análise de demandas existentes em relação ao curso e / ou colocadas pela CESU para melhoria contínua do curso 
 
 Orientar os alunos quanto aos procedimentos relacionados a documentação, execução e conclusão do estágio.  
-
 A orientação de estágio é uma atividade acadêmica essencial que envolve planejamento, acompanhamento, análise das atividades desenvolvidas pelos discentes e avaliação dos relatórios e demais instrumentos exigidos para a conclusão da disciplina de estágio. 
