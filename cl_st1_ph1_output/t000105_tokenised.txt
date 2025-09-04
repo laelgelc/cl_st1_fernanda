@@ -1,12 +1,9 @@
 Section: 1 IDENTIFICAÇÃO DA UNIDADE
-Relatório Anual de Atividades
-Fatec São Caetano do Sul - Fatec 168
+Relatório Anual de Atividades Fatec São Caetano do Sul - Fatec 168
 Section: CONSIDERAÇÕES
 Em 2024, a Fatec São Caetano do Sul intensificou suas ações de divulgação para a comunidade externa, realizando com sucesso todos os eventos previstos para os cursos: Fatecnologia; Minuto Fatec; Security Day; Encomex; ADS Day; Fatec SCS Games Day; Catch the Flag
-A unidade concluiu a atualização do site institucional (ação 114), que agora está disponível no servidor do Centro Paula Souza no novo endereço: https://fatecsaocaetano.cps.sp.gov.br.
-Além disso, foi realizado consolidada a implantação do The English Hub (ação 102), com a disponibilização de cursos de inglês para a comunidade e público interno.
-As ações 117 (Educação Financeira) e 118 (Plantão de Dúvidas Imposto de Renda) também foram concluídas com sucesso, oferecendo atendimento à comunidade sobre educação financeira, investimentos e plantão de imposto de renda.
-Na ação relacionada ao Enade (119) foram realizados encontros e debates sobre assuntos de temas transversais, os encontros foram dirigidos para os cursos de Comércio Exterior, Análise e Desenvolvimento de Sistemas e AMS. Esses encontros despertaram grande interesse dos alunos, que participaram ativamente.
+A unidade concluiu a atualização do site institucional (ação 114), que agora está disponível no servidor do Centro Paula Souza no novo endereço: https://fatecsaocaetano.cps.sp.gov.br. Além disso, foi realizado consolidada a implantação do The English Hub (ação 102), com a disponibilização de cursos de inglês para a comunidade e público interno.
+As ações 117 (Educação Financeira) e 118 (Plantão de Dúvidas Imposto de Renda) também foram concluídas com sucesso, oferecendo atendimento à comunidade sobre educação financeira, investimentos e plantão de imposto de renda. Na ação relacionada ao Enade (119) foram realizados encontros e debates sobre assuntos de temas transversais, os encontros foram dirigidos para os cursos de Comércio Exterior, Análise e Desenvolvimento de Sistemas e AMS. Esses encontros despertaram grande interesse dos alunos, que participaram ativamente.
 A reestruturação dos Projetos Pedagógicos de Curso (PPC) de Análise e Desenvolvimento de Sistemas, Jogos Digitais e Segurança da Informação, permanecem em andamento, tais ações são importantes para atração e retenção de alunos na unidade.
 As ações referentes à revista científica Fasci-Tech (301 e 304) estão em andamento e devem ser concluídas em 2025.
 A unidade ofereceu atendimentos psicopedagógicos pontuais (110), que foram fundamentais no suporte aos alunos em situações específicas, além de ter prestado assistência a PCDs com orientações sobre legislação específica (602).
@@ -20,32 +17,8 @@ Em 2023, a Fatec São Caetano do Sul – Antonio Russo conta com 4 Cursos Superi
 Além disso, possui 33 turmas com aproximadamente 1500 alunos. Muitos alunos já fazem estágio em empresas da região, contraíram nos cursos conhecimentos teóricos que faltavam para complementar o desenvolvimento nas suas carreiras. Com 15 anos de implantação, a Fatec São Caetano do Sul – Antonio Russo já conta com vários projetos e eventos importantes para os públicos interno (docentes, discentes e colaboradores) e externos (comunidade, prefeitura, empresas, indústrias e outras instituições).
 Um dos principais eventos é a Fatecnologia, que ocorre anualmente, no 1º semestre e conta com a participação da comunidade interna e externa, são apresentadas palestras, workshops, mini-cursos e exposições.
 Além disso, no 2º semestre há os eventos focados diretamente nos cursos superiores de tecnologia, também com palestras, workshops. A unidade também participa ativamente do Projetos de Colaboração Internacional (COIL) em parceria com a Finlândia, Estados Unidos, Holanda, dentre outros. A Fasci-Tech é a revista científica eletrônica da unidade e possui Qualis B4
-Os projetos e eventos institucionais, bem como as ações planejadas e praticadas pelos professores, alunos e administrativos são alinhados na missão e visão do Centro Paula Souza. Para isso, o trabalho de divulgação desses propósitos é intensamente reforçado:
-I - Missão: “Promover a educação pública profissional e tecnológica dentro de referenciais de excelência, visando o desenvolvimento tecnológico, econômico e social do Estado de São Paulo.
-II - Visão: “Consolidar-se como referência nacional na formação e capacitação profissional, bem como na gestão educacional, estimulando a produtividade e competitividade da economia paulista”.
+Os projetos e eventos institucionais, bem como as ações planejadas e praticadas pelos professores, alunos e administrativos são alinhados na missão e visão do Centro Paula Souza. Para isso, o trabalho de divulgação desses propósitos é intensamente reforçado: I - Missão: “Promover a educação pública profissional e tecnológica dentro de referenciais de excelência, visando o desenvolvimento tecnológico, econômico e social do Estado de São Paulo. II - Visão: “Consolidar-se como referência nacional na formação e capacitação profissional, bem como na gestão educacional, estimulando a produtividade e competitividade da economia paulista”.
 Conduzir nossas ações em consonância as metas do CPS, alinhado à missão e visão da unidade e em trabalho conjunto é crucial para o alcance dos objetivos institucionais e são as conquistas que incentivam a Fatec São Caetano do Sul – Antonio Russo perseguir novos caminhos, motivando a busca pelo aperfeiçoamento contínuo da todos os campos pedagógicos, administrativos e colaborativos que envolvem a Unidade.
-APONTAMENTO DE SITUAÇÕES-PROBLEMA MAIS RELEVANTES:
-- Metodologia de ensino, desempenho de alunos, evasão
-- Materiais, equipamentos e mobiliários
-- Manutenção e conservação predial
-- Participação da comunidade e sociedade
-- Infraestrutura predial (espaços, sistemas)
-- Acesso/Inclusão ao Ensino Superior (social, PCD)
-- Infraestrutura laboratorial e ambientes de ensino
-- Gestão da unidade de ensino e dos cursos
-Objetivos Institucionais – CPS (Plano de Metas):
-1) Atender às demandas sociais e do mercado de trabalho.
-2) Obter a satisfação dos públicos que se relacionam com o Centro Paula Souza (stakeholders).
-3) Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem.
-4) Assegurar a perenidade do crescimento da instituição com recursos financeiros disponíveis.
-5) Garantir celeridade e efetividade na prestação de serviços.
-6) Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no desenvolvimento tecnológico e inovação.
-7) Promover a cultura de inovação e empreendedorismo.
-8) Aumentar a eficiência, a produtividade e a competitividade da instituição.
-9) Ampliar a oferta da Educação Profissional.
-Objetivos Institucionais – Cesu (Plano de Metas):
-A. Integrar as diferentes modalidades de ensino, otimizando itinerários e tempo para a formação profissional.
-B. Inovar processos de ensino e aprendizagem para manter excelência diante do mercado.
-C. Ampliar a capacidade de criar e atualizar cursos em parceria com o mercado.
-D. Expandir e ampliar a capacidade de articulação com Governos e Setores Produtivos.
-E. Promover a captação de recursos extras e não orçamentários.
+APONTAMENTO DE SITUAÇÕES-PROBLEMA MAIS RELEVANTES: - Metodologia de ensino, desempenho de alunos, evasão - Materiais, equipamentos e mobiliários - Manutenção e conservação predial - Participação da comunidade e sociedade - Infraestrutura predial (espaços, sistemas) - Acesso/Inclusão ao Ensino Superior (social, PCD) - Infraestrutura laboratorial e ambientes de ensino - Gestão da unidade de ensino e dos cursos
+Objetivos Institucionais – CPS (Plano de Metas): 1) Atender às demandas sociais e do mercado de trabalho. 2) Obter a satisfação dos públicos que se relacionam com o Centro Paula Souza (stakeholders). 3) Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem. 4) Assegurar a perenidade do crescimento da instituição com recursos financeiros disponíveis. 5) Garantir celeridade e efetividade na prestação de serviços. 6) Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no desenvolvimento tecnológico e inovação. 7) Promover a cultura de inovação e empreendedorismo. 8) Aumentar a eficiência, a produtividade e a competitividade da instituição. 9) Ampliar a oferta da Educação Profissional.
+Objetivos Institucionais – Cesu (Plano de Metas): A. Integrar as diferentes modalidades de ensino, otimizando itinerários e tempo para a formação profissional. B. Inovar processos de ensino e aprendizagem para manter excelência diante do mercado. C. Ampliar a capacidade de criar e atualizar cursos em parceria com o mercado. D. Expandir e ampliar a capacidade de articulação com Governos e Setores Produtivos. E. Promover a captação de recursos extras e não orçamentários.

@@ -1,6 +1,5 @@
 Section: 1 IDENTIFICAÇÃO DA UNIDADE
-RELATÓRIO ANUAL DE ATIVIDADES - RAA
-F129 - Fatec Praia Grande
+RELATÓRIO ANUAL DE ATIVIDADES - RAA F129 - Fatec Praia Grande
 Section: 2 CONSIDERAÇÕES
 Em 2024 foram realizados mais estudos sobre a Proposta de Implantação do Curso de Sistemas Biomédicos que, em setembro de 2023, recebeu parecer favorável da CESU, mas com ressalvas. Verificou-se que, para o curso ser viável, seria necessária a implantação de um laboratório de eletrônica, além de outras adequações na infraestrutura da instituição.
 Com as consultas junto às unidades que ofertam o curso de Sistemas Biomédicos, mais consultas à Coordenação Regional, a equipe de gestão da Fatec PG optou pela paralisação da proposta, ficando a unidade no aguardo de novas respostas sobre o andamento de obras e reformas da unidade, assim como uma análise mais detalhada das recomendações do CEE sobre os CST em Sistemas Biomédicos.
@@ -38,8 +37,7 @@ Em dezembro de 2024 foi concluído os trabalhos de Renovação do Convênio entr
 A Direção da Fatec Praia Grande realizou reuniões com os coordenadores da Fundação Parque Tecnológico de Santos, formalizando a renovação da parceria em 2024, depois da mudança de direção do parque em 2023.
 Foram planejadas ações de aproximação dos alunos da Fatec com o Parque, e a realização de encontros dos alunos com profissionais que desenvolvem projetos de Startups, servindo como uma experiência para os alunos, ao mesmo tempo que os projetos são testados. Essas ações estão em planejamento e deverão ser efetivadas no próximo ano.
 Em 2024, a partir do Acordo de Cooperação entre a Fatec Praia Grande e a Receita Federal, foi implementado o Projeto do Núcleo de Apoio Contábil e Fiscal (NAF). Nos meses de maio, outubro e novembro, a Fatec PG ofereceu atendimento ao público externo com serviços de declaração de imposto de renda pessoa física e MEI, além de consulta de CPF e outras pendências fiscais. Essas atividades foram realizadas por alunos monitores que participaram das capacitações e estiveram em nossa unidade de atendimento que foi instalada na sala de projetos. Foram atendidas 100 pessoas. O projeto deverá continuar no próximo ano.
-Dentre as ações que não se concretizaram em 2024, estão listadas as seguintes atividades:
-- Para 2024, foram planejados projetos de intercâmbio virtual com alunos da Fatec PG, no âmbito dos Projetos Colaborativos Internacionais (PCI), em parcerias firmadas com as instituições: Durban University of Technology (África do Sul) e Universidad Tecnológica Nacional (Argentina). Em razão do afastamento no 2º semestre de 2024, da Coordenadora de projetos, a professora de inglês, Maria Cláudia Delfino, mais a falta de demanda alunos das instituições parceiras, não houve a realização de nenhum projeto PCI neste período.
+Dentre as ações que não se concretizaram em 2024, estão listadas as seguintes atividades: - Para 2024, foram planejados projetos de intercâmbio virtual com alunos da Fatec PG, no âmbito dos Projetos Colaborativos Internacionais (PCI), em parcerias firmadas com as instituições: Durban University of Technology (África do Sul) e Universidad Tecnológica Nacional (Argentina). Em razão do afastamento no 2º semestre de 2024, da Coordenadora de projetos, a professora de inglês, Maria Cláudia Delfino, mais a falta de demanda alunos das instituições parceiras, não houve a realização de nenhum projeto PCI neste período.
 - Novamente foi planejada a aquisição do Software SICOMEX para o Curso de Comércio Exterior, visto que este software está previsto no Projeto Pedagógico do Curso, para atendimento das aulas práticas das disciplinas de Sistemática do Comércio Exterior e legislação Aduaneira do 4ºCiclo. Porém, não foram disponibilizados recursos para essa aquisição em 2024.
 - Foi planejada a oferta de um Programa de Nivelamento em Química, Física e Matemática, para os alunos ingressantes na unidade, especialmente dos alunos do Curso de Processos Químicos. Porém, não houve demanda, mesmo com a defasagem de conteúdos dos alunos que chegam do Ensino Médio. O programa deverá ser reavaliado.
 - Não houve seleção de alunos para as bolsas de Monitoria de Iniciação em Desenvolvimento Tecnológico e Inovação (MDTI) do Curso de Comércio Exterior, pois não recebemos inscritos. Por isso, as 02 vagas foram transferidas para o curso de Processos Químicos.
@@ -49,29 +47,6 @@ Dentre as ações que não se concretizaram em 2024, estão listadas as seguinte
 - Foram propostas ações de capacitação aos professores para melhoria das atividades de ensino e aprendizagem, visando promover a permanência dos alunos nos cursos. Em razão das demandas internas da unidade, relacionadas aos problemas de infraestrutura e outros problemas administrativos e pedagógicos, a equipe de gestão não conseguiu organizar essas ações. Esperamos reverter essa situação e melhorar as ações que possam engajar mais o corpo docente e os alunos na melhoria do rendimento acadêmico e na redução da evasão.
 A FATEC de Praia Grande atualmente possui em torno de 1600 alunos regularmente matriculados nos Cursos Presenciais de Graduação em Tecnologia em Análise e Desenvolvimento de Sistemas, Comércio Exterior, Gestão Empresarial, Processos Químicos e Desenvolvimento de Software Multiplataformas. Também possui o Curso EAD em Gestão Empresarial.
 A Unidade de Ensino cresceu nos últimos anos e juntamente com ela cresceram os problemas de infraestrutura, tendo em vista que o espaço cedido para a instalação da FATEC-PG no município é um prédio da Prefeitura de Praia Grande muito antigo, com mais de 50 anos de idade e que apresenta diversos problemas estruturais.
-APONTAMENTO DE SITUAÇÕES-PROBLEMA MAIS RELEVANTES
-- Manutenção e conservação predial
-- Materiais, equipamentos e mobiliários
-- Infraestrutura predial (espaços, sistemas)
-- Segurança pessoal e patrimonial
-- Infraestrutura laboratorial e ambientes de ensino
-- Participação da comunidade e sociedade
-- Metodologia de ensino, desempenho de alunos, evasão
-- Acesso/Inclusão ao Ensino Superior (social, PCD)
-- Redução do número de inscrições no Vestibular Matutino.
-Objetivos Institucionais – CPS (Plano de Metas)
-1) Atender às demandas sociais e do mercado de trabalho.
-2) Obter a satisfação dos públicos que se relacionam com o Centro Paula Souza (stakeholders).
-3) Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem.
-4) Assegurar a perenidade do crescimento da instituição com recursos financeiros disponíveis.
-5) Garantir celeridade e efetividade na prestação de serviços.
-6) Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no desenvolvimento tecnológico e inovação.
-7) Promover a cultura de inovação e empreendedorismo.
-8) Aumentar a eficiência, a produtividade e a competitividade da instituição.
-9) Ampliar a oferta da Educação Profissional.
-Objetivos Institucionais – Cesu (Plano de Metas)
-A. Integrar as diferentes modalidades de ensino, otimizando itinerários e tempo para a formação profissional.
-B. Inovar processos de ensino e aprendizagem para manter excelência diante do mercado.
-C. Ampliar a capacidade de criar e atualizar cursos em parceria com o mercado.
-D. Expandir e ampliar a capacidade de articulação com Governos e Setores Produtivos.
-E. Promover a captação de recursos extras e não orçamentários.
+APONTAMENTO DE SITUAÇÕES-PROBLEMA MAIS RELEVANTES - Manutenção e conservação predial - Materiais, equipamentos e mobiliários - Infraestrutura predial (espaços, sistemas) - Segurança pessoal e patrimonial - Infraestrutura laboratorial e ambientes de ensino - Participação da comunidade e sociedade - Metodologia de ensino, desempenho de alunos, evasão - Acesso/Inclusão ao Ensino Superior (social, PCD) - Redução do número de inscrições no Vestibular Matutino.
+Objetivos Institucionais – CPS (Plano de Metas) 1) Atender às demandas sociais e do mercado de trabalho. 2) Obter a satisfação dos públicos que se relacionam com o Centro Paula Souza (stakeholders). 3) Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem. 4) Assegurar a perenidade do crescimento da instituição com recursos financeiros disponíveis. 5) Garantir celeridade e efetividade na prestação de serviços. 6) Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no desenvolvimento tecnológico e 7) Promover a cultura de inovação e empreendedorismo. 8) Aumentar a eficiência, a produtividade e a competitividade da instituição. 9) Ampliar a oferta da Educação Profissional.
+Objetivos Institucionais – Cesu (Plano de Metas) A. Integrar as diferentes modalidades de ensino, otimizando itinerários e tempo para a formação profissional. B. Inovar processos de ensino e aprendizagem para manter excelência diante do mercado. C. Ampliar a capacidade de criar e atualizar cursos em parceria com o mercado. D. Expandir e ampliar a capacidade de articulação com Governos e Setores Produtivos. E. Promover a captação de recursos extras e não orçamentários.

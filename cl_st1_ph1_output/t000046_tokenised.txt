@@ -1,253 +1,30 @@
 Section: 1 ANÁLISE DO CENÁRIO
-PLANO DE GESTÃO ANUAL – PGA
-Considerando o cenário de pós-Covid, incluindo readequação do ensino presencial, saúde mental dos discentes, docentes e equipe técnico administrativa, mudança nas relações de trabalho e estágio (home-office), desenvolvimento e mudanças na rede tecnologia da informação, gestão e negócios; sendo a cidade de São Caetano do Sul um polo de inovação tecnológica, ouvimos” nossa comunidade acadêmica no formato de reuniões, formulários, professores que desenvolvem projetos de apoio à direção, além das informações coletadas pelo WebSai e consolidadas pela CPA, para elaboração deste Planejamento de Gestão Anual.
-APONTAMENTO DE SITUAÇÕES-PROBLEMA MAIS RELEVANTES (“Escuta”)
-Pedagógico: Projeto Pedagógico de Curso com necessidades de reestruturação
-Gestão de pessoas: conflitos de relacionamento entre docentes, discentes, servidores, clima organizacional, etc.
-Recursos tecnológicos: falta ou defasagem de computadores, roteadores, velocidade da internet,etc
-Parcerias: prospecção e gestão de parcerias.
-Infraestrutura: reformas – salas de aulas, laboratórios, instalações elétricas, etc
-Pedagógico: evasão e trancamento de alunos.
-Imagem institucional: divulgação dos cursos e da unidade de ensino.
-Pedagógico: falta de aquisição de bibliografias
-DEFINIÇÃO DE OBJETIVOS, METAS E AÇÕES (PROJETOS)
-Objetivos
-1 Atender às demandas sociais e do mercado de trabalho.
-2 Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem.
-3 Garantir celeridade e efetividade na prestação de serviços.
-4 Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no desenvolvimento tecnológico e inovação.
-Aumentar a eficiência, a produtividade e a competitividade da instituição
-Metas
-Ampliar as inscrições para o vestibular em 5% no ano de 2023.
-Firmar pelo menos 2 parcerias para realização de ações na unidade.
-Promover ações pedagógicas e administrativas que proporcionem a redução da taxa de evasão em 5%
-Reestruturar e otimizar a rede de comunicação de dados da unidade.
-Ampliar a empregabilidade dos egressos em 5%
-Adequar mobiliário, instalação elétrica e equipamentos tecnológicos.
-Reduzir em 10% os índices de retenções em disciplinas específicas (Matemática e Estágio)
-Licitar espaços, instalação e manutenção de equipamentos de segurança e conservação da unidade
-The English HUB - Ação coordenada da Fatec São Caetano do Sul para área de inglês
-O que será feito:
-01- Inglês para a comunidade
-02- Legendagem
-03- Conversação para grupos avançados
-04- Laboratório de línguas para alunos regulares da FATEC.
-05- Preparatório para testes de proficiência
-Por que será feito:
-01- Diminuir a evasão discente
-02- Manutenção dos alunos regulares nos cursos
-03- Engajamento da comunidade dentro da Fatec (o inglês como ferramenta para auxiliar a comunidade na busca por melhores vagas de emprego, no mercado de trabalho, e participação ativa da comunidade em assuntos de relevância intelectual, cultural, etc.)
-04- Investimento na melhora do uso de língua estrangeira pelo aluno, que está em busca de bons empregos, em um mercado, que exige a língua estrangeira no processo de seleção e contratação do futuro profissional da área de TI.
-Objetivo(s) relacionado(s): Atender às demandas sociais e do mercado de trabalho.
-Meta(s) relacionada(s):
-Ampliar as inscrições para o vestibular em 5% no ano de 2023.
-Promover ações pedagógicas e administrativas que proporcionem a redução da taxa de evasão em 5%
-Ação coordenada da Fatec São Caetano do Sul para (1) atendimento da comunidade; (2) Aprendizado na prática; e (3) divulgação da Unidade através do Projeto - Imposto de Renda e Finanças Pessoais.
-O que será feito:
-1) Atendimento de Dúvidas - Imposto de Renda Atendimento para Comunidade Interna e Externa
-2) Disponibilizar/Ministrar Palestra – Imposto de Renda
-3) Disponibilizar/Ministrar Palestra Finanças Pessoais e Economia Doméstica. Por que será feito: Para apoiar a comunidade interna e externa relacionadas a dúvidas sobre imposto IR, atenção as suas finanças pessoais e divulgar Software Livre.
-Objetivo(s) relacionado(s): Atender às demandas sociais e do mercado de trabalho.
-Meta(s) relacionada(s):
-Ampliar as inscrições para o vestibular em 5% no ano de 2023.
-Promover ações pedagógicas e administrativas que proporcionem a redução da taxa de evasão em 5%
-Ampliar a empregabilidade dos egressos em 5%
-Nivelamento de Matemática. O que será feito: Resgatar, aprofundar e solidificar os conhecimentos em matemática básica. Por que será feito: Melhorar o aproveitamento dos estudantes nas disciplinas de graduação.
-Objetivo(s) relacionado(s):
-Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem.
-Meta(s) relacionada(s):
-Reduzir em 10% os índices de retenções em disciplinas específicas (Matemática e Estágio)
-Desenvolvimento de um evento de Segurança da Informação conhecido por CTF (Capture in the Flag). O que será feito: Localização de parceiros que desenvolvem atividades afins para dar suporte técnico ao evento. Por que será feito: Este evento é tradicional nas instituições que possuem o curso de Segurança da Informação.
-Objetivo(s) relacionado(s):
-Aumentar a eficiência, a produtividade e a competitividade da instituição
-Atender às demandas sociais e do mercado de trabalho.
-Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no desenvolvimento tecnológico e inovação.
-Meta(s) relacionada(s):
-Ampliar as inscrições para o vestibular em 5% no ano de 2023.
-Promover ações pedagógicas e administrativas que proporcionem a redução da taxa de evasão em 5%
-Proposta de atualização do PPC do Curso de Segurança da Informação
-O que será feito: Estruturação de proposta para a atualização do Projeto Pedagógico do curso superior em tecnologia de segurança da informação, revendo as disciplinas e os conteúdos, bem como a sequência das mesmas.
-Por que será feito: A área de TI e especificamente a área de Segurança da Informação tiveram grandes mudanças e avanços nos últimos anos. Temos como BigData, Cloud Computing, IoT e Business Intelligence fazem parte deste mundo, e nem tudo é contemplado no curso de forma explícita.
-Objetivo(s) relacionado(s):
-Aumentar a eficiência, a produtividade e a competitividade da instituição
-Atender às demandas sociais e do mercado de trabalho.
-Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no desenvolvimento tecnológico e inovação.
-Meta(s) relacionada(s):
-Ampliar as inscrições para o vestibular em 5% no ano de 2023.
-Promover ações pedagógicas e administrativas que proporcionem a redução da taxa de evasão em 5%
-Elaboração do evento temático anual do Curso Superior em Tecnologia em Segurança da Informação conhecido por FATEC SecurityDay.
-O que será feito: Preparação de um evento com palestras e demonstrações práticas das ações e ferramentas ligadas à Segurança Cibernética
-Por que será feito: Nossos estudantes devem ser apresentados ao mercado formal da área de Segurança Cibernética por meio de eventos que trazem profissionais e empresas da área, desenvolvendo um contato próximo a eles.
-Aumentar a eficiência, a produtividade e a competitividade da instituição
-Atender às demandas sociais e do mercado de trabalho.
-Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no desenvolvimento tecnológico e inovação.
-Meta(s) relacionada(s):
-Ampliar as inscrições para o vestibular em 5% no ano de 2023.
-Promover ações pedagógicas e administrativas que proporcionem a redução da taxa de evasão em 5%
-Proposta de atualização do PPC do Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas com vistas à reestruturação.
-O que será feito: Estruturação de proposta atualização do PPC do CST em ADS mediante análise dos conteúdos programáticos dos componentes curriculares do curso, e construção de nova grade curricular segundo as exigências mercadológicas e legislação vigente.
-Por que será feito: Para atualização do Projeto Pedagógico do Curso em virtude do avanço tecnológico na área da tecnologia da informação e comunicação (TIC)
-Aumentar a eficiência, a produtividade e a competitividade da instituição
-Atender às demandas sociais e do mercado de trabalho.
-Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no desenvolvimento tecnológico e inovação.
-Meta(s) relacionada(s):
-Ampliar as inscrições para o vestibular em 5% no ano de 2023.
-Promover ações pedagógicas e administrativas que proporcionem a redução da taxa de evasão em 5%
-Meta(s) relacionada(s):
-Ampliar as inscrições para o vestibular em 5% no ano de 2023.
-Promover ações pedagógicas e administrativas que proporcionem a redução da taxa de evasão em 5%
-Organização do Encontro de Comércio Exterior (ENCOMEX) para público externo, professores e alunos interessados na área, visando uma aproximação entre a academia e o mercado de atuação em comércio exterior.
-O que será feito: Prospecção de convidados para ministrar palestras e oficinas durante o evento, preparação do cronograma de atividades, divulgação do evento junto ao público interno e externo, organização do evento e aplicação de pesquisa de satisfação após o evento.
-Por que será feito: Para aproximação da academia, representada por alunos e professores, ao mercado de atuação em comércio exterior, representado pelos profissionais convidados para proferir palestras e oficinas no evento.
-Objetivo(s) relacionado(s): Atender às demandas sociais e do mercado de trabalho.
-Meta(s) relacionada(s):
-Ampliar as inscrições para o vestibular em 5% no ano de 2023.
-Promover ações pedagógicas e administrativas que proporcionem a redução da taxa de evasão em 5%
-Projeto Oficina de Soluções (Estágio Voluntariado)
-O que será feito: Desenvolvimento de atividades junto aos alunos em Estágio Voluntariado na Unidade. Por que será feito: O desenvolvimento de atividades colabora com ações de extensão, aumenta o interesse dos alunos e colabora com habilidades e competências na formação do aluno
-Meta(s) relacionada(s):
-Ampliar as inscrições para o vestibular em 5% no ano de 2023.
-Promover ações pedagógicas e administrativas que proporcionem a redução da taxa de evasão em 5%
-Proposta de atualização do PPC do CST em Jogos Digitais com vistas a reestruturação
-COMUNICANDO VESTIBULAR 2023
-O que será feito: Artes e vídeos para auxiliar na divulgação de vestibular para os cursos da Fatec São Caetano do Sul. Por que será feito: Para auxiliar a faculdade na captação de novos alunos
-Meta(s) relacionada(s):
-Ampliar as inscrições para o vestibular em 5% no ano de 2023.
-Promover ações pedagógicas e administrativas que proporcionem a redução da taxa de evasão em 5%
-Proposta de atualização do PPC do CST em Jogos Digitais com vistas a reestruturação
-Escritório de Carreiras
-O que será feito: Orientações gerais sobre carreiras e processos seletivos aos alunos da Fatec São Caetano do Sul – Antonio Russo. Por que será feito: Orientar os alunos para processos seletivos (certificações, currículos, entrevistas, comportamento), e possíveis carreiras.
-Meta(s) relacionada(s):
-Ampliar as inscrições para o vestibular em 5% no ano de 2023.
-Promover ações pedagógicas e administrativas que proporcionem a redução da taxa de evasão em 5%
-Proposta de atualização do PPC do CST em Jogos Digitais com vistas a reestruturação
-Reduzir em 10% os índices de retenções em disciplinas específicas (Matemática e Estágio)
-Projeto Atendimento Psicopedagógico
-O que será feito: Serão realizados atendimentos individualizados aos alunos dos cursos presenciais da unidade São Caetano do Sul, mediante ao agendamento prévio. Por que será feito: Para acolhimento às questões psicológicas e também a dificuldade de aprendizagem.
-Meta(s) relacionada(s):
-Ampliar as inscrições para o vestibular em 5% no ano de 2023.
-Promover ações pedagógicas e administrativas que proporcionem a redução da taxa de evasão em 5%
-Proposta de atualização do PPC do CST em Jogos Digitais com vistas a reestruturação
-Site da Unidade
-O que será feito: Adaptação do site da Unidade ao modelo definido pela AssCom. Por que será feito: Trazer uma identidade visual atualizada ao site por meio do alinhamento à identidade visual definida pela AssCom.
-Meta(s) relacionada(s):
-Ampliar as inscrições para o vestibular em 5% no ano de 2023.
-Promover ações pedagógicas e administrativas que proporcionem a redução da taxa de evasão em 5%
-Proposta de atualização do PPC do CST em Jogos Digitais com vistas a reestruturação
-Fatec SCS Games Day 2023
-O que será feito: Organizar o evento anual do CST em Jogos Digitais. Por que será feito: Oferecer aos alunos e ao público externo uma oportunidade de atualização em temas ligados ao desenvolvimento de jogos. Contribuir para o aumento da visibilidade do Curso e da Unidade.
-Meta(s) relacionada(s):
-Ampliar as inscrições para o vestibular em 5% no ano de 2023.
-Promover ações pedagógicas e administrativas que proporcionem a redução da taxa de evasão em 5%
-Global Game Jam 2024
-O que será feito: Inscrição da Fatec São Caetano do Sul como sede da Global Game Jam 2024 e organização da sede visando a realização do evento. Por que será feito: Organizar a sede da Global Game Jam 2024 @ Fatec São Caetano do Sul, oferecendo aos alunos e ao público externo a oportunidade de participar dessa que é a maior game jam do mundo na sede da Fatec São Caetano do Sul, que realiza o evento ininterruptamente desde 2011. Contribuir para o aumento da visibilidade do Curso e da Unidade.
-Objetivo(s) relacionado(s): Atender às demandas sociais e do mercado de trabalho.
-Meta(s) relacionada(s):
-Ampliar as inscrições para o vestibular em 5% no ano de 2023.
-Promover ações pedagógicas e administrativas que proporcionem a redução da taxa de evasão em 5%
-Proposta de atualização do PPC do CST em Jogos Digitais com vistas a reestruturação
-O que será feito: Estruturação de proposta para atualização do PPC do CST em Jogos Digitais por meio de análise do perfil profissional do egresso atual, das necessidades do setor e da identificação de novo perfil profissional do egresso, competências a serem desenvolvidas e definição de nova estrutura curricular de forma a contemplar essas competências.
-Por que será feito: Atualização do Projeto Pedagógico do Curso em função das necessidades do setor.
-Objetivo(s) relacionado(s):
-Aumentar a eficiência, a produtividade e a competitividade da instituição
-Atender às demandas sociais e do mercado de trabalho.
-Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no desenvolvimento tecnológico e inovação.
-Meta(s) relacionada(s):
-Ampliar as inscrições para o vestibular em 5% no ano de 2023.
-Promover ações pedagógicas e administrativas que proporcionem a redução da taxa de evasão em 5%
-Aquisição de livros importados para o curso de Jogos Digitais. O que será feito: Elaboração de relatório de necessidades de aquisição de livros importados de acordo com as bibliografias básica e complementar do PPC do CST em Jogos Digitais. Por que será feito: Manter o acervo completo e atualizado conforme a bibliografia do curso descrita no PPC.
-Objetivo(s) relacionado(s):
-Aumentar a eficiência, a produtividade e a competitividade da instituição
-Atender às demandas sociais e do mercado de trabalho.
-Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no desenvolvimento tecnológico e inovação.
-Meta(s) relacionada(s):
-Promover ações pedagógicas e administrativas que proporcionem a redução da taxa de evasão em 5%
-Aquisição de insumos para o curso de Jogos Digitais. O que será feito: Elaboração de relatório de necessidades de aquisição de insumos para utilização em atividades do CST em Jogos Digitais. Por que será feito: Atender a solicitação de especialistas do CEESP decorrentes da última renovação de reconhecimento do Curso
-Objetivo(s) relacionado(s):
-Aumentar a eficiência, a produtividade e a competitividade da instituição.
-Atender às demandas sociais e do mercado de trabalho.
-Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no desenvolvimento tecnológico e inovação.
-Meta(s) relacionada(s):
-Promover ações pedagógicas e administrativas que proporcionem a redução da taxa de evasão em 5%
-Implantação novo curso AMS
-O que será feito: Em parceria com a Etec Jorge Street implantar o curso AMS Tecnólogo em Processos Gerenciais (a partir do curso técnico de Administração)
-Por que será feito: Ampliar vagas oferecidas em curso superior utilizando salas de aula ociosas no período matutino.
-Objetivo(s) relacionado(s):
-Aumentar a eficiência, a produtividade e a competitividade da instituição
-Atender às demandas sociais e do mercado de trabalho.
-Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no desenvolvimento tecnológico e inovação.
-Meta(s) relacionada(s): Ampliar as inscrições para o vestibular em 5% no ano de 2023.
-Objetivo(s) relacionado(s): Aumentar a eficiência, a produtividade e a competitividade da instituição
-Meta(s) relacionada(s): Reestruturar e otimizar a rede de comunicação de dados da unidade.
-A- Proposta de indexação do Fasci-Tech, periódico científico eletrônico da Fatec de São Caetano do Sul, nas principais bases de dados.
-O que será feito: Identificação dos critérios para o processo de indexação do Fasci-Tech, definição de cronograma de atividades para atendimento aos requisitos das principais bases de dados e estabelecimento de plano de ação para conclusão do registro do periódico.
-Por que será feito: Para estabelecimento da correta padronização dos dados bibliográficos do periódico, mirando não somente a visibilidade da revista para publicação, bem como seu reconhecimento pelos pares na área de atuação.
-Objetivo(s) relacionado(s):
-Aumentar a eficiência, a produtividade e a competitividade da instituição
-Garantir celeridade e efetividade na prestação de serviços.
-Meta(s) relacionada(s):
-Ampliar as inscrições para o vestibular em 5% no ano de 2023.
-Promover ações pedagógicas e administrativas que proporcionem a redução da taxa de evasão em 5%
-FaSCi-Tech. O que será feito: Atualização da plataforma de suporte ao periódico. Por que será feito: Necessidade técnica.
-Objetivo(s) relacionado(s):
-Aumentar a eficiência, a produtividade e a competitividade da instituição
-Garantir celeridade e efetividade na prestação de serviços.
-Meta(s) relacionada(s):
-Ampliar as inscrições para o vestibular em 5% no ano de 2023.
-Promover ações pedagógicas e administrativas que proporcionem a redução da taxa de evasão em 5%
-Proposta de oferecimento semestral do edital de abertura para submissão de propostas de pesquisa docente e discente para o Programa Institucional de Iniciação Científica (PCITec) da Fatec São Caetano do Sul.
-O que será feito: Promoção do Programa Institucional de Iniciação Científica (PCITec) da Fatec São Caetano do Sul à comunidade acadêmica, atualização do edital de abertura de inscrições, divulgação do cronograma do PCITec para submissão de propostas de pesquisa docente e discente, análise dos projetos enviados, divulgação dos resultados, início da pesquisa docente e discente e entrega dos relatórios parciais de orientadores e orientados.
-Por que será feito: Para desenvolvimento de atividades científicas e tecnológicas nos cursos de Análise e Desenvolvimento de Sistemas, Comércio Exterior, Jogos Digitais e Segurança da Informação, através da promoção do PCITec da Fatec São Caetano do Sul à comunidade acadêmica.
-Objetivo(s) relacionado(s):
-Aumentar a eficiência, a produtividade e a competitividade da instituição
-Garantir celeridade e efetividade na prestação de serviços.
-Aumentar a eficiência, a produtividade e a competitividade da instituição
-Meta(s) relacionada(s):
-Ampliar as inscrições para o vestibular em 5% no ano de 2023.
-Promover ações pedagógicas e administrativas que proporcionem a redução da taxa de evasão em 5%
-Monitoria
-O que será feito: Programa de monitoria para disciplinas com maior reprovação.
-Por que será feito: Para auxiliar no processo de aprovação dos alunos com dificuldades em disciplinas específicas que tem maior índice de retenção.
-Objetivo(s) relacionado(s): Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem.
-Meta(s) relacionada(s): Promover ações pedagógicas e administrativas que proporcionem a redução da taxa de evasão em 5%
-Atividades sobre Relações Interpessoais
-O que será feito: Realizar palestras e workshops sobre relacionamento interpessoal aos servidores técnico-administrativo.
-Por que será feito: Em pesquisa realizada percebeu-se que há conflitos de relacionamento entre docentes, discentes e servidores que afeta o clima organizacional.
-Objetivo(s) relacionado(s):
-Garantir celeridade e efetividade na prestação de serviços.
-Aumentar a eficiência, a produtividade e a competitividade da instituição
-Meta(s) relacionada(s): Promover ações pedagógicas e administrativas que proporcionem a redução da taxa de evasão em 5%
-07 – Convênios e Parcerias Institucionais
-Proposta de ampliação de parcerias externas para o desenvolvimento de Projetos Colaborativos Internacionais (PCIs) nos cursos tecnológicos oferecidos na Fatec São Caetano do Sul.
-O que será feito: Identificação de novas parcerias externas, definição de objetivos para o desenvolvimento dos novos projetos, elaboração dos cronogramas de atividades, execução dos projetos e otimização dos PCIs para o contínuo perfeiçoamento deles.
-Por que será feito: Para promoção de trocas de experiências internacionais entre os parceiros; desenvolvimento de habilidades digitais, linguísticas e interculturais, e realização de projetos colaborativos que estimulem o aprendizado prático.
-Objetivo(s) relacionado(s):
-Atender às demandas sociais e do mercado de trabalho.
-Aumentar a eficiência, a produtividade e a competitividade da instituição
-Meta(s) relacionada(s): Firmar pelo menos 2 parcerias para realização de ações na unidade.
-Projeto de pesquisa e desenvolvimento de sistema para o Serviço de Atendimento Móvel de Urgência (SAMU) do município de São Caetano do Sul.
-O que será feito: Projeto de pesquisa e desenvolvimento de sistema para controle de ambulâncias, insumos e usuários (enfermeiros, administrativos e condutores) para o Serviço de Atendimento Móvel de Urgência (SAMU) do município de São Caetano do Sul
-Por que será feito: Para atendimento às demandas sociais e do mercado de trabalho regional
-Objetivo(s) relacionado(s):
-Atender às demandas sociais e do mercado de trabalho.
-Aumentar a eficiência, a produtividade e a competitividade da instituição
-Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no desenvolvimento tecnológico e inovação.
-Garantir celeridade e efetividade na prestação de serviços.
-Meta(s) relacionada(s): Firmar pelo menos 2 parcerias para realização de ações na unidade.
-Proposta de implantação do Núcleo de Apoio Fiscal (NAF), em parceria com a Receita Federal do Brasil (RFB), com vistas à atuação da Unidade junto à comunidade externa.
-O que será feito: Conclusão da parceria com a RFB para implantação do NAF na Unidade, adequação do local para atendimento à comunidade, elaboração de editais e seleção dos alunos que vão fazer o treinamento fornecido pela RBF, e acompanhamento do treinamento e do atendimento dos estudantes junto ao público externo.
-Por que será feito: Para implantação do NAF em virtude do compartilhamento, com o público externo, do conhecimento adquirido por meio das atividades de ensino, pesquisa e extensão desenvolvidas na instituição.
-Objetivo(s) relacionado(s):
-Atender às demandas sociais e do mercado de trabalho.
-Aumentar a eficiência, a produtividade e a competitividade da instituição
-Garantir celeridade e efetividade na prestação de serviços.
-Meta(s) relacionada(s): Firmar pelo menos 2 parcerias para realização de ações na unidade.
-Escola de Psicologia da USCS
-O que será feito: Atendimento psicológico a discentes, docentes e servidores técnico-administrativos
-Por que será feito: Minimizar as consequências do pós-Covid 19 na saúde mental de nossos discentes, docentes e equipe técnico-administrativa, considerando o período de isolamento e ensino remoto emergencial
-Objetivo(s) relacionado(s):
-Atender às demandas sociais e do mercado de trabalho.
-Aumentar a eficiência, a produtividade e a competitividade da instituição
-Garantir celeridade e efetividade na prestação de serviços.
-Meta(s) relacionada(s):
-Firmar pelo menos 2 parcerias para realização de ações na unidade.
+PLANO DE GESTÃO ANUAL – PGA Considerando o cenário de pós-Covid, incluindo readequação do ensino presencial, saúde mental dos discentes, docentes e equipe técnico administrativa, mudança nas relações de trabalho e estágio (home-office), desenvolvimento e mudanças na rede tecnologia da informação, gestão e negócios; sendo a cidade de São Caetano do Sul um polo de inovação tecnológica, ouvimos” nossa comunidade acadêmica no formato de reuniões, formulários, professores que desenvolvem projetos de apoio à direção, além das informações coletadas pelo WebSai e consolidadas pela CPA, para elaboração deste Planejamento de Gestão Anual.
+APONTAMENTO DE SITUAÇÕES-PROBLEMA MAIS RELEVANTES (“Escuta”) Pedagógico: Projeto Pedagógico de Curso com necessidades de reestruturação Gestão de pessoas: conflitos de relacionamento entre docentes, discentes, servidores, clima organizacional, etc. Recursos tecnológicos: falta ou defasagem de computadores, roteadores, velocidade da internet,etc Parcerias: prospecção e gestão de parcerias. Infraestrutura: reformas – salas de aulas, laboratórios, instalações elétricas, etc Pedagógico: evasão e trancamento de alunos. Imagem institucional: divulgação dos cursos e da unidade de ensino. Pedagógico: falta de aquisição de bibliografias
+DEFINIÇÃO DE OBJETIVOS, METAS E AÇÕES (PROJETOS) Objetivos 1 Atender às demandas sociais e do mercado de trabalho. 2 Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem. 3 Garantir celeridade e efetividade na prestação de serviços. 4 Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no desenvolvimento tecnológico e inovação. 5 Aumentar a eficiência, a produtividade e a competitividade da instituição
+Metas Ampliar as inscrições para o vestibular em 5% no ano de 2023. Firmar pelo menos 2 parcerias para realização de ações na unidade. Promover ações pedagógicas e administrativas que proporcionem a redução da taxa de evasão em 5% Reestruturar e otimizar a rede de comunicação de dados da unidade. Ampliar a empregabilidade dos egressos em 5% Adequar mobiliário, instalação elétrica e equipamentos tecnológicos. Reduzir em 10% os índices de retenções em disciplinas específicas (Matemática e Estágio) Licitar espaços, instalação e manutenção de equipamentos de segurança e conservação da unidade
+The English HUB - Ação coordenada da Fatec São Caetano do Sul para área de inglês O que será feito: 01- Inglês para a comunidade 02- Legendagem 03- Conversação para grupos avançados 04- Laboratório de línguas para alunos regulares da FATEC. 05- Preparatório para testes de proficiência Por que será feito: 01- Diminuir a evasão discente 02- Manutenção dos alunos regulares nos cursos 03- Engajamento da comunidade dentro da Fatec (o inglês como ferramenta para auxiliar a comunidade na busca por melhores vagas de emprego, no mercado de trabalho, e participação ativa da comunidade em assuntos de relevância intelectual, cultural, etc.) 04- Investimento na melhora do uso de língua estrangeira pelo aluno, que está em busca de bons empregos, em um mercado, que exige a língua estrangeira no processo de seleção e contratação do futuro profissional da área de TI. Objetivo(s) relacionado(s): Atender às demandas sociais e do mercado de trabalho. Meta(s) relacionada(s): Ampliar as inscrições para o vestibular em 5% no ano de 2023. Promover ações pedagógicas e administrativas que proporcionem a redução da taxa de evasão em 5%
+Ação coordenada da Fatec São Caetano do Sul para (1) atendimento da comunidade; (2) Aprendizado na prática; e (3) divulgação da Unidade através do Projeto - Imposto de Renda e Finanças Pessoais. O que será feito: 1) Atendimento de Dúvidas - Imposto de Renda Atendimento para Comunidade Interna e Externa 2) Disponibilizar/Ministrar Palestra – Imposto de Renda 3) Disponibilizar/Ministrar Palestra Finanças Pessoais e Economia Doméstica. Por que será feito: Para apoiar a comunidade interna e externa relacionadas a dúvidas sobre imposto IR, atenção as suas finanças pessoais e divulgar Software Livre. Objetivo(s) relacionado(s): Atender às demandas sociais e do mercado de trabalho. Meta(s) relacionada(s): Ampliar as inscrições para o vestibular em 5% no ano de 2023. Promover ações pedagógicas e administrativas que proporcionem a redução da taxa de evasão em 5% Ampliar a empregabilidade dos egressos em 5%
+Nivelamento de Matemática. O que será feito: Resgatar, aprofundar e solidificar os conhecimentos em matemática básica. Por que será feito: Melhorar o aproveitamento dos estudantes nas disciplinas de graduação. Objetivo(s) relacionado(s): Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem. Meta(s) relacionada(s): Reduzir em 10% os índices de retenções em disciplinas específicas (Matemática e Estágio)
+Desenvolvimento de um evento de Segurança da Informação conhecido por CTF (Capture in the Flag). O que será feito: Localização de parceiros que desenvolvem atividades afins para dar suporte técnico ao evento. Por que será feito: Este evento é tradicional nas instituições que possuem o curso de Segurança da Informação. Objetivo(s) relacionado(s): Aumentar a eficiência, a produtividade e a competitividade da instituição Atender às demandas sociais e do mercado de trabalho. Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no desenvolvimento tecnológico e inovação. Meta(s) relacionada(s): Ampliar as inscrições para o vestibular em 5% no ano de 2023. Promover ações pedagógicas e administrativas que proporcionem a redução da taxa de evasão em 5%
+Proposta de atualização do PPC do Curso de Segurança da Informação O que será feito: Estruturação de proposta para a atualização do Projeto Pedagógico do curso superior em tecnologia de segurança da informação, revendo as disciplinas e os conteúdos, bem como a sequência das mesmas. Por que será feito: A área de TI e especificamente a área de Segurança da Informação tiveram grandes mudanças e avanços nos últimos anos. Temos como BigData, Cloud Computing, IoT e Business Intelligence fazem parte deste mundo, e nem tudo é contemplado no curso de forma explícita. Objetivo(s) relacionado(s): Aumentar a eficiência, a produtividade e a competitividade da instituição Atender às demandas sociais e do mercado de trabalho. Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no desenvolvimento tecnológico e inovação. Meta(s) relacionada(s): Ampliar as inscrições para o vestibular em 5% no ano de 2023. Promover ações pedagógicas e administrativas que proporcionem a redução da taxa de evasão em 5%
+Elaboração do evento temático anual do Curso Superior em Tecnologia em Segurança da Informação conhecido por FATEC SecurityDay. O que será feito: Preparação de um evento com palestras e demonstrações práticas das ações e ferramentas ligadas à Segurança Cibernética Por que será feito: Nossos estudantes devem ser apresentados ao mercado formal da área de Segurança Cibernética por meio de eventos que trazem profissionais e empresas da área, desenvolvendo um contato próximo a eles. Aumentar a eficiência, a produtividade e a competitividade da instituição Atender às demandas sociais e do mercado de trabalho. Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no desenvolvimento tecnológico e inovação. Meta(s) relacionada(s): Ampliar as inscrições para o vestibular em 5% no ano de 2023. Promover ações pedagógicas e administrativas que proporcionem a redução da taxa de evasão em 5%
+Proposta de atualização do PPC do Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas com vistas à reestruturação. O que será feito: Estruturação de proposta atualização do PPC do CST em ADS mediante análise dos conteúdos programáticos dos componentes curriculares do curso, e construção de nova grade curricular segundo as exigências mercadológicas e legislação vigente. Por que será feito: Para atualização do Projeto Pedagógico do Curso em virtude do avanço tecnológico na área da tecnologia da informação e comunicação (TIC) Aumentar a eficiência, a produtividade e a competitividade da instituição Atender às demandas sociais e do mercado de trabalho. Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no desenvolvimento tecnológico e inovação. Meta(s) relacionada(s): Ampliar as inscrições para o vestibular em 5% no ano de 2023. Promover ações pedagógicas e administrativas que proporcionem a redução da taxa de evasão em 5% Meta(s) relacionada(s): Ampliar as inscrições para o vestibular em 5% no ano de 2023. Promover ações pedagógicas e administrativas que proporcionem a redução da taxa de evasão em 5%
+Organização do Encontro de Comércio Exterior (ENCOMEX) para público externo, professores e alunos interessados na área, visando uma aproximação entre a academia e o mercado de atuação em comércio exterior. O que será feito: Prospecção de convidados para ministrar palestras e oficinas durante o evento, preparação do cronograma de atividades, divulgação do evento junto ao público interno e externo, organização do evento e aplicação de pesquisa de satisfação após o evento. Por que será feito: Para aproximação da academia, representada por alunos e professores, ao mercado de atuação em comércio exterior, representado pelos profissionais convidados para proferir palestras e oficinas no evento. Objetivo(s) relacionado(s): Atender às demandas sociais e do mercado de trabalho. Meta(s) relacionada(s): Ampliar as inscrições para o vestibular em 5% no ano de 2023. Promover ações pedagógicas e administrativas que proporcionem a redução da taxa de evasão em 5%
+Projeto Oficina de Soluções (Estágio Voluntariado) O que será feito: Desenvolvimento de atividades junto aos alunos em Estágio Voluntariado na Unidade. Por que será feito: O desenvolvimento de atividades colabora com ações de extensão, aumenta o interesse dos alunos e colabora com habilidades e competências na formação do aluno Meta(s) relacionada(s): Ampliar as inscrições para o vestibular em 5% no ano de 2023. Promover ações pedagógicas e administrativas que proporcionem a redução da taxa de evasão em 5% Proposta de atualização do PPC do CST em Jogos Digitais com vistas a reestruturação
+COMUNICANDO VESTIBULAR 2023 O que será feito: Artes e vídeos para auxiliar na divulgação de vestibular para os cursos da Fatec São Caetano do Sul. Por que será feito: Para auxiliar a faculdade na captação de novos alunos Meta(s) relacionada(s): Ampliar as inscrições para o vestibular em 5% no ano de 2023. Promover ações pedagógicas e administrativas que proporcionem a redução da taxa de evasão em 5% Proposta de atualização do PPC do CST em Jogos Digitais com vistas a reestruturação
+Escritório de Carreiras O que será feito: Orientações gerais sobre carreiras e processos seletivos aos alunos da Fatec São Caetano do Sul – Antonio Russo. Por que será feito: Orientar os alunos para processos seletivos (certificações, currículos, entrevistas, comportamento), e possíveis carreiras. Meta(s) relacionada(s): Ampliar as inscrições para o vestibular em 5% no ano de 2023. Promover ações pedagógicas e administrativas que proporcionem a redução da taxa de evasão em 5% Proposta de atualização do PPC do CST em Jogos Digitais com vistas a reestruturação Reduzir em 10% os índices de retenções em disciplinas específicas (Matemática e Estágio)
+Projeto Atendimento Psicopedagógico O que será feito: Serão realizados atendimentos individualizados aos alunos dos cursos presenciais da unidade São Caetano do Sul, mediante ao agendamento prévio. Por que será feito: Para acolhimento às questões psicológicas e também a dificuldade de aprendizagem. Meta(s) relacionada(s): Ampliar as inscrições para o vestibular em 5% no ano de 2023. Promover ações pedagógicas e administrativas que proporcionem a redução da taxa de evasão em 5%
+Proposta de atualização do PPC do CST em Jogos Digitais com vistas a reestruturação Site da Unidade O que será feito: Adaptação do site da Unidade ao modelo definido pela AssCom. Por que será feito: Trazer uma identidade visual atualizada ao site por meio do alinhamento à identidade visual definida pela AssCom. Meta(s) relacionada(s): Ampliar as inscrições para o vestibular em 5% no ano de 2023. Promover ações pedagógicas e administrativas que proporcionem a redução da taxa de evasão em 5% Proposta de atualização do PPC do CST em Jogos Digitais com vistas a reestruturação
+Fatec SCS Games Day 2023 O que será feito: Organizar o evento anual do CST em Jogos Digitais. Por que será feito: Oferecer aos alunos e ao público externo uma oportunidade de atualização em temas ligados ao desenvolvimento de jogos. Contribuir para o aumento da visibilidade do Curso e da Unidade. Meta(s) relacionada(s): Ampliar as inscrições para o vestibular em 5% no ano de 2023. Promover ações pedagógicas e administrativas que proporcionem a redução da taxa de evasão em 5%
+Global Game Jam 2024 O que será feito: Inscrição da Fatec São Caetano do Sul como sede da Global Game Jam 2024 e organização da sede visando a realização do evento. Por que será feito: Organizar a sede da Global Game Jam 2024 @ Fatec São Caetano do Sul, oferecendo aos alunos e ao público externo a oportunidade de participar dessa que é a maior game jam do mundo na sede da Fatec São Caetano do Sul, que realiza o evento ininterruptamente desde 2011. Contribuir para o aumento da visibilidade do Curso e da Unidade. Objetivo(s) relacionado(s): Atender às demandas sociais e do mercado de trabalho. Meta(s) relacionada(s): Ampliar as inscrições para o vestibular em 5% no ano de 2023. Promover ações pedagógicas e administrativas que proporcionem a redução da taxa de evasão em 5%
+Proposta de atualização do PPC do CST em Jogos Digitais com vistas a reestruturação O que será feito: Estruturação de proposta para atualização do PPC do CST em Jogos Digitais por meio de análise do perfil profissional do egresso atual, das necessidades do setor e da identificação de novo perfil profissional do egresso, competências a serem desenvolvidas e definição de nova estrutura curricular de forma a contemplar essas competências. Por que será feito: Atualização do Projeto Pedagógico do Curso em função das necessidades do setor. Objetivo(s) relacionado(s): Aumentar a eficiência, a produtividade e a competitividade da instituição Atender às demandas sociais e do mercado de trabalho. Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no desenvolvimento tecnológico e inovação. Meta(s) relacionada(s): Ampliar as inscrições para o vestibular em 5% no ano de 2023. Promover ações pedagógicas e administrativas que proporcionem a redução da taxa de evasão em 5%
+Implantação novo curso AMS O que será feito: Em parceria com a Etec Jorge Street implantar o curso AMS Tecnólogo em Processos Gerenciais (a partir do curso técnico de Administração) Por que será feito: Ampliar vagas oferecidas em curso superior utilizando salas de aula ociosas no período matutino. Objetivo(s) relacionado(s): Aumentar a eficiência, a produtividade e a competitividade da instituição Atender às demandas sociais e do mercado de trabalho. Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no desenvolvimento tecnológico e inovação. Meta(s) relacionada(s): Ampliar as inscrições para o vestibular em 5% no ano de 2023. Objetivo(s) relacionado(s): Aumentar a eficiência, a produtividade e a competitividade da instituição Meta(s) relacionada(s): Reestruturar e otimizar a rede de comunicação de dados da unidade.
+A- Proposta de indexação do Fasci-Tech, periódico científico eletrônico da Fatec de São Caetano do Sul, nas principais bases de dados. O que será feito: Identificação dos critérios para o processo de indexação do Fasci-Tech, definição de cronograma de atividades para atendimento aos requisitos das principais bases de dados e estabelecimento de plano de ação para conclusão do registro do periódico. Por que será feito: Para estabelecimento da correta padronização dos dados bibliográficos do periódico, mirando não somente a visibilidade da revista para publicação, bem como seu reconhecimento pelos pares na área de atuação. Objetivo(s) relacionado(s): Aumentar a eficiência, a produtividade e a competitividade da instituição Garantir celeridade e efetividade na prestação de serviços. Meta(s) relacionada(s): Ampliar as inscrições para o vestibular em 5% no ano de 2023 Promover ações pedagógicas e administrativas que proporcionem a redução da taxa de evasão em 5% FaSCi-Tech. O que será feito: Atualização da plataforma de suporte ao periódico. Por que será feito: Necessidade técnica. Objetivo(s) relacionado(s): Aumentar a eficiência, a produtividade e a competitividade da instituição Garantir celeridade e efetividade na prestação de serviços. Meta(s) relacionada(s): Ampliar as inscrições para o vestibular em 5% no ano de 2023. Promover ações pedagógicas e administrativas que proporcionem a redução da taxa de evasão em 5%
+Proposta de oferecimento semestral do edital de abertura para submissão de propostas de pesquisa docente e discente para o Programa Institucional de Iniciação Científica (PCITec) da Fatec São Caetano do Sul. O que será feito: Promoção do Programa Institucional de Iniciação Científica (PCITec) da Fatec São Caetano do Sul à comunidade acadêmica, atualização do edital de abertura de inscrições, divulgação do cronograma do PCITec para submissão de propostas de pesquisa docente e discente, análise dos projetos enviados, divulgação dos resultados, início da pesquisa docente e discente e entrega dos relatórios parciais de orientadores e orientados. Por que será feito: Para desenvolvimento de atividades científicas e tecnológicas nos cursos de Análise e Desenvolvimento de Sistemas, Comércio Exterior, Jogos Digitais e Segurança da Informação, através da promoção do PCITec da Fatec São Caetano do Sul à comunidade acadêmica. Objetivo(s) relacionado(s): Aumentar a eficiência, a produtividade e a competitividade da instituição Garantir celeridade e efetividade na prestação de serviços. Aumentar a eficiência, a produtividade e a competitividade da instituição Meta(s) relacionada(s): Ampliar as inscrições para o vestibular em 5% no ano de 2023. Promover ações pedagógicas e administrativas que proporcionem a redução da taxa de evasão em 5%
+Monitoria O que será feito: Programa de monitoria para disciplinas com maior reprovação. Por que será feito: Para auxiliar no processo de aprovação dos alunos com dificuldades em disciplinas específicas que tem maior índice de retenção. Objetivo(s) relacionado(s): Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem. Meta(s) relacionada(s): Promover ações pedagógicas e administrativas que proporcionem a redução da taxa de evasão em 5%
+Atividades sobre Relações Interpessoais O que será feito: Realizar palestras e workshops sobre relacionamento interpessoal aos servidores técnico-administrativo. Por que será feito: Em pesquisa realizada percebeu-se que há conflitos de relacionamento entre docentes, discentes e servidores que afeta o clima organizacional. Objetivo(s) relacionado(s): Garantir celeridade e efetividade na prestação de serviços. Aumentar a eficiência, a produtividade e a competitividade da instituição Meta(s) relacionada(s): Promover ações pedagógicas e administrativas que proporcionem a redução da taxa de evasão em 5%
+Convênios e Parcerias Institucionais Proposta de ampliação de parcerias externas para o desenvolvimento de Projetos Colaborativos Internacionais (PCIs) nos cursos tecnológicos oferecidos na Fatec São Caetano do Sul. O que será feito: Identificação de novas parcerias externas, definição de objetivos para o desenvolvimento dos novos projetos, elaboração dos cronogramas de atividades, execução dos projetos e otimização dos PCIs para o contínuo perfeiçoamento deles. Por que será feito: Para promoção de trocas de experiências internacionais entre os parceiros; desenvolvimento de habilidades digitais, linguísticas e interculturais, e realização de projetos colaborativos que estimulem o aprendizado prático. Objetivo(s) relacionado(s): Atender às demandas sociais e do mercado de trabalho. Aumentar a eficiência, a produtividade e a competitividade da instituição Meta(s) relacionada(s): Firmar pelo menos 2 parcerias para realização de ações na unidade.
+Projeto de pesquisa e desenvolvimento de sistema para o Serviço de Atendimento Móvel de Urgência (SAMU) do município de São Caetano do Sul. O que será feito: Projeto de pesquisa e desenvolvimento de sistema para controle de ambulâncias, insumos e usuários (enfermeiros, administrativos e condutores) para o Serviço de Atendimento Móvel de Urgência (SAMU) do município de São Caetano do Sul Por que será feito: Para atendimento às demandas sociais e do mercado de trabalho regional Objetivo(s) relacionado(s): Atender às demandas sociais e do mercado de trabalho. Aumentar a eficiência, a produtividade e a competitividade da instituição Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no desenvolvimento tecnológico e inovação. Garantir celeridade e efetividade na prestação de serviços. Meta(s) relacionada(s): Firmar pelo menos 2 parcerias para realização de ações na unidade.
+Proposta de implantação do Núcleo de Apoio Fiscal (NAF), em parceria com a Receita Federal do Brasil (RFB), com vistas à atuação da Unidade junto à comunidade externa. O que será feito: Conclusão da parceria com a RFB para implantação do NAF na Unidade, adequação do local para atendimento à comunidade, elaboração de editais e seleção dos alunos que vão fazer o treinamento fornecido pela RBF, e acompanhamento do treinamento e do atendimento dos estudantes junto ao público externo. Por que será feito: Para implantação do NAF em virtude do compartilhamento, com o público externo, do conhecimento adquirido por meio das atividades de ensino, pesquisa e extensão desenvolvidas na instituição. Objetivo(s) relacionado(s): Atender às demandas sociais e do mercado de trabalho. Aumentar a eficiência, a produtividade e a competitividade da instituição Garantir celeridade e efetividade na prestação de serviços. Meta(s) relacionada(s): Firmar pelo menos 2 parcerias para realização de ações na unidade.
+Escola de Psicologia da USCS O que será feito: Atendimento psicológico a discentes, docentes e servidores técnico-administrativos Por que será feito: Minimizar as consequências do pós-Covid 19 na saúde mental de nossos discentes, docentes e equipe técnico-administrativa, considerando o período de isolamento e ensino remoto emergencial Objetivo(s) relacionado(s): Atender às demandas sociais e do mercado de trabalho. Aumentar a eficiência, a produtividade e a competitividade da instituição Garantir celeridade e efetividade na prestação de serviços. Meta(s) relacionada(s): Firmar pelo menos 2 parcerias para realização de ações na unidade.

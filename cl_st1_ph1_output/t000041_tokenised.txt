@@ -1,47 +1,11 @@
 Section: 1 ANÁLISE DO CENÁRIO
-PLANO DE GESTÃO ANUAL – PGA
-A Fatec Mauá possui a crença no planejamento como instrumento de gestão. Dado que, por meio da avaliação temos condições de reunir indicadores capazes de suscitar análises e discussões possibilitando definir planos de melhorias de forma continuada.
-Isto posto, o Plano de Gestão Anual para o ano de 2023, apresenta ações/projetos em consonância com o Plano de Metas da CESU (Unidade de Ensino Superior de Graduação) do CPS (Centro Paula Souza), não mantendo distância dos demais departamentos da autarquia, com vistas em melhorar a infraestrutura da unidade escolar, bem como os recursos didático-pedagógicos disponibilizados nos múltiplos ambientes de ensino-aprendizagem.
-Na unidade escolar são ofertados sete cursos superiores de tecnologia, nos eixos de Gestão e Processos Industriais, tanto no período matutino quanto noturno. A equipe é composta de 12 técnico-administrativos, 118 docentes e 1648 estudantes regularmente matriculados.
-APONTAMENTO DE SITUAÇÕES-PROBLEMA MAIS RELEVANTES (“Escuta”)
-Evasão escolar
-Baixa demanda do Processo Seletivo – Vestibular
-Aquisição de materiais e equipamentos diversos
-Manutenção predial e ambientação educacional
-DEFINIÇÃO DE OBJETIVOS, METAS E AÇÕES (PROJETOS)
-Objetivos
-1 Atender às demandas sociais e do mercado de trabalho, em torno da Região do ABC Paulista
-2 Manter o grau de excelência em seus processos de ensino-aprendizagem
-3 Aperfeiçoar continuamente os processos de planejamento, gestão e as atividades operacionais e administrativas
-4 Promover a cultura de inovação e empreendedorismo
-5 Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no desenvolvimento tecnológico e inovação
-Os objetivos devem estar relacionados com melhoria ou ação, sobre itens do PDI.
-Metas
-Promover 2 visitas técnicas por semestre
-Atualizar 1 laboratório de Processamento
-Ofertar cursos de extensão universitária,
-Atualizar 1 laboratório de Ensaios físicos de alcançando emissão de 30 certificados polímeros
-Atualizar 1 laboratório de CNC
-Atualizar 1 laboratório de informática
-Atualizar 1 laboratório de Usinagem
-Alcançar a participação de 80% do corpo docente na SPAP
-A- Realização de Visita Técnica especifica para área da Logística
-O que será feito: Planejar visitas técnicas em diversas empresas e prestadores de serviços. Por que será feito: Promover a interação didático-pedagógica – Teoria de sala de aula x prática nos processos operacionais (se for o caso) Objetivo(s) relacionado(s): Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem
-Meta(s) relacionada(s): Promover 1 visita técnica no 1º semestre/2023
-B- Realização de Visita Técnica especifica para área da Tecnologia da Informação.
-O que será feito: Planejar visita técnica à Incubadora Wework habitat. Por que será feito: Demostrar aos alunos o perfil empreendedor dos profissionais que conseguem identificar lacunas ainda não exploradas e serem proativos no desenvolvimento de uma solução.
-Objetivo(s) relacionado(s): Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no desenvolvimento tecnológico e inovação.
-Meta(s) relacionada(s): Promover 1 visita técnica no 1º semestre/2023
-C- Promoção de Inclusão Digital
-O que será feito: Estudo de possível parceria empresa-escola. Por que será feito: Promover cursos de formação inicial e continuada na área de TI a partir da interação empresa-escola para atendimento as demandas sociais e de mercado.
-Objetivo(s) relacionado(s): Atender as demandas sociais e do mercado de trabalho.
-Meta(s) relacionada(s): Capacitar 15 alunos em cursos de formação inicial e continuada.
-A – Curso de Cultura Hispânica. O que será feito: Oferta de curso de extensão universitária sobre a cultura hispânica. Por que será feito: Melhorar o entendimento da língua espanhola para os estudantes do CST em Logística
-Objetivo(s) relacionado(s): Aumentar a proficiência no idioma espanhol para os estudantes do CST em Logística
-Meta(s) relacionada(s): Capacitar 30 estudantes com conhecimento no idioma espanhol
-Desenvolvimento de pessoas (docentes e servidores)
-Semana de Planejamento e Aperfeiçoamento Pedagógico.
-O que será feito: Reuniões com docentes ao longo da semana que antecede o início do semestre letivo. Por que será feito: Para aperfeiçoamento das metodologias de ensino-aprendizagem
-Convênios e Parcerias Institucionais
-A – Projeto Facelera
-O que será feito: Mentoria de estudantes realizada por empresários de diversos segmentos. Por que será feito: Para alinhamento das práticas vivenciais do mercado de trabalho com os conceitos estudados na faculdade.
+PLANO DE GESTÃO ANUAL – PGA A Fatec Mauá possui a crença no planejamento como instrumento de gestão. Dado que, por meio da avaliação temos condições de reunir indicadores capazes de suscitar análises e discussões possibilitando definir planos de melhorias de forma continuada. Isto posto, o Plano de Gestão Anual para o ano de 2023, apresenta ações/projetos em consonância com o Plano de Metas da CESU (Unidade de Ensino Superior de Graduação) do CPS (Centro Paula Souza), não mantendo distância dos demais departamentos da autarquia, com vistas em melhorar a infraestrutura da unidade escolar, bem como os recursos didático-pedagógicos disponibilizados nos múltiplos ambientes de ensino-aprendizagem. Na unidade escolar são ofertados sete cursos superiores de tecnologia, nos eixos de Gestão e Processos Industriais, tanto no período matutino quanto noturno. A equipe é composta de 12 técnico-administrativos, 118 docentes e 1648 estudantes regularmente matriculados.
+APONTAMENTO DE SITUAÇÕES-PROBLEMA MAIS RELEVANTES (“Escuta”) Evasão escolar Baixa demanda do Processo Seletivo – Vestibular Aquisição de materiais e equipamentos diversos Manutenção predial e ambientação educacional DEFINIÇÃO DE OBJETIVOS, METAS E AÇÕES (PROJETOS)
+Objetivos 1 Atender às demandas sociais e do mercado de trabalho, em torno da Região do ABC Paulista 2 Manter o grau de excelência em seus processos de ensino-aprendizagem 3 Aperfeiçoar continuamente os processos de planejamento, gestão e as atividades operacionais e administrativas 4 Promover a cultura de inovação e empreendedorismo 5 Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no desenvolvimento tecnológico e inovação
+Os objetivos devem estar relacionados com melhoria ou ação, sobre itens do PDI. Promover 2 visitas técnicas por semestre Atualizar 1 laboratório de Processamento Ofertar cursos de extensão universitária, Atualizar 1 laboratório de Ensaios físicos de alcançando emissão de 30 certificados polímeros Atualizar 1 laboratório de CNC Atualizar 1 laboratório de informática Atualizar 1 laboratório de Usinagem Alcançar a participação de 80% do corpo docente na SPAP
+A- Realização de Visita Técnica especifica para área da Logística O que será feito: Planejar visitas técnicas em diversas empresas e prestadores de serviços. Por que será feito: Promover a interação didático-pedagógica – Teoria de sala de aula x prática nos processos operacionais (se for o caso) Objetivo(s) relacionado(s): Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem Meta(s) relacionada(s): Promover 1 visita técnica no 1º semestre/2023
+B- Realização de Visita Técnica especifica para área da Tecnologia da Informação. O que será feito: Planejar visita técnica à Incubadora Wework habitat. Por que será feito: Demostrar aos alunos o perfil empreendedor dos profissionais que conseguem identificar lacunas ainda não exploradas e serem proativos no desenvolvimento de uma solução. Objetivo(s) relacionado(s): Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no desenvolvimento tecnológico e inovação. Meta(s) relacionada(s): Promover 1 visita técnica no 1º semestre/2023
+C- Promoção de Inclusão Digital O que será feito: Estudo de possível parceria empresa-escola. Por que será feito: Promover cursos de formação inicial e continuada na área de TI a partir da interação empresa-escola para atendimento as demandas sociais e de mercado. Objetivo(s) relacionado(s): Atender as demandas sociais e do mercado e trabalho. Meta(s) relacionada(s): Capacitar 15 alunos em cursos de formação inicial e continuada.
+A – Curso de Cultura Hispânica. O que será feito: Oferta de curso de extensão universitária sobre a cultura hispânica. Por que será feito: Melhorar o entendimento da língua espanhola para os estudantes do CST em Logística Objetivo(s) relacionado(s): Aumentar a proficiência no idioma espanhol para os estudantes do CST em Logística Meta(s) relacionada(s): Capacitar 30 estudantes com conhecimento no idioma espanhol
+Desenvolvimento de pessoas (docentes e servidores) Semana de Planejamento e Aperfeiçoamento Pedagógico. O que será feito: Reuniões com docentes ao longo da semana que antecede o início do semestre letivo. Por que será feito: Para aperfeiçoamento das metodologias de ensino-aprendizagem
+Convênios e Parcerias Institucionais A – Projeto Facelera O que será feito: Mentoria de estudantes realizada por empresários de diversos segmentos. Por que será feito: Para alinhamento das práticas vivenciais do mercado de trabalho com os conceitos estudados na faculdade.
