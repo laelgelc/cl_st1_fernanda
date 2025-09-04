@@ -6,7 +6,7 @@ Section: 2 FORMAÇÃO ESPECÍFICA
 
 Comentários e Esclarecimentos Adicionais quanto a Avaliação das questões com maior número de erros – FORMAÇÃO ESPECÍFICA: As respostas dos estudantes evidenciam o esforço da IES, e do CPS, para que houvesse uma rápida resposta à pandemia de COVID-19, que permitisse a continuidade dos estudos. Entretanto, observam-se dificuldades no que diz respeito à atualização das práticas didáticas no ambiente online, além de um número considerável de estudantes que considera que as aulas online podem ter prejudicado seu rendimento.  Acredita-se que tal período, dadas as suas dificuldades e necessidades de ajustes, impactou de modo significativo na aprendizagem do corpo discente. 
  
-Sectios: 3 COMENTÁRIOS E ESCLARECIMENTOS ADICIONAIS
+Section: 3 COMENTÁRIOS E ESCLARECIMENTOS ADICIONAIS
 
 Comentários e Esclarecimentos Adicionais quanto às respostas dos alunos ao Questionário de Percepção da Prova: Após análise minuciosa dos microdados, podemos concluir que:  
 ✓ Do total de respondentes, 48% responderam que o grau de dificuldade nas perguntas de formação geral, foi difícil e 43% responderam médio. O número de erros nestas questões foi expressivo. 

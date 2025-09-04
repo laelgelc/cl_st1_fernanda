@@ -2,7 +2,7 @@ Section: 1 INTRODUÇÃO
 
 A Fatec Praia Grande possui a avaliação institucional como efetivo instrumento de gestão. Por meio da avaliação tem-se condições de reunir apontamentos capazes de suscitar análises e discussões possibilitando definir planos de melhorias de forma continuada. 
 
-Section 2:  SENSIBILIZAÇÃO 
+Section: 2 SENSIBILIZAÇÃO
  
 Para a efetivação do cronograma destaca-se algumas das ações para a realização dos procedimentos de autoavaliação. Em setembro de 2023, os alunos do CST em Gestão Empresarial do 4º semestre dos períodos matutino e vespertino, disciplina “Planejamento de Marketing”, desenvolveram uma pesquisa aplicada à comunidade acadêmica para identificar a percepção sobre a Fatec Praia Grande, fazendo uso da metodologia Net Promoter Score (NPS). A ferramenta criada por Reichheld se propõe a medir a lealdade de consumidores de uma empresa ou uma marca. Trata-se de uma metodologia que, basicamente faz duas perguntas ao respondente: 
 - O quanto você recomendaria a FATEC Praia Grande a parentes e amigos? 
