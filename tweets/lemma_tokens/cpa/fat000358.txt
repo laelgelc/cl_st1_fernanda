@@ -1,0 +1,10 @@
+enviar
+mail
+docente
+discente
+funcionário
+administrativo
+informação
+prazo
+importância
+avaliação

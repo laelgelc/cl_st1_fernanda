@@ -1,0 +1,13 @@
+importante
+registrar
+necessidade
+análise
+aprofundado
+ensino
+identificação
+conteúdo
+formação
+geral
+específico
+contemplar
+disciplina

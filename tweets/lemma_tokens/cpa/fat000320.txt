@@ -1,0 +1,17 @@
+grade
+curricular
+curso
+disponível
+site
+ementa
+disciplina
+cronograma
+bibliografia
+básico
+divulgar
+aluno
+início
+semestre
+sala
+aula
+professor

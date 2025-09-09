@@ -1,0 +1,11 @@
+site
+ficar
+destaque
+link
+comunidade
+interno
+externo
+informação
+prazo
+importância
+avaliação
