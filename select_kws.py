@@ -4,12 +4,12 @@ import glob
 import unicodedata
 
 # --- Configuration ---
-INPUT_DIR    = "corpus/10_keywords"
-MAX_KEYWORDS = 200
+INPUT_DIR    = "tweets/keywords"
+MAX_KEYWORDS = 230
 
 # Compute OUTPUT_DIR as a sibling of INPUT_DIR (not inside it)
 parent = os.path.dirname(os.path.abspath(INPUT_DIR))
-OUTPUT_DIR = os.path.join(parent, "11_kw_selected")
+OUTPUT_DIR = os.path.join(parent, "selected_keywords")
 
 # Ensure the output directory exists
 os.makedirs(OUTPUT_DIR, exist_ok=True)

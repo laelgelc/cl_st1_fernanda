@@ -8,9 +8,10 @@ from concurrent.futures import ProcessPoolExecutor, as_completed
 from tqdm import tqdm
 
 # --- CONFIGURATION ---
-INPUT_BASE  = "corpus/09_lemma_tokens"
-OUTPUT_BASE = "corpus/10_keywords"
-LL_THRESHOLD = 3.84  # chi‑square critical value for p=0.05, df=1
+INPUT_BASE  = "tweets/lemma_tokens"
+OUTPUT_BASE = "tweets/keywords"
+LL_THRESHOLD = 3.84  # Chi‑Square critical value for p=0.05, df=1
+LABEL_PREFIX = ""  # Configurable: use "<value>_" format, e.g., "human_", "group_", "class_"
 
 def LL(a, b, c, d):
     """Compute log‑likelihood for a 2×2 frequency table."""
@@ -51,7 +52,8 @@ def process_label(args):
 
     # Write out
     os.makedirs(OUTPUT_BASE, exist_ok=True)
-    outpath = os.path.join(OUTPUT_BASE, f"human_{label_name}.txt")
+    out_label = f"{LABEL_PREFIX}{label_name}" if LABEL_PREFIX else label_name
+    outpath = os.path.join(OUTPUT_BASE, f"{out_label}.txt")
     with open(outpath, "w", encoding="utf-8") as fout:
         fout.write("lemma target_count comparison_count "
                    "target_per_1k comparison_per_1k expected LL %DIFF status\n")
@@ -60,22 +62,29 @@ def process_label(args):
     return label_name
 
 def main():
-    # 1) Find only the human_* subfolders
+    # 1) Find labeled subfolders
     try:
-        all_dirs = os.listdir(INPUT_BASE)
+        all_entries = sorted(os.listdir(INPUT_BASE))
     except FileNotFoundError:
         print(f"Error: '{INPUT_BASE}' not found.")
         return
 
-    human_dirs = [d for d in sorted(all_dirs)
-                  if d.startswith("human_") and
-                     os.path.isdir(os.path.join(INPUT_BASE, d))]
-    if not human_dirs:
-        print(f"No 'human_*' subfolders found in {INPUT_BASE}.")
-        return
+    # Accept only directories
+    all_dirs = [d for d in all_entries if os.path.isdir(os.path.join(INPUT_BASE, d))]
 
-    # Map raw folder to clean label
-    mapping = {d: d.split("human_", 1)[1] for d in human_dirs}
+    if LABEL_PREFIX:
+        prefixed_dirs = [d for d in all_dirs if d.startswith(LABEL_PREFIX)]
+        if not prefixed_dirs:
+            print(f"No '{LABEL_PREFIX}*' subfolders found in {INPUT_BASE}.")
+            return
+        # Map raw folder to clean label by stripping the prefix
+        mapping = {d: d[len(LABEL_PREFIX):] for d in prefixed_dirs}
+    else:
+        # No prefix: use every directory and its name as the label
+        if not all_dirs:
+            print(f"No subfolders found in {INPUT_BASE}.")
+            return
+        mapping = {d: d for d in all_dirs}
 
     # 2) Load counts
     counters = {}
@@ -99,6 +108,10 @@ def main():
         print(f"Loaded {total} tokens for '{label_name}'")
 
     total_tokens = sum(tok.values())
+    if total_tokens == 0:
+        print("No tokens found across labels. Nothing to do.")
+        return
+
     print(f"Global token count: {total_tokens}\n")
 
     # 3) Prepare tasks
@@ -114,16 +127,16 @@ def main():
 
     with ProcessPoolExecutor(max_workers=n_workers) as executor:
         futures = {executor.submit(process_label, t): t[0] for t in tasks}
-        for future in tqdm(as_completed(futures),
-                           total=len(tasks),
-                           desc="Keyword extraction",
-                           unit="label"):
-            label = futures[future]
-            try:
-                result = future.result()
-                print(f"✓ Keywords saved for '{result}'")
-            except Exception as e:
-                print(f"ERROR on '{label}': {e}")
+        with tqdm(total=len(tasks), desc="Keyword extraction", unit="label") as pbar:
+            for future in as_completed(futures):
+                label = futures[future]
+                try:
+                    result = future.result()
+                    tqdm.write(f"Keywords saved for '{result}'")
+                except Exception as e:
+                    tqdm.write(f"ERROR on {label}: {e}")
+                finally:
+                    pbar.update(1)
 
     print(f"\nDone! Keyword files are in '{OUTPUT_BASE}/'")
 
