@@ -1,18 +1,20 @@
 #!/usr/bin/env python3
+from dotenv import load_dotenv
 import os
 import glob
 import unicodedata
 
-# --- Configuration ---
-INPUT_DIR    = "tweets/keywords"
-MAX_KEYWORDS = 230
-
-# Compute OUTPUT_DIR as a sibling of INPUT_DIR (not inside it)
-parent = os.path.dirname(os.path.abspath(INPUT_DIR))
-OUTPUT_DIR = os.path.join(parent, "selected_keywords")
+# Load environment variables
+load_dotenv(dotenv_path="keywords.env")
+base_dir = os.getenv("BASE_DIR")
+keywords_dir = os.getenv("KEYWORDS_DIR")
+keywords_path = os.path.join(base_dir, keywords_dir)
+selected_keywords_dir = os.getenv("SELECTED_KEYWORDS_DIR")
+selected_keywords_path = os.path.join(base_dir, selected_keywords_dir)
+max_keywords = int(os.getenv("MAX_KEYWORDS"))
 
 # Ensure the output directory exists
-os.makedirs(OUTPUT_DIR, exist_ok=True)
+os.makedirs(selected_keywords_path, exist_ok=True)
 
 def contains_punctuation(s):
     # True if any character in s is in a Unicode punctuation category
@@ -22,9 +24,9 @@ def contains_punctuation(s):
 consolidated = set()
 
 # Process each keyword file
-for filepath in glob.glob(os.path.join(INPUT_DIR, "*.txt")):
+for filepath in glob.glob(os.path.join(keywords_path, "*.txt")):
     filename = os.path.basename(filepath)
-    outpath = os.path.join(OUTPUT_DIR, filename)
+    outpath = os.path.join(selected_keywords_path, filename)
     selected = []
 
     # Read and skip the header
@@ -45,7 +47,7 @@ for filepath in glob.glob(os.path.join(INPUT_DIR, "*.txt")):
         if status == "POSKW":
             selected.append(lemma)
             consolidated.add(lemma)
-            if len(selected) >= MAX_KEYWORDS:
+            if len(selected) >= max_keywords:
                 break
 
     # Write the selected lemmas to the individual output file
@@ -54,10 +56,10 @@ for filepath in glob.glob(os.path.join(INPUT_DIR, "*.txt")):
             fout.write(f"{lemma}\n")
 
 # Write consolidated keywords (unique) to keywords.txt
-consolidated_path = os.path.join(OUTPUT_DIR, "keywords.txt")
+consolidated_path = os.path.join(selected_keywords_path, "keywords.txt")
 with open(consolidated_path, "w", encoding="utf-8") as fout:
     for lemma in sorted(consolidated):
         fout.write(f"{lemma}\n")
 
-print(f"Top {MAX_KEYWORDS} POSKW keywords (no punctuation, digits, or uppercase) selected and written to: {OUTPUT_DIR}")
+print(f"Top {max_keywords} POSKW keywords (no punctuation, digits, or uppercase) selected and written to: {selected_keywords_path}")
 print(f"Consolidated keywords written to: {consolidated_path}")

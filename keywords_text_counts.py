@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+from dotenv import load_dotenv
 import os
 import glob
 import math
@@ -7,11 +8,15 @@ from collections import Counter
 from concurrent.futures import ProcessPoolExecutor, as_completed
 from tqdm import tqdm
 
-# --- CONFIGURATION ---
-INPUT_BASE  = "tweets/lemma_tokens"
-OUTPUT_BASE = "tweets/keywords"
-LL_THRESHOLD = 3.84  # Chi‑Square critical value for p=0.05, df=1
-LABEL_PREFIX = ""  # Configurable: use "<value>_" format, e.g., "human_", "group_", "class_"
+# Load environment variables
+load_dotenv(dotenv_path="keywords.env")
+base_dir = os.getenv("BASE_DIR")
+lemma_tokens_dir = os.getenv("LEMMA_TOKENS_DIR")
+lemma_tokens_path = os.path.join(base_dir, lemma_tokens_dir)
+keywords_dir = os.getenv("KEYWORDS_DIR")
+keywords_path = os.path.join(base_dir, keywords_dir)
+log_likelihood_threshold = float(os.getenv("LOG_LIKELIHOOD_THRESHOLD"))
+label_prefix = os.getenv("LABEL_PREFIX")
 
 def LL(a, b, c, d):
     """Compute log‑likelihood for a 2×2 frequency table."""
@@ -35,8 +40,8 @@ def process_label(args):
         ll_stat = LL(a, b, tok_label, d_tok)
         diff = (100 * (perA - perB) / ((perA + perB) / 2)) if (perA + perB) else 0.0
         status = (
-            "POSKW" if ll_stat >= LL_THRESHOLD and diff > 0 else
-            "NEGKW" if ll_stat >= LL_THRESHOLD else
+            "POSKW" if ll_stat >= log_likelihood_threshold and diff > 0 else
+            "NEGKW" if ll_stat >= log_likelihood_threshold else
             "NOTKW"
         )
         rows.append((lemma, a, b,
@@ -51,9 +56,9 @@ def process_label(args):
     rows.sort(key=lambda r: (priority[r[8]], -r[6]))
 
     # Write out
-    os.makedirs(OUTPUT_BASE, exist_ok=True)
-    out_label = f"{LABEL_PREFIX}{label_name}" if LABEL_PREFIX else label_name
-    outpath = os.path.join(OUTPUT_BASE, f"{out_label}.txt")
+    os.makedirs(keywords_path, exist_ok=True)
+    out_label = f"{label_prefix}{label_name}" if label_prefix else label_name
+    outpath = os.path.join(keywords_path, f"{out_label}.txt")
     with open(outpath, "w", encoding="utf-8") as fout:
         fout.write("lemma target_count comparison_count "
                    "target_per_1k comparison_per_1k expected LL %DIFF status\n")
@@ -64,25 +69,25 @@ def process_label(args):
 def main():
     # 1) Find labeled subfolders
     try:
-        all_entries = sorted(os.listdir(INPUT_BASE))
+        all_entries = sorted(os.listdir(lemma_tokens_path))
     except FileNotFoundError:
-        print(f"Error: '{INPUT_BASE}' not found.")
+        print(f"Error: '{lemma_tokens_path}' not found.")
         return
 
     # Accept only directories
-    all_dirs = [d for d in all_entries if os.path.isdir(os.path.join(INPUT_BASE, d))]
+    all_dirs = [d for d in all_entries if os.path.isdir(os.path.join(lemma_tokens_path, d))]
 
-    if LABEL_PREFIX:
-        prefixed_dirs = [d for d in all_dirs if d.startswith(LABEL_PREFIX)]
+    if label_prefix:
+        prefixed_dirs = [d for d in all_dirs if d.startswith(label_prefix)]
         if not prefixed_dirs:
-            print(f"No '{LABEL_PREFIX}*' subfolders found in {INPUT_BASE}.")
+            print(f"No '{label_prefix}*' subfolders found in {lemma_tokens_path}.")
             return
         # Map raw folder to clean label by stripping the prefix
-        mapping = {d: d[len(LABEL_PREFIX):] for d in prefixed_dirs}
+        mapping = {d: d[len(label_prefix):] for d in prefixed_dirs}
     else:
         # No prefix: use every directory and its name as the label
         if not all_dirs:
-            print(f"No subfolders found in {INPUT_BASE}.")
+            print(f"No subfolders found in {lemma_tokens_path}.")
             return
         mapping = {d: d for d in all_dirs}
 
@@ -94,7 +99,7 @@ def main():
     for raw_dir, label_name in mapping.items():
         c = Counter()
         total = 0
-        folder = os.path.join(INPUT_BASE, raw_dir)
+        folder = os.path.join(lemma_tokens_path, raw_dir)
         for filepath in glob.glob(os.path.join(folder, "*.txt")):
             with open(filepath, "r", encoding="utf-8") as f:
                 for line in f:
@@ -138,7 +143,7 @@ def main():
                 finally:
                     pbar.update(1)
 
-    print(f"\nDone! Keyword files are in '{OUTPUT_BASE}/'")
+    print(f"\nDone! Keyword files are in '{keywords_path}/'")
 
 if __name__ == "__main__":
     main()
