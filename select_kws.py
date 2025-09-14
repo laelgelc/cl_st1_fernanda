@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
+# Prerequisite: Update `keywords.env`
+# Usage: python select_kws.py
 from dotenv import load_dotenv
+from pathlib import Path
 import os
 import glob
 import unicodedata
@@ -60,6 +63,20 @@ consolidated_path = os.path.join(selected_keywords_path, "keywords.txt")
 with open(consolidated_path, "w", encoding="utf-8") as fout:
     for lemma in sorted(consolidated):
         fout.write(f"{lemma}\n")
+
+# Create `selectedwords` from `keywords.txt`
+inp = Path(consolidated_path)
+outp = Path.cwd() / "selectedwords"
+
+lines = [ln.rstrip("\n") for ln in inp.read_text(encoding="utf-8").splitlines() if ln.strip()]
+width = 6
+with outp.open("w", encoding="utf-8") as f:
+    for i, text in enumerate(lines, start=1):
+        f.write(f"v{str(i).zfill(width)} {text}\n")
+
+# Make a copy named `var_index.txt` in the same directory as `selectedwords`
+var_index_path = outp.with_name("var_index.txt")
+var_index_path.write_text(outp.read_text(encoding="utf-8"), encoding="utf-8")
 
 print(f"Top {max_keywords} POSKW keywords (no punctuation, digits, or uppercase) selected and written to: {selected_keywords_path}")
 print(f"Consolidated keywords written to: {consolidated_path}")

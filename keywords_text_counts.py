@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# Prerequisite: Update `keywords.env`
+# Usage: python keywords_text_counts.py
 from dotenv import load_dotenv
 import os
 import glob
