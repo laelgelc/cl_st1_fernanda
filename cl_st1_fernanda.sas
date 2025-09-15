@@ -22,7 +22,7 @@ libname gelc "&whereisit/&myfolder";
 options fmtsearch=(work library);
 
 /* enter number of factors to extract */
-%let extractfactors = 3 ;
+%let extractfactors = 6 ;
 
 %let factorvars = fac1-fac&extractfactors ;
 
@@ -34,7 +34,7 @@ options fmtsearch=(work library);
 
 DATA long1;
   INFILE "/home/&sasusername/&myfolder/data.txt" ;
-  length file $ 8 word $ 8 count 8 ;
+  length file $ 10 word $ 8 count 8 ;
   input file $ word $ count ;
 RUN;
 
@@ -66,8 +66,8 @@ proc datasets library=work nolist; delete corr  ; run;
 
 DATA corr;
   INFILE "/home/&sasusername/&myfolder/corr.txt" ;
-  length _TYPE_ $ 4 _NAME_ $ 8 v000001-v001000 8 ;
-  input _TYPE_ $ _NAME_ $ v000001-v001000 ;
+  length _TYPE_ $ 4 _NAME_ $ 8 v000001-v001028 8 ;
+  input _TYPE_ $ _NAME_ $ v000001-v001028 ;
 RUN;
 
 /* turn missing correlation values to zeros */
@@ -80,7 +80,7 @@ DATA=temp (rename=_name_ = Name1)
 OUT=temp2 (rename = (_name_ = Name2 col1=corr))
 ;
 by name1;
-var v000001-v001000;
+var v000001-v001028;
 RUN;
 
 proc sort data=temp2 ; by corr ; run;
