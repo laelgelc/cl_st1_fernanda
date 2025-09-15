@@ -1,0 +1,34 @@
+file = fat001686
+date = 23
+user = r06_u160
+conversation = t000045_1_ANÁLISE_DO_CENÁRIO_Paragraph_2
+URL = No_URL
+
+word count = 117
+words loading = 11
+factor score = 13
+
+O **Grande** ABC ou ABC Paulista, como também é conhecido, está **localizado** 
+em um ponto privilegiado, próximo ao Porto de Santos e à capital, além de 
+**possuir** fácil acesso às **rodovias** Anchieta e **Imigrantes** , ao 
+**Rodoanel** e à rede ferroviária. O ABC recebeu forte fluxo de **imigrantes** 
+no fim do séc. XIX e de migrantes ao longo do séc. XX, favorecendo o povoamento 
+da **região** . É também o berço da **indústria** automobilística e de 
+multinacionais que se instalaram na **região** ao longo do último século, com 
+destaque para a década de 1950 , quando a industrialização **iniciada** na 
+capital chegou às **regiões** próximas ( apenas dois dos sete **municípios** 
+não fazem fronteira com a **cidade** de São Paulo ) . 
+
+Lemmas in this text that loaded on the factor:
+
+cidade
+grande
+imigrante
+indústria
+iniciar (secondary)
+localizar
+município
+possuir
+região
+rodoanel
+rodovia

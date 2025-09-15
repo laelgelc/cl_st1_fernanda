@@ -1,0 +1,42 @@
+file = fat000074
+date = 22-23
+user = r06_u129
+conversation = t000003_3_DESENVOLVIMENTO_Paragraph_2
+URL = No_URL
+
+word count = 157
+words loading = 15
+factor score = 18
+
+Como você **avalia** a **política** de participação dos estudantes em 
+atividades de pesquisa? Cerca de 2 / 3 do pessoal **administrativo** entende 
+que a participação dos estudantes em atividades de pesquisa é **excelente** ou 
+**bom** , o que permite dizer que na **percepção** de quem não está diretamente 
+ligado ao cotidiano **acadêmico** do aluno há pesquisa nas atividades 
+realizadas. Já, em relação aos professores, o número de **docentes** é também 
+considerável, mas há que se **destacar** que um **percentual** de 7 , 50 % 
+entende que a participação dos alunos deve ser melhorada. **Considerando** que 
+no último ENADE ( 2022 ) , o CST de Gestão Empresarial **teve** nota 4 e o CST 
+de Comércio Exterior **teve** nota 3 , entende -se que as pesquisas 
+**acadêmicas** sejam ferramentas utilizadas por, pelo menos, **boa** parte dos 
+professores. Neste sentido, a CPA **sugere** que na **reunião** da Congregação 
+o **tema** seja abordado e que seja proposto aos **docentes** que as atividades 
+de pesquisa sejam realizadas com mais frequência. 
+
+Lemmas in this text that loaded on the factor:
+
+acadêmico
+administrativo
+avaliar
+bom
+considerar
+destacar
+docente
+excelente
+percentual
+percepção
+política
+reunião
+sugerir
+tema (secondary)
+ter

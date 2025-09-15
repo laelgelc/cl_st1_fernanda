@@ -1,0 +1,22 @@
+file = fat001448
+date = 23
+user = r06_u168
+conversation = t000036_1_INTRODUÇÃO_Paragraph_6
+URL = No_URL
+
+word count = 65
+words loading = 2
+factor score = -1
+
+Atualmente, na Fatec São Caetano do Sul – Antonio Russo, são oferecidos os 
+seguintes cursos superiores de tecnologia: Análise e Desenvolvimento de 
+Sistemas, nos turnos **matutino** e vespertino; Articulação 
+Médio-Técnico-Superior ( AMS ) em Análise e Desenvolvimento de Sistemas e 
+Comércio Exterior, ambos no período da tarde; Segurança da Informação, nos 
+turnos **matutino** e noturno; Jogos Digitais, no período da **noite** , e 
+Gestão Empresarial na modalidade à distância. 
+
+Lemmas in this text that loaded on the factor:
+
+matutino (secondary)
+noite

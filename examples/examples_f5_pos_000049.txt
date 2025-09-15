@@ -1,0 +1,31 @@
+file = fat001281
+date = 23
+user = r06_u129
+conversation = t000033_2_DESENVOLVIMENTO_Paragraph_5
+URL = No_URL
+
+word count = 60
+words loading = 11
+factor score = 11
+
+Além disso, com a proximidade da **cidade** de Cubatão, que é o polo 
+**industrial** da **região** , incluindo **empresas** do **ramo** petroquímico, 
+siderúrgico, **químico** , fertilizantes, energia e logística, este **setor** 
+também apresenta uma **demanda** por **profissionais** na **área** de 
+**química** e processos **industriais** . Sendo assim, Praia Grande apresenta 
+diferentes oportunidades de atuação **profissional** na **região** de 
+abrangência da Baixada Santista. 
+
+Lemmas in this text that loaded on the factor:
+
+área
+cidade
+demanda (secondary)
+empresa
+industrial
+profissional (secondary)
+química
+químico
+ramo
+região
+setor

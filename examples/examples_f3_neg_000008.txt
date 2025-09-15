@@ -1,0 +1,20 @@
+file = fat000154
+date = 22-23
+user = r06_u137
+conversation = t000004_3_DESENVOLVIMENTO_Paragraph_25
+URL = No_URL
+
+word count = 66
+words loading = 1
+factor score = -1
+
+Dimensão 5 : Políticas de Pessoal A FATEC Zona Sul atende às exigências da LDB, 
+pois 80 % de seus docentes são mestres ou doutores, o que corresponde a mais de 
+2 / 3 dos titulados de **portadores** dos títulos indicados. A pesquisa do 
+WEBSAI mostra por meio dos gráficos supra que tanto funcionários 
+administrativos quanto docentes consideram excelentes as políticas de pessoal 
+tais como vêm sendo implementadas. 
+
+Lemmas in this text that loaded on the factor:
+
+portador

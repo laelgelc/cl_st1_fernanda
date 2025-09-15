@@ -1,0 +1,21 @@
+file = fat001428
+date = 23
+user = r06_u160
+conversation = t000035_2_DESENVOLVIMENTO_Paragraph_56
+URL = No_URL
+
+word count = 76
+words loading = 1
+factor score = -1
+
+A identificação de áreas / setores contemplados por políticas e programas – 
+nacional, estadual e regional – de apoio, bem como indicativos de setores 
+**portadores** de futuro e aderentes ao contexto da Região do Grande ABC. 
+Visando contribuir para uma melhor representação da existência e até mesmo o 
+nível de ocorrência das políticas de apoio investigadas, estruturou -se um de " 
+mapa político setorial " , onde são elencados: políticas e programas de apoio, 
+setores priorizados e a frequência com que são contemplados. 
+
+Lemmas in this text that loaded on the factor:
+
+portador

@@ -1,0 +1,21 @@
+file = fat001423
+date = 23
+user = r06_u160
+conversation = t000035_2_DESENVOLVIMENTO_Paragraph_51
+URL = No_URL
+
+word count = 77
+words loading = 1
+factor score = -2
+
+A indústria mantém -se como estratégica para a economia da Região do Grande ABC 
+apesar do enxugamento do número de **plantas** empresariais, a partir da década 
+de 1990 até o final de 2010 . A redução do número de grandes **plantas** da 
+indústria de transformação deve -se à perda de competitividade revelada pela 
+abertura do mercado nacional, a qual foi agravada pela realocação das 
+indústrias em dire-ção ao interior do estado e outras regiões do país – em 
+busca de incentivos fiscais e para-fiscais. 
+
+Lemmas in this text that loaded on the factor:
+
+planta

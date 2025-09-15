@@ -1,0 +1,18 @@
+file = fat000411
+date = 22-23
+user = r06_u217
+conversation = t000008_1_INTRODUÇÃO_Paragraph_1
+URL = No_URL
+
+word count = 38
+words loading = 1
+factor score = -1
+
+A Fatec Diadema Luigi Papaiz possui a crença na avaliação institucional como 
+instrumento de gestão. Por meio dela temos condições de reunir indicadores 
+capazes de **suscitar** análises e discussões possibilitando definir planos de 
+melhorias de forma continuada. 
+
+Lemmas in this text that loaded on the factor:
+
+suscitar

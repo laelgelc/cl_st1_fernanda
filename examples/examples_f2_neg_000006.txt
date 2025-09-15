@@ -1,0 +1,25 @@
+file = fat002208
+date = 25
+user = r06_u168
+conversation = t000066_1_ANÁLISE_DO_CENÁRIO_Paragraph_25
+URL = No_URL
+
+word count = 78
+words loading = 4
+factor score = -3
+
+**Estruturação** PPC Análise e Desenvolvimento de Sistemas. **Estruturação** de 
+proposta atualização do PPC do CST em ADS mediante análise dos conteúdos 
+**programáticos** dos componentes curriculares do curso, e construção de nova 
+grade curricular, segundo as exigências mercadológicas e legislação vigente. 
+Por que será feito: Para atualização do Projeto Pedagógico do Curso em virtude 
+do avanço tecnológico na área da tecnologia da informação e comunicação ( TIC ) 
+situação-problema: Metodologia de ensino, **desempenho** de alunos, **evasão** 
+Participação da comunidade e sociedade 
+
+Lemmas in this text that loaded on the factor:
+
+desempenho (secondary)
+estruturação
+evasão (secondary)
+programático

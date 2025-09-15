@@ -1,0 +1,42 @@
+file = fat002204
+date = 25
+user = r06_u168
+conversation = t000066_1_ANÁLISE_DO_CENÁRIO_Paragraph_21
+URL = No_URL
+
+word count = 61
+words loading = 21
+factor score = 23
+
+**Ações** **pedagógicas** : visitas técnicas, **projetos** **integradores** / 
+**interdisciplinares** , dias de **campo** , **feira** das **profissões** , 
+**cursos** **extracurriculares** para **alunos** . O que será **feito** : 
+Educação financeira. Disponibilizar / Ministrar Palestras na área de Educação 
+Financeira. Por que será **feito** : Para apoiar a **comunidade** interna e 
+externa **relacionadas** a área de educação financeira; situação-problema: 
+**Metodologia** de **ensino** , **desempenho** de **alunos** , **evasão** 
+Participação da **comunidade** e **sociedade** 
+
+Lemmas in this text that loaded on the factor:
+
+ação
+aluno
+campo
+comunidade
+curso
+desempenho
+ensino
+evasão
+extracurricular
+fazer
+feira
+integrador
+interdisciplinar
+metodologia
+pedagógico
+problema
+profissão
+projeto
+relacionar (secondary)
+situação
+sociedade

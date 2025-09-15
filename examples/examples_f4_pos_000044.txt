@@ -1,0 +1,26 @@
+file = fat003183
+date = 23-24
+user = r06_u129
+conversation = t000109_2_FORMAÇÃO_ESPECÍFICA_Paragraph_1
+URL = No_URL
+
+word count = 60
+words loading = 7
+factor score = 4
+
+**Comentários** e Esclarecimentos **Adicionais** quanto a **Avaliação** das 
+**questões** com **maior** **número** de erros – FORMAÇÃO ESPECÍFICA: As 
+**questões** de formação específica analisadas estão em consonância com as 
+competências profissionais descritas no PPC, desta forma, nos remete a refletir 
+e discutir sobre os conteúdos ministrados em **aula** e considerar as possíveis 
+ações sugeridas a serem adotadas para minimizar o problema. 
+
+Lemmas in this text that loaded on the factor:
+
+adicional
+aula (secondary)
+avaliação (secondary)
+comentário
+grande (secondary)
+número (secondary)
+questão

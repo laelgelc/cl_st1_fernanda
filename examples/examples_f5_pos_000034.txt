@@ -1,0 +1,26 @@
+file = fat001349
+date = 23
+user = r06_u137
+conversation = t000034_2_DESENVOLVIMENTO_Paragraph_21
+URL = No_URL
+
+word count = 95
+words loading = 4
+factor score = 12
+
+A **região** do M ' Boi Mirim tem nível de **renda** e taxas de **emprego** 
+menores que a média metropolitana. Seja por causa de seu baixo padrão de 
+acessibilidade, por falta de infraestruturas demandadas pela produção, ou por 
+seu baixo patamar de **renda** , a **região** alvo do projeto não tem 
+capacidade para ampliação significativa da oferta de **empregos** . Somente os 
+investimentos em infraestrutura tornarão a **região** apta a receber 
+investimentos privados geradores de **emprego** e **renda** . É pouco provável 
+que a **região** consiga **gerar** **empregos** suficientes apoiados apenas na 
+capacidade de consumo da população local. 
+
+Lemmas in this text that loaded on the factor:
+
+emprego
+gerar
+região
+renda

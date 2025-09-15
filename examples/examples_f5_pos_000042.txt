@@ -1,0 +1,35 @@
+file = fat001490
+date = 23
+user = r06_u204
+conversation = t000037_1_INTRODUÇÃO_Paragraph_17
+URL = No_URL
+
+word count = 151
+words loading = 8
+factor score = 11
+
+A variação negativa no **número** de **empregos** **formais** na 
+**Subprefeitura** do Ipiranga pode estar associada à deterioração da situação 
+**econômica** do país. Segundo dados do Instituto Brasileiro de Geografia e 
+Estatística ( IBGE ) , o PIB real do Brasil apresentou **crescimento** de 
+apenas 0 , 5 % no **ano** de 2014 em relação ao **ano** anterior, apresentando 
+queda nos **anos** de 2015 e 2016 ( IBGE, 2018 ) . Porém, deve -se considerar 
+que o indicador começou a recuperar -se a partir do segundo trimestre de 2017 , 
+sendo que, nesse **ano** , o país apresentou **crescimento** do PIB de 1 % . 
+Para 2018 , segundo relatório Focus de 19 de outubro de 2018 , disponibilizado 
+pelo Banco Central do Brasil, o PIB do Brasil deve apresentar **crescimento** 
+de aproximadamente 1 , 34 % , com expectativa também de **crescimento** de 
+cerca de 2 , 5 % para os **anos** de 2019 e 2020 , o que deve refletir 
+positivamente na **economia** do país como um todo ( BANCO CENTRAL DO BRASIL, 
+2018 ) . 
+
+Lemmas in this text that loaded on the factor:
+
+ano
+crescimento (secondary)
+economia
+econômico
+emprego
+formal
+número
+subprefeitura

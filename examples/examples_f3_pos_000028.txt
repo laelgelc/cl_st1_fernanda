@@ -1,0 +1,49 @@
+file = fat002242
+date = 25
+user = r06_u204
+conversation = t000067_1_ANÁLISE_DO_CENÁRIO_Paragraph_21
+URL = No_URL
+
+word count = 111
+words loading = 23
+factor score = 28
+
+**Feira** de Negócios do **Curso** Gestão Comercial - **Ações** **pedagógicas** 
+: visitas técnicas, **projetos** **integradores** / **interdisciplinares** , 
+dias de **campo** , **feira** das **profissões** , **cursos** 
+**extracurriculares** para **alunos** . Uma **apresentação** pelos 
+**discentes** do 6º semestre das propostas de negócios desenvolvidos por meio 
+dos conteúdos trabalhados em diferentes **disciplinas** ministradas no 
+**curso** . Por que será **feito** : A **feira** acontece por duas razões: a 
+primeira para que os **discentes** tenham a oportunidade de expor os planos de 
+negócios para a **comunidade** interna e externa; a segunda é para que os 
+**alunos** dos semestres anteriores possam se inspirar e idealizar seus futuros 
+planos de negócios. situação-problema: **Metodologia** de **ensino** , 
+**desempenho** de **alunos** , **evasão** Participação da **comunidade** e 
+**sociedade** 
+
+Lemmas in this text that loaded on the factor:
+
+ação
+aluno
+apresentação (secondary)
+campo
+comunidade
+curso
+desempenho
+discente (secondary)
+disciplina
+ensino
+evasão
+extracurricular
+fazer
+feira
+integrador
+interdisciplinar
+metodologia
+pedagógico
+problema
+profissão
+projeto
+situação
+sociedade

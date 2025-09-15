@@ -1,0 +1,32 @@
+file = fat001134
+date = 24-25
+user = r06_u217
+conversation = t000028_3_DESENVOLVIMENTO_Paragraph_6
+URL = No_URL
+
+word count = 72
+words loading = 11
+factor score = 19
+
+Escalonando cada categoria 75 % dos técnicos **administrativos** **consideram** 
+seu **conhecimento** e cumprimento do PDI muito **bom** ou **bom** bem como 71 
+% dos **docentes** . Dos **discentes** , 32 % **consideram** seu 
+**conhecimento** e cumprimento do PDI muito **bom** ou **bom** , 28 % não 
+**sabem** **responder** e 25 % **consideram** **regular** . Quando analisamos a 
+**Dimensão** 3 , responsabilidade social da IES juntando todos os pesquisados 
+50 % **consideram** as **ações** de responsabilidade social da Unidade muito 
+**boa** ou **boa** . 
+
+Lemmas in this text that loaded on the factor:
+
+ação (secondary)
+administrativo
+bom
+conhecimento
+considerar
+dimensão
+discente
+docente
+regular
+responder
+saber

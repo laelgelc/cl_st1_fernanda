@@ -1,0 +1,43 @@
+file = fat002056
+date = 24
+user = r06_u270
+conversation = t000059_1_ANÁLISE_DO_CENÁRIO_Paragraph_14
+URL = No_URL
+
+word count = 119
+words loading = 16
+factor score = 26
+
+O que será **feito** : **Projeto** **Interdisciplinar** de Alinhamento das 
+entregas dos **Projetos** **Integradores** I, II e III Para implantar programas 
+que busquem melhorias contínuas dos resultados da instituição; para alinhar os 
+entregáveis de cada **Projeto** **Integrador** para o **Projeto** 
+**Integrador** seguinte. Por que será **feito** : Para estabelecer uma 
+continuidade dos trabalhos desenvolvidos pelos grupos de **Projetos** 
+**Integradores** , independente da mudança de grupos ou integrantes, tendo como 
+referência os próprios entregáveis e documentos que serão armazenados no 
+Repositório de Trabalhos da Unidade. Este alinhamento torna -se condição 
+necessária para o desenvolvimento dos convênios com **empresas** nos 
+**Projetos** de Solução de Situação-Problema ( detalhado em Convênios 
+**Situação** **problema** : **Metodologia** de **ensino** , **desempenho** de 
+**alunos** , **evasão** ( a ser **resolvida** / **mitigada** ) Participação da 
+**comunidade** e **sociedade** 
+
+Lemmas in this text that loaded on the factor:
+
+aluno
+comunidade
+desempenho
+empresa (secondary)
+ensino
+evasão
+fazer
+integrador
+interdisciplinar
+metodologia
+mitigar
+problema
+projeto
+resolver
+situação
+sociedade

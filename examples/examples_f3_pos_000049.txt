@@ -1,0 +1,39 @@
+file = fat002117
+date = 25
+user = r06_u126
+conversation = t000062_1_ANÁLISE_DO_CENÁRIO_Paragraph_4
+URL = No_URL
+
+word count = 114
+words loading = 14
+factor score = 23
+
+**Metodologia** de **ensino** , **desempenho** de **alunos** , **evasão** ( a 
+ser **resolvida** / **mitigada** ) Gestão da unidade de **ensino** e dos 
+**cursos** ( indicadores ) Adequação / reestruturação de PPC, implantação de 
+novos **cursos** . O que será **feito** : Implantação na nova grade do CST em 
+Automação Industrial, após homologação da reestruturação do PPC, em conjunto 
+com adequações do horário escolar para evitar conflitos com matriz antiga Por 
+que será **feito** : É necessário acompanhar a implantação da nova grade para: 
+garantir que os professores adequem seus conteúdos as alterações das ementas 
+das **disciplinas** atualizadas; garantir a integração entre as **disciplinas** 
+; para garantir harmonia na condução das duas grades. situação-problema: 
+**Metodologia** de **ensino** , **desempenho** de **alunos** , **evasão** 
+Participação da **comunidade** e **sociedade** 
+
+Lemmas in this text that loaded on the factor:
+
+aluno
+comunidade
+curso
+desempenho
+disciplina
+ensino
+evasão
+fazer
+metodologia
+mitigar
+problema
+resolver
+situação
+sociedade

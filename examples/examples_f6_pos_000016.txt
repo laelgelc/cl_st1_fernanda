@@ -1,0 +1,42 @@
+file = fat001624
+date = 23
+user = r06_u126
+conversation = t000042_1_ANÁLISE_DO_CENÁRIO_Paragraph_3
+URL = No_URL
+
+word count = 133
+words loading = 15
+factor score = 11
+
+**APONTAMENTO** DE SITUAÇÕES-PROBLEMA MAIS **RELEVANTES** ( " Escuta " ) - 
+**Redução** da demanda do **vestibular** da FATEC. - Falta de manutenção 
+**predial** . ( Manutenção na **parede** que sustenta a calha da FATEC, defeito 
+no disjuntor de entrada da cabine primária de energia elétrica. ) - Evasão 
+escolar e baixa **taxa** concluinte. - Falta de recurso para manutenção dos 
+equipamentos de laboratórios específicos ( robôs, sistemas de controle, kit 
+didático de instrumentação ) . Necessidade de **atualização** dos laboratórios 
+da FATEC. - Falta de professores para as **disciplinas** . ( Maior 
+flexibilidade para contratação ) - Poucas as parcerias oficiais da FATEC com os 
+empresas e órgãos públicos. - Falta de equipamentos de TI ( necessário melhorar 
+a **infraestrutura** da internet ) e de mobiliários para **sala** de **aula** - 
+**Falta** de espaço para confecção dos protótipos de TCC ' s, atividades de 
+iniciação científica e Inovação. Dificuldade de descarte de equipamentos 
+inutilizáveis, componentes do patrimônio. 
+
+Lemmas in this text that loaded on the factor:
+
+apontamento
+atualização
+aula
+disciplina (secondary)
+faltar
+infraestrutura
+parede
+predial
+problema (secondary)
+redução (secondary)
+relevante
+sala
+situações
+taxa (secondary)
+vestibular

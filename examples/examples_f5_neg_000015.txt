@@ -1,0 +1,20 @@
+file = fat002491
+date = 26
+user = r06_u168
+conversation = t000076_1_ANÁLISE_DO_CENÁRIO_Paragraph_31
+URL = No_URL
+
+word count = 73
+words loading = 1
+factor score = -2
+
+Parceria Easy Cargo: Planejamento e simulação 3D de **carregamento** de frete, 
+a partir de diversas dimensões de carga, e de diferentes modelos de contêineres 
+e de veículos de transporte existentes no mercado. Para simular o 
+**carregamento** de diferentes tipos de carga em contêineres e veículos de 
+transporte diversos, a partir de um planejamento de frete prévio, a fim de 
+tornar a aula de Modais de Transporte e Seguro de Carga mais aplicada 
+
+Lemmas in this text that loaded on the factor:
+
+carregamento

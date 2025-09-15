@@ -1,0 +1,40 @@
+file = fat001757
+date = 23
+user = r06_u204
+conversation = t000047_1_ANÁLISE_DO_CENÁRIO_Paragraph_24
+URL = No_URL
+
+word count = 141
+words loading = 13
+factor score = 18
+
+MANUTENÇÃO DOS LABORATÓRIOS DE INFORMÁTICA O que será feito: Instalação de 
+softwares para as disciplinas práticas de laboratório de informática e 
+manutenção dos equipamentos e softwares instalados. Por que será feito: Manter 
+os equipamentos de informática em pleno funcionamento com os softwares 
+atualizados conforme a **demanda** das disciplinas. No início de cada semestre 
+há uma sobrecarga de trabalho para adequar os equipamentos às novas 
+**demandas** . Durante o andamento do semestre novas **demandas** exigem forças 
+tarefas para tender aos prazos. **Objetivo** ( s ) **relacionado** ( s ) : 
+**Atender** às **demandas** sociais e do **mercado** de trabalho. Obter a 
+**satisfação** dos **públicos** que se **relacionam** com o Centro Paula Souza 
+( **stakeholders** ) . **Alcançar** e manter o **grau** de **excelência** em 
+seus processos de **ensino** e aprendizagem. **Meta** ( s ) **relacionada** ( s 
+) : Melhorar a **satisfação** dos docentes e discentes em 10 % quanto a 
+manutenção dos computadores dos laboratórios. 
+
+Lemmas in this text that loaded on the factor:
+
+alcançar
+atender
+demanda
+ensino (secondary)
+excelência
+grau
+mercado
+meta
+objetivo
+público
+relacionar
+satisfação
+stakeholders

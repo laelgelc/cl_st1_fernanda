@@ -1,0 +1,18 @@
+file = fat000015
+date = 22-23
+user = r06_u113
+conversation = t000001_1_INTRODUÇÃO_Paragraph_1
+URL = No_URL
+
+word count = 36
+words loading = 1
+factor score = -1
+
+A Fatec Mauá possui a crença na avaliação como instrumento de gestão. Por meio 
+da avaliação temos condições de reunir indicadores capazes de **suscitar** 
+análises e discussões possibilitando definir planos de melhorias de forma 
+continuada. 
+
+Lemmas in this text that loaded on the factor:
+
+suscitar

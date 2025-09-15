@@ -1,0 +1,31 @@
+file = fat001075
+date = 24-25
+user = r06_u168
+conversation = t000026_4_DESENVOLVIMENTO_Paragraph_79
+URL = No_URL
+
+word count = 153
+words loading = 2
+factor score = -2
+
+Condições de acesso para **portadores** de necessidades especiais A 
+acessibilidade interna respeita normas e padrões internacionais que garantem o 
+direito aos **portadores** de necessidades especiais de circularem pela IES. 
+Observa -se a existência de facilidades para acesso de pessoas **portadoras** 
+de necessidades especiais, tais como: vaga preferencial em estacionamento; 
+elevador que possibilita o deslocamento entre pisos; rampas que facilitam o 
+deslocamento de alunos, colaboradores e professores, **portadores** de 
+necessidades especiais, pelas dependências da IES, banheiros, tanto masculinos 
+como femininos, planejados para o recebimento de cadeirantes, entre outras 
+necessidades; fácil acesso às salas de aula, biblioteca, salas de informática, 
+laboratórios, áreas de convivência e Coordenações de Cursos. Contemplando a 
+contento todas as exigências estabelecidas pelo Ministério da Educação, 
+relativas ao acesso de **portadores** de necessidades especiais. A Fatec São 
+Caetano do Sul - Antonio Russo dispõe de recursos audiovisuais, tais como: 
+projetores, **televisores** , aparelhos de som, atendendo aos parâmetros 
+exigidos pelo Ministério da Educação e Cultura. 
+
+Lemmas in this text that loaded on the factor:
+
+portador
+televisor (secondary)

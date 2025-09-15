@@ -1,0 +1,19 @@
+file = fat001679
+date = 23
+user = r06_u137
+conversation = t000044_1_ANÁLISE_DO_CENÁRIO_Paragraph_16
+URL = No_URL
+
+word count = 55
+words loading = 1
+factor score = -1
+
+Proposta de Implantação do CST em Marketing O que será feito: **Estruturação** 
+da proposta de implantação do CST em Marketing. Por que será feito: Para 
+atender a necessidade regional de profissionais de marketing. Objetivo ( s ) 
+relacionado ( s ) : Atender às demandas sociais e do mercado de trabalho. Meta 
+( s ) relacionada ( s ) : Implantação de novo CST. 
+
+Lemmas in this text that loaded on the factor:
+
+estruturação

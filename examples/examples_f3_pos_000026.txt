@@ -1,0 +1,50 @@
+file = fat001855
+date = 24
+user = r06_u113
+conversation = t000051_1_ANÁLISE_DO_CENÁRIO_Paragraph_8
+URL = No_URL
+
+word count = 75
+words loading = 27
+factor score = 29
+
+**Ações** **pedagógicas** : visitas técnicas, **projetos** **integradores** / 
+**interdisciplinares** , dias de **campo** , **feira** das **profissões** , 
+**cursos** **extracurriculares** para **alunos** . O que será **feito** : 
+**Planejar** visitas técnicas em diversas **empresas** e **prestadores** de 
+serviços para área da Logística. Por que será **feito** : Promover a 
+**interação** didático-pedagógica – Teoria de sala de aula x prática nos 
+processos **operacionais** ( se for o caso ) . **Situação** **problema** : 
+**Metodologia** de **ensino** , **desempenho** de **alunos** , **evasão** ( a 
+ser **resolvida** / **mitigada** ) Participação da **comunidade** e 
+**sociedade** 
+
+Lemmas in this text that loaded on the factor:
+
+ação
+aluno
+campo
+comunidade
+curso
+desempenho
+empresa (secondary)
+ensino
+evasão
+extracurricular
+fazer
+feira
+integrador
+interação
+interdisciplinar
+metodologia
+mitigar
+operacional
+pedagógico
+planejar
+prestador
+problema
+profissão
+projeto
+resolver
+situação
+sociedade

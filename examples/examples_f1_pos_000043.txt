@@ -1,0 +1,42 @@
+file = fat001731
+date = 23
+user = r06_u168
+conversation = t000046_1_ANÁLISE_DO_CENÁRIO_Paragraph_27
+URL = No_URL
+
+word count = 139
+words loading = 15
+factor score = 18
+
+Projeto de pesquisa e desenvolvimento de sistema para o Serviço de Atendimento 
+Móvel de Urgência ( SAMU ) do município de São Caetano do Sul. O que será 
+feito: Projeto de pesquisa e desenvolvimento de sistema para controle de 
+ambulâncias, insumos e usuários ( enfermeiros, administrativos e condutores ) 
+para o Serviço de Atendimento Móvel de Urgência ( SAMU ) do município de São 
+Caetano do Sul Por que será feito: Para atendimento às **demandas** sociais e 
+do **mercado** de trabalho regional **Objetivo** ( s ) **relacionado** ( s ) : 
+**Atender** às **demandas** sociais e do **mercado** de trabalho. Aumentar a 
+**eficiência** , a **produtividade** e a **competitividade** da instituição 
+Formar **profissionais** atualizados em **tecnologias** e processos produtivos, 
+**capazes** de atuar no desenvolvimento tecnológico e inovação. Garantir 
+**celeridade** e **efetividade** na **prestação** de serviços. **Meta** ( s ) 
+**relacionada** ( s ) : Firmar pelo menos 2 parcerias para realização de ações 
+na unidade. 
+
+Lemmas in this text that loaded on the factor:
+
+atender
+capaz
+celeridade
+competitividade
+demanda
+efetividade
+eficiência
+mercado
+meta
+objetivo
+prestação
+produtividade
+profissional
+relacionar
+tecnologia

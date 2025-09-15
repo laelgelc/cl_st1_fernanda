@@ -1,0 +1,36 @@
+file = fat002332
+date = 26
+user = r06_u113
+conversation = t000071_1_ANÁLISE_DO_CENÁRIO_Paragraph_8
+URL = No_URL
+
+word count = 197
+words loading = 3
+factor score = 11
+
+Planejar visitas técnicas em diversas **empresas** e prestadores de serviços 
+para **área** da Logística. Promover a interação didático-pedagógica – Teoria 
+de sala de aula x prática nos processos operacionais ( se for o caso ) . 
+Planejar visitas técnicas em diversas **empresas** e prestadores de serviços 
+para **área** de Polímeros Promover a interação didático-pedagógica – Teoria de 
+sala de aula x prática nos processos operacionais ( se for o caso ) Planejar 
+visitas técnicas em diversas **empresas** e prestadores de serviços para 
+**área** de Informática para Negócios Promover a interação didático-pedagógica 
+– Teoria de sala de aula x prática nos processos operacionais ( se for o caso ) 
+Planejar visitas técnicas em diversas **empresas** e prestadores de serviços 
+para **área** de **Fabricação** Mecânica Promover a interação 
+didático-pedagógica – Teoria de sala de aula x prática nos processos 
+operacionais ( se for o caso ) Planejar visitas técnicas em diversas 
+**empresas** e prestadores de serviços para **área** de Desenvolvimento de 
+Software Multiplataforma Promover a interação didático-pedagógica – Teoria de 
+sala de aula x prática nos processos operacionais ( se for o caso ) Desenvolver 
+um trabalho prático baseado em problema que integre as teorias abordadas nas 
+disciplinas do semestre referente ao Projeto Interdisciplinar Este projeto 
+objetiva melhorar a comunicação da **empresa** ou do grupo social atendido pelo 
+projeto 
+
+Lemmas in this text that loaded on the factor:
+
+área
+empresa
+fabricação (secondary)

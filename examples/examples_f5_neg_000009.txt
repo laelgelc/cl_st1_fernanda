@@ -1,0 +1,26 @@
+file = fat003100
+date = 24
+user = r06_u137
+conversation = t000103_2_CONSIDERAÇÕES_Paragraph_7
+URL = No_URL
+
+word count = 71
+words loading = 6
+factor score = -4
+
+f ) Adoção de procedimento padrão para **encaminhamento** , pelos professores, 
+a **lista** dos **alunos** que se ausentarem duas semanas seguidas ao 
+responsável pela gestão de evasão. Desde o início de 2024 , todos os docentes 
+são **lembrados** de anotar e informar por escrito aos **coordenadores** e ao 
+professor responsável pela gestão de evasão, o **nome** dos **alunos** que 
+faltarem a duas aulas consecutivas. O objetivo dessa ação é procurar reduzir a 
+evasão. 
+
+Lemmas in this text that loaded on the factor:
+
+aluno (secondary)
+coordenador (secondary)
+encaminhamento
+lembrar
+lista
+nome

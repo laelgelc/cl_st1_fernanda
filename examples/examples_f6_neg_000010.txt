@@ -1,0 +1,21 @@
+file = fat000184
+date = 22-23
+user = r06_u137
+conversation = t000004_3_DESENVOLVIMENTO_Paragraph_55
+URL = No_URL
+
+word count = 67
+words loading = 1
+factor score = -1
+
+Em média 90 % dos docentes afirmam que a FATEC Zona Sul forma profissionais 
+qualificados; é um polo de ciência, tecnologia e inovação, dissemina cultura, 
+arte, valores éticos e democráticos, promove a inclusão social e 
+desenvolvimento sustentável, além de praticar a missão da instituição. Promover 
+eventos na unidade atrelados aos valores da difusão de ciência, tecnologia e 
+inovação, cultura, arte, **ética** , democracia, inclusão social e 
+desenvolvimento sustentável. 
+
+Lemmas in this text that loaded on the factor:
+
+ética

@@ -1,0 +1,36 @@
+file = fat002175
+date = 25
+user = r06_u160
+conversation = t000065_1_ANÁLISE_DO_CENÁRIO_Paragraph_1
+URL = No_URL
+
+word count = 129
+words loading = 12
+factor score = 14
+
+PLANO DE GESTÃO **ANUAL** - **PGA** 2025 O **Grande** ABC está inserido a 
+sudeste da **Região** Metropolitana de São Paulo e é composto por sete 
+**municípios** : Santo André, São Bernardo do Campo, São Caetano do Sul, 
+Diadema, Mauá, Ribeirão Pires e Rio **Grande** da Serra. Mais de 2 , 7 milhões 
+( IBGE / 2015 ) de pessoas habitam a **região** em uma **área** territorial de 
+828 km² ( IBGE / 2015 ) . A **região** é especialmente interligada, a ponto de 
+ser difícil **definir** suas divisas terrestres, com muitas ruas e **grandes** 
+vias de alta circulação. O **Grande** ABC ou ABC Paulista, como também é 
+conhecido, está **localizado** em um ponto privilegiado, próximo ao Porto de 
+Santos e à capital, além de **possuir** fácil acesso às **rodovias** Anchieta e 
+**Imigrantes** , ao **Rodoanel** e à rede ferroviária. 
+
+Lemmas in this text that loaded on the factor:
+
+anual
+área
+definir (secondary)
+grande
+imigrante
+localizar
+município
+pga
+possuir
+região
+rodoanel
+rodovia

@@ -1,0 +1,34 @@
+file = fat001868
+date = 24
+user = r06_u113
+conversation = t000051_1_ANÁLISE_DO_CENÁRIO_Paragraph_21
+URL = No_URL
+
+word count = 78
+words loading = 12
+factor score = 24
+
+Jornada / Evento / Revista Científico e Tecnológico O que será **feito** : 
+Propiciar aos **alunos** o desenvolvimento de pesquisas individuais e a criação 
+colaborativa de um **jogo** digital. Por que será **feito** : Desenvolver a 
+capacidade de pesquisa, **metodologias** teórico-práticas voltadas a criação de 
+games – DramaTech: Games narrativas e tecnologia. **Situação** **problema** : 
+**Metodologia** de **ensino** , **desempenho** de **alunos** , **evasão** ( a 
+ser **resolvida** / **mitigada** ) Comunicação com a **comunidade** acadêmica 
+**Situação** **problema** : **Metodologia** de **ensino** , **desempenho** de 
+**alunos** , **evasão** ( a ser **resolvida** / **mitigada** ) 
+
+Lemmas in this text that loaded on the factor:
+
+aluno
+comunidade
+desempenho
+ensino
+evasão
+fazer
+jogo
+metodologia
+mitigar
+problema
+resolver
+situação

@@ -1,0 +1,35 @@
+file = fat001586
+date = 23
+user = r06_u270
+conversation = t000039_2_DESENVOLVIMENTO_Paragraph_20
+URL = No_URL
+
+word count = 112
+words loading = 12
+factor score = 13
+
+Reiterando os dados do IBGE, em 2011 havia 8 . 192 **empresas** atuantes na 
+**cidade** de Cotia; referido **número** , segundo o mesmo instituto, saltou 
+para 9 . 220 no **ano** de 2020 . Por outro lado, segundo o Ministério do 
+Trabalho e do **Emprego** ( MTE ) , em janeiro de 2019 havia 12 . 306 
+estabelecimentos empregadores no **município** , distribuídos em diferentes 
+**setores** – com destaque para os serviços, **comércio** e **indústria** - e 
+**gerando** o total de 69 . 508 **empregos** na **região** . Por sua vez, dados 
+da SEADE demonstram que janeiro de 2023 o saldo entre admissões e demissões 
+voltou a ficar positivo, colocando -se como o terceiro **maior** saldo positivo 
+no período janeiro de 2022 a janeiro de 2023 . 
+
+Lemmas in this text that loaded on the factor:
+
+ano
+cidade
+comércio
+emprego
+empresa
+gerar
+grande
+indústria
+município
+número
+região
+setor

@@ -1,0 +1,23 @@
+file = fat001086
+date = 24-25
+user = r06_u168
+conversation = t000026_4_DESENVOLVIMENTO_Paragraph_91
+URL = No_URL
+
+word count = 86
+words loading = 1
+factor score = -1
+
+POTENCIALIDADES 85 % dos professores afirmaram que a comunicação com a 
+comunidade externa é bem sucedida Ampliar a divulgação de atividades que 
+envolvam o professor e que auxiliem nas devidas divulgações. 85 % dos técnicos 
+administrativos afirmaram que a comunicação com a sociedade é realizada e 
+eficaz Envolver os funcionários técnico-administrativos para **proposição** de 
+atividades com a sociedade e auxilio da divulgação Responsabilidade Social ( é 
+unânime: docentes, discentes, técnicos-administrativos, reconhecem o trabalho 
+realizado pela Fatec São Caetano do Sul. Ampliar as ações, buscar parcerias, 
+inclusive para desenvolvimento de extensão. 
+
+Lemmas in this text that loaded on the factor:
+
+proposição

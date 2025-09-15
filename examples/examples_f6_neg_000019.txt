@@ -1,0 +1,25 @@
+file = fat001566
+date = 23
+user = r06_u270
+conversation = t000039_1_INTRODUÇÃO_Paragraph_2
+URL = No_URL
+
+word count = 120
+words loading = 1
+factor score = -1
+
+Características do município: a. Possui uma população estimada em 249 . 210 mil 
+habitantes ( IBGE, 2019 ) , ocupando uma área de 323 , 99 Km2 , e densidade 
+populacional de 763 , 68 habitantes / Km2 ( SEADE, 2020 ) ; b. Possui um amplo 
+público-alvo para os cursos da unidade, correspondentes a 87 . 775 habitantes 
+com idade entre 15 a 39 anos ( IBGE, 2019 ) , considerando aqueles que 
+concluirão o ensino médio e os que já estão no mercado profissional e 
+necessitam dos conhecimentos e competências profissionais fundamentadas na 
+ciência, na cultura e na **ética** , para o completo desempenho profissional; 
+c. Tem proximidade com a grande São Paulo ( público-alvo com mais de 12 milhões 
+de habitantes ) ; d. Encontra -se em área de transbordo e de fracionamento 
+logístico de carga junto ao Rodoanel. 
+
+Lemmas in this text that loaded on the factor:
+
+ética

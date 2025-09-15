@@ -1,0 +1,36 @@
+file = fat002939
+date = 23
+user = r06_u160
+conversation = t000095_2_DESENVOLVIMENTO_Paragraph_8
+URL = No_URL
+
+word count = 131
+words loading = 11
+factor score = 12
+
+ANÁLISE DO CENÁRIO ( Breve **diagnóstico** / Baseline ) O ABC O **Grande** ABC 
+está inserido a sudeste da **Região** Metropolitana de São Paulo e é composto 
+por sete **municípios** : Santo André, São Bernardo do Campo, São Caetano do 
+Sul, Diadema, Mauá, Ribeirão Pires e Rio **Grande** da Serra. Mais de 2 , 7 
+milhões ( IBGE / 2015 ) de pessoas habitam a **região** em uma **área** 
+territorial de 828 km² ( IBGE / 2015 ) . A **região** é especialmente 
+interligada, a ponto de ser difícil **definir** suas divisas terrestres, com 
+muitas ruas e **grandes** vias de alta circulação. O **Grande** ABC ou ABC 
+Paulista, como também é conhecido, está **localizado** em um ponto 
+privilegiado, próximo ao Porto de Santos e à capital, além de **possuir** fácil 
+acesso às **rodovias** Anchieta e **Imigrantes** , ao **Rodoanel** e à rede 
+ferroviária. 
+
+Lemmas in this text that loaded on the factor:
+
+área
+definir (secondary)
+diagnóstico (secondary)
+grande
+imigrante
+localizar
+município
+possuir
+região
+rodoanel
+rodovia

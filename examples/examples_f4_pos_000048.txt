@@ -1,0 +1,26 @@
+file = fat001653
+date = 23
+user = r06_u129
+conversation = t000043_1_ANÁLISE_DO_CENÁRIO_Paragraph_17
+URL = No_URL
+
+word count = 104
+words loading = 3
+factor score = 4
+
+**ESTUDO** PRELIMINAR DE IMPLANTAÇÃO DE EVENTOS HACKATHON. O que será feito: Um 
+**estudo** sobre a viabilidade de capacitação docente para Implantação e 
+execução de eventos. Hackathon na Fatec Praia Grande. Por que será feito: Para 
+gerar competências na solução de problemas / oportunidades na vida dos jovens 
+possibilitando a criação de mecanismos de comunicação, **digital** ou não, 
+relacionamento interpessoal, condutas proativas para o trabalho e para o 
+**estudo** . Objetivo ( s ) relacionado ( s ) : Melhorar a formação 
+profissional dos alunos com foco em **tecnologias** e processos produtivos 
+inovadores. Meta ( s ) relacionada ( s ) : Reduzir a evasão escolar em 10 % e 
+aumentar a empregabilidade dos alunos em 10 % . 
+
+Lemmas in this text that loaded on the factor:
+
+digital
+estudo
+tecnologia (secondary)

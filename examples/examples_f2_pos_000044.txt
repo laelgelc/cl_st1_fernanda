@@ -1,0 +1,28 @@
+file = fat000459
+date = 22-23
+user = r06_u217
+conversation = t000008_3_DESENVOLVIMENTO_Paragraph_44
+URL = No_URL
+
+word count = 60
+words loading = 8
+factor score = 18
+
+Comunicação com a sociedade. A **maioria** dos **discentes** **avaliam** essa 
+**dimensão** de **forma** **positiva** . Comunicação com a sociedade. A 
+**maioria** **avalia** essa **dimensão** como **excelente** ou muito **boa** . 
+Politica de atendimento aos **discentes** . A **maioria** dos **discentes** 
+**avaliam** essa **dimensão** de **forma** **positiva** . Pontos de atenção ao 
+acompanhamento de egressos, estimulo a organização estudantil, bolsas, 
+programas de apoio financeiro 
+
+Lemmas in this text that loaded on the factor:
+
+avaliar
+bom
+dimensão
+discente
+excelente
+forma
+maioria
+positivo

@@ -1,0 +1,28 @@
+file = fat001483
+date = 23
+user = r06_u204
+conversation = t000037_1_INTRODUÇÃO_Paragraph_10
+URL = No_URL
+
+word count = 75
+words loading = 8
+factor score = 11
+
+Em 2016 , a **região** onde está **localizada** a Fatec Ipiranga ) apresentou 
+120 . 245 postos **formais** de trabalho, o que representa cerca de 3 % dos 
+postos **formais** do **município** de São Paulo, em sua maioria no **setor** 
+de serviços e no de **comércio** . No Gráfico 1 é possível observar a 
+distribuição dos postos **formais** de trabalho da **Subprefeitura** do 
+Ipiranga entre os diversos **setores** de atividade da **economia** , conforme 
+Classificação Nacional de Atividades Econômicas ( CNAE ) . 
+
+Lemmas in this text that loaded on the factor:
+
+comércio
+economia
+formal
+localizar
+município
+região
+setor
+subprefeitura

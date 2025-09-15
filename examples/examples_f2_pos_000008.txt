@@ -1,0 +1,59 @@
+file = fat000120
+date = 22-23
+user = r06_u129
+conversation = t000003_3_DESENVOLVIMENTO_Paragraph_48
+URL = No_URL
+
+word count = 301
+words loading = 18
+factor score = 27
+
+Desenvolvimento **Institucional** - **AÇÃO** PROPOSTA • A CPA propõe investigar 
+o **percentual** de cerca de 12 % de alunos que entendem que a **missão** da 
+instituição não vem sendo cumprida a fim de compreender a **percepção** do 
+**corpo** **discente** . **Sugere** também, que no início de cada semestre 
+letivo, junto com a **apresentação** dos Planos de Ensino, a **missão** , 
+**visão** , valores da UE outros elementos importantes sejam levados ao 
+**conhecimento** dos alunos, tornando -se uma prática. • A CPA **sugere** que 
+as coordenações de cursos estimulem os **docentes** a se desenvolverem 
+continuamente, lembrando que o CPS oferece qualificações e cursos 
+constantementeque melhoram as competências dos professores. A CPA **sugere** 
+que **Direção** e **Coordenadores** que abordem o **tema** nas **reuniões** 
+realizadas semestralmente a fim de reforçar o **conhecimento** sobre 
+**documento** . • Também, que o mesmo esteja disponível para consulta no site 
+**institucional** . A CPA tambénm **sugere** que seja desenvolvida uma cartilha 
+para ser distribuída aos **docentes** e funcionários contendo a documentação 
+que deve ser conhecida por todos. • A CPA já tem agendada **reunião** no início 
+de 2024 para estabelecer **ações** que possam melhorar este indicador. • A CPA 
+**sugere** que haja comunicações assertivas e formais acerca do que está sendo 
+desenvolvido e de que maneiras a comunidade externa tem participado. • A CPA 
+**sugere** que as coordenações estimulem os **docentes** a desenvolver 
+atividade que possam ser " sentidas " pela comunidade externa e que tragam 
+benefícios a ela, **considerando** as competências desenvolvidas e exercitadas 
+pelos alunos. • A CPA propôs uma atuação mais forte da Empresa Jr. , o que foi 
+ajustado com a nova coordenação do CST em Gestão Empresarial que toma posse em 
+fevereiro de 2024 para que haja maior intereção entre alunos e o empresariado 
+da cidade e região. • A CPA **sugere** que pesquisas sejam constantemente 
+desenvolvidas a fim de fornecer o arcabouço para o exercíco de competências 
+técnicas necessárias a profissional. 
+
+Lemmas in this text that loaded on the factor:
+
+ação (secondary)
+apresentação
+conhecimento
+considerar
+coordenador
+corpo
+direção
+discente
+docente
+documento
+institucional
+missão
+percentual
+percepção
+reunião
+sugerir
+tema (secondary)
+visão

@@ -1,0 +1,23 @@
+file = fat001537
+date = 23
+user = r06_u217
+conversation = t000038_2_DESENVOLVIMENTO_Paragraph_1
+URL = No_URL
+
+word count = 95
+words loading = 1
+factor score = -1
+
+Como podemos observar nos indicadores socioeconômicos da cidade de Diadema e 
+região, há agrupamento dos setores da Indústria, Serviços, Construção, Comércio 
+e Agropecuário. No início do projeto da Fatec Diadema, estavam alocadas em 
+Diadema aproximadamente 10 % das empresas de cosméticos do Brasil, entre 
+fabricantes de cosméticos e empresas pertencentes à cadeia produtiva do setor, 
+tais como fabricantes de matérias-primas, **embalagens** , máquinas e 
+equipamentos, insumos de laboratório, distribuidores, etc. , responsáveis por 8 
+. 000 empregos diretos, 3 . 000 empregos indiretos e por 3 % da arrecadação 
+municipal. Diante dessa necessidade em 2012 foi implantado o CST em Cosméticos. 
+
+Lemmas in this text that loaded on the factor:
+
+embalagem

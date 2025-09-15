@@ -1,0 +1,71 @@
+file = fat000714
+date = 23-24
+user = r06_u168
+conversation = t000016_3_DESENVOLVIMENTO_Paragraph_27
+URL = No_URL
+
+word count = 428
+words loading = 15
+factor score = 19
+
+Nos últimos anos os dirigentes da Fatec São Caetano, em **especial** a 
+**direção** da IES, têm aprimorado diversos mecanismos que visam fomentar a 
+pesquisa no âmbito **institucional** afim de atrelar a ciência a pesquisa 
+tecno-cientifica. Nesse sentido, é possível verificar as iniciativas nos 
+**documentos** e **ações** gerenciais que consubstanciam as propostas. Como 
+segue: 1 . Organizar Grupos de Pesquisa em consonância com os três grandes 
+eixos estabelecidos: 1 . Desenvolvimento Regional; 2 . Desenvolvimento 
+Tecnológico; 3 . Responsabilidade social; 2 . Incentivar os **docentes** , por 
+meio de capacitação contínua, a assumirem posturas de professores 
+pesquisadores, conduzindo -os à reflexão e **ação** do fazer pedagógico e ao 
+questionamento reconstrutivo em sala de aula, com rigor metodológico, adotando 
+-se, como princípio básico, a capacidade de identificar problemas, refletir 
+sobre eles, localizar as soluções e ( re ) construí -las, ao mesmo tempo, 
+examinando suas especialidades e preferências, sem abandonar os eixos temáticos 
+da Fatec São Caetano do Sul - Antonio Russo, com o propósito de 
+institucionalizar a pesquisa tecnológica, mesmo não sendo a financiada, 
+original e especializada, acompanhada e **avaliada** por órgãos de fomento. 3 . 
+Incentivar a adoção de linhas de pesquisa tecnológicas e áreas temáticas para o 
+desenvolvimento de programas de Iniciação Científica, respeitando -se os eixos 
+temáticos da faculdade. Cuidar para que o trabalho de iniciação à pesquisa seja 
+acompanhado e se dê de maneira interativa. Zelar pelo acompanhamento contínuo 
+dos alunos envolvidos, explicitando e fundamentando cada etapa do processo ( 
+**destacar** , comentar, e refletir sobre os momentos fundamentais ) , 
+acompanhar os trabalhos em grupo. 4 . Incentivar os professores, dentro de suas 
+especialidades e de cada disciplina, a exercitar pesquisas de caráter 
+qualitativo e quantitativo, bem como o **diálogo** com seus pares; 5 . Orientar 
+professores a **definirem** os problemas de pesquisa em consonância com os 
+problemas da realidade, de modo **especial** , da localidade e regionalidade. 6 
+. Adotar procedimentos e critérios para os trabalhos de Iniciação Científica, 
+envolvendo alunos e professores nos Trabalhos de Conclusão de Curso de 
+**forma** contínua, **considerando** as orientações contidas no Projeto 
+Político-Pedagógico do curso e os eixos temáticos adotados pela Fatec São 
+Caetano do Sul - Antonio Russo. 7 . Acompanhar e **avaliar** , 
+sistematicamente, o desenvolvimento da pesquisa visando à manutenção de suas 
+linhas e áreas temáticas e / ou a substituição das mesmas por outras, 
+**considerando** as prioridades dos problemas locais, regionais, nacionais ou 
+internacionais, apontados pela comunidade **acadêmica** . **Avaliar** , para 
+verificar, se os objetivos desejados estão sendo atingidos e, se necessário, 
+mudar as **ações** . Construir, na prática, critérios e **formas** de 
+**avaliar** ao **longo** do processo, evitando artificializar a **avaliação** . 
+8 . Desenvolver parcerias com outras instituições de ensino e / ou centros de 
+pesquisa, por meio de projetos compartilhados que objetivem o desenvolvimento 
+da Região. 
+
+Lemmas in this text that loaded on the factor:
+
+acadêmico
+ação (secondary)
+avaliação
+avaliar
+considerar
+definir
+destacar
+diálogo
+direção
+docente
+documento
+especial
+forma
+institucional
+longo (secondary)

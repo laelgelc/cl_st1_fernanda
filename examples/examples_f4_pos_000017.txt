@@ -1,0 +1,27 @@
+file = fat003205
+date = 23-24
+user = r06_u137
+conversation = t000110_3_QUESTÕES_COMPLEMENTARES_Paragraph_1
+URL = No_URL
+
+word count = 93
+words loading = 5
+factor score = 6
+
+**Comentários** e Esclarecimentos **Adicionais** quanto às respostas dos alunos 
+ao **Questionário** de **Percepção** da **Prova** : É de se salientar que 
+apesar de todos os esforços para conscientização dos alunos sobre a relevância 
+da **prova** , percebe -se pelas respostas a este **questionário** que a 
+maioria não dedicou tempo e esforço suficientes para a obtenção de um bom 
+resultado, demonstrando elevado descomprometimento, o que nos leva a tomar 
+providências no sentido de aprimorar as iniciativas da unidade para 
+conscientizar os alunos de todos os reflexos que o resultado do ENADE produz 
+para o curso e egressos. 
+
+Lemmas in this text that loaded on the factor:
+
+adicional
+comentário
+percepção (secondary)
+prova
+questionário

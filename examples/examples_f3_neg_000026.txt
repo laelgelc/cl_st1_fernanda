@@ -1,0 +1,25 @@
+file = fat001344
+date = 23
+user = r06_u137
+conversation = t000034_2_DESENVOLVIMENTO_Paragraph_16
+URL = No_URL
+
+word count = 129
+words loading = 1
+factor score = -1
+
+O tipo de emprego ofertado no vetor Sul e em Santo Amaro são do tipo central – 
+indicativos do grau de polarização do espaço, cuja presença é, sobretudo, 
+reflexo do padrão de urbanização, nos ramos da tecnologia em gestão e 
+tecnologia de informática. Verifica -se, portanto, um adensamento da oferta de 
+empregos no vetor **Sudoeste** que permite inferir que o subcentro de Santo 
+Amaro, assim que receber as novas aberturas viárias planejadas ( continuação da 
+Av. Chucri Zaidan ) passará por um processo de intensa renovação urbana, à 
+semelhança do que ocorreu em passado recente no eixo Faria Lima – Berrini. O 
+adensamento dos empregos implicará a necessidade de ampliação da oferta de 
+transporte das regiões mais ao Sul do Vetor **Sudoeste** , assim como nas 
+demais direções, incluindo o próprio eixo Santo Amaro – Pinheiros. 
+
+Lemmas in this text that loaded on the factor:
+
+sudoeste

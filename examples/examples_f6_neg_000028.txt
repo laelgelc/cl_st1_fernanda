@@ -1,0 +1,20 @@
+file = fat003187
+date = 23-24
+user = r06_u129
+conversation = t000109_3_COMENTÁRIOS_E_ESCLARECIMENTOS_ADCIONAIS_Paragraph_4
+URL = No_URL
+
+word count = 64
+words loading = 1
+factor score = -1
+
+Isso indica que, em geral, os estudantes reconhecem a importância das 
+disciplinas para sua formação além da formação profissional. Quanto ao 
+desenvolvimento da consciência ética para o exercício profissional, a maioria 
+dos estudantes também concorda com essa afirmação, sendo 54 , 1 % concordando 
+totalmente e 18 , 0 % concordando. Isso sugere que o curso tem sido eficaz em 
+promover a **ética** profissional entre os estudantes. 
+
+Lemmas in this text that loaded on the factor:
+
+ética

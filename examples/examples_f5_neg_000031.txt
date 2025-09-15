@@ -1,0 +1,27 @@
+file = fat000324
+date = 22-23
+user = r06_u168
+conversation = t000006_3_DESENVOLVIMENTO_Paragraph_79
+URL = No_URL
+
+word count = 137
+words loading = 2
+factor score = -1
+
+A política de acompanhamento de egressos da IES não é institucionalizada. 
+Contudo, a Fatec São Caetano do Sul - Antonio Russo os recebe sistematicamente 
+nas semanas de cursos, momentos em que, muitas vezes, estes são chamados para 
+apresentações de trabalhos. O contato com ex-alunos, em sua maioria, é feito 
+por vínculos pessoais que se estabelecem entre professor e **aluno** . O aporte 
+que os professores extrapola o simples repasse de conhecimentos, o professor na 
+Fatec São Caetano do Sul - Antonio Russo é aquele que estimula o **aluno** , 
+que contribui para sua formação profissional e para seu crescimento pessoal. Em 
+função disso, os **alunos** mantêm contato com seus professores e, a partir 
+destes contatos pessoais, pode -se criar uma política sistematizada e 
+institucional de controle de egressos, combinada com a confecção de uma 
+**lista** de **alunos** egressos, bem como controle dos ingressantes. 
+
+Lemmas in this text that loaded on the factor:
+
+aluno (secondary)
+lista

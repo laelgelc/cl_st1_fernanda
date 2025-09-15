@@ -1,0 +1,24 @@
+file = fat002920
+date = 23
+user = r06_u137
+conversation = t000094_2_DESENVOLVIMENTO_Paragraph_19
+URL = No_URL
+
+word count = 107
+words loading = 2
+factor score = -2
+
+Cursos Novos: Não houve implantação de novos cursos durante o ano de 2023 , mas 
+a congregação aprovou estudos para abertura de dois novos cursos superiores de 
+tecnologia na Unidade, são os cursos de Marketing no período noturno e o de 
+Comércio Exterior no turno da **manhã** , ambos atendem às necessidades do 
+mercado de trabalho da região, além disso, a congregação votou pela mudança do 
+turno do curso de Gestão Empresarial da **noite** para tarde. Deste maneira, a 
+unidade vai chegar ao oferecimento de 7 ( sete ) cursos superiores de 
+tecnologia, caso a CESU aprove a criação dos cursos de Marketing e Comércio 
+Exterior ao longo de 2024 . 
+
+Lemmas in this text that loaded on the factor:
+
+manhã
+noite

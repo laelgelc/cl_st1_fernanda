@@ -1,0 +1,30 @@
+file = fat002975
+date = 23
+user = r06_u168
+conversation = t000096_3_CENÁRIO_Paragraph_7
+URL = No_URL
+
+word count = 85
+words loading = 8
+factor score = 7
+
+**APONTAMENTO** DE SITUAÇÕES-PROBLEMA MAIS **RELEVANTES** ( " Escuta " ) 1 
+Pedagógico: Projeto Pedagógico de Curso com necessidades de reestruturação 2 
+Gestão de pessoas: conflitos de relacionamento entre docentes, discentes, 
+servidores, clima organizacional, etc. 3 Recursos tecnológicos: falta ou 
+defasagem de computadores, roteadores, velocidade da internet, etc 4 Parcerias: 
+prospecção e gestão de parcerias. 5 **Infraestrutura** : reformas – **salas** 
+de **aulas** , laboratórios, **instalações** elétricas, etc 6 Pedagógico: 
+evasão e trancamento de alunos. 7 Imagem institucional: divulgação dos cursos e 
+da unidade de ensino. 8 Pedagógico: falta de aquisição de bibliografias 
+
+Lemmas in this text that loaded on the factor:
+
+apontamento
+aula
+infraestrutura
+instalação
+problema (secondary)
+relevante
+sala
+situações

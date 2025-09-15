@@ -1,0 +1,30 @@
+file = fat002326
+date = 26
+user = r06_u005
+conversation = t000070_1_ANÁLISE_DO_CENÁRIO_Paragraph_35
+URL = No_URL
+
+word count = 116
+words loading = 4
+factor score = 5
+
+Reunião de NDE Acompanhamento das atividades do curso, acompanhamento da 
+situação dos alunos, **estudo** do PPC do curso, **avaliação** dos projetos de 
+curricularização da extensão, **discussão** sobre metodologias 
+didático-pedagógicas em geral. Debater as demandas e melhorias do curso de 
+Ciência de Dados para o seu desenvolvimento e fortalecimento. O propósito é 
+acompanhar: Análise da Estrutura **Curricular** , Acompanhamento do Projeto 
+Pedagógico de Curso ( PPC ) , Parcerias e Empregabilidade, Atualização 
+Tecnológica, Registro e Formalização das Ações Discutidas, Alinhamento com o 
+Mercado, Cumprimento das Diretrizes Legais, Melhoria Contínua e Planejamento de 
+Ações Futuras. Acompanhamento das atividades do curso, acompanhamento da 
+situação dos alunos, **estudo** do PPC do curso, **avaliação** dos projetos de 
+curricularização da extensão, **discussão** sobre metodologias 
+didático-pedagógicas em geral. 
+
+Lemmas in this text that loaded on the factor:
+
+avaliação (secondary)
+curricular
+discussão
+estudo

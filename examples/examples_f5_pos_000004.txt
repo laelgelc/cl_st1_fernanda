@@ -1,0 +1,50 @@
+file = fat001585
+date = 23
+user = r06_u270
+conversation = t000039_2_DESENVOLVIMENTO_Paragraph_19
+URL = No_URL
+
+word count = 253
+words loading = 14
+factor score = 17
+
+Nos últimos 2 ( dois ) **anos** ( 2021 e 2022 ) , em pesquisas com **empresas** 
+da **região** e com o poder municipal, além do levantamento de **empregos** e 
+vagas existentes, foi diagnosticada também a necessidade de **profissionais** 
+para os seguintes segmentos: 1 ) Logística e Distribuição – inerentes ao 
+processo das **indústrias** já existentes: são atendidas pela formação do curso 
+de Gestão da Produção **Industrial** , já existente na unidade; 2 ) Operação 
+das **empresas** em **Comércio** **Exterior** : necessidade deste 
+**profissional** ocorre pela adaptação ao mercado das **empresas** no que se 
+refere a aquisição de produtos e insumos como também na venda de produtos ou 
+semiacabados. A opção de mercado externo tanto para importação como para 
+exportação tornou -se **fator** primordial na não verticalização da produção 
+somente para mercado interno. As **empresas** necessitam deste tipo de 
+**profissional** internalizado em seu quadro de **profissionais** . Por este 
+motivo será solicitado a aprovação de um curso de **Comércio** **Exterior** ( 
+catálogo CNCST ) 3 ) Confecção de moldes e protótipos para a **indústria** de 
+plásticos, bem como projetos e **fabricação** de próteses médicas sob medida, 
+por meio da manufatura aditiva e impressão 3D em plásticos e metais ( titânio ) 
+. Por este motivo será solicitada a aprovação de um curso de Design de Produto 
+( catálogo CNCST ) ; 4 ) Turismo: a **cidade** de Cotia tem implantado o seu 
+Plano Municipal de Turismo, que é instrumento prioritário para o pleito que a 
+**cidade** faça parte do **Município** de Interesse Turístico do **Estado** de 
+São Paulo ( MIT ) . Por este motivo será solicitada a aprovação de um curso de 
+Gestão de Turismo ( catálogo CNCST ) . 
+
+Lemmas in this text that loaded on the factor:
+
+ano
+cidade
+comércio
+emprego
+empresa
+estado
+exterior (secondary)
+fabricação (secondary)
+fator
+indústria
+industrial
+município
+profissional (secondary)
+região

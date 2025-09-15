@@ -1,0 +1,30 @@
+file = fat001263
+date = 23
+user = r06_u126
+conversation = t000032_3_APL_Paragraph_3
+URL = No_URL
+
+word count = 94
+words loading = 8
+factor score = 13
+
+Esta **obra** tem um papel no sistema logístico do **Estado** de São Paulo e da 
+Região Sudeste, aumentando sua atratividade também para moradia, com reflexos 
+na construção civil, no desenvolvimento de atividades comerciais e de serviços, 
+devido às facilidades de acesso e deslocamento, ou seja, impulsionando ainda 
+mais a expansão urbana. Nesta mesma época, o **número** de **empregos** na 
+construção civil na **cidade** chegou a duplicar. E, a partir de 2005 , o 
+**número** de **empregos** **formais** no **setor** de serviços cresceu de 
+forma bastante significativa, ultrapassando o **número** de **empregos** no 
+**setor** **industrial** . 
+
+Lemmas in this text that loaded on the factor:
+
+cidade
+emprego
+estado
+formal
+industrial
+número
+obra
+setor

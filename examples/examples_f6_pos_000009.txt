@@ -1,0 +1,42 @@
+file = fat003111
+date = 24
+user = r06_u137
+conversation = t000103_2_CONSIDERAÇÕES_Paragraph_18
+URL = No_URL
+
+word count = 200
+words loading = 10
+factor score = 12
+
+Em 2024 foram realizados os seguintes serviços em continuidade a 2023 : todas 
+as **salas** de **aulas** **equipadas** com data show, **notebook** e televisor 
+de 65 polegadas, limpeza e organização de todos os ambientes utilizados como 
+depósitos na unidade, manutenção de todas as fechaduras da unidade, **pintura** 
+interna do prédio **administrativos** , aquisição de novos bebedouros para 
+alunos e professores - temos mais de 400 litros de água filtrada e gelada 
+disponível aos alunos e professores - , trocas de todas as válvulas dos 
+banheiros dos alunos, troca das **caixa** d ' água, término da troca das 
+lâmpadas fluorescentes por lâmpadas led, reforma da quadra, reforma cantina, 
+**melhorias** na iluminação do campus com **instalação** de holofotes, 
+concretagem das **caixas** de passagem de rede elétrica, reforma das ferragens 
+da lixeira externa, novo vestiário para os funcionários da segurança, novas 
+saboneteiras nos banheiros, manutenção e **pintura** dos armários dos 
+professores, **instalação** de 24 novos ventiladores nas **salas** de **aula** 
+e laboratórios, novos espaços de **coworking** para os professores, manutenção 
+reventiva, **instalação** de armários no hall de entrada para recolhimento de 
+doações para as campanhas de roupas, alimentos e brinquedos, manutenção 
+corretiva, preventiva e preditiva em todos os ambientes físicos dos prédios do 
+campus da FATEC Zona Sul. 
+
+Lemmas in this text that loaded on the factor:
+
+administrativo (secondary)
+aula
+caixa (secondary)
+coworking
+equipar
+instalação
+melhoria
+notebook (secondary)
+pintura
+sala

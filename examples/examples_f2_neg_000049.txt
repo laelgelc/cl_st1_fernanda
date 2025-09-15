@@ -1,0 +1,26 @@
+file = fat002158
+date = 25
+user = r06_u129
+conversation = t000063_1_ANÁLISE_DO_CENÁRIO_Paragraph_32
+URL = No_URL
+
+word count = 103
+words loading = 3
+factor score = -1
+
+Projetos estudantis diversos O que será feito: Núcleo de pesquisa em química de 
+produtos naturais, com a seleção de espécies vegetais com o objetivo de 
+realizar um estudo Químico e Biológico de diferentes partes das **plantas** , a 
+fim de estabelecer a relação entre as Atividades Biológicas observadas e o 
+Perfil Químico dos extratos e óleos essenciais obtidos, através da compreensão 
+de suas respectivas estruturas moleculares. Por que será feito: Para oferecer 
+atividades práticas, com aplicação da teoria desenvolvimento analíticas, 
+pensamento crítico, trabalho em equipe e networking na área de relacionadas. 
+situação-problema: Metodologia de ensino, **desempenho** de alunos, **evasão** 
+Participação da comunidade e sociedade 
+
+Lemmas in this text that loaded on the factor:
+
+desempenho (secondary)
+evasão (secondary)
+planta

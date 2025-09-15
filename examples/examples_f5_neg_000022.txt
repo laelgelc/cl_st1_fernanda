@@ -1,0 +1,29 @@
+file = fat002922
+date = 23
+user = r06_u137
+conversation = t000094_2_DESENVOLVIMENTO_Paragraph_23
+URL = No_URL
+
+word count = 131
+words loading = 4
+factor score = -2
+
+Em 2023 foram realizados os seguintes serviços em continuidade a 2022 : limpeza 
+e organização de todos os ambientes tilizados como depósitos na unidade, 
+manutenção de todas as fechaduras da unidade, **pintura** interna do prédio 
+administrativos, aquisição de novos bebedouros para **alunos** e professores, 
+reformas total dos banheiros, troca das **caixa** d ' água, criação de uma nova 
+sala para direção geral e serviços, nova sala dos professores ampliada de 20m2 
+para 60m2 , alojamento para professores visitantes, criação de sala de descanso 
+para os professores, novo espaço de **coworking** para os professores, novo 
+almoxarifado, manutenção e reorganização do CPD da Unidade, instalação de 
+fechadura eletrônica no acesso ao corredor da sala dos professores, **pintura** 
+de todas as portas de madeiras da faculdade, manutenção preventiva e corretiva 
+nas **caixas** d ' água da faculdade. 
+
+Lemmas in this text that loaded on the factor:
+
+aluno (secondary)
+caixa
+coworking (secondary)
+pintura (secondary)

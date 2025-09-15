@@ -1,0 +1,33 @@
+file = fat003035
+date = 24
+user = r06_u005
+conversation = t000100_3_CENÁRIO_Paragraph_1
+URL = No_URL
+
+word count = 139
+words loading = 8
+factor score = 11
+
+A **cidade** de Santos: O munícipio de Santos está **localizado** no litoral 
+paulista e a 72 quilômetros da Capital, a **cidade** ostenta o 6º lugar no 
+ranking de qualidade de vida dos **municípios** brasileiros, conforme Índice de 
+Desenvolvimento Humano ( IDH ) aferido pela Organização das Nações Unidas ( ONU 
+) com base nos níveis de expectativa de vida, educação e PIB per **capita** . 
+Com 432 mil habitantes, o **município** tem um Índice de Desenvolvimento Humano 
+( IDH ) **maior** que a média nacional: de 0 , 840 , segundo o Instituto 
+Brasileiro de Geografia e Estatística ( IBGE ) . Santos é um **município** 
+portuário sede da Região Metropolitana da Baixada Santista. A **economia** de 
+Santos tem como principal gerador de **renda** o Porto, principal canal de 
+entrada e saída de cargas do Brasil, mas a economiacriativa vem se tornando um 
+**importante** gerador de receita para a **Cidade** . 
+
+Lemmas in this text that loaded on the factor:
+
+capitar
+cidade
+economia
+grande
+importante
+localizar
+município
+renda

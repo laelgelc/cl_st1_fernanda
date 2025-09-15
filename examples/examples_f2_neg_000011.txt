@@ -1,0 +1,27 @@
+file = fat001693
+date = 23
+user = r06_u160
+conversation = t000045_1_ANÁLISE_DO_CENÁRIO_Paragraph_10
+URL = No_URL
+
+word count = 117
+words loading = 2
+factor score = -2
+
+Proposta de atualização do PPC do Curso de Tecnologia em Mecânica 
+Automobilística O que será feito: **Estruturação** de proposta para atualização 
+do PPC mediante a análise dos conteúdos **programáticos** das componentes 
+curriculares do curso e construção da nova grade curricular segundo as 
+exigências mercadológicas. Por que será feito: Para atualização e adequação do 
+PCC de novas tecnologias ( principalmente fontes energéticas renováveis ) e da 
+crescente demanda por profissionais formados na área Automobilística com perfil 
+do egresso do curso. Objetivo ( s ) relacionado ( s ) : Formar profissionais 
+atualizados em tecnologias e processos automobilísticos, capazes de atuarem no 
+desenvolvimento de novos produtos e soluções na área da Mecânica 
+Automobilística Meta ( s ) relacionada ( s ) : Aumentar a empregabilidade dos 
+alunos formados em 10 % 
+
+Lemmas in this text that loaded on the factor:
+
+estruturação
+programático

@@ -1,0 +1,50 @@
+file = fat001003
+date = 24-25
+user = r06_u160
+conversation = t000025_3_DESENVOLVIMENTO_Paragraph_4
+URL = No_URL
+
+word count = 193
+words loading = 17
+factor score = 18
+
+**Ações** **Sugeridas** o Refinamento da Comunicação **Institucional** : 
+Melhorar a divulgação das **ações** e **políticas** para que todos **tenham** 
+um entendimento mais claro dos programas oferecidos, como monitorias, cursos de 
+**extensão** e apoio a atividades culturais e esportivas. o Fomento de 
+Participação em Atividades Científicas e Culturais: Incentivar a participação 
+de **discentes** e colaboradores em atividades científicas e culturais, 
+**destacando** as vantagens para a formação **acadêmica** e profissional. o 
+Essas **ações** podem contribuir para um aumento na familiaridade e na 
+**percepção** **positiva** dos programas **institucionais** , especialmente 
+entre aqueles que atualmente não **têm** **conhecimento** suficiente para 
+**avaliar** esses **aspectos** . o **Ação** 1 : Estrategicamente **temos** 
+feito o envio de informações para comunicação de toda a comunidade 
+**acadêmica** em todos os meios digitais ( Facebook, Instagram, site da FATEC ) 
+, e-mails e pelos grupos de WhatsApp criados para cada curso, onde o 
+**coordenador** , diretor e **direção** **acadêmica** poderiam enviar 
+mensagens, mas os alunos não poderiam **responder** ; o **Ação** 2 : Neste 
+semestre, foi criado um canal de comunicação com a comunidade externa que é o 
+Canal do Youtube, onde são publicados conteúdos técnicos com propósito de 
+divulgação científica, para que a comunidade externa consiga participar das 
+**ações** criadas pela Fatec. 
+
+Lemmas in this text that loaded on the factor:
+
+acadêmico
+ação (secondary)
+aspecto (secondary)
+avaliar
+conhecimento
+coordenador
+destacar
+direção
+discente
+extensão
+institucional
+percepção
+política
+positivo
+responder
+sugerir
+ter

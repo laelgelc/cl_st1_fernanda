@@ -1,0 +1,47 @@
+file = fat001814
+date = 23
+user = r06_u270
+conversation = t000049_1_ANÁLISE_DO_CENÁRIO_Paragraph_20
+URL = No_URL
+
+word count = 211
+words loading = 14
+factor score = 18
+
+III Encontro de Ciência de Dados – Fatec Adamantina, Cotia, Santana do 
+Parnaíba, Ourinhos e Baixada Santista O que será feito: Organização conjunta 
+entre as Fatecs para viabilização do III Encontro de Ciência de Dados, gerando 
+mobilização interna dos alunos, com preparação de trabalhos e apresentações. 
+Por que será feito: Para integrar as Fatecs que possuem o curso; para trocar 
+experiências e ideias, promovendo a disseminação do conhecimento em Ciência de 
+Dados. . **Objetivo** ( s ) **relacionado** ( s ) : Ampliar os projetos de 
+pesquisa e iniciação científica; Desenvolver programas e projetos educacionais 
+para estimular intercâmbios e a aprendizagem global. **Meta** ( s ) 
+**relacionada** ( s ) : Realizar, em conjunto com as demais Fates que possuem o 
+CST em Ciência de Dados, o III encontro de Ciência de Dados das Fatecs. 
+**Objetivo** ( s ) **relacionado** ( s ) : **Atender** às **demandas** sociais 
+e do **mercado** de trabalho; Desenvolver programas e projetos educacionais 
+para estimular intercâmbios e a aprendizagem global; Ampliar a **capacidade** 
+de criar e atualizar cursos de educação **profissional** em parceria com o 
+**mercado** ; **Alcançar** e manter o **grau** de **excelência** nos processos 
+de **ensino** e aprendizagem. **Meta** ( s ) **relacionada** ( s ) : 
+**Expandir** a infraestrutura **institucional** : 5 laboratórios, com 
+equipamentos, rede elétrica e dados e adequar a sala maker e os laboratórios 
+atuais, em quantidade de computadores, rede elétrica e dados. 
+
+Lemmas in this text that loaded on the factor:
+
+alcançar
+atender
+capacidade
+demanda
+ensino (secondary)
+excelência
+expandir
+grau
+institucional (secondary)
+mercado
+meta
+objetivo
+profissional
+relacionar

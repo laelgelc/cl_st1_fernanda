@@ -1,0 +1,33 @@
+file = fat001306
+date = 23
+user = r06_u129
+conversation = t000033_2_DESENVOLVIMENTO_Paragraph_30
+URL = No_URL
+
+word count = 113
+words loading = 9
+factor score = 15
+
+No **setor** de Serviços, que é o principal **setor** da **cidade** de Praia 
+**Grande** , o **município** fica em terceiro lugar em **número** de 
+**empregos** , depois de Santos e Guarujá. Ainda assim, observa -se como a 
+**cidade** de Praia **Grande** tem importância na **região** , pois ela ocupa o 
+segundo lugar no total de **empregos** **formais** da RMBS ( 13 , 98 % ) , 
+perdendo somente para Santos, que é ainda a **cidade** mais populosa e que 
+concentra **maior** valor agregado da **região** . Mas com a proximidade entre 
+as duas **cidades** , Praia **Grande** e a Fatec PG apresentam **grande** 
+potencial de **crescimento** , exigindo um trabalho constante de 
+aperfeiçoamento e profissionalização dos serviços por meio de uma educação 
+tecnológica de qualidade. 
+
+Lemmas in this text that loaded on the factor:
+
+cidade
+crescimento (secondary)
+emprego
+formal
+grande
+município
+número
+região
+setor

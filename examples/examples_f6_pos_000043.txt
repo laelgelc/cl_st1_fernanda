@@ -1,0 +1,27 @@
+file = fat003215
+date = 23-24
+user = r06_u137
+conversation = t000110_4_COMENTÁRIOS_E_ESCLARECIMENTOS_ADICIONAIS_Paragraph_6
+URL = No_URL
+
+word count = 81
+words loading = 5
+factor score = 7
+
+Os professores apresentaram disponibilidade para atender os estudantes fora do 
+horário das **aulas** , demonstraram domínio dos conteúdos abordados nas 
+**disciplinas** e utilizaram tecnologias da informação e comunicação ( TIC ' s 
+) como estratégia de ensino ( projetor, multimídia, laboratório de informática, 
+ambiente virtual de aprendizagem ) ; as **condições** de **infraestrutura** das 
+**salas** de **aula** foram adequadas; os equipamentos e materiais disponíveis 
+para as **aulas** práticas foram adequados para a quantidade de studantes; os 
+ambientes e equipamentos destinados às **aulas** práticas foram adequados ao 
+curso. 
+
+Lemmas in this text that loaded on the factor:
+
+aula
+condição
+disciplina (secondary)
+infraestrutura
+sala

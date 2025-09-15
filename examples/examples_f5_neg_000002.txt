@@ -1,0 +1,29 @@
+file = fat002263
+date = 25
+user = r06_u217
+conversation = t000068_1_ANÁLISE_DO_CENÁRIO_Paragraph_10
+URL = No_URL
+
+word count = 137
+words loading = 3
+factor score = -6
+
+Solicitação de bibliografia básica para o curso de DSM para Formação de 
+profissionais atualizados em tecnologias e processos produtivos, capazes de 
+atuar no desenvolvimento tecnológico e inovação e alcançar e manter o grau de 
+excelência nos processos de ensino e aprendizagem Documento com instruções 
+quanto à elaboração de referências **bibliográficas** de acordo com a norma 
+ABNT NBR 6023 / 2018 . Documento com instruções quanto à elaboração de 
+**citações** diretas, indiretas e **citação** de **citação** de acordo com a 
+norma ABNT NBR 10520 / 2023 A aplicação da norma de referência garante a 
+qualidade e credibilidade dos trabalhos acadêmicos. O desenvolvimento do guia 
+prático para referências **bibliográficas** e **citações** busca dar suporte 
+aos usuários da biblioteca, os auxiliando na promoção da produção acadêmica 
+alinhada aos padrões estabelecidos. situação-problema: Metodologia de ensino, 
+desempenho de **alunos** , evasão Participação da comunidade e sociedade 
+
+Lemmas in this text that loaded on the factor:
+
+aluno (secondary)
+bibliográfico
+citação

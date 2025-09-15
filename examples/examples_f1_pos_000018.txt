@@ -1,0 +1,48 @@
+file = fat001726
+date = 23
+user = r06_u168
+conversation = t000046_1_ANÁLISE_DO_CENÁRIO_Paragraph_22
+URL = No_URL
+
+word count = 215
+words loading = 13
+factor score = 24
+
+A- Proposta de indexação do Fasci-Tech, periódico científico eletrônico da 
+Fatec de São Caetano do Sul, nas principais bases de dados. O que será feito: 
+Identificação dos critérios para o processo de indexação do Fasci-Tech, 
+definição de cronograma de atividades para atendimento aos requisitos das 
+principais bases de dados e estabelecimento de plano de ação para conclusão do 
+registro do periódico. Por que será feito: Para estabelecimento da correta 
+padronização dos dados bibliográficos do periódico, mirando não somente a 
+visibilidade da revista para publicação, bem como seu reconhecimento pelos 
+pares na área de atuação. **Objetivo** ( s ) **relacionado** ( s ) : Aumentar a 
+**eficiência** , a **produtividade** e a **competitividade** da instituição 
+Garantir **celeridade** e **efetividade** na **prestação** de serviços. 
+**Meta** ( s ) **relacionada** ( s ) : Ampliar as inscrições para o 
+**vestibular** em 5 % no ano de 2023 Promover ações **pedagógicas** e 
+administrativas que proporcionem a **redução** da **taxa** de evasão em 5 % 
+FaSCi-Tech. O que será feito: Atualização da plataforma de suporte ao 
+periódico. Por que será feito: Necessidade técnica. **Objetivo** ( s ) 
+**relacionado** ( s ) : Aumentar a **eficiência** , a **produtividade** e a 
+**competitividade** da instituição Garantir **celeridade** e **efetividade** na 
+**prestação** de serviços. **Meta** ( s ) **relacionada** ( s ) : Ampliar as 
+inscrições para o **vestibular** em 5 % no ano de 2023 . Promover ações 
+**pedagógicas** e administrativas que proporcionem a **redução** da **taxa** de 
+evasão em 5 % 
+
+Lemmas in this text that loaded on the factor:
+
+celeridade
+competitividade
+efetividade
+eficiência
+meta
+objetivo
+pedagógico (secondary)
+prestação
+produtividade
+redução
+relacionar
+taxa
+vestibular (secondary)

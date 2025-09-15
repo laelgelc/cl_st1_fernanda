@@ -1,0 +1,41 @@
+file = fat002011
+date = 24
+user = r06_u204
+conversation = t000057_1_ANÁLISE_DO_CENÁRIO_Paragraph_20
+URL = No_URL
+
+word count = 101
+words loading = 17
+factor score = 24
+
+PARTICPAÇÃO DOS **ALUNOS** NO **TORNEIO** INTERFATECS cat 1 . 06 - **Ações** 
+**pedagógicas** : visitas técnicas, **projetos** **integradores** / 
+**interdisciplinares** , dias de **campo** , **feira** das **profissões** , 
+**cursos** **extracurriculares** para **alunos** . O que será **feito** : 
+Preparação dos **alunos** dos **cursos** de TI e viabilização de suas 
+participações no **torneio** , primeira e segunda fases. Por que será **feito** 
+: A Maratona InterFatecs é a segunda maior competição de **programação** de 
+computadores do país, voltada especificamente para **alunos** das Fatec. A 
+prática e o estudo diário de **programação** são a melhor forma de aprimorar a 
+lógica de **programação** , o **conhecimento** de algoritmos e a habilidade 
+para **resolver** **problemas** . 
+
+Lemmas in this text that loaded on the factor:
+
+ação
+aluno
+campo
+conhecimento (secondary)
+curso
+extracurricular
+fazer
+feira
+integrador
+interdisciplinar
+pedagógico
+problema
+profissão
+programação
+projeto
+resolver
+torneio

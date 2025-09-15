@@ -1,0 +1,32 @@
+file = fat002156
+date = 25
+user = r06_u129
+conversation = t000063_1_ANÁLISE_DO_CENÁRIO_Paragraph_30
+URL = No_URL
+
+word count = 178
+words loading = 3
+factor score = -1
+
+Desenvolvimento de Projetos de IC - MDITI O que será feito: Seleção de alunos 
+para Bolsas Semestrais de Pesquisa de Iniciação em Desenvolvimento Tecnológico 
+para o Curso de Processos Químicos, sobre um estudo comparativo entre carvão 
+ativado e borra de café como adsorventes para metais pesados presentes em 
+solução aquosa. Por que será feito: Para incentivar a pesquisa e o 
+desenvolvimento de estudos sobre sustentabilidade com foco no uso de biomassa 
+para descontaminação da água por meio de experimentos em laboratório de 
+Química. O que será feito: Projeto de Pesquisa sobre uso de **plantas** na 
+descontaminação da água, por meio de experimentos em laboratório de Química, 
+com foco na qualidade ambiental da Cidade de Praia Grande. Por que será feito: 
+Para o desenvolvimento de estudos sobre sustentabilidade com foco no uso 
+adequado da água em córregos e praias, a partir das experiências dos alunos de 
+Processos Químicos em disciplinas com conteúdo sobre meio ambiente e em 
+cooperação com a Secretaria do Meio Ambiente da Praia Grande. 
+situação-problema: Metodologia de ensino, **desempenho** de alunos, **evasão** 
+Participação da comunidade e sociedade 
+
+Lemmas in this text that loaded on the factor:
+
+desempenho (secondary)
+evasão (secondary)
+planta

@@ -1,0 +1,21 @@
+file = fat002183
+date = 25
+user = r06_u160
+conversation = t000065_1_ANÁLISE_DO_CENÁRIO_Paragraph_14
+URL = No_URL
+
+word count = 51
+words loading = 3
+factor score = -1
+
+O que será feito: Desenvolvimento de um caminhão autônomo nível SAE-3 para 
+colheita de cana de açúcar Por que será feito: Projeto de Pesquisa **aplicada** 
+financiada pela FUNDEP e em parceria com a UFABC, POLI-USP, Mercedes Benz, 
+Bosch e Grunner situação-problema: Metodologia de ensino, **desempenho** de 
+alunos, **evasão** Participação da comunidade e sociedade 
+
+Lemmas in this text that loaded on the factor:
+
+aplicado
+desempenho (secondary)
+evasão (secondary)

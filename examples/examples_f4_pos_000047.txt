@@ -1,0 +1,23 @@
+file = fat002310
+date = 26
+user = r06_u005
+conversation = t000070_1_ANÁLISE_DO_CENÁRIO_Paragraph_19
+URL = No_URL
+
+word count = 93
+words loading = 1
+factor score = 4
+
+**Estudo** de línguas, seja para a comunicação, para negócios, ou para exames 
+internacionais Aumentar o índice de aprovação dos alunos **Estudo** de línguas, 
+seja para a comunicação, para negócios, ou para exames internacionais Aumentar 
+o índice de aprovação dos alunos **Estudo** de línguas, seja para a 
+comunicação, para negócios, ou para exames internacionais Aumentar o índice de 
+aprovação dos alunos **Estudo** de línguas, seja para a comunicação, para 
+negócios, ou para exames internacionais Aumentar o índice de aprovação dos 
+alunos situação-problema: Metodologia de ensino, desempenho de alunos, evasão 
+Participação da comunidade e sociedade 
+
+Lemmas in this text that loaded on the factor:
+
+estudo

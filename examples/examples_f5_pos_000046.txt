@@ -1,0 +1,37 @@
+file = fat001432
+date = 23
+user = r06_u160
+conversation = t000035_3_CONSIDERAÇÕES_Paragraph_4
+URL = No_URL
+
+word count = 168
+words loading = 8
+factor score = 11
+
+2 . **Química** petroquímica – É outra competência produtiva que faz da Região 
+do Grande ABC, um destaque no cenário nacional. Analogamente ao panorama 
+brasileiro, a produção **química** petroquímica do ABC Paulista é quase que 
+inteiramente orientada para o mercado interno, com vendas externas, meramente 
+residuais. É uma **indústria** intensiva em capital, conhecimento e recursos 
+humanos qualificados. O **setor** é responsável por uma variedade de insumos 
+para outros **ramos** da **economia** , aspecto que na Região do Grande ABC 
+assume um ampliado caráter estratégico, haja vista sua a estreita relação com a 
+cadeia automobilística. Do ponto de vista de tecnologias **relevantes** para 
+esta **indústria** , vale assinalar, aquelas situadas na interseção da 
+**química** tradicional com a biologia, campo onde o país pode se beneficiar de 
+vantagens comparativas por conta de sua biodiversidade. No segmento de 
+**químicos** renováveis a biotecnologia **industrial** se mostra como uma 
+oportunidade a ser explorada. Do ponto de vista de soluções transversais que 
+podem ser integradas ao **setor** , vale elencar a questão da nanotecnologia, 
+mais notadamente no segmento de cosméticos. 
+
+Lemmas in this text that loaded on the factor:
+
+economia
+indústria
+industrial
+química
+químico
+ramo
+relevante (secondary)
+setor

@@ -1,0 +1,34 @@
+file = fat001487
+date = 23
+user = r06_u204
+conversation = t000037_1_INTRODUÇÃO_Paragraph_14
+URL = No_URL
+
+word count = 85
+words loading = 12
+factor score = 14
+
+Em relação à participação do **emprego** **formal** por grau de escolaridade, 
+verifica -se que, em 2016 , o percentual de **trabalhadores** com ensino 
+superior, nos 4 **setores** de atividade com **maior** representação na 
+**região** , era de 15 , 6 % , **número** inferior ao percentual do 
+**município** ( 25 % ) . Do percentual de postos de trabalho **formais** 
+ocupados por **profissionais** com ensino superior, na **região** da 
+**Subprefeitura** do Ipiranga, 56 , 9 % estavam no **setor** de serviços, 21 , 
+4 % na **indústria** de transformação, 19 , 5 % no **comércio** e 2 , 3 % na 
+construção civil. 
+
+Lemmas in this text that loaded on the factor:
+
+comércio
+emprego
+formal
+grande
+indústria
+município
+número
+profissional (secondary)
+região
+setor
+subprefeitura
+trabalhador

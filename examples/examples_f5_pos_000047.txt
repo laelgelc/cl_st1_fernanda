@@ -1,0 +1,31 @@
+file = fat001367
+date = 23
+user = r06_u160
+conversation = t000035_1_INTRODUÇÃO_Paragraph_13
+URL = No_URL
+
+word count = 86
+words loading = 8
+factor score = 11
+
+Santo André **possui** um forte ecossistema de ( inovação e tecnologia / 
+atividades TI / serviço / turismo / **indústria** de transformação, etc. ) , 
+com a presença de **grandes** **empresas** e instituições de pesquisa, como ( 
+TIM, Pirelli, Magnetti Marelli, entre outras ) . Essas **empresas** e 
+instituições demandam **profissionais** qualificados em diversas **áreas** 
+especialmente nas **áreas** de desenvolvimento de softwares e manutenção e 
+projetos de automação **industrial** ) . Além disso, há uma **grande** 
+quantidade de **empresas** de tecnologia na **região** , que também precisam de 
+**profissionais** capacitados para desenvolver e manter seus sistemas de 
+informação. 
+
+Lemmas in this text that loaded on the factor:
+
+área
+empresa
+grande
+indústria
+industrial
+possuir
+profissional (secondary)
+região

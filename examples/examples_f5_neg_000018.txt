@@ -1,0 +1,31 @@
+file = fat002743
+date = 22
+user = r06_u137
+conversation = t000084_2_DESENVOLVIMENTO_Paragraph_21
+URL = No_URL
+
+word count = 165
+words loading = 3
+factor score = -2
+
+IV. Biblioteca: a ) Serviços prestados: 399 cadastros, 4895 frequentes, 1241 
+empréstimos, 365 renovações, 896 devoluções e 321 livros pendentes de devolução 
+desde entre 2018 e 2022 . b ) Aquisições: 19 títulos e 72 exemplares no valor 
+de R$ 13 . 208 , 05 . c ) Doações: 71 de professores, 29 de **alunos** , 54 da 
+comunidade externa e 8 do Centro Paula Souza. d ) Livros tombados: 162 no 
+total. e ) Acervo geral: ( a ) livros: 2688 livros e 10347 exemplares, ( b ) 
+periódicos: 462 títulos e 1962 exemplares, ( c ) trabalhos de conclusão de 
+curso: 1258 títulos e exemplares, ( d ) dissertações / teses: 7 títulos e 
+exemplares. f ) Infraestrutura: cadeiras de plástico foram trocadas por 
+estofadas, a biblioteca recebeu **desktops** mais avançados para uso dos 
+**alunos** , foram instaladas novas mesas na sala de estudo e fixada um 
+**televisor** de 65 " na biblioteca para uso dos **alunos** nas capacitações 
+que ocorrem no local. g ) Recursos humanos: foi alocada mais uma funcionária na 
+biblioteca para melhor cobertura de atendimento ao público da comunidade 
+acadêmica local. 
+
+Lemmas in this text that loaded on the factor:
+
+aluno (secondary)
+desktops
+televisor

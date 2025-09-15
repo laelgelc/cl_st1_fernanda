@@ -1,0 +1,21 @@
+file = fat002314
+date = 26
+user = r06_u005
+conversation = t000070_1_ANÁLISE_DO_CENÁRIO_Paragraph_23
+URL = No_URL
+
+word count = 56
+words loading = 2
+factor score = -1
+
+Transformar e adequar a Revista Conecta em um periódico científico com projeção 
+nacional. Revisão gramatical / linguística ( **gramática** e ortografia ) dos 
+artigos submetidos à Revista Conecta da Fatec Rubens Lara. O projeto visa 
+melhorar a clareza, a coesão e a coerência dos trabalhos apresentados. 
+situação-problema: Metodologia de ensino, desempenho de **alunos** , evasão 
+Participação da comunidade e sociedade 
+
+Lemmas in this text that loaded on the factor:
+
+aluno (secondary)
+gramático

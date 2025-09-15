@@ -1,0 +1,16 @@
+file = fat002601
+date = 22
+user = r06_u113
+conversation = t000081_2_DESENVOLVIMENTO_Paragraph_9
+URL = No_URL
+
+word count = 18
+words loading = 1
+factor score = -2
+
+Laboratório de **embalagens** : criação de um laboratório de **embalagens** , 
+para as aulas práticas nos CST em Logística; 
+
+Lemmas in this text that loaded on the factor:
+
+embalagem

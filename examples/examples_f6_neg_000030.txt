@@ -1,0 +1,28 @@
+file = fat003203
+date = 23-24
+user = r06_u137
+conversation = t000110_2_FORMAÇÃO_ESPECÍFICA_Paragraph_1
+URL = No_URL
+
+word count = 125
+words loading = 3
+factor score = -1
+
+**Comentários** e Esclarecimentos **Adicionais** quanto a Avaliação das 
+questões com maior número de erros – FORMAÇÃO ESPECÍFICA: 1 . A ocorrência do 
+maior número de erros nas questões de formação específica pode ter como uma das 
+principais causas a falta de visão panorâmica do aluno como um todo das 
+disciplinas ministradas durante todo o curso, não sendo capaz de estabelecer 
+conexão entre os diversos conteúdos, o que dificulta a análise e utilização 
+destes como ferramentas na solução de problemas, de modo que os professores 
+devem chamar atenção dos alunos para a interdisciplinaridade, demonstrando os 
+conhecimentos que uma disciplina oferece como pré-requisitos para a compreensão 
+dos conteúdos que são abordados por outras disciplinas, contribuindo para o 
+desenvolvimento de **raciocínio** lógico, para aplicação dos conteúdos teóricos 
+em situações concretas. 
+
+Lemmas in this text that loaded on the factor:
+
+adicional (secondary)
+comentário (secondary)
+raciocínio

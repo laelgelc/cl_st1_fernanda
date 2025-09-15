@@ -1,0 +1,28 @@
+file = fat001435
+date = 23
+user = r06_u160
+conversation = t000035_3_CONSIDERAÇÕES_Paragraph_7
+URL = No_URL
+
+word count = 145
+words loading = 1
+factor score = -1
+
+Em paralelo, o estado de São Paulo, além de acomodar importantes plantas 
+farmacêuticas, tem como setor estratégico a área da saúde e ciências da vida, 
+uma oportunidade para a busca de uma maior participação e representatividade da 
+Região do Grande ABC. Outro fator que contribui para a priorização do 
+**complexo** industrial da saúde como uma área estratégica de inovação para o 
+Ecossistema de Inovação do Grande ABC refere -se ao fato de que a UFABC, 
+segundo entrevista realizada, pretende intensificar suas ações junto a área de 
+ciências biológicas. São exemplos de estudos que vem sendo conduzidos pelas 
+universidades da Região do Grande ABC: plataformas de diagnóstico molecular e 
+gênico, bioinformática, farmacocinética, farmacologia de produtos naturais, 
+polímeros de sistemas terapêuticos, nanopartículas para vacinas, monitoramento 
+home care, plataformas baseadas em biochips, análises clínicas por detecção 
+química, bioimpressoras 3D, stents de polímeros adaptáveis, biomateriais para 
+aplicações médicas entre outros. 
+
+Lemmas in this text that loaded on the factor:
+
+complexo

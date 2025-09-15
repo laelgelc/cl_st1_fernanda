@@ -1,0 +1,39 @@
+file = fat002901
+date = 23
+user = r06_u129
+conversation = t000093_2_DESENVOLVIMENTO_Paragraph_41
+URL = No_URL
+
+word count = 83
+words loading = 17
+factor score = 17
+
+DEFINIÇÃO DE **OBJETIVOS** , **METAS** E AÇÕES ( PROJETOS ) **Objetivos** ( 
+**Institucionais** ) : • Os **objetivos** devem estar **relacionados** com 
+melhoria ou ação, sobre itens do PDI. 1 **Atender** às **demandas** sociais e 
+do **mercado** de trabalho. 2 **Alcançar** e manter o **grau** de 
+**excelência** em seus processos de **ensino** e aprendizagem. 3 Formar 
+**profissionais** atualizados em **tecnologias** e processos produtivos, 
+**capazes** de atuar no desenvolvimento tecnológico e inovação. 4 Aumentar a 
+**eficiência** , a **produtividade** e a **competitividade** da instituição. 5 
+Ampliar a oferta da Educação **Profissional** . 
+
+Lemmas in this text that loaded on the factor:
+
+alcançar
+atender
+capaz
+competitividade
+demanda
+eficiência
+ensino (secondary)
+excelência
+grau
+institucional (secondary)
+mercado
+meta
+objetivo
+produtividade
+profissional
+relacionar
+tecnologia

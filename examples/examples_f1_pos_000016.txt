@@ -1,0 +1,51 @@
+file = fat003092
+date = 24
+user = r06_u129
+conversation = t000102_2_CONSIDERAÇÕES_Paragraph_48
+URL = No_URL
+
+word count = 110
+words loading = 26
+factor score = 24
+
+**Objetivos** **Institucionais** – CPS ( Plano de **Metas** ) 1 ) **Atender** 
+às **demandas** sociais e do **mercado** de trabalho. 2 ) Obter a 
+**satisfação** dos **públicos** que se **relacionam** com o Centro Paula Souza 
+( **stakeholders** ) . 3 ) **Alcançar** e manter o **grau** de **excelência** 
+em seus processos de **ensino** e aprendizagem. 4 ) **Assegurar** a 
+**perenidade** do **crescimento** da instituição com recursos financeiros 
+disponíveis. 5 ) Garantir **celeridade** e **efetividade** na **prestação** de 
+serviços. 6 ) Formar **profissionais** atualizados em **tecnologias** e 
+processos produtivos, **capazes** de atuar no desenvolvimento tecnológico e 7 ) 
+Promover a cultura de inovação e empreendedorismo. 8 ) Aumentar a 
+**eficiência** , a **produtividade** e a **competitividade** da instituição. 9 
+) Ampliar a oferta da Educação **Profissional** . 
+
+Lemmas in this text that loaded on the factor:
+
+alcançar
+assegurar
+atender
+capaz
+celeridade
+competitividade
+crescimento
+demanda
+efetividade
+eficiência
+ensino (secondary)
+excelência
+grau
+institucional (secondary)
+mercado
+meta
+objetivo
+perenidade
+prestação
+produtividade
+profissional
+público
+relacionar
+satisfação
+stakeholders
+tecnologia

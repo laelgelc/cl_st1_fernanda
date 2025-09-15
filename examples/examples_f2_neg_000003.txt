@@ -1,0 +1,27 @@
+file = fat001645
+date = 23
+user = r06_u129
+conversation = t000043_1_ANÁLISE_DO_CENÁRIO_Paragraph_9
+URL = No_URL
+
+word count = 132
+words loading = 3
+factor score = -4
+
+Metas: Apresentar à CESU, até julho de 2023 , o Projeto de Implantação de mais 
+01 CST na unidade. Atualizar até julho de 2023 , os Relatórios Técnicos para 
+adequação estrutural do prédio da unidade. Apresentar à CESU, até agosto de 
+2023 , os Projetos de Implantação de 04 Cursos de Pós-Graduação na unidade. 
+Reduzir em 10 % a **evasão** escolar em 2023 . Apresentar à CESU, até setembro 
+de 2023 , os Projetos de Implantação de 02 Cursos AMS na unidade. Aumentar em 
+10 % a empregabilidade dos alunos da Fatec Praia Grande no ano de 2023 . 
+Atualizar até julho de 2023 , os Relatórios Técnicos para adequação dos 
+ambientes físicos das salas e laboratórios da unidade. Aumentar em 20 % o 
+número de candidato-vaga para os cursos de menor demanda ( GE **manhã** , Comex 
+**manhã** , PQ **manhã** e **noite** , DSM vespertino ) . 
+
+Lemmas in this text that loaded on the factor:
+
+evasão (secondary)
+manhã
+noite

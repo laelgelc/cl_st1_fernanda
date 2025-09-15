@@ -1,0 +1,31 @@
+file = fat001493
+date = 23
+user = r06_u204
+conversation = t000037_1_INTRODUÇÃO_Paragraph_20
+URL = No_URL
+
+word count = 118
+words loading = 8
+factor score = 11
+
+De acordo com a Secretaria Estadual de Turismo e Viagens do **Estado** de São 
+Paulo, o PIB do turismo paulista atingiu mais de R$ 222 , 3 bilhões ( CIET / 
+Setur SP, 2020 ) , **gerando** mais de 50 mil **empregos** diretos ( CIET / 
+Setur / CAGED / Ministério do Trabalho, 2020 ) . Para efeitos comparativos, ao 
+passo que o turismo do **estado** de São Paulo cresceu, em 2019 , 5 , 3 % , o 
+do Brasil, para o mesmo período, registrou incremento de 2 , 3 % . São Paulo 
+cresceu mais do que o dobro do país. O **setor** é estratégico pois tem 
+**grande** capacidade de **gerar** cada vez mais oportunidades de **renda** e 
+**emprego** para diversas atividades dos **municípios** , incluindo os eventos 
+como **importante** catalizador de fluxo turístico. 
+
+Lemmas in this text that loaded on the factor:
+
+emprego
+estado
+gerar
+grande
+importante
+município
+renda
+setor

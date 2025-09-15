@@ -1,0 +1,21 @@
+file = fat001188
+date = 23
+user = r06_u005
+conversation = t000030_1_ECOSSISTEMA_DE_INOVAÇÃO_Paragraph_6
+URL = No_URL
+
+word count = 53
+words loading = 2
+factor score = -1
+
+A formação na área de computação capacita o profissional a aplicar tecnologias 
+avançadas na área de serviços e automação, tornando -se um profissional 
+altamente valorizado pelo mercado. Com a crescente demanda por tecnologias 
+inovadoras, empresas buscam profissionais com essa formação para **otimizar** o 
+fluxo de informação, reduzir **custos** e aumentar a competitividade no 
+mercado. 
+
+Lemmas in this text that loaded on the factor:
+
+custo
+otimizar (secondary)

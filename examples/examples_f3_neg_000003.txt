@@ -1,0 +1,23 @@
+file = fat001345
+date = 23
+user = r06_u137
+conversation = t000034_2_DESENVOLVIMENTO_Paragraph_17
+URL = No_URL
+
+word count = 98
+words loading = 1
+factor score = -2
+
+A combinação de informações relevantes como a distribuição de renda, o preço da 
+terra, o padrão das redes de transporte, comunicação e infraestruturas, e o 
+nível da atividade econômica de uma região, permite identificar os principais 
+fatores de nucleação dos empregos. Com a incorporação imobiliária das zonas 
+marginais do rio Pinheiros, e irradiando -se desse aglomerado na direção Sul e 
+**Sudoeste** ( chamado de vetor **Sudoeste** ) , a ampliação de centros 
+empresariais, hotéis e shoppings tem ofertado grande número de empregos ao 
+norte de Santo Amaro com forte tendência de expansão para na direção Sul na 
+qual a Fatec está localizada. 
+
+Lemmas in this text that loaded on the factor:
+
+sudoeste

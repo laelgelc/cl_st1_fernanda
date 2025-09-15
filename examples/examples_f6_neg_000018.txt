@@ -1,0 +1,19 @@
+file = fat001544
+date = 23
+user = r06_u217
+conversation = t000038_2_DESENVOLVIMENTO_Paragraph_8
+URL = No_URL
+
+word count = 58
+words loading = 1
+factor score = -1
+
+De acordo com os dados do último **Censo** do IBGE de 2010 , Diadema tem a 1a 
+maior densidade populacional do Brasil: 12 . 536 , 99 habitantes por km2 . Sua 
+população, estimada em 2020 é de 426 . 757 mil habitantes, está distribuída no 
+território de 30 , 8 km2 que representa toda a área do município que é 100 % 
+urbano. 
+
+Lemmas in this text that loaded on the factor:
+
+censo

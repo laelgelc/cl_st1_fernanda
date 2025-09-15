@@ -1,0 +1,29 @@
+file = fat002169
+date = 25
+user = r06_u137
+conversation = t000064_1_ANÁLISE_DO_CENÁRIO_Paragraph_10
+URL = No_URL
+
+word count = 55
+words loading = 9
+factor score = 10
+
+**APONTAMENTO** DE SITUAÇÕES-PROBLEMA MAIS **RELEVANTES** - Gestão da unidade 
+de ensino e dos cursos ( indicadores ) - **Infraestrutura** **laboratorial** e 
+ambientes de ensino - Metodologia de ensino, desempenho de alunos, evasão - 
+Manutenção e **conservação** **predial** - **Infraestrutura** **predial** ( 
+espaços, sistemas ) - Materiais, equipamentos e mobiliários - Participação da 
+comunidade e sociedade – Baixa demanda no **vestibular** para os cursos do 
+turno da tarde 
+
+Lemmas in this text that loaded on the factor:
+
+apontamento
+conservação
+infraestrutura
+laboratorial
+predial
+problema (secondary)
+relevante
+situações
+vestibular

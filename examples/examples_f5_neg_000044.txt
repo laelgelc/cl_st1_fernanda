@@ -1,0 +1,21 @@
+file = fat001615
+date = 23
+user = r06_u113
+conversation = t000041_1_ANÁLISE_DO_CENÁRIO_Paragraph_4
+URL = No_URL
+
+word count = 68
+words loading = 1
+factor score = -1
+
+Os objetivos devem estar relacionados com melhoria ou ação, sobre itens do PDI. 
+Promover 2 visitas técnicas por semestre Atualizar 1 laboratório de 
+Processamento Ofertar cursos de extensão universitária, Atualizar 1 laboratório 
+de Ensaios físicos de alcançando emissão de 30 **certificados** polímeros 
+Atualizar 1 laboratório de CNC Atualizar 1 laboratório de informática Atualizar 
+1 laboratório de Usinagem Alcançar a participação de 80 % do corpo docente na 
+SPAP 
+
+Lemmas in this text that loaded on the factor:
+
+certificado

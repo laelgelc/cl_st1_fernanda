@@ -1,0 +1,24 @@
+file = fat002908
+date = 23
+user = r06_u137
+conversation = t000094_2_DESENVOLVIMENTO_Paragraph_5
+URL = No_URL
+
+word count = 87
+words loading = 3
+factor score = 5
+
+c ) Nota no ENADE. Os coordenadores de curso listaram todas as **questões** das 
+**provas** do ENADE com referência ao seu respectivo curso. Estas listas foram 
+divulgadas aos docentes que incluíram no conteúdo programático das disciplinas, 
+os conceitos, teorias e práticas que permitem os alunos responderem 
+acertadamente as referidas **questões** . Além disso, ao longo dos semestres 
+são abordados **questões** e conceitos durante as **avaliações** e trabalhos 
+das disciplinas envolvidas, bem como apresentados minicursos e exames simulados 
+com **questões** de nível de complexidade semelhantes as utilizadas no ENADE. 
+
+Lemmas in this text that loaded on the factor:
+
+avaliação (secondary)
+prova
+questão

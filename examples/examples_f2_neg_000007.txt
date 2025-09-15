@@ -1,0 +1,24 @@
+file = fat002768
+date = 22
+user = r06_u168
+conversation = t000086_2_DESENVOLVIMENTO_Paragraph_21
+URL = No_URL
+
+word count = 99
+words loading = 2
+factor score = -3
+
+O Security Day aconteceu no dia 6 de outubro, nos períodos da **manhã** e da 
+**noite** , de forma presencial. Foram 3 palestras no período da **manhã** : - 
+Carreira em Segurança da Informação: uma abordagem prática de Blue Team e Red 
+Team com Marcos Veides. - Neurociência aplicada ao comportamento de risco com 
+João Paulo. - Cyber Guerra: o lado empresarial da força com Mayara Guerini. No 
+período da **noite** : - Mesa redonda com egressos do curso de Segurança da 
+Informação, com o tema " Segurança da Informação, vários caminhos, mas uma 
+única origem " . - Palestra " Ingressando na carreira de perícia forense " com 
+Estefânia Pianoski. 
+
+Lemmas in this text that loaded on the factor:
+
+manhã
+noite

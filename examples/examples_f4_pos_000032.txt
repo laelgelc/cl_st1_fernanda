@@ -1,0 +1,29 @@
+file = fat000370
+date = 22-23
+user = r06_u204
+conversation = t000007_3_DESENVOLVIMENTO_Paragraph_12
+URL = No_URL
+
+word count = 121
+words loading = 5
+factor score = 5
+
+Os índices com relação à interação entre corpo técnica-administrativo e 
+docentes e discentes são excelentes: 95 % entre excelente e muito bom para os 
+primeiros e 89 % para o segundo. A análise mostra que a maioria dos docentes 
+avalia positivamente as diversas atividades de seus cursos, tanto no que se 
+refere ao PPC, aos seus **componentes** **curriculares** , quanto às atividades 
+realizadas, incluindo tempos de **pandemia** . No entanto, há um índice 
+bastante preocupante com relação a **questões** tais como estágio como espaço 
+de formação profissional e o cumprimento pelo seu curso das políticas de 
+ensino, pesquisa e extensão. São **questões** que devem ser analisadas com 
+cuidado pela direção do curso e coordenação em busca de uma **maior** clareza 
+para os alunos dessas atividades. 
+
+Lemmas in this text that loaded on the factor:
+
+componente
+curricular
+grande (secondary)
+pandemia
+questão

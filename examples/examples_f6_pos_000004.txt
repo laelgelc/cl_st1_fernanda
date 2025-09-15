@@ -1,0 +1,51 @@
+file = fat003033
+date = 24
+user = r06_u005
+conversation = t000100_2_DESENVOLVIMENTO_Paragraph_5
+URL = No_URL
+
+word count = 255
+words loading = 12
+factor score = 14
+
+EIXO 05 **INFRAESTRUTURA** ( **instalações** **prediais** ) Neste eixo não 
+logramos êxito na sua execução, pela complexidade dos projetos apresentados, 
+uma vez que estão atrelados a dotação orçamentária. Pontos fortes: - alta 
+qualificação dos professores; - qualidade técnica dos colaboradores; - perfil 
+qualificado dos discentes; - alta demanda das inscrições do **vestibular** ; - 
+celebração de parcerias com empresas e comunidade; - projetos de extensão à 
+comunidade; - alto índice de publicações científicas; - alto índice de 
+empregabilidade dos alunos; - cursos alinhados com as demandas comerciais da 
+região; - solicitação de implantação de 02 novos cursos superiores, sendo: 
+Banco de Dados e Desenvolvimento Software Multiplataforma; - solicitação de 
+implantação de cursos de pós-graduação; - realização de congressos, feiras de 
+empreendedorismo, eventos, palestras e oficinas organizados para os alunos e 
+para a sociedade em geral; - ampliação do Centro de **Línguas** com atividades 
+culturais diversas, tais como: xadrez, teatro, sarau e concursos culturais; - 
+ampliação do projeto de leitura com a biblioteca itinerante; - Renovação da 
+locação do prédio com manutenção dos aparelhos de ar-condicionado e elevadores 
+que está sob a responsabilidade do locador; - Publicação **acadêmica** da 
+Revista Conecta; - Grande quantidade de aplicação de exames TOEIC; - Suporte 
+pedagógico aos alunos PCDS; - Troca das placas de gesso no teto de **salas** de 
+**aula** e laboratórios; - **Melhoria** dos computadores da **sala** dos 
+professores com SSD, aumentando a capacidade e memória das máquinas; - Aumento 
+da velocidade da internet na Unidade, de 100MG para 300MG; - Criação de 03 
+novas **salas** de **aula** e duas **salas** para atividades 
+**administrativas** no pavimento térreo; - **Instalação** de câmeras nos 
+elevadores e nos andares em frente aos elevadores, iniciativa do locador do 
+prédio. 
+
+Lemmas in this text that loaded on the factor:
+
+acadêmico (secondary)
+administrativo (secondary)
+ar
+aula
+condicionado
+infraestrutura
+instalação
+língua (secondary)
+melhoria
+predial
+sala
+vestibular

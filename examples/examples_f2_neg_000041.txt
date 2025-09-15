@@ -1,0 +1,21 @@
+file = fat001551
+date = 23
+user = r06_u217
+conversation = t000038_2_DESENVOLVIMENTO_Paragraph_15
+URL = No_URL
+
+word count = 61
+words loading = 1
+factor score = -1
+
+No início do projeto da Fatec Diadema, estavam alocadas em Diadema 
+aproximadamente 10 % das empresas de cosméticos do Brasil, entre fabricantes de 
+cosméticos e empresas pertencentes à cadeia produtiva do setor, tais como 
+fabricantes de matérias-primas, **embalagens** , máquinas e equipamentos, 
+insumos de laboratório, distribuidores, etc. , responsáveis por 8 . 000 
+empregos diretos, 3 . 000 empregos indiretos e por 3 % da arrecadação 
+municipal. 
+
+Lemmas in this text that loaded on the factor:
+
+embalagem

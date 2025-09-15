@@ -1,0 +1,18 @@
+file = fat000693
+date = 23-24
+user = r06_u168
+conversation = t000016_1_INTRODUÇÃO_Paragraph_1
+URL = No_URL
+
+word count = 36
+words loading = 1
+factor score = -1
+
+A Fatec São Caetano possui a avaliação institucional como efetivo instrumento 
+de gestão. Por meio da avaliação tem -se condições de reunir apontamentos 
+capazes de **suscitar** análises e discussões possibilitando definir planos de 
+melhorias de forma continuada. 
+
+Lemmas in this text that loaded on the factor:
+
+suscitar

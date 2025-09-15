@@ -1,0 +1,31 @@
+file = fat001350
+date = 23
+user = r06_u137
+conversation = t000034_2_DESENVOLVIMENTO_Paragraph_22
+URL = No_URL
+
+word count = 109
+words loading = 8
+factor score = 13
+
+Segundo os dados do IPEA, a **renda** média mensal familiar da **Região** 
+Metropolitana correspondia a 1800 , 00 Reais em 2007 e 2450 , 00 em 2018 . Em 
+que pese a redução da **renda** média devido a situação **econômica** atual, 
+houve significativa redução do desemprego e aumento do **número** de 
+assalariados com carteira assinada nos últimos 3 **anos** ( anteriores à atual 
+depressão **econômica** ) . Este fato sugere que um **número** **maior** de 
+assalariados de baixa **renda** ( 1 a 3 salários-mínimos ) contribuiu para a 
+redução da **renda** média da RMSP. Como a **região** do projeto se caracteriza 
+pelo predomínio das **rendas** mais baixas, é provável que a **demanda** por 
+**maior** qualificação **profissional** tecnológica. 
+
+Lemmas in this text that loaded on the factor:
+
+ano
+demanda (secondary)
+econômico
+grande
+número
+profissional (secondary)
+região
+renda

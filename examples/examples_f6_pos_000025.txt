@@ -1,0 +1,28 @@
+file = fat002259
+date = 25
+user = r06_u217
+conversation = t000068_1_ANÁLISE_DO_CENÁRIO_Paragraph_5
+URL = No_URL
+
+word count = 51
+words loading = 8
+factor score = 9
+
+**APONTAMENTO** DE SITUAÇÕES-PROBLEMA MAIS **RELEVANTES** - Metodologia de 
+ensino, desempenho de alunos, evasão - Participação da comunidade e sociedade - 
+**Infraestrutura** **predial** ( espaços, sistemas ) - Acesso / Inclusão ao 
+Ensino Superior ( social, PCD ) - **Infraestrutura** **laboratorial** e 
+ambientes de ensino - Gestão da unidade de ensino e dos cursos ( indicadores ) 
+- Materiais, equipamentos e mobiliários - Manutenção e **conservação** 
+**predial** 
+
+Lemmas in this text that loaded on the factor:
+
+apontamento
+conservação
+infraestrutura
+laboratorial
+predial
+problema (secondary)
+relevante
+situações

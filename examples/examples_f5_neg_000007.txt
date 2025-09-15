@@ -1,0 +1,39 @@
+file = fat002792
+date = 22
+user = r06_u204
+conversation = t000087_2_DESENVOLVIMENTO_Paragraph_2
+URL = No_URL
+
+word count = 237
+words loading = 4
+factor score = -4
+
+Atividades desenvolvidas: ✓ Sensibilização de toda a Comunidade Acadêmica ( 
+corpo docente e discente ) quanto à importância da manutenção dos resultados. ✓ 
+Desenvolvimento de ações gradativas para a preparação dos **alunos** , com 
+conteúdos e modelos de prova **semelhantes** às aplicadas pelo Enade. ✓ 
+Promoção de oficinas preparatórias para a intensificação da preparação desde os 
+períodos iniciais. ✓ Aplicação de simulados. ✓ Atualização dos PPC em parceria 
+com a CESU / GAP. ✓ Ações Enade: no primeiro semestre, no mês de março, o 
+diretor acadêmico envia para os **coordenadores** a relação de **alunos** 
+considerados potenciais ( 50 % de PP ) . Estes analisam a planilha juntamente 
+com o histórico escolar do **aluno** para identificar se ele existe a 
+expectativa de cumprimento de mais de 75 % carga horária ou de conclusão até o 
+mês de dezembro. No segundo semestre, após a acomodação, a Secretaria 
+Acadêmica: ✓ Analisa a situação dos **alunos** com matrículas abertas e envia 
+e-mail para eles solicitando a manutenção da vaga, caso ainda tenham direito. 
+Esta ação impede a matrícula de **alunos** que não estão mais " em curso " . ✓ 
+Encaminha a **lista** com os **alunos** com PP acima de 75 % para os 
+**coordenadores** de curso. A coordenação analisa novamente a **lista** e 
+publica a relação dos **alunos** que serão matriculados no ENADE. Após a 
+publicação da **lista** a coordenação envia um e-mail e se reúne com os 
+**alunos** para uma conversa informativa. É apresentado aos discentes um 
+cronograma das atividades oferecidas pelo curso para auxiliar na preparação 
+para o exame. 
+
+Lemmas in this text that loaded on the factor:
+
+aluno (secondary)
+coordenador (secondary)
+lista
+semelhante

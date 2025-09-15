@@ -1,0 +1,39 @@
+file = fat000458
+date = 22-23
+user = r06_u217
+conversation = t000008_3_DESENVOLVIMENTO_Paragraph_43
+URL = No_URL
+
+word count = 168
+words loading = 10
+factor score = 20
+
+Pontos de atenção ao acompanhamento de egressos, estimulo a organização 
+estudantil, bolsas, programas de apoio financeiro. Divulgar e estimular a 
+participação nos programas e Criar **política** de acompanhamento de egressos. 
+De 20 a 40 % dos alunos **consideram** os incentivos para cursar pós-graduação 
+**regular** ou **insuficiente** . Cerca de 40 % dos alunos dizem que os eventos 
+científicos são **regulares** ou **insuficientes** . Dos entrevistados mais de 
+60 % veem o estágio como um espaço de formação profissional **regular** , 
+**insuficiente** ou não **sabe** **responder** . Obs: a **maioria** dos alunos 
+do curso de GPI já trabalham na área e fazem equivalência do estágio com a 
+atividade profissional. Atividades de **extensão** são deficitárias Um terço 
+dos estudantes dizem que as práticas didáticas dos professores e atividades de 
+ensino são **regular** ou **insuficientes** Incentivar o uso de metodologias 
+ativas. A interdisciplinaridade e projetos é **regular** ou **insuficientes** . 
+No curso de Cosméticos a correção feita pelos **docentes** e a atenção dados 
+aos que **tem** dificuldade é **regular** ou **insuficiente** Maior interação 
+entre a Coordenação com os alunos. 
+
+Lemmas in this text that loaded on the factor:
+
+considerar
+docente
+extensão
+insuficiente
+maioria
+política
+regular
+responder
+saber
+ter

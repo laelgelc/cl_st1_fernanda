@@ -1,0 +1,19 @@
+file = fat002781
+date = 22
+user = r06_u168
+conversation = t000086_2_DESENVOLVIMENTO_Paragraph_34
+URL = No_URL
+
+word count = 43
+words loading = 2
+factor score = -3
+
+Em 2022 recebemos equipamentos para o Espaço Maker ( **notebooks** , 
+**televisor** , lousa digital ) porém ainda falta o recebimento de mobiliário. 
+Também recebemos **televisores** de 65 polegadas que substituíram os projetores 
+e melhoram a qualidade do material expositivo dos professores em sala de aula. 
+
+Lemmas in this text that loaded on the factor:
+
+notebook
+televisor

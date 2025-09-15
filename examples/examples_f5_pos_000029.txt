@@ -1,0 +1,26 @@
+file = fat001545
+date = 23
+user = r06_u217
+conversation = t000038_2_DESENVOLVIMENTO_Paragraph_9
+URL = No_URL
+
+word count = 60
+words loading = 7
+factor score = 12
+
+Diadema **possuía** em dez / 2016 91 . 953 **empregos** **formais** 
+distribuídos em 5 . 784 **empresas** organizadas por **setores** que incluem a 
+**indústria** ( 45 , 2 % ) , serviços ( 23 , 7 % ) , **comércio** ( 19 % ) , 
+administração pública ( 8 , 3 % ) e construção civil ( 3 , 8 % ) . No Grande 
+ABC eram 731 . 126 **empregos** **formais** em 47 . 965 **empresas** , e na 
+**indústria** eram 194 . 968 **empregos** , conforme Tabela 1 . 
+
+Lemmas in this text that loaded on the factor:
+
+comércio
+emprego
+empresa
+formal
+indústria
+possuir
+setor

@@ -1,0 +1,21 @@
+file = fat001573
+date = 23
+user = r06_u270
+conversation = t000039_2_DESENVOLVIMENTO_Paragraph_7
+URL = No_URL
+
+word count = 76
+words loading = 1
+factor score = -1
+
+As afirmações relativas à inexistência de outras IES públicas na RMSP e à 
+quantidade dessas instituições baseiam -se nos micro dados do **censo** da 
+educação superior do ano de 2021 . De acordo com dados do IBGE ( Instituto 
+Brasileiro de Geografia e Estatística ) que divulgou o PIB – Produto Interno 
+Bruto dos municípios dos brasileiros em 2020 ( série revisada ) , Cotia, com 
+PIB de R$ 14 bilhões, está entre as 100 cidades com maior economia do país ( 
+82ª no ranking ) . 
+
+Lemmas in this text that loaded on the factor:
+
+censo

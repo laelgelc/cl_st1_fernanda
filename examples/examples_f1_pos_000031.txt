@@ -1,0 +1,48 @@
+file = fat001761
+date = 23
+user = r06_u204
+conversation = t000047_1_ANÁLISE_DO_CENÁRIO_Paragraph_28
+URL = No_URL
+
+word count = 232
+words loading = 14
+factor score = 19
+
+AÇÕES SUSTENTÁVEIS NO BAIRRO DO IPIRANGA O que será feito: Palestras e estudos 
+dirigidos sobre os conceitos **relacionados** a Responsabilidade 
+Socioambiental, bem como a divulgação de ações positivas sobre o meio ambiente 
+para a comunidade acadêmica e **público** externo do entorno da Fatec Ipiranga, 
+para que possam implementar no seu cotidiano atitudes sustentáveis. Por que 
+será feito: Para **atender** as **demandas** sociais do bairro do Ipiranga no 
+que tange as ações de responsabilidade social e para aplicar na prática os 
+conceitos abordados na disciplina de Responsabilidade Social do CST em Gestão 
+Comercial, e também para potencializar a comunicação sobre o meio ambiente com 
+o **público** interno e externo, e também aumentar a visibilidade da unidade 
+pela comunidade externa. **Objetivo** ( s ) **relacionado** ( s ) : **Atender** 
+às **demandas** sociais e do **mercado** de trabalho. Obter a **satisfação** 
+dos **públicos** que se **relacionam** com o Centro Paula Souza ( 
+**stakeholders** ) . **Meta** ( s ) **relacionada** ( s ) : Aumentar a 
+**demanda** do **vestibular** e dos ingressantes do AMS-DS em 5 % . Desenvolver 
+mensalmente ações / serviços que reforcem a imagem **institucional** da unidade 
+junto à comunidade acadêmica. Ampliar a participação dos discentes nos eventos 
+de seus respectivos cursos ou em eventos gerais da unidade em 10 % de modo a 
+desenvolver o sentimento de pertencimento a unidade. Promover ações 
+administrativas e **pedagógicas** que proporcionem a **redução** da **taxa** de 
+evasão em 5 % com relação ao indicador de desempenho de 2022 , no ano de 2023 
+
+Lemmas in this text that loaded on the factor:
+
+atender
+demanda
+institucional (secondary)
+mercado
+meta
+objetivo
+pedagógico (secondary)
+público
+redução
+relacionar
+satisfação
+stakeholders
+taxa
+vestibular (secondary)

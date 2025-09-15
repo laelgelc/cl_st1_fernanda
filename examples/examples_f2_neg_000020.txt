@@ -1,0 +1,26 @@
+file = fat002179
+date = 25
+user = r06_u160
+conversation = t000065_1_ANÁLISE_DO_CENÁRIO_Paragraph_10
+URL = No_URL
+
+word count = 90
+words loading = 4
+factor score = -2
+
+O que será feito: **Estruturação** de proposta para atualização do PPC de 
+Mecânica Automobilística mediante a análise dos conteúdos **programáticos** das 
+componentes curriculares do curso e construção da nova grade curricular segundo 
+as exigências e demandas do mercado de trabalho. Por que será feito: Para 
+atualização e adequação do PCC de novas tecnologias ( principalmente fontes 
+energéticas renováveis e eletrificação da frota ) e da crescente demanda por 
+profissionais formados na área Automobilística com perfil do egresso do curso. 
+situação-problema: Metodologia de ensino, **desempenho** de alunos, **evasão** 
+Participação da comunidade e sociedade 
+
+Lemmas in this text that loaded on the factor:
+
+desempenho (secondary)
+estruturação
+evasão (secondary)
+programático

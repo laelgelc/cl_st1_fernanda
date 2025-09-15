@@ -1,0 +1,25 @@
+file = fat003243
+date = 23-24
+user = r06_u270
+conversation = t000112_3_COMENTÁRIOS_E_ESCLARECIMENTOS_ADICIONAIS_Paragraph_2
+URL = No_URL
+
+word count = 73
+words loading = 5
+factor score = 5
+
+Concluímos que boa parte dos alunos tiveram algum tipo de dificuldade para 
+entender e responder as **questões** da **prova** . Com ênfase nas **questões** 
+especificas, em que 76 % dos alunos pontuaram que poucos enunciados se 
+apresentaram claros e objetivos. Quanto a abordagem do conteúdo, 59 % dos 
+alunos tiveram dificuldade de entendimento. Finalizando, 48 % dos 
+**respondentes** tiveram acesso aos conteúdos, mas não aprenderam ( pode estar 
+associado as respostas dos alunos no **questionário** da **pandemia** ) . 
+
+Lemmas in this text that loaded on the factor:
+
+pandemia
+prova
+questão
+questionário
+respondente (secondary)

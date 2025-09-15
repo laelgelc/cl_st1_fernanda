@@ -1,0 +1,40 @@
+file = fat000510
+date = 23-24
+user = r06_u005
+conversation = t000010_3_DESENVOLVIMENTO_Paragraph_20
+URL = No_URL
+
+word count = 125
+words loading = 14
+factor score = 22
+
+**Dimensão** 6 : Organização e Gestão da Instituição. Nesta **dimensão** , as 
+**questões** 9 e 10 estão relacionadas ao perfil **Discente** e a 10 e 11 ao 
+perfil Docente e Administrativo. Perfil **Discente** : Na **Questão** 9 , que 
+**avalia** a liderança da equipe gestora, 59 , 88 % **avaliaram** que a 
+liderança **ocorre** de " **Forma** plena e / ou de **Forma** razoável " , 15 , 
+67 % de " **Forma** **insuficiente** " , 13 , 11 % **avaliaram** como " 
+inexistente " e 10 , 73 % " Não **souberam** **responder** " . Esta comissão 
+entende que as lideranças precisam apresentar um plano para melhorar estes 
+**resultados** . Em relação à **questão** 10 , 45 , 54 % **avaliaram** como " 
+**Excelente** e **Boa** " , 25 , 54 % " **Regular** " , 23 , 62 % " 
+**Insuficiente** " e apenas 5 , 31 % " Não **souberam** **responder** " . 
+Baseado nos dados apontados esta comissão aguarda proposta para **melhoria** da 
+Comunicação Interna. 
+
+Lemmas in this text that loaded on the factor:
+
+avaliar
+bom
+dimensão
+discente
+excelente
+forma
+insuficiente
+melhoria (secondary)
+ocorrer
+questão (secondary)
+regular
+responder
+resultado
+saber

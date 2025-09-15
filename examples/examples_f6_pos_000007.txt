@@ -1,0 +1,61 @@
+file = fat000641
+date = 23-24
+user = r06_u137
+conversation = t000014_2_SENSIBILIZAÇÃO_Paragraph_3
+URL = No_URL
+
+word count = 397
+words loading = 11
+factor score = 13
+
+Dentre as principais **melhorias** propostas, destacam -se: • publicar o PDI 
+internamente e no site da FATEC Zona Sul, e fazer **reuniões** com os 
+representantes de **sala** , Núcleos Docentes Estruturante dos Cursos ( NDE ) e 
+Conselhos de Curso ( CC ) , para maior divulgação e compreensão deste documento 
+por todos; • manter os cursos de nivelamento, reforço e recuperação das 
+**disciplinas** em que os alunos possuem maior dificuldade de aprendizagem ou 
+deficiência advindas do Ensino Médio; • capacitar professores nas metodologias 
+ativas de ensino, melhorar os equipamentos utilizados em **sala** de **aula** e 
+adequar as propostas de **aula** às necessidades do mercado de trabalho; • 
+promover eventos na unidade que disseminem Ciência, Tecnologia e Inovação, e 
+também eventos voltados à valorização da cultura e arte para formação integral 
+de nossos alunos, além de incentivar sempre a inclusão social e o 
+desenvolvimento sustentável; • continuar a incentivar o diálogo, valores éticos 
+e democráticos no cotidiano das relações **acadêmicas** e sociais que ocorrem 
+na faculdade; • promover a abertura de cursos de pós-graduação lato sensu na 
+FATEC Zona Sul; • criar eventos para difundir as atividades de ensino, pesquisa 
+e extensão são boas na FATEC Zona Sul; • incrementar a política de divulgação 
+do **vestibular** semestralmente, sobretudo junto à comunidades carentes para 
+garantir acesso ao ensino superior e inclusão social; • manter a cultura de 
+diálogo e informação entre os funcionários da unidade por meio da qualidade de 
+vida no trabalho, conversas diárias e capacitações institucionais; • ampliar a 
+comunicação com a comunidade **acadêmica** via e-mails, redes sociais e 
+participação da representação discente nos colegiados da FATEC Zona Sul; • 
+aumentar o número de parcerias institucionais com empresas que possam oferecer 
+estágios; • manter e ampliar o diálogo no ambiente universitário através do 
+exemplo dado por professores, coordenadores, diretores e funcionários da FATEC 
+Zona Sul, dando exemplo de ação aos nossos alunos; • ampliar a capacitação 
+profissional dos funcionários, garantindo um bom ambiente de trabalho que 
+valorize o diálogo e negociação para solução de conflitos; • trocar mobiliário 
+e computadores mais antigos nos laboratórios, substituir mesas e cadeiras em 
+**sala** de **aula** por cadeiras universitárias que ocupam menos espaço, e 
+trocar ventiladores nas **salas** de **aula** e áreas **administrativas** ; • 
+adquirir catracas eletrônicas para controle de acesso dos alunos; • pintar os 
+ambientes, trocar os móveis e refazer os circuitos elétricos da Secretaria 
+**Acadêmica** e Biblioteca, para melhorar as **condições** de trabalho 
+ofertadas à comunidade **acadêmica** da FATEC Zona Sul. ; e • Instituir um 
+programa interno de manutenção preventiva das **instalações** **prediais** . 
+
+Lemmas in this text that loaded on the factor:
+
+acadêmico (secondary)
+administrativo (secondary)
+aula
+condição
+disciplina (secondary)
+instalação
+melhoria
+predial
+reunião (secondary)
+sala
+vestibular

@@ -1,0 +1,21 @@
+file = fat000866
+date = 24-25
+user = r06_u126
+conversation = t000022_3_DESENVOLVIMENTO_Paragraph_14
+URL = No_URL
+
+word count = 78
+words loading = 1
+factor score = -1
+
+Como exemplo, pode ser citado o problema do telhado da unidade escolar que por 
+problemas de vazamento durante as chuvas, tem comprometido as aulas e o uso dos 
+espaços da unidade pela infiltração de água nesses espaços, o que pode 
+contribuir também para a degradação de equipamentos como computadores, 
+**notebooks** e mobiliário da unidade escolar. Elaborar estudos visando a 
+correção dos problemas devidos à falta e falhas de manutenção predial ( 
+Manutenções nas dependências da FATEC SBC, exclusivamente ) . 
+
+Lemmas in this text that loaded on the factor:
+
+notebook

@@ -1,0 +1,32 @@
+file = fat001783
+date = 23
+user = r06_u217
+conversation = t000048_1_ANÁLISE_DO_CENÁRIO_Paragraph_7
+URL = No_URL
+
+word count = 76
+words loading = 10
+factor score = 9
+
+**APONTAMENTO** DE SITUAÇÕES-PROBLEMA MAIS **RELEVANTES** ( " Escuta " ) 1 
+Recursos tecnológicos: falta ou defasagem de computadores, roteadores, 
+velocidade da internet, etc. Pedagógico: falta de aquisição de bibliografias. 
+**Infraestrutura** : reformas - **sala** de **aulas** , laboratórios, e 
+**instalações** elétricas, etc. Gestão de pessoas: número insuficiente de 
+funcionários. Imagem institucional: divulgação dos cursos e da unidade de 
+ensino. Pedagógico: Projeto Pedagógico de Curso com necessidade de adequação. 
+Pedagógico: evasão e trancamento dos alunos. **Vestibular** : baixa demanda no 
+**vestibular** , alta **taxa** de inscrição. 
+
+Lemmas in this text that loaded on the factor:
+
+apontamento
+aula
+infraestrutura
+instalação
+problema (secondary)
+relevante
+sala
+situações
+taxa (secondary)
+vestibular

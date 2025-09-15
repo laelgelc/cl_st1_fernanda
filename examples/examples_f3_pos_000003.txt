@@ -1,0 +1,56 @@
+file = fat001958
+date = 24
+user = r06_u168
+conversation = t000056_1_ANÁLISE_DO_CENÁRIO_Paragraph_10
+URL = No_URL
+
+word count = 151
+words loading = 26
+factor score = 39
+
+**Ações** **pedagógicas** : visitas técnicas, **projetos** **integradores** / 
+**interdisciplinares** , dias de **campo** , **feira** das **profissões** , 
+**cursos** **extracurriculares** para **alunos** . O que será **feito** : 01- 
+Inglês para a **comunidade** 02- Legendagem 03- Conversação para grupos 
+avançados 04- Laboratório de **línguas** para **alunos** regulares da fatec. 
+05- Preparatório para testes de proficiência Por que será **feito** : 01- 
+Diminuir a **evasão** **discente** 02- Manutenção dos **alunos** regulares nos 
+**cursos** 03- Engajamento da **comunidade** dentro da Fatec ( o inglês como 
+ferramenta para auxiliar a **comunidade** na busca por melhores vagas de 
+emprego, no mercado de trabalho, e participação ativa da **comunidade** em 
+assuntos de relevância intelectual, cultural, etc. ) 04- Investimento na 
+melhora do uso de **língua** **estrangeira** pelo **aluno** , que está em busca 
+de bons empregos, em um mercado, que exige a **língua** **estrangeira** no 
+processo de **seleção** e contratação do futuro profissional da área de TI. 
+**Situação** **problema** : **Metodologia** de **ensino** , **desempenho** de 
+**alunos** , **evasão** ( a ser **resolvida** / **mitigada** ) Participação da 
+**comunidade** e **sociedade** 
+
+Lemmas in this text that loaded on the factor:
+
+ação
+aluno
+campo
+comunidade
+curso
+desempenho
+discente (secondary)
+ensino
+estrangeiro
+evasão
+extracurricular
+fazer
+feira
+integrador
+interdisciplinar
+língua
+metodologia
+mitigar
+pedagógico
+problema
+profissão
+projeto
+resolver
+seleção
+situação
+sociedade

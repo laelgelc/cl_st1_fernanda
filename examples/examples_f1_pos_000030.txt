@@ -1,0 +1,49 @@
+file = fat001768
+date = 23
+user = r06_u204
+conversation = t000047_1_ANÁLISE_DO_CENÁRIO_Paragraph_35
+URL = No_URL
+
+word count = 168
+words loading = 19
+factor score = 19
+
+PROJETO COLABORATIVO INTERNACIONAL ( PCI ) O que será feito: Projeto 
+Colaborativo Internacional ( PCI / Cesu ) entre Fatec Ipiranga e e Jamestown 
+Community College ( JCC / SUNY ) . Por que será feito: Desenvolver competências 
+linguísticas, interculturais, de trabalho em equipe e digitais, por meio de 
+grupos de discussão online em inglês, na plataforma Zoom, envolvendo estudantes 
+dos diversos cursos da Fatec Ipiranga e alunos de Educação do JCC / SUNY. 
+**Objetivo** ( s ) **relacionado** ( s ) : **Atender** às **demandas** sociais 
+e do **mercado** de trabalho. Obter a **satisfação** dos **públicos** que se 
+**relacionam** com o Centro Paula Souza ( **stakeholders** ) . **Alcançar** e 
+manter o **grau** de **excelência** em seus processos de **ensino** e 
+aprendizagem. Formar **profissionais** atualizados em **tecnologias** e 
+processos produtivos, **capazes** de atuar no desenvolvimento tecnológico e 
+inovação. **Meta** ( s ) **relacionada** ( s ) : Ampliar a participação dos 
+alunos em 5 % nos Programas de Colaboração Internacional. Promover ações 
+administrativas e **pedagógicas** que proporcionem a **redução** da **taxa** de 
+evasão e de trancamento em 5 % com relação ao indicador de desempenho de 2022 , 
+no ano de 2023 . 
+
+Lemmas in this text that loaded on the factor:
+
+alcançar
+atender
+capaz
+demanda
+ensino (secondary)
+excelência
+grau
+mercado
+meta
+objetivo
+pedagógico (secondary)
+profissional
+público
+redução
+relacionar
+satisfação
+stakeholders
+taxa
+tecnologia

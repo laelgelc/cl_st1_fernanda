@@ -1,0 +1,22 @@
+file = fat000523
+date = 23-24
+user = r06_u113
+conversation = t000011_3_DESENVOLVIMENTO_Paragraph_5
+URL = No_URL
+
+word count = 90
+words loading = 1
+factor score = -1
+
+O PDI da Fatec Mauá, bem como o PGA preconiza a unidade como uma polo 
+irradiador de conhecimentos e valores. Na missão destacamos a formação 
+profissional e cultural, na visão o desenvolvimento econômico e social da 
+região e por fim os valores preconizam a valorização e desenvolvimento do ser 
+humano baseado em **ética** , justiça social e democracia. Em relação aos 
+docentes e funcionários administrativos podemos destacar o alinhamento ao PDI, 
+PGA e a percepção dos valores da Fatec Mauá construídos, naturalmente, por meio 
+de todas as práticas da unidade. 
+
+Lemmas in this text that loaded on the factor:
+
+ética

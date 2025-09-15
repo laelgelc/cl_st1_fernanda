@@ -1,0 +1,36 @@
+file = fat001797
+date = 23
+user = r06_u270
+conversation = t000049_1_ANÁLISE_DO_CENÁRIO_Paragraph_3
+URL = No_URL
+
+word count = 100
+words loading = 13
+factor score = 16
+
+Neste sentido, a Fatec Cotia **localiza** -se em um dos **municípios** da 
+**Região** Metropolitana de São Paulo ( RMSP ) , uma das **maiores** e mais 
+**importantes** do Brasil. A **cidade** tem cerca de 250 mil habitantes ( IBGE, 
+2019 ) . É, ainda, **região** de peso na **economia** nacional, 
+particularmente, nos **setores** **secundário** e **terciário** . Segundo a 
+Federação das **Indústrias** de São Paulo ( FIESP ) , o **estado** – liderado 
+pela capital, **região** metropolitana e baixada santista – é hoje o **maior** 
+polo de negócios da América Latina, concentrando 30 % de todos os investimentos 
+privados realizados em território nacional. São 155 mil **indústrias** que 
+representam 34 % do PIB **industrial** brasileiro. 
+
+Lemmas in this text that loaded on the factor:
+
+cidade
+economia
+estado
+grande
+importante
+indústria
+industrial
+localizar
+município
+região
+secundário
+setor
+terciário

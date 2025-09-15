@@ -1,0 +1,23 @@
+file = fat003235
+date = 23-24
+user = r06_u168
+conversation = t000111_3_QUESTÕES_COMPLEMENTARES_Paragraph_8
+URL = No_URL
+
+word count = 73
+words loading = 3
+factor score = -2
+
+De modo geral os concluintes apontaram que durante a pandemia da covid-19 , as 
+dificuldades e limitações **decorrentes** do contexto emergencial gerado pela 
+pandemia foram supridas de forma satisfatória, com as ações tomadas pela 
+Instituição e no que se refere as metodologias empregadas pelo corpo docente. 
+Retratam ainda que as dificuldades geradas pela pandemia não interferiram na 
+continuidade dos estudos, nem levaram a maioria dos alunos a pensar em 
+**trancar** ou **desistir** do curso. 
+
+Lemmas in this text that loaded on the factor:
+
+decorrente (secondary)
+desistir
+trancar

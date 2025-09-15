@@ -1,0 +1,28 @@
+file = fat000698
+date = 23-24
+user = r06_u168
+conversation = t000016_3_DESENVOLVIMENTO_Paragraph_4
+URL = No_URL
+
+word count = 150
+words loading = 1
+factor score = -1
+
+Participação da comunidade acadêmica, divulgação e análise dos resultados. Em 
+consulta aos documentos pertinentes ao indicador mencionado, verifica -se a 
+articulação unilateral entre o PDI e Regimento Geral da Fatec São Caetano do 
+Sul - Antonio Russo, a conversão das ações no que tange às Políticas de Ensino 
+para graduação, pesquisa e extensão estão em **conformidade** com os preceitos 
+legais propostos pelo MEC e SINAES. São políticas para o ensino na Fatec São 
+Caetano do Sul - Antonio Russo: 1 . oferecer cursos de graduação nos diversos 
+campos do saber e modalidades em sintonia com as necessidades regionais; 2 . 
+promover a inter-multidisciplinaridade curricular dos cursos oferecidos pela 
+Instituição; 3 . fomentar a indissociabilidade entre o ensino, a pesquisa e a 
+extensão; 4 . promover alternativas metodológicas para o ensino de graduação; 5 
+. manter atualizados os Projetos Pedagógicos dos Cursos; 6 . manter atualizado 
+o acervo da Biblioteca institucional; 7 . aperfeiçoar o processo de acesso aos 
+cursos de graduação. 
+
+Lemmas in this text that loaded on the factor:
+
+conformidade

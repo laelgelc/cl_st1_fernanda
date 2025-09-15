@@ -1,0 +1,49 @@
+file = fat002243
+date = 25
+user = r06_u204
+conversation = t000067_1_ANÁLISE_DO_CENÁRIO_Paragraph_22
+URL = No_URL
+
+word count = 106
+words loading = 24
+factor score = 32
+
+Participação dos **alunos** no **torneio** Interfatecs - - **Ações** 
+**pedagógicas** : visitas técnicas, **projetos** **integradores** / 
+**interdisciplinares** , dias de **campo** , **feira** das **profissões** , 
+**cursos** **extracurriculares** para **alunos** . Preparação dos **alunos** 
+dos **cursos** de TI e viabilização de suas participações no **torneio** , 
+primeira e segunda fases. Por que será **feito** : A Maratona Interfatecs é a 
+segunda maior competição de **programação** de computadores do país, voltada 
+especificamente para **alunos** das Fatec. A prática e o estudo diário de 
+**programação** são a melhor forma de aprimorar a lógica de **programação** , o 
+**conhecimento** de algoritmos e a habilidade para **resolver** **problemas** . 
+situação-problema: **Metodologia** de **ensino** , **desempenho** de **alunos** 
+, **evasão** Participação da **comunidade** e **sociedade** 
+
+Lemmas in this text that loaded on the factor:
+
+ação
+aluno
+campo
+comunidade
+conhecimento (secondary)
+curso
+desempenho
+ensino
+evasão
+extracurricular
+fazer
+feira
+integrador
+interdisciplinar
+metodologia
+pedagógico
+problema
+profissão
+programação
+projeto
+resolver
+situação
+sociedade
+torneio

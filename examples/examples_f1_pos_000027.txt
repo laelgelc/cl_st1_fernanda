@@ -1,0 +1,46 @@
+file = fat001803
+date = 23
+user = r06_u270
+conversation = t000049_1_ANÁLISE_DO_CENÁRIO_Paragraph_9
+URL = No_URL
+
+word count = 165
+words loading = 17
+factor score = 19
+
+DEFINIÇÃO DE **OBJETIVOS** , **METAS** E AÇÕES ( PROJETOS ) **Objetivos** 1 
+**Atender** às **demandas** sociais e do **mercado** de trabalho 2 Ampliar os 
+projetos de pesquisa e iniciação científica 3 Ampliar a **capacidade** de criar 
+e atualizar cursos de educação **profissional** em parceria com o **mercado** 4 
+**Alcançar** e manter o **grau** de **excelência** nos processos de **ensino** 
+e aprendizagem 5 Inovar processos de **ensino** e aprendizagem para a formação 
+de **profissionais** atualizados em **tecnologias** e processos produtivos, 
+**capazes** de atuar com **excelência** no desenvolvimento tecnológico e 
+inovação 6 **Expandir** a **capacidade** de articulação com **Governos** e 
+**setores** produtivos 7 Estimular a produção cultural, o empreendedorismo, o 
+pensamento reflexivo e o desenvolvimento científico e tecnológico 8 Propiciar a 
+atualização e capacitação dos docentes, discentes e funcionários 
+administrativos 9 Desenvolver programas e projetos educacionais para estimular 
+intercâmbios e a aprendizagem global 10 Implantar e implementar a comunicação 
+organizacional a fim de promover a transparência de gestão, de divulgar as 
+atividades **institucionais** e propiciar uma nova cultura organizacional 
+
+Lemmas in this text that loaded on the factor:
+
+alcançar
+atender
+capacidade
+capaz
+demanda
+ensino (secondary)
+excelência
+expandir
+governo
+grau
+institucional (secondary)
+mercado
+meta
+objetivo
+profissional
+setor (secondary)
+tecnologia

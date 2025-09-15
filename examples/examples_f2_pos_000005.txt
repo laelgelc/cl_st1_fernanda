@@ -1,0 +1,49 @@
+file = fat000840
+date = 24-25
+user = r06_u005
+conversation = t000020_3_DESENVOLVIMENTO_Paragraph_7
+URL = No_URL
+
+word count = 211
+words loading = 14
+factor score = 28
+
+A IES **demonstra** estar no caminho certo, mas visando melhoras neste EIXO 
+recomendamos melhorar processos para a **Dimensão** 2 ( as **questões** da 
+**avaliação** devem indicar como a comunidade ( **docentes** e **discentes** ) 
+**avaliam** se o que é praticado no ensino, pesquisa e **extensão** estão 
+coerentes com estas **políticas** , que devem constar no PDI e nos PPCs, como 
+políticas do curso para cumprir a **missão** **institucional** . Tais como: - 
+**Políticas** **institucionais** e **ações** acadêmico-administrativas para a 
+pesquisa ou iniciação científica, a inovação tecnológica e o desenvolvimento 
+artístico e cultural; Políticas **institucionais** e **ações** 
+acadêmico-administrativas para a **extensão** ; - Políticas **institucionais** 
+e **ações** de estímulo e difusão para a produção **acadêmica** **docente** ; 
+**Política** **institucional** de acompanhamento dos egressos; as diretrizes 
+pedagógicas ( abordagens e práticas ) , as diretrizes para a **avaliação** da 
+aprendizagem; as diretrizes para recuperação da aprendizagem; as diretrizes 
+para a oferta de cursos de **extensão** ; as diretrizes para as atividades de 
+pesquisa entre outras ) ; - para a **Dimensão** 4 ( a comunicação com a 
+sociedade externa e externa, quando aos meios e a sua eficácia ) e para a 
+**Dimensão** 9 ( todas as **ações** voltadas para o atendimento aos 
+**discentes** , inclusive o estímulo à participação em eventos, em pesquisa, em 
+atividades artísticas e culturais, além de monitoria, mecanismo de nivelamento, 
+atendimento psicopedagógico, atendimento nas áreas **administrativas** , 
+atividades de orientação ) . 
+
+Lemmas in this text that loaded on the factor:
+
+acadêmico
+ação (secondary)
+administrativo
+avaliação
+avaliar
+demonstrar
+dimensão
+discente
+docente
+extensão
+institucional
+missão
+política
+questão (secondary)

@@ -1,0 +1,27 @@
+file = fat003152
+date = 24
+user = r06_u217
+conversation = t000107_2_CONSIDERAÇÕES_Paragraph_11
+URL = No_URL
+
+word count = 74
+words loading = 6
+factor score = 7
+
+Na categoria – **Infraestrutura** ( **instalações** **prediais** ) . Foram 
+elaboradas propostas e **estudos** visando **melhorias** na **infraestrutura** 
+da unidade de ensino, destacando -se: Aquisição de dois containers para uso 
+como almoxarifado. Substituição de cadeiras giratórias nos laboratórios de 
+informática, devido ao desgaste e para adequação ao número de alunos. Aquisição 
+de mesas sextavadas e cadeiras para transformar **salas** convencionais em 
+**salas** híbridas, proporcionando melhor ergonomia e circulação. **Estudo** da 
+demanda da rede Wi-Fi para otimizar a conectividade da unidade. 
+
+Lemmas in this text that loaded on the factor:
+
+estudo (secondary)
+infraestrutura
+instalação
+melhoria
+predial
+sala

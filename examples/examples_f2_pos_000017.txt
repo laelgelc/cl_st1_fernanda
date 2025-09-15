@@ -1,0 +1,41 @@
+file = fat000937
+date = 24-25
+user = r06_u137
+conversation = t000024_3_DESENVOLVIMENTO_Paragraph_2
+URL = No_URL
+
+word count = 168
+words loading = 12
+factor score = 22
+
+Analisando os dados da pesquisa do WEBSAI, conforme gráficos supra, quanto ao 
+perfil **docente** e técnico **administrativo** e também ao perfil **discente** 
+, verifica -se que as ferramentas de **planejamento** e **avaliação** 
+**institucional** constituem uma grande força da unidade, pois para as três 
+categorias, as respostas voltam -se para **resultados** **bons** ou muito 
+**bons** no que concerne à **forma** de divulgação dos **resultados** da 
+autoavaliação, e para os funcionários **administrativos** e **docentes** , 
+também é muito **bom** ou **bom** o uso feito pela gestão da unidade dos 
+**resultados** da pesquisa para implementar **melhorias** na qualidade de 
+ensino, embora para os **discentes** , apenas 35 % **consideram** **boa** ou 
+muito **boa** esta utilização dos dados da autoavaliação, o que aponta para uma 
+**fragilidade** , que pode ser atribuída ao fato de que **boa** parte dos 
+alunos não consegue tecer critérios de comparação referente à **melhoria** da 
+qualidade de ensino, em razão do curto período em que cada um permanece na 
+instituição, após a participação e o feedback de cada autoavaliação, que 
+acontece apenas uma vez por ano. 
+
+Lemmas in this text that loaded on the factor:
+
+administrativo
+avaliação
+bom
+considerar
+discente
+docente
+forma
+fragilidade
+institucional
+melhoria (secondary)
+planejamento
+resultado

@@ -1,0 +1,29 @@
+file = fat003200
+date = 23-24
+user = r06_u137
+conversation = t000110_1_FORMAÇÃO_GERAL_Paragraph_1
+URL = No_URL
+
+word count = 67
+words loading = 8
+factor score = 7
+
+**Comentários** e Esclarecimentos **Adicionais** quanto a **Avaliação** das 
+**questões** com **maior** **número** de erros – FORMAÇÃO GERAL: 1 . As 
+**questões** de formação geral buscam avaliar **aspectos** como clareza, 
+coerência, **coesão** , estratégias argumentativas, vocabulário e gramática 
+adequadas à norma padrão da língua portuguesa, de modo que, considerando a 
+educação como um processo, buscar -se-á contribuir para que os alunos conheçam 
+melhor as **questões** do ENADE, numa perspectiva de aperfeiçoamento 
+permanente. 
+
+Lemmas in this text that loaded on the factor:
+
+adicional
+aspecto
+avaliação (secondary)
+coesão
+comentário
+grande (secondary)
+número (secondary)
+questão

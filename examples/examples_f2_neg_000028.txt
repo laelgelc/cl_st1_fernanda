@@ -1,0 +1,21 @@
+file = fat002714
+date = 22
+user = r06_u129
+conversation = t000083_2_DESENVOLVIMENTO_Paragraph_28
+URL = No_URL
+
+word count = 63
+words loading = 2
+factor score = -2
+
+- Em 2022 foram realizados Diagnósticos das condições estruturais do prédio 
+para que as reformas da **laje** e do telhado pudessem ser executadas, conforme 
+orientações dos engenheiros da Regional e da UIE. Identificou -se que o prédio 
+está com um problema crônico de infiltrações na **laje** e telhado, o que 
+dificulta as reformas na parte inferior da unidade ( **paredes** , vigas e 
+pilastras, hidráulica e elétrica ) . 
+
+Lemmas in this text that loaded on the factor:
+
+laje
+parede (secondary)

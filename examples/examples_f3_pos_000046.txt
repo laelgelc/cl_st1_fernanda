@@ -1,0 +1,46 @@
+file = fat002831
+date = 22
+user = r06_u270
+conversation = t000089_2_DESENVOLVIMENTO_Paragraph_7
+URL = No_URL
+
+word count = 231
+words loading = 10
+factor score = 23
+
+e. Gestão Produção Industrial: realização contínua do minicurso de Marcas, 
+Patentes e Direitos Autorais pelo Prof. Adalberto de Freitas e professores 
+externos convidados, dentro do programa da **disciplina** **Projeto** de 
+Produto I; f. Gestão Produção Industrial: Reformatação do **Projeto** - 
+Conscientização e Preparação do corpo **discente** do **curso** , visando ao 
+Exame Nacional de **Desempenho** dos Estudantes – ENADE, nos anos de 2023 e 
+2024 ; Gestão Empresarial: preparação, por meio da realização de **simulados** 
+( presencial e online ) , para a aplicação do ENADE 2022 ; g. Gestão Produção 
+Industrial: reestruturação do PPC do **curso** junto a Cesu, com a adequação 
+das competências de formação ao requisitado no CNST / CBO, com assessoria do 
+Prof. Ivan Laranjeiras e NDE; h. Gestão Produção Industrial e Gestão 
+Empresarial: Implementação da 2ª . Fase do **projeto** Repositório de Trabalhos 
+da Fatec Cotia, para contemplar o armazenamento eletrônico dos trabalhos das 
+**disciplinas** de TCC I e II e **Projetos** **Integradores** , visando 
+principalmente ao registro do histórico de soluções adotadas nos **projetos** 
+de Solução de Situação-Problema e suas possíveis continuidades. i. Gestão 
+Produção Industrial: Implementação da Fase Inicial ( protótipo ) do **Projeto** 
+Prêmios e Concursos, visando à inscrição dos trabalhos de TCC e **projetos** 
+**integradores** dos **cursos** da Fatec Cotia. Inscrições Iniciais: 
+**Projeto** Catraca – **alunas** do **curso** de GPI - Feteps / CPS; 
+**Projeto** Eco Tissue – **alunas** do **curso** de GE - Desafio SEBRAE Jovem 
+Empreendedor; Resultado de destaque inicial: **Projeto** Eco Tissue: 2º . Lugar 
+na rodada estadual. 
+
+Lemmas in this text that loaded on the factor:
+
+aluno
+curso
+desempenho
+discente (secondary)
+disciplina
+integrador
+problema
+projeto
+simular
+situação

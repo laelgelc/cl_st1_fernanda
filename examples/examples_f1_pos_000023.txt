@@ -1,0 +1,38 @@
+file = fat001773
+date = 23
+user = r06_u204
+conversation = t000047_1_ANÁLISE_DO_CENÁRIO_Paragraph_40
+URL = No_URL
+
+word count = 146
+words loading = 11
+factor score = 20
+
+FATEC IPIRANGA DE PORTAS ABERTAS O que será feito: Evento Fatec Ipiranga de 
+Portas Abertas, com o **objetivo** de abrir a unidade para a comunidade externa 
+com o **objetivo** de dar informações sobre os cursos oferecidos, expor os 
+trabalhos desenvolvidos em cada um dos cursos além de apresentações artísticas 
+e culturais. Por que será feito: Para divulgação da Fatec perante a comunidade 
+bem como incrementar as inscrições para o **vestibular** **Objetivo** ( s ) 
+**relacionado** ( s ) : **Atender** às **demandas** sociais e do **mercado** de 
+trabalho. Obter a **satisfação** dos **públicos** que se **relacionam** com o 
+Centro Paula Souza ( **stakeholders** ) . **Meta** ( s ) **relacionada** ( s ) 
+: Aumentar a **demanda** do **vestibular** e dos ingressantes do AMS-DS em 5 % 
+. Desenvolver mensalmente ações / serviços que reforcem a imagem 
+**institucional** da unidade junto à comunidade acadêmica. **Objetivo** ( s ) 
+**relacionado** ( s ) : Obter a **satisfação** dos **públicos** que se 
+**relacionam** com o Centro Paula Souza ( **stakeholders** ) . 
+
+Lemmas in this text that loaded on the factor:
+
+atender
+demanda
+institucional (secondary)
+mercado
+meta
+objetivo
+público
+relacionar
+satisfação
+stakeholders
+vestibular (secondary)

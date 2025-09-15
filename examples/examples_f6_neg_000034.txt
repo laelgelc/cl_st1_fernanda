@@ -1,0 +1,20 @@
+file = fat003248
+date = 23-24
+user = r06_u270
+conversation = t000112_4_CONSIDERAÇÕES_GERAIS_Paragraph_1
+URL = No_URL
+
+word count = 59
+words loading = 1
+factor score = -1
+
+Os problemas mais frequentes identificados estão relacionados à compreensão de 
+textos, especialmente aqueles abordando temas amplos como democracia, **ética** 
+e empreendedorismo, que geralmente despertam menos interesse entre os alunos 
+concentrados nos aspectos específicos de seus cursos. Entretanto, ter 
+conhecimento do ambiente ao redor promove uma compreensão mais ampla e 
+estratégica da organização sistêmica e das tendências do mercado. 
+
+Lemmas in this text that loaded on the factor:
+
+ética

@@ -1,0 +1,50 @@
+file = fat001751
+date = 23
+user = r06_u204
+conversation = t000047_1_ANÁLISE_DO_CENÁRIO_Paragraph_18
+URL = No_URL
+
+word count = 208
+words loading = 18
+factor score = 18
+
+MOSTRA DE SOFTWARE DO CURSO ANÁLISE E DESENVOLVIMNTO DE SISTEMAS O que será 
+feito: No final de cada semestre, os alunos apresentam seus projetos de 
+software desenvolvidos durante a realização do Trabalho de Conclusão de Curso. 
+Por que será feito: A mostra acontece por duas razões: a primeira para que os 
+alunos realizadores tenham a oportunidade de apresentar seus trabalhos para as 
+bancas, para os alunos mais jovens e também para a comunidade; a segunda é para 
+que os alunos mais jovens possam se inspirar e idealizar seus futuros projetos. 
+**Objetivo** ( s ) **relacionado** ( s ) : **Atender** às **demandas** sociais 
+e do mercadobalho. Obter a **satisfação** dos **públicos** que se 
+**relacionam** com o Centro Paula Souza ( **stakeholders** ) . **Alcançar** e 
+manter o **grau** de **excelência** em seus processos de **ensino** e 
+aprendizagem. Formar **profissionais** atualizados em **tecnologias** e 
+processos produtivos, **capazes** de atuar no desenvolvimento tecnológico e 
+inovação. **Meta** ( s ) **relacionada** ( s ) : Ampliar a participação dos 
+discentes nos eventos de seus respectivos cursos ou em eventos gerais da 
+unidade em 10 % de modo a desenvolver o sentimento de pertencimento a unidade. 
+Promover ações administrativas e **pedagógicas** que proporcionem a **redução** 
+da **taxa** de evasão e trancamento em 5 % com relação ao indicador de 
+desempenho de 2022 , no ano de 2023 . 
+
+Lemmas in this text that loaded on the factor:
+
+alcançar
+atender
+capaz
+demanda
+ensino (secondary)
+excelência
+grau
+meta
+objetivo
+pedagógico (secondary)
+profissional
+público
+redução
+relacionar
+satisfação
+stakeholders
+taxa
+tecnologia

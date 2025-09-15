@@ -1,0 +1,24 @@
+file = fat000069
+date = 22-23
+user = r06_u129
+conversation = t000003_2_SENSIBILIZAÇÃO_Paragraph_3
+URL = No_URL
+
+word count = 115
+words loading = 1
+factor score = -1
+
+A Fatec Praia Grande, por meio da CPA, iniciou o processo de organização dos 
+dados coletados para **encaminhamento** à equipe gestora da Unidade de Ensino. 
+A CPA da Fatec Praia Grande importou os dados da organizando em pastas o 
+material de cada Eixo e as análises que foram construídas com as respostas 
+obtidas. A Direção e coordenações iniciarem as primeiras reuniões para 
+discutirem os dados e identificar os principais apontamentos. Com base no PGA 
+2023 , as discussões sobre as situações-problema foram reforçadas com as 
+observações iniciais do Websai, assim como se identificou a necessidade de 
+recursos e de melhoramentos para a unidade que já foram apontados em relatórios 
+anteriores e que estão sendo solicitados anualmente. 
+
+Lemmas in this text that loaded on the factor:
+
+encaminhamento

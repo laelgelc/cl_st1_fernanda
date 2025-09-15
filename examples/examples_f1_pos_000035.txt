@@ -1,0 +1,52 @@
+file = fat001752
+date = 23
+user = r06_u204
+conversation = t000047_1_ANÁLISE_DO_CENÁRIO_Paragraph_19
+URL = No_URL
+
+word count = 212
+words loading = 19
+factor score = 19
+
+FEIRA DE NEGÓCIOS DO CURSO GESTÃO COMERCIAL O que será feito: Uma apresentação 
+pelos discentes do 6º semestre das propostas de negócios desenvolvidos por meio 
+dos conteúdos trabalhados em diferentes disciplinas ministradas no curso. Por 
+que será feito: A feira acontece por duas razões: a primeira para que os 
+discentes tenham a oportunidade de expor os planos de negócios para a 
+comunidade interna e externa; a segunda é para que os alunos dos semestres 
+anteriores possam se inspirar e idealizar seus futuros planos de negócios. 
+**Objetivo** ( s ) **relacionado** ( s ) : **Atender** às **demandas** sociais 
+e do **mercado** de trabalho. Obter a **satisfação** dos **públicos** que se 
+**relacionam** com o Centro Paula Souza ( **stakeholders** ) . **Alcançar** e 
+manter o **grau** de **excelência** em seus processos de **ensino** e 
+aprendizagem. Formar **profissionais** atualizados em **tecnologias** e 
+processos produtivos, **capazes** de atuar no desenvolvimento tecnológico e 
+inovação. Promover a cultura de inovação e empreendedorismo. **Meta** ( s ) 
+**relacionada** ( s ) : Ampliar a participação dos discentes nos eventos de 
+seus respectivos cursos ou em eventos gerais da unidade em 10 % de modo a 
+desenvolver o sentimento de pertencimento a unidade. Promover ações 
+administrativas e **pedagógicas** que proporcionem a **redução** da **taxa** de 
+evasão e trancamento em 5 % com relação ao indicador de desempenho de 2022 , no 
+ano de 2023 . 
+
+Lemmas in this text that loaded on the factor:
+
+alcançar
+atender
+capaz
+demanda
+ensino (secondary)
+excelência
+grau
+mercado
+meta
+objetivo
+pedagógico (secondary)
+profissional
+público
+redução
+relacionar
+satisfação
+stakeholders
+taxa
+tecnologia

@@ -1,0 +1,31 @@
+file = fat002387
+date = 26
+user = r06_u129
+conversation = t000073_1_ANÁLISE_DO_CENÁRIO_Paragraph_3
+URL = No_URL
+
+word count = 61
+words loading = 10
+factor score = 9
+
+**APONTAMENTO** DE SITUAÇÕES-PROBLEMA MAIS **RELEVANTES** - Metodologia de 
+ensino, desempenho de alunos, evasão - Materiais, equipamentos e mobiliários - 
+Manutenção e **conservação** **predial** - Participação da comunidade e 
+sociedade - **Infraestrutura** **predial** ( espaços, sistemas ) - Acesso / 
+Inclusão ao Ensino Superior ( social, PCD ) - **Infraestrutura** 
+**laboratorial** e ambientes de ensino - Gestão da unidade de ensino e dos 
+cursos – **Redução** do número de funcionários do **administrativo** ( 
+secretaria, DP e almoxarifado ) . 
+
+Lemmas in this text that loaded on the factor:
+
+administrativo (secondary)
+apontamento
+conservação
+infraestrutura
+laboratorial
+predial
+problema (secondary)
+redução (secondary)
+relevante
+situações

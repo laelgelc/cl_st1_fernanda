@@ -1,0 +1,18 @@
+file = fat001251
+date = 23
+user = r06_u126
+conversation = t000032_2_INDICADORES_SOCIOECONÔMICOS_Paragraph_1
+URL = No_URL
+
+word count = 47
+words loading = 1
+factor score = -1
+
+De acordo com o último **Censo** do IBGE de 2010 , São Bernardo do campo tem 
+densidade demográfica de 1 . 869 , 36hab / km² e população de 765 . 463 . Para 
+2021 sua população é estimada em 849 . 874 mil habitantes, está distribuída no 
+território de 409 , 532 km² . 
+
+Lemmas in this text that loaded on the factor:
+
+censo

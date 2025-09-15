@@ -1,0 +1,46 @@
+file = fat001763
+date = 23
+user = r06_u204
+conversation = t000047_1_ANÁLISE_DO_CENÁRIO_Paragraph_30
+URL = No_URL
+
+word count = 207
+words loading = 14
+factor score = 17
+
+PROJETO PARCEIROS DA SUSTENTABILIDADE O que será feito: Projetos e palestras 
+para conscientização dos estudantes e da comunidade do entorno sobre os 
+conceitos de sustentabilidade. Por que será feito: Para **atender** as 
+**demandas** sociais do bairro do Ipiranga no que tange as ações de 
+sustentabilidade e para aplicar na prática os conceitos abordados na disciplina 
+Gestão Ambiental no CST em Eventos e Comportamento Consumidor no CST em Gestão 
+Comercial, e também para potencializar a comunicação sobre o meio ambiente com 
+o **público** interno e externo, aumentando a visibilidade da unidade pela 
+comunidade externa. **Objetivo** ( s ) **relacionado** ( s ) : **Atender** às 
+**demandas** sociais e do **mercado** de trabalho. Obter a **satisfação** dos 
+**públicos** que se **relacionam** com o Centro Paula Souza ( **stakeholders** 
+) . **Meta** ( s ) **relacionada** ( s ) : Aumentar a **demanda** do 
+**vestibular** e dos ingressantes do AMS-DS em 5 % . Desenvolver mensalmente 
+ações / serviços que reforcem a imagem **institucional** da unidade junto à 
+comunidade acadêmica. Ampliar a participação dos discentes nos eventos de seus 
+respectivos cursos ou em eventos gerais da unidade em 10 % de modo a 
+desenvolver o sentimento de pertencimento a unidade. Promover ações 
+administrativas e **pedagógicas** que proporcionem a **redução** da **taxa** de 
+evasão em 5 % com relação ao indicador de desempenho de 2022 , no ano de 2023 
+
+Lemmas in this text that loaded on the factor:
+
+atender
+demanda
+institucional (secondary)
+mercado
+meta
+objetivo
+pedagógico (secondary)
+público
+redução
+relacionar
+satisfação
+stakeholders
+taxa
+vestibular (secondary)

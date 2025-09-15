@@ -1,0 +1,17 @@
+file = fat001371
+date = 23
+user = r06_u160
+conversation = t000035_1_INTRODUÇÃO_Paragraph_17
+URL = No_URL
+
+word count = 28
+words loading = 1
+factor score = -1
+
+Com a crescente demanda por eficiência e redução de **custos** nas empresas, a 
+busca por profissionais qualificados na área de mecânica tende a aumentar cada 
+vez mais. 
+
+Lemmas in this text that loaded on the factor:
+
+custo

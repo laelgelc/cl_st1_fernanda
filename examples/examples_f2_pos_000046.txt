@@ -1,0 +1,38 @@
+file = fat000132
+date = 22-23
+user = r06_u137
+conversation = t000004_3_DESENVOLVIMENTO_Paragraph_3
+URL = No_URL
+
+word count = 103
+words loading = 14
+factor score = 18
+
+Analisando detidamente as respostas dos **discentes** , embora haja grande 
+**fragilidade** no fato de que 62 % não conhece o PDI, **destacam** -se várias 
+**potencialidades** : reconhecimento de que o **planejamento** 
+**institucional** ajuda a promover **melhorias** na unidade, sendo o WEBSAI um 
+**bom** **instrumento** de **avaliação** ; 99 % dos **discentes** **afirmam** 
+**possuir** desempenho de **regular** a **ótimo** nas **avaliações** , e que 
+**possuem** **conhecimento** básico suficiente para acompanhamento das 
+disciplinas em geral; entre 80 e 90 % dos alunos **afirmam** que o tempo 
+dedicado aos estudos é suficiente para **bom** desempenho, sendo a frequência 
+às aulas **boa** ou ótima e as atividades propostas em sala de aula adequadas 
+aos cursos. 
+
+Lemmas in this text that loaded on the factor:
+
+afirmar
+avaliação
+bom
+conhecimento
+destacar
+discente
+fragilidade
+institucional
+instrumento
+melhoria (secondary)
+planejamento
+possuir (secondary)
+potencialidade
+regular

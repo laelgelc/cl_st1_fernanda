@@ -1,0 +1,26 @@
+file = fat002773
+date = 22
+user = r06_u168
+conversation = t000086_2_DESENVOLVIMENTO_Paragraph_26
+URL = No_URL
+
+word count = 97
+words loading = 4
+factor score = 6
+
+Participação no Fórum de Ensino de Jogos **Digitais** . O Prof. Alan Carvalho, 
+Coordenador do Curso de Jogos **Digitais** , novamente foi responsável pela 
+organização do Fórum de Ensino de Jogos **Digitais** , atividade realizada como 
+parte do SBGames 2022 , o **maior** simpósio da América Latina voltado a 
+**discussões** sobre jogos e entretenimento **digital** . Nessa atividade, que 
+já ocorre há sete anos, docentes, pesquisadores e profissionais do setor de 
+diversas instituições de ensino e pesquisa, bem como de estúdios brasileiros e 
+empresas promotoras de cursos livres na área, reúnem -se para discutir 
+**questões** relacionadas à formação de profissionais para o setor. 
+
+Lemmas in this text that loaded on the factor:
+
+digital
+discussão
+grande (secondary)
+questão

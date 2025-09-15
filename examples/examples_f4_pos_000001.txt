@@ -1,0 +1,78 @@
+file = fat003220
+date = 23-24
+user = r06_u137
+conversation = t000110_5_CONSIDERAÇÕES_GERAIS_Paragraph_2
+URL = No_URL
+
+word count = 355
+words loading = 31
+factor score = 39
+
+Sob ponto de vista da Gestão Pedagógica da Regional 6 , em análise a partir do 
+**relatório** entregue pela Coordenação de Curso e tamb´me pelo **estudo** 
+particular dos **documentos** disponibilizados pela CESU e Inep, avalio que: I 
+– Consideração das **questões** com **maior** **número** de erros I. I 
+-Formação Geral: Percebo que o **maior** destaque em termos de dificuldades 
+enfrentadas pelos alunos são a **interpretação** de **textos** e análise dos 
+infográficos e / ou figuras. I. II - Formação Específica: Entendo que é preciso 
+refletir sobre os conteúdos que estão sendo ministrados em sala de **aula** e 
+que compõem a matriz **curricular** do Curso de Logística da UE e os conteúdos 
+discutidos nessa **avaliação** , pois existem " **discussões** " da **prova** 
+que são trabalhados em menor detalhamento na grade atual para que esta 
+contemple **discussões** que a Coordenação, o Colegiado e **NDE** do curso 
+acreditam ser igualmente **importantes** para formação profissional. Assim, há 
+uma difícil tarefa de **atender** os **componentes** do Edital Enade e ao mesmo 
+tempo, manter uma grade atualizada e robusta que **atenda** as expectativas do 
+mercado de trabalho; e por muitas vezes essas duas frentes – INEP / ENADE e 
+Mercado de Trabalho – não compactuam dos mesmos interesses **curriculares** ; e 
+a IES fica " dividida " sobre o que **atender** com **maior** ênfase, visto que 
+existe uma **carga** horária e uma matriz **curricular** a cumprir. II - 
+Análise das respostas dos alunos ao **Questionário** de **Percepção** da 
+**Prova** : O **maior** **obstáculo** encontrado pelos alunos foi o modo como o 
+conteúdo **curricular** é abordado na **prova** , o já conhecido " padrão ENADE 
+" de **questões** . III - Respostas dos alunos ao **Questionário** do 
+Estudante: A análise **diagnóstica** nos mostra o quanto os alunos 
+**submetidos** **avaliação** ENADE 2022 foram afetadas e até mesmo 
+**prejudicadas** pela **pandemia** . IV - Respostas dos alunos ao 
+**Questionário** da **Pandemia** : Através da análise **diagnóstica** , fica 
+bastante claro que mesmo com a implementação de **aulas** remotas e uso de 
+**tecnologias** **digitais** para construção da **jornada** acadêmica; ainda 
+assim **decorrentes** da **pandemia** **prejudicaram** seu processo formativo, 
+dados que reforçam que a **pandemia** **prejudicou** os **estudos** desses 
+alunos, que foram **agravados** pelos **aspectos** intrínsecos a **pandemia** ( 
+ex. : restrição financeira e vulnerabilidade socioemocional ) ; 
+consequentemente, o desempenho destes no ENADE. 
+
+Lemmas in this text that loaded on the factor:
+
+agravar
+aspecto
+atender (secondary)
+aula (secondary)
+avaliação (secondary)
+carga
+componente
+curricular
+decorrente
+diagnóstico
+digital
+discussão
+documento (secondary)
+estudo
+grande (secondary)
+importante (secondary)
+interpretação
+jornada
+nde
+número (secondary)
+obstáculo
+pandemia
+percepção (secondary)
+prejudicar
+prova
+questão
+questionário
+relatório
+submeter
+tecnologia (secondary)
+texto

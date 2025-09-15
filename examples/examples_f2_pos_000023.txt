@@ -1,0 +1,34 @@
+file = fat000768
+date = 23-24
+user = r06_u204
+conversation = t000017_3_DESENVOLVIMENTO_Paragraph_35
+URL = No_URL
+
+word count = 89
+words loading = 12
+factor score = 21
+
+Na **Questão** 9 , em que se **avalia** a liderança da equipe gestora, 40 , 92 
+% **avaliaram** que a liderança **ocorre** de " **Forma** plena " , 38 , 84 % 
+de " **Forma** razoável " , 7 , 88 % " **Forma** **insuficiente** " , 7 , 88 % 
+**avaliaram** como " inexistente " e 9 , 63 % " Não **souberam** **responder** 
+" . Em relação à **questão** 10 , 68 , 05 % **avaliaram** como " **Excelente** 
+e **Boa** " , 21 , 12 % " **Regular** " , 5 , 58 % " **Insuficiente** " e 
+apenas 5 , 25 % " Não **souberam** **responder** " . 73 , 74 % dos **docentes** 
+**avaliaram** que a equipe gestora condu as **ações** de " **Forma** plena " 
+enquanto 26 , 26 % de " **Forma** razoável " . 
+
+Lemmas in this text that loaded on the factor:
+
+ação (secondary)
+avaliar
+bom
+docente
+excelente
+forma
+insuficiente
+ocorrer
+questão (secondary)
+regular
+responder
+saber

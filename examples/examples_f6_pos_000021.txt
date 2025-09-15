@@ -1,0 +1,28 @@
+file = fat003119
+date = 24
+user = r06_u137
+conversation = t000103_2_CONSIDERAÇÕES_Paragraph_30
+URL = No_URL
+
+word count = 54
+words loading = 8
+factor score = 9
+
+**APONTAMENTO** DE SITUAÇÕES-PROBLEMA MAIS **RELEVANTES** - Gestão da unidade 
+de ensino e dos cursos ( indicadores ) - **Infraestrutura** **laboratorial** e 
+ambientes de ensino - Metodologia de ensino, desempenho de alunos, evasão - 
+Manutenção e **conservação** **predial** - **Infraestrutura** **predial** ( 
+espaços, sistemas ) - Materiais, equipamentos e mobiliários - Participação da 
+comunidade e sociedade - Segurança pessoal e patrimonial - Baixa demanda dos 
+cursos da tarde 
+
+Lemmas in this text that loaded on the factor:
+
+apontamento
+conservação
+infraestrutura
+laboratorial
+predial
+problema (secondary)
+relevante
+situações

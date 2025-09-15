@@ -1,0 +1,33 @@
+file = fat001157
+date = 24-25
+user = r06_u217
+conversation = t000028_3_DESENVOLVIMENTO_Paragraph_29
+URL = No_URL
+
+word count = 104
+words loading = 10
+factor score = 20
+
+As perguntas no Eixo 2 : Desenvolvimento Institucional, versavam sobre o nível 
+de **conhecimento** dos **respondentes** acerca da Missão Institucional e o PDI 
+e o cumprimento do PDI. Quando analisamos as 3 categorias juntas identificamos 
+que 38 % dizem conhecer a Missão Institucional e o PDI e que está sendo 
+cumprido, 25 % não **sabem** **responder** e 24 % diz ser **regular** . 
+Escalonando cada categoria 75 % dos técnicos **administrativos** **consideram** 
+seu **conhecimento** e cumprimento do PDI muito **bom** ou **bom** bem como 71 
+% dos **docentes** . Dos **discentes** , 32 % **consideram** seu 
+**conhecimento** e cumprimento do PDI muito **bom** ou **bom** , 28 % não 
+**sabem** **responder** e 25 % **consideram** **regular** . 
+
+Lemmas in this text that loaded on the factor:
+
+administrativo
+bom
+conhecimento
+considerar
+discente
+docente
+regular
+respondente
+responder
+saber

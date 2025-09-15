@@ -1,0 +1,50 @@
+file = fat001769
+date = 23
+user = r06_u204
+conversation = t000047_1_ANÁLISE_DO_CENÁRIO_Paragraph_36
+URL = No_URL
+
+word count = 174
+words loading = 20
+factor score = 19
+
+ESCOLA DE INOVADORES. O que será feito: Um programa de sensibilização e de 
+incentivo junto à comunidade acadêmica para a participação na 16ª edição do 
+curso Escola e Inovadores. Por que será feito: Para promover a formação 
+**institucional** do empreendedorismo e a inovação. **Objetivo** ( s ) 
+**relacionado** ( s ) : **Atender** às **demandas** sociais e do **mercado** de 
+trabalho. Obter a **satisfação** dos **públicos** que se **relacionam** com o 
+Centro Paula Souza ( **stakeholders** ) . **Alcançar** e manter o **grau** de 
+**excelência** em seus processos de **ensino** e aprendizagem. Formar 
+**profissionais** atualizados em **tecnologias** e processos produtivos, 
+**capazes** de atuar no desenvolvimento tecnológico e inovação. Promover a 
+cultura de inovação e empreendedorismo. **Meta** ( s ) **relacionada** ( s ) : 
+Dar continuidade ao Programa Escola de Inovadores ampliando a participação dos 
+alunos da Fatec Ipiranga em 5 % . Desenvolver mensalmente ações / serviços que 
+reforcem a imagem **institucional** da unidade junto à comunidade acadêmica. 
+Promover ações administrativas e **pedagógicas** que proporcionem a **redução** 
+da **taxa** de evasão e de trancamento em 5 % com relação ao indicador de 
+desempenho de 2022 , no ano de 2023 . 
+
+Lemmas in this text that loaded on the factor:
+
+alcançar
+atender
+capaz
+demanda
+ensino (secondary)
+excelência
+grau
+institucional (secondary)
+mercado
+meta
+objetivo
+pedagógico (secondary)
+profissional
+público
+redução
+relacionar
+satisfação
+stakeholders
+taxa
+tecnologia

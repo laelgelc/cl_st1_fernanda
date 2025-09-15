@@ -1,0 +1,38 @@
+file = fat001163
+date = 24-25
+user = r06_u217
+conversation = t000028_3_DESENVOLVIMENTO_Paragraph_35
+URL = No_URL
+
+word count = 111
+words loading = 13
+factor score = 29
+
+Com relação as **políticas** de pessoal, observamos que 67 % dos 
+**respondentes** as **consideram** muito **bom** ou **bom** . Quanto a 
+organização da gestão e da instituição verifica -se que 45 % do total de 
+**respondentes** , **consideram** **bom** ou muito **bom** . Quando detalhamos 
+as respostas, 90 % dos técnicos **administrativos** , 71 % dos **docentes** e 
+34 % dos **discentes** **consideram** **bom** ou muito **bom** . Vale 
+**destacar** que 26 % dos **discentes** **consideram** essa **dimensão** 
+**regular** e que outros 27 % não **souberam** **responder** . Em relação a 
+sustentabilidade financeira as opiniões são muito diversas, somente 27 % do 
+total de **respondentes** **consideram** **bom** ou muito **bom** , desses 12 % 
+não **souberam** **responder** . Os demais 60 % **têm** opiniões negativas a 
+respeito da sustentabilidade financeira. 
+
+Lemmas in this text that loaded on the factor:
+
+administrativo
+bom
+considerar
+destacar
+dimensão
+discente
+docente
+política
+regular
+respondente
+responder
+saber
+ter

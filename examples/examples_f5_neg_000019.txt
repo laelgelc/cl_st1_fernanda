@@ -1,0 +1,29 @@
+file = fat002807
+date = 22
+user = r06_u217
+conversation = t000088_2_DESENVOLVIMENTO_Paragraph_3
+URL = No_URL
+
+word count = 136
+words loading = 3
+factor score = -2
+
+2 . Receber verbas periódicas do CEETEPS para que sejam feitas manutenção antes 
+da degradação dos espaços. Fizemos a aquisição das carteirinhas de estudante; 
+solicitação baixa patrimonial e retirada de bens inservíveis; higienização dos 
+bebedouros e instalação de pedais de acionamento elétrico; instalação de 
+refletor na área externa da unidade para segurança; reparos no vazamentos no 
+telhado; higienização da **caixa** de água e dedetização e desratização; 
+recarga dos extintores de incêndio; troca de lâmpadas queimadas; compra de 
+câmeras para computadores para **transmissão** de aulas ao vivo; realocação de 
+TVs para sala de aulas para **transmissão** de aulas ao vivo; manutenção do 
+portão de entrada de carros da unidade; manutenção em impressoras; 
+desentupimento das pias da copa dos colaboradores e dos **alunos** ; reparo de 
+vazamento; manutenção de ar Condicionado; implantação de uma sala com 
+computadores para utilização dos **alunos** . 
+
+Lemmas in this text that loaded on the factor:
+
+aluno (secondary)
+caixa
+transmissão

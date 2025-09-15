@@ -1,0 +1,31 @@
+file = fat000504
+date = 23-24
+user = r06_u005
+conversation = t000010_3_DESENVOLVIMENTO_Paragraph_14
+URL = No_URL
+
+word count = 183
+words loading = 2
+factor score = 5
+
+Dimensão 4 : Comunicação com a Sociedade. Perfil Discente: As **Questões** 7 e 
+8 estão vinculadas ao perfil dos Discentes e tratam a qualidade da comunicação 
+com a Sociedade. Na **questão** 7 é possível notar que 63 , 39 % avaliaram como 
+" Excelente e Bom " , 27 , 91 % como " Regular " e 8 , 70 % " Insuficiente " . 
+Este resultado é considerado positivo, porém a **questão** pode gerar 
+distorções, uma vez que o acesso a tais informações é realizado de maneiras e 
+meios diferentes. As Resoluções, Normas, Legislação, Planos de Gestão são 
+disponibilizados no site. Já os planos de ensino, planos de **aula** e 
+calendários são apresentados pelos professores e disponibilizados no SIGA. Ou 
+seja, algumas dessas informações são apresentadas de forma passiva e outra de 
+forma ativa. Além disso, a divulgação e isponibilização são feitas por atores 
+diferentes e em momentos diferentes. Diante do exposto, os resultados desta 
+**questão** se transformarão em diferentes ações de divulgação. Na **questão** 
+8 , que avalia os canais de comunicação da Fatec Baixada Santista, 57 , 96 % 
+avaliaram como " Excelente e Bom " , 26 , 33 % " Regular " , 14 , 12 % " 
+Insuficiente " e apenas 1 , 58 % " Não souberam responder " . 
+
+Lemmas in this text that loaded on the factor:
+
+aula (secondary)
+questão

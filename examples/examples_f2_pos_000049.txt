@@ -1,0 +1,47 @@
+file = fat001032
+date = 24-25
+user = r06_u168
+conversation = t000026_4_DESENVOLVIMENTO_Paragraph_13
+URL = No_URL
+
+word count = 235
+words loading = 10
+factor score = 17
+
+Os objetivos e metas propostos no PDI vigente são operacionalizados de acordo 
+com a realidade **institucional** e contemplam as seguintes áreas da 
+instituição: ensino, pesquisa tecnológica, pós-graduação e **extensão** , 
+**corpo** **docente** , recursos humanos e administração. Para cada instância 
+contemplada, foram **definidos** os objetivos a serem implantados obedecendo ao 
+cronograma a seguir: Ensino 1 . Organizar e estruturar mecanismos que propiciem 
+a integração das diferentes áreas de **conhecimento** . 2 . Estabelecer 
+referências para elaboração e **avaliação** dos Projetos Pedagógicos dos cursos 
+de graduação. 3 . Criar o curso na modalidade à distância. 4 . Aprimorar a 
+qualidade do ensino. 5 . Aprimorar a qualidade da gestão do ensino de graduação 
+( presencial e a distância ) . Pesquisa e pós-graduação 1 . Apoiar as 
+atividades de pesquisa com recursos para manutenção de programas, projetos e 
+grupos de pesquisa tecnológica. 2 . Incentivar o desenvolvimento de redes de 
+pesquisa tecnológica. **Extensão** 1 . Implementar Programa de Acompanhamento 
+de Egressos da Fatec São Caetano do Sul - Antonio Russo, preferencialmente 
+integrado ao ensino e à pesquisa tecnológica. 2 . Ampliar programas de educação 
+continuada ao **docente** e **discente** , em parceria com entidades 
+governamentais e de classe. 3 . Implementar programas de **extensão** . 
+**Corpo** **discente** 1 . Aperfeiçoar Programa de Atendimento Estudantil. 2 . 
+Criar e aperfeiçoar Programas de Acompanhamento Psicopedagógico. 1 . Aprimorar 
+os processos e métodos gerenciais. 2 . Implementar os sistemas de **melhoria** 
+contínua nos processos **administrativos** . 3 . Capacitar continuamente o 
+quadro de colaboradores e **docentes** . 4 . Criar programas de capacitação ao 
+**corpo** técnico **administrativo** 
+
+Lemmas in this text that loaded on the factor:
+
+administrativo
+avaliação
+conhecimento
+corpo
+definir
+discente
+docente
+extensão
+institucional
+melhoria (secondary)

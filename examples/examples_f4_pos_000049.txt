@@ -1,0 +1,29 @@
+file = fat001150
+date = 24-25
+user = r06_u217
+conversation = t000028_3_DESENVOLVIMENTO_Paragraph_22
+URL = No_URL
+
+word count = 149
+words loading = 2
+factor score = 4
+
+A Iniciação Cientifica com duração de 2 semestres foi consolidada na Unidade e 
+cerca de 5 alunos já concluíram trabalhos e temos 7 finalizando em dezembro. Os 
+docentes têm apresentado os projetos que realizam com as turmas mais avançadas 
+para os ingressantes a fim de motiva -los. Hoje como política interna em 
+calendário, há especificado semanas de **provas** e de devolutiva para os 
+alunos o que tem minimizado problemas. Além da data da **prova** de 
+recuperação. Temos também data prefixada para que as notas estejam disponíveis 
+no SIGA. Identificar os motivos das faltas dos alunos e estimular a frequência 
+**Aulas** de redação e língua portuguesa preparatório para o vestibular e 
+**provão** paulista Divulgar projetos realizados pelos docentes nas **aulas** 
+Incentivar o trabalho com projetos interdisciplinares Reforço / monitoria em 
+disciplinas do 1º semestre Solicitar que a correção, vista de **prova** 
+programas de recuperação de aprendizagem seja realizada Visitas e palestras 
+técnicas 
+
+Lemmas in this text that loaded on the factor:
+
+aula (secondary)
+prova

@@ -1,0 +1,20 @@
+file = fat001388
+date = 23
+user = r06_u160
+conversation = t000035_2_DESENVOLVIMENTO_Paragraph_16
+URL = No_URL
+
+word count = 57
+words loading = 1
+factor score = -1
+
+Com o apoio dos gestores do projeto e das demais consultorias contratadas, o 
+trabalho da empresa responsável pela consultoria deverá ter os seguintes 
+objetivos para as MPEs: • aumento da produtividade na área financeira; • 
+diminuição de erros financeiros; • diminuição dos **custos** operacionais; • 
+melhora de gestão financeira • melhora na apuração dos **custos** e formação do 
+preço de venda. 
+
+Lemmas in this text that loaded on the factor:
+
+custo

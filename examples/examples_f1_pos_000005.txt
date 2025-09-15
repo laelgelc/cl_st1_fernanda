@@ -1,0 +1,55 @@
+file = fat001625
+date = 23
+user = r06_u126
+conversation = t000042_1_ANÁLISE_DO_CENÁRIO_Paragraph_4
+URL = No_URL
+
+word count = 137
+words loading = 28
+factor score = 31
+
+DEFINIÇÃO DE **OBJETIVOS** , **METAS** E AÇÕES ( PROJETOS ) **Objetivos** 1 
+**Atender** às **demandas** sociais e do **mercado** de trabalho; 2 Obter a 
+**satisfação** dos **públicos** que se **relacionam** com o Centro Paula Souza 
+( **stakeholders** ) ; 3 CPS - **Alcançar** e manter o **grau** de 
+**excelência** em seus processos de **ensino** e aprendizagem; 4 **Assegurar** 
+a **perenidade** do **crescimento** da instituição com recursos financeiros 
+disponíveis; 5 Garantir **celeridade** e **efetividade** na **prestação** de 
+serviços; 6 Integrar as diferentes modalidades de **ensino** , **otimizando** 
+**itinerários** e tempo para a formação **profissional** ; 7 Inovar processos 
+de **ensino** e aprendizagem para manter **excelência** diante do **mercado** ; 
+8 Ampliar a **capacidade** de criar e atualizar cursos em parceria com o 
+**mercado** ; 9 **Expandir** e ampliar a **capacidade** de articulação com 
+**Governos** e **Setores** Produtivos; e 10 Promover a **captação** de recursos 
+**extras** e não orçamentários. 
+
+Lemmas in this text that loaded on the factor:
+
+alcançar
+assegurar
+atender
+capacidade
+captação
+celeridade
+crescimento
+demanda
+efetividade
+ensino (secondary)
+excelência
+expandir
+extra
+governo
+grau
+itinerário
+mercado
+meta
+objetivo
+otimizar
+perenidade
+prestação
+profissional
+público
+relacionar
+satisfação
+setor (secondary)
+stakeholders

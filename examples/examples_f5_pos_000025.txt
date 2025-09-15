@@ -1,0 +1,43 @@
+file = fat001647
+date = 23
+user = r06_u129
+conversation = t000043_1_ANÁLISE_DO_CENÁRIO_Paragraph_11
+URL = No_URL
+
+word count = 222
+words loading = 10
+factor score = 12
+
+ESTUDO PRELIMINAR DE IMPLANTAÇÃO DE CURSO AMS EM ADS O que será feito: Estudo 
+sobre a viabilidade de implantação do Curso MTEC / MEC de Informática para 
+Internet e Desenvolvimento de Sistemas. Por que será feito: A **cidade** de 
+Praia Grande conta com a instalação da ETEC Guilhermina e ETEC Maracanã que 
+oferece Ensino Médio MTEC / MEC nas **áreas** de Informática para Internet e 
+Desenvolvimento de Sistemas. A Fatec Praia Grande oferece o curso superior de 
+Tecnologia em Análise e Desenvolvimento de Sistemas e recentemente implantou o 
+curso de Desenvolvimento de Software Multiplataforma. A modalidade AMS permite 
+que em um período de cinco **anos** , o estudante conclua o ensino médio, 
+técnico e superior. A **região** **possui** o **porto** de santos e conta com 
+**empresas** de vários segmentos. Com essa modalidade sendo implantada no 
+período vespertino, poder -se-á atender uma parcela dos estudantes da 
+**região** permitindo que estes possam passar por diferentes níveis de ensino 
+em uma única instituição, a fim de que possam chegar ao mercado de trabalho 
+qualificados em um tempo mais curto. Objetivo ( s ) relacionado ( s ) : Ampliar 
+o **número** de cursos da FATEC-PG, bem como ampliar a oferta de cursos de 
+Graduação no **município** , buscando atender o mercado e contribuir para a 
+educação **profissional** da **região** . Meta ( s ) relacionada ( s ) : 
+Apresentar proposta de implantação de novos cursos AMS: 01 curso na **área** 
+TI. 
+
+Lemmas in this text that loaded on the factor:
+
+ano
+área
+cidade
+empresa
+município
+número
+porto
+possuir
+profissional (secondary)
+região

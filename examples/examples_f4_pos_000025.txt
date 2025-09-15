@@ -1,0 +1,26 @@
+file = fat003186
+date = 23-24
+user = r06_u129
+conversation = t000109_3_COMENTÁRIOS_E_ESCLARECIMENTOS_ADCIONAIS_Paragraph_3
+URL = No_URL
+
+word count = 73
+words loading = 6
+factor score = 5
+
+**Comentários** e Esclarecimentos **Adicionais** quanto às respostas dos alunos 
+ao **Questionário** do Estudante: **Importante** ressaltar que na **avaliação** 
+do **questionário** do estudante, não houve nenhuma **questão** sem resposta ou 
+com múltiplas respostas que comprova o comprometimento e responsabilidade dos 
+alunos. Em relação à contribuição das disciplinas cursadas para a formação 
+integral como cidadão e profissional, a maioria dos estudantes concorda com 
+essa afirmação, sendo 47 , 5 % concordando totalmente e 29 , 5 % concordando. 
+
+Lemmas in this text that loaded on the factor:
+
+adicional
+avaliação (secondary)
+comentário
+importante (secondary)
+questão
+questionário

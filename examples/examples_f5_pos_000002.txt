@@ -1,0 +1,37 @@
+file = fat001546
+date = 23
+user = r06_u217
+conversation = t000038_2_DESENVOLVIMENTO_Paragraph_10
+URL = No_URL
+
+word count = 149
+words loading = 10
+factor score = 21
+
+No **setor** **industrial** a **cidade** apresenta **emprego** que se organiza 
+em 10 subsetores, sendo os **maiores** a **Indústria** **Química** ( onde está 
+a **Indústria** de Plástico e Cosmético ) , **Indústria** Metalúrgica, Material 
+de Transportes ( autopeças ) , **Indústria** Mecânica, Borracha, Alimentos, 
+Gráfica e outras. Ao analisarmos a evolução do **emprego** **formal** em 
+Diadema, percebemos no GRÁFICO 1 dois períodos distintos. O primeiro - 2002 a 
+2011 - de alto **crescimento** na quantidade total de **empregos** com geração 
+de 40 . 368 novas vagas, alta de 55 % . E o segundo período – 2012 a 2017 - com 
+redução na quantidade de **empregos** **formais** com fechamento de 23 . 550 
+**empregos** , redução de 20 , 33 % . Esta redução pode ser explicada pela 
+crise na **indústria** de transformação nacional que é o **maior** **setor** 
+**econômico** da **cidade** , responsável por metade dos **empregos** . O 
+gráfico ainda indica uma estabilização na quantidade de **empregos** a partir 
+de dezembro de 2016 até agosto de 2018 . 
+
+Lemmas in this text that loaded on the factor:
+
+cidade
+crescimento (secondary)
+econômico
+emprego
+formal
+grande
+indústria
+industrial
+química
+setor

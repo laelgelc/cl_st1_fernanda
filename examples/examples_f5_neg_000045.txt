@@ -1,0 +1,24 @@
+file = fat001996
+date = 24
+user = r06_u168
+conversation = t000056_1_ANÁLISE_DO_CENÁRIO_Paragraph_49
+URL = No_URL
+
+word count = 100
+words loading = 2
+factor score = -1
+
+Projetos com empresas e / ou demais parceiros O que será feito: Easy Cargo - 
+Planejamento e simulação 3D de **carregamento** de frete, a partir de diversas 
+dimensões de carga, e de diferentes modelos de contêineres e de veículos de 
+transporte existentes no mercado. Por que será feito: Para simular o 
+**carregamento** de diferentes tipos de carga em contêineres e veículos de 
+transporte diversos, a partir de um planejamento de frete prévio, a fim de 
+tornar a aula de Modais de Transporte e Seguro de Carga mais aplicada Situação 
+problema: Metodologia de ensino, desempenho de **alunos** , evasão ( a ser 
+resolvida / mitigada ) 
+
+Lemmas in this text that loaded on the factor:
+
+aluno (secondary)
+carregamento

@@ -1,0 +1,71 @@
+file = fat001124
+date = 24-25
+user = r06_u204
+conversation = t000027_3_DESENVOLVIMENTO_Paragraph_25
+URL = No_URL
+
+word count = 442
+words loading = 13
+factor score = 42
+
+Potencialidade: a maioria dos **alunos** avaliaram bem os **cursos** , 
+conteúdos, **metodologias** e didática dos docentes. Implantação do **curso** 
+AMS- Agenciamento de viagens e gestão do turismo Potencialidade: a maioria dos 
+**alunos** avaliaram bem os **cursos** , conteúdos, **metodologias** e didática 
+dos docentes. Fragilidade: baixa Visibilidade da Fatec Ipiranga na região 
+Potencialidade: a maioria dos **alunos** avaliaram bem os **cursos** , 
+conteúdos, **metodologias** e didática dos docentes Potencialidade: a maioria 
+dos **alunos** avaliaram bem a oferta dos programas de monitoria. Fragilidade: 
+a maioria dos **alunos** desconhecem as atividades de pesquisa e **extensão** 
+realizadas na unidade Fragilidade: a maioria dos **alunos** desconhecem as 
+atividades de pesquisa e **extensão** realizadas na unidade Feira de Negócios 
+do **Curso** Gestão Comercial Fragilidade: a maioria dos **alunos** desconhecem 
+as atividades de pesquisa e **extensão** realizadas na unidade Participação dos 
+**alunos** no **torneio** Interfatecs Fragilidade: a maioria dos **alunos** 
+desconhecem as atividades de pesquisa e **extensão** realizadas na unidade 
+**Ações** de diversidade, equidade e inclusão Fragilidade: a maioria dos 
+**alunos** desconhecem as atividades de pesquisa e **extensão** realizadas na 
+unidade Publicação **Editorial** no formato **livro** ( volume IX ) – 
+ATIVIDADES AUTÔNOMAS DE **PROJETOS** – CST GESTÃO DE RECURSOS HUMANOS 
+Fragilidade: a maioria dos **alunos** desconhecem as atividades de pesquisa e 
+**extensão** realizadas na unidade Fragilidade: a maioria dos **alunos** 
+desconhecem as atividades voltadas para a **comunidade** externa realizadas na 
+unidade Fragilidade: a maioria dos **alunos** desconhecem as atividades de 
+pesquisa e **extensão** realizadas na unidade e Baixa Visibilidade da Fatec 
+Ipiranga na região. Fragilidade: a maioria dos **alunos** desconhecem as 
+atividades de pesquisa e **extensão** realizadas na unidade Palestras 
+semestrais de **apresentação** do **curso** AMS-DS para familiares e **alunos** 
+interessados no **curso** Fragilidade: Baixa Visibilidade da Fatec Ipiranga na 
+região. Potencialidade: a maioria dos **alunos** está satisfeita com o 
+atendimento ofertado pelos funcionários e coordenadores Capacitação para os 
+colaborares administrativos Potencialidade: a maioria dos **alunos** está 
+satisfeita com a **metodologia** de **ensino** e conteúdo ministrado pelos 
+docentes SPAP Fragilidade: a maioria dos **alunos** e docentes da Fatec 
+Ipiranga demonstrou estar insatisfeita com a infraestrutura de Manutenção dos 
+Laboratórios de Informática Fragilidade: a maioria dos **alunos** e docentes da 
+Fatec Ipiranga demonstrou estar insatisfeita com a infraestrutura do Auditório 
+Atualização da assinatura de softwares Fragilidade: a maioria dos **alunos** e 
+docentes da Fatec Ipiranga demonstrou estar insatisfeita com a infraestrutura 
+das salas de aula Fragilidade: a maioria dos **alunos** e docentes da Fatec 
+Ipiranga demonstrou estar insatisfeita com a infraestrutura Infraestrutura 
+civil e predial Fragilidade: a maioria dos **alunos** e docentes da Fatec 
+Ipiranga demonstrou estar insatisfeita com a infraestrutura Ampliação dos 
+laboratórios de informática Fragilidade: a maioria dos **alunos** e docentes da 
+Fatec Ipiranga demonstrou estar insatisfeita com a infraestrutura Melhoria Sala 
+de Ambientes **pedagógicos** 
+
+Lemmas in this text that loaded on the factor:
+
+ação
+aluno
+apresentação (secondary)
+comunidade
+curso
+editorial
+ensino
+extensão (secondary)
+livro
+metodologia
+pedagógico
+projeto
+torneio

@@ -1,0 +1,32 @@
+file = fat002206
+date = 25
+user = r06_u168
+conversation = t000066_1_ANÁLISE_DO_CENÁRIO_Paragraph_23
+URL = No_URL
+
+word count = 156
+words loading = 3
+factor score = 8
+
+Ações de nivelamento de conhecimento, ENADE, acolhimento e permanência 
+discente. Simulado ENADE – Formação Geral – elaboração de **prova** simulada 
+com duas **questões** objetivas de **provas** anteriores do ENADE sobre o tema 
+desenvolvido e duas **questões** objetivas o tema desenvolvido no primeiro 
+semestre, totalizando quatro **questões** Será feita a correção das 
+**questões** pelo professor do projeto com entrega da listagem à coordenação e 
+colegiado do curso. Resolução do simulado e balanço da atividade – esse 
+encontro promoverá a resolução das **questões** do simulado com **comentários** 
+do professo. Ao término da sessão os estudantes serão convidados a opinar sobre 
+a experiência e a indicar temas relevantes e de interesse para o próximo ano. 
+Por que será feito: Para propiciar uma formação discente voltada ao exercício 
+da cidadania de acordo com os princípios dos direitos humanos, meio ambiente 
+sustentável, diversidade ( relações étnico-raciais ) e formação 
+histórico-social ( inclui ultura afro-brasileira, africana e indígena ) 
+situação-problema: Metodologia de ensino, desempenho de alunos, evasão 
+Participação da comunidade e sociedade 
+
+Lemmas in this text that loaded on the factor:
+
+comentário
+prova
+questão

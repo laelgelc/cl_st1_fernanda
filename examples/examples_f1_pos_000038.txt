@@ -1,0 +1,36 @@
+file = fat001791
+date = 23
+user = r06_u217
+conversation = t000048_1_ANÁLISE_DO_CENÁRIO_Paragraph_15
+URL = No_URL
+
+word count = 119
+words loading = 12
+factor score = 18
+
+F – Modernizar a Biblioteca com livros para os cursos de GPI e DSM O que será 
+feito: Solicitação de bibliografia básica à CESU Por que será feito: Formar 
+**profissionais** atualizados em **tecnologias** e processos produtivos, 
+**capazes** de atuar no desenvolvimento tecnológico e inovação e **alcançar** e 
+manter o **grau** de **excelência** nos processos de **ensino** e aprendizagem 
+**Objetivo** ( s ) **relacionado** ( s ) : Formar **profissionais** atualizados 
+em **tecnologias** e processos produtivos, **capazes** de atuar no 
+desenvolvimento tecnológico e inovação e **alcançar** e manter o **grau** de 
+**excelência** nos processos de **ensino** e aprendizagem **Meta** ( s ) 
+**relacionada** ( s ) : Adquirir 100 % da bibliografia básica dos cursos de GPI 
+e DSM até dezembro de 2023 **atendendo** as **demandas** dos alunos e do CEE 
+
+Lemmas in this text that loaded on the factor:
+
+alcançar
+atender
+capaz
+demanda
+ensino (secondary)
+excelência
+grau
+meta
+objetivo
+profissional
+relacionar
+tecnologia

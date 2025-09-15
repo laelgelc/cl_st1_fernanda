@@ -1,0 +1,29 @@
+file = fat003218
+date = 23-24
+user = r06_u137
+conversation = t000110_4_COMENTÁRIOS_E_ESCLARECIMENTOS_ADICIONAIS_Paragraph_9
+URL = No_URL
+
+word count = 128
+words loading = 4
+factor score = -1
+
+Merece destaque o fato de apenas poucos alunos consideraram que a implementação 
+de aulas não presenciais e uso de tecnologias digitais **decorrentes** da 
+pandemia prejudicaram seu processo formativo, e a maior parte deles afirmou que 
+as dificuldades geradas pela pandemia para a continuidade dos estudos NÃO os 
+levaram a pensar em **trancar** ou **desistir** do curso. Por fim, vale 
+destacar que os alunos têm uma visão **mista** sobre a experiência durante a 
+pandemia: valorizam o suporte oferecido, mas também reconhecem as falhas, 
+especialmente no que diz respeito à transição para o ensino remoto. É 
+interessante notar que, embora inicialmente tenham tido dificuldades com o 
+ensino não presencial, agora estão solicitando aulas remotas em diversas 
+situações, o que pode indicar uma adaptação positiva a essa modalidade de 
+ensino. 
+
+Lemmas in this text that loaded on the factor:
+
+decorrente (secondary)
+desistir
+misturar
+trancar

@@ -1,0 +1,43 @@
+file = fat001842
+date = 24
+user = r06_u005
+conversation = t000050_1_ANÁLISE_DO_CENÁRIO_Paragraph_10
+URL = No_URL
+
+word count = 54
+words loading = 23
+factor score = 28
+
+**Situação** **problema** : cat 0 . 1 . 01 - **Metodologia** de **ensino** , 
+**desempenho** de **alunos** , **evasão** ( a ser **resolvida** / **mitigada** 
+) **Ações** **pedagógicas** : visitas técnicas, **projetos** **integradores** / 
+**interdisciplinares** , dias de **campo** , **feira** das **profissões** , 
+**cursos** **extracurriculares** para **alunos** . O que será **feito** : 
+CENTRO **LÍNGUAS** **ESTRANGEIRAS** . Por que será **feito** : DIMUIR A 
+**EVASÃO** NAS **DISCIPLINAS** DE **LÍNGUAS** **ESTRANGEIRAS** . 
+
+Lemmas in this text that loaded on the factor:
+
+ação
+aluno
+campo
+curso
+desempenho
+disciplina
+ensino
+estrangeiro
+evasão
+extracurricular
+fazer
+feira
+integrador
+interdisciplinar
+língua
+metodologia
+mitigar
+pedagógico
+problema
+profissão
+projeto
+resolver
+situação

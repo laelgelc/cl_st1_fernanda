@@ -1,0 +1,41 @@
+file = fat000943
+date = 24-25
+user = r06_u137
+conversation = t000024_3_DESENVOLVIMENTO_Paragraph_9
+URL = No_URL
+
+word count = 149
+words loading = 13
+factor score = 21
+
+Verifica -se que o **conhecimento** do PDI pelos funcionários 
+**administrativos** e **docentes** constitui uma grande força da unidade, com 
+destaque para seu elevado comprometimento e proatividade, com adoção de medidas 
+**positivas** voltadas ao ensino-aprendizagem, com reconhecimento da sua 
+eficiência e eficácia pelos **discentes** . Analisando detidamente as respostas 
+dos **discentes** , nota -se grande **fragilidade** no fato de que apenas menos 
+de 40 % reconhece como **excelente** e **bom** o cumprimento do PDI na unidade, 
+sendo que pode -se atribuir esta situação ao fato de que muitos **discentes** 
+não conhecem detalhadamente o PDI, de modo que para atacar esta **fragilidade** 
+, a unidade deverá promover mais **reuniões** com os **discentes** em 2025 , 
+para **apresentação** do PDI e incrementar sua divulgação por meio de material 
+simplificado, no site e também nos murais, além de continuar estimulando os 
+funcionários **administrativos** e **docentes** a tomarem **conhecimento** dos 
+**documentos** **institucionais** por meio de **reuniões** e aplicação prática 
+dos **planejamentos** operacional, tático e estratégico. 
+
+Lemmas in this text that loaded on the factor:
+
+administrativo
+apresentação
+bom
+conhecimento
+discente
+docente
+documento
+excelente
+fragilidade
+institucional
+planejamento
+positivo
+reunião

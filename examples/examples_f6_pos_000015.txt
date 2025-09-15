@@ -1,0 +1,39 @@
+file = fat001744
+date = 23
+user = r06_u204
+conversation = t000047_1_ANÁLISE_DO_CENÁRIO_Paragraph_11
+URL = No_URL
+
+word count = 123
+words loading = 12
+factor score = 11
+
+**APONTAMENTO** DE SITUAÇÕES-PROBLEMA MAIS **RELEVANTES** ( " Escuta " ) Imagem 
+Institucional: Baixa Visibilidade da Fatec Ipiranga na região. **Vestibular** : 
+Baixa demanda, Alta **taxa** de inscrição; Não oferta de vagas pelo SISU 
+**Infraestrutura** de Recursos Tecnológicos: Defasagem e quantidade 
+insuficiente de equipamentos de T. I ( computadores, roteadores, switches, 
+nobreak, servidores, dispositivos sem fios, cabos etc. ) . Baixa Velocidade de 
+Internet. Gestão de Pessoas: número insuficiente de funcionários 
+**administrativos** e docentes. **Infraestrutura** Física: Necessidade de 
+reparo: **instalações** elétricas, hidráulicas e **prediais** . **Condição** 
+térmica ruim. Aumento do índice de trancamento geral e cancelamento. 
+**Infraestrutura** Pedagógica: Falta de aquisição de bibliografias para os 
+novos cursos e **atualização** das bibliografias para os cursos existentes. 
+Comunicação Institucional: Desconhecimento dos docentes e discentes dos 
+programas de Iniciação Científica, Estágio, Intercâmbios e INOVA Paula Souza. 
+
+Lemmas in this text that loaded on the factor:
+
+administrativo (secondary)
+apontamento
+atualização
+condição
+infraestrutura
+instalação
+predial
+problema (secondary)
+relevante
+situações
+taxa (secondary)
+vestibular

@@ -1,0 +1,20 @@
+file = fat000231
+date = 22-23
+user = r06_u160
+conversation = t000005_3_DESENVOLVIMENTO_Paragraph_13
+URL = No_URL
+
+word count = 50
+words loading = 2
+factor score = -1
+
+Os **alunos** sabem da existência das monitorias e dos programas de apoio, mas 
+temos notado que não estão frequentando as monitorias ( confirmado com as 
+**listas** de presença ) . Incentivar a procura da monitoria pelos **alunos** , 
+por depoimento de professores e ex-alunos, demonstrando a importância para a 
+formação e auxílio ao estudo. 
+
+Lemmas in this text that loaded on the factor:
+
+aluno (secondary)
+lista

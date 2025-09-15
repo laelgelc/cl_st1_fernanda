@@ -1,0 +1,89 @@
+file = fat001975
+date = 24
+user = r06_u168
+conversation = t000056_1_ANÁLISE_DO_CENÁRIO_Paragraph_28
+URL = No_URL
+
+word count = 726
+words loading = 10
+factor score = 33
+
+**Ações** de nivelamento de **conhecimento** , ENADE, acolhimento e permanência 
+**discente** . O que será feito: Para o primeiro semestre é proposto trabalhar 
+**tema** transversal vinculando relações étnico-raciais e direitos humanos a 
+partir de quatro atividades de até três horas em dois ou três turnos, de modo a 
+abranger todas as turmas de Comércio Exterior, ADS AMS e ADS: 1 ) 1º encontro – 
+**apresentação** aos **discentes** de **tema** transversal escolhido mediante 
+exposição **docente** seguida de discussão; a. a **apresentação** será feita no 
+auditório, com todas as turmas do respectivo turno ( são três turnos ) , no 
+auditório; b. a **apresentação** será respaldada com a legislação em vigor e 
+discussão por autores clássicos brasileiros ou internacionais; c. ao término da 
+**apresentação** haverá uma sessão de discussão com vistas a colher recepção do 
+**tema** pelos **discentes** e fomentar o 2º encontro. 2 ) 2º encontro – 
+**apresentação** aos **discentes** com vistas ao aprofundamento do **tema** 
+transversal escolhido; a. a **apresentação** será feita no auditório, para 
+todas as turmas do respectivo turno ( são três turnos ) , e partirá dos 
+**resultados** da experiência do primeiro encontro, verticalizando o 
+entendimento do **tema** ; b. como **forma** alternativa, o encontro poderá ser 
+animado por entrevista formal a pessoas ligadas ao **tema** , **apresentação** 
+e discussão de filme sobre a temática ou outra abordagem que se **considere** 
+apropriada; c. ao término do encontro haverá sessão de discussão aberta aos 
+**discentes** . 3 ) Simulado ENADE – Formação Geral – elaboração de prova 
+simulada com duas **questões** objetivas de provas anteriores do ENADE sobre o 
+**tema** desenvolvido a. A prova será impressa e obrigatória a todos os 
+estudantes do curso e poderá ser realizada pelo professor do projeto ou 
+coordenação de curso; b. A coordenação e o NDE do curso decidirão sobre a 
+pertinência de uso da nota aferida; c. Será feita a correção das **questões** 
+pelo professor do projeto com entrega da listagem à coordenação e colegiado do 
+curso. 4 ) Resolução do simulado e balanço da atividade – o encontro promoverá 
+a resolução das **questões** do simulado com comentários do professor. Ao 
+término da sessão os estudantes serão convidados a opinar sobre a experiência e 
+a indicar **temas** relevantes e de interesse para o próximo ano. Para o 
+segundo semestre é proposto trabalhar **tema** transversal vinculando meio 
+ambiente, sustentabilidade e especificidades da formação social brasileira a 
+partir de quatro atividades de até quatro horas: 5 ) 1º encontro – 
+**apresentação** aos **discentes** de **tema** transversal escolhido mediante 
+exposição **docente** seguida de discussão; a. a **apresentação** será feita no 
+auditório, com todas as turmas do ADS AMS; b. a **apresentação** será 
+respaldada com a legislação em vigor e discussão por autores clássicos 
+brasileiros ou internacionais; c. ao término da **apresentação** haverá uma 
+sessão de discussão com vistas a colher recepção do **tema** pelos 
+**discentes** e fomentar o 2º encontro. 6 ) 2º encontro – **apresentação** aos 
+**discentes** com vistas ao aprofundamento do **tema** transversal escolhido; 
+a. a **apresentação** partirá dos **resultados** da experiência do primeiro 
+encontro, verticalizando o entendimento do **tema** ; b. como **forma** 
+alternativa, o encontro poderá ser animado por entrevista formal a pessoas 
+ligadas ao **tema** , **apresentação** e discussão de filme sobre a temática ou 
+outra abordagem que se **considere** apropriada c. ao término do encontro 
+haverá sessão de discussão aberta aos **discentes** . 7 ) Simulado ENADE – 
+Formação Geral – elaboração de prova simulada com duas **questões** objetivas 
+de provas anteriores do ENADE sobre o **tema** desenvolvido e duas **questões** 
+objetivas o **tema** desenvolvido no primeiro semestre, totalizando quatro 
+**questões** a. A prova será impressa e obrigatória a todos os estudantes do 
+curso e poderá ser realizada pelo professor do projeto ou coordenação de curso; 
+b. A coordenação e o NDE do curso decidirão sobre a pertinência de uso da nota 
+aferida; c. Será feita a correção das **questões** pelo professor do projeto 
+com entrega da listagem à coordenação e colegiado do curso. Resolução do 
+simulado e balanço da atividade – esse encontro promoverá a resolução das 
+**questões** do simulado com comentários do professo. Ao término da sessão os 
+estudantes serão convidados a opinar sobre a experiência e a indicar **temas** 
+relevantes e de interesse para o próximo ano. Por que será feito: Para 
+propiciar uma formação **discente** voltada ao exercício da cidadania de acordo 
+com os princípios dos direitos humanos, meio ambiente sustentável, diversidade 
+( relações étnico-raciais ) e formação histórico- social ( inclui cultura 
+afro-brasileira, africana e indígena ) Situação problema: Metodologia de 
+ensino, desempenho de alunos, evasão ( a ser resolvida / mitigada ) Acesso / 
+Inclusão ao Ensino Superior ( social, PCD ) 
+
+Lemmas in this text that loaded on the factor:
+
+ação (secondary)
+apresentação
+conhecimento
+considerar
+discente
+docente
+forma
+questão (secondary)
+resultado
+tema (secondary)

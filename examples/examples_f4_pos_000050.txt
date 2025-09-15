@@ -1,0 +1,52 @@
+file = fat001002
+date = 24-25
+user = r06_u160
+conversation = t000025_3_DESENVOLVIMENTO_Paragraph_3
+URL = No_URL
+
+word count = 358
+words loading = 6
+factor score = 4
+
+A seguir são apresentadas as coletas referentes ao eixo 2 , contemplando as 
+**avaliações** para os discentes, docentes e funcionários. Por conta de uma 
+melhor visualização, o gráfico soma todas as respostas de todas as **questões** 
+avaliadas nesse eixo, onde se apresenta o resultado total. O resultado 
+contempla total contempla as **percepções** dos discentes, docentes e corpo 
+técnico administrativo da unidade. o Observa -se que mais de 75 % da comunidade 
+acadêmica e administrativa da FATEC Santo André conhece muito bem a missão 
+institucional e compactua com o seu planejamento e a sua implementação pelo 
+PDI; o Pode -se depreender que a Responsabilidade Social e as Ações 
+Extensionitas são notadas por **grande** maioria dos envolvidos com a 
+instituição, apesar de ter sido apontado alguma deficiência que será atenuada 
+com aumento das divulgações; o As Faculdades de Tecnologia ( Fatecs ) , 
+mantidas pelo Centro Estadual de Educação Tecnológica " Paula Souza " ( CEETEPS 
+) , têm por missão formar profissionais competentes e éticos, capazes de 
+enfrentar desafios na busca do desenvolvimento tecnológico, social e econômico. 
+O público-alvo da nossa unidade de ensino são jovens que possuem e / ou atuem 
+no mercado de trabalho do eixo de processos industriais, mais específico nas 
+áreas de automação e automotiva; o A análise dos dados obtidos nas respostas 
+indica que a maioria dos docentes, discentes e colaboradores da instituição tem 
+uma visão positiva quanto aos **aspectos** avaliados no Eixo 3 , com mais de 86 
+% dos **respondentes** concordando com as **questões** e demonstrando aceitação 
+às políticas e práticas acadêmicas abordadas. o As perguntas cobrem uma ampla 
+gama de **aspectos** das políticas acadêmicas, abordando desde a qualidade do 
+ensino, a atuação em pesquisa e extensão, até a comunicação interna e externa 
+da instituição e o atendimento aos alunos. Esses resultados sugerem que a 
+instituição tem pontos fortes significativos nessas áreas, conforme percebido 
+pela maioria dos **respondentes** . o Contudo, há uma parcela de 14 % que não 
+souberam responder a algumas perguntas, indicando um desconhecimento de certos 
+programas, ações ou informações institucionais. Para esses casos, será 
+necessário desenvolver estratégias de comunicação e esclarecimento, visando 
+aumentar a familiaridade dos envolvidos com as políticas e ações da 
+instituição, especialmente em áreas como monitoria, projetos de extensão e 
+atividades científicas e culturais. 
+
+Lemmas in this text that loaded on the factor:
+
+aspecto
+avaliação (secondary)
+grande (secondary)
+percepção (secondary)
+questão
+respondente (secondary)

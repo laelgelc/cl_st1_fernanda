@@ -1,0 +1,30 @@
+file = fat002440
+date = 26
+user = r06_u160
+conversation = t000075_1_ANÁLISE_DO_CENÁRIO_Paragraph_1
+URL = No_URL
+
+word count = 75
+words loading = 10
+factor score = 11
+
+PLANO DE GESTÃO **ANUAL** - **PGA** 2026 A Fatec Santo André está 
+**localizada** no Grande ABC, **região** composta por sete **municípios** 
+interligados e de forte relevância **econômica** e **industrial** no **Estado** 
+de São Paulo. Com mais de 2 , 7 milhões de habitantes e posição estratégica 
+próxima à capital paulista, ao Porto de Santos e às principais **rodovias** do 
+**estado** , o ABC Paulista se **destaca** como um polo **industrial** e 
+logístico fundamental para o desenvolvimento regional. 
+
+Lemmas in this text that loaded on the factor:
+
+anual
+destacar (secondary)
+econômico
+estado
+industrial
+localizar
+município
+pga
+região
+rodovia

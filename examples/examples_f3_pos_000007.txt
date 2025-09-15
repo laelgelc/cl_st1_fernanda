@@ -1,0 +1,51 @@
+file = fat002009
+date = 24
+user = r06_u204
+conversation = t000057_1_ANÁLISE_DO_CENÁRIO_Paragraph_18
+URL = No_URL
+
+word count = 126
+words loading = 24
+factor score = 34
+
+**FEIRA** DE NEGÓCIOS DO **CURSO** GESTÃO COMERCIAL cat 1 . 06 - **Ações** 
+**pedagógicas** : visitas técnicas, **projetos** **integradores** / 
+**interdisciplinares** , dias de **campo** , **feira** das **profissões** , 
+**cursos** **extracurriculares** para **alunos** . O que será **feito** : Uma 
+**apresentação** pelos **discentes** do 6º semestre das propostas de negócios 
+desenvolvidos por meio dos conteúdos trabalhados em diferentes **disciplinas** 
+ministradas no **curso** . Por que será **feito** : A **feira** acontece por 
+duas razões: a primeira para que os **discentes** tenham a oportunidade de 
+expor os planos de negócios para a **comunidade** interna e externa; a segunda 
+é para que os **alunos** dos semestres anteriores possam se inspirar e 
+idealizar seus futuros planos de negócios **Situação** **problema** : 
+**Metodologia** de **ensino** , **desempenho** de **alunos** , **evasão** ( a 
+ser **resolvida** / **mitigada** ) **Metodologia** de **ensino** , 
+**desempenho** de **alunos** , **evasão** 
+
+Lemmas in this text that loaded on the factor:
+
+ação
+aluno
+apresentação (secondary)
+campo
+comunidade
+curso
+desempenho
+discente (secondary)
+disciplina
+ensino
+evasão
+extracurricular
+fazer
+feira
+integrador
+interdisciplinar
+metodologia
+mitigar
+pedagógico
+problema
+profissão
+projeto
+resolver
+situação

@@ -1,0 +1,31 @@
+file = fat001556
+date = 23
+user = r06_u217
+conversation = t000038_2_DESENVOLVIMENTO_Paragraph_20
+URL = No_URL
+
+word count = 118
+words loading = 7
+factor score = 11
+
+O **número** de **empresas** abertas em Diadema cresceu 11 , 5 % em 2022 em 
+relação ao **ano** de 2021 . Os dados são do Relatório de Novos Empreendimentos 
+Empresariais de Diadema 2022 , que está em fase de finalização pela Secretaria 
+Municipal de Desenvolvimento Econômico e Trabalho ( Sedet ) , e demonstra que 
+as ações adotadas para aquecer a **economia** na **cidade** trouxeram confiança 
+e resultados positivos. As microempresas individuais ( MEI ) cresceram 7 % , 
+passando de 2 . 955 **empresas** criadas em 2021 para 3 . 162 novos 
+empreendimentos no **ano** passado. Em relação às **empresas** não-MEI ( aqui 
+se encaixam negócios mais robustos ) , o **crescimento** é ainda **maior** : 19 
+, 35 % , saltando de 1 . 695 novas **empresas** , no **ano** de 2021 , para 2 . 
+023 empreendimentos em 2022 . 
+
+Lemmas in this text that loaded on the factor:
+
+ano
+cidade
+crescimento (secondary)
+economia
+empresa
+grande
+número

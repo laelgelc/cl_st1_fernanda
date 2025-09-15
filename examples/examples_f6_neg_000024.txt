@@ -1,0 +1,20 @@
+file = fat002986
+date = 23
+user = r06_u204
+conversation = t000097_3_CENÁRIO_Paragraph_4
+URL = No_URL
+
+word count = 50
+words loading = 2
+factor score = -1
+
+Utilizando -se a renda nominal mensal per capita dos domicílios particulares 
+permanentes localizados na **Subprefeitura** do Ipiranga, obtida por meio do 
+**censo** demográfico de 2010 ( ano mais recente em que esses dados estão 
+disponíveis ) , verifica -se que 28 , 8 % apresentavam renda de até 1 
+salário-mínimo e apenas 13 , 6 % apresentavam de 5 salários-mínimos ou mais. 
+
+Lemmas in this text that loaded on the factor:
+
+censo
+subprefeitura (secondary)

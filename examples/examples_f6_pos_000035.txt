@@ -1,0 +1,26 @@
+file = fat000115
+date = 22-23
+user = r06_u129
+conversation = t000003_3_DESENVOLVIMENTO_Paragraph_43
+URL = No_URL
+
+word count = 83
+words loading = 5
+factor score = 9
+
+Considerando o tamanho em relação à quantidade de alunos, assim como as 
+**condições** de iluminação e conforto térmico ( ventilação ou climatização ) , 
+como você avalia a **condição** das **salas** de **aula** da unidade de ensino? 
+( **administrativo** ) - A avaliação da **infraestrutura** das **salas** de 
+**aula** não foi positiva junto ao **administrativo** , no que tange a 
+iluminação e o conforto térmico das **salas** de **aula** . Para melhorar este 
+indicador, a CPA sugere: A solicitação junto ao CPS de um maior investimento na 
+estrutura da unidade. 
+
+Lemmas in this text that loaded on the factor:
+
+administrativo (secondary)
+aula
+condição
+infraestrutura
+sala

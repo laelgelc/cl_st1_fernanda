@@ -1,0 +1,41 @@
+file = fat002089
+date = 25
+user = r06_u005
+conversation = t000060_1_ANÁLISE_DO_CENÁRIO_Paragraph_11
+URL = No_URL
+
+word count = 48
+words loading = 21
+factor score = 26
+
+**Ações** **pedagógicas** : visitas técnicas, **projetos** **integradores** / 
+**interdisciplinares** , dias de **campo** , **feira** das **profissões** , 
+**cursos** **extracurriculares** para **alunos** . O que será **feito** : 
+CENTRO **LÍNGUAS** **ESTRANGEIRAS** . Por que será **feito** : DIMUIR A 
+**EVASÃO** NAS **DISCIPLINAS** DE **LÍNGUAS** **ESTRANGEIRAS** . 
+**Metodologia** de **ensino** , **desempenho** de **alunos** , **evasão** ( a 
+ser **resolvida** / **mitigada** ) 
+
+Lemmas in this text that loaded on the factor:
+
+ação
+aluno
+campo
+curso
+desempenho
+disciplina
+ensino
+estrangeiro
+evasão
+extracurricular
+fazer
+feira
+integrador
+interdisciplinar
+língua
+metodologia
+mitigar
+pedagógico
+profissão
+projeto
+resolver

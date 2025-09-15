@@ -1,0 +1,26 @@
+file = fat003040
+date = 24
+user = r06_u005
+conversation = t000100_3_CENÁRIO_Paragraph_7
+URL = No_URL
+
+word count = 47
+words loading = 8
+factor score = 7
+
+**APONTAMENTO** DE SITUAÇÕES-PROBLEMA MAIS **RELEVANTES** 1 Metodologia de 
+ensino, desempenho de alunos, evasão 2 Participação da comunidade e sociedade 3 
+**Infraestrutura** **laboratorial** e ambientes de ensino 4 Gestão da unidade 
+de ensino e dos cursos ( indicadores ) 5 **Infraestrutura** **predial** ( 
+espaços, sistemas ) 6 Comunicação com a comunidade **acadêmica** 
+
+Lemmas in this text that loaded on the factor:
+
+acadêmico (secondary)
+apontamento
+infraestrutura
+laboratorial
+predial
+problema (secondary)
+relevante
+situações

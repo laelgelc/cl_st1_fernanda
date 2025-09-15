@@ -1,0 +1,21 @@
+file = fat002885
+date = 23
+user = r06_u129
+conversation = t000093_2_DESENVOLVIMENTO_Paragraph_24
+URL = No_URL
+
+word count = 72
+words loading = 2
+factor score = -2
+
+Infraestrutura Em maio de 2023 foi concluída a obra de impermeabilização da 
+**laje** do prédio, reforma do auditório e troca de pisos em 03 salas de aula, 
+conforme Ata de Manutenção iniciada em dezembro de 2022 . Ao longo de 2023 , 
+novos **vazamentos** nas **lajes** de vido às fortes chuvas foram identificadas 
+e informadas à Coordenação da UIE. A manutenção foi feita, contudo, ainda 
+existem muitos problemas estruturais no prédio da unidade. 
+
+Lemmas in this text that loaded on the factor:
+
+laje
+vazamento (secondary)

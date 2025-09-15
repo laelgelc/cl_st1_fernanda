@@ -1,0 +1,64 @@
+file = fat000710
+date = 23-24
+user = r06_u168
+conversation = t000016_3_DESENVOLVIMENTO_Paragraph_22
+URL = No_URL
+
+word count = 408
+words loading = 10
+factor score = 31
+
+A Fatec São Caetano do Sul - Antonio Russo, não possui políticas próprias para 
+o **ensino** de graduação tecnológica. No entanto, pode -se visualizar a 
+articulação da tríade institucional: Graduação, Pesquisa tecnológica e 
+**Extensão** , legitimando o discurso dos órgãos reguladores ( CEETEPS e CESU ) 
+o compromisso com a educação no **ensino** superior previstos nos documentos 
+institucionais – PDI e Regimento Geral da Fatec São Caetano do Sul - Antonio 
+Russo. Sendo assim, seguem abaixo as Diretrizes para o **Ensino** de Graduação 
+Tecnológica da Fatec São Caetano do Sul - Antonio Russo: 1 . Implementar 
+**cursos** na modalidade EaD no âmbito institucional; 2 . Considerar os 
+**conhecimentos** teóricos, científicos, técnicos e tecnológicos como insumos a 
+serem mobilizados pelos **alunos** e não como preocupação exclusiva da **ação** 
+docente, ao selecionar / priorizar aqueles que, efetivamente, são essenciais 
+para desencadear o processo de desenvolvimento profissional do educando. 3 . 
+Garantir que, nos **projetos** **pedagógicos** dos **cursos** oferecidos pela 
+IES haja lugar para a Iniciação Científica, a prática da Monitoria, as 
+Atividades Científico-culturais e Artísticas, os Estágios curriculares e 
+**extracurriculares** e a participação em **Projetos** de **Extensão** junto à 
+**comunidade** acadêmica e junto à **comunidade** externa. 4 . Flexibilizar os 
+currículos dos **cursos** de modo a conter pluralidade de linhas de pensamento, 
+definir conteúdos teóricos básicos e práticas profissionalizantes essenciais 
+para a constituição de competências e habilidades a serem desenvolvidas pelos 
+**alunos** , na perspectiva do " aprender a aprender " . 5 . Estabelecer 
+procedimentos para o bom andamento de estágios, TCC ' s, monografias, o 
+exercício da monitoria, da Iniciação Científica e demais atividades práticas 
+que integram o currículo dos **cursos** ; 6 . Organizar **ações** de 
+nivelamento de conteúdos que deveriam ter sido adquiridos pelos **alunos** no 
+**ensino** médio, principalmente no que tange às competências necessárias para 
+a expressão escrita em Língua Portuguesa e fundamentos de Matemática; 7 . 
+Adotar estratégias didático-pedagógicas adequadas ao fomento da capacidade 
+empreendedora do **aluno** ; 8 . Organizar um sistema de acompanhamento do 
+**aluno** egresso dos **cursos** de graduação como instrumento, não só de 
+avaliação dos resultados finais do processo de ensino-aprendizagem, mas também 
+de apoio para o prosseguimento de estudos, na perspectiva da Educação 
+Continuada; 9 . Contratar, preferencialmente, professores com titulações de 
+mestrado e doutorado para atuarem em seus **cursos** ; 10 . Valorizar a 
+experiência profissional na respectiva área de atuação, para a contratação de 
+professores; 11 . Renovar os recursos materiais, equipamentos, laboratórios e 
+biblioteca de acordo com as necessidades demonstradas nos **projetos** 
+**pedagógicos** dos **cursos** oferecidos na instituição; 12 . Atualizar, 
+sistematicamente, os **projetos** **pedagógicos** dos **cursos** de Graduação, 
+a partir das avaliações interna e externa dos mesmos; 
+
+Lemmas in this text that loaded on the factor:
+
+ação
+aluno
+comunidade
+conhecimento (secondary)
+curso
+ensino
+extensão (secondary)
+extracurricular
+pedagógico
+projeto

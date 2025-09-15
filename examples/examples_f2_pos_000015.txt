@@ -1,0 +1,44 @@
+file = fat001154
+date = 24-25
+user = r06_u217
+conversation = t000028_3_DESENVOLVIMENTO_Paragraph_26
+URL = No_URL
+
+word count = 122
+words loading = 19
+factor score = 22
+
+Os dados das três categorias investigadas juntos mostram que 37 , 06 % dos 
+**respondentes** **consideram** o eixo **Planejamento** e **Avaliação** 
+Institucional muito **bom** ou **bom** . Quando separamos cada categoria a 
+**percepção** de cada segmento é diversa, cerca de 67 % dos **docentes** 
+**avaliam** esse eixo como muito **bom** ou **bom** , esse **percentual** passa 
+a 93 % quando se trata do **corpo** técnico **administrativo** e para 26 % 
+quando se trata dos **discentes** , **destacamos** que 38 % dos **discentes** 
+não **sabem** **responder** ou não **sabe** informar sobre o **tema** . A 
+autoavaliação é um **instrumento** **capaz** de oferecer indicadores para a 
+gestão, assim como os indicadores externos como ENADE, parecer das comissões de 
+**avaliação** in loco, eles contribuem para **gerar** medidas corretivas a 
+partir do processo de **planejamento** . 
+
+Lemmas in this text that loaded on the factor:
+
+administrativo
+avaliação
+avaliar
+bom
+capaz (secondary)
+considerar
+corpo
+destacar
+discente
+docente
+gerar (secondary)
+instrumento
+percentual
+percepção
+planejamento
+respondente
+responder
+saber
+tema (secondary)

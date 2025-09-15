@@ -1,0 +1,32 @@
+file = fat002912
+date = 23
+user = r06_u137
+conversation = t000094_2_DESENVOLVIMENTO_Paragraph_10
+URL = No_URL
+
+word count = 115
+words loading = 8
+factor score = -6
+
+h ) Adotar procedimento padrão para **encaminhamento** pelos professores dos 
+**alunos** que se apresentarem dispersos, nas aulas, ao responsável pela gestão 
+de evasão e ao **coordenador** . Desde o início de 2023 todos os docentes são 
+**lembrados** de anotar e informar, por escrito aos **coordenadores** e ao 
+professor responsável pela gestão da evasão, o **nome** dos **alunos** que se 
+Apresentarem continuadamente dispersos nas aulas. O objetivo dessa ação é a 
+redução da evasão e a reprovação de **alunos** . No momento da pandemia os 
+professores foram orientados a mapear estes **alunos** e encaminhar as 
+coordenações que **entraram** em contato para analisar e auxiliar nas 
+dificuldades encontradas, assim com o atendimento **personalizado** na 
+tentativa de **dirimir** a evasão. 
+
+Lemmas in this text that loaded on the factor:
+
+aluno (secondary)
+coordenador (secondary)
+dirimir
+encaminhamento
+entrar
+lembrar
+nome
+personalizar

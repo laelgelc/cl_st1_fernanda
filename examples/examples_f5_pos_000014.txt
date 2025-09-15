@@ -1,0 +1,42 @@
+file = fat001429
+date = 23
+user = r06_u160
+conversation = t000035_3_CONSIDERAÇÕES_Paragraph_1
+URL = No_URL
+
+word count = 173
+words loading = 11
+factor score = 14
+
+Deste modo, considerando o contexto da Região do Grande ABC, bem como um rol de 
+políticas e programas de apoio – Política Nacional de Ciência, Tecnologia e 
+Inovação 2016-2019 , Plano Brasil Maior, Inova FINEP, Inovar Auto do Ministério 
+do Desenvolvimento, **Indústria** e **Comércio** **Exterior** ; Agenda 
+Tecnológica Setorial da Agência Brasileira de Desenvolvimento **Industrial** ( 
+ABDI ) , e um conjunto de12 **setores** **definidos** como estratégicos pelo 
+**estado** de São Paulo ( Investe São Paulo ) – chegou -se a um conjunto de 
+seis **áreas** que se mostram como promissoras, sobretudo, do ponto de vista de 
+sua inserção em políticas de apoio. São elas: I - Oportunidades: **Áreas** 
+Tecnológicas Estratégicas para o Ecossistema de Inovação do Grande ABC 
+Lastreado pela correlação dos levantamentos a respeito das vocações, potencias 
+e tendências, este item **destaca** os **setores** produtivo-tecnológicos – 
+compreendidos por esta consultoria – como oportunidades, ou por assim dizer, 
+**áreas** tecnológicas e de inovação estratégicas para o Ecossistema de 
+Inovação do Grande ABC. Estas oportunidades são representadas por seis 
+**áreas** : automobilística; **química** petroquímica; complexo **industrial** 
+da **saúde** ; tecnologia da informação e comunicação; materiais avançados e 
+**indústria** 4 . 0 . 
+
+Lemmas in this text that loaded on the factor:
+
+área
+comércio
+definir (secondary)
+destacar (secondary)
+estado
+exterior (secondary)
+indústria
+industrial
+química
+saúde
+setor

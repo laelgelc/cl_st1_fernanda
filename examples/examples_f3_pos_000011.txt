@@ -1,0 +1,48 @@
+file = fat002006
+date = 24
+user = r06_u204
+conversation = t000057_1_ANÁLISE_DO_CENÁRIO_Paragraph_15
+URL = No_URL
+
+word count = 109
+words loading = 22
+factor score = 31
+
+PALESTRAS BIMESTRAIS SOBRE **TEMAS** RELEVANTES PARA FORMAÇÃO AMS NA ETEC 
+HELIÓPOLIS - cat 1 . 06 - **Ações** **pedagógicas** : visitas técnicas, 
+**projetos** **integradores** / **interdisciplinares** , dias de **campo** , 
+**feira** das **profissões** , **cursos** **extracurriculares** para **alunos** 
+. O que será **feito** : Organização de palestras bimestrais sobre **temas** de 
+interesse para a formação AMS-DS com **apresentação** das oportunidades 
+profissionais associadas aos **temas** , discussão de comportamentos e atitudes 
+esperadas dos profissionais atuando e funcionamento das tecnologias utilizadas. 
+Por que será **feito** : Ampliar a compreensão dos **alunos** sobre a formação 
+AMS-DS, enfatizando sua relevância alinhada às novas tendências educacionais 
+**Situação** **problema** : **Metodologia** de **ensino** , **desempenho** de 
+**alunos** , **evasão** ( a ser **resolvida** / **mitigada** ) **Metodologia** 
+de **ensino** , **desempenho** de **alunos** , **evasão** 
+
+Lemmas in this text that loaded on the factor:
+
+ação
+aluno
+apresentação (secondary)
+campo
+curso
+desempenho
+ensino
+evasão
+extracurricular
+fazer
+feira
+integrador
+interdisciplinar
+metodologia
+mitigar
+pedagógico
+problema
+profissão
+projeto
+resolver
+situação
+tema

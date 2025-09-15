@@ -1,0 +1,19 @@
+file = fat003148
+date = 24
+user = r06_u217
+conversation = t000107_2_CONSIDERAÇÕES_Paragraph_7
+URL = No_URL
+
+word count = 47
+words loading = 2
+factor score = -4
+
+A equipe da biblioteca realizou as oficinas sobre a elaboração de referências 
+**bibliográficas** de acordo com a norma ABNT NBR 6023 / 2018e **citações** 
+diretas, indiretas e **citação** de **citação** de acordo com a norma ABNT NBR 
+10520 / 2023 e fez a recepção dos veteranos e ingressantes. 
+
+Lemmas in this text that loaded on the factor:
+
+bibliográfico
+citação

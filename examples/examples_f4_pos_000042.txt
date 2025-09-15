@@ -1,0 +1,24 @@
+file = fat003199
+date = 23-24
+user = r06_u129
+conversation = t000109_4_CONSIDERAÇÕES_GERAIS_Paragraph_5
+URL = No_URL
+
+word count = 73
+words loading = 4
+factor score = 4
+
+Desta forma nota -se que para o CST em Comércio Exterior em **questão** na 
+unidade Fatec Praia **Grande** , as ações a serem executadas passam desde uma 
+atualização ( ou reestruturação ) **curricular** do curso em **questão** até o 
+**maior** envolvimento do corpo docente no planejamento e preparação preventiva 
+dos alunos para **prova** . Sendo assim, as ações popostas pela coordenação e 
+por toda comunidade acadêmica envolvida no referido curso são plausíveis e 
+adequadas para gestão e implementação. 
+
+Lemmas in this text that loaded on the factor:
+
+curricular
+grande (secondary)
+prova
+questão

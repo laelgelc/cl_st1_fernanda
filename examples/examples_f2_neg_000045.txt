@@ -1,0 +1,25 @@
+file = fat001915
+date = 24
+user = r06_u129
+conversation = t000053_1_ANÁLISE_DO_CENÁRIO_Paragraph_33
+URL = No_URL
+
+word count = 106
+words loading = 3
+factor score = -1
+
+O que será feito: Projeto de Pesquisa sobre uso de **plantas** na 
+descontaminação da água, por meio de experimentos em laboratório de Química, 
+com foco na qualidade ambiental da Cidade de Praia Grande. Por que será feito: 
+Para o desenvolvimento de estudos sobre sustentabilidade com foco no uso 
+adequado da água em córregos e praias, a partir das experiências dos alunos de 
+Processos Químicos em disciplinas com conteúdo sobre meio ambiente e em 
+cooperação com a Secretaria do Meio Ambiente da Praia Grande. Situação 
+problema: Metodologia de ensino, **desempenho** de alunos, **evasão** ( a ser 
+resolvida / mitigada ) Gestão da unidade de ensino e dos cursos ( indicadores ) 
+
+Lemmas in this text that loaded on the factor:
+
+desempenho (secondary)
+evasão (secondary)
+planta

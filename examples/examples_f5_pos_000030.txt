@@ -1,0 +1,33 @@
+file = fat001491
+date = 23
+user = r06_u204
+conversation = t000037_1_INTRODUÇÃO_Paragraph_18
+URL = No_URL
+
+word count = 133
+words loading = 8
+factor score = 12
+
+O mercado de eventos é caracterizado por uma rede de relacionamentos 
+institucionais e operacionais tendo como principais atores: Governo, **Setor** 
+Privado, **Empresas** Organizadoras de Eventos, Promotores de eventos, Centros 
+e Espaços para Eventos, Agência de Turismo, Convention & Visitors Bureaux ( 
+CVBx ) . De acordo com o Sebrae ( 2021 ) , o país **possui** mais de 147 . 000 
+**empresas** ativas no **setor** . São Paulo é o **estado** com **maior** 
+**número** de **empresas** relacionadas a eventos, concentrando 37 % do total. 
+Mesmo com a pandemia do covid-19 e o forte impacto ocasionado pela mesma, o 
+**setor** realizou um total de 2 . 441 feiras no país em 2020 . Elas 
+aconteceram em 319 **cidades** e abrangeram 37 segmentos **econômicos** , de 
+acordo com o portal Feiras do Brasil, especializado em eventos empresariais. 
+Desses, 75 , 5 % aconteceram no formato online e 24 , 5 % presenciais. 
+
+Lemmas in this text that loaded on the factor:
+
+cidade
+econômico
+empresa
+estado
+grande
+número
+possuir
+setor

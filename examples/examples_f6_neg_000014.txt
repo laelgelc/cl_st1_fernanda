@@ -1,0 +1,24 @@
+file = fat001434
+date = 23
+user = r06_u160
+conversation = t000035_3_CONSIDERAÇÕES_Paragraph_6
+URL = No_URL
+
+word count = 99
+words loading = 1
+factor score = -1
+
+3 . **Complexo** Industrial da Saúde – A Região do Grande ABC constitui um 
+importante polo de atendimento à saúde. Em adição a esta competência, 
+constatouse nos levantamentos e entrevistas realizados, a presença de estudos 
+importantes no campo da neurociência, doenças negligenciadas e engenharia 
+biomédica, esta última, com um mais avançado nível de cooperação entre empresas 
+e universidades. Importante salientar que a região detém importantes 
+competências na fabricação de equipamentos, algo que se mostra aderente do 
+ponto de vista da existência de competências para a atração de investimentos na 
+área da fabricação de equipamentos e materiais médicos, hospitalares, 
+odontológicos e de diagnóstico. 
+
+Lemmas in this text that loaded on the factor:
+
+complexo

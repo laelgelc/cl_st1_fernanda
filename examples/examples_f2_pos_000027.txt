@@ -1,0 +1,43 @@
+file = fat000075
+date = 22-23
+user = r06_u129
+conversation = t000003_3_DESENVOLVIMENTO_Paragraph_3
+URL = No_URL
+
+word count = 170
+words loading = 15
+factor score = 21
+
+Inicialmente, cumpre reconhecer que a declaração de **MISSÃO** da Instituição é 
+desconhecida por **boa** parte dos alunos. Em pesquisa WEBSAI de 2022 , cerca 
+de 45 % dos alunos não **sabiam** do que se tratava. Ao indicar a **missão** na 
+**questão** proposta, os alunos puderam então **avaliar** se a FATEC Praia 
+Grande estaria cumprindo e o **resultado** foi animador, pois uma parte 
+significativa dos alunado reconhece que a **missão** vem sendo cumprida. A CPA 
+propõe investigar o **percentual** de cerca de 12 % de alunos que entendem que 
+a **missão** da instituição não vem sendo cumprida a fim de compreender a 
+**percepção** do **corpo** **discente** . **Sugere** -se, também, que no início 
+de cada semestre letivo, junto com a **apresentação** dos Planos de Ensino, a 
+**missão** e outros elementos importantes sejam levados ao **conhecimento** dos 
+alunos, tornando -se uma prática. **Considerando** o alto **percentual** de 
+alunos que não conhece o regimento, **sugere** -se que seja publicado no site 
+**institucional** da FATEC Praia Grande, além de também ser objeto de 
+**apresentação** nas aulas inaugurais no início de cada semestre letivo. 
+
+Lemmas in this text that loaded on the factor:
+
+apresentação
+avaliar
+bom
+conhecimento
+considerar
+corpo
+discente
+institucional
+missão
+percentual
+percepção
+questão (secondary)
+resultado
+saber
+sugerir

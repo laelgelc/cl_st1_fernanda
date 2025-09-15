@@ -1,0 +1,26 @@
+file = fat003189
+date = 23-24
+user = r06_u129
+conversation = t000109_3_COMENTÁRIOS_E_ESCLARECIMENTOS_ADCIONAIS_Paragraph_6
+URL = No_URL
+
+word count = 134
+words loading = 1
+factor score = -1
+
+Em relação ao domínio dos conteúdos pelos professores, a maioria dos estudantes 
+concorda que os professores demonstram domínio dos conteúdos abordados nas 
+disciplinas, sendo 59 , 7 % concordando totalmente e 22 , 6 % concordando. Isso 
+reflete a qualidade do corpo docente do curso. Por fim, em relação ao suporte 
+acadêmico oferecido pelo curso, a maioria dos estudantes concorda que o curso 
+disponibilizou monitores ou tutores para auxiliar os estudantes, sendo 54 , 2 % 
+concordando totalmente e 16 , 9 % concordando. Esses resultados indicam que, de 
+modo geral, os estudantes têm uma percepção positiva em relação ao curso, 
+reconhecendo sua contribuição para sua formação integral, **ética** 
+profissional, qualidade do ensino e suporte acadêmico. No entanto, também 
+apontam áreas em que o curso pode melhorar, como na articulação entre teoria e 
+prática e na disponibilização de monitores ou tutores. 
+
+Lemmas in this text that loaded on the factor:
+
+ética

@@ -1,0 +1,45 @@
+file = fat001972
+date = 24
+user = r06_u168
+conversation = t000056_1_ANÁLISE_DO_CENÁRIO_Paragraph_24
+URL = No_URL
+
+word count = 100
+words loading = 21
+factor score = 24
+
+**Ações** **pedagógicas** : visitas técnicas, **projetos** **integradores** / 
+**interdisciplinares** , dias de **campo** , **feira** das **profissões** , 
+**cursos** **extracurriculares** para **alunos** . O que será **feito** : 1 ) 
+Abertura de edital para estagiários – publicação do edital 2 ) **Seleção** e 
+reunião com estagiários 3 ) Elaboração de cronograma – material de divulgação e 
+datas das postagens. 4 ) Coordenação do **projeto** Por que será **feito** : 
+Para fornecer conteúdos atualizados sobre eventos, testes internacionais, 
+**bolsas** de estudo, oportunidades de trabalho no **exterior** , notícias; 
+assim como divulgar o vestibular da Fatec São Caetano do Sul **Situação** 
+**problema** : Comunicação com a **comunidade** acadêmica ( a ser **resolvida** 
+/ **mitigada** ) Participação da **comunidade** e **sociedade** 
+
+Lemmas in this text that loaded on the factor:
+
+ação
+aluno
+bolsa
+campo
+comunidade
+curso
+exterior
+extracurricular
+fazer
+feira
+integrador
+interdisciplinar
+mitigar
+pedagógico
+problema
+profissão
+projeto
+resolver
+seleção
+situação
+sociedade

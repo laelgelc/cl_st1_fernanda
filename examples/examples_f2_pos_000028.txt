@@ -1,0 +1,36 @@
+file = fat003242
+date = 23-24
+user = r06_u270
+conversation = t000112_3_COMENTÁRIOS_E_ESCLARECIMENTOS_ADICIONAIS_Paragraph_1
+URL = No_URL
+
+word count = 172
+words loading = 6
+factor score = 20
+
+Comentários e Esclarecimentos Adicionais quanto às respostas dos alunos ao 
+Questionário de **Percepção** da Prova: Após análise minuciosa dos microdados, 
+podemos concluir que: ✓ Do total de **respondentes** , 48 % **responderam** que 
+o grau de dificuldade nas perguntas de formação geral, foi difícil e 43 % 
+**responderam** médio. O número de erros nestas **questões** foi expressivo. ✓ 
+Do total de **respondentes** , 61 % **responderam** que o grau de dificuldade 
+nas perguntas de formação específicas, foi médio. ✓ Do total de 
+**respondentes** , 19 % **responderam** que poucos enunciados foram claros e 
+objetivos; somado a estes, **temos** 30 % que **responderam** que nenhum dos 
+enunciados foram claros e objetivos nas **questões** de formação geral. ✓ Do 
+total de **respondentes** , 76 % **responderam** que poucos enunciados se 
+apresentaram claros e objetivos; somado a estes, **temos** 11 % que 
+**responderam** que nenhum dos enunciados se apresentaram claros e objetivos 
+nas **questões** de formação específica. ✓ Do total de **respondentes** , 59 % 
+**responderam** que **tiveram** dificuldade ( **forma** diferente de abordagem 
+do conteúdo ) nas **questões** da prova. ✓ Do total de **respondentes** , 48 % 
+**responderam** que estudaram os conteúdos, mas não aprenderam. 
+
+Lemmas in this text that loaded on the factor:
+
+forma
+percepção
+questão (secondary)
+respondente
+responder
+ter

@@ -1,0 +1,47 @@
+file = fat001648
+date = 23
+user = r06_u129
+conversation = t000043_1_ANÁLISE_DO_CENÁRIO_Paragraph_12
+URL = No_URL
+
+word count = 244
+words loading = 12
+factor score = 18
+
+ESTUDO PRELIMINAR DE IMPLANTAÇÃO DE CURSO AMS EM PROCESSO **QUÍMICOS** O que 
+será feito: Estudo sobre a viabilidade de implantação do Curso de Processos 
+**Químicos** modalidade AMS ( Matutino ) . Por que será feito: A **cidade** de 
+Praia Grande **possui** uma ETEC que oferece Ensino Médio com Habilitação 
+**Profissional** para Técnico em **Química** ( M-Tec ) e uma Fatec que oferece 
+o curso superior de Tecnologia em Processos **Químicos** . A modalidade AMS 
+permite que em um período de cinco **anos** , o estudante conclua o ensino 
+médio, técnico e superior. A **região** também **possui** um pólo petroquímico 
+contando com **empresas** de vários segmentos. Com essa modalidade sendo 
+implantada no período matutino, poderemos atender uma parcela dos estudantes da 
+**região** permitindo que estes possam passar por diferentes níveis de ensino 
+em uma única instituição, a fim de que possam chegar ao mercado de trabalho 
+qualificados em um tempo mais curto. O conceito por trás dessa proposta visa 
+atender dois segmentos diferentes de estudantes: o curso em AMS atenderia no 
+matutino e o curso de Processos **Químicos** atual ( em 3 **anos** ) , no 
+noturno, continuaria atendendo a **demanda** existente de alunos que já 
+cursaram o Ensino Médio ou que fizeram outra graduação. Objetivo ( s ) 
+relacionado ( s ) : Ampliar o **número** de cursos da FATEC-PG, bem como 
+ampliar a oferta de cursos de Graduação no **município** , buscando atender o 
+mercado e contribuir para a educação **profissional** da **região** . Meta ( s 
+) relacionada ( s ) : Apresentar proposta de implantação de novos cursos AMS: 
+01 curso na **área** **Química** . 
+
+Lemmas in this text that loaded on the factor:
+
+ano
+área
+cidade
+demanda (secondary)
+empresa
+município
+número
+possuir
+profissional (secondary)
+química
+químico
+região

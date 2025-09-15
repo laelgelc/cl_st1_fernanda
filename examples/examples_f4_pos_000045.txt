@@ -1,0 +1,39 @@
+file = fat002787
+date = 22
+user = r06_u168
+conversation = t000086_2_DESENVOLVIMENTO_Paragraph_40
+URL = No_URL
+
+word count = 259
+words loading = 4
+factor score = 4
+
+Parcerias - Em março de 2022 , aconteceu reunião de para uma **maior** sinergia 
+entre a Fatec São Caetano do Sul - Antônio Russo, Coalizão **digital** do ABC, 
+parque tecnológico SA, ABC Valley e o SEBRAE. - SAMU: curso de treinamento para 
+funcionários ( 19 / 04 / 2022 ) . Estamos em andamento com convênio com a 
+Secretaria Municipal de Saúde para projetos com o SAMU. - Receita Federal: 
+assinatura de convênio para implantação do NAF ( Núcleo de Atendimento 
+Financeiro ) que terá a participação dos alunos de Comércio Exterior. - NUBE: 
+Ação presencial para cadastramento de vagas ( 09 / 06 / 2022 ) - Conexão 
+Brasil-França: encontro online com a universidade francesa Université Grenoble 
+Alpes sobre pesquisa acadêmica com o uso de Jogos **Digitais** . - Toeic: 
+Aplicação do exame por professores credenciados, oferecido aos alunos de 5º e 
+6º semestres de todos os cursos. - Visita Técnica à Wilson Sons, Logística: As 
+visitas técnicas realizadas com os estudantes de 2º a 6º semestre do curso de 
+Comércio Exterior da FATEC São Caetano do Sul – Antonio Russo ao Centro de 
+Distribuição ( CD ) da Wilson, Sons Logística, nos dias 11 de agosto, e 8 e 9 
+de setembro de 2022 , os estudantes puderam verificar na prática não só a 
+integração das disciplinas de Logística Aplicada, Logística Internacional e 
+Modais de Transporte e Seguro de **Carga** , como também as demais disciplinas 
+do curso que tratam de **questões** estratégicas e legais voltadas ao comércio 
+exterior. - Visita Técnica ao evento Movimat / FENATRAN: No dia 8 de novembro 
+de 2022 , foi realizada uma visita técnica ao evento Movimant / FENATRAN com 
+alunos do 3º . e 6º semestres do curso de Comércio Exterior. 
+
+Lemmas in this text that loaded on the factor:
+
+carga
+digital
+grande (secondary)
+questão

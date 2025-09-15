@@ -1,0 +1,26 @@
+file = fat002923
+date = 23
+user = r06_u137
+conversation = t000094_2_DESENVOLVIMENTO_Paragraph_24
+URL = No_URL
+
+word count = 101
+words loading = 3
+factor score = -2
+
+Biblioteca: a ) Acervo geral: ( a ) livros: 2688 livros e 10347 exemplares, ( b 
+) periódicos: 462 títulos e 1962 exemplares, ( c ) trabalhos de conclusão de 
+curso: 1258 títulos e exemplares, ( d ) dissertações / teses: 7 títulos e 
+exemplares. b ) Infraestrutura: cadeiras de plástico foram trocadas por 
+estofadas, a biblioteca recebeu **desktops** mais avançados para uso dos 
+**alunos** , foram instaladas novas mesas na sala de estudo e fixada um 
+**televisor** de 65 " na biblioteca para uso dos **alunos** nas capacitações 
+que ocorrem no local. c ) Recursos humanos: foram alocadas duas funcionárias na 
+biblioteca para melhor cobertura de atendimento ao público da comunidade 
+acadêmica local. 
+
+Lemmas in this text that loaded on the factor:
+
+aluno (secondary)
+desktops
+televisor
