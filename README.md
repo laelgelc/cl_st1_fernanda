@@ -1,10 +1,10 @@
-# cl_st1_fernanda
+# Corpus Linguistics - Study 1 - Fernanda
 
-## Corpus Linguistics - Study 1 - Proof of Concept 1 - Fernanda
+## Proof of Concept 1
 
 - Examine a data sample;
 - Suggest metadata organisation.
 
-## Corpus Linguistics - Study 1 - Phase 1 - Fernanda
+## Phase 1
 
 - Extract data for a pilot Lexical Multi-Dimensional Analysis.
