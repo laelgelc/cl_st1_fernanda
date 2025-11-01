@@ -1,0 +1,53 @@
+file = fat002078
+date = 24
+user = r06_u270
+conversation = t000059_1_ANÁLISE_DO_CENÁRIO_Paragraph_36
+URL = No_URL
+
+word count = 187
+words loading = 20
+factor score = 17
+
+**Projetos** com **empresas** e / ou demais parceiros O que será **feito** : 
+**Projeto** Escritório de Comex ( Comércio **Exterior** ) – fase 1 - Utilização 
+de operações simuladas de Comércio **Exterior** , fornecidas por **empresas** 
+da região, como temas para os trabalhos das **disciplinas** técnicas, dos 
+**Projetos** **Integradores** e dos Trabalho de Conclusão de **Curso** ( TCCs ) 
+do CST de Comércio **Exterior** , sempre obedecendo à **metodologia** de 
+pesquisa das **disciplinas** . O **projeto** funcionará da seguinte maneira: as 
+**empresas** contribuem com a relação de operações de Comex, disponibilizando 
+sua infraestrutura para levantamento de informações e testes em sistemas 
+operativos, bem como funcionários que acompanham o grupo no desenvolvimento do 
+trabalho. Os **alunos** recebem suporte e orientação dos professores relativos 
+a **áreas** específicas de **conhecimento** necessárias, desenvolvendo e 
+apresentando o trabalho com sugestões de solução dentro dos limites dos 
+sistemas informáticos e legais. Por que será **feito** : Para estimular e 
+consolidar parcerias ( internas e externas ) , sinergia e a inovação 
+tecnológica; para promover aplicação da tecnologia e estimular a criatividade 
+para o desenvolvimento de competências humanas e organizacionais **Situação** 
+**problema** : **Metodologia** de **ensino** , **desempenho** de **alunos** , 
+**evasão** ( a ser **resolvida** / **mitigada** ) Participação da 
+**comunidade** e **sociedade** 
+
+Lemmas in this text that loaded on the factor:
+
+aluno
+comunidade
+conhecimento (secondary)
+curso
+desempenho
+disciplina
+empresa
+ensino
+evasão
+exterior (secondary)
+fazer
+integrador
+metodologia
+mitigar
+problema
+projeto
+resolver
+situação
+sociedade
+área (secondary)

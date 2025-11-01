@@ -1,0 +1,49 @@
+file = fat001612
+date = 23
+user = r06_u113
+conversation = t000041_1_ANÁLISE_DO_CENÁRIO_Paragraph_1
+URL = No_URL
+
+word count = 140
+words loading = 21
+factor score = 16
+
+PLANO DE GESTÃO **ANUAL** – **PGA** A Fatec Mauá **possui** a crença no 
+**planejamento** como **instrumento** de gestão. Dado que, por meio da 
+avaliação temos condições de reunir indicadores capazes de **suscitar** 
+análises e **discussões** **possibilitando** **definir** planos de 
+**melhorias** de **forma** **continuada** . Isto posto, o Plano de Gestão 
+**Anual** para o **ano** de 2023 , apresenta **ações** / projetos em 
+consonância com o Plano de **Metas** da CESU ( **Unidade** de Ensino Superior 
+de Graduação ) do CPS ( Centro Paula Souza ) , não mantendo distância dos 
+demais departamentos da autarquia, com vistas em melhorar a **infraestrutura** 
+da **unidade** escolar, bem como os recursos didático-pedagógicos 
+disponibilizados nos múltiplos ambientes de ensino-aprendizagem. Na **unidade** 
+escolar são ofertados sete cursos superiores de tecnologia, nos eixos de Gestão 
+e Processos Industriais, tanto no período **matutino** quanto **noturno** . A 
+equipe é composta de 12 técnico-administrativos, 118 docentes e 1648 estudantes 
+regularmente matriculados. 
+
+Lemmas in this text that loaded on the factor:
+
+administrativo (secondary)
+ano
+anual
+ação (secondary)
+continuar
+definir
+discussão
+forma (secondary)
+infraestrutura
+instrumento
+matutino
+melhoria
+meta (secondary)
+noturno
+pedagógico
+pga
+planejamento (secondary)
+possibilitar
+possuir
+suscitar
+unidade

@@ -1,0 +1,23 @@
+file = fat000594
+date = 23-24
+user = r06_u129
+conversation = t000013_3_DESENVOLVIMENTO_Paragraph_16
+URL = No_URL
+
+word count = 60
+words loading = 4
+factor score = 3
+
+Além dessa explanação, a Instituição oferece monitoria desenvolvida pelos 
+alunos que se destacam nos **componentes** **curriculares** . Eles possuem sala 
+própria para atendimento aos colegas a partir de agendamento. Eventos de 
+recuperação e revisão dos conteúdos estudados são realizados pelos docentes, o 
+que é percebido pelos alunos, como se observa no **número** significativo de 
+alunos que responderam positivamente à **questão** . 
+
+Lemmas in this text that loaded on the factor:
+
+componente
+curricular
+número
+questão (secondary)

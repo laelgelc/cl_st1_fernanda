@@ -1,0 +1,22 @@
+file = fat001703
+date = 23
+user = r06_u160
+conversation = t000045_1_ANÁLISE_DO_CENÁRIO_Paragraph_20
+URL = No_URL
+
+word count = 89
+words loading = 1
+factor score = -1
+
+Desenvolvimento de Sistema de Segurança para Veículo Autônomo em Aplicação 
+Agrícola. O que será feito: Desenvolvimento de um caminhão autônomo nível SAE-3 
+para colheita de cana de açúcar Por que será feito: Projeto de Pesquisa 
+**aplicada** financiada pela FUNDEP e em parceria com a UFABC, POLI-USP, 
+Mercedes Benz, Bosch e Grunner. Objetivo ( s ) relacionado ( s ) : Pesquisa de 
+desenvolvimento com capacidade de ter um produto em nível TRL-8 Desenvolver 
+ambiente de pesquisa aplicada e aumentar a visibilidade da unidade perante os 
+players comercias de maneira a aumentar a empregabilidade dos nossos alunos 
+
+Lemmas in this text that loaded on the factor:
+
+aplicado

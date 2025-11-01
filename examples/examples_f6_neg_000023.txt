@@ -1,0 +1,24 @@
+file = fat001023
+date = 24-25
+user = r06_u168
+conversation = t000026_4_DESENVOLVIMENTO_Paragraph_4
+URL = No_URL
+
+word count = 100
+words loading = 1
+factor score = -1
+
+Participação da comunidade acadêmica, divulgação e análise dos resultados. A 
+Fatec São Caetano do Sul - Antonio Russo realiza a avaliação institucional, nos 
+moldes previstos no SINAES desde 2016 , envolvendo colaboradores 
+técnico-administrativo, corpo docente e discente. Como já mencionado, o 
+processo consiste em realizar a avaliação anualmente, tendo como meta 
+primordial a participação da totalidade de dos discentes, docentes, gestores e 
+colaboradores. Cabe **lembrar** que os documentos produzidos pela CPA, visam 
+ser instrumentos de consultas na construção de outros mecanismos institucionais 
+como PDI, PPI e regulamentos que nortearão as atividades da Fatec São Caetano 
+do Sul – Antonio Russo nos anos vindouros. 
+
+Lemmas in this text that loaded on the factor:
+
+lembrar

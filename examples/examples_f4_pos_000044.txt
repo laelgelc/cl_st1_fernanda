@@ -1,0 +1,42 @@
+file = fat001007
+date = 24-25
+user = r06_u160
+conversation = t000025_3_DESENVOLVIMENTO_Paragraph_8
+URL = No_URL
+
+word count = 168
+words loading = 11
+factor score = 10
+
+Ações Futuras **Sugeridas** o Aprimorar a Comunicação sobre Critérios de 
+Bonificação e Progressão: Aumentar a transparência e a divulgação dos 
+indicadores utilizados para a progressão e bonificação dos funcionários, 
+explicando de **forma** acessível como esses processos ocorrem e quais são os 
+critérios adotados. o Fortalecer a Capacitação e Desenvolvimento Profissional: 
+**Considerando** que as capacitações oferecidas pelo CPS foram bem 
+**avaliadas** , é recomendável continuar investindo em oportunidades de 
+formação, além de promover ainda mais essas capacitações para que todos tenham 
+pleno **conhecimento** das possibilidades de desenvolvimento profissional. o 
+Divulgação sobre Investimentos: Elaborar a divulgação de informações sobre os 
+investimentos **realizados** na Fatec, incluindo detalhes sobre as áreas 
+beneficiadas, os objetivos e os impactos esperados, para aumentar a compreensão 
+e engajamento dos respondentes sobre os aspectos financeiros. o 
+**Esclarecimento** sobre a Atuação dos Representantes **Institucionais** : 
+Reforçar a comunicação sobre o papel e as responsabilidades dos representantes 
+**discentes** , **docentes** e técnico-administrativos em comissões e 
+colegiados, como a CPA e o NDE, facilitando a compreensão dos processos e das 
+contribuições desses representantes. 
+
+Lemmas in this text that loaded on the factor:
+
+administrativo
+avaliar
+conhecimento
+considerar
+discente
+docente
+esclarecimento (secondary)
+forma
+institucional
+realizar
+sugerir

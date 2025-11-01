@@ -1,0 +1,18 @@
+file = fat003232
+date = 23-24
+user = r06_u168
+conversation = t000111_3_QUESTÕES_COMPLEMENTARES_Paragraph_5
+URL = No_URL
+
+word count = 34
+words loading = 2
+factor score = -2
+
+Cumpre considerar que no geral, a **faixa** de renda entre 1 , 5 e 3 **SM** 
+compõe o perfil socioeconômico majoritário dos estudantes de COMEX da FATEC, 
+dado que é superior à média Brasil. 
+
+Lemmas in this text that loaded on the factor:
+
+faixa
+sm

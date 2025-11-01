@@ -1,0 +1,18 @@
+file = fat002586
+date = 22
+user = r06_u005
+conversation = t000080_2_DESENVOLVIMENTO_Paragraph_9
+URL = No_URL
+
+word count = 36
+words loading = 1
+factor score = -1
+
+Preparar as instalações físicas. Em 2021 continuamos com dificuldades em 
+utilizar as instalações físicas, principalmente com relação ao ar-condicionado 
+central. O prédio não possui ventilação natural condição que potencializa nossa 
+preocupação com o COVID-19 e suas variantes. 
+
+Lemmas in this text that loaded on the factor:
+
+condicionado

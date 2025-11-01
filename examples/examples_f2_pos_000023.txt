@@ -1,0 +1,50 @@
+file = fat002197
+date = 25
+user = r06_u168
+conversation = t000066_1_ANÁLISE_DO_CENÁRIO_Paragraph_14
+URL = No_URL
+
+word count = 80
+words loading = 26
+factor score = 21
+
+Ações **pedagógicas** : **visitas** técnicas, **projetos** **integradores** / 
+**interdisciplinares** , **dias** de **campo** , **feira** das **profissões** , 
+**cursos** **extracurriculares** para **alunos** . **Estudo** para aquisição de 
+assinaturas do Siscomex, treinamento docente e **discente** para 
+**conhecimento** da ferramenta, e uso do software em **disciplinas** 
+profissionalizantes do **curso** . Por que será **feito** : Para 
+impulsionamento de atividades práticas no **curso** de Comércio **Exterior** , 
+através do uso de simulador do Siscomex em **disciplinas** profissionalizantes 
+do **curso** . situação-problema: **Metodologia** de **ensino** , 
+**desempenho** de **alunos** , **evasão** Participação da **comunidade** e 
+**sociedade** 
+
+Lemmas in this text that loaded on the factor:
+
+aluno
+campo
+comunidade
+conhecimento (secondary)
+curso
+desempenho
+dia
+discente (secondary)
+disciplina
+ensino
+estudo (secondary)
+evasão
+exterior (secondary)
+extracurricular
+fazer
+feira
+integrador
+interdisciplinar
+metodologia
+pedagógico (secondary)
+problema
+profissão
+projeto
+situação
+sociedade
+visita

@@ -1,0 +1,22 @@
+file = fat000758
+date = 23-24
+user = r06_u204
+conversation = t000017_3_DESENVOLVIMENTO_Paragraph_25
+URL = No_URL
+
+word count = 74
+words loading = 2
+factor score = -2
+
+As Resoluções, Normas, Legislação, Planos de Gestão são disponibilizados no 
+site. Já os planos de ensino, planos de **aula** e calendários são apresentados 
+pelos professores e disponibilizados no SIGA. Ou seja, algumas dessas 
+informações são apresentadas de forma passiva e outra de forma ativa. Além 
+disso, a divulgação e disponibilização são feitas por atores diferentes e em 
+momentos diferentes. Diante do exposto, os resultados desta questão se 
+transformarão em diferentes **ações** de divulgação. 
+
+Lemmas in this text that loaded on the factor:
+
+aula
+ação

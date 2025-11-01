@@ -1,0 +1,21 @@
+file = fat003110
+date = 24
+user = r06_u137
+conversation = t000103_2_CONSIDERAÇÕES_Paragraph_17
+URL = No_URL
+
+word count = 41
+words loading = 3
+factor score = -2
+
+Bens e Serviços: Conforme solicitado no PDI – Plano de Desenvolvimento 
+Institucional a FATEC-Zona Sul recebeu os equipamentos solicitados, além de 
+novos computadores, impressoras e equipamentos como **televisores** , 
+computadores de mesa, **notebooks** e periféricos para melhoria dos 
+**serviços** prestados à comunidade acadêmica. 
+
+Lemmas in this text that loaded on the factor:
+
+notebook
+serviço (secondary)
+televisor

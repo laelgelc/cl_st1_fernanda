@@ -1,0 +1,20 @@
+file = fat003223
+date = 23-24
+user = r06_u168
+conversation = t000111_1_FORMAÇÃO_GERAL_Paragraph_2
+URL = No_URL
+
+word count = 35
+words loading = 3
+factor score = 2
+
+As dificuldades enfrentadas pelos discentes propiciam uma reflexão sobre a 
+necessidade de ampliação da leitura e **interpretação** de **textos** dos 
+alunos com a inserção de atividades que contemplem **discussões** sobre o tema 
+e interdisciplinaridade. 
+
+Lemmas in this text that loaded on the factor:
+
+discussão (secondary)
+interpretação
+texto

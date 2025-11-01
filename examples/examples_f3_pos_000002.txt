@@ -1,0 +1,42 @@
+file = fat001536
+date = 23
+user = r06_u217
+conversation = t000038_1_INTRODUÇÃO_Paragraph_5
+URL = No_URL
+
+word count = 163
+words loading = 15
+factor score = 13
+
+O PIB per capita é de R$ 30 . 332 , 87 . Por não **possuir** **habitantes** na 
+zona rural, a **economia** de **Diadema** **possui** pouca relevância no 
+**setor** primário e apenas R$ 355 mil do PIB total destinam -se a atividades 
+primárias. No **setor** **secundário** , **Diadema** é um dos **grandes** e 
+importantes centros **industriais** do **estado** de São Paulo. A 
+industrialização começou na década de 1950 , ainda quando **distrito** de São 
+Bernardo do Campo, o que motivou o desejo de emancipação do **distrito** e a 
+consequente criação do **município** . É um **grande** polo **industrial** de 
+autopeças e cosméticos, além da **grande** expansão das **indústrias** de 
+borracha, de material de transporte, metalúrgica e **química** . Em 2011 o 
+Produto Interno Bruto municipal do **setor** **secundário** era de R$ 4 . 554 . 
+841 mil reais. Já o PIB do **setor** **terciário** era de R$ 5 . 365 . 070 mil. 
+A taxa de atividade da **população** acima dos dezoito anos era de 71 , 53 % e 
+a de desocupação era de 8 , 96 % . 
+
+Lemmas in this text that loaded on the factor:
+
+diadema
+distrito
+economia
+estado
+grande
+habitante
+industrial
+indústria
+município
+população
+possuir (secondary)
+química (secondary)
+secundário
+setor
+terciário

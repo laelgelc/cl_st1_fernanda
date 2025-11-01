@@ -1,0 +1,20 @@
+file = fat003046
+date = 24
+user = r06_u113
+conversation = t000101_2_DESENVOLVIMENTO_Paragraph_3
+URL = No_URL
+
+word count = 26
+words loading = 4
+factor score = -2
+
+**APONTAMENTO** DE SITUAÇÕES-PROBLEMA MAIS RELEVANTES 1 Metodologia de ensino, 
+desempenho de alunos, **evasão** 2 Infraestrutura **laboratorial** e ambientes 
+de ensino 3 Participação da comunidade e sociedade 
+
+Lemmas in this text that loaded on the factor:
+
+apontamento (secondary)
+evasão (secondary)
+laboratorial
+situações

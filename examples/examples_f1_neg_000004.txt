@@ -1,0 +1,24 @@
+file = fat000680
+date = 23-24
+user = r06_u137
+conversation = t000014_3_DESENVOLVIMENTO_Paragraph_41
+URL = No_URL
+
+word count = 109
+words loading = 1
+factor score = -1
+
+Troca do mobiliário e computadores mais antigos nos laboratórios. Substituição 
+das mesas e cadeiras em sala de aula por cadeiras universitárias que ocupam 
+menos espaço. Troca de ventiladores nas salas de aula e áreas administrativas. 
+Solicitação ao Centro Paula Souza o aumento da banda de internet da FATEC Zona 
+Sul. **Pintura** , troca dos móveis e refazimento dos circuitos elétricos da 
+Secretaria Acadêmica e Biblioteca para melhorar as condições de trabalho 
+ofertadas à comunidade acadêmica da FATEC Zona Sul. Aquisição de catracas 
+eletrônicas para controle de acesso dos alunos. Instituição de um programa 
+interno de manutenção preventiva das instalações prediais. **Pintura** da área 
+externa da faculdade: prédios e muros. 
+
+Lemmas in this text that loaded on the factor:
+
+pintura

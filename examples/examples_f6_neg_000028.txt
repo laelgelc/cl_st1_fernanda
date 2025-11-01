@@ -1,0 +1,19 @@
+file = fat001382
+date = 23
+user = r06_u160
+conversation = t000035_2_DESENVOLVIMENTO_Paragraph_10
+URL = No_URL
+
+word count = 44
+words loading = 1
+factor score = -1
+
+As restrições orçamentárias impõem naturalmente limites às ações horizontais, 
+especialmente palestras e treinamentos. Delas vão participar parcelas restritas 
+deste universo, ou seja, as empresas que primeiro inscreverem os seus **nomes** 
+nos programas específicos e que tiverem o perfil exigido pela ADEGABC e o 
+SEBRAE-SP. 
+
+Lemmas in this text that loaded on the factor:
+
+nome

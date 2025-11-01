@@ -1,0 +1,25 @@
+file = fat001552
+date = 23
+user = r06_u217
+conversation = t000038_2_DESENVOLVIMENTO_Paragraph_16
+URL = No_URL
+
+word count = 120
+words loading = 1
+factor score = -1
+
+O APL de Cosméticos de Diadema e Região foi idealizado em 2002 para ampliar a 
+competitividade das empresas de cosméticos, e promover melhores condições de 
+trabalho, corroborando para o desenvolvimento das empresas e da região. 
+Instituído oficialmente por Lei Municipal, é hoje o maior polo cosmético do 
+Brasil. O apoio ao desenvolvimento industrial gerou empregos e arrecadação, 
+além de políticas sociais eficientes, ajudando o município a superar a imagem 
+de " cidade da **violência** " para ser reconhecida como a " cidade da beleza " 
+. Deste modo, o polo de cosméticos foi fundamental para resgatar a imagem da 
+cidade e a autoestima dos moradores. Também promoveu a geração de novos 
+empregos e estabeleceu um modelo de associativismo que permitiu orientar outras 
+ações locais. 
+
+Lemmas in this text that loaded on the factor:
+
+violência

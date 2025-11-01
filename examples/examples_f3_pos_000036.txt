@@ -1,0 +1,28 @@
+file = fat001361
+date = 23
+user = r06_u160
+conversation = t000035_1_INTRODUÇÃO_Paragraph_7
+URL = No_URL
+
+word count = 75
+words loading = 8
+factor score = 8
+
+O **município** foi fundado oficialmente em 8 de abril de 1553 . Com **área** 
+de 174 , 38 km² , está **localizado** no Grande ABC ( Região Metropolitana de 
+São Paulo ) , distante 18 km da Capital. A **cidade** é estratégica para o 
+**setor** logístico, pois está inserida no principal polo **econômico** do 
+país, próxima a algumas das principais **rodovias** estaduais e federais, as 
+quais dão acesso ao Porto de Santos e aos **aeroportos** de Cumbica e de 
+Congonhas. 
+
+Lemmas in this text that loaded on the factor:
+
+aeroporto
+cidade
+econômico
+localizar
+município
+rodovia
+setor
+área

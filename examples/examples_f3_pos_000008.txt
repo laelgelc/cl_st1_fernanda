@@ -1,0 +1,28 @@
+file = fat003023
+date = 23
+user = r06_u270
+conversation = t000099_2_CENÁRIO_Paragraph_3
+URL = No_URL
+
+word count = 49
+words loading = 10
+factor score = 10
+
+Neste sentido, a Fatec Cotia **localiza** -se em um dos **municípios** da 
+**Região** Metropolitana de São Paulo ( RMSP ) , uma das **maiores** e mais 
+importantes do Brasil. A **cidade** tem cerca de 250 mil **habitantes** ( IBGE, 
+2019 ) . É , ainda, **região** de peso na **economia** nacional, 
+particularmente, nos **setores** **secundário** e **terciário** . 
+
+Lemmas in this text that loaded on the factor:
+
+cidade
+economia
+grande
+habitante
+localizar
+município
+região
+secundário
+setor
+terciário

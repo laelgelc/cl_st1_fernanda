@@ -1,0 +1,47 @@
+file = fat001082
+date = 24-25
+user = r06_u168
+conversation = t000026_4_DESENVOLVIMENTO_Paragraph_87
+URL = No_URL
+
+word count = 321
+words loading = 4
+factor score = -2
+
+Normas de segurança e formas de sua operacionalização A Fatec São Caetano do 
+Sul - Antonio Russo, conta com políticas internas para utilização de seus 
+laboratórios, normas para armazenamento e descarte de lixo e normas e 
+**procedimentos** de segurança do trabalho, **procedimentos** descritos em 
+manual de fácil acesso a toda comunidade **acadêmica** . Melhorar a comunicação 
+da missão, da existência do PDI e das **ações** realizadas para o 
+desenvolvimento institucional da unidade principalmente aos discentes. Ampliar 
+a divulgação de atas e resoluções dos órgãos colegiados ( Congregação, 
+Colegiados de Curso, NDE ) com o auxílio dos representantes discentes Ampliar a 
+divulgação de atas e resoluções dos órgãos colegiados Proposta de implantação 
+do Núcleo de Apoio Fiscal ( NAF ) , em parceria com a Receita Federal do Brasil 
+( RFB ) , com vistas à atuação da Unidade junto à comunidade externa Manter as 
+boas práticas de aplicabilidade e ampla divulgação do Regimento e Regulamento. 
+Manter a ampla divulgação do calendário **acadêmico** , intensificando 
+divulgação de datas específicas. Proposta de indexação do Fasci-Tech, periódico 
+científico eletrônico da Fatec de São Caetano do Sul, nas principais bases de 
+dados Manter as boas práticas no atendimento, seja presencial ou online. 
+Encontros com a Secretaria de Educação e Secretaria de Desenvolvimento 
+Econômico de São Caetano do Sul Incluir atividades culturais e de arte na 
+programação dos eventos Proposta de implantação do Núcleo de Apoio Fiscal ( NAF 
+) , em parceria com a Receita Federal do Brasil ( RFB ) , com vistas à atuação 
+da atividades de extensão Comunicação em âmbito institucional sobre monitoria, 
+programas da Assessoria de Relacionamento Internacional ( intercâmbio e bolsas 
+) Participação dos discentes em órgãos colegiados Proposta de atualização do 
+PPC do Curso Superior de Análise e desenvolvimento de sistemas. Manter e 
+melhorar a programação da SPAP, considerando que as duas semanas ( 1º e 2º 
+semestres letivos ) tem contribuído para o planejamento e avaliação **docente** 
+. Manter as solicitações de melhorias nas interfaces tanto para discentes 
+quanto para **docentes** aos responsáveis pelo planejamento e desenvolvimento 
+do sistema **acadêmico** 
+
+Lemmas in this text that loaded on the factor:
+
+acadêmico (secondary)
+ação
+docente (secondary)
+procedimento

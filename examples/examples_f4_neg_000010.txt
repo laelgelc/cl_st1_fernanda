@@ -1,0 +1,23 @@
+file = fat001929
+date = 24
+user = r06_u137
+conversation = t000054_1_ANÁLISE_DO_CENÁRIO_Paragraph_10
+URL = No_URL
+
+word count = 63
+words loading = 4
+factor score = -2
+
+**APONTAMENTO** DE SITUAÇÕES-PROBLEMA MAIS RELEVANTES 1 Gestão da unidade de 
+ensino e dos cursos ( indicadores ) 2 Infraestrutura **laboratorial** e 
+ambientes de ensino 3 Metodologia de ensino, desempenho de alunos, **evasão** 4 
+Manutenção e conservação predial 5 Infraestrutura predial ( espaços, sistemas ) 
+6 Materiais, equipamentos e mobiliários 7 Participação da comunidade e 
+sociedade 8 Segurança pessoal e patrimonial 9 Baixa demanda dos cursos da tarde 
+
+Lemmas in this text that loaded on the factor:
+
+apontamento (secondary)
+evasão (secondary)
+laboratorial
+situações

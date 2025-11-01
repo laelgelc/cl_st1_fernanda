@@ -1,0 +1,50 @@
+file = fat001654
+date = 23
+user = r06_u129
+conversation = t000043_1_ANÁLISE_DO_CENÁRIO_Paragraph_18
+URL = No_URL
+
+word count = 191
+words loading = 17
+factor score = 16
+
+ORGANIZAR PROGRAMA DE BOLSAS MONITORIA DE DISCIPLINAS - MD. O que será feito: 
+Edital de seleção de alunos monitores de disciplinas com bolsas semestrais para 
+o curso de Análise e Desenvolvimento de Sistemas, Comércio Exterior, Gestão 
+Empresarial e Processos Químicos. Por que será feito: Para apoiar a 
+**aprendizagem** dos alunos em disciplinas de maior dificuldade, por meio dos 
+alunos monitores e orientação dos professores. **Objetivo** ( s ) 
+**relacionado** ( s ) : **Alcançar** maior nível de **aprendizagem** para a 
+melhoria da formação **profissional** dos alunos. **Meta** ( s ) 
+**relacionada** ( s ) : Reduzir a evasão escolar em 10 % . **Objetivo** ( s ) 
+**relacionado** ( s ) : **Alcançar** maior **grau** de **excelência** no 
+processo de **ensino** e **aprendizagem** . E aumentar a **eficiência** , a 
+**produtividade** e a **competitividade** da instituição. **Meta** ( s ) 
+**relacionada** ( s ) : Reduzir a evasão escolar em 10 % e aumentar a 
+empregabilidade dos alunos em 10 % . Aumentar em 20 % a **demanda** 
+candidato-vaga dos cursos da unidade. **Objetivo** ( s ) **relacionado** ( s ) 
+: **Formar** **profissionais** atualizados em **tecnologias** e processos 
+produtivos, **capazes** de **atuar** no desenvolvimento tecnológico e inovação. 
+**Meta** ( s ) **relacionada** ( s ) : Reduzir a evasão escolar em 10 % e 
+aumentar a empregabilidade dos alunos em 10 % . Aumentar em 20 % a **demanda** 
+candidato-vaga dos cursos da unidade. 
+
+Lemmas in this text that loaded on the factor:
+
+alcançar
+aprendizagem
+atuar
+capaz
+competitividade
+demanda
+eficiência
+ensino (secondary)
+excelência
+formar
+grau
+meta
+objetivo
+produtividade
+profissional
+relacionar
+tecnologia

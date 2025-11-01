@@ -1,0 +1,43 @@
+file = fat002238
+date = 25
+user = r06_u204
+conversation = t000067_1_ANÁLISE_DO_CENÁRIO_Paragraph_17
+URL = No_URL
+
+word count = 77
+words loading = 21
+factor score = 20
+
+Mostra de vídeos do **curso** de Eventos- cat 1 . 06 - Ações **pedagógicas** : 
+**visitas** técnicas, **projetos** **integradores** / **interdisciplinares** , 
+**dias** de **campo** , **feira** das **profissões** , **cursos** 
+**extracurriculares** para **alunos** . O que será **feito** : XIII e XIV 
+**Projeto** Identidades e XXII e XXIII Mostra de Vídeos. Por que será **feito** 
+: Para divulgação da imagem de excelência dos **Projetos** **Integradores** II 
+e VI para as **comunidades** interna e externa situação-problema: 
+**Metodologia** de **ensino** , **desempenho** de **alunos** , **evasão** 
+Participação da **comunidade** e **sociedade** 
+
+Lemmas in this text that loaded on the factor:
+
+aluno
+campo
+comunidade
+curso
+desempenho
+dia
+ensino
+evasão
+extracurricular
+fazer
+feira
+integrador
+interdisciplinar
+metodologia
+pedagógico (secondary)
+problema
+profissão
+projeto
+situação
+sociedade
+visita

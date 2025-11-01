@@ -1,0 +1,23 @@
+file = fat003229
+date = 23-24
+user = r06_u168
+conversation = t000111_3_QUESTÕES_COMPLEMENTARES_Paragraph_2
+URL = No_URL
+
+word count = 58
+words loading = 4
+factor score = 2
+
+Também retrataram que as informações / instruções fornecidas para a resolução 
+das **questões** foram suficientes apenas na metade das **questões** , 
+reforçando a necessidade de trabalhar as disciplinas considerando aspectos 
+relativos à ampliação do conhecimento específico, **discussão** e 
+**interpretação** de **textos** , análise gráfica e da prática por parte dos 
+docentes de inserir atividades e **questões** avaliativas no modelo ENADE. 
+
+Lemmas in this text that loaded on the factor:
+
+discussão (secondary)
+interpretação
+questão (secondary)
+texto

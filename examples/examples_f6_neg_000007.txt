@@ -1,0 +1,21 @@
+file = fat001513
+date = 23
+user = r06_u204
+conversation = t000037_1_INTRODUÇÃO_Paragraph_40
+URL = No_URL
+
+word count = 74
+words loading = 2
+factor score = -2
+
+No Estado de São Paulo, foram gerados 569 . 112 ( 4 , 5 % ) postos de trabalho 
+a mais na comparação do 4º trim. de 2022 com o mesmo período de 2021 . São os 
+resultados da pesquisa da Fundação Seade com base no **Cadastro** Geral de 
+**Empregados** e Desempregados ( Caged ) . O estoque de empregos formais do 
+estado, em dezembro de 2022 , totalizava 13 . 205 . 731 , o que representa 31 , 
+0 % do total de empregos do Brasil. 
+
+Lemmas in this text that loaded on the factor:
+
+cadastro
+empregado

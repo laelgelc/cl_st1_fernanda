@@ -1,0 +1,26 @@
+file = fat000781
+date = 23-24
+user = r06_u217
+conversation = t000018_2_SENSIBILIZAÇÃO_Paragraph_1
+URL = No_URL
+
+word count = 73
+words loading = 6
+factor score = -3
+
+Para a efetivação do cronograma destaca -se algumas das **ações** para a 
+realização dos **procedimentos** de autoavaliação. No mês de outubro a 
+sensibilização foi iniciada por meio dos cartazes abaixo, estes foram colocados 
+em todos os quadros de aviso, na sala dos professores, nas salas de **aula** e 
+na TV de avisos da Secretaria **Acadêmica** e Biblioteca, além disso, foram 
+enviados e-mails aos **docentes** , funcionários e **alunos** informando sobre 
+a importância de participarem da pesquisa. 
+
+Lemmas in this text that loaded on the factor:
+
+acadêmico (secondary)
+aluno (secondary)
+aula
+ação
+docente (secondary)
+procedimento

@@ -1,0 +1,31 @@
+file = fat001476
+date = 23
+user = r06_u204
+conversation = t000037_1_INTRODUÇÃO_Paragraph_3
+URL = No_URL
+
+word count = 106
+words loading = 9
+factor score = 8
+
+É sede de 38 % das 100 **maiores** **empresas** privadas da **capital** 
+nacional. Dos grupos internacionais instalados no Brasil, 63 % estão em São 
+Paulo. A Bolsa de Valores de São Paulo é a **maior** da América do Sul. A Bolsa 
+de Mercadoria e Futuros ( BM&F ) é a sexta **maior** do mundo em volume de 
+negócios. A **cidade** ainda conta com 31 das 50 **maiores** seguradoras e 
+aproximadamente 100 das 200 **maiores** **empresas** de tecnologia do Brasil. 
+De acordo com os dados da Fundação Seade ( 2020 ) , a participação da 
+**população** em **empregos** **formais** é de aproximadamente 64 % em 
+serviços, 12 % na **indústria** e 18 % no **comércio** . 
+
+Lemmas in this text that loaded on the factor:
+
+capital
+cidade
+comércio
+emprego
+empresa (secondary)
+formal
+grande
+indústria
+população

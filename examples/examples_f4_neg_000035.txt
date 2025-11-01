@@ -1,0 +1,19 @@
+file = fat003002
+date = 23
+user = r06_u217
+conversation = t000098_3_CENÁRIO_Paragraph_9
+URL = No_URL
+
+word count = 29
+words loading = 3
+factor score = -2
+
+**APONTAMENTO** DE SITUAÇÕES-PROBLEMA MAIS RELEVANTES ( " **Escuta** " ) Imagem 
+Institucional: Baixa Visibilidade da Fatec Ipiranga na região. Vestibular: 
+Baixa demanda, Alta taxa de inscrição; e Não oferta de vagas pelo SISU 
+
+Lemmas in this text that loaded on the factor:
+
+apontamento (secondary)
+escuta
+situações

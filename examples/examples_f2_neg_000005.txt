@@ -1,0 +1,21 @@
+file = fat003222
+date = 23-24
+user = r06_u168
+conversation = t000111_1_FORMAÇÃO_GERAL_Paragraph_1
+URL = No_URL
+
+word count = 71
+words loading = 1
+factor score = -1
+
+Nas questões de Formação Geral a maior incidência de erros ocorreu devido à 
+falta de Interpretação de textos e das questões, e capacidade de análise 
+gráfica e construção crítica das ideias. As competências necessárias 
+identificadas para resolução das questões são: - Articular com atores e órgãos 
+do cenário nacional e internacional relacionados às atividades do comércio 
+exterior; - Acessar bases de dados e interpretar indicadores micro e 
+**macroeconômicos** relacionados ao comércio exterior. 
+
+Lemmas in this text that loaded on the factor:
+
+macroeconômico

@@ -1,0 +1,44 @@
+file = fat001713
+date = 23
+user = r06_u168
+conversation = t000046_1_ANÁLISE_DO_CENÁRIO_Paragraph_9
+URL = No_URL
+
+word count = 163
+words loading = 16
+factor score = 16
+
+Proposta de atualização do PPC do Curso de Segurança da Informação O que será 
+feito: Estruturação de proposta para a atualização do Projeto Pedagógico do 
+curso superior em **tecnologia** de segurança da informação, revendo as 
+disciplinas e os conteúdos, bem como a sequência das mesmas. Por que será 
+feito: A área de TI e especificamente a área de Segurança da Informação tiveram 
+grandes mudanças e avanços nos últimos anos. Temos como BigData, Cloud 
+Computing, IoT e Business Intelligence fazem parte deste mundo, e nem tudo é 
+contemplado no curso de forma explícita. **Objetivo** ( s ) **relacionado** ( s 
+) : Aumentar a **eficiência** , a **produtividade** e a **competitividade** da 
+instituição **Atender** às **demandas** sociais e do **mercado** de trabalho. 
+**Formar** **profissionais** atualizados em **tecnologias** e processos 
+produtivos, **capazes** de **atuar** no desenvolvimento tecnológico e inovação. 
+**Meta** ( s ) **relacionada** ( s ) : Ampliar as inscrições para o vestibular 
+em 5 % no ano de 2023 . Promover ações pedagógicas e administrativas que 
+proporcionem a **redução** da **taxa** de evasão em 5 % 
+
+Lemmas in this text that loaded on the factor:
+
+atender
+atuar
+capaz
+competitividade
+demanda
+eficiência
+formar
+mercado
+meta
+objetivo
+produtividade
+profissional
+redução
+relacionar
+taxa
+tecnologia

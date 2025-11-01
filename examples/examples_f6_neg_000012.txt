@@ -1,0 +1,20 @@
+file = fat002921
+date = 23
+user = r06_u137
+conversation = t000094_2_DESENVOLVIMENTO_Paragraph_22
+URL = No_URL
+
+word count = 37
+words loading = 3
+factor score = -2
+
+Bens e Serviços: Conforme solicitado no PDI 2019-2023 , a FATEC-Zona Sul 
+recebeu os equipamentos solicitados, além de novos computadores, impressoras e 
+equipamentos como **televisores** , computadores de mesa, **notebooks** e 
+periféricos para melhoria dos **serviços** prestados à comunidade acadêmica. 
+
+Lemmas in this text that loaded on the factor:
+
+notebook
+serviço (secondary)
+televisor

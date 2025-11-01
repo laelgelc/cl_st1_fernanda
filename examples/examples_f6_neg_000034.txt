@@ -1,0 +1,24 @@
+file = fat002691
+date = 22
+user = r06_u129
+conversation = t000083_2_DESENVOLVIMENTO_Paragraph_5
+URL = No_URL
+
+word count = 109
+words loading = 1
+factor score = -1
+
+Em 2022 foram realizadas adequações nos Laboratórios de Informática e nos 
+laboratórios do Curso de Processos Químicos. A unidade recebeu 50 mesas de 
+computadores, 280 cadeiras, 50 mesas de computadores, 40 **notebooks** , 114 
+computadores e 16 televisões de 65 " . Com estes equipamentos e mobiliários foi 
+possível renovar os 06 laboratórios de informática e melhorar os equipamentos 
+de 25 salas de aula. Além disso, a unidade recebeu os seguintes equipamentos 
+que permitiram a organização de dois novos laboratórios para o Curso de 
+Processos Químicos: 01 Bancada de Cervejaria, 01 Bancada de Reatores, 20 Mantas 
+aquecedoras, 01 Centrífuga, 04 Banhos ultratermostatizados, 02 Estufas de 
+esterilização e 01 Medidor de vazão. 
+
+Lemmas in this text that loaded on the factor:
+
+notebook

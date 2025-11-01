@@ -1,0 +1,36 @@
+file = fat001694
+date = 23
+user = r06_u160
+conversation = t000045_1_ANÁLISE_DO_CENÁRIO_Paragraph_11
+URL = No_URL
+
+word count = 110
+words loading = 11
+factor score = 5
+
+Proposta de atualização do PPC do **Curso** de **Tecnologia** Eletrônica 
+Automotiva O que será feito: **Estruturação** de proposta para atualização do 
+PPC mediante a análise dos conteúdos **programáticos** das **componentes** 
+**curriculares** do **curso** e construção da nova **grade** **curricular** 
+segundo as **exigências** mercadológicas Por que será feito: Para atualização e 
+adequação do PCC de novas **tecnologias** , visando **atender** as novas leis 
+de emissão de poluentes, conectividade automotiva e eletrificação veicular. 
+Objetivo ( s ) relacionado ( s ) : **Formar** **profissionais** atualizados em 
+**tecnologias** e processos automobilísticos, capazes de atuarem no 
+desenvolvimento de novos produtos e soluções na área da Eletrônica Automotiva 
+Meta ( s ) relacionada ( s ) : Aumentar a empregabilidadE dos alunos 
+**formados** em 10 % 
+
+Lemmas in this text that loaded on the factor:
+
+atender (secondary)
+componente
+curricular
+curso (secondary)
+estruturação
+exigência
+formar (secondary)
+grade
+profissional (secondary)
+programático (secondary)
+tecnologia (secondary)

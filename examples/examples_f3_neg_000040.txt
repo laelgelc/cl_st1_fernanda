@@ -1,0 +1,22 @@
+file = fat001816
+date = 23
+user = r06_u270
+conversation = t000049_1_ANÁLISE_DO_CENÁRIO_Paragraph_22
+URL = No_URL
+
+word count = 81
+words loading = 2
+factor score = -2
+
+D – **Aulas** de reforço de matemática O que será feito: Oferecimento de 
+**aulas** de reforço de matemática. Por que será feito: Para melhorar os 
+processos de aprendizagem e reduzir a taxa de evasão. Objetivo ( s ) 
+relacionado ( s ) : Alcançar e manter o grau de excelência nos processos de 
+ensino e aprendizagem. Meta ( s ) relacionada ( s ) : Promover 4 **ações** 
+pedagógicas que propiciem a redução da taxa de evasão em 5 % com base nos 
+indicadores de 2022 e incentivem a elaboração de projetos. 
+
+Lemmas in this text that loaded on the factor:
+
+aula
+ação

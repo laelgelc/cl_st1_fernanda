@@ -1,0 +1,28 @@
+file = fat001532
+date = 23
+user = r06_u217
+conversation = t000038_1_INTRODUÇÃO_Paragraph_1
+URL = No_URL
+
+word count = 77
+words loading = 8
+factor score = 7
+
+Caracterização socioeconômica da **área** de abrangência da Fatec Com relação a 
+localização, **Diadema** faz parte do Grande ABC ( Figura 1 ) constituído pelas 
+**cidades** de Santo André , São Bernardo do Campo, **Diadema** , São Caetano 
+do Sul, Mauá , Ribeirão Pires e Rio Grande da Serra, que **possuem** juntas 
+**população** de 2 , 6 **milhões** e da Região Metropolitana de SP ( RMSP ) 
+onde **estima** -se 21 , 5 **milhões** de **habitantes** . Está a 17 km do 
+marco zero da **cidade** de São Paulo. 
+
+Lemmas in this text that loaded on the factor:
+
+cidade
+diadema
+estimar
+habitante
+milhão
+população
+possuir (secondary)
+área

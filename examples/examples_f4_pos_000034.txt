@@ -1,0 +1,34 @@
+file = fat000493
+date = 23-24
+user = r06_u005
+conversation = t000010_3_DESENVOLVIMENTO_Paragraph_3
+URL = No_URL
+
+word count = 96
+words loading = 11
+factor score = 11
+
+No perfil **Discente** 74 , 01 % **avaliaram** como " **Excelente** e **Bom** " 
+e apenas 8 , 14 % " Insuficiente " . Diante desses percentuais, **considera** 
+-se que foi alcançado o cumprimento da **missão** **institucional** . Em 
+**relação** a **questão** 2 , 51 , 86 % dos alunos " conhecem o regimento " , 
+sendo que 48 , 14 % **afirmam** " não conhecer " . Esta Comissão **considera** 
+um percentual alto, referente ao não **conhecimento** por parte dos alunos, por 
+isso, propõe que ocorram ações de divulgação do regimento, enfatizando a 
+importância de seu **conhecimento** pelo aluno. No entanto, cabe ressaltar que 
+os **discentes** devem conhecer o Regulamento das Fatecs e não apenas o 
+Regimento. 
+
+Lemmas in this text that loaded on the factor:
+
+afirmar
+avaliar
+bom
+conhecimento
+considerar
+discente
+excelente
+institucional
+missão
+questão
+relação

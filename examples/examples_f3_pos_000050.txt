@@ -1,0 +1,27 @@
+file = fat001415
+date = 23
+user = r06_u160
+conversation = t000035_2_DESENVOLVIMENTO_Paragraph_43
+URL = No_URL
+
+word count = 86
+words loading = 7
+factor score = 7
+
+A **Região** do **Grande** ABC é um dos **maiores** centros de produção e 
+consumo do país. Conforme dados do IBGE, em 2014 , a soma em valores monetários 
+dos bens e serviços finais produzidos pelos sete **municípios** totalizou R$ 
+120 , 2 bilhões, o equivalente a 6 , 5 % do PIB do **estado** de São Paulo. 
+Nesta **região** , o **setor** **secundário** representa a 33 , 5 % do valor 
+adicionado bruto ( VAB ) e o **setor** de serviços, 65 , 5 % , este último, 
+descontado a administração, **saúde** , educação pública e seguridade social. 
+
+Lemmas in this text that loaded on the factor:
+
+estado
+grande
+município
+região
+saúde
+secundário
+setor

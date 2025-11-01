@@ -1,0 +1,29 @@
+file = fat000032
+date = 22-23
+user = r06_u126
+conversation = t000002_3_DESENVOLVIMENTO_Paragraph_1
+URL = No_URL
+
+word count = 56
+words loading = 10
+factor score = 8
+
+O Plano de Desenvolvimento Institucional, período de 2018 - 2022 , foi um dos 
+principais documentos que **nortearam** as **ações** na Fatec Adib Moisés Dib, 
+pois tal documento se **caracterizou** como uma **identidade** da Instituição, 
+**definindo** sua **filosofia** e metodologia de trabalho, estratégias, 
+**objetivos** , estrutura e **diretrizes** **pedagógicas** , algo 
+**continuado** no PDI no período de 2023 - 2027 . 
+
+Lemmas in this text that loaded on the factor:
+
+ação (secondary)
+caracterizar
+continuar
+definir
+diretriz
+filosofia
+identidade
+nortear
+objetivo (secondary)
+pedagógico

@@ -1,0 +1,22 @@
+file = fat001787
+date = 23
+user = r06_u217
+conversation = t000048_1_ANÁLISE_DO_CENÁRIO_Paragraph_11
+URL = No_URL
+
+word count = 87
+words loading = 2
+factor score = -2
+
+B – Reforço e monitoria de inglês - CST em Cosméticos O que será feito: 
+Oferecimento de **aulas** de reforço e monitoria de inglês Por que será feito: 
+Melhorar os processos de aprendizagem e reduzir a taxa de evasão Objetivo ( s ) 
+relacionado ( s ) : Alcançar e manter o grau de excelência em seus processos de 
+ensino e aprendizagem. Meta ( s ) relacionada ( s ) : Promover **ações** 
+administrativas e pedagógicas que proporcionem a redução da taxa de evasão em 5 
+% com relação ao indicador de desempenho de 2022 , no ano de 2023 . 
+
+Lemmas in this text that loaded on the factor:
+
+aula
+ação

@@ -1,0 +1,20 @@
+file = fat000891
+date = 24-25
+user = r06_u129
+conversation = t000023_3_DESENVOLVIMENTO_Paragraph_1
+URL = No_URL
+
+word count = 75
+words loading = 1
+factor score = -1
+
+Em uma análise geral do EIXO 1 , percebe -se que a CPA não é conhecida por boa 
+parte da comunidade acadêmica. Há um certo equilíbrio entre os que consideram o 
+trabalho desenvolvido pela CPA muito bom ou bom ( 28 , 5 % ) e os que não 
+souberam responder ( 28 , 85 % ) , o que denota a necessidade de implementar 
+mecanismos e processos que tornem a Comissão mais conhecida e que possa 
+apresentar os resultados de sua gestão com mais **clareza** . 
+
+Lemmas in this text that loaded on the factor:
+
+clareza

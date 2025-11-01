@@ -1,0 +1,22 @@
+file = fat002058
+date = 24
+user = r06_u270
+conversation = t000059_1_ANÁLISE_DO_CENÁRIO_Paragraph_16
+URL = No_URL
+
+word count = 51
+words loading = 4
+factor score = -2
+
+**Ações** de nivelamento de conhecimento, ENADE, acolhimento e permanência 
+discente. O que será feito: Oferecimento de **aulas** de reforço de matemática. 
+Por que será feito: Para melhorar os processos de aprendizagem e reduzir a taxa 
+de evasão Situação **problema** : Metodologia de ensino, desempenho de 
+**alunos** , evasão ( a ser resolvida / mitigada ) 
+
+Lemmas in this text that loaded on the factor:
+
+aluno (secondary)
+aula
+ação
+problema (secondary)

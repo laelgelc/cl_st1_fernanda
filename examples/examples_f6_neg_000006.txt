@@ -1,0 +1,20 @@
+file = fat001373
+date = 23
+user = r06_u160
+conversation = t000035_2_DESENVOLVIMENTO_Paragraph_1
+URL = No_URL
+
+word count = 65
+words loading = 2
+factor score = -2
+
+O Grande ABC apresentou, em setembro de 2022 , saldo positivo de 4 . 162 de 
+vagas formais e totalizou 30 . 735 vagas abertas nos nove primeiros meses do 
+ano. O saldo acumulado dos últimos 12 meses ( de outubro de 2021 até setembro 
+de 2022 ) registra a abertura de 35 . 131 vagas formais na região. Os dados são 
+do **Cadastro** Geral de **Empregados** e Desempregados ( Caged ) . 
+
+Lemmas in this text that loaded on the factor:
+
+cadastro
+empregado

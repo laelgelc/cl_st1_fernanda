@@ -1,0 +1,17 @@
+file = fat002849
+date = 23
+user = r06_u005
+conversation = t000090_2_DESENVOLVIMENTO_Paragraph_6
+URL = No_URL
+
+word count = 22
+words loading = 2
+factor score = -2
+
+AMPLIAR SALAS DE **AULA** ( 09 ) – 2º ANDAR A **ação** foi iniciada, estamos no 
+aguardo da autorização para ampliação da estrutura física. 
+
+Lemmas in this text that loaded on the factor:
+
+aula
+ação

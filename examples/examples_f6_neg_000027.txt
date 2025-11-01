@@ -1,0 +1,18 @@
+file = fat001293
+date = 23
+user = r06_u129
+conversation = t000033_2_DESENVOLVIMENTO_Paragraph_17
+URL = No_URL
+
+word count = 47
+words loading = 1
+factor score = -1
+
+De acordo com dados do Sebrae ( 2021 ) , Cubatão em 202 tinha 10 . 034 empresas 
+ativas e quase 11mil empregos estavam sendo ocupados pela Indústria, seguido 
+pelo Serviços com 9 . 985 **empregados** , depois a Administração Pública com 3 
+. 683 **empregados** e o Comércio com 3 . 149 **empregados** . 
+
+Lemmas in this text that loaded on the factor:
+
+empregado

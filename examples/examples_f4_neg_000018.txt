@@ -1,0 +1,25 @@
+file = fat002131
+date = 25
+user = r06_u129
+conversation = t000063_1_ANÁLISE_DO_CENÁRIO_Paragraph_3
+URL = No_URL
+
+word count = 54
+words loading = 5
+factor score = -2
+
+**APONTAMENTO** DE SITUAÇÕES-PROBLEMA MAIS RELEVANTES - Manutenção e 
+conservação predial - Materiais, equipamentos e mobiliários - Infraestrutura 
+predial ( espaços, sistemas ) - Segurança pessoal e patrimonial - 
+Infraestrutura **laboratorial** e ambientes de ensino - Participação da 
+comunidade e sociedade - Metodologia de ensino, desempenho de alunos, 
+**evasão** - Acesso / Inclusão ao Ensino Superior ( social, PCD ) - Redução do 
+número de inscrições no Vestibular **Matutino** . 
+
+Lemmas in this text that loaded on the factor:
+
+apontamento (secondary)
+evasão (secondary)
+laboratorial
+matutino (secondary)
+situações

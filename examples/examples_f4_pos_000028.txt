@@ -1,0 +1,39 @@
+file = fat000947
+date = 24-25
+user = r06_u137
+conversation = t000024_3_DESENVOLVIMENTO_Paragraph_13
+URL = No_URL
+
+word count = 137
+words loading = 12
+factor score = 11
+
+Para atacar esta fragilidade apontada pelo **corpo** **discente** , a unidade 
+incrementará a oferta, e sobretudo, atuará de **forma** mais ampla na 
+divulgação de cursos de **extensão** . Já para conservar e melhorar as diversas 
+potencialidades indicadas, continuarão sendo **realizados** eventos para 
+difundir as atividades de ensino, pesquisa e **extensão** da unidade; serão 
+incrementados os incentivos aos professores para capacitação profissional e 
+**bom** **planejamento** semanal dos conteúdos e metodologias; será mantida a 
+**política** de divulgação do vestibular, sobretudo junto às comunidades 
+carentes, para garantir acesso ao ensino superior e inclusão social; será 
+ampliada a **política** já adotada de **diálogo** , respeito e **negociação** 
+ao lidar com **conflitos** na instrumentalização das rotinas da faculdade; e 
+serão continuadas as medidas para manter os **docentes** informados a respeito 
+das alterações nos PPCs e garantir sua representatividade nos colegiados na 
+Fatec Zona Sul. 
+
+Lemmas in this text that loaded on the factor:
+
+bom
+conflito
+corpo
+discente
+diálogo
+docente
+extensão (secondary)
+forma
+negociação
+planejamento
+política
+realizar

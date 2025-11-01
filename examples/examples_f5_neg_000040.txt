@@ -1,0 +1,20 @@
+file = fat001222
+date = 23
+user = r06_u113
+conversation = t000031_2_INDICADORES_SOCIOECNÔMICOS_Paragraph_7
+URL = No_URL
+
+word count = 57
+words loading = 1
+factor score = -1
+
+Portanto, a Fatec atua na capacitação de padrões de excelência essenciais ao 
+nível de qualificação oportuna, para as necessidades das empresas e indústrias 
+da região. Destaca -se, assim, como um centro de formação de tecnólogos 
+altamente capacitados com **raciocínio** complexo e empreendedor, que contribui 
+tanto para o desenvolvimento profissional dos alunos, como também para o 
+progresso socioeconômico regional. 
+
+Lemmas in this text that loaded on the factor:
+
+raciocínio

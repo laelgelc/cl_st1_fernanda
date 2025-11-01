@@ -1,0 +1,47 @@
+file = fat002043
+date = 24
+user = r06_u217
+conversation = t000058_1_ANÁLISE_DO_CENÁRIO_Paragraph_15
+URL = No_URL
+
+word count = 84
+words loading = 24
+factor score = 23
+
+Ações **pedagógicas** : **visitas** técnicas, **projetos** **integradores** / 
+**interdisciplinares** , **dias** de **campo** , **feira** das **profissões** , 
+**cursos** **extracurriculares** para **alunos** . O que será **feito** : 
+**Visita** a **empresas** e palestras com atividades correlacionadas aos 
+**cursos** oferecidos Por que será **feito** : Melhorar a aprendizagem dos 
+**alunos** por meio de exemplos práticos e consequentemente a visibilidade da 
+Instituição de **ensino** na região. Fomentar novos **campos** de estágio e 
+promover aprendizagens ativas. **Situação** **problema** : **Metodologia** de 
+**ensino** , **desempenho** de **alunos** , **evasão** ( a ser **resolvida** / 
+**mitigada** ) Participação da **comunidade** e **sociedade** 
+
+Lemmas in this text that loaded on the factor:
+
+aluno
+campo
+comunidade
+curso
+desempenho
+dia
+empresa
+ensino
+evasão
+extracurricular
+fazer
+feira
+integrador
+interdisciplinar
+metodologia
+mitigar
+pedagógico (secondary)
+problema
+profissão
+projeto
+resolver
+situação
+sociedade
+visita

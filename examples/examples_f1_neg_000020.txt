@@ -1,0 +1,21 @@
+file = fat002938
+date = 23
+user = r06_u160
+conversation = t000095_2_DESENVOLVIMENTO_Paragraph_7
+URL = No_URL
+
+word count = 80
+words loading = 1
+factor score = -1
+
+• Ampliações e manutenções dos ambientes laboratoriais: Este ponto é crítico 
+dentro da unidade de ensino, apesar de diversos laboratórios e bem equipados, 
+os equipamentos estão desgastados e muitos não há possibilidade de manutenção, 
+um exemplo são os equipamentos de ar-condicionado. Realizamos o pedido a UGAF 
+de novos equipamentos, mas recebemos o memorando informando que não havia 
+recurso e que submetêssemos o pedido no ano de 2024 . A falta de investimento 
+em infraestrutura é um dos pontos cruciais afetando a evasão. 
+
+Lemmas in this text that loaded on the factor:
+
+condicionado

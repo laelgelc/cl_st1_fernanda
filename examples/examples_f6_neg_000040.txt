@@ -1,0 +1,21 @@
+file = fat002798
+date = 22
+user = r06_u204
+conversation = t000087_2_DESENVOLVIMENTO_Paragraph_8
+URL = No_URL
+
+word count = 78
+words loading = 1
+factor score = -1
+
+2- Evasão, retenção e trancamento geral Há vários motivos que levam o discente 
+a evadir. De acordo com os dados do WEB SAI ( 2021 ) e justificativa 
+apresentada pelo aluno no ato do cancelamento de matrícula, podemos citar: 
+Externos a instituição, tais como: necessidade de **entrar** no mercado de 
+trabalho; doenças; problemas financeiros; mudanças de endereço; o aluno mudou o 
+interesse do curso; o curso não atendeu às expectativas; dificuldade 
+financeira; falta de a faculdade apoiar o aluno carente; etc. 
+
+Lemmas in this text that loaded on the factor:
+
+entrar

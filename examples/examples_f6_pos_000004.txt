@@ -1,0 +1,47 @@
+file = fat003238
+date = 23-24
+user = r06_u168
+conversation = t000111_3_QUESTÕES_COMPLEMENTARES_Paragraph_11
+URL = No_URL
+
+word count = 212
+words loading = 14
+factor score = 7
+
+Assim, há uma difícil tarefa de **atender** os **componentes** do Edital Enade 
+e ao mesmo tempo, manter uma **grade** atualizada e **robusta** que **atenda** 
+as expectativas do mercado de trabalho; e por muitas vezes essas duas frentes – 
+INEP / ENADE e Mercado de Trabalho – não **compactuam** dos mesmos interesses 
+**curriculares** ; e a IES fica " dividida " sobre o que **atender** com 
+**maior** ênfase, visto que existe uma carga horária e uma matriz 
+**curricular** a cumprir. II - Análise das respostas dos alunos ao Questionário 
+de Percepção da Prova: O **maior** obstáculo encontrado pelos alunos foi o modo 
+como o conteúdo **curricular** é abordado na prova, o já conhecido " padrão 
+ENADE " de **questões** . III - Respostas dos alunos ao Questionário do 
+Estudante: A análise diagnóstica nos mostra o quanto os alunos submetidos 
+**avaliação** ENADE 2022 foram afetadas e até mesmo prejudicadas pela 
+**pandemia** . IV - Respostas dos alunos ao Questionário da **Pandemia** : 
+Através da análise diagnóstica, fica bastante claro que mesmo com a 
+implementação de aulas remotas e uso de **tecnologias** **digitais** para 
+construção da jornada acadêmica; ainda assim decorrentes da **pandemia** 
+prejudicaram seu processo formativo, dados que reforçam que a **pandemia** 
+prejudicou os **estudos** desses alunos, que foram agravados pelos aspectos 
+intrínsecos a **pandemia** ( ex. : restrição financeira e vulnerabilidade 
+socioemocional ) ; consequentemente, o **desempenho** destes no ENADE. 
+
+Lemmas in this text that loaded on the factor:
+
+atender (secondary)
+avaliação (secondary)
+compactuar
+componente
+curricular
+desempenho (secondary)
+digital
+estudo
+grade
+grande (secondary)
+pandemia (secondary)
+questão (secondary)
+robusto
+tecnologia (secondary)

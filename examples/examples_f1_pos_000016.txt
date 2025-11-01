@@ -1,0 +1,51 @@
+file = fat001745
+date = 23
+user = r06_u204
+conversation = t000047_1_ANÁLISE_DO_CENÁRIO_Paragraph_12
+URL = No_URL
+
+word count = 97
+words loading = 27
+factor score = 26
+
+**Objetivos** **Atender** às **demandas** sociais e do **mercado** de trabalho. 
+Obter a **satisfação** dos públicos que se **relacionam** com o Centro Paula 
+Souza ( **stakeholders** ) . **Alcançar** e manter o **grau** de **excelência** 
+em seus processos de **ensino** e **aprendizagem** . **Assegurar** a 
+**perenidade** do **crescimento** da instituição com recursos financeiros 
+disponíveis. Garantir **celeridade** e **efetividade** na **prestação** de 
+**serviços** . **Formar** **profissionais** atualizados em **tecnologias** e 
+processos produtivos, **capazes** de **atuar** no desenvolvimento tecnológico e 
+inovação Promover a cultura de inovação e empreendedorismo. Aumentar a 
+**eficiência** , a **produtividade** e a **competitividade** da instituição. 
+Ampliar a oferta da Educação **Profissional** 
+
+Lemmas in this text that loaded on the factor:
+
+alcançar
+aprendizagem
+assegurar
+atender
+atuar
+capaz
+celeridade
+competitividade
+crescimento
+demanda
+efetividade
+eficiência
+ensino (secondary)
+excelência
+formar
+grau
+mercado
+objetivo
+perenidade
+prestação
+produtividade
+profissional
+relacionar
+satisfação
+serviço
+stakeholders
+tecnologia

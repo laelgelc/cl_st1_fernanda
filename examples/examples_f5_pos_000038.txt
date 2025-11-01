@@ -1,0 +1,31 @@
+file = fat000419
+date = 22-23
+user = r06_u217
+conversation = t000008_3_DESENVOLVIMENTO_Paragraph_4
+URL = No_URL
+
+word count = 52
+words loading = 12
+factor score = 8
+
+O Plano de Desenvolvimento institucional PDI ( 2019-2023 ) e o **relatório** da 
+CPA de 2021 foram os principais documentos que **nortearam** as **ações** da 
+Fatec **Diadema** . O PDI é um documento que se **caracteriza** como uma 
+**identidade** da Instituição, **definindo** , dentro outros, sua **filosofia** 
+de trabalho, **missão** , estratégias, **objetivos** , estrutura e 
+**diretrizes** **pedagógicas** . 
+
+Lemmas in this text that loaded on the factor:
+
+ação (secondary)
+caracterizar
+definir
+diadema (secondary)
+diretriz
+filosofia
+identidade
+missão (secondary)
+nortear
+objetivo (secondary)
+pedagógico
+relatório

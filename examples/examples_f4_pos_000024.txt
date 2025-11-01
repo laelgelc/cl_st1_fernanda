@@ -1,0 +1,41 @@
+file = fat002801
+date = 22
+user = r06_u204
+conversation = t000087_2_DESENVOLVIMENTO_Paragraph_11
+URL = No_URL
+
+word count = 159
+words loading = 12
+factor score = 11
+
+**Destaca** -se algumas atividades que são **realizadas** : ✓ **Acolhimento** 
+na matrícula: o período de matrícula foi organizado com base nas informações 
+colhidas das turmas anteriores, que relataram falta de um **melhor** 
+**acolhimento** nesse dia. Dessa **forma** foi montada uma estrutura ( 
+funcionários, **coordenadores** , **docentes** , diretor **acadêmico** , 
+diretora geral e alunos veteranos ) para recepcionar os estudantes 
+recém-ingressantes. No momento da matrícula os **coordenadores** , 
+**discentes** e a diretora ficaram à disposição dos alunos para uma conversa 
+sobre a instituição e o curso escolhido. ✓ Conferência das matrículas abertas: 
+os **coordenadores** **realizam** um levantamento de todas as matrículas em 
+situação " aberta " . Diante dessas informações, entram em contato com os 
+alunos para **saber** o motivo da sua não **efetivação** . ✓ **Acolhimento** na 
+primeira semana de aula: a recepção ao calouro é essencial para fomentar as 
+**relações** com os novos alunos e situar o ingressante no ensino superior. O 
+aluno que vem do Ensino Médio possui uma cultura formativa diferente; dessa 
+**forma** faz -se necessária a inserção do aluno no ensino superior. 
+
+Lemmas in this text that loaded on the factor:
+
+acadêmico
+acolhimento (secondary)
+bom
+coordenador
+destacar
+discente
+docente
+efetivação
+forma
+realizar
+relação
+saber

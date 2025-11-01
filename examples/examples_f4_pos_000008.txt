@@ -1,0 +1,69 @@
+file = fat000213
+date = 22-23
+user = r06_u137
+conversation = t000004_4_CONSIDERAÇÕES_FINAIS_Paragraph_2
+URL = No_URL
+
+word count = 418
+words loading = 17
+factor score = 13
+
+**Dentre** as principais ações **advindas** desse processo, podemos 
+**salientar** : • Planejar reuniões de apresentação do PDI aos **discentes** e 
+divulgar material simplificado no site e murais da unidade; • Ampliar os cursos 
+de nivelamento, reforço e recuperação de disciplinas em que os alunos possuem 
+maior dificuldade de **aprendizagem** ou deficiência advindas do Ensino Médio; 
+• Promover ações incentivadoras aos **discentes** pelos **docentes** com 
+utilização de metodologias ativas, para majorar a articipação dos **discentes** 
+durante as aulas; • Convidar a comunidade externa, por meio de seus líderes, a 
+participar de eventos na unidade, com ampla divulgação; • Melhorar o espaço de 
+estudo na biblioteca e criar espaços dedicados ao estudo na faculdade no 
+formato de ambientes de convivência **acadêmica** ; • Promover o ambiente de 
+**diálogo** , **negociação** e respeito à opinião diversa nos ambientes 
+**acadêmicos** , como sala de aula, biblioteca, locais de atendimento aos 
+alunos e nas **relações** hierárquicas do tipo " botton up " ; • Estimular o 
+livre pensamento e manifestação de opinião, com flexibilidade de trabalho entre 
+os **docentes** , de modo que possam aplicar em sala de aula uma maior 
+variedade de metodologias de ensino e **avaliação** em suas respectivas 
+disciplinas, e que as salas de aula sirvam como verdadeiros laboratórios de 
+variadas abordagens **acadêmicas** ; • Aumentar o **número** de parcerias para 
+estágios na faculdade e adequar os conteúdos ministrados em sala de aula às 
+necessidades do mercado de trabalho atual; • Ampliar a **política** de 
+divulgação do vestibular semestralmente, junto às comunidades carentes para 
+garantir acesso ao ensino superior e inclusão social; • Ampliar o **número** de 
+vagas oferecidas à iniciação científica via programa de monitoria do Centro 
+Paula Souza; • Ampliar o **diálogo** no ambiente **acadêmico** por meio do 
+exemplo dado por professores, **coordenadores** , diretores e uncionários, para 
+que a prática **diária** se capilarize entre todos os membros da comunidade; • 
+Provisionar verba ao longo do ano para executar as **melhorias** necessárias 
+nos banheiros da unidade; • Negociar com o Centro Paula Souza o aumento do 
+**número** de funcionários para a limpeza e segurança da unidade; • Reformar a 
+copa, de modo que os funcionários possam usar com mais frequência para preparo 
+e consumo de refeições; • Solicitar ao Centro Paula Souza o aumento da banda de 
+internet na unidade; • Instituir um programa de manutenção preventiva das 
+instalações prediais; • Promover sempre a **satisfação** da equipe com a 
+manutenção das **políticas** de gestão de pessoal implementadas, com foco na 
+participação democrática e respeito ao desenvolvimento pessoal e profissional 
+de todos os integrantes; e • Aproveitar a infraestrutura disponível para 
+implementar mais atividades online, por meio do ensino híbrido, para introduzir 
+novos cursos na unidade. 
+
+Lemmas in this text that loaded on the factor:
+
+acadêmico
+advir
+aprendizagem (secondary)
+avaliação
+coordenador
+dentrar
+discente
+diálogo
+diário
+docente
+melhoria (secondary)
+negociação
+número (secondary)
+política
+relação
+salientar
+satisfação (secondary)

@@ -1,0 +1,29 @@
+file = fat001480
+date = 23
+user = r06_u204
+conversation = t000037_1_INTRODUÇÃO_Paragraph_7
+URL = No_URL
+
+word count = 82
+words loading = 8
+factor score = 8
+
+Segundo informações do Infocidade, plataforma de consulta de dados 
+disponibilizada pela Secretaria Municipal de Urbanismo e Licenciamento ( SMUL ) 
+da Prefeitura de São Paulo ( 2018 ) , a **Subprefeitura** do Ipiranga 
+apresentava, em 2017 , uma **população** **estimada** em 476 . 271 pessoas, 
+cerca de 4 , 1 % da **população** da **capital** . No **distrito** do Sacomã , 
+o mais populoso da **Subprefeitura** , com aproximadamente 53 , 6 % do total, 
+está **localizado** o bairro derivado da comunidade de Heliópolis ( chamado 
+**Cidade** Nova Heliópolis ) , **maior** comunidade da **cidade** de São Paulo. 
+
+Lemmas in this text that loaded on the factor:
+
+capital
+cidade
+distrito
+estimar
+grande
+localizar
+população
+subprefeitura

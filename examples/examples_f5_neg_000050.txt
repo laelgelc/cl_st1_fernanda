@@ -1,0 +1,19 @@
+file = fat001983
+date = 24
+user = r06_u168
+conversation = t000056_1_ANÁLISE_DO_CENÁRIO_Paragraph_36
+URL = No_URL
+
+word count = 52
+words loading = 1
+factor score = -1
+
+Eventos e publicações acadêmicos e científicos O que será feito: Minuto Fatec 
+Educação sobre prevenção Conscientização sobre doenças específicas Promoção da 
+saúde mental Orientação sobre estilo de vida saudável Adoção de hábitos 
+preventivos **Esclarecimento** de dúvidas e mitos Incentivar a responsabilidade 
+social em saúde. Situação problema: Comunicação com a comunidade acadêmica 
+
+Lemmas in this text that loaded on the factor:
+
+esclarecimento

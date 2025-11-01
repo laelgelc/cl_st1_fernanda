@@ -1,0 +1,18 @@
+file = fat003231
+date = 23-24
+user = r06_u168
+conversation = t000111_3_QUESTÕES_COMPLEMENTARES_Paragraph_4
+URL = No_URL
+
+word count = 41
+words loading = 2
+factor score = -2
+
+Contudo, a renda compreendida nas **faixas** entre 6 e 10 **SM** não contempla 
+nenhum estudante de COMEX da FATEC. Por outro lado, o percentual de alunos com 
+perfil de renda até 1 , 5 **SM** é menor que a média Brasil. 
+
+Lemmas in this text that loaded on the factor:
+
+faixa
+sm

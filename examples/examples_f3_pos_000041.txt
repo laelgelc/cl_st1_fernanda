@@ -1,0 +1,28 @@
+file = fat001778
+date = 23
+user = r06_u217
+conversation = t000048_1_ANÁLISE_DO_CENÁRIO_Paragraph_2
+URL = No_URL
+
+word count = 95
+words loading = 7
+factor score = 7
+
+Objetivando expandir a oferta de cursos à comunidade local, em 2018 foi 
+realizada uma pesquisa entre empresários locais e Prefeitura de **Diadema** a 
+fim de identificar o perfil da **região** . Ficou evidente a importância do 
+**setor** da **indústria** no **estado** de São Paulo e na **região** do 
+**grande** ABC e **Diadema** . Por meio desses contatos identificou -se a 
+necessidade e a existência de demanda para a oferta do CST em Gestão da 
+Produção **Industrial** . Em agosto de 2019 recebemos autorização da CESU para 
+a oferta desse curso, no período noturno, com a oferta de 40 vagas. 
+
+Lemmas in this text that loaded on the factor:
+
+diadema
+estado
+grande
+industrial
+indústria
+região
+setor

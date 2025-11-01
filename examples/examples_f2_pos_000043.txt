@@ -1,0 +1,52 @@
+file = fat002273
+date = 25
+user = r06_u270
+conversation = t000069_1_ANÁLISE_DO_CENÁRIO_Paragraph_11
+URL = No_URL
+
+word count = 204
+words loading = 19
+factor score = 16
+
+Oferecimento de **aulas** de reforço de matemática Para melhorar os processos 
+de aprendizagem e reduzir a taxa de **evasão** **Projeto** de **Acolhimento** 
+de **Discentes** do **curso** de Comércio **Exterior** : delineamento e 
+**implantação** de um sistema de **acolhimento** e acompanhamento do 
+**discente** desde seu ingresso no **curso** até sua conclusão **Projeto** Para 
+diminuir a taxa de desistência de **discentes** e assim **mitigar** a 
+**evasão** de **discentes** no **ensino** superior. Primeiro, porque o 
+**acolhimento** e o acompanhamento de **discentes** permite às instituições de 
+**ensino** superior identificar o que levou estes **discentes** a escolherem o 
+**curso** e a IES, assim como eventuais motivos que levariam os **discentes** a 
+evadirem do **curso** . Segundo, em razão do **sentimento** de 
+**pertencimento** que o **discente** passaria a ter e que certamente impactaria 
+positivamente em sua vida, sobretudo acadêmica. Terceiro, devido à 
+possibilidade de identificar tanto ações profissionais ou acadêmicas destes 
+**discentes** como a repercussão do **curso** em sua vida profissional. A 
+identificação de tais elementos certamente reverbera na legitimidade e na 
+reputação do **curso** realizado e da própria IES, uma vez que supre requisitos 
+de certificadoras e reguladores no que tange a avaliação do impacto social dos 
+**cursos** . situação-problema: **Metodologia** de **ensino** , **desempenho** 
+de **alunos** , **evasão** Participação da **comunidade** e **sociedade** 
+
+Lemmas in this text that loaded on the factor:
+
+acolhimento
+aluno
+aula (secondary)
+comunidade
+curso
+desempenho
+discente (secondary)
+ensino
+evasão
+exterior (secondary)
+implantação
+metodologia
+mitigar
+pertencimento
+problema
+projeto
+sentimento
+situação
+sociedade

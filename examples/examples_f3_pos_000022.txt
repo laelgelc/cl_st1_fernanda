@@ -1,0 +1,34 @@
+file = fat002940
+date = 23
+user = r06_u160
+conversation = t000095_2_DESENVOLVIMENTO_Paragraph_9
+URL = No_URL
+
+word count = 152
+words loading = 8
+factor score = 8
+
+O ABC recebeu forte fluxo de **imigrantes** no fim do séc. XIX e de migrantes 
+ao longo do séc. XX, favorecendo o povoamento da **região** . É também o berço 
+da **indústria** automobilística e de multinacionais que se instalaram na 
+**região** ao longo do último século, com destaque para a década de 1950 , 
+quando a industrialização iniciada na **capital** chegou às **regiões** 
+próximas ( apenas dois dos sete **municípios** não fazem fronteira com a 
+**cidade** de São Paulo ) . Representa, ainda, um dos **maiores** mercados 
+consumidores do país. Se o **Grande** ABC fosse um **município** , seria a 4ª 
+**maior** **cidade** em Produto Interno Bruto ( PIB ) do país com R$ 114 , 8 
+bilhões de riquezas geradas em 2013 ( IBGE / 2013 ) . Sob este olhar, ficaria 
+atrás apenas das **capitais** : São Paulo, Rio de Janeiro e Brasília. No 
+**Estado** , apenas a **capital** paulista teria PIB mais elevado que o do 
+conjunto dos sete **municípios** do ABC Paulista. 
+
+Lemmas in this text that loaded on the factor:
+
+capital
+cidade
+estado
+grande
+imigrante
+indústria
+município
+região

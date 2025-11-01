@@ -1,0 +1,38 @@
+file = fat002144
+date = 25
+user = r06_u129
+conversation = t000063_1_ANÁLISE_DO_CENÁRIO_Paragraph_18
+URL = No_URL
+
+word count = 73
+words loading = 16
+factor score = 16
+
+Monitoria em **disciplina** do **curso** O que será **feito** : **Seleção** de 
+**alunos** para **Bolsas** Semestrais de Monitoria para o **Curso** de 
+Desenvolvimento de Software Multiplataforma. Por que será **feito** : Para 
+apoiar a aprendizagem dos **alunos** em **disciplinas** de maior dificuldade, 
+monitores e orientação dos professores por meio dos **alunos** **Metodologia** 
+de **ensino** , **desempenho** de **alunos** , **evasão** ( a ser **resolvida** 
+/ **mitigada** ) situação-problema: **Metodologia** de **ensino** , 
+**desempenho** de **alunos** , **evasão** Participação da **comunidade** e 
+**sociedade** 
+
+Lemmas in this text that loaded on the factor:
+
+aluno
+bolsa
+comunidade
+curso
+desempenho
+disciplina
+ensino
+evasão
+fazer
+metodologia
+mitigar
+problema
+resolver
+seleção
+situação
+sociedade

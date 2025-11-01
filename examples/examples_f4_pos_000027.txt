@@ -1,0 +1,38 @@
+file = fat001034
+date = 24-25
+user = r06_u168
+conversation = t000026_4_DESENVOLVIMENTO_Paragraph_16
+URL = No_URL
+
+word count = 134
+words loading = 11
+factor score = 11
+
+As **dimensões** **avaliadas** pela Comissão Própria de **Avaliação** buscaram 
+analisar a consonância do PDI e PPC **institucional** com as Diretrizes 
+propostas pela lei 10 . 861 do SINAES, no que tange às 10 **dimensões** , a 
+**saber** : . 1 . **Planejamento** **institucional** , 2 . Produção 
+acadêmico-científica, 3 . Responsabilidade social, 4 . Comunicação com 
+sociedade, 5 . Gestão de Pessoas, 6 . Administração **acadêmica** e gestão 
+pedagógica, 7 . Infraestrutura, 8 . Autoavaliação, 9 . **Política** de 
+atendimento aos **discentes** 10 Gestão financeira. O Plano de Desenvolvimento 
+**institucional** ( Ano 2022 – Ano 2026 ) foi um dos principais documentos que 
+nortearam as ações da Fatec São Caetano do Sul – Antonio Russo tratou -se de um 
+documento que se caracterizou como uma identidade da instituição, definindo, 
+**dentre** outros, sua filosofia de trabalho, **missão** , estratégias, 
+objetivos, estrutura e diretrizes pedagógicas, algo a ser continuado no PDI 
+para os anos de 2022 - 2026 . 
+
+Lemmas in this text that loaded on the factor:
+
+acadêmico
+avaliar
+avaliação
+dentrar
+dimensão
+discente
+institucional
+missão
+planejamento
+política
+saber

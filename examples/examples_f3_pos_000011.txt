@@ -1,0 +1,35 @@
+file = fat002230
+date = 25
+user = r06_u204
+conversation = t000067_1_ANÁLISE_DO_CENÁRIO_Paragraph_4
+URL = No_URL
+
+word count = 112
+words loading = 10
+factor score = 10
+
+Segundo informações da Prefeitura de São Paulo, a **subprefeitura** do Ipiranga 
+apresentava, em 2017 , uma **população** **estimada** de 463 . 804 
+**habitantes** . No **distrito** do Sacomã , o mais populoso da 
+**Subprefeitura** , com aproximadamente 53 , 6 % do total, está **localizado** 
+o bairro derivado da comunidade de Heliópolis ( chamado **Cidade** Nova 
+Heliópolis ) , **maior** comunidade da **cidade** de São Paulo, onde vivem 
+aproximadamente 200 mil habilitantes. Utilizando -se a renda nominal mensal per 
+capita dos domicílios particulares permanentes **localizados** na 
+**Subprefeitura** do Ipiranga, obtida por meio do **censo** **demográfico** de 
+2010 ( ano mais recente em que esses dados estão disponíveis ) , verifica -se 
+que 28 , 8 % apresentavam renda de até 1 salário-mínimo e apenas 13 , 6 % 
+apresentavam de 5 salários-mínimos ou mais. 
+
+Lemmas in this text that loaded on the factor:
+
+censo
+cidade
+demográfico
+distrito
+estimar
+grande
+habitante
+localizar
+população
+subprefeitura

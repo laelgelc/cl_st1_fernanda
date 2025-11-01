@@ -1,0 +1,23 @@
+file = fat000694
+date = 23-24
+user = r06_u168
+conversation = t000016_2_SENSIBILIZAÇÃO_Paragraph_1
+URL = No_URL
+
+word count = 61
+words loading = 3
+factor score = -2
+
+Para a efetivação do cronograma destaca -se algumas das **ações** para a 
+realização dos **procedimentos** de autoavaliação. Para sensibilização da 
+comunidade **acadêmica** foram desenvolvidas algumas peças que foram 
+publicizadas no âmbito institucional ( lives, microsot Teams e redes sociais ) 
+. Também foram pelos gestores institucionais mecanismos de trocas de mensagens 
+instantâneas ( WhatsApp e Telegram ) direcionados exclusivamente a professores, 
+discentes e pessoal administrativo da IES. 
+
+Lemmas in this text that loaded on the factor:
+
+acadêmico (secondary)
+ação
+procedimento

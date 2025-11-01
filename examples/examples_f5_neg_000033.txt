@@ -1,0 +1,19 @@
+file = fat000826
+date = 23-24
+user = r06_u270
+conversation = t000019_3_DESENVOLVIMENTO_Paragraph_1
+URL = No_URL
+
+word count = 48
+words loading = 1
+factor score = -1
+
+Por volta de 50 % da comunidade acadêmica relata não conhecer o uso dos 
+indicadores para o planejamento institucional, necessitando de um reforço de 
+ações de **esclarecimento** durante o próximo período de sensibilização. Quase 
+50 % dos alunos reportam não conhecer o Regimento das Fatecs, necessitando 
+ações de **esclarecimento** . 
+
+Lemmas in this text that loaded on the factor:
+
+esclarecimento

@@ -1,0 +1,19 @@
+file = fat001329
+date = 23
+user = r06_u137
+conversation = t000034_2_DESENVOLVIMENTO_Paragraph_1
+URL = No_URL
+
+word count = 49
+words loading = 1
+factor score = -1
+
+A indústria, com 1 , 1 milhão de pessoas, emprega 16 , 4 % dos trabalhadores 
+brasileiros deste setor. Neste mesmo segmento, os mais de 47 mil 
+estabelecimentos localizados no território metropolitano respondem por 13 % do 
+parque industrial brasileiro, mais de 46 % do **montante** estadual e 
+aproximadamente metade dos industriários paulistas. 
+
+Lemmas in this text that loaded on the factor:
+
+montante

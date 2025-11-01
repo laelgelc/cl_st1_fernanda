@@ -1,0 +1,42 @@
+file = fat001599
+date = 23
+user = r06_u005
+conversation = t000040_1_INTRODUÇÃO_Paragraph_2
+URL = No_URL
+
+word count = 65
+words loading = 21
+factor score = 20
+
+**Objetivos** : 1 **Atender** às **demandas** sociais e do **mercado** de 
+trabalho. 2 **Alcançar** e manter o **grau** de **excelência** em seus 
+processos de **ensino** e **aprendizagem** . 3 Garantir **celeridade** e 
+**efetividade** na **prestação** de **serviços** . 4 **Assegurar** a 
+**perenidade** do **crescimento** da instituição com recursos financeiros 
+disponíveis; 5 **Formar** **profissionais** atualizados em **tecnologias** e 
+processos produtivos, **capazes** de **atuar** no desenvolvimento tecnológico e 
+inovação. 
+
+Lemmas in this text that loaded on the factor:
+
+alcançar
+aprendizagem
+assegurar
+atender
+atuar
+capaz
+celeridade
+crescimento
+demanda
+efetividade
+ensino (secondary)
+excelência
+formar
+grau
+mercado
+objetivo
+perenidade
+prestação
+profissional
+serviço
+tecnologia

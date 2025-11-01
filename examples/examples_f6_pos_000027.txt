@@ -1,0 +1,25 @@
+file = fat003201
+date = 23-24
+user = r06_u137
+conversation = t000110_1_FORMAÇÃO_GERAL_Paragraph_2
+URL = No_URL
+
+word count = 72
+words loading = 5
+factor score = 3
+
+2 . Tendo em vista que as **questões** de formação geral com **maior** 
+**número** de erros evidenciaram dificuldade dos alunos referentes à 
+**interpretação** de **textos** e gráficos, é de suma importância que as aulas 
+de Fundamentos da Comunicação e Expressão I e II enfatizem **textos** que 
+tragam gráficos, gravuras, cores e resultados numéricos. Também devem ser 
+reforçadas atividades que desenvolvam a capacidade de interpretar palavras como 
+" analise, descreva, discorra, explique, selecione, relacione " , entre outras. 
+
+Lemmas in this text that loaded on the factor:
+
+grande (secondary)
+interpretação
+número
+questão (secondary)
+texto

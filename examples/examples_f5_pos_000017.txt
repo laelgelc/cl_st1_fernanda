@@ -1,0 +1,33 @@
+file = fat000903
+date = 24-25
+user = r06_u129
+conversation = t000023_3_DESENVOLVIMENTO_Paragraph_13
+URL = No_URL
+
+word count = 61
+words loading = 13
+factor score = 9
+
+O Plano de Desenvolvimento Institucional ( **Ano** 2022 – **Ano** 2026 ) foi um 
+dos principais documentos que **nortearam** as **ações** da Fatec Praia Grande 
+tratou -se de um documento que se **caracterizou** como uma **identidade** da 
+Instituição, **definindo** , **dentre** outros, sua **filosofia** de trabalho, 
+**missão** , estratégias, **objetivos** , estrutura e **diretrizes** 
+**pedagógicas** , algo a ser **continuado** no PDI para os **anos** de 2025 e 
+2026 . 
+
+Lemmas in this text that loaded on the factor:
+
+ano
+ação (secondary)
+caracterizar
+continuar
+definir
+dentrar (secondary)
+diretriz
+filosofia
+identidade
+missão (secondary)
+nortear
+objetivo (secondary)
+pedagógico

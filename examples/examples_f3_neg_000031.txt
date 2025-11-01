@@ -1,0 +1,25 @@
+file = fat000825
+date = 23-24
+user = r06_u270
+conversation = t000019_2_SENSIBILIZAÇÃO_Paragraph_1
+URL = No_URL
+
+word count = 94
+words loading = 3
+factor score = -2
+
+**Ações** de sensibilização da comunidade **acadêmica** Para a efetivação do 
+cronograma destaca -se algumas das **ações** para a realização dos 
+**procedimentos** de autoavaliação. Foram realizadas 3 apresentações da CPA 
+divulgando a autoavaliação de 2022 . Uma com os representantes discentes, em 
+junho de 2023 , e duas com os professores em maio e agosto de 2023 . Nas 
+ocasiões foram divulgados os dados colhidos no WebSai2022 e o relatório de 
+autoavaliação desenvolvido pela CPA. Em setembro de 2023 , foi realizada uma 
+reunião com a direção unidade, a CPA e a responsável regional para sistematizar 
+a autoavaliação de 2023 . 
+
+Lemmas in this text that loaded on the factor:
+
+acadêmico (secondary)
+ação
+procedimento

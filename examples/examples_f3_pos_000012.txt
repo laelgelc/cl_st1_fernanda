@@ -1,0 +1,31 @@
+file = fat001687
+date = 23
+user = r06_u160
+conversation = t000045_1_ANÁLISE_DO_CENÁRIO_Paragraph_4
+URL = No_URL
+
+word count = 88
+words loading = 10
+factor score = 10
+
+O PIB **Industrial** é de cerca de R$ 29 , 7 bilhões, sendo o 2º do **Estado** 
+( atrás apenas de São Paulo ) e o 3º do país ( superado apenas pela **capital** 
+paulista e por Campos dos Goytacazes ) . O **setor** **industrial** ainda 
+representa fatia considerável no desenvolvimento socioeconômico da **região** . 
+Segundo dados do Observatório Econômico da Universidade Metodista, o **Grande** 
+ABC conta com mais de 24 mil **indústrias** distribuídas entre os sete 
+**municípios** que empregam aproximadamente 26 % da **população** 
+economicamente ativa, proporção superior à **cidade** de São Paulo ( 13 % ) . 
+
+Lemmas in this text that loaded on the factor:
+
+capital
+cidade
+estado
+grande
+industrial
+indústria
+município
+população
+região
+setor

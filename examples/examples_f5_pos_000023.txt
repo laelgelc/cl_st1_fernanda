@@ -1,0 +1,33 @@
+file = fat000744
+date = 23-24
+user = r06_u204
+conversation = t000017_3_DESENVOLVIMENTO_Paragraph_10
+URL = No_URL
+
+word count = 60
+words loading = 13
+factor score = 9
+
+O Plano de Desenvolvimento institucional ( **Ano** 2022 – **Ano** 2026 ) foi um 
+dos principais documentos que **nortearam** as **ações** da Fatec Ipiranga 
+Pastor Enéas Tognini; tratou -se de um documento que se **caracterizou** como 
+uma **identidade** da Instituição, **definindo** , **dentre** outros, sua 
+**filosofia** de trabalho, **missão** , estratégias, **objetivos** , estrutura 
+e **diretrizes** **pedagógicas** , algo a ser **continuado** no PDI para os 
+**anos** seguintes. 
+
+Lemmas in this text that loaded on the factor:
+
+ano
+ação (secondary)
+caracterizar
+continuar
+definir
+dentrar (secondary)
+diretriz
+filosofia
+identidade
+missão (secondary)
+nortear
+objetivo (secondary)
+pedagógico

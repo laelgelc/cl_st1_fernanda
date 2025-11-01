@@ -1,0 +1,32 @@
+file = fat000735
+date = 23-24
+user = r06_u204
+conversation = t000017_3_DESENVOLVIMENTO_Paragraph_1
+URL = No_URL
+
+word count = 74
+words loading = 11
+factor score = 11
+
+Para a **dimensão** 8 está relacionada a **Questão** 13 , sendo que 49 , 30 % 
+dos **discentes** **avaliaram** como " **Excelente** e **Bom** " o uso dos 
+indicadores do WebSai no Planejamento Institucional. Apenas 9 , 85 % dos 
+**discentes** **avaliaram** como " Insuficiente " . **Destaca** -se que 16 , 63 
+% dos alunos " não **souberam** **responder** " . Este é um ponto que 
+**merece** **atenção** e que serão tomadas medidas para informar e esclarecer 
+aos alunos a **questão** do uso dos Indicadores WebSai no Planejamento 
+Institucional. 
+
+Lemmas in this text that loaded on the factor:
+
+atenção
+avaliar
+bom
+destacar
+dimensão
+discente
+excelente
+merecer
+questão
+responder
+saber

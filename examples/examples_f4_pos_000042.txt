@@ -1,0 +1,30 @@
+file = fat001130
+date = 24-25
+user = r06_u217
+conversation = t000028_3_DESENVOLVIMENTO_Paragraph_2
+URL = No_URL
+
+word count = 69
+words loading = 10
+factor score = 10
+
+Quando separamos cada categoria a percepção de cada segmento é diversa, cerca 
+de 67 % dos **docentes** **avaliam** esse eixo como muito **bom** ou **bom** , 
+esse percentual passa a 93 % quando se trata do **corpo** técnico 
+**administrativo** e para 26 % quando se trata dos **discentes** , 
+**destacamos** que 38 % dos **discentes** não **sabem** **responder** ou não 
+**sabe** informar sobre o tema. Esses indicadores ajudam no **planejamento** 
+das ações da Fatec. 
+
+Lemmas in this text that loaded on the factor:
+
+administrativo
+avaliar
+bom
+corpo
+destacar
+discente
+docente
+planejamento
+responder
+saber

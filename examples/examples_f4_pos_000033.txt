@@ -1,0 +1,35 @@
+file = fat000502
+date = 23-24
+user = r06_u005
+conversation = t000010_3_DESENVOLVIMENTO_Paragraph_12
+URL = No_URL
+
+word count = 104
+words loading = 12
+factor score = 11
+
+**Dimensão** 2 : **Políticas** para o Ensino, a Pesquisa e a **Extensão** , 
+nesta **dimensão** as **questões** relacionadas são a 3 e 4 para os três 
+perfis. Na **Questão** 3 , que trata do domínio dos conteúdos pelo **corpo** 
+**discente** , uso de metodologias entre outros aspectos, 64 , 85 % 
+**avaliaram** como " **Excelente** e **Bom** " , enquanto 25 , 31 % como " 
+Regular " e apenas 9 , 83 % " Insuficiente " . Diante do exposto, **considera** 
+-se este resultado positivo. Além disso, demonstra o resultado das ações das 
+coordenações de cursos, no assessoramento e acompanhamento das atividades 
+**docentes** , tais como: reuniões de **planejamento** , validação e 
+acompanhamento da execução dos planos de ensino e reuniões com o NDE. 
+
+Lemmas in this text that loaded on the factor:
+
+avaliar
+bom
+considerar
+corpo
+dimensão
+discente
+docente
+excelente
+extensão (secondary)
+planejamento
+política
+questão

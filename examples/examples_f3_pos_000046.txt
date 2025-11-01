@@ -1,0 +1,31 @@
+file = fat001444
+date = 23
+user = r06_u168
+conversation = t000036_1_INTRODUÇÃO_Paragraph_2
+URL = No_URL
+
+word count = 96
+words loading = 8
+factor score = 7
+
+Enquanto o PIB do Grande ABC totaliza R$ 128 , 4 bilhões, o PIB **industrial** 
+da **região** soma R$ 30 , 6 bilhões, cujo valor da transformação 
+**industrial** está distribuído, majoritariamente, nos seguintes **setores** de 
+atividade **econômica** : Veículos Automotores, Reboques e Carrocerias; 
+Borracha e Material Plástico; Produtos **Químicos** ; Produtos de Metal; 
+Metalurgia; e Produtos Alimentícios ( FUNDAÇÃO SEADE, 2023 ) . A Fatec Antonio 
+Russo está sediada em São Caetano do Sul, **cidade** **localizada** na 
+**região** do ABC Paulista, onde faz divisa com os **municípios** de Santo 
+André , São Bernardo do Campo e São Paulo. Plano de Desenvolvimento 
+Institucional – PDI 2022-2026 
+
+Lemmas in this text that loaded on the factor:
+
+cidade
+econômico
+industrial
+localizar
+município
+químico (secondary)
+região
+setor

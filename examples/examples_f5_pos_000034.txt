@@ -1,0 +1,66 @@
+file = fat000008
+date = 22-23
+user = r06_u005
+conversation = t000000_4_PLANEJAMENTO_E_AVALIAÇÃO_INSTITUCIONAL_Paragraph_2
+URL = No_URL
+
+word count = 434
+words loading = 12
+factor score = 9
+
+Capacitar e incentivar a utilização de novas metodologias e tecnologias de 
+ensino. Palestrantes e profissionais da área junto a visitas técnicas Fomentar 
+inovações no processo de ensino-aprendizagem, criando estratégias para o ensino 
+inovador. Expandir **ações** e evento junto a comunidade externa e atuar junto 
+as empresas para que alunos sejam contratados LEI Nº 8 . 213 , DE 24 DE JULHO 
+DE 1991 . Estimular a informação **continuada** em busca das **metas** e 
+**objetivos** institucionais para o alcance destes e monitorar os indicadores 
+da **unidade** com os da instituição. Fomentar ambientes institucionais de 
+**discussão** de propostas e estratégias para o ensino inovador e prover o 
+desenvolvimento social. Pesquisas junto as empresas, congresso CITEG – e 
+publicação em jornais e revistas locais. Melhorar a comunicação e incentivar a 
+comunidade acadêmica a participar dos programas já implantados. Acompanhar e 
+refletir o caráter sistêmico do processo de ensino aprendizagem, analisando a 
+sua importância nas relações bilaterais que envolve uma **unidade** de ensino. 
+Fazer da avaliação do processo de aprendizagem uma **ação** contínua, 
+analisando as diferentes etapas do processo; avaliar o processo e não apenas o 
+produto; avaliar a aprendizagem de formação de valores com o mesmo interesse 
+que os conteúdos conceituais; Fazer a avaliação ocorrer em todos os momentos do 
+processo, ou seja, no início ( diagnóstica ) , no final ( somativa ) , e longo 
+de todo o processo ( formativa ) . Incentivar a participação nos cursos de 
+capacitação oferecidos pelo CPS. Estimular a participação em atividades de 
+**extensão** , oferecidas pelo CPS e por outras Fatecs. . Monitorar os 
+indicadores de participação. Estreitar relação institucional entre empresas, 
+faculdade e CIEE entre outros. Criação de espaço de divulgação dos estágios. ( 
+mural, site da Fatec. Disponibilizar e oferecer mecanismos de obtenção de 
+qualificação e capacitação destinadas ao corpo docente, acrescido de 
+treinamentos profissionais e cursos de curta duração ou " livres " específicos 
+e inerentes à área de atuação dos mesmos. Incentivar a busca da titulação. 
+Expandir **ações** já realizadas com empresas e setor produtivo se possível 
+desenvolver convênios, parcerias etc. , junto ao CPS como por exemplo 
+chamamento público para fins específicos tem contribuído muito. Criar programas 
+de **extensão** e pós-graduação, quando possível e autorizado. Cronograma 
+**anual** para estes. Divulgar e estimular a participação em atividades de 
+**extensão** , para informar o que há e como, quando e onde fazer. Incentivar o 
+corpo docente para qualificação constante. Aperfeiçoamento **Pedagógico** – 
+SPAP, Congressos do CPS e de outras Fatecs, além das palestras de seminários 
+oferecidos durante o semestre letivo. Monitorar os indicadores de participação. 
+Elaborar um **relatório** semestral das **ações** sobre **melhoria** de 
+**infraestrutura** que contemple: Necessidades, Solicitações, Recebimento e não 
+recebimento de Doações. Plano de expansão da **unidade** e impactos na 
+infraestrura atual e futura. 
+
+Lemmas in this text that loaded on the factor:
+
+anual
+ação (secondary)
+continuar
+discussão
+extensão
+infraestrutura
+melhoria
+meta (secondary)
+objetivo (secondary)
+pedagógico
+relatório
+unidade

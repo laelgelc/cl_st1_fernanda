@@ -1,0 +1,52 @@
+file = fat002105
+date = 25
+user = r06_u113
+conversation = t000061_1_ANÁLISE_DO_CENÁRIO_Paragraph_11
+URL = No_URL
+
+word count = 76
+words loading = 29
+factor score = 26
+
+Ações **pedagógicas** : **visitas** técnicas, **projetos** **integradores** / 
+**interdisciplinares** , **dias** de **campo** , **feira** das **profissões** , 
+**cursos** **extracurriculares** para **alunos** . O que será **feito** : 
+Planejar **visitas** técnicas em diversas **empresas** e **prestadores** de 
+serviços para **área** de Desenvolvimento de Software Multiplataforma. Por que 
+será **feito** : Promover a interação didático-pedagógica – Teoria de **sala** 
+de **aula** x prática nos processos **operacionais** ( se for o caso ) . 
+situação-problema: **Metodologia** de **ensino** , **desempenho** de **alunos** 
+, **evasão** ( a ser **resolvida** / **mitigada** ) Participação da 
+**comunidade** e **sociedade** 
+
+Lemmas in this text that loaded on the factor:
+
+aluno
+aula (secondary)
+campo
+comunidade
+curso
+desempenho
+dia
+empresa
+ensino
+evasão
+extracurricular
+fazer
+feira
+integrador
+interdisciplinar
+metodologia
+mitigar
+operacional
+pedagógico (secondary)
+prestador
+problema
+profissão
+projeto
+resolver
+sala
+situação
+sociedade
+visita
+área (secondary)

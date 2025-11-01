@@ -1,0 +1,29 @@
+file = fat001980
+date = 24
+user = r06_u168
+conversation = t000056_1_ANÁLISE_DO_CENÁRIO_Paragraph_33
+URL = No_URL
+
+word count = 91
+words loading = 7
+factor score = 3
+
+Adequação / reestruturação de PPC, **implantação** de novos **cursos** . O que 
+será feito: **Estruturação** de proposta para atualização do PPC do CST em 
+Jogos **Digitais** por meio de análise do perfil **profissional** do egresso 
+atual, das necessidades do setor e da identificação de novo perfil 
+**profissional** do egresso, competências a serem desenvolvidas e definição de 
+nova estrutura **curricular** de forma a contemplar essas competências. por que 
+será feito: Atualização do Projeto Pedagógico do **Curso** em função das 
+necessidades do setor. Metodologia de ensino, **desempenho** de alunos, evasão 
+( a ser resolvida / mitigada ) 
+
+Lemmas in this text that loaded on the factor:
+
+curricular
+curso (secondary)
+desempenho (secondary)
+digital
+estruturação
+implantação (secondary)
+profissional (secondary)

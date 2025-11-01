@@ -1,0 +1,31 @@
+file = fat001535
+date = 23
+user = r06_u217
+conversation = t000038_1_INTRODUÇÃO_Paragraph_4
+URL = No_URL
+
+word count = 119
+words loading = 8
+factor score = 8
+
+**Diadema** é formado apenas pelo **distrito** sede e, segundo divisão oficial 
+estabelecida pelo Plano Diretor Municipal, reconhecida pelo IBGE, o 
+**município** é dividido em onze bairros, sendo Taboão o mais populoso, com 
+estimativa de 30 mil **habitantes** e Eldorado o **maior** em **área** , com 6 
+, 69 km² onde habitam cerca de 42 . 637 pessoas sendo a maioria de jovens e 
+crianças ( **Censo** IBGE 2010 ) . Ainda de acordo com o IBGE, o Produto 
+Interno Bruto ( PIB ) de **Diadema** , em 2011 , era de 11 . 786 . 624 mil 
+reais ( 0 , 28 % do PIB nacional ) , sendo o 47º **maior** do Brasil e o décimo 
+terceiro **maior** do **estado** . Desse total, 1 . 866 . 358 mil são de 
+impostos sobre produtos líquidos de subsídios. 
+
+Lemmas in this text that loaded on the factor:
+
+censo
+diadema
+distrito
+estado
+grande
+habitante
+município
+área

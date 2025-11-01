@@ -1,0 +1,29 @@
+file = fat002448
+date = 26
+user = r06_u160
+conversation = t000075_1_ANÁLISE_DO_CENÁRIO_Paragraph_9
+URL = No_URL
+
+word count = 57
+words loading = 10
+factor score = 6
+
+**Estruturação** de proposta para atualização do PPC de Eletrônica Automotiva 
+mediante a análise dos conteúdos **programáticos** das **componentes** 
+**curriculares** do **curso** e construção da nova **grade** **curricular** 
+segundo as **exigências** mercadológicas Para atualização do PPC em **virtude** 
+do avanço tecnológico na área e da crescente demanda por **profissionais** 
+**formados** com o perfil do egresso do **curso** . 
+
+Lemmas in this text that loaded on the factor:
+
+componente
+curricular
+curso (secondary)
+estruturação
+exigência
+formar (secondary)
+grade
+profissional (secondary)
+programático (secondary)
+virtude

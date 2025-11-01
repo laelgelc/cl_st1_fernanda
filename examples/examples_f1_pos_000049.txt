@@ -1,0 +1,42 @@
+file = fat001714
+date = 23
+user = r06_u168
+conversation = t000046_1_ANÁLISE_DO_CENÁRIO_Paragraph_10
+URL = No_URL
+
+word count = 140
+words loading = 15
+factor score = 15
+
+Elaboração do evento temático anual do Curso Superior em **Tecnologia** em 
+Segurança da Informação conhecido por FATEC SecurityDay. O que será feito: 
+Preparação de um evento com palestras e demonstrações práticas das ações e 
+ferramentas ligadas à Segurança Cibernética Por que será feito: Nossos 
+estudantes devem ser apresentados ao **mercado** formal da área de Segurança 
+Cibernética por meio de eventos que trazem **profissionais** e empresas da 
+área, desenvolvendo um contato próximo a eles. Aumentar a **eficiência** , a 
+**produtividade** e a **competitividade** da instituição **Atender** às 
+**demandas** sociais e do **mercado** de trabalho. **Formar** **profissionais** 
+atualizados em **tecnologias** e processos produtivos, **capazes** de **atuar** 
+no desenvolvimento tecnológico e inovação. **Meta** ( s ) **relacionada** ( s ) 
+: Ampliar as inscrições para o vestibular em 5 % no ano de 2023 . Promover 
+ações pedagógicas e administrativas que proporcionem a **redução** da **taxa** 
+de evasão em 5 % 
+
+Lemmas in this text that loaded on the factor:
+
+atender
+atuar
+capaz
+competitividade
+demanda
+eficiência
+formar
+mercado
+meta
+produtividade
+profissional
+redução
+relacionar
+taxa
+tecnologia

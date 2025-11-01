@@ -1,0 +1,35 @@
+file = fat001053
+date = 24-25
+user = r06_u168
+conversation = t000026_4_DESENVOLVIMENTO_Paragraph_47
+URL = No_URL
+
+word count = 195
+words loading = 4
+factor score = -2
+
+Através do site, as comunidades **acadêmicas** , interna e externa mantêm -se 
+informadas a respeito dos serviços oferecidos pela Fatec São Caetano do Sul - 
+Antonio Russo, bem como a respeito da realização de eventos, semanas de cursos, 
+palestras, workshops, entre outros. Para reforçar o fluxo de informações, a 
+Fatec São Caetano do Sul - Antonio Russo conta, também, com os murais 
+informativos instalados nas salas-de-aula, no hall e em diversas dependências 
+da faculdade. Esses murais têm como finalidade socializar todas as informações 
+pertinentes ao alunado, **docentes** e comunidade, servindo como propagadores 
+de informações. Além dos murais supracitados, a Fatec São Caetano do Sul - 
+Antonio Russo conta, também, com diversas **ações** internas de comunicação, 
+como a TV Fatec que foi criada há três anos, tendo como público algo principal 
+a comunidade **acadêmica** , com programação quinzenal e função de publicizar 
+as **ações** institucionais, palestras, fóruns, eventos e informes. Por fim, 
+ressaltamos que, para a análise desse aspecto, foram considerados os mecanismos 
+de comunicação existentes na Fatec São Caetano do Sul - Antonio Russo e que 
+encontram -se em pleno funcionamento. Promovendo todos os esforços para mante o 
+diálogo com sua comunidade **acadêmica** por meio de softwares de troca de 
+mensagens ( telegrama, whatzapp e teams ) . 
+
+Lemmas in this text that loaded on the factor:
+
+acadêmico (secondary)
+aula
+ação
+docente (secondary)

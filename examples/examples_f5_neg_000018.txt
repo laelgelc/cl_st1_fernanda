@@ -1,0 +1,24 @@
+file = fat002989
+date = 23
+user = r06_u204
+conversation = t000097_3_CENÁRIO_Paragraph_7
+URL = No_URL
+
+word count = 100
+words loading = 2
+factor score = -2
+
+Outro importante fator a ser mencionado é o cenário pós pandemia. Um número 
+expressivo de alunos com problemas de ordem psicológica **desafia** as 
+Instituições de Ensino a **rever** as práticas educacionais e ampliar a 
+formação humanista e socioemocional. Sem contar, o impacto das gerações 
+formadas no ensino médio durante a pandemia, com significativa defasagem 
+formativa, o que exige um contínuo trabalho de " nivelamento e recuperação da 
+aprendizagem " . Um outro desdobramento deste cenário pós pandemia e de impacto 
+direto nas Instituições de Ensino é um número cada vez maior de alunos 
+interessados no ensino híbrido e da educação à distância. 
+
+Lemmas in this text that loaded on the factor:
+
+desafiar
+rever

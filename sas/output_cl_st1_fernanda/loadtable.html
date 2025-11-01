@@ -1,0 +1,4806 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<meta name="Generator" content="SAS Software Version 9.4, see www.sas.com">
+<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+<title>SAS Output</title>
+<style type="text/css">
+<!--
+.accessiblecaption
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.activelink
+{
+  color: #800080;
+}
+.aftercaption
+{
+  background-color: #FAFBFE;
+  border-spacing: 0px;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+  padding-top: 4pt;
+}
+.batch
+{
+  background-color: #FAFBFE;
+  border: 1px solid #C1C1C1;
+  border-collapse: separate;
+  border-spacing: 1px;
+  color: #000000;
+  font-family: 'SAS Monospace', 'Courier New', Courier, monospace;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  padding: 7px;
+}
+.beforecaption
+{
+  background-color: #FAFBFE;
+  border-spacing: 0px;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.body
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  margin-left: 8px;
+  margin-right: 8px;
+}
+.bodydate
+{
+  background-color: #FAFBFE;
+  border-spacing: 0px;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  text-align: right;
+  vertical-align: top;
+  width: 100%;
+}
+.bycontentfolder
+{
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: none;
+  margin-left: 6pt;
+}
+.byline
+{
+  background-color: #FAFBFE;
+  border-spacing: 0px;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.bylinecontainer
+{
+  background-color: #FAFBFE;
+  border: 0px solid #000000;
+  border-spacing: 1px;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  width: 100%;
+}
+.caption
+{
+  background-color: #FAFBFE;
+  border-spacing: 0px;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.cell
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.container
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.contentfolder
+{
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: none;
+  margin-left: 6pt;
+}
+.contentitem
+{
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: none;
+  margin-left: 6pt;
+}
+.contentproclabel
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.contentprocname
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.contents
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: decimal;
+  margin-left: 8px;
+  margin-right: 8px;
+}
+.contentsdate
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  width: 100%;
+}
+.contenttitle
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: italic;
+  font-weight: bold;
+}
+.continued
+{
+  background-color: #FAFBFE;
+  border-spacing: 0px;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+  width: 100%;
+}
+.data
+{
+  background-color: #FFFFFF;
+  border-bottom-width: 1px;
+  border-color: #C1C1C1;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.dataemphasis
+{
+  background-color: #FFFFFF;
+  border-bottom-width: 1px;
+  border-color: #C1C1C1;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.dataemphasisfixed
+{
+  background-color: #FFFFFF;
+  border-bottom-width: 1px;
+  border-color: #C1C1C1;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: x-small;
+  font-style: italic;
+  font-weight: normal;
+}
+.dataempty
+{
+  background-color: #FFFFFF;
+  border-bottom-width: 1px;
+  border-color: #C1C1C1;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.datafixed
+{
+  background-color: #FFFFFF;
+  border-bottom-width: 1px;
+  border-color: #C1C1C1;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  font-family: 'Courier New', Courier;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.datastrong
+{
+  background-color: #FFFFFF;
+  border-bottom-width: 1px;
+  border-color: #C1C1C1;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.datastrongfixed
+{
+  background-color: #FFFFFF;
+  border-bottom-width: 1px;
+  border-color: #C1C1C1;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #000000;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.date
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  width: 100%;
+}
+.document
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+a:link {
+color:#0000FF
+}
+a:visited {
+color:#800080
+}
+a:active {
+color:#800080
+}
+.errorbanner
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.errorcontent
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.errorcontentfixed
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: 'Courier New', Courier;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.extendedpage
+{
+  background-color: #FAFBFE;
+  border: 1pt solid #000000;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: italic;
+  font-weight: normal;
+  text-align: center;
+}
+.fatalbanner
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.fatalcontent
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.fatalcontentfixed
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: 'Courier New', Courier;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.folderaction
+{
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: none;
+  margin-left: 6pt;
+}
+.footer
+{
+  background-color: #EDF2F9;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.footeremphasis
+{
+  background-color: #EDF2F9;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: italic;
+  font-weight: normal;
+}
+.footeremphasisfixed
+{
+  background-color: #EDF2F9;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #112277;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: x-small;
+  font-style: italic;
+  font-weight: normal;
+}
+.footerempty
+{
+  background-color: #EDF2F9;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.footerfixed
+{
+  background-color: #EDF2F9;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #112277;
+  font-family: 'Courier New', Courier;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.footerstrong
+{
+  background-color: #EDF2F9;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.footerstrongfixed
+{
+  background-color: #EDF2F9;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #112277;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.frame
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.graph
+{
+  background-color: #FAFBFE;
+  border: 1px solid #C1C1C1;
+  border-collapse: separate;
+  border-spacing: 1px;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.header
+{
+  background-color: #EDF2F9;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.headeremphasis
+{
+  background-color: #D8DBD3;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: italic;
+  font-weight: normal;
+}
+.headeremphasisfixed
+{
+  background-color: #D8DBD3;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #000000;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: x-small;
+  font-style: italic;
+  font-weight: normal;
+}
+.headerempty
+{
+  background-color: #EDF2F9;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.headerfixed
+{
+  background-color: #EDF2F9;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #112277;
+  font-family: 'Courier New', Courier;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.headersandfooters
+{
+  background-color: #EDF2F9;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.headerstrong
+{
+  background-color: #D8DBD3;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.headerstrongfixed
+{
+  background-color: #D8DBD3;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #000000;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.heading1
+{
+  font-family: Arial, Helvetica, sans-serif;
+}
+.heading2
+{
+  font-family: Arial, Helvetica, sans-serif;
+}
+.heading3
+{
+  font-family: Arial, Helvetica, sans-serif;
+}
+.heading4
+{
+  font-family: Arial, Helvetica, sans-serif;
+}
+.heading5
+{
+  font-family: Arial, Helvetica, sans-serif;
+}
+.heading6
+{
+  font-family: Arial, Helvetica, sans-serif;
+}
+.index
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.indexaction
+{
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: none;
+  margin-left: 6pt;
+}
+.indexitem
+{
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: none;
+  margin-left: 6pt;
+}
+.indexprocname
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.indextitle
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: italic;
+  font-weight: bold;
+}
+.layoutcontainer
+{
+  border: 0px solid #000000;
+  border-spacing: 30px;
+}
+.layoutregion
+{
+  border: 0px solid #000000;
+  border-spacing: 30px;
+}
+.linecontent
+{
+  background-color: #FAFBFE;
+  border-bottom-width: 1px;
+  border-color: #C1C1C1;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.link
+{
+  color: #0000FF;
+}
+.list
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: disc;
+}
+.list10
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: square;
+}
+.list2
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: circle;
+}
+.list3
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: square;
+}
+.list4
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: square;
+}
+.list5
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: square;
+}
+.list6
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: square;
+}
+.list7
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: square;
+}
+.list8
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: square;
+}
+.list9
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: square;
+}
+.listitem
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: disc;
+}
+.listitem10
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: square;
+}
+.listitem2
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: circle;
+}
+.listitem3
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: square;
+}
+.listitem4
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: square;
+}
+.listitem5
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: square;
+}
+.listitem6
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: square;
+}
+.listitem7
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: square;
+}
+.listitem8
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: square;
+}
+.listitem9
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: square;
+}
+.note
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.notebanner
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.notecontent
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.notecontentfixed
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: 'Courier New', Courier;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.output
+{
+  background-color: #FAFBFE;
+  border: 1px solid #C1C1C1;
+  border-collapse: separate;
+  border-spacing: 1px;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.pageno
+{
+  background-color: #FAFBFE;
+  border-spacing: 0px;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+  text-align: right;
+  vertical-align: top;
+}
+.pages
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: decimal;
+  margin-left: 8px;
+  margin-right: 8px;
+}
+.pagesdate
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  width: 100%;
+}
+.pagesitem
+{
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: none;
+  margin-left: 6pt;
+}
+.pagesproclabel
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.pagesprocname
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.pagestitle
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: italic;
+  font-weight: bold;
+}
+.paragraph
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.parskip
+{
+  border: 0px solid #000000;
+  border-spacing: 0px;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.prepage
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  text-align: left;
+}
+.proctitle
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.proctitlefixed
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.rowfooter
+{
+  background-color: #EDF2F9;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.rowfooteremphasis
+{
+  background-color: #EDF2F9;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: italic;
+  font-weight: normal;
+}
+.rowfooteremphasisfixed
+{
+  background-color: #EDF2F9;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #112277;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: x-small;
+  font-style: italic;
+  font-weight: normal;
+}
+.rowfooterempty
+{
+  background-color: #EDF2F9;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.rowfooterfixed
+{
+  background-color: #EDF2F9;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #112277;
+  font-family: 'Courier New', Courier;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.rowfooterstrong
+{
+  background-color: #EDF2F9;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.rowfooterstrongfixed
+{
+  background-color: #EDF2F9;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #112277;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.rowheader
+{
+  background-color: #EDF2F9;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.rowheaderemphasis
+{
+  background-color: #EDF2F9;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: italic;
+  font-weight: normal;
+}
+.rowheaderemphasisfixed
+{
+  background-color: #EDF2F9;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #112277;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: x-small;
+  font-style: italic;
+  font-weight: normal;
+}
+.rowheaderempty
+{
+  background-color: #EDF2F9;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.rowheaderfixed
+{
+  background-color: #EDF2F9;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #112277;
+  font-family: 'Courier New', Courier;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.rowheaderstrong
+{
+  background-color: #EDF2F9;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.rowheaderstrongfixed
+{
+  background-color: #EDF2F9;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #112277;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.systemfooter
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.systemfooter10
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.systemfooter2
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.systemfooter3
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.systemfooter4
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.systemfooter5
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.systemfooter6
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.systemfooter7
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.systemfooter8
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.systemfooter9
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.systemtitle
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: small;
+  font-style: normal;
+  font-weight: bold;
+}
+.systemtitle10
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: small;
+  font-style: normal;
+  font-weight: bold;
+}
+.systemtitle2
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: small;
+  font-style: normal;
+  font-weight: bold;
+}
+.systemtitle3
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: small;
+  font-style: normal;
+  font-weight: bold;
+}
+.systemtitle4
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: small;
+  font-style: normal;
+  font-weight: bold;
+}
+.systemtitle5
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: small;
+  font-style: normal;
+  font-weight: bold;
+}
+.systemtitle6
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: small;
+  font-style: normal;
+  font-weight: bold;
+}
+.systemtitle7
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: small;
+  font-style: normal;
+  font-weight: bold;
+}
+.systemtitle8
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: small;
+  font-style: normal;
+  font-weight: bold;
+}
+.systemtitle9
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: small;
+  font-style: normal;
+  font-weight: bold;
+}
+.systitleandfootercontainer
+{
+  background-color: #FAFBFE;
+  border: 0px solid #000000;
+  border-spacing: 1px;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  width: 100%;
+}
+.table
+{
+  border-bottom-width: 0px;
+  border-collapse: collapse;
+  border-color: #C1C1C1;
+  border-left-width: 1px;
+  border-right-width: 0px;
+  border-spacing: 0px;
+  border-style: solid;
+  border-top-width: 1px;
+}
+.top_stacked_value
+{
+  padding-bottom: 1px;
+  border: 0;
+}
+.middle_stacked_value
+{
+  padding-top: 1px;
+  padding-bottom: 1px;
+  border: 0;
+}
+.bottom_stacked_value
+{
+  padding-top: 1px;
+  border: 0;
+}
+.titleandnotecontainer
+{
+  background-color: #FAFBFE;
+  border: 0px solid #000000;
+  border-spacing: 1px;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  width: 100%;
+}
+.titlesandfooters
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.usertext
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.visitedlink
+{
+  color: #800080;
+}
+.warnbanner
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.warncontent
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.warncontentfixed
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: 'Courier New', Courier;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.l {text-align: left }
+.c {text-align: center }
+.r {text-align: right }
+.d {text-align: right }
+.j {text-align: justify }
+.t {vertical-align: top }
+.m {vertical-align: middle }
+.b {vertical-align: bottom }
+TD, TH {vertical-align: top }
+.stacked_cell{padding: 0 }
+-->
+</style>
+</head>
+<body class="body">
+
+<div class="branch">
+<a name="IDX"></a>
+<table class="systitleandfootercontainer" width="100%" cellspacing="1" cellpadding="1" rules="none" frame="void" border="0" summary="Page Layout">
+<tr>
+<td class="c systemtitle">LOADINGS TABLE</td>
+</tr>
+<tr>
+<td class="c systemtitle2">Factor 1 pos</td>
+</tr>
+</table><br>
+<div>
+<div align="center">
+<table class="table" cellspacing="0" cellpadding="5" rules="all" frame="box" bordercolor="#C1C1C1" summary="Procedure Print: Data Set WORK.TEMP4">
+<colgroup>
+<col>
+</colgroup>
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="r header" scope="col">Obs</th>
+<th class="l header" scope="col">l</th>
+<th class="l header" scope="col">_NAME_</th>
+<th class="r header" scope="col">Factor1</th>
+<th class="l header" scope="col">r</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th class="r rowheader" scope="row">1</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">controladoria</td>
+<td class="r data">1.33429</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">2</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">perenidade</td>
+<td class="r data">1.30500</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">3</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">celeridade</td>
+<td class="r data">1.25192</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">4</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">efetividade</td>
+<td class="r data">1.23629</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">5</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">prestação</td>
+<td class="r data">1.17858</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">6</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">produtividade</td>
+<td class="r data">1.14211</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">7</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">stakeholders</td>
+<td class="r data">1.14064</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">8</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">itinerário</td>
+<td class="r data">1.11894</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">9</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">grau</td>
+<td class="r data">1.08193</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">10</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">assegurar</td>
+<td class="r data">1.07518</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">11</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">eficiência</td>
+<td class="r data">1.06395</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">12</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">alcançar</td>
+<td class="r data">1.05961</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">13</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">extra</td>
+<td class="r data">1.05262</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">14</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">autarquia</td>
+<td class="r data">1.01185</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">15</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">competitividade</td>
+<td class="r data">1.00954</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">16</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">satisfação</td>
+<td class="r data">1.00579</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">17</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">captação</td>
+<td class="r data">0.99727</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">18</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">otimizar</td>
+<td class="r data">0.99009</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">19</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">excelência</td>
+<td class="r data">0.96466</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">20</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">formar</td>
+<td class="r data">0.96318</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">21</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">governo</td>
+<td class="r data">0.95602</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">22</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">meta</td>
+<td class="r data">0.93490</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">23</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">crescimento</td>
+<td class="r data">0.90366</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">24</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">expandir</td>
+<td class="r data">0.88510</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">25</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">capaz</td>
+<td class="r data">0.87503</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">26</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">atuar</td>
+<td class="r data">0.86482</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">27</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">relacionar</td>
+<td class="r data">0.85432</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">28</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">aprendizagem</td>
+<td class="r data">0.81795</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">29</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">objetivo</td>
+<td class="r data">0.76158</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">30</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">atender</td>
+<td class="r data">0.75371</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">31</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">mercado</td>
+<td class="r data">0.74819</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">32</th>
+<td class="l data">(</td>
+<td class="l data">estado</td>
+<td class="r data">0.69095</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">33</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">profissional</td>
+<td class="r data">0.68243</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">34</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">demanda</td>
+<td class="r data">0.66794</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">35</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">tecnologia</td>
+<td class="r data">0.64745</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">36</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">serviço</td>
+<td class="r data">0.64697</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">37</th>
+<td class="l data">(</td>
+<td class="l data">institucional</td>
+<td class="r data">0.55011</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">38</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">taxa</td>
+<td class="r data">0.51711</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">39</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">redução</td>
+<td class="r data">0.49753</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">40</th>
+<td class="l data">(</td>
+<td class="l data">setor</td>
+<td class="r data">0.47937</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">41</th>
+<td class="l data">(</td>
+<td class="l data">ensino</td>
+<td class="r data">0.42970</td>
+<td class="l data">)</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<br>
+</div>
+<div class="branch">
+<p style="page-break-after: always;"><br/></p><hr size="3"/>
+<a name="IDX1"></a>
+<table class="systitleandfootercontainer" width="100%" cellspacing="1" cellpadding="1" rules="none" frame="void" border="0" summary="Page Layout">
+<tr>
+<td class="c systemtitle">Factor 1 neg</td>
+</tr>
+</table><br>
+<div>
+<div align="center">
+<table class="table" cellspacing="0" cellpadding="5" rules="all" frame="box" bordercolor="#C1C1C1" summary="Procedure Print: Data Set WORK.TEMP4">
+<colgroup>
+<col>
+</colgroup>
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="r header" scope="col">Obs</th>
+<th class="l header" scope="col">l</th>
+<th class="l header" scope="col">_NAME_</th>
+<th class="r header" scope="col">Factor1</th>
+<th class="l header" scope="col">r</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th class="r rowheader" scope="row">1</th>
+<td class="l data">(</td>
+<td class="l data">parede</td>
+<td class="r data" nowrap>-0.39632</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">2</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">pintura</td>
+<td class="r data" nowrap>-0.36458</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">3</th>
+<td class="l data">(</td>
+<td class="l data">laje</td>
+<td class="r data" nowrap>-0.36239</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">4</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">condicionado</td>
+<td class="r data" nowrap>-0.32969</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">5</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">financiar</td>
+<td class="r data" nowrap>-0.32034</td>
+<td class="l data">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<br>
+</div>
+<div class="branch">
+<p style="page-break-after: always;"><br/></p><hr size="3"/>
+<a name="IDX2"></a>
+<table class="systitleandfootercontainer" width="100%" cellspacing="1" cellpadding="1" rules="none" frame="void" border="0" summary="Page Layout">
+<tr>
+<td class="c systemtitle">LOADINGS TABLE</td>
+</tr>
+<tr>
+<td class="c systemtitle2">Factor 2 pos</td>
+</tr>
+</table><br>
+<div>
+<div align="center">
+<table class="table" cellspacing="0" cellpadding="5" rules="all" frame="box" bordercolor="#C1C1C1" summary="Procedure Print: Data Set WORK.TEMP4">
+<colgroup>
+<col>
+</colgroup>
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="r header" scope="col">Obs</th>
+<th class="l header" scope="col">l</th>
+<th class="l header" scope="col">_NAME_</th>
+<th class="r header" scope="col">Factor2</th>
+<th class="l header" scope="col">r</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th class="r rowheader" scope="row">1</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">feira</td>
+<td class="r data">1.18730</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">2</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">profissão</td>
+<td class="r data">1.14724</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">3</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">integrador</td>
+<td class="r data">1.14279</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">4</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">interdisciplinar</td>
+<td class="r data">1.09116</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">5</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">extracurricular</td>
+<td class="r data">1.06917</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">6</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">dia</td>
+<td class="r data">1.00289</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">7</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">resolver</td>
+<td class="r data">0.98838</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">8</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">visita</td>
+<td class="r data">0.98499</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">9</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">campo</td>
+<td class="r data">0.98082</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">10</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">mitigar</td>
+<td class="r data">0.93953</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">11</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">evasão</td>
+<td class="r data">0.90898</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">12</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">desempenho</td>
+<td class="r data">0.90364</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">13</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">sociedade</td>
+<td class="r data">0.89717</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">14</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">situação</td>
+<td class="r data">0.87520</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">15</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">problema</td>
+<td class="r data">0.87108</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">16</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">metodologia</td>
+<td class="r data">0.86597</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">17</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">prestador</td>
+<td class="r data">0.83311</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">18</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">fazer</td>
+<td class="r data">0.82574</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">19</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">seleção</td>
+<td class="r data">0.71769</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">20</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">comunidade</td>
+<td class="r data">0.70232</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">21</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">operacional</td>
+<td class="r data">0.67243</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">22</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">editorial</td>
+<td class="r data">0.66772</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">23</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">língua</td>
+<td class="r data">0.62403</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">24</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">química</td>
+<td class="r data">0.60856</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">25</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">estrangeiro</td>
+<td class="r data">0.59631</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">26</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">disciplina</td>
+<td class="r data">0.58437</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">27</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">projeto</td>
+<td class="r data">0.57778</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">28</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">aluno</td>
+<td class="r data">0.55877</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">29</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">bolsa</td>
+<td class="r data">0.54980</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">30</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">sentimento</td>
+<td class="r data">0.54950</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">31</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">respectivo</td>
+<td class="r data">0.54013</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">32</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">livro</td>
+<td class="r data">0.53338</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">33</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">ensino</td>
+<td class="r data">0.49562</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">34</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">empresa</td>
+<td class="r data">0.46623</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">35</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">relevante</td>
+<td class="r data">0.46418</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">36</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">implantação</td>
+<td class="r data">0.45547</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">37</th>
+<td class="l data">(</td>
+<td class="l data">pedagógico</td>
+<td class="r data">0.44512</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">38</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">químico</td>
+<td class="r data">0.44421</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">39</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">permanência</td>
+<td class="r data">0.44050</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">40</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">pertencimento</td>
+<td class="r data">0.43585</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">41</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">curso</td>
+<td class="r data">0.43344</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">42</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">vestibular</td>
+<td class="r data">0.42627</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">43</th>
+<td class="l data">(</td>
+<td class="l data">diário</td>
+<td class="r data">0.42019</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">44</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">acolhimento</td>
+<td class="r data">0.41079</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">45</th>
+<td class="l data">(</td>
+<td class="l data">área</td>
+<td class="r data">0.40505</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">46</th>
+<td class="l data">(</td>
+<td class="l data">exterior</td>
+<td class="r data">0.39882</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">47</th>
+<td class="l data">(</td>
+<td class="l data">saúde</td>
+<td class="r data">0.37780</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">48</th>
+<td class="l data">(</td>
+<td class="l data">conhecimento</td>
+<td class="r data">0.37000</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">49</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">sala</td>
+<td class="r data">0.36488</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">50</th>
+<td class="l data">(</td>
+<td class="l data">cultural</td>
+<td class="r data">0.34433</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">51</th>
+<td class="l data">(</td>
+<td class="l data">estudo</td>
+<td class="r data">0.33847</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">52</th>
+<td class="l data">(</td>
+<td class="l data">aula</td>
+<td class="r data">0.33576</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">53</th>
+<td class="l data">(</td>
+<td class="l data">discente</td>
+<td class="r data">0.33462</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">54</th>
+<td class="l data">(</td>
+<td class="l data">emprego</td>
+<td class="r data">0.30942</td>
+<td class="l data">)</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<br>
+</div>
+<div class="branch">
+<p style="page-break-after: always;"><br/></p><hr size="3"/>
+<a name="IDX3"></a>
+<table class="systitleandfootercontainer" width="100%" cellspacing="1" cellpadding="1" rules="none" frame="void" border="0" summary="Page Layout">
+<tr>
+<td class="c systemtitle">Factor 2 neg</td>
+</tr>
+</table><br>
+<div>
+<div align="center">
+<table class="table" cellspacing="0" cellpadding="5" rules="all" frame="box" bordercolor="#C1C1C1" summary="Procedure Print: Data Set WORK.TEMP4">
+<colgroup>
+<col>
+</colgroup>
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="r header" scope="col">Obs</th>
+<th class="l header" scope="col">l</th>
+<th class="l header" scope="col">_NAME_</th>
+<th class="r header" scope="col">Factor2</th>
+<th class="l header" scope="col">r</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th class="r rowheader" scope="row">1</th>
+<td class="l data">(</td>
+<td class="l data">suscitar</td>
+<td class="r data" nowrap>-0.69017</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">2</th>
+<td class="l data">(</td>
+<td class="l data">autarquia</td>
+<td class="r data" nowrap>-0.62091</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">3</th>
+<td class="l data">(</td>
+<td class="l data">controladoria</td>
+<td class="r data" nowrap>-0.50441</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">4</th>
+<td class="l data">(</td>
+<td class="l data">nortear</td>
+<td class="r data" nowrap>-0.46816</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">5</th>
+<td class="l data">(</td>
+<td class="l data">definir</td>
+<td class="r data" nowrap>-0.46205</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">6</th>
+<td class="l data">(</td>
+<td class="l data">robusto</td>
+<td class="r data" nowrap>-0.45681</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">7</th>
+<td class="l data">(</td>
+<td class="l data">compactuar</td>
+<td class="r data" nowrap>-0.42679</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">8</th>
+<td class="l data">(</td>
+<td class="l data">extra</td>
+<td class="r data" nowrap>-0.42326</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">9</th>
+<td class="l data">(</td>
+<td class="l data">aeroporto</td>
+<td class="r data" nowrap>-0.39287</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">10</th>
+<td class="l data">(</td>
+<td class="l data">perenidade</td>
+<td class="r data" nowrap>-0.38929</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">11</th>
+<td class="l data">(</td>
+<td class="l data">imigrante</td>
+<td class="r data" nowrap>-0.37614</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">12</th>
+<td class="l data">(</td>
+<td class="l data">detalhamento</td>
+<td class="r data" nowrap>-0.37057</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">13</th>
+<td class="l data">(</td>
+<td class="l data">rodovia</td>
+<td class="r data" nowrap>-0.36515</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">14</th>
+<td class="l data">(</td>
+<td class="l data">rodoanel</td>
+<td class="r data" nowrap>-0.35791</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">15</th>
+<td class="l data">(</td>
+<td class="l data">filosofia</td>
+<td class="r data" nowrap>-0.34992</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">16</th>
+<td class="l data">(</td>
+<td class="l data">vocabulário</td>
+<td class="r data" nowrap>-0.34959</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">17</th>
+<td class="l data">(</td>
+<td class="l data">diretriz</td>
+<td class="r data" nowrap>-0.34506</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">18</th>
+<td class="l data">(</td>
+<td class="l data">continuar</td>
+<td class="r data" nowrap>-0.32400</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">19</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">montante</td>
+<td class="r data" nowrap>-0.31074</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">20</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">macroeconômico</td>
+<td class="r data" nowrap>-0.30756</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">21</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">desenvolvedor</td>
+<td class="r data" nowrap>-0.30404</td>
+<td class="l data">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<br>
+</div>
+<div class="branch">
+<p style="page-break-after: always;"><br/></p><hr size="3"/>
+<a name="IDX4"></a>
+<table class="systitleandfootercontainer" width="100%" cellspacing="1" cellpadding="1" rules="none" frame="void" border="0" summary="Page Layout">
+<tr>
+<td class="c systemtitle">LOADINGS TABLE</td>
+</tr>
+<tr>
+<td class="c systemtitle2">Factor 3 pos</td>
+</tr>
+</table><br>
+<div>
+<div align="center">
+<table class="table" cellspacing="0" cellpadding="5" rules="all" frame="box" bordercolor="#C1C1C1" summary="Procedure Print: Data Set WORK.TEMP4">
+<colgroup>
+<col>
+</colgroup>
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="r header" scope="col">Obs</th>
+<th class="l header" scope="col">l</th>
+<th class="l header" scope="col">_NAME_</th>
+<th class="r header" scope="col">Factor3</th>
+<th class="l header" scope="col">r</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th class="r rowheader" scope="row">1</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">cidade</td>
+<td class="r data">1.07747</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">2</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">indústria</td>
+<td class="r data">1.04725</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">3</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">município</td>
+<td class="r data">1.04515</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">4</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">localizar</td>
+<td class="r data">0.96166</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">5</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">população</td>
+<td class="r data">0.92931</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">6</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">habitante</td>
+<td class="r data">0.92797</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">7</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">milhão</td>
+<td class="r data">0.92707</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">8</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">capital</td>
+<td class="r data">0.91694</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">9</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">região</td>
+<td class="r data">0.84293</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">10</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">rodovia</td>
+<td class="r data">0.82225</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">11</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">diadema</td>
+<td class="r data">0.81793</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">12</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">economia</td>
+<td class="r data">0.81409</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">13</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">subprefeitura</td>
+<td class="r data">0.80279</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">14</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">estado</td>
+<td class="r data">0.79019</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">15</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">econômico</td>
+<td class="r data">0.77466</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">16</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">distrito</td>
+<td class="r data">0.76900</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">17</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">setor</td>
+<td class="r data">0.75185</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">18</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">estimar</td>
+<td class="r data">0.74386</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">19</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">rodoanel</td>
+<td class="r data">0.71926</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">20</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">emprego</td>
+<td class="r data">0.71330</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">21</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">segmento</td>
+<td class="r data">0.70960</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">22</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">formal</td>
+<td class="r data">0.70773</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">23</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">terciário</td>
+<td class="r data">0.68009</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">24</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">posto</td>
+<td class="r data">0.66749</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">25</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">demográfico</td>
+<td class="r data">0.62377</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">26</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">imigrante</td>
+<td class="r data">0.60663</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">27</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">industrial</td>
+<td class="r data">0.59773</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">28</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">secundário</td>
+<td class="r data">0.57693</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">29</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">aeroporto</td>
+<td class="r data">0.57239</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">30</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">saúde</td>
+<td class="r data">0.55412</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">31</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">comércio</td>
+<td class="r data">0.53757</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">32</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">trabalhador</td>
+<td class="r data">0.53233</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">33</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">porto</td>
+<td class="r data">0.50009</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">34</th>
+<td class="l data">(</td>
+<td class="l data">possuir</td>
+<td class="r data">0.49337</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">35</th>
+<td class="l data">(</td>
+<td class="l data">pga</td>
+<td class="r data">0.49031</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">36</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">área</td>
+<td class="r data">0.48696</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">37</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">grande</td>
+<td class="r data">0.47787</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">38</th>
+<td class="l data">(</td>
+<td class="l data">crescimento</td>
+<td class="r data">0.47215</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">39</th>
+<td class="l data">(</td>
+<td class="l data">anual</td>
+<td class="r data">0.46928</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">40</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">mão</td>
+<td class="r data">0.45635</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">41</th>
+<td class="l data">(</td>
+<td class="l data">químico</td>
+<td class="r data">0.43592</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">42</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">obra</td>
+<td class="r data">0.41670</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">43</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">censo</td>
+<td class="r data">0.39379</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">44</th>
+<td class="l data">(</td>
+<td class="l data">química</td>
+<td class="r data">0.38890</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">45</th>
+<td class="l data">(</td>
+<td class="l data">empresa</td>
+<td class="r data">0.34869</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">46</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">embalagem</td>
+<td class="r data">0.33447</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">47</th>
+<td class="l data">(</td>
+<td class="l data">campo</td>
+<td class="r data">0.32169</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">48</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">custo</td>
+<td class="r data">0.31318</td>
+<td class="l data">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<br>
+</div>
+<div class="branch">
+<p style="page-break-after: always;"><br/></p><hr size="3"/>
+<a name="IDX5"></a>
+<table class="systitleandfootercontainer" width="100%" cellspacing="1" cellpadding="1" rules="none" frame="void" border="0" summary="Page Layout">
+<tr>
+<td class="c systemtitle">Factor 3 neg</td>
+</tr>
+</table><br>
+<div>
+<div align="center">
+<table class="table" cellspacing="0" cellpadding="5" rules="all" frame="box" bordercolor="#C1C1C1" summary="Procedure Print: Data Set WORK.TEMP4">
+<colgroup>
+<col>
+</colgroup>
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="r header" scope="col">Obs</th>
+<th class="l header" scope="col">l</th>
+<th class="l header" scope="col">_NAME_</th>
+<th class="r header" scope="col">Factor3</th>
+<th class="l header" scope="col">r</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th class="r rowheader" scope="row">1</th>
+<td class="l data">(</td>
+<td class="l data">entrar</td>
+<td class="r data" nowrap>-0.48970</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">2</th>
+<td class="l data">(</td>
+<td class="l data">aluno</td>
+<td class="r data" nowrap>-0.48314</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">3</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">procedimento</td>
+<td class="r data" nowrap>-0.47839</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">4</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">encaminhamento</td>
+<td class="r data" nowrap>-0.46263</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">5</th>
+<td class="l data">(</td>
+<td class="l data">nome</td>
+<td class="r data" nowrap>-0.45613</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">6</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">dirimir</td>
+<td class="r data" nowrap>-0.44639</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">7</th>
+<td class="l data">(</td>
+<td class="l data">predial</td>
+<td class="r data" nowrap>-0.40893</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">8</th>
+<td class="l data">(</td>
+<td class="l data">personalizar</td>
+<td class="r data" nowrap>-0.40476</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">9</th>
+<td class="l data">(</td>
+<td class="l data">docente</td>
+<td class="r data" nowrap>-0.39195</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">10</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">aula</td>
+<td class="r data" nowrap>-0.39079</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">11</th>
+<td class="l data">(</td>
+<td class="l data">problema</td>
+<td class="r data" nowrap>-0.37698</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">12</th>
+<td class="l data">(</td>
+<td class="l data">situações</td>
+<td class="r data" nowrap>-0.37658</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">13</th>
+<td class="l data">(</td>
+<td class="l data">conflito</td>
+<td class="r data" nowrap>-0.37282</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">14</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">ação</td>
+<td class="r data" nowrap>-0.36171</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">15</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">auferir</td>
+<td class="r data" nowrap>-0.34744</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">16</th>
+<td class="l data">(</td>
+<td class="l data">pintura</td>
+<td class="r data" nowrap>-0.34427</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">17</th>
+<td class="l data">(</td>
+<td class="l data">escuta</td>
+<td class="r data" nowrap>-0.34146</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">18</th>
+<td class="l data">(</td>
+<td class="l data">coordenador</td>
+<td class="r data" nowrap>-0.33482</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">19</th>
+<td class="l data">(</td>
+<td class="l data">coworking</td>
+<td class="r data" nowrap>-0.32502</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">20</th>
+<td class="l data">(</td>
+<td class="l data">lembrar</td>
+<td class="r data" nowrap>-0.31683</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">21</th>
+<td class="l data">(</td>
+<td class="l data">sentimento</td>
+<td class="r data" nowrap>-0.30831</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">22</th>
+<td class="l data">(</td>
+<td class="l data">disciplina</td>
+<td class="r data" nowrap>-0.30156</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">23</th>
+<td class="l data">(</td>
+<td class="l data">acadêmico</td>
+<td class="r data" nowrap>-0.30137</td>
+<td class="l data">)</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<br>
+</div>
+<div class="branch">
+<p style="page-break-after: always;"><br/></p><hr size="3"/>
+<a name="IDX6"></a>
+<table class="systitleandfootercontainer" width="100%" cellspacing="1" cellpadding="1" rules="none" frame="void" border="0" summary="Page Layout">
+<tr>
+<td class="c systemtitle">LOADINGS TABLE</td>
+</tr>
+<tr>
+<td class="c systemtitle2">Factor 4 pos</td>
+</tr>
+</table><br>
+<div>
+<div align="center">
+<table class="table" cellspacing="0" cellpadding="5" rules="all" frame="box" bordercolor="#C1C1C1" summary="Procedure Print: Data Set WORK.TEMP4">
+<colgroup>
+<col>
+</colgroup>
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="r header" scope="col">Obs</th>
+<th class="l header" scope="col">l</th>
+<th class="l header" scope="col">_NAME_</th>
+<th class="r header" scope="col">Factor4</th>
+<th class="l header" scope="col">r</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th class="r rowheader" scope="row">1</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">excelente</td>
+<td class="r data">0.98585</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">2</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">saber</td>
+<td class="r data">0.94387</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">3</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">maioria</td>
+<td class="r data">0.91953</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">4</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">bom</td>
+<td class="r data">0.91867</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">5</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">responder</td>
+<td class="r data">0.87820</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">6</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">avaliar</td>
+<td class="r data">0.83307</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">7</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">política</td>
+<td class="r data">0.81265</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">8</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">afirmar</td>
+<td class="r data">0.76590</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">9</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">corpo</td>
+<td class="r data">0.75682</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">10</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">salientar</td>
+<td class="r data">0.75439</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">11</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">sugerir</td>
+<td class="r data">0.74133</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">12</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">diálogo</td>
+<td class="r data">0.70173</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">13</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">considerar</td>
+<td class="r data">0.69880</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">14</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">dimensão</td>
+<td class="r data">0.69822</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">15</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">relação</td>
+<td class="r data">0.66373</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">16</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">destacar</td>
+<td class="r data">0.66075</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">17</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">decisão</td>
+<td class="r data">0.65881</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">18</th>
+<td class="l data">(</td>
+<td class="l data">esclarecimento</td>
+<td class="r data">0.65273</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">19</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">dentrar</td>
+<td class="r data">0.65185</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">20</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">negociação</td>
+<td class="r data">0.65048</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">21</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">merecer</td>
+<td class="r data">0.64525</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">22</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">discente</td>
+<td class="r data">0.64363</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">23</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">questão</td>
+<td class="r data">0.63925</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">24</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">atenção</td>
+<td class="r data">0.61881</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">25</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">coordenador</td>
+<td class="r data">0.61594</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">26</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">avaliação</td>
+<td class="r data">0.61583</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">27</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">missão</td>
+<td class="r data">0.61260</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">28</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">concordar</td>
+<td class="r data">0.61146</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">29</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">planejamento</td>
+<td class="r data">0.60060</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">30</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">advir</td>
+<td class="r data">0.59564</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">31</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">institucional</td>
+<td class="r data">0.59123</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">32</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">direção</td>
+<td class="r data">0.59020</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">33</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">docente</td>
+<td class="r data">0.58346</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">34</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">conhecimento</td>
+<td class="r data">0.57014</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">35</th>
+<td class="l data">(</td>
+<td class="l data">satisfação</td>
+<td class="r data">0.55176</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">36</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">conflito</td>
+<td class="r data">0.49027</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">37</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">tomada</td>
+<td class="r data">0.48745</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">38</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">diário</td>
+<td class="r data">0.48088</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">39</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">acadêmico</td>
+<td class="r data">0.42905</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">40</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">administrativo</td>
+<td class="r data">0.42678</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">41</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">forma</td>
+<td class="r data">0.40979</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">42</th>
+<td class="l data">(</td>
+<td class="l data">instrumento</td>
+<td class="r data">0.40368</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">43</th>
+<td class="l data">(</td>
+<td class="l data">clareza</td>
+<td class="r data">0.40265</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">44</th>
+<td class="l data">(</td>
+<td class="l data">melhoria</td>
+<td class="r data">0.40125</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">45</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">cultural</td>
+<td class="r data">0.38036</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">46</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">pandemia</td>
+<td class="r data">0.38016</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">47</th>
+<td class="l data">(</td>
+<td class="l data">número</td>
+<td class="r data">0.37182</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">48</th>
+<td class="l data">(</td>
+<td class="l data">econômico</td>
+<td class="r data">0.34729</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">49</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">efetivação</td>
+<td class="r data">0.34634</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">50</th>
+<td class="l data">(</td>
+<td class="l data">extensão</td>
+<td class="r data">0.33800</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">51</th>
+<td class="l data">(</td>
+<td class="l data">acolhimento</td>
+<td class="r data">0.32377</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">52</th>
+<td class="l data">(</td>
+<td class="l data">aprendizagem</td>
+<td class="r data">0.31996</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">53</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">realizar</td>
+<td class="r data">0.31210</td>
+<td class="l data">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<br>
+</div>
+<div class="branch">
+<p style="page-break-after: always;"><br/></p><hr size="3"/>
+<a name="IDX7"></a>
+<table class="systitleandfootercontainer" width="100%" cellspacing="1" cellpadding="1" rules="none" frame="void" border="0" summary="Page Layout">
+<tr>
+<td class="c systemtitle">Factor 4 neg</td>
+</tr>
+</table><br>
+<div>
+<div align="center">
+<table class="table" cellspacing="0" cellpadding="5" rules="all" frame="box" bordercolor="#C1C1C1" summary="Procedure Print: Data Set WORK.TEMP4">
+<colgroup>
+<col>
+</colgroup>
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="r header" scope="col">Obs</th>
+<th class="l header" scope="col">l</th>
+<th class="l header" scope="col">_NAME_</th>
+<th class="r header" scope="col">Factor4</th>
+<th class="l header" scope="col">r</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th class="r rowheader" scope="row">1</th>
+<td class="l data">(</td>
+<td class="l data">estruturação</td>
+<td class="r data" nowrap>-0.62770</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">2</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">programático</td>
+<td class="r data" nowrap>-0.56473</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">3</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">parede</td>
+<td class="r data" nowrap>-0.54901</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">4</th>
+<td class="l data">(</td>
+<td class="l data">evasão</td>
+<td class="r data" nowrap>-0.53751</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">5</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">situações</td>
+<td class="r data" nowrap>-0.53104</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">6</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">noite</td>
+<td class="r data" nowrap>-0.51135</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">7</th>
+<td class="l data">(</td>
+<td class="l data">grade</td>
+<td class="r data" nowrap>-0.48959</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">8</th>
+<td class="l data">(</td>
+<td class="l data">matutino</td>
+<td class="r data" nowrap>-0.47941</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">9</th>
+<td class="l data">(</td>
+<td class="l data">apontamento</td>
+<td class="r data" nowrap>-0.46372</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">10</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">escuta</td>
+<td class="r data" nowrap>-0.44297</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">11</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">aplicado</td>
+<td class="r data" nowrap>-0.40604</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">12</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">laboratorial</td>
+<td class="r data" nowrap>-0.39251</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">13</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">laje</td>
+<td class="r data" nowrap>-0.38879</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">14</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">manhã</td>
+<td class="r data" nowrap>-0.36421</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">15</th>
+<td class="l data">(</td>
+<td class="l data">notebook</td>
+<td class="r data" nowrap>-0.36238</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">16</th>
+<td class="l data">(</td>
+<td class="l data">itinerário</td>
+<td class="r data" nowrap>-0.35185</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">17</th>
+<td class="l data">(</td>
+<td class="l data">virtude</td>
+<td class="r data" nowrap>-0.34563</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">18</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">jogo</td>
+<td class="r data" nowrap>-0.32975</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">19</th>
+<td class="l data">(</td>
+<td class="l data">produtividade</td>
+<td class="r data" nowrap>-0.30192</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">20</th>
+<td class="l data">(</td>
+<td class="l data">competitividade</td>
+<td class="r data" nowrap>-0.30153</td>
+<td class="l data">)</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<br>
+</div>
+<div class="branch">
+<p style="page-break-after: always;"><br/></p><hr size="3"/>
+<a name="IDX8"></a>
+<table class="systitleandfootercontainer" width="100%" cellspacing="1" cellpadding="1" rules="none" frame="void" border="0" summary="Page Layout">
+<tr>
+<td class="c systemtitle">LOADINGS TABLE</td>
+</tr>
+<tr>
+<td class="c systemtitle2">Factor 5 pos</td>
+</tr>
+</table><br>
+<div>
+<div align="center">
+<table class="table" cellspacing="0" cellpadding="5" rules="all" frame="box" bordercolor="#C1C1C1" summary="Procedure Print: Data Set WORK.TEMP4">
+<colgroup>
+<col>
+</colgroup>
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="r header" scope="col">Obs</th>
+<th class="l header" scope="col">l</th>
+<th class="l header" scope="col">_NAME_</th>
+<th class="r header" scope="col">Factor5</th>
+<th class="l header" scope="col">r</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th class="r rowheader" scope="row">1</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">continuar</td>
+<td class="r data">1.03600</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">2</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">definir</td>
+<td class="r data">1.00327</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">3</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">anual</td>
+<td class="r data">0.83174</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">4</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">apontamento</td>
+<td class="r data">0.79844</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">5</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">suscitar</td>
+<td class="r data">0.78588</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">6</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">diretriz</td>
+<td class="r data">0.76270</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">7</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">melhoria</td>
+<td class="r data">0.71944</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">8</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">pga</td>
+<td class="r data">0.67912</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">9</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">matutino</td>
+<td class="r data">0.66497</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">10</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">instrumento</td>
+<td class="r data">0.66378</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">11</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">infraestrutura</td>
+<td class="r data">0.65541</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">12</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">possibilitar</td>
+<td class="r data">0.63418</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">13</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">possuir</td>
+<td class="r data">0.61243</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">14</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">discussão</td>
+<td class="r data">0.60788</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">15</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">relatório</td>
+<td class="r data">0.59585</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">16</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">filosofia</td>
+<td class="r data">0.56406</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">17</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">caracterizar</td>
+<td class="r data">0.55844</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">18</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">nortear</td>
+<td class="r data">0.55480</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">19</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">pedagógico</td>
+<td class="r data">0.53199</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">20</th>
+<td class="l data">(</td>
+<td class="l data">dentrar</td>
+<td class="r data">0.52431</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">21</th>
+<td class="l data">(</td>
+<td class="l data">planejamento</td>
+<td class="r data">0.50476</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">22</th>
+<td class="l data">(</td>
+<td class="l data">missão</td>
+<td class="r data">0.49556</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">23</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">predial</td>
+<td class="r data">0.48461</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">24</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">noturno</td>
+<td class="r data">0.47826</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">25</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">ano</td>
+<td class="r data">0.47333</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">26</th>
+<td class="l data">(</td>
+<td class="l data">diadema</td>
+<td class="r data">0.46379</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">27</th>
+<td class="l data">(</td>
+<td class="l data">dimensão</td>
+<td class="r data">0.43938</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">28</th>
+<td class="l data">(</td>
+<td class="l data">meta</td>
+<td class="r data">0.43301</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">29</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">identidade</td>
+<td class="r data">0.42887</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">30</th>
+<td class="l data">(</td>
+<td class="l data">administrativo</td>
+<td class="r data">0.42268</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">31</th>
+<td class="l data">(</td>
+<td class="l data">procedimento</td>
+<td class="r data">0.41329</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">32</th>
+<td class="l data">(</td>
+<td class="l data">redução</td>
+<td class="r data">0.39462</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">33</th>
+<td class="l data">(</td>
+<td class="l data">segmento</td>
+<td class="r data">0.39411</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">34</th>
+<td class="l data">(</td>
+<td class="l data">vestibular</td>
+<td class="r data">0.39407</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">35</th>
+<td class="l data">(</td>
+<td class="l data">objetivo</td>
+<td class="r data">0.38879</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">36</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">iniciar</td>
+<td class="r data">0.37955</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">37</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">extensão</td>
+<td class="r data">0.37812</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">38</th>
+<td class="l data">(</td>
+<td class="l data">taxa</td>
+<td class="r data">0.36774</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">39</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">unidade</td>
+<td class="r data">0.35245</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">40</th>
+<td class="l data">(</td>
+<td class="l data">ação</td>
+<td class="r data">0.35115</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">41</th>
+<td class="l data">(</td>
+<td class="l data">forma</td>
+<td class="r data">0.32446</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">42</th>
+<td class="l data">(</td>
+<td class="l data">região</td>
+<td class="r data">0.30477</td>
+<td class="l data">)</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<br>
+</div>
+<div class="branch">
+<p style="page-break-after: always;"><br/></p><hr size="3"/>
+<a name="IDX9"></a>
+<table class="systitleandfootercontainer" width="100%" cellspacing="1" cellpadding="1" rules="none" frame="void" border="0" summary="Page Layout">
+<tr>
+<td class="c systemtitle">Factor 5 neg</td>
+</tr>
+</table><br>
+<div>
+<div align="center">
+<table class="table" cellspacing="0" cellpadding="5" rules="all" frame="box" bordercolor="#C1C1C1" summary="Procedure Print: Data Set WORK.TEMP4">
+<colgroup>
+<col>
+</colgroup>
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="r header" scope="col">Obs</th>
+<th class="l header" scope="col">l</th>
+<th class="l header" scope="col">_NAME_</th>
+<th class="r header" scope="col">Factor5</th>
+<th class="l header" scope="col">r</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th class="r rowheader" scope="row">1</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">comentário</td>
+<td class="r data" nowrap>-0.99013</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">2</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">adicional</td>
+<td class="r data" nowrap>-0.90455</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">3</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">esclarecimento</td>
+<td class="r data" nowrap>-0.78268</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">4</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">coesão</td>
+<td class="r data" nowrap>-0.68562</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">5</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">gramático</td>
+<td class="r data" nowrap>-0.67549</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">6</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">afirmação</td>
+<td class="r data" nowrap>-0.65677</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">7</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">desistir</td>
+<td class="r data" nowrap>-0.64172</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">8</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">vocabulário</td>
+<td class="r data" nowrap>-0.61652</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">9</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">dificultar</td>
+<td class="r data" nowrap>-0.60372</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">10</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">panorâmico</td>
+<td class="r data" nowrap>-0.57437</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">11</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">trancar</td>
+<td class="r data" nowrap>-0.56752</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">12</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">clareza</td>
+<td class="r data" nowrap>-0.55142</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">13</th>
+<td class="l data">(</td>
+<td class="l data">texto</td>
+<td class="r data" nowrap>-0.49233</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">14</th>
+<td class="l data">(</td>
+<td class="l data">interpretação</td>
+<td class="r data" nowrap>-0.49163</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">15</th>
+<td class="l data">(</td>
+<td class="l data">concordar</td>
+<td class="r data" nowrap>-0.48125</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">16</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">enfrentamento</td>
+<td class="r data" nowrap>-0.47289</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">17</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">misturar</td>
+<td class="r data" nowrap>-0.47146</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">18</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">raciocínio</td>
+<td class="r data" nowrap>-0.46544</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">19</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">oferecido</td>
+<td class="r data" nowrap>-0.43362</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">20</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">desafiar</td>
+<td class="r data" nowrap>-0.39443</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">21</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">faixa</td>
+<td class="r data" nowrap>-0.38952</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">22</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">violência</td>
+<td class="r data" nowrap>-0.38414</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">23</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">interpretar</td>
+<td class="r data" nowrap>-0.38039</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">24</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">sm</td>
+<td class="r data" nowrap>-0.35039</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">25</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">rever</td>
+<td class="r data" nowrap>-0.32637</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">26</th>
+<td class="l data">(</td>
+<td class="l data">auferir</td>
+<td class="r data" nowrap>-0.30894</td>
+<td class="l data">)</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<br>
+</div>
+<div class="branch">
+<p style="page-break-after: always;"><br/></p><hr size="3"/>
+<a name="IDX10"></a>
+<table class="systitleandfootercontainer" width="100%" cellspacing="1" cellpadding="1" rules="none" frame="void" border="0" summary="Page Layout">
+<tr>
+<td class="c systemtitle">LOADINGS TABLE</td>
+</tr>
+<tr>
+<td class="c systemtitle2">Factor 6 pos</td>
+</tr>
+</table><br>
+<div>
+<div align="center">
+<table class="table" cellspacing="0" cellpadding="5" rules="all" frame="box" bordercolor="#C1C1C1" summary="Procedure Print: Data Set WORK.TEMP4">
+<colgroup>
+<col>
+</colgroup>
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="r header" scope="col">Obs</th>
+<th class="l header" scope="col">l</th>
+<th class="l header" scope="col">_NAME_</th>
+<th class="r header" scope="col">Factor6</th>
+<th class="l header" scope="col">r</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th class="r rowheader" scope="row">1</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">curricular</td>
+<td class="r data">1.15879</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">2</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">grade</td>
+<td class="r data">1.15819</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">3</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">componente</td>
+<td class="r data">1.09375</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">4</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">nde</td>
+<td class="r data">0.88922</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">5</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">interpretação</td>
+<td class="r data">0.86943</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">6</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">detalhamento</td>
+<td class="r data">0.86819</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">7</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">texto</td>
+<td class="r data">0.86762</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">8</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">robusto</td>
+<td class="r data">0.79682</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">9</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">compactuar</td>
+<td class="r data">0.78281</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">10</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">digital</td>
+<td class="r data">0.70669</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">11</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">estruturação</td>
+<td class="r data">0.66088</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">12</th>
+<td class="l data">(</td>
+<td class="l data">comentário</td>
+<td class="r data">0.63432</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">13</th>
+<td class="l data">(</td>
+<td class="l data">questão</td>
+<td class="r data">0.63209</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">14</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">exterior</td>
+<td class="r data">0.63137</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">15</th>
+<td class="l data">(</td>
+<td class="l data">adicional</td>
+<td class="r data">0.57308</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">16</th>
+<td class="l data">(</td>
+<td class="l data">programático</td>
+<td class="r data">0.56252</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">17</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">exigência</td>
+<td class="r data">0.55165</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">18</th>
+<td class="l data">(</td>
+<td class="l data">discussão</td>
+<td class="r data">0.54515</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">19</th>
+<td class="l data">(</td>
+<td class="l data">avaliação</td>
+<td class="r data">0.54329</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">20</th>
+<td class="l data">(</td>
+<td class="l data">comércio</td>
+<td class="r data">0.53523</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">21</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">virtude</td>
+<td class="r data">0.51260</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">22</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">número</td>
+<td class="r data">0.51197</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">23</th>
+<td class="l data">(</td>
+<td class="l data">tecnologia</td>
+<td class="r data">0.50379</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">24</th>
+<td class="l data">(</td>
+<td class="l data">relatório</td>
+<td class="r data">0.50246</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">25</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">estudo</td>
+<td class="r data">0.49817</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">26</th>
+<td class="l data">(</td>
+<td class="l data">desempenho</td>
+<td class="r data">0.46968</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">27</th>
+<td class="l data">(</td>
+<td class="l data">industrial</td>
+<td class="r data">0.45035</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">28</th>
+<td class="l data">(</td>
+<td class="l data">noturno</td>
+<td class="r data">0.43700</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">29</th>
+<td class="l data">(</td>
+<td class="l data">profissional</td>
+<td class="r data">0.43023</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">30</th>
+<td class="l data">(</td>
+<td class="l data">coesão</td>
+<td class="r data">0.36371</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">31</th>
+<td class="l data">(</td>
+<td class="l data">pandemia</td>
+<td class="r data">0.35492</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">32</th>
+<td class="l data">(</td>
+<td class="l data">atender</td>
+<td class="r data">0.35323</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">33</th>
+<td class="l data">(</td>
+<td class="l data">formar</td>
+<td class="r data">0.34169</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">34</th>
+<td class="l data">(</td>
+<td class="l data">grande</td>
+<td class="r data">0.33901</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">35</th>
+<td class="l data">(</td>
+<td class="l data">implantação</td>
+<td class="r data">0.33419</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">36</th>
+<td class="l data">(</td>
+<td class="l data">curso</td>
+<td class="r data">0.33198</td>
+<td class="l data">)</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<br>
+</div>
+<div class="branch">
+<p style="page-break-after: always;"><br/></p><hr size="3"/>
+<a name="IDX11"></a>
+<table class="systitleandfootercontainer" width="100%" cellspacing="1" cellpadding="1" rules="none" frame="void" border="0" summary="Page Layout">
+<tr>
+<td class="c systemtitle">Factor 6 neg</td>
+</tr>
+</table><br>
+<div>
+<div align="center">
+<table class="table" cellspacing="0" cellpadding="5" rules="all" frame="box" bordercolor="#C1C1C1" summary="Procedure Print: Data Set WORK.TEMP4">
+<colgroup>
+<col>
+</colgroup>
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="r header" scope="col">Obs</th>
+<th class="l header" scope="col">l</th>
+<th class="l header" scope="col">_NAME_</th>
+<th class="r header" scope="col">Factor6</th>
+<th class="l header" scope="col">r</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th class="r rowheader" scope="row">1</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">nome</td>
+<td class="r data" nowrap>-0.53886</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">2</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">entrar</td>
+<td class="r data" nowrap>-0.49321</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">3</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">personalizar</td>
+<td class="r data" nowrap>-0.48994</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">4</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">lembrar</td>
+<td class="r data" nowrap>-0.48483</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">5</th>
+<td class="l data">(</td>
+<td class="l data">dirimir</td>
+<td class="r data" nowrap>-0.43517</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">6</th>
+<td class="l data">(</td>
+<td class="l data">prestador</td>
+<td class="r data" nowrap>-0.43259</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">7</th>
+<td class="l data">(</td>
+<td class="l data">editorial</td>
+<td class="r data" nowrap>-0.41528</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">8</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">notebook</td>
+<td class="r data" nowrap>-0.41449</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">9</th>
+<td class="l data">(</td>
+<td class="l data">livro</td>
+<td class="r data" nowrap>-0.40325</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">10</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">televisor</td>
+<td class="r data" nowrap>-0.38178</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">11</th>
+<td class="l data">(</td>
+<td class="l data">negociação</td>
+<td class="r data" nowrap>-0.38023</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">12</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">coworking</td>
+<td class="r data" nowrap>-0.37013</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">13</th>
+<td class="l data">(</td>
+<td class="l data">feira</td>
+<td class="r data" nowrap>-0.36772</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">14</th>
+<td class="l data">(</td>
+<td class="l data">censo</td>
+<td class="r data" nowrap>-0.36678</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">15</th>
+<td class="l data">(</td>
+<td class="l data">encaminhamento</td>
+<td class="r data" nowrap>-0.36468</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">16</th>
+<td class="l data">(</td>
+<td class="l data">dia</td>
+<td class="r data" nowrap>-0.36265</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">17</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">cadastro</td>
+<td class="r data" nowrap>-0.36110</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">18</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">empregado</td>
+<td class="r data" nowrap>-0.34637</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">19</th>
+<td class="l data">(</td>
+<td class="l data">serviço</td>
+<td class="r data" nowrap>-0.33501</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">20</th>
+<td class="l data">(</td>
+<td class="l data">operacional</td>
+<td class="r data" nowrap>-0.31572</td>
+<td class="l data">)</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<br>
+</div>
+</body>
+</html>

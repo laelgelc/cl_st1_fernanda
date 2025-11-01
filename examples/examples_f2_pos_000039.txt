@@ -1,0 +1,40 @@
+file = fat001877
+date = 24
+user = r06_u126
+conversation = t000052_1_ANÁLISE_DO_CENÁRIO_Paragraph_10
+URL = No_URL
+
+word count = 72
+words loading = 19
+factor score = 18
+
+Ações **pedagógicas** : **visitas** técnicas, **projetos** **integradores** / 
+**interdisciplinares** , **dias** de **campo** , **feira** das **profissões** , 
+**cursos** **extracurriculares** para **alunos** . O que será **feito** : Em 
+parceria com a Secretaria do Meio Ambiente de São Bernardo do **Campo** , 
+promover ações que sensibilizem os **alunos** da importância da tecnologia e 
+preservação do meio ambiente. Por que será **feito** : Atender às demandas 
+sociais e do mercado de trabalho. **Situação** **problema** : **Metodologia** 
+de **ensino** , **desempenho** de **alunos** , **evasão** 
+
+Lemmas in this text that loaded on the factor:
+
+aluno
+campo
+curso
+desempenho
+dia
+ensino
+evasão
+extracurricular
+fazer
+feira
+integrador
+interdisciplinar
+metodologia
+pedagógico (secondary)
+problema
+profissão
+projeto
+situação
+visita

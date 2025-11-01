@@ -1,0 +1,22 @@
+file = fat002038
+date = 24
+user = r06_u217
+conversation = t000058_1_ANÁLISE_DO_CENÁRIO_Paragraph_10
+URL = No_URL
+
+word count = 59
+words loading = 3
+factor score = -2
+
+Monitoria em disciplina do curso O que será feito: Oferecimento de aulas de 
+reforço de matemática ( pós aula **manhã** e pré-aula **noite** ) . Por que 
+será feito: Melhorar os processos de aprendizagem e reduzir a taxa de 
+**evasão** Situação problema: Metodologia de ensino, desempenho de alunos, 
+**evasão** ( a ser resolvida / mitigada ) Gestão da unidade de ensino e dos 
+cursos ( indicadores ) 
+
+Lemmas in this text that loaded on the factor:
+
+evasão (secondary)
+manhã
+noite

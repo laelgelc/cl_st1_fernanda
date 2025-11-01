@@ -1,0 +1,41 @@
+file = fat001914
+date = 24
+user = r06_u129
+conversation = t000053_1_ANÁLISE_DO_CENÁRIO_Paragraph_32
+URL = No_URL
+
+word count = 105
+words loading = 17
+factor score = 16
+
+Desenvolvimento de **Projetos** de IC - MDITI O que será **feito** : 
+**Seleção** de **alunos** para **Bolsas** Semestrais de Pesquisa de Iniciação 
+em Desenvolvimento Tecnológico para o **Curso** de Processos **Químicos** , 
+sobre um **estudo** comparativo entre carvão ativado e borra de café como 
+adsorventes para metais pesados presentes em solução aquosa. Por que será 
+**feito** : Para incentivar a pesquisa e o desenvolvimento de **estudos** sobre 
+sustentabilidade com foco no uso de biomassa para descontaminação da água por 
+meio de experimentos em laboratório de **Química** . **Situação** **problema** 
+: **Metodologia** de **ensino** , **desempenho** de **alunos** , **evasão** ( a 
+ser **resolvida** / **mitigada** ) Gestão da unidade de **ensino** e dos 
+**cursos** ( indicadores ) 
+
+Lemmas in this text that loaded on the factor:
+
+aluno
+bolsa
+curso
+desempenho
+ensino
+estudo (secondary)
+evasão
+fazer
+metodologia
+mitigar
+problema
+projeto
+química
+químico
+resolver
+seleção
+situação

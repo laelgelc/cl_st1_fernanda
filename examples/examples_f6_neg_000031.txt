@@ -1,0 +1,18 @@
+file = fat002605
+date = 22
+user = r06_u113
+conversation = t000081_2_DESENVOLVIMENTO_Paragraph_13
+URL = No_URL
+
+word count = 42
+words loading = 1
+factor score = -1
+
+Parceria com a NUBE – Núcleo Brasileiro de Estágios: parceria estabelecida com 
+a empresa concedente de estágios, tanto para o **cadastro** dos estudantes 
+quanto para a realização de palestras preparatórias para diversas ocasiões de 
+processos seletivosVpara a inserção no mercado de trabalho; 
+
+Lemmas in this text that loaded on the factor:
+
+cadastro

@@ -1,0 +1,31 @@
+file = fat003241
+date = 23-24
+user = r06_u270
+conversation = t000112_2_FORMAÇÃO_ESPECÍFICA_Paragraph_1
+URL = No_URL
+
+word count = 96
+words loading = 8
+factor score = 2
+
+**Comentários** e Esclarecimentos **Adicionais** quanto a **Avaliação** das 
+**questões** com **maior** **número** de erros – FORMAÇÃO ESPECÍFICA: As 
+respostas dos estudantes evidenciam o esforço da IES, e do CPS, para que 
+houvesse uma rápida resposta à **pandemia** de COVID-19 , que permitisse a 
+continuidade dos **estudos** . Entretanto, observam -se dificuldades no que diz 
+respeito à atualização das práticas didáticas no ambiente online, além de um 
+**número** considerável de estudantes que considera que as aulas online podem 
+ter prejudicado seu rendimento. Acredita -se que tal período, dadas as suas 
+dificuldades e necessidades de ajustes, impactou de modo significativo na 
+aprendizagem do corpo discente. 
+
+Lemmas in this text that loaded on the factor:
+
+adicional (secondary)
+avaliação (secondary)
+comentário (secondary)
+estudo
+grande (secondary)
+número
+pandemia (secondary)
+questão (secondary)

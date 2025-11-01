@@ -1,0 +1,45 @@
+file = fat002203
+date = 25
+user = r06_u168
+conversation = t000066_1_ANÁLISE_DO_CENÁRIO_Paragraph_20
+URL = No_URL
+
+word count = 77
+words loading = 22
+factor score = 20
+
+Ações **pedagógicas** : **visitas** técnicas, **projetos** **integradores** / 
+**interdisciplinares** , **dias** de **campo** , **feira** das **profissões** , 
+**cursos** **extracurriculares** para **alunos** . O que será **feito** : 
+Voluntariado para os **cursos** de Análise e Desenvolvimento de Sistemas, 
+Comércio **Exterior** , Jogos Digitais, Segurança da Informação e Gestão 
+Empresarial Por que será **feito** : Para fornecer conteúdos atualizados sobre 
+sobre os **curso** e propor atividades práticas que poderão ser aproveitadas 
+como estágio supervisionado situação-problema: **Metodologia** de **ensino** , 
+**desempenho** de **alunos** , **evasão** Participação da **comunidade** e 
+**sociedade** 
+
+Lemmas in this text that loaded on the factor:
+
+aluno
+campo
+comunidade
+curso
+desempenho
+dia
+ensino
+evasão
+exterior (secondary)
+extracurricular
+fazer
+feira
+integrador
+interdisciplinar
+metodologia
+pedagógico (secondary)
+problema
+profissão
+projeto
+situação
+sociedade
+visita

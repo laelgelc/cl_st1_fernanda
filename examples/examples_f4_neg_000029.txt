@@ -1,0 +1,21 @@
+file = fat002715
+date = 22
+user = r06_u129
+conversation = t000083_2_DESENVOLVIMENTO_Paragraph_29
+URL = No_URL
+
+word count = 76
+words loading = 2
+factor score = -2
+
+Em novembro de 2022 a unidade recebeu a liberação de uma Ata de manutenção que 
+iniciou seus trabalhos em dezembro de 2022 , contudo, ainda faltam ser 
+concluídos os reparos na cobertura do prédio, troca de pisos no corredor e 
+salas 07 e 08 do Bloco 3 , mais reparos na **laje** , forro e **paredes** do 
+auditório, além de ajustes elétricos ( as obras estão em andamento e deverão 
+ser concluídas ao longo do 1º semestre de 2023 ) . 
+
+Lemmas in this text that loaded on the factor:
+
+laje
+parede

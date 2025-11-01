@@ -1,0 +1,46 @@
+file = fat000399
+date = 22-23
+user = r06_u204
+conversation = t000007_3_DESENVOLVIMENTO_Paragraph_41
+URL = No_URL
+
+word count = 198
+words loading = 14
+factor score = 11
+
+**Excelente** **avaliação** do **corpo** técnico-administrativo e dos 
+**docentes** do plano de desenvolvimento **institucional** e da **Relação** da 
+Missão e do PDI com a prática profissional. Manter os níveis de **satisfação** 
+atual por meio do **diálogo** e da comunicação. Apresentação do Plano de 
+Desenvolvimento **Institucional** para o **corpo** técnico-administrativo e 
+**docentes** . Participação dos professores nas ações que promovem a 
+Responsabilidade Social. Engajar um maior **número** de **docentes** , a fim de 
+envolver mais alunos nessas ações, o **planejamento** da divulgação e produção 
+de material informativo. Reconhecimento por parte dos alunos sobre o estágio 
+supervisionado como espaço de formação profissional. **Realizar** um trabalho 
+conjunto entre coordenações de curso e supervisões de estágio no sentido de 
+informar aos **discentes** sobre a importância da prática na formação do 
+profissional de tecnologia. Reelaboração do manual de estágio da unidade bem 
+como a atuação ativa dos supervisores na captação de espaços para a realização 
+das atividades de estágios Divulgar e estimular a participação de professores e 
+alunos nos programas de intercâmbio, apresentando relatos dos alunos da unidade 
+que já participaram dessas atividades. Durante a semana de **acolhimento** é 
+feita a divulgação destes programas, bem como por meio de mídias sociais de 
+todos os editais da Arinter. 
+
+Lemmas in this text that loaded on the factor:
+
+acolhimento (secondary)
+administrativo
+avaliação
+corpo
+discente
+diálogo
+docente
+excelente
+institucional
+número (secondary)
+planejamento
+realizar
+relação
+satisfação (secondary)

@@ -1,0 +1,25 @@
+file = fat001098
+date = 24-25
+user = r06_u204
+conversation = t000027_2_SENSIBILIZAÇÃO_Paragraph_1
+URL = No_URL
+
+word count = 68
+words loading = 5
+factor score = -2
+
+**Ações** de sensibilização da comunidade **acadêmica** - Para a efetivação do 
+cronograma destaca -se algumas das **ações** para a realização dos 
+**procedimentos** de autoavaliação. Os integrantes da CPA contaram com a 
+colaboração dos **coordenadores** de curso e dos **docentes** na sensibilização 
+para a participação da comunidade **acadêmica** no processo de Avaliação 
+Institucional. Sem dúvida a colaboração desses atores foi de suma importância. 
+A sensibilização CPA foi feita em duas etapas; 
+
+Lemmas in this text that loaded on the factor:
+
+acadêmico (secondary)
+ação
+coordenador (secondary)
+docente (secondary)
+procedimento

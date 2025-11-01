@@ -1,0 +1,43 @@
+file = fat001633
+date = 23
+user = r06_u126
+conversation = t000042_1_ANÁLISE_DO_CENÁRIO_Paragraph_12
+URL = No_URL
+
+word count = 112
+words loading = 18
+factor score = 17
+
+C – Estruturar programas de treinamento e cursos de aperfeiçoamento O que será 
+feito: Incentivar e oferecer aos professores e funcionários treinamentos e 
+cursos de aperfeiçoamentos. Por que será feito: Para **otimizar** a 
+**prestação** de **serviços** da FATEC. **Objetivo** ( s ) **relacionado** ( s 
+) : Obter a **satisfação** dos públicos que se **relacionam** com o Centro 
+Paula Souza ( **stakeholders** ) ; **Assegurar** a **perenidade** do 
+**crescimento** da instituição com recursos financeiros disponíveis; 
+**Alcançar** e manter o **grau** de **excelência** em seus processos de 
+**ensino** e **aprendizagem** . **Meta** ( s ) **relacionada** ( s ) : Promover 
+ações administrativas e pedagógicas que proporcionem a **redução** da **taxa** 
+de evasão em 5 % com relação ao indicador de desempenho de 2022 , no ano de 
+2023 . 
+
+Lemmas in this text that loaded on the factor:
+
+alcançar
+aprendizagem
+assegurar
+crescimento
+ensino (secondary)
+excelência
+grau
+meta
+objetivo
+otimizar
+perenidade
+prestação
+redução
+relacionar
+satisfação
+serviço
+stakeholders
+taxa

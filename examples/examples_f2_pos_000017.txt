@@ -1,0 +1,51 @@
+file = fat002012
+date = 24
+user = r06_u204
+conversation = t000057_1_ANÁLISE_DO_CENÁRIO_Paragraph_21
+URL = No_URL
+
+word count = 109
+words loading = 25
+factor score = 23
+
+PUBLICAÇÃO **EDITORIAL** NO FORMATO **LIVRO** ( VOLUME VIII ) – ATIVIDADES 
+AUTÔNOMAS DE **PROJETOS** – CST GESTÃO DE RECURSOS HUMANOS Ações 
+**pedagógicas** : **visitas** técnicas, **projetos** **integradores** / 
+**interdisciplinares** , **dias** de **campo** , **feira** das **profissões** , 
+**cursos** **extracurriculares** para **alunos** . O que será **feito** : 
+Organização de atividades em eixos formativos profissionais do **curso** para 
+publicação de **livro** Por que será **feito** : A publicação do **editorial** 
+no formato **livro** acontece por duas razões: a primeira para que os 
+**discentes** tenham a oportunidade de apresentar os artigos desenvolvidos 
+durante o **curso** para a **comunidade** interna e externa. **Situação** 
+**problema** : **Metodologia** de **ensino** , **desempenho** de **alunos** , 
+**evasão** ( a ser **resolvida** / **mitigada** ) **Metodologia** de **ensino** 
+, **desempenho** de **alunos** , **evasão** 
+
+Lemmas in this text that loaded on the factor:
+
+aluno
+campo
+comunidade
+curso
+desempenho
+dia
+discente (secondary)
+editorial
+ensino
+evasão
+extracurricular
+fazer
+feira
+integrador
+interdisciplinar
+livro
+metodologia
+mitigar
+pedagógico (secondary)
+problema
+profissão
+projeto
+resolver
+situação
+visita

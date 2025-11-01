@@ -1,0 +1,48 @@
+file = fat002008
+date = 24
+user = r06_u204
+conversation = t000057_1_ANÁLISE_DO_CENÁRIO_Paragraph_17
+URL = No_URL
+
+word count = 129
+words loading = 22
+factor score = 21
+
+MOSTRA DE SOFTWARE DO **CURSO** DE ANÁLISE E DESENVOLVIMENTO DE SISTEMAS - cat 
+Ações **pedagógicas** : **visitas** técnicas, **projetos** **integradores** / 
+**interdisciplinares** , **dias** de **campo** , **feira** das **profissões** , 
+**cursos** **extracurriculares** para **alunos** . O que será **feito** : No 
+final de cada semestre, os **alunos** apresentam seus **projetos** de softwares 
+desenvolvidos durante a realização do Trabalho de Conclusão de **Curso** . Por 
+que será **feito** : A mostra acontece por duas razões: a primeira para que os 
+**alunos** realizadores tenham a oportunidade de apresentar seus trabalhos para 
+as bancas, para os **alunos** mais jovens e para a **comunidade** ; a segunda é 
+para que os **alunos** mais jovens possam se inspirar e idealizar seus futuros 
+**projetos** . **Situação** **problema** : **Metodologia** de **ensino** , 
+**desempenho** de **alunos** , **evasão** ( a ser **resolvida** / **mitigada** 
+) **Metodologia** de **ensino** , **desempenho** de **alunos** , **evasão** 
+
+Lemmas in this text that loaded on the factor:
+
+aluno
+campo
+comunidade
+curso
+desempenho
+dia
+ensino
+evasão
+extracurricular
+fazer
+feira
+integrador
+interdisciplinar
+metodologia
+mitigar
+pedagógico (secondary)
+problema
+profissão
+projeto
+resolver
+situação
+visita

@@ -1,0 +1,20 @@
+file = fat000535
+date = 23-24
+user = r06_u126
+conversation = t000012_2_SENSIBILIZAÇÃO_Paragraph_1
+URL = No_URL
+
+word count = 49
+words loading = 2
+factor score = -2
+
+Para a efetivação do cronograma, destaca -se algumas das **ações** para a 
+realização dos **procedimentos** de autoavaliação. Inicialmente, a 
+sensibilização foi feita junto à comunidade com a divulgação de folders, vídeo 
+explicativo sobre a CPA na TV na entrada da faculdade, apresentação sobre a 
+importância da CPA e da AAI. 
+
+Lemmas in this text that loaded on the factor:
+
+ação
+procedimento

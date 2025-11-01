@@ -1,0 +1,24 @@
+file = fat002052
+date = 24
+user = r06_u270
+conversation = t000059_1_ANÁLISE_DO_CENÁRIO_Paragraph_8
+URL = No_URL
+
+word count = 64
+words loading = 4
+factor score = -2
+
+**APONTAMENTO** DE SITUAÇÕES-PROBLEMA MAIS RELEVANTES 1 Metodologia de ensino, 
+desempenho de alunos, **evasão** 2 Acesso / Inclusão ao Ensino Superior ( 
+social, PCD ) 3 Gestão da unidade de ensino e dos cursos ( indicadores ) 4 
+Infraestrutura **laboratorial** e ambientes de ensino 5 Participação da 
+comunidade e sociedade 6 Quantidade de professores / funcionários 7 Acesso e 
+transporte à Unidade de Ensino 8 Consolidação dos Cursos Superiores de 
+Tecnologia 
+
+Lemmas in this text that loaded on the factor:
+
+apontamento (secondary)
+evasão (secondary)
+laboratorial
+situações

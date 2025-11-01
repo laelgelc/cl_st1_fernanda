@@ -1,0 +1,19 @@
+file = fat002886
+date = 23
+user = r06_u129
+conversation = t000093_2_DESENVOLVIMENTO_Paragraph_25
+URL = No_URL
+
+word count = 49
+words loading = 1
+factor score = -1
+
+Em 2023 foram revisados os relatórios técnicos para atualização dos pedidos de 
+equipamentos e mobiliários, conforme relatórios técnicos sobre as condições das 
+salas de aula, laboratórios e outros espaços da unidade, como a falta de 
+ares-condicionados, bebedouros e armários para os alunos. Todos os itens estão 
+indicados no SIAF. 
+
+Lemmas in this text that loaded on the factor:
+
+condicionado

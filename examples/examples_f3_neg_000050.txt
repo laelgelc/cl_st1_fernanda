@@ -1,0 +1,18 @@
+file = fat002969
+date = 23
+user = r06_u168
+conversation = t000096_2_DESENVOLVIMENTO_Paragraph_24
+URL = No_URL
+
+word count = 26
+words loading = 2
+factor score = -2
+
+Pensando na Sustentabilidade, foi incluída **ação** ( 505 ) para substituição 
+da iluminação externa por LED. O levantamento foi realizado, faltando conclusão 
+para os devidos **procedimentos** administrativos. 
+
+Lemmas in this text that loaded on the factor:
+
+ação
+procedimento

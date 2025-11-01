@@ -1,0 +1,31 @@
+file = fat000754
+date = 23-24
+user = r06_u204
+conversation = t000017_3_DESENVOLVIMENTO_Paragraph_21
+URL = No_URL
+
+word count = 79
+words loading = 10
+factor score = 10
+
+A análise do Perfil **Administrativo** , de **forma** geral, obteve um 
+resultado positivo, uma vez que 95 , 45 % **avaliaram** como " **Excelente** e 
+**Bom** " e apenas 4 , 55 % " Regular " . Em **relação** à **questão** 4 para o 
+perfil **administrativo** , esta **questão** não tem aderência, uma vez que 
+alguns funcionários não interagem com os **docentes** . **Destaca** -se que 27 
+, 27 % **afirmaram** que " Não conhecem os projetos de pesquisa " , enquanto 4 
+, 55 % **afirmaram** que não existemr, 27 , 27 % relataram ser " Baixo " e 40 , 
+91 % " Elevado " . 
+
+Lemmas in this text that loaded on the factor:
+
+administrativo
+afirmar
+avaliar
+bom
+destacar
+docente
+excelente
+forma
+questão
+relação

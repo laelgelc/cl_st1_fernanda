@@ -1,0 +1,38 @@
+file = fat000739
+date = 23-24
+user = r06_u204
+conversation = t000017_3_DESENVOLVIMENTO_Paragraph_5
+URL = No_URL
+
+word count = 146
+words loading = 11
+factor score = 11
+
+No perfil dos **Docentes** , em **relação** a **questão** 1 , novamente o 
+resultado foi positivo, sendo que 98 , 99 % **avaliaram** como " **Excelente** 
+e **Bom** " o cumprimento deste item pela unidade. Apenas 1 , 01 % 
+**considera** Regular. Quanto a **questão** 2 , no perfil dos **Docentes** , 97 
+, 52 % " conhecem " o regimento, sendo que apenas 2 , 48 % o " desconhecem " . 
+No perfil Administrativo, 95 , 45 % **consideram** " **Excelente** e **Bom** " 
+e apenas 4 , 55 % " Regular " . Na **questão** 2 , no perfil dos Servidores 
+Administrativos, 95 , 45 % " conhecem " o Regimento e apenas 4 , 55 % o " 
+desconhecem " . No perfil dos **Discentes** , 27 , 68 % **avaliaram** como " 
+Elevado e Constante " a participação da comunidade externa nas atividades da 
+Fatec Ipiranga, sendo que 68 , 68 % **avaliam** como " Baixo ou Eventual " e 8 
+, 64 % **afirmam** que " não há " . Esta **questão** **merece** **atenção** , 
+uma vez que a Fatec Ipiranga por 6 anos consecutivos recebeu o Selo de 
+Instituição Socialmente Responsável. 
+
+Lemmas in this text that loaded on the factor:
+
+afirmar
+atenção
+avaliar
+bom
+considerar
+discente
+docente
+excelente
+merecer
+questão
+relação

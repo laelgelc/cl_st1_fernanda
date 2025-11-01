@@ -1,0 +1,44 @@
+file = fat002041
+date = 24
+user = r06_u217
+conversation = t000058_1_ANÁLISE_DO_CENÁRIO_Paragraph_13
+URL = No_URL
+
+word count = 117
+words loading = 19
+factor score = 18
+
+Ações **pedagógicas** : **visitas** técnicas, **projetos** **integradores** / 
+**interdisciplinares** , **dias** de **campo** , **feira** das **profissões** , 
+**cursos** **extracurriculares** para **alunos** . O que será **feito** : 
+**PROJETO** SOCIALIZA: Coleta de tampinhas plásticas e lacres de alumínio em 
+prol de entidades sociais envolvendo toda a **comunidade** acadêmica. Por que 
+será **feito** : Estimular a identidade coletiva para fortalecer a prática 
+cidadã por meio da coleta de tampinhas plásticas que será destinada a 
+brinquedoteca do Hospital Infantil Candido Fontoura em São Paulo e a coleta de 
+lacres de alumínio em prol da ONG Turma do Jiló que as reverte em cadeira de 
+rodas. Além de incentivar a retirada de lixo do meio ambiente. **Situação** 
+**problema** : Participação da **comunidade** e **sociedade** ( a ser 
+**resolvida** / **mitigada** ) 
+
+Lemmas in this text that loaded on the factor:
+
+aluno
+campo
+comunidade
+curso
+dia
+extracurricular
+fazer
+feira
+integrador
+interdisciplinar
+mitigar
+pedagógico (secondary)
+problema
+profissão
+projeto
+resolver
+situação
+sociedade
+visita

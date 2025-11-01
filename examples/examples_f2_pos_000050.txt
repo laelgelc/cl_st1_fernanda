@@ -1,0 +1,41 @@
+file = fat001913
+date = 24
+user = r06_u129
+conversation = t000053_1_ANÁLISE_DO_CENÁRIO_Paragraph_31
+URL = No_URL
+
+word count = 96
+words loading = 18
+factor score = 16
+
+Desenvolvimento de **Projetos** de IC - MDITI O que será **feito** : 
+**Seleção** de **alunos** para **Bolsas** Semestrais de Pesquisa de Iniciação 
+em Desenvolvimento Tecnológico para o **Curso** de Processos **Químicos** , 
+sobre a presença de compostos organoclorados em **área** pública do bairro 
+Quarentenário na cidade de São Vicente. Por que será **feito** : Para 
+incentivar a pesquisa e desenvolver **estudos** sobre contaminação ambiental 
+com foco nos compostos organoclorados por meio de experimentos em laboratório 
+de **Química** . **Situação** **problema** : **Metodologia** de **ensino** , 
+**desempenho** de **alunos** , **evasão** ( a ser **resolvida** / **mitigada** 
+) Gestão da unidade de **ensino** e dos **cursos** ( indicadores ) 
+
+Lemmas in this text that loaded on the factor:
+
+aluno
+bolsa
+curso
+desempenho
+ensino
+estudo (secondary)
+evasão
+fazer
+metodologia
+mitigar
+problema
+projeto
+química
+químico
+resolver
+seleção
+situação
+área (secondary)

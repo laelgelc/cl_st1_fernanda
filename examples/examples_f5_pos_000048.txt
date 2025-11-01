@@ -1,0 +1,37 @@
+file = fat003122
+date = 24
+user = r06_u160
+conversation = t000104_2_CONSIDERAÇÕES_Paragraph_2
+URL = No_URL
+
+word count = 148
+words loading = 8
+factor score = 7
+
+Adequação dos PPCs e **Extensão** Universitária Como parte das **ações** 
+estratégicas, realizamos adequações nos PPCs ( Projetos **Pedagógicos** de 
+Curso ) dos cursos de Eletrônica Automotiva, Mecânica Automobilística, 
+Mecatrônica Industrial e Sistemas Embarcados. Essas alterações garantiram o 
+alinhamento às **diretrizes** de **extensão** universitária **definidas** pelo 
+Ministério da Educação e pelo Conselho Estadual de Educação, além de fortalecer 
+a articulação entre ensino, pesquisa e **extensão** . Para cumprir as novas 
+**diretrizes** , a **unidade** elaborou um plano robusto para execução das 
+horas de **extensão** . Este plano, ancorado em projetos específicos, tirou 
+proveito das características únicas de cada curso e das parcerias já 
+estabelecidas, **possibilitando** aos alunos experiências práticas com impacto 
+direto na comunidade e suas necessidades reais. Para facilitar a gestão e 
+controle dessas atividades, desenvolvemos um sistema inovador, que permite aos 
+coordenadores cadastrar projetos, homologar participações e monitorar as horas 
+de **extensão** acumuladas por aluno, com a geração de **relatórios** 
+detalhados. 
+
+Lemmas in this text that loaded on the factor:
+
+ação (secondary)
+definir
+diretriz
+extensão
+pedagógico
+possibilitar
+relatório
+unidade

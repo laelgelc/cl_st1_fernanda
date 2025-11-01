@@ -1,0 +1,51 @@
+file = fat000996
+date = 24-25
+user = r06_u137
+conversation = t000024_4_CONSIDERAÇÕES_FINAIS_Paragraph_2
+URL = No_URL
+
+word count = 245
+words loading = 14
+factor score = 12
+
+**Dentre** as principais ações **advindas** desse processo, podemos 
+**salientar** : • planejar novas reuniões de apresentação do PDI aos 
+**discentes** e divulgar material simplificado no site e murais da unidade; • 
+ampliar os cursos de nivelamento, reforço e recuperação de disciplinas em que 
+os alunos possuem maior dificuldade de **aprendizagem** ou deficiência advindas 
+do Ensino Médio; • promover ações incentivadoras aos **discentes** pelos 
+**docentes** com utilização de metodologias ativas, para majorar a participação 
+dos **discentes** durante as aulas; • continuar convidando a comunidade 
+externa, por meio de seus líderes, a participar de eventos na unidade, com 
+ampla divulgação; • dar continuidade à promoção do ambiente de **diálogo** , 
+**negociação** e respeito à opinião diversa nos ambientes **acadêmicos** , omo 
+sala de aula, biblioteca, locais de atendimento aos alunos e nas **relações** 
+hierárquicas do tipo " botton up " ; • aumentar o **número** de parcerias para 
+estágios na faculdade e adequar os conteúdos ministrados em sala de aula às 
+necessidades do mercado de trabalho atual; • ampliar a **política** de 
+divulgação do vestibular semestralmente, junto às comunidades carentes para 
+garantir acesso ao ensino superior e inclusão social; • aumentar o **número** 
+de vagas oferecidas à iniciação científica via programa de monitoria do Centro 
+Paula Souza; • ampliar o **diálogo** no ambiente **acadêmico** por meio do 
+exemplo dado por professores, **coordenadores** , diretores e funcionários, 
+para que a prática **diária** se capilarize entre todos os membros da 
+comunidade; • solicitar ao Centro Paula Souza o aumento da banda de internet na 
+unidade; e • aprimorar o programa de manutenção preventiva das instalações 
+prediais. 
+
+Lemmas in this text that loaded on the factor:
+
+acadêmico
+advir
+aprendizagem (secondary)
+coordenador
+dentrar
+discente
+diálogo
+diário
+docente
+negociação
+número (secondary)
+política
+relação
+salientar

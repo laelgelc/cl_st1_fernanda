@@ -1,0 +1,20 @@
+file = fat002587
+date = 22
+user = r06_u005
+conversation = t000080_2_DESENVOLVIMENTO_Paragraph_10
+URL = No_URL
+
+word count = 56
+words loading = 1
+factor score = -1
+
+Solicitamos ao Centro Paula Souza estudos sobre a viabilidade do retorno as 
+atividades presenciais, porém após a análise dos órgãos competentes, verificou 
+-se a necessidade da troca dos atuais aparelhos de ar-condicionado e o retorno 
+as atividades presenciais se dará somente após a CERFIFICAÇÃO de que as 
+instalações estão adequadas para a realização das atividades de forma 
+presencial. 
+
+Lemmas in this text that loaded on the factor:
+
+condicionado

@@ -1,0 +1,43 @@
+file = fat003237
+date = 23-24
+user = r06_u168
+conversation = t000111_3_QUESTÕES_COMPLEMENTARES_Paragraph_10
+URL = No_URL
+
+word count = 145
+words loading = 17
+factor score = 9
+
+Sob ponto de vista da Gestão Pedagógica da Regional 6 , em análise a partir do 
+**relatório** entregue pela Coordenação de **Curso** e tamb´me pelo **estudo** 
+particular dos documentos disponibilizados pela CESU e Inep, avalio que: I – 
+Consideração das **questões** com **maior** **número** de erros I. I -Formação 
+Geral: Percebo que o **maior** destaque em termos de dificuldades enfrentadas 
+pelos alunos são a **interpretação** de **textos** e análise dos infográficos e 
+/ ou figuras. I. II - Formação Específica: Entendo que é preciso refletir sobre 
+os conteúdos que estão sendo ministrados em sala de aula e que compõem a matriz 
+**curricular** do **Curso** de **Comércio** **Exterior** da UE e os conteúdos 
+discutidos nessa **avaliação** , pois existem " **discussões** " da prova que 
+são trabalhados em menor **detalhamento** na **grade** atual para que esta 
+contemple **discussões** que a Coordenação, o Colegiado e **NDE** do **curso** 
+acreditam ser igualmente importantes para formação **profissional** . 
+
+Lemmas in this text that loaded on the factor:
+
+avaliação (secondary)
+comércio (secondary)
+curricular
+curso (secondary)
+detalhamento
+discussão (secondary)
+estudo
+exterior
+grade
+grande (secondary)
+interpretação
+nde
+número
+profissional (secondary)
+questão (secondary)
+relatório (secondary)
+texto

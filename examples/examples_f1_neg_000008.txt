@@ -1,0 +1,22 @@
+file = fat002184
+date = 25
+user = r06_u160
+conversation = t000065_1_ANÁLISE_DO_CENÁRIO_Paragraph_15
+URL = No_URL
+
+word count = 82
+words loading = 1
+factor score = -1
+
+- Projetos de Pesquisa para Desenvolvimento de Equipamentos / Materiais 
+Didáticos O que será feito: Eletrificação do eixo traseiro do veículo Master 
+como motores nas rodas e aplicação do diferencial eletrônico para controle em 
+curvas. Por que será feito: Projeto de pesquisa aplicada **financiada** pela 
+FUNDEP âmbito do Rota 2030 e em parceira com Poli / USP, EESC / USP e UFSM e 
+com as empresas Schaefller, Virtual CAE e AVL – South América 
+situação-problema: Metodologia de ensino, desempenho de alunos, evasão 
+Participação da comunidade e sociedade 
+
+Lemmas in this text that loaded on the factor:
+
+financiar

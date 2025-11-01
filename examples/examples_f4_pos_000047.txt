@@ -1,0 +1,36 @@
+file = fat000894
+date = 24-25
+user = r06_u129
+conversation = t000023_3_DESENVOLVIMENTO_Paragraph_4
+URL = No_URL
+
+word count = 131
+words loading = 10
+factor score = 10
+
+Os resultados da pesquisa mostram uma distribuição relativamente equilibrada 
+das respostas, sem uma predominância clara de percepções altamente positivas ou 
+negativas. No entanto, o elevado percentual de respondentes que classificaram a 
+**dimensão** como " regular " ( 25 , 05 % ) , 7 , 12 % que **avaliaram** como " 
+muito insatisfatório " , 6 , 12 % que classificaram como " insatisfatório " e 
+aqueles que " não **souberam** **responder** " ( 24 , 16 % ) **sugerem** a 
+existência de um cenário que requer **atenção** , tanto em termos de 
+comunicação interna quanto de ajustes nos processos de **planejamento** e 
+**avaliação** da unidade. Em suma, cerca de metade dos respondentes entende que 
+o **planejamento** e **avaliação** **institucional** **realizados** na unidade 
+recebem a contribuição do processo de **avaliação** pelo WEB SAI, o que 
+encoraja a CPA a **realizar** **avaliação** interna própria em breve a fim de 
+compreender melhor eventuais demandas apuradas. 
+
+Lemmas in this text that loaded on the factor:
+
+atenção
+avaliar
+avaliação
+dimensão
+institucional
+planejamento
+realizar
+responder
+saber
+sugerir

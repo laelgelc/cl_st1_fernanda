@@ -1,0 +1,17 @@
+file = fat002457
+date = 26
+user = r06_u160
+conversation = t000075_1_ANÁLISE_DO_CENÁRIO_Paragraph_18
+URL = No_URL
+
+word count = 31
+words loading = 1
+factor score = -1
+
+Desenvolvimento de um caminhão autônomo nível SAE-3 para colheita de cana de 
+açúcar Projeto de Pesquisa aplicada **financiada** pela FUNDEP e em parceria 
+com a UFABC, POLI-USP, Mercedes Benz, Bosch e Grunner 
+
+Lemmas in this text that loaded on the factor:
+
+financiar

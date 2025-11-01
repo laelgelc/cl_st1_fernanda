@@ -1,0 +1,19 @@
+file = fat001252
+date = 23
+user = r06_u126
+conversation = t000032_2_INDICADORES_SOCIOECONÔMICOS_Paragraph_2
+URL = No_URL
+
+word count = 41
+words loading = 2
+factor score = -1
+
+Segundo os dados do Caged ( **Cadastro** Geral de **Empregados** e 
+Desempregados ) do Ministério do Trabalho e Emprego, o grande ABC reduziu em 19 
+. 7 % o número de empregos criados com carteira assinada em 2022 , considerando 
+o mesmo período de 2021 . 
+
+Lemmas in this text that loaded on the factor:
+
+cadastro
+empregado

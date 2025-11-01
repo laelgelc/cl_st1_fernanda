@@ -1,0 +1,19 @@
+file = fat003247
+date = 23-24
+user = r06_u270
+conversation = t000112_3_COMENTÁRIOS_E_ESCLARECIMENTOS_ADICIONAIS_Paragraph_6
+URL = No_URL
+
+word count = 47
+words loading = 2
+factor score = -2
+
+Concluímos que o aproveitamento escolar do aluno durante a pandemia foi bem 
+abaixo do esperado e que mais da metade dos alunos, pensaram em **trancar** ou 
+até **desistir** do curso. Neste contexto, a qualidade também foi afetada, 
+corroborando com o estudo de ( SAVIANI e GALVÃO, 2021 ) . 
+
+Lemmas in this text that loaded on the factor:
+
+desistir
+trancar

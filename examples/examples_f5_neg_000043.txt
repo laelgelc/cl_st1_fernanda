@@ -1,0 +1,22 @@
+file = fat001455
+date = 23
+user = r06_u168
+conversation = t000036_2_DESENVOLVIMENTO_Paragraph_5
+URL = No_URL
+
+word count = 97
+words loading = 1
+factor score = -1
+
+Em relação aos indicadores de renda e emprego, verificou -se que o salário 
+médio mensal dos trabalhadores formais dos municípios que compõem o ABC 
+Paulista foi de 2 , 86 salários mínimos ( **SM** ) em 2020 . Contudo, as 
+cidades de São Bernardo do Campo ( 3 , 4 **SM** ) , São Caetano do Sul ( 3 , 1 
+**SM** ) , Diadema ( 3 , 0 **SM** ) e Mauá ( 2 , 9 **SM** ) superaram a média 
+salarial da região, à medida que Santo André ( 2 , 7 **SM** ) , Rio Grande da 
+Serra ( 2 , 5 **SM** ) e Ribeirão Pires ( 2 , 4 **SM** ) apresentaram um 
+salário mensal inferior à média do Grande ABC. 
+
+Lemmas in this text that loaded on the factor:
+
+sm

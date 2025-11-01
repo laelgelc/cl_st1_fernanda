@@ -1,0 +1,20 @@
+file = fat001948
+date = 24
+user = r06_u160
+conversation = t000055_1_ANÁLISE_DO_CENÁRIO_Paragraph_16
+URL = No_URL
+
+word count = 57
+words loading = 1
+factor score = -1
+
+Projetos de Pesquisa para Desenvolvimento de Equipamentos / Materiais Didáticos 
+O que será feito: Desenvolvimento de um caminhão autônomo nível SAE-3 para 
+colheita de cana de açúcar Por que será feito: Projeto de Pesquisa aplicada 
+**financiada** pela FUNDEP e em parceria com a UFABC, POLI-USP, Mercedes Benz, 
+Bosch e Grunner Situação problema: Metodologia de ensino, desempenho de alunos, 
+evasão 
+
+Lemmas in this text that loaded on the factor:
+
+financiar

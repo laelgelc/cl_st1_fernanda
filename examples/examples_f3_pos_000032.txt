@@ -1,0 +1,29 @@
+file = fat001488
+date = 23
+user = r06_u204
+conversation = t000037_1_INTRODUÇÃO_Paragraph_15
+URL = No_URL
+
+word count = 96
+words loading = 8
+factor score = 8
+
+Com a análise é possível verificar que o **setor** de atividade **econômica** 
+que continha o **maior** percentual de **empregos** **formais** no ano de 2006 
+era o da **indústria** de transformação, cerca de 38 % , seguindo pelo 
+**setor** de serviços, cerca de 34 % , e do **setor** do **comércio** , com 
+cerca de 24 % de todos os **postos** **formais** de trabalho. Durante o período 
+de 2006 a 2016 observou -se uma clara redução do percentual de **empregos** no 
+**setor** da **Indústria** de transformação, e um claro aumento do percentual 
+de **empregos** no **setor** de serviços, principalmente após o ano de 2014 . 
+
+Lemmas in this text that loaded on the factor:
+
+comércio
+econômico
+emprego
+formal
+grande
+indústria
+posto
+setor

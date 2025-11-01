@@ -1,0 +1,30 @@
+file = fat001326
+date = 23
+user = r06_u137
+conversation = t000034_1_INTRODUÇÃO_Paragraph_1
+URL = No_URL
+
+word count = 93
+words loading = 9
+factor score = 9
+
+A Faculdade de Tecnologia da Zona Sul – Dom Paulo Evaristo Arns está sediada na 
+Zona Sul da **cidade** de São Paulo, especificamente na **região** que pertence 
+a **subprefeitura** do M´Boi Mirim atendendo a quase 600 mil pessoas. De acordo 
+com o IBGE ( 2018 ) , a **população** **estimada** do **município** de São 
+Paulo é de 12 . 176 . 866 **habitantes** . Se for considerada a **região** 
+metropolitana, os 39 **municípios** que circundam a **capital** , a 
+**população** chega a aproximadamente 21 **milhões** de **habitantes** , que se 
+concentram entre as idades de 17 a 39 anos na **região** urbana. 
+
+Lemmas in this text that loaded on the factor:
+
+capital
+cidade
+estimar
+habitante
+milhão
+município
+população
+região
+subprefeitura

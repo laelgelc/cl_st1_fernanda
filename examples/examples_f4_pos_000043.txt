@@ -1,0 +1,32 @@
+file = fat001103
+date = 24-25
+user = r06_u204
+conversation = t000027_3_DESENVOLVIMENTO_Paragraph_3
+URL = No_URL
+
+word count = 91
+words loading = 10
+factor score = 10
+
+No Eixo 2 – Desenvolvimento **Institucional** são **consideradas** duas 
+**dimensões** , sendo: 1 : **Missão** e PDI e 3 Responsabilidade Social 47 , 66 
+% da comunidade **acadêmica** acham Muito **bom** e **Bom** as ações 
+**realizadas** para o desenvolvimento **institucional** , 24 , 59 % acham 
+Regular e 14 % acham Muito insatisfatório e Insatisfatório, sendo que 12 , 94 % 
+não **souberam** **responder** . Esse eixo é de suma importância para o 
+**planejamento** estratégico e desde o início de 2023 a Fatec Ipiranga tem 
+investido no projeto de Identidade visual por meio o desenvolvimento do Projeto 
+de Design Gráfico da unidade. 
+
+Lemmas in this text that loaded on the factor:
+
+acadêmico
+bom
+considerar
+dimensão
+institucional
+missão
+planejamento
+realizar
+responder
+saber

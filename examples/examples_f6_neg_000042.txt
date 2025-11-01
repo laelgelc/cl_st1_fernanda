@@ -1,0 +1,30 @@
+file = fat002803
+date = 22
+user = r06_u204
+conversation = t000087_2_DESENVOLVIMENTO_Paragraph_13
+URL = No_URL
+
+word count = 169
+words loading = 2
+factor score = -1
+
+✓ Controle de Frequência: A primeira medida eficiente para tal é o controle de 
+frequência que deverá ser feito diariamente pelo docente. Para isso é 
+fundamental que no primeiro **dia** de aula todas as matrículas estejam 
+devidamente regularizadas e o professor faça a chamada online. Dessa forma, tem 
+-se uma boa ferramenta para observar a rotatividade, que está presente desde o 
+começo do semestre. Neste contexto, os coordenadores, com o apoio dos docentes, 
+identificam os alunos com três faltas, e **entram** em contato com eles para 
+saber o motivo do não comparecimento às aulas. Contudo, poucos professores 
+enviam o relatório solicitado para os coordenadores de cursos. ✓ Oferta de 
+programas de monitoria e orientações pedagógicas também se mostram uma 
+ferramenta importante para a manutenção dos alunos. Contudo, poucos professores 
+e alunos aderem ao programa por não terem disponibilidade. ✓ Pesquisa de 
+Percepção e Satisfação: uma outra ação realizada por meio da CPA ( Comissão 
+Permanente de Avaliação ) é a aplicação do WEB SAI. ✓ Recuperação e 
+Acompanhamento de aprendizagem do aluno após as principais avaliações. 
+
+Lemmas in this text that loaded on the factor:
+
+dia (secondary)
+entrar

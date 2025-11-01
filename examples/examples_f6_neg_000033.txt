@@ -1,0 +1,17 @@
+file = fat002682
+date = 22
+user = r06_u126
+conversation = t000082_2_DESENVOLVIMENTO_Paragraph_12
+URL = No_URL
+
+word count = 25
+words loading = 1
+factor score = -1
+
+- Montagem de mais três laboratórios de Informática para atender as demandas 
+dos cursos. - Montagem da Sala Maker. - Organização de um laboratório móvel 
+utilizando **notebooks** . 
+
+Lemmas in this text that loaded on the factor:
+
+notebook

@@ -1,0 +1,18 @@
+file = fat002590
+date = 22
+user = r06_u005
+conversation = t000080_2_DESENVOLVIMENTO_Paragraph_13
+URL = No_URL
+
+word count = 46
+words loading = 1
+factor score = -1
+
+A Fatec mudou de sede em julho de 2019 e em março de 2020 **entramos** em 
+quarentena, estávamos ainda em processo de avaliação das novas instalações. 
+Desde março de 2020 estamos desenvolvendo nossas atividades de forma remota e 
+ainda estamos avaliando os pontos positivos / negativos. 
+
+Lemmas in this text that loaded on the factor:
+
+entrar

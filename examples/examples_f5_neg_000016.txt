@@ -1,0 +1,21 @@
+file = fat003244
+date = 23-24
+user = r06_u270
+conversation = t000112_3_COMENTÁRIOS_E_ESCLARECIMENTOS_ADICIONAIS_Paragraph_3
+URL = No_URL
+
+word count = 44
+words loading = 3
+factor score = -3
+
+**Comentários** e **Esclarecimentos** **Adicionais** quanto às respostas dos 
+alunos ao Questionário do Estudante: Numa análise dos microdados, concluímos 
+que no geral os alunos estão satisfeitos com a estrutura, corpo docente, 
+metodologia de ensino, plano de ensino, corpo acadêmico, abordados nos 
+questionários do estudante. 
+
+Lemmas in this text that loaded on the factor:
+
+adicional
+comentário
+esclarecimento

@@ -1,0 +1,34 @@
+file = fat000544
+date = 23-24
+user = r06_u126
+conversation = t000012_3_DESENVOLVIMENTO_Paragraph_8
+URL = No_URL
+
+word count = 70
+words loading = 14
+factor score = 10
+
+**Relatório** de Autoavaliação Institucional da Fatec SBC - 2023 / Final O 
+Plano de Desenvolvimento Institucional ( 2022 - 2026 ) foi um dos principais 
+documentos que **nortearam** as **ações** da Fatec São Bernardo do Campo, pois 
+se trata de um documento que se **caracterizou** como uma **identidade** da 
+Instituição, **definindo** , **dentre** outros, sua **filosofia** de trabalho, 
+**missão** , estratégias, **objetivos** , estrutura e **diretrizes** 
+**pedagógicas** , algo a ser **continuado** no PDI para os **anos** seguintes. 
+
+Lemmas in this text that loaded on the factor:
+
+ano
+ação (secondary)
+caracterizar
+continuar
+definir
+dentrar (secondary)
+diretriz
+filosofia
+identidade
+missão (secondary)
+nortear
+objetivo (secondary)
+pedagógico
+relatório

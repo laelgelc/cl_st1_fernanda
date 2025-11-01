@@ -1,0 +1,21 @@
+file = fat000047
+date = 22-23
+user = r06_u126
+conversation = t000002_3_DESENVOLVIMENTO_Paragraph_16
+URL = No_URL
+
+word count = 73
+words loading = 1
+factor score = -1
+
+O corpo discente sente falta dos NDEs dos cursos. Levantar as ações realizadas 
+pelos NDEs. Divulgar os NDEs e suas respectivas decisões à comunidade 
+acadêmica. Conhecimentos específicos na área de atuação. Promover e incentivar 
+a participação dos **empregados** às capacitações ligadas à sua área, dando 
+condições para o **empregado** possa participar sem que seu trabalho seja 
+comprometido. Utilizar o comprometimentos e pro atividade dos **empregados** 
+para buscar novas soluções para o soluções. 
+
+Lemmas in this text that loaded on the factor:
+
+empregado

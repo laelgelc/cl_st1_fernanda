@@ -1,0 +1,27 @@
+file = fat000049
+date = 22-23
+user = r06_u126
+conversation = t000002_3_DESENVOLVIMENTO_Paragraph_18
+URL = No_URL
+
+word count = 130
+words loading = 2
+factor score = -2
+
+Pouca divulgação da atuação dos órgão colegiados. Divulgar os principais pontos 
+discutidos e as decisões tomadas. Falta de identificação com a atividade 
+realizada. Promover a rotação de funcionários nas possíveis áreas de atuação, 
+para identificar quais as melhores áreas para sua alocação. Divulgação de 
+Campanhas de Saude e Bem Estar Promover campanhas de saúde promovidas pelo 
+governo e pelo Centro Paula Souza. A unidade trabalhou amplamente na divulgação 
+e **cadastro** dos **Empregados** ao IAMSPE, bem como continuou promovendo 
+campanhas como outubro rosa e webinar a respeito de saúde mental entre outros 
+assuntos relevantes, sobretudo devido à pandemia. Capacitações a respeito de 
+diversas áreas Incentivar os **empregados** a participar de capacitações de sua 
+área e, quando possível, das demais áreas, para que todos conheçam melhor todas 
+as atividades da unidade. 
+
+Lemmas in this text that loaded on the factor:
+
+cadastro
+empregado

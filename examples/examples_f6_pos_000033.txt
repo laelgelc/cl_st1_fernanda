@@ -1,0 +1,34 @@
+file = fat001806
+date = 23
+user = r06_u270
+conversation = t000049_1_ANÁLISE_DO_CENÁRIO_Paragraph_12
+URL = No_URL
+
+word count = 122
+words loading = 9
+factor score = 3
+
+B – Proposta de **implantação** do CST em **Comércio** **Exterior** O que será 
+feito: **Estruturação** da Proposta de **implantação** do CST em **Comércio** 
+**Exterior** . Por que será feito: Para identificar novas **tecnologias** e 
+demandas para planejamento e **implantação** de novos **cursos** e iniciativas; 
+para **atender** à necessidade regional de **profissionais** de **comércio** 
+**exterior** para atuação na indústria local, tanto na importação de insumos e 
+equipamentos como para a exportação. Objetivo ( s ) relacionado ( s ) : 
+**Atender** às demandas sociais e do mercado de trabalho; Ampliar a capacidade 
+de criar e atualizar **cursos** em parceria com o mercado de entorno da UE. 
+Meta ( s ) relacionada ( s ) : Ampliar em mais 3 o **número** de **cursos** 
+superiores tecnológicos, em 05 de aperfeiçoamento para funcionários, discentes 
+e docentes. 
+
+Lemmas in this text that loaded on the factor:
+
+atender (secondary)
+comércio (secondary)
+curso (secondary)
+estruturação
+exterior
+implantação (secondary)
+número
+profissional (secondary)
+tecnologia (secondary)

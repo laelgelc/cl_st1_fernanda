@@ -1,0 +1,24 @@
+file = fat003227
+date = 23-24
+user = r06_u168
+conversation = t000111_2_FORMAÇÃO_ESPECÍFICA_Paragraph_4
+URL = No_URL
+
+word count = 53
+words loading = 5
+factor score = 3
+
+As dificuldades enfrentadas pelos discentes propiciam uma reflexão sobre a 
+necessidade de reforço do conteúdo nas disciplinas, aumentando o **número** de 
+casos com situações problemas nos conteúdos **curriculares** relativos aos 
+sistemas de informações oficiais de operações no **comércio** **exterior** , e 
+desenvolvimento de atividades e provas que contemplem **questões** mais 
+analíticas ( Tipo ENADE ) . 
+
+Lemmas in this text that loaded on the factor:
+
+comércio (secondary)
+curricular
+exterior
+número
+questão (secondary)

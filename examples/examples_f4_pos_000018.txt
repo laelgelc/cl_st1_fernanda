@@ -1,0 +1,35 @@
+file = fat000528
+date = 23-24
+user = r06_u113
+conversation = t000011_3_DESENVOLVIMENTO_Paragraph_10
+URL = No_URL
+
+word count = 90
+words loading = 13
+factor score = 12
+
+Neste eixo que está ligado a **políticas** de pessoal e gestão da instituição 
+podemos **destacar** os **bons** resultados, na percepção **docente** e da área 
+**administrativa** , em **relação** ao incentivo a formação **docente** e 
+funcionários **administrativos** , bem como a atuação e representatividade dos 
+colegiados. O apoio da **direção** em **relação** a participação na **tomada** 
+de **decisões** e resolução de **conflitos** também fica em destaque. Como 
+pontos a serem melhorados **destacam** -se tanto o **conhecimento** em 
+**relação** as **questões** de progressão e evolução funcional bem como a 
+**satisfação** mediana em **relação** a elas. 
+
+Lemmas in this text that loaded on the factor:
+
+administrativo
+bom
+conflito
+conhecimento
+decisão
+destacar
+direção
+docente
+política
+questão
+relação
+satisfação (secondary)
+tomada

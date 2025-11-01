@@ -1,0 +1,33 @@
+file = fat003114
+date = 24
+user = r06_u137
+conversation = t000103_2_CONSIDERAÇÕES_Paragraph_22
+URL = No_URL
+
+word count = 177
+words loading = 2
+factor score = -1
+
+D - Fazer: Implementação de ações corretivas e melhorias estratégicas. 1 . 
+Educação e suporte aos alunos: - Aulas de recuperação em disciplinas críticas 
+com ferramentas TEAMS e MOODLE. - Apoio individualizado no Trabalho de 
+Conclusão de Curso ( TCC ) . - Procedimento padrão para identificação de alunos 
+em risco de evasão ( falta prolongada ou dispersão ) . 2 . Infraestrutura: - 
+Reestruturação dos laboratórios de informática, incluindo atualização de 
+software e hardware. - Manutenção predial: pintura externa e interna, 
+iluminação em LED, reforma de quadras e acessibilidade com instalação de piso 
+tátil. - Ampliação da rede Wi-Fi e melhorias no **coworking** dos professores. 
+3 . Engajamento com o mercado e empregabilidade: - Desenvolvimento de projetos 
+práticos com empresas ( ex. : carro elétrico em parceria com a ECATU ) . - 
+Parcerias com grandes empresas como IBM, SAP, GFT e Coca-Cola para 
+oportunidades de estágio e empregabilidade. - Realização de eventos como " 
+Semana de Tecnologia " e " Hackatech " para integração entre discentes, 
+docentes e o mercado. 4 . Digitalização de processos administrativos: - 
+Expansão da Secretaria Digital, reduzindo o tempo de emissão de diplomas de 2 
+anos para 2 meses. - Informatização dos processos de reserva de recursos e 
+solicitações de **serviços** . 
+
+Lemmas in this text that loaded on the factor:
+
+coworking
+serviço (secondary)

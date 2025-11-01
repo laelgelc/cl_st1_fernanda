@@ -1,0 +1,19 @@
+file = fat001740
+date = 23
+user = r06_u204
+conversation = t000047_1_ANÁLISE_DO_CENÁRIO_Paragraph_7
+URL = No_URL
+
+word count = 39
+words loading = 2
+factor score = -2
+
+Outro importante fator a ser mencionado é o cenário pós pandemia. Um número 
+expressivo de alunos com problemas de ordem psicológica **desafia** as 
+Instituições de Ensino a **rever** as práticas educacionais e ampliar a 
+formação humanista e socioemocional. 
+
+Lemmas in this text that loaded on the factor:
+
+desafiar
+rever

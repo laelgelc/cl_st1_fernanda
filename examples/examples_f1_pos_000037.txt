@@ -1,0 +1,43 @@
+file = fat001756
+date = 23
+user = r06_u204
+conversation = t000047_1_ANÁLISE_DO_CENÁRIO_Paragraph_23
+URL = No_URL
+
+word count = 116
+words loading = 18
+factor score = 17
+
+Oficina de LIBRAS. O que será feito: Desenvolver e integrar a comunidade 
+interna e externa à Língua Brasileira de sinais. Por que será feito: Promover e 
+incluir pessoas no contexto e vivência inclusiva da comunidade interna e 
+externa. **Objetivo** ( s ) **relacionado** ( s ) : **Atender** às **demandas** 
+sociais e do **mercado** de trabalho. Obter a **satisfação** dos públicos que 
+se **relacionam** com o Centro Paula Souza ( **stakeholders** ) . **Alcançar** 
+e manter o **grau** de **excelência** em seus processos de **ensino** e 
+**aprendizagem** . **Formar** **profissionais** atualizados em **tecnologias** 
+e processos produtivos, **capazes** de **atuar** no desenvolvimento tecnológico 
+e inovação. **Meta** ( s ) **relacionada** ( s ) : Melhorar a **satisfação** 
+dos docentes e discentes em 10 % quanto a manutenção dos computadores dos 
+laboratórios. 
+
+Lemmas in this text that loaded on the factor:
+
+alcançar
+aprendizagem
+atender
+atuar
+capaz
+demanda
+ensino (secondary)
+excelência
+formar
+grau
+mercado
+meta
+objetivo
+profissional
+relacionar
+satisfação
+stakeholders
+tecnologia

@@ -1,0 +1,23 @@
+file = fat002509
+date = 26
+user = r06_u204
+conversation = t000077_1_ANÁLISE_DO_CENÁRIO_Paragraph_4
+URL = No_URL
+
+word count = 50
+words loading = 4
+factor score = -2
+
+**APONTAMENTO** DE SITUAÇÕES-PROBLEMA MAIS RELEVANTES - Metodologia de ensino, 
+desempenho de alunos, **evasão** - Quantidade de professores / funcionários - 
+Infraestrutura predial ( espaços, sistemas ) - Participação da comunidade e 
+sociedade - Infraestrutura **laboratorial** e ambientes de ensino - Acesso / 
+Inclusão ao Ensino Superior ( social, PCD ) - Materiais, equipamentos e 
+mobiliários - Gestão da unidade de ensino e dos cursos 
+
+Lemmas in this text that loaded on the factor:
+
+apontamento (secondary)
+evasão (secondary)
+laboratorial
+situações

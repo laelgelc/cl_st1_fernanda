@@ -1,0 +1,21 @@
+file = fat001539
+date = 23
+user = r06_u217
+conversation = t000038_2_DESENVOLVIMENTO_Paragraph_3
+URL = No_URL
+
+word count = 71
+words loading = 1
+factor score = -1
+
+Em ocasiões de progresso pleno, o profissionalismo é necessário para que o 
+crescimento ordenado não permita graus inoportunos de entropia; em ocasiões de 
+crise, profissionalismo é primordial ao aperfeiçoamento do pensar 
+possibilidades de transcendência. O **enfrentamento** desses desafios só é 
+possível com formação de um quadro profissional com atores de organização: 
+profissionais com competências que lhes permitam perceber demandas e tendências 
+do mundo do trabalho, tornando -as realidades em forma de produção. 
+
+Lemmas in this text that loaded on the factor:
+
+enfrentamento

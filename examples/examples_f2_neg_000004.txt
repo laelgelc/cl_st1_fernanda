@@ -1,0 +1,20 @@
+file = fat001641
+date = 23
+user = r06_u129
+conversation = t000043_1_ANÁLISE_DO_CENÁRIO_Paragraph_4
+URL = No_URL
+
+word count = 65
+words loading = 1
+factor score = -1
+
+O setor de Tecnologia da Informação e Comunicação ( TIC ) é um dos setores que 
+mais gera vagas de emprego no país. Segundo dados da Associação Brasileira de 
+Empresas de Tecnologia da Informação e Comunicação ( Brasscom ) , o mercado 
+nacional emprega 1 , 56 milhão de trabalhadores atualmente, com mais de 40 mil 
+postos de trabalho criados em 2019 . Desse **montante** , 42 , 8 % estão em São 
+Paulo. 
+
+Lemmas in this text that loaded on the factor:
+
+montante

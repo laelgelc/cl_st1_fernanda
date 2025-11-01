@@ -1,0 +1,20 @@
+file = fat001223
+date = 23
+user = r06_u113
+conversation = t000031_2_INDICADORES_SOCIOECNÔMICOS_Paragraph_8
+URL = No_URL
+
+word count = 75
+words loading = 1
+factor score = -1
+
+Com o advento da pandemia, o setor de Tecnologia da Informação e Comunicação ( 
+TIC ) que já era forte, se tornou um dos setores que mais gera vagas de emprego 
+no país. Segundo dados da Associação Brasileira de Empresas de Tecnologia da 
+Informação e Comunicação ( Brasscom ) , o mercado nacional emprega 1 , 56 
+milhão de trabalhadores atualmente, com mais de 40 mil postos de trabalho 
+criados em 2019 . Desse **montante** , 42 , 8 % está em São Paulo. 
+
+Lemmas in this text that loaded on the factor:
+
+montante

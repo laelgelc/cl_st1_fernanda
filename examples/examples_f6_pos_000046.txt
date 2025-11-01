@@ -1,0 +1,20 @@
+file = fat003224
+date = 23-24
+user = r06_u168
+conversation = t000111_2_FORMAÇÃO_ESPECÍFICA_Paragraph_1
+URL = No_URL
+
+word count = 25
+words loading = 4
+factor score = 2
+
+Nas **questões** de Formação Específica a **maior** incidência de erros ocorreu 
+devido à falta conhecimento específico sobre o conteúdo e **interpretação** de 
+**texto** / **questões** . 
+
+Lemmas in this text that loaded on the factor:
+
+grande (secondary)
+interpretação
+questão (secondary)
+texto

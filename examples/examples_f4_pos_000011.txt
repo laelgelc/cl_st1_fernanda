@@ -1,0 +1,49 @@
+file = fat001018
+date = 24-25
+user = r06_u160
+conversation = t000025_3_DESENVOLVIMENTO_Paragraph_19
+URL = No_URL
+
+word count = 207
+words loading = 15
+factor score = 12
+
+Ações **Sugeridas** : o Identificação de Padrões Específicos: **Avaliar** se há 
+algum padrão entre as respostas insatisfatórias, como diferenças entre cargos ( 
+**docentes** , **discentes** , colaboradores ) , cursos, ou períodos de tempo 
+que indiquem fatores comuns de insatisfação. o Engajamento e Dedicação: 
+Revisitar as respostas das perguntas relacionadas ao envolvimento em sala de 
+aula e dedicação fora do horário, para verificar se essas áreas foram mais 
+suscetíveis à discordância. o Relacionamento e Comunicação: Investigar se o 
+relacionamento com **docentes** e técnicos-administrativos está alinhado às 
+expectativas dos **discentes** e se há **questões** de comunicação que podem 
+estar impactando essa **avaliação** . o Programas de Capacitação: Analisar se a 
+participação nos programas oferecidos pela CPS e pela Fatec foi **considerada** 
+relevante e acessível, e se os insatisfeitos identificaram alguma dificuldade 
+no acesso ou na aplicabilidade dos conteúdos. o Documentos e **Instrumentos** 
+de **Avaliação** : Observar como os respondentes percebem a aplicação dos 
+documentos **institucionais** e dos **instrumentos** de **avaliação** , 
+identificando se as expectativas em **relação** ao Plano de Desenvolvimento 
+**Institucional** ( PDI ) , Projetos Pedagógicos de Curso ( PPC ) , Relatório 
+da Comissão Própria de **Avaliação** ( CPA ) . o Esses dados orientam as 
+**melhorias** e ações estratégicas para reforçar o engajamento e a 
+**satisfação** **institucional** , mantendo a **maioria** positiva e, ao mesmo 
+tempo, **respondendo** aos desafios que a minoria identificou. 
+
+Lemmas in this text that loaded on the factor:
+
+administrativo
+avaliar
+avaliação
+considerar
+discente
+docente
+institucional
+instrumento (secondary)
+maioria
+melhoria (secondary)
+questão
+relação
+responder
+satisfação (secondary)
+sugerir

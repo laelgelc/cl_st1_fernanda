@@ -1,0 +1,38 @@
+file = fat001571
+date = 23
+user = r06_u270
+conversation = t000039_2_DESENVOLVIMENTO_Paragraph_5
+URL = No_URL
+
+word count = 168
+words loading = 9
+factor score = 8
+
+Existe uma **grande** demanda por profissionais formados na **área** de 
+produção, e a FATEC Cotia é a única instituição de ensino superior que oferece 
+esse curso na **região** de Cotia e nas **cidades** vizinhas. Devido ao fato de 
+que na **região** de Cotia não existe um **segmento** especifico de 
+**indústria** , o curso de Gestão da Produção **Industrial** visa formar um 
+profissional que possa atuar em qualquer **segmento** , seja Alimentos, 
+Aparelhos e Materiais Elétricos, Borracha e Material Plástico, Celulose e 
+Papel, Equipamentos de Informática, Farmoquímica e Farmacêutica, Impressão e 
+Reprodução de Gravações, Máquinas e Equipamentos, Metalurgia, Produtos de 
+Metal, Produtos Eletrônicos e Ópticos, **Química** , Reboques e Carrocerias, 
+Têxtil e Veículos Automotores, incluindo também as classificações recentes de 
+**segmentos** como, Fabricação de cosméticos, produtos de perfumaria e de 
+higiene pessoal, Fabricação de **embalagens** de material plástico e Fabricação 
+de produtos alimentícios, além do ramo agropecuário, como o Cultivo de flores e 
+plantas ornamentais; Horticultura; Atividades paisagísticas; Criação de outros 
+animais de **grande** porte; Cultivo de plantas de lavoura temporária. 
+
+Lemmas in this text that loaded on the factor:
+
+cidade
+embalagem
+grande
+industrial
+indústria
+químico (secondary)
+região
+segmento
+área

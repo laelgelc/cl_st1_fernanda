@@ -1,0 +1,30 @@
+file = fat001549
+date = 23
+user = r06_u217
+conversation = t000038_2_DESENVOLVIMENTO_Paragraph_13
+URL = No_URL
+
+word count = 94
+words loading = 9
+factor score = 8
+
+Apesar disso, estudos do Observatório Econômico e do Trabalho de **Diadema** ( 
+2021 ) , mostram a recuperação da **economia** e dos **empregos** **formais** , 
+o **Grande** ABC tem saldo positivo de 7 . 044 **empregos** **formais** em 2021 
+. A **indústria** fecha o 1º bimestre de 2021 com saldo de 2 . 926 novos 
+**postos** de trabalho. A Tabela 3 destaca o cenário dos **empregos** 
+**formais** do **Grande** ABC no primeiro bimestre de 2021 . Vemos que o 
+**setor** com menor **crescimento** no primeiro bimestre foi o Comércio, com um 
+saldo de apenas 156 novos **postos** de trabalho no período. 
+
+Lemmas in this text that loaded on the factor:
+
+crescimento (secondary)
+diadema
+economia
+emprego
+formal
+grande
+indústria
+posto
+setor

@@ -1,0 +1,41 @@
+file = fat001712
+date = 23
+user = r06_u168
+conversation = t000046_1_ANÁLISE_DO_CENÁRIO_Paragraph_8
+URL = No_URL
+
+word count = 121
+words loading = 16
+factor score = 16
+
+Desenvolvimento de um evento de Segurança da Informação conhecido por CTF ( 
+Capture in the Flag ) . O que será feito: Localização de parceiros que 
+desenvolvem atividades afins para dar suporte técnico ao evento. Por que será 
+feito: Este evento é tradicional nas instituições que possuem o curso de 
+Segurança da Informação. **Objetivo** ( s ) **relacionado** ( s ) : Aumentar a 
+**eficiência** , a **produtividade** e a **competitividade** da instituição 
+**Atender** às **demandas** sociais e do **mercado** de trabalho. **Formar** 
+**profissionais** atualizados em **tecnologias** e processos produtivos, 
+**capazes** de **atuar** no desenvolvimento tecnológico e inovação. **Meta** ( 
+s ) **relacionada** ( s ) : Ampliar as inscrições para o vestibular em 5 % no 
+ano de 2023 . Promover ações pedagógicas e administrativas que proporcionem a 
+**redução** da **taxa** de evasão em 5 % 
+
+Lemmas in this text that loaded on the factor:
+
+atender
+atuar
+capaz
+competitividade
+demanda
+eficiência
+formar
+mercado
+meta
+objetivo
+produtividade
+profissional
+redução
+relacionar
+taxa
+tecnologia

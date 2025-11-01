@@ -1,0 +1,21 @@
+file = fat001292
+date = 23
+user = r06_u129
+conversation = t000033_2_DESENVOLVIMENTO_Paragraph_16
+URL = No_URL
+
+word count = 73
+words loading = 1
+factor score = -1
+
+E o CST em Processos Químicos da Fatec Praia Grande busca atender a demanda por 
+profissionais das empresas petroquímica, petróleo e gás; farmacêutica e 
+cosméticos, especialmente localizadas no polo industrial de Cubatão. Os 
+estudantes do curso de PQ desenvolvem as competências para atuar com análises 
+de controle de qualidade de matérias-primas, reagentes e produtos dos processos 
+químicos industriais, além de planejar e gerenciar, registrar e **interpretar** 
+análises laboratoriais, buscando qualidade, viabilidade e sustentabilidade. 
+
+Lemmas in this text that loaded on the factor:
+
+interpretar

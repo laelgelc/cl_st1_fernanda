@@ -1,0 +1,32 @@
+file = fat000953
+date = 24-25
+user = r06_u137
+conversation = t000024_3_DESENVOLVIMENTO_Paragraph_20
+URL = No_URL
+
+word count = 103
+words loading = 10
+factor score = 10
+
+**Merece** destaque apontado nos gráficos acima o fato de mais de 62 % dos 
+alunos **considerarem** **bom** ou **excelente** o nível de preparo dos 
+funcionários para a execução de suas funções, e também é de se **salientar** 
+uma grande potencialidade no fato de 90 % dos **docentes** enxergar como 
+**boas** ou ótimas as oportunidades de formação e capacitação oferecidas pelo 
+CPS, assim como a qualidade das capacitações, sendo que 95 % deles **avalia** 
+as ações **acadêmicas** e **administrativas** da Fatec como **boas** ou muito 
+**boas** , sendo que 80 % julga **boa** ou ótima a transparência em **relação** 
+aos indicadores para progressão e promoção da evolução funcional. 
+
+Lemmas in this text that loaded on the factor:
+
+acadêmico
+administrativo
+avaliar
+bom
+considerar
+docente
+excelente
+merecer
+relação
+salientar

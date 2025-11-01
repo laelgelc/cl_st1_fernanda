@@ -1,0 +1,34 @@
+file = fat001591
+date = 23
+user = r06_u270
+conversation = t000039_2_DESENVOLVIMENTO_Paragraph_25
+URL = No_URL
+
+word count = 165
+words loading = 6
+factor score = 3
+
+Os **estudos** demonstram que os índices dependem do setor da economia e do 
+nível de informatização da empresa. Naturalmente, quanto mais informatizada a 
+empresa, **maior** é esse valor. O estágio de informatização tem como 
+**componentes** a arquitetura das Tecnologias de Informação e Comunicação ( TIC 
+) e a estrutura de pessoal utilizada, ambas indiretamente refletindo o papel e 
+a importância que a TI tem na empresa ( MEIRELES, 2020 ) . Ainda de acordo com 
+Meireles ( 2020 ) , a transformação **digital** será antecipada e acelerada, e 
+neste ponto vale evidenciar o papel involuntário da **pandemia** do COVID-19 , 
+que impulsionou a utilização das **tecnologias** **digitais** e o trabalho 
+doméstico, de forma que os gastos e investimentos continuaram a crescer mesmo 
+com a economia retraída. Para o autor os principais projetos de TI: 
+Inteligência Analítica, " novo " ERP, implementação e Integração. Nas 
+**grandes** , aparece também: Governança de TI, Inteligência Artificial e IoT ( 
+Internet das Coisas ) . No início de 2020 , o **maior** foco foi para o 
+trabalho remoto e depois deverá ser a Transformação **Digital** . 
+
+Lemmas in this text that loaded on the factor:
+
+componente
+digital
+estudo
+grande (secondary)
+pandemia (secondary)
+tecnologia (secondary)

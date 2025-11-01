@@ -1,0 +1,42 @@
+file = fat002046
+date = 24
+user = r06_u217
+conversation = t000058_1_ANÁLISE_DO_CENÁRIO_Paragraph_18
+URL = No_URL
+
+word count = 75
+words loading = 20
+factor score = 19
+
+Ações **pedagógicas** : **visitas** técnicas, **projetos** **integradores** / 
+**interdisciplinares** , **dias** de **campo** , **feira** das **profissões** , 
+**cursos** **extracurriculares** para **alunos** . O que será **feito** : 
+OFICINA DE VELAS – os **alunos** da **disciplina** de Perfumaria orientados 
+pelo prof. Célio Higuchi oferecerão à **comunidade** oficinas de velas Por que 
+será **feito** : Para melhorar a visibilidade do **curso** de Cosméticos e da 
+Fatec Diadema para a **comunidade** local e estudantes **Situação** 
+**problema** : Participação da **comunidade** e **sociedade** ( a ser 
+**resolvida** / **mitigada** ) 
+
+Lemmas in this text that loaded on the factor:
+
+aluno
+campo
+comunidade
+curso
+dia
+disciplina
+extracurricular
+fazer
+feira
+integrador
+interdisciplinar
+mitigar
+pedagógico (secondary)
+problema
+profissão
+projeto
+resolver
+situação
+sociedade
+visita

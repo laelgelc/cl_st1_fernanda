@@ -1,0 +1,40 @@
+file = fat000554
+date = 23-24
+user = r06_u126
+conversation = t000012_3_DESENVOLVIMENTO_Paragraph_18
+URL = No_URL
+
+word count = 214
+words loading = 6
+factor score = -2
+
+Adequar a infraestrutura da internet e mobiliários para os laboratórios de TI. 
+Estudar formas de obter / alocar recursos para: manutenção dos equipamentos de 
+laboratórios específicos ( robôs, sistemas de controle, kit didático de 
+instrumentação, impressoras 3D ) ; e para aquisição e implantação de módulos e 
+dispositivos para a modernização de alguns dos laboratórios, que se encontram 
+desatualizados frente ao mercado de trabalho. Criar / preparar espaço físico 
+para confecção dos protótipos de TCC ' s e de Projetos de Iniciação Científica 
+/ Tecnológica, inclusive com **ações** de descarte de equipamentos 
+inutilizáveis, que fazem parte do patrimônio. Recuperar Laboratório de Controle 
+de Processos Contínuos ( Equipamentos locados no Laboratório 29 ) , visando 
+ampliar as **aulas** práticas para algumas **disciplinas** formativas. Projeto 
+de Reforma **predial** para implantação de espaço necessário aos trabalhos de 
+iniciação científica, inovação, extensão e TCC ' s. Elaborar estudos para 
+atacar os **problemas** de manutenção elétrica no campus da unidade ( 
+Redimensionamento de circuitos elétricos, reparo no disjuntor de entrada da 
+cabine primária de energia elétrica ) . Elaborar estudos visando a correção dos 
+**problemas** devidos à falta e falhas de manutenção **predial** ( Manutenções 
+nas ependências da FATEC SBC, exclusivamente ) . Projeto para garantir a 
+segurança das pessoas e das instalações da FATEC SBC com estudo para 
+implantação de políticas de segurança dos **alunos** , funcionários, 
+professores e das instalações físicas da FATEC SBC. 
+
+Lemmas in this text that loaded on the factor:
+
+aluno (secondary)
+aula
+ação
+disciplina (secondary)
+predial (secondary)
+problema (secondary)

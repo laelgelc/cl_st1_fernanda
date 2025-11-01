@@ -1,0 +1,19 @@
+file = fat003068
+date = 24
+user = r06_u129
+conversation = t000102_2_CONSIDERAÇÕES_Paragraph_22
+URL = No_URL
+
+word count = 56
+words loading = 1
+factor score = -1
+
+Em novembro foi realizada a visita técnica do Coordenador Regional de 
+Infraestrutura que avaliou as condições estruturais do laboratório de Química, 
+que apresentou a queda do foro do laboratório, comprometendo o uso desse 
+espaço. Foi sugerido um reparo com a retirada do reboco, vedação dos ferros 
+expostos, novo reboco e **pintura** , como uma ação emergencial. 
+
+Lemmas in this text that loaded on the factor:
+
+pintura

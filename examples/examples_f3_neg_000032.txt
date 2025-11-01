@@ -1,0 +1,30 @@
+file = fat000830
+date = 23-24
+user = r06_u270
+conversation = t000019_3_DESENVOLVIMENTO_Paragraph_5
+URL = No_URL
+
+word count = 130
+words loading = 3
+factor score = -2
+
+Divulgar o PDI em informativos físicos e eletrônicos Professor tutor para 
+orientar o planejamento de estudos Orientar projetos de participação na 
+comunidade Dinamizar acolhimento com respeito à diversidade de opiniões 
+Acolhimento de **alunos** ingressantes – evitar evasão Dinamizar matrículas de 
+vagas remanescentes e em turno invertido Parceria com empresas que permitam 
+pesquisas como estudo de caso **Ações** festivas Fatec 10 anos Novos métodos de 
+avaliação Monitorias / Nivelamento Intercâmbio Programas de Estágio Criação de 
+Laboratórios Incrementar visibilidade dos programas de apoio à pesquisa 
+Fomentar participação em programas de capacitação, mestrado, doutorado 
+Atualização permanente das informações da Instituição Promover atividades 
+envolvendo a comunidade Criação de um Plano de carreira Reformas de adequação 
+para acessibilidade Reformas de adequação para instalação novos laboratórios 
+Instalação de equipamentos novos Implantação de sala especial para **Aula** 
+Remota 
+
+Lemmas in this text that loaded on the factor:
+
+aluno (secondary)
+aula
+ação

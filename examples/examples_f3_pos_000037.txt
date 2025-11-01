@@ -1,0 +1,25 @@
+file = fat001265
+date = 23
+user = r06_u126
+conversation = t000032_3_APL_Paragraph_5
+URL = No_URL
+
+word count = 40
+words loading = 8
+factor score = 8
+
+Em contrapartida, o rendimento médio dos **empregos** **formais** da 
+**indústria** cresce bastante no mesmo período, uma evidência da valorização da 
+mão-de-obra qualificada que ainda atua nestes estabelecimentos em nossa 
+**cidade** , com valores médios **maiores** que o **Estado** e a RMSP. 
+
+Lemmas in this text that loaded on the factor:
+
+cidade
+emprego
+estado
+formal
+grande
+indústria
+mão
+obra

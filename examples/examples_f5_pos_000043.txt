@@ -1,0 +1,30 @@
+file = fat000142
+date = 22-23
+user = r06_u137
+conversation = t000004_3_DESENVOLVIMENTO_Paragraph_13
+URL = No_URL
+
+word count = 49
+words loading = 11
+factor score = 8
+
+O Plano de Desenvolvimento Institucional sempre foi um dos principais 
+documentos que **nortearam** as **ações** da FATEC Zona Sul, tratando da 
+**identidade** da Instituição, **definindo** , dentro outros, sua **filosofia** 
+de trabalho, **missão** , estratégias, **objetivos** , estrutura e 
+**diretrizes** **pedagógicas** , algo a ser **continuado** no PDI para os 
+**anos** seguintes. 
+
+Lemmas in this text that loaded on the factor:
+
+ano
+ação (secondary)
+continuar
+definir
+diretriz
+filosofia
+identidade
+missão (secondary)
+nortear
+objetivo (secondary)
+pedagógico

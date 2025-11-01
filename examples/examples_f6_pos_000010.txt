@@ -1,0 +1,35 @@
+file = fat002178
+date = 25
+user = r06_u160
+conversation = t000065_1_ANÁLISE_DO_CENÁRIO_Paragraph_9
+URL = No_URL
+
+word count = 90
+words loading = 13
+factor score = 6
+
+Adequação / reestruturação de PPC, **implantação** de novos **cursos** . O que 
+será feito: **Estruturação** de proposta para atualização do PPC de Mecatrônica 
+**Industrial** mediante a análise dos conteúdos **programáticos** das 
+**componentes** **curriculares** do **curso** e construção da nova **grade** 
+**curricular** segundo as **exigências** e demandas do mercado de trabalho. Por 
+que será feito: Para atualização do PPC em **virtude** do avanço tecnológico na 
+área e da crescente demanda por **profissionais** **formados** com o perfil do 
+egresso do **curso** . situação-problema: Metodologia de ensino, **desempenho** 
+de alunos, evasão Participação da comunidade e sociedade 
+
+Lemmas in this text that loaded on the factor:
+
+componente
+curricular
+curso (secondary)
+desempenho (secondary)
+estruturação
+exigência
+formar (secondary)
+grade
+implantação (secondary)
+industrial (secondary)
+profissional (secondary)
+programático (secondary)
+virtude

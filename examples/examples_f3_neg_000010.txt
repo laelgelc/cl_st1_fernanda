@@ -1,0 +1,26 @@
+file = fat000518
+date = 23-24
+user = r06_u113
+conversation = t000011_2_SENSIBILIZAÇÃO_Paragraph_1
+URL = No_URL
+
+word count = 72
+words loading = 5
+factor score = -3
+
+Para a efetivação do cronograma destaca -se algumas das **ações** para a 
+realização dos **procedimentos** de autoavaliação. ➢ Espaço da **aula** 
+destinado para preenchimento do Websai; ➢ Notificação via Teams aos 
+professores; ➢ Mensagens de whatsapp ( individual ) nos dias finais do 
+processo; ➢ Reforço aos **alunos** por representantes dos **alunos** da CPA e 
+por representantes de sala; ➢ Ingresso dos **Coordenadores** em **aulas** para 
+sensibilizar **alunos** sobre o WebSAI; ➢ Envio de mensagem pelos 
+**Coordenadores** ao e-mail institucional dos **alunos** ; 
+
+Lemmas in this text that loaded on the factor:
+
+aluno (secondary)
+aula
+ação
+coordenador (secondary)
+procedimento

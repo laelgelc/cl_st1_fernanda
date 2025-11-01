@@ -1,0 +1,41 @@
+file = fat001725
+date = 23
+user = r06_u168
+conversation = t000046_1_ANÁLISE_DO_CENÁRIO_Paragraph_21
+URL = No_URL
+
+word count = 133
+words loading = 15
+factor score = 15
+
+Implantação novo curso AMS O que será feito: Em parceria com a Etec Jorge 
+Street implantar o curso AMS Tecnólogo em Processos Gerenciais ( a partir do 
+curso técnico de Administração ) Por que será feito: Ampliar vagas oferecidas 
+em curso superior utilizando salas de aula ociosas no período matutino. 
+**Objetivo** ( s ) **relacionado** ( s ) : Aumentar a **eficiência** , a 
+**produtividade** e a **competitividade** da instituição **Atender** às 
+**demandas** sociais e do **mercado** de trabalho. **Formar** **profissionais** 
+atualizados em **tecnologias** e processos produtivos, **capazes** de **atuar** 
+no desenvolvimento tecnológico e inovação. **Meta** ( s ) **relacionada** ( s ) 
+: Ampliar as inscrições para o vestibular em 5 % no ano de 2023 . **Objetivo** 
+( s ) **relacionado** ( s ) : Aumentar a **eficiência** , a **produtividade** e 
+a **competitividade** da instituição **Meta** ( s ) **relacionada** ( s ) : 
+Reestruturar e **otimizar** a rede de comunicação de dados da unidade. 
+
+Lemmas in this text that loaded on the factor:
+
+atender
+atuar
+capaz
+competitividade
+demanda
+eficiência
+formar
+mercado
+meta
+objetivo
+otimizar
+produtividade
+profissional
+relacionar
+tecnologia

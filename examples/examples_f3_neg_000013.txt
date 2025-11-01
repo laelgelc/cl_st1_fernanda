@@ -1,0 +1,27 @@
+file = fat000030
+date = 22-23
+user = r06_u126
+conversation = t000002_2_SENSIBILIZAÇÃO_Paragraph_1
+URL = No_URL
+
+word count = 105
+words loading = 4
+factor score = -2
+
+Para a efetivação e cumprimento do cronograma, destacam -se algumas **ações** 
+para a realização dos **procedimentos** de autoavaliação: • Reunião da direção 
+com os **coordenadores** de cursos, chefes de departamentos e membros da CPA; • 
+Reuniões das coordenadorias de cursos com os **docentes** e representantes 
+discentes de turmas, ministrando palestras informativas sobre as **ações** da 
+CPA; • Reuniões dos representantes da CPA com os representantes discentes de 
+turmas, ministrando palestras informáticas sobre as **ações** da CPA; • 
+Divulgação da CPA e de suas atividades por meio de mensagens enviadas ao corpo 
+**docente** , corpo discente e corpo técnico, além de informações 
+disponibilizadas na página da Internet e mídias sociais em geral. 
+
+Lemmas in this text that loaded on the factor:
+
+ação
+coordenador (secondary)
+docente (secondary)
+procedimento

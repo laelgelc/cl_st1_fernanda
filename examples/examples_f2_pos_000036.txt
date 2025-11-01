@@ -1,0 +1,43 @@
+file = fat001934
+date = 24
+user = r06_u137
+conversation = t000054_1_ANÁLISE_DO_CENÁRIO_Paragraph_17
+URL = No_URL
+
+word count = 80
+words loading = 20
+factor score = 19
+
+Ações **pedagógicas** : **visitas** técnicas, **projetos** **integradores** / 
+**interdisciplinares** , **dias** de **campo** , **feira** das **profissões** , 
+**cursos** **extracurriculares** para **alunos** . O que será **feito** : 
+Semana de Tecnologia, Semana de Inteligência Artificial e Semana Global de 
+Empreendedorismo: Evento com apresentação de palestrantes convidados, tratando 
+de temas **relevantes** aos **cursos** oferecidos pela FATEC Zona Sul. Por que 
+será **feito** : Promover a integração entre os membros da **comunidade** 
+acadêmica. **Situação** **problema** : Comunicação com a **comunidade** 
+acadêmica ( a ser **resolvida** / **mitigada** ) Participação da **comunidade** 
+e **sociedade** 
+
+Lemmas in this text that loaded on the factor:
+
+aluno
+campo
+comunidade
+curso
+dia
+extracurricular
+fazer
+feira
+integrador
+interdisciplinar
+mitigar
+pedagógico (secondary)
+problema
+profissão
+projeto
+relevante
+resolver
+situação
+sociedade
+visita

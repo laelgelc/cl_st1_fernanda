@@ -1,0 +1,18 @@
+file = fat002954
+date = 23
+user = r06_u168
+conversation = t000096_2_DESENVOLVIMENTO_Paragraph_9
+URL = No_URL
+
+word count = 33
+words loading = 2
+factor score = -2
+
+A direção, juntamente com a CPA, promoveu **ações** para sensibilização para 
+participação no Websai, com mensagens via email e Teams, presencialmente nas 
+salas de **aula** , divulgação em reuniões com servidores e professores. 
+
+Lemmas in this text that loaded on the factor:
+
+aula
+ação

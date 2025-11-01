@@ -1,0 +1,30 @@
+file = fat001168
+date = 24-25
+user = r06_u217
+conversation = t000028_4_CONSIDERAÇÕES_FINAIS_Paragraph_2
+URL = No_URL
+
+word count = 64
+words loading = 10
+factor score = 10
+
+**Dentre** as principais ações **advindas** desse processo, podemos 
+**salientar** : No Eixo 1 : Planejamento e Avaliação Institucional, quando se 
+trata dos **discentes** , **destacamos** que 38 % dos **discentes** não 
+**sabem** **responder** ou não **sabe** informar sobre o tema. No eixo 2 também 
+**destacamos** os **discentes** , 32 % **consideram** seu **conhecimento** e 
+cumprimento do PDI muito **bom** ou **bom** , 28 % não **sabem** **responder** 
+e 25 % **consideram** regular. 
+
+Lemmas in this text that loaded on the factor:
+
+advir
+bom
+conhecimento
+considerar
+dentrar
+destacar
+discente
+responder
+saber
+salientar

@@ -1,0 +1,34 @@
+file = fat000738
+date = 23-24
+user = r06_u204
+conversation = t000017_3_DESENVOLVIMENTO_Paragraph_4
+URL = No_URL
+
+word count = 99
+words loading = 11
+factor score = 11
+
+No perfil **Discente** 87 , 75 % **avaliaram** como " **Excelente** e **Bom** " 
+, 10 , 39 % " Regular " e apenas 1 , 86 % " Insuficiente " . Diante desses 
+percentuais, **considera** -se que a Fatec Ipiranga alcançou o cumprimento da 
+**missão** **institucional** . Em **relação** a **questão** 2 , 57 , 44 % dos 
+alunos " conhecem o regimento " , sendo que 42 , 56 % **afirmam** " não 
+conhecer " . Esta Comissão **considera** um percentual alto, referente ao não 
+**conhecimento** por parte dos alunos, por isso, promoverá ações de divulgação 
+do regimento, enfatizando a importância de seu **conhecimento** pelo aluno. No 
+entanto, cabe ressaltar que os **discentes** devem conhecer o Regulamento das 
+Fatecs e não apenas o Regimento. 
+
+Lemmas in this text that loaded on the factor:
+
+afirmar
+avaliar
+bom
+conhecimento
+considerar
+discente
+excelente
+institucional
+missão
+questão
+relação

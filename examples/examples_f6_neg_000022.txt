@@ -1,0 +1,22 @@
+file = fat000734
+date = 23-24
+user = r06_u204
+conversation = t000017_2_SENSIBILIZAÇÃO_Paragraph_2
+URL = No_URL
+
+word count = 88
+words loading = 1
+factor score = -1
+
+A segunda teve a importante participação da representante discente da CPA, 
+Isabel Cristina Vieira, que **entrou** em contato com todos os representantes 
+de sala e passou em cada uma das turmas para reforçar a mensagem da importância 
+da avalição institucional. O corpo docente, também participou desse processo de 
+ensibilização de forma bastante ativa, dando espaço em suas aulas para que os 
+alunos respondessem a pesquisa e destacando seu papel gerencial. Os 
+coordenadores de curso também conversaram com seus alunos e mostraram com 
+clareza a importância do processo. 
+
+Lemmas in this text that loaded on the factor:
+
+entrar

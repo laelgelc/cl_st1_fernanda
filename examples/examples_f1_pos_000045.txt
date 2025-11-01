@@ -1,0 +1,54 @@
+file = fat001830
+date = 23
+user = r06_u270
+conversation = t000049_1_ANÁLISE_DO_CENÁRIO_Paragraph_36
+URL = No_URL
+
+word count = 214
+words loading = 18
+factor score = 15
+
+A- Núcleo de Relações Empresariais e **Institucionais** O que será feito: 
+Implementação de núcleo que visa realizar ações para fortalecer o 
+relacionamento entre empresas e a faculdade, gerando benefícios mútuos, 
+aproximando as empresas e alunos para desenvolver competências empresariais 
+atualizadas às exigências **profissionais** de **mercado** . Por que será 
+feito: Para desenvolver convênios de cooperação técnico-científica entre 
+empresa / faculdade, tendo como foco o aprendizado e a participação discente; 
+para prover e consolidar parcerias empresariais que estimulem a realização de 
+projetos e atividades, proporcionando aprendizado em situação real; para 
+estabelecer contato e relacionamento com empresas ( produção e **serviços** ) e 
+com instituição municipal, ampliando a participação da Fatec Cotia no 
+desenvolvimento regional; para melhorar a empregabilidade dos alunos e o 
+aprimoramento das competências requeridas pelas organizações empresariais. 
+**Objetivo** ( s ) **relacionado** ( s ) : Inovar processos de **ensino** e 
+**aprendizagem** para a formação de **profissionais** atualizados em 
+**tecnologias** e processos produtivos, **capazes** de **atuar** com 
+**excelência** no desenvolvimento tecnológico e inovação; **Alcançar** e manter 
+o **grau** de **excelência** nos processos de **ensino** e **aprendizagem** . 
+**Expandir** a capacidade de articulação com **Governos** e **setores** 
+produtivos. **Meta** ( s ) **relacionada** ( s ) : Ampliar a visita a empresas 
+– 10 – e escolas de **ensino** médio – 15 – da região; Ampliar as atividades e 
+parcerias com mais 3 Secretarias Municipais: Educação, Turismo, Cultura, assim 
+como com mais 4 empresas. 
+
+Lemmas in this text that loaded on the factor:
+
+alcançar
+aprendizagem
+atuar
+capaz
+ensino (secondary)
+excelência
+expandir
+governo
+grau
+institucional (secondary)
+mercado
+meta
+objetivo
+profissional
+relacionar
+serviço
+setor (secondary)
+tecnologia

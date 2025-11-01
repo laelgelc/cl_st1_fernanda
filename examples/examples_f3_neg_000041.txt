@@ -1,0 +1,32 @@
+file = fat002014
+date = 24
+user = r06_u204
+conversation = t000057_1_ANÁLISE_DO_CENÁRIO_Paragraph_23
+URL = No_URL
+
+word count = 134
+words loading = 6
+factor score = -2
+
+AÇOES DE SENSIBILIZAÇÃO PARA A AUTOAVALIAÇÃO - WEB SAI - cat. 1 . 99 - Outra O 
+que será feito: Sensibilização por meio de redes sociais com material elaborado 
+internamente destacando a importância do processo e também as datas de início e 
+encerramento da coleta. Representante discente na Comissão Própria de Avaliação 
+atuando de forma ativa nas salas de **aula** , exortando os **alunos** a 
+participarem do processo. Atuação do corpo **docente** na sensibilização em 
+sala de **aula** com seus **alunos** , disponibilizando tempo para que os 
+**alunos** respondam aos questionários. Atuação dos **coordenadores** de curso 
+junto a representantes discentes, **docentes** e **alunos** na coordenação das 
+**ações** . Por que será feito: Para obtenção de melhores e mais confiáveis 
+respostas. Situação **problema** : Gestão da unidade de ensino e dos cursos ( 
+indicadores ) ( a ser resolvida / mitigada ) Participação da comunidade e 
+sociedade 
+
+Lemmas in this text that loaded on the factor:
+
+aluno (secondary)
+aula
+ação
+coordenador (secondary)
+docente (secondary)
+problema (secondary)

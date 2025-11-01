@@ -1,0 +1,46 @@
+file = fat000639
+date = 23-24
+user = r06_u137
+conversation = t000014_2_SENSIBILIZAÇÃO_Paragraph_1
+URL = No_URL
+
+word count = 253
+words loading = 8
+factor score = -4
+
+Para a efetivação do cronograma destaca -se algumas das **ações** para a 
+realização dos **procedimentos** de autoavaliação. • Reuniões periódicas com 
+todos os participantes da comunidade **acadêmica** ; • Apresentação de 
+relatórios parciais para leitura detalhada, discussão, correção e 
+aperfeiçoamento; • Incentivo permanente e orientação para que todos 
+participassem da pesquisa do WEBSAI e estivessem presentes nos momentos em que 
+fossem discutidos os resultados desta sondagem; • Envio de vários e-mails a 
+todos os discentes pela Diretoria **Acadêmica** e Coordenações de Curso, além 
+de mensagens postadas em todas as Equipes do Teams, e também enviadas pelo chat 
+pelos **Coordenadores** de Curso aos **alunos** que não tinham respondido a 
+pesquisa quando faltavam poucos dias para o término, todas estas **ações** 
+sempre orientando sobre a importância da participação na pesquisa do WEBSAI; • 
+Publicação de lembrete para participação da pesquisa do WEBSAI no site da Fatec 
+Zona Sul, com " pop up " que era visualizado automaticamente por quem acessasse 
+a página; • Publicação de lembrete para participação da pesquisa do WEBSAI nas 
+redes sociais da Fatec Zona Sul; • Distribuição de grupos de **alunos** entre 
+os **docentes** que ministram **aulas** em cada turma, para orientação 
+individual, e auxílio, quando necessário, para participação da pesquisa do 
+WEBSAI; • Emissão de relatórios de questionários não respondidos e 
+**encaminhamento** de mensagens, oferecendo auxílio com quaisquer dificuldades, 
+a todos os discentes, **docentes** e funcionários que ainda não tinham 
+participado da pesquisa do WEBSAI; e • Tabulação dos dados coletados, 
+elaboração de gráficos, tabelas e quadro para posterior redação dos relatórios 
+e informes aos membros da comunidade **acadêmica** local e instituições 
+reguladoras externas. 
+
+Lemmas in this text that loaded on the factor:
+
+acadêmico (secondary)
+aluno (secondary)
+aula
+ação
+coordenador (secondary)
+docente (secondary)
+encaminhamento
+procedimento

@@ -1,0 +1,36 @@
+file = fat001596
+date = 23
+user = r06_u270
+conversation = t000039_3_CONSIDERAÇÕES_Paragraph_3
+URL = No_URL
+
+word count = 118
+words loading = 10
+factor score = 9
+
+No ramo **industrial** destacam -se **indústrias** e **empresas** de variados 
+**segmentos** como: Fabricação de medicamentos para uso humano, Fabricação de 
+artefatos de material plástico, Fabricação de cosméticos, produtos de 
+perfumaria e de higiene pessoal, fabricação de **embalagens** de material 
+plástico, Fabricação de produtos alimentícios. No ramo agropecuário, destacam 
+-se o Cultivo de flores e plantas ornamentais; Horticultura; Atividades 
+paisagísticas; Criação de outros animais de **grande** porte; Cultivo de 
+plantas de lavoura temporária. Também há articulação entre as dinâmicas 
+**demográficas** , social e **industrial** da **região** metropolitana da 
+**Grande** São Paulo, que compreende Cotia e **cidades** vizinhas, traduzido em 
+pujante demanda tanto de serviços prestados às **empresas** , quanto àqueles 
+prestados ao consumidor final, além dos serviços públicos voltados às diversas 
+**áreas** de atuação. 
+
+Lemmas in this text that loaded on the factor:
+
+cidade
+demográfico
+embalagem
+empresa (secondary)
+grande
+industrial
+indústria
+região
+segmento
+área

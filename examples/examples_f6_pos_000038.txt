@@ -1,0 +1,28 @@
+file = fat000576
+date = 23-24
+user = r06_u129
+conversation = t000013_2_SENSIBILIZAÇÃO_Paragraph_3
+URL = No_URL
+
+word count = 112
+words loading = 5
+factor score = 3
+
+Portanto, essa ação foi realizada no sentido de " perceber " o que a comunidade 
+acadêmica sentia em relação à Instituição e, a partir dos resultados 
+observados, ações poderiam ser realizadas com base na análise realizada pelos 
+alunos, mentorados pelo docente do **componente** **curricular** . Os alunos 
+fizeram a pesquisa in loco, nas salas de aula, entregando cédulas a alunos, 
+professores, além do pessoal administrativo e terceirizados em seus postos de 
+trabalho. A proposta seria a de atingir o **maior** **número** de respondentes 
+possível a fim de obter um " retrato " da Instituição naquele momento. Os 
+resultados foram semelhantes, pois no período matutino o NPS foi de 82 e no 
+período **noturno** foi de 78 . 
+
+Lemmas in this text that loaded on the factor:
+
+componente
+curricular
+grande (secondary)
+noturno (secondary)
+número

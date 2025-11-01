@@ -1,0 +1,64 @@
+file = fat001753
+date = 23
+user = r06_u204
+conversation = t000047_1_ANÁLISE_DO_CENÁRIO_Paragraph_20
+URL = No_URL
+
+word count = 295
+words loading = 22
+factor score = 20
+
+CÂMARA DE **ENSINO** , PESQUISA E EXTENSÃO ( CEPE ) O que será feito: 
+Acompanhamento dos grupos de pesquisa ( Iniciação Científica ) ; contatos com 
+instituições de **ensino** e empresas para prospecção de colaborações com a 
+Fatec Ipiranga; edição dos textos e trâmites junto à editora para publicação do 
+volume VII do livro das AAPs de GRH; divulgação do Vestibular; condução do 
+projeto Identidades e da Mostra de Vídeos Fatec Ipiranga ( curso de Eventos ) ; 
+acompanhamento dos Projeto Colaborativos Internacionais ( PCI / Cesu ) entre 
+Fatec Ipiranga ( prof. José Carlos Barbosa Lopes - Inglês ) e Jamestown 
+Community College / State University of New York ( JCC / SUNY ) e Fatec 
+Ipiranga e Universidade de Aveiro ( Portugal ) . Por que será feito: Para 
+contribuir para o desenvolvimento das atividades pedagógicas, de pesquisa e 
+extensão da Fatec Ipiranga **Objetivo** ( s ) **relacionado** ( s ) : 
+**Atender** às **demandas** sociais e do **mercado** de trabalho. Obter a 
+**satisfação** dos públicos que se **relacionam** com o Centro Paula Souza ( 
+**stakeholders** ) . **Alcançar** e manter o **grau** de **excelência** em seus 
+processos de **ensino** e **aprendizagem** . **Formar** **profissionais** 
+atualizados em **tecnologias** e processos produtivos, **capazes** de **atuar** 
+no desenvolvimento tecnológico e inovação. Promover a cultura de inovação e 
+empreendedorismo. Dar continuidade ao Programa Escola de Inovadores ampliando a 
+participação dos alunos da Fatec Ipiranga em 5 % . **Meta** ( s ) 
+**relacionada** ( s ) : Desenvolver mensalmente ações / **serviços** que 
+reforcem a imagem **institucional** da unidade junto à comunidade acadêmica. 
+Promover ações administrativas e pedagógicas que proporcionem a **redução** da 
+**taxa** de evasão e de trancamento em 5 % com relação ao indicador de 
+desempenho de 2022 , no ano de 2023 . Ampliar a participação dos alunos em 100 
+% nos Programas de Iniciação Científica. Dar continuidade ao Programa Escola de 
+Inovadores ampliando a participação dos alunos da Fatec Ipiranga em 5 % . 
+Ampliar a participação dos alunos em 5 % nos Programas de Colaboração 
+Internacional. 
+
+Lemmas in this text that loaded on the factor:
+
+alcançar
+aprendizagem
+atender
+atuar
+capaz
+demanda
+ensino (secondary)
+excelência
+formar
+grau
+institucional (secondary)
+mercado
+meta
+objetivo
+profissional
+redução
+relacionar
+satisfação
+serviço
+stakeholders
+taxa
+tecnologia

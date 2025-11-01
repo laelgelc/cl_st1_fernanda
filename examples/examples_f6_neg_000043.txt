@@ -1,0 +1,26 @@
+file = fat002827
+date = 22
+user = r06_u270
+conversation = t000089_2_DESENVOLVIMENTO_Paragraph_3
+URL = No_URL
+
+word count = 119
+words loading = 1
+factor score = -1
+
+1 . Reorganização Administrativa a. Mapeamento Patrimônio e colocação das 
+placas patrimoniais que não haviam sido colocadas desde o início da 
+Instituição; b. Reorganização Espacial e reformas internas para aproveitamento 
+dos espaços não ocupados ou subaproveitados. Com isso, o anexo do prédio, não 
+ocupado há alguns anos, tornou -se Diretoria Administrativa, sala dos 
+Coordenadores, Diretoria Geral e Biblioteca; c. Criação de Laboratórios e 
+mudanças de **nomes** para Fauna local; Exemplo: Laboratório Siriema etc. d. 
+Criação da Sala Maker; e. Reestruturação do Espaço da Biblioteca; f. 
+Reorganização dos Recursos Humanos em função da ampliação do quadro 
+administrativo; g. Criação de Organograma, para visualização da Estrutura 
+Organizacional da Fatec Cotia e suas vinculações; h. Organização, guarda ou 
+descarte de documentação dos Cursos da Fatec Cotia. 
+
+Lemmas in this text that loaded on the factor:
+
+nome

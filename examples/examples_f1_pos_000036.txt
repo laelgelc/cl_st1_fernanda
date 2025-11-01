@@ -1,0 +1,39 @@
+file = fat001784
+date = 23
+user = r06_u217
+conversation = t000048_1_ANÁLISE_DO_CENÁRIO_Paragraph_8
+URL = No_URL
+
+word count = 76
+words loading = 18
+factor score = 17
+
+DEFINIÇÃO DE **OBJETIVOS** , **METAS** E AÇÕES ( PROJETOS ) **Objetivos** 1 
+**Formar** **profissionais** atualizados em **tecnologias** e processos 
+produtivos, **capazes** de **atuar** no desenvolvimento tecnológico e inovação. 
+2 Aumentar a **eficiência** , a **produtividade** e a **competitividade** da 
+instituição. 3 **Atender** às **demandas** sociais e do **mercado** de 
+trabalho. 4 **Alcançar** e manter o **grau** de **excelência** em seus 
+processos de **ensino** e **aprendizagem** . 5 Ampliar a capacidade de criar e 
+atualizar cursos em parceria com o **mercado** 
+
+Lemmas in this text that loaded on the factor:
+
+alcançar
+aprendizagem
+atender
+atuar
+capaz
+competitividade
+demanda
+eficiência
+ensino (secondary)
+excelência
+formar
+grau
+mercado
+meta
+objetivo
+produtividade
+profissional
+tecnologia

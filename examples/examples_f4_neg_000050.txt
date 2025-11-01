@@ -1,0 +1,20 @@
+file = fat001878
+date = 24
+user = r06_u126
+conversation = t000052_1_ANÁLISE_DO_CENÁRIO_Paragraph_11
+URL = No_URL
+
+word count = 54
+words loading = 1
+factor score = -1
+
+Projetos estudantis diversos O que será feito: Elaborar projeto para manutenção 
+e atualização dos laboratórios da FATEC-SBC e viabilizá -lo. Por que será 
+feito: Para atendimentos das disciplinas práticas dos cursos de Automação 
+Industrial e Manufatura Avançada e seus conteúdos práticos previstos no PPC. 
+Situação problema: Infraestrutura **laboratorial** e ambientes de ensino ( a 
+ser resolvida / mitigada ) 
+
+Lemmas in this text that loaded on the factor:
+
+laboratorial

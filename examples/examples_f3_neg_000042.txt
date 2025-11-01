@@ -1,0 +1,23 @@
+file = fat002047
+date = 24
+user = r06_u217
+conversation = t000058_1_ANÁLISE_DO_CENÁRIO_Paragraph_19
+URL = No_URL
+
+word count = 76
+words loading = 3
+factor score = -2
+
+Divulgação do vestibular e **ações** de fortalecimento de imagem institucional 
+O que será feito: **Aulas** de redação e língua portuguesa preparatório para o 
+vestibular Por que será feito: Para melhorar a visibilidade do curso dos cursos 
+da Fatec Diadema para a comunidade local e estudantes Situação **problema** : 
+Participação da comunidade e sociedade ( a ser resolvida / mitigada ) Situação 
+**problema** : Segurança pessoal e patrimonial ( a ser resolvida / mitigada ) 
+Gestão da unidade de ensino e dos cursos ( indicadores ) 
+
+Lemmas in this text that loaded on the factor:
+
+aula
+ação
+problema (secondary)

@@ -1,0 +1,20 @@
+file = fat000489
+date = 23-24
+user = r06_u005
+conversation = t000010_2_SENSIBILIZAÇÃO_Paragraph_2
+URL = No_URL
+
+word count = 63
+words loading = 1
+factor score = -1
+
+As ações de sensibilização buscam o envolvimento da comunidade acadêmica na 
+construção da proposta avaliativa por meio da realização de reuniões, 
+palestras, seminários, entre outros. Nesse sentido, a CPA faz uso dos canais de 
+comunicação disponíveis na FATEC Baixada Santista Rubens Lara, e de encontros 
+com diferentes segmentos, para **esclarecimentos** de seus trabalhos, 
+estimulando a participação crescente de indivíduos envolvidos no processo. 
+
+Lemmas in this text that loaded on the factor:
+
+esclarecimento

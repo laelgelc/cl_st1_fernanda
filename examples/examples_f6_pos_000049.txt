@@ -1,0 +1,22 @@
+file = fat003219
+date = 23-24
+user = r06_u137
+conversation = t000110_5_CONSIDERAÇÕES_GERAIS_Paragraph_1
+URL = No_URL
+
+word count = 71
+words loading = 3
+factor score = 2
+
+A **avaliação** ENADE 2022 do CST em Logística para Fatec de Zona Sul auferiu 
+Conceito 3 , 0 ; o que para as **avaliações** é considerada uma nota não 
+adequada; e dessa forma necessita uma **avaliação** diagnóstica de todo o 
+processo de ensino e aprendizagem do aluno na unidade; bem como das práticas 
+pedagógicas e **componentes** **curriculares** , procurando solucionar as 
+possíveis razões que levaram a obtenção do Conceito 3 , 0 , nesta ocasião. 
+
+Lemmas in this text that loaded on the factor:
+
+avaliação (secondary)
+componente
+curricular

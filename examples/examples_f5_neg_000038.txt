@@ -1,0 +1,36 @@
+file = fat001068
+date = 24-25
+user = r06_u168
+conversation = t000026_4_DESENVOLVIMENTO_Paragraph_69
+URL = No_URL
+
+word count = 222
+words loading = 1
+factor score = -1
+
+Incremento e implementação de ações institucionais A Fatec São Caetano do Sul - 
+Antonio Russo tem seu funcionamento das 07h00m às 22h30 , de segunda à 
+sexta-feira e, aos sábados, das 08h00 às 17h00 . Deste modo, faz -se necessária 
+divisão em turnos, obedecendo à carga horária de 44 horas semanais de trabalho, 
+conforme legislação trabalhista. Os setores de apoio técnico-administrativo da 
+Fatec São Caetano do Sul - Antonio Russo são altamente capacitados no âmbito de 
+sua formação e experiência. Todos os colaboradores são contratados com a 
+exigência mínima de formação no Ensino Médio. Essa característica do corpo 
+técnico-administrativo facilita o acesso do alunado às informações pertinentes 
+ao curso e uma maior eficiência da funcionalidade, como um todo, sendo 
+distribuídos nas seguintes categorias funcionais: Administrativo, 
+Acadêmico-Administrativo e Operacional, atuando em conjunto com às secretarias 
+acadêmicas. Conforme descrito abaixo: Secretaria Geral: Responsável pela vida 
+acadêmica do aluno ( notas e faltas ) , confecção e emissão de documentos. 
+Secretaria da Coordenação de Curso: Suporte aos coordenadores dos cursos e 
+também atendimento ao aluno para **esclarecimento** de dúvidas e agendamento do 
+atendimento dos coordenadores. Suporte e apoio aos docentes, entrega e 
+recebimento de material didático. Biblioteca: Atendimento ao aluno na pesquisa 
+bibliográfica, inclusive pela internet. Laboratórios: Composta por técnicos 
+habilitados a orientar alunos e professores em aulas práticas, bem como em 
+aulas livres. Preparo de material para as aulas, os quais são solicitados 
+anteriormente pelo docente. 
+
+Lemmas in this text that loaded on the factor:
+
+esclarecimento

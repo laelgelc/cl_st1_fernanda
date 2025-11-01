@@ -1,0 +1,33 @@
+file = fat001020
+date = 24-25
+user = r06_u160
+conversation = t000025_3_DESENVOLVIMENTO_Paragraph_21
+URL = No_URL
+
+word count = 177
+words loading = 4
+factor score = -2
+
+Vamos ampliar a divulgação das atuações / responsabilidades dos colegiados da 
+unidade e do curso, pois os indicadores do eixo 4 não foram muito adequados. 
+Proposta de Conscientização da Comunidade para a CPA Número limitado de sala de 
+**aulas** e laboratórios. Organizar Laboratório de Manufatura Integrada 
+Necessário a construção da nossa nova sede em terreno já doado pela prefeitura 
+ao CPS Os **alunos** visualizam a faculdade como um local agradável e de bom 
+convívio, reforçado pelos indicadores que atestam a qualidade dos espaços de 
+sala de **aula** e laboratoriais. Aumentar a divulgação com exposições e 
+reuniões específicas com **docentes** e discentes A comunidade conhece a missão 
+e o PDI da instituição Continuar com o engajamento e apresentação das metas e 
+resultados Reconhece as **ações** extensionistas Aumentar a participação dos 
+**alunos** e professores com a curricularização da extensão Comunicação com a 
+comunidade externa via mídias digitais Canal FATEC Santo André YouTube Alta 
+taxa de concordância sobre os tópicos abordados no eixo Ampliar as divulgações 
+e **ações** que demonstrem o engajamento de Melhoria na Divulgação dos Recursos 
+de Acessibilidade 
+
+Lemmas in this text that loaded on the factor:
+
+aluno (secondary)
+aula
+ação
+docente (secondary)

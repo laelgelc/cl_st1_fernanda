@@ -1,0 +1,51 @@
+file = fat001755
+date = 23
+user = r06_u204
+conversation = t000047_1_ANÁLISE_DO_CENÁRIO_Paragraph_22
+URL = No_URL
+
+word count = 189
+words loading = 20
+factor score = 19
+
+PUBLICAÇÃO EDITORIAL NO FORMATO LIVRO ( VOLUME VII ) – ATIVIDADES AUTÔNOMAS DE 
+PROJETOS – CST GESTÃO DE RECURSOS HUMANOS O que será feito: Organização de 
+atividades em eixos formativos **profissionais** do curso para publicação de 
+livro Por que será feito: A publicação do editorial no formato livro acontece 
+por duas razões: a primeira para que os discentes tenham a oportunidade de 
+apresentar os artigos desenvolvidos durante o curso para a comunidade interna e 
+externa. **Objetivo** ( s ) **relacionado** ( s ) : **Atender** às **demandas** 
+sociais e do **mercado** de trabalho. Obter a **satisfação** dos públicos que 
+se **relacionam** com o Centro Paula Souza ( **stakeholders** ) . **Alcançar** 
+e manter o **grau** de **excelência** em seus processos de **ensino** e 
+**aprendizagem** . **Formar** **profissionais** atualizados em **tecnologias** 
+e processos produtivos, **capazes** de **atuar** no desenvolvimento tecnológico 
+e inovação **Meta** ( s ) **relacionada** ( s ) : Ampliar a participação dos 
+discentes nos eventos de seus respectivos cursos ou em eventos gerais da 
+unidade em 10 % de modo a desenvolver o sentimento de pertencimento a unidade. 
+Promover ações administrativas e pedagógicas que proporcionem a **redução** da 
+**taxa** de evasão em 5 % com relação ao indicador de desempenho de 2022 , no 
+ano de 2023 . 
+
+Lemmas in this text that loaded on the factor:
+
+alcançar
+aprendizagem
+atender
+atuar
+capaz
+demanda
+ensino (secondary)
+excelência
+formar
+grau
+mercado
+meta
+objetivo
+profissional
+redução
+relacionar
+satisfação
+stakeholders
+taxa
+tecnologia

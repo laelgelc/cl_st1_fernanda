@@ -1,0 +1,21 @@
+file = fat001214
+date = 23
+user = r06_u113
+conversation = t000031_1_ECOSSISTEMA_DE_INOVAÇÃO_Paragraph_8
+URL = No_URL
+
+word count = 64
+words loading = 1
+factor score = -1
+
+Já no setor de serviços, há grande demanda por **desenvolvedores** de 
+aplicativos e web designers. No setor de entretenimento, a tecnologia vem 
+transformando a forma como o público consome produtos audiovisuais, exigindo 
+profissionais com habilidades em áreas como realidade virtual e inteligência 
+artificial. No governo, a demanda por profissionais capacitados em tecnologia 
+da informação tem sido crescente, principalmente na área de segurança 
+cibernética. 
+
+Lemmas in this text that loaded on the factor:
+
+desenvolvedor

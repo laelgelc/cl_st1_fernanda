@@ -1,0 +1,19 @@
+file = fat002779
+date = 22
+user = r06_u168
+conversation = t000086_2_DESENVOLVIMENTO_Paragraph_32
+URL = No_URL
+
+word count = 52
+words loading = 1
+factor score = -1
+
+Com o ingresso dos alunos do curso de Análise e Desenvolvimento de Sistemas – 
+Articulação Médio e Superior, foi possível montar dois laboratórios móveis, com 
+reforma elétrica nas salas 7 e 9 , porém a mobilidade ainda não é possível por 
+não termos os carrinhos para transporte dos **notebooks** adequados para o 
+procedimento. 
+
+Lemmas in this text that loaded on the factor:
+
+notebook

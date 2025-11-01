@@ -1,0 +1,38 @@
+file = fat000093
+date = 22-23
+user = r06_u129
+conversation = t000003_3_DESENVOLVIMENTO_Paragraph_21
+URL = No_URL
+
+word count = 127
+words loading = 12
+factor score = 11
+
+Com **relação** à **missão** **institucional** do Centro Paula Souza de: ' 
+Promover a educação pública profissional e tecnológica dentro de referenciais 
+de excelência, visando o desenvolvimento tecnológico, **econômico** e social do 
+Estado de São Paulo ' , como você **avalia** o cumprimento deste item por parte 
+da unidade de ensino: ( **administrativo** ) A grande **maioria** dos 
+servidores **administrativos** **avalia** positivamente a **missão** 
+**institucional** do Centro Paula Souza como **excelente** e **boa** . Contudo, 
+os demais pontos do grafico demonstram um mcerto desconhecimento pelos 
+**discentes** sobre o tema, mesmo com todas as visitas dos membros da CPA nas 
+salas de aula. Para melhorar este indicador, a CPA **sugere** : Publicação da 
+**missão** **institucional** no site **institucional** ; Apresentação, analise 
+e discussão da **missão** junto aos servidores, a fim de gerar maior 
+**conhecimento** e conscientização. 
+
+Lemmas in this text that loaded on the factor:
+
+administrativo
+avaliar
+bom
+conhecimento
+discente
+econômico (secondary)
+excelente
+institucional
+maioria
+missão
+relação
+sugerir

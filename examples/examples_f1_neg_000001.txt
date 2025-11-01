@@ -1,0 +1,22 @@
+file = fat002713
+date = 22
+user = r06_u129
+conversation = t000083_2_DESENVOLVIMENTO_Paragraph_27
+URL = No_URL
+
+word count = 74
+words loading = 2
+factor score = -2
+
+Com as reformas realizadas ao longo do ano, visto a dificuldade de corrigir 
+seus problemas estruturais graves, este ambiente e suas adequações não chegaram 
+a ser plenamente concluídas. Faltam ainda ajustes na **pintura** ( depois de 
+resolvida a questão dos vazamentos ) , o conserto do ar **condicionado** e as 
+instalações dos equipamentos até o momento recebidos ( ainda faltam receber os 
+mobiliários ) . Com isso, espera -se que no 1º semestre de 2023 o Espaço Maker 
+possa ser utilizado. 
+
+Lemmas in this text that loaded on the factor:
+
+condicionado
+pintura

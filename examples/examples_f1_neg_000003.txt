@@ -1,0 +1,28 @@
+file = fat000513
+date = 23-24
+user = r06_u005
+conversation = t000010_3_DESENVOLVIMENTO_Paragraph_23
+URL = No_URL
+
+word count = 137
+words loading = 1
+factor score = -1
+
+Na questão 12 , apenas 21 , 36 % avaliaram como " Excelente " as condições das 
+salas de aula, enquanto 33 , 90 % " Boa " . Ressalta -se que 28 , 81 % 
+consideram " Regular " e 15 , 93 % " Ruim " . Este alto percentual de discentes 
+descontentes é o reflexo da necessidade de melhorais das instalações, tais 
+como: sinal de wi-fi em todas as dependências, elevadores funcionando, 
+iluminação adequada ( muitas lâmpadas queimadas ) e funcionamento 
+ar-condicionado. Perfil Docente e Administrativo. Dentre os docentes 78 , 79 % 
+avaliaram como " Excelente e Boa " a quantidade de ambientes e os recursos 
+tecnológicos. Esse resultado é reflexo da organização e gestão dos 
+coordenadores que fazem o possível para compartilhar os ambientes 
+disponibilizados na Fatec Baixada Santista. No entanto, nosso principal cliente 
+é o aluno, sendo que aproximadamente 50 % deste perfil está insatisfeito. Cabe 
+ressaltar que esta percepção já foi apontada nos últimos relatórios do 
+relatório desta Comissão. 
+
+Lemmas in this text that loaded on the factor:
+
+condicionado

@@ -1,0 +1,30 @@
+file = fat002267
+date = 25
+user = r06_u270
+conversation = t000069_1_ANÁLISE_DO_CENÁRIO_Paragraph_3
+URL = No_URL
+
+word count = 67
+words loading = 10
+factor score = 10
+
+A **região** de Cotia destaca -se pelo peso na **economia** nacional, 
+particularmente, nos **setores** **secundário** e **terciário** . Segundo a 
+Federação das **Indústrias** de São Paulo ( FIESP ) , o **estado** – liderado 
+pela **capital** , **região** metropolitana e baixada santista – é hoje o 
+**maior** polo de negócios da América Latina, concentrando 30 % de todos os 
+investimentos privados realizados em território nacional. São 155 mil 
+**indústrias** que representam 34 % do PIB **industrial** brasileiro. 
+
+Lemmas in this text that loaded on the factor:
+
+capital
+economia
+estado
+grande
+industrial
+indústria
+região
+secundário
+setor
+terciário

@@ -1,0 +1,16 @@
+file = fat002606
+date = 22
+user = r06_u113
+conversation = t000081_2_DESENVOLVIMENTO_Paragraph_14
+URL = No_URL
+
+word count = 23
+words loading = 1
+factor score = -1
+
+Recursos multimídia: instalação de **Televisores** de 65 ' e computadores 
+conectados à Internet, nas salas de aula, em consonância com o ensino híbrido; 
+
+Lemmas in this text that loaded on the factor:
+
+televisor

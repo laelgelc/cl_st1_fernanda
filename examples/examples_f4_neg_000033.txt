@@ -1,0 +1,22 @@
+file = fat002929
+date = 23
+user = r06_u137
+conversation = t000094_2_DESENVOLVIMENTO_Paragraph_36
+URL = No_URL
+
+word count = 47
+words loading = 4
+factor score = -2
+
+**APONTAMENTO** DE SITUAÇÕES-PROBLEMA MAIS RELEVANTES ( " **Escuta** " ) 1 
+Baixa demanda nos cursos da tarde. 2 **Evasão** acima de 20 % . 3 
+Infraestrutura do campus. 4 Infraestrutura dos laboratórios. 5 Atendimento à 
+comunidade externa. 6 Velocidade da internet no campus. 7 Parcerias para 
+estágios. 8 Parcerias com empresas para capacitações. 
+
+Lemmas in this text that loaded on the factor:
+
+apontamento (secondary)
+escuta
+evasão (secondary)
+situações

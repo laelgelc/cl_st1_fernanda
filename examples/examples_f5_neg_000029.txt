@@ -1,0 +1,22 @@
+file = fat000404
+date = 22-23
+user = r06_u204
+conversation = t000007_3_DESENVOLVIMENTO_Paragraph_46
+URL = No_URL
+
+word count = 86
+words loading = 1
+factor score = -1
+
+Desconhecimento dos docentes e discentes dos programas de Iniciação Científica, 
+Estágio e INOVA Paula Souza Implementar ações de comunicação por meio de 
+informativos e palestras que informem a professores e alunos sobre a Iniciação 
+Científica, o estágio ( que já foi apontado anteriormente ) e com relação ao 
+INOVA Paula Souza, de forma a que todos tenha ciência de sua constituição, 
+funções e formas de participação. A divulgação desses processos já se encontra 
+em andamento, com palestras sendo agendadas com vistas a **esclarecimento** de 
+docentes e discentes. 
+
+Lemmas in this text that loaded on the factor:
+
+esclarecimento

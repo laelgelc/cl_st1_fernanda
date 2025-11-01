@@ -1,0 +1,29 @@
+file = fat001236
+date = 23
+user = r06_u126
+conversation = t000032_1_INTRODUÇÃO_Paragraph_1
+URL = No_URL
+
+word count = 82
+words loading = 9
+factor score = 8
+
+Caracterização socioeconômica da **área** de abrangência da Fatec São Bernardo 
+do Campo está **localizado** na **região** do Grande ABC ( Figura 1 ) que é 
+composta pelas **cidades** de Santo André , São Bernardo do Campo, **Diadema** 
+, São Caetano do Sul, Mauá , Ribeirão Pires e Rio Grande da Serra, que 
+**possuem** juntas **população** de 2 , 6 **milhões** e da **Região** 
+Metropolitana de SP com **população** aproximada de 21 , 5 **milhões** de 
+**habitantes** . Está a 22 km do marco zero da **cidade** de São Paulo. 
+
+Lemmas in this text that loaded on the factor:
+
+cidade
+diadema
+habitante
+localizar
+milhão
+população
+possuir (secondary)
+região
+área

@@ -1,0 +1,21 @@
+file = fat001204
+date = 23
+user = r06_u005
+conversation = t000030_3_APL_Paragraph_11
+URL = No_URL
+
+word count = 70
+words loading = 2
+factor score = -1
+
+Evolução da demanda por profissionais com formação tecnológica – necessidades 
+setoriais [ A Baixada Santista gerou saldo positivo de 1 . 964 empregos com 
+carteira assinada em agosto de 2022 . O número é do **Cadastro** Geral de 
+**Empregados** e Desempregados ( Caged ) e equivale a quase cinco vezes o 
+resultado de julho, quando foram registrados 407 postos. O saldo positivo foi o 
+resultado de 13 . 103 admissões e 11 . 139 demissões na região. 
+
+Lemmas in this text that loaded on the factor:
+
+cadastro
+empregado

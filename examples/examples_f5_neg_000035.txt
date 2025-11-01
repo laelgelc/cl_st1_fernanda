@@ -1,0 +1,24 @@
+file = fat001006
+date = 24-25
+user = r06_u160
+conversation = t000025_3_DESENVOLVIMENTO_Paragraph_7
+URL = No_URL
+
+word count = 103
+words loading = 1
+factor score = -1
+
+No entanto, alguns respondentes apontaram uma necessidade de maior **clareza** 
+nos critérios de bonificação por resultados e no papel dos representantes em 
+comissões importantes, como a CPA ( Comissão Própria de Avaliação ) . Esse 
+resultado sugere a importância de fortalecer a comunicação interna sobre o 
+funcionamento e os indicadores das comissões e dos programas de bonificação. A 
+percepção sobre os investimentos realizados na Fatec foi, em grande parte, 
+positiva. Ainda assim, parte dos respondentes não se sentiu suficientemente 
+informada para avaliar esses investimentos, o que indica a necessidade de 
+compartilhar mais informações sobre as decisões e iniciativas de 
+sustentabilidade financeira com a comunidade acadêmica. 
+
+Lemmas in this text that loaded on the factor:
+
+clareza

@@ -1,0 +1,26 @@
+file = fat002261
+date = 25
+user = r06_u217
+conversation = t000068_1_ANÁLISE_DO_CENÁRIO_Paragraph_8
+URL = No_URL
+
+word count = 96
+words loading = 4
+factor score = -2
+
+Visita a empresas e escolas de ensino médio da região do ABCD e região Sul e 
+promover as redes sociais da Unidade para Melhorar a visibilidade da 
+Instituição de ensino na região, aumentar a demanda do vestibular e a 
+**competitividade** dos cursos. Oferecimento de aulas de reforço de matemática 
+( pós aula **manhã** e pré-aula **noite** ) para Melhorar os processos de 
+aprendizagem e reduzir a taxa de **evasão** Oferecimento de monitoria de 
+Química para Melhorar os processos de aprendizagem e reduzir a taxa de 
+**evasão** situação-problema: Metodologia de ensino, desempenho de alunos, 
+**evasão** Participação da comunidade e sociedade 
+
+Lemmas in this text that loaded on the factor:
+
+competitividade (secondary)
+evasão (secondary)
+manhã
+noite

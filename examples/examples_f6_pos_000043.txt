@@ -1,0 +1,25 @@
+file = fat003239
+date = 23-24
+user = r06_u168
+conversation = t000111_3_QUESTÕES_COMPLEMENTARES_Paragraph_12
+URL = No_URL
+
+word count = 75
+words loading = 5
+factor score = 2
+
+Desta forma nota -se que para o CST em Comércio **Exterior** em **questão** na 
+unidade Fatec São Caetano do Sul, as ações a serem executadas passam desde uma 
+atualização ( ou reestruturação ) **curricular** do **curso** em **questão** 
+até o **maior** envolvimento do corpo docente no planejamento e preparação 
+preventiva dos alunos para prova. Sendo assim, as ações propostas pela 
+coordenação e por toda comunidade acadêmica envolvida no referido **curso** são 
+plausíveis e adequadas para gestão e implementação. 
+
+Lemmas in this text that loaded on the factor:
+
+curricular
+curso (secondary)
+exterior
+grande (secondary)
+questão (secondary)

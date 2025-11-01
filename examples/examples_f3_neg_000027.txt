@@ -1,0 +1,28 @@
+file = fat000574
+date = 23-24
+user = r06_u129
+conversation = t000013_2_SENSIBILIZAÇÃO_Paragraph_1
+URL = No_URL
+
+word count = 110
+words loading = 5
+factor score = -2
+
+Para a efetivação do cronograma destaca -se algumas das **ações** para a 
+realização dos **procedimentos** de autoavaliação. Em setembro de 2023 , os 
+**alunos** do CST em Gestão Empresarial do 4º semestre dos períodos matutino e 
+vespertino, **disciplina** " Planejamento de Marketing " , desenvolveram uma 
+pesquisa aplicada à comunidade **acadêmica** para identificar a percepção sobre 
+a Fatec Praia Grande, fazendo uso da metodologia Net Promoter Score ( NPS ) . A 
+ferramenta criada por Reichheld se propõe a medir a lealdade de consumidores de 
+uma empresa ou uma marca. Trata -se de uma metodologia que, basicamente faz 
+duas perguntas ao respondente: - O quanto você recomendaria a FATEC Praia 
+Grande a parentes e amigos? - Por que você deu essa nota? 
+
+Lemmas in this text that loaded on the factor:
+
+acadêmico (secondary)
+aluno (secondary)
+ação
+disciplina (secondary)
+procedimento

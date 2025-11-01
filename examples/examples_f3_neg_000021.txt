@@ -1,0 +1,21 @@
+file = fat000488
+date = 23-24
+user = r06_u005
+conversation = t000010_2_SENSIBILIZAÇÃO_Paragraph_1
+URL = No_URL
+
+word count = 48
+words loading = 3
+factor score = -2
+
+Para a efetivação do cronograma destacam -se algumas das **ações** para a 
+realização dos **procedimentos** de autoavaliação. Segundo o SINAES, a 
+autoavaliação possui como uma de suas etapas a sensibilização da comunidade 
+**acadêmica** e da sociedade civil organizada em relação à importância da 
+participação da mesma no processo avaliativo. 
+
+Lemmas in this text that loaded on the factor:
+
+acadêmico (secondary)
+ação
+procedimento

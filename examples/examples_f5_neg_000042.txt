@@ -1,0 +1,20 @@
+file = fat001414
+date = 23
+user = r06_u160
+conversation = t000035_2_DESENVOLVIMENTO_Paragraph_42
+URL = No_URL
+
+word count = 78
+words loading = 1
+factor score = -1
+
+De acordo com o Atlas do Desenvolvimento Humano no Brasil, em 2010 , três dos 
+sete municípios do ABC Paulista apresentam um IDH-M considerado muito alto ( 0 
+, 800 – 1 , 000 ) e quatro estão situados numa **faixa** qualificada como alta 
+( 0 , 700 – 0 , 799 ) pelo Programa das Nações Unidas para o Desenvolvimento 
+PNUD. Neste indicador, o destaque fica por conta de São Caetano do Sul, que com 
+um IDH-M de 0 , 862 é o município brasileiro de maior qualidade de vida. 
+
+Lemmas in this text that loaded on the factor:
+
+faixa

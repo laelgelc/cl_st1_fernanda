@@ -1,0 +1,19 @@
+file = fat003077
+date = 24
+user = r06_u129
+conversation = t000102_2_CONSIDERAÇÕES_Paragraph_31
+URL = No_URL
+
+word count = 51
+words loading = 1
+factor score = -1
+
+Em 2024 foram novamente revisados os relatórios técnicos para atualização dos 
+pedidos de equipamentos e mobiliários, com conforme relatórios técnicos sobre 
+as condições das salas de aula, laboratórios e outros espaços da unidade, como 
+a falta de ares-condicionados, bebedouros e armários para os alunos. Todos os 
+itens estão indicados no SIAF. 
+
+Lemmas in this text that loaded on the factor:
+
+condicionado

@@ -1,0 +1,20 @@
+file = fat003230
+date = 23-24
+user = r06_u168
+conversation = t000111_3_QUESTÕES_COMPLEMENTARES_Paragraph_3
+URL = No_URL
+
+word count = 59
+words loading = 2
+factor score = -2
+
+A maior parte do corpo discente da Fatec SCS é branca e do sexo feminino. Em 
+relação às **faixas** de renda dos estudantes, observa -se que o curso de COMEX 
+da FATEC não tem aluno com renda superior à **faixa** de 30 salários-mínimos. 
+No entanto, o percentual que compõe a renda de 10 a 30 **SM** é superior à 
+média Brasil. 
+
+Lemmas in this text that loaded on the factor:
+
+faixa
+sm

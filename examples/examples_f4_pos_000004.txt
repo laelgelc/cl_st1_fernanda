@@ -1,0 +1,43 @@
+file = fat000508
+date = 23-24
+user = r06_u005
+conversation = t000010_3_DESENVOLVIMENTO_Paragraph_18
+URL = No_URL
+
+word count = 147
+words loading = 15
+factor score = 14
+
+Para o formulário dos Servidores da Fatec, nos perfis **Docente** e 
+**Administrativo** , as **questões** relacionadas à **dimensão** 9 são as 15 e 
+16 . Perfil **Docente** e **Administrativo** . Na **questão** 15 é **avaliada** 
+a percepção do **corpo** **docente** acerca da participação dos alunos nas 
+atividades de pesquisa, sendo que: 78 , 79 % **avaliaram** como " **Excelente** 
+e **Boa** " , 7 , 58 % como " Insuficiente " e 4 , 55 % " Não **sabem** 
+**responder** " . Na **Questão** 16 é **avaliada** a opinião do **corpo** 
+**docente** sobre os programas de monitorias, metodologias para reforço ou 
+recuperação de **aprendizagem** , sendo que 84 , 09 % do **corpo** **docente** 
+**avaliaram** como " **Excelentes** e **Bons** " , 12 , 12 % " Regulares " e 
+apenas 3 , 79 % **avaliaram** como " Insuficientes " . Obs. : para o pessoal 
+**Administrativo** as **Questões** 15 e 16 não podem ser utilizadas como 
+indicadores para **tomada** de **decisão** , uma vez que a **maioria** dos 
+funcionários **administrativos** não interagem com os **discentes** e os 
+programas mencionados. 
+
+Lemmas in this text that loaded on the factor:
+
+administrativo
+aprendizagem (secondary)
+avaliar
+bom
+corpo
+decisão
+dimensão
+discente
+docente
+excelente
+maioria
+questão
+responder
+saber
+tomada

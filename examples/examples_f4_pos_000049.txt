@@ -1,0 +1,34 @@
+file = fat000767
+date = 23-24
+user = r06_u204
+conversation = t000017_3_DESENVOLVIMENTO_Paragraph_34
+URL = No_URL
+
+word count = 109
+words loading = 10
+factor score = 10
+
+A mesma diferença ocorre quando se analisa a percepção dos **coordenadores** 
+quanto a monitoria. No perfil detalhado apenas 16 , 67 % **avaliaram** como " 
+**Excelente** " enquanto 83 , 33 % **avaliaram** como " **Bons** " . Essa 
+**questão** está relacionada à Administração Central, uma vez que a Unidade não 
+tem autonomia para propor alterações no quadro de pessoal. No entanto, o 
+resultado da análise dessa **questão** pode ser utilizado na propositura de 
+ações para mitigar o descontentamento dos **docentes** , criando um clima 
+organizacional amigável, respeitoso e de pertencimento. **Dentre** o **corpo** 
+**docente** 20 , 20 % **avaliaram** como " Plenamente Satisfatório " , 36 , 36 
+% " Satisfatório " , 23 , 23 % " Pouco Satisfatório " , 7 , 17 % " 
+Insatisfatório " e apenas 3 , 03 % " Não **souberam** **responder** " . 
+
+Lemmas in this text that loaded on the factor:
+
+avaliar
+bom
+coordenador
+corpo
+dentrar
+docente
+excelente
+questão
+responder
+saber

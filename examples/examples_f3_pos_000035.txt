@@ -1,0 +1,29 @@
+file = fat001362
+date = 23
+user = r06_u160
+conversation = t000035_1_INTRODUÇÃO_Paragraph_8
+URL = No_URL
+
+word count = 67
+words loading = 9
+factor score = 8
+
+Como ocorreu com a **maior** parte dos **municípios** da **região** do ABC, 
+marcada pelas **indústrias** metalúrgica, automobilística, **química** , 
+plástico e borracha, a partir da segunda metade dos anos de 1980 a **economia** 
+da **região** passou por transformações, provocada especialmente pelo processo 
+de abertura **econômica** , que trouxe uma nova dinâmica à **economia** 
+brasileira. A **economia** de Santo André que já teve uma **grande** 
+representatividade do **setor** **industrial** . 
+
+Lemmas in this text that loaded on the factor:
+
+economia
+econômico
+grande
+industrial
+indústria
+município
+químico (secondary)
+região
+setor

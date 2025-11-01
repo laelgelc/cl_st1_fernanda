@@ -1,0 +1,45 @@
+file = fat001715
+date = 23
+user = r06_u168
+conversation = t000046_1_ANÁLISE_DO_CENÁRIO_Paragraph_11
+URL = No_URL
+
+word count = 180
+words loading = 15
+factor score = 15
+
+Proposta de atualização do PPC do Curso Superior de **Tecnologia** em Análise e 
+Desenvolvimento de Sistemas com vistas à reestruturação. O que será feito: 
+Estruturação de proposta atualização do PPC do CST em ADS mediante análise dos 
+conteúdos programáticos dos componentes curriculares do curso, e construção de 
+nova grade curricular segundo as exigências mercadológicas e legislação 
+vigente. Por que será feito: Para atualização do Projeto Pedagógico do Curso em 
+virtude do avanço tecnológico na área da **tecnologia** da informação e 
+comunicação ( TIC ) Aumentar a **eficiência** , a **produtividade** e a 
+**competitividade** da instituição **Atender** às **demandas** sociais e do 
+**mercado** de trabalho. **Formar** **profissionais** atualizados em 
+**tecnologias** e processos produtivos, **capazes** de **atuar** no 
+desenvolvimento tecnológico e inovação. **Meta** ( s ) **relacionada** ( s ) : 
+Ampliar as inscrições para o vestibular em 5 % no ano de 2023 . Promover ações 
+pedagógicas e administrativas que proporcionem a **redução** da **taxa** de 
+evasão em 5 % **Meta** ( s ) **relacionada** ( s ) : Ampliar as inscrições para 
+o vestibular em 5 % no ano de 2023 . Promover ações pedagógicas e 
+administrativas que proporcionem a **redução** da **taxa** de evasão em 5 % 
+
+Lemmas in this text that loaded on the factor:
+
+atender
+atuar
+capaz
+competitividade
+demanda
+eficiência
+formar
+mercado
+meta
+produtividade
+profissional
+redução
+relacionar
+taxa
+tecnologia

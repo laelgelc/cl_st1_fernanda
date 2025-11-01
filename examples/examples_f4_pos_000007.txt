@@ -1,0 +1,36 @@
+file = fat000759
+date = 23-24
+user = r06_u204
+conversation = t000017_3_DESENVOLVIMENTO_Paragraph_26
+URL = No_URL
+
+word count = 99
+words loading = 13
+factor score = 13
+
+Na **questão** 8 , que **avalia** os canais de comunicação da Fatec Ipiranga, 
+66 , 52 % **avaliaram** como " **Excelente** e **Bom** " , 23 , 74 % " Regular 
+" , 8 , 75 % " Insuficiente " e apenas 0 , 987 % " Não **souberam** 
+**responder** " . Quanto ao perfil **docente** , em **relação** à **questão** 7 
+, 97 , 98 % **avaliaram** como " **Excelente** e **Bom** " , sendo que apenas 2 
+, 02 % **avaliaram** como Regular. Este resultado é extremamente positivo, 
+sendo um reflexo da gestão **realizada** pela **direção** e **coordenadores** 
+de cursos. A **questão** 8 referente aos Canais de Comunicação, 93 , 94 % do 
+**Corpo** **Docente** **avaliaram** como " **Excelente** e **Bom** " , sendo 
+que apenas 6 , 06 % **afirmaram** " Regular " . 
+
+Lemmas in this text that loaded on the factor:
+
+afirmar
+avaliar
+bom
+coordenador
+corpo
+direção
+docente
+excelente
+questão
+realizar
+relação
+responder
+saber

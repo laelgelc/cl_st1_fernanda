@@ -1,0 +1,28 @@
+file = fat000486
+date = 23-24
+user = r06_u005
+conversation = t000010_1_INTRODUÇÃO_Paragraph_1
+URL = No_URL
+
+word count = 39
+words loading = 10
+factor score = 9
+
+A Fatec da Baixada Santista Rubens Lara **possui** a avaliação institucional 
+como efetivo **instrumento** de gestão. Por meio da avaliação tem -se condições 
+de reunir **apontamentos** capazes de **suscitar** análises e **discussões** 
+**possibilitando** **definir** planos de **melhorias** de **forma** 
+**continuada** . 
+
+Lemmas in this text that loaded on the factor:
+
+apontamento
+continuar
+definir
+discussão
+forma (secondary)
+instrumento
+melhoria
+possibilitar
+possuir
+suscitar

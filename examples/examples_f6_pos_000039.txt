@@ -1,0 +1,30 @@
+file = fat000079
+date = 22-23
+user = r06_u129
+conversation = t000003_3_DESENVOLVIMENTO_Paragraph_7
+URL = No_URL
+
+word count = 118
+words loading = 5
+factor score = 3
+
+Considerando a monitoria de disciplina, e metodologias para reforço ou 
+recuperação de aprendizagem. Como você avalia os programas de apoio pedagógico? 
+Os Planos de Ensino são apresentados sempre na 1ª aula semestral, por 
+orientação da Direção e coordenadores de **curso** . Os alunos podem tirar suas 
+dúvidas sobre o que será desenvolvido no semestre, oportunizando eventuais 
+ajustes pelos docentes. Além dessa explanação, a Instituição oferece monitoria 
+desenvolvida pelos alunos que se destacam nos **componentes** **curriculares** 
+. Eles possuem sala própria para atendimento aos colegas a partir de 
+agendamento. Eventos de recuperação e revisão dos conteúdos estudados são 
+realizados pelos docentes, o que é percebido pelos alunos, como se observa no 
+**número** significativo de alunos que responderam positivamente à **questão** 
+. 
+
+Lemmas in this text that loaded on the factor:
+
+componente
+curricular
+curso (secondary)
+número
+questão (secondary)

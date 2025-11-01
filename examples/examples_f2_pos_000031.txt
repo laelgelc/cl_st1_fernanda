@@ -1,0 +1,47 @@
+file = fat002237
+date = 25
+user = r06_u204
+conversation = t000067_1_ANÁLISE_DO_CENÁRIO_Paragraph_16
+URL = No_URL
+
+word count = 119
+words loading = 21
+factor score = 20
+
+Mostra de software do **curso** de Análise e Desenvolvimento de Sistemas - cat 
+1 . 06 - Ações **pedagógicas** : **visitas** técnicas, **projetos** 
+**integradores** / **interdisciplinares** , **dias** de **campo** , **feira** 
+das **profissões** , **cursos** **extracurriculares** para **alunos** . No 
+final de cada semestre, os **alunos** apresentam seus **projetos** de softwares 
+desenvolvidos durante a realização do Trabalho de Conclusão de **Curso** . Por 
+que será **feito** : A mostra acontece por duas razões: a primeira para que os 
+**alunos** realizadores tenham a oportunidade de apresentar seus trabalhos para 
+as bancas, para os **alunos** mais jovens e para a **comunidade** ; a segunda é 
+para que os **alunos** mais jovens possam se inspirar e idealizar seus futuros 
+**projetos** . situação-problema: **Metodologia** de **ensino** , 
+**desempenho** de **alunos** , **evasão** Participação da **comunidade** e 
+**sociedade** 
+
+Lemmas in this text that loaded on the factor:
+
+aluno
+campo
+comunidade
+curso
+desempenho
+dia
+ensino
+evasão
+extracurricular
+fazer
+feira
+integrador
+interdisciplinar
+metodologia
+pedagógico (secondary)
+problema
+profissão
+projeto
+situação
+sociedade
+visita

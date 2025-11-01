@@ -1,0 +1,29 @@
+file = fat002328
+date = 26
+user = r06_u113
+conversation = t000071_1_ANÁLISE_DO_CENÁRIO_Paragraph_1
+URL = No_URL
+
+word count = 44
+words loading = 11
+factor score = 9
+
+PLANO DE GESTÃO **ANUAL** - PGA 2026 A Fatec Mauá **possui** a crença no 
+**planejamento** como **instrumento** de gestão. Dado que, por meio da 
+avaliação temos condições de reunir indicadores capazes de **suscitar** 
+análises e **discussões** **possibilitando** **definir** planos de 
+**melhorias** de **forma** **continuada** . 
+
+Lemmas in this text that loaded on the factor:
+
+anual
+continuar
+definir
+discussão
+forma (secondary)
+instrumento
+melhoria
+planejamento (secondary)
+possibilitar
+possuir
+suscitar

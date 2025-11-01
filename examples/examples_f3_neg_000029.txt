@@ -1,0 +1,21 @@
+file = fat000733
+date = 23-24
+user = r06_u204
+conversation = t000017_2_SENSIBILIZAÇÃO_Paragraph_1
+URL = No_URL
+
+word count = 64
+words loading = 2
+factor score = -2
+
+Para a efetivação do cronograma destaca -se algumas das **ações** para a 
+realização dos **procedimentos** de autoavaliação. A sensibilização para a 
+coleta de dados da CPA foi feita em duas partes; a primeira eletrônica, com a 
+criação de divulgação de banners criados internamente chamando a atenção para a 
+importância da avaliação como instrumentos de definição dos rumos da 
+instituição bem como em relação aos prazos. 
+
+Lemmas in this text that loaded on the factor:
+
+ação
+procedimento

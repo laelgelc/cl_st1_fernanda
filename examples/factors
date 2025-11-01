@@ -1,0 +1,389 @@
+f1pos controladoria
+f1pos perenidade
+f1pos celeridade
+f1pos efetividade
+f1pos prestação
+f1pos produtividade
+f1pos stakeholders
+f1pos itinerário
+f1pos grau
+f1pos assegurar
+f1pos eficiência
+f1pos alcançar
+f1pos extra
+f1pos autarquia
+f1pos competitividade
+f1pos satisfação
+f1pos captação
+f1pos otimizar
+f1pos excelência
+f1pos formar
+f1pos governo
+f1pos meta
+f1pos crescimento
+f1pos expandir
+f1pos capaz
+f1pos atuar
+f1pos relacionar
+f1pos aprendizagem
+f1pos objetivo
+f1pos atender
+f1pos mercado
+f1pos estado (secondary)
+f1pos profissional
+f1pos demanda
+f1pos tecnologia
+f1pos serviço
+f1pos institucional (secondary)
+f1pos taxa
+f1pos redução
+f1pos setor (secondary)
+f1pos ensino (secondary)
+f1neg parede (secondary)
+f1neg pintura
+f1neg laje (secondary)
+f1neg condicionado
+f1neg financiar
+f2pos feira
+f2pos profissão
+f2pos integrador
+f2pos interdisciplinar
+f2pos extracurricular
+f2pos dia
+f2pos resolver
+f2pos visita
+f2pos campo
+f2pos mitigar
+f2pos evasão
+f2pos desempenho
+f2pos sociedade
+f2pos situação
+f2pos problema
+f2pos metodologia
+f2pos prestador
+f2pos fazer
+f2pos seleção
+f2pos comunidade
+f2pos operacional
+f2pos editorial
+f2pos língua
+f2pos química
+f2pos estrangeiro
+f2pos disciplina
+f2pos projeto
+f2pos aluno
+f2pos bolsa
+f2pos sentimento
+f2pos respectivo
+f2pos livro
+f2pos ensino
+f2pos empresa
+f2pos relevante
+f2pos implantação
+f2pos pedagógico (secondary)
+f2pos químico
+f2pos permanência
+f2pos pertencimento
+f2pos curso
+f2pos vestibular
+f2pos diário (secondary)
+f2pos acolhimento
+f2pos área (secondary)
+f2pos exterior (secondary)
+f2pos saúde (secondary)
+f2pos conhecimento (secondary)
+f2pos sala
+f2pos cultural (secondary)
+f2pos estudo (secondary)
+f2pos aula (secondary)
+f2pos discente (secondary)
+f2pos emprego (secondary)
+f2neg suscitar (secondary)
+f2neg autarquia (secondary)
+f2neg controladoria (secondary)
+f2neg nortear (secondary)
+f2neg definir (secondary)
+f2neg robusto (secondary)
+f2neg compactuar (secondary)
+f2neg extra (secondary)
+f2neg aeroporto (secondary)
+f2neg perenidade (secondary)
+f2neg imigrante (secondary)
+f2neg detalhamento (secondary)
+f2neg rodovia (secondary)
+f2neg rodoanel (secondary)
+f2neg filosofia (secondary)
+f2neg vocabulário (secondary)
+f2neg diretriz (secondary)
+f2neg continuar (secondary)
+f2neg montante
+f2neg macroeconômico
+f2neg desenvolvedor
+f3pos cidade
+f3pos indústria
+f3pos município
+f3pos localizar
+f3pos população
+f3pos habitante
+f3pos milhão
+f3pos capital
+f3pos região
+f3pos rodovia
+f3pos diadema
+f3pos economia
+f3pos subprefeitura
+f3pos estado
+f3pos econômico
+f3pos distrito
+f3pos setor
+f3pos estimar
+f3pos rodoanel
+f3pos emprego
+f3pos segmento
+f3pos formal
+f3pos terciário
+f3pos posto
+f3pos demográfico
+f3pos imigrante
+f3pos industrial
+f3pos secundário
+f3pos aeroporto
+f3pos saúde
+f3pos comércio
+f3pos trabalhador
+f3pos porto
+f3pos possuir (secondary)
+f3pos pga (secondary)
+f3pos área
+f3pos grande
+f3pos crescimento (secondary)
+f3pos anual (secondary)
+f3pos mão
+f3pos químico (secondary)
+f3pos obra
+f3pos censo
+f3pos química (secondary)
+f3pos empresa (secondary)
+f3pos embalagem
+f3pos campo (secondary)
+f3pos custo
+f3neg entrar (secondary)
+f3neg aluno (secondary)
+f3neg procedimento
+f3neg encaminhamento
+f3neg nome (secondary)
+f3neg dirimir
+f3neg predial (secondary)
+f3neg personalizar (secondary)
+f3neg docente (secondary)
+f3neg aula
+f3neg problema (secondary)
+f3neg situações (secondary)
+f3neg conflito (secondary)
+f3neg ação
+f3neg auferir
+f3neg pintura (secondary)
+f3neg escuta (secondary)
+f3neg coordenador (secondary)
+f3neg coworking (secondary)
+f3neg lembrar (secondary)
+f3neg sentimento (secondary)
+f3neg disciplina (secondary)
+f3neg acadêmico (secondary)
+f4pos excelente
+f4pos saber
+f4pos maioria
+f4pos bom
+f4pos responder
+f4pos avaliar
+f4pos política
+f4pos afirmar
+f4pos corpo
+f4pos salientar
+f4pos sugerir
+f4pos diálogo
+f4pos considerar
+f4pos dimensão
+f4pos relação
+f4pos destacar
+f4pos decisão
+f4pos esclarecimento (secondary)
+f4pos dentrar
+f4pos negociação
+f4pos merecer
+f4pos discente
+f4pos questão
+f4pos atenção
+f4pos coordenador
+f4pos avaliação
+f4pos missão
+f4pos concordar
+f4pos planejamento
+f4pos advir
+f4pos institucional
+f4pos direção
+f4pos docente
+f4pos conhecimento
+f4pos satisfação (secondary)
+f4pos conflito
+f4pos tomada
+f4pos diário
+f4pos acadêmico
+f4pos administrativo
+f4pos forma
+f4pos instrumento (secondary)
+f4pos clareza (secondary)
+f4pos melhoria (secondary)
+f4pos cultural
+f4pos pandemia
+f4pos número (secondary)
+f4pos econômico (secondary)
+f4pos efetivação
+f4pos extensão (secondary)
+f4pos acolhimento (secondary)
+f4pos aprendizagem (secondary)
+f4pos realizar
+f4neg estruturação (secondary)
+f4neg programático
+f4neg parede
+f4neg evasão (secondary)
+f4neg situações
+f4neg noite
+f4neg grade (secondary)
+f4neg matutino (secondary)
+f4neg apontamento (secondary)
+f4neg escuta
+f4neg aplicado
+f4neg laboratorial
+f4neg laje
+f4neg manhã
+f4neg notebook (secondary)
+f4neg itinerário (secondary)
+f4neg virtude (secondary)
+f4neg jogo
+f4neg produtividade (secondary)
+f4neg competitividade (secondary)
+f5pos continuar
+f5pos definir
+f5pos anual
+f5pos apontamento
+f5pos suscitar
+f5pos diretriz
+f5pos melhoria
+f5pos pga
+f5pos matutino
+f5pos instrumento
+f5pos infraestrutura
+f5pos possibilitar
+f5pos possuir
+f5pos discussão
+f5pos relatório
+f5pos filosofia
+f5pos caracterizar
+f5pos nortear
+f5pos pedagógico
+f5pos dentrar (secondary)
+f5pos planejamento (secondary)
+f5pos missão (secondary)
+f5pos predial
+f5pos noturno
+f5pos ano
+f5pos diadema (secondary)
+f5pos dimensão (secondary)
+f5pos meta (secondary)
+f5pos identidade
+f5pos administrativo (secondary)
+f5pos procedimento (secondary)
+f5pos redução (secondary)
+f5pos segmento (secondary)
+f5pos vestibular (secondary)
+f5pos objetivo (secondary)
+f5pos iniciar
+f5pos extensão
+f5pos taxa (secondary)
+f5pos unidade
+f5pos ação (secondary)
+f5pos forma (secondary)
+f5pos região (secondary)
+f5neg comentário
+f5neg adicional
+f5neg esclarecimento
+f5neg coesão
+f5neg gramático
+f5neg afirmação
+f5neg desistir
+f5neg vocabulário
+f5neg dificultar
+f5neg panorâmico
+f5neg trancar
+f5neg clareza
+f5neg texto (secondary)
+f5neg interpretação (secondary)
+f5neg concordar (secondary)
+f5neg enfrentamento
+f5neg misturar
+f5neg raciocínio
+f5neg oferecido
+f5neg desafiar
+f5neg faixa
+f5neg violência
+f5neg interpretar
+f5neg sm
+f5neg rever
+f5neg auferir (secondary)
+f6pos curricular
+f6pos grade
+f6pos componente
+f6pos nde
+f6pos interpretação
+f6pos detalhamento
+f6pos texto
+f6pos robusto
+f6pos compactuar
+f6pos digital
+f6pos estruturação
+f6pos comentário (secondary)
+f6pos questão (secondary)
+f6pos exterior
+f6pos adicional (secondary)
+f6pos programático (secondary)
+f6pos exigência
+f6pos discussão (secondary)
+f6pos avaliação (secondary)
+f6pos comércio (secondary)
+f6pos virtude
+f6pos número
+f6pos tecnologia (secondary)
+f6pos relatório (secondary)
+f6pos estudo
+f6pos desempenho (secondary)
+f6pos industrial (secondary)
+f6pos noturno (secondary)
+f6pos profissional (secondary)
+f6pos coesão (secondary)
+f6pos pandemia (secondary)
+f6pos atender (secondary)
+f6pos formar (secondary)
+f6pos grande (secondary)
+f6pos implantação (secondary)
+f6pos curso (secondary)
+f6neg nome
+f6neg entrar
+f6neg personalizar
+f6neg lembrar
+f6neg dirimir (secondary)
+f6neg prestador (secondary)
+f6neg editorial (secondary)
+f6neg notebook
+f6neg livro (secondary)
+f6neg televisor
+f6neg negociação (secondary)
+f6neg coworking
+f6neg feira (secondary)
+f6neg censo (secondary)
+f6neg encaminhamento (secondary)
+f6neg dia (secondary)
+f6neg cadastro
+f6neg empregado
+f6neg serviço (secondary)
+f6neg operacional (secondary)

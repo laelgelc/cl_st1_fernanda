@@ -1,0 +1,19 @@
+file = fat002692
+date = 22
+user = r06_u129
+conversation = t000083_2_DESENVOLVIMENTO_Paragraph_6
+URL = No_URL
+
+word count = 57
+words loading = 1
+factor score = -1
+
+Para o Espaço Maker foram recebidos 15 **notebooks** , 01 plataforma de 
+carregamento, 01 impressora 3D, 01 kit Arduino, 15 caixa de som portátil e 02 
+televisões de 65 " . Foram realizadas adequações na sala do Espaço Maker, com 
+reparos na laje da sala, instalação de luminárias, adequações da parte elétrica 
+e reparos nas paredes mais a pintura. 
+
+Lemmas in this text that loaded on the factor:
+
+notebook

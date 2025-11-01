@@ -1,0 +1,41 @@
+file = fat000690
+date = 23-24
+user = r06_u160
+conversation = t000015_5_CONSIDERAÇÕES_FINAIS_Paragraph_1
+URL = No_URL
+
+word count = 152
+words loading = 14
+factor score = 12
+
+A Fatec Santo André , através de sua Comissão Própria de **Avaliação** , 
+trabalha para obter e oferecer recursos para guiar as **decisões** e planos em 
+sua instituição, fornecendo o Norte para a **Direção** em suas ações e pela 
+contínua busca das **melhorias** dos elementos que estão em sua essência, 
+citando -os, o ensino, a pesquisa, a **extensão** e a gestão. **Dentre** as 
+principais ações **advindas** desse processo, podemos **salientar** : ➢ Atuar 
+por meio dos indicadores nos pontos em que **Coordenadores** e **Direção** 
+**Acadêmica** devam agir com mais ênfase e eficiência. ➢ Externar as 
+necessidades que não se solucionam no nível de U. E. mas no nível 
+Institucional. ➢ Contemplar **melhorias** e ajustes nos PPCs de cada curso. ➢ 
+Manter e melhorar os pontos com **relação** a infraestrutura, leia -se, 
+manutenção, limpeza, acessibilidade e laboratórios. ➢ **Melhoria** dos canais 
+de comunicação com **discentes** , **docente** e técnicos-administrativos no 
+que tange as ações da U. E. e do Centro Paula Souza na figura da CESU; 
+
+Lemmas in this text that loaded on the factor:
+
+acadêmico
+administrativo
+advir
+avaliação
+coordenador
+decisão
+dentrar
+direção
+discente
+docente
+extensão (secondary)
+melhoria (secondary)
+relação
+salientar

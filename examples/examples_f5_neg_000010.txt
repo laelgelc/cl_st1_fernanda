@@ -1,0 +1,24 @@
+file = fat003184
+date = 23-24
+user = r06_u129
+conversation = t000109_3_COMENTÁRIOS_E_ESCLARECIMENTOS_ADCIONAIS_Paragraph_1
+URL = No_URL
+
+word count = 90
+words loading = 3
+factor score = -3
+
+**Comentários** e **Esclarecimentos** **Adicionais** quanto às respostas dos 
+alunos ao Questionário de Percepção da Prova: A prova do ENADE apresentou um 
+grau de dificuldade variado em suas diferentes partes. Na parte de Formação 
+Geral, 60 , 7 % dos estudantes consideraram o grau de dificuldade como médio, 
+enquanto 23 , 2 % o classificaram como difícil. Apenas 1 , 8 % dos 
+participantes a consideraram muito difícil. Já na parte de Componente 
+Específico, os resultados mostraram que 57 , 1 % dos estudantes avaliaram o 
+grau de dificuldade como médio, enquanto 33 , 9 % o classificaram como difícil. 
+
+Lemmas in this text that loaded on the factor:
+
+adicional
+comentário
+esclarecimento

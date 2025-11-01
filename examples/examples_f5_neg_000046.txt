@@ -1,0 +1,30 @@
+file = fat001580
+date = 23
+user = r06_u270
+conversation = t000039_2_DESENVOLVIMENTO_Paragraph_14
+URL = No_URL
+
+word count = 166
+words loading = 1
+factor score = -1
+
+O curso visa também desenvolver habilidades de resolver problemas complexos, 
+por meio da coleta de dados e de análises estatísticas, além de criar e aplicar 
+algoritmos de aprendizagem de máquina para facilitar a tomada de decisões e 
+solucionar problemas de negócios de forma a aumentar a competitividade das 
+organizações, tornando -os capazes de intervir no desenvolvimento econômico e 
+social, observadas as práticas da ética e cidadania. Modelar soluções de 
+problemas, aplicando algoritmos de aprendizagem de máquina e técnicas 
+estatísticas para análise de dados como apoio às decisões nas organizações; 
+Utilizar a abordagem científica para resolução dos problemas de gestão; Criar 
+aplicações para coletar, preparar, **misturar** , visualizar, explorar e 
+analisar grande quantidade de dados, com o objetivo de buscar padrões e 
+identificar tendências para que as organizações tomem decisões de negócio 
+baseadas em fatos e números; Apoiar decisores na modelagem de solução de 
+problemas com uso de diversas tecnologias de modelagem orientada a dados. 
+Vistoriar, realizar perícia, avaliar, emitir laudo e parecer técnico em sua 
+área de formação. 
+
+Lemmas in this text that loaded on the factor:
+
+misturar

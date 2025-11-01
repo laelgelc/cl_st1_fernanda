@@ -1,0 +1,32 @@
+file = fat000519
+date = 23-24
+user = r06_u113
+conversation = t000011_3_DESENVOLVIMENTO_Paragraph_1
+URL = No_URL
+
+word count = 67
+words loading = 12
+factor score = 9
+
+O Plano de Desenvolvimento Institucional ( PDI ) ( **Ano** 2019 – **Ano** 2023 
+) e o PGA – Plano de Gestão **Anual** , são alguns dos principais documentos 
+que **norteiam** as **ações** da Fatec Mauá . Trata -se de documentos em que se 
+**caracterizam** a **identidade** da instituição, **definindo** sua 
+**filosofia** de trabalho, **missão** , estratégias, **objetivos** , estrutura 
+e **diretrizes** **pedagógicas** . Destaca -se neste eixo o alinhamento a 
+**missão** no sentido de promover uma educação pública de excelência. 
+
+Lemmas in this text that loaded on the factor:
+
+ano
+anual
+ação (secondary)
+caracterizar
+definir
+diretriz
+filosofia
+identidade
+missão (secondary)
+nortear
+objetivo (secondary)
+pedagógico

@@ -1,0 +1,25 @@
+file = fat003234
+date = 23-24
+user = r06_u168
+conversation = t000111_3_QUESTÕES_COMPLEMENTARES_Paragraph_7
+URL = No_URL
+
+word count = 64
+words loading = 5
+factor score = 2
+
+Destaca -se o baixo percentual de alunos que consideram que as metodologias 
+empregadas no **curso** desafiam aprofundar conhecimentos e desenvolver 
+competências reflexivas e críticas, o que também reforça a necessidade de 
+trabalhar as disciplinas considerando aspectos relativos à ampliação do 
+conhecimento específico, **discussão** e **interpretação** de **textos** , 
+análise gráfica e da prática por parte dos docentes de inserir atividades e 
+**questões** avaliativas no modelo ENADE. 
+
+Lemmas in this text that loaded on the factor:
+
+curso (secondary)
+discussão (secondary)
+interpretação
+questão (secondary)
+texto

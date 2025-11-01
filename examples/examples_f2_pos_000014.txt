@@ -1,0 +1,55 @@
+file = fat001903
+date = 24
+user = r06_u129
+conversation = t000053_1_ANÁLISE_DO_CENÁRIO_Paragraph_20
+URL = No_URL
+
+word count = 131
+words loading = 27
+factor score = 24
+
+Ações **pedagógicas** : **visitas** técnicas, **projetos** **integradores** / 
+**interdisciplinares** , **dias** de **campo** , **feira** das **profissões** , 
+**cursos** **extracurriculares** para **alunos** . O que será **feito** : 
+Organização do **projeto** de **disciplina** para **implantação** de uma ONG 
+com a responsabilidade de criar soluções inovadoras para os **problemas** reais 
+relacionados às mudanças climáticas na Baixada Santista, associados a um, ou 
+mais objetivos, dos 17 Objetivos de Desenvolvimento Sustentável ( ODS ) das 
+Nações Unidas, desenvolvido na **Disciplina** **Química** Ambiental do 
+**Curso** de Processos **Químicos** . Por que será **feito** : Para difundir 
+**conhecimentos** sobre processos de responsabilidade ambiental no ambiente 
+**discente** e na formação profissional e tecnológica do **aluno** , 
+aproveitando as **disciplinas** com foco em **química** e meio ambiente. 
+**Situação** **problema** : **Metodologia** de **ensino** , **desempenho** de 
+**alunos** , **evasão** ( a ser **resolvida** / **mitigada** ) Gestão da 
+unidade de **ensino** e dos **cursos** ( indicadores ) 
+
+Lemmas in this text that loaded on the factor:
+
+aluno
+campo
+conhecimento (secondary)
+curso
+desempenho
+dia
+discente (secondary)
+disciplina
+ensino
+evasão
+extracurricular
+fazer
+feira
+implantação
+integrador
+interdisciplinar
+metodologia
+mitigar
+pedagógico (secondary)
+problema
+profissão
+projeto
+química
+químico
+resolver
+situação
+visita

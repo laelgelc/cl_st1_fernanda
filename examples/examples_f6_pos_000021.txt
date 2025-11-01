@@ -1,0 +1,34 @@
+file = fat001945
+date = 24
+user = r06_u160
+conversation = t000055_1_ANÁLISE_DO_CENÁRIO_Paragraph_13
+URL = No_URL
+
+word count = 93
+words loading = 11
+factor score = 5
+
+Adequação / reestruturação de PPC, **implantação** de novos **cursos** . O que 
+será feito: **Estruturação** de proposta para atualização do PPC de Eletrônica 
+Automotiva mediante a análise dos conteúdos **programáticos** das 
+**componentes** **curriculares** do **curso** e construção da nova **grade** 
+**curricular** segundo as **exigências** mercadológicas. Por que será feito: 
+Para atualização e adequação do PCC de novas **tecnologias** , visando 
+**atender** as novas leis de emissão de poluentes, conectividade automotiva e 
+eletrificação veicular. Situação problema: Metodologia de ensino, 
+**desempenho** de alunos, evasão ( a ser resolvida / mitigada ) Gestão da 
+unidade de ensino e dos **cursos** ( indicadores ) 
+
+Lemmas in this text that loaded on the factor:
+
+atender (secondary)
+componente
+curricular
+curso (secondary)
+desempenho (secondary)
+estruturação
+exigência
+grade
+implantação (secondary)
+programático (secondary)
+tecnologia (secondary)

@@ -1,0 +1,28 @@
+file = fat001396
+date = 23
+user = r06_u160
+conversation = t000035_2_DESENVOLVIMENTO_Paragraph_24
+URL = No_URL
+
+word count = 128
+words loading = 3
+factor score = -1
+
+Os resultados mensuráveis esperados do projeto incluem: • Redução de custos e 
+otimização de resultados através da analise de dados; • Elaboração e 
+implantação de aplicativo de banco de dados para apuração de custos e formação 
+de preço de venda; • Melhoria da formação do preço de venda; • Melhoria na 
+margem de contribuição por produto; • Aplicação e análise do Mark up de forma 
+adequada; • Elaboração de orçamentos de produtos e **serviços** com maior 
+consistência através de criação de planilhas de apuração de custos e formação 
+de preço de venda **personalizada** para cada empresa; • Utilização do preço de 
+venda como uma ferramenta efetiva, durante uma **negociação** , para novos 
+clientes, produtos e mercados; • Análise da rentabilidade do produto; • 
+Capacitação para utilização de todas as planilhas e aplicativos implantados na 
+empresa; • Empreendimento regional 
+
+Lemmas in this text that loaded on the factor:
+
+negociação (secondary)
+personalizar
+serviço (secondary)

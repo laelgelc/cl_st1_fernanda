@@ -1,0 +1,45 @@
+file = fat001724
+date = 23
+user = r06_u168
+conversation = t000046_1_ANÁLISE_DO_CENÁRIO_Paragraph_20
+URL = No_URL
+
+word count = 156
+words loading = 17
+factor score = 16
+
+Proposta de atualização do PPC do CST em Jogos Digitais com vistas a 
+reestruturação O que será feito: Estruturação de proposta para atualização do 
+PPC do CST em Jogos Digitais por meio de análise do perfil **profissional** do 
+egresso atual, das necessidades do **setor** e da identificação de novo perfil 
+**profissional** do egresso, competências a serem desenvolvidas e definição de 
+nova estrutura curricular de forma a contemplar essas competências. Por que 
+será feito: Atualização do Projeto Pedagógico do Curso em função das 
+necessidades do **setor** . **Objetivo** ( s ) **relacionado** ( s ) : Aumentar 
+a **eficiência** , a **produtividade** e a **competitividade** da instituição 
+**Atender** às **demandas** sociais e do **mercado** de trabalho. **Formar** 
+**profissionais** atualizados em **tecnologias** e processos produtivos, 
+**capazes** de **atuar** no desenvolvimento tecnológico e inovação. **Meta** ( 
+s ) **relacionada** ( s ) : Ampliar as inscrições para o vestibular em 5 % no 
+ano de 2023 . Promover ações pedagógicas e administrativas que proporcionem a 
+**redução** da **taxa** de evasão em 5 % 
+
+Lemmas in this text that loaded on the factor:
+
+atender
+atuar
+capaz
+competitividade
+demanda
+eficiência
+formar
+mercado
+meta
+objetivo
+produtividade
+profissional
+redução
+relacionar
+setor (secondary)
+taxa
+tecnologia

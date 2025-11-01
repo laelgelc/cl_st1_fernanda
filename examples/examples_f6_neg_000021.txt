@@ -1,0 +1,22 @@
+file = fat000634
+date = 23-24
+user = r06_u129
+conversation = t000013_3_DESENVOLVIMENTO_Paragraph_57
+URL = No_URL
+
+word count = 89
+words loading = 1
+factor score = -1
+
+• A CPA sugere que as coordenações de cursos estimulem os docentes a se 
+desenvolverem continuamente, **lembrando** que o CPS oferece qualificações e 
+cursos constantementeque melhoram as competências dos professores. A CPA sugere 
+que Direção e Coordenadores que abordem o tema nas reuniões realizadas 
+semestralmente a fim de reforçar o conhecimento sobre documento. • Também, que 
+o mesmo esteja disponível para consulta no site institucional. A CPA tambénm 
+sugere que seja desenvolvida uma cartilha para ser distribuída aos docentes e 
+funcionários contendo a documentação que deve ser conhecida por todos. 
+
+Lemmas in this text that loaded on the factor:
+
+lembrar

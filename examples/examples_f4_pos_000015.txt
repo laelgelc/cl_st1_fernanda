@@ -1,0 +1,39 @@
+file = fat000766
+date = 23-24
+user = r06_u204
+conversation = t000017_3_DESENVOLVIMENTO_Paragraph_33
+URL = No_URL
+
+word count = 130
+words loading = 12
+factor score = 12
+
+Em **relação** a **questão** 15 , 9 , 09 % **avaliaram** como " **Excelente** " 
+, 36 , 36 % " **Boa** " , 18 , 18 % " Regular " , 9 , 09 % " Insuficiente " e 
+27 , 27 % " Não **souberam** **responder** " . Na **Questão** 16 , referente a 
+Monitoria 90 , 91 % **avaliaram** como " **Excelentes** e **Bons** " , enquanto 
+4 , 55 % " Regulares " e 4 , 55 % " Insuficientes " . A análise do perfil 
+detalhado **Coordenador** de Curso FATEC, demonstra que o percentual que 
+**avaliaram** como " **Boa** " a **política** de participação dos estudantes 
+nas atividades de pesquisa é de 33 , 33 % enquanto 66 , 67 % **avaliaram** como 
+" Regular " . Ao comparar com a análise do perfil **Administrativo** nota -se a 
+diferença dos percentuais, evidenciando a necessidade de um perfil para 
+servidores que **realizam** atividades, exclusivamente **administrativas** e 
+outro para servidores que **realizam** atividades **administrativas** , 
+**acadêmicas** e pedagógicas como é o caso dos **coordenadores** de curso nas 
+Fatecs. 
+
+Lemmas in this text that loaded on the factor:
+
+acadêmico
+administrativo
+avaliar
+bom
+coordenador
+excelente
+política
+questão
+realizar
+relação
+responder
+saber

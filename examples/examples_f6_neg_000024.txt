@@ -1,0 +1,23 @@
+file = fat001196
+date = 23
+user = r06_u005
+conversation = t000030_3_APL_Paragraph_3
+URL = No_URL
+
+word count = 78
+words loading = 2
+factor score = -1
+
+Aos seus incubados, a Fundação Parque Tecnológico de santos oferece orientação 
+e assessoria especializada, gestão empresarial, transferência tecnológica e 
+temas correlatos à atividade empreendedora, assim como participação subsidiada 
+em eventos e programas promovidos pela FPTS, além dos **serviços** básicos de 
+incubação e **coworking** , como: espaço físico, internet de banda larga ( WiFi 
+e cabeada ) , sala de reuniões, auditório equipado com recursos audiovisuais, 
+recepção, vigilância e limpeza, manutenção predial, endereço postal, e energia 
+elétrica para iluminação e equipamentos administrativos. 
+
+Lemmas in this text that loaded on the factor:
+
+coworking
+serviço (secondary)

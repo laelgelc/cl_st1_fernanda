@@ -1,0 +1,26 @@
+file = fat001649
+date = 23
+user = r06_u129
+conversation = t000043_1_ANÁLISE_DO_CENÁRIO_Paragraph_13
+URL = No_URL
+
+word count = 129
+words loading = 1
+factor score = -1
+
+ESTUDO PRELIMINAR DE IMPLANTAÇÃO DE CURSO PÓS-GRADUAÇÃO EM ANÁLISE DE SISTEMAS. 
+O que será feito: Implantação de curso de Pós-Graduação " lato sensu " na área 
+de Análise de Sistemas. Especialização com 360 h. Por que será feito: Uma 
+pós-graduação em Análise de Sistemas pode ajudar a melhorar suas perspectivas 
+de carreira, dando -lhe habilidades e conhecimentos **adicionais** que os 
+empregadores estão procurando. Os graduados em Análise de Sistemas são 
+procurados por empresas de TI, empresas de software, instituições financeiras, 
+empresas de varejo e muitos outros setores. Objetivo ( s ) relacionado ( s ) : 
+Ampliar o número de cursos da FATEC-PG, bem como ampliar a oferta de cursos de 
+Pós-Graduação no município, buscando atender o mercado e contribuir para a 
+educação profissional da região. Meta ( s ) relacionada ( s ) : Apresentar 
+proposta de implantação de novos cursos de Pós-Graduação: 01curso na área TI. 
+
+Lemmas in this text that loaded on the factor:
+
+adicional

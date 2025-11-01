@@ -1,0 +1,22 @@
+file = fat001782
+date = 23
+user = r06_u217
+conversation = t000048_1_ANÁLISE_DO_CENÁRIO_Paragraph_6
+URL = No_URL
+
+word count = 93
+words loading = 1
+factor score = -1
+
+Outro fator preocupante é o alto índice de evasão nos cursos superiores em 
+geral que se dá , de acordo com a reportagem, porque o jovem não consegue se 
+manter e deixa de estudar para trabalhar e tem até quem **desiste** porque não 
+se identifica com o curso. Em relação a demanda no vestibular, o quadro 
+descrito na reportagem vem sendo vivido aqui na Fatec Diadema – Luigi Papaiz, 
+principalmente pelo CST em Cosméticos que nos últimos vestibulares ( 2022-2 e 
+2023-1 ) não atingiu a demanda mínima. Também enfrentamos problemas com relação 
+ao alto índice de evasão. 
+
+Lemmas in this text that loaded on the factor:
+
+desistir

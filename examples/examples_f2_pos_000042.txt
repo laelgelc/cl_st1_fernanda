@@ -1,0 +1,43 @@
+file = fat001863
+date = 24
+user = r06_u113
+conversation = t000051_1_ANÁLISE_DO_CENÁRIO_Paragraph_16
+URL = No_URL
+
+word count = 113
+words loading = 19
+factor score = 17
+
+COIL / PCI e Escola de Inovadores O que será **feito** : Este **projeto** tem 
+como objetivo a parceria com Fatecs e de suas **respectivas** coordenações do 
+Núcleo de Relações Internacionais com a finalidade de proporcionar aos 
+**alunos** do CST de Logística e Informática para Negócios um maior acesso às 
+informações relativas a intercambio e possibilidades de **estudos** no 
+**exterior** . Por que será **feito** : A **língua** inglesa sempre foi um 
+diferencial nos **cursos** de Tecnologia das Fatecs, visando proporcionar uma 
+maior empregabilidade nas **empresas** e indústrias 4 . 0 da região de São 
+Paulo e do ABCDM. **Situação** **problema** : **Metodologia** de **ensino** , 
+**desempenho** de **alunos** , **evasão** ( a ser **resolvida** / **mitigada** 
+) Participação da **comunidade** e **sociedade** 
+
+Lemmas in this text that loaded on the factor:
+
+aluno
+comunidade
+curso
+desempenho
+empresa
+ensino
+estudo (secondary)
+evasão
+exterior (secondary)
+fazer
+língua
+metodologia
+mitigar
+problema
+projeto
+resolver
+respectivo
+situação
+sociedade

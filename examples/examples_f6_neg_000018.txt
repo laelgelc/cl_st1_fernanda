@@ -1,0 +1,18 @@
+file = fat000251
+date = 22-23
+user = r06_u168
+conversation = t000006_3_DESENVOLVIMENTO_Paragraph_6
+URL = No_URL
+
+word count = 44
+words loading = 1
+factor score = -1
+
+Cabe **lembrar** que os documentos produzidos pela CPA, visam ser instrumentos 
+de consultas na construção de outros mecanismos institucionais como PDI, PPI e 
+regulamentos que nortearão as atividades da Fatec São Caetano do Sul – Antonio 
+Russo nos anos vindouros especificamente no pós pandemia. 
+
+Lemmas in this text that loaded on the factor:
+
+lembrar

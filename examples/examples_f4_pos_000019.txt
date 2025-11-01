@@ -1,0 +1,35 @@
+file = fat000491
+date = 23-24
+user = r06_u005
+conversation = t000010_3_DESENVOLVIMENTO_Paragraph_1
+URL = No_URL
+
+word count = 103
+words loading = 12
+factor score = 12
+
+**Dimensão** 1 : **Missão** e Plano de Desenvolvimento Institucional Tanto para 
+o formulário Alunos e quanto Servidores da Fatec as **questões** 1 e 2 são 
+relacionadas à **dimensão** 1 . Perfil **Discente** : Para a **dimensão** 8 
+está relacionada a **Questão** 13 , sendo que 48 , 36 % dos **discentes** 
+**avaliaram** como " **Excelente** e **Bom** " o uso dos indicadores do WebSai 
+no Planejamento Institucional. Apenas 15 , 03 % dos **discentes** **avaliaram** 
+como Insuficiente " . **Destaca** -se que 15 , 59 % dos alunos " não 
+**souberam** **responder** " . Estes dois últimos percentuais **merecem** 
+**atenção** e deverão ser tomadas medidas para informar e esclarecer aos alunos 
+a **questão** do uso dos Indicadores WebSai no Planejamento Institucional. 
+
+Lemmas in this text that loaded on the factor:
+
+atenção
+avaliar
+bom
+destacar
+dimensão
+discente
+excelente
+merecer
+missão
+questão
+responder
+saber

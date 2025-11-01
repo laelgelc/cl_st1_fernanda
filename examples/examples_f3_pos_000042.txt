@@ -1,0 +1,29 @@
+file = fat001564
+date = 23
+user = r06_u217
+conversation = t000038_3_CONSIDERAÇÕES_Paragraph_3
+URL = No_URL
+
+word count = 96
+words loading = 7
+factor score = 7
+
+Evolução da demanda por profissionais com formação tecnológica – necessidades 
+setoriais **Diadema** encerrou o ano de 2022 com quase 3 . 000 **empregos** 
+**formais** gerados na **cidade** . Dados do Caged ( Cadastro Geral de 
+Empregados e Desempregados ) , divulgados nesta terça-feira 31 / 01 / 2023 pelo 
+Ministério da Fazenda, mostram que o saldo do **município** foi positivo em 2 . 
+917 **postos** de trabalho. Entre os **segmentos** pesquisados no Caged, o que 
+mais gerou **postos** de trabalho em **Diadema** em 2022 foi o de Serviços, com 
+saldo positivo de 1 . 770 vagas. Na sequência vieram Comércio ( 495 ) , 
+Indústria ( 439 ) e Construção ( 213 ) . 
+
+Lemmas in this text that loaded on the factor:
+
+cidade
+diadema
+emprego
+formal
+município
+posto
+segmento

@@ -1,0 +1,34 @@
+file = fat000732
+date = 23-24
+user = r06_u204
+conversation = t000017_1_INTRODUÇÃO_Paragraph_1
+URL = No_URL
+
+word count = 80
+words loading = 13
+factor score = 11
+
+A Fatec Ipiranga – Pastor Enéas Tognini **possui** a avaliação institucional 
+como efetivo **instrumento** de gestão. Por meio da avaliação tem -se condições 
+de reunir **apontamentos** capazes de **suscitar** análises e **discussões** 
+**possibilitando** **definir** planos de **melhorias** de **forma** 
+**continuada** . Por meio do desenvolvimento do presente **relatório** , serão 
+apresentados os dados e as informações referentes aos eixos, **dimensões** e 
+indicadores em consonância com o Plano de Desenvolvimento Institucional ( PDI ) 
+da Fatec e em consonância com as **diretrizes** emanadas do Centro Paula Souza. 
+
+Lemmas in this text that loaded on the factor:
+
+apontamento
+continuar
+definir
+dimensão (secondary)
+diretriz
+discussão
+forma (secondary)
+instrumento
+melhoria
+possibilitar
+possuir
+relatório
+suscitar
