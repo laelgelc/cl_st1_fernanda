@@ -62,34 +62,34 @@ mkdir -p sas
 rm -f columns
 
 
-# Considers the quantity of variables per text unitary even if they occur only once - suitable for short texts
-#while read n word 
-#do
-#  echo "--- $n ---"
-#  rg -w "$word" tweets/types.txt | cut -d'|' -f1 | sed -e "s/$/ "$n" 1/" >> columns 
-#done < selectedwords
-
-# Considers the actual quantity of variables per text - suitable for longer texts
-# Initialize the output file
-> columns
-
-# Read each line from the file "selectedwords"
-while read n word; do
+ Considers the quantity of variables per text unitary even if they occur only once - suitable for short texts
+while read n word
+do
   echo "--- $n ---"
-
-  # Process each line in "tweets/tokens.txt"
-  while read line; do
-    # Count occurrences of $word in the current line
-    line_count=$(echo "$line" | rg --word-regexp --count-matches "$word") # If 'rg' finds no matches, 'line_count' is set as empty and not integer
-    # Guard: default empty to 0 to avoid '-gt: unexpected operator'
-    line_count=${line_count:-0}
-
-    # Append the count to the output file if `line_count` > 0
-    if [ "$line_count" -gt 0 ]; then
-      echo "$line" | cut -d'|' -f1 | sed -e "s/$/ $n $line_count/" >> columns
-    fi
-  done < tweets/tokens.txt
+  rg -w "$word" tweets/types.txt | cut -d'|' -f1 | sed -e "s/$/ "$n" 1/" >> columns
 done < selectedwords
+
+## Considers the actual quantity of variables per text - suitable for longer texts
+## Initialize the output file
+#> columns
+#
+## Read each line from the file "selectedwords"
+#while read n word; do
+#  echo "--- $n ---"
+#
+#  # Process each line in "tweets/tokens.txt"
+#  while read line; do
+#    # Count occurrences of $word in the current line
+#    line_count=$(echo "$line" | rg --word-regexp --count-matches "$word") # If 'rg' finds no matches, 'line_count' is set as empty and not integer
+#    # Guard: default empty to 0 to avoid '-gt: unexpected operator'
+#    line_count=${line_count:-0}
+#
+#    # Append the count to the output file if `line_count` > 0
+#    if [ "$line_count" -gt 0 ]; then
+#      echo "$line" | cut -d'|' -f1 | sed -e "s/$/ $n $line_count/" >> columns
+#    fi
+#  done < tweets/tokens.txt
+#done < selectedwords
 
 
 sort columns | uniq > a ; mv a columns  # to avoid words whose accents were stripped to be duplicated in the same text ; SAS can't handle that
