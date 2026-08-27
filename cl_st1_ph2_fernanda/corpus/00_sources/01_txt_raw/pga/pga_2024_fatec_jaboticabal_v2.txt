@@ -1,0 +1,4368 @@
+PLANO DE GESTÃO ANUAL – PGA 2024 
+V11 
+Estruturado em um única etapa com 2 anexos: 
+PLANEJAMENTO PELA EQUIPE GESTORA DA UE 
+• Anexo 1 – Lista de equipamentos necessários aos projetos 
+• Anexo 2 – Lista de Ações/Projetos referentes à CPA 
+ 
+IDENTIFICAÇÃO DA UNIDADE 
+Unidade 
+173 
+Fatec Nilo De Stéfani - Jaboticabal 
+Diretor(a) 
+Leonardo Lucas Madaleno 
+ 
+PLANEJAMENTO PELA EQUIPE GESTORA DA UE 
+(Administração da Faculdade - Deliberação CEETEPS 31/2016) 
+ANÁLISE DO CENÁRIO 
+Descrever de forma breve e objetiva o cenário da Unidade perante sua missão como Unidade de Ensino na localidade em que 
+se encontra (é este cenário que se pretende melhorar). 
+Cursos Ofertados: A unidade possui os cursos tecnológicos presenciais de Biocombustíveis (matutino e noturno), Gestão 
+Ambiental (noturno) e Marketing (matutino). É polo do curso à distância de Gestão Empresarial e do curso AMS (Articulado Médio 
+Superior) de Processos Químicos (vespertino). A Unidade atende aos programas de ação do CPS em conjunto com a prefeitura 
+da cidade. 
+Fortalecimento dos cursos de graduação presenciais: Frente ao desafio dos resultados das inscrições dos últimos vestibulares 
+após a pandemia da de COVID19 a unidade tenta consolidar as inscrições dos vestibulares para atender abertura de turmas em 
+40 alunos, políticas para reduzir a evasão e aumentar a quantidade de alunos formados  
+Ações de Melhoria Contínua: Para avaliar a saúde dos cursos e quais pontos a equipe gestora poderia elencar como prioridade 
+ao plano de Gestão, foram considerados os indicadores recomendados pela CESU em 2018, apelidado de “semáforo”, com 
+resultados em cores para definir como o curso se apresenta. Apesar da interrupção da divulgação dos dados, devido a pandemia 
+de Covid19, a unidade continuou o monitoramento interno de cada curso.  
+• 
+A cor Vermelho (menor que 40 pontos), leva a ajustes mais agressivos pela equipe gestora;  
+• 
+Amarelo (entre 40 e 60 pontos), definição dos problemas pontuais e ação de controle e  
+• 
+Verde (mais de 60 pontos), para cursos considerados saudáveis, que continuariam as atividades, classificadas como 
+padrão.  
+Os indicadores: vestibular inscrito, vestibular efetivo, matriculados (ingressantes), evasão, concluintes, são somados e dão a 
+pontuação total e definição da cor.  
+Cenário dos Cursos: Após o levantamento foi verificado o cenário da unidade até o primeiro semestre de 2023. Alguns cursos 
+apresentaram vermelho e outros amarelo e verdes. Porém, para a definição das metas para o plano de gestão, a unidade foi 
+avaliada como um todo, através da média obtida dos cursos de graduação presenciais. Atualmente (2o semestre de 2022), a 
+unidade está com vermelha, com 30 pontos, ainda reflexo da pandemia e das ações realizadas em 2022. No PGA 2023 foram 
+realizadas ações que melhoram este cenário e serão demonstradas no relatório anual. Apesar da melhoria, a meta geral é 
+aumentar a pontuação da Fatec Jaboticabal para 60 até o final do segundo semestre de 2024, retornando a cor verde para todos 
+os cursos. Os indicadores mais impactantes para vermelho na unidade foram: evasão, vestibular, número de matriculados em 
+alguns cursos. 
+Além do cenário visualizado pelo “semáforo”, foram realizadas reuniões com a equipe gestora para avaliação do relatório da CPA 
+e definição dos principais problemas estruturais e dos cursos a serem trabalhados em 2024. 
+Para montagem do plano de gestão, também foram verificadas as recomendações dos especialistas do Conselho Estadual de 
+Educação (CEE) para atendimento das exigências dos cursos de graduação presenciais. 
+Objetivos Gerais do PGA da Unidade: Inserir as estratégias para melhoria, fortalecimento dos cursos de graduação presenciais 
+e o aumento da atuação da Fatec Jaboticabal nas três frentes universitárias: ensino, pesquisa e extensão. 
+Estruturação do Plano: O plano se estrutura no desenvolvimento de atividades didático pedagógicas, gestão dos laboratórios, 
+desenvolvimento de docentes e funcionários, infraestrutura e equipamentos, pesquisa e extensão e relação institucional. 
+ 
+ 
+• Discorrer sobre o cenário, realizando um breve diagnóstico (limitar o espaço da escrita, para que seja inserido de forma suscinta). 
+APONTAMENTO DE SITUAÇÕES-PROBLEMA MAIS RELEVANTES 
+Fontes: relatório CPA, análise de processos críticos da UE, relatório de atendimento e ocorrências Hórus, relatório NDE, 
+relatório de representação discente (DA, Atlética, representantes de turma), relatório CIPA, entre outros. 
+1 
+cat 0.1.01 - Metodologia de ensino, desempenho 
+de alunos, evasão 
+ 
+5 
+cat 0.1.07 - Comunicação com a comunidade 
+acadêmica 
+2 
+cat 0.1.02 - Manutenção e conservação predial 
+ 
+6 
+cat 0.1.09 - Acesso/Inclusão ao Ensino Superior 
+(social, PCD) 
+3 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de 
+ensino 
+ 
+7 
+cat 0.1.11 - Segurança pessoal e patrimonial 
+4 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+ 
+8 
+cat 0.1.13 - Relacionamento interpessoal da equipe 
+Outra – Especificar:  
+ 
+Objetivos Institucionais – CPS (Plano de Metas) 
+1) Atender às demandas sociais e do mercado de trabalho. 
+2) Obter a satisfação dos públicos que se relacionam com o Centro Paula Souza (stakeholders). 
+3) Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem. 
+4) Assegurar a perenidade do crescimento da instituição com recursos financeiros disponíveis. 
+5) Garantir celeridade e efetividade na prestação de serviços. 
+6) Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no desenvolvimento tecnológico e inovação. 
+7) Promover a cultura de inovação e empreendedorismo. 
+8) Aumentar a eficiência, a produtividade e a competitividade da instituição. 
+9) Ampliar a oferta da Educação Profissional. 
+10) Resolução Conjunta SOG/SFP/SG-3, de 28-12-2022 - Bonificação por Resultados – BR das Secretarias de Estado, Procuradoria Geral do Estado, 
+Controladoria Geral do Estado e das Autarquias, de que trata a LC 1361-2021 
+Objetivos Institucionais – Cesu (Plano de Metas) 
+A. Integrar as diferentes modalidades de ensino, otimizando itinerários e tempo para a formação profissional. 
+B. Inovar processos de ensino e aprendizagem para manter excelência diante do mercado. 
+C. Ampliar a capacidade de criar e atualizar cursos em parceria com o mercado. 
+D. Expandir e ampliar a capacidade de articulação com Governos e Setores Produtivos. 
+E. Promover a captação de recursos extras e não orçamentários. 
+ 
+ 
+ESTRUTURAÇÃO DAS AÇÕES/PROJETOS 
+01 - Didático-pedagógico 
+Ações associadas ao PPC/PE de CSTs e Disciplinas: CST (implantação, alteração, readequação, reestruturação), 
+prática pedagógica (PE, PA), projeto interdisciplinar/ integrador, extensão curricularizada. 
+ 
+AÇÃO/PROJETO (Tema) 
+101 - cat 1.06 - Ações pedagógicas: visitas técnicas, projetos integradores/interdisciplinares, dias de campo, 
+feira das profissões, cursos extracurriculares para alunos. 
+Origem: 
+2-CPA (Relatório da Comissão Própria de Avaliação da Unidade) 
+O que será feito: 
+Semana dos cursos da unidade e apresentação de projetos interdisciplinares 
+Por que será feito: 
+• 
+Trabalhar a questão da interdisciplinaridade no conteúdo dos cursos; 
+• 
+Apresentação de palestras de áreas de cada curso de graduação separadamente. 
+• 
+Integração entre os alunos de diversos cursos e turmas; 
+• 
+Trabalhar a inovação nos projetos; 
+• 
+Valorizar os trabalhos desenvolvidos pela comunidade acadêmica; 
+• 
+Aumento da Visibilidade Institucional, uma vez que o evento é aberto às comunidades interna 
+e externa;  
+• 
+Endomarketing entre os alunos e entre pessoas da comunidade externa interessadas nos 
+temas associados aos Projetos Interdisciplinares; 
+• 
+Possibilidade de conversão de projetos interdisciplinares em futuros trabalhos de graduação 
+e/ou artigo científico 
+ 
+Responsável: 
+<nome> João Roberto da Silva 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Fábio Camilotti 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Patrícia Cristina de Lima 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+01/04/2024 
+Data final: 
+06/12/2024 
+Etapas do processo: 
+01- Planejamento das Atividades da Semana dos Cursos e de Projetos 
+Interdisciplinares – 1º Semestre de 2024 
+01/04 
+24/06 
+ 
+02- Divulgação da Semana dos Cursos e Projetos Interdisciplinares junto à 
+comunidade interna e externa  
+03/06 
+24/06 
+ 
+03- Atividades da Semana dos Cursos e de Projetos Interdisciplinares da 
+Unidade – 1º Semestre 
+14/05 
+16/05 
+ 
+04- Emissão de Certificados aos Participantes do Evento de Semana dos 
+Cursos 
+16/05 
+01/06 
+ 
+05- Planejamento das Atividades no Simpósio de Tecnologia de Projetos 
+Interdisciplinares – 2º Semestre de 2024 – No Simpósio de Tecnologia 
+01/08 
+09/08 
+ 
+06- Divulgação no Simpósio de Tecnologia da Mostra de Projetos 
+Interdisciplinares junto à comunidade interna e externa 
+01/10 
+04/11 
+ 
+07- Mostra de Projetos Interdisciplinares da Unidade no Simpósio de 
+Tecnologia – 2º Semestre – Junto Ao Simpósio de Tecnologia 
+04/11 
+08/11 
+ 
+08- Emissão de Certificados aos Participantes do Simpósio de Tecnologia 
+02/12 
+06/12 
+Custo R$ (se houver): 
+Sem Custo 
+Fonte(s) dos recursos: 
+Não há 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+102 - cat 1.13 - Estágio 
+Origem: 
+2-CPA (Relatório da Comissão Própria de Avaliação da Unidade) 
+O que será feito: 
+Ações Pró-Estágio Supervisionado Discente dos Cursos da Unidade 
+Por que será feito: 
+• 
+Conscientizar a comunidade discente da relevância e obrigatoriedade do Estágio 
+Supervisionado nos Cursos Superiores de Tecnologia; 
+• 
+Divulgação ao corpo discente da Unidade da documentação necessária e da legislação 
+pertinente aos Estágios Supervisionados; 
+• 
+Acompanhar o desenvolvimento do Estágio solicitando ao aluno e a empresas a 
+documentação pertinente; 
+• 
+Quitar/Convalidar o Estágio Supervisionado, após o cumprimento dos quesitos legais; 
+• 
+Contribuir para que o aluno realize um bom Estágio Supervisionado, proporcionando a ele 
+experiências profissionais relevantes no mundo do trabalho; 
+• 
+Contribuir para a Visibilidade Institucional da Fatec junto as Empresas do Município e região; 
+ 
+Responsável: 
+<nome> Luiz Rodrigo Bonette 
+Qde CH/sem: 
+06 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> Valciney Gomes de Barros 
+Qde CH/sem: 
+12 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> Baltasar Fernandes Garcia Filho 
+Qde CH/sem: 
+06 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+05/02/2024 
+Data final: 
+20/12/2024 
+Etapas do processo: 
+01- Atendimento aos alunos quanto a possíveis dúvidas com relação ao 
+Regulamento vigente, referente ao Estágio Supervisionado (equivalência 
+ou desenvolvimento de estágio). 
+05/02 
+20/12 
+ 
+02- Acompanhamento das Atividades de Estágio Supervisionado dos 
+alunos  
+05/02 
+20/12 
+ 
+03- Análise, organização e validação dos documentos entregues pelos 
+alunos e pelas empresas as quais eles se encontram estagiando; 
+05/02 
+20/12 
+ 
+04- Desmistificar o Estágio Supervisionado, junto ao corpo docente e 
+discente da Unidade; 
+05/02 
+20/12 
+ 
+05- Organizar e Acompanhar as atividades dos Estágios Supervisionados 
+dos alunos, intervindo junto a empresas, se necessário  
+05/02 
+20/12 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+Sem Custo 
+Fonte(s) dos recursos: 
+HAE – GDS/Centro Paula Souza 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+X 
+X 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+103 - cat 1.07 - Divulgação do vestibular e ações de fortalecimento de imagem institucional 
+Origem: 
+2-CPA (Relatório da Comissão Própria de Avaliação da Unidade) 
+O que será feito: 
+Planejamento e execução de ações para a divulgação dos cursos da unidade pró-vestibular 
+Por que será feito: 
+• 
+Aumento da Visibilidade Institucional; 
+• 
+Divulgação dos Cursos e Atividades ofertados pela Unidade; 
+• 
+Aumento da Relação candidato/vaga dos cursos; 
+• 
+Diminuição do risco de não autorização de abertura/continuidade para cursos na Unidade; 
+• 
+Aumento da qualidade de ensino e pesquisa desenvolvida pela unidade; 
+• 
+Popularização/Desmistificação da Fatec junto à sociedade local e regional; 
+ 
+Responsável: 
+<nome> Patrícia Cristina de Lima 
+Qde CH/sem: 
+04 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> Valeria Zanotti 
+Qde CH/sem: 
+04 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> Simone Roberta Scatollin Tilleli 
+Qde CH/sem: 
+04 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Período de execução: 
+Data inicial: 
+04/03/2024 
+Data final: 
+06/12/2024 
+Etapas do processo: 
+01- Formação de Grupo de Trabalho pró ações para o Vestibular da 
+Unidade – 1º Semestre de 2024; 
+04/03 
+29/03 
+ 
+02- Mapeamento de Dados e Informações visando o aumento da demanda 
+discente para os Cursos de Graduação da Unidade  
+29/03 
+30/04 
+ 
+03- Planejamento de Ações de Divulgação Institucional dos Cursos da 
+Unidade voltadas ao Vestibular; 
+29/03 
+17/05 
+ 
+04- Divulgação Pró-Vestibular – 1º semestre de 2024 
+02/05 
+28/06 
+ 
+05- Formação de Grupo de Trabalho pró ações para o Vestibular da 
+Unidade – 2º Semestre de 2024 
+12/08 
+02/09 
+ 
+06- Mapeamento de Dados e Informações visando o aumento da demanda 
+discente para os Cursos de Graduação da Unidade 
+02/09 
+30/09 
+ 
+07- Planejamento de Ações de Divulgação Institucional dos Cursos da 
+Unidade voltadas ao Vestibular 
+01/10 
+31/10 
+ 
+08- Divulgação Pró-Vestibular – 2º semestre de 2024 
+01/11 
+06/12 
+Custo R$ (se houver): 
+Sem Custo 
+Fonte(s) dos recursos: 
+HAE – GDS/Centro Paula Souza 
+Situação problema: 
+cat 0.1.10 - Gestão da unidade de ensino e dos cursos (indicadores) 
+(a ser resolvida/mitigada) 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+104 - cat 1.07 - Divulgação do vestibular e ações de fortalecimento de imagem institucional 
+Origem: 
+2-CPA (Relatório da Comissão Própria de Avaliação da Unidade) 
+O que será feito: 
+Programa de Visitas às Empresas do Município e Região 
+Por que será feito: 
+• 
+Aumento da Visibilidade Institucional e fixação da marca Fatec no Município e região; 
+• 
+Aproximação da Fatec com os setores produtivos, no intuito de abrir novas oportunidades 
+de estágio e empregos para os alunos dos cursos da Unidade; 
+• 
+Estreitamento do relacionamento institucional com a busca de parcerias de projetos, 
+ações futuras em conjunto; 
+• 
+Divulgação Institucional dos Cursos Superiores de Tecnologia da Unidade e do Centro 
+Paula Souza, junto a Empresas do Município e Região; 
+ 
+Responsável: 
+<nome> Leonardo Lucas Madaleno 
+Qde CH/sem: 
+02 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Alan Chesna Vidal 
+Qde CH/sem: 
+02 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> Patrícia Cristina de Lima 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+05/02/2024 
+Data final: 
+13/12/2024 
+Etapas do processo: 
+01- Levantamento de possíveis empresas a serem visitadas – 1º Semestre; 
+05/02 
+30/04 
+ 
+02- Agendamento de visitas – 1º Semestre;  
+04/04 
+17/05 
+ 
+03- Realização das Visitas – 1º Semestre; 
+08/04 
+28/06 
+ 
+04- Levantamento de possíveis empresas a serem visitadas – 2º Semestre; 
+05/08 
+30/09 
+ 
+05- Agendamento de visitas – 2º Semestre; 
+02/09 
+08/11 
+ 
+06- Realização das Visitas – 2º Semestre; 
+16/09 
+13/12 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+Sem Custo 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.08 - Participação da comunidade e sociedade 
+(a ser resolvida/mitigada) 
+cat 0.1.10 - Gestão da unidade de ensino e dos cursos (indicadores) 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+105 - cat 1.11 - Ações de nivelamento de conhecimento, ENADE, acolhimento e permanência discente. 
+Origem: 
+2-CPA (Relatório da Comissão Própria de Avaliação da Unidade) 
+O que será feito: 
+Recepção e acolhimento dos ingressantes dos CSTs da Unidade 
+Por que será feito: 
+• 
+Redução da evasão de alunos no 1º semestre letivo dos cursos de Biocombustíveis, Gestão Ambiental e 
+Marketing;  
+• 
+Melhoria dos processos de ensino-aprendizagem executados pelas disciplinas na Unidade;  
+• 
+Melhoria do endomarketing da Unidade, visando futura divulgação positiva dos cursos da Unidade nos 
+ambientes aos quais os alunos se encontram inseridos; 
+• 
+Apresentar as dinâmicas didático-pedagógicas inerentes aos processos educativos existentes; 
+• 
+Melhorar as condições de acolhimento dos alunos da Unidade. 
+Responsável: 
+João Roberto da Silva  
+Qde CH/sem: 
+02 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+Fábio Camilotti 
+Qde CH/sem: 
+02 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+Patrícia Cristina de Lima  
+Qde CH/sem: 
+02 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+01/02/2024 
+Data final: 
+06/09/2024 
+Etapas do processo: 
+01- Planejamento das atividades de recepção e acolhimento – 1º Semestre 
+01/02 
+12/02 
+ 
+02- Divulgação e organização junto ao corpo docente e servidores 
+01/02 
+12/02 
+ 
+03- Semana de recepção e acolhimento dos estudantes – 1º Semestre 
+12/02 
+16/02 
+ 
+04- Acolhimento dos estudantes de 2ª, 3ª e demais chamadas, bem como de 
+alunos ausentes na 1ª semana letiva 
+19/02 
+08/03 
+ 
+05- Planejamento das atividades de recepção e acolhimento – 2º Semestre 
+08/07 
+09/08 
+ 
+06- Divulgação e organização junto ao corpo docente e servidores 
+08/07 
+09/08 
+ 
+07- Semana de recepção e acolhimento dos estudantes – 2º Semestre 
+12/08 
+16/08 
+ 
+08- Acolhimento dos estudantes de 2ª, 3ª e demais chamadas, bem como de 
+alunos ausentes na 1ª semana letiva 
+19/08 
+06/09 
+Custo R$ (se houver): 
+Sem Custo 
+Fonte(s) dos recursos: 
+Não há 
+Situação problema: 
+cat 0.1.10 - Gestão da unidade de ensino e dos cursos (indicadores) 
+(a ser resolvida/mitigada) 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+ 
+AÇÃO/PROJETO (Tema) 
+106 - cat 1.11 - Ações de nivelamento de conhecimento, ENADE, acolhimento e permanência discente. 
+Origem: 
+2-CPA (Relatório da Comissão Própria de Avaliação da Unidade) 
+O que será feito: 
+Semana de Nivelamento de Conteúdos Programáticos nos CSTs da Unidade 
+Por que será feito: 
+• 
+Preparar o corpo discente para as disciplinas que porventura necessitem de uma revisão de conteúdos 
+programáticos já vistos no ensino médio e/ou disciplinas anteriores, aumentando as chances de um 
+bom desempenho nelas; 
+• 
+Nivelar os estudantes matriculados nas disciplinas dos cursos, melhorando a transmissão dos 
+conteúdos programáticos previstos nas ementas das disciplinas; 
+• 
+Homogeneização das turmas e diminuição da evasão dos alunos nas disciplinas; 
+• 
+Diminuir a reprovação e a evasão dos alunos nas disciplinas; 
+• 
+Contribuir para um bom CPC – Conceito Preliminar de Curso, que um indicador de qualidade que o 
+MEC avalia os cursos de graduação; 
+• 
+Melhorar o desempenho dos Cursos Superiores de Tecnologia da Fatec junto ao SINAES – Sistema 
+Nacional de Avaliação do Ensino Superior; 
+Responsável: 
+Patrícia Cristina de Lima  
+Qde CH/sem: 
+04 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+Simone Scatollin Tilelli 
+Qde CH/sem: 
+04 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+Marcelo Martins Laffranchi 
+Qde CH/sem: 
+02 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+01/02/2024 
+Data final: 
+06/09/2024 
+Etapas do processo: 
+01- Planejamento das atividades de Nivelamento – 1º Semestre 
+01/02 
+12/02 
+ 
+02- Divulgação e organização junto à comunidade interna 
+01/02 
+12/02 
+ 
+03- Semana de Nivelamento dos estudantes – 1º Semestre 
+12/02 
+16/02 
+ 
+04- Extensão da Semana de Nivelamento em Disciplinas Específicas, se necessário – 
+1º Semestre 
+19/02 
+08/03 
+ 
+05- Planejamento das atividades de Nivelamento – 2º Semestre 
+08/07 
+09/08 
+ 
+06- Divulgação e organização junto à comunidade interna 
+08/07 
+09/08 
+ 
+07- Semana de Nivelamento dos estudantes – 2º Semestre 
+12/08 
+16/08 
+ 
+08- Extensão da Semana de Nivelamento em Disciplinas Específicas, se necessário – 
+2º Semestre 
+19/08 
+06/09 
+Custo R$ (se houver): 
+Sem Custo 
+Fonte(s) dos recursos: 
+Não há 
+Situação problema: 
+cat 0.1.10 - Gestão da unidade de ensino e dos cursos (indicadores) 
+(a ser resolvida/mitigada) 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+107 - cat 1.11 - Ações de nivelamento de conhecimento, ENADE, acolhimento e permanência discente. 
+Origem: 
+2-CPA (Relatório da Comissão Própria de Avaliação da Unidade) 
+O que será feito: 
+Estudos de Evasão Discente e Estratégias de Retorno de Evadidos 
+Por que será feito: 
+• 
+Redução da Evasão discente; 
+• 
+Redução da quantidade de trancamentos e cancelamentos de matrícula; 
+• 
+Recuperação de Evadidos dos Cursos da Unidade; 
+• 
+Estudar as causas da evasão dos estudantes; 
+Responsável: 
+João Roberto da Silva  
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): Fábio Camilotti  
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): Lígia de Grandi 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+26/02/2024 
+Data final: 
+20/12/2024 
+Etapas do processo: 
+01- Formação de Grupo de Estudos sobre Evasão Discente e Estratégias de 
+Retorno de Evadidos – professores com projetos de HAE 
+26/02 
+08/03 
+ 
+02- Mapeamento de Infrequentes e Evadidos via SIGAWISE 
+08/03 
+13/12 
+ 
+03- Elaboração de lista de alunos infrequentes e evadidos aos 
+coordenadores de curso; 
+08/03 
+13/12 
+ 
+04- Levantamento de informações qualitativas para verificação das causas 
+reais de trancamento e cancelamento; 
+08/03 
+13/12 
+ 
+05- Realização de conversas, abordagens didático-pedagógicas na tentativa 
+de retorno de alunos evadidos; 
+08/03 
+13/12 
+ 
+06- Tabulação das informações e montagem de relatório buscando 
+identificar categorias. 
+04/11 
+20/12 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+Sem Custo 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.10 - Gestão da unidade de ensino e dos cursos (indicadores) 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+108 - cat 1.12 - Orientação profissional para discentes, mentoria e apoio psicopedagógico 
+Origem: 
+2-CPA (Relatório da Comissão Própria de Avaliação da Unidade) 
+O que será feito: 
+Monitoramento de atividades para número de formandos dos cursos de graduação presencial 
+Por que será feito: 
+• 
+Redução da Evasão discente; 
+• 
+Redução da quantidade de trancamentos e cancelamentos de matrícula; 
+• 
+Recuperação de Evadidos dos Cursos da Unidade; 
+• 
+Prestar orientações e esclarecimentos a possíveis formandos devedores de trabalho de 
+graduação e/ou estágios supervisionados; 
+Responsável: 
+Lígia de Grandi 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): Michelle Aranda Fachin 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): Nayara Lança de Andrade 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+26/02/2024 
+Data final: 
+20/12/2024 
+Etapas do processo: 
+01- Formação de Grupo de Estudos sobre Evasão Discente e Estratégias de 
+Retorno de Evadidos – ajuda de professores com HAE; 
+26/02 
+08/03 
+ 
+02- Mapeamento de Formandos Infrequentes e Evadidos via SIGAWISE 
+08/03 
+13/12 
+ 
+03- Elaboração de lista de formandos infrequentes e evadidos aos 
+coordenadores de curso; 
+08/03 
+13/12 
+ 
+04- Levantamento de informações qualitativas para verificação das causas 
+reais de trancamento, cancelamento ou evasão; 
+08/03 
+13/12 
+ 
+05- Realização de conversas, abordagens didático-pedagógicas na tentativa 
+de retorno dos formandos; 
+08/03 
+13/12 
+ 
+06- Acompanhamento dos formandos quanto às suas atividades de estágio 
+supervisionado e trabalho de graduação. 
+08/03 
+13/12 
+ 
+07- Tabulação das informações e montagem de relatório buscando 
+identificar categorias. 
+04/11 
+20/12 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+Sem Custo 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.10 - Gestão da unidade de ensino e dos cursos (indicadores) 
+ 
+AÇÃO/PROJETO (Tema) 
+109 - cat.1.99 - Outra 
+Origem: 
+3-Outra 
+O que será feito: 
+Instituição da Comissão Própria de Avaliação (CPA) 2024 da Fatec Jaboticabal 
+Por que será feito: 
+• 
+Atendimento às exigências legais do ensino superior; 
+• 
+Eleição de novos membros da Comissão; 
+• 
+Ter a visão da comunidade interna da Unidade a respeito das principais dificuldades, 
+anseios, necessidades, opiniões sobre os serviços e atividades ofertadas pela Unidade; 
+• 
+Desmistificar a CPA – Comissão Própria de Avaliação, junto ao corpo docente, técnico 
+administrativo e discente da Unidade; 
+• 
+Preparar o corpo discente, docente e técnico-administrativo para sua efetiva participação 
+no período de disponibilização dos questionários WEBSAI a serem respondidos; 
+• 
+Contribuir para o bom CPC – Conceito Preliminar de Curso, que um indicador de qualidade 
+que o MEC avalia os cursos de graduação; 
+• 
+Melhorar o desempenho dos Cursos Superiores de Tecnologia da Fatec Jaboticabal junto 
+ao SINAES – Sistema Nacional de Avaliação do Ensino Superior; 
+Responsável: 
+Valciney Gomes de Barros  
+Qde CH/sem: 
+01 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): Wagner Rodrigues Meyer  
+Qde CH/sem: 
+01 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): Simone Roberta Scatollin Tilelli  
+Qde CH/sem: 
+01 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Período de execução: 
+Data inicial: 
+19/02/2024 
+Data final: 
+13/12/2024 
+Etapas do processo: 
+01- Sensibilização da comunidade acadêmica (discentes, docentes e 
+agentes técnico-administrativos). 
+19/02 
+01/03 
+ 
+02- Apresentação dos resultados do relatório da CPA 2023 
+04/03 
+08/03 
+ 
+03- Eleição para membros da CPA Fatec Jaboticabal 
+01/04 
+30/04 
+ 
+04- Posse dos novos membros e sensibilização para pesquisa WEBSAI 
+15/05 
+31/08 
+ 
+05- Realização da pesquisa WEBSAI 
+15/10 
+08/11 
+ 
+06- Análise, organização e tabulação dos dados obtidos nos questionários 
+aplicados 
+18/11 
+02/12 
+ 
+07- Elaboração do relatório final da CPA 2024 
+02/12 
+13/12 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+Sem Custo 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.10 - Gestão da unidade de ensino e dos cursos (indicadores) 
+(a ser resolvida/mitigada) 
+cat 0.1.08 - Participação da comunidade e sociedade 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+110 - cat 1.09 - Inclusão 
+Origem: 
+2-CPA (Relatório da Comissão Própria de Avaliação da Unidade) 
+O que será feito: 
+Comissão pedagógica para ajuda aos docentes e discentes nos casos de alunos especiais na unidade 
+Por que será feito: 
+• 
+Aumento do número de alunos com dificuldades de acompanhamento das disciplinas; 
+• 
+Apoio ao discente e ao docente no melhor entendimento e na busca de equilíbrio de 
+relações humanas; 
+• 
+Ter docentes que possam antecipar problemas e identificar soluções para atendimento 
+e inclusão dos alunos especiais na unidade; 
+• 
+Atendimento às legislações sobre inclusão 
+Responsável: 
+Michelle Aranda Fachin  
+Qde CH/sem: 
+04 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): Fábio Camilotti 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): Simone Roberta Scatolin Tilelli 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+05/02/2024 
+Data final: 
+20/12/2024 
+Etapas do processo: 
+01 – Verificação dos alunos especiais e necessidade de acompanhamento 
+pela AME do Centro Paula Souza 
+05/02 
+16/08 
+ 
+02- Envio dos nomes e acompanhamento dos pedidos 
+05/02 
+02/09 
+ 
+03- Escuta ativa de discentes da unidade em períodos determinados 
+15/02 
+13/12 
+ 
+04- Orientação aos docentes na maneira de preparar as aulas e relação 
+interpessoal com o aluno especial 
+05/02 
+30/09 
+ 
+05- Relatório de atividades para recomendações para o ano de 2025 
+13/12 
+20/12 
+ 
+06-  
+nn 
+nn 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+Sem Custo 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.09 - Acesso/Inclusão ao Ensino Superior (social, PCD) 
+(a ser resolvida/mitigada) 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+ 
+ 
+<Copiar tabelas para mais ações> 
+ 
+02 – Laboratórios - Ensino e Equipamentos Associados 
+Ações para melhoramento dos laboratórios de Ensino (Gestão e Equipamentos): Melhoramento de 
+equipamentos, mediante instalação, manutenção, desuso, doação, e gestão de ambiente laboratorial. 
+ 
+AÇÃO/PROJETO (Tema) 
+201 - cat 2.04 - Ambiente de ensino prático - implantação/melhoramento com recursos NÃO PEDAGÓGICOS 
+Origem: 
+2-CPA (Relatório da Comissão Própria de Avaliação da Unidade) 
+O que será feito: 
+Estudos das Condições de Acessibilidade e Permanência nos Ambientes de Ensino Prático  
+Por que será feito: 
+• 
+Atendimento a legislação vigente; 
+• 
+Viabilização do Acesso ao Ensino Superior por pessoas portadoras de deficiência física e/ou 
+transtornos; 
+• 
+Melhoria das condições de acessibilidade e permanência da comunidade interna da 
+Unidade; 
+• 
+Melhoria da Infraestrutura e das instalações físicas dos ambientes práticos da Unidade; 
+• 
+Melhoria dos indicadores escolares acadêmicos da Fatec; 
+ 
+Responsável: 
+<nome> Valciney Gomes de Barros 
+Qde CH/sem: 
+01 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> Wagner Rodrigues Meyer 
+Qde CH/sem: 
+01 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> Fábio Camilotti 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+05/02/2024 
+Data final: 
+30/09/2024 
+Etapas do processo: 
+01- Constituição de uma comissão interna para estudar o problema da 
+acessibilidade e permanência de alunos, professores e funcionários em 
+ambientes de ensino prático) 
+05/02 
+08/03 
+ 
+02- Mapeamento das condições de acessibilidade e permanência em 
+Laboratórios / Sala Maker / Salas Multiuso e/ou Multidisciplinar / Outros 
+ambientes didático-pedagógicos que se desenvolvam atividades práticas; 
+08/03 
+03/05 
+ 
+03- Compilação das informações obtidas e realização de relatório; 
+03/05 
+24/05 
+ 
+04- Envio do Relatório aos Coordenadores de Serviços Técnicos e 
+Administrativos do Núcleo Regional para Visita Técnica; 
+24/05 
+14/06 
+ 
+05- Agendamento das Visitas Técnicas dos Coordenadores de Serviços 
+Técnicos e Administrativos do Núcleo Regional; 
+14/06 
+16/08 
+ 
+06- Encaminhamento do documento às instâncias competentes do CPS 
+para tomada de decisões; 
+16/08 
+30/09 
+ 
+07- Cadastramento das solicitações de todos os itens e demandas 
+encontradas no SIAF do Centro Paula Souza 
+16/08 
+30/09 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+Sem Custo 
+Fonte(s) dos recursos: 
+HAE – GDS/Centro Paula Souza 
+Situação problema: 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+(a ser resolvida/mitigada) 
+cat 0.1.09 - Acesso/Inclusão ao Ensino Superior (social, PCD) 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+202 - cat 2.03 - Ambiente multidisciplinar de ensino - implantação/melhoramento com recursos 
+PEDAGÓGICOS 
+Origem: 
+2-CPA (Relatório da Comissão Própria de Avaliação da Unidade) 
+O que será feito: 
+Estudos das Condições Gerais e de Recursos Pedagógicos dos Ambientes Multidisciplinares da 
+Unidade  
+Por que será feito: 
+• 
+Melhoria das condições de gerais de uso da comunidade interna da Unidade; 
+• 
+Melhoria da Infraestrutura didático-pedagógicas e das instalações físicas dos ambientes 
+multidisciplinares da Unidade; 
+• 
+Melhoria das condições de ensino-aprendizagem dos ambientes multidisciplinares da 
+Unidade; 
+• 
+Adequação às atividades práticas e didático-pedagógicas desenvolvidas nos ambientes 
+multidisciplinares; 
+• 
+Melhoria dos indicadores escolares acadêmicos da Fatec; 
+ 
+Responsável: 
+<nome> Ricardo José Sartor 
+Qde CH/sem: 
+01 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> Marcelo Ferreira  
+Qde CH/sem: 
+01 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome>  
+Qde CH/sem: 
+ 
+Tipo: Escolher um item. 
+Período de execução: 
+Data inicial: 
+05/02/2024 
+Data final: 
+30/09/2024 
+Etapas do processo: 
+01- Constituição de uma comissão interna para estudar o problema dos 
+recursos didático-pedagógicos e de infraestrutura nos ambientes 
+multidisciplinares da Unidade 
+05/02 
+08/03 
+ 
+02- Mapeamento das condições dos recursos didático-pedagógicos e de 
+infraestrutura de todos os ambientes multidisciplinares existentes na 
+Unidade, incluindo Laboratórios / Sala Maker / Salas Multiuso e/ou 
+Multidisciplinar / Outros ambientes didático-pedagógicos que se 
+desenvolvam atividades multidisciplinares 
+08/03 
+03/05 
+ 
+03- Compilação das informações obtidas e realização de relatório 
+03/05 
+24/05 
+ 
+04- Envio do Relatório aos Coordenadores de Serviços Técnicos e 
+Administrativos do Núcleo Regional para Visita Técnica 
+24/05 
+14/06 
+ 
+05- Agendamento das Visitas Técnicas dos Coordenadores de Serviços 
+Técnicos e Administrativos do Núcleo Regional 
+14/06 
+16/08 
+ 
+06- Encaminhamento do documento às instâncias competentes do CPS 
+para tomada de decisões  
+16/08 
+30/09 
+ 
+07- Cadastramento das solicitações de todos os itens e demandas 
+encontradas no SIAF do Centro Paula Souza  
+16/08 
+30/09 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+Sem Custo 
+Fonte(s) dos recursos: 
+HAE – GDS/Centro Paula Souza 
+Situação problema: 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+(a ser resolvida/mitigada) 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+X 
+X 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+203 - Escolher um item. 
+Origem: 
+Escolher um item. 
+O que será feito: 
+ 
+Por que será feito: 
+ 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+203 - cat 2.05 - Gestão laboratorial - pedagógica, operacional e estrutural 
+Origem: 
+1-CEE (Relatório Circunstanciado do Conselho Estadual de Educação 
+O que será feito: 
+Levantamento das Necessidades de Manutenção, Reparos, Atualizações ou Aquisição de 
+Máquinas, Equipamentos e Mobiliário para os Laboratórios Didáticos da Unidade 
+Por que será feito: 
+• 
+Necessidade de compra de novos Máquinas/Equipamentos/Aparelhos para os laboratórios da 
+Fatec; 
+• 
+Melhoria da Infraestrutura didático-pedagógicas e das instalações físicas dos ambientes 
+laboratoriais da Unidade; 
+• 
+Manutenção/Aumento da qualidade das atividades práticas laboratoriais, de pesquisa e 
+inovação tecnológica realizada na Unidade; 
+• 
+Melhoria das condições de ensino-aprendizagem dos ambientes laboratoriais da Unidade; 
+• 
+Manutenção/Atualização das atividades práticas previstas nas diversas disciplinas dos Cursos 
+da Fatec; 
+• 
+Adequação às atividades práticas e didático-pedagógicas desenvolvidas nos ambientes 
+multidisciplinares; 
+• 
+Melhoria dos indicadores escolares acadêmicos da Fatec; 
+ 
+Responsável: 
+<nome> Fábio Camilotti 
+Qde CH/sem: 
+04 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Márcio Roberto de Carvalho 
+Qde CH/sem: 
+02 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Ana Flávia Pereira Faria 
+Qde CH/sem: 
+02 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+05/02/2024 
+Data final: 
+30/09/2024 
+Etapas do processo: 
+01- Montagem de comissão interna para estudar o problema dos recursos 
+didático-pedagógicos, máquinas, equipamentos, mobiliário e de 
+infraestrutura nos ambientes laboratoriais da Unidade  
+05/02 
+08/03 
+ 
+02- Mapeamento das condições dos recursos didático-pedagógicos, 
+máquinas, equipamentos, mobiliário e de infraestrutura de todos os 
+ambientes laboratoriais existentes na Unidade, 
+08/03 
+03/05 
+ 
+03- Compilação das informações obtidas e realização de relatório  
+03/05 
+24/05 
+ 
+04- Envio do Relatório aos Coordenadores de Serviços Técnicos e 
+Administrativos do Núcleo Regional para Visita Técnica 
+24/05 
+14/06 
+ 
+05- Agendamento das Visitas Técnicas dos Coordenadores de Serviços 
+Técnicos e Administrativos do Núcleo Regional 
+14/06 
+16/08 
+ 
+06- Encaminhamento do documento às instâncias competentes do CPS 
+para tomada de decisões 
+16/08 
+30/09 
+ 
+07- Cadastramento das solicitações de todos os itens e demandas 
+encontradas no SIAF do Centro Paula Souza 
+16/08 
+30/09 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+Sem Custo 
+Fonte(s) dos recursos: 
+HAE – GDS/Centro Paula Souza 
+Situação problema: 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+(a ser resolvida/mitigada) 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+204 - cat 2.05 - Gestão laboratorial - pedagógica, operacional e estrutural 
+Origem: 
+1-CEE (Relatório Circunstanciado do Conselho Estadual de Educação 
+O que será feito: 
+Descarte/Doação de mobiliário, máquinas e equipamentos não utilizados  
+Por que será feito: 
+• 
+Impossibilidade de abrigar adequadamente mobiliários, máquinas e equipamentos que não 
+estão sendo utilizados nas dependências da Unidade; 
+• 
+Necessidade de descarte de mobiliários e equipamentos sem possibilidade de 
+reparos/reutilização existe na Unidade de Ensino; 
+• 
+Possibilidade de doação de mobiliários e equipamentos sem utilização, mas com possibilidade 
+de reparos/reutilização por outra Unidade de Ensino; 
+• 
+Manutenção da qualidade das atividades práticas laboratoriais, de pesquisa e inovação 
+tecnológica realizada na Unidade; 
+• 
+Respeito ao meio ambiente e as normas de descarte de mobiliário e equipamentos em vigor; 
+Responsável: 
+<nome> Sandra Stefaneli 
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> Magda Rocha 
+Qde CH/sem: 
+02 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Alan Chesna Vidal 
+Qde CH/sem: 
+02 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+05/02/2024 
+Data final: 
+20/12/2024 
+Etapas do processo: 
+01- Constituição de uma comissão interna para estudar o problema de 
+descarte/doação de máquinas, equipamentos e mobiliário nos ambientes 
+laboratoriais da Unidade  
+05/02 
+08/03 
+ 
+02- Mapeamento das condições das máquinas, equipamentos e mobiliário, 
+com e sem possibilidade de reutilização/reparos existentes na Unidade, 
+08/03 
+03/05 
+ 
+03- Separação dos itens doáveis daqueles descartáveis existentes nos 
+ambientes laboratoriais da Unidade;  
+03/05 
+24/05 
+ 
+04- Compilação das informações obtidas e realização de relatório 
+24/05 
+14/06 
+ 
+05- Encaminhamento do documento às instâncias competentes do CPS 
+para tomada de decisões 
+14/06 
+16/08 
+ 
+06- Aguardo das devidas orientações emanadas pela Administração Central 
+a respeito das doações dos mobiliários, máquinas e equipamentos com 
+possibilidade de reparos/reutilização; 
+16/08 
+20/12 
+ 
+07- Aguardo das devidas orientações emanadas pela Administração Central 
+a respeito do descarte dos mobiliários, máquinas e equipamentos sem 
+possibilidade de reparos/reutilização; 
+16/08 
+20/12 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+Sem Custo 
+Fonte(s) dos recursos: 
+HAE – GDS/Centro Paula Souza 
+Situação problema: 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+(a ser resolvida/mitigada) 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+ 
+AÇÃO/PROJETO (Tema) 
+205 - cat 2.04 - Ambiente de ensino prático - implantação/melhoramento com recursos NÃO PEDAGÓGICOS 
+Origem: 
+1-CEE (Relatório Circunstanciado do Conselho Estadual de Educação 
+O que será feito: 
+Manutenção de equipamentos industriais 
+Por que será feito: 
+• 
+Verificar os equipamentos industriais que precisam de manutenção ou limpeza 
+• 
+Conserto dos equipamentos industriais 
+• 
+Plano de funcionamento para aplicação em aulas multidisciplinares 
+Responsável: 
+Fábio Camilotti 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+Tadeu Tomio Sudo 
+Qde CH/sem: 
+01 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): Rita de Cássia Vieira 
+Qde CH/sem: 
+01 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Período de execução: 
+Data inicial: 
+05/02/2024 
+Data final: 
+30/11/2024 
+Etapas do processo: 
+01- Montagem de comissão para verificar a necessidade de reparos ou 
+limpeza dos equipamentos industriais (cervejaria e alambique de três 
+corpos) 
+05/02 
+01/03 
+ 
+02- Realização de limpeza ou conserto dos equipamentos 
+01/03 
+01/07 
+ 
+03- Plano para funcionamento dos equipamentos 
+01/08 
+02/09 
+ 
+04- Execução do plano de funcionamento 
+01/10 
+30/11 
+ 
+05- Aplicação nos cursos presenciais da unidade 
+02/09 
+30/11 
+ 
+06- Aplicação em cursos de curta duração 
+01/11 
+30/11 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+Sem Custo 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+(a ser resolvida/mitigada) 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+ 
+AÇÃO/PROJETO (Tema) 
+206 - cat 2.04 - Ambiente de ensino prático - implantação/melhoramento com recursos NÃO PEDAGÓGICOS 
+Origem: 
+2-CPA (Relatório da Comissão Própria de Avaliação da Unidade) 
+O que será feito: 
+Segurança da unidade de ensino 
+Por que será feito: 
+• 
+Verificação de pontos vulneráveis de visualização dos vigias na unidade. 
+• 
+Realização da cotação de câmeras e sistema de gerenciamento de imagens. 
+• 
+Envio do pedido ao Centro Paula Souza. 
+Responsável: 
+Fábio Camilotti 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): Marcelo Rodrigo Pulliano Nogueira 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): Alan Chesna Vidal 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+02/01/2024 
+Data final: 
+14/06/2024 
+Etapas do processo: 
+01- Montagem de comissão para verificar a necessidade de câmeras e 
+gerenciamento de imagens 
+02/01 
+09/02 
+ 
+02- Verificação de quais câmeras e sistemas são necessários 
+14/02 
+28/03 
+ 
+03- Elaboração de relatório a ser enviado para o Centro Paula Souza para a 
+necessidade de câmeras de monitoramento na unidade. 
+28/03 
+24/05 
+ 
+04- Apresentação para a Congregação da unidade 
+27/05 
+29/05 
+ 
+05- Correções e envio ao Centro Paula Souza da proposta. 
+29/05 
+14/06 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo R$ (se houver): 
+Sem Custo 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.11 - Segurança pessoal e patrimonial 
+(a ser resolvida/mitigada) 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+ 
+AÇÃO/PROJETO (Tema) 
+207 - cat 2.04 - Ambiente de ensino prático - implantação/melhoramento com recursos NÃO PEDAGÓGICOS 
+Origem: 
+1-CEE (Relatório Circunstanciado do Conselho Estadual de Educação 
+O que será feito: 
+Aquisição de equipamentos de informática para rede de internet e funcionamento da unidade 
+Por que será feito: 
+• 
+Verificação de necessidade de equipamentos de informática para funcionamento da 
+internet 
+• 
+Aquisição de impressoras para documentos da unidade. 
+• 
+Cotação dos equipamentos. 
+• 
+Envio do pedido ao Centro Paula Souza. 
+Responsável: 
+Marcelo Rodrigo Pulliano Nogueira 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): Alan Chesna Vidal 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): Sandra Stefaneli 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+02/01/2024 
+Data final: 
+14/06/2024 
+Etapas do processo: 
+01- Montagem de comissão para verificar a necessidade de equipamentos 
+de informática 
+02/01 
+09/02 
+ 
+02- Verificação de quais equipamentos e sistemas são necessários 
+14/02 
+28/03 
+ 
+03- Elaboração de relatório a ser enviado para o Centro Paula Souza para a 
+necessidade de aquisição de equipamentos de informática. 
+28/03 
+24/05 
+ 
+04- Apresentação para a Congregação da unidade 
+27/05 
+29/05 
+ 
+05- Correções e envio ao Centro Paula Souza da proposta. 
+29/05 
+14/06 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo R$ (se houver): 
+Sem Custo 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+(a ser resolvida/mitigada) 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+ 
+ 
+ 
+<Copiar tabelas para mais ações> 
+ 
+ 
+03 – Pesquisa / Extensão e Equipamentos Associados 
+Ações para melhoramento dos laboratórios que contemplam Pesquisa além do Ensino (Equipamentos): 
+melhoramento dos espaços de pesquisa, que inclui especificação equipamentos e aquisição por fomento ou por 
+projeto com empresa, e também prestação de serviços no campo tecnológico para instituições e empresas. 
+ 
+AÇÃO/PROJETO (Tema) 
+301 - Escolher um item. 
+Origem: 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+301 - cat 3.06 - Jornada/Evento/Revista Científico e Tecnológico 
+Origem: 
+3-Outra 
+O que será feito: 
+Simpósio de Tecnologia da Fatec Jaboticabal 
+Por que será feito: 
+• 
+Instigar a participação dos alunos nos eventos extracurriculares, para realizarem networking 
+e desenvolverem habilidades diferentes das aprendidas em na sala de aula;  
+• 
+Aumento da Visibilidade Institucional, tendo em vista que o evento é aberto às comunidades 
+internas e externas à Unidade Escolar;  
+• 
+Estimular interações com professores, alunos, profissionais do mercado, pesquisadores de 
+outras instituições de ensino, pesquisa e extensão, bem como de empresas e autarquias da 
+região; 
+• 
+Consolidar a Unidade Escolar como polo de disseminação de conhecimentos científico-
+tecnológicos do Município e Região;  
+• 
+Aumentar o interesse dos alunos nas disciplinas e diminuir a evasão de alunos no curso;  
+• 
+Motivar a elaboração de projetos integradores e trabalhos de graduação; 
+ 
+Responsável: 
+<nome> Leonardo Lucas Madaleno 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Patrícia Cristina de Lima 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Fábio Camilotti 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+04/03/2024 
+Data final: 
+29/11/2024 
+Etapas do processo: 
+01- Planejamento, Divulgação e cronograma dos eventos científicos-
+tecnológicos – 1º Semestre 
+04/03 
+10/06 
+ 
+02- Recrutamento do Staff de Apoio aos eventos  
+08/04 
+30/04 
+ 
+03- Realização do Evento Programado – 1º Semestre 
+10/06 
+14/06 
+ 
+04- Emissão de Certificados do Evento – 1º Semestre 
+17/06 
+28/06 
+ 
+05- Planejamento, Divulgação e cronograma dos eventos científicos-
+tecnológicos – 2º Semestre 
+02/09 
+11/11 
+ 
+06- Recrutamento do Staff de Apoio aos eventos 
+07/10 
+31/10 
+ 
+07- Realização do Evento Programado – 2º Semestre 
+11/11 
+14/11 
+ 
+08- Emissão de Certificados do Evento – 2º Semestre 
+18/11 
+29/11 
+Custo R$ (se houver): 
+Sem Custo 
+Fonte(s) dos recursos: 
+HAE – GDS/Centro Paula Souza 
+Situação problema: 
+cat 0.1.10 - Gestão da unidade de ensino e dos cursos (indicadores) 
+(a ser resolvida/mitigada) 
+cat 0.1.08 - Participação da comunidade e sociedade 
+X 
+X 
+ 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+302 - cat 3.06 - Jornada/Evento/Revista Científico e Tecnológico 
+Origem: 
+3-Outra 
+O que será feito: 
+Evento Extracurricular Tecnológico-Cultural da Fatec - (Sarau Cultural/Feira das Nações/Palestras) 
+Por que será feito: 
+• 
+Instigar a participação dos alunos nos eventos extracurriculares, para realizarem networking 
+e desenvolverem habilidades diferentes das aprendidas em na sala de aula;  
+• 
+Aumento da Visibilidade Institucional, tendo em vista que o evento é aberto às comunidades 
+internas e externas à Unidade Escolar;  
+• 
+Estimular interações com professores, alunos, profissionais do mercado, pesquisadores de 
+outras instituições de ensino, pesquisa e extensão, bem como de empresas e autarquias da 
+região; 
+• 
+Consolidar a Unidade Escolar como polo de disseminação de eventos culturais do Município 
+e Região;  
+• 
+Aumentar o engajamento e a sensação de pertencimento à Instituição e a consequente 
+diminuição da evasão de alunos no curso;  
+ 
+Responsável: 
+<nome> Michelle Aranda Facchin 
+Qde CH/sem: 
+01 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> Lígia De Grandi 
+Qde CH/sem: 
+01 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> João Roberto da Silva 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+04/03/2024 
+Data final: 
+29/11/2024 
+Etapas do processo: 
+01- Planejamento, Divulgação e cronograma dos eventos tecnológicos-
+culturais – 1º Semestre  
+04/03 
+10/06 
+ 
+02- Recrutamento do Staff de Apoio aos eventos 
+08/04 
+30/04 
+ 
+03- Realização do Evento Programado – 1º Semestre 
+10/06 
+14/06 
+ 
+04- Emissão de Certificados do Evento – 1º Semestre 
+17/06 
+28/06 
+ 
+05- Planejamento, Divulgação e cronograma dos eventos tecnológicos-
+culturais – 2º Semestre  
+02/09 
+11/11 
+ 
+06- Recrutamento do Staff de Apoio aos eventos 
+07/10 
+31/10 
+ 
+07- Realização do Evento Programado – 2º Semestre 
+11/11 
+14/11 
+ 
+08- Emissão de Certificados do Evento – 2º Semestre 
+18/11 
+29/11 
+Custo R$ (se houver): 
+Sem Custo 
+Fonte(s) dos recursos: 
+HAE – GDS/Centro Paula Souza 
+Situação problema: 
+cat 0.1.10 - Gestão da unidade de ensino e dos cursos (indicadores) 
+(a ser resolvida/mitigada) 
+cat 0.1.08 - Participação da comunidade e sociedade 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+303 - cat 3.01 - Cursos de Extensão 
+Origem: 
+2-CPA (Relatório da Comissão Própria de Avaliação da Unidade) 
+O que será feito: 
+Oferta de Cursos de Extensão Universitária de Curta Duração 
+Por que será feito: 
+• 
+Aumento da Visibilidade Institucional, uma vez que o evento é aberto às comunidades interna e externa;  
+• 
+Apresentar aos membros da comunidade interna e externa assuntos não vistos nas disciplinas dos cursos 
+de graduação; 
+• 
+Aumentar a interação entre alunos dos distintos cursos da Unidade e entre estudantes da Fatec e 
+membros externos à comunidade fatecana; 
+• 
+Possibilidade de novas interações entre docentes, estudantes e funcionários da Unidade, bem como de 
+pessoas externas à instituição; 
+• 
+Possibilidade de novas ideias e temas para o desenvolvimento de futuros trabalhos de graduação, para 
+projetos interdisciplinares, iniciação científica e tecnológica, entre outros; 
+ 
+Responsável: 
+<nome> Ligia De Grandi 
+Qde CH/sem: 
+04 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> Michelle Aranda Facchin 
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome>  
+Qde CH/sem: 
+ 
+Tipo: Escolher um item. 
+Período de execução: 
+Data inicial: 
+05/02/2024 
+Data final: 
+13/12/2024 
+Etapas do processo: 
+01- Planejamento do Curso de Extensão – 1º Semestre 
+05/02 
+29/02 
+ 
+02- Abertura das Inscrições 
+01/03 
+15/03 
+ 
+03- Realização do Curso de Extensão – 1º Semestre 
+18/03 
+07/06 
+ 
+04- Emissão de Certificados de Participação 
+07/06 
+19/07 
+ 
+05- Planejamento do Curso de Extensão – 2º Semestre 
+05/08 
+30/08 
+ 
+06- Abertura das Inscrições 
+02/09 
+13/09 
+ 
+07- Realização do Curso de Extensão – 2º Semestre 
+16/09 
+06/12 
+ 
+08- Emissão de Certificados de Participação 
+06/12 
+13/12 
+Custo R$ (se houver): 
+Sem Custo 
+Fonte(s) dos recursos: 
+HAE – GDS/Centro Paula Souza 
+Situação problema: 
+cat 0.1.08 - Participação da comunidade e sociedade 
+(a ser resolvida/mitigada) 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+304 - cat 3.03 - Pesquisa e Extensão em andamento (empresas diversas) 
+Origem: 
+3-Outra 
+O que será feito: 
+Oferta de Ações Sociais na Unidade (Campanha do Agasalho / Arrecadação de Alimentos / Arrecadação de 
+Brinquedos para as Crianças / Ações em Asilo de Idosos / Ação Solidária em Hospitais – Parceria com 
+Empresas nas ações sociais) 
+Por que será feito: 
+• 
+Aumento da Visibilidade Institucional, uma vez que as ações sociais têm caráter de ajudar pessoas 
+carentes da comunidade interna e externa;  
+• 
+Promover o engajamento da comunidade acadêmica e comunidade externa à solidariedade 
+ao próximo; 
+• 
+Aumentar a interação entre alunos dos distintos cursos da Unidade e entre estudantes da Fatec e 
+membros externos à comunidade fatecana; 
+• 
+Melhoria das condições de vida de pessoas em vulnerabilidade social da comunidade interna e externa 
+à Fatec;  
+Responsável: 
+<nome> João Roberto da Silva 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Patrícia Cristina de Lima 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Valeria V. Zanotti 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+04/03/2024 
+Data final: 
+12/12/2024 
+Etapas do processo: 
+01 – Constituição de uma Comissão Interna da Unidade pró Ações Sociais 
+04/03 
+08/03 
+ 
+02- Planejamento das Ações Solidárias  
+08/03 
+05/04 
+ 
+03- Busca de Empresas ou Instituições Parceiras às Ações Sociais 
+08/03 
+22/11 
+ 
+04- Realização das Ações Solidárias  
+26/03 
+12/12 
+ 
+05- Emissão de Certificados aos membros da Comunidade Interna 
+participantes das ações sociais 
+27/03 
+12/12 
+ 
+06-  
+dd/mm 
+dd/mm 
+ 
+07-  
+dd/mm 
+dd/mm 
+ 
+08 -  
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+Sem Custo 
+Fonte(s) dos recursos: 
+HAE – GDS/Centro Paula Souza 
+Situação problema: 
+cat 0.1.08 - Participação da comunidade e sociedade 
+(a ser resolvida/mitigada) 
+cat 0.1.13 - Relacionamento interpessoal da equipe 
+ 
+<Copiar tabelas para mais ações> 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+04 – Atividades Formativas em Projetos (nível tático) 
+Projetos institucionais formativos não especificados em PEs: Rede de tecnologia, Novotec, PCI, Projetos 
+estudantis (Baja, Aerodesign, entre outros) 
+ 
+AÇÃO/PROJETO (Tema) 
+401 - Escolher um item. 
+Origem: 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+401 - cat 4.03 - PCI 
+Origem: 
+3-Outra 
+O que será feito: 
+Planejamento, Execução e Análise do PCI - Projeto Colaborativo Internacional  
+Por que será feito: 
+• 
+Promover a internacionalização e o aumento da visibilidade Institucional; 
+• 
+Promover práticas que valorizam a inserção acadêmico-profissional de nossos alunos e 
+parceiros em ambientes internacionais. 
+• 
+Viabilizar trocas significativas entre alunos, professores e funcionários da Fatec e membros 
+pertencentes à Instituições de Ensino, Pesquisa e Extensão lotados no exterior; 
+• 
+Incentivar a construção de conhecimento e de cidadania globais entre alunos, professores e 
+funcionários da Unidade; 
+Prospectar novas oportunidades e parcerias junto a Instituições Estrangeiras;  
+Responsável: 
+<nome> Leonardo Lucas Madaleno 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Priscilla de Souza Ferro 
+Qde CH/sem: 
+01 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> Rose Maria Duda 
+Qde CH/sem: 
+01 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Período de execução: 
+Data inicial: 
+05/02/2024 
+Data final: 
+13/12/2024 
+Etapas do processo: 
+01- Prospecção de professores interessados em realizar projetos 
+colaborativos com instituições estrangeiras 
+05/02 
+29/02 
+ 
+02- Planejamento/Alinhamento entre os objetivos e interesses acadêmicos 
+da Unidade e os análogos dos PCIs, adequando-os para o contexto da 
+Unidade 
+29/02 
+28/03 
+ 
+03- Executar e acompanhar a colaboração e das interações conforme o 
+planejamento/alinhamento realizado anteriormente. 
+01/04 
+29/11 
+ 
+04- Análise estratégica a partir do feedback dos participantes do PCI 
+trazendo as perspectivas de alunos, professores e das instituições parceiras 
+ao projeto. 
+29/11 
+06/12 
+ 
+05- Ações voltadas para melhoria da execução do PCI na Unidade Escolar, 
+tendo como base a análise conduzida anteriormente. 
+06/12 
+13/12 
+ 
+06- Manutenção dos processos mapeados e estabelecidos no 
+planejamento visando maior eficácia no processo de execução do PCI; 
+06/12 
+13/12 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+Sem Custo 
+Fonte(s) dos recursos: 
+HAE – GDS/Centro Paula Souza 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.08 - Participação da comunidade e sociedade 
+X 
+X 
+ 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+403 - Escolher um item. 
+Origem: 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+402 - cat 4.02 - Novotec 
+Origem: 
+3-Outra 
+O que será feito: 
+Ofertar os cursos do Programa Novotec  
+Por que será feito: 
+• 
+Aumento da Visibilidade Institucional 
+• 
+Oferecer cursos para formação profissional e técnica aos jovens estudantes e recém 
+concluintes do ensino médio. 
+• 
+Proporcionar os jovens a escolha de um caminho profissional e na inserção no mercado de 
+trabalho. 
+• 
+Firmar a Unidade Escolar como centro de excelência em ensino, pesquisa e extensão; 
+ 
+Responsável: 
+<nome> Fábio Camilotti 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> João Roberto da Silva 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+05/02/2024 
+Data final: 
+06/12/2024 
+Etapas do processo: 
+01- Realizar uma parceria com a Secretaria de Desenvolvimento Econômico 
+(SDE) e com articulação junto as Escolas Estaduais, para a oferta do 
+Programa Novotec; 
+05/02 
+08/03 
+ 
+02- Solicitação e Aprovação de turmas no site Novotec – 1º Semestre;  
+08/03 
+29/03 
+ 
+03- Período de Divulgação, Inscrições, Seleção e Matrícula nos Cursos  
+01/04 
+30/04 
+ 
+04- Realização dos Cursos do Novotec Programados – 1º Semestre 
+02/05 
+28/06 
+ 
+05- Solicitação e Aprovação de turmas no site Novotec – 2º Semestre 
+05/08 
+30/08 
+ 
+06- Período de Divulgação, Inscrições, Seleção e Matrícula nos Cursos 
+02/09 
+30/09 
+ 
+07- Realização dos Cursos do Novotec Programados – 2º Semestre  
+01/10 
+06/12 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+Sem Custo 
+Fonte(s) dos recursos: 
+HAE – GDS/Centro Paula Souza e 
+Secretaria de Desenvolvimento 
+Econômico (SDE)n 
+Situação problema: 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+(a ser resolvida/mitigada) 
+cat 0.1.08 - Participação da comunidade e sociedade 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+403 - cat. 4.99 - Outra 
+Origem: 
+3-Outra 
+O que será feito: 
+Estudos para instalação de curso de Pós-graduação na Fatec Jaboticabal 
+Por que será feito: 
+• 
+Aumento da Visibilidade Institucional 
+• 
+Estudar curso Lato Sensu para formação profissional e técnica na área de Biocombustíveis 
+aos alunos formados e para profissionais de empresa da região de Jaboticabal 
+• 
+Aproveitar a oportunidade comde o curso de Biocombustíveis apresentar 5 anos de renovação 
+pelo CEE e pela unidade possuir 3 cursos de graduação presenciais, que são os requisitos 
+para a abertura do curso da pós. 
+• 
+Firmar a Unidade Escolar como centro de excelência em ensino, pesquisa e extensão; 
+Responsável: 
+Baltasar Fernandes Garcia Filho 
+Qde CH/sem: 
+02 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): Adauto Luiz Carrino 
+Qde CH/sem: 
+02 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): Renato Leandro Taguchi 
+Qde CH/sem: 
+02 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Período de execução: 
+Data inicial: 
+05/02/2024 
+Data final: 
+30/09/2024 
+Etapas do processo: 
+01- Formação da comissão para estudos para curso Lato sensu na área de 
+Biocombustíveis; 
+05/02 
+15/02 
+ 
+02- Encontros semanais para discussão de proposta; 
+15/02 
+27/09 
+ 
+03- Estudos das pós-graduações na área de Biocombustíveis que estão 
+próximos à Jaboticabal; 
+01/03 
+30/04 
+ 
+04- Estudo sobre as necessidades do mercado de trabalho na região que o 
+curso será oferecido e escolha do nome do curso; 
+01/04 
+31/05 
+ 
+05- Elaboração de plano financeiro para o curso da Pós; 
+03/06 
+05/08 
+ 
+06- Apresentação e verificação da viabilidade do curso de pós na unidade; 
+15/08 
+22/08 
+ 
+07- Ajustes e finalização do projeto da pós-graduação 
+23/08 
+27/09 
+ 
+08- Envio para apreciação da pós-graduação do Centro Paula Souza 
+30/09 
+30/09 
+Custo R$ (se houver): 
+Sem Custo 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.08 - Participação da comunidade e sociedade 
+(a ser resolvida/mitigada) 
+cat 0.1.99 - Outra 
+<Copiar tabelas para mais ações> 
+AÇÃO/PROJETO (Tema) 
+404 - cat 3.03 - Pesquisa e Extensão em andamento (empresas diversas) 
+Origem: 
+3-Outra 
+O que será feito: 
+Ampliação a Revista científica da unidade com a criação da revista dos anais do Simpósio de 
+Tecnologia da Fatec Jaboticabal e ampliações das publicações na revista atual 
+Por que será feito: 
+• 
+Aumento da Visibilidade Institucional, uma vez que a revista científica é uma oportunidade de 
+divulgação dos trabalhos realizados na unidade e no entorno dos cursos presenciais;  
+• 
+Promover o engajamento da comunidade acadêmica e comunidade externa à publicação de 
+trabalhos científicos; 
+• 
+Atender a um objetivo da área de pesquisa com uma revista atuante e influente no meio 
+acadêmico e empresarial.  
+Responsável: 
+Maria Aparecida Boverio 
+Qde CH/sem: 
+07 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): Eder Carlos Salazar Sotto 
+Qde CH/sem: 
+04 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a):  
+Qde CH/sem: 
+00 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+05/02/2024 
+Data final: 
+12/12/2024 
+Etapas do processo: 
+01 – Planejamento para a construção da revista científica com os anais do 
+Simpósio de Tecnologia 
+05/02 
+08/03 
+ 
+02 – Trabalho editorial e de manutenção da revista científica 
+05/02 
+12/12 
+ 
+03 – Recebimento de trabalhos em forma contínua 
+05/02 
+12/12 
+ 
+04 – Publicação de trabalhos em forma contínua 
+05/02 
+12/12 
+ 
+05 – Ações em busca do aumento do qualis da revista atual de B4 para B3 
+05/02 
+12/12 
+ 
+06 – Propaganda e incentivo à publicação como docentes e alunos 
+08/03 
+02/12 
+ 
+07 – Apresentação de relatório e planejamento de atividades para 2025 
+02/12 
+12/12 
+ 
+ 
+ 
+ 
+Custo R$ (se houver): 
+Sem Custo 
+Fonte(s) dos recursos: 
+HAE – GDS/Centro Paula Souza 
+Situação problema: 
+cat 0.1.08 - Participação da comunidade e sociedade 
+(a ser resolvida/mitigada) 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+ 
+ 
+ 
+ 
+ 
+ 
+05 – Infraestrutura (instalações prediais) 
+Projetos de manutenção e melhoramento predial voltados à segurança (física e sanitária) e preservação do 
+patrimônio: Reparação predial (civil, elétrica, dados), novas instalações prediais. 
+ 
+AÇÃO/PROJETO (Tema) 
+501 - cat 5.01 - Melhoria Sala de Ambientes pedagógicos 
+Origem: 
+2-CPA (Relatório da Comissão Própria de Avaliação da Unidade) 
+O que será feito: 
+Projeto de Estudos sobre condições de Acessibilidade e Permanência da Unidade 
+Por que será feito: 
+• 
+Atendimento às legislações vigentes; 
+• 
+Melhoria da qualidade de ensino-aprendizagem dos cursos da Fatec; 
+• 
+Aumento da Visibilidade Institucional; 
+• 
+Diminuição da Evasão Escolar; 
+• 
+Inclusão de pessoas portadoras de deficiência e/ou transtornos; 
+ 
+Responsável: 
+<nome> Michelle Aranda Fachin 
+Qde CH/sem: 
+01 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> Fábio Camilotti 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Simone Roberta Scatollin Tilelli 
+Qde CH/sem: 
+00 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+11/03/2024 
+Data final: 
+27/12/2024 
+Etapas do processo: 
+01- Estudos sobre a legislação em vigor associada a Acessibilidade e 
+Permanência em ambientes escolares  
+11/03 
+10/05 
+ 
+02- Levantamento dos Ambientes da Unidade passíveis de serem objeto de 
+adaptações/adequações para atendimento a legislação em vigor 
+25/03 
+30/04 
+ 
+03- Mapeamento das necessidades de adequação/adaptação dos 
+ambientes internos e externos à Unidade para melhoria da Acessibilidade e 
+Permanência da comunidade interna da Faculdade 
+02/05 
+03/06 
+ 
+04- Elaboração de Relatório contendo as necessidades e adaptações para 
+obras de infraestrutura em Acessibilidade e Permanência da comunidade 
+interna na Unidade Escolar 
+03/06 
+05/07 
+ 
+05- Envio de relatório sobre as necessidades de Acessibilidade e 
+Permanências às Instâncias competentes do Centro Paula Souza 
+05/07 
+09/08 
+ 
+06- Aguardo de orientações de procedimentos a serem realizados pela 
+Unidade e de desenvolvimento de projetos/ações pela UIE. 
+09/08 
+27/12 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+Sem Custo 
+Fonte(s) dos recursos: 
+HAE – GDS/Centro Paula Souzan 
+Situação problema: 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+(a ser resolvida/mitigada) 
+cat 0.1.09 - Acesso/Inclusão ao Ensino Superior (social, PCD) 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+503 - Escolher um item. 
+Origem: 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+502 - cat 5.02 - Melhoria de Laboratório 
+Origem: 
+2-CPA (Relatório da Comissão Própria de Avaliação da Unidade) 
+O que será feito: 
+Manutenção e Reparos de Máquinas, Equipamentos e Mobiliário dos laboratórios da Unidade 
+Por que será feito: 
+• 
+Prolongar a vida útil das máquinas, equipamentos e mobiliário dos laboratórios; 
+• 
+Melhoria da qualidade de ensino-aprendizagem dos cursos da Fatec; 
+• 
+Atendimento às práticas laboratoriais previstas nas ementas das disciplinas; 
+• 
+Possibilidade de uso para atividades de pesquisa, inovação e extensão universitária; 
+• 
+Aumento da Visibilidade Institucional; 
+ 
+Responsável: 
+<nome> Wagner Rodrigues Meyer 
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> Ana Flávia Pereira Faria 
+Qde CH/sem: 
+03 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Márcio Roberto de Carvalho 
+Qde CH/sem: 
+03 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+11/03/2024 
+Data final: 
+27/12/2024 
+Etapas do processo: 
+01- Levantamento das Máquinas, Equipamentos e Mobiliário dos 
+laboratórios da Unidade passíveis de serem objeto de 
+adaptações/adequações para atendimento as normas em vigor  
+11/03 
+30/06 
+ 
+02- Levantamento das Máquinas, Equipamentos e Mobiliário dos 
+laboratórios da Unidade passíveis de serem objeto de 
+reparos/manutenção para atendimento as atividades práticas previstas nas 
+disciplinas   
+11/03 
+30/06 
+ 
+03- Levantamento das normas de segurança e infraestrutura predial de 
+apoio utilizada pelas Máquinas, Equipamentos e Mobiliário dos 
+laboratórios da Unidade passíveis de serem objeto de 
+reparos/manutenção/adequações para atendimento as atividades práticas 
+previstas nas disciplinas  
+11/03 
+30/06 
+ 
+04- Elaboração de Relatório contendo as necessidades e adaptações para 
+obras de infraestrutura nos laboratórios da Unidade, bem como em 
+reparos e manutenção em máquinas, equipamentos e mobiliário contidos 
+nesses laboratórios  
+30/06 
+09/08 
+ 
+05- Envio de relatório sobre as necessidades de Acessibilidade e 
+Permanências às Instâncias competentes do Centro Paula Souza  
+09/08 
+30/08 
+ 
+06- Aguardo de orientações de procedimentos a serem realizados pela 
+Unidade e de desenvolvimento de projetos/ações pela UIE e/ou UGAF 
+30/08 
+27/12 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+Sem Custo 
+Fonte(s) dos recursos: 
+HAE – GDS/Centro Paula Souza 
+Situação problema: 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+(a ser resolvida/mitigada) 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+503 - cat 5.07 - Construção de edificações 
+Origem: 
+1-CEE (Relatório Circunstanciado do Conselho Estadual de Educação 
+O que será feito: 
+Acompanhamento da Construção do novo bloco de salas de aula e laboratórios da Fatec 
+Jaboticabal 
+Por que será feito: 
+• 
+Ampliação de salas de aulas para atender os cursos atuais da unidade; 
+• 
+Possibilidade de abertura de novos cursos de graduação; 
+• 
+Aumento do número de alunos atendidos pela unidade; 
+• 
+Início de obra previsto por realização de licitação e contato da empresa para o início das 
+obras 
+• 
+Necessidade de acompanhamento especializado para verificação dos cumprimentos dos 
+itens previstos no projeto do CPS 
+ 
+Responsável: 
+<nome> Sandra Stefaneli 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Marcelo Ferreira 
+Qde CH/sem: 
+01 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> Marcelo Rodrigo Pulliano Nogueira 
+Qde CH/sem: 
+02 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+02/01/2024 
+Data final: 
+31/12/2024 
+Etapas do processo: 
+01- Formação da comissão de estudos para acompanhamento da obra do 
+novo bloco da Fatec 
+02/01 
+29/02 
+ 
+02- Acompanhamento semanal das atividades realizadas na obra 
+02/01 
+31/12 
+ 
+03- Requisições para atendimento da empresa sobre a obra 
+02/01 
+31/12 
+ 
+04- Relatório semestral com apontamentos da execução da obrar 
+03/12 
+13/12 
+ 
+05- Recomendações e apontamentos para continuação da obra em 2025 
+13/12 
+31/12 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+Sem custo 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+(a ser resolvida/mitigada) 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+504 - cat 5.03 - Material Infraestrutura/equipamentos 
+Origem: 
+3-Outra 
+O que será feito: 
+Reforma e adequação do telhado do corredor central do bloco principal da unidade de ensino 
+Por que será feito: 
+• 
+Pedido de obra de 2021 ainda não atendida pela infraestrutura; 
+• 
+Elaboração de planilha de custos para realização da reforma; 
+• 
+Verificação de recursos disponíveis para execução; 
+• 
+Risco eminente de perda do telhado e estrutura de madeira abaixo do telhado; 
+• 
+Piso escorregadio e com risco de acidente para a comunidade acadêmica, identificado 
+pela CIPA da unidade; 
+Responsável: 
+Fábio Camilotti 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): Sandra Stefaneli 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): Magda Rocha 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+05/02/2024 
+Data final: 
+20/12/2024 
+Etapas do processo: 
+01- Verificação do estágio do pedido da obra realizado em 2021 
+05/02 
+29/02 
+ 
+02- Verificação do que é necessário fazer para que a obra seja colocada em 
+urgência pelo Centro Paula Souza 
+01/03 
+30/03 
+ 
+03- Elaborar planilha de custos para ajudar o setor de infraestrutura 
+02/05 
+30/04 
+ 
+04- Ajudar na busca de recursos para execução da obra 
+dd/mm 
+03/06 
+ 
+05- Identificação e medidas mitigadoras para os pontos de alagamento 
+e/ou que deixam o piso escorregadio 
+05/02 
+20/12 
+ 
+06- Informação ao Centro Paula Souza do risco eminente de colapso do 
+telhado. 
+05/02 
+20/12 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+Sem custo 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.02 - Manutenção e conservação predial 
+(a ser resolvida/mitigada) 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+ 
+AÇÃO/PROJETO (Tema) 
+504 - cat 5.05 - Reforma de Edificações 
+Origem: 
+1-CEE (Relatório Circunstanciado do Conselho Estadual de Educação 
+O que será feito: 
+Estudos para a instalação de elevador do piso térreo até o primeiro andar do prédio 
+administrativo e de aulas da unidade. 
+Por que será feito: 
+• 
+Aumentar a acessibilidade de discentes às salas de aula e da equipe gestora 
+• 
+Aumentar a acessibilidade de docentes que não podem utilizar as escadas como 
+alternativa. 
+• 
+Necessidade apontada nas visitas do Conselho Estadual de Educação para todos os 
+cursos presenciais da unidade. 
+Responsável: 
+Sandra Stefaneli 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): Alan Chesna Vidal 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): Magda Rocha 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+15/01/2024 
+Data final: 
+29/06/2024 
+Etapas do processo: 
+01- Verificação do status do pedido realizado em 2021 na infraestrutura da 
+regional e do Centro Paula Souza 
+15/01 
+31/01 
+ 
+02- Levantamento do que é necessário para que o elevador seja instalado 
+no prédio administrativo e de salas de aula 
+01/02 
+29/02 
+ 
+03- Levantamento dos custos para instalação do elevador 
+01/03 
+28/03 
+ 
+04- Verificação de recursos possíveis para recomendação no relatório a ser 
+enviado ao setor de infraestrutura 
+01/04 
+30/04 
+ 
+05- Confecção do relatório e aprovação da congregação para envio ao 
+setor de infraestrutura responsável do Centro Paula Souza 
+30/04 
+07/06 
+ 
+06- Correções e envio de relatório com o estudo para o setor de 
+infraestrutura do Centro Paula Souza para providências 
+07/06 
+29/06 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+Sem custo 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+(a ser resolvida/mitigada) 
+cat 0.1.02 - Manutenção e conservação predial 
+ 
+AÇÃO/PROJETO (Tema) 
+505 - cat 5.05 - Reforma de Edificações 
+Origem: 
+1-CEE (Relatório Circunstanciado do Conselho Estadual de Educação 
+O que será feito: 
+Estudos para a instalação de ar-condicionado nos ambientes de convívio e salas de aula da 
+unidade. 
+Por que será feito: 
+• 
+Melhorar o conforto térmico dos docentes e discentes dentro das salas de aula. 
+• 
+Minimizar o efeito de temperaturas elevadas em funcionários; 
+• 
+Minimizar o efeito de temperaturas altas em equipamentos 
+• 
+Necessidade apontada nas visitas do Conselho Estadual de Educação para todos os 
+cursos presenciais da unidade. 
+Responsável: 
+Sandra Stefaneli 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): Alan Chesna Vidal 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): Magda Rocha 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+01/07/2024 
+Data final: 
+20/12/2024 
+Etapas do processo: 
+01- Verificação do status do pedido realizado em 2021 na infraestrutura da 
+regional e do Centro Paula Souza 
+01/07 
+31/07 
+ 
+02- Levantamento do que é necessário para que o ar-condicionado seja 
+instalado no prédio administrativo e de salas de aula 
+01/08 
+31/08 
+ 
+03- Levantamento dos custos para instalação do ar-condicionado 
+02/09 
+30/09 
+ 
+04- Verificação de recursos possíveis para recomendação no relatório a ser 
+enviado ao setor de infraestrutura 
+01/10 
+31/01 
+ 
+05- Confecção do relatório e aprovação da congregação para envio ao 
+setor de infraestrutura responsável do Centro Paula Souza 
+01/11 
+29/11 
+ 
+06- Correções e envio de relatório com o estudo para o setor de 
+infraestrutura do Centro Paula Souza para providências 
+02/12 
+20/12 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+Sem custo 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+(a ser resolvida/mitigada) 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+ 
+AÇÃO/PROJETO (Tema) 
+506 - cat 5.05 - Reforma de Edificações 
+Origem: 
+3-Outra 
+O que será feito: 
+Adequação da Cozinha industrial da unidade 
+Por que será feito: 
+• 
+Entrega de equipamentos industriais para preparação de refeições para as turmas do 
+curso AMS realizado na unidade. 
+• 
+Instalação dos equipamentos 
+• 
+Verificação de funcionário com a prefeitura para conduzir a cozinha industrial 
+• 
+Atendimento a exigência do Conselho Estadual de Educação/MEC de fornecimento de 
+refeições para alunos do ensino médio. 
+Responsável: 
+Maria Aparecida Beltrame 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): Alan Chesna Vidal 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): Leonardo Lucas Madaleno 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+02/01/2024 
+Data final: 
+30/04/2024 
+Etapas do processo: 
+01 – Verificação dos equipamentos que faltam a ser entregues; 
+02/01 
+31/01 
+ 
+02 – Providenciar os pedidos de instalação dos equipamentos no espaço 
+destinado à cozinha; 
+01/02 
+29/02 
+ 
+03 – Treinamento para as pessoas que vão utilizar o espaço; 
+01/03 
+30/03 
+ 
+04 – Verificação com a prefeitura da cidade para um funcionário dedicado 
+à produção das refeições 
+01/04 
+15/04 
+ 
+05 – Funcionamento do espaço e relatório preliminar de refeições servidas 
+15/04 
+30/04 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo R$ (se houver): 
+Sem custo 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+(a ser resolvida/mitigada) 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+ 
+AÇÃO/PROJETO (Tema) 
+507 - cat 5.06 - Implantação de espaços pedagógicos 
+Origem: 
+1-CEE (Relatório Circunstanciado do Conselho Estadual de Educação 
+O que será feito: 
+Adequação da Sala Maker, Agência de Marketing e Estúdio para o curso de Marketing 
+Por que será feito: 
+• 
+Melhoria dos espaços destinados ao CST de Marketing 
+• 
+Maior acesso aos discentes e docentes a realização de atividades práticas 
+• 
+Aumento de uso dos espaços (sala Maker) planejados pelo Centro Paula Souza 
+• 
+Melhorias nas pinturas e qualidade das salas da agência e estúdio 
+• 
+Planejamento de utilização dos espaços 
+Responsável: 
+Patrícia Cristina de Lima 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): Ricardo José Sartor 
+Qde CH/sem: 
+04 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a):  
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+05/02/2024 
+Data final: 
+13/12/2024 
+Etapas do processo: 
+01 – Verificação do que foi instalado e o que falta a ser instalados nos 
+ambientes de Marketing para o pleno funcionamento 
+05/02 
+29/02 
+ 
+02 – Levantamento de custo de aquisição de mobiliário e equipamento 
+01/03 
+01/04 
+ 
+03 – Adequação das pinturas internas das salas destinadas às práticas de 
+Marketing 
+02/04 
+30/04 
+ 
+04 – Planejamento do uso dos ambientes 
+02/05 
+31/05 
+ 
+05 – Parceria com a empresa júnior para uso dos casos nos ambientes do 
+curso de Marketing 
+02/05 
+31/05 
+ 
+06 – Relatório com atividades desenvolvidas nos dois semestres de 
+funcionamento dos espaços 
+24/06 
+02/12 
+ 
+07 – Recomendações para o uso em 2025 
+02/12 
+13/12 
+ 
+ 
+ 
+ 
+Custo R$ (se houver): 
+Sem custo 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+(a ser resolvida/mitigada) 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+ 
+<Copiar tabelas para mais ações> 
+ 
+ 
+ 
+ 
+ 
+06 - Desenvolvimento de pessoas (docentes e servidores) 
+Formação continuada de docentes e servidores, associadas às competências gerais e específicas de suas 
+atividades: Metodologias de ensino, Tecnologias educacionais, Sistemas (processos, procedimentos, plataformas 
+computacionais) acadêmicos e pedagógicos. 
+ 
+AÇÃO/PROJETO (Tema) 
+601 - cat 6.02 - Projeto e atividade de Integração (docente e servidores) 
+Origem: 
+3-Outra 
+O que será feito: 
+Semana Interna de Prevenção de Acidentes de Trabalho (SIPAT) 
+Por que será feito: 
+• 
+Atendimento a legislação trabalhista em vigor; 
+• 
+Atividade obrigatória para todas as Comissões Internas de Prevenção de Acidentes (CIPA); 
+• 
+Redução das doenças ocupacionais e dos riscos de ocorrências de acidente de trabalho; 
+• 
+Realização de Palestras sobre saúde e prevenção de acidentes no ambiente de trabalho; 
+• 
+Disseminação de conhecimentos básicos em primeiros socorros e combate a incêndio; 
+ 
+Responsável: 
+<nome> Fábio Camilotti 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Simone Roberta Scatollin Tilelli 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Márcio Roberto de Carvalho 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+05/02/2024 
+Data final: 
+06/05/2024 
+Etapas do processo: 
+01- Definição do tema, temáticas abordadas e convidados inerentes à 
+SIPAT; 
+05/02 
+29/02 
+ 
+02- Convite a comunidade interna da Fatec à participação na SIPAT; 
+01/03 
+20/04 
+ 
+03- Realização da SIPAT da Unidade Escolar 
+22/04 
+27/04 
+ 
+04- Emissão de Atestados e Certificados de Participação do Evento 
+27/04 
+06/05 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+Sem Custo 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.11 - Segurança pessoal e patrimonial 
+(a ser resolvida/mitigada) 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+602 - cat 6.01 - Curso/Oficina/Capacitação/ Treinamento/ Palestra/Reunião/Encontro 
+Origem: 
+3-Outra 
+O que será feito: 
+SPAP - Semana de Planejamento e Aperfeiçoamento  Pedagógico 
+Por que será feito: 
+• 
+Atualização técnica-pedagógica dos professores e técnico-administrativos da Unidade; 
+• 
+Aperfeiçoamento e/ou Atualização das atividades dos docentes e técnico-administrativos 
+Unidade; 
+• 
+Apresentar aos docentes assuntos e temas de interesse geral do Centro Paula Souza aos 
+docentes e funcionários da Unidade; 
+• 
+Propiciar um espaço para discussão de problemas pedagógicos e realidades locais da 
+Unidade; 
+• 
+Propiciar troca de experiências, vivências, conhecimentos entre docentes, servidores e 
+docentes e servidores da Unidade; 
+ 
+Responsável: 
+<nome> Leonardo Lucas Madaleno 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Simone Roberta Scatollin Tilelli 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Patrícia Cristina de Lima 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+01/02/2024 
+Data final: 
+30/08/2024 
+Etapas do processo: 
+01- Elaborar a programação local da SPAP – 1º Semestre; 
+01/02 
+09/02 
+ 
+02- Divulgação da programação local da SPAP – 1º Semestre; 
+01/02 
+09/02 
+ 
+03- Condução das Atividades Previstas na SPAP;  
+05/02 
+09/02 
+ 
+04- Emissão dos certificados aos participantes da programação local – 1º 
+Semestre; 
+09/02 
+08/03 
+ 
+05- Elaborar a programação local da SPAP – 2º Semestre; 
+03/06 
+28/06 
+ 
+06- Divulgação da programação local da SPAP – 2º Semestre; 
+20/06 
+02/07 
+ 
+07- Condução das Atividades Previstas na SPAP; 
+05/08 
+09/08 
+ 
+08- Emissão dos certificados aos participantes da programação local – 2º 
+Semestre; 
+09/08 
+30/08 
+Custo R$ (se houver): 
+Sem Custo 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.13 - Relacionamento interpessoal da equipe 
+X 
+X 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+603 - cat 6.01 - Curso/Oficina/Capacitação/ Treinamento/ Palestra/Reunião/Encontro 
+Origem: 
+3-Outra 
+O que será feito: 
+Projeto de Capacitação e Aperfeiçoamento de Docentes e Funcionários via SIPEP – Portal do 
+Participante  
+Por que será feito: 
+• Incentivo a qualificação de docentes e funcionários de forma gratuita, com aproveitamento 
+para a Evolução / Promoção Funcional do CPS; 
+• Melhoria dos processos administrativos e didático-pedagógico dos cursos da Unidade; 
+• Aumento do conhecimento tecnológico dos funcionários e docentes da Unidade; 
+• Estímulo a interdisciplinaridade e transdisciplinaridade dos docentes. 
+ 
+Responsável: 
+<nome> Leonardo Lucas Madaleno 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Fábio Camilotti 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Simone Roberta Scatollin Tilelli 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+11/03/2024 
+Data final: 
+30/10/2024 
+Etapas do processo: 
+01- Levantamento dos cursos e eventos abertos a inscrição de interessados 
+no SIPEP, que venha a contribuir com o desenvolvimento pessoal, dos 
+CSTs/disciplinas e áreas de atuação. – 1º Semestre;  
+11/03 
+05/04 
+ 
+02- Envio de boletim interno dos cursos aberto no SIPEP ao corpo docente 
+e  de funcionários – 1º Semestre;  
+05/04 
+30/04 
+ 
+03- Levantamento dos cursos e eventos abertos a inscrição de interessados 
+no SIPEP, que venha a contribuir com o desenvolvimento pessoal, dos 
+CSTs/disciplinas e áreas de atuação. – 2º Semestre;   
+02/09 
+04/10 
+ 
+04- Envio de boletim interno dos cursos aberto no SIPEP ao corpo docente 
+e  de funcionários – 2º Semestre; 
+04/10 
+30/10 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+Sem Custo 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+604 - Escolher um item. 
+Origem: 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+<Copiar tabelas para mais ações> 
+ 
+ 
+ 
+ 
+ 
+ 
+07 – Convênios e Parcerias Institucionais 
+Formalização do relacionamento da Unidade com o Ecossistema de Tecnologia: Convênio de uso de prédio, 
+estágios, projetos com empresas. Aqui cabe apenas novos convênios e parcerias, e cada proposta deve estar 
+relacionada a uma Ação/Projeto de melhoria em algum dos itens anteriores do PGA (1, 2, 3, 4, 5 ou 6). 
+ 
+AÇÃO/PROJETO (Tema) 
+701 - cat 7.03 - Projetos com empresas e/ou demais parceiros 
+Origem: 
+2-CPA (Relatório da Comissão Própria de Avaliação da Unidade) 
+O que será feito: 
+Prospecção de Empresas lotadas no município e Região para Parcerias, Oportunidades e Estágios 
+para a Comunidade Interna da Unidade; 
+Por que será feito: 
+• 
+Aumento da Visibilidade da Fatec junto às Empresas do Município e Região; 
+• 
+Popularização da marca Fatec junto a Empresas e Instituições do Município e Região, com 
+a possibilidade de novas parcerias institucionais; 
+• 
+Possibilidade de parcerias e projetos de Ensino, Pesquisa, Extensão e Inovação entre a 
+Fatec e as Empresas da Região; 
+ 
+Responsável: 
+<nome> Alan Chesna Vidal 
+Qde CH/sem: 
+04 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Patrícia Cristina de Lima 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> João Roberto da Silva 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+04/03/2024 
+Data final: 
+13/12/2024 
+Etapas do processo: 
+01- Prospecção de professores e/ou funcionários interessados em realizar 
+ações de prospecção de novas parcerias com empresas e instituições 
+lotadas no município e região; 
+04/03 
+29/03 
+ 
+02- Planejamento/Alinhamento entre os objetivos e interesses da Unidade 
+e os das Empresas e Instituições a serem contatadas  
+29/03 
+06/05 
+ 
+03- Estabelecimento de um calendário de visitas às Empresas e Instituições 
+lotadas no Município e Região 
+29/03 
+06/05 
+ 
+04- Visita a Empresas lotadas no Município e Região;. 
+06/05 
+20/09 
+ 
+05- Elaboração da documentação associada ao chamamento público, 
+seguindo as legislações e procedimentos em vigor 
+20/09 
+18/10 
+ 
+06- Envio de projeto à CESU com objetivo de se fazer chamamento público 
+(se possível e viável) 
+18/10 
+08/11 
+ 
+07- Solicitação às esferas competentes do CPS para a realização de 
+chamamento público  
+08/11 
+13/12 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+Sem Custo 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.10 - Gestão da unidade de ensino e dos cursos (indicadores) 
+(a ser resolvida/mitigada) 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+702 - cat 7.03 - Projetos com empresas e/ou demais parceiros 
+Origem: 
+1-CEE (Relatório Circunstanciado do Conselho Estadual de Educação 
+O que será feito: 
+Prospecção das Realidades de Empresas Afins aos Cursos da Unidade, lotadas no município e 
+Região para Atualização das Práticas, Conteúdos ensinados nas disciplinas da Unidade 
+Por que será feito: 
+• 
+Aumento da Visibilidade da Fatec junto às Empresas do Município e Região; 
+• 
+Fortalecer a Marca Fatec como centro de Ensino, Pesquisa, Extensão e Inovação junto a 
+comunidade interna e externa; 
+• 
+Prospecção de Problemas que possam ser aplicados a Projetos Interdisciplinares, 
+Trabalhos de Graduação e Projetos de Pesquisa e Extensão em conjunto com a Unidade; 
+• 
+Aumento das oportunidades de estágio e emprego aos discentes da Unidade; 
+• 
+Consulta ao setor empregatício ligado aos cursos da Unidade quanto a necessidade de 
+atualizações dos conteúdos programáticos ensinados nas disciplinas dos cursos; 
+ 
+Responsável: 
+<nome> Alan Chesna Vidal 
+Qde CH/sem: 
+04 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Fábio Camilotti 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Patrícia Cristina de Lima 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+04/03/2024 
+Data final: 
+08/11/2024 
+Etapas do processo: 
+01- Prospecção de professores e/ou funcionários interessados em realizar 
+ações de prospecção das atividades afins às disciplinas dos cursos da 
+Unidade em empresas e instituições lotadas no município e região  
+04/03 
+29/03 
+ 
+02- Planejamento/Alinhamento entre os objetivos e interesses da Unidade 
+e os das Empresas e Instituições a serem contatadas 
+29/03 
+06/05 
+ 
+03- Estabelecimento de um calendário de visitas às Empresas e Instituições 
+lotadas no Município e Região 
+29/03 
+06/05 
+ 
+04- Visita a Empresas lotadas no Município e Região 
+06/05 
+20/09 
+ 
+05- Elaboração de relatório contendo as informações, práticas, conteúdos, 
+atividades mais relevantes feitas pelas empresas e instituições contatadas, 
+disponibilizando-as para o corpo docente da Unidade; 
+20/09 
+08/11 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+Sem Custo 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.10 - Gestão da unidade de ensino e dos cursos (indicadores) 
+(a ser resolvida/mitigada) 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+703 - cat 7.03 - Projetos com empresas e/ou demais parceiros 
+Origem: 
+2-CPA (Relatório da Comissão Própria de Avaliação da Unidade) 
+O que será feito: 
+Prospecção de Oportunidades e Parcerias com as Etecs da região para realização de atividades, 
+projetos e divulgação institucional relacionados aos cursos de graduação da Unidade 
+Por que será feito: 
+• 
+Aumento da Visibilidade da Fatec junto às Etecs do Município e Região; 
+• 
+Fortalecer a Marca Fatec como centro de Ensino, Pesquisa, Extensão e Inovação junto a 
+comunidade interna e externa; 
+• 
+Prospecção de Problemas que possam ser aplicados a Projetos Interdisciplinares, 
+Trabalhos de Graduação e Projetos de Pesquisa e Extensão em conjunto com a Unidade; 
+• 
+Prospecção de futuros pedidos de AMS – Articulação Médio-Superior a serem realizados 
+em parceria com as Etecs interessadas no programa; 
+Responsável: 
+<nome> Alan Chesna Vidal 
+Qde CH/sem: 
+04 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> João Roberto da Silva 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Fábio Camilotti 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+04/03/2024 
+Data final: 
+13/12/2024 
+Etapas do processo: 
+01- Prospecção de professores e/ou funcionários interessados em realizar 
+ações junto às Etecs lotadas no município e região  
+04/03 
+29/03 
+ 
+02- Planejamento/Alinhamento entre os objetivos e interesses da Unidade 
+e os das Etecs a serem contatadas 
+29/03 
+06/05 
+ 
+03- Estabelecimento de um calendário de visitas às Etecs lotadas no 
+Município e Região 
+29/03 
+06/05 
+ 
+04- Visita a Etecs lotadas no Município e Região 
+06/05 
+20/09 
+ 
+05- Elaboração de atividades a serem realizadas de forma conjunta entre 
+as Etecs e Fatec; 
+20/09 
+08/11 
+ 
+06- Realização de atividades a serem realizadas em conjunto com as Etecs; 
+20/09 
+13/12 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+Sem Custo 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.10 - Gestão da unidade de ensino e dos cursos (indicadores) 
+(a ser resolvida/mitigada) 
+cat 0.1.09 - Acesso/Inclusão ao Ensino Superior (social, PCD) 
+ 
+ 
+ 
+ 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+704 - cat 7.03 - Projetos com empresas e/ou demais parceiros 
+Origem: 
+2-CPA (Relatório da Comissão Própria de Avaliação da Unidade) 
+O que será feito: 
+Consolidação da Empresa Júnior da Unidade instalada na incubadora de empresas da cidade 
+Por que será feito: 
+• 
+Montagem do conselho da empresa júnior por professores de Biocombustíveis, Gestão 
+Ambiental e Marketing; 
+• 
+Prospecção de projetos e casos para serem trabalhados pela empresa júnior; 
+• 
+Uso de laboratórios e espaços da unidade para realização de estudos e aplicação de 
+tecnologia; 
+• 
+Prospecção de alunos para participarem do movimento da empresa júnior da unidade; 
+Responsável: 
+Fernanda de Freitas Borges 
+Qde CH/sem: 
+06 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): Rodrigo Jussi Lopes 
+Qde CH/sem: 
+04 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): Camila Carla Guimarães 
+Qde CH/sem: 
+04 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+04/03/2024 
+Data final: 
+13/12/2024 
+Etapas do processo: 
+01- Montagem do conselho de professores dos cursos na Empresa Júnior, 
+planejamento e início das atividades; 
+05/02 
+28/03 
+ 
+02- Prospecção de projetos e casos para serem explorados pela empresa; 
+26/02 
+29/11 
+ 
+03- Uso de espaços e equipamentos da faculdade para execução de 
+projetos da empresa junior; 
+04/03 
+13/12 
+ 
+04- Uso de casos da empresa júnior nas aulas dos cursos de graduação; 
+15/02 
+13/12 
+ 
+05- Prospecção de alunos para participarem do movimento da empresa 
+júnior. 
+15/02 
+30/04 
+ 
+06- Preparo e apresentação de relatório de atividades do ano de 20245 
+01/11 
+06/12 
+ 
+07- Planejamento das atividades de 2025 
+06/12 
+13/12 
+ 
+ 
+ 
+ 
+Custo R$ (se houver): 
+Sem Custo 
+Fonte(s) dos recursos: 
+ 
+Situação problema: 
+cat 0.1.10 - Gestão da unidade de ensino e dos cursos (indicadores) 
+(a ser resolvida/mitigada) 
+cat 0.1.09 - Acesso/Inclusão ao Ensino Superior (social, PCD) 
+ 
+ 
+<Copiar tabelas para mais ações> 
+ 
+ 
+ 
+ 
+ 
+Anexo 1 – Lista de aquisições necessárias aos projetos 
+(equipamentos, softwares, mobiliários) 
+ 
+Item 
+Projeto 
+(XYY) 
+Denominação ou especificação do equipamento 
+Quant. 
+01 
+203 
+Access point dual band gigabit 
+04 
+02 
+505 
+Ar-condicionado 30000 BTU 
+25 
+03 
+203 
+Câmera de segurança HD DVR 
+06 
+04 
+206 
+Câmera digital Cyber-shot H300 
+01 
+05 
+207 
+desktop i5 ou superior, 13ª geração com monitor 
+40 
+06 
+206 
+DVR para sistema de câmeras de segurança (mínimo 12 câmeras) 
+01 
+07 
+207 
+No break 1200va, 6 tomadas padrão NBR 10A, bivolt 
+03 
+08 
+207 
+No break 3000va, senoidal, 8 tomadas padrão NBR 10A, bivolt 
+02 
+09 
+207 
+Notebook i5 ou superior, 11ª geração 
+20 
+10 
+203 
+Pressurizador de água 160w - 13mca - 2 a 3 pontos - 220v 
+04 
+11 
+207 
+Switch 16 portas 100/1000 gigabit 
+04 
+12 
+207 
+Switch 24 portas 100/1000 gigabit, gerenciável 
+04 
+13 
+505 
+Ventilador de coluna - 60cm de diâmetro 
+10 
+14 
+505 
+Ventilador de parede - 60cm de diâmetro 
+10 
+15 
+203 
+Viscosímetro - biodiesel 
+01 
+16 
+203 
+Microscópio binocular 
+15 
+17 
+203 
+Condutivímetro de bancada 
+08 
+18 
+203 
+Carrinho auxiliar de aço inox para laboratório - 2 planos 
+01 
+19 
+207 
+Impressora laser 
+02 
+20 
+203 
+Refratômetro automático digital 
+02 
+ 
+ 
+ 
+ 
+ 
+Anexo 2 – Lista de Ações/Projetos referentes à CPA 
+ 
+Item 
+Projeto 
+(XYY) 
+Denominação 
+(O que será feito) 
+Prazo 
+01 
+201 
+Estudos das Condições de Acessibilidade e Permanência nos Ambientes de Ensino 
+Prático  
+30/09/2024 
+02 
+503 
+Manutenção e Reparos de Máquinas, Equipamentos e Mobiliário dos laboratórios 
+da Unidade  
+27/12/2024 
+03 
+109 
+Instituição da Comissão Própria de Avaliação (CPA) 2024 da Fatec Jaboticabal 
+13/12/2024 
+04 
+nnn 
+nn 
+dd/mm/aaaa 
+05 
+nnn 
+nn 
+dd/mm/aaaa 
+06 
+nnn 
+nn 
+dd/mm/aaaa 
+07 
+nnn 
+nn 
+dd/mm/aaaa 
+08 
+nnn 
+nn 
+dd/mm/aaaa 
+09 
+nnn 
+nn 
+dd/mm/aaaa 
+10 
+nnn 
+nn 
+dd/mm/aaaa 
+11 
+nnn 
+nn 
+dd/mm/aaaa 
+12 
+nnn 
+nn 
+dd/mm/aaaa 
+13 
+nnn 
+nn 
+dd/mm/aaaa 
+14 
+nnn 
+nn 
+dd/mm/aaaa 
+15 
+nnn 
+nn 
+dd/mm/aaaa 
+16 
+nnn 
+nn 
+dd/mm/aaaa 
+17 
+nnn 
+nn 
+dd/mm/aaaa 
+18 
+nnn 
+nn 
+dd/mm/aaaa 
+19 
+nnn 
+nn 
+dd/mm/aaaa 
+20 
+nnn 
+nn 
+dd/mm/aaaa 
+ 
+ 
+<fim> 
+ 
+ 
+ 
+ 
+ 
+ 

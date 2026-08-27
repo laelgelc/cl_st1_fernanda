@@ -1,0 +1,2995 @@
+ PLANO DE GESTÃO ANUAL 
+PGA 2025 
+V04 
+Estruturado em uma única etapa, contendo 2 anexos: 
+PLANEJAMENTO PELA EQUIPE GESTORA DA UE 
+● Anexo 1 – Lista de equipamentos necessários aos projetos 
+● Anexo 2 – Lista de Ações/Projetos referentes à CPA (Origem 3: Gestão Tática – CPA) 
+ 
+IDENTIFICAÇÃO DA UNIDADE 
+Unidade 
+código F143 
+Fatec Carapicuíba 
+Diretor(a) 
+Profª Dra. Marcia Araújo 
+ 
+PLANEJAMENTO PELA EQUIPE GESTORA DA UE 
+(Administração da Faculdade - Deliberação CEETEPS 31/2016) 
+ANÁLISE DO CENÁRIO 
+Descrever de forma breve e objetiva o cenário da Unidade perante sua missão como Unidade de Ensino na localidade em que 
+se encontra (é este cenário que se pretende melhorar). 
+ 
+O Município de Carapicuíba conta com 386.984 munícipes, apresenta baixos PIB per capita, com salários médios mensais dos 
+trabalhadores formais em aproximadamente 2,2 salários mínimos e baixo Índice de Desenvolvimento Humano – IDHM 0,749 
+(Censo 2022), comprovando a pouca atividade industrial da região. 
+No entanto a evolução dos dados dos últimos dez anos nos faz inferir que existem perspectivas de crescimento nos próximos 05 
+anos com foco nas atividades de comércio e prestação de serviços. Tais atividades representam a vocação municipal e regional, 
+e nos fornecem dados relevantes para a aderência, a sustentabilidade e a reestruturação dos atuais Cursos Superiores de 
+Tecnologia oferecidos pela Fatec Carapicuíba, assim como subsidiam o planejamento de novos Cursos. Atualmente a Fatec 
+Carapicuíba oferece 07 (sete) Cursos Tecnológicos, focados nas áreas da Informação, Comunicação, Gestão e Negócios: 
+ 
+ 
+CURSO 
+ATO LEGAL 
+DATA 
+RECONHECIMENTO (CEE) 
+ANÁLISE E DESENVOLVIMENTO DE 
+SISTEMAS ADS (Manhã e Noite) 
+Portaria CEE-GP 17 
+28/01/2022 
+05 anos - Renovação 
+DESIGN EM MÍDIAS DIGITAIS (Manhã) 
+Portaria CEE/GP 410 
+29/11/2021 
+03 anos – 1º Reconhecimento 
+JOGOS DIGITAIS (Manhã e Noite) 
+Portaria CEE/GP 43 
+30/01/2020 
+05 anos - Renovação 
+LOGÍSTICA (Manhã e Noite) 
+Portaria CEE/GP 374 
+17/11/2021 
+05 anos - Renovação 
+PROGRAMA A.M.S. ANÁLISE DESEV. 
+SISTEMAS 
+Parecer CEE/GP 403 
+04/11/2024 
+03 anos – 1º Reconhecimento 
+SECRETARIADO (Noite)  
+Portaria CEE/GP 414 
+29/11/2021 
+05 anos - Renovação 
+GESTÃO EMPRESARIAL EAD 
+Portaria CEE/GP 101 
+04/03/2020 
+05 anos - Renovação 
+ 
+Os Cursos Superiores de Tecnologia da unidade de ensino estão focados em estruturar situações de melhorias e superações 
+no âmbito municipal e estadual, de acordo com a Missão de: “Formar o profissional Tecnólogo com base na competência 
+profissional adequada às necessidades do setor produtivo mediante o desenvolvimento de habilidades que contribuam para a 
+elevação da qualidade e da produtividade dos processos, produtos e serviços, para a melhoria do padrão de vida do discente e 
+para o desenvolvimento social”. 
+ 
+ 
+● Discorrer sobre o cenário, realizando um breve diagnóstico (limitar o espaço da escrita, para que seja inserido de forma sucinta). 
+APONTAMENTO DE SITUAÇÕES-PROBLEMA MAIS RELEVANTES 
+Fontes: relatório CPA, análise de processos críticos da UE, relatório de atendimento e ocorrências Hórus, relatório NDE, 
+relatório de representação discente (DA, Atlética, representantes de turma), relatório CIPA, entre outros. 
+1 
+cat 0.1.11 - Segurança pessoal e patrimonial 
+ 
+5 
+cat 0.1.01 - Metodologia de ensino, desempenho de 
+alunos, evasão 
+2 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+ 
+6 
+cat 0.1.09 - Acesso/Inclusão ao Ensino Superior 
+(social, PCD) 
+3 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de 
+ensino 
+ 
+7 
+cat 0.1.08 - Participação da comunidade e sociedade 
+4 
+cat 0.1.06 - Quantidade de professores/funcionários 
+ 
+8 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+Outra – Especificar: nn 
+ 
+Objetivos Institucionais – CPS (Plano de Metas) 
+1) Atender às demandas sociais e do mercado de trabalho. 
+2) Obter a satisfação dos públicos que se relacionam com o Centro Paula Souza (stakeholders). 
+3) Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem. 
+4) Assegurar a perenidade do crescimento da instituição com recursos financeiros disponíveis. 
+5) Garantir celeridade e efetividade na prestação de serviços. 
+6) Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no desenvolvimento tecnológico e inovação. 
+7) Promover a cultura de inovação e empreendedorismo. 
+8) Aumentar a eficiência, a produtividade e a competitividade da instituição. 
+9) Ampliar a oferta da Educação Profissional. 
+10) Resolução Conjunta SOG/SFP/SG-3, de 28-12-2022 - Bonificação por Resultados – BR das Secretarias de Estado, Procuradoria Geral do Estado, 
+Controladoria Geral do Estado e das Autarquias, de que trata a LC 1361-2021 
+Objetivos Institucionais – Cesu (Plano de Metas) 
+A. Integrar as diferentes modalidades de ensino, otimizando itinerários e tempo para a formação profissional. 
+B. Inovar processos de ensino e aprendizagem para manter excelência diante do mercado. 
+C. Ampliar a capacidade de criar e atualizar cursos em parceria com o mercado. 
+D. Expandir e ampliar a capacidade de articulação com Governos e Setores Produtivos. 
+E. Promover a captação de recursos extras e não orçamentários. 
+Atenção: Determinação da Origem (prioridade) de uma Ação ou Projeto de Melhoria que compõe o PGA, a fim de ordenar os graus de prioridade tomando-se por 
+base atos normativos regulatórios das atividades do CPS, e a governança institucional, por suas esferas Estratégica, Tática e Operacional: 
+Grau 1 - URGÊNCIA DE REGULAÇÃO - prioridade máxima (advinda do MEC, CEE, MP, Vigilância Sanitária ou notificação de qualquer órgão regulador/fiscalizador) 
+- fundamentação: notificação de fiscalização, diligência de regulação, termo de ajustamento de conduta, relatório circunstanciado, dentre outros 
+emanados de órgãos que impõem ações para cumprimento com regularidade normativa da instituição. 
+Grau 2 - URGÊNCIA ESTRATÉGICA - Gestão Estratégica do CPS (AMS, novos cursos e unidades, programas de governo) - fundamentação: PPA do CPS, ações de 
+governo conduzidas pela Superintendência do CPS. 
+Grau 3 - PRIORIDADE ALTA - Gestão Tática (ações correlatas à Avaliação institucional - ENADE, WebSAI, CPA, Observatório Escolar). - fundamentação: processo 
+avaliativo de órgãos reguladores, processo avaliativo interno do CPS. 
+Grau 4 - PRIORIDADE MÉDIA - Gestão Operacional para aumento da capacidade instalada. - fundamentação: plano operacional de gestão, homologado pela 
+respectiva área da intendência, com foco na atividade fim do CPS. 
+Grau 5 - PRIORIDADE REGULAR - Gestão Operacional para preservação da capacidade instalada. - fundamentação: plano operacional de gestão, homologado 
+pela respectiva área da intendência, com foco na atividade fim do CPS. 
+ 
+ESTRUTURAÇÃO DAS AÇÕES/PROJETOS 
+01 - Didático-pedagógico 
+Ações associadas ao PPC/PE de CSTs e Disciplinas: CST (implantação, alteração, readequação, reestruturação), 
+prática pedagógica (PE, PA), projeto interdisciplinar/ integrador, extensão curricularizada. 
+ 
+AÇÃO/PROJETO (Tema) 
+101 - cat 1.01 - Adequação/reestruturação de PPC, implantação de novos cursos. 
+Origem (prioridade): 
+2-Gestão Estratégica Institucional (AMS, novos cursos e unidades) 
+O que será feito: 
+Implantação do Curso Superior em Tecnologia em Big Data para Mercado Financeiro em 2026 
+Por que será feito: 
+Para atender as novas demandas do mercado 
+Responsável: 
+<nome> Profª Dra. Marcia Araújo 
+Qde CH/sem: 
+10 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> Profª Dra. Magali Andreia Rossi 
+ 
+Qde CH/sem: 
+05 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome>  
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+10/02/2025 
+Data final: 
+30/12/2025 
+Etapas do processo: 
+01- Reunião do Colegiado Docente para análise da proposta 
+10/02 
+28/02 
+ 
+02- Reunião da Congregação da Faculdade para análise e aprovação do PPC 
+– Projeto Pedagógico do Curso 
+03/03 
+31/03 
+ 
+03- Preparo do processo documental no SEI 
+01/04 
+30/07 
+ 
+04- Envio do processo à CESU 
+01/08 
+30/12 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.09 - Acesso/Inclusão ao Ensino Superior (social, PCD) 
+(a ser resolvida/mitigada) 
+cat 0.1.08 - Participação da comunidade e sociedade 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+102 - cat 1.01 - Adequação/reestruturação de PPC, implantação de novos cursos. 
+Origem (prioridade): 
+1-Regulação - Notificação de órgão (MEC, CEE, VS.,..) 
+O que será feito: 
+Atualizar a matriz curricular do Curso Superior de Tecnologia Design de Mídias Digitais 
+Por que será feito: 
+Para atender as novas demandas da Renovação do Reconhecimento do Curso  
+Responsável: 
+Profs. Tarcísio Souza Peres 
+Qde CH/sem: 
+04 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): Profa. Marcia Luiza Pires de Araújo 
+Qde CH/sem: 
+04 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+10/02/2025 
+Data final: 
+30/07/2025 
+Etapas do processo: 
+01- Documentação solicitada pela CESU enviada em 2024. Aguardando 
+retorno da CESU. 
+10/02 
+30/07 
+ 
+02- Plano de ação de acordo com o retorno. 
+30/07 
+30/07 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.09 - Acesso/Inclusão ao Ensino Superior (social, PCD) 
+ 
+ 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+103 - cat 1.02 - Eventos e publicações acadêmicos e científicos 
+Origem (prioridade): 
+1-Regulação - Notificação de órgão (MEC, CEE, VS.,..) 
+O que será feito: 
+Publicação da Revista Científica MD MÍDIA & DESIGN 
+Por que será feito: 
+Para promover a excelência acadêmica e divulgação do CST DMD e da unidade 
+Responsável: 
+Prof. Tarcísio Souza Peres 
+Qde CH/sem: 
+04 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): Prof. Fábio Pessoa Sá 
+Qde CH/sem: 
+05 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): Profª Sandra Trabuco 
+Qde CH/sem: 
+06 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): Prof. Ricardo Iannace 
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+10/02/2025 
+Data final: 
+30/07/2025 
+Etapas do processo: 
+01- Ajustes e preparação da publicação Nº 03 da Revista Científica MD 
+MÍDIA & DESIGN 
+10/02 
+30/04 
+ 
+02- Planejamento da terceira edição 
+01/05 
+30/04 
+ 
+03- Avaliação e preparação da publicação Nº 03 da Revista Científica MD 
+MÍDIA & DESIGN 
+02/05 
+30/07 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+104 - cat 1.06 - Ações pedagógicas: visitas técnicas, projetos integradores/interdisciplinares, dias de campo, 
+feira das profissões, cursos extracurriculares para alunos. 
+Origem (prioridade): 
+1-Regulação - Notificação de órgão (MEC, CEE, VS.,..) 
+O que será feito: 
+Buscar e intermediar a realização de atividades e eventos que beneficiem a comunidade acadêmica 
+e a sociedade: estágios, integração empresa-escola, visitas técnicas, pesquisa e extensão 
+Por que será feito: 
+Para ampliar o conhecimento e o rendimento acadêmico 
+Responsável: 
+Profs. Alvaro Gabriele Bento Rodrigues Junior, Ricardo 
+Iannace e Tarcisio Souza Peres  
+Qde CH/sem: 
+04 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): Profs. Carlos Alberto Paiva e Luciano Moraes dos Santos Qde CH/sem: 
+04 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): Prof. Renato Fava Martelli e Franklin Portela Correia 
+Qde CH/sem: 
+04 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+10/02/2025 
+Data final: 
+15/12/2025 
+Etapas do processo: 
+01- Levantamento de necessidades e planejamento das atividades 
+pedagógicas 
+10/02 
+15/03 
+ 
+02- Contato com palestrantes, empresas e colaboradores para realização 
+de uma agenda anual 
+03/03 
+31/03 
+ 
+03- Execução das atividades pedagógicas 
+01/04 
+31/10 
+ 
+04- Avaliação dos Discentes e Docentes 
+03/11 
+28/11 
+ 
+05- Consolidação do Relatório de Atividades 2025 
+01/12 
+15/12 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.08 - Participação da comunidade e sociedade 
+ 
+ 
+ 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+105 - cat 1.06 - Ações pedagógicas: visitas técnicas, projetos integradores/interdisciplinares, dias de campo, 
+feira das profissões, cursos extracurriculares para alunos. 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+EVENTOS INTERNOS: FATECLOG evento do Curso de Logística (unificando todos os eventos dos 
+demais cursos no primeiro semestre);. 
+Por que será feito: 
+Para ampliar a cultura e estimular o pensamento crítico dos discentes 
+Responsável: 
+Profª Dra. Marcia Araújo e Prof. Luciano Moraes dos 
+Santos 
+Qde CH/sem: 
+05 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): Profs. Carlos Alberto Paiva e Profa. Sandra Bianca 
+Zenriques Geroldo, Prof. Alexandre Bittencourt Faria 
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): Prof. Renato Fava Martelli, e Prof. Franklin Portela 
+Correia 
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+10/02/2025 
+Data final: 
+30/12/2025 
+Etapas do processo: 
+01- Levantamento e planejamento dos eventos  
+10/02 
+28/02 
+ 
+02- Definição a Estrutura do Evento 
+01/03 
+29/03 
+ 
+03- Organização das equipes que darão suporte ao Evento 
+30/03 
+12/06 
+ 
+04- Realização do Evento  
+13/06 
+15/06 
+ 
+05- Emissão de relatórios e ajustes para próximos eventos 
+16/06 
+31/08 
+ 
+06- Planejamento estratégico de melhorias futuras 
+01/09 
+31/09 
+ 
+07-Reuniões de planejamento para o próximo ciclo 
+01/10 
+30/11 
+ 
+05- Consolidação das atividades para o Relatório de Atividades Anuais 2025 
+01/12 
+30/12 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.08 - Participação da comunidade e sociedade 
+ 
+AÇÃO/PROJETO (Tema) 
+106 - cat 1.14 - Curso de Extensão 
+Origem (prioridade): 
+1-Regulação - Notificação de órgão (MEC, CEE, VS.,..) 
+O que será feito: 
+Atividades extensionistas promovidas por discentes; ações práticas na comunidade local que sejam 
+relacionadas às disciplinas cursadas (oficinas de informática à comunidade local; desenvolvimento 
+de projetos de programação visual em meios digitais aos pequenos empreendedores da região; 
+workshop “Trânsito Seguro”; esclarecimento de dúvidas para realização de IR – Imposto de Renda; 
+campanhas para arrecadação de alimentos, cadeira de rodas e agasalhos à famílias de baixa renda; 
+eventos esportivos tais como campeonatos, torneios, e outras apresentações esportivas; festivais 
+e demais atividades/eventos artísticos e culturais). 
+Por que será feito: 
+O papel da Fatec Carapicuíba está baseado no tripé ensino (profissionalização), pesquisa 
+(iniciação científica) e extensão (aplicação da ciência à sociedade), garantindo uma formação 
+acadêmica e profissional de qualidade para os discentes. As atividades extensionistas pretendem 
+divulgar o conhecimento produzido na Faculdade e oferecer estes saberes à comunidade. 
+Responsável: 
+Profs. Alvaro Gabriele Bento Rodrigues Junior e Renato 
+Fava Martelli 
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): Profs. Carlos Alberto Paiva e Luciano Moraes dos Santos Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): Profs. Tarcísio Souza Peres e Franklin Portela Correia 
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+10/02/2025 
+Data final: 
+30/12/2025 
+Etapas do processo: 
+01- Levantamento e planejamento das atividades extensionistas 
+10/02 
+28/02 
+ 
+02- Execução das atividades extensionistas por discentes e docentes  
+03/03 
+28/11 
+ 
+03- Avaliação das atividades extensionistas realizadas 
+01/12 
+15/12 
+ 
+04- Consolidação das atividades para o Relatório de Atividades Anuais 2025 
+16/12 
+30/12 
+ 
+ 
+ 
+ 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.08 - Participação da comunidade e sociedade 
+ 
+ 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+107 - cat 1.07 - Divulgação do vestibular e ações de fortalecimento de imagem institucional 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+AÇÃO/PROJETO (Tema) 
+107 - cat 1.07 - Divulgação do vestibular e ações de fortalecimento de imagem institucional 
+Origem: 
+1-CEE (Relatório Circunstanciado do Conselho Estadual de Educação 
+O que será feito: 
+Divulgações por meio de folders, vídeos, palestras nas escolas, Fatec Portas Abertas, Atividades 
+Acadêmico-Culturais com a participação de docentes e discentes de todos os Cursos. 
+Por que será feito: 
+Para promover a Fatec Carapicuíba e os Cursos Superiores de Tecnologia oferecidos 
+Responsável: 
+<nome> Profª Vanessa Priscila Salvador Lopes 
+Qde CH/sem: 
+04 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): <nome>  
+Qde CH/sem: 
+02 
+Tipo: 
+ 
+Colaborador(a):  
+Qde CH/sem: 
+ 
+Tipo: 
+ 
+Período de execução: 
+Data inicial: 
+10/02/2025 
+Data final: 
+30/12/2025 
+Etapas do processo: 
+01- Planejamento das ações de marketing educacional para o ano de 2025 
+10/02 
+03/03 
+ 
+02- Execução das atividades de marketing educacional planejadas 
+04/03 
+28/11 
+ 
+03- Avaliação das ações de divulgação e execução dos relatórios 
+01/12 
+15/12 
+ 
+04- Levantamento e planejamento das ações de marketing para 2026 
+16/12 
+30/12 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+Nn 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.08 - Participação da comunidade e sociedade 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+108 - cat 1.08 - Eventos e ações para aperfeiçoamento docente (Spap, treinamentos, avaliação docente) 
+Origem (prioridade): 
+2-Gestão Estratégica Institucional (AMS, novos cursos e unidades) 
+O que será feito: 
+Capacitação do Colegiado Docente 
+Por que será feito: 
+Para ampliar o conhecimento dos Docentes em Metodologias Ativas, Inovação, implementação 
+de Tecnologias da Informação e Comunicação (TICs) nas rotinas acadêmicas; articulação dos 
+equipamentos tecnológicos, recursos multimídias e digitais no ensino superior, entre outras. 
+Responsável: 
+<nome>Profª Marcia Araújo 
+Qde CH/sem: 
+02 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): <nome> Prof. Luciano Moraes Santos 
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+10/02/2025 
+Data final: 
+30/12/2025 
+Etapas do processo: 
+01- Levantamento e planejamento das oficinas inclusive SPAP 
+10/02 
+28/02 
+ 
+02- Organização de Agenda Anual de Treinamentos 
+03/03 
+31/03 
+ 
+03- Execução das Atividades: Capacitações em Metodologias Ativas, 
+Inovação, 
+implementação 
+de 
+Tecnologias 
+da 
+Informação 
+e 
+Comunicação (TICs) nas rotinas acadêmicas, articulação dos equipamentos 
+tecnológicos, recursos multimídias e digitais no ensino superior, entre 
+outras. 
+01/04 
+28/11 
+ 
+04- Avaliação e consolidação dos dados no Relatório de Atividades Anuais 
+2025 
+01/12 
+30/12 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.13 - Relacionamento interpessoal da equipe 
+(a ser resolvida/mitigada) 
+cat 0.1.10 - Gestão da unidade de ensino e dos cursos (indicadores) 
+ 
+ 
+ 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+109 - cat 1.01 - Adequação/reestruturação de PPC, implantação de novos cursos. 
+Origem (prioridade): 
+1-Regulação - Notificação de órgão (MEC, CEE, VS.,..) 
+O que será feito: 
+Atualizar a matriz curricular do Curso Superior de Tecnologia em Análise e Desenvolvimento de 
+Sistemas 
+Por que será feito: 
+Para atender as novas demandas do mercado  
+Responsável: 
+Profa. Sandra Bianca Henriques Geroldo 
+Qde CH/sem: 
+04 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): Prof. Franklin Portela Correia 
+Qde CH/sem: 
+04 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): Profs. Renato Fava Martelli   
+Qde CH/sem: 
+04 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+10/02/2025 
+Data final: 
+30/07/2025 
+Etapas do processo: 
+01- Reuniões com outros coordenadores do curso de Análise e 
+Desenvolvimento de Sistemas a fim de entender e definir similaridades na 
+grade curricular, como também entender os processos e os procedimentos 
+para reestruturação do curso de ADS 
+10/02 
+20/06 
+ 
+02- Reuniões do NDE – Núcleo Docente Estruturante do Curso 
+20/03 
+20/06 
+ 
+03- Reuniões dos Colegiados Docentes para análise das propostas de 
+atualização curricular, atualização bibliográfica, atividades de extensão e 
+ensino híbrido, entre outras atualizações de acordo com as demandas dos 
+órgãos reguladores. 
+20/04 
+10/06 
+ 
+04- Reunião Congregação da Faculdade para análise e aprovação das 
+propostas 
+01/06 
+30/07 
+ 
+05- Preparo dos respectivos processos no SEI para envio à CESU 
+01/06 
+30/07 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.09 - Acesso/Inclusão ao Ensino Superior (social, PCD) 
+ 
+AÇÃO/PROJETO (Tema) 
+110 - cat 1.01 - Adequação/reestruturação de PPC, implantação de novos cursos. 
+Origem (prioridade): 
+1-Regulação - Notificação de órgão (MEC, CEE, VS.,..) 
+O que será feito: 
+Atualizar a matriz curricular do Curso Superior de Tecnologia em Secretariado 
+Por que será feito: 
+Para atender as novas demandas do mercado  
+Responsável: 
+Prof. Renato Fava Martelli   
+Qde CH/sem: 
+04 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): Profa. Sandra Bianca Henriques Geroldo 
+Qde CH/sem: 
+04 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): Prof. Franklin Portela Correia 
+Qde CH/sem: 
+04 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+10/02/2025 
+Data final: 
+30/07/2025 
+Etapas do processo: 
+01- Reuniões do NDE – Núcleo Docente Estruturante do Curso, sendo um 
+dos objetivos a proposta de inclusão de novas disciplinas 
+10/02 
+28/02 
+ 
+02- Reuniões com o Colegiado Docente para análise das propostas de 
+atualização curricular, atualização bibliográfica, atividades de extensão e 
+ensino híbrido, entre outras atualizações de acordo com as demandas dos 
+órgãos reguladores.  
+03/03 
+30/04 
+ 
+03- Reunião com a Congregação da Faculdade para análise e aprovação das 
+propostas 
+01/05 
+30/05 
+ 
+04- Preparo dos respectivos processos no SEI para envio à CESU 
+01/06 
+30/07 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.09 - Acesso/Inclusão ao Ensino Superior (social, PCD) 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+111 - cat 1.01 - Adequação/reestruturação de PPC, implantação de novos cursos. 
+Origem (prioridade): 
+1-Regulação - Notificação de órgão (MEC, CEE, VS.,..) 
+O que será feito: 
+Dar continuidade ao projeto Fatec Solidária 
+Por que será feito: 
+Para atender as necessidades da comunidade local (oferecendo cestas básicas e cadeiras de roda) 
+Responsável: 
+Prof. Renato Fava Martelli   
+Qde CH/sem: 
+04 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+Profa. Sandra Bianca Henriques Geroldo, Prof. Alvaro 
+Gabriele Bento Rodrigues Junior , Prof. Tarcísio Souza 
+Peres, Prof. Carlos Alberto Paiva  
+ 
+Qde CH/sem: 
+04 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): Prof. Luciano Moraes dos Santos, Prof. Franklin Portela 
+Correia, Prof. Alexandre Bittencourt 
+Qde CH/sem: 
+04 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+10/02/2025 
+Data final: 
+30/12/2025 
+Etapas do processo: 
+01- Divulgação do projeto junto à comunidade acadêmica 
+10/02 
+30/07 
+ 
+02- Disponibilizar o local para captação de garrafas pet, latas de alumínio e 
+plásticos recicláveis  
+10/02 
+30/07 
+ 
+03- Selecionar/separar os itens coletados 
+10/02 
+30/07 
+ 
+04- Encaminhar os itens ao entreposto e arrecadar valores para a compra 
+de cestas básicas e cadeiras de roda 
+20/02 
+30/07 
+ 
+05- Selecionar pessoas necessitadas para a retirada das doações 
+01/07 
+30/12 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.13 - Relacionamento interpessoal da equipe 
+(a ser resolvida/mitigada) 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+112 - cat 1.01 - Adequação/reestruturação de PPC, implantação de novos cursos. 
+Origem (prioridade): 
+1-Regulação - Notificação de órgão (MEC, CEE, VS.,..) 
+O que será feito: 
+Atualizar a matriz curricular do Curso Superior de Tecnologia em Logística 
+Por que será feito: 
+Para atender as novas demandas do mercado  
+Responsável: 
+Prof. Luciano Moraes dos Santos 
+Qde CH/sem: 
+04 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): Prof. Franklin Portela Correia 
+Qde CH/sem: 
+04 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): Profs. Renato Fava Martelli   
+Qde CH/sem: 
+04 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+10/02/2025 
+Data final: 
+30/12/2025 
+Etapas do processo: 
+01- Reuniões com outros coordenadores do curso de Tecnologia em 
+Logística, onde todos compõem o Comitê de Logística, s a fim de entender 
+e definir similaridades na grade curricular, como também entender os 
+processos e os procedimentos para reestruturação do Curso de Logística 
+10/02 
+20/06 
+ 
+02- Reuniões do NDE – Núcleo Docente Estruturante do Curso 
+20/03 
+20/06 
+ 
+03- Reuniões dos Colegiados Docentes para análise das propostas de 
+atualização curricular, atualização bibliográfica, atividades de extensão e 
+ensino híbrido, entre outras atualizações de acordo com as demandas dos 
+órgãos reguladores. 
+20/04 
+10/06 
+ 
+04- Reunião Congregação da Faculdade para análise e aprovação das 
+propostas 
+01/06 
+30/07 
+ 
+05- Preparo dos respectivos processos no SEI para envio à CESU 
+30/07 
+30/12 
+ 
+06-  
+ 
+ 
+ 
+07-  
+ 
+ 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.09 - Acesso/Inclusão ao Ensino Superior (social, PCD) 
+ 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+113 - cat 1.01 - Adequação/reestruturação de PPC, implantação de novos cursos. 
+Origem (prioridade): 
+1-Regulação - Notificação de órgão (MEC, CEE, VS.,..) 
+O que será feito: 
+Atualizar a matriz curricular do Curso Superior de Tecnologia Jogos Digitais 
+Por que será feito: 
+Para atender as novas demandas da Renovação do Reconhecimento do Curso  
+Responsável: 
+Profs. Carlos Alberto Paiva 
+Qde CH/sem: 
+04 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): Prof. Alvaro Gabriele B. Rodrigues Junior 
+Qde CH/sem: 
+04 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+10/02/2025 
+Data final: 
+30/07/2025 
+Etapas do processo: 
+01- Reuniões com outros coordenadores do curso de Tecnologia em Jogos 
+Digitais 
+10/02 
+20/06 
+ 
+02- Reuniões do NDE – Núcleo Docente Estruturante do Curso 
+20/03 
+20/06 
+ 
+03- Reuniões dos Colegiados Docentes para análise das propostas de 
+atualização curricular, atualização bibliográfica, atividades de extensão e 
+ensino híbrido, entre outras atualizações de acordo com as demandas dos 
+órgãos reguladores. 
+20/04 
+10/06 
+ 
+04- Reunião Congregação da Faculdade para análise e aprovação das 
+propostas 
+01/06 
+30/07 
+ 
+05- Preparo dos respectivos processos no SEI para envio à CESU 
+30/07 
+30/07 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.09 - Acesso/Inclusão ao Ensino Superior (social, PCD) 
+ 
+ 
+ 
+02 – Laboratórios - Ensino e Equipamentos Associados 
+Ações para melhoramento dos laboratórios de Ensino (Gestão e Equipamentos): Melhoramento de 
+equipamentos, mediante instalação, manutenção, desuso, doação, e gestão de ambiente laboratorial. 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+202 - cat 2.04 - Ambiente de ensino prático - implantação/melhoramento com recursos NÃO PEDAGÓGICOS 
+Origem (prioridade): 
+1-Regulação - Notificação de órgão (MEC, CEE, VS.,..) 
+O que será feito: 
+Sala Maker 
+Por que será feito: 
+Para o desenvolvimento de pesquisas aplicadas com uso da criatividade, raciocínio lógico, 
+resolução de problemas e inovações com a participação de monitores de I.C. 
+Responsável: 
+<nome> Profª Érika Fernanda Caramello 
+Qde CH/sem: 
+10 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+10/02/2025 
+Data final: 
+30/12/2025 
+Etapas do processo: 
+01- Seleção dos Monitores para a Iniciação Científica na Sala Maker 
+10/02 
+28/02 
+ 
+02- Abertura do Edital para escolha de novos projetos; aquisição de novos 
+equipamentos e softwares 
+03/03 
+28/03 
+ 
+03- Desenvolvimento dos projetos com orientação de docentes do Curso 
+01/04 
+28/11 
+ 
+04- Mostra da produção em eventos científicos; apresentação do novo 
+layout à comunidade acadêmica mediante as novas aquisições 
+01/12 
+30/12 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+(a ser resolvida/mitigada) 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+203 - cat 2.04 - Ambiente de ensino prático - implantação/melhoramento com recursos NÃO PEDAGÓGICOS 
+Origem (prioridade): 
+1-Regulação - Notificação de órgão (MEC, CEE, VS.,..) 
+O que será feito: 
+TECHLAB - Laboratório de Jogos Digitais 
+Por que será feito: 
+Para o desenvolvimento de pesquisas aplicadas na área de Games e Tecnologia da Informação 
+(TI); espaço será dedicado à prototipação e desenvolvimento de tecnologias de ponta; 
+materialização de projetos de inovação; manufatura de um equipamento que fabrique filamentos 
+para impressoras 3D a partir de materiais reciclados. 
+Responsável: 
+<nome> Profª Magali Andreia Rossi 
+Qde CH/sem: 
+10 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+10/02/2025 
+Data final: 
+30/12/2025 
+Etapas do processo: 
+01- Seleção dos Monitores para a Iniciação Científica no TECHLAB 
+10/02 
+28/02 
+ 
+02- Abertura do Edital para escolha dos projetos; aquisição de novos 
+equipamentos (MacIntosh com interface gráfica e softwares) 
+03/03 
+28/03 
+ 
+03- Desenvolvimento dos projetos com orientação de docentes da 
+Faculdade 
+01/04 
+28/11 
+ 
+04- Mostra da produção em eventos científicos; apresentação do novo 
+layout à comunidade acadêmica mediante as novas aquisições 
+01/12 
+30/12 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+(a ser resolvida/mitigada) 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+ 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+204 - cat 2.04 - Ambiente de ensino prático - implantação/melhoramento com recursos NÃO PEDAGÓGICOS 
+Origem (prioridade): 
+1-Regulação - Notificação de órgão (MEC, CEE, VS.,..) 
+O que será feito: 
+Laboratório de Controle de Qualidade de Games (Lab 202) 
+Por que será feito: 
+O Laboratório de Controle de Qualidade de Games (Lab 202) busca atender a demanda local de 
+testagem para jogos digitais. Todos os protótipos de alunos do CST em Jogos Digitais terão a 
+oportunidade de ser pós-produzidos e implementados em plataforma educacional. 
+Responsável: 
+<nome> Prof. Carlos Alberto Paiva 
+Qde CH/sem: 
+10 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> Prof. Álvaro Gabriele Bento Rodrigues Junior 
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+10/02/2025 
+Data final: 
+30/12/2025 
+Etapas do processo: 
+01- Seleção dos Monitores para a Iniciação Científica no Laboratório de 
+Games 
+10/02 
+28/02 
+ 
+02- Abertura do Edital para escolha de novos projetos; aquisição de novos 
+equipamentos (MacIntosh com interface gráfica e softwares específicos 
+para programação e testes de games e consoles,  cortinas, cadeiras de 
+rodinhas, ar-condicionado, ventiladores e TVs) 
+03/03 
+31/03 
+ 
+03- Desenvolvimento dos projetos com orientação de docentes da 
+Faculdade 
+01/04 
+28/11 
+ 
+04- Mostra da produção em eventos científicos; apresentação do novo 
+layout à comunidade acadêmica mediante as novas aquisições 
+01/12 
+30/12 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+(a ser resolvida/mitigada) 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+ 
+AÇÃO/PROJETO (Tema) 
+205 - cat 2.02 - Laboratório informática - implantação/melhoramento com recursos PEDAGÓGICOS 
+Origem (prioridade): 
+1-Regulação - Notificação de órgão (MEC, CEE, VS.,..) 
+O que será feito: 
+Melhora na infraestrutura laboratorial  de 12 (doze) ambientes de ensino (Laboratórios de 
+Informática 203, 204, 205, 206, 207, 209, 210, 211, 212, 213, 214 e 215) 
+Por que será feito: 
+Para melhorar o desempenho dos laboratórios de informática (hardware e software): aquisição 
+de desktops de última geração; aparelhos de ar condicionado, ventiladores e cortinas blackout 
+para climatização adequada e conservação dos equipamentos; estabilizadores; switch; 
+servidores; substituição dos cabos de rede para Cat 6; pintura; iluminação adequada; troca de 
+cadeiras fixas por cadeiras de rodinhas; substituição das lousas brancas e demais equipamentos 
+inservíveis. 
+Responsável: 
+<nome> Profs. Alvaro Gabriele Bento Rodrigues Junior, 
+Profa. Sandra Bianca Henriques Geroldo  
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> Profs. Carlos Alberto Paiva e Luciano Moraes dos 
+Santos 
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> Prof. Renato Fava Martelli e Franklin Portela 
+Correia 
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+10/02/2025 
+Data final: 
+30/12/2025 
+Etapas do processo: 
+01- Seleção dos Monitores para a Iniciação Científica no Laboratório de 
+Games  
+10/02 
+28/02 
+ 
+02- Abertura do Edital para escolha de novos projetos; aquisição de novos 
+equipamentos para melhorar o desempenho dos laboratórios; 
+reestruturação dos laboratórios de informática (substituição dos 
+equipamentos obsoletos e inservíveis por novos e adequação da rede 
+lógica com auxílio dos Auxiliares Docentes e Monitores de Iniciação 
+Científica) 
+03/03 
+31/03 
+ 
+03- Desenvolvimento dos projetos com orientação de docentes da 
+Faculdade 
+01/04 
+28/11 
+ 
+04- Mostra da produção em eventos científicos; apresentação do novo 
+layout à comunidade acadêmica mediante as novas aquisições 
+01/12 
+30/12 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+(a ser resolvida/mitigada) 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+ 
+AÇÃO/PROJETO (Tema) 
+206 - cat 2.04 - Ambiente de ensino prático - implantação/melhoramento com recursos NÃO PEDAGÓGICOS 
+Origem (prioridade): 
+1-Regulação - Notificação de órgão (MEC, CEE, VS.,..) 
+O que será feito: 
+Espaço Análise e Desenvolvimento Aplicados (Espaço ADA) 
+Por que será feito: 
+Para melhorar o aprendizado prático e para o desenvolvimento de pesquisas aplicadas 
+considerando o uso de novas tecnologias da área de TI (Tecnologia da Informação). 
+Responsável: 
+Profª Sandra Bianca Henriques Geroldo 
+Qde CH/sem: 
+2 
+Tipo: HAE - Hora Atividade 
+Específica 
+Colaborador(a): Prof. Luiz Sérgio de Souza  
+Qde CH/sem: 
+nn 
+Tipo: HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: HAE - Hora Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+10/02/2025 
+Data final: 
+30/12/2025 
+Etapas do processo: 
+01- Seleção dos monitores para a Iniciação Científica no Espaço ADA 
+ 
+ 
+ 
+02- Abertura do Edital para escolha de novos projetos; aquisição de novos 
+equipamentos e softwares 
+ 
+ 
+ 
+03- Desenvolvimento dos projetos com orientação de docentes do Curso 
+ 
+ 
+ 
+04- Mostra da produção em eventos científicos; apresentação do novo 
+layout à comunidade acadêmica mediante as novas aquisições 
+01/12 
+30/12 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+(a ser resolvida/mitigada) 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+ 
+AÇÃO/PROJETO (Tema) 
+207 - cat 2.04 - Ambiente de ensino prático - implantação/melhoramento com recursos NÃO PEDAGÓGICOS 
+Origem (prioridade): 
+1-Regulação - Notificação de órgão (MEC, CEE, VS.,..) 
+O que será feito: 
+TECHLOG - Laboratório de Logística 
+Por que será feito: 
+Para melhorar o aprendizado prático e para o desenvolvimento de pesquisas aplicadas 
+considerando o uso de novas tecnologias da área de Logística. 
+Responsável: 
+Prof. Luciano Moraes dos Santos 
+Qde CH/sem: 
+2 
+Tipo: HAE - Hora Atividade 
+Específica 
+Colaborador(a): Prof. Augusto de Toledo Cruz Junior  
+Qde CH/sem: 
+2 
+Tipo: HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+10/02/2025 
+Data final: 
+30/12/2025 
+Etapas do processo: 
+01- Seleção dos monitores para a Iniciação Científica no TECHLOG 
+10/02 
+10/04 
+ 
+02- Abertura do Edital para escolha de novos projetos; aquisição de novos 
+equipamentos e softwares 
+11/04 
+30/06 
+ 
+03- Desenvolvimento dos projetos com orientação de docentes do Curso 
+11/04 
+30/06 
+ 
+04- Mostra da produção em eventos científicos; apresentação do novo 
+layout à comunidade acadêmica mediante as novas aquisições 
+01/12 
+30/12 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+(a ser resolvida/mitigada) 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+ 
+03 – Pesquisa / Extensão e Equipamentos Associados 
+Ações para melhoramento dos laboratórios que contemplam Pesquisa além do Ensino (Equipamentos): 
+melhoramento dos espaços de pesquisa, que inclui especificação equipamentos e aquisição por fomento ou por 
+projeto com empresa, e também prestação de serviços no campo tecnológico para instituições e empresas. 
+ 
+AÇÃO/PROJETO (Tema) 
+301 - cat 3.02 - Desenvolvimento de Projetos de IC - MDITI 
+Origem (prioridade): 
+1-Regulação - Notificação de órgão (MEC, CEE, VS.,..) 
+O que será feito: 
+Inscrição de 04 projetos da Fatec Carapicuíba no MCTI – Ministério da Ciência, Tecnologia e 
+Inovação 
+Por que será feito: 
+Para atender as recomendações dos relatórios Pareceristas do CEE – Conselho Estadual de 
+Educação quanto a necessidade da Faculdade melhorar seu ecossistema de pesquisa e 
+desenvolvimento, avançando no ranking de inovação tecnológica brasileir 
+Responsável: 
+<nome> Profª Érika Fernanda Caramello e Profª Magali 
+Andreia Rossi 
+Qde CH/sem: 
+08 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> Prof. Alvaro Gabriele Bento Rodrigues Junior 
+Qde CH/sem: 
+04 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> Prof. Mario Marques 
+Qde CH/sem: 
+04 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+10/02/2025 
+Data final: 
+30/12/2025 
+Etapas do processo: 
+01- Submissão dos projetos ao MCTI 
+10/02 
+31/03 
+ 
+02- Seleção dos Monitores de Iniciação Científica para participação nos 
+projetos MCTI 
+01/04 
+30/04 
+ 
+03- Aquisição de novos equipamentos para melhorar o desempenho dos 
+laboratórios e subsidiar as pesquisas; obter investimentos público e 
+privado em pesquisa e desenvolvimento; motivar o ingresso de tecnólogos 
+formados em cursos de mestrado e/ou doutorado; alocar os pesquisadores 
+docentes e discentes nos programas do governo e das empresas privadas 
+incrementando a participação da Faculdade na produção global de 
+conhecimentos 
+02/05 
+28/11 
+ 
+04- Mostra da produção em eventos científicos; apresentação do novo 
+layout à comunidade acadêmica mediante as novas aquisições 
+01/12 
+30/12 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+04 – Atividades Formativas em Projetos (nível tático) 
+Projetos institucionais formativos não especificados em PEs: Rede de tecnologia, Novotec, PCI, Projetos 
+estudantis (Baja, Aerodesign, entre outros) 
+ 
+AÇÃO/PROJETO (Tema) 
+401 - cat. 4.99 - Outra 
+Origem (prioridade): 
+Escolher um item. 
+O que será feito: 
+Cursos da UFIEC – Unidade de Formação Inicial e Educação Continuada do Centro Paula Souza 
+Por que será feito: 
+Para capacitar pessoas que estão fora do mercado de trabalho,  em busca de novas 
+oportunidades de emprego; projeto de Responsabilidade Social 
+Responsável: 
+<nome> Profª Marcia Araújo 
+Qde CH/sem: 
+02 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> Profª Vanessa Salvador Lopes 
+Qde CH/sem: 
+02 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> Prof. Carlos Henrique Etechebehere 
+Qde CH/sem: 
+02 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+10/02/2025 
+Data final: 
+15/12/2025 
+Etapas do processo: 
+01- Planejamento e organização da estrutura para oferecimento dos cursos 
+10/02 
+28/02 
+ 
+02- Desenvolvimento dos Cursos 
+03/03 
+28/11 
+ 
+03- Encerramento das turmas, entrega de certificados e apresentação dos 
+relatórios à UFIEC 
+01/12 
+15/12 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.08 - Participação da comunidade e sociedade 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+ 
+ 
+ 
+05 – Infraestrutura (instalações prediais) 
+Projetos de manutenção e melhoramento predial voltados à segurança (física e sanitária) e preservação do 
+patrimônio: Reparação predial (civil, elétrica, dados), novas instalações prediais. 
+ 
+AÇÃO/PROJETO (Tema) 
+501 - cat 5.01 - Melhoria Sala de Ambientes pedagógicos 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Pintura, colocação de cortinas, ar-condicionado, ventiladores, cadeiras, iluminação e 
+equipamentos multimidia  
+Por que será feito: 
+Para melhorar 40 (quarenta) ambientes de ensino, trazendo conforto térmico, acessibilidade, 
+melhores condições de ensino tecnológico 
+Responsável: 
+<nome> Profª Marcia Araújo 
+Qde CH/sem: 
+04 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> Prof. Antonio Cesar Albuquerque Gerum 
+Qde CH/sem: 
+04 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> Prof. Carlos Henrique Etechebehere 
+Qde CH/sem: 
+04 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+10/02/2025 
+Data final: 
+30/12/2025 
+Etapas do processo: 
+01- Levantamento das necessidades e inventário dos equipamentos novos, 
+usados, inservíveis 
+10/02 
+28/02 
+ 
+02- Planejamento das ações de reforma de acordo com as orientações da 
+UGAF, UIE, Prefeitura de Carapicuíba, Corpo de Bombeiros e demais 
+órgãos reguladores 
+03/03 
+31/03 
+ 
+03- Início das atividades, desenvolvimento das reformas 
+01/04 
+28/011 
+ 
+04- Encerramento das reformas, entrega dos ambientes pedagógicos 
+01/12 
+30/12 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.02 - Manutenção e conservação predial 
+(a ser resolvida/mitigada) 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+502 - cat 5.09 - Obtenção/renovação de AVCB 
+Origem (prioridade): 
+1-Regulação - Notificação de órgão (MEC, CEE, VS.,..) 
+O que será feito: 
+Reforma para renovação de A.V.C.B campus Carapicuíba. 
+Por que será feito: 
+Para adequar as instalações prediais às regulamentações de segurança contra incêndio 
+Responsável: 
+<nome> Prof. Marcia Araújo 
+Qde CH/sem: 
+02 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> Prof Antonio Cesar Albuquerque Gerum 
+Qde CH/sem: 
+02 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> Prof. Carlos Henrique Etechebehere 
+Qde CH/sem: 
+02 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+10/02/2025 
+Data final: 
+15/12/2025 
+Etapas do processo: 
+01- Levantamento das necessidades para renovação A.V.C.B. 
+10/02 
+28/02 
+ 
+02- Planejamento das ações de reforma de acordo com as orientações da 
+UGAF e UIE 
+03/03 
+31/03 
+ 
+03- Início das atividades; desenvolvimento das reformas necessárias 
+01/04 
+28/11 
+ 
+04- Encerramento das atividades mediante o recebimento da visita técnica 
+do Corpo de Bombeiros e emissão A.V.C.B. 
+01/12 
+15/12 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+ 
+ 
+ 
+ 
+06 - Desenvolvimento de pessoas (docentes e servidores) 
+Formação continuada de docentes e servidores, associadas às competências gerais e específicas de suas 
+atividades: Metodologias de ensino, Tecnologias educacionais, Sistemas (processos, procedimentos, plataformas 
+computacionais) acadêmicos e pedagógicos. 
+ 
+AÇÃO/PROJETO (Tema) 
+601 - cat 6.02 - Projeto e atividade de Integração (docente e servidores) 
+Origem (prioridade): 
+2-Gestão Estratégica Institucional (AMS, novos cursos e unidades) 
+O que será feito: 
+Capacitação aos Servidores Administrativos em “Inteligência Emocional” 
+Por que será feito: 
+Para ampliar o conhecimento dos docentes e servidores nesta competência; facilitar a construção 
+de relações saudáveis e tomadas de decisão conscientes. 
+Responsável: 
+<nome> Profª Marcia Araújo 
+Qde CH/sem: 
+02 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> Prof Mauro Campello 
+Qde CH/sem: 
+04 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+10/02/2025 
+Data final: 
+15/12/2025 
+Etapas do processo: 
+01- Levantamento e planejamento das capacitações 
+10/02 
+28/02 
+ 
+02- Organização de Cronograma 
+03/03 
+31/03 
+ 
+03- Execução das oficinas 
+01/04 
+28/11 
+ 
+04- Avaliação e consolidação dos dados no Relatório de Atividades 2025 
+01/12 
+15/12 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.13 - Relacionamento interpessoal da equipe 
+(a ser resolvida/mitigada) 
+cat 0.1.06 - Quantidade de professores/funcionários 
+ 
+ 
+ 
+07 – Convênios e Parcerias Institucionais 
+Formalização do relacionamento da Unidade com o Ecossistema de Tecnologia: Convênio de uso de prédio, 
+estágios, projetos com empresas. Aqui cabe apenas novos convênios e parcerias, e cada proposta deve estar 
+relacionada a uma Ação/Projeto de melhoria em algum dos itens anteriores do PGA (1, 2, 3, 4, 5 ou 6). 
+ 
+AÇÃO/PROJETO (Tema) 
+701 - cat 7.03 - Projetos com empresas e/ou demais parceiros 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+Referente ao(s) projeto(s): 102 - Atualizar a matriz curricular dos Cursos Superiores de Tecnologia – Análise e 
+Desenvolvimento de Sistemas, Design de Mídias Digitais, Jogos Digitais, Logística e Secretariado 
+O que será feito: 
+Promover parcerias com TCS Brasil - TATA, P.W.C. – PricewaterhouseCoopers entre outras 
+Por que será feito: 
+Adequar a matriz curricular dos cursos à realidade do mundo empresarial; promover a integração 
+empresa-escola; captar vagas de estágio e emprego. 
+Responsável: 
+Profª Marcia Araújo 
+Qde CH/sem: 
+02 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): Prof. Tarcísio de Souza Peres 
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> Profª Adriana Marroni Z. P. Rossini 
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+31/07/2025 
+Etapas do processo: 
+01- Estudo e planejamento de ações para atração das empresas 
+10/02 
+30/03 
+ 
+02- Estabelecimento de parcerias e envio de documentação ao CPS 
+31/03 
+31/04 
+ 
+03- Publicação das parcerias no D.O.E. e inicio das atividades 
+01/05 
+31/07 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Anexo 1 – Lista de aquisições necessárias aos projetos 
+(equipamentos, softwares, mobiliários) 
+ 
+Item 
+Projeto 
+(XYY) 
+Denominação ou especificação do equipamento 
+Quant. 
+Preço total 
+estimado 
+(R$) 
+1 
+201 
+Mini drone  
+2 
+ 
+2 
+201 
+Kit de Acessórios de Iluminação para Estúdio Fotográfico  
+2 
+ 
+3 
+201 
+FOTOMETRO FOTOGRÁFICO  
+2 
+ 
+4 
+201 
+Kit de Estúdio para Fotografia com Locação Interna  
+2 
+ 
+5 
+201 
+Kit para fotografia  
+2 
+ 
+6 
+201 
+Mesa Média para Still Halógena  
+2 
+ 
+7 
+201 
+Computador de mão, tipo tablet, 10, 1”, 32gb  
+30 
+ 
+8 
+201 
+Microfone de lapela  
+20 
+ 
+9 
+201 
+Microfone; tipo sem fio  
+5 
+ 
+10 
+201 
+No break – (1kva – no minimo)  
+1 
+ 
+11 
+201 
+Desktop Plus Padrão CPS  
+15 
+ 
+12 
+201 
+Microfone sem fio  
+2 
+ 
+13 
+201 
+206 
+iMAC  
+40 
+ 
+14 
+201 
+Camera fotografica profissional; digital reflex com lente 
+18105.dx  
+3 
+ 
+15 
+201 
+Kit de Conectorização Óptica  
+2 
+ 
+16 
+201 
+Kit de Desenvolvimento de Sistemas Embarcados  
+2 
+ 
+17 
+201 
+Amplificador para fones de ouvido  
+10 
+ 
+18 
+201 
+Pré amplificador para microfone valvulado bluetooth  
+3 
+ 
+19 
+201 
+Cabos de Audio P10/XLR  
+10 
+ 
+20 
+201 
+Cabos de Audio XLR/XLR – 5m  
+10 
+ 
+21 
+201 
+Fone de ouvido profissional  
+20 
+0 
+22 
+201 
+Interface de áudio digital  
+2 
+ 
+23 
+201 
+Mesa Digital de 16 entradas analógicas ; AD/DA 24 bits, 
+sample rate até 96 Hz; 8 auxiliares, 4 processadores de 
+efeito, equalizador paramétrico de 4 bandas  
+1 
+ 
+24 
+201 
+Microfone Dinâmico  
+15 
+ 
+25 
+201 
+Microfone Byerdynamic  
+5 
+ 
+26 
+201 
+Microfone Shure  
+4 
+ 
+27 
+201 
+Cabos PATCH CORD de Rede RJ45 Cat 6 1,5m (de acordo com 
+os laboratórios)  
+45 
+ 
+28 
+201 
+Câmera fotografica profissional; digital reflex com lente 
+18105.dx  
+17 
+ 
+29 
+202 
+Mini drone  
+2 
+ 
+30 
+202 
+Kit de Acessórios de Iluminação para Estúdio Fotográfico  
+2 
+ 
+31 
+202 
+FOTOMETRO FOTOGRÁFICO  
+2 
+ 
+32 
+202 
+Kit de Estúdio para Fotografia com Locação Interna  
+2 
+ 
+33 
+202 
+Kit para fotografia  
+2 
+ 
+34 
+202 
+Mesa Média para Still Halógena  
+2 
+ 
+35 
+202 
+Computador de mão, tipo tablet, 10, 1”, 32gb  
+30 
+ 
+36 
+202 
+Microfone de lapela  
+20 
+ 
+37 
+202 
+Microfone; tipo sem fio  
+5 
+ 
+38 
+202 
+No break – (1kva – no minimo)  
+1 
+ 
+39 
+202 
+Desktop Plus Padrão CPS  
+15 
+ 
+40 
+205 
+Cadeira giratória sem apóia braços  
+500 
+ 
+41 
+205 
+206 
+Projetor de Multimidia com no minimo 3000 ansi lumens  
+4 
+ 
+42 
+205 
+Scanner de Mesa  
+15 
+ 
+43 
+Administrativo  
+Estação de trabalho mesa em \"L\"\", c/ Gaveteiro Volante\"  10 
+ 
+44 
+205 
+206 
+Ventilador de coluna 110v  
+6 
+ 
+45 
+205 
+Quadro de aviso - com feltro verde (1,00 x 1,20) m  
+40 
+ 
+46 
+Administrativo  
+Mesa de reunião retangular, dimensão: 2,00x1,00m  
+1 
+ 
+47 
+Administrativo  
+Armário de Madeira médio  
+8 
+ 
+48 
+Administrativo  
+Armário de Madeira extra alto c/ 02 portas de abrir  
+10 
+ 
+49 
+101 
+203 
+204 
+205 
+206 
+Ventilador de parede 110v  
+25 
+ 
+ 
+ 
+50 
+101 
+203 
+204 
+205 
+206 
+Desktop Plus Padrão CPS  
+150 
+ 
+51 
+101 
+203 
+204 
+205 
+206 
+Armário vestiário 20 vãos  
+8 
+ 
+52 
+101 
+203 
+204 
+205 
+206 
+Refrigerador doméstico, Frost Free, Duplex 110 v  
+3 
+ 
+53 
+101 
+203 
+204 
+205 
+206 
+Bebedouro Elétrico de Coluna Garrafão 110v  
+7 
+ 
+54 
+101 
+203 
+204 
+205 
+Forno microondas 30 litros 110 v  
+6 
+ 
+55 
+101 
+203 
+Microfone sem fio  
+4 
+ 
+56 
+101 
+203 
+204 
+Servidor  
+5 
+ 
+205 
+206 
+57 
+Administrativ
+o  
+Cadeira giratória com apóia braços ( obrigatória para a área 
+Administrativa da Unidade de Ensino)  
+30 
+ 
+58 
+Administrativ
+o  
+Mesa para Refeitório c/ 04 cadeiras acopladas  
+10 
+ 
+59 
+101 
+203 
+204 
+205 
+iMAC  
+20 
+ 
+60 
+101 
+203 
+204 
+205 
+206 
+PROJETOR MULTIMÍDIA  
+2 
+ 
+ 
+61 
+101 
+203 
+204 
+205 
+206 
+Impressora Jato de tinta Multifuncional  
+15 
+ 
+62 
+101 
+203 
+204 
+205 
+Camera fotografica profissional; digital reflex com lente 
+18105.dx  
+3 
+ 
+63 
+ 
+101 
+203 
+204 
+205 
+Mesa Digitalizadora 5080 LPI Interface USB  
+  
+30 
+  
+ 
+ 
+ 
+64 
+101 
+203 
+204 
+205 
+206 
+Impressora 3D  
+2 
+ 
+65 
+101 
+203 
+204 
+205 
+206 
+Microcomputadores para utilização de programas e 
+pesquisas (não é para montagem/desmontagem)  
+17 
+ 
+66 
+101 
+203 
+204 
+205 
+Kit de Conectorização Óptica  
+2 
+ 
+67 
+101 
+203 
+204 
+205 
+Kit de Desenvolvimento de Sistemas Embarcados  
+2 
+ 
+68 
+101 
+203 
+204 
+205 
+206 
+Roteador wireless  
+6 
+ 
+69 
+101 
+203 
+204 
+205 
+206 
+Estabilizadores de voltagem bivolt  
+50 
+ 
+ 
+ 
+70 
+101 
+203 
+204 
+205 
+206 
+kit ARDUINO  
+18 
+ 
+71 
+101 
+203 
+204 
+205 
+206 
+Conjunto didático para estudo de robótica educacional - Kit 
+Arduíno  
+18 
+ 
+72 
+101 
+203 
+204 
+205 
+206 
+Notebook Padrão CPS  
+30 
+ 
+73 
+101 
+203 
+204 
+205 
+Amplificador para fones de ouvido  
+10 
+ 
+74 
+101 
+203 
+204 
+205 
+206 
+Pré amplificador para microfone valvulado bluetooth  
+5 
+ 
+75 
+101 
+203 
+204 
+205 
+206 
+Cabos de Audio P10/XLR  
+15 
+ 
+ 
+ 
+76 
+101 
+203 
+204 
+205 
+206 
+Cabos de Audio XLR/XLR – 5m  
+15 
+ 
+77 
+101 
+203 
+204 
+205 
+206 
+Fone de ouvido profissional  
+25 
+ 
+78 
+  
+101 
+203 
+204 
+205 
+Interface de áudio digital  
+  
+2 
+  
+ 
+79 
+501 
+Mesa Digital de 16 entradas analógicas ; AD/DA 24 bits, 
+sample rate até 96 Hz; 8 auxiliares, 4 processadores de 
+efeito, equalizador paramétrico de 4 bandas  
+1 
+ 
+80 
+101 
+203 
+204 
+205 
+206 
+Microfone Dinâmico  
+16 
+ 
+81 
+101 
+203 
+204 
+205 
+206 
+Microfone Byerdynamic  
+5 
+ 
+82 
+101 
+203 
+204 
+205 
+206 
+Microfone Shure  
+4 
+ 
+ 
+ 
+83 
+101 
+203 
+204 
+205 
+Mixer profissional analógico 24 canais  
+2 
+ 
+84 
+101 
+203 
+204 
+205 
+206 
+Cabos PATCH CORD de Rede RJ45 Cat 6 1,5m (de acordo com 
+os laboratórios)  
+70 
+ 
+85 
+501 
+Aspirador; de Pó e Agua  
+2 
+ 
+86 
+501 
+Secador/soprador  
+4 
+ 
+87 
+101 
+203 
+204 
+205 
+206 
+Camera fotografica profissional; digital reflex com lente 
+18105.dx  
+18 
+ 
+88 
+101 
+203 
+204 
+205 
+Mesas de Luz e Sombra em Madeira Marfim com área 
+central medindo 80 X 60cm  
+2 
+ 
+89 
+501 
+Fogão tipo convencional com 4 bocas  
+2 
+ 
+90 
+101 
+203 
+204 
+205 
+206 
+Cabos PATCH CORD de Rede RJ45 Cat 6 1,5m (de acordo com 
+os laboratórios)  
+ 
+13 
+ 
+91 
+101 
+206 
+No break – (1kva – no minimo)  
+04 
+ 
+92 
+101 
+206 
+Rack 19” 36U  
+04 
+ 
+93 
+101 
+Servidor de rede (atendimento para 21 máquinas)  
+04 
+ 
+206 
+94 
+101 
+Smart TV 65\"  
+2 
+ 
+95 
+101 
+Switch – (24 portas não gerenciavel – 10/100/1000)  
+2 
+ 
+96 
+101 
+No break – (1kva – no minimo)  
+40 
+ 
+97 
+108 
+Forno microondas 30 litros 110 v  
+6 
+ 
+98 
+108 
+Bebedouro Elétrico de Coluna Garrafão 110v  
+6 
+ 
+99 
+108 
+Armário de Madeira extra alto c/ 02 portas de abrir  
+6 
+ 
+100 
+301 
+ALICATE AMPERÍMETRO  
+5 
+ 
+101 
+301 
+ALICATE WATTIMETRO  
+5 
+ 
+102 
+301 
+ESTABILIZADOR TENSÃO  
+2 
+ 
+103 
+301 
+FONTE ALIMENTAÇÃO  
+10 
+ 
+104 
+301 
+CHAVE DE TESTE ELÉTRICO  
+5 
+ 
+105 
+301 
+Kit Arduino ROBOCORE  
+10 
+ 
+106 
+301 
+TELA PROJEÇÃO  
+2 
+ 
+107 
+301 
+TRENA ELETRÔNICA  
+2 
+ 
+108 
+301 
+TERMÔMETRO  
+2 
+ 
+109 
+301 
+Impressora Plotter 6 cartuchos  
+2 
+ 
+110 
+301 
+Scanner para digitalização de imagens coloridas tamanho A3  
+1 
+ 
+111 
+301 
+Mesa Digitalizadora 5080 LPI Interface USB  
+1 
+ 
+112 
+301 
+Switch Core 48 Portas  
+1 
+ 
+113 
+301 
+Estante desmontavel de aço; tipo aberta; com 06 prateleiras; 
+para arquivo morto, almoxarifado  
+5 
+ 
+114 
+301 
+Access Point Indoor  
+2 
+ 
+115 
+301 
+Ventilador de coluna 110v  
+6 
+ 
+116 
+301 
+Cabo Displayport  
+40 
+ 
+117 
+301 
+Mouse sem Fio  
+40 
+ 
+118 
+301 
+Teclado  
+40 
+ 
+119 
+301 
+Headset  
+40 
+ 
+ 
+ 
+120 
+301 
+Conjunto em longarina para auditório com 4 lugares sem 
+apóiabraços  
+10 
+ 
+121 
+301 
+Impressora Jato de tinta multifuncional com conexão de  
+6 
+ 
+Rede Ethernet e Wifi  
+ 
+ 122 
+ 301 
+Impressora Laser padrão com conexão de Rede Ethernet e 
+Wifi  
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Anexo 2 – Lista de Ações/Projetos referentes à CPA 
+ 
+Item 
+Projeto 
+(XYY) 
+Denominação 
+(O que será feito) 
+Prazo 
+01 
+105 
+EVENTOS INTERNOS: FATECLOG evento do Curso de Logística; MENTESCONEXAS 
+evento do Curso Design de Mídias Digitais; SIJOGA Simpósio de Jogos Digitais; 
+SIMGETEC Simpósio de Gestão e Tecnologia dos Cursos de ADS, Logística e 
+Secretariado; SMAUG Mostra de Trabalhos de Jogos Digitais; CINEFATEC evento do 
+CST em Análise e Desenvolvimento de Sistemas; MOSTRA DE TRABALHOS DO 
+A.M.S. em Análise e Desenvolvimento de Sistemas entre outros. 
+30/12/2025 
+02 
+107 
+DIVULGAÇÃO DO VESTIBULAR: Divulgações por meio de folders, vídeos, palestras 
+nas escolas, Fatec Portas Abertas, Atividades Acadêmico-Culturais com a 
+participação de docentes e discentes de todos os Cursos 
+30/12/2025 
+03 
+501 
+MELHORIA DOS AMBIENTES PEDAGÓGICOS: Pintura, colocação de cortinas, ar-
+condicionado, ventiladores, cadeiras, iluminação e equipamentos multimidia, etc 
+30/12/2025 
+04 
+701 
+PARCERIAS COM EMPRESAS: Promover parcerias com TCS Brasil - TATA, P.W.C. – 
+PricewaterhouseCoopers entre outras 
+30/12/2025 
+ 
+ 
+<fim> 
+ 
+ 
+ 
+ 
+ 
+ 

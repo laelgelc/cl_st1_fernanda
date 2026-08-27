@@ -1,0 +1,3032 @@
+PLANO DE GESTÃO ANUAL – PGA 2024 
+V11 
+Estruturado em um única etapa com 2 anexos: 
+PLANEJAMENTO PELA EQUIPE GESTORA DA UE 
+• Anexo 1 – Lista de equipamentos necessários aos projetos 
+• Anexo 2 – Lista de Ações/Projetos referentes à CPA 
+ 
+IDENTIFICAÇÃO DA UNIDADE 
+Unidade 
+143 
+Fatec CARAPICUÍBA 
+Diretor(a) 
+PROF DRA. MARCIA ARAÚJO 
+ 
+PLANEJAMENTO PELA EQUIPE GESTORA DA UE 
+(Administração da Faculdade - Deliberação CEETEPS 31/2016) 
+ANÁLISE DO CENÁRIO 
+Descrever de forma breve e objetiva o cenário da Unidade perante sua missão como Unidade de Ensino na localidade em que 
+se encontra (é este cenário que se pretende melhorar). 
+Carapicuíba começou a dar os primeiros passos no sentido de sua autonomia administrativa com a elevação de categoria de 
+Distrito de Paz em 1948; em 26 de março de 1965 conquistou sua emancipação política, tornando-se Município. Assim, a cidade 
+passou a integrar a Região Metropolitana de São Paulo, com extensão territorial de 34,9 km² e 32,57 km² de área urbanizada, 
+com 386.984 munícipes (Censo 2022).    
+Apresenta um perfil típico de uma “cidade-dormitório” (baixo dinamismo econômico, elevado crescimento populacional e alta 
+mobilidade pendular - seus habitantes saem, na maioria, para trabalhar em outra cidade voltando apenas para dormir). Neste 
+sentido, existe um domínio de uma determinada classe social, composta por famílias classificadas como “Classe Social C (de 03 
+a 05 SM)”, “Classe Social D (de 01 a 03 SM)” e “Classe Social E (até 01 SM)” apresentando cenários de defasagem econômica, 
+grande demanda de direitos de propriedade, de acesso à educação, saúde, moradia de qualidade, viajar, ter transporte, férias e 
+outros bens e serviços sociais. 
+O Município apresenta baixos PIB per capita, com salários médios mensais dos trabalhadores formais em aproximadamente 2,2 
+salários mínimos e Índice de Desenvolvimento Humano – IDHM 0,749 (Censo 2022), comprovando a pouca atividade industrial 
+da região. No entanto a evolução dos dados dos últimos dez anos nos faz inferir que embora os indicadores econômicos de 
+Carapicuiba sejam baixos, existem perspectivas de crescimento nos próximos 05 anos com foco nas atividades de comércio e 
+prestação de serviços. Tais atividades representam a vocação municipal e regional, e nos fornecem dados relevantes para a 
+aderência, a sustentabilidade e a reestruturação dos atuais Cursos Superiores de Tecnologia oferecidos pela Fatec Carapicuíba, 
+assim como subsidiam o planejamento de novos Cursos. 
+A Fatec Carapicuíba foi criada por meio do Decreto Estadual nº. 50.573, de 02 de março de 2006 no município de Carapicuíba. 
+Oferece hoje 07 (sete) Cursos Tecnológicos, focados nas áreas da Informação, Comunicação, Gestão e Negócios: 
+ 
+CURSO 
+ATO LEGAL 
+DATA 
+RECONHECIMENTO 
+(CEE) 
+ANÁLISE E DESENVOLVIMENTO DE 
+SISTEMAS ADS (Manhã e Noite) 
+Portaria CEE-GP 17 
+28/01/2022 
+05 anos - Renovação 
+DESIGN EM MÍDIAS DIGITAIS (Manhã) 
+Portaria CEE/GP 410 
+29/11/2021 
+03 anos – 1º 
+Reconhecimento 
+JOGOS DIGITAIS (Manhã e Noite) 
+Portaria CEE/GP 43 
+30/01/2020 
+05 anos - Renovação 
+LOGÍSTICA (Manhã e Noite) 
+Portaria CEE/GP 374 
+17/11/2021 
+05 anos - Renovação 
+PROGRAMA A.M.S. ANÁLISE DESEV. 
+SISTEMAS 
+Parecer CD Nº 16/2022 
+28/11/2022 
+- 
+SECRETARIADO (Noite)  
+Portaria CEE/GP 414 
+29/11/2021 
+05 anos - Renovação 
+GESTÃO EMPRESARIAL EAD 
+Portaria CEE/GP 101 
+04/03/2020 
+05 anos - Renovação 
+ 
+Os Cursos Superiores de Tecnologia da unidade de ensino estão focados em estruturar situações de melhorias e superações 
+no âmbito municipal e estadual, de acordo com a Missão de: “Formar o profissional Tecnólogo com base na competência 
+profissional adequada às necessidades do setor produtivo mediante o desenvolvimento de habilidades que contribuam: para a 
+elevação da qualidade e da produtividade dos processos, produtos e serviços; para a melhoria do padrão de vida do discente e 
+para o desenvolvimento social”. 
+ 
+ 
+• Discorrer sobre o cenário, realizando um breve diagnóstico (limitar o espaço da escrita, para que seja inserido de forma suscinta). 
+APONTAMENTO DE SITUAÇÕES-PROBLEMA MAIS RELEVANTES 
+Fontes: relatório CPA, análise de processos críticos da UE, relatório de atendimento e ocorrências Hórus, relatório NDE, 
+relatório de representação discente (DA, Atlética, representantes de turma), relatório CIPA, entre outros. 
+1 
+cat 0.1.11 - Segurança pessoal e patrimonial 
+ 
+5 
+cat 0.1.01 - Metodologia de ensino, desempenho de 
+alunos, evasão 
+2 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+ 
+6 
+cat 0.1.09 - Acesso/Inclusão ao Ensino Superior 
+(social, PCD) 
+3 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de 
+ensino 
+ 
+7 
+cat 0.1.08 - Participação da comunidade e sociedade 
+4 
+cat 0.1.06 - Quantidade de professores/funcionários 
+ 
+8 
+Escolher um item. 
+Outra – Especificar: nn 
+ 
+Objetivos Institucionais – CPS (Plano de Metas) 
+1) Atender às demandas sociais e do mercado de trabalho. 
+2) Obter a satisfação dos públicos que se relacionam com o Centro Paula Souza (stakeholders). 
+3) Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem. 
+4) Assegurar a perenidade do crescimento da instituição com recursos financeiros disponíveis. 
+5) Garantir celeridade e efetividade na prestação de serviços. 
+6) Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no desenvolvimento tecnológico e inovação. 
+7) Promover a cultura de inovação e empreendedorismo. 
+8) Aumentar a eficiência, a produtividade e a competitividade da instituição. 
+9) Ampliar a oferta da Educação Profissional. 
+10) Resolução Conjunta SOG/SFP/SG-3, de 28-12-2022 - Bonificação por Resultados – BR das Secretarias de Estado, Procuradoria Geral do Estado, 
+Controladoria Geral do Estado e das Autarquias, de que trata a LC 1361-2021 
+Objetivos Institucionais – Cesu (Plano de Metas) 
+A. Integrar as diferentes modalidades de ensino, otimizando itinerários e tempo para a formação profissional. 
+B. Inovar processos de ensino e aprendizagem para manter excelência diante do mercado. 
+C. Ampliar a capacidade de criar e atualizar cursos em parceria com o mercado. 
+D. Expandir e ampliar a capacidade de articulação com Governos e Setores Produtivos. 
+E. Promover a captação de recursos extras e não orçamentários. 
+ 
+ 
+ESTRUTURAÇÃO DAS AÇÕES/PROJETOS 
+01 - Didático-pedagógico 
+Ações associadas ao PPC/PE de CSTs e Disciplinas: CST (implantação, alteração, readequação, reestruturação), 
+prática pedagógica (PE, PA), projeto interdisciplinar/ integrador, extensão curricularizada. 
+ 
+AÇÃO/PROJETO (Tema) 
+101 - cat 1.01 - Adequação/reestruturação de PPC, implantação de novos cursos. 
+Origem: 
+1-CEE (Relatório Circunstanciado do Conselho Estadual de Educação 
+O que será feito: 
+Atualizar matriz pedagógica do Curso Superior de Tecnologia em Jogos Digitais 
+Por que será feito: 
+Para atender as novas demandas do mercado 
+Responsável: 
+<nome> Prof. Carlos Alberto Paiva 
+Qde CH/sem: 
+04 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+04/03/2024 
+Data final: 
+31/07/2024 
+Etapas do processo: 
+01- Reunião do NDE – Núcleo Docente Estruturante 
+04/03 
+04/04 
+ 
+02- Reunião Colegiado para para análise da proposta 
+05/04 
+30/04 
+ 
+03- Reunião Congregação para análise e aprovação 
+02/05 
+31/05 
+ 
+04- Preparo do processo no SEI para envio à CESU 
+01/06 
+31/07 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+102 - cat 1.01 - Adequação/reestruturação de PPC, implantação de novos cursos. 
+Origem: 
+1-CEE (Relatório Circunstanciado do Conselho Estadual de Educação 
+O que será feito: 
+Atualizar a matriz curricular do Curso Superior de Tecnologia em Secretariado 
+Por que será feito: 
+Para atender as novas demandas do mercado 
+Responsável: 
+<nome> Prof Renato Fava Martelli 
+Qde CH/sem: 
+04 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+04/03/2024 
+Data final: 
+26/07/2024 
+Etapas do processo: 
+01- Reunião do NDE – Núcleo Docente Estruturante 
+04/03 
+04/04 
+ 
+02- Reunião Colegiado para para análise da proposta 
+05/04 
+30/04 
+ 
+03- Reunião Congregação para análise e aprovação 
+02/05 
+31/05 
+ 
+04- Preparo do processo para envio à CESU 
+01/06 
+26/07 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+103 - cat 1.02 - Eventos e publicações acadêmicos e científicos 
+Origem: 
+2-CPA (Relatório da Comissão Própria de Avaliação da Unidade) 
+O que será feito: 
+Publicação da Revista Científica MD MÍDIA & DESIGN 
+Por que será feito: 
+Para promover a excelência acadêmica e divulgação do CST DMD 
+Responsável: 
+<nome> Tarcísio Souza Peres 
+Qde CH/sem: 
+04 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> Fábio Pessoa Sá 
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> Sandra Trabuco 
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+01/02/2024 
+Data final: 
+31/07/2024 
+Etapas do processo: 
+01- Ajustes e preparação da publicação Nº 02 da Revista Científica MD 
+MÍDIA & DESIGN 
+01/02 
+02/05 
+ 
+02- Submissão da Revista ao indexador “sumários”, “latindex” e no perfil 
+do Google Acadêmico 
+03/05 
+28/06 
+ 
+03- Avaliação e preparação da publicação Nº 03 da Revista Científica MD 
+MÍDIA & DESIGN 
+01/07 
+31/07 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+104 - cat 1.06 - Ações pedagógicas: visitas técnicas, projetos integradores/interdisciplinares, dias de campo, 
+feira das profissões, cursos extracurriculares para alunos. 
+Origem: 
+1-CEE (Relatório Circunstanciado do Conselho Estadual de Educação 
+O que será feito: 
+Buscar e intermediar a realização de atividades e eventos que beneficiem a comunidade 
+acadêmica e a sociedade: estágios, integração empresa-escola, visitas técnicas, pesquisa e 
+extensão 
+Por que será feito: 
+Para ampliar o conhecimento e o rendimento acadêmico 
+Responsável: 
+<nome> Prof. Luciano Moraes dos Santos 
+Qde CH/sem: 
+06 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> Prof. Vanessa Priscila Salvador Lopes 
+Qde CH/sem: 
+06 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/02/2024 
+Data final: 
+30/12/2024 
+Etapas do processo: 
+01- Levantamento e planejamento das visitas técnicas 
+01/02 
+01/03 
+ 
+02- Execução das atividades extracurriculares 
+04/03 
+10/12 
+ 
+03- Avaliação dos Discentes 
+11/12 
+20/12 
+ 
+04- Consolidação do Relatório de Atividades 2024 
+21/12 
+30/12 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.08 - Participação da comunidade e sociedade 
+X 
+X 
+<Copiar tabelas para mais ações> 
+ 
+ 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+105 - cat 1.02 - Eventos e publicações acadêmicos e científicos 
+Origem: 
+1-CEE (Relatório Circunstanciado do Conselho Estadual de Educação 
+O que será feito: 
+CINEFATEC 
+Por que será feito: 
+Para ampliar a cultura e estimular o pensamento crítico dos discentes 
+Responsável: 
+Prof. Ricardo Iannace 
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/02/2024 
+Data final: 
+30/12/2024 
+Etapas do processo: 
+01- Levantamento e planejamento do evento no 1º Semestre 2024 
+01/02 
+20/04 
+ 
+02- Execução da atividade CINEFATEC  
+22/04 
+30/04 
+ 
+03- Avaliação da atividade 
+02/05 
+31/05 
+ 
+04- Consolidação da atividade para o Relatório de Atividades Anuais 2024 
+01/07 
+12/07 
+ 
+05- Levantamento e planejamento do evento no 2º Semestre 2024 
+01/08 
+30/09 
+ 
+06- Execução da atividade CINEFATEC  
+01/10 
+01/11 
+ 
+07- Avaliação da atividade 
+03/11 
+30/11 
+ 
+08- Consolidação dos Relatórios de Atividades Anuais 2024 
+01/12 
+30/12 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+ 
+AÇÃO/PROJETO (Tema) 
+106 - cat 1.02 - Eventos e publicações acadêmicos e científicos 
+Origem: 
+1-CEE (Relatório Circunstanciado do Conselho Estadual de Educação 
+O que será feito: 
+PALESTRA “I.C. - INICIAÇÃO CIENTÍFICA - FUNÇÃO, DESENVOLVIMENTO E ASPECTOS 
+ESTRUTURAIS DA PESQUISA” 
+Por que será feito: 
+O papel da Fatec Carapicuíba está baseado no tripé ensino (profissionalização), pesquisa 
+(iniciação científica) e extensão (aplicação da ciência à sociedade), garantindo uma formação 
+acadêmica e profissional de qualidade para os discentes. A “Iniciação Científica” pretende 
+aprofundar o conhecimento sobre uma determinada área do saber e oferecer opções de carreira 
+aos discentes. 
+Responsável: 
+Prof. Ricardo Iannace 
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): Prof. Tarcísio de Souza Peres 
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/02/2024 
+Data final: 
+30/12/2024 
+Etapas do processo: 
+01- Levantamento e planejamento do evento no 1º Semestre 2024 
+01/02 
+20/04 
+ 
+02- Execução da palestra  
+22/04 
+30/04 
+ 
+03- Avaliação da atividade (Palestra) 
+02/05 
+31/05 
+ 
+04- Consolidação da atividade para o Relatório de Atividades 2024 
+01/07 
+12/07 
+ 
+05- Levantamento e planejamento do evento no 2º Semestre 2024 
+01/08 
+30/09 
+ 
+06- Execução da atividade (Palestra)  
+01/10 
+01/11 
+ 
+07- Avaliação da atividade 
+03/11 
+30/11 
+ 
+08- Consolidação dos Relatórios de Atividades 2024 
+01/12 
+30/12 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+107 - cat 1.07 - Divulgação do vestibular e ações de fortalecimento de imagem institucional 
+Origem: 
+1-CEE (Relatório Circunstanciado do Conselho Estadual de Educação 
+O que será feito: 
+Fatec Portas Abertas; Cine-Fatec; Palestras e Atividades Acadêmico-Culturais 
+Por que será feito: 
+Para promover a Fatec Carapicuíba e os Cursos Superiores de Tecnologia 
+Responsável: 
+<nome> Prof. Renato Fava Martelli   
+Qde CH/sem: 
+04 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> Profª Vanessa Priscila Salvador Lopes 
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> Prof. Carlos Henrique Etechebehere 
+Qde CH/sem: 
+nn 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+01/02/2024 
+Data final: 
+30/12/2024 
+Etapas do processo: 
+01- Levantamento e planejamento das ações de marketing para 2024/1 
+01/02 
+01/03 
+ 
+02- Execução das atividades de marketing institucional 
+01/03 
+03/06 
+ 
+03- Avaliação das ações de divulgação e execução dos relatórios  
+04/06 
+28/06 
+ 
+04- Levantamento e planejamento das ações de marketing para 2024/2 
+01/07 
+30/08 
+ 
+05- Execução das atividades de marketing institucional 
+02/09 
+31/10 
+ 
+06- Avaliação das ações de divulgação e execução dos relatórios 
+04/11 
+30/12 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.08 - Participação da comunidade e sociedade 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+108 - cat 1.08 - Eventos e ações para aperfeiçoamento docente (Spap, treinamentos, avaliação docente) 
+Origem: 
+2-CPA (Relatório da Comissão Própria de Avaliação da Unidade) 
+O que será feito: 
+Capacitações com Colegiado Docente 
+Por que será feito: 
+Para ampliar o conhecimento dos Docentes em Metodologias Ativas e Inovação, implementando 
+Tecnologias da Informação e Comunicação (TICs) na rotina acadêmica; articular o melhor uso dos 
+equipamentos tecnológicos, recursos multimídias e digitais. 
+Responsável: 
+<nome>Prof.  Luciano Moraes dos Santos 
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/02/2024 
+Data final: 
+30/12/2024 
+Etapas do processo: 
+01- Levantamento e planejamento das oficinas 
+01/02 
+01/03 
+ 
+02- Organização de Cronograma  
+04/03 
+08/04 
+ 
+03- Execução das Atividades; Metodologias Ativas e Inovação, 
+implementando Tecnologias da Informação e Comunicação (TICs) na rotina 
+acadêmica 
+09/04 
+01/12 
+ 
+04- Avaliação e consolidação dos dados no Relatório de Atividades 2024 
+02/12 
+30/12 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.09 - Acesso/Inclusão ao Ensino Superior (social, PCD) 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+109 - cat 1.11 - Ações de nivelamento de conhecimento, ENADE, acolhimento e permanência discente. 
+Origem: 
+2-CPA (Relatório da Comissão Própria de Avaliação da Unidade) 
+O que será feito: 
+Reuniões permanentes com Colegiado e NDE – Núcleo Docente Estruturante para definição de 
+estratégias e ações para diminuição da evasão 
+Por que será feito: 
+Para minimizar a evasão de discentes dos cursos 
+Responsável: 
+<nome> Prof. Franklin Portela  
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> Prof. Luciano Moraes dos Santos 
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> Carlos Alberto Paiva 
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+01/02/2024 
+Data final: 
+30/12/2024 
+Etapas do processo: 
+01- Levantamento e planejamento das possíveis ações estratégicas para 
+minimizar a evasão 
+01/02 
+01/03 
+ 
+02- Execução das ações estratégicas 
+04/03 
+03/10 
+ 
+03- Avaliação dos indicadores escolares 
+04/10 
+04/11 
+ 
+04- Consolidação dos Relatórios de Atividades 2024 
+05/11 
+30/12 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.09 - Acesso/Inclusão ao Ensino Superior (social, PCD) 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+110 - cat.1.99 - Outra 
+Origem: 
+1-CEE (Relatório Circunstanciado do Conselho Estadual de Educação 
+O que será feito: 
+Planejamento do cronograma para a Renovação do Reconhecimento do Curso DMD e 
+PROGRAMA A.M.S. em ADS 
+Por que será feito: 
+Para atender as exigências internas da CESU e externas do CEE – Conselho Estadual de Educação 
+Responsável: 
+<nome> Prof. Tarcisio de Souza Peres 
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> Prof. Franklin Portela 
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/02/2024 
+Data final: 
+30/12/2024 
+Etapas do processo: 
+01- Levantamento e planejamento das possíveis reuniões e visitas técnicas 
+01/02 
+01/03 
+ 
+02- Organização dos documentos internos que serão apresentados aos 
+Pareceristas 
+04/03 
+30/06 
+ 
+03- Sensibilização da comunidade acadêmica à participação  
+01/07 
+01/09 
+ 
+04- Consolidação das ações para o Relatório de Atividades 2024 
+02/09 
+30/12 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.10 - Gestão da unidade de ensino e dos cursos (indicadores) 
+(a ser resolvida/mitigada) 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+ 
+AÇÃO/PROJETO (Tema) 
+111 - cat 1.02 - Eventos e publicações acadêmicos e científicos 
+Origem: 
+1-CEE (Relatório Circunstanciado do Conselho Estadual de Educação 
+O que será feito: 
+FATECLOG evento do Curso de Logística; MENTESCONEXAS evento do Curso Design de Mídias 
+Digitais; SIJOGA Simpósio de Jogos Digitais; SIMGETEC Simpósio de Gestão e Tecnologia dos 
+Cursos de ADS, Logística e Secretariado; SMAUG Mostra de Trabalhos de Jogos Digitais 
+Por que será feito: 
+Para atender as exigências internas da CESU e externas do CEE – Conselho Estadual de Educação 
+Responsável: 
+<nome> Prof. Luciano de Moraes; Prof. Tarcisio de Souza 
+Peres; Prof. Carlos Alberto Paiva; Prof. Ricardo Iannace; 
+Prof. Renato Fava Martelli 
+Qde CH/sem: 
+10 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> Prof. Franklin Portela 
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> Prof. Alvaro Gabriele 
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+01/02/2024 
+Data final: 
+30/12/2024 
+Etapas do processo: 
+01- Levantamento e planejamento dos eventos e convite aos Palestrantes 
+01/02 
+01/03 
+ 
+02- Organização dos eventos 
+04/03 
+30/04 
+ 
+03- Sensibilização da comunidade acadêmica à participação 
+02/05 
+29/05 
+ 
+04- Execução dos eventos; convite a toda a comunidade acadêmica 
+03/06 
+28/06 
+ 
+05- Consolidação das ações para o Relatório de Atividades 2024 
+01/07 
+31/07 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.10 - Gestão da unidade de ensino e dos cursos (indicadores) 
+ 
+ 
+ 
+02 – Laboratórios - Ensino e Equipamentos Associados 
+Ações para melhoramento dos laboratórios de Ensino (Gestão e Equipamentos): Melhoramento de 
+equipamentos, mediante instalação, manutenção, desuso, doação, e gestão de ambiente laboratorial. 
+ 
+AÇÃO/PROJETO (Tema) 
+201 - cat 2.04 - Ambiente de ensino prático - implantação/melhoramento com recursos NÃO PEDAGÓGICOS 
+Origem: 
+2-CPA (Relatório da Comissão Própria de Avaliação da Unidade) 
+O que será feito: 
+Implantação da Sala Maker 
+Por que será feito: 
+Para o desenvolvimento de pesquisas aplicadas com uso da criatividade, raciocínio lógico, 
+resolução de problemas e inovações com a participação de monitores de I.C. 
+Responsável: 
+<nome> Profª Érika Caramello 
+Qde CH/sem: 
+10 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/02/2024 
+Data final: 
+30/12/2024 
+Etapas do processo: 
+01- Finalização da reforma predial 
+01/02 
+29/02 
+ 
+02- Seleção dos Monitores para a Iniciação Científica 
+01/02 
+29/02 
+ 
+03- Inauguração do Espaço 
+01/02 
+29/02 
+ 
+04- Abertura do Edital para escolha de projetos (01 vaga por Curso) 
+01/03 
+29/03 
+ 
+05- Desenvolvimento dos projetos com orientação de docentes da 
+Faculdade  
+01/04 
+30/12 
+ 
+06- Mostra das pesquisas em eventos científicos 
+01/04 
+30/12 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+202 - cat 2.03 - Ambiente multidisciplinar de ensino - implantação/melhoramento com recursos 
+PEDAGÓGICOS 
+Origem: 
+2-CPA (Relatório da Comissão Própria de Avaliação da Unidade) 
+O que será feito: 
+Implantação do Laboratório de Jogos Digitais 
+Por que será feito: 
+Para o desenvolvimento de pesquisas aplicadas com uso da criatividade, raciocínio lógico, 
+resolução de problemas e inovações com a participação de monitores de I.C. 
+Responsável: 
+<nome> Prof. Carlos Alberto Paiva 
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> Profª Magali Rossi 
+Qde CH/sem: 
+10 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/02/2024 
+Data final: 
+30/12/2024 
+Etapas do processo: 
+01- Finalização da reforma predial 
+01/02 
+29/02 
+ 
+02- Seleção dos Monitores para a Iniciação Científica 
+01/02 
+29/02 
+ 
+03- Inauguração do Espaço 
+01/02 
+29/02 
+ 
+04- Abertura do Edital para escolha de projetos (01 vaga por Curso) 
+01/03 
+29/03 
+ 
+05- Desenvolvimento dos projetos com orientação de docentes da 
+Faculdade 
+01/04 
+30/12 
+ 
+06- Mostra das pesquisas em eventos científicos 
+01/04 
+30/12 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+X 
+X 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+203 - Escolher um item. 
+Origem: 
+Escolher um item. 
+O que será feito: 
+Nn                                             ERRO 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+203 - cat 2.02 - Laboratório informática - implantação/melhoramento com recursos PEDAGÓGICOS 
+Origem: 
+2-CPA (Relatório da Comissão Própria de Avaliação da Unidade) 
+O que será feito: 
+Renovação dos Laboratórios: substituição dos equipamentos obsoletos por novos com auxílio de 
+Aux. Docentes e Monitores de Iniciação Científica 
+Por que será feito: 
+Para melhorar o desempenho dos laboratórios de informática (hardware) e instalar novos 
+softwares 
+Responsável: 
+<nome> Prof. Antonio Gerum 
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> Prof. Carlos Alberto Paiva 
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> Prof. Tarcísio Souza Peres 
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+01/02/2024 
+Data final: 
+30/12/2024 
+Etapas do processo: 
+01- Finalização da reforma predial 
+01/02 
+29/02 
+ 
+02- Seleção dos Monitores para a Iniciação Científica 
+01/02 
+29/02 
+ 
+03- Desenvolvimento dos projetos com orientação de docentes da 
+Faculdade 
+01/03 
+30/12 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+<Copiar tabelas para mais ações> 
+ 
+ 
+03 – Pesquisa / Extensão e Equipamentos Associados 
+Ações para melhoramento dos laboratórios que contemplam Pesquisa além do Ensino (Equipamentos): 
+melhoramento dos espaços de pesquisa, que inclui especificação equipamentos e aquisição por fomento ou por 
+projeto com empresa, e também prestação de serviços no campo tecnológico para instituições e empresas. 
+ 
+AÇÃO/PROJETO (Tema) 
+301 - Escolher um item. 
+Origem: 
+Escolher um item. 
+O que será feito: 
+                                                                ERRO 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+301 - cat 3.02 - Desenvolvimento de Projetos de IC - MDITI 
+Origem: 
+2-CPA (Relatório da Comissão Própria de Avaliação da Unidade) 
+O que será feito: 
+Credenciamento da Fatec Carapicuíba no MCTI – Ministério da Ciência, Tecnologia e Inovação 
+Por que será feito: 
+Para obter recursos, fomentos e visibilidade da iniciação científica da Faculdade 
+Responsável: 
+<nome> Profª Marcia Araújo 
+Qde CH/sem: 
+02 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Prof. Tarcísio Souza Peres 
+Qde CH/sem: 
+nn 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/02/2024 
+Data final: 
+30/12/2024 
+Etapas do processo: 
+01- Verificação da situação cadastral 
+01/02 
+29/02 
+ 
+02- Complementação de documentação (se necessário) 
+01/03 
+29/03 
+ 
+03- Acompanhamento e participação de chamadas/editais do MCTI 
+01/04 
+30/12 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.08 - Participação da comunidade e sociedade 
+X 
+X 
+ 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+303 - Escolher um item. 
+Origem: 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+304 - Escolher um item. 
+Origem: 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+<Copiar tabelas para mais ações> 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+04 – Atividades Formativas em Projetos (nível tático) 
+Projetos institucionais formativos não especificados em PEs: Rede de tecnologia, Novotec, PCI, Projetos 
+estudantis (Baja, Aerodesign, entre outros) 
+ 
+AÇÃO/PROJETO (Tema) 
+401 - Escolher um item. 
+Origem: 
+Escolher um item. 
+O que será feito: 
+                                                                      ERRO 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+401 - cat. 4.99 - Outra 
+Origem: 
+1-CEE (Relatório Circunstanciado do Conselho Estadual de Educação 
+O que será feito: 
+Cursos da UFIEC – Unidade de Formação Inicial e Educação Continuada do Centro Paula Souza 
+Por que será feito: 
+Para capacitar pessoas que estão fora do trabalho de mercado em busca de oportunidades de 
+emprego; Responsabilidade Social 
+Responsável: 
+<nome> Profª Vanessa Priscila Salvador Lopes 
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> Profº Carlos Henrique Etechebehere 
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/02/2024 
+Data final: 
+30/12/2024 
+Etapas do processo: 
+01- Planejamento e organização da estrutura para oferecimento dos cursos 
+01/02 
+30/06 
+ 
+02- Desenvolvimento dos Cursos 
+01/07 
+01/12 
+ 
+03- Encerramento das turmas, entrega de certificados e apresentação dos 
+relatórios à UFIEC 
+02/12 
+30/12 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.08 - Participação da comunidade e sociedade 
+(a ser resolvida/mitigada) 
+cat 0.1.06 - Quantidade de professores/funcionários 
+X 
+X 
+ 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+403 - Escolher um item. 
+Origem: 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+404 - Escolher um item. 
+Origem: 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+<Copiar tabelas para mais ações> 
+ 
+ 
+ 
+ 
+ 
+05 – Infraestrutura (instalações prediais) 
+Projetos de manutenção e melhoramento predial voltados à segurança (física e sanitária) e preservação do 
+patrimônio: Reparação predial (civil, elétrica, dados), novas instalações prediais. 
+ 
+AÇÃO/PROJETO (Tema) 
+501 - cat 5.01 - Melhoria Sala de Ambientes pedagógicos 
+Origem: 
+2-CPA (Relatório da Comissão Própria de Avaliação da Unidade) 
+O que será feito: 
+Pintura e colocação de cortinas 
+Por que será feito: 
+Para melhorar os ambientes de ensino, trazendo conforto térmico, acessibilidade, melhores 
+condições de ensino  
+Responsável: 
+<nome> Prof Antonio Gerum 
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome>  
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/02/2024 
+Data final: 
+30/12/2024 
+Etapas do processo: 
+01- Levantamento das necessidades e inventário dos equipamentos 
+01/02 
+29/02 
+ 
+02- Planejamento das ações de reforma de acordo com as orientações da 
+UGAF 
+01/03 
+01/04 
+ 
+03- Início das atividades, desenvolvimento das reformas 
+01/04 
+01/11 
+ 
+04- Encerramento das reformas, entrega das salas de aulas 
+03/11 
+30/12 
+ 
+05-  
+ 
+ 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+(a ser resolvida/mitigada) 
+cat 0.1.11 - Segurança pessoal e patrimonial 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+502 - Escolher um item. 
+Origem: 
+Escolher um item. 
+O que será feito: 
+                                                                ERRO 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+502 - cat 5.09 - Obtenção/renovação de AVCB 
+Origem: 
+1-CEE (Relatório Circunstanciado do Conselho Estadual de Educação 
+O que será feito: 
+Reforma para renovação de A.V.C.B. 
+Por que será feito: 
+Para adequar as instalações prediais às regulamentações de segurança contra incêndio 
+Responsável: 
+<nome> Profª Marcia Araújo 
+Qde CH/sem: 
+02 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Prof. Carlos Henrique Etechebehere 
+Qde CH/sem: 
+02 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/02/2024 
+Data final: 
+30/12/2024 
+Etapas do processo: 
+01- Levantamento das necessidades para renovação A.V.C.B. 
+01/02 
+29/02 
+ 
+02- Planejamento das ações de reforma de acordo com as orientações da 
+UGAF e UIE 
+01/03 
+01/04 
+ 
+03- Início das atividades; desenvolvimento das reformas necessárias 
+01/08 
+01/11 
+ 
+04- Encerramento das atividades mediante o recebimento da visita técnica 
+do Corpo de Bombeiros e emissão A.V.C.B. 
+03/11 
+30/12 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+504 - Escolher um item. 
+Origem: 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+<Copiar tabelas para mais ações> 
+ 
+ 
+ 
+ 
+ 
+06 - Desenvolvimento de pessoas (docentes e servidores) 
+Formação continuada de docentes e servidores, associadas às competências gerais e específicas de suas 
+atividades: Metodologias de ensino, Tecnologias educacionais, Sistemas (processos, procedimentos, plataformas 
+computacionais) acadêmicos e pedagógicos. 
+ 
+AÇÃO/PROJETO (Tema) 
+601 - cat 6.02 - Projeto e atividade de Integração (docente e servidores) 
+Origem: 
+2-CPA (Relatório da Comissão Própria de Avaliação da Unidade) 
+O que será feito: 
+Capacitação em Inteligência Emocional  
+Por que será feito: 
+Para ampliar o conhecimento dos docentes e servidores nesta competência; facilitar a construção 
+de relações saudáveis e tomadas de decisão conscientes. 
+Responsável: 
+<nome> Marcia Luiza Pires de Araújo 
+Qde CH/sem: 
+02 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Prof Mauro Campello 
+Qde CH/sem: 
+08 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/02/2024 
+Data final: 
+31/12/2024 
+Etapas do processo: 
+01- Levantamento e planejamento das capacitações 
+01/02 
+29/02 
+ 
+02- Organização de Cronograma 
+01/03 
+01/04 
+ 
+03- Execução das oficinas 
+02/04 
+01/12 
+ 
+04- Avaliação e consolidação dos dados no Relatório de Atividades 2024 
+02/12 
+30/12 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.13 - Relacionamento interpessoal da equipe 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+602 - Escolher um item. 
+Origem: 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+603 - Escolher um item. 
+Origem: 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+604 - Escolher um item. 
+Origem: 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+ 
+ 
+ 
+ 
+ 
+ 
+07 – Convênios e Parcerias Institucionais 
+Formalização do relacionamento da Unidade com o Ecossistema de Tecnologia: Convênio de uso de prédio, 
+estágios, projetos com empresas. Aqui cabe apenas novos convênios e parcerias, e cada proposta deve estar 
+relacionada a uma Ação/Projeto de melhoria em algum dos itens anteriores do PGA (1, 2, 3, 4, 5 ou 6). 
+ 
+AÇÃO/PROJETO (Tema) 
+701 - cat 7.03 - Projetos com empresas e/ou demais parceiros 
+Origem: 
+2-CPA (Relatório da Comissão Própria de Avaliação da Unidade) 
+O que será feito: 
+Promover parcerias com TCS Brasil - TATA, P.W.C. – PricewaterhouseCoopers e outras  
+Por que será feito: 
+Para promover a integração empresa-escola, captar vagas de estágio e emprego 
+Responsável: 
+<nome> Prof. Marcia Araújo 
+Qde CH/sem: 
+02 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Prof. Tarcisio Peres 
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> Profª Adriana Marroni 
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+10/02/2024 
+Data final: 
+30/12/2024 
+Etapas do processo: 
+01- Estudo e planejamento de ações para atração das empresas  
+10/02 
+01/04 
+ 
+02- Estabelecimento de parcerias e envio de documentação ao CPS 
+01/04 
+01/12 
+ 
+03- Publicação das parcerias no D.O.E. e inicio das atividades 
+02/12 
+30/12 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.08 - Participação da comunidade e sociedade 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+702 - Escolher um item. 
+Origem: 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+<Copiar tabelas para mais ações> 
+ 
+ 
+ 
+ 
+ 
+Anexo 1 – Lista de aquisições necessárias aos projetos 
+(equipamentos, softwares, mobiliários) 
+ 
+Item 
+Projeto 
+(XYY) 
+Denominação ou especificação do equipamento 
+Quant. 
+01 
+203 - Renovação 
+dos 
+Laboratórios: 
+substituição dos 
+equipamentos 
+obsoletos por 
+novos com 
+auxílio de Aux. 
+Docentes e 
+Monitores IC) 
+Aeronave Remotamente Pilotada do Tipo Quadricoptero (Drone) 
+01 
+02 
+203 - Renovação 
+dos 
+Laboratórios: 
+substituição dos 
+equipamentos 
+obsoletos por 
+novos com 
+auxílio de Aux. 
+Docentes e 
+Monitores IC 
+Aeronave Remotamente Pilotada Tipo Asa Rotativa, 4 Conjuntos de Hélices (Drone) 
+01 
+03 
+203 - Renovação 
+dos 
+Laboratórios: 
+substituição dos 
+equipamentos 
+obsoletos por 
+novos com 
+auxílio de Aux. 
+Docentes e 
+Monitores IC 
+Armário Baixo, mdp, marfim,(800x500x740)mm,01 Prateleira 
+10 
+04 
+203 - Renovação 
+dos 
+Laboratórios: 
+substituição dos 
+equipamentos 
+obsoletos por 
+novos com 
+auxílio de Aux. 
+Docentes e 
+Monitores IC 
+Armário de madeira extra alto c/ 02 portas de abrir 
+10 
+05 
+401 Cursos da 
+UFIEC – Unidade 
+de Formação 
+Inicial e 
+Educação 
+Continuada do 
+Centro Paula 
+Souza 
+Armário vestiário 20 vãos 
+10 
+06 
+203 - Renovação 
+dos 
+Laboratórios: 
+substituição dos 
+equipamentos 
+Aspirador de pó e água 
+02 
+obsoletos por 
+novos com 
+auxílio de Aux. 
+Docentes e 
+Monitores IC 
+07 
+203 - Renovação 
+dos 
+Laboratórios: 
+substituição dos 
+equipamentos 
+obsoletos por 
+novos com 
+auxílio de Aux. 
+Docentes e 
+Monitores IC 
+Bebedouro elétrico, para acomodação de garrafão 20 litros, 110 volts 
+05 
+08 
+203 - Renovação 
+dos 
+Laboratórios: 
+substituição dos 
+equipamentos 
+obsoletos por 
+novos com 
+auxílio de Aux. 
+Docentes e 
+Monitores IC 
+Cabine de Áudio 
+01 
+09 
+110- 
+Planejamento 
+do cronograma 
+para a 
+Renovação do 
+Reconhecimento 
+do Curso DMD e 
+PROGRAMA 
+A.M.S. em ADS 
+Cabo de Áudio Xlr Macho x Xlr Femea, 20 Metros 
+06 
+10 
+110- 
+Planejamento 
+do cronograma 
+para a 
+Renovação do 
+Reconhecimento 
+do Curso DMD e 
+PROGRAMA 
+A.M.S. em ADS 
+Cabo de Áudio Xlr Macho x Xlr Femea, 5 Metros 
+06 
+11 
+203 - Renovação 
+dos 
+Laboratórios: 
+substituição dos 
+equipamentos 
+obsoletos por 
+novos com 
+auxílio de Aux. 
+Docentes e 
+Monitores IC  
+Cadeira giratória com apoia braços 
+500 
+12 
+110- 
+Planejamento 
+do cronograma 
+para a 
+Renovação do 
+Reconhecimento 
+do Curso DMD e 
+PROGRAMA 
+A.M.S. em ADS 
+Câmera Digital, Reflex, Resolução de Min. de 36, 3 Megapixels 
+20 
+13 
+110- 
+Planejamento 
+do cronograma 
+para a 
+Renovação do 
+Reconhecimento 
+do Curso DMD e 
+PROGRAMA 
+A.M.S. em ADS 
+Câmera Fotográfica Profissional 
+20 
+14 
+110- 
+Planejamento 
+do cronograma 
+para a 
+Renovação do 
+Reconhecimento 
+do Curso DMD e 
+PROGRAMA 
+A.M.S. em ADS 
+Câmera Fotográfica Profissional 24.2 Mpx 
+20 
+15 
+110- 
+Planejamento 
+do cronograma 
+para a 
+Renovação do 
+Reconhecimento 
+do Curso DMD e 
+PROGRAMA 
+A.M.S. em ADS 
+Carrinho de Aço Grade 
+02 
+16 
+110- 
+Planejamento 
+do cronograma 
+para a 
+Renovação do 
+Reconhecimento 
+do Curso DMD e 
+PROGRAMA 
+A.M.S. em ADS 
+Cartão de Memória Sdxc Ii, Classe 10, Uhs-ii Classe 3, 128 Gb nn 
+10 
+17 
+110- 
+Planejamento 
+do cronograma 
+para a 
+Renovação do 
+Reconhecimento 
+do Curso DMD e 
+PROGRAMA 
+A.M.S. em ADS 
+Cavalete para Flip Chart, ferro, vidro Magn.,bco,1,50x1m,moldura,4 Rodizio 
+04 
+18 
+nnn 
+nnn 
+nn 
+19 
+nnn 
+nnn 
+nn 
+20 
+nnn 
+nnn 
+nn 
+ 
+ 
+ 
+ 
+ 
+Anexo 2 – Lista de Ações/Projetos referentes à CPA 
+ 
+Item 
+Projeto 
+(XYY) 
+Denominação 
+(O que será feito) 
+Prazo 
+01 
+nnn 
+nn 
+dd/mm/aaaa 
+02 
+nnn 
+nn 
+dd/mm/aaaa 
+03 
+nnn 
+nn 
+dd/mm/aaaa 
+04 
+nnn 
+nn 
+dd/mm/aaaa 
+05 
+nnn 
+nn 
+dd/mm/aaaa 
+06 
+nnn 
+nn 
+dd/mm/aaaa 
+07 
+nnn 
+nn 
+dd/mm/aaaa 
+08 
+nnn 
+nn 
+dd/mm/aaaa 
+09 
+nnn 
+nn 
+dd/mm/aaaa 
+10 
+nnn 
+nn 
+dd/mm/aaaa 
+11 
+nnn 
+nn 
+dd/mm/aaaa 
+12 
+nnn 
+nn 
+dd/mm/aaaa 
+13 
+nnn 
+nn 
+dd/mm/aaaa 
+14 
+nnn 
+nn 
+dd/mm/aaaa 
+15 
+nnn 
+nn 
+dd/mm/aaaa 
+16 
+nnn 
+nn 
+dd/mm/aaaa 
+17 
+nnn 
+nn 
+dd/mm/aaaa 
+18 
+nnn 
+nn 
+dd/mm/aaaa 
+19 
+nnn 
+nn 
+dd/mm/aaaa 
+20 
+nnn 
+nn 
+dd/mm/aaaa 
+ 
+ 
+<fim> 
+ 
+ 
+ 
+ 
+ 
+ 

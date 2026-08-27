@@ -1,0 +1,3349 @@
+PLANO DE GESTÃO ANUAL 
+PGA 2025 
+V04 
+Estruturado em uma única etapa, contendo 2 anexos: 
+PLANEJAMENTO PELA EQUIPE GESTORA DA UE 
+• Anexo 1 – Lista de equipamentos necessários aos projetos 
+• Anexo 2 – Lista de Ações/Projetos referentes à CPA (Origem 3: Gestão Tática – CPA) 
+ 
+IDENTIFICAÇÃO DA UNIDADE 
+Unidade 
+código F111 
+Fatec Zona Leste 
+Diretor(a) 
+João Roberto Maiellaro 
+ 
+PLANEJAMENTO PELA EQUIPE GESTORA DA UE 
+(Administração da Faculdade - Deliberação CEETEPS 31/2016) 
+ANÁLISE DO CENÁRIO 
+Descrever de forma breve e objetiva o cenário da Unidade perante sua missão como Unidade de Ensino na localidade em que 
+se encontra (é este cenário que se pretende melhorar). 
+Com base no relatório da CPA (ciclo 2023-2025), nos tópicos discutidos em Congregação, nas necessidades declaradas pelo 
+corpo docente, discente e administrativo, e com base nos comentários de especialistas do Conselho Estadual de Educação em 
+visitas in loco, identificam-se pontos fulcrais inerentes ao desempenho estratégico da Fatec Zona Leste: 
+a) 
+Oportunidades de melhorias nos canais de comunicação oficiais 
+b) 
+Oportunidades de ampliação da integração e da participação dos stakeholders e membros da comunidade externa da 
+Fatec Zona Leste 
+c) 
+Oportunidades de ampliação da interação com setores público e privado para desenvolver parcerias 
+d) 
+Oportunidades de ampliação de atividades de pesquisa, desenvolvimento e inovação articuladas com setores produtivos 
+e) 
+Necessidade de adequação da infraestrutura, devido a superlotação da unidade desde o período pós-pandemia 
+f) 
+Manutenções prediais urgentes devido a depreciação natural das instalações 
+g) 
+Necessidades de melhoria nos laboratórios de informática e ambientes de ensino, em termos de hardware, iluminação, 
+ventilação e climatização 
+h) 
+Necessidade de melhorias nos equipamentos de segurança patrimonial em face da vulnerabilidade e da escalada 
+tecnológica em ambientes improvisados e descentralizados 
+i) 
+Necessidade de melhorias na infraestrutura da rede de dados, com switches antigos, de baixa capacidade de 
+transmissão, cabeamento antigo e falta de nobreaks 
+j) 
+Oportunidades de ampliação da oferta de educação profissional em nível de graduação e pós-graduação 
+k) 
+Anseios da comunidade na participação em discussões e atividades de temáticas transversais como sustentabilidade, 
+inovação, empreendedorismo e pesquisa científica e em atividades de extensão 
+l) 
+Oportunidade de ampliar atividades de apoio pedagógico, nivelamento e recuperação de aprendizagem  
+ 
+ 
+• Discorrer sobre o cenário, realizando um breve diagnóstico (limitar o espaço da escrita, para que seja inserido de forma sucinta). 
+APONTAMENTO DE SITUAÇÕES-PROBLEMA MAIS RELEVANTES 
+Fontes: relatório CPA, análise de processos críticos da UE, relatório de atendimento e ocorrências Hórus, relatório NDE, 
+relatório de representação discente (DA, Atlética, representantes de turma), relatório CIPA, entre outros. 
+1 
+cat 0.1.01 - Metodologia de ensino, desempenho 
+de alunos, evasão 
+ 
+5 
+cat 0.1.07 - Comunicação com a comunidade 
+acadêmica 
+2 
+cat 0.1.02 - Manutenção e conservação predial 
+ 
+6 
+cat 0.1.08 - Participação da comunidade e sociedade 
+3 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+ 
+7 
+cat 0.1.11 - Segurança pessoal e patrimonial 
+4 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de 
+ensino 
+ 
+8 
+cat 0.1.13 - Relacionamento interpessoal da equipe 
+Outra – Especificar: nn 
+ 
+Objetivos Institucionais – CPS (Plano de Metas) 
+1) Atender às demandas sociais e do mercado de trabalho. 
+2) Obter a satisfação dos públicos que se relacionam com o Centro Paula Souza (stakeholders). 
+3) Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem. 
+4) Assegurar a perenidade do crescimento da instituição com recursos financeiros disponíveis. 
+5) Garantir celeridade e efetividade na prestação de serviços. 
+6) Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no desenvolvimento tecnológico e inovação. 
+7) Promover a cultura de inovação e empreendedorismo. 
+8) Aumentar a eficiência, a produtividade e a competitividade da instituição. 
+9) Ampliar a oferta da Educação Profissional. 
+10) Resolução Conjunta SOG/SFP/SG-3, de 28-12-2022 - Bonificação por Resultados – BR das Secretarias de Estado, Procuradoria Geral do Estado, 
+Controladoria Geral do Estado e das Autarquias, de que trata a LC 1361-2021 
+Objetivos Institucionais – Cesu (Plano de Metas) 
+A. Integrar as diferentes modalidades de ensino, otimizando itinerários e tempo para a formação profissional. 
+B. Inovar processos de ensino e aprendizagem para manter excelência diante do mercado. 
+C. Ampliar a capacidade de criar e atualizar cursos em parceria com o mercado. 
+D. Expandir e ampliar a capacidade de articulação com Governos e Setores Produtivos. 
+E. Promover a captação de recursos extras e não orçamentários. 
+Atenção: Determinação da Origem (prioridade) de uma Ação ou Projeto de Melhoria que compõe o PGA, a fim de ordenar os graus de prioridade tomando-se por 
+base atos normativos regulatórios das atividades do CPS, e a governança institucional, por suas esferas Estratégica, Tática e Operacional: 
+Grau 1 - URGÊNCIA DE REGULAÇÃO - prioridade máxima (advinda do MEC, CEE, MP, Vigilância Sanitária ou notificação de qualquer órgão regulador/fiscalizador) 
+- fundamentação: notificação de fiscalização, diligência de regulação, termo de ajustamento de conduta, relatório circunstanciado, dentre outros 
+emanados de órgãos que impõem ações para cumprimento com regularidade normativa da instituição. 
+Grau 2 - URGÊNCIA ESTRATÉGICA - Gestão Estratégica do CPS (AMS, novos cursos e unidades, programas de governo) - fundamentação: PPA do CPS, ações de 
+governo conduzidas pela Superintendência do CPS. 
+Grau 3 - PRIORIDADE ALTA - Gestão Tática (ações correlatas à Avaliação institucional - ENADE, WebSAI, CPA, Observatório Escolar). - fundamentação: processo 
+avaliativo de órgãos reguladores, processo avaliativo interno do CPS. 
+Grau 4 - PRIORIDADE MÉDIA - Gestão Operacional para aumento da capacidade instalada. - fundamentação: plano operacional de gestão, homologado pela 
+respectiva área da intendência, com foco na atividade fim do CPS. 
+Grau 5 - PRIORIDADE REGULAR - Gestão Operacional para preservação da capacidade instalada. - fundamentação: plano operacional de gestão, homologado 
+pela respectiva área da intendência, com foco na atividade fim do CPS. 
+ 
+ESTRUTURAÇÃO DAS AÇÕES/PROJETOS 
+01 - Didático-pedagógico 
+Ações associadas ao PPC/PE de CSTs e Disciplinas: CST (implantação, alteração, readequação, reestruturação), 
+prática pedagógica (PE, PA), projeto interdisciplinar/ integrador, extensão curricularizada. 
+ 
+X 
+AÇÃO/PROJETO (Tema) 
+101 - cat 1.01 - Adequação/reestruturação de PPC, implantação de novos cursos. 
+Origem: 
+2-CPA (Relatório da Comissão Própria de Avaliação da Unidade) 
+O que será feito: 
+Reestruturação do CST em Recursos Humanos 
+Por que será feito: 
+Atualização e readequação da estrutura utilizada pelo curso 
+Responsável: 
+<nome> José Carlos Hoelz (Coordenador) 
+Qde CH/sem: 
+4 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/08/2025 
+Data final: 
+01/06/2025 
+Etapas do processo: 
+01- Estudo dos impactos na estrutura de troca de turno de matutino para 
+noturno e efetivação da troca de turno 
+01/08/24 
+30/11/24 
+ 
+02- Estudo dos impactos na estrutura da mudança de modalidade de 
+presencial para híbrido 
+01/08/24 
+30/11/24 
+ 
+03- Reuniões com coordenadores de CST em Gestão de RH de outras 
+unidades e CESU pedagógico 
+01/03/25 
+30/11/25 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+102 - cat 1.01 - Adequação/reestruturação de PPC, implantação de novos cursos. 
+Origem: 
+3-Outra 
+O que será feito: 
+Estudo de substituição por AMS ou reestruturação do CST em Desenvolvimento de Produtos 
+Plásticos 
+Por que será feito: 
+Baixa demanda, alta evasão, infraestrutura da Fatec ZL super lotada 
+Responsável: 
+<nome> Danilo Marin Fermino 
+Qde CH/sem: 
+8 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/02/2025 
+Data final: 
+30/06/2025 
+Etapas do processo: 
+01- Reuniões com Etec Tiquatira e com núcleo pedagógico 
+02/05/24 
+30/06/24 
+ 
+02- Prospecção de parceiros para atendimento de chamamento público 
+01/08/24 
+30/11/24 
+ 
+03- Adequações de laboratórios e da infraestrutura 
+01/02/25 
+30/11/25 
+ 
+04- implantação do curso AMS em Processos Químicos 
+01/02/25 
+30/11/25 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+103 - cat 1.01 - Adequação/reestruturação de PPC, implantação de novos cursos. 
+Origem: 
+2-CPA (Relatório da Comissão Própria de Avaliação da Unidade) 
+O que será feito: 
+Implantação de Curso(s) de Pós-graduação Lato-Sensu 
+Por que será feito: 
+Anseio da comunidade e fraqueza identificada na CPA ciclo 2023-2025 
+Responsável: 
+<nome> João Roberto Maiellaro 
+Qde CH/sem: 
+4 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/02/2025 
+Data final: 
+30/06/2025 
+Etapas do processo: 
+01- Ajustes no projeto baseados no parecer da pós-graduação do centro 
+Paula Souza 
+01/02/24 
+01/03/24 
+ 
+02- Aguardar liberação da UPEP e FAT para prospecção de alunos 
+01/03/24 
+??/?? 
+ 
+03- Ajustes na infraestrutura para oferecer o curso de pós-graduação 
+01/08/24 
+30/11/24 
+ 
+04- Elaboração dos procedimentos, horário, gestão do curso 
+01/02/25 
+01/06/25 
+ 
+05- Oferecimento do curso 
+01/08/25 
+01/12/25 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.08 - Participação da comunidade e sociedade 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+104 - cat 1.11 - Ações de nivelamento de conhecimento, ENADE, acolhimento e permanência discente. 
+Origem: 
+2-CPA (Relatório da Comissão Própria de Avaliação da Unidade) 
+O que será feito: 
+Aulas remotas e presenciais para nivelamento de matemática para alunos ingressantes 
+Por que será feito: 
+Minimizar dificuldades, deficiências de alunos que encontram dificuldades em acompanhar 
+disciplinas que envolvem raciocínio lógico e conceitos elementares de matemática 
+Responsável: 
+<nome> Professor Ronaldo Barros Órfão 
+Qde CH/sem: 
+2 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> Professora Lea da Paz 
+Qde CH/sem: 
+2 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome>  
+Qde CH/sem: 
+ 
+Tipo: Escolher um item. 
+Período de execução: 
+Data inicial: 
+15/02/2025 
+Data final: 
+30/11/2025 
+Etapas do processo: 
+01- Planejamento e Inscrições 1º semestre 
+15/02 
+15/03 
+ 
+02- Oferecimento 1º semestre 
+01/03 
+15/06 
+ 
+03- Planejamento e Inscrições 2º semestre 
+15/08 
+15/09 
+ 
+04- Oferecimento 2º semestre 
+01/09 
+30/11 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo R$ (se houver): 
+ 4 HAEs 
+Fonte(s) dos recursos: 
+HAEs da unidade 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.09 - Acesso/Inclusão ao Ensino Superior (social, PCD) 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+105 - cat 1.05 - Monitoria em disciplina do curso 
+Origem: 
+2-CPA (Relatório da Comissão Própria de Avaliação da Unidade) 
+O que será feito: 
+Oferecimento de bolsas de monitoria de disciplina e monitoria de iniciação tecnológica 
+Por que será feito: 
+Necessidade de nivelamento e melhoria do rendimento discente em conteúdos específicos 
+Responsável: 
+<nome> Coordenadores de curso 
+Qde CH/sem: 
+4 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Alunos monitores (a serem selecionados) 
+Qde CH/sem: 
+50 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+15/01/2025 
+Data final: 
+30/11/2025 
+Etapas do processo: 
+01- Editais e procedimentos para oferecimento de bolsas de MD e MDTI  
+1º semestre 
+15/02 
+15/03 
+ 
+02- Oferecimento 1º semestre 
+01/03 
+15/06 
+ 
+01- Editais e procedimentos para oferecimento de bolsas de MD e MDTI  
+2º semestre 
+15/08 
+15/09 
+ 
+04- Oferecimento 2º semestre 
+01/09 
+30/11 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo R$ (se houver): 
+25 bolsas 
+Fonte(s) dos recursos: 
+Verbas específicas 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.09 - Acesso/Inclusão ao Ensino Superior (social, PCD) 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+106 - cat 1.07 - Divulgação do vestibular e ações de fortalecimento de imagem institucional 
+Origem: 
+2-CPA (Relatório da Comissão Própria de Avaliação da Unidade) 
+O que será feito: 
+Atendimento à comunidade interna e externa para Elaboração da Declaração do Imposto de Renda Pessoa 
+Física 2023 - 2025 
+Por que será feito: 
+ Alunos do quarto semestre de gestão empresarial colocam em prática os conhecimentos obtidos na 
+disciplina de gestão financeira e auxiliam à comunidade realizando atendimento, orientação e elaboração da 
+declaração de ajuste anual do imposto de renda pessoa física. 
+Responsável: 
+Professora Ana Morettin 
+Qde CH/sem: 
+4 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+15/03/2025 
+Data final: 
+31/05/2025 
+Etapas do processo: 
+01- Capacitação dos discentes sobre o funcionamento do site da Receita 
+Federal e elaboração do imposto de renda  
+15/02 
+15/03 
+ 
+02- Atendimento a comunidade 
+30/03 
+15/05 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo R$ (se houver): 
+4 HAEs 
+Fonte(s) dos recursos: 
+HAEs da unidade 
+Situação problema: 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+(a ser resolvida/mitigada) 
+cat 0.1.08 - Participação da comunidade e sociedade 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+107 - cat 1.06 - Ações pedagógicas: visitas técnicas, projetos integradores/interdisciplinares, dias de campo, 
+feira das profissões, cursos extracurriculares para alunos. 
+Origem: 
+3-Outra 
+O que será feito: 
+Projeto People Analytics: Por meio da aplicação de testes comportamentais, promover o 
+autoconhecimento aos discentes da unidade para planejamento e desenvolvimento de carreira 
+profissional  
+Por que será feito: 
+Como objetivo principal, o projeto visa a articulação entre a teoria e a prática, de maneira a promover 
+uma valorização das pesquisas no âmbito acadêmico. O projeto é realizado pelos alunos do 1º 
+semestre de Gestão de RH, sendo vinculado às disciplinas de Comportamento Organizacional, 
+Psicologia Organizacional e Informática Aplicada à Gestão de Pessoas 
+Responsável: 
+Profa. Valéria Rufino Maiellaro (Coordenadora de Curso) Qde CH/sem: 
+4 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+Profa. Janaína Rute Dourado  
+Qde CH/sem: 
+4 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+15/02/2025 
+Data final: 
+15/07/2025 
+Etapas do processo: 
+01- Definição de grupos e os cursos de atuação de cada grupo  
+15/02 
+28/02 
+ 
+02- Reuniões com coordenadores de cada curso  
+28/02 
+08/03 
+ 
+03- Desenvolvimento de vídeos e folders para engajar a participação dos 
+discentes e divulgação/comunicação 
+08/03 
+31/03 
+ 
+04- Desenvolvimento do questionário/teste comportamental  
+20/03 
+31/03 
+ 
+05- Período de aplicação dos testes 
+01/04 
+30/04 
+ 
+06- Apuração dos resultados e criação do ebook com feedback dos 
+resultados a cada participante  
+30/04 
+15/05 
+ 
+07- Tabulação e apresentação dos resultados à banca avaliadora 
+15/05 
+15/06 
+ 
+ 
+ 
+ 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+108 - cat 1.06 - Ações pedagógicas: visitas técnicas, projetos integradores/interdisciplinares, dias de campo, 
+feira das profissões, cursos extracurriculares para alunos. 
+Origem: 
+3-Outra 
+O que será feito: 
+Visitas técnicas diversas de alunos acompanhados por docentes e servidores 
+Por que será feito: 
+Atividadesde extensão e formação complementar 
+Responsável: 
+Coordenadores de Curso 
+Qde CH/sem: 
+4 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a):  
+Qde CH/sem: 
+ 
+Tipo: Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+15/02/2025 
+Data final: 
+15/12/2025 
+Etapas do processo: 
+01- Definição de visitas e cursos 
+15/02 
+28/02 
+ 
+02- Divulgação   
+28/02 
+08/03 
+ 
+03 – Realização das visitas 
+08/03 
+20/12 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.13 - Relacionamento interpessoal da equipe 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+109 - cat 1.07 - Divulgação do vestibular e ações de fortalecimento de imagem institucional 
+Origem: 
+3-Outra 
+O que será feito: 
+Fatec Zona Leste Portas Abertas 
+Por que será feito: 
+Necessidade de divulgação de vestibular sobretudo nos cursos e turnos com baixa demanda. 
+Atividades de extensão e formação complementar 
+Responsável: 
+Coordenadores de Curso 
+Qde CH/sem: 
+4 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a):  
+Qde CH/sem: 
+ 
+Tipo: Escolher um item. 
+Colaborador(a): 
+< 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+15/02/2025 
+Data final: 
+15/12/2025 
+Etapas do processo: 
+01- Planejamento 1º semestre 
+15/02 
+28/02 
+ 
+02- Divulgação 1º semestre 
+28/02 
+08/04 
+ 
+03 – Realização do evento 
+08/04 
+01/06 
+ 
+04- Planejamento 2º semestre 
+01/08 
+30/08 
+ 
+05- Divulgação 2º semestre 
+01/09 
+30/09 
+ 
+06 – Realização do evento 
+30/09 
+30/10 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.08 - Participação da comunidade e sociedade 
+ 
+ 
+ 
+ 
+01 – Didático-Pedagógico: Copiar projetos de 2025 
+ 
+AÇÃO/PROJETO (Tema) 
+10x - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+ (copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+10y - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+10w - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+10z - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+ 
+02 – Laboratórios - Ensino e Equipamentos Associados 
+Ações para melhoramento dos laboratórios de Ensino (Gestão e Equipamentos): Melhoramento de 
+equipamentos, mediante instalação, manutenção, desuso, doação, e gestão de ambiente laboratorial. 
+ 
+AÇÃO/PROJETO (Tema) 
+201 - cat 2.02 - Laboratório informática - implantação/melhoramento com recursos PEDAGÓGICOS 
+Origem: 
+2-CPA (Relatório da Comissão Própria de Avaliação da Unidade) 
+O que será feito: 
+Manutenção de laboratórios, de licenças, de hardware. Instalação e modernização de 3 laboratórios 
+com Desktops antigos  
+Por que será feito: 
+Necessidade de manter operação em pleno funcionamento, necessidade de modernização de 
+laboratórios de informática 
+Responsável: 
+<nome> Edson Company Colalto Jr 
+Qde CH/sem: 
+16 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/02/2025 
+Data final: 
+30/12/2025 
+Etapas do processo: 
+01- Atualizar levantamento de máquinas antigas em todos os laboratórios 
+da unidade 
+01/02 
+01/03 
+ 
+02- Solicitação de compras de máquinas para substituição dos laboratórios, 
+muito antigos 
+01/03 
+01/04 
+ 
+03- Substituição as máquinas antigas e atualização de softwares 
+01/04 
+01/12 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo R$ (se houver): 
+16 HAEs 
+Fonte(s) dos recursos: 
+HAEs da unidade 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+202 - cat 2.03 - Ambiente multidisciplinar de ensino - implantação/melhoramento com recursos 
+PEDAGÓGICOS 
+Origem: 
+3-Outra 
+O que será feito: 
+Adaptação do bloco C para instalar mais 4 salas de aula 
+Por que será feito: 
+Parte das ações para combater a superlotação da unidade 
+Responsável: 
+<nome> Prof. Ivan Gama 
+Qde CH/sem: 
+4 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> Leonardo Galvão da Cruz Galvão 
+Qde CH/sem: 
+0 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/02/2025 
+Data final: 
+30/11/2025 
+Etapas do processo: 
+01- Projeto de instalação das salas nos ambientes de laboratório 
+01/02 
+01/03 
+ 
+02- Mudança do leiaute dos equipamentos, remoção, instalação 
+01/03 
+01/12 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo R$ (se houver): 
+A definir 
+Fonte(s) dos recursos: 
+A definir 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+203 - cat 2.03 - Ambiente multidisciplinar de ensino - implantação/melhoramento com recursos 
+PEDAGÓGICOS 
+Origem: 
+2-CPA (Relatório da Comissão Própria de Avaliação da Unidade) 
+O que será feito: 
+Projeto de construção de dispositivos para ensaios básicos em laboratório simulando condições 
+logísticas que as embalagens podem sofrer durante transporte e armazenamento 
+Por que será feito: 
+Para elevar o nível da discussão sobre a aplicabilidade de ensaios de embalagens nas operações 
+logísticas e melhorar a formação no eixo respectivo. 
+Responsável: 
+<nome> Prof. Ivan Gama 
+Qde CH/sem: 
+8 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/02/2025 
+Data final: 
+15/12/2025 
+Etapas do processo: 
+01- Identificar os principais ensaios mecânicos com possibilidade de serem 
+realizados na Fatec ZL  
+01/02 
+01/03 
+ 
+02- Esboço dos dispositivos 
+01/03 
+01/04 
+ 
+03- Desenvolvimento do projeto em CAD/CAM  
+01/04 
+01/05 
+ 
+04- Impressão 3D dos protótipos 
+01/05 
+01/06 
+ 
+05- Testes dos protótipos funcionais 
+01/06 
+01/07 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo R$ (se houver): 
+8 HAEs 
+Fonte(s) dos recursos: 
+HAEs da unidade 
+Situação problema: 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+(a ser resolvida/mitigada) 
+cat 0.1.10 - Gestão da unidade de ensino e dos cursos (indicadores) 
+ 
+ 
+ 
+02 – Laboratórios: Copiar projetos de 2025 
+ 
+AÇÃO/PROJETO (Tema) 
+20x - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+20y - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+20w - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+20z - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+ 
+ 
+03 – Pesquisa / Extensão e Equipamentos Associados 
+Ações para melhoramento dos laboratórios que contemplam Pesquisa além do Ensino (Equipamentos): 
+melhoramento dos espaços de pesquisa, que inclui especificação equipamentos e aquisição por fomento ou por 
+projeto com empresa, e também prestação de serviços no campo tecnológico para instituições e empresas. 
+ 
+AÇÃO/PROJETO (Tema) 
+301 - cat 3.06 - Jornada/Evento/Revista Científico e Tecnológico 
+Origem: 
+2-CPA (Relatório da Comissão Própria de Avaliação da Unidade) 
+O que será feito: 
+8º Encontro de Gestão e Tecnologia (ENGETEC) 
+Por que será feito: 
+Principal evento de extensão da unidade, que está se tornando regional e fonte de publicações 
+relevantes, tanto da rede do Centro Paula Souza quanto de pesquisadores externos  
+Responsável: 
+<nome> Comissão organizadora de professores e 
+coordenadores de curso  
+Qde CH/sem: 
+100 Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/02/2025 
+Data final: 
+01/12/2025 
+Etapas do processo: 
+01- Plataforma de submissões, instalação e configuração 
+01/02 
+01/06 
+ 
+02- Definição de tema, programação inicial, data final, templates, 
+atividades  
+01/08 
+01/11 
+ 
+03- Fechamento, certificações, publicações  
+01/12 
+20/12 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.08 - Participação da comunidade e sociedade 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+302 - cat 3.06 - Jornada/Evento/Revista Científico e Tecnológico 
+Origem: 
+1-CEE (Relatório Circunstanciado do Conselho Estadual de Educação 
+O que será feito: 
+Manutenção da Revista Advances in Global Information Technology - @_GIT 
+Por que será feito: 
+Valorização da produção de conhecimento da unidade, cumprimento de ações de pesquisa para 
+reconhecimento e renovação de reconhecimento de cursos 
+Responsável: 
+<nome> Prof. Roberto Ramos de Morais 
+Qde CH/sem: 
+4 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Prof. Célio Daroncho 
+Qde CH/sem: 
+4 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> Prof. Edson Company Colalto Jr. 
+Qde CH/sem: 
+4 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+01/02/2025 
+Data final: 
+20/12/2025 
+Etapas do processo: 
+01- Renovação e reconfiguração da plataforma 
+01/02 
+01/04 
+ 
+02- Publicação dos volumes do ano de 2025 
+01/04 
+20/12 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo R$ (se houver): 
+12 
+Fonte(s) dos recursos: 
+HAEs da unidade 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+303 - cat 3.06 - Jornada/Evento/Revista Científico e Tecnológico 
+Origem: 
+1-CEE (Relatório Circunstanciado do Conselho Estadual de Educação 
+O que será feito: 
+Manutenção de revista científica Engetec em Revista 
+Por que será feito: 
+Publicação em revista dos artigos aprovados no Engetec do ano anterior  
+Responsável: 
+<nome> Prof. Roberto Ramos de Morais 
+Qde CH/sem: 
+4 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Prof. Célio Daroncho 
+Qde CH/sem: 
+4 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/02/2025 
+Data final: 
+30/12/2025 
+Etapas do processo: 
+01- Configuração da plataforma 
+01/02 
+01/04 
+ 
+02- Captação e configuração dos trabalhos do ano de 2025 
+01/12 
+20/12 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo R$ (se houver): 
+8 HAEs 
+Fonte(s) dos recursos: 
+HAEs da unidade 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+ 
+ 
+ 
+03 – Pesquisa/Extensão: Copiar projetos de 2025 
+ 
+AÇÃO/PROJETO (Tema) 
+30x - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+30y - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+30w - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+30z - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+04 – Atividades Formativas em Projetos (nível tático) 
+Projetos institucionais formativos não especificados em PEs: Rede de tecnologia, Novotec, PCI, Projetos 
+estudantis (Baja, Aerodesign, entre outros) 
+ 
+AÇÃO/PROJETO (Tema) 
+401 - cat 4.04 - Projetos estudantis diversos 
+Origem: 
+1-CEE (Relatório Circunstanciado do Conselho Estadual de Educação 
+O que será feito: 
+Projeto Zona Leste Sustentável - Aplicação prática de conceitos de gestão ambiental e social nos 
+processos da Fatec Zona Leste e em organizações reais. Ações do Gestão Empresarial Sustentável 
+(GES) 
+Por que será feito: 
+O projeto visa aplicação prática dos conceitos de sustentabilidade, proporcionando aos alunos o 
+mapeamento das necessidades da Fatec Zona Leste e de organizações reais voltadas ao meio 
+ambiente e a gestão social, com elaboração de projetos e propostas de melhorias. Busca-se impacto 
+na comunidade carente local e na comunidade interna como alunos em situação vulnerável. Busca-
+se ações ambientalmente exemplares dentro do Campus como monitoramento de consumo de água, 
+energia elétrica e papel. 
+Responsável: 
+<nome> Profa Márica Capellini 
+Qde CH/sem: 
+4 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+15/02/2025 
+Data final: 
+30/11/2025 
+Etapas do processo: 
+01 - Capacitação do discente sobre os fundamentos da gestão ambiental, 
+mapeamento e elaboração de projetos. 
+15/02 
+30/03 
+ 
+02 - Aplicações em empresas reais com proposta de melhorias ambientais. 
+01/04 
+30/11 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo R$ (se houver): 
+4 HAEs semanais 
+Fonte(s) dos recursos: 
+HAEs da unidade 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.08 - Participação da comunidade e sociedade 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+402 - cat 4.03 - PCI 
+Origem: 
+2-CPA (Relatório da Comissão Própria de Avaliação da Unidade) 
+O que será feito: 
+Parceria com Universidade Canadense. A disciplina de comportamento organizacional, comum entre a 
+Universidade Canadense e a Fatec Zona Leste, será utilizada para estudar nuances do comportamento 
+organizacional e proporcionar a convivência entre alunos dos dois países, troca de experiências, idioma e de 
+cultura. 
+Por que será feito: 
+O projeto visa promover o convívio intercultural no ambiente acadêmico entre alunos do Brasil e Canadá, com 
+objetivo de compreender como as pessoas trabalham, suas motivações, tomadas de decisão, diversidade, 
+comunicação, liderança, política, poder e cultura 
+Responsável: 
+<nome> Profa. Solange Cristina Maida Bazzon  
+Qde CH/sem: 
+2 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> Profa. Maria Helena Veloso Salgado  
+Qde CH/sem: 
+2 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> Profa. Valéria Rufino Maiellaro (Coordenadora do 
+Curso) 
+Qde CH/sem: 
+2 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+01/02/2025 
+Data final: 
+01/12/2025 
+Etapas do processo: 
+01- Planejamento entre coordenação e docente adaptação da Fatec Zona 
+Leste ao projeto  
+01/02 
+20/12 
+ 
+02- Comunicação aos elegíveis dentro do curso de RH e capacitação dos 
+inscritos para o projeto  
+20/02 
+01/03 
+ 
+03- Desenvolvimento do Projeto na unidade Fatec Zona Leste junto à 
+Universidade Canadense  
+01/03 
+30/06 
+ 
+04- Acompanhamento e orientações aos discentes 
+01/03 
+30/06 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo R$ (se houver): 
+6 HAEs 
+Fonte(s) dos recursos: 
+HAE da unidade 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.13 - Relacionamento interpessoal da equipe 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+403 - cat 4.03 - PCI 
+Origem: 
+2-CPA (Relatório da Comissão Própria de Avaliação da Unidade) 
+O que será feito: 
+Parceria com Universidade Chilena. A disciplina de Movimentação e Armazenagem será utilizada para estudar 
+aspectos da gestão logística e promover convivência entre alunos dos dois países, troca de experiências, 
+idioma e de cultura. 
+Por que será feito: 
+O projeto visa promover o convívio intercultural no ambiente acadêmico entre alunos do Brasil e Chile, com 
+objetivo de compreender como as pessoas trabalham, suas motivações, tomadas de decisão, diversidade, 
+comunicação, liderança, política, poder e cultura 
+Responsável: 
+<nome> Prof. Rogério Monteiro  
+Qde CH/sem: 
+2 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> Prof. Roberto Ramos de Morais (Coordenador de 
+Curso) 
+Qde CH/sem: 
+2 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+15/02/2025 
+Data final: 
+01/12/2025 
+Etapas do processo: 
+01- Planejamento entre coordenação e docente adaptação da Fatec Zona 
+Leste ao projeto  
+15/02 
+15/03 
+ 
+02- Comunicação aos elegíveis dentro do curso de logística e capacitação 
+dos inscritos para o projeto  
+15/03 
+30/06 
+ 
+03- Planejamento entre coordenação e docente adaptação da Fatec Zona 
+Leste ao projeto – 2º semestre  
+15/08 
+15/09 
+ 
+04- Comunicação aos elegíveis dentro do curso de logística e capacitação 
+dos inscritos para o projeto – 2º semestre  
+15/09 
+30/11 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo R$ (se houver): 
+4 HAEs 
+Fonte(s) dos recursos: 
+HAEs da unidade 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.13 - Relacionamento interpessoal da equipe 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+404 - cat 4.03 - PCI 
+Origem: 
+2-CPA (Relatório da Comissão Própria de Avaliação da Unidade) 
+O que será feito: 
+Parceria com Universidade Chinesa. Disciplinas do CST em Análise e Desenvolvimento de Sistemas serão 
+utilizadas para estudar aspectos da área de tecnologia da informação 
+Por que será feito: 
+O projeto visa promover o convívio intercultural no ambiente acadêmico entre alunos do Brasil e China, com 
+objetivo de compreender como as pessoas trabalham, suas motivações, tomadas de decisão, diversidade, 
+comunicação, liderança, política, poder e cultura 
+Responsável: 
+<nome> Professora Rosana Novais  
+Qde CH/sem: 
+2 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> Prof. Luciano Francisco de Oliveira) 
+Qde CH/sem: 
+2 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+15/02/2025 
+Data final: 
+01/12/2025 
+Etapas do processo: 
+01- Planejamento entre coordenação e docente adaptação da Fatec Zona 
+Leste ao projeto  
+15/02 
+15/03 
+ 
+02- Comunicação aos elegíveis dentro do curso de logística e capacitação 
+dos inscritos para o projeto  
+15/03 
+30/06 
+ 
+03- Planejamento entre coordenação e docente adaptação da Fatec Zona 
+Leste ao projeto – 2º semestre  
+15/08 
+15/09 
+ 
+04- Comunicação aos elegíveis dentro do curso de logística e capacitação 
+dos inscritos para o projeto – 2º semestre  
+15/09 
+30/11 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo R$ (se houver): 
+4 HAEs 
+Fonte(s) dos recursos: 
+HAEs da unidade 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.13 - Relacionamento interpessoal da equipe 
+ 
+ 
+ 
+04 – Atividades Formativas em Projetos: Copiar projetos de 2025 
+ 
+AÇÃO/PROJETO (Tema) 
+40x - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+40y - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+40w - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+40z - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+ 
+ 
+ 
+05 – Infraestrutura (instalações prediais) 
+Projetos de manutenção e melhoramento predial voltados à segurança (física e sanitária) e preservação do 
+patrimônio: Reparação predial (civil, elétrica, dados), novas instalações prediais. 
+ 
+AÇÃO/PROJETO (Tema) 
+501 - cat 5.06 - Implantação de espaços pedagógicos 
+Origem: 
+1-CEE (Relatório Circunstanciado do Conselho Estadual de Educação 
+O que será feito: 
+Solicitação de ampliação da unidade, por questão de superlotação  
+Por que será feito: 
+A unidade ministra aulas em ambientes improvisados no andar térreo e no bloco C. O andar térreo 
+é prioritariamente administrativo. A unidade já apresentava déficit de espaços antes da implantação 
+de cursos no período da pandemia de Covid-19. Há espaço no Campus para anexar prédio 
+administrativo, na parte frontal ou na parte dos fundos 
+Responsável: 
+<nome> Prof. João Roberto Maiellaro (diretor) 
+Qde CH/sem: 
+4 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Leonardo Galvão da Cruz (servidor 
+administrativo) 
+Qde CH/sem: 
+4 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/02/2025 
+Data final: 
+20/12/2025 
+Etapas do processo: 
+01- Preparação das informações atualizadas sobre uso e lotação da 
+estrutura 
+01/02 
+01/04 
+ 
+02- Encaminhamento à UIE 
+01/04 
+30/04 
+ 
+03- Acompanhamento 
+30/04 
+20/12 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+(a ser resolvida/mitigada) 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+502 - cat 5.02 - Melhoria de Laboratório 
+Origem: 
+2-CPA (Relatório da Comissão Própria de Avaliação da Unidade) 
+O que será feito: 
+Manutenção de laboratórios, ventilação e refrigeração  
+Por que será feito: 
+Ambientes defasados e abafados, equipamentos necessitam ser substituídos. Pela lotação da 
+unidade, espaços improvisados foram transformados em laboratórios de informática 
+Responsável: 
+<nome> Prof. Edson Colato Jr. 
+Qde CH/sem: 
+4 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/02/2025 
+Data final: 
+20/12/2025 
+Etapas do processo: 
+01- Atualização das necessidades de manutenção e modernização 
+01/02 
+01/04 
+ 
+02- Encaminhamento à UIE 
+01/04 
+30/04 
+ 
+03- Acompanhamento 
+30/04 
+20/12 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo R$ (se houver): 
+Verbas destinadas por 
+licitação 
+Fonte(s) dos recursos: 
+Orçamento do CPS 
+Situação problema: 
+cat 0.1.02 - Manutenção e conservação predial 
+(a ser resolvida/mitigada) 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+503 - cat 5.01 - Melhoria Sala de Ambientes pedagógicos 
+Origem: 
+2-CPA (Relatório da Comissão Própria de Avaliação da Unidade) 
+O que será feito: 
+Melhorias de salas de aula, modernização e ventilação ou refrigeração  
+Por que será feito: 
+Ambientes defasados e abafados, equipamentos necessitam ser substituídos 
+Responsável: 
+<nome> Leonardo Galvão da Cruz 
+Qde CH/sem: 
+4 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/02/2025 
+Data final: 
+20/12/2025 
+Etapas do processo: 
+01- Atualização das necessidades de manutenção e modernização 
+01/02 
+01/04 
+ 
+02- Encaminhamento à UIE 
+01/04 
+30/04 
+ 
+03- Acompanhamento 
+30/04 
+20/12 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo R$ (se houver): 
+Verbas destinadas por 
+licitação 
+Fonte(s) dos recursos: 
+Orçamento do CPS 
+Situação problema: 
+cat 0.1.02 - Manutenção e conservação predial 
+(a ser resolvida/mitigada) 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+504 - cat 5.05 - Reforma de Edificações 
+Origem: 
+2-CPA (Relatório da Comissão Própria de Avaliação da Unidade) 
+O que será feito: 
+Solicitação de troca do piso dos andares e do térreo 
+Por que será feito: 
+Pisos estão se soltando por um andar inteiro. Existem áreas e salas sem piso ou com correções 
+inadequadas com argamassa, com riscos à segurança da comunidade por quedas e ferimentos 
+Responsável: 
+<nome> Leonardo Galvão da Cruz 
+Qde CH/sem: 
+4 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/02/2025 
+Data final: 
+20/12/2025 
+Etapas do processo: 
+01- Levantamento e atualização das necessidades de reparo 
+01/02 
+01/03 
+ 
+02- Encaminhamento à UIE 
+01/03 
+01/04 
+ 
+03- Acompanhamento 
+01/04 
+20/12 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo R$ (se houver): 
+Verbas de licitação ou 
+outras 
+Fonte(s) dos recursos: 
+Orçamento do CPS 
+Situação problema: 
+cat 0.1.11 - Segurança pessoal e patrimonial 
+(a ser resolvida/mitigada) 
+cat 0.1.02 - Manutenção e conservação predial 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+505 - cat 5.03 - Material Infraestrutura/equipamentos 
+Origem: 
+2-CPA (Relatório da Comissão Própria de Avaliação da Unidade) 
+O que será feito: 
+Ativação do Circuito Interno de Câmeras de Monitoramento 
+Por que será feito: 
+Para reativar condições mínimas de segurança patrimonial da unidade e prevenção de danos e 
+perdas ao patrimônio  
+Responsável: 
+<nome> Leonardo Galvão da Cruz 
+Qde CH/sem: 
+4 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/02/2025 
+Data final: 
+20/12/2025 
+Etapas do processo: 
+01- Levantamento e atualização das necessidades 
+01/02 
+01/04 
+ 
+02- Solicitação à UIE de apoio para instalação das câmeras já adquiridas 
+01/04 
+01/07 
+ 
+03- Acompanhamento 
+01/07 
+20/12 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo R$ (se houver): 
+Verbas licitatórias ou 
+outras 
+Fonte(s) dos recursos: 
+Verbas licitatórias ou outras 
+Situação problema: 
+cat 0.1.11 - Segurança pessoal e patrimonial 
+(a ser resolvida/mitigada) 
+cat 0.1.02 - Manutenção e conservação predial 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+506 - cat 5.03 - Material Infraestrutura/equipamentos 
+Origem: 
+2-CPA (Relatório da Comissão Própria de Avaliação da Unidade) 
+O que será feito: 
+Reativação do elevador 1 
+Por que será feito: 
+Para haver duas opções de elevador na Unidade e reestabelecer condições de inclusão e mobilidade 
+Responsável: 
+<nome> Leonardo Galvão da Cruz 
+Qde CH/sem: 
+4 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/02/2025 
+Data final: 
+20/12/2025 
+Etapas do processo: 
+01- Levantamento e atualização das necessidades 
+01/02 
+01/04 
+ 
+02- Solicitação à UIE de apoio para instalação das câmeras já adquiridas 
+01/04 
+01/07 
+ 
+03- Acompanhamento 
+01/07 
+20/12 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo R$ (se houver): 
+Cerca de R$ 20000 
+Fonte(s) dos recursos: 
+Verbas licitatórias ou outras 
+Situação problema: 
+cat 0.1.09 - Acesso/Inclusão ao Ensino Superior (social, PCD) 
+(a ser resolvida/mitigada) 
+cat 0.1.02 - Manutenção e conservação predial 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+507 - cat 5.03 - Material Infraestrutura/equipamentos 
+Origem: 
+2-CPA (Relatório da Comissão Própria de Avaliação da Unidade) 
+O que será feito: 
+Manutenção do sistema de bombeamento de água, com substituição das bombas e tubulação 
+Por que será feito: 
+Constantes problemas de fornecimento de água e falhas no sistema de combate a incêndio  
+Responsável: 
+<nome> Leonardo Galvão da Cruz 
+Qde CH/sem: 
+4 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/02/2025 
+Data final: 
+20/12/2025 
+Etapas do processo: 
+01- Levantamento e atualização das necessidades 
+01/02 
+01/04 
+ 
+02- Solicitação à UIE de apoio para a manutenção 
+01/04 
+01/07 
+ 
+03- Acompanhamento 
+01/07 
+20/12 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo R$ (se houver): 
+Cerca de R$ 20000 
+Fonte(s) dos recursos: 
+Verbas licitatórias ou outras 
+Situação problema: 
+cat 0.1.11 - Segurança pessoal e patrimonial 
+(a ser resolvida/mitigada) 
+cat 0.1.02 - Manutenção e conservação predial 
+ 
+AÇÃO/PROJETO (Tema) 
+508 - cat 5.03 - Material Infraestrutura/equipamentos 
+Origem: 
+3-Outra 
+O que será feito: 
+Substituição de mobiliário e equipamentos danificados e/ou  incompatíveis com a NRs vigentes. 
+Por que será feito: 
+Para atender os regulamentos internos e externos  
+Responsável: 
+<nome> Leonardo Galvão da Cruz 
+Qde CH/sem: 
+nn 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/02/2025 
+Data final: 
+20/12/2025 
+Etapas do processo: 
+01- Levantamento e atualização das necessidades 
+01/02 
+01/04 
+ 
+02- Solicitação à UGAF 
+01/04 
+01/07 
+ 
+03- Acompanhamento 
+01/07 
+20/12 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo R$ (se houver): 
+Cerca de R$ 14300,00 
+Fonte(s) dos recursos: 
+Verbas licitatórias ou outras 
+Situação problema: 
+cat 0.1.11 - Segurança pessoal e patrimonial 
+(a ser resolvida/mitigada) 
+cat 0.1.02 - Manutenção e conservação predial 
+ 
+ 
+ 
+05 – Infraestrutura: Copiar projetos de 2025 
+ 
+AÇÃO/PROJETO (Tema) 
+50x - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+50y - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+50w - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+50z - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+ 
+ 
+ 
+06 - Desenvolvimento de pessoas (docentes e servidores) 
+Formação continuada de docentes e servidores, associadas às competências gerais e específicas de suas 
+atividades: Metodologias de ensino, Tecnologias educacionais, Sistemas (processos, procedimentos, plataformas 
+computacionais) acadêmicos e pedagógicos. 
+ 
+AÇÃO/PROJETO (Tema) 
+601 - cat 6.01 - Curso/Oficina/Capacitação/ Treinamento/ Palestra/Reunião/Encontro 
+Origem: 
+3-Outra 
+O que será feito: 
+Aulas inaugurais com calouros 
+Por que será feito: 
+Necessidade de integração, de motivação, e de maximização de desempenho discente 
+Responsável: 
+<nome> João Roberto Maiellaro 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+15/01/2025 
+Data final: 
+01/08/2025 
+Etapas do processo: 
+01- Aula inaugural 1º semestre 
+15/02 
+17/02 
+ 
+02- Aula inaugural 2º semestre 
+01/08 
+03/08 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+(a ser resolvida/mitigada) 
+cat 0.1.13 - Relacionamento interpessoal da equipe 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+602 - cat 6.01 - Curso/Oficina/Capacitação/ Treinamento/ Palestra/Reunião/Encontro 
+Origem: 
+3-Outra 
+O que será feito: 
+Oficinas de ferramentas e plataformas eletrônica para docentes na SPAP 
+Por que será feito: 
+Atualização das práticas avaliativas e pedagógicas para melhorar imagem e produtividade da 
+unidade 
+Responsável: 
+<nome> João R Maiellaro 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> Célio Daroncho 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+05/02/2025 
+Data final: 
+01/08/2025 
+Etapas do processo: 
+01- Planejamento junto aos coordenadores de curso 
+01/02 
+01/02 
+ 
+02- Divulgação e conscientização 
+01/02 
+05/02 
+ 
+03- Realização das oficinas 
+05/02 
+01/08 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+603 - cat 1.12 - Orientação profissional para discentes, mentoria e apoio psicopedagógico 
+Origem: 
+2-CPA (Relatório da Comissão Própria de Avaliação da Unidade) 
+O que será feito: 
+Atendimento individual de discentes, docentes e servidores e membros externos, para acolhimento 
+e aconselhamento emocional e psicológico, por profissional formado em Psicologia Clínica e docente 
+da unidade 
+Por que será feito: 
+ Desde o retorno das aulas presenciais, pós-pandemia, percebeu-se a necessidade de disponibilizar 
+atendimento psicológico na unidade 
+Responsável: 
+Profa Maria Helena Veloso Salgado  
+Qde CH/sem: 
+4 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+15/02/2025 
+Data final: 
+30/11/2025 
+Etapas do processo: 
+01- Comunicação e divulgação do projeto a toda comunidade  
+15/02 
+15/07 
+ 
+02- Agendamentos e atendimentos sigilosos diretamente com a professora 
+Psicóloga  
+15/02 
+15/11 
+ 
+03- Agendamentos e atendimentos sigilosos diretamente com a professora 
+Psicóloga  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo R$ (se houver): 
+4 HAEs 
+Fonte(s) dos recursos: 
+HAEs da unidade 
+Situação problema: 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+(a ser resolvida/mitigada) 
+cat 0.1.09 - Acesso/Inclusão ao Ensino Superior (social, PCD) 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+604 - cat 1.08 - Eventos e ações para aperfeiçoamento docente (Spap, treinamentos, avaliação docente) 
+Origem: 
+3-Outra 
+O que será feito: 
+Treinamento e desenvolvimento e oferecimento de capacitações docente nas Semanas de 
+Planejamento e Aperfeiçoamento Pedagógico  
+Por que será feito: 
+Suprir lacunas de conhecimentos das principais temáticas pedagógicas  
+Responsável: 
+Prof. João R Maiellaro  
+Qde CH/sem: 
+4 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a):  
+Qde CH/sem: 
+20 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+15/02/2025 
+Data final: 
+15/08/2025 
+Etapas do processo: 
+01- Levantamento de necessidades de treinamento  
+15/01 
+20/01 
+ 
+02- Organização, elaboração de conteúdos 
+01/02 
+05/02 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo R$ (se houver): 
+Trabalho da direção e 
+coordenação 
+Fonte(s) dos recursos: 
+Horas da unidade da equipe gestora 
+Situação problema: 
+cat 0.1.06 - Quantidade de professores/funcionários 
+(a ser resolvida/mitigada) 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+605 - cat 6.01 - Curso/Oficina/Capacitação/ Treinamento/ Palestra/Reunião/Encontro 
+Origem: 
+2-CPA (Relatório da Comissão Própria de Avaliação da Unidade) 
+O que será feito: 
+Cursos diversos serão oferecidos nos eixos de formação da unidade, nas áreas de gestão aduaneira, 
+línguas, informática, empreendedorismo, design, gestão da qualidade, dentre outros que surgirem 
+dentro das solicitações da comunidade 
+Por que será feito: 
+Anseio da comunidade detectado nos relatos e dados da CPA 
+Responsável: 
+<nome> Coordenadores de curso 
+Qde CH/sem: 
+20 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Professores diversos 
+Qde CH/sem: 
+50 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/02/2025 
+Data final: 
+20/12/2025 
+Etapas do processo: 
+01- Planejamento 
+01/02 
+01/03 
+ 
+02- Divulgação 
+01/03 
+15/03 
+ 
+03- Oferecimento dos cursos 
+15/03 
+20/122 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo R$ (se houver): 
+50 HAEs semanais 
+Fonte(s) dos recursos: 
+HAEs da unidade 
+Situação problema: 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+(a ser resolvida/mitigada) 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+606 - cat 6.01 - Curso/Oficina/Capacitação/ Treinamento/ Palestra/Reunião/Encontro 
+Origem: 
+3-Outra 
+O que será feito: 
+Gincana Geek 
+Por que será feito: 
+Para oferecer ações culturais, de extensão e proporcionar formação complementar 
+Responsável: 
+Profa. Eliane Eusébio 
+Qde CH/sem: 
+4 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> 
+Qde CH/sem: 
+ 
+Tipo: Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/02/2025 
+Data final: 
+20/12/2025 
+Etapas do processo: 
+01- Planejamento 
+01/02 
+01/03 
+ 
+02- Divulgação 
+01/03 
+15/03 
+ 
+03- Realização 
+15/03 
+30/06 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo R$ (se houver): 
+4 HAEs semanais 
+Fonte(s) dos recursos: 
+HAEs da unidade 
+Situação problema: 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+(a ser resolvida/mitigada) 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+ 
+ 
+ 
+ 
+06 – Desenvolvimento de Pessoas: Copiar projetos de 2025 
+ 
+AÇÃO/PROJETO (Tema) 
+60x - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+60y - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+60w - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+60z - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+ 
+ 
+ 
+ 
+07 – Convênios e Parcerias Institucionais 
+Formalização do relacionamento da Unidade com o Ecossistema de Tecnologia: Convênio de uso de prédio, 
+estágios, projetos com empresas. Aqui cabe apenas novos convênios e parcerias, e cada proposta deve estar 
+relacionada a uma Ação/Projeto de melhoria em algum dos itens anteriores do PGA (1, 2, 3, 4, 5 ou 6). 
+ 
+AÇÃO/PROJETO (Tema) 
+701 - cat 7.03 - Projetos com empresas e/ou demais parceiros 
+Origem: 
+3-Outra 
+O que será feito: 
+Programa Fatec ZL CONECTA. Visitas a empresas, agências de emprego, associações comerciais de 
+bairro, NUBE, CIEE para divulgação dos nossos cursos e alunos e para captação de vagas. Canais de 
+comunicação como a newsletter GET LESTE e o podcast PODLESTE. Oferecer contrapartidas como 
+capacitação, projetos interdisciplinares em que alunos auxiliam organizações em soluções simples 
+com tutoria do corpo docente e uso do espaço. Divulgação de vestibular junto a esses parceiros 
+Por que será feito: 
+Necessidade de maior proximidade com o mundo do trabalho para ampliar empregabilidade 
+discente e obter ganhos diversos no cotidiano com parcerias. Ampliar canais de comunicação e 
+inserção no entorno e na sociedade. Para suprir a necessidade de empregabilidade do nosso corpo 
+discente. Para divulgação da Instituição e dos cursos disponíveis. Para engajamento dos discentes 
+na colaboração e atividade prática alinhado a conhecimento recebido na instituição. 
+Responsável: 
+<nome> Profa Maria Helena Veloso Salgado 
+Qde CH/sem: 
+4 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> Profa. Maria Luiza Ribeiro 
+Qde CH/sem: 
+4 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> Prof. José Carlos Hoelz 
+Qde CH/sem: 
+4 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+01/02/2025 
+Data final: 
+20/12/2025 
+Etapas do processo: 
+01- Reuniões semanais para planejamento e implantação das ações 
+01/02 
+20/12 
+ 
+02- 01- Mapeamento das empresas e agências de emprego da região e 
+mediações  
+01/02 
+20/12 
+ 
+03- Identificação das empresas / ramo/ porte e possibilidades de parcerias  
+01/02 
+20/12 
+ 
+04- Promover reuniões com representantes das empresas - apresentação 
+com informações dos cursos e perfil dos discentes  
+01/02 
+20/12 
+ 
+05- Efetuar divulgação de vagas das empresas 
+01/02 
+20/12 
+ 
+06- Manter a newsletter GET LESTE em pleno funcionamento  
+01/02 
+20/12 
+ 
+07- Manter ações de endomarketing em pleno funcionamento  
+01/02 
+20/12 
+ 
+08- nn 
+ 
+ 
+Custo R$ (se houver): 
+12 
+Fonte(s) dos recursos: 
+HAEs da unidade 
+Situação problema: 
+cat 0.1.08 - Participação da comunidade e sociedade 
+(a ser resolvida/mitigada) 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+702 - cat 7.03 - Projetos com empresas e/ou demais parceiros 
+Origem: 
+1-CEE (Relatório Circunstanciado do Conselho Estadual de Educação 
+O que será feito: 
+Capacitação em tópicos diversos de informática para a terceira idade do entorno e da comunidade 
+Por que será feito: 
+Fraqueza identificada na CPA 2022 – 2023 e retomar projeto interrompido pela pandemia 
+Responsável: 
+Prof. Ivo Branquinho  
+Qde CH/sem: 
+3 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/03/2025 
+Data final: 
+30/06/2025 
+Etapas do processo: 
+01- Planejamento 
+01/02 
+01/03 
+ 
+02- Divulgação 
+01/03 
+01/04 
+ 
+03- Oferecimento das aulas 
+01/04 
+30/06 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo R$ (se houver): 
+3 HAEs semanais 
+Fonte(s) dos recursos: 
+HAEs da unidade 
+Situação problema: 
+cat 0.1.08 - Participação da comunidade e sociedade 
+(a ser resolvida/mitigada) 
+cat 0.1.09 - Acesso/Inclusão ao Ensino Superior (social, PCD) 
+ 
+AÇÃO/PROJETO (Tema) 
+703 - cat 7.03 - Projetos com empresas e/ou demais parceiros 
+Origem: 
+2-CPA (Relatório da Comissão Própria de Avaliação da Unidade) 
+O que será feito: 
+Será oferecido capacitações para colaboradores da Subprefeitura de Ermelino Matarazzo 
+Por que será feito: 
+Fraqueza identificada na CPA 2022 – 2023 e retomar projeto interrompido pela pandemia 
+Responsável: 
+Prof. Ivo Branquinho  
+Qde CH/sem: 
+3 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/03/2025 
+Data final: 
+30/11/2025 
+Etapas do processo: 
+01- Planejamento 
+01/02 
+01/03 
+ 
+02- Divulgação 
+01/03 
+01/04 
+ 
+03- Oferecimento das aulas 
+01/04 
+30/06 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo R$ (se houver): 
+3 HAEs semanais 
+Fonte(s) dos recursos: 
+HAEs da unidade 
+Situação problema: 
+cat 0.1.08 - Participação da comunidade e sociedade 
+(a ser resolvida/mitigada) 
+cat 0.1.09 - Acesso/Inclusão ao Ensino Superior (social, PCD) 
+ 
+ 
+ 
+07 – Convênios e Parcerias: Copiar projetos de 2025 
+AÇÃO/PROJETO (Tema) 
+70x - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+Referente ao(s) projeto(s): nn 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+70y - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+Referente ao(s) projeto(s): nn 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+ 
+ 
+Anexo 1 – Lista de aquisições necessárias aos projetos 
+(equipamentos, softwares, mobiliários) 
+ 
+Item 
+Projeto 
+(XYY) 
+Denominação ou especificação do equipamento 
+Quant. 
+Preço total 
+estimado 
+(R$) 
+01 
+503 
+Conjunto Escolar, Mesa e cadeira individual para aluno 
+190 
+R$ 129.200 
+02 
+502 
+Conj. de Mesa e Cadeira p/ Professor 
+08 
+R$ 7.512 
+03 
+503 
+Ventilador de parede 110v 
+30 
+R$ 9.202,5 
+04 
+508 
+Cadeira giratória com apoia braços 
+30 
+R$ 14.310,00 
+05 
+508 
+Bebedouro de Parede Adaptado 
+04 
+R$ 8.440,00 
+06 
+508 
+Switch de acesso 24 portas 
+05 
+R$ 10.495,00 
+07 
+508 
+Cadeira fixa 
+20 
+R$ 11.580,00 
+08 
+508 
+Armário vestiário 8 vãos 
+02 
+R$ 3.608,00 
+09 
+508 
+Quadro nao magnético - (3,00 x 1,20)m 
+10 
+R$ 5.317,60 
+10 
+508 
+Refrigerador doméstico, Frost Free, Duplex 
+01 
+R$ 2.969,46 
+11 
+nnn 
+nnn 
+nn 
+0 
+12 
+nnn 
+nnn 
+nn 
+0 
+13 
+nnn 
+nnn 
+nn 
+0 
+14 
+nnn 
+nnn 
+nn 
+0 
+15 
+nnn 
+nnn 
+nn 
+0 
+16 
+nnn 
+nnn 
+nn 
+0 
+17 
+nnn 
+nnn 
+nn 
+0 
+18 
+nnn 
+nnn 
+nn 
+0 
+19 
+nnn 
+nnn 
+nn 
+0 
+20 
+nnn 
+nnn 
+nn 
+0 
+ 
+ 
+Total geral 
+R$ 202.635,00 
+ 
+ 
+ 
+ 
+Anexo 2 – Lista de Ações/Projetos referentes à CPA 
+ 
+Item 
+Projeto 
+(XYY) 
+Denominação 
+(O que será feito) 
+Prazo 
+01 
+nnn 
+nn 
+dd/mm/aaaa 
+02 
+nnn 
+nn 
+dd/mm/aaaa 
+03 
+nnn 
+nn 
+dd/mm/aaaa 
+04 
+nnn 
+nn 
+dd/mm/aaaa 
+05 
+nnn 
+nn 
+dd/mm/aaaa 
+06 
+nnn 
+nn 
+dd/mm/aaaa 
+07 
+nnn 
+nn 
+dd/mm/aaaa 
+08 
+nnn 
+nn 
+dd/mm/aaaa 
+09 
+nnn 
+nn 
+dd/mm/aaaa 
+10 
+nnn 
+nn 
+dd/mm/aaaa 
+11 
+nnn 
+nn 
+dd/mm/aaaa 
+12 
+nnn 
+nn 
+dd/mm/aaaa 
+13 
+nnn 
+nn 
+dd/mm/aaaa 
+14 
+nnn 
+nn 
+dd/mm/aaaa 
+15 
+nnn 
+nn 
+dd/mm/aaaa 
+16 
+nnn 
+nn 
+dd/mm/aaaa 
+17 
+nnn 
+nn 
+dd/mm/aaaa 
+18 
+nnn 
+nn 
+dd/mm/aaaa 
+19 
+nnn 
+nn 
+dd/mm/aaaa 
+20 
+nnn 
+nn 
+dd/mm/aaaa 
+ 
+ 
+ 
+ 
+ 
+ 
+<fim> 
+ 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,3097 @@
+PLANO DE GESTÃO ANUAL 
+PGA 2025 
+V04 
+Estruturado em uma única etapa, contendo 2 anexos: 
+PLANEJAMENTO PELA EQUIPE GESTORA DA UE 
+• Anexo 1 – Lista de equipamentos necessários aos projetos 
+• Anexo 2 – Lista de Ações/Projetos referentes à CPA (Origem 3: Gestão Tática – CPA) 
+ 
+IDENTIFICAÇÃO DA UNIDADE 
+Unidade 
+código F119 
+Fatec Garça, Deputado Julio Julinho Marcondes de Moura, José Ribeiro 
+Diretor(a) 
+Cássia Regina Bassan de Moraes 
+ 
+PLANEJAMENTO PELA EQUIPE GESTORA DA UE 
+(Administração da Faculdade - Deliberação CEETEPS 31/2016) 
+ANÁLISE DO CENÁRIO 
+Descrever de forma breve e objetiva o cenário da Unidade perante sua missão como Unidade de Ensino na localidade em que 
+se encontra (é este cenário que se pretende melhorar). 
+Garça é um município do Estado de São Paulo. Conta com 44.429 habitantes, em 2021, segundo o IBGE, 
+distribuída numa superfície de 556 km2. Garça é conhecida por seus cafezais, pela ferrovia que cortava o 
+município e pelo Cerejeiras Festival, que é realizado todos os anos nas proximidades do Lago Artificial 
+"Prof. J.K Willians", a festa atrai mais de 100 mil pessoas. Hoje a cidade é conhecida como a capital da 
+"Polo de Eletro-eletrônica". O município é formado pela sede e pelo distrito de Jafa. 
+Criada pelo Decreto nº 48.433, de 7 de janeiro de 2004, a Faculdade de Tecnologia de Garça – Unidade 
+de Ensino do Centro Estadual de Educação Tecnológica “Paula Souza”, autarquia do Governo do Estado 
+de São Paulo, vinculada à Secretaria de Ciência, Tecnologia e Inovação. As atividades acadêmicas da 
+Fatec Garça, iniciaram em 01 de março de 2004 com o curso superior em Tecnologia de Informática com 
+Ênfase em Gestão de Negócios. Atualmente a Unidade oferece quatro cursos superiores de Tecnologia: 
+Análise e Desenvolvimento de Sistemas, Gestão Empresarial (presencial e EAD), Manufatura Avançada 
+e Mecatrônica Industrial, todos reconhecidos pelo Conselho Estadual de Educação. Uma vez, egresso, ou 
+mesmo, enquanto aluno, é absorvido pelas indústrias do ramo eletroeletrônico, pelas empresas gestoras 
+de dados e de outros setores da economia local e regional. Ao aluno formado na FATEC, faculdade 
+gratuita e de qualidade, abre-se um leque com muitas opções profissionais: buscar cursos de pós-
+graduação (Mestrado e Doutorado oferecidos por faculdades públicas – Unesp Bauru e Unesp Marília),  e 
+também pós-graduação em programas profissionais. Outra opção para o egresso está no 
+empreendedorismo e muitos se tornaram donos de seu próprio negócio. 
+Com instalações próprias, a Fatec Garça ocupa um campus de 47.000m² com 4 edificação:  
+1. Administração: diretoria, diretoria de serviços, secretaria acadêmica, sala de professores, biblioteca, 
+sala de coordenadores, sala de iniciação científica e tecnológica, sala de RJI e sala de orientação de 
+estágio.  
+2. Bloco 1: Com 12 salas de aulas (adaptados em 5 laboratórios de Informática e 7 salas que acomodam 
+12 laboratórios de Mecatrônica, onde são desenvolvidos, na prática, os conceitos das disciplinas dos 
+cursos oferecidos. 
+3. Bloco 2: Com 11 salas de aula todas equipadas com smart tvs de 65 polegadas 4k da LG; 1 Sala Maker  
+4. Cantina: por questões de segurança encontra-se desativada. Em fevereiro de 2023 recebemos visita 
+de Engenheiro do Centro Paula Souza para avaliação das necessidades para reforma. 
+Em termos de ensino aprendizagem, neste planejamento anual, faz-se necessário, pensar a FATEC-
+Garça considerando as novas tendências educacionais que são caminhos para avançar para um currículo 
+mais flexível, centrado no aluno, nas suas necessidades e expectativas, sem deixar de acompanhar o 
+dinâmico desenvolvimento tecnológico. O processo de mudança é longo e complexo, implica em 
+mudanças de paradigmas solidificados como conceito de avaliação e de metodologias de ensino e, prevê 
+muito estudo e a introdução de metodologias ativas e uso de tecnologias na aprendizagem.  
+ 
+ 
+ 
+ 
+• Discorrer sobre o cenário, realizando um breve diagnóstico (limitar o espaço da escrita, para que seja inserido de forma sucinta). 
+APONTAMENTO DE SITUAÇÕES-PROBLEMA MAIS RELEVANTES 
+Fontes: relatório CPA, análise de processos críticos da UE, relatório de atendimento e ocorrências Hórus, relatório NDE, 
+relatório de representação discente (DA, Atlética, representantes de turma), relatório CIPA, entre outros. 
+1 
+cat 0.1.01 - Metodologia de ensino, desempenho 
+de alunos, evasão 
+ 
+5 
+cat 0.1.09 - Acesso/Inclusão ao Ensino Superior 
+(social, PCD) 
+2 
+cat 0.1.01 - Metodologia de ensino, desempenho de 
+alunos, evasão 
+ 
+6 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+3 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de 
+ensino 
+ 
+7 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+4 
+cat 0.1.07 - Comunicação com a comunidade 
+acadêmica 
+ 
+8 
+cat 0.1.99 - Outra 
+Outra – Especificar: Necessidade de melhoria quanto ao estímulo à pós Graduação. 
+ 
+Objetivos Institucionais – CPS (Plano de Metas) 
+1) Atender às demandas sociais e do mercado de trabalho. 
+2) Obter a satisfação dos públicos que se relacionam com o Centro Paula Souza (stakeholders). 
+3) Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem. 
+4) Assegurar a perenidade do crescimento da instituição com recursos financeiros disponíveis. 
+5) Garantir celeridade e efetividade na prestação de serviços. 
+6) Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no desenvolvimento tecnológico e inovação. 
+7) Promover a cultura de inovação e empreendedorismo. 
+8) Aumentar a eficiência, a produtividade e a competitividade da instituição. 
+9) Ampliar a oferta da Educação Profissional. 
+10) Resolução Conjunta SOG/SFP/SG-3, de 28-12-2022 - Bonificação por Resultados – BR das Secretarias de Estado, Procuradoria Geral do Estado, 
+Controladoria Geral do Estado e das Autarquias, de que trata a LC 1361-2021 
+Objetivos Institucionais – Cesu (Plano de Metas) 
+A. Integrar as diferentes modalidades de ensino, otimizando itinerários e tempo para a formação profissional. 
+B. Inovar processos de ensino e aprendizagem para manter excelência diante do mercado. 
+C. Ampliar a capacidade de criar e atualizar cursos em parceria com o mercado. 
+D. Expandir e ampliar a capacidade de articulação com Governos e Setores Produtivos. 
+E. Promover a captação de recursos extras e não orçamentários. 
+Atenção: Determinação da Origem (prioridade) de uma Ação ou Projeto de Melhoria que compõe o PGA, a fim de ordenar os graus de prioridade tomando-se por 
+base atos normativos regulatórios das atividades do CPS, e a governança institucional, por suas esferas Estratégica, Tática e Operacional: 
+Grau 1 - URGÊNCIA DE REGULAÇÃO - prioridade máxima (advinda do MEC, CEE, MP, Vigilância Sanitária ou notificação de qualquer órgão regulador/fiscalizador) 
+- fundamentação: notificação de fiscalização, diligência de regulação, termo de ajustamento de conduta, relatório circunstanciado, dentre outros 
+emanados de órgãos que impõem ações para cumprimento com regularidade normativa da instituição. 
+Grau 2 - URGÊNCIA ESTRATÉGICA - Gestão Estratégica do CPS (AMS, novos cursos e unidades, programas de governo) - fundamentação: PPA do CPS, ações de 
+governo conduzidas pela Superintendência do CPS. 
+Grau 3 - PRIORIDADE ALTA - Gestão Tática (ações correlatas à Avaliação institucional - ENADE, WebSAI, CPA, Observatório Escolar). - fundamentação: processo 
+avaliativo de órgãos reguladores, processo avaliativo interno do CPS. 
+Grau 4 - PRIORIDADE MÉDIA - Gestão Operacional para aumento da capacidade instalada. - fundamentação: plano operacional de gestão, homologado pela 
+respectiva área da intendência, com foco na atividade fim do CPS. 
+Grau 5 - PRIORIDADE REGULAR - Gestão Operacional para preservação da capacidade instalada. - fundamentação: plano operacional de gestão, homologado 
+pela respectiva área da intendência, com foco na atividade fim do CPS. 
+ 
+ESTRUTURAÇÃO DAS AÇÕES/PROJETOS 
+01 - Didático-pedagógico 
+Ações associadas ao PPC/PE de CSTs e Disciplinas: CST (implantação, alteração, readequação, reestruturação), 
+prática pedagógica (PE, PA), projeto interdisciplinar/ integrador, extensão curricularizada. 
+ 
+AÇÃO/PROJETO (Tema) 
+101 - cat.1.99 - Outra 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+ Realizar reuniões com a direção, NDE, os coordenadores e docentes dos cursos para 
+levantamento de sugestões para a melhoria da matriz curricular, incluindo a possibilidade do 
+ensino híbrido  
+Por que será feito: 
+Em alguns cursos a matriz está defasada, uma vez que as empresas locais trabalham com 
+tecnologia de ponta e solicitam profissionais que atendam essa demanda. Além disso, mais 30% 
+dos alunos apontaram essa necessidade no WEBSAI. A ideia do ensino híbrido chama a atenção 
+de aproximadamente 50% dos alunos 
+Responsável: 
+<nome> Renata Aparecida de Carvalho Paschoal 
+Qde CH/sem: 
+03 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Deise Deolindo Silva 
+Qde CH/sem: 
+01 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> Danilo Dolci 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+10/02/2025 
+Data final: 
+30/10/2025 
+Etapas do processo: 
+01- Identificar os problemas na matriz curricular. 
+10/02 
+04/04 
+ 
+02- Fazer um levantamento de novas tecnologias a serem ofertadas nas 
+disciplinas 
+10/02 
+04/04 
+ 
+03- Fazer um estudo para viabilizar o ensino híbrido 
+07/04 
+30/04 
+ 
+04- Enviar sugestões para a CESU 
+06/05 
+30/06 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+102 - cat.1.99 - Outra 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Sensibilização da Comunidade da Fatec Garça a respeito da importância da participação no Web 
+SAI, cujos dados subsidiarão o relatório da CPA e PDI da Fatec Garça 
+Por que será feito: 
+Necessidade de esclarecimentos a respeito das questões pontuadas no Web SAI 
+Responsável: 
+<nome> Deise Deolindo Silva 
+Qde CH/sem: 
+03 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> Cristine de Oliveira Bertoncini 
+Qde CH/sem: 
+01 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> Cristóvam Emilio Herculiani 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+13/10/2025 
+Data final: 
+12/12/2025 
+Etapas do processo: 
+01- Levantar os pontos principais a serem apresentados  
+13/10 
+17/10 
+ 
+02- Apresentação a todos alunos dos cursos, dos três períodos de 
+funcionamento da Fatec  
+20/10 
+20/10 
+ 
+03- Elencar os professores responsáveis pelas respectivas salas para 
+incentivar os alunos a responderem as questões do Web SAI. 
+20/10 
+22/10 
+ 
+04- Elaboração do relatório da CPA com base nos dados obtidos no Web 
+SAI 
+03/11 
+12/12 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.10 - Gestão da unidade de ensino e dos cursos (indicadores) 
+(a ser resolvida/mitigada) 
+cat 0.1.10 - Gestão da unidade de ensino e dos cursos (indicadores) 
+X 
+X 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+103 - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+104 - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+<Copiar tabelas para mais ações> 
+ 
+ 
+01 – Didático-Pedagógico: Copiar projetos de 2024 
+ 
+AÇÃO/PROJETO (Tema) 
+10x - cat.1.99 - Outra 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+10y - cat.1.99 - Outra 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+10w - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+10z - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+ 
+02 – Laboratórios - Ensino e Equipamentos Associados 
+Ações para melhoramento dos laboratórios de Ensino (Gestão e Equipamentos): Melhoramento de 
+equipamentos, mediante instalação, manutenção, desuso, doação, e gestão de ambiente laboratorial. 
+ 
+AÇÃO/PROJETO (Tema) 
+201 - cat 2.01 - Laboratório físico - implantação/melhoramento com recursos PEDAGÓGICOS 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Levantar a necessidade de atualização dos equipamentos existentes nos laboratórios 
+Por que será feito: 
+Avanço tecnológico recorrente, desenvolvimento de equipamentos mais novos, tecnológicos e 
+eficientes os quais são utilizados nas empresas e substituição dos equipamentos danificados pelo 
+uso contínuo durante as aulas, num período de 12 anos, sem possibilidade de manutenção. 
+Responsável: 
+<nome> Edson Detregiachi Filho 
+Qde CH/sem: 
+03 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> > Mayssom Rodrigues de Souza 
+Qde CH/sem: 
+03 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> Renan Vicentin Moya 
+Qde CH/sem: 
+01 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Período de execução: 
+Data inicial: 
+05/02/2025 
+Data final: 
+19/12/2025 
+Etapas do processo: 
+01- - Levantamento das necessidades de cada laboratóriios 
+05/02 
+27/06 
+ 
+02- Levantamento de dados de aquisição do(s) equipamento(s) - (código 
+BEC, características, especificações, etc.) 
+01/07 
+30/10 
+ 
+03- - Discussão final e conferência dos dados com a equipe responsável 
+pela ação. 
+03/11 
+28/11 
+ 
+04- - Gerar listagem final completa para solicitar aquisição pelo Centro 
+Paula Souza. 
+01/12 
+19/12 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+(a ser resolvida/mitigada) 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+202 - cat 2.04 - Ambiente de ensino prático - implantação/melhoramento com recursos NÃO PEDAGÓGICOS 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Adequação dos ambientes educativos que propiciará bem-estar aos usuários e maior tempo de 
+vida aos equipamentos. 
+Por que será feito: 
+Os laboratórios estão com aparelhos de ar-condicionado antigos (20 anos), a Biblioteca não 
+possui nenhum. Para atender os usuários com deficiência: bebedouro, piso tátil e Identificação 
+das salas com placas em braile. 
+Responsável: 
+<nome> Diego Henrique Pereira 
+Qde CH/sem: 
+01 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> Fernanda Ganzelli Barbosa 
+Qde CH/sem: 
+01 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> Maysson Rodrigues de Souza 
+Qde CH/sem: 
+01 
+Tipo: 
+HP - Hora em Projeto 
+de Pesquisa 
+Período de execução: 
+Data inicial: 
+05/02/2025 
+Data final: 
+10/03/2025 
+Etapas do processo: 
+01- - Levantamento de necessidades, dos diversos ambientes da Fatec 
+05/02 
+12/02 
+ 
+02- Pesquisa dos equipamentos adequados para atender as necessidades 
+13/02 
+05/03 
+ 
+03- Encaminhamento da lista de necessidades á direção para solicitação no 
+PGA 2024 
+06/03 
+10/03 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+(a ser resolvida/mitigada) 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+X 
+X 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+203 - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+204 - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+<Copiar tabelas para mais ações> 
+ 
+ 
+ 
+02 – Laboratórios: Copiar projetos de 2024 
+ 
+AÇÃO/PROJETO (Tema) 
+20x - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+20y - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+20w - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+20z - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+ 
+ 
+03 – Pesquisa / Extensão e Equipamentos Associados 
+Ações para melhoramento dos laboratórios que contemplam Pesquisa além do Ensino (Equipamentos): 
+melhoramento dos espaços de pesquisa, que inclui especificação equipamentos e aquisição por fomento ou por 
+projeto com empresa, e também prestação de serviços no campo tecnológico para instituições e empresas. 
+ 
+AÇÃO/PROJETO (Tema) 
+301 - cat 3.01 - Cursos de Extensão 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Estruturar o setor de pós-graduação para posterior oferecimento na Fatec Garça. 
+Por que será feito: 
+Devido a percepção do alunado, pois 39% enxergam a necessidade de melhoria quanto ao 
+estímulo. 
+Responsável: 
+<nome> Edio Roberto Manfio, Luana Maia Woida  
+Qde CH/sem: 
+02 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> Deise Deolindo Silva,   
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> Edson Detregiachi Filho 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+10/02/2025 
+Data final: 
+19/12/2025 
+Etapas do processo: 
+01- Levantar o público-alvo (egressos e graduados com a formação na 
+área) 
+10/02 
+28/02 
+ 
+02- Identificar a demanda dos possíveis curso de pós-graduação 
+03/03 
+28/03 
+ 
+03- Definir e estruturar o plano pedagógico do curso a ser implantado 
+01/04 
+01/09 
+ 
+04- Envio do Projeto do Curso ao CPS para a autorização 
+02/09 
+03/11 
+ 
+05- Divulgar o curso à comunidade para a efetivação das matrículas 
+05/11 
+19/12 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.08 - Participação da comunidade e sociedade 
+(a ser resolvida/mitigada) 
+cat 0.1.08 - Participação da comunidade e sociedade 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+302 - cat 3.01 - Cursos de Extensão 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Palestras e ou debates, mesas redondas, com a participação de organizações públicas e privadas 
+locais (PPP) 
+Por que será feito: 
+Para atender e exceder as expectativas dos 33% do alunados, identificado na pesquisa do 
+WEBSAI quanto a oferta de cursos de extensão 
+Responsável: 
+<nome> Sérgio Nougués Wargaftig 
+Qde CH/sem: 
+02 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Deise Deolindo Silva 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> José Antonio Poletto Filho 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+10/02/2025 
+Data final: 
+19/12/2025 
+Etapas do processo: 
+01- Definir cursos o calendário das atividades de extensão a serem 
+oferecidos 
+10/02 
+03/03 
+ 
+02- Divulgar atividades de extensão 
+04/03 
+19/12 
+ 
+03- Realizar atividades de extensão propostas 
+04/03 
+19/12 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+ 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+303 - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+304 - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+<Copiar tabelas para mais ações> 
+ 
+ 
+03 – Pesquisa/Extensão: Copiar projetos de 2024 
+ 
+AÇÃO/PROJETO (Tema) 
+30x - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+30y - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+30w - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+30z - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+04 – Atividades Formativas em Projetos (nível tático) 
+Projetos institucionais formativos não especificados em PEs: Rede de tecnologia, Novotec, PCI, Projetos 
+estudantis (Baja, Aerodesign, entre outros) 
+ 
+AÇÃO/PROJETO (Tema) 
+401 - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+402 - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+ 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+403 - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+404 - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+<Copiar tabelas para mais ações> 
+ 
+ 
+04 – Atividades Formativas em Projetos: Copiar projetos de 2024 
+ 
+AÇÃO/PROJETO (Tema) 
+40x - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+40y - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+40w - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+40z - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+ 
+ 
+ 
+05 – Infraestrutura (instalações prediais) 
+Projetos de manutenção e melhoramento predial voltados à segurança (física e sanitária) e preservação do 
+patrimônio: Reparação predial (civil, elétrica, dados), novas instalações prediais. 
+ 
+AÇÃO/PROJETO (Tema) 
+501 - cat 5.05 - Reforma de Edificações 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Reforma do forro, pintura e iluminação 
+Por que será feito: 
+Depreciação da estrutura predial, que impossibilita a abertura de processo licitatório para 
+exploração do espaço de oferta de gêneros alimentícios à comunidade da Fatec Garça. Muitos 
+alunos, principalmente do período noturno vem para a Fatec direto do trabalho. A Fatec fica 
+localizada distante de qualquer estabelecimento comercial que ofereça lanche ou outro gênero 
+alimentício. Nas condições que o prédio se encontra não é possível abrir o processo licitatório 
+para aluguel da cantina. 
+Responsável: 
+<nome> Fernanda Ganzelli Barboza Martines 
+Qde CH/sem: 
+02 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> Antonio Henrique Leal de Oliveira Junior 
+Qde CH/sem: 
+02 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+03/02/2025 
+Data final: 
+19/12/2025 
+Etapas do processo: 
+01- Verificação das avalias da estrutura predial 
+03/02 
+07/02 
+ 
+02- Contactar o responsável regional (engenheiro) para visita a Fatec Garça 
+para acareação 
+10/02 
+14/02 
+ 
+03- Acompanhamento do responsável regional (engenheiro) 
+15/02 
+16/02 
+ 
+04- Acompanhar o andamento das negociações na Administração Central 
+19/02 
+20/12 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.02 - Manutenção e conservação predial 
+(a ser resolvida/mitigada) 
+cat 0.1.02 - Manutenção e conservação predial 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+502 - cat 5.07 - Construção de edificações 
+Origem (prioridade): 
+1-Regulação - Notificação de órgão (MEC, CEE, VS.,..) 
+O que será feito: 
+Construção de Refeitório para atender os alunos do Curso AMS – Articulação Médio Superior 
+Por que será feito: 
+Os alunos do Curso AMS – Articulação Médio Superior, são adolescentes do Ensino Básico e por 
+esta razão necessitam de alimentação apropriada e para tanto é necessário local adequado para 
+o preparo desse alimento como também de ambiente propício para seu consumo. 
+Responsável: 
+<nome> Fernanda Ganzelli Barboza Martines 
+Qde CH/sem: 
+02 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> Antonio Henrique Leal de Oliveira Junio02 
+Qde CH/sem: 
+02 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+05/02/2025 
+Data final: 
+19/02/2025 
+Etapas do processo: 
+01- Visita do Engenheiro da Regional para verificação de local apropriado 
+para a construção do Refeitório 
+05/02 
+07/02 
+ 
+02- Contactar administração Central para verificação de andamento da 
+proposta de construção do refeitório, iniciado em 2022 
+05/02 
+07/02 
+ 
+03- Acompanhar andamento das tratativas para a construção do refeitório 
+17/02 
+19/12 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+Licitação 
+Situação problema: 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+(a ser resolvida/mitigada) 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+X 
+X 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+503 - cat 5.04 - Implantação de áreas comuns 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Construção de quadra esportiva para atender os alunos do Curso AMS – Articulação Médio 
+Superior, e demais alunos da Fatec Garça. 
+Por que será feito: 
+Na grade horária do Curso AMS – Articulação Médio Superior, contempla a disciplina Educação 
+Física. O desenvolvimento dos exercícios físicos, imprescindíveis para o desenvolvimento do 
+adolescente, necessitam de local apropriado para a prática esportiva e lazer 
+Responsável: 
+<nome> Fernanda Ganzelli Barboza Martines 
+Qde CH/sem: 
+02 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> Antonio Henrique Leal de Oliveira Junior 
+Qde CH/sem: 
+02 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+05/02/2025 
+Data final: 
+19/12/2025 
+Etapas do processo: 
+01- Visita do Engenheiro da Regional para verificação de local apropriado 
+para a construção da quadra esportiva 
+15/12/2023 
+15/12/
+2023 
+ 
+02- Acompanhar andamento das tratativas para a construção da quadra 
+05/02 
+19/12 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+Licitação 
+Situação problema: 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+(a ser resolvida/mitigada) 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+504 - cat 5.01 - Melhoria Sala de Ambientes pedagógicos 
+Origem (prioridade): 
+1-Regulação - Notificação de órgão (MEC, CEE, VS.,..) 
+O que será feito: 
+Instalação de aparelhos de ar-condicionado nos ambientes pedagógicos 
+Por que será feito: 
+Solicitação Urgente de instalação de aparelhos nos ambientes  
+Responsável: 
+<nome> Fernanda Ganzelli Barbosa 
+Qde CH/sem: 
+01 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> Antonio Henrique Leal de Oliveira Junior 
+Qde CH/sem: 
+01 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> Diego Henrique Pereira 
+Qde CH/sem: 
+01 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Período de execução: 
+Data inicial: 
+05/02/2025 
+Data final: 
+19/12/2025 
+Etapas do processo: 
+01- Reunião com representantes da sala 
+18/02 
+20/02 
+ 
+02- Levantamento do número de aparelhos de ar-condicionado 
+necessários 
+24/02 
+28/02 
+ 
+03- Encaminhamento da solicitação á Administração Central 
+10/03 
+12/03 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+Pregão 
+Situação problema: 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+(a ser resolvida/mitigada) 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+X 
+X 
+<Copiar tabelas para mais ações> 
+ 
+ 
+ 
+ 
+ 
+05 – Infraestrutura: Copiar projetos de 2024 
+ 
+AÇÃO/PROJETO (Tema) 
+50x - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+50y - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+50w - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+50z - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+ 
+ 
+ 
+06 - Desenvolvimento de pessoas (docentes e servidores) 
+Formação continuada de docentes e servidores, associadas às competências gerais e específicas de suas 
+atividades: Metodologias de ensino, Tecnologias educacionais, Sistemas (processos, procedimentos, plataformas 
+computacionais) acadêmicos e pedagógicos. 
+ 
+AÇÃO/PROJETO (Tema) 
+601 - cat 6.01 - Curso/Oficina/Capacitação/ Treinamento/ Palestra/Reunião/Encontro 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Fortalecimento e melhoria da comunicação entre a Instituição e o colegiado (comunidade)- Fatec 
+Garça a respeito das ações desenvolvidas na Unidade de Ensino Tecnológico 
+Por que será feito: 
+Para sanar um problema identificado no WEBSai em relação à falha na comunicação entre a 
+Instituição e o colegiado da Fatec Garça. 
+Responsável: 
+<nome> Luci Mieko Hirota Simas 
+Qde CH/sem: 
+01 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> Cristian Ricardo de Andrade 
+Qde CH/sem: 
+01 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> Lígia Mariusso Zoliani 
+Qde CH/sem: 
+01 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Período de execução: 
+Data inicial: 
+05/02/2025 
+Data final: 
+19/12/202 
+Etapas do processo: 
+01- Apresentar as ações e os programas desenvolvidos pela Instituição 
+para os Alunos e professores no início de cada semestre; 
+05/02 e 
+01/08 
+19/02 e 
+09/08 
+ 
+02- Reforçar as informações ao longo do ano, por meio de apresentações, 
+mídias sociais, murais, Teams, etc 
+08/02 
+19/12 
+ 
+03- Informar comunidade da Fatec Garça a respeito do Web Sai, 
+incentivando a participação de todos. 
+15/09 
+19/12 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+(a ser resolvida/mitigada) 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+602 - cat 6.03 - Projeto de Orientação psicopedagógica 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Implementação de políticas para que não ocorram ações de discriminação seja a portadores de 
+deficiência, cor, etnia ou gênero 
+Por que será feito: 
+Aumento significativo de alunos deficientes nos cursos da Fatec: deficiência Física, Intelectual, 
+Auditiva, Visual, Surdo-cegueira, Múltipla, Autismo, Comprometimento psicossocial; 
+A inclusão social não se restringe apenas a pessoas com deficiência, mas vale para todos 
+considerados excluídos do grupo social, como pobres, pretos, idosos, imigrantes, homossexuais e 
+outros. 
+Responsável: 
+<nome> Luci Mieko Hirota Simas 
+Qde CH/sem: 
+02 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> Ligia Mariusso Zoliani  
+Qde CH/sem: 
+01 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> Renata Aparecida de Carvalho Pashoall 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+05/02/2025 
+Data final: 
+19/12/2025 
+Etapas do processo: 
+01- Levantamento dos alunos com deficiência dos cursos, especificando o 
+tipo de deficiência 
+05/02 e 
+01/08 
+28/02 e 
+15/08 
+ 
+02- Verificar que os alunos que necessitam de acompanhantes estão sendo 
+atendidos 
+10/02 e 
+01/08 
+10/03 e 
+22/08 
+ 
+03- Conscientização da comunidade Fatecana para que não haja nenhuma 
+forma de discriminação 
+10/02 
+19/12 
+ 
+04- Distribuição de cartazes que remetem ao Guia de Comunicação 
+Inclusiva, no site do Centro Paula Souza/Adequação de ambientes 
+24/02 
+03/03 
+ 
+05- Acompanhamento, verificação de manifestações de práticas de 
+discriminação e conscientização dos envolvidos. 
+10/02 
+19/12 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.09 - Acesso/Inclusão ao Ensino Superior (social, PCD) 
+(a ser resolvida/mitigada) 
+cat 0.1.09 - Acesso/Inclusão ao Ensino Superior (social, PCD) 
+X 
+X 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+603 - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+604 - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+<Copiar tabelas para mais ações> 
+ 
+ 
+ 
+ 
+06 – Desenvolvimento de Pessoas: Copiar projetos de 2024 
+ 
+AÇÃO/PROJETO (Tema) 
+60x - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+60y - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+60w - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+60z - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+ 
+ 
+ 
+ 
+07 – Convênios e Parcerias Institucionais 
+Formalização do relacionamento da Unidade com o Ecossistema de Tecnologia: Convênio de uso de prédio, 
+estágios, projetos com empresas. Aqui cabe apenas novos convênios e parcerias, e cada proposta deve estar 
+relacionada a uma Ação/Projeto de melhoria em algum dos itens anteriores do PGA (1, 2, 3, 4, 5 ou 6). 
+ 
+AÇÃO/PROJETO (Tema) 
+701 - cat 7.03 - Projetos com empresas e/ou demais parceiros 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+Referente ao(s) projeto(s): nn 
+O que será feito: 
+Curso para pessoas da Comunidade externa, denominado: “Arte e Tecnologia: 
+Empreendedorismo e Marketing digital”, em parceria com as Secretarias Municipal de Cultura, 
+Saúde e de Desenvolvimento Econômico e Turismo 
+Por que será feito: 
+Capacitar e qualificar a comunidade local e regional quanto a alfabetização e aprimoramento 
+digital para fomentar o desenvolvimento socioeconômico. 
+Responsável: 
+<nome> Maria Alda Barbosa Cabreira 
+Qde CH/sem: 
+04 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> Cristiana Portolo Yafushi 
+Qde CH/sem: 
+N02 Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+08/02/2025 
+Data final: 
+19/12/2025 
+Etapas do processo: 
+01- Agendamento de reuniões com secretários Municipais para diálogo 
+08/02 
+21/02 
+ 
+02- Reunião com secretários municipais para definir estratégias para 
+atendimento dos futuros participantes e definição de data de início do 
+curso 
+24/02 
+28/02 
+ 
+03- Início do Curso – acolhida dos alunos (1º semestre) 
+10/02 
+14/02 
+ 
+04- Inicio do Curso - acolhida dos alunos (2º semestre) 
+04/08 
+08/08 
+ 
+05- Encerramento do Curso – entrega de certificados (1º semestre) 
+27/06 
+27/06 
+ 
+06- Encerramento do Curso – entrega de certificados (2º semestre 
+28/11 
+28/11 
+ 
+07- Avaliação do Projeto (1º semestre 2023) 
+30/06 
+30/06 
+ 
+08- Avaliação do Projeto (2º semestre 2023) 
+01/12 
+01/12 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.08 - Participação da comunidade e sociedade 
+(a ser resolvida/mitigada) 
+cat 0.1.08 - Participação da comunidade e sociedade 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+702 - cat 7.03 - Projetos com empresas e/ou demais parceiros 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+Referente ao(s) projeto(s): nn 
+O que será feito: 
+Buscar junto à comunidade local e regional a doação de computadores para que sejam 
+encaminhados aos alunos da Fatec Garça para utilização no desenvolvimento de suas atividades 
+pedagógicas. 
+Por que será feito: 
+O projeto ALL-TEC tem como objetivo a inclusão digital através da doação de computadores para 
+os estudantes da Fatec Garça. Dispositivos sem condições de uso serão destinados corretamente 
+para reciclagem. 
+Responsável: 
+<nome> Cristian Ricardo de Andrade 
+Qde CH/sem: 
+04 
+Tipo: 
+HP - Hora em Projeto 
+de Pesquisa 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+17/02/2025 
+Data final: 
+19/12/2025 
+Etapas do processo: 
+01- Contatos e captação nas empresas da região 
+17/02 
+21/02 
+ 
+02- Divulgação na comunidade para captação de dispositivos eletrônicos 
+17/02 
+19/12 
+ 
+03- Identificação dos alunos que não possuem computador 
+24/02 
+18/08 
+ 
+04- Reforma e remanejamento de peças para o computador 
+07/04 
+15/09 
+ 
+05- Realização das doações dos computadores aos alunos 
+14/04 
+22/09 
+ 
+06- Destinação correta das sucatas dos dispositivos para reciclagem 
+15/07 
+19/12 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.08 - Participação da comunidade e sociedade 
+(a ser resolvida/mitigada) 
+cat 0.1.08 - Participação da comunidade e sociedade 
+X 
+X 
+<Copiar tabelas para mais ações> 
+ 
+ 
+ 
+07 – Convênios e Parcerias: Copiar projetos de 2024 
+AÇÃO/PROJETO (Tema) 
+70x - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+Referente ao(s) projeto(s): nn 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+70y - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+Referente ao(s) projeto(s): nn 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+ 
+ 
+Anexo 1 – Lista de aquisições necessárias aos projetos 
+(equipamentos, softwares, mobiliários) 
+ 
+Item 
+Projeto 
+(XYY) 
+Denominação ou especificação do equipamento 
+Quant. 
+Preço total 
+estimado 
+(R$) 
+01 
+201 
+Alicates Amperímetros Cat 4 
+10 
+3.000,00 
+02 
+201 
+Bancada Pneumática 
+01 
+12.000,00 
+03 
+201 
+Bancada Hidráulica 
+02 
+18.000,00 
+04 
+201 
+Bancada para Laboratório 
+20 
+60.000,00 
+05 
+201 
+Braços Robóticos Didáticos 
+10 
+150.000,00 
+06 
+201 
+Drones 
+06 
+30.000,00 
+07 
+201 
+Elipse E3 (licenças) 
+40 
+20.000,00 
+08 
+201 
+Fonte de Tensão Ajustável 
+06 
+1.800,00 
+09 
+201 
+Fresadora CNC - Didáticas 
+06 
+120.000,00 
+10 
+201 
+Hack para Switch 
+10 
+1.000,00 
+11 
+201 
+Impressora 3 D 
+06 
+60,000,00 
+12 
+201 
+Matlab Simulink (licenças) 
+40 
+200.000,00 
+13 
+201 
+Módulos para eletrônica digital 
+20 
+10.000,00 
+14 
+201 
+Osciloscópio digital 
+08 
+16.000,00 
+15 
+201 
+Parafusadeira3/8 polegadas com bateria 
+04 
+2.000,00 
+16 
+201 
+Projetor + HDMI 
+05 
+10.000,00 
+17 
+201 
+Terrômetros 
+10 
+2.000,00 
+18 
+201 
+Megômetro 
+05 
+2.500,00 
+19 
+201 
+Fasímetro 
+05 
+2.500,00 
+20 
+201 
+Sistema Modular Automático com 6 estações com controle por CLP e 
+Redes Industriais 
+02 
+Não encontrado 
+21 
+201 
+SSD 480 Gb 
+100 
+30.000,00 
+22 
+201 
+Gabinete com dispositivos internos para montagem e desmontagem (kit 
+morto) 
+10 
+30.000,00 
+23 
+201 
+Kit Arduíno 
+20 
+6.000,00 
+24 
+201 
+Maleta para manutenção de computadores 
+10 
+1.700,00 
+25 
+201 
+Maleta para redes de Computadores 
+10 
+1.400,00 
+26 
+201 
+Fonte de alimentação variável de 0 a 30 volts/3 Amperes 
+08 
+2.400,00 
+27 
+201 
+Torquimetro Digital 
+04 
+1200,00 
+28 
+201 
+Estação de Retrabalho SMD 
+02 
+2.000,00 
+29 
+201 
+Alicate tipo universal 
+08 
+240,00 
+30 
+201 
+Alicate cripador 
+06 
+480,00 
+31 
+201 
+Alicate de bico 
+08 
+160,00 
+32 
+201 
+Alicate de bico redondo 
+08 
+160,00 
+33 
+201 
+Alicate de corte diagonal 
+08 
+240,00 
+34 
+201 
+Chave grifo 18 polegadas 
+01 
+60,00 
+35 
+201 
+Arco de Serra 
+04 
+80,00 
+36 
+201 
+Nível de mão 
+01 
+30,00 
+37 
+201 
+Martelo tipo unha 
+01 
+15,00 
+38 
+201 
+Máquina de Solda, inversora para eletrodo revestido 
+01 
+800,00 
+39 
+201 
+Máscara de proteção para solda escurecimento automático 
+06 
+360,00 
+40 
+201 
+Jogo de Chave, Tipo Combinada (de 6 a 80 mm) 
+04 
+400,00 
+41 
+201 
+Jogo de Chave, Tipo biela (de 8 a 19 mm) 
+04 
+240,00 
+42 
+201 
+Jogo de Chave, Tipo cruzada “Philips” (de 1/8x2.3/8 a 3/8x8 mm 
+04 
+120,00 
+43 
+201 
+Jogo de Chave, Tipo fenda simples (isolado, de 1/8"x4" a 3/8"x8") 
+04 
+40,00 
+44 
+201 
+Jogo de Chave, Tipo torx (de t6 a T60) 
+04 
+120,00 
+45 
+201 
+Jogo de Chave, Tipo Soquete Estriado ½ (de 8 a 32 mm) 
+04 
+320,00 
+46 
+201 
+Jogo brocas aço rápido para metal (de 1,5 a 14 mm) 
+04 
+320,00 
+47 
+201 
+Jogo brocas para madeira (de 3 a 10 mm) 
+04 
+120,00 
+48 
+201 
+Jogo brocas vídea (de 4 a 10 mm) 
+04 
+200,00 
+49 
+201 
+Compressor de ar 20 Pés cúbicos/minuto 
+01 
+1.500,00 
+50 
+201 
+Furadeira elétrica manual – 110 Volts mandril de 3/8 polegadas com 
+impacto 
+04 
+250,00 
+51 
+201 
+Esmerilhadeira angular de 110 Volts – 4 ½ polegada ou maio 
+02 
+300,00 
+52 
+201 
+Serra Tico Tico profissional elétrica 110 volts 
+04 
+1.200,00 
+53 
+201 
+Furadeira de bancada de ½ polegada, ½ HP Bivolt (ou maior 
+01 
+500,00 
+54 
+201 
+Maleta ou bolsa para transporte de ferramentas 
+06 
+600,00 
+55 
+201 
+Alicate de pressão 10 polegadas 
+06 
+300,00 
+56 
+201 
+Morsa Torno de Bancada 
+04 
+800,00 
+57 
+201 
+Eletroválvula direcional de 5/2 vias, com mola de reposição 
+04 
+800,00 
+58 
+201 
+Cilindro Pneumático de ação dupla 
+12 
+1.800,00 
+59 
+201 
+Módulo de botões de comando elétrico 2 – Bancada de 
+eletropneumática 
+06 
+1.800,00 
+60 
+201 
+Módulo de botões de comando elétrico 1 – Bancada de eletrohidráulica 
+06 
+1.200,00 
+61 
+201 
+Controlador Lógico Programável (CLP) Standard FC600 
+04 
+4.000,00 
+62 
+201 
+Eletroválvula direcional de 5/2 vias, tipo memória  
+12 
+2.400,00 
+63 
+201 
+Bloco distribuidor Pneumática  (130 22 750) 
+04 
+880,00 
+64 
+201 
+Conexões push-in, autovedante 186294 (QSMK-G1/8-4) do Bloco 
+distribuidor Pneumática (130 22 750) 
+20 
+1.900,00 
+65 
+201 
+Chave fim de curso 
+20 
+1.000,00 
+66 
+201 
+Sensor de proximidade Capacitivo – PNP 
+20 
+1.600,00 
+67 
+201 
+Sensor de proximidade Óptico reflexivo PNP 
+20 
+4.000,00 
+68 
+201 
+Sensor de proximidade indutivo PNP 
+20 
+1.600,00 
+69 
+201 
+Válvula de escape rápido  
+10 
+850,00 
+70 
+201 
+Óculos de proteção 
+20 
+240,00 
+71 
+201 
+Máscara de proteção facial 
+10 
+300,00 
+72 
+201 
+Licença (Software) – Codesys: Conrol Standart L 
+40 
+44.160,00 
+73 
+201 
+Licença (Software) – Factory I/O Ultimate Edition 
+40 
+169.760,00 
+74 
+201 
+Licença (Software) – TIA Portal 
+26 
+Não encontrado 
+75 
+201 
+Licença (Software) – de Simulação robótica que contenha os modelos 
+de robôs utilizados nas Indústrias da Região 
+40 
+Não encontrado 
+76 
+201 
+Licença (Software) – FluidSim Pneumático e Hidráulico 
+40 
+Não encontrado 
+77 
+202 
+Ar- condicionado12 mil BTUs  (Biblioteca e laboratórios) 
+50 
+100.000,00 
+78 
+202 
+Bebedouros para deficientes 
+04 
+4.000,00 
+79 
+202 
+Armário de Aço 2 portas (coordenação AMS) 
+02 
+2.000,00 
+80 
+202 
+Mesas “L” (coordenação/recepção) 
+04 
+4.000,00 
+82 
+202 
+Mesinhas para impressora (área administrativa) 
+05 
+1.500,00 
+83 
+202 
+Roteador com Tecnologia MESH indoor 
+20 
+20.000,00 
+84 
+202 
+Roteador com Tecnologia MESH outdoor 
+08 
+16.000,00 
+85 
+202 
+DVR 16 canais 
+02 
+4.000,00 
+86 
+202 
+Câmera IP para DVR 
+10 
+3.000,00 
+87 
+202 
+Câmera IP WIFI Solar IP66 
+10 
+5.000,00 
+88 
+202 
+Reforma da Cantina 
+01 
+Não encontrado 
+89 
+202 
+Construção de Refeitório para alunos do AMS 
+01 
+Não encontrado 
+90 
+202 
+Construção de quadra poliesportiva 
+01 
+Não encontrado 
+91 
+202 
+Piso tátil na área de circulação da Fatec 
+Xx metros 
+Não encontrado 
+92 
+202 
+Ponto de Acesso Remoto 2.4 Ghz e 5 Ghz 
+Especificação Técnica: Ponto de Acesso Remoto; para Acesso a Rede 
+de Dados Sem Fio, Interno; Segmento Lan 1 Porta Ethernet de 01 Gbps 
+Com Conector Rj-45, Até 1,04 Gbps de Taxa de Quadros de Agregação 
+Dupla; Segmento Wlan 802.11ac Wave 2 Comsuporte Mu-mimo; Poe 
+802.3at Compatível Com 802.3af; Protocolos de Criptografia e 
+Autenticacao Wep, Wpa, Wpa2-psk, Wpa2-enterprise With 802.1x; Fonte 
+de Alimentacao Power Over Ethernet: 37-57v; Protocolo de 
+Gerenciamento Em Nuvem 2x2:2 802.11ac, Certificação Wifi para 
+Operar Nos Padrões Ieee 802.11a/b/g/n/ac; Potencias de Transmissao 
+2.4 Ghz e 5 Ghz; Garantia de 12 Meses; Com Kit para Instalacao Em 
+Parede e Teto; 
+20 
+17.000,00 
+93 
+202 
+Microcomputador; Estação de Trabalho; Com Processador Octa-core; 
+Com Frequencia de Clock Real, igual ou superior a 2.9ghz Até 4.8ghz; 
+Memoria Ram Ddr4, 2933mhz; de 16gb; Cache 16mb; Controladora de 
+Disco Padrao Sata III + M2; Com 2 Discos; de 256gb M.2 + Hd de 1tb; 
+Padrao Pcie Nvme M.2 + Hd (7200rpm) Sata 3.5"; Barramento da 
+controladora de Video Padrao Pci-e; controladora de Video Padrao 
+Nvidia® Geforce® Rtx 2060 Super; de 8gb de Gddr6; Teclado Abnt 2; 
+Gabinete Sff Ou Torre; Acondicionado Em Embalagem Adequada; 
+Windows 10 Pro 64 Bits; Garantia Minima de 12 Meses On Site; 
+60 
+210.000,00 
+94 
+202 
+Notebook; com Processador de Amd 7 6800h (8-cores, Cache de 20mb, 
+4.7ghz; Com Frequencia de Clock Real, igual ou superior a 4.7ghz; 
+Memoria Ram de 16gb Ddr5 (2x8gb) 4800mhz, Expansivel Ate 32gb(2 
+Slots Sofimm); de 16gb; Cache Ssd de 512gb Pcle Nvme M.2; 
+Controladora de Disco Padrao Ssd Sata; Com 01 Unidade; de 512gb; 
+Padrao Pcie Nvme M.2; Barramento Da Controladora de Video Padrao 
+Sata; Controladora de Video Sata; de 16gb; 2 Portas Usb 3.2 Type-a, 1 
+Porta Usb 3.2 Type-a, 1porta Ethernet Rj45, 1 Porta Hdmi 2.1; Teclado 
+Numerico Retroiluminado Rgb 4-zones, Em Portugues; Com Alto-
+falantes Estereo Com Realtek Alc3204, 2 w x 2,5 W; Com Microfone de 
+Array Dual; Tela Full Hd de 15.6" (1920 x 1080), 165hz, 300 Nits, Wva; 
+Resolucao de Gforce Rtx 3060 6gb Gddr6; Placa de Rede Wireless Com 
+Bluetooth®; Embalados Em Caixas Reforcadas e Lacradas; Sistema 
+40 
+220.000,00 
+Operacional Windows 11 Home, Portugues; Com Bateria de 6 Celulas e 
+86wh (integrada); Garantia de 12 Meses; 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total geral 
+1.650.245,00 
+ 
+ 
+ 
+ 
+Anexo 2 – Lista de Ações/Projetos referentes à CPA 
+ 
+Item 
+Projeto 
+(XYY) 
+Denominação 
+(O que será feito) 
+Prazo 
+01 
+101 
+Realizar reuniões com a direção, NDE, os coordenadores e docentes dos cursos 
+para levantamento de sugestões para a melhoria da matriz curricular, incluindo a 
+possibilidade do ensino híbrido. 
+30/10/2025 
+02 
+102 
+Sensibilização da comunidade da Fatec Garça a Respeito da importância da 
+participação no Web SAI, cujos dados subsidiarão o relatório da CPA e PDI da Fatec 
+Garça 
+12/12/2025 
+03 
+201 
+Levantar a necessidade de atualização dos equipamentos existentes nos 
+laboratórios 
+19/12/2025 
+04 
+202 
+Adequação dos ambientes educativos que propiciará bem-estar aos usuários e 
+maior tempo de vida aos equipamentos. 
+10/03/2025 
+05 
+301 
+Estruturar o setor de pós-graduação para posterior ofereciemtno na Fatec Garça 
+19/12/2025 
+06 
+302 
+Palestras e ou debates, mesas redondas, com a participação de organizações 
+públicas e privadas locais (PPP) 
+19/12/2025 
+07 
+501 
+Reforma do forro, pintura e iluminação da cantina da Fatec 
+19/12/2025 
+08 
+502 
+nConstrução de Refeitório para atender os alunos do Curso AMS – Articulação 
+Médio Superiorn 
+19/12/2025 
+09 
+503 
+Construção de quadra esportiva para atender os alunos do Curso AMS – 
+Articulação Médio Superior, e demais alunos da Fatec Garça 
+19/12/2025 
+10 
+601 
+Fortalecimento e melhoria da comunicação entre a Instituição e o colegiado 
+(comunidade)- Fatec Garça a respeito das ações desenvolvidas na Unidade de 
+Ensino Tecnológico  
+19/12/2025 
+11 
+602 
+Implementação de políticas para que não ocorram ações de discriminação seja a 
+portadores de deficiência, cor, etnia ou gênero  
+19/12/2025 
+12 
+701 
+Curso para pessoas da Comunidade externa, denominado: “Arte e Tecnologia: 
+Empreendedorismo e Marketing digital”, em parceria com as Secretarias 
+Municipal de Cultura, Saúde e de Desenvolvimento Econômico e Turismo 
+19/12/2025 
+13 
+702 
+Buscar junto à comunidade local e regional a doação de computadores para que 
+sejam encaminhados aos alunos da Fatec Garça para utilização no 
+desenvolvimento de suas atividades pedagógicas. 
+19/12/2025 
+14 
+nnn 
+nn 
+dd/mm/aaaa 
+15 
+nnn 
+nn 
+dd/mm/aaaa 
+16 
+nnn 
+nn 
+dd/mm/aaaa 
+17 
+nnn 
+nn 
+dd/mm/aaaa 
+18 
+nnn 
+nn 
+dd/mm/aaaa 
+19 
+nnn 
+nn 
+dd/mm/aaaa 
+20 
+nnn 
+nn 
+dd/mm/aaaa 
+ 
+ 
+ 
+ 
+ 
+ 
+<fim> 
+ 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,2296 @@
+PLANO DE GESTÃO ANUAL – PGA 2024 
+V11 
+Estruturado em um única etapa com 2 anexos: 
+PLANEJAMENTO PELA EQUIPE GESTORA DA UE 
+• Anexo 1 – Lista de equipamentos necessários aos projetos 
+• Anexo 2 – Lista de Ações/Projetos referentes à CPA 
+ 
+IDENTIFICAÇÃO DA UNIDADE 
+Unidade 
+114 
+Fatec Jundiaí 
+Diretor(a) 
+Francesco Bordignon 
+ 
+PLANEJAMENTO PELA EQUIPE GESTORA DA UE 
+(Administração da Faculdade - Deliberação CEETEPS 31/2016) 
+ANÁLISE DO CENÁRIO 
+Descrever de forma breve e objetiva o cenário da Unidade perante sua missão como Unidade de Ensino na localidade em que 
+se encontra (é este cenário que se pretende melhorar). 
+Com base na análise do relatório da CPA, foram identificadas algumas fragilidades, principalmente em termos de 
+falhas na comunicação e carências de conhecimento dos alunos sobre conceitos básicos do WebSai, pouco 
+conhecimento do Regimento e PDI, baixa divulgação de programas de extensão e de produção científica. Destaca-
+se que a Unidade vem constantemente divulgando resultados e ações à comunidade acadêmica, mas os 
+resultados do questionário da CPA indicam uma certa falha na absorção das informações por parte do corpo 
+discente. Do ponto de vista da oferta de CST, continua a implantação dos novos cursos de Gestão de Logística 
+Integrada e de Defesa Cibernética, além da implantação, no 1° sem. 2024, do novo curso de Ciência de dados. Com 
+a implantação deste último curso, a Fatec Jundiaí oferece 5 cursos na área de TI, se constituindo como núcleo de 
+excelência nesta área de conhecimento, para poder satisfazer a crescente demanda de profissionais no mercado 
+local, que está se desenvolvendo fortemente e rapidamente, com a implantação e migração de um alto número de 
+empresas de TI na região de Jundiaí. Carências já identificadas permanecem sem atendimento ou com 
+atendimento parcial: manutenção e adequação da infraestrutura da unidade, incluindo a instalação do elevador 
+do prédio 2, das paredes e divisórias das salas de aula no prédio 1; reestruturação da rede elétrica e substituição 
+de forro no prédio 1; finalização da infraestrutura elétrica e de rede dos laboratórios de IoT; aquisição de switch, 
+rack e ar condicionado para vários laboratórios; necessidade de roteadores wi-fi para os prédios e reforma da rede 
+informática da unidade; aquisição de equipamentos para o laboratório de Gestão Ambiental. Esta situação 
+continua deixando a unidade em situação de inadimplemento das regras de acessibilidade (elevador) e de risco 
+físico para alunos e docentes, gerando uma situação cada vez mais crítica e precária que dificulta o regular 
+desenvolvimento das atividades didáticas. Sem atendimento, ainda, a demanda de infraestrutura de segurança 
+(câmeras e alarmes), (vários pedidos desde 2016); considerando que os prédios da Fatec são inseridos em espaço 
+da Prefeitura que é aberto à circulação de público em geral, a unidade fica exposta a ações criminosas e a riscos 
+para alunos e docentes, não tendo condições de monitorar e controlar o acesso e a circulação de eventuais 
+pessoas externas à comunidade fatecana; some-se à esta carência, a grave insuficiência, já repetidamente 
+informada e declarada, do número de vigilantes: dispomos de apenas 3 funcionários, no total, revezando nas 24 h, 
+que devem vigilar 3 prédios principais e outras dependências. Situação parecida ocorre com o serviço de limpeza 
+que, mesmo após renovação do contrato em 2022, continua insuficiente (4 funcionárias com turno de 6 h), 
+considerando a área ocupada (mais de 4.000 m2), o número de ambientes e o número de alunos (aprox. 1.800) e 
+de docentes / funcionários (quase 100 pessoas). Ainda sem atendimento e informações sobre os prazos de 
+resposta, a solicitação de criação da função de Vice-diretor (desde 2017). A falta crônica de funcionários, 
+estagiários e auxiliares docentes está sendo gradativamente sanada, mas ainda de forma insuficiente. 
+Um projeto de ICT, com finalidades educacionais, em parceria com a Fatec Sorocaba, está sendo formalizado por convênio com 
+a Huawei. Ambas as unidades devem receber 2 laboratórios de TI, de última geração, mas para a instalações é necessária a 
+aquisição por parte do CPS de mobiliário e infraestrutura física.  
+ 
+ 
+• Discorrer sobre o cenário, realizando um breve diagnóstico (limitar o espaço da escrita, para que seja inserido de forma suscinta). 
+APONTAMENTO DE SITUAÇÕES-PROBLEMA MAIS RELEVANTES 
+Fontes: relatório CPA, análise de processos críticos da UE, relatório de atendimento e ocorrências Hórus, relatório NDE, 
+relatório de representação discente (DA, Atlética, representantes de turma), relatório CIPA, entre outros. 
+1 
+cat 0.1.07 - Comunicação com a comunidade 
+acadêmica 
+ 
+5 
+cat 0.1.06 - Quantidade de professores/funcionários 
+2 
+cat 0.1.02 - Manutenção e conservação predial 
+ 
+6 
+cat 0.1.11 - Segurança pessoal e patrimonial 
+3 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+ 
+7 
+cat 0.1.07 - Comunicação com a comunidade 
+acadêmica 
+4 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+ 
+8 
+Escolher um item. 
+Outra – Especificar: nn 
+ 
+Objetivos Institucionais – CPS (Plano de Metas) 
+1) Atender às demandas sociais e do mercado de trabalho. 
+2) Obter a satisfação dos públicos que se relacionam com o Centro Paula Souza (stakeholders). 
+3) Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem. 
+4) Assegurar a perenidade do crescimento da instituição com recursos financeiros disponíveis. 
+5) Garantir celeridade e efetividade na prestação de serviços. 
+6) Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no desenvolvimento tecnológico e inovação. 
+7) Promover a cultura de inovação e empreendedorismo. 
+8) Aumentar a eficiência, a produtividade e a competitividade da instituição. 
+9) Ampliar a oferta da Educação Profissional. 
+10) Resolução Conjunta SOG/SFP/SG-3, de 28-12-2022 - Bonificação por Resultados – BR das Secretarias de Estado, Procuradoria Geral do Estado, 
+Controladoria Geral do Estado e das Autarquias, de que trata a LC 1361-2021 
+Objetivos Institucionais – Cesu (Plano de Metas) 
+A. Integrar as diferentes modalidades de ensino, otimizando itinerários e tempo para a formação profissional. 
+B. Inovar processos de ensino e aprendizagem para manter excelência diante do mercado. 
+C. Ampliar a capacidade de criar e atualizar cursos em parceria com o mercado. 
+D. Expandir e ampliar a capacidade de articulação com Governos e Setores Produtivos. 
+E. Promover a captação de recursos extras e não orçamentários. 
+ 
+ 
+ESTRUTURAÇÃO DAS AÇÕES/PROJETOS 
+01 - Didático-pedagógico 
+Ações associadas ao PPC/PE de CSTs e Disciplinas: CST (implantação, alteração, readequação, reestruturação), 
+prática pedagógica (PE, PA), projeto interdisciplinar/ integrador, extensão curricularizada. 
+ 
+AÇÃO/PROJETO (Tema) 
+101 - cat 1.02 - Eventos e publicações acadêmicos e científicos 
+Origem: 
+3-Outra 
+O que será feito: 
+Organizar evento institucional (congresso) – XV edição do FATECLOG 
+Por que será feito: 
+Evento institucional anual itinerante do Comitê de coordenadores de Logística. 
+Produção científica e experiência prática para os alunos de todos os cursos da unidade. 
+Responsável: 
+<nome> Adriana Perroni Ballerini 
+Qde CH/sem: 
+nn 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> Márcia Maltoni 
+Qde CH/sem: 
+nn 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> Elizabete Geralda Mendes 
+Qde CH/sem: 
+nn 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+01/02/2024 
+Data final: 
+31/07/2024 
+Etapas do processo: 
+01- execução do projeto 
+01/02 
+15/03 
+ 
+02- planejamento do evento 
+16/03 
+15/04 
+ 
+03- captação de recursos 
+16/04 
+15/05 
+ 
+04- estruturação das equipes de trabalho 
+01/05 
+05/06 
+ 
+05- realização do evento 
+14/06 
+15/06 
+ 
+06- práticas de pós-evento 
+17/06 
+31/07 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+102 - cat 1.09 - Inclusão 
+Origem: 
+3-Outra 
+O que será feito: 
+Atender de forma individual e coletiva alunos com carências psicossociais 
+Por que será feito: 
+Ação e apoio a alunos, detecção de problemas pessoais e de inclusão  
+Responsável: 
+<nome> José Fernando Petrini 
+Qde CH/sem: 
+14 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/02/2024 
+Data final: 
+31/07/2024 
+Etapas do processo: 
+01- Planejamento do programa 
+01/02 
+15/02 
+ 
+02- Apresentação do programa aos ingressantes 
+15/02 
+15/02 
+ 
+03- Divulgação do atendimento à comunidade acadêmica 
+15/02 
+31/07 
+ 
+04- Mapeamento da demanda 
+20/02 
+15/03 
+ 
+05- Realização de encontros com alunos 
+20/02 
+30/06 
+ 
+06- Redação do relatório semestral 
+01/07 
+31/07 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.09 - Acesso/Inclusão ao Ensino Superior (social, PCD) 
+X 
+X 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+103 - cat 1.02 - Eventos e publicações acadêmicos e científicos 
+Origem: 
+3-Outra 
+O que será feito: 
+Organizar a produção docente / discente apresentada no XV Fateclog 
+para publicação de livro digital 
+Por que será feito: 
+Divulgação da produção científica nas áreas de logística e affins 
+Responsável: 
+<nome> João José Ferreira de Aguiar 
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/02/2024 
+Data final: 
+31/07/2024 
+Etapas do processo: 
+01- Projeto da publicação 
+01/02 
+31/03 
+ 
+02- Mapeamento da produção científica 
+01/03 
+31/05 
+ 
+03- Organização dos documentos 
+31/05 
+10/06 
+ 
+04- Adequação do formato para publicação 
+31/06 
+10/06 
+ 
+05- Lançamento da publicação (e-book) 
+15/06 
+15/06 
+ 
+06- Gestão da publicação e divulgação 
+16/06 
+31/07 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+(a ser resolvida/mitigada) 
+cat 0.1.08 - Participação da comunidade e sociedade 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+104 - cat 1.07 - Divulgação do vestibular e ações de fortalecimento de imagem institucional 
+Origem: 
+2-CPA (Relatório da Comissão Própria de Avaliação da Unidade) 
+O que será feito: 
+Produção de conteúdo institucional para mídias 
+Por que será feito: 
+Divulgação institucional para vestibular 
+Responsável: 
+<nome> Sandra Valenzuela Trabucco 
+Qde CH/sem: 
+nn 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/02/2024 
+Data final: 
+31/07/2024 
+Etapas do processo: 
+01- Projeto de geração de conteúdo e métricas de avaliação de resultados 
+01/02 
+28/02 
+ 
+02- Planejamento de divulgação de conteúdo 
+01/03 
+31/03 
+ 
+03- Coleta de material informativo para divulgação 
+01/03 
+31/07 
+ 
+04- Seleção e editoração de conteúdo 
+01/03 
+31/07 
+ 
+05- Formatação de conteúdo para mídia 
+01/03 
+31/07 
+ 
+06- Alimentação de redes sociais e rede interna 
+01/03 
+31/07 
+ 
+07- Monitoramento resultados 
+01/07 
+31/07 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+(a ser resolvida/mitigada) 
+cat 0.1.08 - Participação da comunidade e sociedade 
+X 
+X 
+<Copiar tabelas para mais ações> 
+ 
+02 – Laboratórios - Ensino e Equipamentos Associados 
+Ações para melhoramento dos laboratórios de Ensino (Gestão e Equipamentos): Melhoramento de 
+equipamentos, mediante instalação, manutenção, desuso, doação, e gestão de ambiente laboratorial. 
+ 
+AÇÃO/PROJETO (Tema) 
+201 - cat 2.05 - Gestão laboratorial - pedagógica, operacional e estrutural 
+Origem: 
+3-Outra 
+O que será feito: 
+Organizar e gerenciar as atividades didáticas e de projetos desenvolvidos no curso de Sis
+temas  Embarcados 
+Por que será feito: 
+Preparação, manutenção e gestão dos laboratórios de IoT 
+Responsável: 
+<nome> Humberto Piovesana Zanetti 
+Qde CH/sem: 
+nn 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> Rafael Gross 
+Qde CH/sem: 
+nn 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/02/2024 
+Data final: 
+31/07/2024 
+Etapas do processo: 
+01- Preparação dos laboratórios (hardware e software)  
+01/02 
+20/02 
+ 
+02- Inventário e organização do material didático 
+01/02 
+20/02 
+ 
+03- 
+Alinhamento com docentes usuários dos laboratórios da utilização 
+01/02 
+09/02 
+ 
+04- Acompanhamento das atividades de laboratório 
+15/02 
+30/06 
+ 
+05- Redação do relatório de fim de semestre 
+01/07 
+31/07 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+(a ser resolvida/mitigada) 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+202 - Escolher um item. 
+Origem: 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+203 - Escolher um item. 
+Origem: 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+204 - Escolher um item. 
+Origem: 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+<Copiar tabelas para mais ações> 
+ 
+ 
+03 – Pesquisa / Extensão e Equipamentos Associados 
+Ações para melhoramento dos laboratórios que contemplam Pesquisa além do Ensino (Equipamentos): 
+melhoramento dos espaços de pesquisa, que inclui especificação equipamentos e aquisição por fomento ou por 
+projeto com empresa, e também prestação de serviços no campo tecnológico para instituições e empresas. 
+ 
+AÇÃO/PROJETO (Tema) 
+301 - Escolher um item. 
+Origem: 
+Escolher um item. 
+O que será feito: 
+Desenvolver protótipos de estações meteorológicas de baixo custo 
+Por que será feito: 
+Desenvolvimento de projetos de iniciação científica com alunos do CST Sistemas Embarc
+ados 
+Responsável: 
+<nome> Humberto Piovesana Zanetti 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/02/2024 
+Data final: 
+31/07/2024 
+Etapas do processo: 
+01- Planejamento do projeto 
+01/12 
+15/02 
+ 
+02- Definição especificações 
+07/02 
+17/02 
+ 
+03- 
+Monitoramento e mentoria no desenvolvimento do projeto alunos  
+20/02 
+02/06 
+ 
+04- Avaliação periódica do projeto 
+15/05 
+19/05 
+ 
+05- Construção de protótipos 
+17/04 
+16/06 
+ 
+06- Testes de campo 
+19/06 
+14/07 
+ 
+07- Preparação da documentação técnica 
+17/04 
+31/07 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+302 - Escolher um item. 
+Origem: 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+ 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+303 - Escolher um item. 
+Origem: 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+304 - Escolher um item. 
+Origem: 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+<Copiar tabelas para mais ações> 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+04 – Atividades Formativas em Projetos (nível tático) 
+Projetos institucionais formativos não especificados em PEs: Rede de tecnologia, Novotec, PCI, Projetos 
+estudantis (Baja, Aerodesign, entre outros) 
+ 
+AÇÃO/PROJETO (Tema) 
+401 - Escolher um item. 
+Origem: 
+Escolher um item. 
+O que será feito: 
+Acompanhar e mentorar as atividades da Empresa Junior 
+Por que será feito: 
+Desenvolvimento didático dos alunos participantes do programa  
+Responsável: 
+<nome> Janaína Stella de Souza 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> Alexandre Schuster 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> José Jair Ferraretto 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/02/2024 
+Data final: 
+31/07/2024 
+Etapas do processo: 
+01- Avaliação da programação anual da Empresa Junior 
+01/02 
+28/02 
+ 
+02- Acompanhamento dos projetos correntes 
+15/02 
+30/06 
+ 
+03- Definição do calendário fiscal e jurídico 
+15/02 
+10/03 
+ 
+04- Verificação da situação fiscal e jurídica 
+15/02 
+31/06 
+ 
+05- Orientação e formação complementar 
+15/02 
+30/06 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+402 - cat. 4.99 - Outra 
+Origem: 
+3-Outra 
+O que será feito: 
+Gerenciar e coordenar as atividades do Centro de Certificações Pearson / Toefl  
+Por que será feito: 
+Manutenção e desenvolvimento do projeto de certificações da Empresa Junior  
+Responsável: 
+<nome> Clarice Nunes Ferreira 
+Qde CH/sem: 
+nn 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/02/2024 
+Data final: 
+31/07/2024 
+Etapas do processo: 
+01- Identificar a demanda de programação 
+01/02 
+31/07 
+ 
+02- Organizar a escala de certificações 
+01/02 
+31/07 
+ 
+03- Acompanhar os relatórios gerenciais da certificadora 
+01/04 
+31/07 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.08 - Participação da comunidade e sociedade 
+(a ser resolvida/mitigada) 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+X 
+X 
+ 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+403 - Escolher um item. 
+Origem: 
+Escolher um item. 
+O que será feito: 
+Gestão do conhecimento ESG para o projeto XV Fateclog 
+Por que será feito: 
+Atendimento aos temas do congresso 
+Responsável: 
+<nome> Claudio Cunha 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> Ana Carolina Gennaro Veredas 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> Aurélio Tonetto 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/02/2024 
+Data final: 
+31/07/2024 
+Etapas do processo: 
+01- Mapeamento temas ESG aplicáveis 
+01/02 
+15/03 
+ 
+02- Estruturação das funções aplicáveis 
+20/02 
+31/03 
+ 
+03- Preparação do conteúdo 
+01/03 
+31/03 
+ 
+04- Aplicação no Congresso 
+01/04 
+30/04 
+ 
+05- Redação de manuais e cartilhas 
+15/03 
+31/05 
+ 
+06- Acompanhamento do evento 
+01/06 
+30/06 
+ 
+07- Análise pós-evento 
+15/06 
+31/07 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+404 - cat 4.04 - Projetos estudantis diversos 
+Origem: 
+3-Outra 
+O que será feito: 
+Gestão do conhecimento em Inovação para o projeto XV Fateclog 
+Por que será feito: 
+Atendimento aos temas do congresso 
+Responsável: 
+<nome> Camila Molena de Assis 
+Qde CH/sem: 
+nn 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/02/2024 
+Data final: 
+31/07/2024 
+Etapas do processo: 
+01- Mapeamento temas de Inovação aplicáveis 
+01/02 
+15/03 
+ 
+02- Estruturação das funções aplicáveis 
+20/02 
+31/03 
+ 
+03- Preparação do conteúdo 
+01/03 
+31/03 
+ 
+04- Aplicação no Congresso 
+01/04 
+30/04 
+ 
+05- Redação de manuais e cartilhas 
+15/03 
+31/05 
+ 
+06- Acompanhamento do evento 
+01/06 
+30/06 
+ 
+07- Análise pós-evento 
+15/06 
+31/07 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.08 - Participação da comunidade e sociedade 
+X 
+X 
+<Copiar tabelas para mais ações> 
+ 
+ 
+ 
+ 
+ 
+05 – Infraestrutura (instalações prediais) 
+Projetos de manutenção e melhoramento predial voltados à segurança (física e sanitária) e preservação do 
+patrimônio: Reparação predial (civil, elétrica, dados), novas instalações prediais. 
+ 
+AÇÃO/PROJETO (Tema) 
+501 - cat 5.06 - Implantação de espaços pedagógicos 
+Origem: 
+3-Outra 
+O que será feito: 
+Implantação de  2 laboratórios de TI para P&D com convênio Huawei 
+Por que será feito: 
+Necessidade de instalação de 2 novos laboratórios para atividades didáticas para a comunidade 
+Responsável: 
+<nome> Clauido Luis Vieira Oliveira 
+Qde CH/sem: 
+00 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> Peter Jandl Jr. 
+Qde CH/sem: 
+00 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> Humberto A. Piovesana Zanetti 
+Qde CH/sem: 
+00 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/02/2024 
+Data final: 
+31/07/2024 
+Etapas do processo: 
+01- Identificação áreas para instalação 
+01/02 
+15/02 
+ 
+02- Projeto e layout laboratórios 
+15/02 
+15/03 
+ 
+03- Projeto rede infraestrutura para laboratórios 
+15/03 
+31/03 
+ 
+04- Acompanhamento realização infraestrutura 
+01/04 
+30/04 
+ 
+05- Recebimento e instalação equipamentos 
+02/05 
+15/05 
+ 
+06- Testes operacionais 
+16/05 
+31/07 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+(a ser resolvida/mitigada) 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+502 - Escolher um item. 
+Origem: 
+Escolher um item. 
+O que será feito: 
+Implantação estudo de gravação vídeos e podcast 
+Por que será feito: 
+Suporte ao plano de divulgação institucional 
+Responsável: 
+<nome> Sandra Valenzuela Trabucco 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/02/2024 
+Data final: 
+31/07/2024 
+Etapas do processo: 
+01- Identificação espaço para instalação 
+01/02 
+15/02 
+ 
+02- Projeto e layout ambiente 
+15/02 
+15/03 
+ 
+03- Projeto instalação, equipamentos e infraestrutura 
+15/03 
+31/03 
+ 
+04- Acompanhamento realização e instalação 
+01/04 
+15/04 
+ 
+05- Testes operacionais 
+16/04 
+31/04 
+ 
+06- Produção conteúdo 
+02/05 
+31/07 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+503 - cat 5.06 - Implantação de espaços pedagógicos 
+Origem: 
+2-CPA (Relatório da Comissão Própria de Avaliação da Unidade) 
+O que será feito: 
+Dotação de equipamentos para laboratório de Gestão ambiental 
+Por que será feito: 
+Necessidade de atendimento ao PPC do curso e diligências do CEE 
+Responsável: 
+<nome> Claudia Ap. Longatti 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/02/2024 
+Data final: 
+31/07/2024 
+Etapas do processo: 
+01- Definição das especificações dos equipamentos e dotações necessários 
+dd/mm 
+dd/mm 
+ 
+02- Lista de equipamentos para aquisição 
+dd/mm 
+dd/mm 
+ 
+03- Definição do layout de instalação 
+dd/mm 
+dd/mm 
+ 
+04- Produção de documentação para processos de compra 
+dd/mm 
+dd/mm 
+ 
+05- Acompanhamento de recebimento 
+dd/mm 
+dd/mm 
+ 
+06- Acompanhamento de instalação 
+dd/mm 
+dd/mm 
+ 
+07- Testes operacionais 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+504 - Escolher um item. 
+Origem: 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+<Copiar tabelas para mais ações> 
+ 
+ 
+ 
+ 
+ 
+06 - Desenvolvimento de pessoas (docentes e servidores) 
+Formação continuada de docentes e servidores, associadas às competências gerais e específicas de suas 
+atividades: Metodologias de ensino, Tecnologias educacionais, Sistemas (processos, procedimentos, plataformas 
+computacionais) acadêmicos e pedagógicos. 
+ 
+AÇÃO/PROJETO (Tema) 
+601 - cat 6.02 - Projeto e atividade de Integração (docente e servidores) 
+Origem: 
+2-CPA (Relatório da Comissão Própria de Avaliação da Unidade) 
+O que será feito: 
+Coordenar as atividades da CPA 
+Por que será feito: 
+Gerenciar a Comissão 
+Responsável: 
+<nome> Demerval Rogério Masotti 
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/02/2024 
+Data final: 
+31/07/2024 
+Etapas do processo: 
+01- Planejamento atividades da CPA para novo relatório 
+01/02 
+28/02 
+ 
+02- Estudo da normativa atualizada e modelos de documentos 
+01/03 
+31/03 
+ 
+03- Análise dos relatórios anteriores 
+01/04 
+20/04 
+ 
+04- Reuniões cm a CPA 
+01/03 
+30/06 
+ 
+05- Preparação para o websai 
+01/07 
+31/07 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+(a ser resolvida/mitigada) 
+cat 0.1.08 - Participação da comunidade e sociedade 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+602 - Escolher um item. 
+Origem: 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+603 - Escolher um item. 
+Origem: 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+604 - Escolher um item. 
+Origem: 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+<Copiar tabelas para mais ações> 
+ 
+ 
+ 
+ 
+ 
+ 
+07 – Convênios e Parcerias Institucionais 
+Formalização do relacionamento da Unidade com o Ecossistema de Tecnologia: Convênio de uso de prédio, 
+estágios, projetos com empresas. Aqui cabe apenas novos convênios e parcerias, e cada proposta deve estar 
+relacionada a uma Ação/Projeto de melhoria em algum dos itens anteriores do PGA (1, 2, 3, 4, 5 ou 6). 
+ 
+AÇÃO/PROJETO (Tema) 
+701 - cat 7.02 - Contrato de estágio 
+Origem: 
+3-Outra 
+O que será feito: 
+Orientar e mentorar alunos na execução do estágio curricular supervisionado 
+Por que será feito: 
+Atendimento aos ditames regimentais e execução do PPC de todos os cursos  
+Responsável: 
+<nome> Vânia Ap. Acorci Bighetti 
+Qde CH/sem: 
+nn 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> Ana Carolina Barros de  Gennaro Veredas 
+Qde CH/sem: 
+nn 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> Mario Lamas Ramalho 
+Qde CH/sem: 
+nn 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+01/02/2024 
+Data final: 
+31/07/2024 
+Etapas do processo: 
+01- Divulgar as atividades de estágio para alunos 
+aptos a  iniciar o estágio 
+15/02 
+28/02 
+ 
+02- Mapear os alunos interessados em realizar o estágio 
+20/02 
+31/03 
+ 
+03- Organizar reuniões com os candidatos 
+01/04 
+30/06 
+ 
+04- Acompanhar a procura de estágio 
+01/02 
+31/07 
+ 
+05- Mentorar os alunos ao longo do estágio 
+01/03 
+31/07 
+ 
+06- Orientar os alunos na redação do relatório de estágio 
+15/03 
+31/07 
+ 
+07- Registrar os estágios concluídos e avaliar os relatórios 
+01/06 
+31/07 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.10 - Gestão da unidade de ensino e dos cursos (indicadores) 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+702 - Escolher um item. 
+Origem: 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+<Copiar tabelas para mais ações> 
+ 
+ 
+ 
+ 
+ 
+Anexo 1 – Lista de aquisições necessárias aos projetos 
+(equipamentos, softwares, mobiliários) 
+ 
+Item 
+Projeto 
+(XYY) 
+Denominação ou especificação do equipamento 
+Quant. 
+01 
+201 
+Switch 48 portas ‐ Gerenciável 
+02 
+02 
+201 
+Switch 24 portas‐ Gerenciável 
+05n 
+03 
+201 
+Servidor de Rede ‐ PADRÃO CENTRO PAULA SOUZA 
+01 
+04 
+201 
+Microcomputador ‐ PADRÃO CENTRO PAULA SOUZA 
+63 
+05 
+201I 
+Nobreak 
+02 
+06 
+201I 
+Roteador especial 
+03 
+07 
+201I 
+Roteador tipo wireless 
+04 
+08 
+501 
+Óculos de realidade virtual 
+20 
+09 
+501 
+Kits de desenvolvimento (Arduino e Raspberry) 
+40 
+10 
+501 
+kit para confecção de placa de circuito impresso 
+10 
+11 
+201 
+Mini rack de parede padrão Centro Paula Souza 
+05 
+12 
+501 
+Alicate crimpador 
+10 
+13 
+201I 
+Kit de ferramentas para manutenção de computador, incluindo  alicate, pinças, 
+chaves de fenda e Philips 
+01 
+14 
+201 
+testador de cabo de rede para localizar e testar 
+01 
+15 
+503 
+Balança Digital de Precisão 
+01 
+16 
+Lab Eventos Forno micro‐ondas 30 litros 220 v  
+02 
+17 
+Lab Eventos Fogão doméstico Convencional c/ 4 queimadores 220 v  
+01 
+18 
+Lab Huawei Conjunto Escolar, Mesa e cadeira individual para aluno  
+40 
+19 
+Lab Huawei Conjunto mesa e cadeira professor 
+02 
+20 
+502 
+Kit filmagem, iluminação e som 
+01 
+ 
+ 
+ 
+ 
+ 
+Anexo 2 – Lista de Ações/Projetos referentes à CPA 
+ 
+Item Projeto 
+(XYY) 
+Denominação 
+(O que será feito) 
+Prazo 
+01 
+101 
+Organizar evento institucional (congresso) – XV edição do FATECLOG 
+31/07/2024 
+02 
+103 
+Organizar a produção docente / discente apresentada no XV Fateclog 
+para publicação de livro digital 
+31/07/2024 
+03 
+104 
+Produção de conteúdo institucional para mídias 
+31/07/2024 
+04 
+201 
+Organizar e gerenciar as atividades didáticas e de projetos desenvolvidos no curso de 
+Sistemas Embarcados 
+31/07/2024 
+05 
+401 
+Acompanhar e mentorar as atividades da Empresa Junior 
+31/07/2024 
+06 
+403 
+Gestão do conhecimento ESG para o projeto XV Fateclog 
+31/07/2024 
+07 
+404 
+Gestão do conhecimento em Inovação para o projeto XV Fateclog 
+31/07/2024 
+08 
+501 
+Implantação de  2 laboratórios de TI para P&D com convênio Huawei 
+31/07/2024 
+09 
+502 
+Implantação estudo de gravação vídeos e podcast 
+31/07/2024 
+10 
+503 
+Dotação de equipamentos para laboratório de Gestão ambiental 
+31/07/2024 
+11 
+601 
+Coordenar as atividades da CPA 
+31/07/2024 
+12 
+701 
+Orientar e mentorar alunos na execução do estágio curricular supervisionado 
+31/07/2024 
+13 
+nnn 
+nn 
+dd/mm/aaaa 
+14 
+nnn 
+nn 
+dd/mm/aaaa 
+15 
+nnn 
+nn 
+dd/mm/aaaa 
+16 
+nnn 
+nn 
+dd/mm/aaaa 
+17 
+nnn 
+nn 
+dd/mm/aaaa 
+18 
+nnn 
+nn 
+dd/mm/aaaa 
+19 
+nnn 
+nn 
+dd/mm/aaaa 
+20 
+nnn 
+nn 
+dd/mm/aaaa 
+ 
+ 
+<fim> 
+ 
+ 
+ 
+ 
+ 
+ 

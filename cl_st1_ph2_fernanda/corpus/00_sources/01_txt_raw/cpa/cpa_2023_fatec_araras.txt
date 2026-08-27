@@ -1,0 +1,3188 @@
+                      1 
+__________________________________________________________________________ 
+Administração Central 
+Unidade do Ensino Superior de Graduação 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Araras  
+2023 
+ 
+ 
+ 
+FATEC ARARAS 
+RELATÓRIO DE 
+AUTOAVALIAÇÃO 
+INSTITUCIONAL  
+                      2 
+__________________________________________________________________________ 
+Administração Central 
+Unidade do Ensino Superior de Graduação 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial
+Direção / Coordenação de Cursos 
+ 
+ 
+Direção Geral  
+ 
+Prof. Me. Marco Anselmo de 
+Godoi Prezoto 
+Coordenador do Curso de Graduação Tecnológica em 
+Desenvolvimento de Softwares Multiplataforma  
+ 
+Prof. Me. Nilton Cesar Sacco 
+Coordenador do Curso de Graduação Tecnológica em 
+Gestão Empresarial 
+ 
+Profa. Me. Zenaide Moschim 
+Coordenador do Curso de Graduação Tecnológica em 
+Sistemas para Internet 
+ 
+Prof. Dr. Leonardo Souza de 
+Lima 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                      3 
+__________________________________________________________________________ 
+Administração Central 
+Unidade do Ensino Superior de Graduação 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial
+Comissão Própria de Avaliação – CPA 
+ 
+ 
+ 
+  
+Membro Coordenador Sistemas para Internet – 
+Presidente 
+ 
+Leonardo Souza de Lima 
+Membro Coordenador Desenvolvimento de Software 
+Multiplataforma 
+ 
+Nilton Cesar Sacco 
+Membro Coordenadora Gestão Empresarial 
+ 
+Zenaide Moschim 
+Membro Docente Sistemas para Internet 
+ 
+Dhebora Souza Umbelino Silva 
+Membro Docente Desenvolvimento de Software 
+Multiplataforma  
+ 
+João Eichenberger Neto 
+Membro Docente Gestão Empresarial  
+ 
+Luciano Cesar de Moraes 
+Membro Comunidade Discente 
+ 
+Flayne Isabella Giassi 
+Membro Corpo Técnico Administrativo 
+ 
+Rosana Fátima de Melo 
+Membro Representante da Sociedade Civil 
+ 
+Fernanda Teresa Tofolo Marco 
+(Ilma. Diretora da 
+Escola Estadual Dr. Maximiliano 
+Baruto – Araras – SP) 
+ 
+ 
+ 
+ 
+ 
+ 
+                      4 
+__________________________________________________________________________ 
+Administração Central 
+Unidade do Ensino Superior de Graduação 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial
+SUMÁRIO 
+ 
+ 
+ 
+I Identificação da FATEC: ................................................................................................................. 04 
+II Atos Regulatório ............................................................................................................................. 04 
+III Composição da Comissão Própria de Avaliação (CPA) .......................................................... 05 
+1  INTRODUÇÃO ............................................................................................................................... 06 
+2  METODOLOGIA ............................................................................................................................ 08 
+2.1 Cronograma de atividades da CPA .......................................................................................... 10 
+2.2 Sensibilização .............................................................................................................................. 11 
+2.3 Sujeitos da avaliação .................................................................................................................. 13 
+2.4 Instrumentos de coleta ............................................................................................................... 15 
+2.5 Procedimentos para a coleta ..................................................................................................... 18 
+2.6 Análise e discussão dos dados da coleta ................................................................................ 20 
+2.7 Organização das medidas para a composição do relatório .................................................. 20 
+2.8 Devolutiva dos resultados para os segmentos ....................................................................... 20 
+3 DESENVOLVIMENTO ................................................................................................................... 21 
+3.1 Eixo 1: Planejamento e Avaliação Institucional ...................................................................... 21 
+3.2 Eixo 2: Desenvolvimento Institucional ...................................................................................... 25 
+3.3 Eixo 3: Políticas Acadêmicas ..................................................................................................... 32 
+3.4 Eixo 4: Políticas de Gestão ........................................................................................................ 42 
+3.5 Eixo 5: Infraestrutura Física ....................................................................................................... 45 
+4 ANÁLISE DOS DADOS E AÇÕES PROPOSTAS ............................................................... 50 
+5 CONSIDERAÇÕES FINAIS ................................................................................................... 56 
+ 
+ 
+ 
+ 
+ 
+4 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial
+I Identificação da FATEC: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+II Atos Regulatórios 
+ATO REGULATÓRIO 
+Ato Regulatório:  
+ 
+Prazo de validade:  
+ 
+Tipo de documento:  
+Decreto Estadual 
+No. Documento:  
+62.860 
+Data do Documento:  
+07/07/2017 
+Data de Publicação :  08/07/2017 
+ 
+ 
+ 
+ 
+ 
+FATEC: Araras “Antonio Brambilla”  
+CÓDIGO DO CPS: F290 
+CÓDIGO E-MEC: 2343 
+Representante Legal da IES: Diretor: Prof. Me. Marco Anselmo de Godoi 
+Prezoto 
+Endereço Completo: Rua Jarbas Leme de Godoy, 875 
+Bairro: José Ometto II 
+Município: Araras 
+Telefone: (19)3541-3004 
+E-mail: 290dir@cps.sp.gov.br 
+5 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial
+III Composição da Comissão Própria de Avaliação (CPA)  
+ 
+A Comissão Própria de Avaliação da FATEC Araras “Antonio Brambilla” foi instituída 
+pela Portaria nº 75/2022, de 20 de outubro de 2022.  Com mandato até 20/10/2025. 
+Possuindo a seguinte composição:  
+ 
+NOME 
+SEGMENTO 
+REPRESENTATIVO 
+Leonardo Souza de Lima 
+Docente 
+Nilton Cesar Sacco 
+Docente 
+Zenaide Moschim 
+Docente 
+Dhebora Souza Umbelino Silva 
+Docente 
+João Eichenberger Neto 
+Docente 
+Luciano Cesar de Moraes 
+Docente 
+Flayne Isabella Giassi 
+Discente  
+Rosana Fátima de Melo 
+Técnico 
+Administrativo 
+Fernanda Teresa Tofolo Marco 
+Sociedade Civil   
+ 
+ 
+6 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial
+1 INTRODUÇÃO  
+ 
+ 
+A Fatec Araras possui a crença na avaliação como instrumento de gestão. Por 
+meio da avaliação temos condições de reunir indicadores capazes de suscitar análises 
+e discussões possibilitando definir planos de melhorias de forma continuada. 
+Sabe-se que a Lei 10.861/2014, que define o Sistema Nacional de Avaliação 
+da Educação Superior (SINAES), estabelece, em seu Artigo 3º, que a avaliação 
+institucional tem por objetivo identificar o perfil da IES e o significado de sua atuação, 
+por meio de suas atividades, cursos, programas, projetos e setores, considerando as 
+diferentes dimensões institucionais, consolidadas em cinco eixos, sempre objetivando 
+evidenciar os referenciais mínimos de qualidade exigidos pela excelência de ensino 
+que é um dos pilares da pratica de todas as faculdades de tecnologias do Estado de 
+São Paulo vinculadas ao Centro Paula Souza. 
+Por meio do desenvolvimento do presente relatório, serão apresentados os 
+dados e as informações referentes aos eixos, dimensões e indicadores em 
+consonância com o Plano de Desenvolvimento Institucional (PDI) da Fatec e em 
+consonância com as diretrizes emanadas do Centro Paula Souza.  
+A Fatec Araras foi criada pelo Decreto 62.680 de 07/07/2017 e desde então 
+implantou o Curso Superior de Graduação Tecnológica em Sistemas para Internet, 
+atualmente em fase de extinção, o Curso Superior de Graduação Tecnológica em 
+Gestão Empresarial e está em processo de implantação do Curso Superior de 
+Graduação Tecnológica em Desenvolvimento de Softwares Multiplataforma, todos no 
+período noturno. Conta com um corpo docente qualificado (03 professores com 
+doutorado, 24 professores com mestrado e 13 professores especialistas). 
+Em relação à infraestrutura, a unidade dispõe de 06 laboratórios de informática, 
+salas para as direções administrativa e acadêmica; coordenação e 08 salas de aula. 
+De acordo com o convênio entre o CPS e Prefeitura Municipal de Araras existe a 
+previsão de construção de um novo bloco para a instalação de outros laboratórios e 
+biblioteca para apoiar as atividades práticas do corpo discente. 
+Como estratégia de crescimento, a unidade vem fortalecendo parcerias com a 
+prefeitura local e de cidades da região, com a Delegacia Regional de Ensino de 
+Pirassununga – cidade próxima de Araras e com as empresas da cidade e da região.  
+7 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial
+A parceria com as empresas da região resultou na implantação das turmas na 
+modalidade Articulação dos Ensinos Médio-Técnico e Superior (AMS), a partir do 
+primeiro semestre do ano de 2023. Trata-se de uma formação de cinco anos que 
+integra Ensino Médio (técnico) ao Ensino Superior (tecnológico). O aluno ingressa no 
+Ensino Médio com Habilitação Profissional de Técnico no curso escolhido e, depois 
+de concluir um ciclo de três anos, pode completar o curso superior tecnológico na 
+mesma área com mais dois anos de estudo, sem a necessidade de prestar exame 
+vestibular. Uma característica da AMS é o fomento ao desenvolvimento de 
+competências profissionais por meio de parcerias com o setor produtivo. Para tanto, 
+empresas da região firmaram convênio com a Fatec Araras, comprometendo-se a 
+participar ativamente do desenvolvimento dos cursos. Entre outras iniciativas, as 
+empresas abrem suas portas para atividades práticas dos alunos. 
+ 
+Curso 
+Autorização 
+Reconhecimento/ 
+RENOVAÇÃO 
+DATA 
+Prazo de 
+reconhecimento
+ENADE 
+Curso Superior 
+de Graduação 
+Tecnológica em 
+Sistemas para 
+Internet 
+Proc. n° 
+2735/2017 
+Portaria CEE-GP 
+543 
+07/12/2022 
+Indeterminado, 
+somente para 
+fins de expedição 
+e registro de 
+diploma de todos 
+os alunos 
+remanescentes 
+Não 
+consta 
+na 
+relação 
+dos 
+cursos 
+que 
+fazem 
+ENADE
+Curso Superior 
+de Graduação 
+Tecnológica em 
+Gestão 
+Empresarial  
+Proc. n° 
+1413202/2018 
+Portaria CEE-GP 
+16 
+28/01/2022 
+3 anos 
+Não 
+realizado 
+ainda 
+Curso Superior 
+de Graduação 
+Tecnológica em 
+Desenvolvimento 
+de Software 
+Multiplataforma 
+Proc. n° 
+1746127/2020 
+ 
+Curso em fase de 
+implantação 
+Curso em 
+fase de 
+implantação 
+Curso em fase 
+de implantação 
+Curso 
+em fase 
+de 
+implanta
+ção 
+ 
+ 
+ 
+8 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial
+ 
+TOTAL DE ALUNOS MATRICULADOS NA UNIDADE 
+ 
+NÚMERO DE 
+ALUNOS 
+CURSOS 
+Curso Superior de Graduação Tecnológica em Desenvolvimento de Software 
+Multiplataforma 
+112 
+Curso Superior de Graduação Tecnológica em Gestão Empresarial 
+142 
+Curso Superior de Graduação Tecnológica em Sistemas para Internet 
+41 
+ 
+CURSOS 
+TITULAÇÃO DOCENTE 
+% 
+Curso Superior de Graduação Tecnológica em 
+Desenvolvimento de Software Multiplataforma
+Doutores  
+11,1 
+Curso Superior de Graduação Tecnológica em 
+Desenvolvimento de Software Multiplataforma
+Mestres 
+50 
+Curso Superior de Graduação Tecnológica em 
+Desenvolvimento de Software Multiplataforma
+Especialistas  
+38,9 
+Curso Superior de Graduação Tecnológica em Gestão 
+Empresarial 
+Doutores  
+0 
+Curso Superior de Graduação Tecnológica em Gestão 
+Empresarial 
+Mestres 
+58,3 
+Curso Superior de Graduação Tecnológica em Gestão 
+Empresarial 
+Especialistas  
+41,7 
+Curso Superior de Graduação Tecnológica em Sistemas para 
+Internet 
+Doutores  
+7,7 
+Curso Superior de Graduação Tecnológica em Sistemas para 
+Internet 
+Mestres 
+61,5 
+Curso Superior de Graduação Tecnológica em Sistemas para 
+Internet 
+Especialistas  
+30,8 
+ 
+O presente relatório está dividido em quatro partes, sendo: metodologia, 
+desenvolvimento, análise dos dados, ações propostas e considerações finais. 
+2 METODOLOGIA 
+ 
+Para contribuir com a organização da Comissão Própria de Avaliação de cada 
+Fatec, o Centro Paula Souza, por meio da Área de Avaliação Institucional (AAI) e da 
+Unidade de Ensino Superior de Graduação (CESU), organizaram a comissão da CPA 
+Central.  
+9 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial
+ 
+Assumindo como centro organizativo as atribuições que lhe competem, a 
+saber:  
+I – Contribuir com o planejamento, orientação e monitoramento dos 
+procedimentos da autoavaliação Institucional das FATECs; 
+II – Utilizar os indicadores coletados nas unidades como instrumento de 
+gestão, oferecendo subsídios para cada uma das áreas da administração 
+central tomar as medidas corretivas; 
+III – Elaborar o Relatório Global da Autoavaliação para os processos de 
+recredenciamento institucional.  
+IV – Elaborar o cronograma da autoavaliação para as Fatecs, considerando 
+o prazo de 31 de março de cada ano para o protocolo dos relatórios da 
+autoavaliação no sistema e-mec do Ministério da Educação.  
+V – Avaliar, indicar possíveis ajustes e autorizar o protocolo dos relatórios das 
+CPAs das FATECs no sistema e-mec. 
+VI – Reunir-se ordinariamente duas vezes no semestre ou de forma 
+extraordinária quando necessário.  
+ 
+Por meio CPA Central cada Fatec e Diretorias Pedagógicas Regionais recebe 
+todo o suporte necessário para cumprir o que lhe compete a CPA conforme segue: 
+1. contribuir 
+com 
+o 
+planejamento, 
+elaboração, 
+coordenação 
+e 
+monitoramento dos processos de avaliação interna, apresentando o 
+projeto de autoavaliação Institucional que norteará todos os 
+procedimentos de autoavaliação para a CPA Central em consonância 
+com a equipe de Supervisão Regional das FATECs.  
+2. apoiar os processos internos de avaliação; 
+3. sistematizar e prestar informações relativas às políticas de 
+autoavaliação institucional, solicitadas pelos Sistemas Federal e 
+Estadual de Avaliação da Educação Superior, além de atender à 
+demanda interna da Supervisão Regional e da CPA Central do Centro 
+Paula Souza; 
+4. constituir subcomissões de avaliação; 
+5. constituir grupos temáticos ou focais voltados para a avaliação de cada 
+uma das dez dimensões estabelecidas no artigo anterior; 
+6. elaborar e analisar relatórios e pareceres, encaminhando-os a CPA 
+Central; 
+7. desenvolver estudos e análises, colaborando com os órgãos próprios 
+ou terceirizados do Centro Paula Souza, visando ao fornecimento de 
+subsídios para afixação, o aperfeiçoamento e a modificação da política 
+de avaliação institucional; 
+8. acompanhar, analisar e correlacionar os resultados da autoavaliação 
+com os resultados dos alunos do Centro Paula Souza no ENADE, bem 
+como em outros processos de avaliação; 
+9. aprovar seu próprio regulamento. 
+ 
+Os relatórios parciais e/ou integrais da autoavaliação deverão ser elaborados 
+com periodicidade anual, encaminhados para a CPA Central seguindo o cronograma 
+de planejamento apresentado nas orientações gerais e protocolados até 31 de março 
+de cada ano. Tais relatórios estão disponíveis para serem apreciados pela comissão 
+10 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial
+de especialistas designada pelo Conselho Estadual de Educação para a visita à 
+Instituição em seu processo de recredenciamento, conforme dispõe a Deliberação do 
+CEE 160/2018.  
+ 
+2.1 Cronograma das atividades da CPA 
+A partir desta estrutura a CPA da Fatec Araras “Antonio Brambilla” para cumprir 
+o que lhe compete, durante o ano de 2022 elaborou o seguinte cronograma de 
+trabalho: 
+ 
+ 
+ 
+AÇÕES 
+MESES 
+JAN 
+FEV 
+MAR 
+ABR 
+MAI 
+JUN 
+JUL 
+AGO
+SET 
+OUT 
+NOV 
+DEZ 
+JAN 
+FEV 
+MAR
+1 
+ 
+
+ 
+ 
+ 
+ 
+
+
+
+ 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+4 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+7 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+8 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+9 
+ 
+ 
+ 
+ 
+ 
+ 
+
+10 
+ 
+ 
+ 
+ 
+ 
+
+ 
+1. Reuniões online com a Direção, coordenações de Cursos para sistematização as ações e 
+composições de grupos de trabalho. 
+2. Encontros online da equipe CPA para organizar e desenvolver estratégias de maneira integrada 
+a partir da percepção dos diferentes segmentos que compõem a comissão. 
+3. Sensibilização para participação nos procedimentos e coleta:  Encontros online com 
+representantes de turmas, lives, webinar, informativos, site, entre outros, para alimentar a 
+cultura avaliativa da Fatec. 
+4. Organização dos procedimentos de coleta de dados: elaboração das ações voltadas para 
+estimular e monitorar a participação de toda a comunidade no preenchimento do formulário de 
+coleta.  
+5. Análise dos resultados – acolhimento dos dados da coleta e início dos procedimentos de 
+análise.  
+6. Encaminhamento dos dados coletados para cada área competente: cada área recebe os dados 
+faz a análise e apresenta a justificativa e o Plano de Melhorias da área - ações planejadas a 
+partir dos resultados e encaminha para a CPA  
+7. Elaboração do relatório a partir da devolutiva das áreas.  
+11 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial
+8. Envio do Relatório para a apreciação da CPA Central 
+9. Divulgação dos resultados à comunidade acadêmica. 
+10. Conclusão do Relatório. 
+ 
+2.2 Sensibilização 
+Para a efetivação do cronograma destacam-se aqui algumas das ações para a 
+realização dos procedimentos de autoavaliação.  
+A CPA realizou trabalho de conscientização da comunidade acadêmica a 
+respeito da importância do processo de autoavaliação, por meio de envio de e-mails, 
+mensagens e conversas com os alunos representantes de salas de aula do curso de 
+Sistemas para Internet, Desenvolvimento de Software Multiplataforma e Gestão 
+Empresarial, bem como, através de reuniões com o corpo docente e equipe 
+administrativa.  
+A partir de 29/09/22 foram publicadas mensagens e imagens promocionais nos 
+grupos de Whatsapp de docentes, equipe administrativa e representantes de sala com 
+a finalidade de despertar interesse sobre a pesquisa WebSAI (Figura 1). Estas 
+mensagens também foram publicadas nas redes sociais da Fatec Araras. 
+ 
+Figura 1: Divulgação da Avaliação Institucional 
+12 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial
+Em 03/10/22 foi enviado por e-mail a toda comunidade da Fatec Araras o 
+material informativo sobre a pesquisa WebSAI com informações extras de como 
+acessar o sistema e reforçando a importância da participação na pesquisa. 
+A partir de 24/10/2022 foram enviadas instruções aos alunos com problemas 
+para responder ao questionário WebSAI. 
+No dia 27/10/2022 foi divulgada a prorrogação da pesquisa até o dia 13/11/2022 
+(Figura 2). 
+ 
+Figura 2: Divulgação da prorrogação do prazo para responder à pesquisa. 
+A partir do dia 8/11/2022 foram enviadas mensagens aos membros da 
+comunidade que ainda não haviam respondido, a fim de os sensibilizar a participar da 
+pesquisa. 
+A Comissão procurou destacar que a autoavaliação é um processo de 
+construção do conhecimento da realidade da instituição que busca identificar suas 
+potencialidades, permitindo o fortalecimento e a consolidação de práticas 
+consistentes, bem como, a detecção dos pontos frágeis que merecem atenção da 
+comunidade acadêmica para a superação das dificuldades existentes e para o 
+aprimoramento institucional. 
+ 
+13 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial
+2.3 Sujeitos da avaliação 
+A autoavaliação foi realizada online através de questionário disponibilizado pela 
+ferramenta WEBSAI e respondido nos meses de outubro e novembro de 2022 pelos 
+três segmentos da Instituição.  
+Responderam ao questionário 38 membros do corpo docente e 7 do corpo 
+técnico administrativo. O total de discentes respondentes foi de 243, sendo 96 do 
+Curso Superior de Graduação Tecnológica em Desenvolvimento de Softwares 
+Multiplataforma, 116 do Curso Superior de Graduação Tecnológica em Gestão 
+Empresarial e 31 do Curso Superior de Graduação Tecnológica em Sistemas para 
+Internet. 
+Dos 243 respondentes, 99 se identificam com o sexo feminino e 144 com o 
+sexo masculino. 
+ 
+A faixa etária predominante é a de alunos entre 20 e 29 anos com 
+aproximadamente 51% dos respondentes. Em seguida observam-se dois grupos de 
+igual proporcionalidade: os respondentes com menos de 20 e os respondentes entre 
+30 e 39 anos, ambos grupos com cerca de 19%. 
+59%
+41%
+Masculino
+Feminino
+01 - Sexo
+14 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial
+ 
+Em relação à autodeclaração, predomina a cor branca, números similares à 
+autodeclaração registrada pelo Censo Demográfico 2010 na cidade de Araras e na 
+Região Administrativa de Campinas1. 
+ 
+A última informação sobre os sujeitos desta pesquisa refere-se ao trabalho e 
+os dados mostram que cerca de 83% trabalham. Dentre esses, 51% declararam 
+exercer atividade profissional na área do curso. O perfil do alunado da Fatec Araras 
+que pode ser descrito como em sua maioria trabalhadores, possivelmente 
+provenientes das classes menos favorecidas em busca de uma oportunidade de 
+ 
+ 
+ 
+1 Disponível em: < 
+http://produtos.seade.gov.br/produtos/retratosdesp/view/index.php?temaId=1&indId=5&locId=3503307&busca= > Acessado 
+em: 16 de dez. de 2022. 
+19%
+51%
+19%
+6%
+3%
+1%
+Menos de 20 Anos
+Entre 20 a 29 Anos
+Entre 30 a 39 Anos
+Entre 40 a 49 Anos
+Entre 50 a 59 Anos
+60 ou mais
+02 - Sua faixa etária
+67%
+9%
+24%
+0%
+0%
+Branca
+Preta
+Parda
+Amarela
+Indígena
+04- A qual categoria (cor ou raça) definida pelo IBGE, você 
+pertence?
+15 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial
+ascensão social por meio da educação. Por causa desse fato, talvez seja relevante 
+uma adaptação na metodologia de ensino pensando no curto tempo livre desses 
+estudantes. 
+ 
+A participação da comunidade acadêmica na resposta dos questionários foi de 
+84% e, portanto, considerada satisfatória. Observa-se assim o aumento significativo 
+da participação ao compararmos com as edições de 2020 e 2021, que obtiveram, 
+respectivamente, 66% e 74% de participação da comunidade acadêmica. Acredita-se 
+que o retorno das atividades completamente presenciais no ano de 2022 teve forte 
+repercussão na mobilização para a participação, principalmente dos membros 
+discentes. 
+Ressalta-se ainda que a CPA tem atuado com a colaboração efetiva de todos 
+os segmentos da instituição. Desde sua constituição, a Comissão tem trabalhado para 
+garantir a representatividade dos docentes, discentes, funcionários e da comunidade 
+externa no desenvolvimento de suas atividades, por meio de uma composição 
+paritária, incentivando a participação nas reuniões de planejamento e elaboração dos 
+instrumentos de avaliação. 
+2.4 Instrumentos de Coleta  
+Desde 1997 o Centro Paula Souza, evidenciando o seu pioneirismo em buscar 
+indicadores para gerar melhoria de seus serviços criou o Sistema de Avaliação 
+Institucional (SAI), implantado em 1999 em todas as Etecs (Escolas de Ensino Técnico 
+17%
+51%
+32%
+Não
+Sim, na área do curso
+Sim, fora da área do curso
+05 - Atualmente você trabalha?
+16 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial
+no nível médio) e, em 2000, nas Fatecs, seguindo os mais rigorosos critérios 
+estatísticos. Sendo os instrumentos elaborados e preenchidos em formulários 
+impressos de 1999 a 2012.  
+A partir de 2010, os questionários deixaram de ser preenchidos em formulário 
+de papel e passaram a ser totalmente on-line, trazendo mais agilidade ao processo 
+de avaliação. Desde então, todos os participantes realizam a pesquisa pela internet e 
+o SAI passou a ser chamado de WebSAI.  
+Para que as Fatecs tivessem apenas um instrumento que pudesse contemplar 
+as 10 dimensões dentro dos 5 eixos avaliativos, a partir da criação da comissão da 
+CPA Central a AAI em parceria com a CESU, por meio de uma equipe qualificada, 
+reorganizou a elaboração dos Instrumentos adequando-os em torno dos 5 eixos 
+avaliativos:  
+Eixo 1: Planejamento e Avaliação Institucional 
+ Dimensão 8: Planejamento e Avaliação  
+Eixo 2: Desenvolvimento Institucional 
+ Dimensão 1: Missão e Plano de Desenvolvimento Institucional 
+ Dimensão 3: Responsabilidade Social da Instituição 
+Eixo 3: Políticas Acadêmicas 
+ Dimensão 2: Políticas Para O Ensino, A Pesquisa e A Extensão 
+ Dimensão 4: Comunicação Com A Sociedade 
+ Dimensão 9: Política de Atendimento Aos Discentes 
+Eixo 4: Políticas de Gestão 
+ Dimensão 5: Políticas de Pessoal  
+ Dimensão 6: Organização e Gestão da Instituição 
+17 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial
+ Dimensão 10: Sustentabilidade Financeira  
+Eixo 5: Infraestrutura Física 
+ Dimensão 7: Infraestrutura Física 
+O questionário constante no WEBSAI estruturou-se tal como descrito nos 
+quadros a seguir (Questões por Eixo/Dimensão). 
+QUESTÕES POR EIXO/DIMENSÃO: CORPO DISCENTE 
+EIXO/DIMENSÃO 
+NÚMERO DE 
+QUESTÕES 
+ESTRUTURA DA QUESTÃO 
+Cadastro 
+6 
+Alternativa simples 
+CPA 
+2 
+Escala de Likert 
+Eixo 1 / Dimensão 8 (Planejamento e Avaliação)  
+11 
+Alternativa simples (1) e Escala 
+de Likert (10) 
+Eixo 2 / Dimensão 1 (Missão e Desenvolvimento Institucional) 
+8 
+Alternativa simples (1) e Escala 
+de Likert (7) 
+Eixo 2 / Dimensão 3 (Responsabilidade Social da Instituição) 
+5 
+Escala de Likert 
+Eixo 3 / Dimensão 2 (Políticas para Ensino, a Pesquisa e a 
+Extensão) 
+26 
+Escala de Likert 
+Eixo 3 / Dimensão 4 (Comunicação com a Sociedade) 
+11 
+Escala de Likert 
+Eixo 3 / Dimensão 9 (Política de atendimento ao discente)  
+6 
+Escala de Likert 
+Eixo 4 / Dimensão 6 (Organização e Gestão da Instituição)  
+10 
+Escala de Likert 
+Eixo 5 / Dimensão 7 (Infraestrutura)  
+25 
+Escala de Likert 
+Total 
+110 
+ 
+ 
+QUESTÕES POR EIXO/DIMENSÃO: CORPO DOCENTE 
+EIXO/DIMENSÃO 
+NÚMERO DE 
+QUESTÕES 
+ESTRUTURA DA QUESTÃO 
+Cadastro 
+7 
+Alternativa simples 
+CPA 
+2 
+Escala de Likert 
+Eixo 1 / Dimensão 8 (Planejamento e Avaliação)  
+12 
+Alternativa simples (1) e Escala 
+de Likert (11) 
+Eixo 2 / Dimensão 1 (Missão e Desenvolvimento Institucional) 
+9 
+Escala de Likert 
+Eixo 2 / Dimensão 3 (Responsabilidade Social da Instituição) 
+4 
+Escala de Likert 
+Eixo 3 / Dimensão 2 (Políticas para Ensino, a Pesquisa e a 
+Extensão) 
+14 
+Escala de Likert 
+Eixo 3 / Dimensão 4 (Comunicação com a Sociedade) 
+17 
+Escala de Likert 
+Eixo 3 / Dimensão 9 (Política de atendimento ao discente)  
+5 
+Escala de Likert 
+Eixo 4 / Dimensão 5 (Políticas de Pessoal)  
+4 
+Escala de Likert 
+18 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial
+Eixo 4 / Dimensão 6 (Organização e Gestão da Instituição)  
+10 
+Escala de Likert 
+Eixo 5 / Dimensão 7 (Infraestrutura)  
+25 
+Escala de Likert 
+Total 
+109 
+ 
+ 
+QUESTÕES POR EIXO/DIMENSÃO: TÉCNICOS ADMINISTRATIVOS 
+EIXO/DIMENSÃO 
+NÚMERO DE 
+QUESTÕES 
+ESTRUTURA DA QUESTÃO 
+Cadastro 
+7 
+Alternativa simples 
+CPA 
+2 
+Escala de Likert 
+Eixo 1 / Dimensão 8 (Planejamento e Avaliação)  
+1 
+Alternativa simples 
+Eixo 2 / Dimensão 1 (Missão e Desenvolvimento Institucional) 
+23 
+Escala de Likert 
+Eixo 2 / Dimensão 3 (Responsabilidade Social da Instituição) 
+10 
+Escala de Likert 
+Eixo 3 / Dimensão 4 (Comunicação com a Sociedade) 
+13 
+Escala de Likert 
+Eixo 3 / Dimensão 9 (Política de atendimento ao discente)  
+6 
+Escala de Likert 
+Eixo 4 / Dimensão 5 (Políticas de Pessoal)  
+9 
+Escala de Likert 
+Eixo 4 / Dimensão 6 (Organização e Gestão da Instituição)  
+4 
+Escala de Likert 
+Eixo 5 / Dimensão 7 (Infraestrutura)  
+26 
+Escala de Likert 
+Total 
+101 
+ 
+ 
+ 
+2.5 Procedimentos para a coleta 
+ 
+A AAI disponibilizou o acesso ao sistema de coleta (WebSAI) a partir de 03 de 
+outubro de 2022 ficou disponível para o preenchimento da comunidade do dia 31 de 
+outubro de 2022 e prorrogado até o dia 13 de novembro de 2022.  
+Para favorecer a ampla participação durante este período a CPA comunicou-
+se com a comunidade acadêmica por meio de envio de e-mails, mensagens no 
+WhatsApp e conversas com os alunos representantes de salas de aula do curso de 
+Desenvolvimento de Software Multiplataforma, Gestão Empresarial e Sistemas para 
+Internet. Além disso, a CPA contou com o apoio dos coordenadores e professores dos 
+cursos da unidade. Em datas específicas, os professores reservaram de quinze a vinte 
+minutos de aula para o que alunos presentes no dia pudessem preencher os 
+formulários do WebSAI. Ainda, após verificação de indivíduos que ainda não haviam 
+respondido ao questionário, coordenadores entraram em contato com estudantes de 
+19 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial
+seus respectivos cursos, por meio de mensagens via WhatsApp ou ligação telefônica, 
+a fim de sensibilizá-los a participar da pesquisa (Figuras 3 e 4).  
+ 
+Figura 3: Mensagens enviadas à professores e alunos por WhatsApp. 
+ 
+Figura 4: Mensagens enviadas à professores e alunos por e-mail 
+20 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial
+ 
+2.6 Análise e Discussão dos dados da coleta  
+ 
+A partir do dia 20 de novembro de 2022 os dados coletados por meio do 
+WebSAI, foram disponibilizados pela AAI. A Fatec Araras, por meio da CPA iniciou o 
+processo de organização dos dados coletados para encaminhamento para cada setor. 
+A CPA organizou os dados através de uma equipe criada no Microsoft TEAMs. Nela 
+foram disponibilizadas as planilhas com os dados em estado bruto, bem como os 
+tratamentos para análise dos membros da CPA e para geração de gráficos. A CPA 
+encaminhou para que cada área da unidade, Direção Geral, Diretoria Administrativa, 
+Diretoria Acadêmica, Coordenações e Professores.  
+2.7 Organização das medidas para composição do relatório 
+ 
+Com os dados disponíveis, a CPA providenciou reuniões para promover a 
+discussão sobre tais informações a fim de identificar as fragilidades e forças para que 
+fosse possível elaborar as justificativas em relação aos dados e ao plano de melhoria 
+proposto e ações a serem realizadas, conforme dados apresentados nos itens 4 e 5 
+do presente relatório. 
+ 
+Após o processo de análise e discussão dos dados coletados, cada setor 
+encaminhou para a CPA da Fatec Araras, os resultados presentes no Quadro 2, com 
+o apontamento das fragilidades e o planejamento das medidas corretivas, assim como 
+as potencialidades e as possíveis ações de manutenção e melhorias. Os quadros 
+apresentados, foram condensados no capítulo 4 deste relatório, refletindo o 
+planejamento da Fatec Araras a partir dos indicadores observados em cada eixo 
+avaliativo.  
+ 
+2.8 Devolutiva dos Resultados para os Segmentos   
+ 
+Após análise dos dados tabulados, os setores da unidade apresentaram 
+algumas propostas, que, após análise da CPA, foram incluídas neste relatório como 
+21 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial
+ações a serem tomadas referente às fragilidades encontradas na Fatec Araras, que 
+foram elencadas nos itens 4 e 5 deste relatório. 
+ 
+3 DESENVOLVIMENTO 
+Considerando  os  instrumentos  da  autoavaliação,  estruturados  a  partir  das  10  dimensões 
+previstas  no  art.  3º  da  Lei  nº  10.861  (SINAES),  nesta  parte  do  relatório,  a  CPA  deverá 
+apresentar as informações que foram coletadas, a partir da organização de 5 eixos, que 
+articulam as 10 dimensões, conforme disposto na Nota Técnica INEP nº 065, como segue: 
+ 
+3.1 Planejamento e Avaliação Institucional Eixo 1:  
+   
+ 
+Dimensão 8: Planejamento e Avaliação 
+ 
+EIXO 
+DIMENSÃO 
+APRESENTAÇÃO DAS PRINCIPAIS INFORMAÇÕES COLETADAS NO EIXO 1   
+EIXO 1 
+Planejamento e 
+Avaliação 
+Institucional 
+Dimensão 8: 
+Planejamento 
+e Avaliação 
+Corpo Discente
+56%
+44%
+Sim
+Não
+07 - Você sabe o que é o Plano de Desenvolvimento 
+Institucional (PDI) da sua instituição de ensino?
+22 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial
+ 
+0%
+20%
+40%
+60%
+80%
+100%
+08 - Como avalia o uso dos indicadores
+da Avaliação Institucional (WEBSAI) no
+Planejamento Institucional?
+09 - Como avalia as melhorias
+alcançadas a partir da Avaliação
+Institucional?
+10 - Frequência às aulas
+11 - Pontualidade
+12 - Qualidade das
+atividades/exercícios/trabalhos
+apresentados
+13 - Desempenho nas avaliações da
+aprendizagem
+14 - Conhecimentos básicos para
+acompanhar as disciplinas
+15 - Participação em sala de aula
+(contribuir com comentários, exemplos,
+experiências, etc.)
+16 - Organização e tempo dedicado
+para os estudos (cronograma, estudos
+extra classe, leitura e revisão de…
+17 - Convívio acadêmico (integração,
+trabalho em equipe, respeito à
+diversidade, proatividade)
+Excelente
+Muito bom
+Regular
+Insuficiente
+Não se aplica
+Não sei responder
+23 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial
+EIXO 1 
+Planejamento e 
+Avaliação 
+Institucional 
+Dimensão 8: 
+Planejamento 
+e Avaliação 
+Corpo Docente  
+ 
+ 
+ 
+82%
+18%
+Sim
+Não
+08 - Você conhece o Plano de Desenvolvimento Institucional 
+(PDI) da sua instituição de ensino?
+0%
+20%
+40%
+60%
+80%
+100%
+09 - Você promove articulação da
+(s) disciplina (s) com outra (s)
+disciplina (s) do curso?
+10 - Você realiza preparação
+prévia na organização das
+atividades desenvolvidas na…
+11 - Você utiliza estratégias de
+ensino (metodologias) que
+favorecem o interesse,…
+12 - Você procura desenvolver
+uma comunicação transparente,
+mantendo os estudantes bem…
+13 - Na condução da (s) disciplina
+(s) /turma (s) foi mantido um clima
+de respeito à diversidade de…
+14 - Você prepara as avaliações
+utilizando múltiplos instrumentos e
+objetivando diagnosticar a…
+15 - Foi necessário oferecer
+diferentes situações para a
+superação de dificuldades dos…
+16 - No desenvolvimento da(s)
+disciplina(s)/turma(s) contribuí
+para ampliar a capacidade de…
+17 - Os estudantes conseguiram
+aprofundar os conhecimentos na
+área?
+18 - As devolutivas das avaliações
+que realizei (provas, trabalhos,
+exercícios, entre outros)…
+19 - Sente-se comprometido com
+o sucesso escolar dos alunos,
+contribuindo para reduzir a…
+Sempre
+Quase sempre
+Algumas vezes
+Muito raramente
+24 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial
+EIXO 1 
+Planejamento e 
+Avaliação 
+Institucional 
+Dimensão 8: 
+Planejamento 
+e Avaliação 
+Técnicos Administrativos  
+ 
+Pela análise do gráfico referente à questão 7 com as respostas dos discentes, 
+observa-se que o corpo discente demonstra um conhecimento abaixo do esperado 
+sobre o PDI. Entretanto, nota-se que houve uma evolução em relação ao resultado 
+apurado no ano anterior. O resultado de 2021 refletia, acredita-se, o distanciamento 
+dos alunos no período de aulas online. Com o retorno às aulas presenciais, a falta de 
+interesse e motivação do aluno em conhecer mais a fundo o plano foi mitigada. 
+Entretanto, há ainda a necessidade de buscar formas mais eficientes de informar os 
+alunos sobre esses processos e suas implicações. 
+A Fatec Araras tem como prática, realizar eventos de recepção de alunos, 
+ingressantes e veteranos. É neste momento que as informações institucionais são 
+repassadas aos alunos e são orientados na navegação do site da unidade, onde 
+podem encontrar guias, regimentos e documentos. Além disso, as informações são 
+reforçadas pelo envio de e-mails e mensagens em grupos de mensagens. Enquanto 
+essas ações têm grande importância, mostra-se necessário buscar formas mais 
+eficientes de informar os alunos sobre esses processos e suas implicações. 
+Quanto aos demais indicadores, a maioria dos respondentes demonstraram ter 
+percepção positiva da Fatec Araras, combinando avaliações excelente e muito bom 
+por volta de 70%. Chama atenção, entretanto, as avaliações das perguntas 15 - 
+Participação em sala de aula (contribuir com comentários, exemplos, experiências 
+etc.) e 16 - Organização e tempo dedicado para os estudos (cronograma, estudos 
+extraclasse, leitura e revisão de conteúdos aprendidos). Nestes casos a avaliação 
+regular sugere que muitos alunos percebem ser necessário ampliar espaços de 
+participação durante as aulas e, talvez, tornar mais claras a organização do tempo de 
+aula. 
+No que se refere ao corpo docente, em sua grande maioria informam ter 
+conhecimento do PDI. As respostas submetidas indicam que a maioria do corpo 
+docente busca excelência em suas aulas, articulando os conteúdos de suas 
+disciplinas aos conteúdos das demais componentes curriculares, expressando-se de 
+forma clara e respeitosa. Chama atenção as respostas da questão 15 - Foi necessário 
+oferecer diferentes situações para a superação de dificuldades dos estudantes, 
+promovendo estratégias de recuperação da aprendizagem? Neste quesito, 45% dos 
+respondentes afirmaram que algumas vezes ou apenas raramente foi necessário 
+promover estratégias de recuperação da aprendizagem. 
+100%
+0%
+Sim
+Não
+08 - Você conhece o Plano de Desenvolvimento Institucional 
+(PDI) da sua instituição de ensino?
+25 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial
+Quanto aos Técnicos Administrativos, todos os respondentes afirmaram ter 
+conhecimento do PDI. 
+ 
+3.2  Eixo 2: Desenvolvimento Institucional 
+   
+      Dimensão 1: Missão e Plano de Desenvolvimento Institucional 
+   
+      Dimensão 3: Responsabilidade Social da Instituição 
+ 
+EIXO 
+DIMENSÃO 
+APRESENTAÇÃO DAS PRINCIPAIS INFORMAÇÕES COLETADAS NO EIXO 2 
+EIXO 2 
+Desenvolvimento 
+Institucional 
+Dimensão 1: 
+Missão e Plano 
+de 
+Desenvolviment
+o Institucional 
+Corpo Discente 
+79%
+21%
+Sim
+Não
+18 - Você conhece qual a Missão do Centro Paulo Souza?
+0%
+20%
+40%
+60%
+80%
+100%
+19 - Com relação à missão
+institucional de "Promover a…
+20 - Formação de profissionais
+qualificados
+21 - Disseminação da ciência,
+tecnologia e inovação
+22 - Disseminação da cultura e da
+arte
+23 - Disseminação de valores éticos e
+democráticos
+24 - Inclusão social
+25 - Desenvolvimento sustentável
+Excelente
+Muito bom
+Regular
+Insuficiente
+Não se aplica
+Não sei responder
+26 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial
+EIXO 2 
+Desenvolvimento 
+Institucional 
+Dimensão 1: 
+Missão e Plano 
+de 
+Desenvolviment
+o Institucional 
+Corpo Docente  
+ 
+ 
+ 
+ 
+0%
+20%
+40%
+60%
+80%
+100%
+20 - Formação de profissionais
+qualificados
+21 - Disseminação da ciência,
+tecnologia e inovação
+22 - Disseminação da cultura e da
+arte
+23 - Disseminação de valores éticos e
+democráticos
+24 - Inclusão social
+25 - Desenvolvimento sustentável
+26 - Coerência do PDI em relação à
+missão
+27 - Contribuição de toda a
+comunidade para o cumprimento da…
+28 - Prática e difusão da missão
+Excelente
+Muito bom
+Regular
+Insuficiente
+Não se aplica
+Não sei responder
+27 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial
+EIXO 2 
+Desenvolvimento 
+Institucional 
+Dimensão 1: 
+Missão e Plano 
+de 
+Desenvolviment
+o Institucional 
+Técnicos Administrativos 
+ 
+ 
+0%
+20%
+40%
+60%
+80%
+100%
+09 - Formação de profissionais
+qualificados
+10 - Disseminação da ciência,
+tecnologia e inovação
+11 - Disseminação da cultura e da
+arte
+12 - Disseminação de valores éticos
+13 - Inclusão social
+14 - Desenvolvimento sustentável
+15 - Cumprimento das metas do PDI
+16 - Estímulo para conhecer e praticar
+a missão Institucional
+17 - Estímulo para conhecer e
+contribuir para o cumprimento do PDI
+18 - Relação da Missão e do PDI com
+a prática profissional
+19 - Assiduidade
+20 - Pontualidade
+21 - Proatividade
+22 - Iniciativa
+23 - Dedicação e comprometimento
+24 - Busca de aperfeiçoamento
+25 - Atitude colaborativa
+26 - Relacionamento interpessoal e
+trabalho em equipe
+27 - Respeito hierárquico
+28 - Conhecimento na área de
+atuação
+29 - Busca de melhoria contínua
+30 - Comunicação
+31 - Disposição para aprender
+Excelente
+Muito bom
+Regular
+Insuficiente
+Não se aplica
+Não sei responder
+28 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial
+EIXO 2 
+Desenvolvimento 
+Institucional 
+ 
+Dimensão 3: 
+Responsabilida
+de Social da 
+Instituição 
+Corpo Discente 
+EIXO 2 
+Desenvolvimento 
+Institucional 
+ 
+Dimensão 3: 
+Responsabilida
+de Social da 
+Instituição 
+Corpo Docente  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0%
+20%
+40%
+60%
+80%
+100%
+26 - Atendimento de pessoas com
+deficiência
+27 - Transferência de conhecimento
+da Fatec para a comunidade externa
+28 - Participação da comunidade
+externa no contexto institucional
+29 - Ações institucionais para a
+sustentabilidade
+30 - Implementação de políticas para
+que não ocorram ações de
+discriminação
+Excelente
+Muito bom
+Regular
+Insuficiente
+Não se aplica
+Não sei responder
+0%
+20%
+40%
+60%
+80%
+100%
+29 - Atendimento de pessoas com
+deficiência
+30 - Transferência de conhecimento
+da Fatec para a comunidade externa
+31 - Participação da comunidade
+externa no contexto institucional
+32 - Ações institucionais para a
+sustentabilidade
+Excelente
+Muito bom
+Regular
+Insuficiente
+Não se aplica
+Não sei responder
+29 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial
+EIXO 2 
+Desenvolvimento 
+Institucional 
+ 
+Dimensão 3: 
+Responsabilida
+de Social da 
+Instituição 
+Técnicos Administrativos 
+ 
+O Plano de Desenvolvimento Institucional (Ano 2019 – Ano 2023) foi um dos 
+principais documentos que nortearam as ações da Fatec Araras. Tratou-se de um 
+documento que se caracterizou como uma identidade da Instituição, definindo, dentre 
+outros pontos, sua filosofia de trabalho, missão, estratégias, objetivos, estrutura e 
+diretrizes pedagógicas, algo a ser continuado no PDI para os anos de 2020 - 2023. 
+Nesta dimensão é possível perceber pelas respostas que do ponto de vista da 
+comunidade acadêmica, há coerência entre a missão descrita e as ações da Fatec 
+Araras. Destacam-se positivamente o reconhecimento dos alunos em relação à 
+qualificação dos profissionais formados pela Fatec (Questão 20) e à sua 
+representatividade em relação ao trabalho social que realiza (Questões 21 a 25). 
+Neste aspecto, a percepção de que a disseminação da cultura e da arte é apenas 
+regular ou insuficiente supera os 40%, sendo uma dimensão a ser observada no 
+aprimoramento da Fatec Araras. 
+0%
+20%
+40%
+60%
+80%
+100%
+32 - Atendimento de pessoas com
+deficiência
+33 - Prestação de serviços da Fatec
+para a Comunidade Externa
+34 - Interação entre a Fatec e a
+comunidade externa
+35 - Ações voltadas para as questões
+sociais e ambientais
+36 - Cursos de formação voltados
+para atender a comunidade externa.
+37 - Participação dos técnicos
+administrativos nas atividades do
+ensino
+38 - Participação dos técnicos
+administrativos nas atividades da
+pesquisa
+39 - Participação dos técnicos
+administrativos nas atividades da
+extensão
+40 - Interação entre os técnicos
+administrativos e os docentes
+41 - Interação entre os técnicos
+administrativos e os discentes
+Excelente
+Muito bom
+Regular
+Insuficiente
+Não se aplica
+Não sei responder
+30 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial
+As respostas dos professores e técnicos administrativos indicam um alto nível 
+de satisfação revelado pelo número de respostas excelente e muito bom nas questões 
+referentes à Dimensão 1, indicando o reconhecimento das ações institucionais. 
+Em relação à dimensão 3 - Responsabilidade Social da Instituição, observa-se 
+que parte considerável corpo discente não soube responder ou avaliou como regular 
+ou insuficientes as ações de transferência do conhecimento da Fatec para a 
+comunidade externa. Esta percepção foi estabelecida, apesar de ações consideráveis 
+abertas ao público, tais como: 
+De 22 a 26 de março foi realizada a V Semana da Carreira, organizada pelo 
+NAC - Núcleo de Apoio à Carreira da Fatec Araras. Os palestrantes e seus respectivos 
+temas foram: Bruno Nunes, CTO da Paketá “Como é trabalhar em uma Fintech”; 
+Profa. Dra. Sandra Regina Ceccato Antonini, UFSCar “Carreira Acadêmica: Caminhos 
+e Possibilidades”; Bruno Luis Ferreira, CEO da DevCoffee “Migração de Carreira”; 
+Sidnei 
+Aquiles 
+Cavicchia, 
+Íntegra 
+“Fui 
+contratado: 
+conhecimento 
+técnico, 
+comportamento e atitudes”; Fábio Orzario do Nascimento, CEO da NovaEraSoft 
+“Empreendendo: os desafios de abrir e gerir uma empresa”. 
+Na 2a. SIPAT da Fatec Araras, Graduandos de Enfermagem da FHO 
+ministraram a palestra “Primeiros Socorros”. Antonio Sossai e Talita Sossai, da 
+empresa Empresa Extinfoco Araras ministraram a palestra “Brigada de incêndio”. 
+Paulo Eduardo Ferreira, Consultor em Gestão Estratégica de Pessoas e Professor da 
+Fatec, ministrou palestra com tema “Comunicação Assertiva”. 
+No dia 8 de março, a advogada Raquel Sarmento ministrou palestra sobre 
+violência doméstica e direito de família e, com reflexões importantes sobre o Dia 
+Internacional da Mulher.  
+Os cursos Novotec Expresso foram realizados nos dois semestres de 2022. No 
+primeiro semestre foram oferecidos os cursos de “Ajudante de Logística”, “Marketing 
+Digital e Vendas em Redes Sociais” e “Criação de Sites e Plataformas Digitais”. No 
+segundo semestre ocorreram os cursos de “Ajudante de Logística”, “Excel Aplicado a 
+área Administrativa”, “Introdução à Banco de Dados”, “Rotinas de Recursos 
+Humanos”, com a matrícula de cerca de 160 alunos do Ensino Médio. 
+ 
+Nos dias 20 e 21 de outubro foi realizada a VI Semana da Ciência e Tecnologia 
+com a presença de especialistas convidados que apresentaram os conteúdos a 
+seguir: João Dias, Engineer Manager na Stone, “Discovery de produtos digitais: Da 
+ideia à realização”; Anderson Rogério Tunes e Aline Gonçalves Morgado, Analistas 
+de RH da Nestlé, “Carreira: Mercado de trabalho e dicas”; Keila Souto, Proprietária da 
+Kek's, “Só alegria? Gestão empreendedora com proposito na sorvetes Kek's”; 
+Eduardo de Brito, Professor na UFF e FHO, “Tipos de regimes de tributação de 
+empresas”;José Guilherme Amuchastegu, Co-fundador da Tebe Sensores, 
+“Manutenção preditiva 4.0”; João Dias, Engineer Manager na Stone, “O que acontece 
+após passar o cartão de crédito?”; Ulisses Penteado, CTO na BluePex Cybersecurity 
+31 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial
+S/A, “Cibersegurança para desenvolvedores”; Johanny Tetzner, CEO Solutions BI, 
+“Análise de dados”. 
+Com relação ao processo de divulgação da Fatec, foi desenvolvido o projeto de 
+de comunicação institucional com a divulgação de atividades da Fatec Araras pela 
+professora Alessandra Garcia Garbin Strapazzon, utilizando-se do Facebook e do 
+Instagram. Em parte, este trabalho foi interrompido em função das restrições impostas 
+pela legislação eleitoral. A fim de que não fossem publicados ou mantidos conteúdos 
+passíveis de serem caracterizados como publicidade institucional, os perfis da Fatec 
+Araras tiveram suas atividades suspensas no período entre 2 de julho a 30 de outubro. 
+Na divulgação do vestibular nos dois semestres de 2022, houve a participação 
+de vários alunos que compartilharam informações em suas redes sociais. Em todas 
+essas postagens, os alunos são incentivados a compartilhar os conteúdos e comentá-
+los e com a entrada da unidade no Instagram, uma quantidade maior de alunos têm 
+participado. Ainda na finalidade de divulgação do vestibular, foram realizadas 
+participações em meios de comunicação tradicionais (rádio, TV e jornais), além de 
+blogs de influenciadores da região. 
+Eventos da rotina acadêmica como apresentação de seminários, projetos ou 
+atividades têm sido divulgados nas redes sociais como um meio de valorizar as 
+práticas discentes e docentes. No dia 05/12, os alunos do curso de Gestão 
+Empresarial apresentaram os seus Trabalhos de Graduação. Para cada apresentação 
+foi criada uma arte para divulgação do nome do aluno, o título da apresentação e o 
+nome do orientador. 
+Outro ponto a ser observado é a falta de conhecimento sobre ações para 
+implementação de políticas para que não ocorram ações de discriminação e ações 
+para atendimento de pessoas com deficiência. Os servidores da Fatec Araras se 
+esforçam continuamente para que a unidade seja um espaço de convivência 
+respeitosa e inclusiva. Periodicamente, professores, coordenadores e corpo técnico 
+administrativos são convidados a revisar e praticar as medidas propostas na cartilha 
+editada pela Comissão Permanente de Orientação e Prevenção contra o Assédio 
+Moral (Copams). Ainda, é notável o empenho dos servidores no sentido de acolher 
+pessoas deficientes e auxiliá-los em sua jornada acadêmica. Neste sentido, citamos 
+a título de exemplo, as tratativas com empresas da cidade feitas por diversos membros 
+da comunidade acadêmica para que um aluno da unidade dentro do espectro autista 
+conseguisse realizar seu estágio obrigatório. 
+A divulgação dessas ações pode ser debatida pela comunidade acadêmica, a 
+fim de tornar mais evidente os esforços da unidade nesses aspectos. Essas 
+vulnerabilidades já haviam sido detectadas em edições anteriores da pesquisa e, 
+apesar da melhora na percepção desses aspectos, é importante o envolvimento de 
+discentes, docentes e técnicos administrativos em ações para maior efetividade e 
+visibilidade destas ações. 
+ 
+32 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial
+3.3 Eixo 3: Políticas Acadêmicas 
+   
+ 
+               Dimensão 2: Políticas para o Ensino, a Pesquisa e a Extensão 
+               Dimensão 4: Comunicação com a Sociedade 
+               Dimensão 9: Política de Atendimento aos Discentes 
+ 
+EIXO 
+DIMENSÃO 
+APRESENTAÇÃO DAS PRINCIPAIS INFORMAÇÕES COLETADAS NO EIXO 3 
+Eixo 3: 
+Políticas 
+Acadêmicas 
+Dimensão 2: 
+Políticas 
+para o 
+Ensino, a 
+Pesquisa e a 
+Extensão 
+Corpo Discente 
+0%
+20%
+40%
+60%
+80%
+100%
+31 - Projeto Pedagógico do Curso –
+PPC
+32 - Matriz curricular do curso
+33 - Atividades de ensino
+34 - Atividades de pesquisa
+35 - Atividades de extensão
+36 - Corpo docente (conjunto de
+professores)
+37 - Práticas didático-pedagógicas
+dos professores
+38 - Correspondência entre o curso
+e a formação para o exercício
+profissional
+39 - Estágio supervisionado como
+espaço de formação profissional
+40 - Eventos científicos e de
+extensão
+41 - Incentivo à pós-graduação
+42 - Domínio dos conteúdos pelos
+docentes
+43 - Satisfação com o curso
+escolhido
+Excelente
+Muito bom
+Regular
+Insuficiente
+Não se aplica
+Não sei responder
+33 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial
+Eixo 3: 
+Políticas 
+Acadêmicas 
+Dimensão 2: 
+Políticas 
+para o 
+Ensino, a 
+Pesquisa e a 
+Extensão 
+0%
+20%
+40%
+60%
+80%
+100%
+44 - Atenção dada aos alunos com
+dificuldade de acompanhar os
+conteúdos
+45 - Correção feita pelos
+professores quanto às avaliações
+46 - Realização de projetos
+interdisciplinares
+47 - Articulação entre as disciplinas
+(interdisciplinaridade)
+48 - As metodologias de ensino
+para seu envolvimento e
+aprendizagem
+49 - A transparência da
+comunicação no que se refere às
+informações da disciplina
+50 - A manutenção de clima de
+respeito à diversidade de opiniões
+51 - A utilização diversificada dos
+instrumentos de avaliação da
+aprendizagem
+52 - O estímulo e o apoio ao
+desenvolvimento de sua autonomia
+sobre os temas e conteúdo da
+área.
+53 - A correção conjunta das
+avaliações
+54 - Os professores apresentam no
+início de cada semestre os seus
+respectivos planos de ensino?
+55 - Como avalia a qualidade da
+Fatec que você escolheu?
+56 - Como avalia a possibilidade do
+uso do ensino híbrido,
+considerando um percentual da
+carga horária ofertada de forma…
+Excelente
+Muito bom
+Regular
+Insuficiente
+Não se aplica
+Não sei responder
+34 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial
+Eixo 3: 
+Políticas 
+Acadêmicas 
+Dimensão 2: 
+Políticas 
+para o 
+Ensino, a 
+Pesquisa e a 
+Extensão 
+Corpo Docente 
+ 
+ 
+ 
+ 
+ 
+0%
+20%
+40%
+60%
+80%
+100%
+33 - Articulação de seu componente
+curricular com o Projeto Pedagógico…
+34 - Estrutura curricular
+35 - Sistema de avaliação da
+aprendizagem
+36 - Atividades de ensino
+37 - Atividades de pesquisa
+38 - Atividades de extensão
+39 - Corpo técnico-administrativo
+40 - Corpo docente
+41 - Práticas didático-pedagógicas dos
+docentes
+42 - Articulação de conhecimentos
+disciplinares com temas sociais,…
+43 - Correspondência entre o curso e a
+formação para o exercício profissional
+44 - Estágio supervisionado como
+espaço de formação profissional
+45 - Como avalia a política de ensino,
+pesquisa e extensão tendo em vista…
+46 - Como avalia se o(s) curso (s)
+cumpre (m) as políticas de ensino,…
+Excelente
+Muito bom
+Regular
+Insuficiente
+Não se aplica
+Não sei responder
+35 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial
+Eixo 3: 
+Políticas 
+Acadêmicas 
+Dimensão 4: 
+Comunicaçã
+o com a 
+Sociedade 
+Corpo Discente 
+ 
+ 
+0%
+20%
+40%
+60%
+80%
+100%
+57 - Concurso Vestibular
+58 - Resoluções dos colegiados
+(Congregação ou Comissão de
+Implantação); Câmara de Ensino,
+Pesquisa e Extensão (CEPE),…
+59 - Normas acadêmicas, legislação e
+calendários
+60 - Editais de bolsas, intercâmbios
+e/ou oportunidades de pesquisa e
+extensão
+61 - Acesso da comunidade externa às
+atividades desenvolvidas pela Fatec.
+62 - Sistema de informação interna
+(site, murais, jornais etc.)
+63 - Site oficial da Fatec
+64 - Publicações nos murais
+65 - SIGA
+66 - Ouvidoria
+67 - Mídias Sociais
+Excelente
+Muito bom
+Regular
+Insuficiente
+Não se aplica
+Não sei responder
+36 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial
+Eixo 3: 
+Políticas 
+Acadêmicas 
+Dimensão 4: 
+Comunicaçã
+o com a 
+Sociedade 
+Corpo Docente 
+ 
+ 
+ 
+ 
+0%
+20%
+40%
+60%
+80%
+100%
+47 - Acesso da comunidade externa às
+atividades desenvolvidas pela Fatec
+48 - Sistemas de informação da Fatec
+49 - Concurso vestibular
+50 - Resoluções dos colegiados
+(Congregação ou Comissão de…
+51 - Editais de concursos, processos
+seletivos, bolsas, intercâmbios, etc.
+52 - Informações advindas da
+coordenação de curso
+53 - Oportunidades de Pesquisa
+54 - Oportunidades de Extensão
+55 - Normas acadêmicas, legislação e
+calendários
+56 - Eventos acadêmicos-científicos
+57 - Site oficial da Fatec
+58 - Publicações nos murais
+59 - Boletins e informativos Fatec 
+(Impressos ou por e–mail)
+60 - Ouvidoria
+61 - SIGA
+62 - Caixa e/ou espaço para sugestões
+63 - Mídias Sociais
+Excelente
+Muito bom
+Regular
+Insuficiente
+Não se aplica
+Não sei responder
+37 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial
+Eixo 3: 
+Políticas 
+Acadêmicas 
+Dimensão 4: 
+Comunicaçã
+o com a 
+Sociedade 
+Técnicos Administrativos 
+ 
+Eixo 3: 
+Políticas 
+Acadêmicas 
+Dimensão 9: 
+Política de 
+Atendimento 
+aos 
+Discentes 
+Corpo Discente 
+0%
+20%
+40%
+60%
+80%
+100%
+42 - Eventos que vão ocorrer na Fatec
+e envolvimento dos técnicos…
+43 - Envolvimento do pessoal técnico
+administrativo no Concurso Vestibular
+44 - Decisões dos órgãos superiores
+da Fatec
+45 - Normas acadêmicas, legislação e
+calendários
+46 - Editais de concursos públicos e
+processos seletivos docentes…
+47 - Editais de bolsas e intercâmbios
+48 - Oportunidades de capacitação
+profissional
+49 - Eventos acadêmicos - científicos
+50 - Site oficial da Fatec
+51 - Publicações nos murais
+52 - Ouvidoria
+53 - Caixa e/ou espaço para sugestões
+54 - Mídias sociais da Fatec
+Excelente
+Muito bom
+Regular
+Insuficiente
+Não se aplica
+Não sei responder
+0%
+20%
+40%
+60%
+80%
+100%
+68 - Programas de apoio pedagógico
+(monitoria, nivelamento, reforço do…
+69 - Programa de apoio financeiro
+(bolsas)
+70 - Programas de Intercâmbio e
+bolsas de mobilidade
+71 - Estímulo a organização estudantil
+72 - Espaço para participação e
+convivência estudantil
+73 - Estímulo à frequência no ambiente
+escolar
+Excelente
+Muito bom
+Regular
+Insuficiente
+Não se aplica
+Não sei responder
+38 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial
+Eixo 3: 
+Políticas 
+Acadêmicas 
+Dimensão 9: 
+Política de 
+Atendimento 
+aos 
+Discentes 
+Corpo Docente 
+ 
+ 
+ 
+Eixo 3: 
+Políticas 
+Acadêmicas 
+Dimensão 9: 
+Política de 
+Atendimento 
+aos 
+Discentes 
+Técnicos Administrativos 
+ 
+ 
+ 
+ 
+No Eixo 3 e suas dimensões, que representam a essência do processo 
+ensino/aprendizagem as opiniões dos três corpos da unidade prevalecem em 
+“excelente” e “muito bom”, indicando um grau elevado de satisfação dos alunos quanto 
+ao processo de ensino-aprendizagem. No entanto, alguns indicadores sugerem a que 
+0%
+20%
+40%
+60%
+80%
+100%
+64 - Programas de apoio pedagógico
+(monitoria, nivelamento, recuperação e
+reforço do aprendizado)
+65 - Programa de apoio financeiro
+(bolsas)
+66 - Bolsas (Programas de Intercâmbio
+e de Mobilidade Acadêmica)
+67 - Estímulo a organização estudantil
+(espaço para participação e
+convivência estudantil)
+68 - Acompanhamento de Egressos
+(ex-alunos)
+Excelente
+Muito bom
+Regular
+Insuficiente
+Não se aplica
+Não sei responder
+0%
+20%
+40%
+60%
+80%
+100%
+55 - Programas de apoio pedagógico
+(monitoria, nivelamento, reforço do…
+56 - Programa de apoio financeiro
+(bolsas)
+57 - Programas de Intercâmbio e
+Mobilidade Acadêmica
+58 - Estímulo à organização estudantil
+59 - Espaço para participação e
+convivência estudantil
+60 - Acompanhamento de Egressos
+(ex-alunos)
+Excelente
+Muito bom
+Regular
+Insuficiente
+Não se aplica
+Não sei responder
+39 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial
+ações podem ser tomadas a fim de tornar mais presentes no cotidiano de professores 
+e alunos atividades relacionadas a pesquisa e extensão. 
+Esta atenção pode ser observada pelas respostas discente às questões 35 - 
+Atividades de extensão e 41 - Incentivo à pós-graduação, bem como na resposta de 
+docentes à questão 37 – Atividades de pesquisa. Nestes casos, diferentemente da 
+maioria das questões, o percentual de qualificações como “Excelente” e “Muito bom” 
+foram inferiores a 60%. Cientes de que estas atividades precisam ser estimuladas em 
+nossa unidade, durante o ano de 2022 foi desenvolvido pela Profa. Daniela Correa um 
+projeto para estruturar o processo para submissão de projetos de Iniciação Científica 
+e Tecnológica dentro da Fatec Araras. Os resultados desse projeto foram 
+apresentados à Congregação da Fatec Araras e aprovados no final de 2022. Os 
+primeiros projetos submetidos por esse processo são esperados para o segundo 
+semestre de 2023. Ainda sobre esse aspecto, a fim de aumentar o conhecimento 
+acerca de carreiras acadêmicas, a Profa. Dra. Sandra Regina Ceccato Antonini, da 
+Universidade Federal de São Carlos participou da V Semana da Carreira no dia 24 de 
+março de 2022, proferindo a palestra “Carreira Acadêmica: Caminhos e 
+Possibilidades”.  
+Outro ponto que demanda atenção pode ser observado pelas respostas 
+discentes à questão 39 - Estágio supervisionado como espaço de formação 
+profissional. Neste quesito, as avaliações “Excelente” e “Muito bom” foram, 
+igualmente, inferiores a 60%. Este índice poderia ser maior, considerando as 
+atividades de suporte ao estágio supervisionado e o incentivo à prática profissional 
+dispor de grande atenção por parte da direção e coordenação dos cursos da unidade. 
+Os professores orientadores de estágio nos dois cursos, Orlando Saraiva do 
+Nascimento Junior, Antônio Tupinambá e Paulo Eduardo Ferreira prestaram 
+atendimento a um número considerável de alunos e empresas que ofertaram vagas 
+para a Fatec Araras. Sinaliza-se, entretanto, a necessidade de observar o processo 
+do estágio supervisionado para que esta experiência possa ser mais bem aproveitada 
+pelos estudantes. 
+Por fim, na Dimensão 2: Políticas para o Ensino, a Pesquisa e a Extensão, cabe 
+destacar que cerca de 40% dos alunos avaliam que a atenção dada aos alunos com 
+dificuldade de acompanhar os conteúdos (Questão 44) é apenas regular ou 
+insuficiente. Contraditoriamente, atividades de reforço à aprendizagem, como as 
+monitorias nas áreas de Inglês, Matemática e Programação, mostram dificuldades em 
+mobilizar a participação de alunos em atividades acadêmicas fora do período da aula. 
+Esta situação expõe a necessidade de análises mais detalhadas deste problema a fim 
+de propor soluções aos alunos com dificuldades em acompanhar os conteúdos. 
+Com relação à Dimensão 4: Comunicação com a Sociedade, as avaliações do 
+corpo discente e de professores e técnicos administrativos é divergente. Enquanto 
+nestes dois últimos grupos a avaliação é majoritariamente positiva, com exceções 
+pontuais – como a divulgação de oportunidades de pesquisa (Questão 53) – para os 
+estudantes, a exceção da divulgação do Concurso Vestibular, das normas 
+acadêmicas e editais de bolsa e intercâmbio (Questões 57, 59 e 60, respectivamente), 
+40 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial
+todos os demais aspectos avaliados atingiram avaliação “Excelente” ou “Muito bom” 
+para menos de 60% dos participantes. Destaca-se que menos de 50% dos alunos 
+avaliam o acesso da comunidade externa às atividades desenvolvidas pela Fatec 
+(Questão 61) como “Excelente” ou “Muito bom”. É interessante notar que a 
+participação da comunidade externa, por exemplo, por meio da visita de estudantes 
+do ensino médio às instalações da unidade, foi maior em períodos anteriores ao 
+isolamento social implementado como medida de prevenção à pandemia de Covid-
+19. Entretanto, é importante destacar que a Fatec Araras promoveu cursos 
+direcionados à comunidade externa, como é o caso do Novotec, citado anteriormente 
+neste relatório. Ainda, todos os eventos organizados pela unidade são gratuitos e 
+abertos. O fim das medidas de isolamento social e a implantação do AMS ensejam 
+possibilidades para que o contato com a comunidade externa seja intensificado. Neste 
+sentido, professores do Núcleo de Apoio à Carreira (NAC), discutem formas de ampliar 
+o acesso da comunidade externa às atividades da Semana da Carreira, que conta 
+com palestras de qualidade e relevância de agentes da região de Araras. Ações 
+semelhantes devem ser implementadas em outras atividades, tal como a Semana de 
+Ciência e Tecnologia. 
+Ainda nesta dimensão, é preciso destacar positivamente a participação de 
+alunos da Fatec Araras em processos seletivos para programas promovidos pelo 
+CEETEPS. Destaca-se o Intercâmbio Cultural CPS 2022 promovido pela Assessoria 
+de Relações Internacionais. Os alunos contemplados realizaram um curso de imersão 
+na língua inglesa na Inglaterra ou Irlanda. Na unidade de Araras, Luciano Marçal, 
+aluno do CST em Gestão Empresarial, classificou-se a participar do programa. 
+Outras iniciativas foram oferecidas no decorrer deste ano, como: Curso Virtual 
+Experience Emerging Tech, realizado em parceria com a Full Sail Universtity de 
+Orlando (EUA); Processo de Seleção para vagas do Programa de Mobilidade 
+Acadêmica Internacional – PROMAIPS. Este programa ofereceu vagas que 
+contemplam isenção de taxas acadêmicas em Instituições de Ensino Superior 
+estrangeiras; Intercâmbio virtual Espaço de Mobilidade Virtual no Ensino Superior 
+(eMOVIES). É uma iniciativa liderada pela Organização Universitária Interamericana 
+(OUI), que oferece às instituições de ensino superior estrangeiras associadas uma 
+alternativa aos modelos tradicionais de intercâmbio acadêmico, dando aos estudantes 
+a oportunidade de cursar matérias em modo virtual oferecidas por outras instituições 
+membros da OUI. 
+Além dos processos seletivos em programas de internacionalização foram 
+oferecidos cursos de extensão como: 15ª edição da Escola de Inovadores, curso 
+organizado pela Inova CPS com objetivo de ensinar pessoas com espírito 
+empreendedor a transformar ideias inovadoras em startups; Cursos Minha Chance, 
+diversas capacitações online em áreas como segurança cibernética, desenvolvimento 
+de software e melhorias de processos organizacionais. 
+Por meio de assessoria direta dos professores, os alunos de Gestão 
+Empresarial participaram das edições XIII e XIV do Torneio Empresarial da Fatec 
+Jales alcançando ótimos resultados (Figuras 5 e 6). 
+41 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial
+ 
+Figura 5: Demonstrativo de desempenho do XIII Torneio Empresarial de Jales 
+ 
+Figura 6: Certificado de Honra ao Mérito da equipe Blue Macaw no XIV Torneio Empresarial de Jales 
+Na dimensão final avaliada neste eixo, Política de Atendimento aos Discentes, 
+nota-se a convergência na avaliação dos três públicos pesquisados sobre o apoio 
+financeiro e bolsas. Em todos os seguimentos, a avaliação de “Excelente” ou “Muito 
+bom” é inferior a 60%. Na avaliação de alunos é inferior a 40%.  
+42 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial
+Nesta dimensão, de modo geral, observa-se que avaliações positivas por parte 
+do corpo discente são menores do que em outros eixos e dimensões. Em parte, isto 
+pode ser compreendido como resultante da ausência de estruturas discentes 
+estabelecidas, como um centro acadêmico ou mesmo de espaços de convivência 
+distribuídos pela unidade. Por outro lado, o desconhecimento e baixa participação dos 
+alunos em programas de monitoria (Questão 68), tal como descrito anteriormente 
+nesta seção, aponta a necessidade de ações para o engajamento mais efetivo do 
+corpo discente em atividades na unidade. 
+ 
+3.4 Eixo 4: Políticas de Gestão 
+   
+Dimensão 5: Políticas de Pessoal 
+Dimensão 6: Organização e Gestão da Instituição 
+Dimensão 10: Sustentabilidade Financeira 
+ 
+ 
+ 
+ 
+  
+DIMENSÃO 
+APRESENTAÇÃO DAS PRINCIPAIS INFORMAÇÕES COLETADAS NO EIXO 4 
+Eixo 4 
+Políticas 
+de Gestão 
+Dimensão 5: 
+Políticas de 
+Pessoal 
+Corpo Docente 
+ 
+ 
+ 
+0%
+20%
+40%
+60%
+80%
+100%
+69 - Oportunidades de
+progressão/promoção
+70 - Critérios de Evolução Funcional
+71 - Incentivo a Formação Continuada
+72 - Programas de Capacitação e
+Atualização Profissional
+Excelente
+Muito bom
+Regular
+Insuficiente
+Não se aplica
+Não sei responder
+43 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial
+Eixo 4 
+Políticas 
+de Gestão 
+Dimensão 5: 
+Políticas de 
+Pessoal 
+Técnicos Administrativo
+Eixo 4 
+Políticas 
+de Gestão 
+Dimensão 6: 
+Organização 
+e Gestão da 
+Instituição 
+Corpo Discente 
+0%
+20%
+40%
+60%
+80%
+100%
+61 - Programas relacionados com a
+saúde do servidor
+62 - Programas relacionados com
+prevenção às drogas e à…
+63 - Acesso às ações de capacitação e
+aos programas de capacitação…
+64 - Orientação para o exercício de
+suas atividades
+65 - Aproveitamento de suas
+habilidades e competências para o…
+66 - Satisfação com seu trabalho
+67 - Coerência entre seu trabalho e as
+atribuições de seu cargo
+68 - Apoio e incentivo à qualificação
+profissional por meio da realização de…
+69 - Representatividade dos técnicos
+administrativos nos colegiados da…
+Excelente
+Muito bom
+Regular
+Insuficiente
+Não se aplica
+Não sei responder
+0%
+20%
+40%
+60%
+80%
+100%
+74 - Resolução dos conflitos baseado
+no diálogo e negociação
+75 - Estímulo e apoio no
+desenvolvimento das resoluções de…
+76 - Atuação dos colegiados da unidade
+(Congregação ou Comissão de…
+77 - Atuação do colegiado de curso (Ex:
+Conselho de curso, NDE - Núcleo…
+78 - Atuação da representação discente
+nos colegiados da unidade e do curso
+79 - O reconhecimento da equipe de
+direção como uma liderança capaz…
+80 - FETEPS
+81 - Programas de Estágios
+82 - Programas de Iniciação Científica
+83 - Programa INOVA Paula Souza
+Excelente
+Muito bom
+Regular
+Insuficiente
+Não se aplica
+Não sei responder
+44 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial
+Eixo 4 
+Políticas 
+de Gestão 
+Dimensão 6: 
+Organização 
+e Gestão da 
+Instituição 
+Corpo Docente 
+ 
+ 
+Eixo 4 
+Políticas 
+de Gestão 
+Dimensão 6: 
+Organização 
+e Gestão da 
+Instituição 
+Técnicos Administrativos 
+0%
+20%
+40%
+60%
+80%
+100%
+73 - Participação da Direção na
+resolução de conflitos
+74 - Atuação dos colegiados da unidade
+(Congregação ou Comissão de
+Implantação); Câmara de Ensino,…
+75 - Atuação do colegiado de curso (Ex: 
+Conselho Departamental, NDE –
+Núcleo Docente …
+76 - Oportunidades de Pesquisa e
+Extensão
+77 - Representatividade docente nos
+colegiados da unidade
+78 - Representatividade docente nos
+colegiados de curso
+79 - FETEPS
+80 - Programa de Iniciação científica
+(PIBIC)
+81 - Programa de Estágios
+82 - INOVA Paula Souza
+Excelente
+Muito bom
+Regular
+Insuficiente
+Não se aplica
+Não sei responder
+0%
+20%
+40%
+60%
+80%
+100%
+70 - Atuação dos colegiados da
+Unidade (Congregação ou Comissão de
+Implantação); Câmara de Ensino (se…
+71 - Apoio e orientação do gestor
+imediato
+72 - Representatividade dos técnicos
+administrativos nos Colegiados da
+unidade
+73 - Estímulo da gestão à participação
+da equipe na tomada de decisões
+Excelente
+Muito bom
+Regular
+Insuficiente
+Não se aplica
+Não sei responder
+45 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial
+ 
+ 
+No quarto eixo foi possível identificar um importante indicador de força que é a 
+avaliação pelo corpo técnico/administrativo. Destacam-se a satisfação com o seu 
+trabalho, apoio e orientação do gestor imediato, o estímulo da gestão à participação 
+da equipe na tomada de decisões e atuação dos colegiados. A direção da unidade 
+tem adotado a gestão participativa, onde a maioria das decisões são tomadas de 
+forma coletiva pelos gestores dos departamentos e pela direção. Por outro lado, houve 
+índices altos de apontamentos que revelam o desconhecimento ou mesmo a ausência 
+de programas relacionados com prevenção de drogas e dependência. 
+Outro indicador relevante é observado nas opiniões dos discentes que 
+demonstram satisfação e contentamento relacionados à atenção que recebem dos 
+docentes e coordenação (Questões 74, 75 e 79). 
+O corpo docente, no presente eixo, como indicador de força apontou a atuação 
+da direção na resolução de conflitos e a percepção do colegiado da unidade em 
+relação ao bom desempenho da equipe administrativa. Por outro lado, houve índices 
+altos de apontamentos que revelam o desconhecimento em relação aos programas e 
+eventos promovidos pela CESU como a FETEPs, bem como em relação ao 80 - 
+Programa de Iniciação científica (PIBIC). Outro ponto a ser observado com atenção 
+está na avaliação acerca das oportunidades de Pesquisa e Extensão (Questão 76), 
+em que apenas 55% do colegiado julgou como “Excelente” ou “Muito bom”. 
+As respostas do corpo discente, indicam a tendência de desconhecimento em 
+relação aos principais espaços de atuação acadêmica e de administrativa, como a 
+Congregação e o Núcleo Docente Estruturante (NDE). Ainda,  iniciativas como como 
+o INOVA e eventos como o FETEPs são, também, pouco conhecidos. Uma hipótese 
+para este desconhecimento pode ser o perfil dos alunos da unidade, em sua maioria 
+pessoas que dedicam a maior parte de seu tempo ao trabalho e à família. Sob este 
+ponto de vista, é razoável supor que a efetiva participação na vida acadêmica não seja 
+prioridade para a maioria. 
+Portanto, é necessário verificar as possíveis vulnerabilidades da unidade 
+nesses pontos para que, conjuntamente discentes, docentes e técnicos 
+administrativos possam propor ações, não só de realização de projetos, mas também 
+ações que proporcionem a visibilidade dos atos. Isso se concretiza na parte final deste 
+relatório nos planos de ações para as fragilidades. 
+ 
+3.5 Eixo 5: Infraestrutura Física 
+  
+ 
+Dimensão 7: Infraestrutura Física 
+ 
+ 
+46 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial
+EIXO 
+DIMENSÃO 
+APRESENTAÇÃO DAS PRINCIPAIS INFORMAÇÕES COLETADAS NO EIXO 5 
+Eixo 5 
+Infraestrutura 
+Física 
+Dimensão 7: 
+Infraestrutur
+a Física 
+Corpo Discente 
+0%
+20%
+40%
+60%
+80%
+100%
+86 - Secretaria acadêmica
+87 - Espaços de convivência
+88 - Serviços de segurança
+89 - Serviços de limpeza
+90 - Cantina
+91 - Quantidade
+92 - Limpeza/Conservação
+93 - Iluminação/ Ventilação
+94 - Mobiliário e Equipamentos
+95 - Acessibilidade
+96 - Quantidade
+97 - Limpeza/Conservação
+98 - Iluminação/ Ventilação
+99 - Mobiliário e Equipamentos
+100 - Acessibilidade
+101 - Quantidade
+102 - Limpeza/Conservação
+103 - Iluminação/ Ventilação
+104 - Mobiliário e Equipamentos
+105 - Acessibilidade
+106 - Atendimento ao usuário
+107 - Automação do sistema
+108 - Qualidade e atualidade do
+acervo
+109 - Disponibilidade da bibliografia
+básica (número de exemplares…
+110 - Horário de atendimento
+Excelente
+Muito bom
+Regular
+Insuficiente
+Não se aplica
+Não sei responder
+47 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial
+Eixo 5 
+Infraestrutura 
+Física 
+Dimensão 7: 
+Infraestrutur
+a Física 
+Corpo Docente 
+ 
+ 
+ 
+ 
+0%
+20%
+40%
+60%
+80%
+100%
+85 - Secretaria acadêmica
+86 - Espaços de convivência
+87- Serviços de segurança
+88 - Serviços de limpeza
+89 - Cantina
+90 - Quantidade
+91 - Limpeza/Conservação
+92 - Iluminação/ Ventilação
+93 - Mobiliário e Equipamentos
+94 - Acessibilidade
+95 - Quantidade
+96 - Limpeza/Conservação
+97 - Iluminação/ Ventilação
+98 - Mobiliário e Equipamentos
+99 - Acessibilidade
+100 - Quantidade
+101 - Limpeza/Conservação
+102 - Iluminação/ Ventilação
+103 - Mobiliário e Equipamentos
+104 - Acessibilidade
+105- Atendimento ao usuário
+106 - Automação do sistema
+107 - Qualidade e atualidade do…
+108- Disponibilidade da bibliografia…
+109 - Horário de atendimento
+Excelente
+Muito bom
+Regular
+Insuficiente
+Não se aplica
+Não sei responder
+48 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial
+Eixo 5 
+Infraestrutura 
+Física 
+Dimensão 7: 
+Infraestrutur
+a Física 
+Técnico Administrativo 
+ 
+ 
+0%
+20%
+40%
+60%
+80%
+100%
+76 - Qual a sua avaliação  da…
+77 - Secretaria acadêmica
+78 - Espaços de convivência
+79- Serviços de segurança
+80 - Serviços de limpeza
+81 - Cantina
+82 - Quantidade
+83 - Limpeza/Conservação
+84 - Iluminação/ Ventilação
+85 - Mobiliário e Equipamentos
+86 - Acessibilidade
+87 - Quantidade
+88 - Limpeza/Conservação
+89 - Iluminação/ Ventilação
+90 - Mobiliário e Equipamentos
+91 - Acessibilidade
+92 - Quantidade
+93 - Limpeza/Conservação
+94 - Iluminação/ Ventilação
+95 - Mobiliário e Equipamentos
+96 - Acessibilidade
+97- Atendimento ao usuário
+98 - Automação do sistema
+99 - Qualidade e atualidade do…
+100- Disponibilidade da bibliografia…
+101 - Horário de atendimento
+Excelente
+Muito bom
+Regular
+Insuficiente
+Não se aplica
+Não sei responder
+49 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial
+Embora não tenham constado no questionário WebSai, entende-se que seja 
+necessário informar que a Fatec Araras atende às exigências de implantação feitas 
+pela CEETEPS, o que já determina um certo padrão de qualidade da infraestrutura. 
+Está instalada em um prédio adaptado e dispõe de espaços relativamente 
+confortáveis. 
+O prédio onde se localiza a Fatec Araras pertence à Prefeitura de Araras, sendo 
+que o corte da grama é realizada pela Prefeitura a cada 3 meses e a poda das árvores 
+foi realizada 1 vez por semestre, de forma automática, devido às negociações 
+realizadas com o senhor Prefeito e Secretários. Os acessos às áreas verdes são 
+liberados aos alunos e a utilização é monitorada. 
+Observa-se alinhamento entre as avaliações de alunos, professores e técnicos 
+administrativos em relação às maiores fragilidades da Fatec Araras: a cantina e a 
+biblioteca. Apesar da unidade ter espaços adequados à realização de refeições, não 
+há prestação de serviços para fornecimento de alimentos. Na hora do intervalo, muitos 
+alunos recorrem a ambulantes e bares nas imediações da unidade. Esta situação 
+pode ocasionar problemas, como o atraso de alunos no retorno do intervalo.  
+Quanto à biblioteca, embora as instalações sejam adequadas e tenham boa 
+manutenção, o volume de títulos é muito inferior às necessidades dos cursos 
+oferecidos na unidade. Apesar da reiterada ação da diretoria da unidade, o atraso no 
+envio dos volumes causa considerável prejuízo às atividades de ensino, pesquisa e 
+extensão. Além da ausência de livros, a biblioteca da unidade sofre com a ausência 
+de funcionários dedicados à sua manutenção. Esta carência tem sido reiteradamente 
+observada pelos avaliadores do Conselho Estadual de Educação (CEE) em suas 
+visitas para reconhecimento dos cursos. Ainda que se argumente que as remessas 
+foram atrasadas por conta das diversas alterações provocadas em função da 
+pandemia de Covid-19, é necessário destacar que a unidade sofre com este problema 
+desde sua inauguração em 2017 e se faz urgente a ação do CEETEPS a fim de sanar 
+esta grave falha.
+50 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial
+4 ANÁLISE DOS DADOS E AÇÕES PROPÓSTAS  
+ 
+EIXO 1: PLANEJAMENTO E AVALIAÇÃO INSTITUCIONAL  
+ 
+FRAGILIDADES 
+ 
+  
+AÇÕES PLANEJADAS  
+AÇÕES REALIZADAS 
+ 
+PRAZOS   
+Não conhecimento da maioria dos discentes sobre o 
+Plano de Desenvolvimento Institucional (PDI) 
+Aprofundar o processo de sensibilização aos discentes e 
+docentes quanto à existência e importância do Plano de 
+Desenvolvimento Institucional (PDI) para a unidade aos 
+discentes ingressantes nos cursos oferecidos bem como aos 
+veteranos por meio de reuniões/oficinas com os alunos 
+ 
+1a Etapa: 
+abril/2023 
+2a Etapa: 
+setembro/2023 
+ 
+ 
+ 
+ 
+ 
+POTENCIALIDADES 
+ 
+ 
+ 
+AÇÕES PLANEJADAS  
+AÇÕES REALIZADAS 
+ 
+PRAZOS   
+Com relação ao corpo técnico administrativo e o corpo 
+docente, não foram encontradas fragilidades nas 
+questões formuladas que abrangem a dimensão 8  
+Manter e intensificar o acesso e conhecimento desses 
+profissionais sobre a importância do PDI e das funções da 
+CPA, por meio de reuniões, mensagens por e-mails, 
+WhatsApp, etc.
+ 
+1a Etapa: 
+abril/2023 
+2a Etapa: 
+setembro/2023  
+ 
+ 
+ 
+ 
+ 
+ 
+51 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial
+EIXO 2: DESENVOLVIMENTO INSTITUCIONAL  
+ 
+FRAGILIDADES 
+  
+AÇÕES PLANEJADAS 
+AÇÕES REALIZADAS 
+PRAZOS 
+Disseminação da cultura e da arte 
+Propor eventos e ações de comunicação e incentivar 
+participação de discentes, docentes e técnicos 
+administrativos.
+ 
+Setembro/2023 
+Desenvolvimento sustentável  
+ 
+Ponto apontado principalmente por técnicos administrativos. 
+Implantação de mais Coletores Seletivos e campanha para 
+conscientização da comunidade.
+ 
+Setembro/2023 
+Participação da comunidade externa no contexto 
+institucional 
+Reforçar e divulgar o relacionamento da Fatec com a 
+Prefeitura, ACIA, Sebrae, dentre outros. 
+ 
+Maio/2023 
+Ações institucionais para a sustentabilidade 
+Compreender a demanda de docentes e discentes sobre este 
+ponto a fim de propor ações que possam responder aos 
+anseios da comunidade sobre esta questão.
+ 
+Abril/2023 
+ 
+ 
+ 
+ 
+ 
+POTENCIALIDADES 
+ 
+ 
+ 
+AÇÕES PLANEJADAS 
+AÇÕES REALIZADAS 
+PRAZOS 
+Formação de profissionais qualificados 
+ A formação dos egressos foi bem avaliada pelos três grupos 
+pesquisados. Este é um processo em progresso e avaliação 
+contínua, sendo fundamental manter esforços pedagógicos e 
+diálogo com empresas de Araras e região no sentido de 
+manter e ampliar a boa avaliação dos profissionais formados 
+pela instituição.
+ 
+1a Etapa: 
+maio/2023 
+2a Etapa: 
+novembro/2023 
+Disseminação da ciência, tecnologia e inovação 
+Manter atividades para Disseminação da ciência, tecnologia e 
+inovação. Promover ações para maior engajamento docente e 
+discente nestas atividades. 
+ 
+1a Etapa: 
+maio/2023 
+2a Etapa: 
+novembro/2023 
+ Interação entre os técnicos administrativos e os 
+docentes e entre os técnicos administrativos e os 
+discentes
+Manter e intensificar a colaboração entre os grupos por meio 
+de reuniões, mensagens por e-mails, Whatsapp, etc.. 
+ 
+2023 
+52 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial
+  
+ 
+ 
+ 
+EIXO 3: POLÍTICAS ACADÊMICAS  
+ 
+FRAGILIDADES 
+ 
+  
+AÇÕES PLANEJADAS  
+AÇÕES REALIZADAS 
+ 
+PRAZOS   
+Oportunidades e Atividades de pesquisa 
+Incentivo ao desenvolvimento de projetos de pesquisa e 
+extensão, estimulando participação em eventos acadêmicos, 
+publicação e desenvolvimento de Iniciações Científicas. 
+Divulgar o processo desenvolvido na unidade para fomento à 
+IC.
+ 
+1a Etapa: 
+maio/2023 
+2a Etapa: 
+novembro/2023 
+Atividades de extensão 
+Incentivo ao desenvolvimento de projetos de extensão, 
+envolvendo alunos em sua realização. Integrar monitores em 
+projetos que possam melhorar atividades administrativas ou 
+pedagógicas na unidade.
+ 
+1a Etapa: 
+maio/2023 
+2a Etapa: 
+novembro/2023 
+Incentivo à pós-graduação 
+Realizar mais atividades para divulgação de carreira 
+acadêmica. Convidar palestrantes. Implementação do 
+Programa de Iniciação Científica e Tecnológica. 
+ 
+Setembro/2023 
+Resoluções dos colegiados (Congregação ou Comissão 
+de Implantação); Câmara de Ensino, Pesquisa e Extensão 
+(CEPE), Conselho Departamental ou NDE/Coordenadoria; 
+Colegiado de curso.
+Dar maior visibilizada às ações do colegiado. Pesquisar se o 
+corpo discente compreende a linguagem empregada na 
+documentação produzida por estes órgãos. 
+ 
+2023 
+Acesso da comunidade externa às atividades 
+desenvolvidas pela Fatec. 
+Apesar de muitas atividades realizadas na Fatec serem 
+abertas, a participação externa é pequena. Reforçar e divulgar 
+o relacionamento da Fatec com a Prefeitura, ACIA, Sebrae, 
+dentre outros
+ 
+Maio/2023 
+Sistema de informação interna (site, murais, redes 
+sociais.) 
+Ponto apontado por discentes, demais públicos avaliaram 
+positivamente. Investigar e compreender os problemas deste 
+público e propor soluções para melhor atender esta parte da 
+comunidade.
+ 
+Abril/2023 
+Ouvidoria 
+Ponto apontado por discentes e docentes. Comunicação 
+dirigida a estes públicos sobre o funcionamento deste órgão e 
+como acessá-lo.
+ 
+Agosto/2023 
+ 
+ 
+ 
+ 
+53 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial
+ 
+POTENCIALIDADES 
+ 
+ 
+ 
+AÇÕES PLANEJADAS  
+AÇÕES REALIZADAS 
+ 
+PRAZOS   
+Atividades de ensino 
+As atividades de ensino são bem avaliadas por docentes e 
+discentes. Este é um processo em progresso e avaliação 
+contínua, sendo fundamental manter esforços de 
+coordenadores e professores no sentido de atingir a missão 
+da instituição.
+ 
+2023 
+Informações advindas da coordenação de curso 
+A interação entre coordenadores e professores é importante 
+para o bom desempenho das atividades pedagógicas. É um 
+processo que depende da reciprocidade dos atores, sendo 
+importante manter a comunidade engajada. A utilização de 
+múltiplos canais é recomendada, bem como o estímulo à 
+retomada de encontros presencias, suspensos em virtude do 
+isolamento social praticado em virtude da pandemia de Covid-
+19.
+ 
+2023 
+Oportunidades de capacitação profissional 
+Ponto bem avaliado por técnicos administrativos. Continuar a 
+oferecer cursos e outras atividades formativas que contribuam 
+para elevação dos serviços na Fatec Araras, bem como para o 
+bem-estar do servidor.
+ 
+1a Etapa: 
+maio/2023 
+2a Etapa: 
+novembro/2023 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+EIXO 4: POLÍTICAS DE GESTÃO  
+ 
+FRAGILIDADES 
+ 
+  
+AÇÕES PLANEJADAS  
+AÇÕES REALIZADAS 
+ 
+PRAZOS   
+54 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial
+Programas de apoio pedagógico (monitoria, nivelamento, 
+reforço do aprendizado) 
+Alguns alunos desconhecem ou não aproveitam as ações de 
+apoio pedagógico. É preciso problematizar o baixo 
+engajamento do corpo discente nestas atividades e buscar 
+soluções para que esta importante ferramenta seja mais 
+presente e eficaz.
+ 
+Maio/2023 
+Programa de apoio financeiro (bolsas) 
+Apesar da Assembleia Legislativa de São Paulo ter aprovado a 
+criação do programa Bolsa Permanência estudantes de baixa 
+renda familiar das Fatecs, o programa não foi implantado. 
+Atualmente, as Fatecs possuem dois tipos de auxílio 
+financeiro: Bolsas por monitoria e Bolsas de iniciação 
+científica. No presente momento, sem os recursos que 
+poderiam ser dispensados pela implementação efetiva da 
+Bolsa Permanência, é importante fortalecer atividades 
+acadêmicas como projetos de extensão, pesquisa e monitoria, 
+e direcionar para que alunos que precisam de apoio financeiro 
+se envolvam nestas atividades.
+ 
+1a Etapa: 
+maio/2023 
+2a Etapa: 
+novembro/2023 
+Programas de Intercâmbio e bolsas de mobilidade 
+Propor ações para incentivar e dar visibilidade aos programas 
+de intercâmbio a fim de aumentar a participação de nossos 
+alunos e criar mais espaços para a difusão destas 
+experiências.
+ 
+Maio/2023 
+Estímulo a organização estudantil 
+Propor ações para conscientização do corpo discente acerca 
+das possibilidades advindas da institucionalização da ação 
+estudantil.
+ 
+Outubro/2023 
+FETEPS, Programas de Iniciação Científica e Programa 
+INOVA Paula Souza 
+Ações para incentivo em participação de atividades de 
+pesquisa, extensão e participação em eventos acadêmicos 
+promovidos por outras unidades e instituições. Tais ações 
+passam por divulgação mais eficaz, mas também por 
+oferecimento de contrapartidas acadêmicas, como a 
+consideração da participação e publicação como componente 
+de avaliação em determinadas disciplinas. Mapear eventos de 
+interesse à formação de cada curso e verificar junto à 
+coordenação e NDE possíveis formas de validar a participação 
+de alunos e professores nestes espaços.
+ 
+Setembro/2023 
+ 
+ 
+ 
+ 
+ 
+POTENCIALIDADES 
+ 
+ 
+ 
+AÇÕES PLANEJADAS  
+AÇÕES REALIZADAS 
+ 
+PRAZOS   
+Apoio e incentivo à qualificação profissional por meio da 
+realização de cursos formais 
+Ponto bem avaliado por técnicos administrativos. Continuar a 
+oferecer cursos e outras atividades formativas que contribuam 
+ 
+2023 
+55 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial
+para elevação dos serviços na Fatec Araras, bem como para o 
+bem-estar do servidor. 
+Estímulo da gestão à participação da equipe na tomada 
+de decisões 
+Continuar incentivando o diálogo, o respeito mútuo e a Gestão 
+Participativa 
+ 
+Março/2023 
+ 
+ 
+ 
+ 
+EIXO 5: INFRAESTRUTURA  
+ 
+FRAGILIDADES 
+ 
+  
+AÇÕES PLANEJADAS  
+AÇÕES REALIZADAS 
+ 
+PRAZOS   
+Cantina 
+Buscar alternativas para que lanches e refeições possam ser 
+ofertados a alunos da Fatec. 
+ 
+Junho/2023 
+Biblioteca 
+Continuar tratativas com CEETEPS para obtenção de livros 
+necessários aos cursos. Buscar alternativas em repositórios 
+online e torná-los de fácil acesso.
+ 
+Abril/2023 
+Internet 
+Verificar possibilidade de troca de acesso por meio de fibra 
+ótica. Configuração de servidores internos para conexão 
+DHCP e criação de domínios e usuários, de modo a garantir 
+maior segurança na rede. Prover acesso WiFi para que aulas 
+fora de laboratório possam usar recursos online de modo mais 
+fácil.
+ 
+Maio/2023 
+Iluminação/Ventilação 
+Foram solicitadas as compras de mais ventiladores e de 
+cortinas para as salas e laboratórios. 
+ 
+Março/2023 
+Espaço destinado ao atendimento dos alunos 
+Criar ambiente para atendimento aos alunos, além da sala dos 
+professores 
+ 
+Outubro/2023 
+ 
+ 
+ 
+ 
+ 
+POTENCIALIDADES 
+ 
+ 
+ 
+AÇÕES PLANEJADAS  
+AÇÕES REALIZADAS 
+ 
+PRAZOS   
+Serviço de Limpeza 
+Incentivar e valorizar o trabalho das auxiliares de limpeza 
+ 
+Abril/2023 
+56 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial
+ 
+ 
+5 CONSIDERAÇÕES FINAIS 
+ 
+A Comissão Própria de Avaliação, pelo seu trabalho, visa subsidiar a tomada 
+de decisão e ao planejamento institucional, na busca de contínua melhoria da 
+qualidade do ensino, da pesquisa, da extensão e da gestão. Sendo assim um 
+importante instrumento para a Direção. 
+Dentre as principais ações advindas desse processo, salientamos a 
+compreensão de que a colaboração e o diálogo é o primeiro passo para criarmos uma 
+cultura avaliativa na Fatec Araras. Sem a participação e a contribuição da nossa 
+comunidade interna e externa não será possível. 
+Temos conhecimento de que estas são as ações iniciais depois virão muitas 
+mais que contribuirão para alcançarmos excelência no ensino, permitindo desenvolver 
+ações de extensão e de pesquisa. 
+Como todos os trabalhos em uma instituição pública, entendemos também que 
+é possível realizar uma avaliação institucional sem temores, em busca de excelência 
+no ensino, pesquisa e extensão. 
+Ademais, tal avaliação se mostra como caminho necessário a ser percorrido 
+para que se encontrem eventuais pontos que necessitam ser corrigidos pela 
+instituição. 
+Os resultados apresentados contemplam as dez dimensões auto avaliativas do 
+SINAES e foram analisados e discutidos por todos os membros da comunidade 
+institucional: direção, coordenações de cursos, setores administrativos, gestores, 
+professores e alunos. 
+Os dados coletados, as análises e propostas foram amplamente divulgadas e 
+serão objeto de comparação na próxima avaliação, para elucidar os avanços 
+alcançados, reforçando o quanto a avaliação contribui para a gestão dos resultados.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial
+ 
+ 
+ANEXO 1 - DISTRIBUIÇÃO DOS DADOS DA PESQUISA  
+SETORES 
+DADOS DOS DOCENTES 
+DADOS DOS DISCENTES 
+DADOS DO PESSOAL TECNICO-
+ADMINISTRATIVO 
+DIREÇÃO GERAL 
+Dimensão 8 – Planejamento e Avaliação 
+Dimensão 1 - Missão e Plano de 
+Desenvolvimento Institucional  
+Dimensão 3 - Responsabilidade Social da 
+Instituição 
+Dimensão 4 – Comunicação com a Sociedade  
+Dimensão 9 – Política de Atendimento aos 
+Discentes 
+Dimensão 5 – Políticas de Pessoal  
+Dimensão 6 – Organização e Gestão Institucional 
+Dimensão 7 – Infraestrutura Física  
+Dimensão 8 – Planejamento e Avaliação  
+Dimensão 1 - Missão e Plano de 
+Desenvolvimento Institucional  
+Dimensão 3 - Responsabilidade Social da 
+Instituição 
+Dimensão 4 – Comunicação com a 
+Sociedade  
+Dimensão 9 – Política de Atendimento 
+aos Discentes 
+Dimensão 6 – Organização e Gestão 
+Institucional  
+Dimensão 7 – Infraestrutura Física 
+Dimensão 8 – Planejamento e 
+Avaliação   
+Dimensão 1 - Missão e Plano de 
+Desenvolvimento Institucional  
+Dimensão 3 - Responsabilidade Social 
+da Instituição 
+Dimensão 4 – Comunicação com a 
+Sociedade  
+ 
+DIRETORIA 
+ADMINISTRATIVA 
+Dimensão 4 – Comunicação com a Sociedade  
+Dimensão 5 – Políticas de Pessoal  
+Dimensão 7 – Infraestrutura Física  
+ 
+Dimensão 4 – Comunicação com a 
+Sociedade  
+Dimensão 7 – Infraestrutura Física  
+ 
+Dimensão 8 – Planejamento e 
+Avaliação   
+Dimensão 5 – Políticas de Pessoal  
+Dimensão 6 – Organização e Gestão 
+Institucional  
+Dimensão 7 – Infraestrutura Física  
+DIRETORIA 
+ACADÊMICA 
+Dimensão 4 – Comunicação com a Sociedade  
+Dimensão 7 – Infraestrutura Física  
+Dimensão 4 – Comunicação com a 
+Sociedade  
+Dimensão 4 – Comunicação com a 
+Sociedade  
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial
+COORDENAÇÃO 
+DOS CURSOS 
+Dimensão 8 – Planejamento e Avaliação 
+Dimensão 1 - Missão e Plano de 
+Desenvolvimento Institucional 
+Dimensão 2 – Ensino, Pesquisa e Extensão 
+Dimensão 4 – Comunicação com a Sociedade 
+Dimensão 9 – Política de Atendimento aos 
+Discentes 
+Dimensão 6 – Organização e Gestão Institucional
+Dimensão 8 – Planejamento e Avaliação  
+Dimensão 1 - Missão e Plano de 
+Desenvolvimento Institucional  
+Dimensão 2 – Ensino, Pesquisa e 
+Extensão 
+Dimensão 9 – Política de Atendimento 
+aos Discentes 
+Dimensão 6 – Organização e Gestão 
+Institucional  
+Dimensão 2 – Ensino, Pesquisa e 
+Extensão 
+ 
+ 
+ 
+Relatório de Autoavaliação Institucional da Fatec – 2022/Parcial
+ 

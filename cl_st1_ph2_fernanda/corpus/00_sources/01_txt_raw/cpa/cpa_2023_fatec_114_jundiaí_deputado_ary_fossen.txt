@@ -1,0 +1,8435 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Jundiaí 
+2022 
+FATEC JUNDIAÍ 
+RELATÓRIO DE AUTOAVALIAÇÃO 
+INSTITUCIONAL - VERSÃO 
+INTEGRAL 
+2022 
+ 
+ 
+Direção / Coordenação de Cursos 
+ 
+ 
+Direção Geral  
+ 
+Prof. Dr. Francesco Bordignon 
+Coordenador do Curso de Graduação Tecnológica em 
+Gestão da Tecnologia da Informação  
+ 
+Prof. Ms.  Carlos Eduardo 
+Schuster 
+Coordenador do Curso de Graduação Tecnológica em 
+Análise e Desenvolvimento de Sistemas  
+ 
+Prof. Ms. Peter Jandl Junior 
+Coordenador do Curso de Graduação Tecnológica em 
+Gestão Ambiental 
+ 
+Profa. Cláudia Aparecida Longatti 
+Coordenador do Curso de Graduação Tecnológica em 
+Logística 
+ 
+Prof. Cláudio Farias Rossoni 
+Coordenador do Curso de Graduação Tecnológica em 
+Eventos 
+ 
+Prof. Ms. Galileo de Souza 
+Schioser 
+Coordenador do Curso de Graduação Tecnológica em 
+Sistemas Embarcados 
+ 
+Prof. Cláudio Luis Vieira Oliveira 
+Coordenador do Curso de Graduação Tecnólogo em 
+Defesa Cibernética 
+Prof. Dr. Benedito Cristiano 
+Aparecido Petroni 
+ 
+Presidente da CPA 
+Dra. Lívia Maria Louzada Brandão 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Comissão Própria de Avaliação – CPA 
+ 
+ 
+ 
+ 
+Representante docente (Presidente) 
+ 
+Lívia Maria Louzada Brandão 
+Representante docente 
+ 
+Mariana Garcia de Abreu Tenan
+Representante discente 
+ 
+Julia Silva Neves 
+Representante do corpo técnico administrativo 
+ 
+Jefferson Gomes da Silva  
+Representante da Sociedade Civil 
+ 
+Bruno Inoccente 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SUMÁRIO 
+ 
+ 
+ 
+I Identificação da FATEC: .............................................................................................................. 5 
+II Ato regulatório ............................................................................................................................. 5 
+III Composição da Comissão Própria de Avaliação (CPA) ........................................................ 5 
+1 INTRODUÇÃO .............................................................................................................................. 6 
+2 METODOLOGIA ........................................................................................................................... 9 
+2.5 Procedimentos para a coleta 
+16 
+2.6 Análise e Discussão dos dados da coleta 
+16 
+2.7 Elaboração do Quadro Comparativo para análise dos resultados das avaliações 
+parciais de 2019 e 2020 e análise global 
+17 
+2.8 Organização das medidas para composição do relatório 
+17 
+2.9 Devolutiva dos Resultados para os Segmentos 
+17 
+3 DESENVOLVIMENTO ................................................................................................................ 18 
+3.1 Planejamento e Avaliação Institucional Eixo 1: 
+18 
+3.2 Eixo 2: Desenvolvimento Institucional 
+5 
+3.3 Eixo 3: Políticas Acadêmicas 
+5 
+3.4 Eixo 4: Políticas de Gestão 
+5 
+3.5 Eixo 5: Infraestrutura Física 
+5 
+4 ANÁLISE DOS DADOS E AÇÕES PROPOSTAS DADOS DE 2021 ......................................... 4 
+EIXO 1: PLANEJAMENTO E AVALIAÇÃO INSTITUCIONAL - Dimensão 8: Planejamento e 
+Avaliação 
+4 
+EIXO 2: DESENVOLVIMENTO INSTITUCIONAL - Dimensão 1: Missão e Plano de 
+Desenvolvimento Institucional 
+5 
+Dimensão 3: Responsabilidade Social da Instituição 
+5 
+FRAGILIDADES 
+5 
+AÇÕES PLANEJADAS 
+5 
+AÇÕES REALIZADAS 
+5 
+PRAZOS 
+5 
+EIXO 3: POLÍTICAS ACADÊMICAS - Dimensão 2: Políticas para o Ensino, a Pesquisa e a 
+Extensão 
+6 
+Dimensão 4: Comunicação com a Sociedade, Dimensão 9: Política de Atendimento aos 
+Discentes 
+6 
+EIXO 4: POLÍTICAS DE GESTÃO - Dimensão 5: Políticas de Pessoal, Dimensão 6: 
+Organização e Gestão da Instituição, 
+7 
+6 CONSIDERAÇÕES FINAIS .......................................................................................................... 9 
+ 
+ 
+I Identificação da FATEC: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+II Atos Regulatórios 
+II Ato regulatório 
+Ato Regulatório:  
+Prazo de validade:  
+Tipo de 
+documento: DECRETO 
+No. 
+Documento: 46929  
+Data do 
+Documento: 19/07/2002  
+Data de 
+Publicação 20/07/2002 
+ 
+III Composição da Comissão Própria de Avaliação (CPA)  
+ 
+A Comissão Própria de Avaliação da FATEC JUNDIAÍ foi composta por 
+escrutínio direto e secreto realizado na Unidade no período de 18/6/2019 a 27/6/2019 
+e com o resultado publicado no primeiro dia útil subsequente ao da apuração, 
+conforme edital de eleição de membros da Comissão Própria de avaliação da 
+Unidade. Foi instituída pela Portaria nº 41/2019, de 01 de julho de 2019, com mandato 
+até três anos, possuindo a seguinte composição:  
+ 
+NOME 
+SEGMENTO 
+REPRESENTATIVO 
+Lívia Maria Louzada Brandão 
+Docente 
+Mariana Garcia de Abreu Tenani 
+Docente 
+Julia Silva Neves 
+Discente  
+FATEC: Faculdade de Tecnologia de Jundiaí Deputado Ary Fossen 
+CÓDIGO DO CPS: 114  
+CÓDIGO E-MEC: 4022  
+Representante Legal da IES: Diretor (a): Francesco Bordignon  
+Endereço Completo: Avenida: União dos Ferroviários, 1760 
+Bairro: Centro  
+Município: Jundiaí 
+Telefone: 11 4522-7549 / 4523-0092 
+E-mail: f114dir@cps.sp.gov.br 
+ 
+ 
+Jefferson Gomes da Silva 
+Técnico Administrativo 
+Bruno Inoccente 
+Sociedade Civil   
+ 
+1 INTRODUÇÃO 
+ 
+A Fatec Jundiaí possui a crença na avaliação como instrumento de gestão. 
+Por meio da avaliação temos condições de reunir indicadores capazes de suscitar 
+análises e discussões possibilitando definir planos de melhorias de forma 
+continuada.  
+Sabe-se que a Lei 10.861/2014, que define o Sistema Nacional de Avaliação 
+da Educação Superior (SINAES), estabelece, em seu Artigo 3º, que a avaliação 
+institucional tem por objetivo identificar o perfil da IES e o significado de sua atuação, 
+por meio de suas atividades, cursos, programas, projetos e setores, considerando as 
+diferentes dimensões institucionais, consolidadas em cinco eixos, sempre objetivando 
+evidenciar os referenciais mínimos de qualidade exigidos pela excelência de ensino 
+que é um dos pilares da pratica de todas as faculdades de tecnologias do Estado de 
+São Paulo vinculadas ao Centro Paula Souza. 
+Por meio do desenvolvimento do presente relatório, em sua versão integral, 
+serão apresentados os dados e as informações referentes aos eixos, dimensões e 
+indicadores em consonância com o Plano de Desenvolvimento Institucional (PDI) da 
+Fatec e em consonância com as diretrizes emanadas do Centro Paula Souza. Em 
+cumprimento a Nota Técnica INEP/MEC n° 65 apresenta-se um quadro analítico 
+com as ações previstas no relatório de 2019 e 2020 evidenciando uma análise 
+global dos 5 eixos para explicitar as contribuições da autoavaliação para o 
+planejamento e desenvolvimento institucional. 
+A Faculdade de Tecnologia de Jundiaí foi criada pelo Governo do Estado de 
+São Paulo mediante a publicação do Decreto nº. 46.929/2002. Iniciou suas atividades 
+acadêmicas no 2º semestre de 2002, com a implantação do Curso Superior de 
+Tecnologia em Informática com ênfase em Gestão de Negócios, com 40 vagas 
+semestrais para o período vespertino e 40 vagas para o período noturno. Sediada no 
+Complexo Fepasa, hoje, oferece cinco cursos superiores de Tecnologia: 
+✔ Análise e Desenvolvimento de Sistemas – ADS – (vespertino) 
+ 
+ 
+✔ Gestão da Tecnologia da Informação – GTI – (noturno) 
+✔ Eventos – EVE – (matutino) 
+✔ Gestão Ambiental – GAM - (vespertino) 
+✔ Logística – LOG (matutino e noturno) 
+✔ Sistemas Embarcados (matutino) 
+✔ Defesa Cibernética (noturno) 
+✔ Gestão Empresarial (Ead) 
+Possui aproximadamente 1789 alunos regularmente matriculados, concluintes 
+em 2022 um total de 238 alunos e, desde a fundação já inseriu mais de 3398 
+profissionais no mercado. Todos os cursos são reconhecidos pelo Conselho Estadual 
+de Educação, conforme comprovado abaixo. 
+Curso 
+Autorização 
+Reconhecimento/ 
+RENOVAÇÃO 
+DATA 
+CONCEITO 
+referente à 
+última 
+visita 
+ENADE 
+Gestão da 
+Tecnologia da 
+Informação  
+PARECER 
+CEE103/2012e 
+Portaria 
+CEE/GP 
+115/12   
+Portaria CEE/GP 
+527, de 01/12/22 
+Publicada 
+em  
+     02/12/22 
+4  
+4   
+Análise e 
+Desenvolviment
+o de Sistemas  
+PARECER 
+CEE103/2012e 
+Portaria 
+CEE/GP 
+115/12  
+Portaria CEE/GP 
+527 de 01/12/22 
+Publicada 
+em 
+102/12/22  
+4 
+4 
+Logística  
+PARECER CEE 
+246/07 e 
+Portaria CEE 
+239/07 de 
+12/06/07   
+Portaria CEE/GP 
+101 de 02/03/20   
+Publicada 
+em 
+03/03/20  
+Republicada 
+em 
+04/03/20  
+4  
+4   
+Eventos  
+Portaria 
+CEE/GP de 
+29/10/09  
+Publicada em 
+30/10/09  
+Portaria CEE/GP 
+458 de 29/10/19   
+Publicada 
+em 
+30/10/19  
+-  
+-  
+Gestão 
+Ambiental  
+Portaria 
+CEE/GP de 
+29/10/09  
+Portaria CEE/GP 
+23 de 10/02/2021  
+Publicada 
+em 
+11/02/2021 
+4  
+4  
+ 
+ 
+Publicada em 
+30/10/09   
+  
+Gestão 
+Empresarial 
+EaD  
+  
+Parecer 
+CD/047/2014 e 
+Deliberação 
+CEE 106/2011 
+de 14/03/14 
+Publicado em 
+15/03/14  
+Portaria CEE/GP 
+101 de 02/03/20  
+Publicada 
+em 
+03/03/20  
+Republicada 
+em 
+04/03/20  
+5  
+5  
+  
+Sistemas 
+Embarcados  
+  
+Parecer 
+CD/810/2020 de 
+28/05/20 
+Publicado em 
+11/06/20  
+-  
+-  
+-  
+-  
+Defesa 
+Cibernética 
+Parecer 
+CD/13625/202
+2 de 18/04/22 
+Publicado em 
+19/04/22 
+- 
+- 
+- 
+- 
+TOTAL DE ALUNOS MATRICULADOS NA UNIDADE  
+ 
+TOTAL DE ALUNOS MATRICULADOS NA UNIDADE 
+ 
+NÚMERO DE 
+ALUNOS 
+CURSOS 
+Gestão da Tecnologia da Informação 
+315 
+Análise e Desenvolvimento de Sistemas 
+257 
+Logística 
+150(Diurno)  
+216 (Noturno)  
+Eventos 
+170 
+Gestão Ambiental 
+173  
+Sistemas Embarcados 
+175 
+Gestão Empresarial 
+159 
+Defesa Cibernética 
+93 
+ 
+CURSOS  
+TITULAÇÃO 
+DOCENTE  
+%  
+Análise e Desenvolvimento de Sistemas  
+Doutores   
+39,29% 
+Mestres  
+42,86% 
+Especialistas  
+17,86% 
+Gestão da Tecnologia da Informação  
+Doutores   
+26,47% 
+ 
+ 
+Mestres  
+55,88% 
+Especialistas  
+17,65% 
+Gestão Ambiental  
+Doutores   
+33,33% 
+Mestres  
+50,00% 
+Especialistas  
+16,67% 
+Logística  
+Doutores   
+33,33% 
+Mestres  
+50,00% 
+Especialistas  
+16,67% 
+Eventos  
+Doutores   
+29,63% 
+Mestres  
+59,26% 
+Especialistas  
+11,11% 
+Sistemas Embarcados  
+Doutores   
+35,29% 
+Mestres  
+52,94% 
+Especialistas  
+11,76% 
+Defesa Cibernética  
+Doutores   
+30,00% 
+Mestres  
+30,00% 
+Especialistas  
+40,00% 
+ 
+ 
+2 METODOLOGIA 
+ 
+Para contribuir com a organização da Comissão Própria de Avaliação de cada 
+Fatec, o Centro Paula Souza, por meio da Área de Avaliação Institucional (AAI) e da 
+Unidade de Ensino Superior de Graduação (CESU), organizaram a comissão da CPA 
+Central.  
+ 
+Assumindo como centro organizativo as atribuições que lhe competem, a 
+saber:  
+I – Contribuir com o planejamento, orientação e monitoramento dos 
+procedimentos da autoavaliação Institucional das FATECs; 
+II – Utilizar os indicadores coletados nas unidades como instrumento de 
+gestão, oferecendo subsídios para cada uma das áreas da administração 
+central tomar as medidas corretivas; 
+III – Elaborar o Relatório Global da Autoavaliação para os processos de 
+recredenciamento institucional.  
+IV – Elaborar o cronograma da autoavaliação para as Fatecs, considerando 
+o prazo de 31 de março de cada ano para o protocolo dos relatórios da 
+autoavaliação no sistema e-mec do Ministério da Educação.  
+V – Avaliar, indicar possíveis ajustes e autorizar o protocolo dos relatórios das 
+CPAs das FATECs no sistema e-mec. 
+ 
+ 
+VI – Reunir-se ordinariamente duas vezes no semestre ou de forma 
+extraordinária quando necessário.  
+ 
+Por meio CPA Central cada Fatec recebe todo o suporte necessário para 
+cumprir o que lhe compete a CPA conforme segue: 
+1. contribuir com o planejamento, elaboração, coordenação e 
+monitoramento dos processos de avaliação interna, apresentando 
+o projeto de autoavaliação Institucional que norteará todos os 
+procedimentos de autoavaliação para a CPA Central em 
+consonância com a equipe de Supervisão Regional das FATECs.  
+2. apoiar os processos internos de avaliação; 
+3. sistematizar e prestar informações relativas às políticas de 
+autoavaliação institucional, solicitadas pelos Sistemas Federal e 
+Estadual de Avaliação da Educação Superior, além de atender à 
+demanda interna da Supervisão Regional e da CPA Central do 
+Centro Paula Souza; 
+4. constituir subcomissões de avaliação; 
+5. constituir grupos temáticos ou focais voltados para a avaliação de 
+cada uma das dez dimensões estabelecidas no artigo anterior; 
+6. elaborar e analisar relatórios e pareceres, encaminhando-os a CPA 
+Central; 
+7. desenvolver estudos e análises, colaborando com os órgãos 
+próprios ou terceirizados do Centro Paula Souza, visando ao 
+fornecimento de subsídios para afixação, o aperfeiçoamento e a 
+modificação da política de avaliação institucional; 
+8. acompanhar, 
+analisar 
+e 
+correlacionar 
+os 
+resultados 
+da 
+autoavaliação com os resultados dos alunos do Centro Paula 
+Souza no ENADE, bem como em outros processos de avaliação; 
+9. aprovar seu próprio regulamento. 
+ 
+Os relatórios parciais e/ou integrais da autoavaliação deverão ser elaborados com 
+periodicidade anual, encaminhados para a CPA Central até o dia 30 de novembro de cada ano e 
+protocolados até 31 de março de cada ano. Ficando disponíveis para serem apreciados pela 
+comissão de especialistas designada pelo Conselho Estadual de Educação para a visita à 
+Instituição em seu processo de recredenciamento, conforme dispõe a Deliberação do CEE 
+160/2018.  
+ 
+2.1 Cronograma das atividades da CPA 
+A partir desta estrutura a CPA da Fatec Jundiaí para cumprir o que lhe compete, 
+durante o ano de 2021 elaborou o seguinte cronograma de trabalho: 
+ 
+ 
+ 
+ 
+ 
+AÇÕES 
+MESES 
+ABR 
+MAI 
+JUN 
+JUL 
+AGO 
+SET 
+OUT 
+NOV 
+DEZ 
+JAN 
+FEV 
+MAR 
+Reuniões online com a Direção, 
+coordenações 
+de 
+Cursos 
+para 
+sistematização 
+as 
+ações 
+e 
+composições de grupos de trabalho. 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+Encontros online da equipe CPA para 
+organizar e desenvolver estratégias de 
+maneira 
+integrada 
+a 
+partir 
+da 
+percepção dos diferentes segmentos 
+que compõem a comissão. 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+Sensibilização para participação nos 
+procedimentos e coleta:  Encontros 
+online com representantes de turmas, 
+lives, webinar, informativos, site, entre 
+outros, para 
+alimentar a 
+cultura 
+avaliativa da Fatec. 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+Organização dos procedimentos de 
+coleta de dados: elaboração das 
+ações voltadas para estimular e 
+monitorar a participação de toda a 
+comunidade no preenchimento do 
+formulário de coleta.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+Análise dos resultados – acolhimento 
+dos dados da coleta e início dos 
+procedimentos de análise.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Encaminhamento 
+dos 
+dados 
+coletados para cada área competente: 
+cada área recebe os dados faz a 
+análise e apresenta a justificativa e o 
+Plano de Melhorias da área - ações 
+planejadas a partir dos resultados e 
+encaminha para a CPA  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Elaboração do relatório a partir da 
+devolutiva das áreas.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+Envio do Relatório para a apreciação 
+da CPA Central 
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+Divulgação 
+dos 
+resultados 
+à 
+comunidade acadêmica. 
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+Conclusão do Relatório. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Protocolo no Sistema e-mec 
+   
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+2.2 Sensibilização 
+Para a efetivação do cronograma destaca-se algumas das ações para a 
+realização dos procedimentos de autoavaliação.  
+Inicialmente foram realizadas divulgações previas ao WEBSAI através do site 
+oficial da instituição, como imagem abaixo.  
+ 
+ 
+ 
+Na sequência, no mês de outubro, foram realizadas as sensibilizações nas 
+redes sociais (Facebook, Instagram e Whatsapp), atingindo todos os segmentos 
+desejados: administrativos, discentes; docentes, através de um vídeo conforme as 
+sequencias das imagens abaixo. 
+  
+ 
+  
+ 
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+ 
+Para um melhor entendimento dos discentes a respeito da Avaliação Institucional 
+foram realizadas em meados de outubro reuniões com os representantes, totalizando 
+35, de todos os cursos, nos três períodos.  
+ 
+ 
+  
+ 
+ 
+Durante as reuniões foram apresentados dados de fragilidades e melhorias e 
+informações importantes e para a conscientização dos discentes, abaixo segue a 
+apresentação (.ppt) em questão.  
+  
+  
+  
+ 
+ 
+ 
+  
+ 
+ 
+2.3 Sujeitos da avaliação 
+Foram chamados para responder ao questionário de autoavaliação WEBSAI, 
+de outubro a novembro de 2022; os professores da Unidade, somando 58 
+respondentes, já os discentes de todos os cursos acima nomeados foram um total de 
+350 e 17 Técnicos Administrativos. 
+2.4 Instrumentos de Coleta  
+Desde 1997 o Centro Paula Souza, evidenciando o seu pioneirismo em buscar 
+indicadores para gerar melhoria de seus serviços criou o Sistema de Avaliação 
+Institucional (SAI), implantado em 1999 em todas as Etecs (Escolas de Ensino Técnico 
+no nível médio) e, em 2000, nas Fatecs, seguindo os mais rigorosos critérios 
+estatísticos. Sendo os instrumentos elaborados e preenchidos em formulários 
+impressos de 1999 a 2012.  
+A partir de 2010, os questionários deixaram de ser preenchidos em formulário 
+de papel e passaram a ser totalmente on-line, trazendo mais agilidade ao processo 
+de avaliação. Desde então, todos os participantes realizam a pesquisa pela internet e 
+o SAI passou a ser chamado de WEBSAI.  
+Para que as Fatecs tivessem apenas um instrumento que pudesse contemplar 
+as 10 dimensões dentro dos 5 eixos avaliativos, a partir da criação da comissão da 
+CPA Central a AAI em parceria com a CESU, por meio de uma equipe qualificada, 
+ 
+ 
+reorganizou a elaboração dos Instrumentos adequando-os em torno dos 5 eixos 
+avaliativos.  
+Em 2021 o instrumento utilizado foi WEBSAI. Os questionários com questões 
+de múltiplas escolhas, sendo 89 questões para os docentes, 87 para discentes e 80 
+para os técnicos administrativos. Vale ressaltar que este ano algumas questões foram 
+adequadas em função das aulas oferecidas de forma remota e do trabalho tele 
+presencial.  
+2.5 Procedimentos para a coleta 
+ 
+A Área de Avaliação Institucional do Centro Paula Souza em parceria com a 
+CESU, em sintonia com a CPA Central disponibilizou os instrumentos de coleta por 
+meio do WEBSAI entre os dias 13 setembro a 04 de outubro de 2021. Para favorecer a 
+participação da comunidade durante este período a CPA. 
+O link para o WEBSAI ficou disponível para o preenchimento da comunidade 
+do dia 13 setembro a 04 de outubro de 2021. Para favorecer a participação da comunidade 
+durante este período a CPA. 
+✔ Chamada pelo Site IE; 
+✔ Chamada nas redes sociais; 
+✔ Incentivo do professor em aulas oferecidas de forma remota a participação dos 
+discentes na autoavaliação;  
+2.6 Análise e Discussão dos dados da coleta  
+ 
+A partir do dia 04 de outubro de 2021 os dados coletados foram organizados 
+pela CPA, iniciando com a extração/elaboração dos gráficos do WEBSAI. A CPA da 
+Fatec Jundiaí reuniu-se para a elaboração do relatório e a partir das informações 
+coletados elaborou a síntese dos dados que seguem abaixo. A partir disso, identificou 
+as fragilidades e forças mais proeminentes. Depois, os setores Direção Geral, 
+Diretoria Administrativa; Diretoria Acadêmica e Coordenação dos Cursos elaboraram 
+as ações planejadas e a previsão das suas realizações. Em conjunto foram traçadas 
+as estratégias de apresentação e discussão a ser apresentada nas reuniões 
+ 
+ 
+pedagógicas de cursos, colegiado, reuniões com os representantes discentes e com 
+os servidores técnicos administrativos. 
+ 
+2.7 Elaboração do Quadro Comparativo para análise dos resultados das 
+avaliações parciais de 2019 e 2020 e análise global 
+ 
+ 
+A CPA elaborou e disponibilizou o Quadro Comparativo com os resultados das 
+avaliações parciais, conforme Quadro do item 4, para que houvesse a análise global 
+das contribuições dos procedimentos de autoavaliação e o impacto, a partir dos 5 
+eixos, no planejamento e desenvolvimento Institucional. O Quadro foi discutido pela 
+comissão, direção e demais membros da Instituição, envolvendo a representação 
+prevista no Quadro 1.  
+ 
+2.8 Organização das medidas para composição do relatório 
+ 
+Com os dados gerados pelo questionário WEBSAI a CPA interna da Fatec 
+Jundiaí, detalhou os indicadores por meio de tabelas com o foco no eixo e suas 
+respectivas dimensões conforme seguem mais abaixo, nos itens 4 e 5 do relatório. 
+ 
+2.9 Devolutiva dos Resultados para os Segmentos   
+ 
+Os resultados da autoavaliação deverão ser apresentados na reunião 
+pedagógica do semestre em curso e as ações de melhoria deverão ser anotadas pelo 
+Coordenador de cada curso ou/e pelo representante docente da CPA interna da 
+Unidade e aos demais interessados. 
+ 
+ 
+3 DESENVOLVIMENTO 
+Considerando os instrumentos da autoavaliação, estruturados a partir das 10 dimensões previstas no 
+art. 3º da Lei nº 10.861 (SINAES), nesta parte do relatório, a CPA deverá apresentar as informações 
+que foram coletadas, a partir da organização de 5 eixos, que articulam as 10 dimensões, conforme 
+disposto na Nota Técnica INEP nº 065, como segue: 
+ 
+3.1 Planejamento e Avaliação Institucional Eixo 1:  
+   
+ 
+As abreviações a seguir serão abordados nas análises abaixo: 
+ADS – Análise e Desenvolvimento de Sistemas; 
+DC – Defesa Cibernética; 
+EVE – Eventos; 
+GAM – Gestão Ambiental; 
+GTI – Gestão da Tecnologia da Informação; 
+LOG – Logística; 
+SE – Sistemas Embarcados. 
+Em relação ao conhecimento do Plano de Desenvolvimento Institucional (PDI) 
+da instituição cerca dos alunos 36%  - ADS, 37% -  DC, 13% - EVE, 29% - GAM; 50% 
+- GTI, 59% - LOG, 56% -SE, 80% dos docentes e 95% técnicos administrativos 
+afirmaram saber do que se trata, apontando assim a necessidade de maior divulgação 
+à comunidade discente. Vale destacar no Eixo que 43%  - ADS, 40% -  DC, 69% - 
+EVE, 44% - GAM; 38% - GTI, 36% - LOG, 57% -SE. 
+Vale destacar alguns pontos relevantes apontados os cursos de ADS e EVE 
+apontaram total fragilidade nas questões sobre o uso dos indicadores da Avaliação 
+Institucional (WEBSAI) no Planejamento Institucional e sobre as melhorias alcançadas 
+a partir da Avaliação Institucional. No entanto, em todos os cursos da unidade os 
+alunos avaliaram positivamente a qualidade das atividades/ exercícios/ trabalhos 
+apresentados e o desempenho nas avaliações da aprendizagem.  
+Cerca de 92% dos docentes apontaram promover articulação da (s) disciplina 
+(s) com outra (s) disciplina (s) dos cursos, 100% deles empregam de forma pontual as 
+estratégias de ensino (metodologias) que favorecem o interesse, envolvimento e a 
+ 
+ 
+aprendizagem dos estudantes. O único ponto sensível apontado no eixo pela classe 
+foi a questão “Foi necessário oferecer diferentes situações para a superação de 
+dificuldades dos estudantes, promovendo estratégias de recuperação da 
+aprendizagem?”, em que 37% relataram a utilização algumas vezes e muito 
+raramente.  
+ 
+ 
+ 
+Dimensão 8: Planejamento e Avaliação 
+QUESTÃO 
+DOCENTES 
+DISCENTES 
+TEC. ADM. 
+Você conhece 
+o Plano de 
+Desenvolvime
+nto 
+Institucional 
+(PDI) da sua 
+instituição de 
+ensino? 
+Frequência 
+Questão não pertinente ao  segmento 
+Questão não pertinente ao  segmento 
+79,31
+20,69
+A - Sim
+ B - Não
+35,62
+36,67
+12,5
+28,21
+40,48
+58,41
+54,05
+64,38
+63,33
+87,5
+71,79
+59,52
+41,59
+45,95
+ADS
+DC
+EVE
+GAM
+GTI
+LOG
+SE
+A - Excelente
+ B - Muito bom
+94,12
+5,88
+A - Sim
+B - Não
+42,47
+40
+68,75
+43,59
+38,1
+35,4
+56,76
+50,68
+46,67
+25
+35,9
+38,1
+49,56
+37,84
+6,85
+13,33
+6,25
+17,95
+19,05
+15,04
+5,41
+0
+0
+0
+2,56
+2,38
+0
+0
+0
+0
+0
+0
+2,38
+0
+0
+ADS
+DC
+EVE
+GAM
+GTI
+LOG
+SE
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+ F - Não sei responder
+ 
+ 
+- Como avalia 
+o uso dos 
+indicadores da 
+Avaliação 
+Institucional 
+(WEBSAI) no 
+Planejamento 
+Institucional? 
+Questão não pertinente ao  segmento 
+Questão não pertinente ao  segmento 
+Como avalia 
+as melhorias 
+alcançadas a 
+partir da 
+Avaliação 
+Institucional? 
+Questão não pertinente ao  segmento 
+Questão não pertinente ao  segmento 
+8,22
+23,33
+0
+15,38
+16,67
+25,66
+16,22
+23,29
+20
+25
+17,95
+30,95
+43,36
+40,54
+21,92
+23,33
+31,25
+38,46
+21,43
+16,81
+18,92
+4,11
+6,67
+6,25
+10,26
+4,76
+0,88
+2,7
+1,37
+0
+0
+0
+0
+0
+0
+41,1
+26,67
+37,5
+17,95
+26,19
+13,27
+21,62
+ADS
+DC
+EVE
+GAM
+GTI
+LOG
+SE
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+E - Não se aplica
+ F - Não sei responder
+6,85
+16,67
+0
+12,82
+19,05
+23,89
+18,92
+24,66
+26,67
+18,75
+25,64
+33,33
+40,71
+35,14
+21,92
+13,33
+37,5
+35,9
+21,43
+18,58
+24,32
+4,11
+6,67
+6,25
+0
+2,38
+0,88
+2,7
+1,37
+0
+0
+0
+0
+0,88
+0
+41,1
+36,67
+37,5
+25,64
+23,81
+15,04
+18,92
+ADS
+DC
+EVE
+GAM
+GTI
+LOG
+SE
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+E - Não se aplica
+ F - Não sei responder
+ 
+ 
+Pontualidade  
+Questão não pertinente ao  segmento 
+ 
+Questão não pertinente ao segmento 
+Qualidade das 
+atividades/ 
+exercícios/ 
+trabalhos 
+apresentados 
+Questão não pertinente ao  segmento 
+Questão não pertinente ao  segmento 
+45,21
+40
+50
+33,33
+40,48
+28,32
+18,92
+41,1
+36,67
+43,75
+38,46
+38,1
+55,75
+59,46
+13,7
+23,33
+6,25
+28,21
+16,67
+15,04
+21,62
+0
+0
+0
+0
+2,38
+0,88
+0
+0
+0
+0
+0
+2,38
+0
+0
+ADS
+DC
+EVE
+GAM
+GTI
+LOG
+SE
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+ F - Não sei responder
+30,14
+16,67
+37,5
+23,08
+21,43
+23,89
+43,24
+56,16
+46,67
+56,25
+48,72
+50
+59,29
+37,84
+13,7
+36,67
+6,25
+28,21
+26,19
+16,81
+16,22
+0
+0
+0
+0
+0
+0
+2,7
+0
+0
+0
+0
+2,38
+0
+0
+ADS
+DC
+EVE
+GAM
+GTI
+LOG
+SE
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+ F - Não sei responder
+ 
+ 
+Desempenho 
+nas avaliações 
+da 
+aprendizagem 
+Questão não pertinente ao  segmento 
+Questão não pertinente ao  segmento 
+Conhecimento
+s básicos para 
+acompanhar 
+as disciplinas 
+Questão não pertinente ao  segmento 
+Questão não pertinente ao  segmento 
+10,96
+6,67
+18,75
+12,82
+19,05
+20,35
+21,62
+69,86
+46,67
+81,25
+56,41
+47,62
+60,18
+54,05
+19,18
+40
+0
+28,21
+30,95
+19,47
+21,62
+0
+6,67
+0
+2,56
+2,38
+0
+2,7
+ADS
+DC
+EVE
+GAM
+GTI
+LOG
+SE
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+27,4
+13,33
+37,5
+23,08
+16,67
+16,81
+21,62
+50,68
+50
+50
+58,97
+61,9
+64,6
+43,24
+17,81
+30
+12,5
+15,38
+19,05
+15,93
+32,43
+4,11
+6,67
+0
+2,56
+2,38
+2,65
+2,7
+ADS
+DC
+EVE
+GAM
+GTI
+LOG
+SE
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+ 
+ 
+Participação 
+em sala de 
+aula  
+Questão não pertinente ao  segmento 
+Questão não pertinente ao  segmento 
+Organização e 
+tempo 
+dedicado par 
+os estudos 
+Questão não pertinente ao  segmento 
+Questão não pertinente ao  segmento 
+19,18
+6,67
+31,25
+25,64
+21,43
+27,43
+21,62
+30,14
+46,67
+50
+41,03
+23,81
+39,82
+51,35
+36,99
+36,67
+18,75
+25,64
+42,86
+30,09
+24,32
+13,7
+10
+0
+7,69
+9,52
+1,77
+2,7
+0
+0
+0
+0
+2,38
+0,88
+0
+ADS
+DC
+EVE
+GAM
+GTI
+LOG
+SE
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+ F - Não sei responder
+10,96
+10
+12,5
+17,95
+14,29
+11,5
+16,22
+34,25
+20
+18,75
+35,9
+28,57
+33,63
+32,43
+46,58
+46,67
+56,25
+25,64
+30,95
+41,59
+35,14
+6,85
+23,33
+12,5
+20,51
+21,43
+12,39
+13,51
+1,37
+0
+0
+0
+2,38
+0
+2,7
+0
+0
+0
+0
+2,38
+0,88
+0
+ADS
+DC
+EVE
+GAM
+GTI
+LOG
+SE
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+E - Não se aplica
+ F - Não sei responder
+ 
+ 
+Convívio 
+acadêmico  
+Questão não pertinente ao  segmento 
+Questão não pertinente ao  segmento 
+Você Promove 
+articulação da 
+(s) disciplina 
+(s) com outra 
+(s) disciplina 
+(s) do curso? 
+Questão não pertinente ao  segmento 
+Questão não pertinente ao segmento 
+42,47
+26,67
+31,25
+35,9
+33,33
+39,82
+40,54
+41,1
+40
+56,25
+46,15
+47,62
+44,25
+51,35
+12,33
+26,67
+12,5
+12,82
+9,52
+13,27
+5,41
+2,74
+6,67
+0
+5,13
+7,14
+2,65
+2,7
+1,37
+0
+0
+0
+2,38
+0
+0
+ADS
+DC
+EVE
+GAM
+GTI
+LOG
+SE
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+ F - Não sei responder
+70,69
+20,69
+5,17
+3,45
+A - Sempre
+B - Quase sempre
+C - Algumas vezes
+D - Muito raramente
+ 
+ 
+Você Realiza 
+preparação 
+prévia na 
+organização 
+das atividades 
+desenvolvidas 
+na disciplina 
+Questão não pertinente ao  segmento 
+Questão não pertinente ao segmento 
+Você Utiliza 
+estratégias de 
+ensino 
+(metodologias
+) que 
+favorecem o 
+interesse, 
+envolvimento 
+e a 
+aprendizagem 
+dos 
+estudantes 
+Questão não pertinente ao  segmento 
+Questão não pertinente ao segmento 
+Você Procura 
+desenvolver 
+uma 
+comunicação 
+transparente, 
+mantendo os 
+estudantes 
+bem 
+informados 
+sobre tudo o 
+que se refere à 
+sua 
+disciplina? 
+Questão não pertinente ao  segmento 
+Questão não pertinente ao segmento 
+94,83
+5,17
+A - Sempre
+B - Quase sempre
+89,66
+10,34
+A - Sempre
+B - Quase sempre
+96,55
+3,45
+A - Sempre
+B - Quase sempre
+ 
+ 
+Na condução 
+da (s) 
+disciplina (s) 
+/turma (s) foi 
+mantido um 
+clima de 
+respeito à 
+diversidade de 
+opiniões? 
+Questão não pertinente ao  segmento 
+Questão não pertinente ao segmento 
+Você Prepara 
+as avaliações 
+utilizando 
+múltiplos 
+instrumentos 
+e objetivando 
+diagnosticar a 
+necessidade 
+de 
+aprendizagem 
+dos 
+estudantes. 
+Questão não pertinente ao  segmento 
+Questão não pertinente ao segmento 
+Foi necessário 
+oferecer 
+diferentes 
+situações para 
+a superação 
+de 
+dificuldades 
+dos 
+estudantes, 
+promovendo 
+estratégias de 
+recuperação 
+da 
+aprendizagem
+? 
+Questão não pertinente ao  segmento 
+Questão não pertinente ao segmento 
+98,28
+1,72
+A - Sempre
+B - Quase sempre
+94,83
+5,17
+A - Sempre
+B - Quase sempre
+39,66
+24,14
+29,31
+6,9
+A - Sempre
+B - Quase sempre
+C - Algumas vezes
+D - Muito raramente
+ 
+ 
+No 
+desenvolvime
+nto da(s) 
+disciplina(s)/tu
+rma(s) 
+contribuí para 
+ampliar a 
+capacidade de 
+argumentação 
+dos 
+estudantes 
+sobre os 
+temas do 
+conteúdo da 
+área? 
+Questão não pertinente ao  segmento 
+Questão não pertinente ao segmento 
+Os estudantes 
+conseguiram 
+aprofundar os 
+conhecimento
+s na área? 
+Questão não pertinente ao  segmento 
+Questão não pertinente ao segmento 
+As devolutivas 
+das avaliações 
+que realizei 
+(provas, 
+trabalhos, 
+exercícios, 
+entre outros) 
+contribuíram 
+para melhorar 
+o desempenho 
+dos 
+estudantes? 
+ 
+Questão não pertinente ao  segmento 
+Questão não pertinente ao segmento 
+87,93
+10,34
+1,72
+A - Sempre
+B - Quase sempre
+C - Algumas vezes
+75,86
+24,14
+A - Sempre
+B - Quase sempre
+89,66
+8,62
+1,72
+A - Sempre
+B - Quase sempre
+C - Algumas vezes
+ 
+ 
+Sente-se 
+comprometido 
+com o 
+sucesso 
+escolar dos 
+alunos, 
+contribuindo 
+para reduzir a 
+evasão 
+oferecendo 
+indicadores da 
+(s) sua (s) 
+turma (s) para 
+que ocorra a 
+gestão voltada 
+para a 
+melhoria? 
+ 
+Questão não pertinente ao  segmento 
+Questão não pertinente ao segmento 
+ 
+96,55
+3,45
+A - Sempre
+B - Quase sempre
+ 
+ 
+ 
+3.2 Eixo 2: Desenvolvimento Institucional 
+ 
+Nas dimensões Missão e Plano de Desenvolvimento Institucional e 
+Responsabilidade Social da Instituição os itens “Disseminação da cultura e da arte” e 
+“Inclusão social” não foram considerados com excelência, mas o percentual de não 
+souberam responder abaixou de 37% para 10% pelos discentes.   
+O destaque vai para questões que geraram dúvidas significantes nos alunos de 
+alguns cursos foram em relação a inclusão social e desenvolvimento sustentável.  
+Outro ponto frágil foi que 16% dos professores relataram não saber responder sobre 
+a coerência do PDI em relação à missão, assim como os 6% dos técnicos 
+administrativos não souberam responder quanto à contribuição de toda a comunidade 
+para o cumprimento da missão e à prática e difusão da missão. Por fim as relações 
+interpessoais entre os dos técnicos administrativos com os discentes e docentes são 
+muito boas. 
+O Plano de Desenvolvimento institucional (Ano 2019 – Ano 2023) foi um dos 
+principais documentos que nortearam as ações da Fatec Jundiaí tratou-se de um 
+documento que se caracterizou como uma identidade da Instituição, definindo, dentro 
+outros, sua filosofia de trabalho, missão, estratégias, objetivos, estrutura e diretrizes 
+pedagógicas, algo a ser continuado no PDI para os anos de 2019 – 2023. 
+O PDI é um instrumento fundamental para o planejamento de médio – longo 
+prazo da Instituição e baseia-se inicialmente na pesquisa sobre o Desenvolvimento 
+Local e Regional, onde se levantam os dados socioeconômicos, indicadores de 
+emprego, perspectivas de novos negócios e empregos, as taxas de crescimento 
+econômico e a vocação da região onde atua a IES. Os dados são consolidados e 
+avaliados e o uso de ferramentas de planejamento estratégico (matriz SWOT) permite 
+a definição dos pontos fortes e fracos da Unidade e das oportunidades e ameaças que 
+o ambiente externo apresenta. Em seguida, a análise comparativa dos campos da 
+SWOT permite a definição das principais estratégias que a Unidade deve desenvolver 
+para consolidar suas ações de formação e geração de qualificação profissional para 
+atender as demandas do mercado local e as ações de carácter social que podem ser 
+desenvolvidas para atender à missão social da Instituição. 
+ 
+ 
+O processo de gestão envolve também a revisão anual do Plano de 
+Desenvolvimento, para medir periodicamente os resultados intermediários alcançados 
+e orientar a eventual necessidade de revisão ou adaptação do Plano, caso as metas 
+intermediárias não sejam totalmente satisfeitas. 
+A Fatec Jundiaí por meio do PEC – Programa de Extensão e Cultura propõe 
+atividades que possibilitem aproximação e a integração com o poder público, a 
+iniciativa privada e a comunidade em geral. Essas atividades buscam empreender 
+esforços para apoiar a formação profissional, a educação continuada, cursos de 
+difusão e atividades culturais que fortaleçam e divulguem os cursos de graduação 
+tecnológica oferecidos pela Fatec Jundiaí. As atividades de extensão oferecidas, hoje, 
+pela Unidade são: 
+✔ FATECINO – Clube de Arduíno; 
+✔ GAMETEC – Oficina de Desenvolvimento de Jogos 
+✔ FATUX – Grupo de Estudos GNU/LINUX 
+✔ WEBTEC – Oficina para desenvolvimento de layout Web 
+✔ XAMARIM – Encontros para a construção de aplicativos multiplataforma; 
+✔ CLUBE DO LIVRO DO LIVRO FATECJD – leitura e discussão de livro proposto 
+no semestre 
+✔ Cursos de extensão (curta duração) com temas específicos, oferecidos à 
+comunidade acadêmica e à comunidade local em geral. 
+ 
+ 
+Dimensão 1: Missão e Plano de Desenvolvimento Institucional 
+Dimensão 3: Responsabilidade Social da Instituição 
+QUESTÃO 
+DOCENTES 
+DISCENTES 
+TEC. ADM. 
+Você conhece qual a 
+Missão do Centro 
+Paulo Souza? 
+Questão não pertinente ao segmento 
+Questão não pertinente ao segmento 
+om relação à missão 
+institucional de 
+"Promover a 
+educação pública 
+profissional e 
+tecnológica dentro de 
+referenciais de 
+excelência, visando o 
+desenvolvimento 
+tecnológico 
+econômico e social 
+do Estado de São 
+Paulo", como avalia o 
+cumprimento dessa 
+missão por parte da 
+Fatec? 
+Questão não pertinente ao segmento 
+Questão não pertinente ao segmento 
+46,58
+66,67
+25
+53,85
+52,38
+69,91
+70,27
+53,42
+33,33
+75
+46,15
+47,62
+30,09
+29,73
+ADS
+DC
+EVE
+GAM
+GTI
+LOG
+SE
+A - Sim
+B - Não
+17,81
+33,33
+6,25
+25,64
+28,57
+51,33
+40,54
+50,68
+43,33
+56,25
+61,54
+38,1
+33,63
+43,24
+19,18
+13,33
+31,25
+12,82
+30,95
+9,73
+10,81
+5,48
+3,33
+6,25
+0
+2,38
+0,88
+0
+6,85
+6,67
+0
+0
+0
+4,42
+5,41
+ADS
+DC
+EVE
+GAM
+GTI
+LOG
+SE
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+ F - Não sei responder
+ 
+ 
+Formação de 
+profissionais 
+qualificados 
+ 
+ 
+Disseminação da 
+ciência, tecnologia e 
+inovação 
+ 
+ 
+79,31
+17,24
+1,72
+1,72
+A - Excelente
+ B - Muito bom
+D - Insuficiente
+ F - Não sei responder
+23,29
+33,33
+18,75
+33,33
+33,33
+57,52
+43,24
+50,68
+53,33
+68,75
+56,41
+52,38
+32,74
+40,54
+23,29
+13,33
+0
+10,26
+9,52
+7,08
+8,11
+1,37
+0
+6,25
+0
+0
+0
+2,7
+1,37
+0
+6,25
+0
+4,76
+2,65
+5,41
+ADS
+DC
+EVE
+GAM
+GTI
+LOG
+SE
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+ F - Não sei responder
+70,59
+23,53
+5,88
+A - Excelente
+ B - Muito bom
+C - Regular
+74,14
+24,14
+1,72
+A - Excelente
+ B - Muito bom
+ F - Não sei responder
+27,4
+46,67
+12,5
+23,08
+33,33
+42,48
+48,65
+36,99
+43,33
+50
+53,85
+50
+46,02
+37,84
+27,4
+6,67
+31,25
+20,51
+11,9
+7,96
+8,11
+8,22
+3,33
+6,25
+2,56
+0
+1,77
+2,7
+0
+0
+0
+0
+4,76
+1,77
+2,7
+ADS
+DC
+EVE
+GAM
+GTI
+LOG
+SE
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+ F - Não sei responder
+58,82
+41,18
+A - Excelente
+ B - Muito bom
+ 
+ 
+Disseminação da 
+cultura e da arte 
+ 
+Disseminação de 
+valores éticos e 
+democráticos 
+ 
+ 
+60,34
+29,31
+8,62
+1,72
+A - Excelente
+ B - Muito bom
+C - Regular
+ F - Não sei responder
+9,59
+16,67
+12,5
+10,26
+14,29
+25,66
+29,73
+32,88
+26,67
+43,75
+46,15
+45,24
+44,25
+24,32
+32,88
+40
+37,5
+35,9
+26,19
+23,01
+29,73
+12,33
+6,67
+6,25
+7,69
+4,76
+3,54
+10,81
+2,74
+3,33
+0
+0
+0
+0,88
+0
+9,59
+6,67
+0
+0
+9,52
+2,65
+5,41
+ADS
+DC
+EVE
+GAM
+GTI
+LOG
+SE
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+E - Não se aplica
+ F - Não sei responder
+35,29
+58,82
+5,88
+A - Excelente
+ B - Muito bom
+C - Regular
+77,59
+17,24
+1,72
+A - Excelente
+ B - Muito bom
+D - Insuficiente
+19,18
+26,67
+12,5
+20,51
+30,95
+30,09
+35,14
+45,21
+40
+37,5
+43,59
+35,71
+48,67
+37,84
+20,55
+20
+37,5
+35,9
+21,43
+15,93
+16,22
+5,48
+10
+12,5
+0
+2,38
+1,77
+2,7
+1,37
+0
+0
+0
+0
+0
+0
+8,22
+3,33
+0
+0
+9,52
+3,54
+8,11
+ADS
+DC
+EVE
+GAM
+GTI
+LOG
+SE
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+E - Não se aplica
+ F - Não sei responder
+70,59
+23,53
+5,88
+A - Excelente
+ B - Muito bom
+C - Regular
+ 
+ 
+Inclusão social 
+ 
+ 
+Desenvolvimento 
+sustentável 
+ 
+ 
+77,59
+17,24
+1,72
+3,45
+A - Excelente
+ B - Muito bom
+C - Regular
+ F - Não sei responder
+12,33
+30
+12,5
+7,69
+28,57
+30,09
+29,73
+47,95
+30
+25
+43,59
+30,95
+45,13
+29,73
+17,81
+23,33
+50
+41,03
+28,57
+17,7
+29,73
+5,48
+0
+6,25
+7,69
+0
+2,65
+0
+16,44
+16,67
+6,25
+0
+11,9
+4,42
+10,81
+ADS
+DC
+EVE
+GAM
+GTI
+LOG
+SE
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+ F - Não sei responder
+52,94
+35,29
+11,76
+A - Excelente
+ B - Muito bom
+C - Regular
+63,79
+29,31
+3,45
+1,72
+1,72
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+ F - Não sei responder
+12,33
+30
+12,5
+7,69
+28,57
+30,09
+29,73
+47,95
+30
+25
+43,59
+30,95
+45,13
+29,73
+17,81
+23,33
+50
+41,03
+28,57
+17,7
+29,73
+5,48
+0
+6,25
+7,69
+0
+2,65
+0
+16,44
+16,67
+6,25
+0
+11,9
+4,42
+10,81
+ADS
+DC
+EVE
+GAM
+GTI
+LOG
+SE
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+ F - Não sei responder
+29,41
+64,71
+5,88
+A - Excelente
+ B - Muito bom
+C - Regular
+ 
+ 
+Coerência do PDI em 
+relação à missão 
+ 
+Questão não pertinente ao segmento 
+ 
+Proatividade 
+Questão não pertinente ao  segmento 
+Questão não pertinente ao segmento 
+ 
+Iniciativa 
+Questão não pertinente ao  segmento 
+Questão não pertinente ao segmento 
+67,24
+13,79
+3,45
+15,52
+A - Excelente
+ B - Muito bom
+C - Regular
+ F - Não sei responder
+52,94
+41,18
+5,88
+A - Excelente
+ B - Muito bom
+ F - Não sei responder
+70,59
+29,41
+A - Excelente
+ B - Muito bom
+82,35
+17,65
+A - Excelente
+ B - Muito bom
+ 
+ 
+Dedicação e 
+comprometiment
+o 
+Questão não pertinente ao  segmento 
+Questão não pertinente ao segmento 
+Busca de 
+aperfeiçoamento 
+Questão não pertinente ao  segmento 
+Questão não pertinente ao segmento 
+Atitude 
+colaborativa 
+Questão não pertinente ao  segmento 
+Questão não pertinente ao segmento 
+88,24
+11,76
+A - Excelente
+ B - Muito bom
+64,71
+35,29
+A - Excelente
+ B - Muito bom
+76,47
+23,53
+A - Excelente
+ B - Muito bom
+ 
+ 
+Relacionamento 
+interpessoal e 
+trabalho em 
+equipe 
+Questão não pertinente ao  segmento 
+Questão não pertinente ao segmento 
+ 
+Respeito 
+hierárquico 
+Questão não pertinente ao  segmento 
+Questão não pertinente ao segmento 
+Conhecimento na 
+área de atuação 
+Questão não pertinente ao  segmento 
+Questão não pertinente ao segmento 
+70,59
+29,41
+A - Excelente
+ B - Muito bom
+88,24
+11,76
+A - Excelente
+ B - Muito bom
+76,47
+23,53
+A - Excelente
+ B - Muito bom
+ 
+ 
+Busca de 
+melhoria 
+contínua 
+Questão não pertinente ao  segmento 
+Questão não pertinente ao segmento 
+ 
+Comunicação 
+Questão não pertinente ao  segmento 
+Questão não pertinente ao segmento 
+ 
+Disposição para 
+aprender 
+Questão não pertinente ao  segmento 
+Questão não pertinente ao  segmento 
+ 
+70,59
+29,41
+A - Excelente
+ B - Muito bom
+70,59
+29,41
+A - Excelente
+ B - Muito bom
+94,12
+5,88
+A - Excelente
+ B - Muito bom
+ 
+ 
+Participação dos 
+técnicos 
+administrativos 
+nas atividades do 
+ensino 
+Questão não pertinente ao  segmento 
+Questão não pertinente ao  segmento 
+ 
+Participação dos 
+técnicos 
+administrativos 
+nas atividades da 
+pesquisa 
+Questão não pertinente ao  segmento 
+Questão não pertinente ao  segmento 
+Participação dos 
+técnicos 
+administrativos 
+nas atividades da 
+extensão 
+Questão não pertinente ao  segmento 
+Questão não pertinente ao  segmento 
+64,71
+23,53
+5,88
+5,88
+A - Excelente
+ B - Muito bom
+C - Regular
+E - Não se aplica
+47,06
+35,29
+5,88
+5,88
+5,88
+A - Excelente
+ B - Muito bom
+D - Insuficiente
+E - Não se aplica
+ F - Não sei responder
+47,06
+41,18
+5,88
+5,88
+A - Excelente
+ B - Muito bom
+D - Insuficiente
+E - Não se aplica
+ 
+ 
+Interação entre 
+os técnicos 
+administrativos e 
+os docentes 
+Questão não pertinente ao  segmento 
+Questão não pertinente ao  segmento 
+ 
+Interação entre 
+os técnicos 
+administrativos e 
+os discentes 
+Questão não pertinente ao  segmento 
+Questão não pertinente ao  segmento 
+52,94
+41,18
+5,88
+A - Excelente
+ B - Muito bom
+C - Regular
+64,71
+29,41
+5,88
+A - Excelente
+ B - Muito bom
+ F - Não sei responder
+ 
+ 
+ 
+3.3 Eixo 3: Políticas Acadêmicas 
+ 
+No Eixo 3 na dimensão 2 “Políticas para o Ensino a Pesquisa e a Extensão” é 
+relevante destacar que 25% - ADS, 17% - DC, 19% - EVE, 13% - GAM; 15% - GTI,9% 
+- LOG, 3% -SE dos alunos e 2% dos docentes não souberam responder sobre 
+articulação de seu componente curricular com o Projeto Pedagógico do Curso, e ainda 
+9% - ADS, 10% - DC, 13% - EVE; 5% - GTI, 3% -SE dos alunos e 5% dos docentes 
+desconhecem as atividades de pesquisa. No entanto, as práticas didático-
+pedagógicas dos docentes são vistas excelentes e muito bom pelos próprios docentes 
+e pelos alunos. Outra evidencia apontada é que os discentes não souberam responder 
+em: 47% - ADS, 54% - DC, 19% - EVE, 23% - GAM; 29% - GTI, 23% - LOG, 30% -SE 
+sobre o estágio supervisionado como espaço de formação profissional.  
+Os discentes apontaram satisfação em todos os cursos da unidade como curso 
+escolhido por ele. A questão “Os professores apresentam no início de cada semestre 
+os seus respectivos planos de ensino?” foi bem avaliada por todos os alunos dos 
+cursos.  
+Na dimensão 4 “Comunicação com a Sociedade” é relevante apontar avaliação 
+desfavorável por parte dos alunos 75% - ADS, 70% - DC, 95% - EVE, 78% - GAM; 
+66% - GTI, 47% - LOG, 55% -SE dele avaliaram como regular, insuficiente e não sei 
+responder sobre a ouvidoria da instituição. Cerca de 11% dos docentes não souberam 
+responder sobre as mídias sociais e os alunos, com exceção do curso de EVE, todos 
+dos demais cursos apontaram desconhecimento na questão. A excelência no 
+envolvimento do pessoal técnico administrativo no Concurso Vestibular se mantém 
+em quase 100%. 
+Sobre a “Política de Atendimento aos Discentes” as questões “Bolsas 
+(Programas de Intercâmbio e de Mobilidade Acadêmica)”, “Programa de apoio 
+financeiro (bolsas)” e “Bolsas (Programas de Intercâmbio e de Mobilidade Acadêmica” 
+se mantem neste relatório de forma insatisfatória. Sobre o acompanhamento de 
+Egressos (ex-alunos) tanto para os docentes quanto para os técnicos administrativo a 
+porcentagem continua desfavorável.   
+   
+ 
+ 
+Dimensão 2: Políticas para o Ensino, a Pesquisa e a Extensão; Dimensão 4: Comunicação com a Sociedade; Dimensão 9: Política de 
+Atendimento aos Discentes 
+QUESTÃO 
+DOCENTES 
+DISCENTES 
+TEC. ADM. 
+Articulação de seu 
+componente 
+curricular com o 
+Projeto Pedagógico 
+do Curso 
+ 
+ 
+ 
+ 
+Questão não pertinente ao  segmento 
+Estrutura curricular 
+ 
+ 
+ 
+Questão não pertinente ao  segmento 
+77,59
+18,97
+1,72
+1,72
+A - Excelente
+ B - Muito bom
+D - Insuficiente
+ F - Não sei responder
+12,33
+30
+12,5
+20,51
+19,05
+26,55
+35,14
+31,51
+40
+56,25
+46,15
+33,33
+44,25
+40,54
+27,4
+13,33
+0
+20,51
+30,95
+18,58
+10,81
+4,11
+0
+12,5
+0
+2,38
+1,77
+10,81
+24,66
+16,67
+18,75
+12,82
+14,29
+8,85
+2,7
+ADS
+DC
+EVE
+GAM
+GTI
+LOG
+SE
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+ F - Não sei responder
+82,76
+13,79
+1,72
+1,72
+A - Excelente
+ B - Muito bom
+D - Insuficiente
+ F - Não sei responder
+17,81
+23,33
+18,75
+23,08
+33,33
+43,36
+35,14
+42,47
+56,67
+50
+56,41
+35,71
+46,02
+45,95
+28,77
+20
+25
+5,13
+23,81
+7,96
+13,51
+8,22
+0
+0
+7,69
+2,38
+2,65
+5,41
+2,74
+0
+6,25
+7,69
+4,76
+0
+0
+ADS
+DC
+EVE
+GAM
+GTI
+LOG
+SE
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+ F - Não sei responder
+ 
+ 
+Sistema de 
+avaliação da 
+aprendizagem 
+ 
+Questão não pertinente ao  segmento 
+Questão não pertinente ao  segmento 
+Atividades de ensino 
+ 
+Questão não pertinente ao  segmento 
+81,03
+15,52
+1,72
+1,72
+A - Excelente
+ B - Muito bom
+D - Insuficiente
+ F - Não sei responder
+81,03
+15,52
+1,72
+1,72
+A - Excelente
+ B - Muito bom
+D - Insuficiente
+ F - Não sei responder
+16,44
+26,67
+12,5
+28,21
+33,33
+38,94
+37,84
+53,42
+50
+68,75
+56,41
+40,48
+48,67
+51,35
+24,66
+20
+12,5
+15,38
+21,43
+12,39
+8,11
+5,48
+3,33
+6,25
+0
+2,38
+0
+2,7
+0
+0
+0
+0
+2,38
+0
+0
+ADS
+DC
+EVE
+GAM
+GTI
+LOG
+SE
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+ F - Não sei responder
+ 
+ 
+Atividades de 
+pesquisa 
+ 
+ 
+Questão não pertinente ao  segmento 
+Atividades de 
+extensão 
+ 
+Questão não pertinente ao  segmento 
+50
+37,93
+6,9
+5,17
+A - Excelente
+ B - Muito bom
+C - Regular
+ F - Não sei responder
+12,33
+16,67
+12,5
+12,82
+19,05
+30,97
+32,43
+38,36
+43,33
+37,5
+51,28
+50
+52,21
+37,84
+31,51
+23,33
+31,25
+30,77
+23,81
+14,16
+16,22
+6,85
+6,67
+6,25
+5,13
+2,38
+2,65
+10,81
+2,74
+0
+0
+0
+0
+0
+0
+8,22
+10
+12,5
+0
+4,76
+0
+2,7
+ADS
+DC
+EVE
+GAM
+GTI
+LOG
+SE
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+E - Não se aplica
+ F - Não sei responder
+50
+36,21
+6,9
+1,72
+1,72
+3,45
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+E - Não se aplica
+ F - Não sei responder
+13,7
+23,33
+6,25
+7,69
+21,43
+25,66
+29,73
+34,25
+43,33
+25
+33,33
+42,86
+48,67
+43,24
+34,25
+20
+43,75
+23,08
+21,43
+17,7
+16,22
+8,22
+6,67
+6,25
+25,64
+4,76
+4,42
+8,11
+2,74
+0
+0
+0
+0
+0
+0
+6,85
+6,67
+18,75
+10,26
+9,52
+3,54
+2,7
+ADS
+DC
+EVE
+GAM
+GTI
+LOG
+SE
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+E - Não se aplica
+ F - Não sei responder
+ 
+ 
+Corpo técnico-
+administrativo 
+ 
+Questão não pertinente ao  segmento 
+Questão não pertinente ao  segmento 
+Corpo docente 
+ 
+Questão não pertinente ao  segmento 
+81,03
+15,52
+1,72
+1,72
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+84,48
+13,79
+1,72
+A - Excelente
+ B - Muito bom
+C - Regular
+17,81
+30
+18,75
+35,9
+35,71
+49,56
+56,76
+46,58
+56,67
+56,25
+51,28
+35,71
+41,59
+29,73
+31,51
+6,67
+6,25
+12,82
+21,43
+7,96
+10,81
+4,11
+6,67
+18,75
+0
+2,38
+0,88
+2,7
+0
+0
+0
+0
+4,76
+0
+0
+ADS
+DC
+EVE
+GAM
+GTI
+LOG
+SE
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+ F - Não sei responder
+ 
+ 
+Práticas didático-
+pedagógicas dos 
+docentes 
+ 
+Questão não pertinente ao  segmento 
+Articulação de 
+conhecimentos 
+disciplinares com 
+temas sociais, 
+políticos e culturais 
+ 
+Questão não pertinente ao  segmento 
+Questão não pertinente ao  segmento 
+74,14
+20,69
+1,72
+3,45
+A - Excelente
+ B - Muito bom
+D - Insuficiente
+ F - Não sei responder
+15,07
+20
+18,75
+23,08
+28,57
+38,05
+48,65
+47,95
+36,67
+50
+56,41
+38,1
+42,48
+24,32
+27,4
+33,33
+18,75
+12,82
+19,05
+17,7
+24,32
+6,85
+10
+12,5
+5,13
+9,52
+1,77
+0
+2,74
+0
+0
+2,56
+4,76
+0
+2,7
+ADS
+DC
+EVE
+GAM
+GTI
+LOG
+SE
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+ F - Não sei responder
+67,24
+22,41
+3,45
+3,45
+3,45
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+ F - Não sei responder
+ 
+ 
+Correspondência 
+entre o curso e a 
+formação para o 
+exercício 
+profissional 
+ 
+Questão não pertinente ao  segmento 
+Estágio 
+supervisionado 
+como espaço de 
+formação 
+profissional 
+ 
+Questão não pertinente ao  segmento 
+79,31
+15,52
+1,72
+1,72
+1,72
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+ F - Não sei responder
+17,81
+30
+12,5
+17,95
+28,57
+38,94
+37,84
+34,25
+46,67
+50
+53,85
+45,24
+47,79
+35,14
+30,14
+10
+25
+20,51
+21,43
+7,96
+10,81
+10,96
+3,33
+6,25
+5,13
+0
+4,42
+8,11
+6,85
+10
+6,25
+2,56
+4,76
+0,88
+8,11
+ADS
+DC
+EVE
+GAM
+GTI
+LOG
+SE
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+ F - Não sei responder
+70,69
+17,24
+1,72
+1,72
+8,62
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+ F - Não sei responder
+9,59
+10
+18,75
+15,38
+21,43
+26,55
+18,92
+20,55
+23,33
+31,25
+28,21
+26,19
+30,09
+35,14
+21,92
+10
+12,5
+23,08
+19,05
+18,58
+8,11
+1,37
+3,33
+18,75
+10,26
+4,76
+2,65
+5,41
+0
+0
+0
+0
+0
+0,88
+2,7
+46,58
+53,33
+18,75
+23,08
+28,57
+21,24
+29,73
+ADS
+DC
+EVE
+GAM
+GTI
+LOG
+SE
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+E - Não se aplica
+ F - Não sei responder
+ 
+ 
+Como avalia a 
+política de ensino, 
+pesquisa e extensão 
+tendo em vista a 
+formação do perfil 
+do egresso do 
+curso. 
+ 
+Questão não pertinente ao  segmento 
+Questão não pertinente ao  segmento 
+Como avalia se o(s) 
+curso (s) cumpre (m) 
+as políticas de 
+ensino, pesquisa e 
+extensão previstas 
+no PDI. 
+Questão não pertinente ao  segmento 
+Questão não pertinente ao  segmento 
+70,69
+17,24
+5,17
+1,72
+5,17
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+ F - Não sei responder
+70,69
+15,52
+3,45
+10,34
+A - Excelente
+ B - Muito bom
+C - Regular
+ F - Não sei responder
+ 
+ 
+Eventos científicos e 
+de extensão 
+Questão não pertinente ao  segmento 
+Questão não pertinente ao  segmento 
+ Incentivo à pós-
+graduação 
+Questão não pertinente ao  segmento 
+Questão não pertinente ao  segmento 
+12,33
+20
+12,5
+17,95
+19,05
+21,24
+32,43
+27,4
+36,67
+31,25
+33,33
+19,05
+38,94
+32,43
+30,14
+13,33
+12,5
+28,21
+23,81
+20,35
+13,51
+10,96
+10
+25
+10,26
+4,76
+5,31
+5,41
+1,37
+0
+0
+0
+4,76
+0,88
+2,7
+17,81
+20
+18,75
+10,26
+28,57
+13,27
+13,51
+ADS
+DC
+EVE
+GAM
+GTI
+LOG
+SE
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+E - Não se aplica
+ F - Não sei responder
+9,59
+3,33
+18,75
+17,95
+19,05
+28,32
+27,03
+21,92
+30
+0
+20,51
+21,43
+26,55
+21,62
+17,81
+20
+31,25
+28,21
+26,19
+22,12
+16,22
+19,18
+13,33
+31,25
+15,38
+11,9
+11,5
+13,51
+5,48
+0
+6,25
+7,69
+0
+0
+2,7
+26,03
+33,33
+12,5
+10,26
+21,43
+11,5
+18,92
+ADS
+DC
+EVE
+GAM
+GTI
+LOG
+SE
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+E - Não se aplica
+ F - Não sei responder
+ 
+ 
+Satisfação com o 
+curso escolhido 
+Questão não pertinente ao  segmento 
+ 
+Questão não pertinente ao  segmento 
+Atenção dada aos 
+alunos com 
+dificuldade de 
+acompanhar os 
+conteúdos 
+Questão não pertinente ao  segmento 
+Questão não pertinente ao  segmento 
+34,25
+36,67
+37,5
+51,28
+35,71
+49,56
+48,65
+45,21
+40
+25
+35,9
+30,95
+40,71
+21,62
+13,7
+23,33
+31,25
+12,82
+21,43
+7,08
+24,32
+6,85
+0
+6,25
+0
+9,52
+2,65
+2,7
+0
+0
+0
+0
+2,38
+0
+2,7
+ADS
+DC
+EVE
+GAM
+GTI
+LOG
+SE
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+ F - Não sei responder
+16,44
+6,67
+31,25
+15,38
+26,19
+34,51
+32,43
+31,51
+43,33
+31,25
+28,21
+33,33
+30,97
+32,43
+24,66
+33,33
+12,5
+33,33
+23,81
+23,89
+21,62
+16,44
+13,33
+12,5
+15,38
+9,52
+8,85
+10,81
+1,37
+0
+0
+0
+0
+0,88
+0
+9,59
+3,33
+12,5
+7,69
+7,14
+0,88
+2,7
+ADS
+DC
+EVE
+GAM
+GTI
+LOG
+SE
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+E - Não se aplica
+ F - Não sei responder
+ 
+ 
+Correção feita pelos 
+professores quanto 
+as avaliações 
+Questão não pertinente ao  segmento 
+Questão não pertinente ao  segmento 
+Realização de 
+projetos 
+interdisciplinares 
+Questão não pertinente ao  segmento 
+Questão não pertinente ao  segmento 
+15,07
+23,33
+18,75
+15,38
+26,19
+33,63
+32,43
+49,32
+46,67
+37,5
+35,9
+38,1
+45,13
+40,54
+28,77
+30
+31,25
+43,59
+26,19
+18,58
+16,22
+6,85
+0
+6,25
+5,13
+7,14
+2,65
+8,11
+0
+0
+6,25
+0
+2,38
+0
+2,7
+ADS
+DC
+EVE
+GAM
+GTI
+LOG
+SE
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+ F - Não sei responder
+10,96
+10
+18,75
+12,82
+23,81
+34,51
+35,14
+26,03
+36,67
+31,25
+33,33
+33,33
+41,59
+32,43
+27,4
+16,67
+43,75
+28,21
+23,81
+15,93
+18,92
+12,33
+6,67
+6,25
+17,95
+7,14
+6,19
+8,11
+8,22
+3,33
+0
+0
+0
+0,88
+0
+15,07
+26,67
+0
+7,69
+11,9
+0,88
+5,41
+ADS
+DC
+EVE
+GAM
+GTI
+LOG
+SE
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+E - Não se aplica
+ F - Não sei responder
+ 
+ 
+Articulação entre as 
+disciplinas 
+(interdisciplinaridad
+e) 
+Questão não pertinente ao  segmento 
+Questão não pertinente ao  segmento 
+As metodologias de 
+ensino para seu 
+envolvimento e 
+aprendizagem 
+Questão não pertinente ao  segmento 
+Questão não pertinente ao  segmento 
+16,44
+10
+18,75
+20,51
+14,29
+24,78
+35,14
+28,77
+33,33
+43,75
+41,03
+38,1
+46,9
+32,43
+24,66
+30
+25
+28,21
+23,81
+22,12
+21,62
+12,33
+6,67
+6,25
+0
+11,9
+3,54
+2,7
+5,48
+3,33
+6,25
+0
+2,38
+0
+0
+12,33
+16,67
+0
+10,26
+9,52
+2,65
+8,11
+ADS
+DC
+EVE
+GAM
+GTI
+LOG
+SE
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+E - Não se aplica
+ F - Não sei responder
+15,07
+13,33
+12,5
+15,38
+23,81
+32,74
+40,54
+46,58
+43,33
+62,5
+58,97
+42,86
+45,13
+37,84
+27,4
+33,33
+18,75
+23,08
+30,95
+20,35
+13,51
+10,96
+10
+6,25
+2,56
+0
+1,77
+5,41
+0
+0
+0
+0
+2,38
+0
+2,7
+ADS
+DC
+EVE
+GAM
+GTI
+LOG
+SE
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+ F - Não sei responder
+ 
+ 
+ A transparência da 
+comunicação no que 
+se refere as 
+informações da 
+disciplina 
+Questão não pertinente ao  segmento 
+Questão não pertinente ao  segmento 
+A manutenção de 
+clima de respeito à 
+diversidade de 
+opiniões 
+Questão não pertinente ao  segmento 
+Questão não pertinente ao  segmento 
+20,55
+26,67
+12,5
+12,82
+26,19
+35,4
+43,24
+47,95
+40
+37,5
+66,67
+38,1
+44,25
+35,14
+21,92
+30
+31,25
+17,95
+26,19
+16,81
+13,51
+6,85
+0
+18,75
+2,56
+7,14
+2,65
+5,41
+2,74
+3,33
+0
+0
+2,38
+0,88
+2,7
+ADS
+DC
+EVE
+GAM
+GTI
+LOG
+SE
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+ F - Não sei responder
+19,18
+43,33
+6,25
+20,51
+28,57
+30,09
+37,84
+46,58
+30
+43,75
+53,85
+40,48
+54,87
+32,43
+20,55
+23,33
+37,5
+23,08
+23,81
+13,27
+13,51
+6,85
+3,33
+0
+2,56
+4,76
+0,88
+5,41
+6,85
+0
+12,5
+0
+2,38
+0,88
+10,81
+ADS
+DC
+EVE
+GAM
+GTI
+LOG
+SE
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+ F - Não sei responder
+ 
+ 
+A utilização 
+diversificada dos 
+instrumentos de 
+avaliação da 
+aprendizagem 
+Questão não pertinente ao  segmento 
+Questão não pertinente ao  segmento 
+13,7
+20
+6,25
+12,82
+23,81
+33,63
+29,73
+38,36
+36,67
+50
+51,28
+35,71
+44,25
+45,95
+26,03
+40
+31,25
+30,77
+30,95
+20,35
+16,22
+8,22
+3,33
+12,5
+2,56
+7,14
+0,88
+2,7
+4,11
+0
+0
+0
+0
+0
+0
+9,59
+0
+0
+2,56
+2,38
+0,88
+5,41
+ADS
+DC
+EVE
+GAM
+GTI
+LOG
+SE
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+E - Não se aplica
+ F - Não sei responder
+ 
+ 
+O estímulo e o apoio 
+ao desenvolvimento 
+de sua autonomia 
+sobre os temas e 
+conteúdo da área. 
+Questão não pertinente ao  segmento 
+Questão não pertinente ao  segmento 
+A correção conjunta 
+das avaliações 
+Questão não pertinente ao  segmento 
+Questão não pertinente ao  segmento 
+23,29
+16,67
+6,25
+15,38
+33,33
+30,97
+35,14
+43,84
+56,67
+68,75
+46,15
+35,71
+46,9
+37,84
+13,7
+23,33
+18,75
+28,21
+19,05
+19,47
+13,51
+9,59
+3,33
+6,25
+2,56
+4,76
+1,77
+2,7
+0
+0
+0
+0
+2,38
+0
+0
+9,59
+0
+0
+7,69
+4,76
+0,88
+10,81
+ADS
+DC
+EVE
+GAM
+GTI
+LOG
+SE
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+E - Não se aplica
+ F - Não sei responder
+16,44
+13,33
+6,25
+12,82
+28,57
+30,97
+37,84
+45,21
+50
+25
+33,33
+40,48
+42,48
+43,24
+24,66
+30
+37,5
+46,15
+16,67
+21,24
+10,81
+9,59
+0
+31,25
+7,69
+7,14
+3,54
+5,41
+2,74
+0
+0
+0
+0
+0
+2,7
+1,37
+6,67
+0
+0
+7,14
+1,77
+0
+ADS
+DC
+EVE
+GAM
+GTI
+LOG
+SE
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+E - Não se aplica
+ F - Não sei responder
+ 
+ 
+Os professores 
+apresentam no início 
+de cada semestre os 
+seus respectivos 
+planos de ensino? 
+Questão não pertinente ao  segmento 
+Questão não pertinente ao  segmento 
+Como avalia a 
+qualidade da Fatec 
+que você escolheu? 
+Questão não pertinente ao  segmento 
+Questão não pertinente ao  segmento 
+54,79
+50
+25
+76,92
+54,76
+61,95
+59,46
+32,88
+23,33
+50
+20,51
+40,48
+29,2
+27,03
+10,96
+13,33
+18,75
+2,56
+2,38
+8,85
+8,11
+0
+6,67
+6,25
+0
+2,38
+0
+2,7
+1,37
+6,67
+0
+0
+0
+0
+2,7
+ADS
+DC
+EVE
+GAM
+GTI
+LOG
+SE
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+ F - Não sei responder
+21,92
+36,67
+18,75
+35,9
+35,71
+53,1
+54,05
+45,21
+40
+31,25
+48,72
+47,62
+36,28
+27,03
+24,66
+20
+37,5
+12,82
+16,67
+10,62
+13,51
+6,85
+3,33
+12,5
+2,56
+0
+0
+2,7
+1,37
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2,7
+ADS
+DC
+EVE
+GAM
+GTI
+LOG
+SE
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+E - Não se aplica
+ F - Não sei responder
+ 
+ 
+Como avalia a 
+possibilidade do uso 
+do ensino híbrido, 
+considerando um 
+percentual da carga 
+horária ofertada de 
+forma remota? 
+Questão não pertinente ao  segmento 
+Questão não pertinente ao  segmento 
+O acesso da 
+comunidade externa 
+às atividades 
+desenvolvidas pela 
+Fatec. 
+ 
+Questão não pertinente ao  segmento 
+39,73
+43,33
+18,75
+35,9
+45,24
+36,28
+24,32
+21,92
+20
+6,25
+15,38
+19,05
+25,66
+21,62
+9,59
+26,67
+25
+12,82
+7,14
+23,01
+16,22
+10,96
+10
+6,25
+15,38
+14,29
+4,42
+5,41
+2,74
+0
+31,25
+12,82
+2,38
+4,42
+16,22
+15,07
+0
+12,5
+7,69
+11,9
+6,19
+16,22
+1
+2
+3
+4
+5
+6
+7
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+E - Não se aplica
+ F - Não sei responder
+70,69
+20,69
+3,45
+1,72
+3,45
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+ F - Não sei responder
+12,33
+20
+0
+15,38
+30,95
+24,78
+37,84
+23,29
+30
+31,25
+28,21
+23,81
+27,43
+24,32
+30,14
+26,67
+31,25
+38,46
+21,43
+28,32
+18,92
+17,81
+3,33
+18,75
+7,69
+7,14
+5,31
+10,81
+1,37
+0
+0
+0
+2,38
+0,88
+0
+15,07
+20
+18,75
+10,26
+14,29
+13,27
+8,11
+ADS
+DC
+EVE
+GAM
+GTI
+LOG
+SE
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+E - Não se aplica
+ F - Não sei responder
+ 
+ 
+Sistemas de 
+informação da Fatec 
+ 
+Questão não pertinente ao  segmento 
+Concurso vestibular 
+ 
+Questão não pertinente ao  segmento 
+68,97
+25,86
+3,45
+1,72
+A - Excelente
+ B - Muito bom
+C - Regular
+ F - Não sei responder
+12,33
+20
+0
+15,38
+30,95
+24,78
+37,84
+23,29
+30
+31,25
+28,21
+23,81
+27,43
+24,32
+30,14
+26,67
+31,25
+38,46
+21,43
+28,32
+18,92
+17,81
+3,33
+18,75
+7,69
+7,14
+5,31
+10,81
+1,37
+0
+0
+0
+2,38
+0,88
+0
+ADS
+DC
+EVE
+GAM
+GTI
+LOG
+SE
+ B - Muito bom
+C - Regular
+D - Insuficiente
+E - Não se aplica
+ F - Não sei responder
+55,17
+31,03
+6,9
+3,45
+3,45
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+ F - Não sei responder
+21,92
+23,33
+12,5
+23,08
+50
+38,94
+24,32
+41,1
+50
+25
+43,59
+26,19
+40,71
+35,14
+21,92
+16,67
+37,5
+28,21
+9,52
+13,27
+21,62
+2,74
+10
+18,75
+2,56
+9,52
+2,65
+5,41
+0
+0
+0
+0
+0
+0,88
+5,41
+12,33
+0
+6,25
+2,56
+4,76
+3,54
+8,11
+ADS
+DC
+EVE
+GAM
+GTI
+LOG
+SE
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+E - Não se aplica
+ F - Não sei responder
+ 
+ 
+Resoluções dos 
+Colegiados 
+(Congregação ou 
+Comissão de 
+Implantação); 
+Câmara de Ensino, 
+Conselho 
+Departamental ou 
+NDE/Coordenadoria; 
+Colegiado de curso) 
+ 
+Questão não pertinente ao  segmento 
+Informações 
+advindas da 
+coordenação de 
+curso 
+Questão não pertinente ao  segmento 
+Questão não pertinente ao  segmento 
+74,14
+17,24
+1,72
+6,9
+A - Excelente
+ B - Muito bom
+C - Regular
+ F - Não sei responder
+9,59
+16,67
+0
+15,38
+28,57
+27,43
+32,43
+19,18
+30
+25
+20,51
+26,19
+28,32
+13,51
+10,96
+16,67
+12,5
+35,9
+14,29
+16,81
+21,62
+8,22
+3,33
+6,25
+10,26
+4,76
+0,88
+2,7
+0
+0
+0
+0
+2,38
+1,77
+2,7
+52,05
+33,33
+56,25
+17,95
+23,81
+24,78
+27,03
+ADS
+DC
+EVE
+GAM
+GTI
+LOG
+SE
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+E - Não se aplica
+ F - Não sei responder
+63,79
+25,86
+3,45
+3,45
+3,45
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+ F - Não sei responder
+ 
+ 
+Oportunidades de 
+Pesquisa 
+Questão não pertinente ao  segmento 
+Questão não pertinente ao  segmento 
+Oportunidades de 
+Extensão 
+Questão não pertinente ao  segmento 
+Questão não pertinente ao  segmento 
+87,93
+6,9
+1,72
+1,72
+1,72
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+ F - Não sei responder
+44,83
+36,21
+10,34
+3,45
+5,17
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+ F - Não sei responder
+ 
+ 
+Normas acadêmicas, 
+legislação e 
+calendários 
+ 
+ 
+Eventos 
+acadêmicos-
+científicos 
+Questão não pertinente ao  segmento 
+ 
+53,45
+29,31
+8,62
+3,45
+5,17
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+ F - Não sei responder
+21,92
+13,33
+6,25
+28,21
+35,71
+38,05
+32,43
+45,21
+60
+50
+41,03
+45,24
+39,82
+43,24
+23,29
+23,33
+25
+28,21
+14,29
+15,04
+10,81
+4,11
+0
+12,5
+0
+0
+0,88
+2,7
+5,48
+3,33
+6,25
+2,56
+4,76
+6,19
+10,81
+ADS
+DC
+EVE
+GAM
+GTI
+LOG
+SE
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+ F - Não sei responder
+64,71
+35,29
+A - Excelente
+ B - Muito bom
+75,86
+20,69
+3,45
+A - Excelente
+ B - Muito bom
+D - Insuficiente
+47,06
+52,94
+A - Excelente
+ B - Muito bom
+ 
+ 
+Site oficial da Fatec 
+ 
+ 
+Publicações nos 
+murais 
+ 
+ 
+68,97
+25,86
+1,72
+1,72
+1,72
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+ F - Não sei responder
+6,85
+16,67
+0
+12,82
+28,57
+30,09
+21,62
+24,66
+43,33
+37,5
+38,46
+30,95
+44,25
+35,14
+41,1
+33,33
+62,5
+38,46
+30,95
+22,12
+24,32
+23,29
+6,67
+0
+7,69
+9,52
+2,65
+13,51
+2,74
+0
+0
+0
+0
+0
+0
+0
+0
+2,56
+0
+0,88
+5,41
+6,85
+ADS
+DC
+EVE
+GAM
+GTI
+LOG
+SE
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+E - Não se aplica
+ F - Não sei responder
+41,18
+47,06
+11,76
+A - Excelente
+ B - Muito bom
+C - Regular
+65,52
+29,31
+5,17
+0
+0
+0
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+E - Não se aplica
+ F - Não sei responder
+8,22
+6,67
+0
+12,82
+23,81
+20,35
+27,03
+34,25
+53,33
+37,5
+23,08
+23,81
+41,59
+35,14
+41,1
+26,67
+43,75
+48,72
+30,95
+32,74
+18,92
+8,22
+3,33
+18,75
+7,69
+14,29
+4,42
+10,81
+1,37
+0
+0
+0
+0
+0
+0
+10
+0
+7,69
+7,14
+0,88
+8,11
+0
+ADS
+DC
+EVE
+GAM
+GTI
+LOG
+SE
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+E - Não se aplica
+ F - Não sei responder
+52,94
+47,06
+A - Excelente
+ B - Muito bom
+ 
+ 
+Boletins e 
+informativos Fatec 
+(Impressos ou por 
+e–mail) 
+Questão não pertinente ao  segmento 
+Questão não pertinente ao  segmento 
+Ouvidoria 
+ 
+ 
+65,52
+18,97
+10,34
+1,72
+3,45
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+ F - Não sei responder
+68,97
+20,69
+6,9
+1,72
+1,72
+A - Excelente
+ B - Muito bom
+C - Regular
+E - Não se aplica
+ F - Não sei responder
+58,82
+23,53
+5,88
+5,88
+5,88
+A - Excelente
+ B - Muito bom
+C - Regular
+E - Não se aplica
+ F - Não sei responder
+ 
+ 
+SIGA 
+ 
+Questão não pertinente ao  segmento 
+Caixa e/ou espaço 
+para sugestões 
+ 
+Questão não pertinente ao  segmento 
+63,79
+15,52
+1,72 1,72 1,72
+15,52
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+E - Não se aplica
+ F - Não sei responder
+6,85
+16,67
+6,25
+23,08
+16,67
+36,28
+24,32
+16,44
+40
+37,5
+35,9
+33,33
+43,36
+18,92
+27,4
+26,67
+37,5
+25,64
+16,67
+15,93
+27,03
+42,47
+16,67
+18,75
+15,38
+33,33
+4,42
+27,03
+6,85
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2,7
+ADS
+DC
+EVE
+GAM
+GTI
+LOG
+SE
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+E - Não se aplica
+ F - Não sei responder
+34,48
+48,28
+13,79
+3,45
+0
+0
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+E - Não se aplica
+ F - Não sei responder
+41,18
+29,41
+11,76
+5,88
+11,76
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+E - Não se aplica
+ 
+ 
+ Mídias Sociais 
+ 
+Eventos que vão 
+ocorrer na Fatec e 
+envolvimento dos 
+técnicos 
+administrativos 
+Questão não pertinente ao  segmento 
+Questão não pertinente ao  segmento 
+53,45
+27,59
+3,45 1,72 3,45
+10,34
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+E - Não se aplica
+ F - Não sei responder
+1,37
+3,33
+0
+20,51
+19,05
+28,32
+13,51
+20,55
+33,33
+37,5
+35,9
+14,29
+33,63
+37,84
+38,36
+23,33
+50
+17,95
+26,19
+23,89
+10,81
+12,33
+16,67
+12,5
+7,69
+23,81
+7,96
+16,22
+1,37
+3,33
+0
+0
+0
+0
+0
+26,03
+20
+0
+17,95
+16,67
+6,19
+21,62
+ADS
+DC
+EVE
+GAM
+GTI
+LOG
+SE
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+E - Não se aplica
+ F - Não sei responder
+41,18
+41,18
+11,76
+5,88
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+58,82
+29,41
+11,76
+A - Excelente
+ B - Muito bom
+C - Regular
+ 
+ 
+Envolvimento do 
+pessoal técnico 
+administrativo no 
+Concurso Vestibular 
+Questão não pertinente ao  segmento 
+Questão não pertinente ao  segmento 
+Das decisões dos 
+órgãos superiores 
+da Fatec 
+Questão não pertinente ao  segmento 
+Questão não pertinente ao  segmento 
+76,47
+23,53
+A - Excelente
+ B - Muito bom
+47,06
+29,41
+23,53
+A - Excelente
+ B - Muito bom
+C - Regular
+ 
+ 
+Programas de 
+apoio -
+pedagógico 
+(monitoria, 
+nivelamento, 
+recuperação e 
+reforço do 
+aprendizado) 
+ 
+ 
+Programa de 
+apoio financeiro 
+(bolsas) 
+67,24
+22,41
+3,45
+3,45
+3,45
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+ F - Não sei responder
+9,59
+10
+0
+10,26
+21,43
+23,01
+24,32
+16,44
+30
+31,25
+28,21
+26,19
+30,97
+43,24
+27,4
+20
+37,5
+38,46
+16,67
+22,12
+8,11
+10,96
+13,33
+12,5
+12,82
+14,29
+4,42
+8,11
+4,11
+0
+0
+2,56
+0
+0
+2,7
+31,51
+26,67
+18,75
+7,69
+21,43
+19,47
+13,51
+ADS
+DC
+EVE
+GAM
+GTI
+LOG
+SE
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+E - Não se aplica
+ F - Não sei responder
+52,94
+29,41
+11,76
+5,88
+A - Excelente
+ B - Muito bom
+C - Regular
+ F - Não sei responder
+29,31
+12,07
+18,97
+8,62
+3,45
+27,59
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+E - Não se aplica
+ F - Não sei responder
+12,33
+6,67
+0
+5,13
+21,43
+21,24
+24,32
+5,48
+13,33
+18,75
+12,82
+19,05
+21,24
+10,81
+17,81
+10
+25
+12,82
+9,52
+13,27
+8,11
+5,48
+3,33
+12,5
+30,77
+14,29
+6,19
+8,11
+6,85
+0
+12,5
+7,69
+4,76
+6,19
+8,11
+52,05
+66,67
+31,25
+30,77
+30,95
+31,86
+40,54
+ADS
+DC
+EVE
+GAM
+GTI
+LOG
+SE
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+E - Não se aplica
+ F - Não sei responder
+17,6517,65
+29,41
+11,76
+5,88
+17,65
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+E - Não se aplica
+ F - Não sei responder
+ 
+ 
+Bolsas (Programas 
+de Intercâmbio e 
+de Mobilidade 
+Acadêmica) 
+Espaço para 
+participação e 
+convivência 
+estudantil 
+ 
+ 
+43,1
+10,34
+15,52
+8,62
+22,41
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+ F - Não sei responder
+6,85
+10
+0
+7,69
+14,29
+20,35
+18,92
+13,7
+13,33
+25
+15,38
+21,43
+24,78
+13,51
+21,92
+10
+25
+20,51
+11,9
+20,35
+8,11
+12,33
+10
+25
+25,64
+16,67
+7,96
+10,81
+5,48
+0
+0
+2,56
+2,38
+1,77
+8,11
+39,73
+56,67
+25
+28,21
+33,33
+24,78
+40,54
+ADS
+DC
+EVE
+GAM
+GTI
+LOG
+SE
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+E - Não se aplica
+ F - Não sei responder
+35,29 35,29
+11,76
+5,88
+11,76
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+ F - Não sei responder
+55,17
+22,41
+17,24
+5,17
+A - Excelente
+ B - Muito bom
+C - Regular
+ F - Não sei responder
+10,96
+16,67
+0
+10,26
+16,67
+21,24
+21,62
+34,25
+20
+18,75
+33,33
+33,33
+35,4
+27,03
+24,66
+36,67
+25
+33,33
+26,19
+25,66
+21,62
+15,07
+23,33
+50
+20,51
+11,9
+7,96
+8,11
+1,37
+0
+0
+0
+0
+0
+5,41
+13,7
+3,33
+6,25
+2,56
+11,9
+9,73
+16,22
+ADS
+DC
+EVE
+GAM
+GTI
+LOG
+SE
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+E - Não se aplica
+ F - Não sei responder
+52,94
+23,53
+11,76
+5,88
+5,88
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+ F - Não sei responder
+ 
+ 
+Acompanhament
+o de Egressos (ex-
+alunos) 
+Questão não pertinente ao  segmento 
+Estímulo à 
+frequência no 
+ambiente escolar 
+Questão não pertinente ao  segmento 
+ 
+Questão não pertinente ao  segmento 
+46,55
+29,31
+6,9
+3,45
+13,79
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+ F - Não sei responder
+29,41
+47,06
+11,76
+11,76
+A - Excelente
+ B - Muito bom
+C - Regular
+ F - Não sei responder
+10,96
+13,33
+6,25
+7,69
+16,67
+28,32
+24,32
+24,66
+36,67
+12,5
+46,15
+42,86
+36,28
+35,14
+34,25
+36,67
+43,75
+20,51
+14,29
+23,01
+21,62
+15,07
+6,67
+37,5
+20,51
+19,05
+6,19
+5,41
+4,11
+0
+0
+0
+0
+0,88
+5,41
+10,96
+6,67
+0
+5,13
+7,14
+5,31
+8,11
+ADS
+DC
+EVE
+GAM
+GTI
+LOG
+SE
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+E - Não se aplica
+ F - Não sei responder
+ 
+ 
+3.4 Eixo 4: Políticas de Gestão 
+ 
+Na “Políticas de Pessoal” pode-se dizer que cerca de 70% dos docentes 
+apontaram 
+boa 
+avaliação 
+para 
+as 
+questões 
+de 
+“Oportunidades 
+de 
+progressão/promoção do plano de carreira”, “Critérios de Evolução Funcional”, 
+“Incentivo a Formação Continuada” e “Programas de Capacitação e Atualização 
+Profissional”. Ao contrário do último relatório eles apontaram favoravelmente junto 
+com os discentes e técnicos administrativos a “Atuação dos Colegiados da Unidade 
+(Congregação ou Comissão de Implantação), CPA (Comissão Própria de Avaliação)”. 
+Tanto os docentes como discentes apontaram desconhecimento Programa INOVA 
+Paula Souza.  
+No mesmo eixo na dimensão a “Organização e Gestão da Instituição” a questão 
+segue como excelência quando se trata da participação da Direção na resolução de 
+conflitos pelos docentes. E excelência também na questão do apoio e orientação do 
+gestor imediato pelos técnicos administrativos.
+ 
+ 
+Dimensão 5: Políticas de Pessoal; Dimensão 6: Organização e Gestão da Instituição 
+QUESTÃO 
+DOCENTES 
+DISCENTES 
+TEC. ADM. 
+Oportunidades de 
+progressão/promoçã
+o 
+Questão não pertinente ao  segmento  
+ 
+ 
+Questão não pertinente ao  segmento 
+ 
+Critérios de 
+Evolução Funcional 
+ 
+Questão não pertinente ao  segmento 
+Questão não pertinente ao  segmento 
+41,38
+34,48
+13,79
+3,45 1,72 5,17
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+E - Não se aplica
+ F - Não sei responder
+36,2134,48
+18,97
+5,17
+1,72 3,45
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+E - Não se aplica
+ F - Não sei responder
+ 
+ 
+Incentivo a 
+Formação 
+Continuada 
+Questão não pertinente ao  segmento 
+Questão não pertinente ao  segmento 
+Programas de 
+Capacitação e 
+Atualização 
+Profissional 
+ 
+Questão não pertinente ao  segmento 
+Questão não pertinente ao  segmento 
+53,45
+24,14
+15,52
+1,72
+5,17
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+ F - Não sei responder
+56,9
+27,59
+8,62
+1,72
+5,17
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+ F - Não sei responder
+ 
+ 
+Atuação dos 
+Colegiados da 
+Unidade 
+(Congregação ou 
+Comissão de 
+Implantação); 
+Câmara de Ensino, 
+Pesquisa e Extensão 
+(CEPE); (se houver), 
+CPA (Comissão 
+Própria de Avaliação) 
+ 
+ 
+Programas 
+relacionados com a 
+saúde do servidor 
+Questão não pertinente ao  segmento 
+Questão não pertinente ao  segmento 
+ 
+70,69
+15,52
+1,72
+12,07
+A - Excelente
+ B - Muito bom
+E - Não se aplica
+ F - Não sei responder
+10,96
+6,67
+0
+7,69
+14,29
+21,24
+29,73
+19,18
+30
+31,25
+17,95
+14,29
+28,32
+24,32
+13,7
+13,33
+25
+33,33
+26,19
+14,16
+16,22
+2,74
+3,33
+0
+2,56
+4,76
+0
+0
+2,74
+0
+0
+0
+0
+2,65
+2,7
+50,68
+46,67
+43,75
+38,46
+40,48
+33,63
+27,03
+ADS
+DC
+EVE
+GAM
+GTI
+LOG
+SE
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+E - Não se aplica
+ F - Não sei responder
+58,82
+17,65 11,76 5,88
+0
+5,88
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+E - Não se aplica
+ F - Não sei responder
+23,53
+52,94
+11,76
+5,88
+5,88
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+E - Não se aplica
+ 
+ 
+Programas 
+relacionados com 
+prevenção às drogas 
+e à dependência 
+química 
+Questão não pertinente ao  segmento 
+Questão não pertinente ao  segmento 
+ 
+Acesso às ações de 
+capacitação e aos 
+programas de 
+capacitação 
+profissional 
+Questão não pertinente ao  segmento 
+Questão não pertinente ao  segmento 
+ 
+Orientação para o 
+exercício de suas 
+atividades 
+Questão não pertinente ao  segmento 
+Questão não pertinente ao  segmento 
+ 
+23,53
+47,06
+5,88
+11,76
+5,88
+5,88
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+E - Não se aplica
+ F - Não sei responder
+52,94
+23,53
+17,65
+5,88
+A - Excelente
+ B - Muito bom
+C - Regular
+E - Não se aplica
+52,94
+35,29
+5,88
+5,88
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+ 
+ 
+Aproveitamento de 
+suas habilidades e 
+competências para o 
+cargo em exercício 
+Questão não pertinente ao  segmento 
+Questão não pertinente ao  segmento 
+ 
+Satisfação com seu 
+trabalho 
+Questão não pertinente ao  segmento 
+Questão não pertinente ao  segmento 
+ 
+Coerência entre seu 
+trabalho e as 
+atribuições de seu 
+cargo 
+Questão não pertinente ao  segmento 
+Questão não pertinente ao  segmento 
+ 
+52,94
+35,29
+5,88
+5,88
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+58,82
+35,29
+5,88
+A - Excelente
+ B - Muito bom
+C - Regular
+64,71
+23,53
+11,76
+A - Excelente
+ B - Muito bom
+C - Regular
+ 
+ 
+Atuação do 
+colegiado de curso 
+(Ex: Conselho de 
+curso, NDE - Núcleo 
+Docente Estruturante 
+- / Coordenadoria; 
+Colegiado de curso) 
+ 
+Questão não pertinente ao  segmento 
+68,97
+17,24
+1,72
+1,72
+10,34
+A - Excelente
+ B - Muito bom
+C - Regular
+E - Não se aplica
+ F - Não sei responder
+10,96
+16,67
+6,25
+10,26
+19,05
+23,89
+29,73
+27,4
+40
+25
+33,33
+28,57
+29,2
+37,84
+20,55
+16,67
+43,75
+30,77
+14,29
+16,81
+5,41
+6,85
+6,67
+0
+5,13
+4,76
+0
+0
+1,37
+0
+0
+0
+0
+0,88
+2,7
+32,88
+20
+25
+20,51
+33,33
+29,2
+24,32
+ADS
+DC
+EVE
+GAM
+GTI
+LOG
+SE
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+E - Não se aplica
+ F - Não sei responder
+ 
+ 
+O reconhecimento da 
+equipe de direção 
+como uma liderança 
+capaz de coordenar e 
+levar adiante as 
+ações prioritárias 
+desta Unidade 
+Questão não pertinente ao  segmento 
+Questão não pertinente ao  segmento 
+ FETEPS 
+ 
+Questão não pertinente ao  segmento 
+24,66
+30
+12,5
+17,95
+23,81
+30,97
+32,43
+31,51
+40
+37,5
+25,64
+28,57
+38,94
+29,73
+23,29
+13,33
+31,25
+38,46
+19,05
+14,16
+16,22
+5,48
+3,33
+0
+0
+9,52
+0
+2,7
+0
+0
+0
+0
+0
+0
+2,7
+15,07
+13,33
+18,75
+17,95
+19,05
+15,93
+16,22
+ADS
+DC
+EVE
+GAM
+GTI
+LOG
+SE
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+E - Não se aplica
+ F - Não sei responder
+44,83
+22,41
+10,34
+1,72 1,72
+18,97
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+E - Não se aplica
+ F - Não sei responder
+9,59
+13,33
+0
+10,26
+16,67
+21,24
+18,92
+10,96
+10
+12,5
+17,95
+21,43
+27,43
+29,73
+6,85
+6,67
+12,5
+17,95
+4,76
+10,62
+5,41
+0
+0
+0
+0
+2,38
+0
+2,7
+2,74
+3,33
+0
+0
+2,38
+0,88
+0
+69,86
+66,67
+75
+53,85
+52,38
+39,82
+43,24
+ADS
+DC
+EVE
+GAM
+GTI
+LOG
+SE
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+E - Não se aplica
+ F - Não sei responder
+ 
+ 
+Programas de 
+Estágios 
+ 
+Questão não pertinente ao  segmento 
+Programas de 
+Iniciação Científica 
+Questão não pertinente ao  segmento v 
+63,79
+22,41
+1,72
+1,72
+10,34
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+ F - Não sei responder
+10,96
+10
+0
+12,82
+19,05
+26,55
+16,22
+21,92
+16,67
+31,25
+12,82
+28,57
+29,2
+24,32
+30,14
+20
+31,25
+25,64
+16,67
+23,01
+10,81
+9,59
+10
+12,5
+23,08
+16,67
+4,42
+16,22
+1,37
+0
+0
+0
+0
+0
+2,7
+26,03
+43,33
+25
+25,64
+19,05
+16,81
+29,73
+ADS
+DC
+EVE
+GAM
+GTI
+LOG
+SE
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+E - Não se aplica
+ F - Não sei responder
+41,38
+24,14
+10,34
+1,72 3,45
+18,97
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+E - Não se aplica
+ F - Não sei responder
+12,33
+16,67
+0
+10,26
+19,05
+20,35
+24,32
+26,03
+23,33
+37,5
+20,51
+14,29
+30,97
+27,03
+19,18
+3,33
+18,75
+28,21
+21,43
+18,58
+5,41
+12,33
+13,33
+0
+17,95
+7,14
+2,65
+10,81
+0
+0
+0
+0
+0
+1,77
+2,7
+30,14
+43,33
+43,75
+23,08
+38,1
+25,66
+29,73
+ADS
+DC
+EVE
+GAM
+GTI
+LOG
+SE
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+E - Não se aplica
+ F - Não sei responder
+ 
+ 
+ Programa INOVA 
+Paula Souza 
+ 
+Questão não pertinente ao  segmento 
+Participação da 
+Direção na resolução 
+de conflitos 
+ 
+Questão não pertinente ao  segmento 
+Questão não pertinente ao  segmento 
+44,83
+22,41
+10,34
+1,72 1,72
+18,97
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+E - Não se aplica
+ F - Não sei responder
+8,22
+13,33
+0
+5,13
+16,67
+21,24
+18,92
+13,7
+6,67
+18,75
+12,82
+19,05
+26,55
+24,32
+9,59
+3,33
+12,5
+10,26
+9,52
+15,93
+10,81
+1,37
+6,67
+0
+5,13
+4,76
+0,88
+5,41
+2,74
+0
+0
+0
+2,38
+0
+0
+64,38
+70
+68,75
+66,67
+47,62
+35,4
+40,54
+ADS
+DC
+EVE
+GAM
+GTI
+LOG
+SE
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+E - Não se aplica
+ F - Não sei responder
+81,03
+13,79
+1,72
+1,72
+1,72
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+ F - Não sei responder
+ 
+ 
+Apoio e orientação 
+do gestor imediato 
+Questão não pertinente ao  segmento 
+Questão não pertinente ao  segmento 
+ 
+Estímulo da gestão à 
+participação da 
+equipe na tomada de 
+decisões 
+Questão não pertinente ao  segmento 
+Questão não pertinente ao  segmento 
+’ 
+70,59
+29,41
+A - Excelente
+ B - Muito bom
+47,06
+35,29
+17,65
+A - Excelente
+ B - Muito bom
+C - Regular
+ 
+ 
+Representatividade 
+dos técnicos 
+administrativos nos 
+Colegiados da 
+unidade 
+Questão não pertinente ao  segmento 
+Questão não pertinente ao  segmento 
+Resolução dos 
+conflitos baseado no 
+diálogo e negociação 
+Questão não pertinente ao  segmento 
+Questão não pertinente ao  segmento 
+52,94
+29,41
+11,76
+5,88
+A - Excelente
+ B - Muito bom
+C - Regular
+ F - Não sei responder
+21,92
+26,67
+0
+15,38
+26,19
+27,43
+35,14
+38,36
+36,67
+56,25
+43,59
+40,48
+46,02
+32,43
+16,44
+16,67
+25
+23,08
+16,67
+16,81
+8,11
+6,85
+3,33
+6,25
+7,69
+2,38
+0,88
+0
+4,11
+0
+0
+0
+0
+0
+8,11
+12,33
+16,67
+12,5
+10,26
+14,29
+8,85
+16,22
+ADS
+DC
+EVE
+GAM
+GTI
+LOG
+SE
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+E - Não se aplica
+ F - Não sei responder
+ 
+ 
+Estímulo e apoio no 
+desenvolvimento das 
+resoluções de 
+situações problemas 
+Questão não pertinente ao  segmento 
+Questão não pertinente ao  segmento 
+17,81
+20
+0
+20,51
+21,43
+26,55
+32,43
+39,73
+56,67
+50
+33,33
+42,86
+42,48
+35,14
+20,55
+13,33
+31,25
+25,64
+23,81
+16,81
+8,11
+9,59
+0
+6,25
+7,69
+2,38
+1,77
+2,7
+0
+0
+0
+0
+0
+1,77
+5,41
+12,33
+10
+12,5
+12,82
+9,52
+10,62
+16,22
+ADS
+DC
+EVE
+GAM
+GTI
+LOG
+SE
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+E - Não se aplica
+ F - Não sei responder
+ 
+ 
+ 
+3.5 Eixo 5: Infraestrutura Física 
+ 
+Sobre a infraestrutura oferecida foram considerados satisfatórios tanto para 
+docentes, discentes e técnicos administrativos a quantidade de laboratórios, 
+Limpeza/Conservação, Iluminação/ Ventilação, Mobiliário e Equipamentos.  Já nas 
+questões “Qualidade e atualidade do acervo”, “Automação do sistema”, 
+“Disponibilidade da bibliografia básica (número de exemplares por título”, “Horário de 
+atendimento biblioteca” muitos alunos de todos os cursos não souberam respondê-
+las. Vale destacar, o item da cantina que foi apontada como grande fragilidade da 
+infraestrutura oferecida.  
+ 
+ 
+Dimensão 7: Infraestrutura Física 
+QUESTÃO 
+DOCENTES 
+DISCENTES 
+TEC. ADM. 
+Quantidade 
+Laboratórios  
+ 
+ 
+Limpeza/Conserva
+ção Laboratórios 
+ 
+ 
+ 
+50
+43,1
+5,17
+1,72
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+20,55
+10
+18,75
+17,95
+23,81
+26,55
+29,73
+30,14
+40
+50
+48,72
+45,24
+41,59
+32,43
+39,73
+36,67
+18,75
+20,51
+19,05
+19,47
+24,32
+2,74
+6,67
+12,5
+7,69
+4,76
+8,85
+8,11
+6,85
+6,67
+0
+5,13
+7,14
+3,54
+5,41
+ADS
+DC
+EVE
+GAM
+GTI
+LOG
+SE
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+ F - Não sei responder
+47,06
+35,29
+11,76
+5,88
+A - Excelente
+ B - Muito bom
+C - Regular
+ F - Não sei responder
+68,97
+25,86
+5,17
+A - Excelente
+ B - Muito bom
+C - Regular
+31,51
+26,67
+31,25
+30,77
+38,1
+36,28
+37,84
+46,58
+46,67
+50
+43,59
+42,86
+44,25
+40,54
+8,22
+16,67
+18,75
+20,51
+11,9
+14,16
+13,51
+1,37
+3,33
+0
+0
+0
+0,88
+2,7
+12,33
+6,67
+0
+5,13
+7,14
+4,42
+5,41
+ADS
+DC
+EVE
+GAM
+GTI
+LOG
+SE
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+ F - Não sei responder
+29,41
+35,29
+29,41
+5,88
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+ 
+ 
+Iluminação/ 
+Ventilação 
+Laboratórios 
+ 
+ 
+Mobiliário e 
+Equipamentos 
+Laboratórios 
+ 
+ 
+55,17
+32,76
+12,07
+A - Excelente
+ B - Muito bom
+C - Regular
+20,55
+20
+6,25
+17,95
+28,57
+25,66
+29,73
+41,1
+40
+43,75
+43,59
+35,71
+43,36
+37,84
+17,81
+23,33
+43,75
+30,77
+19,05
+19,47
+24,32
+8,22
+10
+6,25
+5,13
+4,76
+7,08
+2,7
+0
+0
+0
+0
+2,38
+0
+0
+12,33
+6,67
+0
+2,56
+9,52
+4,42
+5,41
+ADS
+DC
+EVE
+GAM
+GTI
+LOG
+SE
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+E - Não se aplica
+ F - Não sei responder
+23,53
+47,06
+23,53
+5,88
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+48,28
+36,21
+13,79
+1,72
+A - Excelente
+ B - Muito bom
+C - Regular
+ F - Não sei responder
+13,7
+10
+12,5
+12,82
+28,57
+24,78
+27,03
+34,25
+40
+43,75
+35,9
+38,1
+38,05
+35,14
+28,77
+33,33
+31,25
+30,77
+16,67
+30,09
+27,03
+12,33
+3,33
+12,5
+12,82
+7,14
+2,65
+5,41
+0
+0
+0
+0
+0
+0
+0
+10,96
+13,33
+0
+7,69
+9,52
+4,42
+5,41
+ADS
+DC
+EVE
+GAM
+GTI
+LOG
+SE
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+E - Não se aplica
+ F - Não sei responder
+17,65
+47,06
+29,41
+5,88
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+ 
+ 
+Acessibilidade 
+Laboratórios 
+ 
+ 
+Atendimento ao 
+usuário 
+ 
+ 
+55,17
+32,76
+8,62
+3,45
+A - Excelente
+ B - Muito bom
+C - Regular
+ F - Não sei responder
+15,07
+23,33
+0
+10,26
+28,57
+26,55
+27,03
+23,29
+23,33
+37,5
+10,26
+26,19
+36,28
+27,03
+31,51
+40
+25
+30,77
+35,71
+23,01
+29,73
+23,29
+10
+37,5
+28,21
+7,14
+10,62
+10,81
+0
+0
+0
+5,13
+0
+1,77
+0
+6,85
+3,33
+0
+15,38
+2,38
+1,77
+5,41
+ADS
+DC
+EVE
+GAM
+GTI
+LOG
+SE
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+E - Não se aplica
+ F - Não sei responder
+23,53
+52,94
+23,53
+A - Excelente
+ B - Muito bom
+C - Regular
+72,41
+24,14
+1,72
+1,72
+A - Excelente
+ B - Muito bom
+C - Regular
+ F - Não sei responder
+26,03
+16,67
+12,5
+33,33
+28,57
+31,86
+35,14
+36,99
+43,33
+43,75
+28,21
+28,57
+36,28
+29,73
+17,81
+16,67
+18,75
+17,95
+19,05
+22,12
+13,51
+2,74
+3,33
+18,75
+10,26
+2,38
+2,65
+5,41
+1,37
+0
+0
+0
+0
+0,88
+0
+15,07
+20
+6,25
+10,26
+21,43
+6,19
+16,22
+ADS
+DC
+EVE
+GAM
+GTI
+LOG
+SE
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+E - Não se aplica
+ F - Não sei responder
+70,59
+17,65
+5,88
+5,88
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+ 
+ 
+Automação do 
+sistema 
+ 
+Qualidade e 
+atualidade do 
+acervo 
+ 
+ 
+56,9
+32,76
+3,45
+6,9
+A - Excelente
+ B - Muito bom
+C - Regular
+ F - Não sei responder
+12,33
+13,33
+6,25
+10,26
+21,43
+23,01
+21,62
+31,51
+20
+18,75
+38,46
+26,19
+35,4
+21,62
+21,92
+16,67
+25
+25,64
+21,43
+21,24
+24,32
+6,85
+10
+18,75
+7,69
+4,76
+1,77
+5,41
+0
+0
+0
+0
+0
+1,77
+0
+27,4
+40
+31,25
+17,95
+26,19
+16,81
+27,03
+ADS
+DC
+EVE
+GAM
+GTI
+LOG
+SE
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+E - Não se aplica
+ F - Não sei responder
+41,18
+52,94
+5,88
+A - Excelente
+ B - Muito bom
+ F - Não sei responder
+36,21
+41,38
+15,52
+3,45
+3,45
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+ F - Não sei responder
+13,7
+16,67
+6,25
+12,82
+23,81
+22,12
+27,03
+36,99
+26,67
+43,75
+35,9
+38,1
+34,51
+32,43
+19,18
+26,67
+0
+25,64
+14,29
+23,89
+18,92
+6,85
+3,33
+25
+2,56
+2,38
+1,77
+2,7
+0
+0
+0
+0
+0
+0
+0
+23,29
+26,67
+25
+23,08
+21,43
+17,7
+18,92
+ADS
+DC
+EVE
+GAM
+GTI
+LOG
+SE
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+E - Não se aplica
+ F - Não sei responder
+23,53
+47,06
+23,53
+5,88
+A - Excelente
+ B - Muito bom
+C - Regular
+ F - Não sei responder
+ 
+ 
+Disponibilidade 
+da bibliografia 
+básica (número de 
+exemplares por 
+título 
+ 
+ 
+Horário de 
+atendimento 
+biblioteca 
+ 
+ 
+48,28
+31,03
+13,79
+3,45
+3,45
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+ F - Não sei responder
+13,7
+16,67
+6,25
+17,95
+11,9
+21,24
+24,32
+30,14
+13,33
+43,75
+43,59
+33,33
+41,59
+32,43
+24,66
+23,33
+0
+15,38
+28,57
+23,89
+21,62
+9,59
+13,33
+25
+5,13
+4,76
+1,77
+2,7
+0
+0
+6,25
+0
+0
+0
+2,7
+21,92
+33,33
+18,75
+17,95
+21,43
+11,5
+16,22
+ADS
+DC
+EVE
+GAM
+GTI
+LOG
+SE
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+E - Não se aplica
+ F - Não sei responder
+17,65
+64,71
+5,88
+5,88
+5,88
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+ F - Não sei responder
+36,21
+50
+6,9
+3,45
+3,45
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+ F - Não sei responder
+16,44
+20
+6,25
+23,08
+14,29
+13,27
+16,22
+35,62
+23,33
+25
+43,59
+40,48
+38,05
+27,03
+24,66
+33,33
+18,75
+17,95
+21,43
+33,63
+29,73
+8,22
+3,33
+43,75
+7,69
+9,52
+7,08
+8,11
+0
+0
+0
+0
+0
+0
+0
+15,07
+20
+6,25
+7,69
+14,29
+7,96
+18,92
+ADS
+DC
+EVE
+GAM
+GTI
+LOG
+SE
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+E - Não se aplica
+ F - Não sei responder
+23,53
+64,71
+11,76
+A - Excelente
+ B - Muito bom
+D - Insuficiente
+ 
+ 
+Secretaria 
+acadêmica 
+ 
+ 
+Espaços de 
+convivência 
+ 
+ 
+ 
+74,14
+22,41
+3,45
+A - Excelente
+ B - Muito bom
+C - Regular
+16,44
+20
+6,25
+12,82
+23,81
+30,97
+29,73
+35,62
+33,33
+50
+51,28
+40,48
+39,82
+43,24
+32,88
+33,33
+37,5
+23,08
+30,95
+23,89
+16,22
+9,59
+13,33
+6,25
+10,26
+4,76
+5,31
+2,7
+0
+0
+0
+0
+0
+0
+2,7
+5,48
+0
+0
+2,56
+0
+0
+5,41
+ADS
+DC
+EVE
+GAM
+GTI
+LOG
+SE
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+E - Não se aplica
+ F - Não sei responder
+41,18
+47,06
+11,76
+A - Excelente
+ B - Muito bom
+C - Regular
+48,28
+27,59
+20,69
+3,45
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+9,59
+13,33
+0
+7,69
+19,05
+24,78
+18,92
+27,4
+13,33
+18,75
+38,46
+21,43
+29,2
+32,43
+35,62
+30
+31,25
+33,33
+38,1
+34,51
+13,51
+26,03
+36,67
+50
+20,51
+16,67
+11,5
+29,73
+0
+0
+0
+0
+2,38
+0
+0
+1,37
+6,67
+0
+0
+2,38
+0
+5,41
+ADS
+DC
+EVE
+GAM
+GTI
+LOG
+SE
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+E - Não se aplica
+ F - Não sei responder
+29,41
+47,06
+17,65
+5,88
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+ 
+ 
+Serviços de 
+segurança 
+ 
+ 
+Serviços de 
+limpeza 
+ 
+ 
+ 
+56,9
+27,59
+13,79
+1,72
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+20,55
+13,33
+6,25
+10,26
+16,67
+25,66
+21,62
+36,99
+33,33
+37,5
+38,46
+52,38
+38,05
+45,95
+23,29
+33,33
+50
+20,51
+19,05
+23,01
+13,51
+16,44
+13,33
+6,25
+25,64
+9,52
+13,27
+13,51
+0
+0
+0
+2,56
+0
+0
+0
+2,74
+6,67
+0
+2,56
+2,38
+0
+5,41
+ADS
+DC
+EVE
+GAM
+GTI
+LOG
+SE
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+E - Não se aplica
+ F - Não sei responder
+23,53
+35,29
+23,53
+17,65
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+68,97
+13,79 15,52
+1,72
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+38,36
+30
+18,75
+30,77
+28,57
+41,59
+45,95
+45,21
+43,33
+43,75
+38,46
+54,76
+34,51
+40,54
+10,96
+13,33
+25
+25,64
+14,29
+19,47
+5,41
+4,11
+13,33
+12,5
+5,13
+2,38
+4,42
+2,7
+1,37
+0
+0
+0
+0
+0
+5,41
+ADS
+DC
+EVE
+GAM
+GTI
+LOG
+SE
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+ F - Não sei responder
+23,53
+29,41
+17,65
+29,41
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+ 
+ 
+Cantina 
+ 
+ 
+Quantidade 
+ 
+ 
+10,34
+1,72 1,72
+6,9
+72,41
+6,9
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+E - Não se aplica
+ F - Não sei responder
+0
+0
+0
+0
+7,14
+5,31
+2,7
+1,37
+0
+0
+0
+2,38
+5,31
+2,7
+5,48
+0
+0
+7,69
+4,76
+4,42
+2,7
+28,77
+53,33
+25
+28,21
+54,76
+38,05
+45,95
+57,53
+40
+75
+61,54
+28,57
+44,25
+40,54
+6,85
+6,67
+0
+2,56
+2,38
+2,65
+5,41
+ADS
+DC
+EVE
+GAM
+GTI
+LOG
+SE
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+E - Não se aplica
+ F - Não sei responder
+5,88
+88,24
+5,88
+D - Insuficiente
+E - Não se aplica
+ F - Não sei responder
+37,93 39,66
+20,69
+1,72
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+24,66
+20
+37,5
+28,21
+23,81
+31,86
+37,84
+38,36
+56,67
+25
+41,03
+40,48
+46,9
+37,84
+21,92
+23,33
+37,5
+23,08
+30,95
+16,81
+21,62
+10,96
+0
+0
+5,13
+4,76
+2,65
+0
+0
+0
+0
+0
+0
+0,88
+0
+4,11
+0
+0
+2,56
+0
+0,88
+2,7
+ADS
+DC
+EVE
+GAM
+GTI
+LOG
+SE
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+E - Não se aplica
+ F - Não sei responder
+29,41
+35,29
+17,65
+11,76
+5,88
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+ F - Não sei responder
+ 
+ 
+Limpeza/Conserva
+ção 
+ 
+ 
+Iluminação/ 
+Ventilação 
+ 
+ 
+60,34
+27,59
+8,62 3,45
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+24,66
+20
+31,25
+30,77
+23,81
+35,4
+35,14
+53,42
+46,67
+37,5
+38,46
+52,38
+39,82
+40,54
+13,7
+33,33
+25
+25,64
+21,43
+22,12
+16,22
+6,85
+0
+6,25
+2,56
+2,38
+2,65
+5,41
+1,37
+0
+0
+2,56
+0
+0
+2,7
+ADS
+DC
+EVE
+GAM
+GTI
+LOG
+SE
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+ F - Não sei responder
+23,53
+35,29
+29,41
+11,76
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+27,59
+39,66
+25,86
+6,9
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+6,85
+13,33
+0
+7,69
+14,29
+23,01
+18,92
+24,66
+26,67
+31,25
+25,64
+28,57
+31,86
+29,73
+34,25
+46,67
+43,75
+35,9
+35,71
+30,97
+29,73
+31,51
+13,33
+25
+30,77
+21,43
+14,16
+18,92
+1,37
+0
+0
+0
+0
+0
+0
+1,37
+0
+0
+0
+0
+0
+2,7
+ADS
+DC
+EVE
+GAM
+GTI
+LOG
+SE
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+E - Não se aplica
+ F - Não sei responder
+17,65
+47,06
+23,53
+11,76
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+ 
+ 
+Mobiliário e 
+Equipamentos 
+ 
+ 
+Acessibilidade 
+ 
+ 
+36,21
+41,38
+18,97
+3,45
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+9,59
+16,67
+6,25
+10,26
+19,05
+26,55
+21,62
+30,14
+36,67
+31,25
+25,64
+35,71
+38,94
+56,76
+35,62
+36,67
+62,5
+43,59
+28,57
+25,66
+16,22
+24,66
+10
+0
+15,38
+11,9
+8,85
+2,7
+0
+0
+0
+2,56
+4,76
+0
+0
+0
+0
+0
+2,56
+0
+0
+2,7
+ADS
+DC
+EVE
+GAM
+GTI
+LOG
+SE
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+E - Não se aplica
+ F - Não sei responder
+23,53
+41,18
+29,41
+5,88
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+39,66
+31,03
+24,14
+5,17
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+10,96
+13,33
+0
+5,13
+19,05
+26,55
+24,32
+15,07
+30
+37,5
+23,08
+28,57
+34,51
+24,32
+32,88
+36,67
+43,75
+33,33
+35,71
+25,66
+29,73
+35,62
+13,33
+18,75
+30,77
+11,9
+12,39
+13,51
+0
+0
+0
+2,56
+0
+0
+0
+5,48
+6,67
+0
+5,13
+4,76
+0,88
+8,11
+ADS
+DC
+EVE
+GAM
+GTI
+LOG
+SE
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+E - Não se aplica
+ F - Não sei responder
+23,53
+47,06
+11,76
+17,65
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+ 
+ 
+Quantidade 
+ 
+ 
+ 
+Limpeza/Conserva
+ção 
+ 
+36,21
+43,1
+13,79
+3,45
+3,45
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+ F - Não sei responder
+21,92
+16,67
+12,5
+15,38
+21,43
+21,24
+32,43
+38,36
+20
+43,75
+28,21
+35,71
+46,02
+32,43
+26,03
+56,67
+31,25
+15,38
+28,57
+23,01
+24,32
+12,33
+3,33
+12,5
+30,77
+11,9
+6,19
+8,11
+0
+0
+0
+5,13
+0
+0,88
+0
+1,37
+3,33
+0
+5,13
+2,38
+2,65
+2,7
+ADS
+DC
+EVE
+GAM
+GTI
+LOG
+SE
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+E - Não se aplica
+ F - Não sei responder
+17,65
+47,06
+17,65 11,76 5,88
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+ F - Não sei responder
+63,79
+24,14
+8,62
+1,72
+1,72
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+ F - Não sei responder
+24,66
+26,67
+25
+17,95
+26,19
+38,05
+37,84
+47,95
+46,67
+31,25
+35,9
+52,38
+38,05
+35,14
+19,18
+23,33
+37,5
+33,33
+16,67
+20,35
+21,62
+8,22
+3,33
+6,25
+0
+4,76
+2,65
+2,7
+0
+0
+0
+5,13
+0
+0,88
+0
+0
+0
+0
+7,69
+0
+0
+2,7
+ADS
+DC
+EVE
+GAM
+GTI
+LOG
+SE
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+E - Não se aplica
+ F - Não sei responder
+23,53
+58,82
+5,88
+11,76
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+ 
+ 
+Iluminação/ 
+Ventilação 
+ 
+Mobiliário e 
+Equipamentos 
+ 
+41,38 36,21
+17,24
+3,45
+1,72
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+ F - Não sei responder
+12,33
+16,67
+0
+7,69
+19,05
+28,32
+24,32
+28,77
+26,67
+31,25
+33,33
+30,95
+30,09
+32,43
+36,99
+33,33
+56,25
+35,9
+33,33
+26,55
+24,32
+21,92
+23,33
+12,5
+12,82
+16,67
+13,27
+16,22
+0
+0
+0
+5,13
+0
+1,77
+0
+0
+0
+0
+5,13
+0
+0
+2,7
+ADS
+DC
+EVE
+GAM
+GTI
+LOG
+SE
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+E - Não se aplica
+ F - Não sei responder
+17,65
+58,82
+11,76 11,76
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+43,1
+32,76
+18,97
+1,72
+3,45
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+ F - Não sei responder
+9,59
+13,33
+6,25
+7,69
+21,43
+26,55
+18,92
+15,07
+33,33
+31,25
+25,64
+38,1
+31,86
+35,14
+45,21
+36,67
+62,5
+38,46
+30,95
+32,74
+35,14
+30,14
+16,67
+0
+15,38
+9,52
+7,08
+8,11
+0
+0
+0
+2,56
+0
+1,77
+0
+0
+0
+0
+10,26
+0
+0
+2,7
+ADS
+DC
+EVE
+GAM
+GTI
+LOG
+SE
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+E - Não se aplica
+ F - Não sei responder
+17,65
+58,82
+11,76 11,76
+A - Excelente
+ B - Muito bom
+C - Regular
+D - Insuficiente
+ 
+ 
+Qual a sua 
+avaliação  da 
+estabilidade da 
+internet durante o 
+trabalho? 
+Questão não pertinente ao  segmento 
+Questão não pertinente ao  segmento 
+23,53
+47,06
+29,41
+A - Excelente
+ B - Muito bom
+C - Regular
+ 
+ 
+4 ANÁLISE DOS DADOS E AÇÕES PROPOSTAS DADOS DE 2021  
+ 
+EIXO 1: PLANEJAMENTO E AVALIAÇÃO INSTITUCIONAL - Dimensão 8: Planejamento e Avaliação 
+ 
+FRAGILIDADES 
+ 
+ 
+ 
+AÇÕES PLANEJADAS  
+AÇÕES REALIZADAS 
+ 
+PRAZOS   
+Desconhecimento do PDI por parte dos alunos  
+Reforço na divulgação, na recepção calouros, na intranet e 
+conversas com os discentes; apoio dos representantes de 
+sala, Inclusão de informações no Site e na Intranet dos Alunos. 
+Conversa com os alunos sobre o PDI 
+Divulgação na recepção dos calouros; conversa com os 
+alunos, reuniões semestrais com representantes de sala, 
+sobre o PDI,  
+1 ano 
+Falta de conhecimento sobre o uso dos indicadores da 
+Avaliação Institucional (WEBSAI) no Planejamento 
+Institucional dos discentes  
+Divulgar junto ao PDI  e reforço na divulgação, na recepção 
+calouros, na intranet e conversas com os discentes,  com 
+apoio dos represnetantes de sala para difusão dos resultados.  
+Divulgação na recepção dos calouros; conversa com os 
+alunos, reuniões semestrais com representantes de sala, 
+sobre o WEBSAI 
+1 ano 
+ 
+POTENCIALIDADES 
+ 
+ 
+ 
+AÇÕES PLANEJADAS  
+AÇÕES REALIZADAS 
+ 
+PRAZOS   
+Promover articulação da (s) disciplina (s) com outra (s) 
+disciplina (s) dos cursos pelos docentes  
+Divulgação a docentes e discentes.  
+Divulgação  a docentes e discentes com casos realizados 
+durante cada semestre,  incluir como pauta  nas reuniões 
+de representantes.  
+1 ano 
+Os discentes relataram que os docentes empregam de 
+forma pontual as estratégias de ensino (metodologias) 
+que favorecem o interesse, envolvimento e a 
+aprendizagem dos estudantes. 
+Monitoramento contínuo da presença por parte de docentes e 
+coordenadores sobre tema. 
+Monitoramento contínuo da presença por parte de 
+docentes e coordenadores; discussão com os 
+coordenadores e discente; grupo de pesquisa sobre 
+metodologias ativas. 
+1 ano 
+ 
+ 
+ 
+EIXO 2: DESENVOLVIMENTO INSTITUCIONAL - Dimensão 1: Missão e Plano de Desenvolvimento Institucional 
+Dimensão 3: Responsabilidade Social da Instituição 
+ 
+FRAGILIDADES 
+ 
+ 
+AÇÕES PLANEJADAS 
+AÇÕES REALIZADAS 
+PRAZOS 
+Falta da disseminação da cultura e da arte 
+A unidade realiza diversos eventos que promovem a 
+disseminação da cultura e da arte e são amplamente 
+divulgados via site e redes sociais oficiais da faculdade.  
+ 
+Divulgação geral dos eventos, abordagens em sala de aula, 
+sobre o tema, participação em feiras, visitas a museus, 
+vernissages, Clube do Livro, e tantas outras já realizadas.   
+1 ano 
+Falta de Inclusão social 
+Divulgação da política de inclusão da Unidade. 
+Casos específicos não são relatados para garantir a 
+privacidade dos alunos em situações de deficiência. 
+Divulgação geral da política de inclusão e solicitação para 
+que interessados entrem em contato direto com a DA / 
+coordenação 
+1 ano 
+Falta de coerência do PDI em relação à missão pelos 
+docentes  
+Divulgar e comentar sobre PDI nas reuniões pedagógicas  
+Comunicação e divulgação ampla junto aos docentes, 
+iniciar e finalizar cada semestre as reuniões pedagógicas 
+relacionando o tema.  
+1 ano 
+ 
+POTENCIALIDADES 
+ 
+ 
+ 
+AÇÕES PLANEJADAS  
+AÇÕES REALIZADAS 
+ 
+PRAZOS   
+Boa relações interpessoais entre os dos técnicos 
+administrativos com os discentes e docentes 
+Divulgação aos docentes e funcionários 
+Divulgação e comunicação aos docentes e funcionários 
+1 ano 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+EIXO 3: POLÍTICAS ACADÊMICAS - Dimensão 2: Políticas para o Ensino, a Pesquisa e a Extensão 
+Dimensão 4: Comunicação com a Sociedade, Dimensão 9: Política de Atendimento aos Discentes 
+ 
+FRAGILIDADES 
+ 
+ 
+ 
+AÇÕES PLANEJADAS  
+AÇÕES REALIZADAS 
+ 
+PRAZOS   
+Falta de conhecimento das Políticas para o Ensino a 
+Pesquisa e a Extensão pelos docentes e discentes  
+Organização e planejamento da comissão de pesquisa e 
+extensão da unidade.  
+Divulgar e comunicar as estratégias e possibilidades 
+levantadas pela comissão de pesquisa e extensão da 
+unidade, para o conhecimento de tudo que é realizado ao 
+longo dos semestre, além da comunicação nos sites e 
+mídias sociais,  
+6 meses 
+Alunos não reconhecem sobre o estágio supervisionado 
+como espaço de formação profissional 
+Divulgação das informações sobre estágio no acolhimento dos 
+entrantes e a cada semestre individualmente (por sala). 
+Divulgação das informações sobre estágio no acolhimento 
+dos entrantes e a cada semestre individualmente (por sala) 
+pela coordenação de estágio / páginas específicas no site. 
+6 meses 
+ 
+POTENCIALIDADES 
+ 
+ 
+ 
+AÇÕES PLANEJADAS  
+AÇÕES REALIZADAS 
+ 
+PRAZOS   
+Satisfação com curso escolhido pelo discentes   
+Conscientização contínua e incentivo ao curso. 
+Orientação e acolhimento aos discentes desde o início 
+acadêmico na unidade.   
+1 ano 
+Apresentação do Plano de ensino por grande parte dos 
+professores 
+Coordenação monitorar a atualização e postagem dos planos 
+de ensinos no sistema dos docentes.  
+Reforço em toda reunião pedagógica pela coordenação 
+sobre a importância de ter o plano de ensino atualizado e 
+iniciar a disciplina com ele.  
+1 ano 
+ 
+ 
+ 
+ 
+ 
+EIXO 4: POLÍTICAS DE GESTÃO - Dimensão 5: Políticas de Pessoal, Dimensão 6: Organização e Gestão da 
+Instituição, 
+ 
+FRAGILIDADES 
+ 
+ 
+ 
+AÇÕES PLANEJADAS  
+AÇÕES REALIZADAS 
+ 
+PRAZOS   
+Falta de conhecimento da ouvidora pelos discentes e 
+também das mídias sociais pelos docentes e alunos 
+Reforço na divulgação, na recepção de calouros, na intranet e 
+conversas com os discentes; apoio dos representantes de 
+sala, sobre as mídias inclusive a ouvidoria.  
+Divulgação interna aos membros. 
+1 ano 
+Desconhecimento Programa INOVA Paula Souza pelos 
+discentes 
+Divulgação das ações já realizadas sobre o programa INOVA  e  
+inserção dele em aula, em disciplinas de empreendedorismo e 
+inovação. 
+Divulgação conforme planejado. 
+1 ano 
+ 
+POTENCIALIDADES 
+ 
+ 
+ 
+AÇÕES PLANEJADAS  
+AÇÕES REALIZADAS 
+ 
+PRAZOS   
+Atuação dos Colegiados da Unidade (Congregação ou 
+Comissão de Implantação), CPA (Comissão Própria de 
+Avaliação) 
+Divulgação e comunicação de cada entidade, gerando 
+transparência  e efetividade dos mesmos. 
+Divulgação e comunicação de cada entidade, gerando 
+transparência e efetividade dos mesmos. A comunidade 
+fatecana é sempre convidada a participar das reuniões e 
+ações realizadas. 
+1 ano 
+Boa avaliação também por parte dos técnicos quando o 
+apoio e orientação do gestor imediato 
+Participação e envolvimento contínuo dos gestores junto aos 
+seus funcionários.  
+Manter a participação e envolvimento, além promover 
+eventos para seguir com a boa relação entre eles.  
+1 ano 
+ 
+ 
+ 
+ 
+ 
+EIXO 5: INFRAESTRUTURA - Dimensão 7: Infraestrutura Física 
+ 
+FRAGILIDADES 
+ 
+ 
+ 
+AÇÕES PLANEJADAS  
+AÇÕES REALIZADAS 
+ 
+PRAZOS   
+Qualidade e atualidade do acervo”, “Automação do 
+sistema”, “Disponibilidade da bibliografia básica 
+(número de exemplares por título)”, “Horário de 
+atendimento biblioteca” muitos alunos de todos os 
+cursos não souberam respondê-las 
+Com a disseminação de bibliotecas online o espaço físico vem 
+sendo pouco utilizado, divulgar nos meios de comunicação a 
+importância dela e incentivar os docentes incluí-la como parte 
+das aulas.   
+Divulgar nos meios de comunicação a importância dela e 
+incentivar os docentes incluí-la como parte das aulas no 
+plano de ensino.    
+1 ano 
+Cantina que foi apontada como grande fragilidade da 
+infraestrutura 
+O Complexo Fepasa - local onde está a unidade - possui um 
+plano diretor e ações para áreas gastronômicas que já estão 
+sendo realizadas.  
+Contribuição junto a prefeitura municipal com o plano 
+diretor do Complexo Fepasa.  
+1 ano 
+ 
+POTENCIALIDADES 
+ 
+ 
+ 
+AÇÕES PLANEJADAS  
+AÇÕES REALIZADAS 
+ 
+PRAZOS   
+Quantidade de laboratórios, Limpeza/Conservação, 
+Iluminação/ Ventilação, Mobiliário e Equipamentos. 
+Ampliação e manutenção constantes dos laboratórios, sempre 
+visando a melhoria dos mesmos.  
+Ampliação e manutenção dos laboratórios.  
+1 ano 
+ 
+ 
+ 
+ 
+6 CONSIDERAÇÕES FINAIS 
+ 
+A Comissão Própria de Avaliação, pelo seu trabalho, visa oferecer subsídios capazes de 
+auxiliar a tomada de decisão e planejamento institucional, na busca de contínua melhoria da 
+qualidade do ensino, da pesquisa, da extensão e da gestão. Sendo assim um importante 
+instrumento para a Direção. 
+Dentre as principais ações advindas desse processo, podemos salientar: 
+ 
+● Divulgação das atividades realizadas pelas comissões na intranet dos professores; 
+● Gestão participativa da Direção na gestão da Unidade;  
+● Canal entre direção, coordenação e docentes totalmente transparente; 
+● Reunião com o diretor e coordenadores explicando os anseios do corpo docente;  
+● Apoio a projetos desenvolvidos na Unidade por docentes. 
+ 
+Os resultados apresentados contemplam as dez dimensões auto avaliativas do SINAES e 
+foram analisados e discutidos por todos os membros da comunidade institucional: direção, 
+coordenações de cursos, setores administrativos, gestores, professores e alunos. 
+Os dados coletados, as análises e propostas foram divulgados e serão objetos de 
+comparação na próxima avaliação, para elucidar os avanços alcançados, reforçando o quanto a 
+avaliação contribui para a gestão dos resultados.  
+ 
+Jundiaí, 28 de fevereiro de 2023. 
+  
+Coordenador da CPA  
+Profa. Dra. Lívia Maria Louzada Brandão – Professor da IES 
+ 
+Membros da CPA  
+Profa. Dra. Mariana Garcia de Abreu Tenani - Representante docente 
+Representante discente: Julia silva Neves 
+Representante do corpo Técnico administrativo: Jefferson Gomes da Silva 
+Representante da Sociedade Civil: Bruno Inoccente. 
+ 

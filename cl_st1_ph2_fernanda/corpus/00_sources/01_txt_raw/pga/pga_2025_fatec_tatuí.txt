@@ -1,0 +1,9451 @@
+PLANO DE GESTÃO ANUAL 
+PGA 2025 
+V04 
+Estruturado em uma única etapa, contendo 2 anexos: 
+PLANEJAMENTO PELA EQUIPE GESTORA DA UE 
+• Anexo 1 – Lista de equipamentos necessários aos projetos 
+• Anexo 2 – Lista de Ações/Projetos referentes à CPA (Origem 3: Gestão Tática – CPA) 
+ 
+IDENTIFICAÇÃO DA UNIDADE 
+Unidade 
+código F132 
+Fatec Tatuí, Jardim Aeroporto 
+Diretor(a) 
+Anderson Luiz de Souza 
+ 
+PLANEJAMENTO PELA EQUIPE GESTORA DA UE 
+(Administração da Faculdade - Deliberação CEETEPS 31/2016) 
+ANÁLISE DO CENÁRIO 
+Descrever de forma breve e objetiva o cenário da Unidade perante sua missão como Unidade de Ensino na localidade em que 
+se encontra (é este cenário que se pretende melhorar). 
+Com localização privilegiada, 3 (três) das principais rodovias do Estado estão próximas de Tatuí ou atravessam seu 
+território, sendo elas:Rodovia Castello Branco; Rodovia Marechal Rondon; e,Rodovia Raposo Tavares O município 
+Tatuí está inserido entre os 5 maiores centros urbanos da Região Metropolitana de Sorocaba (RMS), sendo, 
+inclusive, escolhidacomo uma de suas 3 (três) subsedes regionais devido a sua importância econômica, social, 
+demográfica e sua posição geográfica. Todavia, para efeito desta análise, considerando que 6 (seis) municípios não 
+integram a subsede metropolitana de Tatuí considerando a área da RMS, mas estão muito próximos e são por ela 
+influenciadas ou interrelacionadas ao município, adotar- se-á a denominação “microrregião de Tatuí” para 18 
+municípios que estão a uma distância média de apenas 36 Km de Tatuí, sendo eles: Alambari, Boituva, Capela do 
+Alto, Cerquilho, Cesário Lange, Conchas, Guareí, Iperó, Itapetininga, Jumirim, LaranjalPaulista, Pereiras, 
+Porangaba, Quadra, Sarapuí, Tatuí, Tietê e Torre de Pedra. O município de Tatuí e as demais 17 cidades de seu 
+entorno (microrregião) abrigam um importante parque industrial (representativos 29,07% do PIB/valor 
+adicionado, acima da média estadual de 20,29%), um pujante setor de serviços (65,37%, abaixo da média estadual 
+de 78,03%), seguindo a tendência nacional e um setor agropecuário de grande relevância (5,57%, mais de 3,3 
+vezes a média estadual de 1,67%), esta última base das cadeias produtivas da indústria de alimentos regionais, 
+bastante significativas. No caso específico de Tatuí, observa-se na formação do PIB de 2019 o peso de 28,3% para a 
+indústria, 68,56% para o setor de serviços e 3,14% para a agropecuária com perfil bastante próximo ao de sua 
+microrregião. Sobre os Indicadores Socioeconômicos de Tatuí e sua Microrregião, apresentamos os que segue: a) 
+Porte populacional e econômico Em relação ao tamanho da população estimada da microrregião de Tatuí em 2021 
+(Seade), ela alcança 606.474 habitantes, perfazendo taxa geométrica de crescimento anual (TGCA 2010 a 2021) de 
+1,2146%, taxa de urbanização de 87,8%, área de 6.377,72 Km² e densidade demográfica de 95,09 hab. por Km². b) 
+Índice de Desenvolvimento Humano – IDH O Índice de Desenvolvimento Humano - IDH (PNUD, 2010) dos 
+municípios que compõem a microrregião Tatuí variam entre 0,699a 0,782 e estão na faixa considerada como de 
+“alto desenvolvimento humano”. Quanto aos dados da distribuição de renda da cidade de Tatuí, os mesmos ainda 
+são relativos ao Censo de 2010. Por eles,verificam-se preocupantes: 28,% dos responsáveis pelos domicílios sem 
+rendimento ou com rendimento de até 1 saláriomínimo; 51% dos responsáveis têm renda entre 1 a 3 salários 
+mínimos; e 1% tem acima de 3 salários-mínimos. Sobre a evolução da demanda por profissionais com formação 
+tecnológica de acordo com as necessidades setoriais, destacam-se: a) Evolução dos Empregos por Setor Quanto à 
+distribuição dos empregos na microrregião de Tatuí em 2019 (ainda antes da pandemia), o setor de serviços 
+atingiu 52.176 postos ou 34,26% do total; o setor do comércio alcançou 28.905 empregos ou 18,98% do total; o 
+setor industrial chegou a 52.733 empregos ou 34,63% do total; a construção civil mensurou 4.609 empregos ou 
+3,03% do total; a agropecuária somou 13.857 empregos ou 9,1% do total. Todos os setores, juntos, somam 
+152.280 empregos, pouco mais (1,39%) do que o mensurado em 2015, com 150.192 postos de trabalho. Houve 
+crescimento de empregos na indústria, agropecuária e serviços, com queda na construção e comércio. 
+Naturalmente ocorreu o impacto negativo da pandemia na geração de empregos, e a medição da recuperação 
+somente poderá ser melhor vista a partir de meados de 2023 com a consolidação de dados secundário de 2022. 
+Depreende-se em análise desses dados que, como Indicador Líquido de Emprego (ILE) a microrregião de Tatuí 
+gerou 2.088 novos empregos acumulados entre 2015 e 2019 (ou 1,39%), ou 522 novas vagas anuais. 
+Especificamente para o município de Tatuí, entre 2015 e 2019 houve a diminuição do saldo de empregos formais 
+de 30.074 para 29.395 (-679 vagas ou -2,26%), impulsionados especialmente pela perda de empregos na indústria, 
+recuando de 8.948 para 8.378 vagas ou –570 postos. Logo, no período de 2015 a 2019 houve uma ligeira 
+diminuição de empregos formais. b) Evolução do número de Empresas e MEIs: perspectivas. 
+Em relação ao número de empresas na microrregião de Tatuí em 2019, o setor de serviços atingiu 7.189 
+estabelecimentos ou 37,4% do total; o setor do comércio alcançou 6.394 estabelecimentos ou 33,3% do total; o 
+setor industrial alcançou 1.764 estabelecimentos ou 9,19% do total. A Fatec Tatuí foi criada em 03 de Março de 
+2006, por meio da publicação do Decreto nº 50.578/2006, a Fatec Tatuí “Professor Wilson Roberto Ribeiro de 
+Camargo”, foi a primeira faculdade pública estadual de sua microrregião e, desde então, dentro de referenciais de 
+excelência, vem atendendo as demandas sociais e do mundo do trabalho. Desde sua criação, os cursos foram 
+implantados de forma a atender as demandas nas áreas da indústria, nas áreas de comércio e serviços e nas áreas 
+da economia criativa e da inovação. Nesse contexto, atualmente são oferecidos gratuitamente sete Cursos 
+Superiores de Tecnologia: AUTOMAÇÃO INDUSTRIAL; GESTÃO EMPRESARIAL; GESTÃO DA TECNOLOGIA DA 
+INFORMAÇÃO; MANUTENÇÃO INDUSTRIAL, PRODUÇÃO FONOGRÁFICA , PROCESSOS GERÊNCIAS (AMS) e ANÁLISE 
+E DESENVOLVIMENTO DE SISTEMAS (AMS). Anualmente, a Fatec Tatuí oferece 880 vagas, e hoje conta com uma 
+população de 1466 alunos dos quais 55%, residem em Tatuí e outros 45% são residentes nas demais cidades de 
+sua microrregião evidenciando a importância regional da Fatec Tatuí. Além dos seus CSTs, a Fatec Tatuí , participa 
+ativamente de programas de capacitação básica que visam preparar o jovem para o mercado de trabalho. Em 
+parceria com a Prefeitura Municipal executamos os Cursos do programa Qualifica-Jovem; em parceria com a 
+empresa Elektro S.A e com a FAT – Fundação de Apoio a Tecnologia oferecemos a escola de eletrecistas e, no 
+âmbito estadual, oferecemos cursos dos programas via rápida e Novotec expresso. Vale destacar que, desde 2018, 
+a Fatec Tatuí passou ser Polo da UNIVESP e desde 2020, em parceria com a Etec Sales Gomes, aderimos ao 
+programa de Articulação da formação Profissional Média e Superior. Nesse sentido, em função da sua qualidade 
+de ensino, de sua infraestrutura, de suas parcerias e da diversidade de suas ações, a Fatec Tatuí transformou-se, 
+regionalmente, em um complexo educacional que vem impactando fortemente na formação profissional de Tatuí 
+e região. Sendo assim, no que segue será apresentado o planejamento para o ano de 2025 e, para subsidiar esse 
+planejamento, será tomado como base os resultados do processo de autoavaliação institucional (WEBSAI 2024) 
+conduzido pela Comissão Própria de Avaliação da Fatec Tatuí que, na busca de contínua melhoria da qualidade do 
+ensino, da pesquisa, da extensão e da gestão, em nossa Unidade, assinalou os seguintes pontos de melhoria: 
+Comunicação com a comunidade acadêmica; Manutenção e conservação predial; Infraestrutura predial (espaços, 
+sistemas); Infraestrutura laboratorial e ambientes de ensino; Materiais, equipamentos e mobiliários; Comunicação 
+com a comunidade acadêmica. Tomando-se como base os apontamentos realizados pela CPA, fica evidente a 
+necessidade de atenção para a estrutura física da unidade, seja para manutenção predial ou laboratorial da 
+estrutura já existente, que vem se deteriorando sem a devida reposição ou reforma, como também uma atenção 
+para a atualização dos laboratórios em termos de hardware, software e toda infraestrutura, essencial para o 
+funcionamento dos cursos de tecnologia.  
+ 
+ 
+• Discorrer sobre o cenário, realizando um breve diagnóstico (limitar o espaço da escrita, para que seja inserido de forma sucinta). 
+APONTAMENTO DE SITUAÇÕES-PROBLEMA MAIS RELEVANTES 
+Fontes: relatório CPA, análise de processos críticos da UE, relatório de atendimento e ocorrências Hórus, relatório NDE, 
+relatório de representação discente (DA, Atlética, representantes de turma), relatório CIPA, entre outros. 
+1 
+cat 0.1.02 - Manutenção e conservação predial 
+ 
+5 
+cat 0.1.06 - Quantidade de professores/funcionários 
+2 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+ 
+6 
+cat 0.1.10 - Gestão da unidade de ensino e dos cursos 
+(indicadores) 
+3 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de 
+ensino 
+ 
+7 
+cat 0.1.01 - Metodologia de ensino, desempenho de 
+alunos, evasão 
+4 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+ 
+8 
+Escolher um item. 
+Outra – Especificar: Incentivar e divulgar a produção científica e cultural da Unidade 
+ 
+Objetivos Institucionais – CPS (Plano de Metas) 
+1) Atender às demandas sociais e do mercado de trabalho. 
+2) Obter a satisfação dos públicos que se relacionam com o Centro Paula Souza (stakeholders). 
+3) Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem. 
+4) Assegurar a perenidade do crescimento da instituição com recursos financeiros disponíveis. 
+5) Garantir celeridade e efetividade na prestação de serviços. 
+6) Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no desenvolvimento tecnológico e inovação. 
+7) Promover a cultura de inovação e empreendedorismo. 
+8) Aumentar a eficiência, a produtividade e a competitividade da instituição. 
+9) Ampliar a oferta da Educação Profissional. 
+10) Resolução Conjunta SOG/SFP/SG-3, de 28-12-2022 - Bonificação por Resultados – BR das Secretarias de Estado, Procuradoria Geral do Estado, 
+Controladoria Geral do Estado e das Autarquias, de que trata a LC 1361-2021 
+Objetivos Institucionais – Cesu (Plano de Metas) 
+A. Integrar as diferentes modalidades de ensino, otimizando itinerários e tempo para a formação profissional. 
+B. Inovar processos de ensino e aprendizagem para manter excelência diante do mercado. 
+C. Ampliar a capacidade de criar e atualizar cursos em parceria com o mercado. 
+D. Expandir e ampliar a capacidade de articulação com Governos e Setores Produtivos. 
+E. Promover a captação de recursos extras e não orçamentários. 
+Atenção: Determinação da Origem (prioridade) de uma Ação ou Projeto de Melhoria que compõe o PGA, a fim de ordenar os graus de prioridade tomando-se por 
+base atos normativos regulatórios das atividades do CPS, e a governança institucional, por suas esferas Estratégica, Tática e Operacional: 
+Grau 1 - URGÊNCIA DE REGULAÇÃO - prioridade máxima (advinda do MEC, CEE, MP, Vigilância Sanitária ou notificação de qualquer órgão regulador/fiscalizador) 
+- fundamentação: notificação de fiscalização, diligência de regulação, termo de ajustamento de conduta, relatório circunstanciado, dentre outros 
+emanados de órgãos que impõem ações para cumprimento com regularidade normativa da instituição. 
+Grau 2 - URGÊNCIA ESTRATÉGICA - Gestão Estratégica do CPS (AMS, novos cursos e unidades, programas de governo) - fundamentação: PPA do CPS, ações de 
+governo conduzidas pela Superintendência do CPS. 
+Grau 3 - PRIORIDADE ALTA - Gestão Tática (ações correlatas à Avaliação institucional - ENADE, WebSAI, CPA, Observatório Escolar). - fundamentação: processo 
+avaliativo de órgãos reguladores, processo avaliativo interno do CPS. 
+Grau 4 - PRIORIDADE MÉDIA - Gestão Operacional para aumento da capacidade instalada. - fundamentação: plano operacional de gestão, homologado pela 
+respectiva área da intendência, com foco na atividade fim do CPS. 
+Grau 5 - PRIORIDADE REGULAR - Gestão Operacional para preservação da capacidade instalada. - fundamentação: plano operacional de gestão, homologado 
+pela respectiva área da intendência, com foco na atividade fim do CPS. 
+ 
+ESTRUTURAÇÃO DAS AÇÕES/PROJETOS 
+01 - Didático-pedagógico 
+Ações associadas ao PPC/PE de CSTs e Disciplinas: CST (implantação, alteração, readequação, reestruturação), 
+prática pedagógica (PE, PA), projeto interdisciplinar/ integrador, extensão curricularizada. 
+ 
+AÇÃO/PROJETO (Tema) 
+101 - cat 1.05 - Monitoria em disciplina do curso 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Oferecer e acompanhar os impactos das monitorias de disciplinas 
+Por que será feito: 
+Para ampliar a participação dos estudantes no processo de ensino e aprendizagem; 
+contribuir para a melhoria dos cursos; aprofundar conhecimentos teóricos e práticos na 
+disciplina que estiver atuando como monitor e contribuir para a permanência dos 
+estudantes nos cursos combatendo a evasão 
+Responsável: 
+<nome> Patrícia Gláucia Moreno 
+Qde CH/sem: 
+2 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> jeferson Nedelciu 
+Qde CH/sem: 
+2 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> Andrea Pavan Perin 
+Qde CH/sem: 
+2 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+12/02/2025 
+Data final: 
+30/12/2025 
+Etapas do processo: 
+01- Período de Inscrição no programa e de seleção dos monitores 
+12/02 
+12/03 
+ 
+02- Atendimento aos estudantes e acompanhamento das atividades 
+12/03 
+12/06 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+102 - cat 1.02 - Eventos e publicações acadêmicos e científicos 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Apresentar a “MOSTRA CEPE”, semestralmente na Semana de Tecnologia destacando-se 
+as pesquisas realizadas na fatec Tatuí com ênfase na produção dos docentes em RJI e 
+dos Discentes do programa de Iniciação Científica 
+Por que será feito: 
+Para difundir a CEPE, para divulgar a produção científica dos docentes e alunos, Para 
+promover os projetos de RJI e de iniciação científica e para atrair novos alunos e 
+docentes para a produção acadêmica e científica da nossa unidade. 
+Responsável: 
+<nome> Patricia Glaucia Moreno 
+Qde CH/sem: 
+1 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Eoná Moro Ribeiro 
+Qde CH/sem: 
+2 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> Andrea Pavan Perin 
+Qde CH/sem: 
+2 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+10/02/2025 
+Data final: 
+30/06/2025 
+Etapas do processo: 
+01- Planejamento e divulgação do Evento 
+03/02 
+12/05 
+ 
+02- Realização da Mostra 
+13/05 
+19/05 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+(a ser resolvida/mitigada) 
+cat 0.1.99 - Outra 
+X 
+X 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+103 - cat 1.02 - Eventos e publicações acadêmicos e científicos 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Semana de Tecnologia 
+Por que será feito: 
+Porque a Semana de Tecnologia é um instrumento de diálogo com a sociedade, 
+promovendo a troca de informações para compreender as características e 
+necessidades do setor produtivo local. Além disso, evidencia as potencialidades da 
+FATEC TATUI na promoção desses setores. 
+Responsável: 
+<nome> Patrícia Glaucia Moreno 
+Qde CH/sem: 
+1 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Eoná Moro Ribeiro 
+Qde CH/sem: 
+2 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> Karine  
+Qde CH/sem: 
+2 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+03/02/2025 
+Data final: 
+30/06/2025 
+Etapas do processo: 
+01- Planejamento e divulgação do evento 
+03/02 
+12/05 
+ 
+02- Realização da Semana de Tecnologia 
+13/05 
+19/05 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+104 - cat 1.03 - COIL/PCI e Escola de Inovadores 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Apresentação o ecossistema de inovação por meio do oferecimento do projeto “Escola 
+de Inovadores” 
+Por que será feito: 
+A Escola de Inovadores é uma oportunidade para que nosso alunado e a comunidade 
+possam estar inseridos numa cultura da inovação. Além disso, faz parte dos indicadores 
+de desempenho do CPS 
+Responsável: 
+<nome> Rosana Bertila Giacomazzi 
+Qde CH/sem: 
+2 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> Patrícia Glaucia Moreno 
+Qde CH/sem: 
+2 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Taís de Oliveira e Angelina 
+Qde CH/sem: 
+2 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+03/02/2025 
+Data final: 
+30/06/2025 
+Etapas do processo: 
+01- A ser definido pelo INOVA CPS 
+01/02 
+30/06 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.10 - Gestão da unidade de ensino e dos cursos (indicadores) 
+(a ser resolvida/mitigada) 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+X 
+X 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+105 - cat 1.12 - Orientação profissional para discentes, mentoria e apoio psicopedagógico 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Promover atendimento psicopedagógico aos alunos que apresentam dificuldades no 
+processo de aprendizagem 
+Por que será feito: 
+Para auxiliar no desenvolvimento de habilidades emocionais e sociais, contribuindo para 
+o sucesso acadêmico e pessoal dos nossos estudantes. 
+Responsável: 
+<nome> Michele Mathias 
+Qde CH/sem: 
+4 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: Escolher um item. 
+Período de execução: 
+Data inicial: 
+03/02/2025 
+Data final: 
+30/06/2025 
+Etapas do processo: 
+01- Divulgação nas redes internas sobre o atendimento 
+03/02 
+30/06 
+ 
+02- Início dos atendimentos 
+17/02 
+30/06 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.09 - Acesso/Inclusão ao Ensino Superior (social, PCD) 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+106 - cat 1.07 - Divulgação do vestibular e ações de fortalecimento de imagem institucional 
+Origem (prioridade): 
+2-Gestão Estratégica Institucional (AMS, novos cursos e unidades) 
+O que será feito: 
+O projeto "Rota da Inovação" que convida escolas para um tour no campus, com 
+palestras, experiências em laboratórios e apresentação de cursos. O objetivo é orientar 
+os alunos sobre a importância dos estudos e do ensino superior para seus projetos de 
+vida, além de incentivar que compartilhem as informações com amigos e familiares. 
+Por que será feito: 
+Para promover a nossa imagem institucional e aumentar o numero de alunos 
+interessados em participar de nosso vestibular. 
+Responsável: 
+Patrícia Glaucia Moreno 
+Qde CH/sem: 
+2 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+Dirlei Paulino Pinto 
+Qde CH/sem: 
+4 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+Tais de Oliveira 
+Qde CH/sem: 
+4 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+03/02/2025 
+Data final: 
+30/06/2025 
+Etapas do processo: 
+01- Divulgação nas redes internas sobre o atendimento 
+03/02 
+30/06 
+ 
+02- Início dos atendimentos 
+17/02 
+30/06 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.09 - Acesso/Inclusão ao Ensino Superior (social, PCD) 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+107 - cat 1.07 - Divulgação do vestibular e ações de fortalecimento de imagem institucional 
+Origem (prioridade): 
+2-Gestão Estratégica Institucional (AMS, novos cursos e unidades) 
+O que será feito: 
+Visita às escolas do ensino fundamental, apresentando o Programa AMS 
+Por que será feito: 
+Para aumentar número de alunos inscritos e garantir a perpetuação dos dois cursos AMS 
+oferecidos em nossa Unidade: Processos Gerenciais e ADS 
+Responsável: 
+<nome> Rosângela G. Araujo 
+Qde CH/sem: 
+2 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Valéria Scudeler 
+Qde CH/sem: 
+4 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: Escolher um item. 
+Período de execução: 
+Data inicial: 
+03/02/2025 
+Data final: 
+30/06/2025 
+Etapas do processo: 
+01- Agendar e organizar visitas 
+03/02 
+30/06 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.08 - Participação da comunidade e sociedade 
+(a ser resolvida/mitigada) 
+cat 0.1.09 - Acesso/Inclusão ao Ensino Superior (social, PCD) 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+10z - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+ 
+02 – Laboratórios - Ensino e Equipamentos Associados 
+Ações para melhoramento dos laboratórios de Ensino (Gestão e Equipamentos): Melhoramento de 
+equipamentos, mediante instalação, manutenção, desuso, doação, e gestão de ambiente laboratorial. 
+ 
+AÇÃO/PROJETO (Tema) 
+201 - cat 2.01 - Laboratório físico - implantação/melhoramento com recursos PEDAGÓGICOS 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Melhoria de recursos pedagógicos no Laboratório de FMS/Robótica (Solicitação de 
+Manutenção corretiva e preventiva de equipamentos de robótica 
+Por que será feito: 
+Para a manutenção corretiva: Equipamentos (MPS) com alto custo na manutenção, 
+inviabilizando a utilização de recursos da DMPP, a necessidade de manutenção 
+emergencial se dá pela disciplina do curso de Automação Industrial ser 100% prática e 
+presencial em laboratório. Manutenção Preventiva: Necessidade de revisão e 
+lubrificação com graxa especial e troca de bateria em todos os robôs mantendo 
+equipamento em atividade e evitando problemas futuros (necessidade anual) 
+Responsável: 
+<nome> Anderson Luiz de Souza 
+Qde CH/sem: 
+1 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Cidelise A B de Oliveira 
+Qde CH/sem: 
+2 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Natália Laurino 
+Qde CH/sem: 
+3 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+03/02/2025 
+Data final: 
+30/12/2025 
+Etapas do processo: 
+01- Encaminhar solicitação ao Centro Paula Souza 
+03/02 
+30/12 
+ 
+02- Acompanhar mensalmente a solicitação junto ao CPS 
+03/02 
+30/12 
+ 
+03- Execução do processo mediante a disponibilidade de verba 
+03/02 
+30/12 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+(a ser resolvida/mitigada) 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+202 - cat 2.01 - Laboratório físico - implantação/melhoramento com recursos PEDAGÓGICOS 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Atualização de recursos pedagógicos no Laboratório de FMS/Robótica (Recursos 
+pedagógicos Inativos e obsoletos 
+Por que será feito: 
+Atualização de equipamentos: Equipamento (FMS) obsoleto, tentativa de manutenção a 
+mais de 12 anos no mesmo equipamento, atualmente foi constatado que não há mais 
+possibilidade de reparo por tempo de fabricação, peças e reparos, software e hardware 
+inexistente, substituição por Planta com tecnologia baseada em indústria 4.0 
+Responsável: 
+<nome> Anderson Luiz de Souza 
+Qde CH/sem: 
+1 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Cidelise A B de Oliveira 
+Qde CH/sem: 
+2 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Natália Laurino 
+Qde CH/sem: 
+3 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+03/02/2025 
+Data final: 
+30/12/2025 
+Etapas do processo: 
+01- Encaminhar solicitação ao CPS 
+03/02 
+30/12 
+ 
+02- Acompanhar, mensalmente a solicitação junto ao CPS 
+03/02 
+30/12 
+ 
+03- Execução do processo mediante disponibilidade de verba 
+03/02 
+30/12 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+R$ 1.620.000,00 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+(a ser resolvida/mitigada) 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+X 
+X 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+203 - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+204 - cat 2.01 - Laboratório físico - implantação/melhoramento com recursos PEDAGÓGICOS 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Atualização de recursos pedagógicos no Laboratório de FMS/Robótica (Recursos 
+pedagógicos obsoletos 
+Por que será feito: 
+Os Computadores (21 unidades) existentes neste ambiente, são já reutilizados de outros 
+laboratórios com um tempo de vida útil já ultrapassado, o que acarreta erros e 
+dificuldade de funcionamento em plena aula prático. 
+Responsável: 
+<nome> ANDERSON Luiz de Souza 
+Qde CH/sem: 
+1 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Cidelise A B de Oliveira 
+Qde CH/sem: 
+2 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Natalia Laurino 
+Qde CH/sem: 
+3 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+03/02/2025 
+Data final: 
+30/12/2025 
+Etapas do processo: 
+01- Encaminhar solicitação para o CPS; 
+03/02 
+30/12 
+ 
+02- Acompanhar mensalmente a solicitação junto ao CPS 
+03/02 
+30/12 
+ 
+03- Executar o processo mediante a disponibilização de recursos 
+03/02 
+30/12 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+R$ 200.000,00 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+205 - cat 2.04 - Ambiente de ensino prático - implantação/melhoramento com recursos NÃO PEDAGÓGICOS 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Melhoria de mobiliário no laboratório de FMS/Robótica 
+Por que será feito: 
+As cadeiras giratórias têm tempo de vida útil, lembrando que a manutenção muitas 
+vezes não resolve o problema de forma permanente, o investimento em manutenção é 
+muito maior do que adquirir um item novo neste caso. 
+Responsável: 
+<nome> Anderson Luiz de Souza 
+Qde CH/sem: 
+1 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Cidelise A B de Oliveira 
+Qde CH/sem: 
+5 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Natália Laurino 
+Qde CH/sem: 
+2 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+03/03/2025 
+Data final: 
+10/12/2025 
+Etapas do processo: 
+01- - Encaminhar solicitação ao Centro Paula Souza 
+03/03 
+10/04 
+ 
+02- Acompanhar mensalmente a solicitação junto ao Centro Paula 
+Souza 
+01/04 
+10/04 
+ 
+03- Execução do processo perante a disponibilidade de verba 
+10/04 
+10/12 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+R$ 200.00,00 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+(a ser resolvida/mitigada) 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+206 - cat 2.01 - Laboratório físico - implantação/melhoramento com recursos PEDAGÓGICOS 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Atualização de recursos pedagógicos no Laboratório de Controladores programáveis 
+(Recursos pedagógicos inativos e obsoletos) 
+Por que será feito: 
+Atualização de recursos pedagógicos no Laboratório de Controladores programáveis 
+(Recursos pedagógicos inativos e obsoletos) 
+Responsável: 
+<nome> Anderson Luiz de Souza 
+Qde CH/sem: 
+1 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Cidelise A B de Oliveira 
+Qde CH/sem: 
+5 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Natália Laurino 
+Qde CH/sem: 
+5 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+03/03/2025 
+Data final: 
+10/12/2025 
+Etapas do processo: 
+01- Encaminhar solicitação ao Centro Paula Souza 
+01/03 
+10/04 
+ 
+02- Acompanhar mensalmente a solicitação junto ao Centro Paula 
+Souza 
+10/04 
+10/12 
+ 
+03- Execução do processo perante a disponibilidade de verba 
+10/04 
+10/12 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+R$ 2.300.00,00 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+207 - cat 2.01 - Laboratório físico - implantação/melhoramento com recursos PEDAGÓGICOS 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Atualização de recursos pedagógicos no Laboratório de Controladores Programáveis 
+(Recursos pedagógicos obsoletos) 
+Por que será feito: 
+Os Computadores (21 unidades) existentes neste ambiente, são já reutilizados de outros 
+laboratórios com um tempo de vida útil já ultrapassado, o que acarreta erros e 
+dificuldade de funcionamento em plena aula prático. 
+Responsável: 
+<nome> Anderson Luiz de Souza 
+Qde CH/sem: 
+1 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Cidelise A B de Oliveira 
+Qde CH/sem: 
+5 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Natália Laurino 
+Qde CH/sem: 
+5 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+03/03/2025 
+Data final: 
+10/12/2025 
+Etapas do processo: 
+01- Encaminhar solicitação ao Centro Paula Souza 
+01/03 
+10/04 
+ 
+02- Acompanhar mensalmente a solicitação junto ao Centro Paula 
+Souza 
+10/04 
+10/12 
+ 
+03- Execução do processo perante a disponibilidade de verba 
+10/04 
+10/12 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+R$ 200.00,00 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+208 - cat 2.04 - Ambiente de ensino prático - implantação/melhoramento com recursos NÃO PEDAGÓGICOS 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Melhoria de mobiliário no laboratório de Controladores Programáveis 
+Por que será feito: 
+As cadeiras giratórias (41 unidades) têm tempo de vida útil, lembrando que a 
+manutenção muitas vezes não resolve o problema de forma permanente, o 
+investimento em manutenção é muito maior do que adquirir um item novo neste caso. 
+Responsável: 
+<nome> Anderson Luiz de Souza 
+Qde CH/sem: 
+1 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Cidelise A B de Oliveira 
+Qde CH/sem: 
+5 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Natália Laurino 
+Qde CH/sem: 
+2 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+03/03/2025 
+Data final: 
+10/12/2025 
+Etapas do processo: 
+01- Encaminhar solicitação ao Centro Paula Souza 
+01/03 
+10/04 
+ 
+02- Acompanhar mensalmente a solicitação junto ao Centro Paula 
+Souza 
+10/04 
+10/12 
+ 
+03- Execução do processo perante a disponibilidade de verba 
+10/04 
+10/12 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+R$ 10.00,00 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+(a ser resolvida/mitigada) 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+209 - cat 2.04 - Ambiente de ensino prático - implantação/melhoramento com recursos NÃO PEDAGÓGICOS 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Melhoria de infraestrutura no laboratório de Controladores Programáveis 
+Por que será feito: 
+O ar-condicionado de 36.000 BTU (2 unidades) está em uso desde 2012, e já tem 
+historicamente diversas manutenções para manter o funcionamento para amenizar a 
+temperatura do laboratório que atinge a 40°C. Essa temperatura é prejudicial tanto a 
+integridade física dos alunos quanto ao resultado de experimentos em equipamentos 
+mais delicados. 0 ideal diante do tamanho do ambiente e incidência do sol, seria duas 
+unidades de 48 BTUs. 
+Responsável: 
+<nome> Anderson Luiz de Souza 
+Qde CH/sem: 
+1 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Cidelise A B de Oliveira 
+Qde CH/sem: 
+5 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Natália Laurino 
+Qde CH/sem: 
+2 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+03/03/2025 
+Data final: 
+10/12/2025 
+Etapas do processo: 
+01- Encaminhar solicitação ao Centro Paula Souza 
+01/03 
+10/04 
+ 
+02- Acompanhar mensalmente a solicitação junto ao Centro Paula 
+Souza 
+10/04 
+10/12 
+ 
+03- Execução do processo perante a disponibilidade de verba 
+10/04 
+10/12 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+R$ 30.000,00 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+(a ser resolvida/mitigada) 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+210 - cat 2.01 - Laboratório físico - implantação/melhoramento com recursos PEDAGÓGICOS 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Melhoria de recursos pedagógicos no Laboratório de Metrologia, Microscopia e Ensaios 
+destrutivos e não destrutivos (Solicitação de Manutenção corretiva e preventiva de 
+equipamentos). 
+Por que será feito: 
+Para a manutenção corretiva: Equipamentos com alto custo na manutenção, 
+inviabilizando a utilização de recursos da DMPP, a necessidade de manutenção 
+emergencial se dá pela disciplina do curso de Manutenção Industrial e Automação 
+Industrial terem 40% prática e presencial em laboratório. Manutenção Preventiva: 
+Necessidade de revisão e lubrificação com limpeza especial e calibragem em diversos 
+equipamentos deste ambiente. 
+Responsável: 
+<nome> Anderson Luiz de Souza 
+Qde CH/sem: 
+1 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Cidelise A B de Oliveira 
+Qde CH/sem: 
+5 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Natália Laurino 
+Qde CH/sem: 
+2 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+03/03/2025 
+Data final: 
+10/12/2025 
+Etapas do processo: 
+01- Encaminhar solicitação ao Centro Paula Souza 
+01/03 
+10/04 
+ 
+02- Acompanhar mensalmente a solicitação junto ao Centro Paula 
+Souza 
+10/04 
+10/12 
+ 
+03- Execução do processo perante a disponibilidade de verba 
+10/04 
+10/12 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+R$ 60.000,00 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+211 - cat 2.01 - Laboratório físico - implantação/melhoramento com recursos PEDAGÓGICOS 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Atualização de recursos pedagógicos no Laboratório de Metrologia, Microscopia e 
+ensaios (Recursos pedagógicos inativos e obsoletos) 
+Por que será feito: 
+Atualização de equipamentos: 1 unidade Projetor de perfil adquirido em 2010 
+encontram-se inativos por problemas técnicos, 1 unidade de Micrometro digita 
+adquirido em 2010l, encontrase com problema na lente, 1 unidade de durometro digital 
+adquirido em 2008 com problema de comunicação em todos os cabos internos, 
+tentativa de manutenção desde o início do problema, equipamento obsoleto. 
+Responsável: 
+<nome> Anderson Luiz de Souza 
+Qde CH/sem: 
+1 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Cidelise A B de Oliveira 
+Qde CH/sem: 
+5 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Natália Laurino 
+Qde CH/sem: 
+5 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+03/03/2025 
+Data final: 
+10/12/2025 
+Etapas do processo: 
+01- Encaminhar solicitação ao Centro Paula Souza 
+01/03 
+10/04 
+ 
+02- Acompanhar mensalmente a solicitação junto ao Centro Paula 
+Souza 
+10/04 
+10/12 
+ 
+03- Execução do processo perante a disponibilidade de verba 
+10/04 
+10/12 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+R$ 351.332,00 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+212 - cat 2.01 - Laboratório físico - implantação/melhoramento com recursos PEDAGÓGICOS 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Melhoria de mobiliário no laboratório de Metrologia, Microscopia e Ensaios 
+Por que será feito: 
+As cadeiras de assento de PVC fixo (50 unidades) têm tempo de vida útil, estão com o 
+material esfarelando, a manutenção nesse caso não se aplica, adquirir itens novos. 
+Responsável: 
+<nome> Anderson Luiz de Souza 
+Qde CH/sem: 
+1 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Cidelise A B de Oliveira 
+Qde CH/sem: 
+5 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Natália Laurino 
+Qde CH/sem: 
+2 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+03/03/2025 
+Data final: 
+10/12/2025 
+Etapas do processo: 
+01- Encaminhar solicitação ao Centro Paula Souza 
+01/03 
+10/04 
+ 
+02- Acompanhar mensalmente a solicitação junto ao Centro Paula 
+Souza 
+10/04 
+10/12 
+ 
+03- Execução do processo perante a disponibilidade de verba 
+10/04 
+10/12 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+R$ 5.000,00 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+(a ser resolvida/mitigada) 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+213 - cat 2.01 - Laboratório físico - implantação/melhoramento com recursos PEDAGÓGICOS 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Melhoria de infraestrutura no laboratório de Metrologia, Microscopia e Ensaios 
+Por que será feito: 
+Esse ambiente de laboratório é um dos que mais necessitam de ar-condicionado por 
+conter uma disciplina que exige exatidão com equipamentos de metrologia os quais 
+alteram a medida até com a temperatura do corpo, esse ambiente chega a atingir 40°C 
+com a lotação de 40 alunos. Essa temperatura é prejudicial tanto a integridade física dos 
+alunos quanto ao resultado de experimentos em equipamentos mais delicados. 0 ideal 
+diante do tamanho do ambiente e incidência do sol, seria uma unidade de 48 BTUs. 
+Responsável: 
+<nome> Anderson Luiz de Souza 
+Qde CH/sem: 
+1 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Cidelise A B de Oliveira 
+Qde CH/sem: 
+5 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Natália Laurino 
+Qde CH/sem: 
+2 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+03/03/2025 
+Data final: 
+10/12/2025 
+Etapas do processo: 
+01- Encaminhar solicitação ao Centro Paula Souza 
+01/03 
+10/04 
+ 
+02- Acompanhar mensalmente a solicitação junto ao Centro Paula 
+Souza 
+10/04 
+10/12 
+ 
+03- Execução do processo perante a disponibilidade de verba 
+10/04 
+10/12 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+214 - cat 2.03 - Ambiente multidisciplinar de ensino - implantação/melhoramento com recursos 
+PEDAGÓGICOS 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Atualização de recursos pedagógicos no Laboratório Multidisciplinares (Teclado USB cor 
+preta, padrão ABNT2) 
+Por que será feito: 
+Realizar a troca gradual dos cabos HDMI que apresentam defeito e são conectados nas 
+TVs 
+Responsável: 
+<nome> Anderson Luiz de Souza 
+Qde CH/sem: 
+1 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Cidelise A B de Oliveira 
+Qde CH/sem: 
+5 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Loami da Silva Souza 
+Qde CH/sem: 
+2 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+03/03/2025 
+Data final: 
+10/12/2025 
+Etapas do processo: 
+01- Encaminhar solicitação ao Centro Paula Souza 
+01/03 
+10/04 
+ 
+02- Acompanhar mensalmente a solicitação junto ao Centro Paula 
+Souza 
+10/04 
+10/12 
+ 
+03- Execução do processo perante a disponibilidade de verba 
+10/04 
+10/12 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+(a ser resolvida/mitigada) 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+215 - cat 2.03 - Ambiente multidisciplinar de ensino - implantação/melhoramento com recursos 
+PEDAGÓGICOS 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Atualização de recursos pedagógicos no Laboratório Multidisciplinares (Teclado USB cor 
+preta, padrão ABNT2) 
+Por que será feito: 
+Realizar a troca gradual dos cabos HDMI que que apresentam defeito e são conectados 
+nas TVs 
+Responsável: 
+<nome> Anderson Luiz de Souza 
+Qde CH/sem: 
+1 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Cidelise A B de Oliveira 
+Qde CH/sem: 
+5 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Loami da Silva Souza 
+Qde CH/sem: 
+2 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+03/03/2025 
+Data final: 
+10/12/2025 
+Etapas do processo: 
+01- Encaminhar solicitação ao Centro Paula Souza 
+01/03 
+10/04 
+ 
+02- Acompanhar mensalmente a solicitação junto ao Centro Paula 
+Souza 
+10/04 
+10/12 
+ 
+03- Execução do processo perante a disponibilidade de verba 
+10/04 
+10/12 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+(a ser resolvida/mitigada) 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+216 - cat 2.03 - Ambiente multidisciplinar de ensino - implantação/melhoramento com recursos 
+PEDAGÓGICOS 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Atualização de recursos pedagógicos no Laboratório Multidisciplinares (Teclado USB cor 
+preta, padrão ABNT2) 
+Por que será feito: 
+Fornecer a troca gradual dos teclados dos laboratórios multidisciplinares 
+Responsável: 
+<nome> Anderson Luiz de Souza 
+Qde CH/sem: 
+1 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Cidelise A B de Oliveira 
+Qde CH/sem: 
+5 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Loami da Silva Souza 
+Qde CH/sem: 
+2 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+03/03/2025 
+Data final: 
+10/12/2025 
+Etapas do processo: 
+01- Encaminhar solicitação ao Centro Paula Souza 
+01/03 
+10/04 
+ 
+02- Acompanhar mensalmente a solicitação junto ao Centro Paula 
+Souza 
+10/04 
+10/12 
+ 
+03- Execução do processo perante a disponibilidade de verba 
+10/04 
+10/12 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+(a ser resolvida/mitigada) 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+217 - cat 2.03 - Ambiente multidisciplinar de ensino - implantação/melhoramento com recursos 
+PEDAGÓGICOS 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Atualização de recursos pedagógicos no Laboratório Multidisciplinares (Mouse USB, 
+1000 DPI, cor preta) 
+Por que será feito: 
+Fornecer a troca gradual dos mouses dos laboratórios multidisciplinares 
+Responsável: 
+<nome> Anderson Luiz de Souza 
+Qde CH/sem: 
+1 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Cidelise A B de Oliveira 
+Qde CH/sem: 
+5 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Loami da Silva Souza 
+Qde CH/sem: 
+2 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+03/03/2025 
+Data final: 
+10/12/2025 
+Etapas do processo: 
+01- Encaminhar solicitação ao Centro Paula Souza 
+01/03 
+10/04 
+ 
+02- Acompanhar mensalmente a solicitação junto ao Centro Paula 
+Souza 
+10/04 
+10/12 
+ 
+03- Execução do processo perante a disponibilidade de verba 
+10/04 
+10/12 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+(a ser resolvida/mitigada) 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+218 - cat 2.03 - Ambiente multidisciplinar de ensino - implantação/melhoramento com recursos 
+PEDAGÓGICOS 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Atualização de recursos pedagógicos no Laboratório Multidisciplinares (Memória RAM 
+16GB DDR4 2666MHz (PC4-21300)) 
+Por que será feito: 
+Aumentar a memória RAM para melhorar o desempenho dos computadores, os quais 
+estão muito lentos, do laboratório do curso de Produção Fonográfica - PFO especial 1 
+(21 PCs) 
+Responsável: 
+<nome> Anderson Luiz de Souza 
+Qde CH/sem: 
+1 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Cidelise A B de Oliveira 
+Qde CH/sem: 
+5 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Loami da Silva Souza 
+Qde CH/sem: 
+2 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+03/03/2025 
+Data final: 
+10/12/2025 
+Etapas do processo: 
+01- Encaminhar solicitação ao Centro Paula Souza 
+01/03 
+10/04 
+ 
+02- Acompanhar mensalmente a solicitação junto ao Centro Paula 
+Souza 
+10/04 
+10/12 
+ 
+03- Execução do processo perante a disponibilidade de verba 
+10/04 
+10/12 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+(a ser resolvida/mitigada) 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+219 - cat 2.03 - Ambiente multidisciplinar de ensino - implantação/melhoramento com recursos 
+PEDAGÓGICOS 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Atualização de recursos pedagógicos no Laboratório Multidisciplinares (SSD 256 GB M.2 
+2280 PCIe NVMe) 
+Por que será feito: 
+Realizar a substituição dos discos rigidos (HD) por SSD para melhorar o desempenho dos 
+computadores os quais estão muito lentos, do laboratório do curso de Produção 
+Fonográfica - PFO especial 1 (21 PCs) 
+Responsável: 
+<nome> Anderson Luiz de Souza 
+Qde CH/sem: 
+1 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Cidelise A B de Oliveira 
+Qde CH/sem: 
+5 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Loami da Silva Souza 
+Qde CH/sem: 
+2 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+03/03/2025 
+Data final: 
+10/12/2025 
+Etapas do processo: 
+01- Encaminhar solicitação ao Centro Paula Souza 
+01/03 
+10/04 
+ 
+02- Acompanhar mensalmente a solicitação junto ao Centro Paula 
+Souza 
+10/04 
+10/12 
+ 
+03- Execução do processo perante a disponibilidade de verba 
+10/04 
+10/12 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+(a ser resolvida/mitigada) 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+220 - cat 2.03 - Ambiente multidisciplinar de ensino - implantação/melhoramento com recursos 
+PEDAGÓGICOS 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Atualização de recursos pedagógicos no Laboratório Multidisciplinares (SSD 240GB Sata 
+3, com leitura e escrita mínimas de 500 MB/s) 
+Por que será feito: 
+Realizar a substituição dos discos rigidos (HD) por SSD para melhorar o desempenho dos 
+computadores os quais estão muito lentos, dos laboratórios Multidisciplinar 7 (20 Pcs), 
+Lab. FMS (15 PCs), Lab. CP1/CP2 (25 Pcs) e computadores administrativos (50). Todos 
+esses laboratórios atendem aos 5 cursos e novotec. 
+Responsável: 
+<nome> Anderson Luiz de Souza 
+Qde CH/sem: 
+1 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Cidelise A B de Oliveira 
+Qde CH/sem: 
+5 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Loami da Silva Souza 
+Qde CH/sem: 
+2 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+03/03/2025 
+Data final: 
+10/12/2025 
+Etapas do processo: 
+01- Encaminhar solicitação ao Centro Paula Souza 
+01/03 
+10/04 
+ 
+02- Acompanhar mensalmente a solicitação junto ao Centro Paula 
+Souza 
+10/04 
+10/12 
+ 
+03- Execução do processo perante a disponibilidade de verba 
+10/04 
+10/12 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+(a ser resolvida/mitigada) 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+221 - cat 2.03 - Ambiente multidisciplinar de ensino - implantação/melhoramento com recursos 
+PEDAGÓGICOS 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Atualização de recursos pedagógicos no Laboratório Multidisciplinares (Memória RAM 
+8GB DDR3 1600MHz (PC3-12800)) 
+Por que será feito: 
+Aumentar a memória RAM para melhorar o desempenho dos computadores, os quais 
+estão muito lentos, dos laboratórios Multidisciplinar 7 (20 Pcs), Lab. FMS (15 PCs), Lab. 
+CP1/CP2 (25 Pcs) e computadores administrativos (50). Todos esses laboratórios 
+atendem aos 5 cursos e novotec. 
+Responsável: 
+<nome> Anderson Luiz de Souza 
+Qde CH/sem: 
+1 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Cidelise A B de Oliveira 
+Qde CH/sem: 
+5 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Loami da Silva Souza 
+Qde CH/sem: 
+2 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+03/03/2025 
+Data final: 
+10/12/2025 
+Etapas do processo: 
+01- Encaminhar solicitação ao Centro Paula Souza 
+01/03 
+10/04 
+ 
+02- Acompanhar mensalmente a solicitação junto ao Centro Paula 
+Souza 
+10/04 
+10/12 
+ 
+03- Execução do processo perante a disponibilidade de verba 
+10/04 
+10/12 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+(a ser resolvida/mitigada) 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+222 - cat 2.02 - Laboratório informática - implantação/melhoramento com recursos PEDAGÓGICOS 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Atualização de recursos pedagógicos no Laboratório de Hardware (Recursos 
+pedagógicos obsoletos, adquirindo Teclado USB cor preta, padrão ABNT2) 
+Por que será feito: 
+Justificativa de Controle de Evasão de alunos no Curso de GTI, onde uma grande 
+reclamação dos alunos do 2º Semestre consiste na falta de oportunidade de 
+aprendizado adequado na Disciplina de Laboratório de Hardware. Ainda considero 
+também com a aquisição desses componentes a possibilidade de trabalhar de forma 
+interdisciplinar as disciplinas de Laboratório de Hardware e Gestão de Sistemas 
+Operacionais onde os alunos poderão ter um aprendizado mais aplicado às reais 
+necessidades do mercado e principalmente no correto cumprimento de conteúdo 
+teórico e prático das referidas disciplinas. 
+Conforme a ementa da Disciplina:  Laboratório de Hardware IHW001 
+"Montagem, manutenção e configuração de hardware e dispositivos de entrada e saída: 
+identificação dos componentes para montar um computador, compatibilidade, detalhes 
+sobre as especificações de cada componente, identificação e correção de problemas, 
+substituição de componentes, upgrades, configuração (Setup/BIOS). Utilização de 
+softwares e ferramentas para testar o hardware. Manutenção preventiva de hardware, 
+limpeza periódica nos componentes, compra e controle de componentes, equipamentos 
+de reserva." 
+É de extrema necessidade para a correta execução das aulas de hardware que tenhamos 
+componentes em boas condições de utilização. O que não está ocorrendo. E esse fator 
+tem influenciado em sua parcialidade nos motivos de Evasão em nosso Curso de GTI. 
+Responsável: 
+<nome> Anderson Luiz de Souza 
+Qde CH/sem: 
+1 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Cidelise A B de Oliveira 
+Qde CH/sem: 
+5 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Loami da Silva Souza 
+Qde CH/sem: 
+2 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+03/03/2025 
+Data final: 
+10/12/2025 
+Etapas do processo: 
+01- Encaminhar solicitação ao Centro Paula Souza 
+01/03 
+10/04 
+ 
+02- Acompanhar mensalmente a solicitação junto ao Centro Paula 
+Souza 
+10/04 
+10/12 
+ 
+03- Execução do processo perante a disponibilidade de verba 
+10/04 
+10/12 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+(a ser resolvida/mitigada) 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+223 - cat 2.02 - Laboratório informática - implantação/melhoramento com recursos PEDAGÓGICOS 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Atualização de recursos pedagógicos no Laboratório de Hardware (Recursos 
+pedagógicos obsoletos, adquirindo Mouse USB, 1000 DPI, cor preta) 
+Por que será feito: 
+Justificativa de Controle de Evasão de alunos no Curso de GTI, onde uma grande 
+reclamação dos alunos do 2º Semestre consiste na falta de oportunidade de 
+aprendizado adequado na Disciplina de Laboratório de Hardware. Ainda considero 
+também com a aquisição desses componentes a possibilidade de trabalhar de forma 
+interdisciplinar as disciplinas de Laboratório de Hardware e Gestão de Sistemas 
+Operacionais onde os alunos poderão ter um aprendizado mais aplicado às reais 
+necessidades do mercado e principalmente no correto cumprimento de conteúdo 
+teórico e prático das referidas disciplinas. 
+Conforme a ementa da Disciplina:  Laboratório de Hardware IHW001 
+"Montagem, manutenção e configuração de hardware e dispositivos de entrada e saída: 
+identificação dos componentes para montar um computador, compatibilidade, detalhes 
+sobre as especificações de cada componente, identificação e correção de problemas, 
+substituição de componentes, upgrades, configuração (Setup/BIOS). Utilização de 
+softwares e ferramentas para testar o hardware. Manutenção preventiva de hardware, 
+limpeza periódica nos componentes, compra e controle de componentes, equipamentos 
+de reserva." 
+É de extrema necessidade para a correta execução das aulas de hardware que tenhamos 
+componentes em boas condições de utilização. O que não está ocorrendo. E esse fator 
+tem influenciado em sua parcialidade nos motivos de Evasão em nosso Curso de GTI. 
+Responsável: 
+<nome> Anderson Luiz de Souza 
+Qde CH/sem: 
+1 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Cidelise A B de Oliveira 
+Qde CH/sem: 
+5 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Loami da Silva Souza 
+Qde CH/sem: 
+2 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+03/03/2025 
+Data final: 
+10/12/2025 
+Etapas do processo: 
+01- Encaminhar solicitação ao Centro Paula Souza 
+01/03 
+10/04 
+ 
+02- Acompanhar mensalmente a solicitação junto ao Centro Paula 
+Souza 
+10/04 
+10/12 
+ 
+03- Execução do processo perante a disponibilidade de verba 
+10/04 
+10/12 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+(a ser resolvida/mitigada) 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+224 - cat 2.02 - Laboratório informática - implantação/melhoramento com recursos PEDAGÓGICOS 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Atualização de recursos pedagógicos no Laboratório de Hardware (Recursos 
+pedagógicos obsoletos, adquirindo Fonte ATX 420W reais) 
+Por que será feito: 
+Justificativa de Controle de Evasão de alunos no Curso de GTI, onde uma grande 
+reclamação dos alunos do 2º Semestre consiste na falta de oportunidade de 
+aprendizado adequado na Disciplina de Laboratório de Hardware. Ainda considero 
+também com a aquisição desses componentes a possibilidade de trabalhar de forma 
+interdisciplinar as disciplinas de Laboratório de Hardware e Gestão de Sistemas 
+Operacionais onde os alunos poderão ter um aprendizado mais aplicado às reais 
+necessidades do mercado e principalmente no correto cumprimento de conteúdo 
+teórico e prático das referidas disciplinas. 
+Conforme a ementa da Disciplina:  Laboratório de Hardware IHW001 
+"Montagem, manutenção e configuração de hardware e dispositivos de entrada e saída: 
+identificação dos componentes para montar um computador, compatibilidade, detalhes 
+sobre as especificações de cada componente, identificação e correção de problemas, 
+substituição de componentes, upgrades, configuração (Setup/BIOS). Utilização de 
+softwares e ferramentas para testar o hardware. Manutenção preventiva de hardware, 
+limpeza periódica nos componentes, compra e controle de componentes, equipamentos 
+de reserva." 
+É de extrema necessidade para a correta execução das aulas de hardware que tenhamos 
+componentes em boas condições de utilização. O que não está ocorrendo. E esse fator 
+tem influenciado em sua parcialidade nos motivos de Evasão em nosso Curso de GTI. 
+Responsável: 
+<nome> Anderson Luiz de Souza 
+Qde CH/sem: 
+1 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Cidelise A B de Oliveira 
+Qde CH/sem: 
+5 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Loami da Silva Souza 
+Qde CH/sem: 
+2 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+03/03/2025 
+Data final: 
+10/12/2025 
+Etapas do processo: 
+01- Encaminhar solicitação ao Centro Paula Souza 
+01/03 
+10/04 
+ 
+02- Acompanhar mensalmente a solicitação junto ao Centro Paula 
+Souza 
+10/04 
+10/12 
+ 
+03- Execução do processo perante a disponibilidade de verba 
+10/04 
+10/12 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+(a ser resolvida/mitigada) 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+ 
+AÇÃO/PROJETO (Tema) 
+225 - cat 2.02 - Laboratório informática - implantação/melhoramento com recursos PEDAGÓGICOS 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Atualização de recursos pedagógicos no Laboratório de Hardware (Recursos 
+pedagógicos obsoletos, adquirindo SSD 240GB Sata 3, com leitura e escrita mínima de 
+500 MB/s) 
+Por que será feito: 
+Justificativa de Controle de Evasão de alunos no Curso de GTI, onde uma grande 
+reclamação dos alunos do 2º Semestre consiste na falta de oportunidade de 
+aprendizado adequado na Disciplina de Laboratório de Hardware. Ainda considero 
+também com a aquisição desses componentes a possibilidade de trabalhar de forma 
+interdisciplinar as disciplinas de Laboratório de Hardware e Gestão de Sistemas 
+Operacionais onde os alunos poderão ter um aprendizado mais aplicado às reais 
+necessidades do mercado e principalmente no correto cumprimento de conteúdo 
+teórico e prático das referidas disciplinas. 
+Conforme a ementa da Disciplina:  Laboratório de Hardware IHW001 
+"Montagem, manutenção e configuração de hardware e dispositivos de entrada e saída: 
+identificação dos componentes para montar um computador, compatibilidade, detalhes 
+sobre as especificações de cada componente, identificação e correção de problemas, 
+substituição de componentes, upgrades, configuração (Setup/BIOS). Utilização de 
+softwares e ferramentas para testar o hardware. Manutenção preventiva de hardware, 
+limpeza periódica nos componentes, compra e controle de componentes, equipamentos 
+de reserva." 
+É de extrema necessidade para a correta execução das aulas de hardware que tenhamos 
+componentes em boas condições de utilização. O que não está ocorrendo. E esse fator 
+tem influenciado em sua parcialidade nos motivos de Evasão em nosso Curso de GTI. 
+Responsável: 
+<nome> Anderson Luiz de Souza 
+Qde CH/sem: 
+1 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Cidelise A B de Oliveira 
+Qde CH/sem: 
+5 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Loami da Silva Souza 
+Qde CH/sem: 
+2 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+03/03/2025 
+Data final: 
+10/12/2025 
+Etapas do processo: 
+01- Encaminhar solicitação ao Centro Paula Souza 
+01/03 
+10/04 
+ 
+02- Acompanhar mensalmente a solicitação junto ao Centro Paula 
+Souza 
+10/04 
+10/12 
+ 
+03- Execução do processo perante a disponibilidade de verba 
+10/04 
+10/12 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+(a ser resolvida/mitigada) 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+ 
+AÇÃO/PROJETO (Tema) 
+226 - cat 2.01 - Laboratório físico - implantação/melhoramento com recursos PEDAGÓGICOS 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Atualização de recursos pedagógicos no Laboratório de Hardware (Recursos 
+pedagógicos obsoletos, adquirindo Memória RAM 8GB DDR4 (PC4-21300)) 
+Por que será feito: 
+Justificativa de Controle de Evasão de alunos no Curso de GTI, onde uma grande 
+reclamação dos alunos do 2º Semestre consiste na falta de oportunidade de 
+aprendizado adequado na Disciplina de Laboratório de Hardware. Ainda considero 
+também com a aquisição desses componentes a possibilidade de trabalhar de forma 
+interdisciplinar as disciplinas de Laboratório de Hardware e Gestão de Sistemas 
+Operacionais onde os alunos poderão ter um aprendizado mais aplicado às reais 
+necessidades do mercado e principalmente no correto cumprimento de conteúdo 
+teórico e prático das referidas disciplinas. 
+Conforme a ementa da Disciplina:  Laboratório de Hardware IHW001 
+"Montagem, manutenção e configuração de hardware e dispositivos de entrada e saída: 
+identificação dos componentes para montar um computador, compatibilidade, detalhes 
+sobre as especificações de cada componente, identificação e correção de problemas, 
+substituição de componentes, upgrades, configuração (Setup/BIOS). Utilização de 
+softwares e ferramentas para testar o hardware. Manutenção preventiva de hardware, 
+limpeza periódica nos componentes, compra e controle de componentes, equipamentos 
+de reserva." 
+É de extrema necessidade para a correta execução das aulas de hardware que tenhamos 
+componentes em boas condições de utilização. O que não está ocorrendo. E esse fator 
+tem influenciado em sua parcialidade nos motivos de Evasão em nosso Curso de GTI. 
+Responsável: 
+<nome> Anderson Luiz de Souza 
+Qde CH/sem: 
+1 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Cidelise A B de Oliveira 
+Qde CH/sem: 
+5 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Loami da Silva Souza 
+Qde CH/sem: 
+2 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+03/03/2025 
+Data final: 
+10/12/2025 
+Etapas do processo: 
+01- Encaminhar solicitação ao Centro Paula Souza 
+01/03 
+10/04 
+ 
+02- Acompanhar mensalmente a solicitação junto ao Centro Paula 
+Souza 
+10/04 
+10/12 
+ 
+03- Execução do processo perante a disponibilidade de verba 
+10/04 
+10/12 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+(a ser resolvida/mitigada) 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+ 
+AÇÃO/PROJETO (Tema) 
+227 - cat 2.01 - Laboratório físico - implantação/melhoramento com recursos PEDAGÓGICOS 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Atualização de recursos pedagógicos no Laboratório de Hardware (Recursos 
+pedagógicos obsoletos, adquirindo Placa-mãe com suporte para processador Intel Core 
+I5-10400) 
+Por que será feito: 
+Justificativa de Controle de Evasão de alunos no Curso de GTI, onde uma grande 
+reclamação dos alunos do 2º Semestre consiste na falta de oportunidade de 
+aprendizado adequado na Disciplina de Laboratório de Hardware. Ainda considero 
+também com a aquisição desses componentes a possibilidade de trabalhar de forma 
+interdisciplinar as disciplinas de Laboratório de Hardware e Gestão de Sistemas 
+Operacionais onde os alunos poderão ter um aprendizado mais aplicado às reais 
+necessidades do mercado e principalmente no correto cumprimento de conteúdo 
+teórico e prático das referidas disciplinas. 
+Conforme a ementa da Disciplina:  Laboratório de Hardware IHW001 
+"Montagem, manutenção e configuração de hardware e dispositivos de entrada e saída: 
+identificação dos componentes para montar um computador, compatibilidade, detalhes 
+sobre as especificações de cada componente, identificação e correção de problemas, 
+substituição de componentes, upgrades, configuração (Setup/BIOS). Utilização de 
+softwares e ferramentas para testar o hardware. Manutenção preventiva de hardware, 
+limpeza periódica nos componentes, compra e controle de componentes, equipamentos 
+de reserva." 
+É de extrema necessidade para a correta execução das aulas de hardware que tenhamos 
+componentes em boas condições de utilização. O que não está ocorrendo. E esse fator 
+tem influenciado em sua parcialidade nos motivos de Evasão em nosso Curso de GTI. 
+Responsável: 
+<nome> Anderson Luiz de Souza 
+Qde CH/sem: 
+1 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Cidelise A B de Oliveira 
+Qde CH/sem: 
+5 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Loami da Silva Souza 
+Qde CH/sem: 
+2 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+03/03/2025 
+Data final: 
+10/12/2025 
+Etapas do processo: 
+01- Encaminhar solicitação ao Centro Paula Souza 
+01/03 
+10/04 
+ 
+02- Acompanhar mensalmente a solicitação junto ao Centro Paula 
+Souza 
+10/04 
+10/12 
+ 
+03- Execução do processo perante a disponibilidade de verba 
+10/04 
+10/12 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+(a ser resolvida/mitigada) 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+ 
+AÇÃO/PROJETO (Tema) 
+228 - cat 2.01 - Laboratório físico - implantação/melhoramento com recursos PEDAGÓGICOS 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Atualização de recursos pedagógicos no Laboratório de Hardware (Recursos 
+pedagógicos obsoletos, adquirindo Processadores Intel Core I5-10400) 
+Por que será feito: 
+Justificativa de Controle de Evasão de alunos no Curso de GTI, onde uma grande 
+reclamação dos alunos do 2º Semestre consiste na falta de oportunidade de 
+aprendizado adequado na Disciplina de Laboratório de Hardware. Ainda considero 
+também com a aquisição desses componentes a possibilidade de trabalhar de forma 
+interdisciplinar as disciplinas de Laboratório de Hardware e Gestão de Sistemas 
+Operacionais onde os alunos poderão ter um aprendizado mais aplicado às reais 
+necessidades do mercado e principalmente no correto cumprimento de conteúdo 
+teórico e prático das referidas disciplinas. 
+Conforme a ementa da Disciplina:  Laboratório de Hardware IHW001 
+"Montagem, manutenção e configuração de hardware e dispositivos de entrada e saída: 
+identificação dos componentes para montar um computador, compatibilidade, detalhes 
+sobre as especificações de cada componente, identificação e correção de problemas, 
+substituição de componentes, upgrades, configuração (Setup/BIOS). Utilização de 
+softwares e ferramentas para testar o hardware. Manutenção preventiva de hardware, 
+limpeza periódica nos componentes, compra e controle de componentes, equipamentos 
+de reserva." 
+É de extrema necessidade para a correta execução das aulas de hardware que tenhamos 
+componentes em boas condições de utilização. O que não está ocorrendo. E esse fator 
+tem influenciado em sua parcialidade nos motivos de Evasão em nosso Curso de GTI. 
+Responsável: 
+<nome> Anderson Luiz de Souza 
+Qde CH/sem: 
+1 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Cidelise A B de Oliveira 
+Qde CH/sem: 
+5 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Loami da Silva Souza 
+Qde CH/sem: 
+2 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+03/03/2025 
+Data final: 
+10/12/2025 
+Etapas do processo: 
+01- Encaminhar solicitação ao Centro Paula Souza 
+01/03 
+10/04 
+ 
+02- Acompanhar mensalmente a solicitação junto ao Centro Paula 
+Souza 
+10/04 
+10/12 
+ 
+03- Execução do processo perante a disponibilidade de verba 
+10/04 
+10/12 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+(a ser resolvida/mitigada) 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+ 
+AÇÃO/PROJETO (Tema) 
+229 - cat 2.04 - Ambiente de ensino prático - implantação/melhoramento com recursos NÃO PEDAGÓGICOS 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Recursos para melhoria de infraestrutura nos laboratórios de Informática (Escada 
+articulada de aluminio 4x4 com 16 degraus) 
+Por que será feito: 
+Realizar a manutenção dos projetores e facilitar as manutenções nos racks de 
+informática. 
+Responsável: 
+<nome> Anderson Luiz de Souza 
+Qde CH/sem: 
+1 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Cidelise A B de Oliveira 
+Qde CH/sem: 
+5 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Loami da Silva Souza 
+Qde CH/sem: 
+2 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+03/03/2025 
+Data final: 
+10/12/2025 
+Etapas do processo: 
+01- Encaminhar solicitação ao Centro Paula Souza 
+01/03 
+10/04 
+ 
+02- Acompanhar mensalmente a solicitação junto ao Centro Paula 
+Souza 
+10/04 
+10/12 
+ 
+03- Execução do processo perante a disponibilidade de verba 
+10/04 
+10/12 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+(a ser resolvida/mitigada) 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+ 
+AÇÃO/PROJETO (Tema) 
+230 - cat 2.04 - Ambiente de ensino prático - implantação/melhoramento com recursos NÃO PEDAGÓGICOS 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Recursos para melhoria de infraestrutura nos laboratórios de Informática (Nobreak 3.2 
+KVA com 10 tomadas padrão NBR 14136) 
+Por que será feito: 
+Alimentar os equipamentos da sala do servidor (servidores, switches e roteadores) 
+Responsável: 
+<nome> Anderson Luiz de Souza 
+Qde CH/sem: 
+1 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Cidelise A B de Oliveira 
+Qde CH/sem: 
+5 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Loami da Silva Souza 
+Qde CH/sem: 
+2 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+03/03/2025 
+Data final: 
+10/12/2025 
+Etapas do processo: 
+01- Encaminhar solicitação ao Centro Paula Souza 
+01/03 
+10/04 
+ 
+02- Acompanhar mensalmente a solicitação junto ao Centro Paula 
+Souza 
+10/04 
+10/12 
+ 
+03- Execução do processo perante a disponibilidade de verba 
+10/04 
+10/12 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+(a ser resolvida/mitigada) 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+ 
+AÇÃO/PROJETO (Tema) 
+231 - cat 2.04 - Ambiente de ensino prático - implantação/melhoramento com recursos NÃO PEDAGÓGICOS 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Recursos para melhoria de infraestrutura nos laboratórios de Informática (Parafusadeira 
+angular com 8 posiçoes de torque) 
+Por que será feito: 
+Facilitar a manutenção dos computadores da unidade. 
+Responsável: 
+<nome> Anderson Luiz de Souza 
+Qde CH/sem: 
+1 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Cidelise A B de Oliveira 
+Qde CH/sem: 
+5 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Loami da Silva Souza 
+Qde CH/sem: 
+2 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+03/03/2025 
+Data final: 
+10/12/2025 
+Etapas do processo: 
+01- Encaminhar solicitação ao Centro Paula Souza 
+01/03 
+10/04 
+ 
+02- Acompanhar mensalmente a solicitação junto ao Centro Paula 
+Souza 
+10/04 
+10/12 
+ 
+03- Execução do processo perante a disponibilidade de verba 
+10/04 
+10/12 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+(a ser resolvida/mitigada) 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+ 
+AÇÃO/PROJETO (Tema) 
+231 - cat 2.04 - Ambiente de ensino prático - implantação/melhoramento com recursos NÃO PEDAGÓGICOS 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Recursos para melhoria de infraestrutura nos laboratórios de Informática (Parafusadeira 
+angular com 8 posiçoes de torque) 
+Por que será feito: 
+Facilitar a manutenção dos computadores da unidade. 
+Responsável: 
+<nome> Anderson Luiz de Souza 
+Qde CH/sem: 
+1 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Cidelise A B de Oliveira 
+Qde CH/sem: 
+5 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Loami da Silva Souza 
+Qde CH/sem: 
+2 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+03/03/2025 
+Data final: 
+10/12/2025 
+Etapas do processo: 
+01- Encaminhar solicitação ao Centro Paula Souza 
+01/03 
+10/04 
+ 
+02- Acompanhar mensalmente a solicitação junto ao Centro Paula 
+Souza 
+10/04 
+10/12 
+ 
+03- Execução do processo perante a disponibilidade de verba 
+10/04 
+10/12 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+(a ser resolvida/mitigada) 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+ 
+AÇÃO/PROJETO (Tema) 
+232 - cat 2.04 - Ambiente de ensino prático - implantação/melhoramento com recursos NÃO PEDAGÓGICOS 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Recursos para melhoria de infraestrutura nos laboratórios de Informática (Patch coord 
+Cat.6  U/UTP,  3 metros, 100% cobre homologado Anatel) 
+Por que será feito: 
+Padronizar o cabeamento dos Racks do Predio 1 e 2 (terreo e piso 1) e fazer as conexões 
+dos computadores administrativos para que funcione no padrão Ethernet 1GBASE-T (1 
+Gbps) 
+Responsável: 
+<nome> Anderson Luiz de Souza 
+Qde CH/sem: 
+1 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Cidelise A B de Oliveira 
+Qde CH/sem: 
+5 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Loami da Silva Souza 
+Qde CH/sem: 
+2 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+03/03/2025 
+Data final: 
+10/12/2025 
+Etapas do processo: 
+01- Encaminhar solicitação ao Centro Paula Souza 
+01/03 
+10/04 
+ 
+02- Acompanhar mensalmente a solicitação junto ao Centro Paula 
+Souza 
+10/04 
+10/12 
+ 
+03- Execução do processo perante a disponibilidade de verba 
+10/04 
+10/12 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+(a ser resolvida/mitigada) 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+ 
+AÇÃO/PROJETO (Tema) 
+233 - cat 2.04 - Ambiente de ensino prático - implantação/melhoramento com recursos NÃO PEDAGÓGICOS 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Recursos para melhoria de infraestrutura nos laboratórios de Informática (Patch coord 
+Cat.6A U/UTP,  3 metros, 100% cobre, injetado e testado, homologado Anatel) 
+Por que será feito: 
+Padronizar o cabeamento dos Racks do Predio 1 e 2 (terreo e piso 1) para que funcione 
+no padrão Ethernet 10GBASE-T (10 Gbps) nas ligações tronco entre equipamentos (que 
+serão fornecidos pelo CPS),  conforme a recomendação do CPS com o Projeto de 
+Implantação de Regionalização e Transformação Digital através da Divisão de 
+Informática. 
+Responsável: 
+<nome> Anderson Luiz de Souza 
+Qde CH/sem: 
+1 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Cidelise A B de Oliveira 
+Qde CH/sem: 
+5 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Loami da Silva Souza 
+Qde CH/sem: 
+2 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+03/03/2025 
+Data final: 
+10/12/2025 
+Etapas do processo: 
+01- Encaminhar solicitação ao Centro Paula Souza 
+01/03 
+10/04 
+ 
+02- Acompanhar mensalmente a solicitação junto ao Centro Paula 
+Souza 
+10/04 
+10/12 
+ 
+03- Execução do processo perante a disponibilidade de verba 
+10/04 
+10/12 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+(a ser resolvida/mitigada) 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+ 
+AÇÃO/PROJETO (Tema) 
+234 - cat 2.04 - Ambiente de ensino prático - implantação/melhoramento com recursos NÃO PEDAGÓGICOS 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Recursos para melhoria de infraestrutura nos laboratórios de Informática (Caixa de cabo 
+de rede  Cat.6A U/UTP, 305 metros, 100% cobre homologado Anatel) 
+Por que será feito: 
+Padronizar o cabeamento dos Racks do Predio 1 e 2 (terreo e piso 1) para que funcione 
+no padrão Ethernet 10GBASE-T (10 Gbps) nas ligações tronco entre equipamentos (que 
+serão fornecidos pelo CPS),  conforme a recomendação do CPS com o Projeto de 
+Implantação de Regionalização e Transformação Digital através da Divisão de 
+Informática. 
+Responsável: 
+<nome> Anderson Luiz de Souza 
+Qde CH/sem: 
+1 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Cidelise A B de Oliveira 
+Qde CH/sem: 
+5 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Loami da Silva Souza 
+Qde CH/sem: 
+2 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+03/03/2025 
+Data final: 
+10/12/2025 
+Etapas do processo: 
+01- Encaminhar solicitação ao Centro Paula Souza 
+01/03 
+10/04 
+ 
+02- Acompanhar mensalmente a solicitação junto ao Centro Paula 
+Souza 
+10/04 
+10/12 
+ 
+03- Execução do processo perante a disponibilidade de verba 
+10/04 
+10/12 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+(a ser resolvida/mitigada) 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+ 
+AÇÃO/PROJETO (Tema) 
+235 - cat 2.04 - Ambiente de ensino prático - implantação/melhoramento com recursos NÃO PEDAGÓGICOS 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Melhoria de infraestrutura nos laboratórios de Informática (Patch Painel Modular Cat.6 
+para cabos U/UTP, 24 portas) 
+Por que será feito: 
+Padronizar o cabeamento dos Racks do Predio 1 e 2 (ambos no terreo e piso 1) para que 
+funcione no padrão Ethernet 10GBASE-T (10 Gbps) nas ligações tronco entre 
+equipamentos (que serão fornecidos pelo CPS),  conforme a recomendação do CPS com 
+o Projeto de Implantação de Regionalização e Transformação Digital através da Divisão 
+de Informática. 
+Responsável: 
+<nome> Anderson Luiz de Souza 
+Qde CH/sem: 
+1 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Cidelise A B de Oliveira 
+Qde CH/sem: 
+5 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Loami da Silva Souza 
+Qde CH/sem: 
+2 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+03/03/2025 
+Data final: 
+10/12/2025 
+Etapas do processo: 
+01- Encaminhar solicitação ao Centro Paula Souza 
+01/03 
+10/04 
+ 
+02- Acompanhar mensalmente a solicitação junto ao Centro Paula 
+Souza 
+10/04 
+10/12 
+ 
+03- Execução do processo perante a disponibilidade de verba 
+10/04 
+10/12 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+(a ser resolvida/mitigada) 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+ 
+AÇÃO/PROJETO (Tema) 
+236 - cat 2.04 - Ambiente de ensino prático - implantação/melhoramento com recursos NÃO PEDAGÓGICOS 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Melhoria de infraestrutura nos laboratórios de Informática (Conector RJ45 macho Cat.6) 
+Por que será feito: 
+Realizar a conectorização dos cabos Cat.6 
+Responsável: 
+<nome> Anderson Luiz de Souza 
+Qde CH/sem: 
+1 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Cidelise A B de Oliveira 
+Qde CH/sem: 
+5 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Loami da Silva Souza 
+Qde CH/sem: 
+2 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+03/03/2025 
+Data final: 
+10/12/2025 
+Etapas do processo: 
+01- Encaminhar solicitação ao Centro Paula Souza 
+01/03 
+10/04 
+ 
+02- Acompanhar mensalmente a solicitação junto ao Centro Paula 
+Souza 
+10/04 
+10/12 
+ 
+03- Execução do processo perante a disponibilidade de verba 
+10/04 
+10/12 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+(a ser resolvida/mitigada) 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+ 
+AÇÃO/PROJETO (Tema) 
+237 - cat 2.04 - Ambiente de ensino prático - implantação/melhoramento com recursos NÃO PEDAGÓGICOS 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Recurso para melhoria de infraestrutura nos laboratórios de Informática (Aspirador de 
+Po e Liquido,2400w,220v, reservatorio de 75 Litros) 
+Por que será feito: 
+Limpeza interna dos gabinetes dos laboratórios Multidisciplinares e administrativo. 
+Responsável: 
+<nome> Anderson Luiz de Souza 
+Qde CH/sem: 
+1 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Cidelise A B de Oliveira 
+Qde CH/sem: 
+5 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Loami da Silva Souza 
+Qde CH/sem: 
+2 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+03/03/2025 
+Data final: 
+10/12/2025 
+Etapas do processo: 
+01- Encaminhar solicitação ao Centro Paula Souza 
+01/03 
+10/04 
+ 
+02- Acompanhar mensalmente a solicitação junto ao Centro Paula 
+Souza 
+10/04 
+10/12 
+ 
+03- Execução do processo perante a disponibilidade de verba 
+10/04 
+10/12 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+(a ser resolvida/mitigada) 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+ 
+AÇÃO/PROJETO (Tema) 
+238 - cat 2.04 - Ambiente de ensino prático - implantação/melhoramento com recursos NÃO PEDAGÓGICOS 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Recurso para melhoria de infraestrutura nos laboratórios de Informática (kit 
+testador/certificador de cabo de rede com localizador de cabo, detecção de PoE, 
+aberturas, curtos e cabos sem terminação. Compatível com o padrão 10GBASE-T (10 
+Gbps)) 
+Por que será feito: 
+Fazer o mapeamento, teste, identificação e manter a organização da rede de dados da 
+unidade. 
+Responsável: 
+<nome> Anderson Luiz de Souza 
+Qde CH/sem: 
+1 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Cidelise A B de Oliveira 
+Qde CH/sem: 
+5 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Loami da Silva Souza 
+Qde CH/sem: 
+2 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+03/03/2025 
+Data final: 
+10/12/2025 
+Etapas do processo: 
+01- Encaminhar solicitação ao Centro Paula Souza 
+01/03 
+10/04 
+ 
+02- Acompanhar mensalmente a solicitação junto ao Centro Paula 
+Souza 
+10/04 
+10/12 
+ 
+03- Execução do processo perante a disponibilidade de verba 
+10/04 
+10/12 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+(a ser resolvida/mitigada) 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+ 
+AÇÃO/PROJETO (Tema) 
+239 - cat 2.04 - Ambiente de ensino prático - implantação/melhoramento com recursos NÃO PEDAGÓGICOS 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Recurso para melhoria de infraestrutura nos laboratórios de Informática (Placa de rede 
+para servidor com 2 slots compativeis com tranceiver SFP+ 10Gbps) 
+Por que será feito: 
+Realizar a conexão 10 Gpbs entre os servidores e switches conforme a recomendação do 
+CPS com o Projeto de Implantação de Regionalização e Transformação Digital através da 
+Divisão de Informática. 
+Responsável: 
+<nome> Anderson Luiz de Souza 
+Qde CH/sem: 
+1 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Cidelise A B de Oliveira 
+Qde CH/sem: 
+5 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Loami da Silva Souza 
+Qde CH/sem: 
+2 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+03/03/2025 
+Data final: 
+10/12/2025 
+Etapas do processo: 
+01- Encaminhar solicitação ao Centro Paula Souza 
+01/03 
+10/04 
+ 
+02- Acompanhar mensalmente a solicitação junto ao Centro Paula 
+Souza 
+10/04 
+10/12 
+ 
+03- Execução do processo perante a disponibilidade de verba 
+10/04 
+10/12 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+(a ser resolvida/mitigada) 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+ 
+AÇÃO/PROJETO (Tema) 
+240 - cat 2.04 - Ambiente de ensino prático - implantação/melhoramento com recursos NÃO PEDAGÓGICOS 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Recurso para melhoria de infraestrutura nos laboratórios de Informática (Cabo DAC 
+(Direct Attach Copper) com conectores SFP+, compatível com 10Gbps, com 3 metros) 
+Por que será feito: 
+Realizar a conexão 10 Gpbs entre os servidores e switches conforme a recomendação do 
+CPS com o Projeto de Implantação de Regionalização e Transformação Digital através da 
+Divisão de Informática. 
+Responsável: 
+<nome> Anderson Luiz de Souza 
+Qde CH/sem: 
+1 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Cidelise A B de Oliveira 
+Qde CH/sem: 
+5 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Loami da Silva Souza 
+Qde CH/sem: 
+2 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+03/03/2025 
+Data final: 
+10/12/2025 
+Etapas do processo: 
+01- Encaminhar solicitação ao Centro Paula Souza 
+01/03 
+10/04 
+ 
+02- Acompanhar mensalmente a solicitação junto ao Centro Paula 
+Souza 
+10/04 
+10/12 
+ 
+03- Execução do processo perante a disponibilidade de verba 
+10/04 
+10/12 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+(a ser resolvida/mitigada) 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+ 
+AÇÃO/PROJETO (Tema) 
+241 - cat 2.04 - Ambiente de ensino prático - implantação/melhoramento com recursos NÃO PEDAGÓGICOS 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Recurso para melhoria de infraestrutura nos laboratórios de Informática (Tranceiver 
+SFP+, 10Gbps, para fibra multimodo, conector LC duplex) 
+Por que será feito: 
+Realizar a conexão 10 Gpbs entre os Prédios 1 e 2; e entre os switches conforme a 
+recomendação do CPS com o Projeto de Implantação de Regionalização e 
+Transformação Digital através da Divisão de Informática. 
+Responsável: 
+<nome> Anderson Luiz de Souza 
+Qde CH/sem: 
+1 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Cidelise A B de Oliveira 
+Qde CH/sem: 
+5 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Loami da Silva Souza 
+Qde CH/sem: 
+2 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+03/03/2025 
+Data final: 
+10/12/2025 
+Etapas do processo: 
+01- Encaminhar solicitação ao Centro Paula Souza 
+01/03 
+10/04 
+ 
+02- Acompanhar mensalmente a solicitação junto ao Centro Paula 
+Souza 
+10/04 
+10/12 
+ 
+03- Execução do processo perante a disponibilidade de verba 
+10/04 
+10/12 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+(a ser resolvida/mitigada) 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+ 
+AÇÃO/PROJETO (Tema) 
+242 - cat 2.04 - Ambiente de ensino prático - implantação/melhoramento com recursos NÃO PEDAGÓGICOS 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Recurso para melhoria de infraestrutura nos laboratórios de Informática (Gerenciador e 
+centralizador de Access Point compativel com Unifi OS) 
+Por que será feito: 
+Ter um gerenciamento centralizado da rede Wi-Fi com os AP Unify existentes 
+Responsável: 
+<nome> Anderson Luiz de Souza 
+Qde CH/sem: 
+1 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Cidelise A B de Oliveira 
+Qde CH/sem: 
+5 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Loami da Silva Souza 
+Qde CH/sem: 
+2 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+03/03/2025 
+Data final: 
+10/12/2025 
+Etapas do processo: 
+01- Encaminhar solicitação ao Centro Paula Souza 
+01/03 
+10/04 
+ 
+02- Acompanhar mensalmente a solicitação junto ao Centro Paula 
+Souza 
+10/04 
+10/12 
+ 
+03- Execução do processo perante a disponibilidade de verba 
+10/04 
+10/12 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+(a ser resolvida/mitigada) 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+ 
+AÇÃO/PROJETO (Tema) 
+243 - cat 2.04 - Ambiente de ensino prático - implantação/melhoramento com recursos NÃO PEDAGÓGICOS 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Recurso para melhoria de infraestrutura nos laboratórios de Informática (Furadeira e 
+parafusadeira) 
+Por que será feito: 
+Facilitar a manutenção dos gabinetes da unidade. 
+Responsável: 
+<nome> Anderson Luiz de Souza 
+Qde CH/sem: 
+1 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Cidelise A B de Oliveira 
+Qde CH/sem: 
+5 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Loami da Silva Souza 
+Qde CH/sem: 
+2 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+03/03/2025 
+Data final: 
+10/12/2025 
+Etapas do processo: 
+01- Encaminhar solicitação ao Centro Paula Souza 
+01/03 
+10/04 
+ 
+02- Acompanhar mensalmente a solicitação junto ao Centro Paula 
+Souza 
+10/04 
+10/12 
+ 
+03- Execução do processo perante a disponibilidade de verba 
+10/04 
+10/12 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+(a ser resolvida/mitigada) 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+ 
+AÇÃO/PROJETO (Tema) 
+244 - cat 2.04 - Ambiente de ensino prático - implantação/melhoramento com recursos NÃO PEDAGÓGICOS 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Recurso para melhoria de infraestrutura nos laboratórios de Informática (Ponto de 
+Acesso (AP) com Wi-Fi 6 (IEEE 802.11ax) e compativel com Unifi OS) 
+Por que será feito: 
+Melhorar e aumentar o alcance da rede Wi-Fi, além de ter um gerenciamento 
+centralizado em conjunto com a controladora 
+Responsável: 
+<nome> Anderson Luiz de Souza 
+Qde CH/sem: 
+1 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Cidelise A B de Oliveira 
+Qde CH/sem: 
+5 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Loami da Silva Souza 
+Qde CH/sem: 
+2 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+03/03/2025 
+Data final: 
+10/12/2025 
+Etapas do processo: 
+01- Encaminhar solicitação ao Centro Paula Souza 
+01/03 
+10/04 
+ 
+02- Acompanhar mensalmente a solicitação junto ao Centro Paula 
+Souza 
+10/04 
+10/12 
+ 
+03- Execução do processo perante a disponibilidade de verba 
+10/04 
+10/12 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+(a ser resolvida/mitigada) 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+ 
+AÇÃO/PROJETO (Tema) 
+245 - cat 2.04 - Ambiente de ensino prático - implantação/melhoramento com recursos NÃO PEDAGÓGICOS 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Recurso para melhoria de infraestrutura nos laboratórios de Informática (Bobina de 
+Cabo Optico Drop com 2 fibras, multimodo, 1000 metros) 
+Por que será feito: 
+Realizar a conexão entre os diversos Switches atraves de fibra otica no prédio 1 e 2. 
+Responsável: 
+<nome> Anderson Luiz de Souza 
+Qde CH/sem: 
+1 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Cidelise A B de Oliveira 
+Qde CH/sem: 
+5 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Loami da Silva Souza 
+Qde CH/sem: 
+2 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+03/03/2025 
+Data final: 
+10/12/2025 
+Etapas do processo: 
+01- Encaminhar solicitação ao Centro Paula Souza 
+01/03 
+10/04 
+ 
+02- Acompanhar mensalmente a solicitação junto ao Centro Paula 
+Souza 
+10/04 
+10/12 
+ 
+03- Execução do processo perante a disponibilidade de verba 
+10/04 
+10/12 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+(a ser resolvida/mitigada) 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+ 
+AÇÃO/PROJETO (Tema) 
+246 - cat 2.04 - Ambiente de ensino prático - implantação/melhoramento com recursos NÃO PEDAGÓGICOS 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Recurso para melhoria de infraestrutura nos laboratórios de Informática (Conector 
+óptico reutilizável (Fast Connector) LC/UPC para fibra multimodo) 
+Por que será feito: 
+Realizar a conexão das fibras nos switches. 
+Responsável: 
+<nome> Anderson Luiz de Souza 
+Qde CH/sem: 
+1 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Cidelise A B de Oliveira 
+Qde CH/sem: 
+5 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Loami da Silva Souza 
+Qde CH/sem: 
+2 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+03/03/2025 
+Data final: 
+10/12/2025 
+Etapas do processo: 
+01- Encaminhar solicitação ao Centro Paula Souza 
+01/03 
+10/04 
+ 
+02- Acompanhar mensalmente a solicitação junto ao Centro Paula 
+Souza 
+10/04 
+10/12 
+ 
+03- Execução do processo perante a disponibilidade de verba 
+10/04 
+10/12 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+(a ser resolvida/mitigada) 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+ 
+AÇÃO/PROJETO (Tema) 
+247 - cat 2.04 - Ambiente de ensino prático - implantação/melhoramento com recursos NÃO PEDAGÓGICOS 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Substituição de cartuchos para o uso dos docentes nas disciplinas (Cartucho de tinta 
+impressora HP compativel; officejet 8100/8600; preto) 
+Por que será feito: 
+Substituição dos cartuchos de tinta compatíveis usados na impressora, garantindo que 
+ela continue funcionando corretamente e possa imprimir documentos de qualidade 
+evitando tempo de inatividade. 
+Responsável: 
+<nome> Anderson Luiz de Souza 
+Qde CH/sem: 
+1 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Cidelise A B de Oliveira 
+Qde CH/sem: 
+5 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome>  
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+03/03/2025 
+Data final: 
+10/12/2025 
+Etapas do processo: 
+01- Encaminhar solicitação ao Centro Paula Souza 
+01/03 
+10/04 
+ 
+02- Acompanhar mensalmente a solicitação junto ao Centro Paula 
+Souza 
+10/04 
+10/12 
+ 
+03- Execução do processo perante a disponibilidade de verba 
+10/04 
+10/12 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+(a ser resolvida/mitigada) 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+ 
+AÇÃO/PROJETO (Tema) 
+248 - cat 2.04 - Ambiente de ensino prático - implantação/melhoramento com recursos NÃO PEDAGÓGICOS 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Substituição de cartuchos para o uso dos docentes nas disciplinas (Cartucho de tinta 
+impressora HP compativel; officejet 8100/8600; ciano) 
+Por que será feito: 
+Substituição dos cartuchos de tinta compatíveis usados na impressora, garantindo que 
+ela continue funcionando corretamente e possa imprimir documentos de qualidade 
+evitando tempo de inatividade. 
+Responsável: 
+<nome> Anderson Luiz de Souza 
+Qde CH/sem: 
+1 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Cidelise A B de Oliveira 
+Qde CH/sem: 
+5 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome>  
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+03/03/2025 
+Data final: 
+10/12/2025 
+Etapas do processo: 
+01- Encaminhar solicitação ao Centro Paula Souza 
+01/03 
+10/04 
+ 
+02- Acompanhar mensalmente a solicitação junto ao Centro Paula 
+Souza 
+10/04 
+10/12 
+ 
+03- Execução do processo perante a disponibilidade de verba 
+10/04 
+10/12 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+(a ser resolvida/mitigada) 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+ 
+AÇÃO/PROJETO (Tema) 
+249 - cat 2.04 - Ambiente de ensino prático - implantação/melhoramento com recursos NÃO PEDAGÓGICOS 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Substituição de cartuchos para o uso dos docentes nas disciplinas (Cartucho de tinta 
+impressora HP compatível, J4660, Colorido) 
+Por que será feito: 
+Substituição dos cartuchos de tinta compatíveis usados na impressora, garantindo que 
+ela continue funcionando corretamente e possa imprimir documentos de qualidade 
+evitando tempo de inatividade. 
+Responsável: 
+<nome> Anderson Luiz de Souza 
+Qde CH/sem: 
+1 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Cidelise A B de Oliveira 
+Qde CH/sem: 
+5 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome>  
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+03/03/2025 
+Data final: 
+10/12/2025 
+Etapas do processo: 
+01- Encaminhar solicitação ao Centro Paula Souza 
+01/03 
+10/04 
+ 
+02- Acompanhar mensalmente a solicitação junto ao Centro Paula 
+Souza 
+10/04 
+10/12 
+ 
+03- Execução do processo perante a disponibilidade de verba 
+10/04 
+10/12 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+(a ser resolvida/mitigada) 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+ 
+AÇÃO/PROJETO (Tema) 
+250 - cat 2.04 - Ambiente de ensino prático - implantação/melhoramento com recursos NÃO PEDAGÓGICOS 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Recurso para melhoria de infraestrutura nos laboratórios de Informática (Testador de 
+cabo de rede para localizar e testar) 
+Por que será feito: 
+Identificar rapidamente falhas ou interrupções na rede, minimizando o tempo de 
+inatividade 
+Responsável: 
+<nome> Anderson Luiz de Souza 
+Qde CH/sem: 
+1 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Cidelise A B de Oliveira 
+Qde CH/sem: 
+5 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Loami da Silva Souza 
+Qde CH/sem: 
+2 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+03/03/2025 
+Data final: 
+10/12/2025 
+Etapas do processo: 
+01- Encaminhar solicitação ao Centro Paula Souza 
+01/03 
+10/04 
+ 
+02- Acompanhar mensalmente a solicitação junto ao Centro Paula 
+Souza 
+10/04 
+10/12 
+ 
+03- Execução do processo perante a disponibilidade de verba 
+10/04 
+10/12 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+(a ser resolvida/mitigada) 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+ 
+AÇÃO/PROJETO (Tema) 
+251 - cat 2.04 - Ambiente de ensino prático - implantação/melhoramento com recursos NÃO PEDAGÓGICOS 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Atualização de recursos pedagógicos nos auditórios e estúdio (Caixa de som Amplificada) 
+Por que será feito: 
+Aumentar a qualidade do áudio em apresentações, aulas e atividades que requerem som 
+amplificado. 
+Responsável: 
+<nome> Anderson Luiz de Souza 
+Qde CH/sem: 
+1 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Cidelise A B de Oliveira 
+Qde CH/sem: 
+5 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Luana Muzille 
+Qde CH/sem: 
+2 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+03/03/2025 
+Data final: 
+10/12/2025 
+Etapas do processo: 
+01- Encaminhar solicitação ao Centro Paula Souza 
+01/03 
+10/04 
+ 
+02- Acompanhar mensalmente a solicitação junto ao Centro Paula 
+Souza 
+10/04 
+10/12 
+ 
+03- Execução do processo perante a disponibilidade de verba 
+10/04 
+10/12 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+(a ser resolvida/mitigada) 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+ 
+AÇÃO/PROJETO (Tema) 
+252 - cat 2.04 - Ambiente de ensino prático - implantação/melhoramento com recursos NÃO PEDAGÓGICOS 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Atualização de recursos pedagógicos nos auditórios e estúdio (Microfone sem fio) 
+Por que será feito: 
+Facilitar a comunicação em apresentações e aulas, permitindo maior mobilidade e qualidade na 
+transmissão de áudio. 
+Responsável: 
+<nome> Anderson Luiz de Souza 
+Qde CH/sem: 
+1 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Cidelise A B de Oliveira 
+Qde CH/sem: 
+5 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Loami da Silva Souza 
+Qde CH/sem: 
+2 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+03/03/2025 
+Data final: 
+10/12/2025 
+Etapas do processo: 
+01- Encaminhar solicitação ao Centro Paula Souza 
+01/03 
+10/04 
+ 
+02- Acompanhar mensalmente a solicitação junto ao Centro Paula 
+Souza 
+10/04 
+10/12 
+ 
+03- Execução do processo perante a disponibilidade de verba 
+10/04 
+10/12 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+(a ser resolvida/mitigada) 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+2xx - cat 2.04 - Ambiente de ensino prático - implantação/melhoramento com recursos NÃO PEDAGÓGICOS 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Melhoria de infraestrutura nos laboratórios de Informática 
+Por que será feito: 
+É um ambiente de informática onde necessita de mobiliários novos para estruturar os 
+recursos pedagógicos, pois temos de 20 a 40 máquinas por laboratório com mesas 
+deterioradas pelo tempo de uso. A mesa muitas vezes está pendendo para um lado ou 
+com jogo de movimento por estar muito utilizada. (Substituição de 80 mesas de 
+informática ou escritório 90 x 70 cm, com 1” de espessura e dois furos para passagem de 
+cabos) 
+Responsável: 
+<nome> Anderson Luiz de Souza 
+Qde CH/sem: 
+1 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Cidelise A B de Oliveira 
+Qde CH/sem: 
+5 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Loami da Silva Souza 
+Qde CH/sem: 
+2 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+03/03/2025 
+Data final: 
+10/12/2025 
+Etapas do processo: 
+01- Encaminhar solicitação ao Centro Paula Souza 
+01/03 
+10/04 
+ 
+02- Acompanhar mensalmente a solicitação junto ao Centro Paula 
+Souza 
+10/04 
+10/12 
+ 
+03- Execução do processo perante a disponibilidade de verba 
+10/04 
+10/12 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+R$ 48.000,00 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+(a ser resolvida/mitigada) 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+ 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+2xy - cat 2.04 - Ambiente de ensino prático - implantação/melhoramento com recursos NÃO PEDAGÓGICOS 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Solicitar apoio a UGAF para o estúdio de pfo, em relação a manutenção do ar 
+condicionado, as luzes, a porta de entrada e a solicitação do AVCB. 
+Por que será feito: 
+O curso de produção fonogra´fica utiliza o estúdio para atividades práticas de vários 
+componentes. Diante disso, ocorrerá interferência nas atividades caso o ar condicionado 
+pare, visto que a última manutenção foi em 2019. Sendo assim, necessitamos com 
+urgência dessas manutenções a fim de que as atividades no estúdio não parem, o que 
+afetaria drasticamente a parte pedagógica do curso de PFO 
+Responsável: 
+<nome> Anderson Luiz de Souza 
+Qde CH/sem: 
+1 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Cidelise A B de Oliveira 
+Qde CH/sem: 
+2 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Luana Muzille 
+Qde CH/sem: 
+2 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+03/03/2025 
+Data final: 
+10/12/2025 
+Etapas do processo: 
+01- Encaminhar solicitação ao Centro Paula Souza 
+01/03 
+10/04 
+ 
+02- Acompanhar mensalmente a solicitação junto ao Centro Paula 
+Souza 
+10/04 
+10/12 
+ 
+03- Execução do processo perante a disponibilidade de verba 
+10/04 
+10/12 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+A definir 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+(a ser resolvida/mitigada) 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+2xz - cat 2.04 - Ambiente de ensino prático - implantação/melhoramento com recursos NÃO PEDAGÓGICOS 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Solicitar apoio a UGAF para o estúdio de pfo, em relação a manutenção do ar 
+condicionado, as luzes, a porta de entrada e a solicitação do AVCB. 
+Por que será feito: 
+O curso de produção fonogra´fica utiliza o estúdio para atividades práticas de vários 
+componentes. Diante disso, ocorrerá interferência nas atividades caso o ar condicionado 
+pare, visto que a última manutenção foi em 2019. Sendo assim, necessitamos com 
+urgência dessas manutenções a fim de que as atividades no estúdio não parem, o que 
+afetaria drasticamente a parte pedagógica do curso de PFO 
+Responsável: 
+<nome> Anderson Luiz de Souza 
+Qde CH/sem: 
+1 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Cidelise A B de Oliveira 
+Qde CH/sem: 
+2 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Luana Muzille 
+Qde CH/sem: 
+2 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+03/03/2025 
+Data final: 
+10/12/2025 
+Etapas do processo: 
+01- Encaminhar solicitação ao Centro Paula Souza 
+01/03 
+10/04 
+ 
+02- Acompanhar mensalmente a solicitação junto ao Centro Paula 
+Souza 
+10/04 
+10/12 
+ 
+03- Execução do processo perante a disponibilidade de verba 
+10/04 
+10/12 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+A definir 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+(a ser resolvida/mitigada) 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+2yx - cat 2.01 - Laboratório físico - implantação/melhoramento com recursos PEDAGÓGICOS 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Compra de 03 computadores IMacs 
+Por que será feito: 
+Porque uma quantidade considerável dos equipamentos utilizados no curso é dedicada, 
+ou seja,só operam com computadores da apple (I-mac) 
+Responsável: 
+<nome> Anderson Luiz de Souza 
+Qde CH/sem: 
+1 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Cidelise A B de Oliveira 
+Qde CH/sem: 
+2 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Luana Muzille 
+Qde CH/sem: 
+2 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+03/03/2025 
+Data final: 
+10/12/2025 
+Etapas do processo: 
+01- Encaminhar solicitação ao Centro Paula Souza 
+01/03 
+10/04 
+ 
+02- Acompanhar mensalmente a solicitação junto ao Centro Paula 
+Souza 
+10/04 
+10/12 
+ 
+03- Execução do processo perante a disponibilidade de verba 
+10/04 
+10/12 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+R$ 60.000,00 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+(a ser resolvida/mitigada) 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+2yy - cat 2.04 - Ambiente de ensino prático - implantação/melhoramento com recursos NÃO PEDAGÓGICOS 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Aquisição de mobiliário planejado para equipamentos eletrônicos/ sonoros. 
+Por que será feito: 
+Para organizar e otimizar as dinâmicas de aula nos laboratórios do curso de Produção 
+fonográfica bem como, para preservar os equipamentos durante as práticas 
+pedagógicas. industrial. 
+Responsável: 
+<nome> Anderson Luiz de Souza 
+Qde CH/sem: 
+1 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Cidelise A B de Oliveira 
+Qde CH/sem: 
+2 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Luana Muzille 
+Qde CH/sem: 
+2 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+03/03/2025 
+Data final: 
+10/12/2025 
+Etapas do processo: 
+01- Encaminhar solicitação ao Centro Paula Souza 
+01/03 
+10/04 
+ 
+02- Acompanhar mensalmente a solicitação junto ao Centro Paula 
+Souza 
+10/04 
+10/12 
+ 
+03- Execução do processo perante a disponibilidade de verba 
+10/04 
+10/12 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+R$ 60.000,00 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+(a ser resolvida/mitigada) 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+ 
+ 
+ 
+ 
+03 – Pesquisa / Extensão e Equipamentos Associados 
+Ações para melhoramento dos laboratórios que contemplam Pesquisa além do Ensino (Equipamentos): 
+melhoramento dos espaços de pesquisa, que inclui especificação equipamentos e aquisição por fomento ou por 
+projeto com empresa, e também prestação de serviços no campo tecnológico para instituições e empresas. 
+ 
+AÇÃO/PROJETO (Tema) 
+301 - cat 3.02 - Desenvolvimento de Projetos de IC - MDITI 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Divulgação do programa de Iniciação Cientifica 
+Por que será feito: 
+O objetivo principal de uma iniciação científica é proporcionar aos estudantes uma experiência 
+prática na pesquisa acadêmica sob a orientação de um professor  
+Responsável: 
+<nome> Patrícia Glaucia Moreno 
+Qde CH/sem: 
+2 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> Eona Moro 
+Qde CH/sem: 
+2 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/02/2025 
+Data final: 
+30/06/2025 
+Etapas do processo: 
+01- abertura do edital 
+01/11 
+15/11 
+ 
+02- reunião CEPE – definição de cronograma 
+01/02 
+01/02 
+ 
+03- divulgação do resultado 
+05/02 
+10/02 
+ 
+04- início das orientações 
+15/02 
+1502 
+ 
+05- Participação Mostra CEPE 
+10/05 
+12/05 
+ 
+06- Relatório parcial 
+30/06 
+30/06 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+(a ser resolvida/mitigada) 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+302 - cat 3.06 - Jornada/Evento/Revista Científico e Tecnológico 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Apresentar as pesquisas que estão sendo desenvolvidas pelos professores em RJI 
+Por que será feito: 
+Ao apresentar as pesquisas, a comunidade tem acesso, o que acaba divulgando o conhecimento 
+como também auxiliar nos relatórios da CPA 
+Responsável: 
+<nome> Patrícia Glaucia Moreno 
+Qde CH/sem: 
+2 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Eona Moro 
+Qde CH/sem: 
+2 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/02/2025 
+Data final: 
+30/06/2025 
+Etapas do processo: 
+01- Apresentação Mostra CEPE 
+10/05 
+12/05 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+(a ser resolvida/mitigada) 
+cat 0.1.10 - Gestão da unidade de ensino e dos cursos (indicadores) 
+X 
+X 
+ 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+303 - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+304 - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+<Copiar tabelas para mais ações> 
+ 
+ 
+03 – Pesquisa/Extensão: Copiar projetos de 2024 
+ 
+AÇÃO/PROJETO (Tema) 
+30x - cat 3.02 - Desenvolvimento de Projetos de IC - MDITI 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+30y - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+30w - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+30z - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+04 – Atividades Formativas em Projetos (nível tático) 
+Projetos institucionais formativos não especificados em PEs: Rede de tecnologia, Novotec, PCI, Projetos 
+estudantis (Baja, Aerodesign, entre outros) 
+ 
+AÇÃO/PROJETO (Tema) 
+401 - cat 4.02 - Novotec 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Seguir oferecendo, juntamente com a Secretária de desenvolvimento econômico do 
+Estado de São Paulo, cursos profissionalizantes de curta duração 
+Por que será feito: 
+Para atender nossa missão institucional 
+Responsável: 
+<nome> Anderson Luiz de Souza 
+Qde CH/sem: 
+1 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> Patricia Glaucia Moreno 
+Qde CH/sem: 
+1 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+03/02/2025 
+Data final: 
+30/06 
+Etapas do processo: 
+01- Seguiremos o cronograma que será proposto pela SDE-SP 
+03/02 
+30/06 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+(a ser resolvida/mitigada) 
+cat 0.1.09 - Acesso/Inclusão ao Ensino Superior (social, PCD) 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+402 - cat 4.04 - Projetos estudantis diversos 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Manutenção do Núcleo de Estudos Afro-brasileiros da Fatec Tatuí (Mo Ati Iye) 
+Por que será feito: 
+Porque a discussão sobre o racismo na Fatec Tatuí é de extrema importância, pois 
+promove a conscientização e o combate a essa forma de discriminação, contribuindo 
+para a construção de um ambiente acadêmico mais inclusivo, diverso e justo 
+Responsável: 
+<nome> Andrea Luisa Martins dos Santos 
+Qde CH/sem: 
+04 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/02/2025 
+Data final: 
+30/06/2025 
+Etapas do processo: 
+01- Formação dos grupos de estudo 
+17/02 
+17/03 
+ 
+02- Encontros semanais 
+17/02 
+30/06 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.99 - Outra 
+X 
+X 
+ 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+403 - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+404 - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+<Copiar tabelas para mais ações> 
+ 
+ 
+04 – Atividades Formativas em Projetos: Copiar projetos de 2024 
+ 
+AÇÃO/PROJETO (Tema) 
+40x - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+40y - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+40w - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+40z - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+ 
+ 
+ 
+05 – Infraestrutura (instalações prediais) 
+Projetos de manutenção e melhoramento predial voltados à segurança (física e sanitária) e preservação do 
+patrimônio: Reparação predial (civil, elétrica, dados), novas instalações prediais. 
+ 
+AÇÃO/PROJETO (Tema) 
+501 - cat 5.05 - Reforma de Edificações 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Manutenção predial, colocação de forro em salas de aula e laboratórios 
+Por que será feito: 
+Proporcionar o isolamento térmico e acústico e evitar infiltrações e sujeiras do telhado 
+Responsável: 
+<nome> Cidelise A B de Oliveira 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Anderson Luiz de Souza 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+03/02/2025 
+Data final: 
+30/12/2025 
+Etapas do processo: 
+01- Reunião de Planejamento 
+03/02 
+20/02 
+ 
+02- Solicitar apoio UGAF 
+03/02 
+30/05 
+ 
+03- Monitorar o desenvolvimento do processo junto UGAF 
+30/05 
+30/12 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+Pesquisa de Preço a 
+elaborar 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.02 - Manutenção e conservação predial 
+(a ser resolvida/mitigada) 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+502 - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+503 - cat 5.05 - Reforma de Edificações 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Manutenção da cabine de força Primária 
+Por que será feito: 
+Importante para garantir o funcionamento seguro e eficiente do sistema elétrico 
+Responsável: 
+<nome> Cidelise A B de Oliveira 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Anderson Luiz de Souza 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+05/02/2025 
+Data final: 
+30/12/2025 
+Etapas do processo: 
+01- Reunião de Planejamento 
+03/02 
+20/02 
+ 
+02- Solicitação de apoio UGAF 
+20/02 
+30/05 
+ 
+03- Monitorar o desenvolvimento do processo junto a UGAF 
+30/05 
+30/12 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+Pesquisa de Preço a 
+elaborar 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.02 - Manutenção e conservação predial 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+504 - cat 5.05 - Reforma de Edificações 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Pintura do Prédio 
+Por que será feito: 
+Para melhorar a aparência da Unidade, para combater infiltrações protegendo a 
+superfície contra danos, rachaduras e trincas 
+Responsável: 
+<nome> Cidelise A B de Oliveira 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Anderson Luiz de Souza 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+03/02/2025 
+Data final: 
+D30/12/2025 
+Etapas do processo: 
+01- Reunião de Planejamento 
+03/02 
+20/02 
+ 
+02- Solicitação de apoio UGAF 
+20/02 
+30/05 
+ 
+03- Monitorar o desenvolvimento do processo junto a UGAF 
+30/05 
+30/12 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+Pesquisa de Preço a 
+elaborar 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.02 - Manutenção e conservação predial 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+505 - cat 5.07 - Construção de edificações 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Construção de Refeitório para atendimento do Projeto AMS- ensino médio 
+Por que será feito: 
+Para preparação das refeições dos alunos do Projeto AMS Ensino Médio 
+Responsável: 
+<nome> Cidelise A B de Oliveira 
+Qde CH/sem: 
+1 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Anderson Luiz de Souza 
+Qde CH/sem: 
+1 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+03/02/2025 
+Data final: 
+31/12/2025 
+Etapas do processo: 
+01- Solicitar apoio a UGAF 
+03/02 
+17/02 
+ 
+02- Solicitar caminhos e procedimentos a UGAF 
+20/02 
+30/05 
+ 
+03- Monitorar o desenvolvimento do processo junto a UGAF 
+30/05 
+30/12 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+Pesquisa de Preço a ser 
+elaborada 
+Fonte(s) dos recursos: 
+UIE - CPS 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.99 - Outra 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+506 - cat 5.09 - Obtenção/renovação de AVCB 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Renovação de AVCB 
+Por que será feito: 
+Para garantir que os prédios estejam em conformidade com as normas de segurança e 
+incêndio 
+Responsável: 
+<nome> Cidelise A B de Oliveira 
+Qde CH/sem: 
+1 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Anderson Luiz de Souza 
+Qde CH/sem: 
+1 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+03/02/2025 
+Data final: 
+31/12/2025 
+Etapas do processo: 
+01- Solicitar apoio a UGAF 
+03/02 
+17/02 
+ 
+02- Solicitar caminhos e procedimentos a UGAF 
+20/02 
+30/05 
+ 
+03- Monitorar o desenvolvimento do processo junto a UGAF 
+30/05 
+30/12 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+Pesquisa de Preço a ser 
+elaborada 
+Fonte(s) dos recursos: 
+UIE - CPS 
+Situação problema: 
+cat 0.1.11 - Segurança pessoal e patrimonial 
+(a ser resolvida/mitigada) 
+cat 0.1.99 - Outra 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+507 - cat 5.05 - Reforma de Edificações 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Manutenção dos estacionamentos 
+Por que será feito: 
+Para garantir a acessibilidade dos veículos que utilizam o espaço e evitar acidentes 
+Responsável: 
+<nome> Cidelise A B de Oliveira 
+Qde CH/sem: 
+1 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Anderson Luiz de Souza 
+Qde CH/sem: 
+1 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+03/02/2025 
+Data final: 
+31/12/2025 
+Etapas do processo: 
+01- Solicitar apoio a UGAF 
+03/02 
+17/02 
+ 
+02- Solicitar caminhos e procedimentos a UGAF 
+20/02 
+30/05 
+ 
+03- Monitorar o desenvolvimento do processo junto a UGAF 
+30/05 
+30/12 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+Pesquisa de Preço a ser 
+elaborada 
+Fonte(s) dos recursos: 
+UIE - CPS 
+Situação problema: 
+cat 0.1.11 - Segurança pessoal e patrimonial 
+(a ser resolvida/mitigada) 
+cat 0.1.99 - Outra 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+508 - cat 5.05 - Reforma de Edificações 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Limpeza de caixa d’agua 
+Por que será feito: 
+Para garantir a acessibilidade dos veículos que utilizam o espaço e evitar acidentes 
+Responsável: 
+<nome> Cidelise A B de Oliveira 
+Qde CH/sem: 
+1 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Anderson Luiz de Souza 
+Qde CH/sem: 
+1 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+03/02/2025 
+Data final: 
+31/12/2025 
+Etapas do processo: 
+01- Solicitar apoio a UGAF 
+03/02 
+17/02 
+ 
+02- Solicitar caminhos e procedimentos a UGAF 
+20/02 
+30/05 
+ 
+03- Monitorar o desenvolvimento do processo junto a UGAF 
+30/05 
+30/12 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+Pesquisa de Preço a ser 
+elaborada 
+Fonte(s) dos recursos: 
+UIE - CPS 
+Situação problema: 
+cat 0.1.11 - Segurança pessoal e patrimonial 
+(a ser resolvida/mitigada) 
+cat 0.1.99 - Outra 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+509 - cat 5.03 - Material Infraestrutura/equipamentos 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Aparelhos de ar condicionados 
+Por que será feito: 
+Conforto Térmico em ambientes fechados, regulando a temperatura, a umidade e 
+qualidade do ar, evitando problemas de saúde com as altas temperaturas 
+Responsável: 
+<nome> Cidelise A B de Oliveira 
+Qde CH/sem: 
+1 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Anderson Luiz de Souza 
+Qde CH/sem: 
+1 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+03/02/2025 
+Data final: 
+31/12/2025 
+Etapas do processo: 
+01- Solicitar apoio a UGAF 
+03/02 
+17/02 
+ 
+02- Solicitar caminhos e procedimentos a UGAF 
+20/02 
+30/05 
+ 
+03- Monitorar o desenvolvimento do processo junto a UGAF 
+30/05 
+30/12 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+Pesquisa de Preço a ser 
+elaborada 
+Fonte(s) dos recursos: 
+UIE - CPS 
+Situação problema: 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+(a ser resolvida/mitigada) 
+cat 0.1.99 - Outra 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+510 - cat 5.03 - Material Infraestrutura/equipamentos 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Mobiliárias: cadeiras giratórias 
+Por que será feito: 
+Subsituir e repor cadeiras danificadas 
+Responsável: 
+<nome> Cidelise A B de Oliveira 
+Qde CH/sem: 
+1 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Anderson Luiz de Souza 
+Qde CH/sem: 
+1 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+03/02/2025 
+Data final: 
+31/12/2025 
+Etapas do processo: 
+01- Solicitar apoio a UGAF 
+03/02 
+17/02 
+ 
+02- Solicitar caminhos e procedimentos a UGAF 
+20/02 
+30/05 
+ 
+03- Monitorar o desenvolvimento do processo junto a UGAF 
+30/05 
+30/12 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+Pesquisa de Preço a ser 
+elaborada 
+Fonte(s) dos recursos: 
+UIE - CPS 
+Situação problema: 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+(a ser resolvida/mitigada) 
+cat 0.1.99 - Outra 
+ 
+AÇÃO/PROJETO (Tema) 
+511 - cat 5.03 - Material Infraestrutura/equipamentos 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Mobiliários: coletores de lixo seletivo 
+Por que será feito: 
+Subsituir e repor coletores danificados 
+Responsável: 
+<nome> Cidelise A B de Oliveira 
+Qde CH/sem: 
+1 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Anderson Luiz de Souza 
+Qde CH/sem: 
+1 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+03/02/2025 
+Data final: 
+31/12/2025 
+Etapas do processo: 
+01- Solicitar apoio a UGAF 
+03/02 
+17/02 
+ 
+02- Solicitar caminhos e procedimentos a UGAF 
+20/02 
+30/05 
+ 
+03- Monitorar o desenvolvimento do processo junto a UGAF 
+30/05 
+30/12 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+Pesquisa de Preço a ser 
+elaborada 
+Fonte(s) dos recursos: 
+UIE - CPS 
+Situação problema: 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+(a ser resolvida/mitigada) 
+cat 0.1.99 - Outra 
+ 
+AÇÃO/PROJETO (Tema) 
+512 - cat 5.05 - Reforma de Edificações 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Manutenção na rede Hidráulica: registros e válvulas sanitárias 
+Por que será feito: 
+Muitos registros e válvulas apresentam problemas com o desgaste causado pelo tempo 
+e uso, trazendo vazamentos e interdição dos banheiros 
+Responsável: 
+<nome> Cidelise A B de Oliveira 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> Anderson Luiz de Souza 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+03/02/2025 
+Data final: 
+31/12/2025 
+Etapas do processo: 
+01- Solicitar apoio a UGAF 
+03/02 
+17/02 
+ 
+02- Solicitar caminhos e procedimentos a UGAF 
+20/02 
+30/05 
+ 
+03- Monitorar o desenvolvimento do processo junto a UGAF 
+30/05 
+30/12 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+Pesquisa de Preço a ser 
+elaborada 
+Fonte(s) dos recursos: 
+UIE - CPS 
+Situação problema: 
+cat 0.1.02 - Manutenção e conservação predial 
+(a ser resolvida/mitigada) 
+cat 0.1.99 - Outra 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+513 - cat 5.05 - Reforma de Edificações 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Manutenção na rede Hidráulica: registros e válvulas sanitárias 
+Por que será feito: 
+Muitos registros e válvulas apresentam problemas com o desgaste causado pelo tempo 
+e uso, trazendo vazamentos e interdição dos banheiros 
+Responsável: 
+<nome> Cidelise A B de Oliveira 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> Anderson Luiz de Souza 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+03/02/2025 
+Data final: 
+31/12/2025 
+Etapas do processo: 
+01- Solicitar apoio a UGAF 
+03/02 
+17/02 
+ 
+02- Solicitar caminhos e procedimentos a UGAF 
+20/02 
+30/05 
+ 
+03- Monitorar o desenvolvimento do processo junto a UGAF 
+30/05 
+30/12 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+Pesquisa de Preço a ser 
+elaborada 
+Fonte(s) dos recursos: 
+UIE - CPS 
+Situação problema: 
+cat 0.1.02 - Manutenção e conservação predial 
+(a ser resolvida/mitigada) 
+cat 0.1.99 - Outra 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+514 - cat 5.05 - Reforma de Edificações 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Reforma do prédio 3; Eletrícidade, hidráulica e pintura para ampliação de laboratórios e 
+salas. 
+Por que será feito: 
+(prédio interditado aguardando reforma manutenção) 
+Responsável: 
+<nome> Cidelise A B de Oliveira 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> Anderson Luiz de Souza 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+03/02/2025 
+Data final: 
+31/12/2025 
+Etapas do processo: 
+01- Solicitar apoio a UGAF 
+03/02 
+17/02 
+ 
+02- Solicitar caminhos e procedimentos a UGAF 
+20/02 
+30/05 
+ 
+03- Monitorar o desenvolvimento do processo junto a UGAF 
+30/05 
+30/12 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+Pesquisa de Preço a ser 
+elaborada 
+Fonte(s) dos recursos: 
+UIE - CPS 
+Situação problema: 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+(a ser resolvida/mitigada) 
+cat 0.1.99 - Outra 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+515 - cat 5.03 - Material Infraestrutura/equipamentos 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Mesa redonda 
+Por que será feito: 
+Para grupo de estudos 
+Responsável: 
+<nome> Cidelise A B de Oliveira 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> Anderson Luiz de Souza 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+03/02/2025 
+Data final: 
+31/12/2025 
+Etapas do processo: 
+01- Solicitar apoio a UGAF 
+03/02 
+17/02 
+ 
+02- Solicitar caminhos e procedimentos a UGAF 
+20/02 
+30/05 
+ 
+03- Monitorar o desenvolvimento do processo junto a UGAF 
+30/05 
+30/12 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+Pesquisa de Preço a ser 
+elaborada 
+Fonte(s) dos recursos: 
+UIE - CPS 
+Situação problema: 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+(a ser resolvida/mitigada) 
+cat 0.1.99 - Outra 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+516 - cat 5.03 - Material Infraestrutura/equipamentos 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Mesa para refeitório c/ 04 cadeiras acopladas 
+Por que será feito: 
+Para comportar os alunos no refeitório 
+Responsável: 
+<nome> Cidelise A B de Oliveira 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> Anderson Luiz de Souza 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+03/02/2025 
+Data final: 
+31/12/2025 
+Etapas do processo: 
+01- Solicitar apoio a UGAF 
+03/02 
+17/02 
+ 
+02- Solicitar caminhos e procedimentos a UGAF 
+20/02 
+30/05 
+ 
+03- Monitorar o desenvolvimento do processo junto a UGAF 
+30/05 
+30/12 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+Pesquisa de Preço a ser 
+elaborada 
+Fonte(s) dos recursos: 
+UIE - CPS 
+Situação problema: 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+(a ser resolvida/mitigada) 
+cat 0.1.99 - Outra 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+05 – Infraestrutura: Copiar projetos de 2024 
+ 
+AÇÃO/PROJETO (Tema) 
+501 - cat 5.05 - Reforma de Edificações 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Manutenção predial, colocação de forro em salas de aula e laboratórios 
+Por que será feito: 
+Proporcionar o isolamento térmico e acústico e evitar infiltrações e sujeiras do telhado 
+Responsável: 
+<nome> Cidelise A B de Oliveira 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Anderson Luiz de Souza 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+02/02/2025 
+Data final: 
+31/12/2024 
+Etapas do processo: 
+01- Solicitar apoio a UGAF 
+02/02 
+20/02 
+ 
+02- Solicitar caminhos e procedimentos a UGAF 
+20/02 
+30/05 
+ 
+03- Monitorar o desenvolvimento do processo junto a UGAF 
+30/05 
+30/12 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+Pesquisa de Preço à 
+elaborar 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.02 - Manutenção e conservação predial 
+(a ser resolvida/mitigada) 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+502 - Escolher um item. 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Nn 
+Por que será feito: 
+Nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+03/02/2025 
+Data final: 
+31/12/2024 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+Nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+503 - cat 5.05 - Reforma de Edificações 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Manutenção da cabine de força Primária 
+Por que será feito: 
+Importante para garantir o funcionamento seguro e eficiente do sistema elétrico 
+Responsável: 
+<nome> Cidelise A B de Oliveira 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Anderson Luiz de Souza 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+02/02/2024 
+Data final: 
+30/12/2024 
+Etapas do processo: 
+01- Reunião de Planejamento 
+02/02 
+20/02 
+ 
+02- Solicitação de apoio UGAF 
+20/02 
+30/05 
+ 
+03- Monitorar o desenvolvimento do processo junto a UGAF 
+30/05 
+30/12 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+Pesquisa de Preço à 
+elaborar 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.02 - Manutenção e conservação predial 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+504 - cat 5.05 - Reforma de Edificações 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Pintura do Prédio 
+Por que será feito: 
+Para melhorar a aparência da Unidade, para combater infiltrações protegendo a superfície contra 
+danos, rachaduras e trincas 
+Responsável: 
+<nome> Cidelise Aguida Borges 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Anderson Luiz de Souza 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+03/02/2025 
+Data final: 
+31/12/2025 
+Etapas do processo: 
+01- Reunião de Planejamento 
+02/02 
+20/02 
+ 
+02- Solicitação de apoio UGAF 
+20/02 
+30/05 
+ 
+03- Monitorar o desenvolvimento do processo junto a UGAF 
+30/05 
+30/12 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+Pesquisa de Preço à 
+elaborar 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.02 - Manutenção e conservação predial 
+(a ser resolvida/mitigada) 
+cat 0.1.99 - Outra 
+ 
+ 
+ 
+ 
+ 
+06 - Desenvolvimento de pessoas (docentes e servidores) 
+Formação continuada de docentes e servidores, associadas às competências gerais e específicas de suas 
+atividades: Metodologias de ensino, Tecnologias educacionais, Sistemas (processos, procedimentos, plataformas 
+computacionais) acadêmicos e pedagógicos. 
+ 
+AÇÃO/PROJETO (Tema) 
+601 - cat 6.01 - Curso/Oficina/Capacitação/ Treinamento/ Palestra/Reunião/Encontro 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Programa de ginástica laboral 
+Por que será feito: 
+Para promover a saúde, o bem estar e o relacionamento interpessoal dos servidores 
+administrativos 
+Responsável: 
+<nome> Daniel Soares e Marques 
+Qde CH/sem: 
+04 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> Patricia Glaucia Moreno 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+03/02/2025 
+Data final: 
+30/12/2025 
+Etapas do processo: 
+01- Planejamento 
+03/02 
+04/03 
+ 
+02- Execução das práticas 
+04/03 
+30/12 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+602 - cat 6.01 - Curso/Oficina/Capacitação/ Treinamento/ Palestra/Reunião/Encontro 
+Origem (prioridade): 
+6-Outra 
+O que será feito: 
+Incentivar os docentes a se capacitarem através dos cursos oferecidos pelo CPS/ CETEC, 
+pois é um caminho para ampliar o conhecimento, sobretudo em metodologias ativas 
+Por que será feito: 
+Para promover a qualificação do corpo docente dessa Unidade. 
+Responsável: 
+<nome> Anderson Luiz de Souza 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Patrícia Glaucia Moreno 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+03/02/2025 
+Data final: 
+30/12/2025 
+Etapas do processo: 
+01- planejamento 
+03/02 
+04/03 
+ 
+02- execução das divulgações 
+04/03 
+30/12 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.99 - Outra 
+X 
+X 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+603 - cat 6.01 - Curso/Oficina/Capacitação/ Treinamento/ Palestra/Reunião/Encontro 
+Origem (prioridade): 
+6-Outra 
+O que será feito: 
+Academia Inova 
+Por que será feito: 
+Para proporcionar oportunidades de aprendizado e capacitação em áreas tecnológicas, 
+preparando os estudantes para o mercado de trabalho e estimulando o 
+desenvolvimento econômico da região. Ao promover a participação da comunidade, a 
+Fatec Tatui fortalece os laços entre academia e sociedade, contribuindo para a formação 
+de profissionais qualificados e impulsionando o progresso tecnológico local 
+Responsável: 
+<nome> Rosana Bertila Giacomazzi 
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+03/02/2025 
+Data final: 
+30/12/2025 
+Etapas do processo: 
+01- planejamento 
+03/02 
+04/03 
+ 
+02- oferecimento das formações 
+04/03 
+30/12 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.08 - Participação da comunidade e sociedade 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+604 - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+<Copiar tabelas para mais ações> 
+ 
+ 
+ 
+ 
+06 – Desenvolvimento de Pessoas: Copiar projetos de 2024 
+ 
+AÇÃO/PROJETO (Tema) 
+601 - cat 6.01 - Curso/Oficina/Capacitação/ Treinamento/ Palestra/Reunião/Encontro 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Programa de ginástica laboral 
+Por que será feito: 
+Para promover a saúde, o bem estar e o relacionamento interpessoal dos servidores 
+administrativos 
+Responsável: 
+<nome> Daniel Soares e Marques 
+Qde CH/sem: 
+04 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> Patricia Glaucia Moreno 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+02/02/2024 
+Data final: 
+30/12/2024 
+Etapas do processo: 
+01- Planejamento 
+02/02 
+04/03 
+ 
+02- Execução das práticas  
+04/03 
+30/12 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+ 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+602 - cat 6.01 - Curso/Oficina/Capacitação/ Treinamento/ Palestra/Reunião/Encontro 
+Origem (prioridade): 
+6-Outra 
+O que será feito: 
+Incentivar os docentes a se capacitarem através dos cursos oferecidos pelo CPS/ CETEC, pois é 
+um caminho para ampliar o conhecimento, sobretudo em metodologias ativas 
+Por que será feito: 
+Para promover a qualificação do corpo docente dessa Unidade. 
+Responsável: 
+<nome> Anderson Luiz de Souza 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Patrícia Glaucia Moreno 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+02/02/2024 
+Data final: 
+30/12/2024 
+Etapas do processo: 
+01- planejamento 
+02/02 
+01/03 
+ 
+02- execução das divulgações 
+01/03 
+30/12 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.99 - Outra 
+ 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+603 - cat 6.01 - Curso/Oficina/Capacitação/ Treinamento/ Palestra/Reunião/Encontro 
+Origem (prioridade): 
+6-Outra 
+O que será feito: 
+Academia Inova 
+Por que será feito: 
+Para proporcionar oportunidades de aprendizado e capacitação em áreas tecnológicas, 
+preparando os estudantes para o mercado de trabalho e estimulando o desenvolvimento 
+econômico da região. Ao promover a participação da comunidade, a Fatec Tatui fortalece os 
+laços entre academia e sociedade, contribuindo para a formação de profissionais qualificados e 
+impulsionando o progresso tecnológico local 
+Responsável: 
+<nome> Rosana Bertila Giacomazzi 
+Qde CH/sem: 
+2 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+02/02/2024 
+Data final: 
+30/12/2024 
+Etapas do processo: 
+01- planejamento 
+02/02 
+01/03 
+ 
+02- oferecimento das formações 
+01/03 
+30/12 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.08 - Participação da comunidade e sociedade 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+ 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+60z - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+ 
+ 
+ 
+ 
+07 – Convênios e Parcerias Institucionais 
+Formalização do relacionamento da Unidade com o Ecossistema de Tecnologia: Convênio de uso de prédio, 
+estágios, projetos com empresas. Aqui cabe apenas novos convênios e parcerias, e cada proposta deve estar 
+relacionada a uma Ação/Projeto de melhoria em algum dos itens anteriores do PGA (1, 2, 3, 4, 5 ou 6). 
+ 
+AÇÃO/PROJETO (Tema) 
+701 - cat 7.03 - Projetos com empresas e/ou demais parceiros 
+Origem (prioridade): 
+6-Outra 
+Referente ao(s) projeto(s): Incentivo a colocação de alunos no mercado de trabalho 
+O que será feito: 
+Intensificar a parceria entre a Fatec Tatuí e a empresa Point Media, visto ser de extrema 
+importância para ambos os lados. A Fatec, como instituição de ensino, se beneficia ao 
+proporcionar aos seus alunos a oportunidade de vivenciarem na prática os 
+conhecimentos adquiridos em sala de aula, através de estágios e projetos desenvolvidos 
+em parceria com a empresa. Já a Point Media se beneficia ao contar com o talento e o 
+conhecimento dos estudantes da Fatec, que trazem novas ideias e soluções inovadoras 
+para os desafios enfrentados pela empresa 
+Por que será feito: 
+Essa parceria fortalece o vínculo entre academia e mercado, promovendo um ambiente 
+de aprendizado colaborativo e contribuindo para o desenvolvimento profissional dos 
+estudantes. 
+Responsável: 
+<nome> Anderson Luiz de Souza 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Patrícia Glaucia Moreno 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Rafael Pilan 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+03/02/2025 
+Data final: 
+30/06/2025 
+Etapas do processo: 
+01- Agendamento de reunião com a empresa para alinhamento das 
+ações para o primeiro semestre de 2025. 
+03/02 
+17/02 
+ 
+02- Convidar a empresa para participar da semana de acolhimento 
+17/02 
+24/02 
+ 
+03- Promover palestras e oficinas para a comunidade 
+01/03 
+30/06 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.99 - Outra 
+(a ser resolvida/mitigada) 
+cat 0.1.08 - Participação da comunidade e sociedade 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+702 - cat 7.03 - Projetos com empresas e/ou demais parceiros 
+Origem (prioridade): 
+6-Outra 
+Referente ao(s) projeto(s): De aproximação e consolidação  
+O que será feito: 
+Consolidação da parceria entre a Fatec Tatuí e o Conservatório de Tatuí como um 
+caminho para o desenvolvimento educacional e cultural da região. 
+Por que será feito: 
+A parceria pode permitir a troca de conhecimentos entre as instituições, ampliando as 
+oportunidades de aprendizado e formação dos estudantes. Além disso, a consolidação 
+dessa parceria fortalece o cenário artístico e musical local, contribuindo para o 
+crescimento da cidade como polo cultural. Juntas, a Fatec Tatuí e o Conservatório de 
+Tatuí têm o poder de transformar vidas por meio da educação e da música, promovendo 
+um futuro mais promissor para os jovens talentos da região. 
+Responsável: 
+<nome> Anderson Luiz de Souza 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Patrícia Glaucia Moreno 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Luana Muzille 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+03/02/2025 
+Data final: 
+30/06/2025 
+Etapas do processo: 
+01- Agendamento de reunião com a direção do conservatório 
+03/02 
+17/02 
+ 
+02- Intensificar as atividades ente as instituições como apresentação 
+de teatro no auditório da Fatec Tatuí, propor palestras de gestão 
+para o conservatório. 
+17/02 
+30/06 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.99 - Outra 
+(a ser resolvida/mitigada) 
+cat 0.1.08 - Participação da comunidade e sociedade 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+703 - cat 7.03 - Projetos com empresas e/ou demais parceiros 
+Origem (prioridade): 
+6-Outra 
+Referente ao(s) projeto(s): Estimular a cultura da indústria 4.0 
+O que será feito: 
+Intensificar a possibilidade de uma parceria entre o Parque Tecnológico e a Fatec Tatuí 
+para estimular a cultura da indústria 4.0. 
+Por que será feito: 
+A parceria pode possibilitar a troca de conhecimentos, o desenvolvimento de projetos 
+inovadores e a formação de profissionais capacitados para atuar nesse cenário 
+tecnológico avançado. Juntos, eles impulsionam o crescimento econômico da região, 
+promovendo a modernização das empresas e a inserção de novas tecnologias no 
+mercado. A parceria é uma oportunidade única de fortalecer a indústria local e preparar 
+os estudantes para as demandas do futuro. 
+Responsável: 
+<nome> Anderson Luiz de Souza 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Patrícia Glaucia Moreno 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Otávio dos santos Gaijutis 
+Qde CH/sem: 
+01 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> Rosana Bertila Giacomazzi 
+Qde CH/sem: 
+04 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+24/02/2025 
+Data final: 
+30/06/2025 
+Etapas do processo: 
+01- Reunião de alinhamento de ações 
+24/02 
+10/03 
+ 
+02- Agendamento e elaboração do cronograma de visitas 
+10/03 
+10/09 
+ 
+03- Promover a vinda de representantes para palestras na Semana 
+de tecnologia 
+21/04 
+30/06 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+(a ser resolvida/mitigada) 
+cat 0.1.08 - Participação da comunidade e sociedade 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+704 - cat 7.03 - Projetos com empresas e/ou demais parceiros 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+Referente ao(s) projeto(s): Alinhamento com a Receita Federal 
+O que será feito: 
+Intensificar e promover as ações do NAF 
+Por que será feito: 
+O Núcleo de Apoio Fiscal (NAF) da Fatec Tatuí é um projeto que oferece assistência fiscal 
+e contábil gratuita à comunidade. O NAF é composto por alunos e professores da área, 
+que prestam atendimento a pessoas físicas que necessitam de orientação sobre 
+questões fiscais: como declaração de imposto de renda. O objetivo principal é promover 
+a educação fiscal e contribuir para a formação dos alunos, proporcionando um 
+aprendizado prático e relevante para a sua futura atuação profissional. 
+Responsável: 
+<nome> Anderson Luiz de Souza 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Patrícia Glaucia Moreno 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Andrea Pavan Perin 
+Qde CH/sem: 
+04 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome>  
+Qde CH/sem: 
+ 
+Tipo: Escolher um item. 
+Período de execução: 
+Data inicial: 
+24/02/2025 
+Data final: 
+30/06/2025 
+Etapas do processo: 
+01- Reunião de alinhamento de ações com a Receita Federal 
+24/02 
+10/03 
+ 
+02- Agendamento e elaboração do cronograma de atendimentos 
+10/03 
+15/03 
+ 
+03- Escolha de alunos e treinamento 
+15/03 
+15/04 
+ 
+04- Início dos atendimentos 
+20/04 
+31/05 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+ 
+ 
+ 
+ 
+ 
+07 – Convênios e Parcerias: Copiar projetos de 2024 
+AÇÃO/PROJETO (Tema) 
+703 - cat 7.03 - Projetos com empresas e/ou demais parceiros 
+Origem (prioridade): 
+6-Outra 
+Referente ao(s) projeto(s): Estimular a cultura da indústria 4.0 
+O que será feito: 
+ 
+Por que será feito: 
+ 
+Responsável: 
+<nome> Anderson Luiz de Souza 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Patrícia Glaucia Moreno 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Otávio dos santos Gaijutis 
+Qde CH/sem: 
+01 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> Rosana Bertila Giacomazzi 
+Qde CH/sem: 
+04 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+24/02/2025 
+Data final: 
+30/06/2025 
+Etapas do processo: 
+01- Reunião de alinhamento de ações 
+24/02 
+10/03 
+ 
+02- Agendamento e elaboração do cronograma de visitas 
+10/03 
+10/09 
+ 
+03- Promover a vinda de representantes para palestras na Semana 
+de tecnologia 
+21/04 
+30/06 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+(a ser resolvida/mitigada) 
+cat 0.1.08 - Participação da comunidade e sociedade 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+704 - cat 7.03 - Projetos com empresas e/ou demais parceiros 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+Referente ao(s) projeto(s): Alinhamento com a Receita Federal 
+O que será feito: 
+ 
+Por que será feito: 
+ 
+Responsável: 
+<nome> Anderson Luiz de Souza 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Patrícia Glaucia Moreno 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Andrea Pavan Perin 
+Qde CH/sem: 
+04 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome>  
+Qde CH/sem: 
+ 
+Tipo: Escolher um item. 
+Período de execução: 
+Data inicial: 
+24/02/2025 
+Data final: 
+30/06/2025 
+Etapas do processo: 
+01- Reunião de alinhamento de ações com a Receita Federal 
+24/02 
+10/03 
+ 
+02- Agendamento e elaboração do cronograma de atendimentos 
+10/03 
+15/03 
+ 
+03- Escolha de alunos e treinamento 
+15/03 
+15/04 
+ 
+04- Início dos atendimentos 
+20/04 
+31/05 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+(a ser resolvida/mitigada) 
+cat 0.1.08 - Participação da comunidade e sociedade 
+ (copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+ 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+703 - cat.1.99 - Outra 
+Origem: 
+3-Outra 
+O que será feito: 
+Intensificar a parceria entre a Fatec Tatuí e a empresa Point Media, visto ser de extrema 
+importância para ambos os lados. A Fatec, como instituição de ensino, se beneficia ao 
+proporcionar aos seus alunos a oportunidade de vivenciarem na prática os conhecimentos 
+adquiridos em sala de aula, através de estágios e projetos desenvolvidos em parceria com a 
+empresa. Já a Point Media se beneficia ao contar com o talento e o conhecimento dos estudantes 
+da Fatec, que trazem novas ideias e soluções inovadoras para os desafios enfrentados pela 
+empresa. 
+Por que será feito: 
+Essa parceria fortalece o vínculo entre academia e mercado, promovendo um ambiente de 
+aprendizado colaborativo e contribuindo para o desenvolvimento profissional dos estudantes. 
+Responsável: 
+<Anderson Luiz de Souza 
+Qde CH/sem: 
+1 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<Patrícia Glaucia Moreno 
+  
+Qde CH/sem: 
+1 
+ 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+Rosana Bertila 
+Qde CH/sem: 
+1 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+01/02/2024 
+Data final: 
+30/06/2024 
+Etapas do processo: 
+Agendamento de reunião com a empresa para alinhamento das ações para 
+o primeiro semestre de 2024. 
+01/02/2024 
+15/02/
+2024 
+ 
+Convidar a empresa para participar da semana de acolhimento 
+15/02/2024 
+23/02/20
+24 
+ 
+Promover palestras e oficinas para a comunidade 
+01/03/2024 
+30/06/
+2024 
+ 
+04-  
+dd/mm 
+dd/mm 
+ 
+05-  
+dd/mm 
+dd/mm 
+ 
+06-  
+dd/mm 
+dd/mm 
+ 
+07-  
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+ 
+Situação problema: 
+cat 0.1.99 - Outra 
+(a ser resolvida/mitigada) 
+cat 0.1.08 - Participação da comunidade e sociedade 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+704 - cat.1.99 - Outra 
+Origem: 
+3-Outra 
+O que será feito: 
+Consolidação da parceria entre a Fatec Tatuí e o Conservatório de Tatuí  como um caminho para 
+o desenvolvimento educacional e cultural da região. 
+Por que será feito: 
+A parceria pode permitir a troca de conhecimentos entre as instituições, ampliando as 
+oportunidades de aprendizado e formação dos estudantes. Além disso, a consolidação dessa 
+parceria fortalece o cenário artístico e musical local, contribuindo para o crescimento da cidade 
+como polo cultural. Juntas, a Fatec Tatuí e o Conservatório de Tatuí têm o poder de transformar 
+vidas por meio da educação e da música, promovendo um futuro mais promissor para os jovens 
+talentos da região. 
+Responsável: 
+<Anderson Luiz de Souza 
+Qde CH/sem: 
+1 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<Patrícia Glaucia Moreno 
+  
+Qde CH/sem: 
+1 
+ 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+Luana Muzille 
+Qde CH/sem: 
+1 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+01/02/2024 
+Data final: 
+30/06/2024 
+Etapas do processo: 
+Agendamento de reunião com a direção do conservatório 
+01/02/2024 
+15/02/
+2024 
+ 
+Intensificar as atividades enter as instituições como apresentação de teatro no auditório da 
+Fatec Tatuí, porpor palestras de gestão para o conservatório. 
+15/02/2024 
+30/06/20
+24 
+ 
+ 
+ 
+ 
+ 
+04-  
+dd/mm 
+dd/mm 
+ 
+05-  
+dd/mm 
+dd/mm 
+ 
+06-  
+dd/mm 
+dd/mm 
+ 
+07-  
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+ 
+Situação problema: 
+cat 0.1.99 - Outra 
+(a ser resolvida/mitigada) 
+cat 0.1.08 - Participação da comunidade e sociedade 
+ 
+ 
+Anexo A1 – Lista de aquisições necessárias aos projetos 
+(equipamentos, softwares, mobiliários) 
+Item 
+Projeto 
+(XYY) 
+Denominação ou especificação do equipamento 
+Quant. 
+1 
+nnn 
+Alicate Punchdown Tool 
+2 
+2 
+nnn 
+Bancadas de Laboratório de Áudio 
+20 
+3 
+nnn 
+Cabo P10 Stereo 
+32 
+4 
+nnn 
+Cabos Bantam 
+24 
+5 
+nnn 
+Caixa de Som 100w Passiva 
+16 
+6 
+nnn 
+Caixa de som grave Passiva 
+16 
+7 
+nnn 
+Caixa de Som, Bluetooth, Portátil, A Prova d´água 
+2 
+8 
+nnn 
+Compressor de Joelho Anlógico  
+2 
+9 
+nnn 
+Compressor Limitador FET 
+2 
+10 
+nnn 
+Compressor Limitador Óptico/VCA 
+2 
+11 
+nnn 
+Compressor Limitador Valvulado 
+2 
+12 
+nnn 
+Compressor Limitador Variavel MU 
+2 
+13 
+nnn 
+Compressor Limitador, Eletro-ótico, Stereo 
+2 
+14 
+nnn 
+Compressor Stereo Bus 
+2 
+15 
+nnn 
+Conectores P10 Mono, Macho, Blindado 
+48 
+16 
+nnn 
+Conectores P10 Stereo Macho, Blindado 
+128 
+17 
+nnn 
+Conectores XLR, Fêmea, Blindado 
+40 
+18 
+nnn 
+Conectores XLR, Macho, Blindado 
+40 
+19 
+nnn 
+Desumidificador de ar 
+1 
+20 
+nnn 
+Direct Box Passivo 
+20 
+21 
+nnn 
+Equalizador 2 Canais De 15 Bandas 
+8 
+22 
+nnn 
+Equalizador Paramétrico  
+2 
+23 
+nnn 
+Equalizador Valvulado de 1 Canal 
+2 
+24 
+nnn 
+Fone de ouvido Over-ear fechado 
+20 
+25 
+nnn 
+Gravador Digital de Áudio, Portátil. 
+2 
+26 
+nnn 
+Higrômetro com Sonda, Medição da temperatura e umidade em tempo real. 
+1 
+27 
+nnn 
+Kit Ativo (Line Array + Sub 18") 14 Caixas 
+1 
+28 
+nnn 
+Microfone de Lapela s/ fio 
+4 
+29 
+nnn 
+Microfone shotgun 
+2 
+AÇÃO/PROJETO 
+705 – Parque Tecnológico – CAT 7.03 – Projetos com empresas e/ou demais parceiros 
+Origem 
+3- outra 
+O que será feito: 
+Intensificar a possibilidade de uma parceria entre o Parque Tecnológico e a Fatec Tatuí  para 
+estimular a cultura da indústria 4.0.  
+Por que será feito: 
+A parceria pode possibilitar a troca de conhecimentos, o desenvolvimento de projetos inovadores 
+e a formação de profissionais capacitados para atuar nesse cenário tecnológico avançado. Juntos, 
+eles impulsionam o crescimento econômico da região, promovendo a modernização das empresas 
+e a inserção de novas tecnologias no mercado. A parceria é uma oportunidade única de fortalecer 
+a indústria local e preparar os estudantes para as demandas do futuro. 
+Responsável(is) / CH sem: Anderson Luis de Sousa (1HA),  
+Patrícia Glaucia Moreno (1HA) 
+Jeferson Nedelciu (1HA) 
+Rosana Bertila (4 HA) 
+Período de execução: 
+Data de início: 
+23/02/2024 
+Data final: 
+30/06/2024 
+Etapas do processo: 
+Reunião de alinhamento de ações 
+23/02/2024 
+20/08/2024 
+Agendamento e elaboração do cronograma de visitas 
+10/03/2024 
+10/09/2024 
+Promover oa vinda de representantes para palestras 
+20/04/2024 
+30/06/2024 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo (se houver): 
+Fonte(s) dos recursos: 
+Situação problema: 
+ 
+cat 0.1.07 - Comunicação com a 
+comunidade acadêmica. 
+ 
+30 
+nnn 
+Multicabo de 24 canais 
+24 
+31 
+nnn 
+Multímetro Digital 
+8 
+32 
+nnn 
+Osciloscópio, Digital, 100mhz, 02 Canais 
+8 
+33 
+nnn 
+Piano Digital; 88 teclas 
+1 
+34 
+nnn 
+Pré-amplificador 2 canais 
+2 
+35 
+nnn 
+Rack P/Equipamento  
+2 
+36 
+nnn 
+Regua De Tomadas Para Rack, 19 Polegadas, Preto 
+4 
+37 
+nnn 
+Reverb/Effects 
+2 
+38 
+nnn 
+Rode Case Gaveteiro 
+2 
+39 
+nnn 
+Rolo de Multicabo de áudio com 8 vias 
+1 
+40 
+nnn 
+Serviço – Afinação para o piano do Estúdio 
+1 
+41 
+nnn 
+Shock Mount para AKG C214 
+1 
+42 
+nnn 
+Suporte “Cachimbo” articulado com grampo plástico para microfone KM 184 –  
+3 
+43 
+nnn 
+Suporte “Cachimbo” articulado para microfone DPA 4015 –  
+1 
+44 
+nnn 
+Teclado MIDI 88 Teclas 
+1 
+45 
+nnn 
+Tubo Termo Retrátil 2mm (40m) 
+1 
+46 
+nnn 
+Tubo Termo Retrátil 6mm (20m) 
+1 
+47 
+nnn 
+Varas boom em Fibra de Carbono 
+2 
+48 
+nnn 
+Windscreen DeadCat 
+2 
+49 
+nnn 
+Windscreen para AKG 214 
+2 
+50 
+nnn 
+Windscreen para DPA 4006 
+6 
+51 
+nnn 
+Windscreen para DPA 4015 
+6 
+52 
+nnn 
+Windscreen para DPA 4099 
+20 
+53 
+nnn 
+Windscreen para KM 184 
+4 
+54 
+nnn 
+Reaper 7 (educacional) 
+23 
+55 
+nnn 
+Pro Tools Ultimate | 1 ano de atualização + Support Plan – Renewal 
+23 
+56 
+nnn 
+Cubase Pro 13 (educacional) 
+23 
+57 
+nnn 
+Smaart Suite v9 
+1 
+58 
+nnn 
+DaVinci Resolve Studio 18 
+2 
+59 
+nnn 
+Komplete 14 Standard 
+23 
+60 
+nnn 
+Audio Imperia Jaeger 
+23 
+61 
+nnn 
+Waves Horizon 
+23 
+62 
+nnn 
+Waves API Collection 
+23 
+63 
+nnn 
+Waves SSL 4000 Collection 
+23 
+64 
+nnn 
+RX Post Production Suite 7.5 
+1 
+65 
+nnn 
+RX 10 Elements 
+22 
+66 
+nnn 
+Melodyne 5 Studio 
+23 
+67 
+nnn 
+Processador Intel Core I5-10400 
+15 
+68 
+nnn 
+Placa-mãe com suporte para processador Intel Core I5-10400 
+15 
+69 
+nnn 
+Memória RAM 8GB DDR4 (PC4-21300) 
+15 
+70 
+nnn 
+SSD 240GB Sata 3, com leitura e escrita mínima de 500 MB/s 
+15 
+71 
+nnn 
+Fonte ATX 420W reais 
+15 
+72 
+nnn 
+Mouse USB, 1000 DPI, cor preta 
+15 
+73 
+nnn 
+Teclado USB cor preta, padrão ABNT2 
+15 
+74 
+nnn 
+Memória RAM 8GB DDR3 1600MHz (PC3-12800) 
+110 
+75 
+nnn 
+SSD 240GB Sata 3, com leitura e escrita mínimas de 500 MB/s 
+110 
+76 
+nnn 
+SSD 256 GB M.2 2280 PCIe NVMe 
+21 
+77 
+nnn 
+Memória RAM 16GB DDR4 2666MHz (PC4-21300) 
+21 
+78 
+nnn 
+Escada articulada de aluminio 4x4 com 16 degraus 
+2 
+79 
+nnn 
+Mouse USB, 1000 DPI, cor preta 
+80 
+80 
+nnn 
+Teclado USB cor preta, padrão ABNT2 
+80 
+81 
+nnn 
+Cabo HDMI 2.0 com 7 metros 
+40 
+82 
+nnn 
+Nobreak 3.2 KVA com 10 tomadas padrão NBR 14136 
+4 
+83 
+nnn 
+Parafusadeira angular com 8 posiçoes de torque 
+1 
+84 
+nnn 
+Patch coord Cat.6  U/UTP,  3 metros, 100% cobre homologado Anatel 
+250 
+85 
+nnn 
+Patch coord Cat.6A U/UTP,  3 metros, 100% cobre, injetado e testado, homologado 
+Anatel 
+15 
+86 
+nnn 
+Caixa de cabo de rede  Cat.6A U/UTP, 305 metros, 100% cobre homologado Anatel 
+5 
+87 
+nnn 
+Patch Painel Modular Cat.6 para cabos U/UTP, 24 portas 
+10 
+88 
+nnn 
+Conector RJ45 macho Cat.6 
+1000 
+89 
+nnn 
+Aspirador de Po e Liquido,2400w,220v,reservatorio de 75 Litros 
+1 
+90 
+nnn 
+kit testador/certificador de cabo de rede com localizador de cabo, detecção de PoE, 
+aberturas, curtos e cabos sem terminação. Compatível com o padrão 10GBASE-T (10 
+Gbps) 
+2 
+91 
+nnn 
+Placa de rede para servidor com 2 slots compativeis com tranceiver SFP+ 10Gbps 
+4 
+92 
+nnn 
+Cabo DAC (Direct Attach Copper) com conectores SFP+, compatível com 10Gbps, com 
+3 metros 
+10 
+93 
+nnn 
+Tranceiver SFP+, 10Gbps, para fibra multimodo, conector LC duplex 
+12 
+94 
+nnn 
+Gerenciador e centralizador de Access Point compativel com Unifi OS 
+1 
+95 
+nnn 
+Furadeira e parafusadeira 
+1 
+96 
+nnn 
+Ponto de Acesso (AP) com Wi-Fi 6 (IEEE 802.11ax) e compativel com Unifi OS 
+10 
+97 
+nnn 
+Bobina de Cabo Optico Drop com 2 fibras, multimodo, 1000 metros 
+1 
+98 
+nnn 
+Conector óptico reutilizável (Fast Connector) LC/UPC para fibra multimodo 
+50 
+99 
+nnn 
+Cartucho de tinta impressora HP compativel; officejet 8100/8600; preto 
+6 
+100 
+nnn 
+Cartucho de tinta impressora HP compativel; officejet 8100/8600; ciano 
+6 
+101 
+nnn 
+Cartucho de tinta impressora HP compatível, J4660, Colorido 
+6 
+102 
+nnn 
+Mesa para refeitório c/ 04 cadeiras acopladas 
+4 
+103 
+nnn 
+Testador de cabo de rede para localizar e testar 
+3 
+104 
+nnn 
+Caixa de som Amplificada 
+4 
+105 
+nnn 
+Microfone sem fio 
+4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Anexo 1 – Lista de aquisições necessárias aos projetos 
+(equipamentos, softwares, mobiliários) 
+ 
+Item 
+Projeto 
+(XYY) 
+Denominação ou especificação do equipamento 
+Quant. 
+Preço total 
+estimado 
+(R$) 
+01 
+201 
+Manutenção terceirizada – Robô RV2AJ da estação da MPS do 
+laboratório de FMS/Robótica; Manutenção terceirizada – 
+Controlador CR1-571S12 patr. 853395 do robô RV2AJ da MPS ; 
+Manutenção terceirizada – Robô MELFA RV-2SDB-S15 serial 
+DJ109004R da estação ICIM; Manutenção terceirizada – 
+Controlador CR1DA-771-S15 serial D10201044M ; Manutenção 
+terceirizada - Robô MELFA RV-2SDB-S15 Serial DJ202025A da 
+estação ICIM ;Manutenção terceirizada – Controlador CR1DA-
+771S15 Serial D10108062M. 
+1 
+R$50.000,00 
+02 
+202 
+Atualização – Estação MPS com Industria 4.0 
+1 
+R$1.620.000,00 
+03 
+204 
+Atualização - Notebook 16 Giga de memória ram DDR4, SSD 512 
+GB, processador com cache que vai dos 12MB até 20MB, 6 a 12 
+núcleos, e chegam a 3,5GHz de frequência base e a até 4,9GHz 
+quando está em modo turbo. 
+30 
+R$200.000,00 
+04 
+205 
+Atualização - Cadeira Giratória, sem braço, almofadada 
+40 
+R$200.000,00 
+05 
+206 
+Atualização – Mesas de coordenadas ou manipulador cartesiano 
+de três eixos com respectivos CLPs (10 unidades); Atualização – 
+Kit de redes industriais (10 Unidades) 
+10 
+R$2.300.000,00 
+06 
+207 
+Atualização – Computador 16 Giga de memória ram DDR4, SSD 
+512 GB, processador com cache que vai dos 12MB até 20MB, 6 
+a 12 núcleos, e chegam a 3,5GHz de frequência base e a até 
+4,9GHz quando está em modo turbo. 
+40 
+R$200.000,00 
+07 
+208 
+Atualização – Cadeira giratória sem braço, almofadada 
+41 
+R$10.000,00 
+08 
+209 
+Atualização – Ar-condicionado de 48.000 BTU 
+02 
+R$30.000,00 
+09 
+210 
+Manutenção terceirizada – Projetor de Perfil JT20 – 300A 
+aquisição em 2010; Manutenção terceirizada – Microdurometro 
+Digital MHV-200 aquisição em 2008; Manutenção terceirizada – 
+Durometro Digita HR-320Ml; Manutenção terceirizada – 
+limpeza e descontaminação de microscópios Metalográficos 
+trinocular ; Serviço terceirizado - Calibragem e descontaminação 
+de paquímetros digitais modelo 500-752-10, modelo 11112B-
+150, micrometros digitais modelos 293-240, modelo 293-241, 
+Modelo 293-244 
+01 
+R$60.000,00 
+10 
+211 
+Atualização – Projetor de perfil Mitutoyo PJ-H30A2017B - PJ-
+H30;Atualização – Microdurometro Digital Mitutoyo ; 
+Atualização – Durometro Digital Mitutoyo 
+1 
+R$351.332,00 
+11 
+212 
+Atualização – cadeira fixas almofadas sem braço 
+41 
+R$5.000,00 
+12 
+213 
+Ar condicionado de 48.000 BTU 
+1 
+R$15.000,00 
+13 
+214 
+Atualização - Mesas para computadores ou escritório (90 x 70 
+cm e 1” de espessura, com dois furos para passagem de cabos ) 
+80 
+R$48.000,00 
+14 
+217 
+Compra de computadores IMacs 
+03 
+R$60.000,00 
+15 
+nnn 
+nnn 
+nn 
+0 
+16 
+nnn 
+nnn 
+nn 
+0 
+17 
+nnn 
+nnn 
+nn 
+0 
+18 
+nnn 
+nnn 
+nn 
+0 
+19 
+nnn 
+nnn 
+nn 
+0 
+20 
+nnn 
+nnn 
+nn 
+0 
+ 
+ 
+Total geral R$5.149.332,00 
+ 
+ 
+ 
+ 
+Anexo 2 – Lista de Ações/Projetos referentes à CPA 
+ 
+Item 
+Projeto 
+(XYY) 
+Denominação 
+(O que será feito) 
+Prazo 
+01 
+nnn 
+A seguinte relação de projetos estão relacionados a CPA 
+102 e 103  
+201 a 218  
+501 e 503 
+30/12/2025 
+02 
+nnn 
+nn 
+dd/mm/aaaa 
+03 
+nnn 
+nn 
+dd/mm/aaaa 
+04 
+nnn 
+nn 
+dd/mm/aaaa 
+05 
+nnn 
+nn 
+dd/mm/aaaa 
+06 
+nnn 
+nn 
+dd/mm/aaaa 
+07 
+nnn 
+nn 
+dd/mm/aaaa 
+08 
+nnn 
+nn 
+dd/mm/aaaa 
+09 
+nnn 
+nn 
+dd/mm/aaaa 
+10 
+nnn 
+nn 
+dd/mm/aaaa 
+11 
+nnn 
+nn 
+dd/mm/aaaa 
+12 
+nnn 
+nn 
+dd/mm/aaaa 
+13 
+nnn 
+nn 
+dd/mm/aaaa 
+14 
+nnn 
+nn 
+dd/mm/aaaa 
+15 
+nnn 
+nn 
+dd/mm/aaaa 
+16 
+nnn 
+nn 
+dd/mm/aaaa 
+17 
+nnn 
+nn 
+dd/mm/aaaa 
+18 
+nnn 
+nn 
+dd/mm/aaaa 
+19 
+nnn 
+nn 
+dd/mm/aaaa 
+20 
+nnn 
+nn 
+dd/mm/aaaa 
+ 
+ 
+ 
+ 
+ 
+ 
+<fim> 
+ 
+ 
+ 
+ 
+ 
+ 

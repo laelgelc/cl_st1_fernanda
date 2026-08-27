@@ -1,0 +1,887 @@
+ 
+ 
+Plano de Desenvolvimento Institucional – PDI 2022-2026 
+ 
+ 
+ 
+Dados da unidade 
+Fatec:  Fatec Araçatuba - R-01 
+Código: [177] 
+Razão social: [Fatec Prof. Fernando Amaral de Almeida Prado] 
+Endereço:  [Av. Prestes Maia, 1764 - Ipanema, Araçatuba - SP, 16075-051] 
+ 
+ 
+Direção da Unidade 
+Diretor: [GIULIANO PIERRE ESTEVAM] 
+ 
+ 
+Coordenação de Curso 
+CST em [TECNOLOGIA EM BIOCOMBUSTÍVEIS]: [WESLEY PONTES] 
+CST em [TECNOLOGIA EM ANÁLISE E DESENVOLVIMETNO DE SISTEMAS]: [ALEXANDRE MARCELINO 
+DA SILVA] 
+CST em [GETÃO EMPRESARIAL - EAD]: [LUCIANA PASSOS MARCONDES SCARSIOTTA] 
+ 
+ 
+Direção de Serviços 
+Diretor de Serviços Acadêmicos: [LUZIA APARECIDA BARBOSA BERTOLUCCI] 
+Diretor de Serviços Administrativos: [SANDRA MARCIA RILLO] 
+ 
+<ARAÇATIBA> 
+2023 
+ 
+ 
+1. Anexo A – Perfil da Unidade de Ensino (capítulo 4.6)  
+Atos legais referentes aos cursos 
+ 
+Decreto de criação: [Decreto nº 52.639, de 21 de janeiro de 2008] (Para citar documentos 
+legais que formalizam a criação da unidade, consulte: https://cgd.cps.sp.gov.br/wp-
+content/uploads/sites/18/2021/07/Criacao-de-unidades-do-CPS.xls) 
+ 
+Autorização: nº do Parecer CD/ano 
+Curso Superior de Tecnologia 
+Data 
+Tipo 
+ Portaria CEE/GP 
+Parecer CD (p/ reestruturação) 
+BIOCOMBUTÍVEIS 
+2008 / 1º Sem. 
+Implantação 
+Número 
+ANÁLISE DE DESENVOLVIMENTO 
+DE SISTEMAS 
+2011 / 1º Sem. 
+Implantação 
+Número 
+GESTÃO EMPRESARIAL 
+2015 / 1º Sem. 
+Implantação 
+Número 
+ 
+ 
+Caracterização socioeconômica da área de abrangência da Fatec 
+[A Região Administrativa - RA de Araçatuba é composta por 43 municípiosi, que ocupam 18.558,91km2 
+ou 7,47% do território estadual (248.219,63km2). A maioria dos municípios da RA tem características rurais e 
+possui população próxima a 10 mil habitantes. Birigui e Araçatuba são os municípios mais ricos e apresentam 
+a maior proporção de área urbana densamente povoada, são os únicos com mais de 100 mil habitantes. O 
+Produto Interno Bruto – PIB da RA, em 2018, foi de R$ 25 bilhões, ou 1,12% do total do Estado.  A renda per 
+Capita de R$ 32.358 corresponde a 64,02% da estadual, cuja média perfaz o valor de R$ 50.542. Por sua 
+vez, o Valor Adicionado Fiscal – VAF regional foi de R$ 23,0 bilhões, representando 1,22% do total estadual. 
+A base da economia regional é a agropecuária. A região se caracteriza como centro de comercialização de 
+bovinos e vem se reconfigurando com a expansão do cultivo de cana-de-açúcar. Outra característica, mais 
+recente, da agropecuária regional tem sido a tendência à diversificação agrícola, com o surgimento de áreas 
+de fruticultura e de cultivo de grãos.  Em Araçatuba o Setor Secundário vem se ampliando sua participação, 
+com predominância de indústrias de bens não duráveis. Foram implantadas indústrias da área médica e de 
+equipamentos hospitalares. No município de Birigui, destaca-se a indústria de calçados infantil e de artefatos 
+de couro. Indústrias ligadas à navegação e empresas de transporte e exportação vêm se instalando próximo 
+ao Porto Fluvial de Araçatuba. Outras indústrias da região são as de vestuário, tecidos, móveis, refrigeração, 
+curtume, cerâmica, olarias, artefatos de cimento, metalomecânica (ligada ao agronegócio), química, 
+eletroeletrônica e cartonagem. O setor terciário vem crescendo e se diversificando, concentrado, em grande 
+parte, no município-polo de Araçatuba que concentra os grandes estabelecimentos de comércio e de serviços, 
+bancos, supermercados, shopping centers, lojas de atacado e de varejo, clubes recreativos, hotéis, local para 
+exposições e eventos e convenções.  Também sobressai o comércio de implementos agropecuários e de serviços 
+de apoio à agropecuária.] 
+ 
+ 
+Cursos implantados - Vocação da Fatec em face da demanda regional 
+[TECNOLOGIA EM BIOCOMBUSTÍVEIS, TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS 
+E GESTÃO EMPRESARIAL] 
+ 
+ 
+Indicadores socioeconômicos 
+A População em Idade Ativa – PIA (de dez anos e mais) na RA de Araçatuba é composta por cerca 
+de 640 mil pessoas, e sua População Economicamente Ativa – PEA (conjunto dos ocupados e 
+desempregados) é estimada em 396 mil pessoas, entre as quais 170 mil são mulheres e 226 mil 
+ 
+ 
+homens (Gráfico 7). Entre 2001 e 2009, o número de mulheres inseridas no mercado de trabalho 
+cresceu 25,7%, ritmo mais intenso do que o dos homens (9,4%), tendência que já vinha se 
+manifestando ao longo da década em todas as regiões do Estado de São Paulo e que se intensificou 
+no último ano analisado, devido ao decréscimo do contingente masculino. A expansão mais 
+acentuada da PEA feminina fez com que sua taxa de atividade – proporção das ocupadas e 
+desempregadas (PEA) em relação ao total de mulheres com dez anos e mais de idade (PIA) – 
+evoluísse com mais intensidade do que a dos homens. Como resultado, essa taxa aumentou de 
+46,5% para 53,0% para as mulheres, entre 2001 e 2009, enquanto para os homens diminuiu de 
+72,5% para 71,7%, no mesmo período. 
+ 
+ 
+ 
+ 
+Arranjos produtivos locais – Condições atuais e perspectivas 
+[A estrutura regional vem se diversificando, com predominância de indústrias de bens não duráveis. Em 
+Araçatuba, foram implantadas indústrias da área médica, produzindo fios cirúrgicos e equipamentos 
+hospitalares. O setor terciário regional, que representa 1,1% do VA de serviços paulista, vem crescendo e se 
+diversificando, e concentra-se, em grande parte, no município-polo de Araçatuba. Por ser um dos principais 
+centros agropecuários do país, sobressai, nele, o comércio de implementos agropecuários e de serviços de 
+apoio à agropecuária. O município de Araçatuba concentra os grandes estabelecimentos de comércio e de 
+serviços, como bancos, supermercados, shopping centers, lojas de atacado e de varejo, clubes recreativos, 
+hotéis, local para exposições e eventos e convenções. A cidade dispõe, ainda, de uma Santa Casa e várias 
+instituições de ensino superior, incluindo um campus da Universidade Estadual Paulista – Unesp. A entrada em 
+operação da Hidrovia Tietê-Paraná contribuiu para atrair novos empreendimentos voltados para a 
+armazenagem. A multimodalidade no transporte, através do porto hidroviário, da rodovia Marechal Rondon 
+e da ferrovia e a existência de aeroporto regional dão à região privilegiada posição no tocante ao comércio. 
+Com lagos, rios e bonitas paisagens, existe grande potencial turístico regional, especialmente para os esportes 
+náuticos. Tanto as hidrelétricas e seus entornos como a Hidrovia Tietê-Paraná, com suas dez eclusas, possuem 
+atratividade turística. Este é o caso de Itapura, município que teve boa parte de suas terras inundada pela 
+usina hidrelétrica de Jupiá, mas que, pela beleza da paisagem local, possui grande potencial para a prática 
+do turismo ecológico. A importância dos setores se inverte quando se observa a participação de cada um deles 
+na geração da riqueza regional. Em 2009, os serviços representaram 59,6% do VA total da região, seguidos 
+pela indústria, que participou com 33,2%, e então a agropecuária, com 7,2% (Gráfico a seguir). 
+ 
+ 
+] 
+ 
+ 
+Empreendimento regional 
+ 
+[A Região Administrativa de Araçatuba é formada por 43 municípios, distribuídos em 18.559,56 km2 , 
+e abriga cerca de 740 mil pessoas. Em 2009, o PIB da região foi de quase 15,5 bilhões de reais, o que 
+corresponde a 1,2% da riqueza gerada no Estado de São Paulo. Nos últimos anos, a produção de açúcar e 
+álcool tornou-se a principal atividade econômica da RA de Araçatuba, concorrendo com a pecuária, que, aos 
+poucos, desloca-se para o Centro-Oeste e Norte do país. O município-sede está se transformando em uma das 
+mais importantes plataformas logísticas do etanol. A localização estratégica – no centro da Hidrovia Tietê-
+Paraná e do maior polo sucroalcooleiro do oeste paulista – contribuiu para sua inclusão no Sistema Multimodal 
+de Logística do Etanol, que está sendo implantado pela Lógum Logística, integrada pela Petrobras, Copersucar, 
+Cosan, Odebrecht, Camargo Correa e Uniduto. O sistema combina várias modalidades de transporte 
+(dutoviário, hidroviário e rodoviário) para escoar o etanol produzido nos Estados de São Paulo, Minas Gerais, 
+Goiás e Mato Grosso do Sul até a Refinaria do Planalto Paulista – Replan, em Paulínia, e de lá para outros 
+terminais da Petrobras, inclusive os de São Sebastião (SP) e Ilha d’Água (RJ), para exportação. O transporte 
+pela hidrovia substituirá cerca de 40 mil viagens de caminhão por ano, gerando ganhos ambientais e 
+econômicos. Nessa etapa inicial está sendo construído o Estaleiro Rio Tietê, que vai fabricar 20 empurradores 
+e 80 barcaças para compor os comboios hidroviários encomendados pela Transpetro, subsidiária da Petrobras. 
+O álcool será transportado, por hidrovia, de Araçatuba até Anhembi, municípios que abrigarão os primeiros 
+centros coletores, seguindo para Paulínia, por meio de dutos. Em Araçatuba também será instalado um terminal 
+de distribuição de combustíveis. O transporte ferroviário de combustível também vem se expandindo na região. 
+A concessionária América Latina Logística – ALL transporta em seus trens gasolina e diesel de Paulínia para os 
+centros consumidores da região, retornando à refinaria com o etanol produzido nas usinas de seus parceiros 
+locais. Este etanol é entregue nos centros coletores por caminhões. Em 2012, a empresa estendeu esses serviços 
+até o Mato Grosso do Sul. O primeiro terminal de distribuição de combustíveis de Araçatuba está sendo 
+ampliado pela Cosan, sua parceira na cidade, com a construção de mais quatro tanques para elevar a 
+capacidade de armazenamento de 5 milhões para 20 milhões de litros. 
+ 
+ 
+ 
+ 
+Ecossistema tecnológico 
+Exportação por intensidade tecnológica 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Evolução da demanda por profissionais com formação tecnológica – necessidades setoriais 
+[Emprego e faturamento real entre 2010 e 2017 
+ 
+ 
+ 
+ 
+2. Anexo B – Cronogramas de evolução (capítulo 6 ) 
+ 
+Ensino, Extensão e Pesquisa (tabela 1) 
+Curso Superior  
+de Tecnologia 
+Ano de 
+implantação 
+Quantidade de alunos 
+Obs. 
+2021 
+2022 
+2023 
+2024 
+2025 
+2026 
+BIOCOMBUSTÍVEIS 
+2008 
+224 
+170 
+140 
+ 
+ 
+ 
+ 
+ADS 
+2011 
+238 
+201 
+192 
+ 
+ 
+ 
+ 
+GESTÃO 
+EMPRESARIAL 
+2015 
+81 
+99 
+125 
+ 
+ 
+ 
+ 
+ 
+ 
+Linhas e dos Projetos de Pesquisa (tabela 5) 
+Linha de Pesquisa / 
+Projeto de Pesquisa 
+Tecnológica 
+Ano de 
+implantação 
+Quantidade de alunos 
+Obs. 
+2021 
+2022 
+2023 
+2024 
+2025 
+2026 
+BIOENERGIA 
+2021 
+2 
+2 
+2 
+ 
+ 
+ 
+PROJETO EM RJI 
+ 
+ 
+ 
+3. Anexo C – Organização didático-pedagógica (capítulo 7) 
+ 
+Quadro organizacional de cursos, vagas e recursos, oferecidos pela Unidade de Ensino 
+Curso Superior de 
+Tecnologia 
+Eixo 
+Turno* 
+Vagas por 
+semestre 
+Mod** 
+Recursos Tecnológicos 
+(Laboratórios) 
+BIOCOMBUSTÍVEIS 
+Produção 
+Industrial 
+N 
+40 
+P 
+LAB. DE MICROPBIOLOGIA, 
+INSTURMENTAÇÃO, 
+BIOCOMBUSTÍVEIS E 
+INFORMÁTICA 
+ADS 
+Informação e 
+Comunicação 
+M 
+40 
+P 
+INFORMÁTICA 
+GESTÃO EMPRESARIAL 
+Gestão e 
+Negócios 
+escolher 
+40 
+D 
+INFORMÁTICA 
+ 
+*Turno: M (matutino), V (vespertino), N (noturno), MN (primeiros semestres matutinos e últimos semestres 
+noturnos), VN (primeiros semestres vespertinos e últimos semestres noturnos) e I (integral) 
+** Mod = Modalidade: D (Ensino à Distância), H (Híbrido) ou P (Presencial). 
+ 
+ 
+4. Anexo D – Corpo docente (capítulo 9.1) 
+ 
+Detalhamento do corpo docente da Unidade de Ensino. 
+ 
+Nome 
+Matrícula 
+Cód. UE 
+sede 
+Titulação* 
+Referência 
+Experiência Profissional 
+Curriculum Lattes (URL) 
+Docência 
+(anos) 
+Não docência 
+(anos) 
+1 
+Agatha Stela de Morais  
+26894 
+177 
+M 
+II 
+12 anos 
+24 anos 
+http://lattes.cnpq.br/41473
+73923546404 
+2 
+André Rowe 
+24037 
+177 
+M 
+II 
+20 anos 
+  
+http://lattes.cnpq.br/99125747
+70611531 
+3 
+Alexandre Marcelino da 
+Siva 
+64747 
+177 
+M 
+II 
+25 anos 
+30 anos 
+http://lattes.cnpq.br/76041268
+95382911 
+4 
+Célia Regina Nugoli 
+Estevam 
+34481 
+177 
+D 
+III 
+21 anos 
+  
+http://lattes.cnpq.br/29361722
+13611219 
+5 
+Euclides Teixeira Neto  
+38699 
+177 
+M 
+I 
+10 anos 
+12 anos 
+http://lattes.cnpq.br/45009251
+61423594 
+6 
+Gabriela Cristiane 
+Mendes Rahal 
+34472 
+177 
+M 
+II 
+19 anos 
+  
+http://lattes.cnpq.br/91529285
+25800668 
+7 
+Giuliano Pierre Estevam 
+26886 
+177 
+D 
+III 
+23 anos 
+10 anos 
+http://lattes.cnpq.br/43687007
+32583572 
+8 
+Hildo Costa de Sena 
+46825 
+177 
+M 
+II 
+6 anos 
+  
+http://lattes.cnpq.br/53967124
+05470065 
+9 
+Luciana Passos 
+Marcondes Scarsiotta 
+42533 
+177 
+D 
+III 
+16 anos 
+22 anos 
+http://lattes.cnpq.br/08047894
+69499768 
+10 
+Lucilena de Lima 
+42528 
+177 
+M 
+II 
+35 
+10 
+ 
+http://lattes.cnpq.br/00620501
+83642603 
+11 
+Luciane Berti Ribeiro 
+52963 
+177 
+M 
+I 
+21 anos 
+  
+http://lattes.cnpq.br/34137716
+18125218 
+12 
+Lucinda Giampietro 
+Brandão 
+ 
+177 
+D 
+I 
+10 anos 
+e 7 
+meses 
+5 anos e 9 
+meses 
+http://lattes.cnpq.br/07121422
+75896662 
+13 
+Marcus Vinicius 
+Cavalcanti Gandolfi 
+34474 
+177 
+D 
+II 
+9 anos 
+1,5 anos 
+ 
+http://lattes.cnpq.br/54295438
+56295023 
+14 
+Osvaldino Brandão Junior 
+29634 
+177 
+D 
+III 
+4 anos e 
+6 meses 
+12 anos e 3 
+meses 
+http://lattes.cnpq.br/09956645
+39827263 
+15 
+Renata de Freitas Gois 
+Comparoni 
+52954 
+177 
+D 
+III 
+18 anos 
+4 anos 
+http://lattes.cnpq.br/34909514
+74066095 
+16 
+Renato Tadeu Guerreiro 
+34482 
+177 
+M 
+II 
+26 anos 
+  
+http://lattes.cnpq.br/92327929
+79341504 
+17 
+Roberto Outa 
+42524 
+177 
+D 
+II 
+8 anos 
+20 anos 
+http://lattes.cnpq.br/27768916
+73716882 
+18 
+Ronnie Marcos Rillo 
+24036 
+177 
+M 
+II 
+30 anos 
+2 anos 
+http://lattes.cnpq.br/00680684
+17377911 
+19 
+Rosa Valéria Abreu Rowe 
+46818 
+177 
+M 
+II 
+19 anos 
+07 anos 
+ 
+http://lattes.cnpq.br/69290524
+42931280 
+20 
+Sandra Maria de Melo 
+29632 
+177 
+D 
+III 
+25 anos 
+  
+ 
+http://lattes.cnpq.br/30903997
+06651161 
+21 
+Saulo Felício Fernandes 
+Zambotti 
+46823 
+177 
+M 
+II 
+17 anos 
+21 anos 
+http://lattes.cnpq.br/09269970
+94178106 
+ 
+ 
+ 
+Nome 
+Matrícula 
+Cód. UE 
+sede 
+Titulação* 
+Referência 
+Experiência Profissional 
+Curriculum Lattes (URL) 
+Docência 
+(anos) 
+Não docência 
+(anos) 
+22 
+Samuel Stabile 
+52955 
+177 
+M 
+II 
+19 anos 
+25 anos 
+http://lattes.cnpq.br/82813716
+22293408 
+23 
+Valéria Garcia Pereira 
+22929 
+177 
+D 
+III 
+11 anos 
+24 anos 
+http://lattes.cnpq.br/27746436
+93224937 
+24 
+Wesley Pontes 
+38700 
+177 
+D 
+III 
+8 anos 
+5 anos 
+http://lattes.cnpq.br/14243829
+89454382 
+* Titulação: D (Doutor), M (Mestre), E (Especialista) 
+ 
+ 
+5. Anexo E – Infraestrutura / Instalações acadêmicas (capítulo 13) 
+Infraestrutura 
+ 
+Qde 
+Laboratórios ou 
+Ambientes  
+Localização 
+Especificações (capacidade, etc) 
+1 
+1 
+Biblioteca 
+Na unidade 
+100 m2, 40 pessoas, acervo, computadores 
+2 
+2 
+Laboratório de 
+Informática 
+Básica 
+Compartilhado 
+ 100 m2, 40 pessoas 
+3 
+1 
+Laboratório de 
+Química e 
+Bioquímica 
+Na unidade 
+100 m2, 40 pessoas 
+4 
+1 
+Laboratório de 
+Microbiologia 
+Na unidade 
+100 m2, 40 pessoas 
+5 
+1 
+Auditório 
+Compartilhado 
+100 m2, 100 pessoas 
+6 
+1 
+Laboratório de 
+Bebidas  
+Na unidade 
+Miniusina para produção de cerveja  
+7 
+6 
+Sala de aulas 
+Na unidade 
+50m2, 40 lugares 
+ 
+ 
+Espaços físicos e ambientes de ensino – Detalhamento dos Recursos Disponíveis e 
+Operacionais 
+Tipo do laboratório ou ambiente 
+Laboratório de Informática Básica 
+CSTs que utilizam o ambiente 
+BIOCOMBUSTÍVEIS, ADS E GESTÃO 
+EMPRESARIAL 
+Localização 
+Compartilhado na 
+unidade (vide 
+detalhamento) 
+Detalhamento 
+COMPARTILHADO COM A ETEC 
+Recurso 
+Quantidade 
+Recursos (equipamentos, instalação elétrica, instalação hidráulica, instalação 
+pneumática, climatização, mobiliário, dispositivos) 
+Quantidade 
+COMPUTADORES 
+20 
+AR CONDICIONADO 
+1 
+PROJETOR 
+1 
+TV 
+1 
+ 
+Tipo do laboratório ou ambiente 
+Laboratório de Informática Básica 
+CSTs que utilizam o ambiente 
+BIOCOMBUSTÍVEIS, ADS E GESTÃO 
+EMPRESARIAL 
+Localização 
+Na unidade 
+Detalhamento 
+COMPARTILHADO COM A ETEC 
+Recurso 
+Quantidade 
+Recursos (equipamentos, instalação elétrica, instalação hidráulica, instalação 
+pneumática, climatização, mobiliário, dispositivos) 
+Quantidade 
+COMPUTADORES 
+20 
+AR CONDICIONADO 
+1 
+PROJETOR 
+1 
+TV 
+1 
+ 
+ 
+ 
+ 
+Tipo do laboratório ou ambiente 
+Laboratório de Análise Físico - Químicas  
+CSTs que utilizam o ambiente 
+BIOCOMBUSTÍVEIS 
+Localização 
+Na unidade 
+Detalhamento 
+LABORATÓRIO UTILIZADO PARA EXPERIMENTOS DE QUÍMICA E BIOQUÍMICA 
+Recurso 
+Quantidade 
+Recursos (equipamentos, instalação elétrica, instalação hidráulica, instalação 
+pneumática, climatização, mobiliário, dispositivos) 
+Quantidade 
+ 
+ 
+XX 
+ 
+ 
+Tipo do laboratório ou ambiente 
+Laboratório de Análises Microbiológicas  
+CSTs que utilizam o ambiente 
+BIOCOMBUSTÍVEIS 
+Localização 
+Na unidade 
+Detalhamento 
+LABORATÓRIO UTILIZADO PARA EXPERIMENTOS DE QUÍMICA E BIOQUÍMICA 
+Recurso 
+Quantidade 
+Recursos (equipamentos, instalação elétrica, instalação hidráulica, instalação 
+pneumática, climatização, mobiliário, dispositivos) 
+Quantidade 
+COMPUTADORES 
+20 
+AR CONDICIONADO 
+1 
+PROJETOR 
+1 
+TV 
+1 
+ 
+Tipo do laboratório ou ambiente 
+Auditório 
+CSTs que utilizam o ambiente 
+BIOCOMBUSTÍVEIS, ADS E GESTÃO 
+EMPRESARIAL 
+Localização 
+Compartilhado na 
+unidade (vide 
+detalhamento) 
+Detalhamento 
+COMPARTILHADO COM A ETEC 
+Recurso 
+Quantidade 
+Recursos (equipamentos, instalação elétrica, instalação hidráulica, instalação 
+pneumática, climatização, mobiliário, dispositivos) 
+Quantidade 
+CADEIRAS 
+100 
+AR CONDICIONADOS 
+2 
+PROJETOR 
+1 
+LOUSA DE VIDRO 
+1 
+SISTEMA DE SOM 
+1 
+Se precisar, copie a tabela acima e cole aqui. Se não for preciso, apague esta instrução 
+ 
+ 
+Infraestrutura – Inovação Tecnológica / Parcerias com o Ecossistema Tecnológico 
+[FloraTEC - Grupo de Pesquisa em Inovação e Tecnologia Florestal e de Conservação dos Recursos 
+Naturais 
+Sisplexos - Grupo de Sistemas Complexos: Grupo de pesquisa formado por vinte pesquisadores, sendo 
+eles da Unesp de Ilha Solteira, UFMT, UTFPR/PB e Fatec Araçatuba] 
+ 
+Biblioteca 
+ 
+I - Acervo bibliográfico 
+ 
+Tipo 
+Quantidade 
+Livros * 
+[xxx] 
+ 
+ 
+Tipo 
+Quantidade 
+Periódicos acadêmicos e científicos * 
+[xxx] 
+Bases de dados * 
+[xxx] 
+Recursos multimídia * 
+[xxx] 
+* O detalhamento encontra-se no Anexo F – Informações Complementares 
+ 
+ 
+II - Formas de atualização e expansão  
+[xxx] (deve ser identificada sua correlação pedagógica com os cursos e programas previstos) 
+ 
+ 
+III - Espaço físico 
+Ambiente 
+Área 
+(m²) 
+Quantidade 
+deste tipo de 
+ambiente 
+Capacidade 
+ou número de 
+postos 
+Projeção de melhoramento / ampliação 
+Acervo bibliográfico 
+50 
+1 
+ 
+Sem projeção 
+Atendimento presencial 
+ 
+ 
+ 
+ 
+Estudo em equipe 
+50 
+6 
+24 
+Sem projeção 
+Estudo individual 
+ 
+ 
+ 
+ 
+Salas para reuniões 
+ 
+ 
+ 
+ 
+Consulta online/digital 
+ 
+1 
+10 
+computadores 
+ 
+ 
+IV – Funcionamento – Dias da semana e horários 
+Dia da semana 
+Manhã 
+Intervalo 
+Tarde 
+Intervalo 
+Noite 
+Segunda feira 
+07:30 às 12:50 
+hh:mm às hh:mm 
+hh:mm às hh:mm 
+hh:mm às hh:mm 
+19:15 às 22:50 
+Terça feira 
+07:30 às 12:50 
+hh:mm às hh:mm 
+hh:mm às hh:mm 
+hh:mm às hh:mm 
+19:15 às 22:50 
+Quarta feira 
+07:30 às 12:50 
+hh:mm às hh:mm 
+hh:mm às hh:mm 
+hh:mm às hh:mm 
+19:15 às 22:50 
+Quinta feira 
+07:30 às 12:50 
+hh:mm às hh:mm 
+hh:mm às hh:mm 
+hh:mm às hh:mm 
+19:15 às 22:50 
+Sexta feira 
+07:30 às 12:50 
+hh:mm às hh:mm 
+hh:mm às hh:mm 
+hh:mm às hh:mm 
+19:15 às 22:50 
+Sábado 
+07:30 às 12:50 
+12:50 às 14:00 
+14:00 às 17:10 
+hh:mm às hh:mm 
+hh:mm às hh:mm 
+ 
+ 
+ 
+ 
+6. Anexo F – Informações Complementares 
+Informações Complementares - Especificidades da Unidade de Ensino 
+[xxx] 
+ 
+Referências bibliográficas e construtivas (específicas das informações da UE) 
+[xxx] 
+ 
+ 

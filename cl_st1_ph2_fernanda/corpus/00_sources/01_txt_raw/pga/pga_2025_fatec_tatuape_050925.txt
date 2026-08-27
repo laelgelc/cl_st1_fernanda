@@ -1,0 +1,3810 @@
+ 
+Estruturado em uma única etapa, contendo 2 anexos: 
+PLANEJAMENTO PELA EQUIPE GESTORA DA UE 
+• Anexo 1 – Lista de equipamentos necessários aos projetos 
+• Anexo 2 – Lista de Ações/Projetos referentes à CPA (Origem 3: Gestão Tática – CPA) 
+ 
+IDENTIFICAÇÃO DA UNIDADE 
+Unidade 
+código F250 
+Fatec São Paulo, Tatuapé 
+Diretor(a) 
+nn 
+ 
+PLANEJAMENTO PELA EQUIPE GESTORA DA UE 
+(Administração da Faculdade - Deliberação CEETEPS 31/2016) 
+ANÁLISE DO CENÁRIO 
+Descrever de forma breve e objetiva o cenário da Unidade perante sua missão como Unidade de Ensino na localidade em que 
+se encontra (é este cenário que se pretende melhorar). 
+A Fatec Tatuapé oferece atualmente cursos superiores de tecnologia em Controle de Obras, Construção de Edifícios, Transporte 
+Terrestre, Design de Produto e Gestão Empresarial (EaD). A unidade tem realizado projetos significativos com apoio dos 
+docentes, servidores administrativos, Cesu e Administração Central. Alguns cursos receberam nota máxima do Conselho Estadual. 
+A Fatec promove diversas atividades como workshops, eventos acadêmicos, minicursos, cursos de extensão abertas para a 
+comunidade acadêmica e externa, campanhas sociais. Os discentes frequentemente participam de competições e visitas técnicas. 
+O ensino, a pesquisa e a extensão são os pilares das atividades diárias da unidade. Os alunos participam do workshop de 
+Trabalho de Graduação, onde demonstram a maturidade acadêmica adquirida ao longo do curso. A iniciação científica, os 
+eventos promovidos na unidade, como por exemplo, a Semana Tecnológica, bem como as monitorias e as oficinas, todas essas 
+atividades contribuem significativamente para o desenvolvimento acadêmico dos estudantes. Há um crescente reconhecimento 
+da necessidade de apoio especializado para alunos com condições específicas, como TDH, TDAH, depressão e autismo, sendo 
+que a inclusão tem sido suportada pelo GDS Inclusão, embora haja necessidade de contratação de mais profissionais 
+especializados. A unidade enfrenta desafios como baixa demanda em alguns cursos, dificuldades financeiras, problemas de 
+manutenção e infraestrutura, e insuficiência na qualificação dos funcionários terceirizados. A manutenção urgente da cabine 
+primária e a modernização ou substituição dos elevadores inoperantes, bem como a substituição dos aparelhos de ar 
+condicionado são necessidades críticas, assim como a reforma do telhado. 
+• Discorrer sobre o cenário, realizando um breve diagnóstico (limitar o espaço da escrita, para que seja inserido de forma sucinta). 
+ 
+APONTAMENTO DE SITUAÇÕES-PROBLEMA MAIS RELEVANTES 
+Fontes: relatório CPA, análise de processos críticos da UE, relatório de atendimento e ocorrências Hórus, relatório NDE, 
+relatório de representação discente (DA, Atlética, representantes de turma), relatório CIPA, entre outros. 
+1 
+cat 0.1.02 - Manutenção e conservação predial 
+5 
+cat 0.1.06 - Quantidade de professores/funcionários 
+2 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+6 
+cat 0.1.09 - Acesso/Inclusão ao Ensino Superior 
+(social, PCD) 
+3 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de 
+ensino 
+7 
+cat 0.1.10 - Gestão da unidade de ensino e dos cursos 
+(indicadores) 
+4 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+8 
+cat 0.1.08 - Participação da comunidade e sociedade 
+Outra – Especificar: nn 
+ 
+Objetivos Institucionais – CPS (Plano de Metas) 
+1) Atender às demandas sociais e do mercado de trabalho. 
+2) Obter a satisfação dos públicos que se relacionam com o Centro Paula Souza (stakeholders). 
+3) Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem. 
+4) Assegurar a perenidade do crescimento da instituição com recursos financeiros disponíveis. 
+5) Garantir celeridade e efetividade na prestação de serviços. 
+6) Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no desenvolvimento tecnológico e inovação. 
+7) Promover a cultura de inovação e empreendedorismo. 
+8) Aumentar a eficiência, a produtividade e a competitividade da instituição. 
+9) Ampliar a oferta da Educação Profissional. 
+10) Resolução Conjunta SOG/SFP/SG-3, de 28-12-2022 - Bonificação por Resultados – BR das Secretarias de Estado, Procuradoria Geral do Estado, 
+Controladoria Geral do Estado e das Autarquias, de que trata a LC 1361-2021 
+Objetivos Institucionais – Cesu (Plano de Metas) 
+A. Integrar as diferentes modalidades de ensino, otimizando itinerários e tempo para a formação profissional. 
+B. Inovar processos de ensino e aprendizagem para manter excelência diante do mercado. 
+PLANO DE GESTÃO ANUAL 
+PGA 2025 
+V04 
+C. Ampliar a capacidade de criar e atualizar cursos em parceria com o mercado. 
+D. Expandir e ampliar a capacidade de articulação com Governos e Setores Produtivos. 
+E. 
+Promover a captação de recursos extras e não orçamentários. 
+Atenção: Determinação da Origem (prioridade) de uma Ação ou Projeto de Melhoria que compõe o PGA, a fim de ordenar os graus de prioridade tomando-se por 
+base atos normativos regulatórios das atividades do CPS, e a governança institucional, por suas esferas Estratégica, Tática e Operacional: 
+Grau 1 - URGÊNCIA DE REGULAÇÃO - prioridade máxima (advinda do MEC, CEE, MP, Vigilância Sanitária ou notificação de qualquer órgão regulador/fiscalizador) 
+- fundamentação: notificação de fiscalização, diligência de regulação, termo de ajustamento de conduta, relatório circunstanciado, dentre outros 
+emanados de órgãos que impõem ações para cumprimento com regularidade normativa da instituição. 
+Grau 2 - URGÊNCIA ESTRATÉGICA - Gestão Estratégica do CPS (AMS, novos cursos e unidades, programas de governo) - fundamentação: PPA do CPS, ações de 
+governo conduzidas pela Superintendência do CPS. 
+Grau 3 - PRIORIDADE ALTA - Gestão Tática (ações correlatas à Avaliação institucional - ENADE, WebSAI, CPA, Observatório Escolar). - fundamentação: processo 
+avaliativo de órgãos reguladores, processo avaliativo interno do CPS. 
+Grau 4 - PRIORIDADE MÉDIA - Gestão Operacional para aumento da capacidade instalada. - fundamentação: plano operacional de gestão, homologado pela 
+respectiva área da intendência, com foco na atividade fim do CPS. 
+Grau 5 - PRIORIDADE REGULAR - Gestão Operacional para preservação da capacidade instalada. - fundamentação: plano operacional de gestão, homologado 
+pela respectiva área da intendência, com foco na atividade fim do CPS. 
+ESTRUTURAÇÃO DAS AÇÕES/PROJETOS 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+101 - cat 1.01 - Adequação/reestruturação de PPC, implantação de novos cursos. 
+Origem (prioridade): 
+1-Regulação - Notificação de órgão (MEC, CEE, VS.,..) 
+O que será feito: 
+Adequação/Reestruturação do Projeto Pedagógico do CST de Construção de Edifícios 
+Por que será feito: 
+Reestruturar o projeto pedagógico permite que o currículo incorpore as mais recentes descobertas e 
+inovações assegurarando que a formação oferecida seja atual, relevante e de alta qualidade, 
+Responsável: 
+<nome> Vinicius Roberto de Sylos Cassimiro 
+Qde CH/sem: 
+32 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+02/02/2025 
+Data final: 
+30/05/2025 
+Etapas do processo: 
+01- Avaliação do projeto pedagógico atual pelo Núcleo Docente 
+Estruturante (NDE) e pelos docentes, identificando pontos fortes, fracos e 
+necessidades de atualização 
+03/02 
+15/03 
+02- Alterações e adequações do novo projeto pedagógico pelo NDE e 
+docentes, incluindo currículo, metodologia de ensino, avaliação, 
+infraestrutura e recursos necessários. 
+14/03 
+30/06 
+03- Submissão do projeto para revisão e aprovação pelo NDE, Congregação 
+e Cesu 
+02/05 
+09/05 
+04- nn 
+dd/mm 
+dd/mm 
+05- nn 
+dd/mm 
+dd/mm 
+06- nn 
+dd/mm 
+dd/mm 
+07- nn 
+dd/mm 
+dd/mm 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.10 - Gestão da unidade de ensino e dos cursos (indicadores) 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+102 - cat 1.02 - Eventos e publicações acadêmicos e científicos 
+Origem (prioridade): 
+6-Outra 
+O que será feito: 
+Revista Insiet - Revista Científica da Fatec Tatuapé 
+Por que será feito: 
+Divulgação de pesquisas realizadas por estudantes e professores da comunidade interna e externa, 
+promovendo o desenvolvimento do conhecimento e contribuindo para o avanço científico. 
+Responsável: 
+<nome> Gilder Nader 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> Marcelo de Paula Ferreira 
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> Andréa Ferreira Cavalcante Caputo 
+Qde CH/sem: 
+04 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+02/02/2025 
+Data final: 
+15/12/2025 
+Etapas do processo: 
+01- Planejamento Anual: Revisão e atualização das diretrizes para autores e 
+revisores e definição de calendário 
+02/02 
+15/02 
+02- Ciclo de submissão e revisão 
+15/02 
+03- Edição dos artigos aprovados, incluindo formatação, revisão gramatical e de 
+estilo. 
+15/04 
+15/06 
+04- Manutenção do Sistema de Submissão 
+15/06 
+15/12 
+05- nn 
+dd/mm 
+dd/mm 
+06- nn 
+dd/mm 
+dd/mm 
+07- nn 
+dd/mm 
+dd/mm 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+X 
+X 
+01 - Didático-pedagógico 
+Ações associadas ao PPC/PE de CSTs e Disciplinas: CST (implantação, alteração, readequação, reestruturação), 
+prática pedagógica (PE, PA), projeto interdisciplinar/ integrador, extensão curricularizada. 
+AÇÃO/PROJETO (Tema) 
+103 - cat 1.04 - Biblioteca Ativa e aquisição de bibliografias 
+Origem (prioridade): 
+5-Gestão Operacional - Preservação de capacidade instalada 
+O que será feito: 
+Atualização e aquisição de obras para o acervo da Fatec Tatuapé 
+Por que será feito: 
+A Biblioteca Ativa e a aquisição estratégica de bibliografias desempenham um papel fundamental no 
+desenvolvimento acadêmico e pessoal dos estudantes, além de fortalecerem a qualidade do ensino e da 
+pesquisa na instituição. Investir nesses aspectos é essencial para criar um ambiente educacional motivador, 
+inclusivo e inovador. 
+Responsável: 
+<nome> Nikolay Stanger Ferreira 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> Sandra Solon 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> Vinicius Sylos Cassimiro 
+Qde CH/sem: 
+32 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+02/02/2025 
+Data final: 
+30/06/2025 
+Etapas do processo: 
+01- Levantamento de necessidades e identificação das áreas do currículo que 
+necessitam de atualização bibliográfica, realizada pelo Núcleo Docente 
+Estruturante (NDE) e docentes. 
+01/06 
+30/06 
+02- Pesquisa de novas publicações relevantes e seleção de referências 
+bibliográficas atualizadas que atendam aos objetivos do curso. 
+01/07 
+15/07 
+03- Inclusão das novas referências bibliográficas no projeto pedagógico do curso, 
+com a devida documentação e organização 
+01/08 
+25/08 
+04- Elaboração de um orçamento detalhado e planejamento para a aquisição dos 
+novos livros e materiais, considerando prioridades e recursos disponíveis 
+26/08 
+22/09 
+05- Compra dos livros e materiais bibliográficos, seguindo os procedimentos 
+administrativos e financeiros do CPS 
+23/09 
+06- nn 
+dd/mm 
+dd/mm 
+07- nn 
+dd/mm 
+dd/mm 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.10 - Gestão da unidade de ensino e dos cursos (indicadores) 
+X 
+X 
+ 
+AÇÃO/PROJETO (Tema) 
+104 - cat 1.05 - Monitoria em disciplina do curso
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Oferecer monitores para atender 13 disciplinas (básicas e profissionais) durante o 1º e 2º semestre de 2025 
+Por que será feito: 
+O Programa de monitoria permite uma melhora na aprendizagem do aluno, pois a interação aluno-aluno é 
+uma estratégia pedagógica onde o aluno tem papel fundamental na construção colaborativa do 
+conhecimento com os seus pares. O programa reduz a evasão. 
+Responsável: 
+<nome> Maria Luisa Gomes Da Silva Mancini 
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> Vinicius Roberto De Sylos Cassimiro 
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> Josiane De Santana Ferreira 
+Qde CH/sem: 
+nn 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Período de execução: 
+Data inicial: 
+15/05/2025 
+Data final: 
+15/12/2025 
+Etapas do processo: 
+01- Publicação dos Editais Internos de Monitoria 
+15/05 
+20/05 
+02- Inscrição dos alunos nos Editais Internos das Fatecs 
+20/05 
+03- Análise das divulga lista dos alunos classificados para as Bolsas de 
+Monitorias Inscrições 
+24/05 
+25/05 
+04- 
+dd/mm 
+dd/mm 
+05- nn 
+dd/mm 
+dd/mm 
+06- nn 
+dd/mm 
+dd/mm 
+07- nn 
+dd/mm 
+dd/mm 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.10 - Gestão da unidade de ensino e dos cursos (indicadores) 
+X 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+105 - cat 1.11 - Ações de nivelamento de conhecimento, ENADE, acolhimento e permanência discente. 
+Origem: 
+2-CPA (Relatório da Comissão Própria de Avaliação da Unidade) 
+O que será feito: 
+Oferecer aulas de nivelamento durante o 1º e 2º semestre de 2025. 
+Por que será feito: 
+O projeto de nivelamento reduz a evasão de alunos e melhora a qualidade do ensino. Muitos alunos entram 
+no ensino superior com uma série de deficiências e não conseguem acompanhar o as aulas. 
+Responsável: 
+<nome> Fabio Secches Bueno 
+Qde CH/sem: 
+04 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> 
+Qde CH/sem: 
+Tipo: Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+11/03/2024 
+Data final: 01/12/2025 
+Etapas do processo: 
+01- Apresentação do nivelamento de matemática 
+11/03 
+02- Prova diagnóstica 
+24/03 
+03- Aulas de nivelamento 
+24/03 
+20/06 
+04- Prova Final 
+20/06 
+27/06 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.10 - Gestão da unidade de ensino e dos cursos (indicadores) 
+X 
+ 
+AÇÃO/PROJETO (Tema) 
+106 - cat 1.02 - Eventos e publicações acadêmicos e científicos 
+Origem: 
+3-Outra 
+O que será feito: 
+Organização do Encontro Tecnológico e Semana Tecnológica 
+Por que será feito: 
+A inserção de atividades extracurriculares na vida acadêmica dos discentes está associada à 
+qualidade da identidade acadêmica e profissional, bem como no comprometimento do mesmo 
+com a sua formação 
+Responsável: 
+<nome> Marcelo Marçula 
+Qde CH/sem: 
+nn 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> Bruna Custodio 
+Qde CH/sem: 
+nn 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+15/02/2025 
+Data final: 
+26/09/2025 
+Etapas do processo: 
+01- Planejamento e início da organização do evento X Encontro Tecnológico 
+15/02 
+20/03 
+02- Divulgação do X Encontro Tecnológico da FATEC Tatuapé 
+20/03 
+13/04 
+03- X Encontro Tecnológico da FATEC Tatuapé 
+14/04 
+16/04 
+04- Planejamento e início da organização do evento XIII Semana Tecnológica 
+01/08 
+30/08 
+05- Divulgação da XIII Semana Tecnológica 
+01/09 
+15/09 
+06- XIII Semana Tecnológica da FATEC Tatuapé 
+24/09 
+26/09 
+Custo R$ (se houver): 
+300,00 
+Fonte(s) dos recursos: 
+FAT 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+X 
+X 
+ 
+AÇÃO/PROJETO (Tema) 
+107 - cat 1.06 - Ações pedagógicas: visitas técnicas, projetos integradores/interdisciplinares, dias de campo, 
+feira das profissões, cursos extracurriculares para alunos. 
+Origem: 
+3-Outra 
+O que será feito: 
+Projeto multidisciplinar - Atividades e eventos socioculturais 
+Por que será feito: 
+Promover oportunidades valiosas de aprendizado, crescimento pessoal e socialização. fortalecimento da 
+comunidade escolar e integração entre todos os membros da comunidade escolar. 
+Responsável: 
+<nome> Marcelo Marçula 
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> Maria Alice dos Santos Ferreira 
+Qde CH/sem: 
+04 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/02/2025 
+Data final: 
+25/10/2025 
+Etapas do processo: 
+01- Planejamento e organização das atividades 
+15/02 
+15/03 
+02- Divulgação das atividades 
+16/03 
+30/03 
+03- Sessão de Cinema – Cine Cult da Fatec Tatuapé, Oficina de Teatro, Oficina de 
+fotografia 
+03/04 
+05/04 
+04- Sessão de Cinema – Cine Cult da Fatec Tatuapé, Oficina de Teatro, Oficina de 
+fotografia 
+05/06 
+08/06 
+05- Sessão de Cinema – Cine Cult da Fatec Tatuapé, Oficina de Teatro, Oficina de 
+fotografia 
+23/10 
+25/10 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.08 - Participação da comunidade e sociedade 
+(a ser resolvida/mitigada) 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+X 
+ 
+AÇÃO/PROJETO (Tema) 
+108 - cat 1.12 - Orientação profissional para discentes, mentoria e apoio psicopedagógico 
+Origem: 
+3-Outra 
+O que será feito: 
+Projeto de Inclusão - Atendimento especializado aos alunos com condições específicas (TDH, TDAH, 
+depressão, autismo, outras síndromes, baixa visão, baixa audição, surdez etc). 
+Por que será feito: 
+Responsável: 
+Bianca Secches Bueno 
+Qde CH/sem: 
+04 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+Mauricio Alexandre Affonso 
+Qde CH/sem: 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+15/03/2025 
+Data final: 
+30/11/2025 
+Etapas do processo: 
+01- Divulgação do projeto de inclusão 
+20/02 
+29/02 
+02- Início de atendimento aos alunos 
+01/03 
+01/03 
+03- Acompanhamento do atendimento aos alunos 
+02/03 
+30/11 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.09 - Acesso/Inclusão ao Ensino Superior (social, PCD) 
+(a ser resolvida/mitigada) 
+cat 0.1.10 - Gestão da unidade de ensino e dos cursos (indicadores) 
+X 
+ 
+AÇÃO/PROJETO (Tema) 
+109 - cat 1.12 - Relatório de Avaliação Diagnóstica Vestibular 
+Origem: 
+3-Outra 
+O que será feito: 
+O relatório tem por objetivo fazer uma Avaliação Diagnóstica do Curso Superior de Tecnologia em Transporte 
+Terrestre, considerando:  
+(1) Análise da progressão escolar (permanência, evasão, integralização). 
+(2) Análise do contexto sócioeconômico, geográfico e cultural; 
+(3) Análise do contexto educacional público e privado da cidade e da região; 
+(4)  Análise do público alcançado e definição do público alvo; 
+(5) Análise de referência do curso em outras Fatecs e/ou regiões; 
+(6) Análise do oferecimento e atualização mercadológica. 
+Por que será feito: 
+Identificar possíveis causas de obtenção de baixo desempenho a fim de fundamentar ações de melhoria no 
+PGA da unidade. 
+Responsável: 
+Melina K. Itokazu Hara 
+Vinicius Cassimiro 
+Qde CH/sem:  
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+Mauricio Alexandre Affonso 
+Qde CH/sem: 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+15/03/2025 
+Data final: 
+31/07/2025 
+Etapas do processo: 
+01- Análise da progressão escolar (permanência, evasão, integralização), Análise do 
+contexto sócioeconômico, geográfico e cultural; 
+ 
+10/07 
+12/07 
+02- Análise do contexto educacional público e privado da cidade e da região; 
+Análise do público alcançado e definição do público alvo; 
+13/07 
+20/07 
+03- Análise de referência do curso em outras Fatecs e/ou regiões; Análise do 
+oferecimento e atualização mercadológica. 
+Elaboração do relatório final  
+ 
+21/07 
+30/07 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.09 - Acesso/Inclusão ao Ensino Superior (social, PCD) 
+(a ser resolvida/mitigada) 
+cat 0.1.10 - Gestão da unidade de ensino e dos cursos (indicadores) 
+X 
+ 
+ 
+Copiar tabelas para mais ações> 
+01 – Didático-Pedagógico: Copiar projetos de 2024 
+X 
+AÇÃO/PROJETO (Tema) 
+109 - cat 1.06 - Ações pedagógicas: visitas técnicas, projetos integradores/interdisciplinares, dias de campo, 
+feira das profissões, cursos extracurriculares para alunos. 
+Origem: 
+3-Outra 
+O que será feito: 
+Projeto multidisciplinar -Tecnobreak 
+Por que será feito: 
+Reestruturação e Manutenção do espaço de convivência Tecnobreak. Planejamento, projeto e 
+produção de novos mobiliários para o espaço. 
+Responsável: 
+Michelle Santos Rodrigues 
+Qde CH/sem: 
+04 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+Adão Marques Batista > 
+Qde CH/sem: 
+04 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+15/03/2025 
+Data final: 
+31/10/2025 
+Etapas do processo: 
+01- 1ª Reunião de alinhamento para o planejamento da reestruturação e 
+manutenção do espaço de convivência Tecnobreak – alunos, professores e 
+funcionários 
+15/03 
+15/03 
+02- 2ª Reunião de alinhamento para o planejamento da reestruturação e 
+manutenção do espaço de convivência Tecnobreak – alunos, professores e 
+funcionários 
+04/05 
+04/05 
+03- Execução dos projetos (mobiliários) – Oficinas 
+01/09 
+31/10 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+ 
+AÇÃO/PROJETO (Tema) 
+10x - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+10y - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+10w - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+10z - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+201 - cat 2.01 - Laboratório físico - implantação/melhoramento com recursos PEDAGÓGICOS 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Aquisição dos equipamentos para o Laboratório de Fotografia do CST em Design de Produto e Processos de 
+Produção e Industrialização 
+Por que será feito: 
+A aquisição de novos equipamentos fotográficos permitirá a atualização tecnológica do laboratório, 
+proporcionando aos alunos acesso a ferramentas modernas e alinhadas com as exigências do mercado 
+atual. 
+Responsável: 
+<nome> Paulo Ogata 
+Qde CH/sem: 
+32 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> José Vicente Azzi Grecco 
+Qde CH/sem: 
+04 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+02/02/2025 
+Data final: 
+30/06/2025 
+Etapas do processo: 
+01- Elaboração de um plano detalhado de aquisição, incluindo a lista de 
+equipamentos necessários (câmeras, lentes, iluminação, softwares de 
+edição, etc.) – Lista inserida no SIAF 
+02/02 
+15/02 
+02- nn 
+dd/mm 
+dd/mm 
+03- nn 
+dd/mm 
+dd/mm 
+04- nn 
+dd/mm 
+dd/mm 
+05- nn 
+dd/mm 
+dd/mm 
+06- nn 
+dd/mm 
+dd/mm 
+07- nn 
+dd/mm 
+dd/mm 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+(a ser resolvida/mitigada) 
+cat 0.1.10 - Gestão da unidade de ensino e dos cursos (indicadores) 
+X 
+X 
+ 
+AÇÃO/PROJETO (Tema) 
+202 - cat 2.01 - Laboratório físico - implantação/melhoramento com recursos PEDAGÓGICOS 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Aquisição dos equipamentos para o Laboratório de Prototipagem 3D do CST de Design de Produto 1) 
+Impressora 3D 2) Scanner 2) Lixadeira tipo orbital 3) Tupia 
+Por que será feito: 
+A aquisição de novos equipamentos do Laboratório de Prototipagem permitirá a atualização tecnológica do 
+laboratório, proporcionando aos alunos acesso a ferramentas modernas e alinhadas com as exigências do 
+mercado atual. 
+Responsável: 
+<nome> Paulo Ogata 
+Qde CH/sem: 
+32 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> Fabio Conte 
+Qde CH/sem: 
+04 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+02/02/2025 
+Data final: 
+30/06/2022 
+Etapas do processo: 
+01- Elaboração de um plano detalhado de aquisição, incluindo a lista de 
+equipamentos necessários: Impressora 3D 2) Scanner 2) Lixadeira tipo orbital 3) 
+Tupia - Lista inserida no SIAF 
+dd/mm 
+dd/mm 
+02- nn 
+dd/mm 
+dd/mm 
+03- nn 
+dd/mm 
+dd/mm 
+04- nn 
+dd/mm 
+dd/mm 
+05- nn 
+dd/mm 
+dd/mm 
+06- nn 
+dd/mm 
+dd/mm 
+07- nn 
+dd/mm 
+dd/mm 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+(a ser resolvida/mitigada) 
+cat 0.1.10 - Gestão da unidade de ensino e dos cursos (indicadores) 
+X 
+02 – Laboratórios - Ensino e Equipamentos Associados 
+Ações para melhoramento dos laboratórios de Ensino (Gestão e Equipamentos): Melhoramento de 
+equipamentos, mediante instalação, manutenção, desuso, doação, e gestão de ambiente laboratorial. 
+X 
+AÇÃO/PROJETO (Tema) 
+203 - cat 2.02 - Laboratório informática - implantação/melhoramento com recursos PEDAGÓGICOS 
+Origem (prioridade): 
+1-Regulação - Notificação de órgão (MEC, CEE, VS.,..) 
+O que será feito: 
+Aquisição dos softwares 
+Por que será feito: 
+O enfoque na utilização de softwares com objetivo de tornar efetiva (eficiência e eficácia) a 
+solução de projeto de produto concebida pelo aluno. Nesse sentido, está prevista a utilização de 
+diferentes softwares de computação gráfica ao longo do curso, entre os quais encontra-se: 
+Synchro, Rhinoceros e SolidWorks 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+02/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- O processo já está em andamento da adm. Central 
+dd/mm 
+dd/mm 
+02- nn 
+dd/mm 
+dd/mm 
+03- nn 
+dd/mm 
+dd/mm 
+04- nn 
+dd/mm 
+dd/mm 
+05- nn 
+dd/mm 
+dd/mm 
+06- nn 
+dd/mm 
+dd/mm 
+07- nn 
+dd/mm 
+dd/mm 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+(a ser resolvida/mitigada) 
+cat 0.1.10 - Gestão da unidade de ensino e dos cursos (indicadores) 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+204 - cat 2.01 - Laboratório físico - implantação/melhoramento com recursos PEDAGÓGICOS 
+Origem (prioridade): 
+1-Regulação - Notificação de órgão (MEC, CEE, VS.,..) 
+O que será feito: 
+Aquisição de banquetas para os Laboratórios de A) Laboratório de Química B) Laboratório de Materiais da 
+Construção Civil e C) Laboratório de Prototipagem e Impressão 3D 
+Por que será feito: 
+Utilizamos nos laboratórios de Química, Construção e no de Prototipagem, cadeiras universitárias ou outras 
+para substituir as banquetas, comprometendo o espaço, organização e até a segurança do laboratório 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- Quantidade, tipo e modelo de banquetas já inseridos no SIAF 
+dd/mm 
+dd/mm 
+02- nn 
+dd/mm 
+dd/mm 
+03- nn 
+dd/mm 
+dd/mm 
+04- nn 
+dd/mm 
+dd/mm 
+05- nn 
+dd/mm 
+dd/mm 
+06- nn 
+dd/mm 
+dd/mm 
+07- nn 
+dd/mm 
+dd/mm 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+ 
+AÇÃO/PROJETO (Tema) 
+205 - cat 2.01 - Laboratório físico - implantação/melhoramento com recursos PEDAGÓGICOS 
+Origem (prioridade): 
+1-Regulação - Notificação de órgão (MEC, CEE, VS.,..) 
+O que será feito: 
+Aquisição dos materiais e equipamentos para o Laboratório de Materiais de Solos e de Construção Civil 
+Por que será feito: 
+Ter equipamentos adequados nos laboratórios é fundamental para oferecer uma educação de qualidade, 
+preparar os alunos para o mercado de trabalho, incentivar a pesquisa e inovação, e garantir um aprendizado 
+efetivo. 
+Responsável: 
+<Vinicius Sylos Cassimiro 
+Qde CH/sem: 
+32 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<Marcelo Marçula 
+Qde CH/sem: 
+32 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<Antônio Youssef 
+Qde CH/sem: 
+32 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+ 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- Elaboração de um plano detalhado de aquisição, incluindo a lista de 
+equipamentos necessários - Lista já inserida no SIAF 
+dd/mm 
+dd/mm 
+02- nn 
+dd/mm 
+dd/mm 
+03- nn 
+dd/mm 
+dd/mm 
+04- nn 
+dd/mm 
+dd/mm 
+05- nn 
+dd/mm 
+dd/mm 
+06- nn 
+dd/mm 
+dd/mm 
+07- nn 
+dd/mm 
+dd/mm 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+Copiar tabelas para mais ações> 
+02 – Laboratórios: Copiar projetos de 2024 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+206 - cat 2.02 - Laboratório informática - implantação/melhoramento com recursos PEDAGÓGICOS 
+Origem: 
+1-CEE (Relatório Circunstanciado do Conselho Estadual de Educação 
+O que será feito: 
+Aquisição de 91 desktops para substituição dos computadores antigos 
+Por que será feito: 
+Aquisição de 91 desktops para substituição dos computadores antigos. As quantidades solicitadas 
+foram baseadas na idade dos equipamentos já existentes (91 Microcomputadores Positivo ANO 
+2011 e 3 Notebooks Positivo ANO 2012) os quais já possuem restrições de compatibilidade com 
+novas distribuições dos aplicativos. 
+Responsável: 
+Leonardo Itiki 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+15/01/2025 
+Data final: 
+02/07/2025 
+Etapas do processo: 
+01- Cotação dos Desktops 
+15/01 
+15/02 
+02- Solicitação de 91 desktops e cabeamento 
+16/02 
+29/02 
+03- Instalação de 91 desktops e cabeamento 
+01/06 
+02/07 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+ 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+20x - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+20y - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+20w - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+20z - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+301 - cat 3.02 - Desenvolvimento de Projetos de IC - MDIT
+Origem (prioridade): 
+5-Gestão Operacional - Preservação de capacidade instalada 
+O que será feito: 
+Programa de Iniciação Científica e Tecnológica da Faculdade de Tecnologia Victor Civita - Fatec 
+Tatuapé 
+Por que será feito: 
+Incentivar e promover a participação dos alunos de graduação nas atividades de pesquisa 
+científica, através da prática da produção do conhecimento científico e tecnológico, sob a 
+orientação de professor orientador, dessa unidade de ensino superior, em sua área de atuação 
+acadêmica 
+Responsável: 
+<nome> Michelle Santos Rodrigues nn 
+Qde CH/sem: 
+08 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> Vinicius Cassemiro 
+Qde CH/sem: 
+04 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> Paulo Ogata 
+Qde CH/sem: 
+02 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+10/02/2025 
+Data final: 
+01/12/2025 
+Etapas do processo: 
+01- Planejamento e programação do cronograma do calendário de 
+Iniciação Científica 
+10/02 
+17/02 
+02- Publicação do edital interno de iniciação científica 
+17/02 
+27/02 
+03- Inscrições para o processo seletivo de Iniciação Científica e Tecnológica da 
+Fatec Tatuapé 
+06/03 
+15/03 
+04- Resultado da classificação e seleção 
+17/03 
+19/03 
+05- início dos trabalhos 
+19/03 
+dd/mm 
+06- nn 
+dd/mm 
+dd/mm 
+07- nn 
+dd/mm 
+dd/mm 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.10 - Gestão da unidade de ensino e dos cursos (indicadores) 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+302 - cat 3.01 - Cursos de Extensão 
+Origem (prioridade): 
+5-Gestão Operacional - Preservação de capacidade instalada 
+O que será feito: 
+Curso de extensão Softwares Livres aplicados ao Design de Produto para Design 
+Por que será feito: 
+Propiciar aos alunos o aprendizado de softwares voltados ao Design de Produto, contribuindo 
+assim para recolocação profissional 
+Responsável: 
+<nome> Paulo Ogata 
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> Marcelo de Paula Ferreira 
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+02- nn 
+dd/mm 
+dd/mm 
+03- nn 
+dd/mm 
+dd/mm 
+04- nn 
+dd/mm 
+dd/mm 
+05- nn 
+dd/mm 
+dd/mm 
+06- nn 
+dd/mm 
+dd/mm 
+07- nn 
+dd/mm 
+dd/mm 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.10 - Gestão da unidade de ensino e dos cursos (indicadores) 
+X 
+X 
+03 – Pesquisa / Extensão e Equipamentos Associados 
+Ações para melhoramento dos laboratórios que contemplam Pesquisa além do Ensino (Equipamentos): 
+melhoramento dos espaços de pesquisa, que inclui especificação equipamentos e aquisição por fomento ou por 
+projeto com empresa, e também prestação de serviços no campo tecnológico para instituições e empresas. 
+ 
+AÇÃO/PROJETO (Tema) 
+303 - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+O que será feito: 
+Curso de extensão de impressão 3D para a comunidade externa 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+02- nn 
+dd/mm 
+dd/mm 
+03- nn 
+dd/mm 
+dd/mm 
+04- nn 
+dd/mm 
+dd/mm 
+05- nn 
+dd/mm 
+dd/mm 
+06- nn 
+dd/mm 
+dd/mm 
+07- nn 
+dd/mm 
+dd/mm 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+304 - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+02- nn 
+dd/mm 
+dd/mm 
+03- nn 
+dd/mm 
+dd/mm 
+04- nn 
+dd/mm 
+dd/mm 
+05- nn 
+dd/mm 
+dd/mm 
+06- nn 
+dd/mm 
+dd/mm 
+07- nn 
+dd/mm 
+dd/mm 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+<Copiar tabelas para mais ações> 
+03 – Pesquisa/Extensão: Copiar projetos de 2024 
+X 
+AÇÃO/PROJETO (Tema) 
+Origem: 
+O que será feito: 
+Por que será feito: 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Qde CH/sem: 
+04 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Qde CH/sem: 
+04 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- 
+02/02 
+02/02 
+02- 
+15/02 
+29/02 
+03- 
+01/04 
+15/05 
+04- nn 
+dd/mm 
+dd/mm 
+05- nn 
+dd/mm 
+dd/mm 
+06- nn 
+dd/mm 
+dd/mm 
+07- nn 
+dd/mm 
+dd/mm 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.10 - Gestão da unidade de ensino e dos cursos (indicadores) 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+ 
+AÇÃO/PROJETO (Tema) 
+30x - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+30y - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+30w - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+30z - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+401 - cat 4.02 - Novotec 
+Origem (prioridade): 
+5-Gestão Operacional - Preservação de capacidade instalada 
+O que será feito: 
+Curso de Desenho no Autocad - Qualifica SP - Meu 1º Empregos 
+Por que será feito: 
+Oferece cursos de qualificação profissional com objetivo de promover a primeira oportunidade dos jovens do 
+Estado de São Paulo no mercado de trabalho. 
+Responsável: 
+<nome> Maria Luísa Gomes da Silva Mancini 
+Qde CH/sem: 
+04 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> Maurício Alexandre Affonso 
+Qde CH/sem: 
+04 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> Vânia Regina de Lima 
+Qde CH/sem: 
+04 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+02- nn 
+dd/mm 
+dd/mm 
+03- nn 
+dd/mm 
+dd/mm 
+04- nn 
+dd/mm 
+dd/mm 
+05- nn 
+dd/mm 
+dd/mm 
+06- nn 
+dd/mm 
+dd/mm 
+07- nn 
+dd/mm 
+dd/mm 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+402 - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+02- nn 
+dd/mm 
+dd/mm 
+03- nn 
+dd/mm 
+dd/mm 
+04- nn 
+dd/mm 
+dd/mm 
+05- nn 
+dd/mm 
+dd/mm 
+06- nn 
+dd/mm 
+dd/mm 
+07- nn 
+dd/mm 
+dd/mm 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+04 – Atividades Formativas em Projetos (nível tático) 
+Projetos institucionais formativos não especificados em PEs: Rede de tecnologia, Novotec, PCI, Projetos 
+estudantis (Baja, Aerodesign, entre outros) 
+AÇÃO/PROJETO (Tema) 
+403 - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+02- nn 
+dd/mm 
+dd/mm 
+03- nn 
+dd/mm 
+dd/mm 
+04- nn 
+dd/mm 
+dd/mm 
+05- nn 
+dd/mm 
+dd/mm 
+06- nn 
+dd/mm 
+dd/mm 
+07- nn 
+dd/mm 
+dd/mm 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+404 - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+02- nn 
+dd/mm 
+dd/mm 
+03- nn 
+dd/mm 
+dd/mm 
+04- nn 
+dd/mm 
+dd/mm 
+05- nn 
+dd/mm 
+dd/mm 
+06- nn 
+dd/mm 
+dd/mm 
+07- nn 
+dd/mm 
+dd/mm 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+<Copiar tabelas para mais ações> 
+04 – Atividades Formativas em Projetos: Copiar projetos de 2024 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+40x - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+40y - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+40w - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+40z - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+501 - cat 5.05 - Reforma de Edificações 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Pintura interna da Edificação – Reparação Predial 
+Por que será feito: 
+A pintura das paredes internas de um edifício é essencial para melhorar a estética, proteger contra danos, 
+facilitar a limpeza, valorizar o imóvel e criar um ambiente mais agradável e motivador. Além disso, pode ser 
+necessária para cumprir normas de segurança e higiene 
+Responsável: 
+<nome> Deise Cristina Neres 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> Claucio Portilho 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+02/01/2025 
+Data final: 
+01/12/2025 
+Etapas do processo: 
+01- Avaliação das condições das paredes para determinar o quantitativo de 
+pintura 
+02/01 
+15/01 
+02- Elaboração de um plano detalhado, incluindo a escolha de cores, 
+materiais necessários e estimativa de custos. 
+16/01 
+24/01 
+03- Submissão do plano e orçamento para aprovação pelas partes responsáveis 
+(gestão, UIE, UGAF). 
+03/02 
+17/02 
+04- nn 
+dd/mm 
+dd/mm 
+05- nn 
+dd/mm 
+dd/mm 
+06- nn 
+dd/mm 
+dd/mm 
+07- nn 
+dd/mm 
+dd/mm 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.02 - Manutenção e conservação predial 
+(a ser resolvida/mitigada) 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+502 - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+02- nn 
+dd/mm 
+dd/mm 
+03- nn 
+dd/mm 
+dd/mm 
+04- nn 
+dd/mm 
+dd/mm 
+05- nn 
+dd/mm 
+dd/mm 
+06- nn 
+dd/mm 
+dd/mm 
+07- nn 
+dd/mm 
+dd/mm 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+05 – Infraestrutura (instalações prediais) 
+Projetos de manutenção e melhoramento predial voltados à segurança (física e sanitária) e preservação do 
+patrimônio: Reparação predial (civil, elétrica, dados), novas instalações prediais. 
+ 
+AÇÃO/PROJETO (Tema) 
+503 - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+02- nn 
+dd/mm 
+dd/mm 
+03- nn 
+dd/mm 
+dd/mm 
+04- nn 
+dd/mm 
+dd/mm 
+05- nn 
+dd/mm 
+dd/mm 
+06- nn 
+dd/mm 
+dd/mm 
+07- nn 
+dd/mm 
+dd/mm 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+504 - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+02- nn 
+dd/mm 
+dd/mm 
+03- nn 
+dd/mm 
+dd/mm 
+04- nn 
+dd/mm 
+dd/mm 
+05- nn 
+dd/mm 
+dd/mm 
+06- nn 
+dd/mm 
+dd/mm 
+07- nn 
+dd/mm 
+dd/mm 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+<Copiar tabelas para mais ações> 
+05 – Infraestrutura: Copiar projetos de 2024 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+- Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+ 
+AÇÃO/PROJETO (Tema) 
+502 - cat 5.05 - Reforma de Edificações 
+Origem: 
+2-CPA (Relatório da Comissão Própria de Avaliação da Unidade) 
+O que será feito: 
+Reforma e impermeabilização do telhado do 8º andar e do telhado do Laboratório de 
+Materiais da Construção Civil 
+Por que será feito: 
+As telhas estão soltas e sem vedação. Em dias de chuva, ocorre a infiltração da água da 
+chuva nas salas, laboratórios e corredores do oitavo andar. 
+Responsável: 
+<nome> Deise Neres 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> Leonardo Itiki 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/02/2025 
+Data final: 
+30/04/2025 
+Etapas do processo: 
+01- 01- Solicitação da reforma dos telhados 
+ 
+01/02 
+15/02 
+02- Agendamento da visita técnica do especialista para verificar as condições do 
+telhado 
+15/02 
+29/02 
+03- Execução da Reforma e impermeabilização do telhado do 8º andar e do telhado 
+do Laboratório de Materiais 
+01/04 
+30/04 
+04- nn 
+dd/mm 
+dd/mm 
+05- nn 
+dd/mm 
+dd/mm 
+06- nn 
+dd/mm 
+dd/mm 
+07- nn 
+dd/mm 
+dd/mm 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.02 - Manutenção e conservação predial 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+( 
+ 
+AÇÃO/PROJETO (Tema) 
+503- cat 5.05 - Reforma de Edificações 
+Origem: 
+3-Outra 
+O que será feito: 
+Substituição dos quadros elétricos e transformadores (ar-condicionado) 
+Por que será feito: 
+Os quadros elétrico e transformadores estão instalados desde o ano de 2011 e desde 
+então não foram trocados. Como ficam expostos ao tempo, encontram-se em estado 
+avançado de corrosão. 
+Responsável: 
+<nome> Deise Neres 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> Leonardo Itiki 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/02/2025 
+Data final: 
+30/04/2025 
+Etapas do processo: 
+01- Solicitação da substituição dos quadros elétricos e 
+transformadores 
+01/02 
+15/02 
+02- Agendamento da visita técnica do especialista 
+15/02 
+29/02 
+03- Execução da substituição dos quadros elétricos e 
+transformadores 
+01/04 
+30/04 
+04- nn 
+dd/mm 
+dd/mm 
+05- nn 
+dd/mm 
+dd/mm 
+06- nn 
+dd/mm 
+dd/mm 
+07- nn 
+dd/mm 
+dd/mm 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.02 - Manutenção e conservação predial 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+504- cat 5.05 - Reforma de Edificações 
+Origem: 
+3-Outra 
+O que será feito: 
+Aquisição de aparelhos de ar-condicionado para a sala da Diretoria de Serviços 
+administrativos e coordenações de curso. 
+Por que será feito: 
+As salas recebem uma grande incidência de calor durante o dia, mas principalmente no 
+período da tarde. A aquisição dos aparelhos trará o conforto térmico necessário para o 
+melhor rendimento no trabalho dos funcionários administrativos e coordenadores de 
+curso. 
+Responsável: 
+<nome> Deise Neres 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> Claucio Portilho 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/02/2025 
+Data final: 
+30/11/2025 
+Etapas do processo: 
+01- Solicitação de aparelhos de ar-condicionado 
+01/02 
+01/05 
+02- Agendamento da visita técnica do especialista 
+01/05 
+30/05 
+03- Aquisição e instalação de aparelhos de ar-condicionado 
+01/06 
+30/11 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+ 
+AÇÃO/PROJETO (Tema) 
+505 - cat 5.05 - Reforma de Edificações 
+Origem: 
+3-Outra 
+O que será feito: 
+Manutenção e troca das válvulas de descarga dos banheiros 
+Por que será feito: 
+As válvulas de descarga dos banheiros não são trocadas desde 2011 e já apresentam 
+defeitos 
+Responsável: 
+<nome> Deise Neres 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> Claucio Portilho 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 01/04/2025 
+Data final: 30/07/2025 
+Etapas do processo: 
+01- Solicitação da manutenção e troca das válvulas de descarga dos 
+banheiros 
+01/04 
+30/04 
+02- Agendamento da visita técnica do especialista 
+01/05 
+30/05 
+03- Aquisição e troca das válvulas de descarga dos banheiros 
+01/06 
+30/07 
+04- nn 
+dd/mm 
+dd/mm 
+05- nn 
+dd/mm 
+dd/mm 
+06- nn 
+dd/mm 
+dd/mm 
+07- nn 
+dd/mm 
+dd/mm 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+< 
+AÇÃO/PROJETO (Tema) 
+506 - cat 5.05 - Reforma de Edificações 
+Origem: 
+3-Outra 
+O que será feito: 
+Reforma do forro de gesso dos banheiros próximos ao hall dos elevadores 
+Por que será feito: 
+Os forros dos banheiros apresentam infiltração e precisam ser trocados, pois 
+apresentam rachaduras 
+Responsável: 
+Deise Neres 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+Claucio Portilho 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 01/04/2025 
+Data final: 30/07/2025 
+Etapas do processo: 
+01- Solicitação da reforma do forro de gesso dos banheiros próximos 
+ao hall dos elevadores 
+01/04 
+30/04 
+02- Agendamento da visita técnica do especialista 
+01/05 
+30/05 
+03- Execução da reforma do forro de gesso dos banheiros próximos 
+ao hall dos elevadores 
+01/06 
+30/07 
+04- nn 
+dd/mm 
+dd/mm 
+05- nn 
+dd/mm 
+dd/mm 
+06- nn 
+dd/mm 
+dd/mm 
+07- nn 
+dd/mm 
+dd/mm 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+ 
+AÇÃO/PROJETO (Tema) 
+507- cat 5.05 - Reforma de Edificações 
+Origem: 
+3-Outra 
+O que será feito: 
+Manutenção ou substituição das bombas de recalque e reuso da Fatec 
+Por que será feito: 
+A unidade possui 5 conjuntos de bombas (10 bombas) no subsolo da unidade em operação desde 
+a inauguração. Os sistemas são essenciais para o uso do prédio. Conjunto 1: Recalque para caixa 
+d’água; Conjunto 2: Recalque de esgoto; Conjunto 3: Recalque dos poços pluviais; Conjunto 4: 
+Sistema de água de reuso; Conjunto 5: Recalque da cisterna 
+Responsável: 
+Deise Neres 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+Claucio Portilho 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 01/04/2025 
+Data final: 30/07/2025 
+Etapas do processo: 
+01- Manutenção ou substituição das bombas de recalque e reuso 
+01/04 
+30/04 
+02- Agendamento da visita técnica do especialista 
+01/05 
+30/05 
+03- Execução da obra 
+01/06 
+30/07 
+04- nn 
+dd/mm 
+dd/mm 
+05- nn 
+dd/mm 
+dd/mm 
+06- nn 
+dd/mm 
+dd/mm 
+07- nn 
+dd/mm 
+dd/mm 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+ 
+AÇÃO/PROJETO (Tema) 
+508 cat 5.03 - Material Infraestrutura/equipamentos 
+Origem: 
+3-Outra 
+O que será feito: 
+Modernização da infraestrutura da rede de internet da unidade 
+Por que será feito: 
+Modernizar a infraestrutura da rede de internet é uma necessidade estratégica para qualquer 
+organização. 
+Responsável: 
+Leonardo Keidy Itiki 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+Claucio Portilho 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 01/02/2025 
+Data final: 30/07/2025 
+Etapas do processo: 
+01- Análise da estrutura atual 
+01/02 
+30/04 
+02- Definição dos requisitos 
+01/05 
+30/05 
+03- Desenho da nova estrutura 
+01/06 
+30/07 
+04- Implementação 
+dd/mm 
+dd/mm 
+05- nn 
+dd/mm 
+dd/mm 
+06- nn 
+dd/mm 
+dd/mm 
+07- nn 
+dd/mm 
+dd/mm 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+(a ser resolvida/mitigada) 
+cat 0.1.10 - Gestão da unidade de ensino e dos cursos (indicadores) 
+X 
+AÇÃO/PROJETO (Tema) 
+509 cat 5.03 - Material Infraestrutura/equipamentos 
+Origem: 
+3-Outra 
+O que será feito: 
+Manutenção da infraestrutura do espaço de convivência de alunos e funcionários (Refeitório 
+coletivo) 
+Por que será feito: 
+Manter a infraestrutura do espaço de convivência, como um refeitório coletivo para alunos e 
+funcionários, é essencial para garantir o bem-estar e a satisfação de todos os usuários. A seguir, 
+apresento uma justificativa detalhada para a manutenção desse espaço 
+Responsável: 
+Deise Neres 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+Claucio Portilho 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 01/02/2025 
+Data final: 30/07/2025 
+Etapas do processo: 
+01- Solicitação dos equipamentos 
+01/02 
+30/04 
+02- Aquisição 
+01/05 
+30/05 
+03- 
+04- 
+dd/mm 
+dd/mm 
+05- nn 
+dd/mm 
+dd/mm 
+06- nn 
+dd/mm 
+dd/mm 
+07- nn 
+dd/mm 
+dd/mm 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+(a ser resolvida/mitigada) 
+cat 0.1.10 - Gestão da unidade de ensino e dos cursos (indicadores) 
+X 
+copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+508 - cat 5.03 - Material Infraestrutura/equipamentos 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+50w - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+50z - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+601 - cat 6.01 - Curso/Oficina/Capacitação/ Treinamento/ Palestra/Reunião/Encontro 
+Origem (prioridade): 
+5-Gestão Operacional - Preservação de capacidade instalada 
+O que será feito: 
+Semana de Planejamento e Aperfeiçoamento Pedagógico (SPAP) 
+Por que será feito: 
+Promover a oportunidade de aperfeiçoamento pedagógico e formação continuada dos docentes 
+p Palestras, wokshops e oficinas para promover a oportunidade de aperfeiçoamento pedagógico 
+e formação continuada dos docentes para a melhoria do ensino. 
+Responsável: 
+<nome> Cesu 
+Qde CH/sem: 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> Marcelo Marçula 
+Qde CH/sem: 
+32 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> Paulo Ogata 
+Qde CH/sem: 
+32 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+01/02/2025 
+Data final: 
+10/08/2025 
+Etapas do processo: 
+01- Divulgação do Evento 
+dd/mm 
+dd/mm 
+02- Período de inscrição do evento 
+dd/mm 
+dd/mm 
+03- Período do evento 
+dd/mm 
+dd/mm 
+04- nn 
+dd/mm 
+dd/mm 
+05- nn 
+dd/mm 
+dd/mm 
+06- nn 
+dd/mm 
+dd/mm 
+07- nn 
+dd/mm 
+dd/mm 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.06 - Quantidade de professores/funcionários 
+(a ser resolvida/mitigada) 
+cat 0.1.13 - Relacionamento interpessoal da equipe 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+602 - cat 6.01 - Curso/Oficina/Capacitação/ Treinamento/ Palestra/Reunião/Encontro 
+Origem (prioridade): 
+5-Gestão Operacional - Preservação de capacidade instalada 
+O que será feito: 
+X Semana Interna de Prevenção de Acidentes do Trabalho (SIPAT) 
+Por que será feito: 
+A SIPAT (Semana Interna de Prevenção de Acidentes de Trabalho) é uma semana de 
+conscientização realizada anualmente na unidade com o objetivo de promover a segurança, a saúde e o 
+bem-estar dos trabalhadores. A importância da SIPAT é grande, pois ela tem como finalidade a prevenção 
+de acidentes de trabalho e doenças ocupacionais, além de conscientizar os funcionários sobre a importância 
+de cuidar da sua própria saúde e segurança no ambiente de trabalho 
+Responsável: 
+<nome> Renato Frosch 
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> João Jorge Pereira da Silva 
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+02/02/2025 
+Data final: 
+20/12/2025 
+Etapas do processo: 
+01- Início da organização do evento Período do evento 
+01/04 
+30/04 
+02- Divulgação do evento 
+02/05 
+13/05 
+03- Período do evento 
+14/05 
+16/05 
+04- nn 
+dd/mm 
+dd/mm 
+05- nn 
+dd/mm 
+dd/mm 
+06- nn 
+dd/mm 
+dd/mm 
+07- nn 
+dd/mm 
+dd/mm 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.11 - Segurança pessoal e patrimonial 
+(a ser resolvida/mitigada) 
+cat 0.1.08 - Participação da comunidade e sociedade 
+X 
+06 - Desenvolvimento de pessoas (docentes e servidores) 
+Formação continuada de docentes e servidores, associadas às competências gerais e específicas de suas 
+atividades: Metodologias de ensino, Tecnologias educacionais, Sistemas (processos, procedimentos, plataformas 
+computacionais) acadêmicos e pedagógicos. 
+X 
+ 
+AÇÃO/PROJETO (Tema) 
+603 - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+02- nn 
+dd/mm 
+dd/mm 
+03- nn 
+dd/mm 
+dd/mm 
+04- nn 
+dd/mm 
+dd/mm 
+05- nn 
+dd/mm 
+dd/mm 
+06- nn 
+dd/mm 
+dd/mm 
+07- nn 
+dd/mm 
+dd/mm 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+604 - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+02- nn 
+dd/mm 
+dd/mm 
+03- nn 
+dd/mm 
+dd/mm 
+04- nn 
+dd/mm 
+dd/mm 
+05- nn 
+dd/mm 
+dd/mm 
+06- nn 
+dd/mm 
+dd/mm 
+07- nn 
+dd/mm 
+dd/mm 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+<Copiar tabelas para mais ações> 
+06 – Desenvolvimento de Pessoas: Copiar projetos de 2024 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+60x - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+60y - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+60w - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+60z - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+701 - cat 7.03 - Projetos com empresas e/ou demais parceiros 
+Origem (prioridade): 
+4-Gestão Operacional - Aumento de capacidade instalada 
+Referente ao(s) projeto(s): 
+O que será feito: 
+Parceria com a Artesp (Agência Reguladora de Transporte do Estado de São Paulo) - Convênio de 
+cooperação mútua visando a colaboração no campo das pesquisas aplicadas, em estudos de viabilidade, 
+provas de conceito, projetos funcionais e básicos, no desenvolvimento de soluções tecnológicas, programas 
+de formação em nível técnico, superior tecnológica e bacharelado, de aperfeiçoamento profissional e de 
+especialização lato-sensu e stricto sensu 
+Por que será feito: 
+As parcerias permitem alcançar um público maior e fortalecer os relacionamentos outros setores da área de 
+infraestrutura a fim manter colaboração no campo das pesquisas aplicadas, em estudos de viabilidade, 
+provas de conceito, projetos funcionais e básicos, no desenvolvimento de soluções tecnológicas 
+Responsável: 
+<nome> Antonio Youssef 
+Qde CH/sem: 
+32 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> Melina K. Itokazu Hara 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+15/02/2025 
+Data final: 
+15/05/2025 
+Etapas do processo: 
+01- Elaboração do Plano de Trabalho 
+dd/mm 
+dd/mm 
+02- Solicitação de parceria à área de Gestão de Parcerias e Convênios AGP 
+CPS 
+dd/mm 
+dd/mm 
+03- nn 
+dd/mm 
+dd/mm 
+04- nn 
+dd/mm 
+dd/mm 
+05- nn 
+dd/mm 
+dd/mm 
+06- nn 
+dd/mm 
+dd/mm 
+07- nn 
+dd/mm 
+dd/mm 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.08 - Participação da comunidade e sociedade 
+(a ser resolvida/mitigada) 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+702 - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+Referente ao(s) projeto(s): nn 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+02- nn 
+dd/mm 
+dd/mm 
+03- nn 
+dd/mm 
+dd/mm 
+04- nn 
+dd/mm 
+dd/mm 
+05- nn 
+dd/mm 
+dd/mm 
+06- nn 
+dd/mm 
+dd/mm 
+07- nn 
+dd/mm 
+dd/mm 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+07 – Convênios e Parcerias Institucionais 
+Formalização do relacionamento da Unidade com o Ecossistema de Tecnologia: Convênio de uso de prédio, 
+estágios, projetos com empresas. Aqui cabe apenas novos convênios e parcerias, e cada proposta deve estar 
+relacionada a uma Ação/Projeto de melhoria em algum dos itens anteriores do PGA (1, 2, 3, 4, 5 ou 6). 
+<Copiar tabelas para mais ações> 
+07 – Convênios e Parcerias: Copiar projetos de 2024 
+ 
+AÇÃO/PROJETO (Tema) 
+702 - cat 7.03 - Projetos com empresas e/ou demais parceiros 
+Origem (prioridade): 
+4-Gestão Operacional - Aumento de capacidade instalada 
+Referente ao(s) projeto(s): nn 
+ 
+AÇÃO/PROJETO (Tema) 
+703 - cat 7.03 - Projetos com empresas e/ou demais parceiros 
+Origem: 
+2-CPA (Relatório da Comissão Própria de Avaliação da Unidade) 
+O que será feito: 
+Parceria com a Companhia Paulista de Trens Metropolitanos – CPTM através do chamamento 
+público Nº 0405228081 - Convênio de cooperação mútua visando a colaboração no campo das 
+pesquisas aplicadas, em estudos de viabilidade, provas de conceito, projetos funcionais e básicos, 
+no desenvolvimento de soluções tecnológicas, programas de formação em nível técnico, superior 
+tecnológica e bacharelado, de aperfeiçoamento profissional e de especialização lato-sensu e 
+stricto sensu 
+Por que será feito: 
+As parcerias permitem alcançar um público maior e fortalecer os relacionamentos outros setores 
+da área de infraestrutura a fim manter colaboração no campo das pesquisas aplicadas, em 
+estudos de viabilidade, provas de conceito, projetos funcionais e básicos, no desenvolvimento de 
+soluções tecnológicas 
+Responsável: 
+<nome> Melina Itokazu Hara 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> Antonio Youssef 
+Qde CH/sem: 
+32 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+15/02/2024 
+Data final: 
+29/02/2024 
+Etapas do processo: 
+01- Elaboração do Plano de Trabalho 
+15/02 
+30/02 
+02- Solicitação de parceria à área de Gestão de Parcerias e 
+Convênios AGP CPS 
+01/03 
+29/05 
+03- nn 
+dd/mm 
+dd/mm 
+04- nn 
+dd/mm 
+dd/mm 
+05- nn 
+dd/mm 
+dd/mm 
+06- nn 
+dd/mm 
+dd/mm 
+07- nn 
+dd/mm 
+dd/mm 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.08 - Participação da comunidade e sociedade 
+(a ser resolvida/mitigada) 
+cat 0.1.10 - Gestão da unidade de ensino e dos cursos (indicadores) 
+X 
+X 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+70y - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+Referente ao(s) projeto(s): nn 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+Item 
+Projeto 
+(XYY) 
+Denominação ou especificação do equipamento 
+Quant. 
+Preço total 
+estimado 
+(R$) 
+01 
+201 
+Computador para Design (iMac) 
+26 
+0 
+02 
+201 
+Microfone sem fio 
+01 
+0 
+03 
+508 
+Access Point Indoor 
+20 
+0 
+04 
+508 
+Switch de distribuição e acesso 24 portas 
+04 
+0 
+05 
+508 
+Firewall (tipo 6) 
+01 
+0 
+06 
+508 
+Quadro não magnético- (3,00 x 1,20 m) na cor branca 
+02 
+0 
+07 
+508 
+Suporte para Televisor de LCD ou Plasma de 30 a 65 de parede 
+02 
+0 
+08 
+508 
+Refrigerador doméstico, Frost Free, Duplex 110 v 
+01 
+0 
+09 
+205 
+Betoneira em aço, capacidade do tambor: 150 litros 
+01 
+0 
+10 
+205 
+Morsa fixa, em aço Forjado, com Mordentes temperados com 
+aproximadamente 155 m e abertura de 175 Mm, aproximadamente 6 
+polegadas, Número 6 
+02 
+0 
+11 
+205 
+Nível para Marcações e Medições de Nível e alinhamento de pontos a 
+laser 
+01 
+0 
+12 
+205 
+Vibrador de Concreto 
+01 
+0 
+13 
+205 
+Agitador de Peneiras, Eletromecânico de Bancada, para peneiras de 
+Diâmetro 8” e altura 2”, com capacidade para 8 peneiras 
+01 
+0 
+14 
+205 
+Aparelho Casa Grande, manual 
+02 
+0 
+15 
+205 
+Argamassadeira, estrutura em alumínio fundido, cuba em aço inoxidável 
+(removível) com capacidade para 5 litros 
+01 
+0 
+16 
+205 
+Carro de Transporte Manual 
+01 
+0 
+17 
+205 
+Conjunto para determinação do equivalente de areia em solos ou 
+agregados miúdos (DNER-ME 054) 
+01 
+0 
+18 
+205 
+Densímetro para massa específica 
+01 
+0 
+19 
+250 
+Determinador de umidade, Speedy portátil, capacidade da balança 12 g, 
+sensibilidade de 1 g 
+02 
+0 
+20 
+205 
+Equipamento para teste de concreto Slump Test 
+01 
+0 
+21 
+205 
+Esclerometro, Tipo L, com baixa Energia de Impacto (0,735nm) 
+01 
+22 
+205 
+Estufa em chapa de aço inox, com pintura externa e interna resistente a 
+alta temperatura, 144 litros;50 a 250 graus 
+01 
+23 
+205 
+Fogão Industrial; modelo Portátil Elétrico de indução 
+01 
+24 
+205 
+Medidor de resistência, para determinação da consistência da 
+argamassa, acionamento manual (Flow Table) 
+01 
+25 
+205 
+Fundo para peneira granulométrica, em aço inox medidas 8x2 polegadas 
+(diâmetro x altura) 
+01 
+26 
+205 
+Peneira granulométrica 0,15 mm, redonda com tela e caixilho em aço 
+inox, diâmetro 8 x 2, compatível com Tyler 100 
+01 
+27 
+205 
+Peneira granulométrica 0,30 mm com aro e tela em aço inox, abertura 
+normalizada 0,30 mm; medida 8x2 polegadas (diâmetro x altura), 
+compatível com ASTM 50 
+01 
+28 
+205 
+Peneira Granulométrica 0,425 mm, com aro e tela em aço inox abertura 
+0,425 mm, medida 8x2 polegadas (diâmetro x altura; compatível com 
+ASTM 40 
+01 
+29 
+205 
+Peneira granulométrica 0,60 mm; com aro e tela em aço inox; abertura 
+normalizada: 0,60mm; medida: 8x2 polegadas (diâmetro x altura); 
+compatível com ASTM 30 
+01 
+30 
+205 
+Peneira granulométrica 1,18 mm; com aro e tela em aço inox; abertura 
+normalizada: 1,18mm; medida: 8x2 polegadas (diâmetro x altura); 
+compatível com ASTM 16 
+01 
+31 
+205 
+Peneira granulométrica 19 mm; com aro e tela em aço inox; abertura 
+normalizada: 19mm; medida: 8x2 polegadas (diâmetro x altura); 
+compatível com ASTM ¾ 
+01 
+32 
+205 
+Peneira granulométrica 2,00 mm; com aro e tela em aço inox; abertura 
+normalizada: 2,0mm; medida: 8x2 polegadas (diâmetro x altura); 
+compatível com ASTM 10 
+01 
+33 
+205 
+Peneira granulométrica 2,36 mm; com aro e tela em aço inox; abertura 
+normalizada: 2,36mm; medida: 8x2 polegadas (diâmetro x altura); 
+compatível com ASTM 8 
+01 
+Anexo 1 – Lista de aquisições necessárias aos projetos 
+(equipamentos, softwares, mobiliários) 
+34 
+205 
+Peneira granulométrica 25 mm; com aro e tela em aço inox; abertura 
+normalizada: 25mm; medida: 8x2 polegadas (diâmetro x altura); 
+compatível com ASTM 1\" 
+01 
+35 
+205 
+Peneira granulométrica 37,5 mm”; com aro e tela em aço inox; abertura 
+normalizada: 37,5mm; medida: 8x2 polegadas (diâmetro x altura); 
+compatível com ASTM 1.1/2\" 
+01 
+36 
+205 
+Peneira granulométrica 4,76; com aro e tela em aço inox; abertura 
+normalizada: 4,76 mm; medida: 8 x 2 polegadas (diâmetro x altura); 
+compatível com ASTM 4; 
+01 
+37 
+205 
+Peneira granulométrica 50 mm; com aro e tela em aço inox; abertura 
+normalizada: 50mm; medida: 8x2 polegadas (diâmetro x altura); 
+compatível com ASTM 2 
+01 
+38 
+205 
+Peneira granulométrica 6,3 mm; com aro e tela em aço inox; abertura 
+normalizada: 6,3mm; medida: 8x2 polegadas (diâmetro x altura); 
+compatível com ASTM 1/4\" 
+01 
+39 
+205 
+Peneira granulométrica 9,52 mm; com aro e tela em aço inox; abertura 
+normalizada: 9,52 mm; medida: 8 x 2 polegadas (diâmetro x altura); 
+compatível com ASTM 3/8 polegadas 
+01 
+40 
+205 
+Peneira granulométrica 75 mm; com aro e tela em aço inox; abertura 
+normalizada: 75mm; medida: 8x2 polegadas (diâmetro x altura); 
+compatível com ASTM 3 
+01 
+41 
+205 
+Peneira granulométrica; aro em aço inox e malha em aço inox; 8\" de 
+diâmetro x 2\" de altura; compatível com astm; normas abnt 200 
+01 
+42 
+205 
+Tampa p/peneira granulométrica; em aço inox; diâmetro: 8 polegadas; 
+01 
+43 
+205 
+Balança de precisão eletrônica analítica p/ 5000g 
+01 
+44 
+205 
+Estufa de Secagem e Esterilização Com Circulação, Volume 80 Litros 
+01 
+45 
+Kit para práticas fotográficas digitais; composto por (25) câmeras digitais 
+reflex-SLR com no mínimo 18 megapixels com lente 18-105 f/3.5-5.6 IS 
+ou 18-135 f/3.5-5.6 com filtro UV / proteção – compatível com o diâmetro 
+da lente; (25) Parasol compatível 
+01 
+46 
+201 
+Scanner para digitalização de imagens fotográficas 
+01 
+47 
+201 
+Camera fotografica profissional; digital reflex com lente 18-105.dx 
+04 
+48 
+202 
+Impressora 3D. Material: EQUIPAMENTO PARA FINS DIDÁTICOS. 
+Equipamento multifuncional de bancada 
+01 
+49 
+202 
+Aspirador de pó 
+01 
+50 
+202 
+Lixadeira tipo orbital 
+01 
+51 
+202 
+Tupia 
+01 
+52 
+206 
+Desktop Plus Padrão CPS - Laboratório de Informática do 3º Andar; 
+Laboratório de Informática do 4º andar 
+50 
+53 
+509 
+Forno microondas 30 litros 110 v - Copa (2º Andar); Cozinha para 
+Alunos; Sala dos Professores 
+06 
+54 
+509 
+Refrigerador doméstico, Frost Free, Duplex 110 v - Copa (2º Andar); 
+Cozinha para Alunos 
+02 
+55 
+202 
+Estante desmontavel de aço; tipo aberta; com 06 prateleiras; para arquivo 
+morto, almoxarifado 
+02 
+56 
+204 
+Banqueta 60cm - Laboratório de Análises Microbiológicas; Laboratório de 
+Análises Químicas; Laboratório de Criação 3D e Prototipagem; 
+Laboratório de Ensaios e Materiais (Térreo) 
+180 
+57 
+Quadro nao magnético - (3,00 x 1,20)m na cor branca - Laboratório de 
+Informática do 7º andar; Laboratório de Informática do 8º andar; Sala 64 
+03 
+58 
+206 
+Desktop Padrão CPS -Biblioteca (1ºAndar); Convivência e Lazer; 
+Coordenação de Construção de Edifícios; Coordenação de Controle de 
+Obras; Coordenação de Transporte Terrestre; Nupecids; Sala de 
+Computadores da Biblioteca (1º Andar); Sala de Espera da Direção 
+(Térreo) 
+30 
+59 
+206 
+Cabos PATCH CORD de Rede RJ45 Cat 6 1,5m (de acordo com os 
+laboratórios) 
+156 
+60 
+205 
+Conjunto didático estação levantamentos topográficos. Conjunto didático; 
+para Estação Total Eletrônica, levantamentos topográficos ; leitura 
+angular de leitura angular de 1´´ e 5´´configuravel ; precisão angular de 
+precisão angular de 5´´ no mínimo ; alca 
+01 
+61 
+205 
+Receptor gps portátil, 4”, memória interna de 3.0gb; Receptor gps; tipo 
+portátil; 4”diag; tela clara; transflectiva 65k color tft; duas orientações; 
+touchscreen; legível a luz solar; resolução de tela: 272 x 480 pixels; 
+antena de alta sensibilidade; câmer 
+04 
+62 
+205 
+Mira; de Encaixe; Confeccionada Em Alumínio; Medindo 5 Metros; Com 
+Leitura Direta; Acondicionada Em Estojo para Transporte; 
+01 
+63 
+205 
+Drone 
+AERONAVES 
+TELEGUIADAS, 
+TIPO:AERONAVE 
+REMOTAMENTE PILOTADA (DRONE ASA FIXA), QUANTIDADE 
+MOTORES:01, TAMANHO DIAGONAL:120 CM, PESO MÁXIMO:4 KG, 
+CARACTERÍSTICAS 
+ADICIONAIS:GEORREFERENCIAMENTO, 
+CÂMERA, CONTROLE REMOTO 
+01 
+64 
+205 
+Tripé de alumínio para a estação total -Trava dupla sendo trava rápida 
+(Quick Clamp) na parte superior e borboleta na parte inferior – Pernas 
+extensíveis – Parafuso de fixação com rosca W5/8X11 – Alça de 
+transporte – Dimensões: 101cm recolhido e 171c 
+01 
+65 
+205 
+Trena Eletronica; de Bolso; Com Indicacao de Raio Laser Visivel; Medicao 
+de Distância de até 50m, e de até 100m 
+04 
+66 
+201 
+Fonte de Alimentação de bancada para experimentos elétricos 
+07 
+67 
+201 
+Kit de iluminacao; kit de iluminacao para estudio fotográfico 
+01 
+68 
+201 
+1 Kit de Acessórios de Iluminação para Estúdio Fotográfico 
+01 
+69 
+201 
+Kit para fotografia 
+01 
+70 
+201 
+Scanner 3D 
+01 
+71 
+201 
+Smart TV 65\" 
+04 
+72 
+201 
+Suporte para Televisor de LCD ou plama de 30 a 65\", suporte de parede 
+04 
+Total geral 
+Anexo 2 – Lista de Ações/Projetos referentes à CPA 
+ 
+ 
+ 
+Item 
+Projeto 
+(XYY) 
+Denominação 
+(O que será feito) 
+Prazo 
+01 
+504 
+Aquisição de aparelhos de ar condicionado para sala da Diretoria de 
+Serviços Administrativos e coordenação de cursos 
+dd/mm/aaaa 
+02 
+107 
+Projeto multidisciplinar – Atividades e Eventos Socioculturais 
+dd/mm/aaaa 
+03 
+109 
+Projeto Multidisciplinar – Tecknobreak 
+dd/mm/aaaa 
+04 
+108 
+Projeto de inclusão – Atendimento especializado aos alunos com 
+condições específicas TDH, TDAH, depressão, autismo, outras 
+síndromes, baixa visão, baixa audição, surdez, etc 
+dd/mm/aaaa 
+05 
+104 
+Programa de Monitoria 
+dd/mm/aaaa 
+06 
+105 
+Aulas de Nivelamento de Matemática 
+dd/mm/aaaa 
+07 
+101 
+Reestruturação e adequação do PPC do curso de Construção de 
+Edifícios 
+dd/mm/aaaa 
+08 
+301 
+Programa de Iniciação Científica e Tecnológica da Faculdade de 
+Tecnologia Victor Civita – Fatec Tatuapé 
+dd/mm/aaaa 
+09 
+102 
+Proposta de reestruturação e implantação Revista Científica In SIET 
+(In Sustentabilidade, Inovação & Empreendedorismo Tecnológico 
+dd/mm/aaaa 
+10 
+702 
+Parceria com a Companhia Paulista de Trens Metropolitanos – CPTM 
+através do chamamento público N° 0405228081 
+dd/mm/aaaa 
+11 
+701 
+Parceria com a Artesp 
+dd/mm/aaaa 
+12 
+601 
+Planejamento e Aperfeiçoamento pedagógico (SPAP 
+dd/mm/aaaa 
+13 
+201/202 
+Proposta de projeto de estruturação dos laboratórios dos cursos de 
+Design de Produto 
+dd/mm/aaaa 
+14 
+205 
+Proposta de projeto de reestruturação dos laboratórios de 
+infraestrutura (cursos: Controle de Obras, Construção de Edifícios, 
+Transporte Terrestre e Design de Produto) – Projeto Piloto “Gestão 
+Laboratorial para o Eixo de Infraestrutura (Cesu 
+dd/mm/aaaa 
+15 
+502 
+Reforma e impermeabilização do telhado do 8° andar e do telhado do 
+laboratório de materiais 
+dd/mm/aaaa 
+16 
+507 
+Substituição dos quadros elétricos e transformadores (ar cond. 
+dd/mm/aaaa 
+17 
+206 
+Aquisição de 80 desktops para substituição dos computadores antigos 
+dd/mm/aaaa 
+18 
+507 
+Manutenção ou substituição das bombas de recalque e reuso da Fatec 
+dd/mm/aaaa 
+19 
+nnn 
+nn 
+dd/mm/aaaa 
+20 
+nnn 
+nn 
+dd/mm/aaaa 
+ 
+ 
+<fim> 

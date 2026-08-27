@@ -1,0 +1,2768 @@
+PLANO DE GESTÃO ANUAL – PGA 2024 
+V11 
+Estruturado em uma única etapa com 2 anexos: 
+PLANEJAMENTO PELA EQUIPE GESTORA DA UE 
+• Anexo 1 – Lista de equipamentos necessários aos projetos 
+• Anexo 2 – Lista de Ações/Projetos referentes à CPA 
+ 
+IDENTIFICAÇÃO DA UNIDADE 
+Unidade 
+120 
+Fatec Mococa 
+Diretor(a) 
+Prof. Dr. Adriano Dias de Carvalho 
+ 
+PLANEJAMENTO PELA EQUIPE GESTORA DA UE 
+(Administração da Faculdade - Deliberação CEETEPS 31/2016) 
+ANÁLISE DO CENÁRIO 
+Descrever de forma breve e objetiva o cenário da Unidade perante sua missão como Unidade de Ensino na localidade em que 
+se encontra (é este cenário que se pretende melhorar). 
+A fundação de Mococa remonta a 1839 com a fundação do patrimônio de São Sebastião da Boa Vista. Em 1856 a Vila de 
+São Sebastião da Boa Vista foi elevada à freguesia e em 1871 a é elevado à município, desmembrando-se de Casa Branca. Em 
+1875 o município passa a se designar Mococa, topônimo de origem tupí referindo-se às casas de pequeno esteio do lugar. 
+ 
+Estando localizada no nordeste do Estado de São Paulo, o município de Mococa faz divisa com a região sul do Estado de Minas 
+Gerais. O município possui uma área de 855 Km² e de acordo com a estimava populacional do IBGE em 2021 tinha cerca de 
+69.072 habitantes (IBGE, 2022), implicando em uma densidade demográfica de 80,7 habitantes por Km². Limita-se, ao norte, com 
+Cajuru (SP) e Cássia dos Coqueiros (SP), ao sul, com Tapiratiba (SP) e São José do Rio Pardo (SP), a leste, com Arceburgo 
+(MG), Guaranésia (MG) e Monte Santo de Minas (MG) e a oeste, com Tambaú (SP) e Casa Branca (SP).  
+  
+A cidade de Mococa está a 260 Km da cidade de São Paulo e 800 Km de Brasília. As principais rodovias de acesso ao município 
+de Mococa são a Rodovia SP-340 (Campinas e São Paulo), a Rodovia SP-338 (Ribeirão Preto e Franca) e as Rodovias MG-
+449/BR-491 (Sul de Minas Gerais).  
+    
+Histórico da Faculdade:  
+ 
+Criada pelo Governo do Estado de São Paulo mediante a publicação do Decreto nº. 48.434, de 07 de janeiro de 2004. 
+Endereço: Avenida Dr. Américo Pereira Lima, s/n – Jardim Lavínia – Mococa (SP) – CEP 13.736-260 
+Telefone: (19) 3656-5559 
+Site: www.fatecmococa.edu.br 
+Horário de Funcionamento da unidade: de segunda-feira à sexta-feira das 07:30h às 22:30h e aos sábados das 7:30h às 13:00h. 
+Horário de Funcionamento do curso: As aulas acontecem de segunda-feira à sexta-feira das 19:00h às 22:30h e aos sábados das 
+7:40h às 13:00h. Demais atividades são realizadas em horários diversos. 
+ 
+A Importância da Fatec Mococa para a região: 
+ 
+A unidade iniciou as atividades com o Curso Superior de Tecnologia em Informática para Gestão de Negócios, com 40 vagas 
+semestrais no período noturno. 
+- no 1º semestre de 2008 foi implantado o Curso Superior de Tecnologia em Agronegócio, com 40 vagas semestrais para o 
+período matutino. 
+- no 1º semestre de 2008 foi implantado o Curso Superior de Tecnologia em Banco de Dados e Redes, com 40 vagas semestrais 
+para o período vespertino. 
+- no 1º semestre de 2010 foi implantado o Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas, com 40 
+vagas semestrais para o período noturno. 
+- no 1º semestre de 2010 foi implantado o Curso Superior de Tecnologia em Gestão Empresarial (Processos Gerenciais), com 40 
+vagas semestrais para o período noturno. 
+- no 1º semestre de 2013 foi implantado o Curso Superior de Tecnologia em Gestão da Tecnologia da Informação, com 40 vagas 
+semestrais para o período matutino. 
+- no 1º semestre de 2023 iniciou-se na Fatec Mococa o Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas 
+- AMS, com 40 vagas anuais no período matutino. Esses alunos entram no ensino técnico da Etec João Baptista de Lima 
+Figueiredo realizando um Curso Técnico e Superior Integrado (Articulação Médio e Superior – AMS), e diretamente ingressa no 
+Curso Superior da Faculdade de Tecnologia de Mococa. 
+- ainda no 1º semestre de 2023 foi implantado o Curso Superior de Tecnologia em Gestão de Recursos Humanos, com 40 vagas 
+semestrais para o período noturno. 
+ 
+A Fatec Mococa visa promover de forma contínua a educação profissional pública, todas as atividades visam o desenvolvimento 
+tecnológico e tem por objetivo claro e conciso promover a cultura, a ciência, a tecnologia e a inovação por meio do ensino e da 
+pesquisa aplicada na cidade de Mococa e região. Essas ações, visam alcançar a excelência para que assim possam corroborar 
+com a evolução tecnológica, econômica e social. Acrescenta-se a esse cenário, a estruturação e promoção de atividades de 
+extensão e de articulação com a comunidade, como forma de oferecer alternativas que estejam em consonância com as atividades 
+de ensino e pesquisa.  
+Analisando com muita atenção o que envolve a regionalidade institucional e; em breve diagnóstico pode ser percebido claramente, 
+um problema crônico no mercado de trabalho que muitas vezes são expostos em reuniões com órgãos representativos e entidades 
+de classes de Mococa e região, a necessidade que decorre da falta de qualificação e capacitação existente no mercado de 
+trabalho, que faz com que muitas empresas tenham grandes dificuldades na contratação de mão de obra qualificada.  
+Nesse cenário, nota-se que os Cursos Superiores de Tecnologia (CST), oferecidos pela FATEC Mococa, são extremamente 
+importantes para o desenvolvimento regional e que de forma gradativa tem de fato, contribuído para a qualificação profissional 
+de pessoas que alcançam o mercado de trabalho. Muitas empresas têm procurado a Fatec Mococa para disponibilizar vagas de 
+estágio e emprego para os alunos dos diversos Cursos existentes na unidade.  
+Dessa forma, pode-se afirmar que a Fatec Mococa tem contribuído fortemente dentro do ambiente ao qual está inserida e seus 
+Cursos atendem satisfatoriamente as demandas do município e região, inclusive com a perspectiva de poder ampliar as opções 
+de oferta de vagas, mediante a solicitação de novos cursos tecnológicos.  
+Portanto, julga-se acertado, justo e pertinente, que a Fatec Mococa possa manter o oferecimento dos Cursos atuais, pois a 
+situação econômica, política, cultural e social do município é favorável, tendo em vista, a dependência criada pelas empresas em 
+torno dessa instituição para a formação profissional de qualidade pública e gratuita, o que pode favorecer a contratação de 
+profissionais qualificados para o mercado de trabalho, haja visto o alto índice de empregabilidade, bem como a vocação local e 
+regional.  
+Ademais, mediante observado, a Fatec Mococa representa para muitos alunos, uma das poucas alternativas justas e 
+adequadas para criação de oportunidades e mudança social. 
+• Discorrer sobre o cenário, realizando um breve diagnóstico (limitar o espaço da escrita, para que seja inserido de forma suscinta). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+APONTAMENTO DE SITUAÇÕES-PROBLEMA MAIS RELEVANTES 
+Fontes: relatório CPA, análise de processos críticos da UE, relatório de atendimento e ocorrências Hórus, relatório NDE, 
+relatório de representação discente (DA, Atlética, representantes de turma), relatório CIPA, entre outros. 
+1 
+cat 0.1.02 - Manutenção e conservação predial 
+ 
+5 
+cat 0.1.06 - Quantidade de professores/funcionários 
+2 
+cat 0.1.11 - Segurança pessoal e patrimonial 
+ 
+6 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+3 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de 
+ensino 
+ 
+7 
+cat 0.1.01 - Metodologia de ensino, desempenho de 
+alunos, evasão 
+4 
+cat 0.1.08 - Participação da comunidade e sociedade 
+ 
+8 
+cat 0.1.99 - Outra 
+Outra – Especificar: Necessidade de criar estratégias para obter boas notas no ENADE dos cursos da Fatec Mococa, proporcionando 
+tranquilidade e visibilidade institucionais 
+ 
+Objetivos Institucionais – CPS (Plano de Metas) 
+1) Atender às demandas sociais e do mercado de trabalho. 
+2) Obter a satisfação dos públicos que se relacionam com o Centro Paula Souza (stakeholders). 
+3) Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem. 
+4) Assegurar a perenidade do crescimento da instituição com recursos financeiros disponíveis. 
+5) Garantir celeridade e efetividade na prestação de serviços. 
+6) Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no desenvolvimento tecnológico e inovação. 
+7) Promover a cultura de inovação e empreendedorismo. 
+8) Aumentar a eficiência, a produtividade e a competitividade da instituição. 
+9) Ampliar a oferta da Educação Profissional. 
+10) Resolução Conjunta SOG/SFP/SG-3, de 28-12-2022 - Bonificação por Resultados – BR das Secretarias de Estado, Procuradoria Geral do Estado, 
+Controladoria Geral do Estado e das Autarquias, de que trata a LC 1361-2021 
+Objetivos Institucionais – Cesu (Plano de Metas) 
+A. Integrar as diferentes modalidades de ensino, otimizando itinerários e tempo para a formação profissional. 
+B. Inovar processos de ensino e aprendizagem para manter excelência diante do mercado. 
+C. Ampliar a capacidade de criar e atualizar cursos em parceria com o mercado. 
+D. Expandir e ampliar a capacidade de articulação com Governos e Setores Produtivos. 
+E. Promover a captação de recursos extras e não orçamentários. 
+ 
+ 
+ESTRUTURAÇÃO DAS AÇÕES/PROJETOS 
+01 - Didático-pedagógico 
+Ações associadas ao PPC/PE de CSTs e Disciplinas: CST (implantação, alteração, readequação, reestruturação), 
+prática pedagógica (PE, PA), projeto interdisciplinar/ integrador, extensão curricularizada. 
+ 
+AÇÃO/PROJETO (Tema) 
+101 - cat 1.11 - Ações de nivelamento de conhecimento, ENADE, acolhimento e permanência discente. 
+Origem: 
+3-Outra 
+O que será feito: 
+• 
+Ação Proposta para aplicação de Avaliação Diagnóstica para Mapear os Conteúdos a 
+serem Ministrados no Curso de Nivelamento; 
+• 
+Revisão de conceitos e conteúdos vistos no ensino fundamental e médio e que são 
+considerados importantes para o entendimento do que será apresentado nas disciplinas 
+do 1º semestre do curso; 
+                Oferta de Curso de Nivelamento aos Ingressantes de todos os Cursos Superiores de            
+Tecnologia da Unidade; 
+Por que será feito: 
+• 
+Minimizar as deficiências de pré-requisitos necessários ao entendimento das disciplinas 
+do 1º semestre letivo dos cursos; 
+• 
+Homogeneização das turmas do 1º semestre letivo, proporcionando maior rendimento 
+das aulas e atividades didático-pedagógicas propostas; 
+• 
+Diminuição da evasão discente no 1º semestre letivo, principalmente aquela causada por 
+dificuldades de acompanhamento do conteúdo programático do Curso; 
+• 
+Melhoria das atividades didático-pedagógicas a serem desenvolvidas pelos professores 
+nas aulas subsequentes; 
+• 
+Dar ciência a todos os professores do 1º semestre do curso sobre os conceitos e 
+conteúdos trabalhados nessa semana de nivelamento, para que, se necessário, se possa 
+dar um enfoque ou ênfase mais específicos durante as aulas de seus componentes 
+curriculares e aumentar o sucesso escolar permitindo o aumento dos concluintes em fase. 
+Responsável: 
+Lucas de Oliveira Gomes – Coord. do CST em 
+Agronegócio; Jaciara Carosia da Silva – Coord. do Curso 
+AMS em Desenvolvimento de Sistemas 
+Qde CH/sem: 
+01 
+ 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): Viviane Aparecida de Lima Maschietto – Professora da 
+Fatec Mococa. 
+Qde CH/sem: 
+02 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): Dimitrie Hristov Sobrinho – Professor da Fatec Mococa  Qde CH/sem: 
+02 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+15/02/2024 
+Data final: 
+18/12/2024 
+Etapas do processo: 
+01- Planejamento das atividades de nivelamento  
+15/02 
+01/03 
+ 
+02- Aplicação de uma avaliação diagnóstica para os alunos ingressantes  
+26/02 
+01/03 
+ 
+03- Curso de Nivelamento 
+04/03 
+28/06 
+ 
+04- Análise dos resultados alcançados e relatório final de atividades 
+01/07 
+12/07 
+ 
+05- Planejamento das atividades de nivelamento  
+15/07 
+02/08 
+ 
+06- Aplicação de uma avaliação diagnóstica para os alunos ingressantes 
+05/08 
+09/08 
+ 
+07- Curso de Nivelamento 
+12/08 
+06/12 
+ 
+08- Análise dos resultados alcançados e relatório final de atividades  
+09/12 
+18/12 
+Custo R$ (se houver): 
+Sem Custo 
+Fonte(s) dos recursos: 
+HAE - Centro Paula Souza  
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.99 - Outra 
+ 
+AÇÃO/PROJETO (Tema) 
+102 - cat 1.02 - Eventos e publicações acadêmicos e científicos 
+Origem: 
+3-Outra 
+O que será feito: 
+Planejamento de evento de cunho científico-tecnológico para as comunidades internas e 
+externas à Fatec Mococa; oferta de palestras, minicursos e outras atividades extracurriculares 
+com temas complementares aos programas das disciplinas dos cursos ofertados pela Unidade 
+Por que será feito: 
+Aumento da Visibilidade Institucional; oferta de Atualização/Capacitação profissional do corpo 
+docente e técnico-administrativo da Unidade, com emissão de certificado de participação das 
+atividades; oferta de atividades de cunho científico-tecnológico com temas complementares às 
+disciplinas dos cursos, ministradas por profissionais atuantes nesses assuntos; estímulo ao 
+debate e diálogo institucionais com expansão do conhecimento oferecido aos alunos ao longo de 
+seu curso; inspirar os alunos com temas para futuros trabalhos de graduação 
+Responsável: 
+Jaciara Carosia da Silva – Coord. do Curso AMS em 
+Desenvolvimento de Sistemas; Lucas de Oliveira Gomes 
+– Coord. do CST em Agronegócio; Tarcísio Jorge Bezerra 
+– Coord. do CST em Análise e Desenvolv. de Sistemas; 
+Silvia Regina de M.Mello Lipi – Coord. do CST em 
+Gestão Empresarial; 
+Qde CH/sem: 
+1 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): Luis Marcelo Bortolotti 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): Claudionei Nalle Jr 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+19/02/2024 
+Data final: 
+29/11/2024 
+Etapas do processo: 
+01- Planejamento das atividades da Semana Pedagógica  
+19/02 
+05/08 
+26/04 
+02/09 
+ 
+02- Divulgação da Semana Tecnológica junto à comunidade interna e 
+externa. 
+01/04 
+02/09 
+24/04 
+24/09 
+ 
+03- Inscrição para a Semana Tecnológica. 
+01/04 
+02/09 
+24/04 
+24/09 
+ 
+04- Semana Tecnológica  
+24/04 
+25/09 
+27/04 
+28/09 
+ 
+05- Emissão dos Certificados de participação. 
+28/04 
+30/09 
+28/06 
+29/11 
+Custo R$ (se houver): 
+R$ 1.000,00 
+Fonte(s) dos recursos: 
+FAT - Fundação de Amparo à Tecnologia 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.99 - Outra 
+ 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+103 - cat 1.02 - Eventos e publicações acadêmicos e científicos 
+Origem: 
+3-Outra 
+O que será feito: 
+Apresentação dos Trabalhos desenvolvidos pelos estudantes nas disciplinas que contenham AAP 
+(Atividade Autônoma de Projetos); PI (Projeto Integrador). A apresentação dos Projetos 
+Interdisciplinares é aberta à comunidade interna e externa da Unidade, envolvendo os cursos de 
+Gestão Empresarial, Gestão da Tecnologia da Informação, Agronegócio, Recursos Humanos e 
+Análise e Desenvolvimento de Sistemas – MAS. 
+Por que será feito: 
+Trabalhar a questão da interdisciplinaridade no conteúdo dos cursos; trabalhar a inovação nos 
+projetos; aumento da visibilidade institucional, uma vez que o evento será aberto ao público 
+externo; integração entre os alunos de diversos cursos e turmas 
+Responsável: 
+Luis Marcelo Bortolotti – Coord. do CST em Gestão da 
+Tecnologia da Informação; Claudionei Nalle Jr – Coord. 
+do CST em Gestão de Recursos Humanos;  
+Qde CH/sem: 
+01 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+Silvia Regina de M. Lipi 
+Qde CH/sem: 
+01 
+ 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+01/05/2024 
+Data final: 
+03/12/2024 
+Etapas do processo: 
+01- Planejamento das atividades da mostra; 
+01/05 
+01/11 
+18/06 
+03/12 
+ 
+02- Preparação para a mostra; 
+10/06 
+25/11 
+18/06 
+03/12 
+ 
+03- Divulgação da mostra à comunidade interna e externa 
+10/06 
+25/11 
+18/06 
+03/12 
+ 
+04- Mostra dos Projetos Interdisciplinares. 
+18/06 
+03/12 
+18/06 
+03/12 
+Custo R$ (se houver): 
+Sem Custo 
+Fonte(s) dos recursos: 
+Centro Paula Souza  
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.99 - Outra 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+104 - cat 1.13 - Estágio 
+Origem: 
+3-Outra 
+O que será feito: 
+Conscientizar a comunidade discente da relevância e obrigatoriedade do Estágio Supervisionado 
+nos Cursos Superiores de Tecnologia; apresentação da documentação necessária e da legislação 
+pertinente aos Estágios Supervisionados; mapeamento dos alunos que estão realizando Estágios 
+Supervisionados na Fatec Mococa; acompanhamento do desenvolvimento do Estágio solicitando 
+ao aluno e empresas a documentação pertinente; quitação do Estágio Supervisionado, após o 
+cumprimento dos quesitos legais; 
+Por que será feito: 
+Contribuir para a Visibilidade Institucional da Fatec Mococa junto as Empresas de Mococa e região; 
+contribuir para que o aluno realize um bom Estágio Supervisionado, proporcionando a ele 
+experiências profissionais relevantes no mundo do trabalho; desmistificar o Estágio 
+Supervisionado, junto ao corpo docente e discente da Unidade; preparar o corpo discente para a 
+realização do Estágio Supervisionado, aumentando as chances de um bom desempenho; 
+organizar e Acompanhar as atividades dos Estágios Supervisionados dos alunos, intervindo junto 
+a empresas, se necessário 
+Responsável: 
+ Washington Luis Moreira Braga 
+Qde CH/sem: 
+06 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a):  Ieoschua Katz 
+Qde CH/sem: 
+06 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a):  Isaías Eliseu da Silva 
+Qde CH/sem: 
+05 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+19/02/2024 
+Data final: 
+18/12/2024 
+Etapas do processo: 
+01- Apresentação em sala de aula das normativas que regem o Estágio 
+Supervisionado enquanto componente curricular obrigatório. 
+19/02 
+05/08 
+01/03 
+16/08 
+ 
+02- Atendimento aos alunos quanto a possíveis dúvidas com relação ao 
+Regulamento vigente, referente ao Estágio Supervisionado (equivalência 
+ou desenvolvimento de estágio). 
+19/02 
+18/12 
+ 
+03- Acompanhamento das Atividades de Estágio Supervisionado dos 
+alunos. 
+19/02 
+18/12 
+ 
+04- Análise, organização e validação dos documentos entregues pelos 
+alunos e pelas empresas as quais eles se encontram estagiando; 
+04/03 
+18/12 
+ 
+05- Desenvolvimento da Relatório Semestral dos Estágios Concluídos e em 
+Andamento; 
+24/06 
+11/12 
+28/06 
+18/12 
+Custo R$ (se houver): 
+HAEs para Supervisores de 
+Estágio  
+Fonte(s) dos recursos: 
+Centro Paula Souza  
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.99 - Outra 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+105 - cat 1.02 - Eventos e publicações acadêmicos e científicos 
+Origem: 
+3-Outra 
+O que será feito: 
+Conscientização a comunidade discente da relevância e obrigatoriedade do Trabalho de Graduação 
+nos Cursos Superiores de Tecnologia; apresentação do modelo adotado pela Unidade para a 
+elaboração do Trabalho de Graduação; apresentação da estrutura organizacional associada ao 
+Trabalho de Graduação, bem como o papel do orientador; mapeamento dos professores 
+orientadores, suas linhas de orientação, quantidade de orientandos e alunos que estão realizando 
+Trabalho de Graduação na Fatec Mococa; acompanhamento do desenvolvimento do Trabalho de 
+Graduação; realização de mediações, orientações, encaminhamentos a respeito do Trabalho de 
+Graduação; quitação do Trabalho de Graduação, após o cumprimento dos quesitos legais.  
+ 
+Por que será feito: 
+Para contribuir para a Visibilidade Institucional da Fatec Mococa junto as Empresas de Mococa e 
+região; contribuir para que o aluno realize um bom Trabalho de Graduação, proporcionando a ele 
+conhecimentos, experiências profissionais, introdução a pesquisa científica e demais vivências 
+relevantes; desmistificar o Trabalho de Graduação, junto ao corpo docente e discente da Unidade;  
+preparar, orientar, mediar, encaminhar o corpo discente para a realização do Trabalho de 
+Graduação, aumentando as chances de um bom desempenho; organizar e Acompanhar as 
+atividades dos Trabalho de Graduação dos alunos, intervindo junto a empresas, se necessário;  
+Responsável: 
+Jaciara Carosia da Silva – Coord. do Curso AMS em 
+Desenvolvimento de Sistemas; Lucas de Oliveira Gomes 
+– Coord. do CST em Agronegócio; Tarcísio Jorge Bezerra 
+– Coord. do CST em Análise e Desenvolv. de Sistemas; 
+Silvia Regina de M.Mello Lipi – Coord. do CST em 
+Gestão Empresarial; Luís Marcelo Bortolotti – Coord do 
+CST em Sistemas para Internet e Claudionei Nalle Jr – 
+Coord do CST em Gestão de Recursos Humanos. 
+Qde CH/sem: 
+01 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a):  Camila do Nascimento Cultri 
+Qde CH/sem: 
+04 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a):  Juliana Gisele da Silva Nalle 
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): Renato de Oliveira Violin 
+Qde CH/sem: 
+12 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+19/02/2024 
+Data final: 
+18/12/2024 
+Etapas do processo: 
+01- Apresentação em sala de aula das normativas que regem o Trabalho de 
+Graduação. 
+19/02 
+05/08 
+01/03 
+16/08 
+ 
+02- Atendimento aos alunos quanto a possíveis dúvidas com relação ao 
+Regulamento vigente. 
+19/02 
+18/12 
+ 
+03- Acompanhamento das Atividades. 
+19/02 
+18/12 
+ 
+04- Análise, organização e validação dos projetos entregues pelos alunos. 
+04/03 
+18/12 
+ 
+05- Desenvolvimento da Relatório Semestral dos Trabalhos de Graduação 
+apresentados e em Andamento; 
+24/06 
+11/12 
+28/06 
+18/12 
+Custo R$ (se houver): 
+HAEs para TG  
+Fonte(s) dos recursos: 
+Centro Paula Souza  
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.99 - Outra 
+ 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+106 - cat.1.99 - Outra 
+Origem: 
+2-CPA (Relatório da Comissão Própria de Avaliação da Unidade) 
+O que será feito: 
+Proposta de conscientização a comunidade discente, docente e de técnico-administrativa da relevância 
+e obrigatoriedade da CPA – Comissão Própria de Avaliação; constituição da CPA da Fatec Mococa, 
+respeitando a representatividade prevista pelo MEC; elaboração dos questionários destinados a todos 
+os segmentos da comunidade interna da Unidade, em sintonia com a CPA Central do Centro Paula Souza; 
+aplicação dos questionários, com realização de sensibilização junto à comunidade interna para sua 
+efetiva participação; análises, tabulação, organização e tratativas estatísticas dos dados coletados a 
+partir dos questionários aplicados; elaboração do relatório final da CPA 2024. 
+Por que será feito: 
+Atendimento às exigências legais do ensino superior; servir de fonte para a elaboração do PDI – Plano 
+de Desenvolvimento Institucional e do PGA – Plano de Gestão Anual das Atividades a serem realizadas 
+pela Unidade; ter a visão da comunidade interna da Unidade a respeito das principais dificuldades, 
+anseios, necessidades, opiniões sobre os serviços e atividades ofertadas pela Unidade; desmistificar a 
+CPA – Comissão Própria de Avaliação, junto ao corpo docente, técnico administrativo e discente da 
+Unidade; preparar o corpo discente, docente e técnico-administrativo para sua efetiva participação no 
+período de disponibilização dos questionários a serem respondidos; contribuir para um bom CPC – 
+Conceito Preliminar de Curso, que um indicador de qualidade que o MEC avalia os cursos de graduação; 
+Melhorar o desempenho dos Cursos Superiores de Tecnologia da Fatec Mococa junto ao SINAES – 
+Sistema Nacional de Avaliação do Ensino Superior. 
+Responsável: 
+Juliana Gisele da Silva Nalle (Presidente CPA)  
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+Maria Betânia Darcie Delgado (Representante Docente) 
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+02/02/2024 
+Data final: 
+10/12/2024 
+Etapas do processo: 
+Apresentação dos resultados do relatório da CPA 2023 para a comunidade 
+acadêmica  
+02/02 
+31/03 
+ 
+Postagem do Relatório CPA 2023 no Sistema e-MEC 
+01/03 
+31/03 
+ 
+Reuniões com os representantes dos alunos, funcionários e professores para 
+sensibilização sobre a importância do processo de autoavaliação 
+01/04 
+31/07 
+ 
+Supervisão do processo de sensibilização da Comunidade Interna para o 
+preenchimento do questionário Websai 
+01/08 
+30/09 
+ 
+Acompanhamento do processo de coleta de respostas da comunidade interna 
+01/10 
+31/10 
+ 
+Análise, organização e tabulação dos dados obtidos nos questionários 
+aplicados; 
+01/11 
+30/11 
+ 
+Elaboração do relatório final da CPA 2024 
+01/11 
+30/11 
+ 
+Entrega do relatório CPA 2024 à Coordenadoria Pedagógica Regional 
+01/12 
+10/12 
+Custo R$ (se houver): 
+Sem Custo 
+Fonte(s) dos recursos: 
+Centro Paula Souza 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.99 - Outra 
+ 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+107 - cat 1.11 - Ações de nivelamento de conhecimento, ENADE, acolhimento e permanência discente. 
+Origem: 
+3-Outra 
+O que será feito: 
+Proposta para a conscientização a comunidade discente e docente da relevância e obrigatoriedade do 
+ENADE – Exame Nacional de Desempenho dos Estudantes; apresentação da estrutura geral avaliativa do 
+ENADE, bem como os tipos de questões usualmente presentes nesse exame; criar um banco de questões 
+de provas ENADE aplicadas em anos anteriores, para ficar à disposição de alunos e professores para 
+consulta;  
+Incentivar o corpo docente em realizar atividades inspiradas nas questões presentes no ENADE, visando 
+sua ambientação quando o corpo discente deverá realizar tal exame. 
+Por que será feito: 
+Desmistificar o ENADE - Exame Nacional de Desempenho dos Estudantes, junto ao corpo docente e 
+discente da Unidade; preparar o corpo discente para a realização da prova ENADE, aumentando as 
+chances de um bom desempenho; contribuir para a Visibilidade Institucional da Fatec Mococa junto ao 
+INEP; contribuir para um bom CPC – Conceito Preliminar de Curso, que um indicador de qualidade que 
+o MEC avalia os cursos de graduação; melhorar o desempenho dos Cursos Superiores de Tecnologia da 
+Fatec Mococa junto ao SINAES – Sistema Nacional de Avaliação do Ensino Superior. 
+Responsável: 
+Luis Marcelo Bortolotti – Coord. do CST em Gestão da 
+Tecnologia da Informação; Tarcísio Jorge Bezerra – Coord. 
+do CST em Análise e Desenvolvimento de Sistemas; 
+Qde CH/sem: 
+2 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+Jaciara Silva Carosia 
+Qde CH/sem: 
+01 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+19/02/2024 
+Data final: 
+30/10/2024 
+Etapas do processo: 
+Levantamento de avaliações anteriores do ENADE que envolvem os cursos 
+ofertados pela Fatec Mococa que farão o ENADE 2024. 
+19/02 
+30/03 
+ 
+Estruturação de banco de questões dos cursos da Fatec Mococa que farão o 
+ENADE 2024. 
+01/04 
+30/05 
+ 
+Elaboração de material bibliográfico sobre as diretrizes do ENADE, sua 
+estrutura avaliativa, importância para os cursos da Fatec Mococa; 
+01/04 
+30/06 
+ 
+Socialização do material didático junto ao corpo docente dos cursos que farão 
+ENADE 2024. 
+01/05 
+30/08 
+ 
+Desenvolvimento da capacitação e treinamento em sala de aula, em acordo 
+com a Coordenação e docente, para turmas próximas que desenvolverão o 
+ENADE. 
+01/10 
+30/10 
+Custo R$ (se houver): 
+Sem Custo 
+Fonte(s) dos recursos: 
+Centro Paula Souza 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.99 - Outra 
+ 
+ 
+02 – Laboratórios - Ensino e Equipamentos Associados 
+Ações para melhoramento dos laboratórios de Ensino (Gestão e Equipamentos): Melhoramento de 
+equipamentos, mediante instalação, manutenção, desuso, doação, e gestão de ambiente laboratorial. 
+ 
+AÇÃO/PROJETO (Tema) 
+201 - cat 2.02 - Laboratório informática - implantação/melhoramento com recursos PEDAGÓGICOS 
+Origem: 
+2-CPA (Relatório da Comissão Própria de Avaliação da Unidade) 
+O que será feito: 
+Proposta para mapeamento de Máquinas Antigas e Obsoletas muitas vezes utilizados por 
+algumas disciplinas, que constantemente travam e/ou causam a lentidão; reutilização das 
+Máquinas Antigas e Obsoletas que porventura ainda possam ser utilizadas para alguma outra 
+finalidade, sem prejuízo didático ou administrativo; estudo das especificações técnicas de 
+computadores e/ou notebooks que possam atender os conteúdos programáticos ensinados nas 
+diversas disciplinas dos cursos de TI da Unidade; elaboração de uma solicitação de compras de 
+computadores e/ou notebooks para a renovação / modernização dos laboratórios de informática 
+da Unidade. 
+Por que será feito: 
+Os computadores existentes em alguns laboratórios são antigas e completamente ultrapassados, 
+não conseguindo atender as demandas computacionais necessárias ao desenvolvimento das 
+disciplinas; supressão de prejuízos didático-pedagógicos oriundos da lentidão do processamento 
+de informações de alguns aplicativos e programas, em virtude de a arquitetura do computador 
+ser muito antiga e incompatível com as exigências dos softwares; evitar transtornos e atrasos em 
+aula devido a incompatibilidade dos sistemas, processadores e arquiteturas de computador, 
+podendo assim prejudicar o ensino e consequentemente a exposição e cumprimento do 
+conteúdo curricular previsto nos planos de ensino de cada disciplina que necessite de usar algum 
+laboratório de informática; necessidade de modernização dos computadores para a manutenção 
+da qualidade do ensino praticado nas disciplinas do curso 
+Responsável: 
+Tarcísio José Bezerra 
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): Nilson Santos – Técnico Administrativo responsável pela 
+infraestrutura TI  
+Qde CH/sem: 
+10 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): Luís Marcelo Bortolotti – Coord. CST em Gestão da 
+Tecnologia da Informação 
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+19/02/2024 
+Data final: 
+20/06/2024 
+Etapas do processo: 
+01- Levantamento das necessidades existentes  
+19/02 
+30/03 
+ 
+02- Verificação das máquinas e equipamentos que atendam a essas 
+necessidades dos Cursos e das diversas disciplinas de uma forma geral 
+19/02 
+30/03/
+mm 
+ 
+03- Discussão com toda a equipe diretiva sobre a real necessidade dos 
+equipamentos, visando a previsibilidade e planejamento do 
+desenvolvimento de toda a estrutura tecnológica a ser requisitada; 
+01/04 
+30/04 
+ 
+04- Reunião para discussão e aprovação dessa solicitação perante 
+apresentação do PGA – Plano de Gestão Anual, na reunião extraordinária 
+da Congregação da Fatec Mococa; 
+01/05 
+30/05 
+ 
+05- Solicitação dos equipamentos ao Centro Paula Souza mediante a 
+entrega inicialmente do PGA – Plano de Gestão Anual. 
+03/06 
+20/06 
+Custo R$ (se houver): 
+R$ 70.000,00 
+Fonte(s) dos recursos: 
+UGAF, Centro Paula Souza 
+Situação problema: 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+(a ser resolvida/mitigada) 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+ 
+AÇÃO/PROJETO (Tema) 
+202 - cat 2.02 - Laboratório informática - implantação/melhoramento com recursos PEDAGÓGICOS 
+Origem: 
+2-CPA (Relatório da Comissão Própria de Avaliação da Unidade) 
+O que será feito: 
+Proposta para o mapeamento da área onde a rede Wireless é insuficiente para as demandas 
+existentes; dimensionamento de aparelhos a serem adquiridos para a supressão dessa deficiência, 
+proporcionando qualidade nas conexões entre equipamentos, sem a necessidade de cabeamento; 
+quantificação dos aparelhos para o atendimento da demanda de conexões Wireless na Unidade, 
+especialmente a área laboratorial da Unidade; elaboração de solicitação de compras dos aparelhos 
+dimensionados com as devidas justificativas; ampliação do sistema de internet wireless para que 
+o sinal de internet possa ocupar e cobrir toda a área e os diversos blocos da Fatec Mococa; 
+Solicitação para aquisição de 15 Access Point com Tecnologia Wave 2 de 802.11ac de quatro 
+fluxos, suportes para mais de 200 usuários simultâneos, Compatibilidade PoE 802.3af, Ambiente 
+Interior, Banda Dupla Simultânea, Taxa de Rádio de 2.4 GHz 300 Mbps, 2,4 GHz MIMO 2x2, Taxa 
+de Rádio de 5 GHz 1733 Mbps, 5 GHz MIMO 4x4, Modo PoE 802.3af PoE, Suporte a WPA2 
+Enterprise. 
+Por que será feito: 
+Melhoria da qualidade dos serviços e atividades desenvolvidas pela Fatec Mococa; manutenção da 
+qualidade das atividades didático-pedagógicas e administrativas realizadas pela Unidade; 
+aumentar a cobertura Wireless da Fatec Mococa, especialmente os laboratórios de informática e 
+suas dependências. Os roteadores atualmente existentes não atendem as demandas existentes, 
+apresentando baixo alcance. Em alguns pontos da Unidade, não existe sinal de internet wireless; 
+viabilização do planejamento de expansão acadêmico e estrutural, cobertura da área construída 
+da Fatec Mococa e suas dependências; melhorar e ampliar a rede de internet wifi para que 
+professores e alunos possam ter acesso a internet de qualidade, favorecendo assim o uso em 
+salas de aulas e espaços alternativos. 
+Responsável: 
+Tarcísio José Bezerra 
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): Nilson Santos – Técnico Administrativo responsável pela 
+infraestrutura TI  
+Qde CH/sem: 
+02 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): Luís Marcelo Bortolotti – Coord. CST em Gestão da 
+Tecnologia da Informação 
+Qde CH/sem: 
+01 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+19/02/2024 
+Data final: 
+20/06/2024 
+Etapas do processo: 
+01- Levantamento das necessidades existentes; 
+19/02 
+30/03 
+ 
+02- Verificação dos equipamentos que atendam a essas necessidades; 
+19/02 
+30/03 
+ 
+03- Discussão com toda a equipe diretiva sobre a real necessidade dos 
+equipamentos, visando a previsibilidade e planejamento do 
+desenvolvimento de toda a estrutura tecnológica a ser requisitada; 
+01/04 
+30/04 
+ 
+04- Reunião para discussão e aprovação dessa solicitação perante 
+apresentação do PGA – Plano de Gestão Anual, na reunião extraordinária 
+da Congregação da Fatec Mococa; 
+01/05 
+30/05 
+ 
+05- Solicitação dos equipamentos ao Centro Paula Souza mediante a 
+entrega do PGA – Plano de Gestão Anual. 
+03/06 
+20/06 
+Custo R$ (se houver): 
+R$ 12.000,00 
+Fonte(s) dos recursos: 
+UGAF, Centro Paula Souza 
+Situação problema: 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+(a ser resolvida/mitigada) 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+ 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+203 - cat. 2.99 - Outra 
+Origem: 
+3-Outra 
+O que será feito: 
+Proposta para o mapeamento dos locais que necessitam de impressora multifuncional 
+monocromática na Fatec Mococa; dimensionamento de aparelhos a serem adquiridos para a 
+supressão dessa deficiência, proporcionando qualidade nos processos administrativos e de 
+ensino-aprendizagem; quantificação dos aparelhos para o atendimento da demanda de 
+Impressora Laser Multifuncional Monocromática na Unidade; elaboração de solicitação de 
+compras dos aparelhos dimensionados com as devidas justificativas; 
+Por que será feito: 
+Melhoria da qualidade dos serviços e atividades desenvolvidas pela Fatec Mococa; manutenção 
+da qualidade das atividades didático-pedagógicas e administrativas realizadas pela Unidade; 
+ampliação do sistema de impressão da Unidade para que todos os setores tenham uma 
+impressora que possa atender a demanda de serviços da Fatec Mococa, economicidade de verba 
+pública e otimização dos recursos disponíveis; melhorar a qualidade da impressão, ampliação e 
+otimização dos serviços, evitando gastos excessivos, lentidão, atrasos e retrabalho. 
+Responsável: 
+Tarcísio José Bezerra 
+Qde CH/sem: 
+01 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): Nilson Santos  
+Qde CH/sem: 
+04 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): Jaciara Silva Carosia – Coord. do CST em 
+Desenvolvimento de Sistemas – AMS   
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+10/02/2024 
+Data final: 
+20/06/2024 
+Etapas do processo: 
+01- Levantamento das necessidades existentes; 
+10/02 
+30/03 
+ 
+02- Verificação dos equipamentos que atendam a essas necessidades de 
+professores e funcionários de nossa Unidade; 
+19/02 
+30/03 
+ 
+03- Discussão com toda a equipe diretiva sobre a real necessidade dos 
+equipamentos, visando a previsibilidade e planejamento do 
+desenvolvimento de toda a estrutura tecnológica a ser requisitada; 
+01/04 
+30/04 
+ 
+04- Reunião para discussão e aprovação dessa solicitação perante 
+apresentação do PGA – Plano de Gestão Anual, na reunião extraordinária 
+da Congregação da Fatec Mococa. 
+01/05 
+30/05 
+ 
+05- Solicitação de equipamentos ao Centro Paula Souza mediante PGA – 
+Plano de Gestão Anual. 
+03/06 
+20/06 
+Custo R$ (se houver): 
+Sem custo  
+Fonte(s) dos recursos: 
+HAE - Centro Paula Souza 
+Situação problema: 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+(a ser resolvida/mitigada) 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+03 – Pesquisa / Extensão e Equipamentos Associados 
+Ações para melhoramento dos laboratórios que contemplam Pesquisa além do Ensino (Equipamentos): 
+melhoramento dos espaços de pesquisa, que inclui especificação equipamentos e aquisição por fomento ou por 
+projeto com empresa, e também prestação de serviços no campo tecnológico para instituições e empresas. 
+ 
+AÇÃO/PROJETO (Tema) 
+301 - cat 3.01 - Cursos de Extensão 
+Origem: 
+3-Outra 
+O que será feito: 
+Curso de Gestão Ambiental Sustentável 
+Por que será feito: 
+Conscientizar a comunidade sobre a importância de se realizar uma Gestão Sustentável do Meio 
+Ambiente; motivar a comunidade a praticar/adotar hábitos e ações que contribuam para 
+conservação do meio ambiente no qual ela se encontra inserida; proporcionar conceitos 
+complementares a comunidade discente, docente e técnico-administrativa sobre a importância 
+da Gestão Ambiental atualmente; capacitação técnica da comunidade acadêmica no Sistema de 
+Gestão Ambiental. 
+Responsável: 
+Odila Rigolim de Sá  
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+19/02/2024 
+Data final: 
+05/06/2024 
+Etapas do processo: 
+01- Levantamento do conhecimento prévio dos estudantes  
+19/02 
+29/02 
+ 
+02- Apresentação de pequenos vídeos  
+01/03 
+30/03 
+ 
+03- Exposição oral / dialogada  
+01/03 
+30/04 
+ 
+04- Discussões, debates e questionamentos  
+01/03 
+29/06 
+ 
+05- Atividades escritas individuais e em grupos; 
+01/03 
+29/06 
+ 
+06- Apresentações dos trabalhos realizados pelos alunos  
+17/06 
+29/06 
+ 
+07- Relatório Final 
+20/06 
+05/06 
+Custo R$ (se houver): 
+Sem Custos 
+Fonte(s) dos recursos: 
+HAE - Centro Paula Souza 
+Situação problema: 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+(a ser resolvida/mitigada) 
+cat 0.1.08 - Participação da comunidade e sociedade 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+302 - cat 3.04 - Pesquisa e Extensão em andamento - RJI 
+Origem: 
+3-Outra 
+O que será feito: 
+Realização de Projeto de Pesquisa RJI ligada ao Agronegócio; contribuições para o crescimento do 
+agronegócio no município de Mococa (SP); envolvimento de estudantes dos cursos da Fatec 
+Mococa em pesquisa científica; caracterização da produção e qualidade dos produtos da 
+agricultura familiar de Mococa e região; visitas Técnicas a locais associados ao escopo da 
+pesquisa para coleta de dados e informações; reuniões com gestores públicos e privados 
+inerentes ao objeto de pesquisa para parcerias, orientações, encaminhamentos, toma de 
+decisões; 
+Por que será feito: 
+Contribuir para a melhoria dos processos produtivos no campo; contribuir para a melhoria da 
+cadeia de merenda escolar no município de Mococa; contribuir para a melhoria da garantia da 
+qualidade dos produtos para a comercialização e consumo de cadeias produtivas importantes 
+para a agricultura familiar; contribuir para a continuidade de agregação de valores a empresas 
+ligadas a agricultura familiar de Mococa e região, auxiliando a garantia da qualidade dos produtos 
+produzidos e comercializados; 
+Responsável: 
+Mirina Luiza Myczkowski Gomes 
+Qde CH/sem: 
+25 
+Tipo: 
+HP - Hora em Projeto 
+de Pesquisa 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/02/2024 
+Data final: 
+31/12/2124 
+Etapas do processo: 
+01- Levantamento das cadeias produtivas como alternativas de produção; 
+01/02 
+31/10 
+ 
+02- Reuniões com os responsáveis pelo programa da merenda escolar pela 
+prefeitura e com os representantes da associação de produtores; 
+01/02 
+01/08 
+30/04 
+30/10 
+ 
+03- Visitas ao depósito de armazenamento de alimentos da merenda 
+escolar 
+01/02 
+30/11 
+ 
+04- Cursos de capacitação e ações com professores parceiros; 
+01/09 
+30/11 
+ 
+05- Visitas técnicas aos produtores para avaliação de diversificação de 
+produção; 
+01/08 
+30/09 
+ 
+06- Análises conclusivas a partir dos dados coletados dentro da cadeia 
+produtiva em estudo; 
+01/10 
+30/11 
+ 
+07- Entrega e discussão dos principais resultados pertinentes às parcerias 
+01/11 
+31/12 
+ 
+08- Elaboração do relatório final à CPRJI e Divulgação dos resultados; 
+01/11 
+31/12 
+Custo R$ (se houver): 
+Sem Custos 
+Fonte(s) dos recursos: 
+RJI, Centro Paula Souza 
+Situação problema: 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+(a ser resolvida/mitigada) 
+cat 0.1.08 - Participação da comunidade e sociedade 
+ 
+ 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+303 - cat 3.04 - Pesquisa e Extensão em andamento - RJI 
+Origem: 
+3-Outra 
+O que será feito: 
+Mineração de dados associados a produção de avícolas em Mococa e região; avaliação 
+comparativa entre dois sistemas de criação de frangos de corte; 
+Introdução de novas ferramentas computacionais para a análise de dados; 
+Estudar, através da mineração de dados coletados, como as variáveis térmicas, aéreas e acústicas 
+influenciam na conversão alimentar, ganho de peso, mortalidade e presença de podo dermatite 
+de frangos de corte criados nos sistemas Convencional e Dark House. 
+Por que será feito: 
+Aumento da Visibilidade Institucional da Fatec Mococa; possibilidade de parcerias entre a Fatec 
+Mococa e empresas ligadas a produção e comercialização de avícolas; contribuir para a melhoria 
+dos processos produtivos na criação de frangos de corte; contribuir para a melhoria da garantia 
+da qualidade dos produtos para a comercialização e consumo de frangos de corte; contribuir 
+para a continuidade de agregação de valores a empresas ligadas a frangos de corte de Mococa e 
+região, auxiliando a garantia da qualidade dos produtos produzidos e comercializados; 
+Responsável: 
+Yamilia Barrios Tolon  
+Qde CH/sem: 
+28 
+Tipo: 
+HP - Hora em Projeto 
+de Pesquisa 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/02/2024 
+Data final: 
+31/12/2024 
+Etapas do processo: 
+01- Revisão bibliográfica; 
+01/02 
+31/12 
+ 
+02- Instalação dos equipamentos nos galpões de criação 
+01/02 
+31/12 
+ 
+03- Levantamento de dados ambientais e produtivos; 
+01/02 
+31/12 
+ 
+04- Análise dos dados; 
+01/10 
+31/12 
+ 
+05- Confecção e entrega do relatório da pesquisa; 
+01/11 
+31/12 
+ 
+06- Confecção de artigo científico para publicação em eventos. 
+01/11 
+31/12 
+Custo R$ (se houver): 
+Sem Custos 
+Fonte(s) dos recursos: 
+RJI, Centro Paula Souza 
+Situação problema: 
+cat 0.1.08 - Participação da comunidade e sociedade 
+(a ser resolvida/mitigada) 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+304 - cat 3.04 - Pesquisa e Extensão em andamento - RJI 
+Origem: 
+3-Outra 
+O que será feito: 
+Utilização da Linguagem de programação Python e de bibliotecas de computação científica, 
+matemática e estatística, aplicada às disciplinas da área de economia e finanças na educação 
+profissional e tecnológica; elaboração de gráficos que possam ser aplicados para a codificação e 
+solução de problemas concretos nas disciplinas da área de economia e finanças. 
+Por que será feito: 
+Aumento da Visibilidade Institucional da Fatec Mococa; possibilidade de parcerias entre a Fatec 
+Mococa e empresas ligadas a economia e finanças; aumento da quantidade de trabalhos de 
+graduação e iniciação científica na Fatec Mococa; contribuir para a atualização do processo 
+educacional dos cursos tecnológicos de forma a desenvolver novas competências nos estudantes 
+e gerar egressos mais aderentes às novas necessidades do mercado de trabalho. 
+Responsável: 
+<nome> Darlan Marcelo Delgado 
+Qde CH/sem: 
+25 
+Tipo: 
+HP - Hora em Projeto 
+de Pesquisa 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+19/02/2024 
+Data final: 
+29/06/2024 
+Etapas do processo: 
+01- Instalação de equipamentos; 
+19/02 
+29/02 
+ 
+02- Levantamento de dados; 
+04/03 
+30/03 
+ 
+03- Análise dos dados; 
+01/04 
+31/05 
+ 
+04- Confecção e entrega do relatório; 
+03/06 
+29/06 
+ 
+05- Confecção de artigo científico para publicação em eventos. 
+03/06 
+29/06 
+Custo R$ (se houver): 
+Sem Custos 
+Fonte(s) dos recursos: 
+RJI, Centro Paula Souza 
+Situação problema: 
+cat 0.1.08 - Participação da comunidade e sociedade 
+(a ser resolvida/mitigada) 
+cat 0.1.08 - Participação da comunidade e sociedade 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+305 - cat 3.02 - Desenvolvimento de Projetos de IC - MDITI 
+Origem: 
+3-Outra 
+O que será feito: 
+Desenvolvimento de Projeto de IC sobre o Teletrabalho, suas consequências e tendências. 
+Por que será feito: 
+A necessidade de isolamento social imposta pela pandemia de Covid-19 entre os anos de 2020 a 
+2022, impulsionou o uso do teletrabalho nas mais diversas atividades (desde atividades laborais, 
+assim como educacionais, sociais, culturais, artísticas etc.) e mudou a configuração das relações 
+humanas a partir de então. Nesse momento, as relações de trabalho se adaptaram 
+contingencialmente e aspectos como legislação trabalhista, qualidade de vida no trabalho, saúde 
+ocupacional, relações interpessoais entre outros foram relegados a segundo plano a fim de atender 
+as necessidades prementes. A literatura da área de Gestão de Recursos Humanos e áreas 
+subjacentes não estava preparada para atender a esta nova realidade. Nesse sentido é premente 
+a compreensão deste fenômeno que ganha novos contornos nas organizações e ainda não está 
+totalmente compreendido pela ciência administrativa. Necessita-se de pesquisa que contribuam 
+para a formação deste novo arcabouço que será fundamental para o desenvolvimento das relações 
+de trabalho. 
+Responsável: 
+Claudionei Nalle Jr – Coord. CST em Gestão de Recursos 
+Humanos 
+Qde CH/sem: 
+04 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): Bruna Helena Siqueira de Assis – Discente do CST em 
+Gestão de Recursos Humanos 
+Qde CH/sem: 
+08 
+Tipo: 
+HP - Hora em Projeto 
+de Pesquisa 
+Período de execução: 
+Data inicial: 
+19/02/2024 
+Data final: 
+29/06/2024 
+Etapas do processo: 
+Levantamento e revisão de literatura; 
+19/02 
+29/02 
+ 
+Plano de pesquisa; 
+04/03 
+30/03 
+ 
+Coleta dos dados; 
+01/04 
+31/05 
+ 
+Análise dos dados; 
+03/06 
+29/06 
+ 
+Confecção de Relatório 
+03/06 
+29/06 
+Custo R$ (se houver): 
+Bolsa de MIDTI 
+Fonte(s) dos recursos: 
+   Centro Paula Souza 
+Situação problema: 
+cat 0.1.08 - Participação da comunidade e sociedade 
+(a ser resolvida/mitigada) 
+cat 0.1.08 - Participação da comunidade e sociedade 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+04 – Atividades Formativas em Projetos (nível tático) 
+Projetos institucionais formativos não especificados em PEs: Rede de tecnologia, Novotec, PCI, Projetos 
+estudantis (Baja, Aerodesign, entre outros) 
+ 
+AÇÃO/PROJETO (Tema) 
+401 - cat 4.04 - Projetos estudantis diversos 
+Origem: 
+3-Outra 
+O que será feito: 
+Desenvolver um Plano de Negócio ligado a Agricultura, sob a supervisão do professor responsável 
+pela disciplina Projeto de Agronegócio I, do Curso Superior de Tecnologia em Agronegócio da 
+Fatec Mococa; elaborar um Plano de Negócios na Agricultura, utilizando a metodologia ativa da 
+AAP – Atividade Autônoma de Projetos, apresentando-o no final do semestre letivo; realizar 
+estudos sobre empreendedorismo e projetos de negócios na agricultura: diagnóstico, estudo de 
+mercado, aplicando esses conceitos no Plano de Negócios ligados à Agricultura, cujo tema é de 
+livre escolha dos alunos matriculados na componente curricular; elaborar um Plano Estratégico 
+de Negócios contendo: Orçamentos, viabilidade: econômica, financeira, ambiental, social e 
+política. 
+Por que será feito: 
+Atendimento das exigências legais do Curso Superior de Tecnologia em Agronegócio da Fatec 
+Mococa; aumento da Visibilidade Institucional da Fatec Mococa; possibilidade de parcerias com 
+empresas públicas e privadas de Mococa e Região, através da elaboração de plano de negócios 
+de empresas; possibilidade de aproveitamento dos projetos desenvolvidos em futuros trabalhos 
+de graduação e projetos de iniciação científica ou tecnológica da Fatec Mococa; capacitação dos 
+alunos de agronegócio na elaboração de Plano Estratégico de Negócios, conceito importante 
+para o futuro exercício profissional; fortalecimento da pesquisa regional na área de Agronegócio 
+e da aplicação de plano estratégico de negócios, seu gerenciamento e controle das ações 
+planejadas e executadas. 
+Responsável: 
+Ieoschua Katz  
+Qde CH/sem: 
+12 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+19/02/2024 
+Data final: 
+06/07/2024 
+Etapas do processo: 
+01- Apresentação da Ementa do Curso e das Dinâmicas da Disciplina 
+Projeto de Agronegócio - AAP I, II e II; 
+19/02 
+24/02 
+ 
+02- Divisão dos Estudantes da disciplina em grupos de trabalho; 
+19/02 
+24/02 
+ 
+03- Atividades e Metodologias de Ensino Aprendizagem associadas a 
+Empreendedorismo e projetos de negócios na agricultura; 
+26/02 
+29/06 
+ 
+04- Plano estratégico: orçamentos, viabilidade: econômica, financeira, 
+ambiental, social e política; 
+26/02 
+29/06 
+ 
+05- Gerenciamento e controle das ações planejadas e executadas no plano 
+estratégico ligado a agricultura; 
+19/02 
+20/06 
+ 
+06- Desenvolvimento do Trabalho referente ao Projeto de Agronegócio I 
+01/06 
+29/06 
+ 
+07- Apresentação dos Projetos desenvolvidos pelos alunos. 
+01/07 
+06/07 
+Custo R$ (se houver): 
+Sem C ustos 
+Fonte(s) dos recursos: 
+Centro Paula Souza 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+ 
+ 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+402 - cat 4.01 - Projeto de Rede de tecnologia 
+Origem: 
+2-CPA (Relatório da Comissão Própria de Avaliação da Unidade) 
+O que será feito: 
+Desenvolver um Projeto de Tecnologia da Informação, sob a supervisão do professor responsável 
+pela disciplina Projeto de Tecnologia da Informação I, do Curso Superior de Tecnologia em Gestão 
+de TI da Fatec Mococa; elaborar um Projeto de Tecnologia da Informação, utilizando a 
+metodologia ativa da AAP – Atividade Autônoma de Projetos, apresentando-o no final do 
+semestre letivo; realizar estudos sobre Tecnologia da Informação aplicado a empresas, cujo tema 
+é de livre escolha dos alunos matriculados na componente curricular; apresentar o Projeto de 
+Tecnologia da Informação perante a uma Banca Examinadora; 
+Por que será feito: 
+Atendimento das exigências legais do Curso Superior de Tecnologia em Tecnologia da Informação 
+da Fatec Mococa; aumento da Visibilidade Institucional da Fatec Mococa; possibilidade de 
+parcerias com empresas públicas e privadas de Mococa e Região, através da elaboração de 
+Projeto de Tecnologia de Informação aplicada a empresas; possibilidade de aproveitamento dos 
+projetos desenvolvidos em futuros trabalhos de graduação e projetos de iniciação científica ou 
+tecnológica da Fatec Mococa; capacitação dos alunos de gestão de TI na elaboração de Projetos 
+de TI, conceito importante para o futuro exercício profissional; fortalecimento da pesquisa 
+regional na área de Tecnologia da Informação, com a possibilidade de transformar as ideias 
+apresentadas em futuras startups ou pequenas empresas; 
+Responsável: 
+Renato de Oliveira Violin - Docente 
+Qde CH/sem: 
+02 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+19/02/2024 
+Data final: 
+06/07/2024 
+Etapas do processo: 
+01- Apresentação da Ementa do Curso e das Dinâmicas da Disciplina 
+Projeto de Tecnologia da Informação 
+19/02 
+24/02 
+ 
+02- Divisão dos Estudantes da disciplina em grupos de trabalho; 
+19/02 
+24/02 
+ 
+03- Desenvolvimento do Trabalho referente ao Projeto de Tecnologia da 
+Informação 
+26/02 
+29/06 
+ 
+04- Apresentação dos Projetos desenvolvidos pelos alunos. 
+01/06 
+06/07 
+Custo R$ (se houver): 
+Sem Custos 
+Fonte(s) dos recursos: 
+Centro Paula Souza  
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+ 
+ 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+403 - cat 4.04 - Projetos estudantis diversos 
+Origem: 
+3-Outra 
+O que será feito: 
+Desenvolver um Projeto Diagnóstico de situação comportamental de uma organização real, sob a 
+supervisão do professor responsável pela disciplina Comportamento Organizacional, do Curso 
+Superior de Tecnologia em Gestão Empresarial da Fatec Mococa; Elaborar um Projeto 
+Diagnóstico de Situação Comportamento de Empresas, utilizando a metodologia ativa da AAP – 
+Atividade Autônoma de Projetos, apresentando-o no final do semestre letivo; realizar estudos 
+sobre comportamento humano em empresas, cujo tema é de livre escolha dos alunos 
+matriculados na componente curricular; apresentar o Projeto Diagnóstico de situação 
+comportamental de uma organização real no final do semestre letivo; 
+Por que será feito: 
+Atendimento das exigências legais do Curso Superior de Tecnologia em Gestão Empresarial da 
+Fatec Mococa; aumento da Visibilidade Institucional da Fatec Mococa; possibilidade de parcerias 
+com empresas públicas e privadas de Mococa e Região, através da elaboração de Projeto de 
+Comportamento Organizacional aplicada a empresas; possibilidade de aproveitamento dos 
+projetos desenvolvidos em futuros trabalhos de graduação e projetos de iniciação científica ou 
+tecnológica da Fatec Mococa; capacitação dos alunos de gestão empresarial elaboração de 
+Projetos de Comportamento Organizacional, conceito importante para o futuro exercício 
+profissional; 
+Responsável: 
+<nome> Profa. Juliana Gisele da Silva Nalle 
+Qde CH/sem: 
+04 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+19/02/2024 
+Data final: 
+06/07/2024 
+Etapas do processo: 
+01- Apresentação da Ementa do Curso e das Dinâmicas da Disciplina 
+Comportamento Organizacional – AAP (Atividades Autônoma de Projetos); 
+19/02 
+24/02 
+ 
+02- Divisão dos Estudantes da disciplina em grupos de trabalho;  
+19/02 
+24/02 
+ 
+03- Desenvolvimento do Trabalho referente ao Projeto de Diagnóstico de 
+situação comportamental de uma organização real; 
+26/02 
+29/06 
+ 
+04- Apresentação dos Projetos desenvolvidos pelos alunos. 
+01/07 
+06/07 
+Custo R$ (se houver): 
+Sem Custo  
+Fonte(s) dos recursos: 
+Centro Paula Souza  
+Situação problema: 
+cat 0.1.10 - Gestão da unidade de ensino e dos cursos (indicadores) 
+(a ser resolvida/mitigada) 
+cat 0.1.10 - Gestão da unidade de ensino e dos cursos (indicadores) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+404 - cat 4.04 - Projetos estudantis diversos 
+Origem: 
+3-Outra 
+O que será feito: 
+Desenvolver um Plano de Negócios Empresarial, sob a supervisão do professor responsável pela 
+disciplina Desenvolvimento de Negócios, do Curso Superior de Tecnologia em Gestão Empresarial 
+da Fatec Mococa; elaborar um Plano de Negócios Empresarial aplicado a organizações, utilizando 
+a metodologia ativa da AAP – Atividade Autônoma de Projetos, apresentando-o no final do 
+semestre letivo; realizar estudos sobre Planejamento de Negócios em empresas, cujo tema é de 
+livre escolha dos alunos matriculados na componente curricular; apresentar o Plano de Negócios 
+aplicado a empresas no Final do Semestre Letivo; 
+Por que será feito: 
+Atendimento das exigências legais do Curso Superior de Tecnologia em Gestão Empresarial da 
+Fatec Mococa; aumento da Visibilidade Institucional da Fatec Mococa; possibilidade de parcerias 
+com empresas públicas e privadas de Mococa e Região, através da elaboração de Plano de 
+Negócios aplicada a empresas; possibilidade de aproveitamento dos projetos desenvolvidos em 
+futuros trabalhos de graduação e projetos de iniciação científica ou tecnológica da Fatec Mococa; 
+Capacitação dos alunos de gestão empresarial elaboração de Plano de Negócios, conceito 
+importante para o futuro exercício profissional; 
+Responsável: 
+Camila do Nascimento Cultri. 
+Qde CH/sem: 
+04 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+19/02/2024 
+Data final: 
+06/07/2024 
+Etapas do processo: 
+01- Apresentação da Ementa do Curso e das Dinâmicas da Disciplina 
+Desenvolvimento de Negócios – AAP (Atividades Autônoma de Projetos); 
+19/02 
+24/02 
+ 
+02- Divisão dos Estudantes da disciplina em grupos de trabalho; 
+19/02 
+24/02 
+ 
+03- Desenvolvimento do Trabalho referente a Plano de Negócios aplicado a 
+organizações; 
+19/02 
+29/02 
+ 
+04- Apresentação dos Projetos desenvolvidos pelos alunos. 
+01/07 
+06/07 
+Custo R$ (se houver): 
+Sem Custo  
+Fonte(s) dos recursos: 
+Centro Paula Souza 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+ 
+ 
+ 
+ 
+05 – Infraestrutura (instalações prediais) 
+Projetos de manutenção e melhoramento predial voltados à segurança (física e sanitária) e preservação do 
+patrimônio: Reparação predial (civil, elétrica, dados), novas instalações prediais. 
+ 
+AÇÃO/PROJETO (Tema) 
+501 - cat 5.03 - Material Infraestrutura/equipamentos 
+Origem: 
+2-CPA (Relatório da Comissão Própria de Avaliação da Unidade) 
+O que será feito: 
+Será criada uma entrada independente para a Fatec Mococa 
+Por que será feito: 
+Facilitar o fluxo de veículos e pessoas que tem como única opção a saída conjunta da Fatec pela 
+saída da Etec João Baptista de Lima Figueiredo. 
+Responsável: 
+Adriano Dias de Carvalho 
+Qde CH/sem: 
+04 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+19/02/2024 
+Data final: 
+29/06/2024 
+Etapas do processo: 
+01- Estruturação da viabilidade  
+19/02 
+15/03 
+ 
+02- Apresentação de Projeto ao Centro Paula Souza  
+18/03 
+30/03 
+ 
+03- Solicitação da entrada própria de veículos; 
+01/04 
+12/04 
+ 
+04- Execução da Obra 
+22/04 
+29/06 
+Custo R$ (se houver): 
+A ser licitado 
+Fonte(s) dos recursos: 
+Centro Paula Souza 
+Situação problema: 
+cat 0.1.02 - Manutenção e conservação predial 
+(a ser resolvida/mitigada) 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+502 - cat 5.03 - Material Infraestrutura/equipamentos 
+Origem: 
+3-Outra 
+O que será feito: 
+Será reformada toda cerca e alambrados do Campus Fatec e Etecs 
+Por que será feito: 
+Evitar roubos como já acontecidos em laboratórios, aumentar a segurança interna devido a 
+limitação existente no número de seguranças terceirizados. 
+Responsável: 
+Adriano Dias de Carvalho 
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+29/02/2024 
+Data final: 
+29/06/2024 
+Etapas do processo: 
+01- Estruturação da viabilidade 
+19/02 
+15/03 
+ 
+02- Apresentação de Projeto ao Centro Paula Souza 
+18/03 
+30/03 
+ 
+03- Solicitação da manutenção alambrados; 
+01/04 
+12/04 
+ 
+04- Execução da Obra 
+22/04 
+29/06 
+Custo R$ (se houver): 
+A ser licitado 
+Fonte(s) dos recursos: 
+Centro Paula Souza 
+Situação problema: 
+cat 0.1.02 - Manutenção e conservação predial 
+(a ser resolvida/mitigada) 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+ 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+503 - cat 5.07 - Construção de edificações 
+Origem: 
+2-CPA (Relatório da Comissão Própria de Avaliação da Unidade) 
+O que será feito: 
+Será criada mais um Bloco de salas de aulas com auditório 
+Por que será feito: 
+Aumento dos Cursos existentes e realização de eventos internos. 
+Responsável: 
+Adriano Dias de Carvalho  
+Qde CH/sem: 
+01 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+19/02/2024 
+Data final: 
+20/12/2024 
+Etapas do processo: 
+01- Estruturação da viabilidade  
+19/02 
+15/03 
+ 
+02- Apresentação de Projeto ao Centro Paula Souza  
+18/03 
+30/03 
+ 
+03- Solicitação do novo Bloco; 
+01/04 
+12/04 
+ 
+04- Execução da Obra  
+22/04 
+20/12 
+Custo R$ (se houver): 
+A ser licitado 
+Fonte(s) dos recursos: 
+Centro Paula Souza 
+Situação problema: 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+(a ser resolvida/mitigada) 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+ 
+ 
+ 
+ 
+ 
+06 - Desenvolvimento de pessoas (docentes e servidores) 
+Formação continuada de docentes e servidores, associadas às competências gerais e específicas de suas 
+atividades: Metodologias de ensino, Tecnologias educacionais, Sistemas (processos, procedimentos, plataformas 
+computacionais) acadêmicos e pedagógicos. 
+ 
+AÇÃO/PROJETO (Tema) 
+601 - cat 6.01 - Curso/Oficina/Capacitação/ Treinamento/ Palestra/Reunião/Encontro 
+Origem: 
+3-Outra 
+O que será feito: 
+IX SIPAT Fatec Mococa (Definição do tema, temáticas abordadas e convidados inerentes à SIPAT; 
+convite a comunidade interna da Fatec Mococa a participação na SIPAT; realização de Palestras 
+sobre saúde e prevenção de acidentes no ambiente de trabalho; disseminação de conhecimentos 
+básicos em primeiros socorros e combate a incêndio). 
+Por que será feito: 
+Atendimento a legislação trabalhista em vigor; atividade obrigatória para todas as Comissões 
+Internas de Prevenção de Acidentes (CIPA); redução das doenças ocupacionais e dos riscos de 
+ocorrências de acidente de trabalho; prevenção de doenças ocupacionais e acidentes no 
+ambiente de trabalho. 
+Responsável: 
+Myriam de Syllos 
+Qde CH/sem: 
+01 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/03/2024 
+Data final: 
+30/05/2024 
+Etapas do processo: 
+01- Planejamento do evento  
+01/03 
+24/03 
+ 
+02- Organização e divulgação do evento  
+24/04 
+12/05 
+ 
+03- Realização da IX SIPAT da Fatec Mococa  
+15/05 
+19/05 
+ 
+04- Emissão dos certificados e relatório final  
+22/05 
+30/05 
+Custo R$ (se houver): 
+ Sem Custos 
+Fonte(s) dos recursos: 
+Centro Paula Souza 
+Situação problema: 
+cat 0.1.13 - Relacionamento interpessoal da equipe 
+(a ser resolvida/mitigada) 
+cat 0.1.13 - Relacionamento interpessoal da equipe 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+602 - cat 6.01 - Curso/Oficina/Capacitação/ Treinamento/ Palestra/Reunião/Encontro 
+Origem: 
+2-CPA (Relatório da Comissão Própria de Avaliação da Unidade) 
+O que será feito: 
+Curso de Capacitação para corpo Técnico-Administrativo da Fatec Mococa.  
+Por que será feito: 
+Melhoria dos processos administrativos internos da Fatec Mococa; disseminação de informações 
+associadas aos processos técnico-administrativos em vigor, amparado pelas instruções, 
+legislações e deliberações do CPS; atualização de procedimentos técnico-administrativos em face 
+a publicação de novas legislações, instruções e deliberações do CPS; tratamento de tópicos de 
+cunho administrativo específicos não necessariamente contempladas pelos cursos e eventos 
+oferecidos amplamente aos servidores do CPS; contextualização de procedimentos técnico-
+administrativos contextualizados com a realidade local e regional da Fatec Mococa; 
+Responsável: 
+<nome> <nome> Jaciara Carosia da Silva – Coord. do Curso 
+AMS em Desenvolvimento de Sistemas; Luis Marcelo 
+Bortolotti – Coord. do CST em Gestão da Tecnologia da 
+Informação; Tarcísio Jorge Bezerra – Coord. do CST em 
+Análise e Desenvolv. de Sistemas; Claudionei Nalle Jr – 
+Coord. do CST em Gestão de Recursos Humanos; Silvia 
+Regina de M. Lipi – Coord. do CST em Gestão 
+Empresarial. 
+Qde CH/sem: 
+01 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): Lucas de Oliveira Gomes – Coord. do CST em 
+Agronegócio 
+Qde CH/sem: 
+01 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+01/03/2024 
+Data final: 
+28/06/2024 
+Etapas do processo: 
+01- Levantamento dos cursos e treinamentos a serem oferecidos  
+01/03 
+30/04 
+ 
+02- Programação e organização do calendário de capacitações  
+02/05 
+17/05 
+ 
+03- Oferecimento de treinamentos e capacitações  
+20/05 
+31/05 
+ 
+04- Acompanhamento e relatório final  
+03/06 
+28/06 
+Custo R$ (se houver): 
+Sem custo 
+Fonte(s) dos recursos: 
+Centro Paula Souza 
+Situação problema: 
+cat 0.1.10 - Gestão da unidade de ensino e dos cursos (indicadores) 
+(a ser resolvida/mitigada) 
+cat 0.1.13 - Relacionamento interpessoal da equipe 
+ 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+603 - cat 6.01 - Curso/Oficina/Capacitação/ Treinamento/ Palestra/Reunião/Encontro 
+Origem: 
+2-CPA (Relatório da Comissão Própria de Avaliação da Unidade) 
+O que será feito: 
+Reunião com os professores, principalmente durante a semana pedagógica, para que possa ser 
+conscientizado sobre a importância da participação dos docentes em Cursos oferecidos pelo CPS; 
+convite a comunidade docente da Fatec Mococa para a participação em capacitações oferecidas 
+pelo CPS; aumento da divulgação interna dos Cursos oferecidos pelo CPS; 
+Por que será feito: 
+Evitar a alta rotatividade dos professores; melhoria e qualificação do corpo docente da Fatec 
+Mococa; disseminação de informações associadas as metodologias ativas; atualização e 
+qualificação profissional; 
+Responsável: 
+<nome>  Jaciara Carosia da Silva – Coord. do Curso AMS 
+em Desenvolvimento de Sistemas; Lucas de Oliveira 
+Gomes – Coord. do CST em Agronegócio; Tarcísio Jorge 
+Bezerra – Coord. do CST em Análise e Desenvolv. de 
+Sistemas; Claudionei Nalle Jr – Coord. do CST em 
+Gestão de Recursos Humanos; Silvia Regina de M. Lipi – 
+Coord. do CST em Gestão Empresarial. 
+Qde CH/sem: 
+04 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): Luis Marcelo Bortolotti – Coord. do CST em Gestão da 
+Tecnologia da Informação 
+Qde CH/sem: 
+01 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+19/02/2024 
+Data final: 
+05/07/2024 
+Etapas do processo: 
+01- Levantamento dos cursos e treinamentos a serem oferecidos pelo CPS; 
+19/02 
+29/02 
+ 
+02- Reuniões com os docentes; 
+01/03 
+30/03 
+ 
+03- Repasse dos informativos e divulgação dos Cursos oferecidos pelo CPS; 
+01/04 
+05/04 
+ 
+04- Acompanhamento da participação dos professores  
+08/04 
+05/07 
+Custo R$ (se houver): 
+Sem Custo 
+Fonte(s) dos recursos: 
+Centro Paula Souza 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.13 - Relacionamento interpessoal da equipe 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+604 - cat 6.01 - Curso/Oficina/Capacitação/ Treinamento/ Palestra/Reunião/Encontro 
+Origem: 
+2-CPA (Relatório da Comissão Própria de Avaliação da Unidade) 
+O que será feito: 
+Reunião com os técnicos administrativos, docentes e colaboradores terceirizados para 
+conscientização de comportamento e das ações para a segurança institucional; verificar e 
+incentivar a participação nas capacitações disponibilizadas pelo CPS; desenvolvimento de 
+treinamento interno sobre segurança. 
+Por que será feito: 
+Melhoria das condições seguras no campus; despertar comportamento preventivo-colaborativo; 
+Atualização e qualificação profissional; 
+Responsável: 
+<nome> <nome>  Jaciara Carosia da Silva – Coord. do Curso 
+AMS em Desenvolvimento de Sistemas; Luis Marcelo 
+Bortolotti – Coord. do CST em Gestão da Tecnologia da 
+Informação; Lucas de Oliveira Gomes – Coord. do CST 
+em Agronegócio; Tarcísio Jorge Bezerra – Coord. do CST 
+em Análise e Desenvolv. de Sistemas; Claudionei Nalle 
+Jr – Coord. do CST em Gestão de Recursos Humanos;  
+Qde CH/sem: 
+01 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): Silvia Regina de Martinez de Mello Lipi – Coord. do CST 
+em Gestão Empresarial. 
+Qde CH/sem: 
+01 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+19/02/2024 
+Data final: 
+29/06/2024 
+Etapas do processo: 
+01- Levantamento dos cursos e treinamentos a serem oferecidos pelo CPS; 
+19/02 
+01/03 
+ 
+02- Reuniões com a comunidade acadêmica; 
+04/03 
+30/03 
+ 
+03- Oferecimento de treinamentos e capacitações. 
+01/04 
+29/06 
+Custo R$ (se houver): 
+Sem Custos 
+Fonte(s) dos recursos: 
+Centro Paula Souza 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+ 
+ 
+ 
+ 
+ 
+07 – Convênios e Parcerias Institucionais 
+Formalização do relacionamento da Unidade com o Ecossistema de Tecnologia: Convênio de uso de prédio, 
+estágios, projetos com empresas. Aqui cabe apenas novos convênios e parcerias, e cada proposta deve estar 
+relacionada a uma Ação/Projeto de melhoria em algum dos itens anteriores do PGA (1, 2, 3, 4, 5 ou 6). 
+ 
+AÇÃO/PROJETO (Tema) 
+701 - cat 7.03 - Projetos com empresas e/ou demais parceiros 
+Origem: 
+2-CPA (Relatório da Comissão Própria de Avaliação da Unidade) 
+O que será feito: 
+Desenvolver atividades de estreitamento entre a instituição (FATEC MOCOCA) e as empresas de 
+Mococa e região, mediante visitas contínuas, previamente agendadas com os responsáveis; 
+divulgação dos Cursos existentes e dos vestibulares existentes e as diversas oportunidades para 
+os funcionários das empresas de Mococa e região; fixação da marca Fatec Mococa e criar 
+parcerias entre o Centro Paula Souza e empresas de Mococa e região; estabelecer atividades que 
+possam colaborar com a instituição (FATEC MOCOCA); 
+Por que será feito: 
+Aumento da Visibilidade Institucional; aproximação da Fatec Mococa com os setores produtivos, 
+no intuito de abrir novas oportunidades de estágio e empregos para os alunos dos cursos da 
+Fatec Mococa; estreitamento do relacionamento institucional com a busca de parcerias de 
+projetos, ações futuras em conjunto; divulgação Institucional dos Cursos Superiores de 
+Tecnologia da Fatec Mococa e do Centro Paula Souza, junto a Empresas de Mococa e Região. 
+Responsável: 
+Washington Luis Moreira Braga  
+Qde CH/sem: 
+04 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+19/02/2024 
+Data final: 
+06/072024 
+Etapas do processo: 
+01- Levantamento de possíveis empresas a serem visitadas; 
+19/02 
+01/03 
+ 
+02- Agendamento de visitas; 
+01/04 
+26/04 
+ 
+03- Efetivação das visitas; 
+15/04 
+29/06 
+ 
+04- Relatório Final das empresas visitadas, resultados esperados, bem 
+como a divulgação dos resultados alcançados no decorrer do semestre. 
+01/07 
+06/07 
+Custo R$ (se houver): 
+Sem Custos 
+Fonte(s) dos recursos: 
+Centro Paula Souza 
+Situação problema: 
+cat 0.1.08 - Participação da comunidade e sociedade 
+(a ser resolvida/mitigada) 
+cat 0.1.08 - Participação da comunidade e sociedade 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+702 - cat 7.03 - Projetos com empresas e/ou demais parceiros 
+Origem: 
+2-CPA (Relatório da Comissão Própria de Avaliação da Unidade) 
+O que será feito: 
+Parceria com o Jornal - O Destaque para publicação de Artigos dos professores da Fatec Mococa. 
+Por que será feito: 
+Aumento da Visibilidade Institucional; divulgação dos cursos da Unidade para conseguir 
+aumentar a demanda nos vestibulares da Fatec Mococa; fixar a marca Fatec Mococa, bem como 
+torná-la conhecida na cidade e região; divulgação Institucional e promoção de informações 
+variadas sobre diversos assuntos abordados em Cursos da Fatec Mococa, a fim de gerar 
+conhecimento agregado a comunidade externa 
+Responsável: 
+<nome> Jaciara Carosia da Silva – Coord. do Curso AMS 
+em Desenvolvimento de Sistemas; Lucas de Oliveira 
+Gomes – Coord. do CST em Agronegócio; Tarcísio Jorge 
+Bezerra – Coord. do CST em Análise e Desenvolv. de 
+Sistemas; Claudionei Nalle Jr – Coord. do CST em 
+Gestão de Recursos Humanos; Silvia Regina de M. Lipi – 
+Coord. do CST em Gestão Empresarial. 
+Qde CH/sem: 
+01 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): Luis Marcelo Bortolotti – Coord. do CST em Gestão da 
+Tecnologia da Informação 
+Qde CH/sem: 
+01 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+19/02/2024 
+Data final: 
+06/07/2024 
+Etapas do processo: 
+01- Reunião entre Direção e Coordenadores de Curso; 
+19/02 
+01//03 
+ 
+02- Reunião entre Coordenadores e os Professores dos Cursos; 
+04/03 
+30/03 
+ 
+03- Estruturação dos Artigos para Publicação. 
+01/04 
+06/0 
+Custo R$ (se houver): 
+Sem Custos 
+Fonte(s) dos recursos: 
+Centro Paula Souza 
+Situação problema: 
+cat 0.1.08 - Participação da comunidade e sociedade 
+(a ser resolvida/mitigada) 
+cat 0.1.08 - Participação da comunidade e sociedade 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+703 - cat 7.03 - Projetos com empresas e/ou demais parceiros 
+Origem: 
+2-CPA (Relatório da Comissão Própria de Avaliação da Unidade) 
+O que será feito: 
+Participação em programas nas rádios Band FM, Rádio Transamérica e TV Direta de Mococa para 
+realização de entrevistas com os professores da Fatec Mococa, abordando temas de 
+conhecimentos variados. 
+Por que será feito: 
+Aumento da Visibilidade Institucional; divulgação dos cursos da Unidade para conseguir aumentar 
+a demanda nos vestibulares da Fatec Mococa; fixar a marca Fatec Mococa, bem como torná-la 
+conhecida na cidade e região; divulgação Institucional e promoção de informações variadas sobre 
+diversos assuntos abordados em Cursos da Fatec Mococa, a fim de gerar conhecimento agregado 
+a comunidade externa. 
+Responsável: 
+ Jaciara Carosia da Silva – Coord. do Curso AMS em 
+Desenvolvimento de Sistemas; Luis Marcelo Bortolotti – 
+Coord. do CST em Gestão da Tecnologia da Informação; 
+Lucas de Oliveira Gomes – Coord. do CST em 
+Agronegócio; Tarcísio Jorge Bezerra – Coord. do CST em 
+Análise e Desenvolv. de Sistemas; Claudionei Nalle Jr – 
+Coord. do CST em Gestão de Recursos Humanos; 
+Qde CH/sem: 
+01 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): Silvia Regina de Martinez de Mello Lipi - Coord. do CST 
+em Gestão Empresarial 
+Qde CH/sem: 
+01 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+19/02/2024 
+Data final: 
+06/07/2024 
+Etapas do processo: 
+01- Reunião entre Direção e Coordenadores de Curso; 
+19/02 
+01//03 
+ 
+02- Reunião entre Coordenadores e os Professores dos Cursos; 
+04/03 
+30/03 
+ 
+03- Estruturação dos Assuntos a serem apresentados nas Entrevistas. 
+01/04 
+06/07 
+Custo R$ (se houver): 
+Sem Custos 
+Fonte(s) dos recursos: 
+Centro Paula Souza 
+Situação problema: 
+cat 0.1.08 - Participação da comunidade e sociedade 
+(a ser resolvida/mitigada) 
+cat 0.1.08 - Participação da comunidade e sociedade 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+704 - cat 7.03 - Projetos com empresas e/ou demais parceiros 
+Origem: 
+2-CPA (Relatório da Comissão Própria de Avaliação da Unidade) 
+O que será feito: 
+Visita às escolas públicas e particulares, Visitas em empresas, Distribuição de panfletos, Entrevistas 
+em rádios e canais de TV; Divulgação Institucional visando a melhoria na demanda dos vestibulares, 
+bem como a divulgação das ações que podem ser estruturadas entre a Fatec, Empresas e 
+Comunidade em Geral; Divulgação Institucional para ampliação do conhecimento da Fatec 
+Mococa, dos Cursos oferecidos, de toda a sua estrutura física e tecnologia, visando o aumento na 
+demando dos vestibulares. 
+Por que será feito: 
+Aumento da Visibilidade Institucional; divulgação dos cursos da Unidade para conseguir aumentar 
+a demanda nos vestibulares da Fatec Mococa; fixar a marca Fatec Mococa, bem como torná-la 
+conhecida na cidade e região; tornar os Cursos e o Ensino Tecnológico mais divulgado e conhecido 
+entre a comunidade de forma geral. 
+Responsável: 
+ Jaciara Carosia da Silva – Coord. do Curso AMS em 
+Desenvolvimento de Sistemas; Claudionei Nalle Jr – 
+Coord. do CST em Gestão de Recursos Humanos. 
+Qde CH/sem: 
+01 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): Silvia Regina de Martinez de Mello Lipi - Coord. do CST 
+em Gestão Empresarial 
+Qde CH/sem: 
+01 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+19/02/2024 
+Data final: 
+29/06/2024 
+Etapas do processo: 
+Reunião de Planejamento; 
+19/02 
+01//03 
+ 
+Divulgação da Fatec Mococa, divulgação dos Cursos e divulgação dos 
+vestibulares em empresas, comércio, escolas etc.; 
+04/03 
+30/03 
+ 
+Visita dos professores diretamente envolvidos nesse projeto ao comércio 
+local (Mococa e região) com criação de listas de transmissão a partir do 
+WhatsApp para divulgação de informações referentes à Faculdade, aos 
+Cursos e aos vestibulares. Nesse contexto uma quantidade significativa de 
+material deverá ser desenvolvido em formato de vídeo para ser 
+compartilhado via WhatsApp e postado nas redes sociais 
+01/04 
+27/04 
+ 
+Convidar os alunos do 3º. Ano do Ensino Médio para conhecerem as 
+instalações da Fatec Mococa, onde pretende-se realizar a “Fatec Mococa 
+portas abertas”. Embora o impacto de tal realização seja sentido ao final 
+do semestre, torna-se de suma importância que os possíveis vestibulandos 
+tenham esse contato inicial com a Faculdade para poderem conhecer as 
+instalações e toda estrutura,  
+01/04 
+29/06 
+ 
+Estabelecer ações que serão realizadas com Guarda Mirim e as prefeituras 
+das cidades da região, buscando com isso, atingir um público também 
+importante, o qual ainda não foi muito explorado anteriormente pelas 
+ações de divulgação; 
+01/04 
+29/06 
+ 
+Estruturar novas formas de comunicação visual e divulgação da Fatec 
+Mococa e do vestibular (tais como os wind banners, por exemplo) que 
+serão estruturados e pesquisados por toda equipe. 
+01/04 
+29/06 
+ 
+Desenvolver vídeos apresentando (voluntariamente) alunos e ex-alunos da 
+Fatec Mococa), convidando o público em geral a conhecer e estudar na 
+instituição. 
+01/04 
+29/06 
+Custo R$ (se houver): 
+Sem Custos 
+Fonte(s) dos recursos: 
+Centro Paula Souza 
+Situação problema: 
+cat 0.1.08 - Participação da comunidade e sociedade 
+(a ser resolvida/mitigada) 
+cat 0.1.08 - Participação da comunidade e sociedade 
+ 
+ 
+Anexo 1 – Lista de aquisições necessárias aos projetos 
+(equipamentos, softwares, mobiliários) 
+ 
+Item 
+Projeto 
+(XYY) 
+Denominação ou especificação do equipamento 
+Quant. 
+01 
+instalações Cabo UTP CAT. 6A  
+2.532 
+mts. 
+02 
+Instalações Cabo UTP CAT. 6 
+2.532 
+mts. 
+03 
+Instalações Conector Fêmea Keystone Rj45 Cat.6 
+189 un. 
+04 
+Instalações Patch Cord 1,5m Cat. 6A  
+66 un. 
+05 
+Instalações Patch Cord 1,5m Cat. 6 
+326 un 
+06 
+Instalações Access Point WiFi 6 Unifi Pro Gbps 
+06 un 
+07 
+Melhorias 
+cat. 6. Os switches Core, de Distribuição e de Acesso  
+06 un 
+08 
+Reposição 
+Cadeira Giratória  
+25 un 
+09 
+Reposição 
+Poltrona giratória com braços (Executivo) 
+10 un 
+10 
+Reposição 
+Ventilador de parede  
+06 un 
+11 
+Reposição 
+Mesa para professor  
+20 un 
+12 
+Reposição 
+Forno Microondas  
+02 un  
+13 
+Reposição 
+Notebooks para Laboratório de Informática Móvel 
+60 un 
+14 
+Reposição 
+Bebedouro de pressão  
+04 un 
+15 
+Reposição 
+Armário alto com 2 portas de abrir MDF 
+03 un 
+16 
+Reposição 
+Mesa em L 
+03 un 
+17 
+Reposição 
+Televisor LCD 65” 
+03 un 
+18 
+Reposição 
+Tela de projeção  
+05 un. 
+19 
+Reposição 
+Mesa de cozinha (copa) 
+01 un 
+20 
+Reposição 
+Aparelho de ar-Condicionado 48.000BTUs 
+06 un 
+ 
+ 
+ 
+ 
+ 
+Anexo 2 – Lista de Ações/Projetos referentes à CPA 
+ 
+Item 
+Projeto 
+(XYY) 
+Denominação 
+(O que será feito) 
+Prazo 
+01 
+106 
+Atividades de autoavaliação institucional, apresentação e discussão do 
+relatório de avaliação institucional 
+10/12/2024 
+02 
+107 
+Ações de conscientização sobre a relevância do Exame Nacional de Cursos. 
+Análise dos resultados anteriores 
+30/10/2024 
+03 
+701 
+Programa de relacionamento e parcerias com empresas e organizações da 
+região com visitas, divulgação, assinaturas de parcerias e ações conjuntas 
+06/07/2024 
+04 
+106 
+Reuniões com a comunidade acadêmica (Corpo Docente, Corpo Técnico-
+Administrativo, Corpo Discente, Comunidade externa) visando apresentar os 
+aspectos institucionais da Fatec Mococa – Missão, PDI, cursos e projetos. 
+30/09/2024 
+05 
+102 
+Semanas Pedagógicas / Tecnológicas 
+29/11/2024 
+06 
+103 
+Mostra de trabalhos desenvolvidos nas AAPs e nos Projetos Integradores 
+03/12/2024 
+07 
+101 
+Cursos de nivelamento em Língua Portuguesa e Matemática Básica 
+18/12/2024 
+08 
+305 
+Desenvolvimento de Projetos de IC – MDITIC 
+29/06/2024 
+09 
+602 
+Cursos de Capacitação Interna para a comunidade técnico-administrativa 
+28/06/2024 
+10 
+301 
+Extensão Universitária em Gestão Ambiental Sustentável 
+05/06/2024 
+11 
+302 / 303 / 304 
+Pesquisa em RJI sobre Contribuições para o crescimento do agronegócio no 
+município de Mococa 
+31/12/2024 
+12 
+603 
+Conscientização sobre a importância da participação dos docentes nos cursos 
+e capacitações oferecidos pelo CPS 
+05/07/2024 
+13 
+604 
+Conscientização sobre a importância da participação dos funcionários técnico-
+administrativos nos cursos e capacitações oferecidos pelo CPS 
+29/06/2024 
+14 
+201 / 202 
+Laboratórios de informática – implantação / melhoramento dos recursos 
+pedagógicos 
+20/06/2024 
+15 
+203 
+Mapeamento das necessidades de impressoras, dimensionamento de 
+aparelhos a serem solicitados e elaboração das solicitações de compras. 
+20/06/2024 
+16 
+501 
+Criação da entrada independente para a Fatec Mococa 
+29/06/2024 
+17 
+502 
+Reforma das cercas e alambrados do Campus 
+29/06/2024 
+18 
+503 
+Construção de um novo Bloco de salas de aula com auditório 
+29/06/2024 
+29 
+702 / 703 / 704 
+Programa de divulgação institucional nas escolas públicas e privadas da 
+região, empresas e outras organizações. 
+29/06/2024 
+ 
+ 
+<fim> 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

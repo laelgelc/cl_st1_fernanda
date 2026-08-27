@@ -1,0 +1,2831 @@
+PLANO DE GESTÃO ANUAL – PGA 2024 
+V11 
+Estruturado em um única etapa com 2 anexos: 
+PLANEJAMENTO PELA EQUIPE GESTORA DA UE 
+• Anexo 1 – Lista de equipamentos necessários aos projetos 
+• Anexo 2 – Lista de Ações/Projetos referentes à CPA 
+ 
+IDENTIFICAÇÃO DA UNIDADE 
+Unidade 
+290 
+Fatec Araras 
+Diretor(a) 
+Marco Anselmo de Godoi Prezoto 
+ 
+PLANEJAMENTO PELA EQUIPE GESTORA DA UE 
+(Administração da Faculdade - Deliberação CEETEPS 31/2016) 
+ANÁLISE DO CENÁRIO 
+Descrever de forma breve e objetiva o cenário da Unidade perante sua missão como Unidade de Ensino na localidade em que 
+se encontra (é este cenário que se pretende melhorar). 
+Criada pelo Governo do Estado de São Paulo mediante a publicação do Decreto nº. 62.680/2017, a Fatec 
+Araras “Antonio Brambilla” iniciou as atividades com o Curso Superior de Tecnologia em Sistemas para 
+Internet, com 40 vagas semestrais no período Noturno. No 1º semestre de 2019 foi implantado o Curso 
+Superior de Tecnologia em Gestão Empresarial, com 40 vagas semestrais para o período Noturno. No 1º 
+semestre de 2021 foi implantado o Curso Superior de Tecnologia em Desenvolvimento de Software 
+Multiplataforma, com 40 vagas semestrais para o período Noturno em substituição ao Curso Superior de 
+Tecnologia em Sistemas para Internet. Atualmente possui 321 alunos matriculados em seus 3 Curso(s) 
+Superior(es) de Tecnologia. No 1º Semestre de 2023 foi implantado 2 cursos AMS, Administração e 
+Desenvolvimento de Sistemas, em parceria com as empresas DevCoffee e Superfsoft, ofertando 80 vagas 
+anuais. Semestralmente a unidade vem oferecendo de 3 a 5 cursos profissionalizantes de curta duração 
+pelo programa Novotec Expresso do Governo do Estado de São Paulo. Em termos de realizações de 
+eventos destacam-se a Semana da Carreira realizada semestralmente e a Semana Nacional da Ciência 
+e da Tecnologia realizada anualmente. A Fatec foi procurada pela prefeitura da cidade de Rio Claro para 
+prospecção de desenvolvimento de um sistema de gestão de documentos, sendo que desenvolveu para 
+a prefeitura da cidade de Araras o Projeto AUDIBUN (prof. Orlando Saraiva do Nascimento Junior), cujo 
+objetivo foi desenvolver uma solução WEB para o cadastro de fiscalizações imobiliárias, tornando o 
+processo mais transparente para a sociedade e unificando o cadastro de empresas no distrito industrial 
+de Araras. Em termos de internacionalização, dois alunos foram contemplados em 2020 com o intercâmbio 
+Arinter para a Espanha e agora em 2023, um aluno esteve na Inglaterra e uma aluna no Canadá.  
+A unidade possui um clima organizacional muito participativo, familiar e acolhedor e com grande 
+sentimento de pertencimento. Possui uma boa estrutura de salas de aulas, 6 laboratórios de informática 
+bem equipados, e principalmente professores qualificados e muitos alunos dedicados. Vem realizando um 
+sério trabalho de divulgação nas redes sociais, jornais, rádios, blogs e eventos da cidade e região com a 
+finalidade de tornar a unidade cada vez mais conhecida. Realizou várias capacitações para alunos e 
+participantes externos a comunidade, como capacitações em diferentes linguagens de programação, bem 
+como eventos de visitação, como o Fatec de Portas Abertas, e palestras e oficinas abertos a alunos e 
+convidados externos. 
+Entretanto existe pontos importantes a melhorar como a reforma do telhado que possui áreas de 
+telhas em críticas condições gerando goteiras, a substituição do forro de placas de fibrocimento, a 
+ampliação do sistema de alarmes e instalação do circuito de CFTV (a unidade foi invadida várias vezes 
+para furto de fios elétricos por possuir apenas 1 vigilante), a instalação de uma cantina para atender aos 
+alunos, o aumento de velocidade da internet com a troca do sistema de rádio por fibra ótica, a instalação 
+de uma rede de wifi ampla para atender aos alunos, a contratação de bibliotecário e principalmente a 
+compra de livros para o curso de Desenvolvimento de Software Multiplataforma, que vem impactando 
+seriamente no processo de reconhecimento de curso. A falta de cortinas e ares-condicionados nas salas, 
+a retirada e substituição de árvores, bem como a pavimentação do estacionamento dos alunos, 
+disponibilização de mais bancos na área externa e a criação de um ambiente interno para descanso 
+também constam nas solicitações da comunidade interna. A falta de professores diminuiu um pouco com 
+a contratação dos aprovados em concurso público, porém como a maioria reside em cidades distantes, a 
+ampliação de aulas fica limitada e em dúvida a permanecia destes docentes na unidade. Existe também 
+a promessa da Prefeitura Municipal de Araras de construir entre 2024 e 2025 o 4º bloco para implantação 
+do curso de Eletrônica Automotiva 
+O período pós pandemia de volta presencial às aulas trouxe a dificuldade dos custos de transportes, 
+alimentação e tempo de deslocamento entre o trabalho, casa e Faculdade, fazendo com grande parte 
+dos alunos trancassem suas matrículas ou desistissem. O arranjo produtivo local de maior impacto é o 
+comercio e a prestação de serviços, que exige trabalho aos sábados, o que tem impactado muito na não 
+permanência dos alunos nos cursos. A localização da Fatec na região da cidade de maior registro de 
+tráfico de drogas e violência ainda gera muito receio na população para estudar na unidade. 
+ 
+ 
+• Discorrer sobre o cenário, realizando um breve diagnóstico (limitar o espaço da escrita, para que seja inserido de forma sucinta). 
+APONTAMENTO DE SITUAÇÕES-PROBLEMA MAIS RELEVANTES 
+Fontes: relatório CPA, análise de processos críticos da UE, relatório de atendimento e ocorrências Hórus, relatório NDE, 
+relatório de representação discente (DA, Atlética, representantes de turma), relatório CIPA, entre outros. 
+1 
+cat 0.1.01 - Metodologia de ensino, desempenho 
+de alunos, evasão 
+ 
+5 
+cat 0.1.08 - Participação da comunidade e sociedade 
+2 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+ 
+6 
+cat 0.1.10 - Gestão da unidade de ensino e dos cursos 
+(indicadores) 
+3 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de 
+ensino 
+ 
+7 
+cat 0.1.11 - Segurança pessoal e patrimonial 
+4 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+ 
+8 
+cat 0.1.12 - Acesso e transporte à Unidade de Ensino 
+Outra – Especificar: nn 
+ 
+Objetivos Institucionais – CPS (Plano de Metas) 
+1) Atender às demandas sociais e do mercado de trabalho. 
+2) Obter a satisfação dos públicos que se relacionam com o Centro Paula Souza (stakeholders). 
+3) Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem. 
+4) Assegurar a perenidade do crescimento da instituição com recursos financeiros disponíveis. 
+5) Garantir celeridade e efetividade na prestação de serviços. 
+6) Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no desenvolvimento tecnológico e inovação. 
+7) Promover a cultura de inovação e empreendedorismo. 
+8) Aumentar a eficiência, a produtividade e a competitividade da instituição. 
+9) Ampliar a oferta da Educação Profissional. 
+10) Resolução Conjunta SOG/SFP/SG-3, de 28-12-2022 - Bonificação por Resultados – BR das Secretarias de Estado, Procuradoria Geral do Estado, 
+Controladoria Geral do Estado e das Autarquias, de que trata a LC 1361-2021 
+Objetivos Institucionais – Cesu (Plano de Metas) 
+A. Integrar as diferentes modalidades de ensino, otimizando itinerários e tempo para a formação profissional. 
+B. Inovar processos de ensino e aprendizagem para manter excelência diante do mercado. 
+C. Ampliar a capacidade de criar e atualizar cursos em parceria com o mercado. 
+D. Expandir e ampliar a capacidade de articulação com Governos e Setores Produtivos. 
+E. Promover a captação de recursos extras e não orçamentários. 
+ 
+ 
+ESTRUTURAÇÃO DAS AÇÕES/PROJETOS 
+01 - Didático-pedagógico 
+Ações associadas ao PPC/PE de CSTs e Disciplinas: CST (implantação, alteração, readequação, reestruturação), 
+prática pedagógica (PE, PA), projeto interdisciplinar/ integrador, extensão curricularizada. 
+ 
+AÇÃO/PROJETO (Tema) 
+101 - cat 1.01 - Adequação/reestruturação de PPC, implantação de novos cursos. 
+Origem: 
+2-CPA (Relatório da Comissão Própria de Avaliação da Unidade) 
+O que será feito: 
+Acompanhamento e apoio aos coordenadores de cursos e dos representantes das empresas que 
+apoiam o AMS  
+Por que será feito: 
+Promover estímulo frequente aos alunos do Ensino Médico em manter-se no curso do ensino 
+médio/técnico e conseguir o maior número possível de alunos formados para ingressar no ensino 
+superior amenizando a taxa de evasão.  
+Responsável: 
+<nome> Thiago Gonçalves Mendes 
+Qde CH/sem: 
+01 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/02/2024 
+Data final: 
+31/12/2024 
+Etapas do processo: 
+01- Realizar reuniões mensais com coordenadores e empresas parceiras  
+01/02 
+31/12/ 
+ 
+02- Elaborar projeto de sistema de avaliação do aluno sobre o AMS  
+01/02 
+31/12 
+ 
+03- Desenvolver o formulário/sistema de avaliação  
+01/02 
+31/12 
+ 
+04- Aplicar o formulário/sistema  
+01/02 
+31/12 
+ 
+05- Tabular os dados e preparar parecer  
+01/02 
+31/12 
+ 
+06- Reunião com coordenação e representantes de empresa para 
+apresentação do resultado da pesquisa  
+01/02 
+31/12 
+ 
+07- Definição do plano de ações 
+01/02 
+31/12 
+ 
+08- Aplicar do plano de ações n 
+01/02 
+31/12 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+102 - cat 1.01 - Adequação/reestruturação de PPC, implantação de novos cursos. 
+Origem: 
+2-CPA (Relatório da Comissão Própria de Avaliação da Unidade) 
+O que será feito: 
+Estruturação de Proposta de alteração da grade horária do PPC do CST em DSM de forma a 
+tornar remotas (online síncronas) as aulas aos sábados  
+Por que será feito: 
+Para reduzir evasão e torná-lo mais atrativo em relação ao vestibular, de acordo com o perfil 
+regional dos alunos 
+Responsável: 
+<nome> Nilton Cesar Sacco 
+Qde CH/sem: 
+01 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/02/2024 
+Data final: 
+31/12/2024 
+Etapas do processo: 
+01- Reunião do NDE para abertura do assunto  
+01/02 
+30/03 
+ 
+02- Estabelecer atividades para cada integrante do NDE  
+01/04 
+15/04 
+ 
+03- Reuniões Mensais de acompanhamento 
+01/05 
+31/12 
+ 
+04- Reunião de Fechamento da proposta  
+01/05 
+30/05 
+ 
+05- Apresentar proposta na reunião da Congregação  
+01/06 
+30/06 
+ 
+06- Envio da proposta para a CESU  
+01/07 
+31/07 
+ 
+07- CESU encaminha proposta para o Conselho Deliberativo  
+01/09 
+30/09 
+ 
+08- CESU encaminha mudança para o SIGA e para a aplicação do vestibular  
+01/10 
+30/10 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+103 - cat 1.08 - Eventos e ações para aperfeiçoamento docente (Spap, treinamentos, avaliação docente) 
+Origem: 
+2-CPA (Relatório da Comissão Própria de Avaliação da Unidade) 
+O que será feito: 
+Desenvolvimento e implantação de sistema online que permita a avaliação dos professores pelos 
+alunos  
+Por que será feito: 
+Melhorar o processo ensino e aprendizagem; evitar evasão  
+Responsável: 
+<nome> Thiago Gonçalves Mendes 
+Qde CH/sem: 
+01 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> Nilton Cesar Sacco 
+Qde CH/sem: 
+01 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> Zenaide Moschim 
+Qde CH/sem: 
+01 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Período de execução: 
+Data inicial: 
+01/02/2024 
+Data final: 
+31/12/2024 
+Etapas do processo: 
+01- Levantar as questões avaliativas dos professores e formato de 
+aplicação 
+01/02 
+30/03 
+ 
+02- Validação de questionário junto a Congregação da Unidade.  
+01/04 
+30/04 
+ 
+03- Verificação de plataforma quanto à aspectos técnicos e de segurança 
+01/04 
+30/04 
+ 
+04- Conscientizar alunos e professores sobre as atividades avaliativas.  
+01/05 
+30/05 
+ 
+05- Aplicação do questionário.  
+01/06 
+31/12 
+ 
+06- Tabulação dos dados e redação do relatório 
+01/06 
+31/12 
+ 
+07- Elaboração de plano de ação pelo docente e envio à coordenação 
+01/07 
+31/12 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.10 - Gestão da unidade de ensino e dos cursos (indicadores) 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+104 - cat 1.12 - Orientação profissional para discentes, mentoria e apoio psicopedagógico 
+Origem: 
+3-Outra 
+O que será feito: 
+Estimular a empregabilidade dos alunos e aproximar a Fatec das organizações da região por meio 
+do NAC (Núcleo de Apoio a Carreira) 
+Por que será feito: 
+Realizar a divulgação de vagas de estágio e emprego aos alunos da instituição e apoio na 
+orientação e planejamento de suas carreiras (desenvolvimento profissional) 
+Responsável: 
+<nome> Amanda Thais Gonçalves Vicente de Carvalho  
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/02/2024 
+Data final: 
+31/12/2024 
+Etapas do processo: 
+01- Divulgação de vagas de estágio e empregos nos canais da Fatec Araras. 
+01/02 
+31/12 
+ 
+02- Planejamento de ações com os supervisores de estágio e 
+coordenadores dos cursos 
+01/02 
+31/12 
+ 
+03- Apoio para na realização de eventos da unidade 
+01/02 
+31/12 
+ 
+04- Levantamento de estágios em andamento e concluídos 
+01/02 
+31/12 
+ 
+05- Atendimento a alunos para orientação profissional 
+01/02 
+31/12 
+ 
+06- Levantamento e acompanhamento de egressos 
+01/02 
+31/12 
+ 
+07- Prospecção de empresas para busca de vagas de estágio e emprego 
+01/02 
+31/12 
+ 
+08- nn 
+01/02 
+31/12 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+<Copiar tabelas para mais ações> 
+ 
+02 – Laboratórios - Ensino e Equipamentos Associados 
+Ações para melhoramento dos laboratórios de Ensino (Gestão e Equipamentos): Melhoramento de 
+equipamentos, mediante instalação, manutenção, desuso, doação, e gestão de ambiente laboratorial. 
+ 
+AÇÃO/PROJETO (Tema) 
+201 - cat 2.03 - Ambiente multidisciplinar de ensino - implantação/melhoramento com recursos 
+PEDAGÓGICOS 
+Origem: 
+2-CPA (Relatório da Comissão Própria de Avaliação da Unidade) 
+O que será feito: 
+Acompanhamento da solicitação de compra do acervo completo de livros do curso de 
+Desenvolvimento de Software Multiplataforma 
+Por que será feito: 
+Atender à exigência legal; melhorar o processo do ensino e aprendizado; atender às reclamações 
+de alunos 
+Responsável: 
+<nome> Nilton Cesar Sacco 
+Qde CH/sem: 
+01 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/02/2024 
+Data final: 
+31/12/2024 
+Etapas do processo: 
+01- Levantamento completo das bibliografias dos cursos ativos  
+01/02 
+28/02 
+ 
+02- Envio da relação atualizada do acervo para a CESU  
+01/04 
+30/04 
+ 
+03- Acompanhar processo de compra e entrega do acervo  
+01/05 
+31/23 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+202 - cat 2.02 - Laboratório informática - implantação/melhoramento com recursos PEDAGÓGICOS 
+Origem: 
+Escolher um item. 
+O que será feito: 
+Proposta de compra de 50 novos computadores desktop e instalação nos laboratórios 4 e 5 e na 
+Biblioteca  
+Por que será feito: 
+Para atender adequadamente às necessidades do processo ensino aprendizado  
+Responsável: 
+<nome> Thiago Gonçalves Mendes 
+Qde CH/sem: 
+01 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/02/2024 
+Data final: 
+31/12/2024 
+Etapas do processo: 
+01- Levantar requisitos de configuração para os computadores 
+01/02 
+28/02 
+ 
+02- Identificar a quantidade de computadores a serem instalados em cada 
+laboratório 
+01/02 
+28/02 
+ 
+03- Encaminhar solicitação de compra para a UGAF  
+01/03 
+30/03 
+ 
+04- Preparar as áreas para receber as máquinas solicitadas 
+01/10 
+31/10 
+ 
+05- Instalar os computadores e instalar os softwares necessários 
+01/11 
+31/12 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+203 - Escolher um item. 
+Origem: 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+204 - Escolher um item. 
+Origem: 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm  
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm  
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+X 
+X 
+<Copiar tabelas para mais ações> 
+ 
+ 
+03 – Pesquisa / Extensão e Equipamentos Associados 
+Ações para melhoramento dos laboratórios que contemplam Pesquisa além do Ensino (Equipamentos): 
+melhoramento dos espaços de pesquisa, que inclui especificação equipamentos e aquisição por fomento ou por 
+projeto com empresa, e também prestação de serviços no campo tecnológico para instituições e empresas. 
+ 
+AÇÃO/PROJETO (Tema) 
+301 - Escolher um item. 
+Origem: 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+302 - cat 3.03 - Pesquisa e Extensão em andamento (empresas diversas) 
+Origem: 
+2-CPA (Relatório da Comissão Própria de Avaliação da Unidade) 
+O que será feito: 
+Pesquisa científica (aplicada, descritiva, qualitativa, estudo de caso) sobre o emprego da gestão da 
+qualidade (foco em acompanhamento e/ou melhoria de processos), em empresas da região, a fim 
+de descrever a aplicação prática de conhecimentos científicos compartilhados na matriz curricular 
+da Fatec Araras (Curso de Gestão Empresarial), em uma organização real. 
+ 
+Por que será feito: 
+O projeto poderá contribuir com o fortalecimento, na Unidade, de um dos pilares do Ensino 
+Superior: a pesquisa, buscando aumentar a sua produção científica. Poderá, também, estimular a 
+ampliação de outros estudos científicos, por parte dos alunos do Curso de Gestão Empresarial, 
+em temas e áreas do conhecimento de interesses acadêmico e empresarial, na região. Pode 
+auxiliar na aproximação da Unidade com empresas locais, haja vista que a pesquisa pretende 
+realizar coleta de dados em organizações próximas 
+Responsável: 
+<nome> Vagner Ferreira 
+Qde CH/sem: 
+01 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/02/2024 
+Data final: 
+31/12/2024 
+Etapas do processo: 
+01- Reuniões entre orientador e discentes, início da orientação 
+01/02 
+31/12/ 
+ 
+02- Atividades de planejamento do orientador 
+01/03 
+30/03 
+ 
+03- Pesquisa bibliográfica, pesquisa documental e coleta de dados 
+01/03 
+31/12 
+ 
+04- Coleta de dados (complementar): observação e pesquisa de campo 
+01/03 
+31/12 
+ 
+05- Atividades de orientação e preparação da análise dos resultados 
+01/04 
+31/12 
+ 
+06- Emissão de relatórios parciais e do relatório final 
+01/04 
+31/12 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+ 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+303 - cat 3.03 - Pesquisa e Extensão em andamento (empresas diversas) 
+Origem: 
+2-CPA (Relatório da Comissão Própria de Avaliação da Unidade) 
+O que será feito: 
+Um projeto de pesquisa como oportunidade para a iniciação científica de um(a) estudante da 
+Fatec de Araras, permitindo que ele(as) desenvolva habilidades e conhecimentos na área de 
+pesquisa, coleta e análise de dados. O projeto de pesquisa identificará o perfil dos(as) 
+jogadores(as) de jogos eletrônicos da Faculdade de Tecnologia (FATEC) de Araras 
+Por que será feito: 
+Participar de um projeto de pesquisa permite que o(a) aluno(a) desenvolva habilidades e 
+conhecimentos na área de coleta e análise de dados, além de aprimorar competências como 
+comunicação, trabalho em equipe e resolução de problemas. Essa experiência contribuirá para o 
+desenvolvimento acadêmico e profissional do(a) estudante, preparando-o(a) para futuras 
+oportunidades na área de pesquisa ou em outras áreas relacionadas. 
+Responsável: 
+<nome> Gustavo Bonin Gava  
+Qde CH/sem: 
+0’ 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/02/2024 
+Data final: 
+31/12/2024 
+Etapas do processo: 
+01- Reuniões entre orientador e discentes, início da orientação  
+01/02 
+31/12 
+ 
+02- Atividades de planejamento do orientador 
+01/03 
+31/03 
+ 
+03- Pesquisa bibliográfica, pesquisa documental e coleta de dados 
+01/03 
+31/12 
+ 
+04- Coleta de dados (complementar): observação e pesquisa de campo 
+01/03 
+31/12 
+ 
+05- Atividades de orientação e preparação da análise dos resultados 
+01/04 
+31/12 
+ 
+06- Emissão de relatórios parciais e do relatório final  
+01/04 
+31/12 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+304 - cat 3.01 - Cursos de Extensão 
+Origem: 
+3-Outra 
+O que será feito: 
+Mini Curso de Informática Básica para a Comunidade 
+Por que será feito: 
+Será Ministrado Curso Básico de Informática para a Comunidade 
+Responsável: 
+<nome> José Carlos Vital 
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/02/2024 
+Data final: 
+31/12/2024 
+Etapas do processo: 
+01- Verificar conteúdo programático com a coordenação 
+01/02 
+28/02 
+ 
+02- Criar formulário e abrir inscrições 
+01/03 
+30/03 
+ 
+03- Fazer a divulgação para a Comunidade Externa 
+01/03 
+31/03 
+ 
+04- Ministrar o curso 
+01/04 
+31/12 
+ 
+05- Emitir os certificados 
+01/04 
+31/12 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.08 - Participação da comunidade e sociedade 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+<Copiar tabelas para mais ações> 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+04 – Atividades Formativas em Projetos (nível tático) 
+Projetos institucionais formativos não especificados em PEs: Rede de tecnologia, Novotec, PCI, Projetos 
+estudantis (Baja, Aerodesign, entre outros) 
+ 
+AÇÃO/PROJETO (Tema) 
+401 - Escolher um item. 
+Origem: 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+402 - cat. 4.99 - Outra 
+Origem: 
+3-Outra 
+O que será feito: 
+Organização dos eventos da unidade 
+Por que será feito: 
+Para inspirar e motivar os estudantes a alcançarem seus objetivos profissionais e pessoais; 
+orientar os alunos que estão iniciando em suas carreiras e auxiliar os que estão considerando 
+mudanças na trajetória profissional.  
+Responsável: 
+<nome> Dhebora Umbelino Souza 
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/02/2024 
+Data final: 
+31/12/2024 
+Etapas do processo: 
+01- Definição dos eventos a serem realizados durante o ano 
+01/02 
+28/02 
+ 
+02- Criação de cronograma para os eventos 
+01/03 
+30/03 
+ 
+03- Definição dos locais dos eventos 
+01/04 
+31/12 
+ 
+04- Definição das equipes para trabalhar nos eventos 
+01/04 
+31/12 
+ 
+05- Disponibilizar formulário para inscrição para os eventos 
+01/04 
+31/12 
+ 
+06- Agendamento dos palestrantes 
+01/04 
+31/12 
+ 
+07- Organização do local e realização do evento 
+01/04 
+31/12 
+ 
+08- Relatório dos aprendizados para melhorias futuras 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+ 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+403 - Escolher um item. 
+Origem: 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+404 - Escolher um item. 
+Origem: 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+<Copiar tabelas para mais ações> 
+ 
+ 
+ 
+ 
+ 
+05 – Infraestrutura (instalações prediais) 
+Projetos de manutenção e melhoramento predial voltados à segurança (física e sanitária) e preservação do 
+patrimônio: Reparação predial (civil, elétrica, dados), novas instalações prediais. 
+ 
+AÇÃO/PROJETO (Tema) 
+501 - cat 5.05 - Reforma de Edificações 
+Origem: 
+3-Outra 
+O que será feito: 
+Proposta de Reforma de telhado da unidade e troca do forro danificado  
+Por que será feito: 
+Para eliminar as goteiras que estão danificando a parte estrutural do prédio, bem como geram 
+risco de acidentes às pessoas  
+Responsável: 
+<nome> Andreza Paiva de Oliveira Cardoso 
+Qde CH/sem: 
+01 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/02/2024 
+Data final: 
+31/12/2024 
+Etapas do processo: 
+01- Elaboração de projeto   
+01/02 
+30/03 
+ 
+02- Elaborar instrução solicitando a liberação da verba 
+01/04 
+30/04 
+ 
+03- Enviar solicitação da verba e acompanhar aprovação 
+01/05 
+30/05 
+ 
+04- Compra do material  
+01/08 
+30/08 
+ 
+05- Instalação do telhado e do forro  
+01/09 
+31/12 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+502 - Escolher um item. 
+Origem: 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+503 - cat 5.02 - Melhoria de Laboratório 
+Origem: 
+3-Outra 
+O que será feito: 
+Proposta de Compra e instalação de 6 novos roteadores wifi  
+Por que será feito: 
+Para que os alunos, professores e servidores possam utilizar o wifi em suas atividades, 
+melhorando o atendimento e o aprendizado; atender reclamação dos alunos  
+Responsável: 
+<nome> Thiago Gonçalves Mendes 
+Qde CH/sem: 
+01 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/12/2024 
+Data final: 
+31/12/2024 
+Etapas do processo: 
+01- Elaboração de projeto   
+01/02 
+30/03 
+ 
+02- Elaboração da instrução solicitando liberação de verba  
+01/04 
+30/04 
+ 
+03- Enviar solicitação da verba e acompanhar aprovação 
+01/05 
+30/07 
+ 
+04- Compra do material  
+01/08 
+30/08 
+ 
+05- Instalação dos roteadores  
+01/09 
+31/12 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+504 - cat 5.01 - Melhoria Sala de Ambientes pedagógicos 
+Origem: 
+2-CPA (Relatório da Comissão Própria de Avaliação da Unidade) 
+O que será feito: 
+Proposta de compra e instalação de cortinas para as 10 salas com maior incidência de sol no 
+período vespertino  
+Por que será feito: 
+Para adequação do conforto térmico e luminoso, e proteção dos equipamentos de informática; 
+atender reclamação dos alunos  
+Responsável: 
+<nome> Pietro Lucas Prado de Lima  
+Qde CH/sem: 
+01 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/02/2024 
+Data final: 
+31/12/2024 
+Etapas do processo: 
+01- Revisão do projeto anterior 
+01/02 
+30/03 
+ 
+02- Cotação dos suportes e cortinas  
+01/04 
+30/04 
+ 
+03- Revisão da Instrução anterior 
+01/05 
+30/05 
+ 
+04- Enviar instrução e acompanhar aprovação 
+01/06 
+30/07 
+ 
+05- Compra dos suportes e cortinas  
+01/08 
+30/08 
+ 
+06- Instalação dos suportes e das cortinas  
+01/09 
+31/12 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+505 - cat 5.04 - Implantação de áreas comuns 
+Origem: 
+3-Outra 
+O que será feito: 
+Proposta de licitação de cantina sobre rodas 
+Por que será feito: 
+Dificuldade dos alunos do período noturno em se alimentar durante o período de aulas; evitar 
+evasões; atender reclamação dos alunos    
+Responsável: 
+<nome> Ana Paula Luzetti 
+Qde CH/sem: 
+01 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/12/2024 
+Data final: 
+31/12/2024 
+Etapas do processo: 
+Pesquisa sobre o melhor local de instalação da cantina sobre rodas 
+01/02 
+30/03 
+ 
+Contatar prestadores de serviço par obter orçamentos elétrico + hidráulico 
+01/04 
+30/04 
+ 
+Elaborar processo de licitação  
+01/05 
+30/05 
+ 
+Encaminhar pedido de licitação para UGAF e acompanhar a aprovação  
+01/06 
+30/07 
+ 
+Realizar licitação  
+01/08 
+30/08 
+ 
+Contratar e realizar adequações 
+01/09 
+30/09 
+ 
+Formalizar contrato  
+01/10 
+30/11 
+ 
+Iniciar as atividades 
+01/12 
+31/12 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+ 
+AÇÃO/PROJETO (Tema) 
+506 - cat 5.05 - Reforma de Edificações 
+Origem: 
+3-Outra 
+O que será feito: 
+Proposta de colocação de pedra britada no estacionamento dos alunos e plantio de árvores para 
+o conforto térmico  
+Por que será feito: 
+Evitar avarias aos veículos que estacionam naquele local; evitar invasões; gerar conforto térmico 
+aos alunos  
+Responsável: 
+<nome> Ana Paula Luzetti 
+Qde CH/sem: 
+01 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/12/2024 
+Data final: 
+31/12/2024 
+Etapas do processo: 
+01-Solicitar apoio do Curso Técnico da ETEC em Ambiental 
+01/02 
+30/03 
+ 
+02-Solicitação de doação de árvores na prefeitura 
+01/04 
+30/04 
+ 
+03-Fazer o plantio das árvores  
+01/05 
+30/06 
+ 
+04-Agendar reunião com a prefeitura para discutir o projeto do 
+estacionamento (opção de pedrisco ou cascalho) 
+01/07 
+30/07 
+ 
+05-Elaboração de projeto  
+01/08 
+30/08 
+ 
+06-Levantamento dos prestadores de serviço especializados  
+01/09 
+30/09 
+ 
+07-Solicitar a verba junto a Prefeitura de Araras  
+01/10 
+30/10 
+ 
+08-Compra e colocação das pedras no estacionamento  
+01/11 
+31/12 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+ 
+AÇÃO/PROJETO (Tema) 
+507 - cat 5.03 - Material Infraestrutura/equipamentos 
+Origem: 
+3-Outra 
+O que será feito: 
+Proposta de compra e instalação de sistema de CFTV e ampliação do sistema de alarme da 
+unidade  
+Por que será feito: 
+Evitar que as invasões que geraram furtos de fios e pequenos objetos voltem a acontecer e passe 
+a se furtar equipamentos da unidade; Evitar risco de violência contra o único vigilante por turno 
+que a unidade possui  
+Responsável: 
+<nome> Andreza Paiva de Oliveira Carvalho 
+Qde CH/sem: 
+01 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/12/2024 
+Data final: 
+31/12/2024 
+Etapas do processo: 
+01-Revisão de projeto   
+01/02 
+30/03 
+ 
+02-Levantamento dos prestadores de serviço especializados  
+01/04 
+30/04 
+ 
+03-Revisão da instrução solicitando a liberação da verba  
+01/05 
+30/05 
+ 
+04-Enviar solicitação da verba e acompanhar aprovação  
+01/06 
+30/07 
+ 
+05-Compra dos equipamentos  
+01/08 
+30/08 
+ 
+06- Instalação dos sistemas e testes de operação 
+01/09 
+31/12 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+508 - cat 5.03 - Material Infraestrutura/equipamentos 
+Origem: 
+3-Outra 
+O que será feito: 
+Proposta de adequação da infraestrutura da unidade para atendimento da legislação sobre 
+acessibilidade 
+Por que será feito: 
+Acompanhamento do projeto da UIE para a realização das adequações levantadas por aquele 
+órgão para atendimento da necessidade dos alunos portadores de dificiência 
+Responsável: 
+<nome> Ana Paula Luzetti 
+Qde CH/sem: 
+01 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/12/2024 
+Data final: 
+31/12/2024 
+Etapas do processo: 
+01- Acompanhar processo de aprovação do projeto 
+01/02 
+30/03 
+ 
+02 - Acompanhar processo de contratação de prestadores de 
+serviço 
+01/04 
+30/04 
+ 
+03 – Acompanhar processo de adequações da unidade 
+01/05 
+31/12 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn  
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+ 
+AÇÃO/PROJETO (Tema) 
+509 - cat 5.03 - Material Infraestrutura/equipamentos 
+Origem: 
+3-Outra 
+O que será feito: 
+Proposta de compra de 30 novos ares-condicionados e instalação nas salas de aula e auditório 
+Por que será feito: 
+Para que seja possível a realização das aulas em dias de alto calor como tivemos em 2023 
+Responsável: 
+<nome> Andreza Paiva de Oliveira Carvalho 
+Qde CH/sem: 
+01 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/02/2024 
+Data final: 
+31/12/2024 
+Etapas do processo: 
+01- Levantar as especificações dos ares-condicionados por ambiente 
+01/02 
+28/02 
+ 
+02- Identificar a quantidade de ares-condicionados a serem instalados 
+01/02 
+28/02 
+ 
+03- Encaminhar solicitação de compra para a UGAF 
+01/03 
+30/03 
+ 
+04- Encaminhar solicitação de serviço de instalação para a UGAF 
+01/03 
+30/03 
+ 
+05- Preparar as áreas para receber os equipamentos de ares-condicionados 
+01/08 
+30/08 
+ 
+06- Instalar os equipamentos de ares-condicionados 
+01/09 
+31/12 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+06 - Desenvolvimento de pessoas (docentes e servidores) 
+Formação continuada de docentes e servidores, associadas às competências gerais e específicas de suas 
+atividades: Metodologias de ensino, Tecnologias educacionais, Sistemas (processos, procedimentos, plataformas 
+computacionais) acadêmicos e pedagógicos. 
+ 
+AÇÃO/PROJETO (Tema) 
+601 - cat. 6.99 - Outra 
+Origem: 
+3-Outra 
+O que será feito: 
+Revisão dos processos administrativos da unidade e automatização de etapas 
+Por que será feito: 
+Obter maior agilidade nos processos administrativos e reduzir a fila de atendimento, capacitando 
+os servidores  
+Responsável: 
+<nome> Ana Paula Luzetti 
+Qde CH/sem: 
+01 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> Rosana Fátima de Melo 
+Qde CH/sem: 
+01 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/02/2024 
+Data final: 
+31/12/2024 
+Etapas do processo: 
+01- levantar os trabalhos administrativos com maior quantidade de 
+retrabalho  
+01/02 
+30/03 
+ 
+02- Estabelecer cronograma de análise  
+01/04 
+30/04 
+ 
+03- Criar equipes multidisciplinares para discutir os processos 
+01/05 
+30/05 
+ 
+04- Realizar o estudo do processo e propor redução de etapas e 
+automação 
+01/06 
+30/09 
+ 
+05- Criar equipes multidisciplinares para desenvolver e implantar os novos 
+processos.  
+01/10 
+31/12 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.10 - Gestão da unidade de ensino e dos cursos (indicadores) 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+602 - Escolher um item. 
+Origem: 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+603 - Escolher um item. 
+Origem: 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+604 - Escolher um item. 
+Origem: 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+<Copiar tabelas para mais ações> 
+ 
+ 
+ 
+ 
+ 
+ 
+07 – Convênios e Parcerias Institucionais 
+Formalização do relacionamento da Unidade com o Ecossistema de Tecnologia: Convênio de uso de prédio, 
+estágios, projetos com empresas. Aqui cabe apenas novos convênios e parcerias, e cada proposta deve estar 
+relacionada a uma Ação/Projeto de melhoria em algum dos itens anteriores do PGA (1, 2, 3, 4, 5 ou 6). 
+ 
+AÇÃO/PROJETO (Tema) 
+701 - cat 7.03 - Projetos com empresas e/ou demais parceiros 
+Origem: 
+2-CPA (Relatório da Comissão Própria de Avaliação da Unidade) 
+O que será feito: 
+Proposta da disponibilização de um ônibus/van das prefeituras de cidades vizinhas para o 
+transporte dos alunos 
+Por que será feito: 
+Reduzir a evasão e aumentar a demanda do vestibular da unidade 
+Responsável: 
+<nome> Camila Cristina Cantelmo 
+Qde CH/sem: 
+01 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> Nathália Cristina Arantes da Silva 
+Qde CH/sem: 
+01 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- Levantar a quantidade de alunos das cidades vizinhas.  
+01/02 
+30/03 
+ 
+02- Entrar em contato com a prefeitura e câmara municipal 
+01/04 
+30/06 
+ 
+03- Marcar reuniões da Direção da unidade com os responsáveis por 
+transporte escolar nas prefeituras 
+01/08 
+30/09 
+ 
+04- Marcar reuniões com vereadores interessados no assunto 
+ 
+01/10 
+30/10 
+ 
+05- Acompanhar a proposta de elaboração de lei que permita o custeio do 
+transporte dos alunos.  
+01/11 
+31/12 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+702 - cat 7.03 - Projetos com empresas e/ou demais parceiros 
+Origem: 
+2-CPA (Relatório da Comissão Própria de Avaliação da Unidade) 
+O que será feito: 
+Proposta de desenvolver parcerias com empresas de reciclagem e empresas de fornecimento de 
+água e energia e desenvolver campanhas voltadas à sustentabilidade de recursos  
+Por que será feito: 
+Reduzir o consumo de recursos e incentivar a reciclagem de materiais 
+Responsável: 
+<nome> Nathália Cristina Arantes da Silva 
+Qde CH/sem: 
+01 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> Camila Cristina Cantelmo 
+Qde CH/sem: 
+01 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/02/2024 
+Data final: 
+31/12/2024 
+Etapas do processo: 
+01- Levantar a quantidade de lixo gerado na unidade 
+01/02 
+30/03 
+ 
+02- Levantar a quantidade de consumo de água na unidade  
+01/02 
+30/03 
+ 
+03- Levantar a quantidade de energia elétrica consumida na unidade  
+01/02 
+30/03 
+ 
+04- Desenvolver empresa interessada em compra o lixo reciclável da 
+unidade 
+01/04 
+30/06 
+ 
+05- Desenvolver campanha de descarte seletivo de lixo na unidade 
+01/04 
+31/12 
+ 
+06- Desenvolver campanhas de conscientização do consumo de 
+descartáveis, água e energia elétrica 
+01/04 
+31/12 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+703 - cat 7.03 - Projetos com empresas e/ou demais parceiros 
+Origem: 
+3-Outra 
+O que será feito: 
+Contato com Empresas para apresentação da Fatec Araras como Instituição de Ensino Superior 
+Por que será feito: 
+Para buscar oportunidades de estágio e emprego aos alunos. Para buscar oportunidade de 
+desenvolvimento de parcerias para pesquisas e capacitações 
+Responsável: 
+<nome> Andreza Paiva de Oliveira Carvalho 
+Qde CH/sem: 
+01 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> Pietro Lucas Prado de Lima 
+Qde CH/sem: 
+01 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/02/2024 
+Data final: 
+31/12/2024 
+Etapas do processo: 
+01- Realizar levantamento das empresas já conveniadas da região e seus 
+contatos. 
+01/02 
+30/03 
+ 
+02- Realizar levantamento das empresas onde nossos alunos trabalham 
+01/02 
+30/03 
+ 
+03- Realizar levantamento das empresas com potencial para parceria 
+01/02 
+30/03 
+ 
+04- Fazer contato por telefone/e-mail para atualização dos dados das 
+empresas conveniadas 
+01/04 
+30/06 
+ 
+05- Fazer contato por telefone/e-mail com empresas com potencial para 
+parcerias 
+01/04 
+31/12 
+ 
+06- Marcar visitas e reuniões para apresentação da Fatec Araras 
+01/04 
+31/12 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.08 - Participação da comunidade e sociedade 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Anexo 1 – Lista de aquisições necessárias aos projetos 
+(equipamentos, softwares, mobiliários) 
+ 
+Item 
+Projeto 
+(XYY) 
+Denominação ou especificação do equipamento 
+Quant. 
+01 
+202 
+Computadores Desk Tops 
+50 
+02 
+503 
+Roteadores 
+06 
+03 
+504 
+Cortinas 
+410 m 
+04 
+507 
+Central Inteibras SMART 4010 
+01 
+05 
+507 
+DVR 24 Canais Full HD 
+02 
+06 
+507 
+Camaras Bullet HDCVI 1220 Intelbras 
+24 
+07 
+507 
+Sensor IVP PET Intelbras 5311 Ext. 
+10 
+08 
+507 
+Sensores de Presença Intelbras 
+30 
+09 
+509 
+Ares Condicionados 24.000 BTUs 
+30 
+10 
+nnn 
+nnn 
+nn 
+11 
+nnn 
+nnn 
+nn 
+12 
+nnn 
+nnn 
+nn 
+13 
+nnn 
+nnn 
+nn 
+14 
+nnn 
+nnn 
+nn 
+15 
+nnn 
+nnn 
+nn 
+16 
+nnn 
+nnn 
+nn 
+17 
+nnn 
+nnn 
+nn 
+18 
+nnn 
+nnn 
+nn 
+19 
+nnn 
+nnn 
+nn 
+20 
+nnn 
+nnn 
+nn 
+ 
+ 
+ 
+ 
+ 
+Anexo 2 – Lista de Ações/Projetos referentes à CPA 
+ 
+Item 
+Projeto 
+(XYY) 
+Denominação 
+(O que será feito) 
+Prazo 
+01 
+nnn 
+nn 
+dd/mm/aaaa 
+02 
+nnn 
+nn 
+dd/mm/aaaa 
+03 
+nnn 
+nn 
+dd/mm/aaaa 
+04 
+nnn 
+nn 
+dd/mm/aaaa 
+05 
+nnn 
+nn 
+dd/mm/aaaa 
+06 
+nnn 
+nn 
+dd/mm/aaaa 
+07 
+nnn 
+nn 
+dd/mm/aaaa 
+08 
+nnn 
+nn 
+dd/mm/aaaa 
+09 
+nnn 
+nn 
+dd/mm/aaaa 
+10 
+nnn 
+nn 
+dd/mm/aaaa 
+11 
+nnn 
+nn 
+dd/mm/aaaa 
+12 
+nnn 
+nn 
+dd/mm/aaaa 
+13 
+nnn 
+nn 
+dd/mm/aaaa 
+14 
+nnn 
+nn 
+dd/mm/aaaa 
+15 
+nnn 
+nn 
+dd/mm/aaaa 
+16 
+nnn 
+nn 
+dd/mm/aaaa 
+17 
+nnn 
+nn 
+dd/mm/aaaa 
+18 
+nnn 
+nn 
+dd/mm/aaaa 
+19 
+nnn 
+nn 
+dd/mm/aaaa 
+20 
+nnn 
+nn 
+dd/mm/aaaa 
+ 
+ 
+<fim> 
+ 
+ 
+ 
+ 
+ 
+ 

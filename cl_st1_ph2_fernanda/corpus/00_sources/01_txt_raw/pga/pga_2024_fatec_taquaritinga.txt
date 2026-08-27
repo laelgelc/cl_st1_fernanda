@@ -1,0 +1,2130 @@
+ 
+Estruturado em 3 Etapas com 2 Anexos: 
+ 
+ 
+IDENTIFICAÇÃO DA UNIDADE 
+Unidade 
+022 
+Fatec Taquaritinga 
+Diretor(a) 
+Luciana Aparecida Ferrarezi 
+ 
+ETAPA I – PLANEJAMENTO PELA EQUIPE GESTORA DA UE 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PLANO DE GESTÃO ANUAL – PGA 
+v08 
+ETAPA I – PLANEJAMENTO PELA EQUIPE GESTORA DA UE 
+ETAPA II – APROVAÇÃO E HOMOLGAÇÃO 
+ETAPA III – ACOMPANHAMENTO DAS AÇÕES GERENCIAIS 
+Anexo 1 – Gestão da Rotina Diária 
+Anexo 2 – Lista de equipamentos necessários aos projetos 
+ANÁLISE DO CENÁRIO (Breve diagnóstico/Baseline) 
+Taquaritinga é um município localizado na região nordeste do estado de São Paulo, pertencente 
+à Região Administrativa Central e à Região de Governo de Araraquara. Com uma população estimada 
+em 56.984 habitantes, sua economia é baseada no agronegócio, sendo o setor agrícola significativo na 
+economia da região. Além disso, o setor industrial é composto por pequenas e médias empresas em 
+diversos setores, como alimentos, metalurgia, movelaria, transportes e canavieiro. A região também 
+abriga quatro fábricas de software, permitindo a realização de parcerias com empresas de outras áreas 
+para garantir a formação adequada dos estudantes e a capacitação docente. 
+Com a crescente transformação digital nas empresas da região, a demanda por profissionais 
+especializados em desenvolvimento full stack, com habilidades em linguagens como HTML, CSS, Java, 
+Python e .NET, e conhecimentos em banco de dados como MySQL, PostgreSQL e ORACLE tem 
+aumentado significativamente. Além disso, a necessidade de entregas rápidas e eficiência nos negócios, 
+tem impulsionado a busca por profissionais em áreas como Scrum Master, UX Designer, Engenheiro 
+DevOps e Product Owner, bem como em especializações em Testes e Segurança da Informação, com 
+foco em automatização. 
+Com o avanço dos ambientes em nuvem, a demanda por profissionais em configuração desses 
+ambientes tem crescido, enquanto a necessidade de especialistas em infraestrutura e administração de 
+banco de dados tem diminuído. A grande tendência atual do mercado é a inteligência artificial, 
+impulsionando a procura por profissionais em Machine Learning e Ciência de Dados, especialmente em 
+empresas de grande porte e novas startups de nicho. Essas carreiras exigem conhecimentos avançados 
+em matemática e estatística, aliados ao entendimento específico de cada negócio ou segmento de 
+atuação. 
+Embora a economia da região tenha forte base agrícola, através da agricultura agroexportadora e 
+das indústrias de alimentos e metalurgia agrícola, o mercado de tecnologia da informação tem se 
+desenvolvido na região. No entanto, para trabalhar em um mercado incerto e competitivo, é necessário 
+não só ter conhecimento técnico, mas também competências comportamentais estruturadas, como o 
+intraempreendedorismo e a capacidade de aprendizagem constante. Nesse cenário a Fatec Taquaritinga 
+tem atuado, na formação de profissionais capacitados para atenderem as demandas do mercado local e 
+regional. 
+Discorrer sobre o cenário, realizando um breve diagnóstico (limitar o espaço da escrita, para que seja inserido de forma suscinta).
+ 
+APONTAMENTO DE SITUAÇÕES-PROBLEMA MAIS RELEVANTES (“Escuta”) 
+Fontes: relatório CPA, análise de processos críticos da UE, relatório de atendimento e ocorrências 
+Hórus GCom. relatório NDE, relatório de representação discente. 
+1 Evasão escolar 
+ 
+5 Verba insuficiente 
+2 Demanda dos cursos diurnos 
+6 Falta de espaços de convivência: refeitório AMS
+3 Capitalização de novas parcerias 
+7 
+4 Número de professores e servidores insuficiente
+8 
+ 
+ 
+ 
+DEFINIÇÃO DE OBJETIVOS, METAS E AÇÕES (PROJETOS) 
+Objetivos (Institucionais) 
+1 Reduzir a evasão escolar na instituição, criando programas de acompanhamento e suporte aos 
+alunos. 
+2 Buscar alternativas para aumentar vagas de estágio e emprego destinadas à Fatec Taquaritinga, por 
+meio de parcerias com empresas e instituições governamentais. 
+3 Identificar e atender à demanda dos cursos diurnos, buscando ampliar a oferta de turmas e horários, 
+conforme necessário. 
+4 Criar espaços de convivência adequados para os alunos. 
+5 Ampliar e intensificar as capacitações de professores e servidores da Fatec Taquaritinga, visando 
+melhorar a qualidade do ensino e atender à demanda crescente de estudantes. 
+ Os objetivos devem estar relacionados com melhoria ou ação, sobre itens do PDI.
+ 
+Metas (Institucionais) 
+1 Aumentar parcerias para oferecimento de 
+vagas de estágio 
+5 
+Aumentar a visibilidade da Fatec Taquaritinga 
+nas redes sociais, com o objetivo de promover 
+a instituição e atrair mais alunos para os 
+cursos oferecidos. 
+2 Aumentar a demanda dos cursos através das 
+parcerias 
+6 
+Estimular a participação dos alunos nos 
+programas de monitoria, visando garantir o 
+sucesso acadêmico e a permanência desses 
+alunos na instituição. 
+3 Atualizar Projetos Pedagógicos dos Cursos  
+7 
+Melhorar a comunicação interna entre alunos, 
+professores e servidores por meio de canais de 
+comunicação online e presenciais. 
+4 
+Estimular a criação de projetos de extensão 
+universitária, envolvendo os alunos e 
+professores, que visem contribuir para a 
+comunidade local e regional. 
+8 Divulgar e trabalhar com os dados da CPA e 
+Websai para nortear anualmente o PGA e PDI. 
+ Observar que cada meta deve ser: específica, mensurável, atingível, relevante e temporal.
+ESTRUTURAÇÃO DAS AÇÕES/PROJETOS 
+01 - Didático-pedagógico 
+ 
+ 
+AÇÃO/PROJETO 
+101 - 
+O que será feito: 
+Por que será feito: 
+Responsável(is) / CH sem: 
+Período de execução: 
+Data de início: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+Custo (se houver): 
+Fonte(s) dos recursos: 
+Objetivo(s) relacionado(s): 
+Meta(s) relacionada(s): 
+ 
+AÇÃO/PROJETO 
+102 - 
+O que será feito: 
+Por que será feito: 
+Responsável(is) / CH sem: 
+Período de execução: 
+Data de início: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+Custo (se houver): 
+Fonte(s) dos recursos: 
+Objetivo(s) relacionado(s): 
+Meta(s) relacionada(s): 
+ 
+AÇÃO/PROJETO 
+103 - 
+O que será feito: 
+Por que será feito: 
+Responsável(is) / CH sem: 
+Período de execução: 
+Data de início: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+Custo (se houver): 
+Fonte(s) dos recursos: 
+Objetivo(s) relacionado(s): 
+Meta(s) relacionada(s): 
+ 
+02 – Ensino e Equipamentos Associados (Laboratórios) 
+ 
+ 
+ 
+ 
+AÇÃO/PROJETO 
+201 – Aquisição de Aparelhos de Ar Condicionado 
+O que será feito: 
+Realização de pregão eletrônico nos termos da Nova Lei de Licitação 14.133/2021. 
+Por que será feito: 
+Reposição de aparelhos danificados/obsoletos em laboratórios. 
+Responsável(is) / CH sem: Crediano Maria de Sousa/  Everton Ricardo Feitora. 
+Período de execução: 
+Data de início: 
+01/08/2023 
+Data final: 
+31/07/2024 
+Etapas do processo: 
+Solicitação de instrução abertura de pregão junto ao Regional 
+01/09/2023 
+31/12/2023 
+Solicitação de abertura de Processo de Compras via pregão 
+01/02/2024 
+29/03/2024 
+Levantamento de orçamentos e montagem de processo 
+01/02/2024 
+29/03/2024 
+Tramitação e análise de termo de referência/edital pelo jurídico do 
+CPS (fase interna). 
+01/04/2024 
+30/04/2024 
+Publicação de edital e tramitação do processo (fase externa). 
+01/05/2024 
+31/05/2024 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+Custo (se houver): 
+Fonte(s) dos recursos: 
+ UGAF/CPS 
+Objetivo(s) relacionado(s): Realizar a reposição de aparelhos danificados em laboratórios da Unidade, fato que compromete 
+o efetivo funcionamento de maquinas e demais equipamentos de tais ambientes. 
+Meta(s) relacionada(s): 
+Redução de custo em manutenção de equipamentos obsoletos e de elevado consumo de energia 
+ 
+ 
+AÇÃO/PROJETO 
+202 – Contrato de serviço manutenção de aparelhos de ar condicionados 
+O que será feito: 
+Realização de pregão eletrônico nos termos da Nova Lei de Licitação 14.133/2021. 
+Por que será feito: 
+Manutenção/higienização de aparelhos de ar condicionados que possuem condições de uso 
+Responsável(is) / CH sem: Crediano Maria de Sousa/  Everton Ricardo Feitora. 
+Período de execução: 
+Data de início: 
+01/06/2023 
+Data final: 
+31/07/2024 
+Etapas do processo: 
+Solicitação de instrução abertura de pregão junto ao Regional 
+01/06/2023 
+30/06/2023 
+Solicitação de abertura de Processo de Compras via pregão 
+01/07/2023 
+31/07/2023 
+Levantamento de orçamentos e montagem de processo 
+01/08/2023 
+31/08/2023 
+Tramitação e análise de termo de referência/edital pelo jurídico do 
+CPS (fase interna). 
+01/09/2023 
+30/09/2023 
+Publicação de edital e tramitação do processo (fase externa). 
+01/10/2023 
+30/10/2023 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+Custo (se houver): 
+Fonte(s) dos recursos: 
+ UGAF/CPS 
+Objetivo(s) relacionado(s): Considerando: 
+ A existência de aparelhos de ar condicionados em condições de realização de reparos e 
+higienização; 
+ Ser a medida mais indicada com vistas a não onerar o estado com a compra de novos 
+aparelhos; 
+  São ambientes cujas máquinas ainda possuem condições de uso, porém com necessidade de 
+reparos; 
+ O Processo de Adiantamento de Despesas Miúdas e de Pronto Pagamento não possui recursos 
+suficientes para atender tal. 
+Meta(s) relacionada(s): 
+Contrato que atenda a demanda de manutenção a higienização de todos os aparelhos da Unidade, 
+proporcinando consequentemente uma redução de uso da verba de DMPP. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AÇÃO/PROJETO 
+203 – Aquisição de cortinas para laboratórios 
+O que será feito: 
+Aquisição de cortinas tipo blackout a serem instaladas nos laboratórios e salas de aulas da 
+Unidade.  
+Por que será feito: 
+Considerando as altas temperaturas da região, bem como a incidência direta de raios solares em 
+salas de aulas e laboratórios, impactando diretamente na calibragem de equipamentos de 
+laboratórios e temperatura dos ambientes, se faz necessário a aquisição de cortinas com o intuito 
+de diminuir tais impactos nos ambientes mencionados.  
+Responsável(is) / CH sem: Crediano Maria de Sousa/  Everton Ricardo Feitosa. 
+Período de execução: 
+Data de início: 
+01/06/2023 
+Data final: 
+31/12/2023 
+Etapas do processo: 
+Solicitação de instrução abertura de pregão junto ao Regional 
+01/06/2023 
+30/06/2023 
+Solicitação de abertura de Processo de Compras via pregão 
+01/07/2023 
+31/07/2023 
+Levantamento de orçamentos e montagem de processo 
+01/08/2023 
+31/08/2023 
+Tramitação e análise de termo de referência/edital pelo jurídico do 
+CPS (fase interna). 
+01/09/2023 
+30/09/2023 
+Publicação de edital e tramitação do processo (fase externa). 
+01/10/2023 
+30/10/2023 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+Custo (se houver): 
+Fonte(s) dos recursos: 
+ UGAF/CPS 
+Objetivo(s) relacionado(s): Redução da temperatura nos ambientes bem como a manutenção da vida útil dos equipamentos 
+instalados em tais locais.  
+Meta(s) relacionada(s): 
+ 
+ 
+ 
+AÇÃO/PROJETO 
+204 – Aquisição de impressoras multifuncionais coloridas 
+O que será feito: 
+Aquisição de impressoras multifuncionais coloridas para atendimento dos setores administrativos 
+e docentes.  
+Por que será feito: 
+A ultima concessão de equipamentos de impressoras multifuncionais entregues na Fatec 
+Taquaritinga, ocorreu em meados de 2012, ou seja, já transcorreram mais de 10 anos, esses 
+equipamentos demandam elevado custo de manutenção, visto o tempo de uso. Há que ressaltar 
+ainda que na atualidade e de acordo com determinação governamental, a documentação gerada 
+pelas Unidades deverão ser substituídas por recursos digitalizados, reduzindo o consumo de papel. 
+Face ao exposto, a demanda por um equipamento que proporcione a digitalização de grande 
+quantidade de documentos, se torna urgente.   
+Responsável(is) / CH sem: Crediano Maria de Sousa/  Everton Ricardo Feitora. 
+Período de execução: 
+Data de início: 
+01/06/2023 
+Data final: 
+31/12/2023 
+Etapas do processo: 
+Solicitação de instrução abertura de pregão junto ao Regional 
+01/06/2023 
+30/06/2023 
+Solicitação de abertura de Processo de Compras via pregão 
+01/07/2023 
+31/07/2023 
+Levantamento de orçamentos e montagem de processo 
+01/08/2023 
+31/08/2023 
+Tramitação e análise de termo de referência/edital pelo jurídico do 
+CPS (fase interna). 
+01/09/2023 
+30/09/2023 
+Publicação de edital e tramitação do processo (fase externa). 
+01/10/2023 
+30/10/2023 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+Custo (se houver): 
+Fonte(s) dos recursos: 
+ UGAF/CPS 
+Objetivo(s) relacionado(s): Redução do consumo de papel e agilização dos processo de digitalização dos documentos a serem 
+utilizados junto ao SpsemPapel/SEI.  
+Meta(s) relacionada(s): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AÇÃO/PROJETO 
+205 – Aquisição de computadores – departamentos administrativos 
+O que será feito: 
+Aquisição de computadores para reposição de máquinas departamentos administrativos da Fatec 
+Taquaritinga.  
+Por que será feito: 
+Atualmente os departamentos administrativos da Fatec Taquaritinga contam com a disponibilidade 
+de máquinas insuficientes aos número de servidores, há que considerar ainda que tais 
+equipamentos já se encontram defasados, necessitando de  constantes manutenções, neste 
+contexto e para que haja o atendimento da demanda de atividades propostas pelo CPS, é
+imprescindível o atendimento de disponibilização de máquinas novas com o intuito de repor as 
+máquinas obsoletas disponíveis atualmente nos setores administrativos da Unidade.    
+Responsável(is) / CH sem: Crediano Maria de Sousa/  Everton Ricardo Feitosa. 
+Período de execução: 
+Data de início: 
+01/06/2023 
+Data final: 
+31/07/2024 
+Etapas do processo: 
+Encaminhamento de equipamentos adquiridos pelo CPS. 
+01/06/2023 
+30/06/2023 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+Custo (se houver): 
+Fonte(s) dos recursos: 
+ UGAF/CPS 
+Objetivo(s) relacionado(s): Reposição de equipamentos dos setores administrativos da Fatec Taquaritinga.  
+Meta(s) relacionada(s): 
+ 
+ 
+ 
+AÇÃO/PROJETO 
+206 – Aquisição de Nobreak 
+O que será feito: 
+Aquisição de nobreak para atendimentos da rede de computadores da Unidade.  
+Por que será feito: 
+Considerando as constantes quedas de energia no campus da Fatec Taquaritinga e a demanda dos 
+laboratórios da Unidade, contamos com a necessidade de aquisição de equipamentos que 
+mantenham a rede de computadores em funcionamento até que haja o cumprimentos das medidas 
+necessárias de desligamentos dos dos equipamentos em caso de brusca queda de energia, neste 
+contexto, ha a necessidade de aquisição de nobreak para atendimento dessas necssidades.   
+Responsável(is) / CH sem: Crediano Maria de Sousa/  Everton Ricardo Feitora. 
+Período de execução: 
+Data de início: 
+01/06/2023 
+Data final: 
+31/07/2024 
+Etapas do processo: 
+Encaminhamento de equipamentos adquiridos pelo CPS. 
+01/06/2023 
+30/06/2023 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+Custo (se houver): 
+Fonte(s) dos recursos: 
+ UGAF/CPS 
+Objetivo(s) relacionado(s): Aquisição de nobreak para atendimento da rede de computadores da Fatec Taquaritinga.  
+Meta(s) relacionada(s): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AÇÃO/PROJETO 
+207 – HD SSD/512 – SATA 03 
+O que será feito: 
+Aquisição de 100 unidades de HD SSD/512 – SATA 03 
+Por que será feito: 
+A aquisição de HDs do tipo SSD/512 SATA tem como objetivo atender a demanda de manutenção
+em máquinas (computadores) instalados em laboratórios, proporcionando um maior 
+processamento dessas máquinas, facilitando o uso de softwares necessários às aulas. 
+Responsável(is) / CH sem: Crediano Maria de Sousa/  Everton Ricardo Feitosa. 
+Período de execução: 
+Data de início: 
+01/06/2023 
+Data final: 
+31/07/2024 
+Etapas do processo: 
+Encaminhamento de equipamentos adquiridos pelo CPS. 
+01/06/2023 
+30/06/2023 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+Custo (se houver): 
+Fonte(s) dos recursos: 
+ UGAF/CPS 
+Objetivo(s) relacionado(s): Aquisição de HDs para fins de manutenção de máquinas dispostas em laboratórios de informática
+da Fatec Taquaritinga.  
+Meta(s) relacionada(s): 
+ 
+ 
+ 
+ 
+AÇÃO/PROJETO 
+208 – Memórias DDR4 16 GB 
+O que será feito: 
+Aquisição de 100 unidades de Memórias DDR4 16 GB 
+Por que será feito: 
+A aquisição de memórias do tipo SSD/512 SATA tem como objetivo atender a demanda de 
+manutenção em máquinas (computadores) instalados em laboratórios, proporcionando um maior 
+processamento dessas máquinas, facilitando o uso de softwares necessários às aulas. 
+Responsável(is) / CH sem: Crediano Maria de Sousa/  Everton Ricardo Feitosa. 
+Período de execução: 
+Data de início: 
+01/06/2023 
+Data final: 
+31/07/2024 
+Etapas do processo: 
+Encaminhamento de equipamentos adquiridos pelo CPS. 
+01/06/2023 
+30/06/2023 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+Custo (se houver): 
+Fonte(s) dos recursos: 
+ UGAF/CPS 
+Objetivo(s) relacionado(s): Aquisição de memórias para fins de manutenção de máquinas dispostas em laboratórios de 
+informática da Fatec Taquaritinga.  
+Meta(s) relacionada(s): 
+ 
+ 
+ 
+ 
+AÇÃO/PROJETO 
+209 – Access Point (AP) 310  
+O que será feito: 
+Aquisição de 28 unidades Access Point (AP) 310 
+Por que será feito: 
+A aquisição Access Point (AP) 310 tem como objetivo atender a demanda estabelecida pelo próprio 
+CPS, no sentido de  proporcionar a ampliação da estrutura de acesso a internet nas Unidades. 
+Responsável(is) / CH sem: Crediano Maria de Sousa/  Everton Ricardo Feitosa. 
+Período de execução: 
+Data de início: 
+01/06/2023 
+Data final: 
+31/07/2024 
+Etapas do processo: 
+Encaminhamento de equipamentos adquiridos pelo CPS. 
+01/06/2023 
+30/06/2023 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+Custo (se houver): 
+Fonte(s) dos recursos: 
+ UGAF/CPS 
+Objetivo(s) relacionado(s): Aquisição de Access Point (AP) 310, espanção de informatização das unidades. 
+Meta(s) relacionada(s): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AÇÃO/PROJETO 
+210 – Switch 24/1000  
+O que será feito: 
+Aquisição de 14 unidades de Switch 24/1000 
+Por que será feito: 
+A aquisição de Switch 24/1000 tem como objetivo atender a demanda estabelecida pelo próprio 
+CPS, no sentido de  proporcionar a ampliação da estrutura de acesso a internet nas Unidades. 
+Responsável(is) / CH sem: Crediano Maria de Sousa/  Everton Ricardo Feitosa. 
+Período de execução: 
+Data de início: 
+01/06/2023 
+Data final: 
+31/07/2024 
+Etapas do processo: 
+Encaminhamento de equipamentos adquiridos pelo CPS. 
+01/06/2023 
+30/06/2023 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+Custo (se houver): 
+Fonte(s) dos recursos: 
+ UGAF/CPS 
+Objetivo(s) relacionado(s): Aquisição de Switch 24/1000, espanção de informatização das unidades. 
+Meta(s) relacionada(s): 
+ 
+ 
+ 
+ 
+AÇÃO/PROJETO 
+211 – Caixa de Cabo de Rede CAT6  
+O que será feito: 
+Aquisição de 10 caixas de cabo de Rede CAT6 
+Por que será feito: 
+A aquisição de cabo de Rede CAT6, tem como objetivo atender a demanda estabelecida pelo 
+próprio CPS, no sentido de  proporcionar a ampliação da estrutura de acesso a internet nas 
+Unidades. 
+Responsável(is) / CH sem: Crediano Maria de Sousa/  Everton Ricardo Feitosa. 
+Período de execução: 
+Data de início: 
+01/06/2023 
+Data final: 
+31/07/2024 
+Etapas do processo: 
+Encaminhamento de equipamentos adquiridos pelo CPS. 
+01/06/2023 
+30/06/2023 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+Custo (se houver): 
+Fonte(s) dos recursos: 
+ UGAF/CPS 
+Objetivo(s) relacionado(s): Aquisição de cabo de Rede CAT6, espanção de informatização das unidades. 
+Meta(s) relacionada(s): 
+ 
+ 
+ 
+ 
+AÇÃO/PROJETO 
+212 – Bancada para laboratórios  
+O que será feito: 
+Processo de aquisição de bancadas para laboratórios 
+Por que será feito: 
+A aquisição de bancadas para laboratórios tem como objetivo atender a reposição de móveis já em 
+estágio de desgaste que estão dispostos nos ambientes e com vista a promover maior segurança
+aos equipamentos montados em laboratórios. 
+Responsável(is) / CH sem: Crediano Maria de Sousa/  Everton Ricardo Feitosa. 
+Período de execução: 
+Data de início: 
+08/01/2024 
+Data final: 
+31/07/2024 
+Etapas do processo: 
+Solicitação de instrução abertura de pregão junto ao Regional 
+08/01/2024 
+31/01/2024 
+Solicitação de abertura de Processo de Compras via pregão 
+01/02/2024 
+29/02/2024 
+Levantamento de orçamentos e montagem de processo 
+01/03/2024 
+31/03/2024 
+Tramitação e análise de termo de referência/edital pelo jurídico do 
+CPS (fase interna). 
+01/04/2024 
+30/04/2024 
+Publicação de edital e tramitação do processo (fase externa). 
+01/05/2024 
+31/05/2024 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+Custo (se houver): 
+Fonte(s) dos recursos: 
+ UGAF/CPS 
+Objetivo(s) relacionado(s): Aquisição de bancada para laboratórios. 
+Meta(s) relacionada(s): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AÇÃO/PROJETO 
+213 – Impressora 3D inter 05 Plus.  
+O que será feito: 
+Processo de aquisição de impressora 3D inter 05 Plus. 
+Por que será feito: 
+A aquisição de impressora 3D inter 05 Plus, tem como objetivo ampliar o acesso dos alunos a 
+projetos de prototipagem de produtos. A dispoibilização desse equipamento proporcionará uma 
+maior interação do aluno em sala de aula.  
+Responsável(is) / CH sem: Crediano Maria de Sousa/  Everton Ricardo Feitosa. 
+Período de execução: 
+Data de início: 
+08/01/2024 
+Data final: 
+31/07/2024 
+Etapas do processo: 
+Solicitação de instrução abertura de pregão junto ao Regional 
+08/01/2024 
+31/01/2024 
+Solicitação de abertura de Processo de Compras via pregão 
+01/02/2024 
+29/02/2024 
+Levantamento de orçamentos e montagem de processo 
+01/03/2024 
+31/03/2024 
+Tramitação e análise de termo de referência/edital pelo jurídico do 
+CPS (fase interna). 
+01/04/2024 
+30/04/2024 
+Publicação de edital e tramitação do processo (fase externa). 
+01/05/2024 
+31/05/2024 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+Custo (se houver): 
+Fonte(s) dos recursos: 
+ UGAF/CPS 
+Objetivo(s) relacionado(s): Aquisição de impressora 3D inter 05 Plus. 
+Meta(s) relacionada(s): 
+ 
+ 
+ 
+AÇÃO/PROJETO 
+214 – Lousa branca panorâmica.  
+O que será feito: 
+Processo de aquisição de lousa branca panorâmica. 
+Por que será feito: 
+A aquisição de lousa branca panorâmica, tem como objetivo proporcionar a reposição em sala de 
+aulas e laboratórios, haja vista o processo de desgaste natural das lousas instaladas atualmente em 
+tais ambientes. 
+Responsável(is) / CH sem: Crediano Maria de Sousa/  Everton Ricardo Feitosa. 
+Período de execução: 
+Data de início: 
+08/01/2024 
+Data final: 
+31/07/2024 
+Etapas do processo: 
+Solicitação de instrução abertura de pregão junto ao Regional 
+08/01/2024 
+31/01/2024 
+Solicitação de abertura de Processo de Compras via pregão 
+01/02/2024 
+29/02/2024 
+Levantamento de orçamentos e montagem de processo 
+01/03/2024 
+31/03/2024 
+Tramitação e análise de termo de referência/edital pelo jurídico do 
+CPS (fase interna). 
+01/04/2024 
+30/04/2024 
+Publicação de edital e tramitação do processo (fase externa). 
+01/05/2024 
+31/05/2024 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+Custo (se houver): 
+Fonte(s) dos recursos: 
+ UGAF/CPS 
+Objetivo(s) relacionado(s): Aquisição de lousa branca panorâmica. 
+Meta(s) relacionada(s): 
+ 
+ 
+ 
+AÇÃO/PROJETO 
+215 – Câmera profissional  
+O que será feito: 
+Aquisição via processo de compras de câmera profissional 
+Por que será feito: 
+A aquisição por meio de processo de compras, de camera fotográfica profissional, com o intuito de 
+atender a necessidade de cadastro de alunos junto ao Sistema Integrado de Gestão Acadêmico 
+SIGA, tal sistema demanda a utilização de foto para identificação do aluno. Atualmente não 
+contamos com equipamento para atendimento de tal demanda. 
+Responsável(is) / CH sem: Crediano Maria de Sousa/  Everton Ricardo Feitosa. 
+Período de execução: 
+Data de início: 
+01/06/2023 
+Data final: 
+31/07/2024 
+Etapas do processo: 
+Encaminhamento de equipamentos adquiridos pelo CPS. 
+01/06/2023 
+30/06/2023 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+Custo (se houver): 
+Fonte(s) dos recursos: 
+ UGAF/CPS 
+Objetivo(s) relacionado(s): Aquisição de lousa branca panorâmica. 
+Meta(s) relacionada(s): 
+ 
+ 
+03 – Pesquisa / Extensão e Equipamentos Associados 
+ 
+ 
+ 
+ 
+AÇÃO/PROJETO 
+301 - 
+O que será feito: 
+Por que será feito: 
+Responsável(is) / CH sem: 
+Período de execução: 
+Data de início: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+Custo (se houver): 
+Fonte(s) dos recursos: 
+Objetivo(s) relacionado(s): 
+Meta(s) relacionada(s): 
+ 
+AÇÃO/PROJETO 
+302 - 
+O que será feito: 
+Por que será feito: 
+Responsável(is) / CH sem: 
+Período de execução: 
+Data de início: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+Custo (se houver): 
+Fonte(s) dos recursos: 
+Objetivo(s) relacionado(s): 
+Meta(s) relacionada(s): 
+ 
+AÇÃO/PROJETO 
+303 - 
+O que será feito: 
+Por que será feito: 
+Responsável(is) / CH sem: 
+Período de execução: 
+Data de início: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+Custo (se houver): 
+Fonte(s) dos recursos: 
+Objetivo(s) relacionado(s): 
+Meta(s) relacionada(s): 
+04 – Atividades Formativas em Projetos (nível tático) 
+ 
+ 
+ 
+ 
+AÇÃO/PROJETO 
+401 - 
+O que será feito: 
+Por que será feito: 
+Responsável(is) / CH sem: 
+Período de execução: 
+Data de início: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+Custo (se houver): 
+Fonte(s) dos recursos: 
+Objetivo(s) relacionado(s): 
+Meta(s) relacionada(s): 
+ 
+AÇÃO/PROJETO 
+402 - 
+O que será feito: 
+Por que será feito: 
+Responsável(is) / CH sem: 
+Período de execução: 
+Data de início: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+Custo (se houver): 
+Fonte(s) dos recursos: 
+Objetivo(s) relacionado(s): 
+Meta(s) relacionada(s): 
+ 
+AÇÃO/PROJETO 
+403 - 
+O que será feito: 
+Por que será feito: 
+Responsável(is) / CH sem: 
+Período de execução: 
+Data de início: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+Custo (se houver): 
+Fonte(s) dos recursos: 
+Objetivo(s) relacionado(s): 
+Meta(s) relacionada(s): 
+ 
+05 – Infraestrutura (instalações prediais) 
+ 
+ 
+ 
+ 
+ 
+ 
+AÇÃO/PROJETO 
+501 – Construção de refeitório para atendimento dos alunos da Articulação da Formação 
+Profissional Média e Superior - AMS 
+O que será feito: 
+Construção de refeitório para atendimento dos alunos matriculados junto ao  Curso de Articulação
+da Formação Profissional Média e Superior - AMS 
+Por que será feito: 
+A Fatec Taquaritinga conta com o curso de Articulação do Ensino Médio com Habilitação
+Profissional Técnico em Desenvolvimento de Sistemas e o Curso Superior de Tecnologia em Análise 
+e Desenvolvimento de – AMS. Até o presente momento não há espaço disponível para os alunos 
+do ensino médio realizarem suas refeições, a situação já foi aprentanda às instâncias responsáveis, 
+porém ainda não obtivemos resposta quanto à construção desse ambiente.  
+Responsável(is) / CH sem: Crediano Maria de Sousa/  Everton Ricardo Feitosa. 
+Período de execução: 
+Data de início: 
+01/06/2023 
+Data final: 
+31/07/2024 
+Etapas do processo: 
+Solicitação de instrução abertura de pregão junto ao Regional 
+01/06/2023 
+30/06/2023 
+Solicitação de abertura de Processo de Compras via pregão 
+01/07/2023 
+31/07/2023 
+Levantamento de orçamentos e montagem de processo 
+01/08/2023 
+31/08/2023 
+Tramitação e análise de termo de referência/edital pelo jurídico do 
+CPS (fase interna). 
+01/09/2023 
+30/09/2023 
+Publicação de edital e tramitação do processo (fase externa). 
+01/10/2023 
+30/10/2023 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+Custo (se houver): 
+Fonte(s) dos recursos: 
+ UGAF/CPS 
+Objetivo(s) relacionado(s): Construção de espaço apropriado ao atendimento de alunos do Ensino Médio do AMS. 
+Meta(s) relacionada(s): 
+ 
+ 
+ 
+AÇÃO/PROJETO 
+502 – Adequação de iluminação do campus – Fatec Taquaritinga 
+O que será feito: 
+Considerando a dimensão do campus da Fatec Taquaritinga (10.000 metros quadrados), faz-se 
+necessária a adequação da iluminação, aumentando a quantidade de postes, bem como a 
+instalação de novas luminárias em led, reduzindo o consumo elétrico mensal, aumentando a 
+luminosidade das áreas que se encontram sem cobertura de iluminação. Há a necessidade de 
+adequação (redução) dos postes, com vistas a proporcionar maior facilidade em realizar a 
+manutenção/troca de lâmpadas.  
+Por que será feito: 
+O campus da Fatec Taquaritinga encontra-se localizado em área afastada do centro da cidade, fato 
+que compromete a segurança dos transeuntes, neste contexto, é de suma importância a realização
+de manutenção e expansão de pontos de luminosidade no campus, com vistas a assegurar a 
+seguranção de alunos e funcionários da Unidade.    
+Responsável(is) / CH sem: Crediano Maria de Sousa/  Everton Ricardo Feitosa. 
+Período de execução: 
+Data de início: 
+08/01/2024 
+Data final: 
+31/07/2024 
+Etapas do processo: 
+Solicitação de instrução abertura de pregão junto ao Regional 
+08/01/2024 
+31/01/2024 
+Solicitação de abertura de Processo de Compras via pregão 
+01/02/2024 
+29/02/2024 
+Levantamento de orçamentos e montagem de processo 
+01/03/2024 
+31/03/2024 
+Tramitação e análise de termo de referência/edital pelo jurídico do 
+CPS (fase interna). 
+01/04/2024 
+30/04/2024 
+Publicação de edital e tramitação do processo (fase externa). 
+01/05/2024 
+31/05/2024 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+Custo (se houver): 
+Fonte(s) dos recursos: 
+ UGAF/CPS 
+Objetivo(s) relacionado(s): Redução do consumo elétrico e proporcionar maior segurança ao publico da Unidade.  
+Meta(s) relacionada(s): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AÇÃO/PROJETO 
+503 – Instalação de Rede de Combate a Incêndio 
+O que será feito: 
+Projeto e execução de instalação de rede hidráulica (hidrantes, mangueiras, linhas de 
+abastecimentos, bombas), além dos equipamentos a serem adquiridos, há a necessidade de 
+realização de teste hidrostático para verificação da rede.  
+Por que será feito: 
+A Fatec Taquaritinga conta com 31 anos de atividades, porém até o momento ainda na conta com 
+a concessão de AVCB concedido após avaliação pelo corpo de bombeiros; tal situação compromete 
+seriamente a segurança dos alunos e funcionários. Há que considerar que diáriamente contamos 
+com a movimentação de cerca de 1300 (hum mil e trezentos) alunos na Unidade, sendo assim, o 
+atendimento à demanda se faz urgente.     
+Responsável(is) / CH sem: Crediano Maria de Sousa/  Everton Ricardo Feitosa. 
+Período de execução: 
+Data de início: 
+08/01/2024 
+Data final: 
+31/07/2024 
+Etapas do processo: 
+Solicitação de instrução abertura de pregão junto ao Regional 
+08/01/2024 
+31/01/2024 
+Solicitação de abertura de Processo de Compras via pregão 
+01/02/2024 
+29/02/2024 
+Levantamento de orçamentos e montagem de processo 
+01/03/2024 
+31/03/2024 
+Tramitação e análise de termo de referência/edital pelo jurídico do 
+CPS (fase interna). 
+01/04/2024 
+30/04/2024 
+Publicação de edital e tramitação do processo (fase externa). 
+01/05/2024 
+31/05/2024 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+Custo (se houver): 
+Fonte(s) dos recursos: 
+ UGAF/CPS 
+Objetivo(s) relacionado(s): Adequação dos prédios da Fatec Taquaritinga às medidas de segurança necessárias.  
+Meta(s) relacionada(s): 
+ 
+ 
+ 
+AÇÃO/PROJETO 
+504 – Instalação de Sistemas Interno de Monitoramento  
+O que será feito: 
+Aquisição de equipamentos para atendimento da necessidade de monitoramento da área total do 
+campus da Fatec Taquaritinga.  
+Por que será feito: 
+Atualmente contamos com apenas 03 postos de vigilância para atendimento a toda a área do 
+campus da Fatec Taquaritinga. Solicitamos por diversas vezes, a ampliação do quantitativo de 
+vigilantes, haja vista a localização isolada do campus, porém fomos instruídos a providenciar junto 
+ao CPS, a compra de sistema interno de monitoramente, haja vista que o número de vigilantes não
+será ampliado e razão da conteção de gastos estabelecido em Decreto Governamental de 2015.     
+Responsável(is) / CH sem: Crediano Maria de Sousa/  Everton Ricardo Feitosa. 
+Período de execução: 
+Data de início: 
+01/06/2023 
+Data final: 
+31/07/2024 
+Etapas do processo: 
+Solicitação de instrução abertura de pregão junto ao Regional 
+01/06/2023 
+30/06/2023 
+Solicitação de abertura de Processo de Compras via pregão 
+01/07/2023 
+31/07/2023 
+Levantamento de orçamentos e montagem de processo 
+01/08/2023 
+31/08/2023 
+Tramitação e análise de termo de referência/edital pelo jurídico do 
+CPS (fase interna). 
+01/09/2023 
+30/09/2023 
+Publicação de edital e tramitação do processo (fase externa). 
+01/10/2023 
+30/10/2023 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+Custo (se houver): 
+Fonte(s) dos recursos: 
+ UGAF/CPS 
+Objetivo(s) relacionado(s): Monitoramento interno do campus da Fatec Taquaritinga.  
+Meta(s) relacionada(s): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AÇÃO/PROJETO 
+505 – Cobertura da Quadra Poliesportiva  
+O que será feito: 
+Aquisição de estrutura destinada à quadra poliesportiva da Fatec Taquaritinga.  
+Por que será feito: 
+A Fatec Taquaritinga conta com ambiente (quadra poliesportiva) destinada às atividades esportivas 
+dos alunos da Unidade. Tal ambiente é utilizado diariamente pelos alunos dos Cursos Superiores 
+bem como pelos alunos do Ensino Médio Integrado – AMS. O ambiente nunca contou com 
+cobertura, o que dificulta as atividades no decorrer do dia, horário em que os alunos do ensino 
+médio está em atividade na Unidade. Considerando o exposto, se faz necessária a aquisição da 
+cobertura com o intuito de garantir uma maior aproveitamento do espaçõ pelo alunos.       
+Responsável(is) / CH sem: Crediano Maria de Sousa/  Everton Ricardo Feitosa. 
+Período de execução: 
+Data de início: 
+01/06/2023 
+Data final: 
+31/07/2024 
+Etapas do processo: 
+Solicitação de instrução abertura de pregão junto ao Regional 
+01/06/2023 
+30/06/2023 
+Solicitação de abertura de Processo de Compras via pregão 
+01/07/2023 
+31/07/2023 
+Levantamento de orçamentos e montagem de processo 
+01/08/2023 
+31/08/2023 
+Tramitação e análise de termo de referência/edital pelo jurídico do 
+CPS (fase interna). 
+01/09/2023 
+30/09/2023 
+Publicação de edital e tramitação do processo (fase externa). 
+01/10/2023 
+30/10/2023 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+Custo (se houver): 
+Fonte(s) dos recursos: 
+ UGAF/CPS 
+Objetivo(s) relacionado(s): Adequação do ambiente da quadra.  
+Meta(s) relacionada(s): 
+ 
+ 
+ 
+AÇÃO/PROJETO 
+506 – Controle de acesso ao campus  
+O que será feito: 
+Aquisição de portão de acesso bem como cancela apropriada a controlar a entrada e saída de 
+transeuntes ao campus da Fatec Taquaritinga.  
+Por que será feito: 
+Atualmente a área do campus da Fatec Taquaritinga conta com guarita instalada, porém não há
+efetiva utilidade, haja vista que o acesso é livre a todos, gerando dificuldade por parte da vigilância 
+em acompanhar e controlar o acesso de terceiros ao campus, tal fato corrobora para com a falta de 
+segurança nas dependências da Unidade de Ensino, sendo imprescindível a aquisição e instalação
+de tais equipamentos no acesso à Faculdade.       
+Responsável(is) / CH sem: Crediano Maria de Sousa/  Everton Ricardo Feitosa. 
+Período de execução: 
+Data de início: 
+01/06/2023 
+Data final: 
+31/07/2024 
+Etapas do processo: 
+Solicitação de instrução abertura de pregão junto ao Regional 
+01/06/2023 
+30/06/2023 
+Solicitação de abertura de Processo de Compras via pregão 
+01/07/2023 
+31/07/2023 
+Levantamento de orçamentos e montagem de processo 
+01/08/2023 
+31/08/2023 
+Tramitação e análise de termo de referência/edital pelo jurídico do 
+CPS (fase interna). 
+01/09/2023 
+30/09/2023 
+Publicação de edital e tramitação do processo (fase externa). 
+01/10/2023 
+30/10/2023 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+Custo (se houver): 
+Fonte(s) dos recursos: 
+ UGAF/CPS 
+Objetivo(s) relacionado(s): Monitoramento/segurança interna do campus da Fatec Taquaritinga.  
+Meta(s) relacionada(s): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AÇÃO/PROJETO 
+507 – Adequação de telhados e calhas  
+O que será feito: 
+Adequação dos telhados e calhas dos blocos (A1, A2 e Administrativo) da Fatec Taquaritinga.  
+Por que será feito: 
+Nos períodos de chuvas, os ambientes didáticos e administrativos da Fatec Taquaritinga sofrem com 
+as constantes infiltrações decorrentes de vazamentos nos telhados e calhas dos blocos. Os 
+vazamentos comprometem seriamente os equipamentos administrativos bem como de 
+laboratórios da Unidade. Tal situação é pontuada constantemente à Administração Central, porém
+até o presente momento, ainda não obtivemos retorno com relação à situação; salas de aulas 
+também estão sendo comprometidas com as infiltrações e vazamentos mencionados.       
+Responsável(is) / CH sem: Crediano Maria de Sousa/  Everton Ricardo Feitosa. 
+Período de execução: 
+Data de início: 
+01/06/2023 
+Data final: 
+31/07/2024 
+Etapas do processo: 
+Solicitação de instrução abertura de pregão junto ao Regional 
+01/06/2023 
+30/06/2023 
+Solicitação de abertura de Processo de Compras via pregão 
+01/07/2023 
+31/07/2023 
+Levantamento de orçamentos e montagem de processo 
+01/08/2023 
+31/08/2023 
+Tramitação e análise de termo de referência/edital pelo jurídico do 
+CPS (fase interna). 
+01/09/2023 
+30/09/2023 
+Publicação de edital e tramitação do processo (fase externa). 
+01/10/2023 
+30/10/2023 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+Custo (se houver): 
+Fonte(s) dos recursos: 
+ UGAF/CPS 
+Objetivo(s) relacionado(s): Adequação de telhados dos blocos (A1, A2 e administrativo).  
+Meta(s) relacionada(s): 
+ 
+ 
+ 
+AÇÃO/PROJETO 
+508 – Reforma de banheiros (blocos A1, A2 e Administrativo)  
+O que será feito: 
+Reforma e adequação dos banheiros dos blocos (A1, A2 e Administrativo) da Fatec Taquaritinga.  
+Por que será feito: 
+Os banheiros mencionados, contam com sérios problemas hidráulicos e de revestimento, cabendo 
+uma intervensão urgente em suas estruturas.       
+Responsável(is) / CH sem: Crediano Maria de Sousa/  Everton Ricardo Feitosa. 
+Período de execução: 
+Data de início: 
+01/06/2023 
+Data final: 
+31/07/2024 
+Etapas do processo: 
+Solicitação de instrução abertura de pregão junto ao Regional 
+01/06/2023 
+30/06/2023 
+Solicitação de abertura de Processo de Compras via pregão 
+01/07/2023 
+31/07/2023 
+Levantamento de orçamentos e montagem de processo 
+01/08/2023 
+31/08/2023 
+Tramitação e análise de termo de referência/edital pelo jurídico do 
+CPS (fase interna). 
+01/09/2023 
+30/09/2023 
+Publicação de edital e tramitação do processo (fase externa). 
+01/10/2023 
+30/10/2023 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+Custo (se houver): 
+Fonte(s) dos recursos: 
+ UGAF/CPS 
+Objetivo(s) relacionado(s): Adequação de banheiros (A1, A2 e administrativo).  
+Meta(s) relacionada(s): 
+ 
+ 
+AÇÃO/PROJETO 
+509 – Higienização de Caixa D’água (blocos A1, A2 e Administrativo)  
+O que será feito: 
+Higienização dos reservatórios de abastecimento de água dos blocos (A1, A2 e Administrativo) da 
+Fatec Taquaritinga.  
+Por que será feito: 
+Considerando a necessidade de adequação de uso, faz necessário a execução de serviço para 
+limpeza e higienização dos ambientes destinados a reservatório de água da Fatec Taquaritinga por 
+empresa especializada nessa atividade. Considerando as dificuldade encontradas pelo CPS para 
+execução de serviços, em virtude do E-Social, solicitamos a execução do serviço por meio de 
+Dispensão de Licitação.       
+Responsável(is) / CH sem: Crediano Maria de Sousa/  Everton Ricardo Feitosa. 
+Período de execução: 
+Data de início: 
+01/06/2023 
+Data final: 
+31/07/2024 
+Etapas do processo: 
+Solicitação de aquisição via Dispensa de Licitação 
+01/06/2023 
+31/08/2023 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+Custo (se houver): 
+Fonte(s) dos recursos: 
+ UGAF/CPS 
+Objetivo(s) relacionado(s): Higienização e limpeza de caixas d’agua de banheiros (A1, A2 e administrativo).  
+Meta(s) relacionada(s): 
+ 
+ 
+ 
+AÇÃO/PROJETO 
+510 – Solicitação de realização de pintura  (blocos A1, A2 e Administrativo)  
+O que será feito: 
+Realização de pintura dos blocos (A1, A2 e Administrativo) da Fatec Taquaritinga.  
+Por que será feito: 
+O ultimo serviço de pintura realizado nos blocos da Fatec Taquaritinga, datam de 2015; no decorrer 
+desse período e em razão das várias infiltrações ocorridas, diversos ambientes contam com áreas 
+mofadas, cabendo a realização de pintura.       
+Responsável(is) / CH sem: Crediano Maria de Sousa/  Everton Ricardo Feitosa. 
+Período de execução: 
+Data de início: 
+08/01/2024 
+Data final: 
+31/07/2024 
+Etapas do processo: 
+Solicitação de instrução abertura de pregão junto ao Regional 
+08/01/2024 
+31/01/2024 
+Solicitação de abertura de Processo de Compras via pregão 
+01/02/2024 
+29/02/2024 
+Levantamento de orçamentos e montagem de processo 
+01/03/2024 
+31/03/2024 
+Tramitação e análise de termo de referência/edital pelo jurídico do 
+CPS (fase interna). 
+01/04/2024 
+30/04/2024 
+Publicação de edital e tramitação do processo (fase externa). 
+01/05/2024 
+31/05/2024 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+Custo (se houver): 
+Fonte(s) dos recursos: 
+ UGAF/CPS 
+Objetivo(s) relacionado(s): Serviço de pintura de blocos (A1, A2 e administrativo).  
+Meta(s) relacionada(s): 
+ 
+ 
+AÇÃO/PROJETO 
+511 – Solicitação de realização de adequação elétrica  (blocos A1, A2 e Administrativo)  
+O que será feito: 
+Realização de serviço de adequação/dimensionamento dos quadros de distribuição de energia dos 
+blocos (A1, A2 e Administrativo) da Fatec Taquaritinga.  
+Por que será feito: 
+Considerando a necessidade de adequação dos espaços da Fatec Taquaritinga com vistas a 
+disponibilizarmos novos laboratórios de informática para atendimento dos curso de Análise e 
+Desenvolvimento de Sistemas, Sistemas para Internet, AMS e Sala Maker; os quadros de 
+distribuição não contam com o correto dimensionamento. Tal situação, compromente seriamente 
+a segurança de todos no ambiente interno da Unidade; é constante a queda de disjuntores e a 
+queima de fios em decorrencia da sobre-carga do sistema, cabendo neste sentido, um novo 
+dimensionamento desses quadros.       
+Responsável(is) / CH sem: Crediano Maria de Sousa/  Everton Ricardo Feitosa. 
+Período de execução: 
+Data de início: 
+08/01/2024 
+Data final: 
+31/07/2024 
+Etapas do processo: 
+Solicitação de instrução abertura de pregão junto ao Regional 
+08/01/2024 
+31/01/2024 
+Solicitação de abertura de Processo de Compras via pregão 
+01/02/2024 
+29/02/2024 
+Levantamento de orçamentos e montagem de processo 
+01/03/2024 
+31/03/2024 
+Tramitação e análise de termo de referência/edital pelo jurídico do 
+CPS (fase interna). 
+01/04/2024 
+30/04/2024 
+Publicação de edital e tramitação do processo (fase externa). 
+01/05/2024 
+31/05/2024 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+Custo (se houver): 
+Fonte(s) dos recursos: 
+ UGAF/CPS 
+Objetivo(s) relacionado(s): Serviço de dimensionamento de quadros elétricos dos blocos (A1, A2 e administrativo).  
+Meta(s) relacionada(s): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AÇÃO/PROJETO 
+512 – Serviço de rocagem de grama e poda de árvores no campus da Fatec Taquaritinga  
+O que será feito: 
+Serviço de rocagem de grama e poda de árvores no campus da Fatec Taquaritinga 
+Por que será feito: 
+O campus da Fatec Taquaritinga conta com 10.000 (dez mil metros) quadrados de área, grande parte 
+dessa área encontra-se ocupada com grama e árvores, demandando constantes serviços de poda e 
+retirada de entulhos. Com o aumentos dos preços de serviços e a necessidade de retenção de 
+impostos, tal atividades já não pode ser realizada via DMPP, cabendo a formalização por meio de 
+Dispensa de Licitação. Há que ressaltar que a não realização de tal serviço, impactará na 
+proliferação de insentos e animais pessonhentos nos interior do bloco administrativo e didáticos 
+da Unidade, comprometendo a segurança de todos.       
+Responsável(is) / CH sem: Crediano Maria de Sousa/  Everton Ricardo Feitosa. 
+Período de execução: 
+Data de início: 
+01/06/2023 
+Data final: 
+31/12/2023 
+Etapas do processo: 
+Solicitação de aquisição via Dispensa de Licitação 
+01/06/2023 
+31/08/2023 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+Custo (se houver): 
+Fonte(s) dos recursos: 
+ UGAF/CPS 
+Objetivo(s) relacionado(s): Serviço de roçagem do campus.  
+Meta(s) relacionada(s): 
+ 
+ 
+ 
+AÇÃO/PROJETO 
+513 – Solicitação de Construção de Prédio  
+O que será feito: 
+Serviço de construção de prédio destinado à alocação dos departamentos administrativos e 
+biblioteca da Fatec Taquaritinga.  
+Por que será feito: 
+A Fatec Taquaritinga é hoje a Unidade mais antiga e tradicional da Regional 10, contamos com 05 
+cursos superiores a saber: 
+ Agronegócio, 
+ Análise e Desenvolvimento de Sistemas. 
+ Produção Industrial, 
+ Sistemas para Internet, 
+ AMS – Integrado Médio/Superior 
+Possuímos uma pós gradução em funcionamento: 
+ Gestão da Produção Industrial. 
+Contamos com a aproximandamente 1.300 alunos matriculados e há uma demanda antiga de 
+espaço para atender a todos os cursos. Já foram protocolados vários pedidos por parte da Direção
+da Fatec Taquaritinga, solicitando a ampliação desses espaços, no entanto até o presente momento 
+não houve o atendimento. Considerando a implantação do AMS nesta Unidade, torna-se urgente a 
+necessidade de ampliação da estrutura.        
+Responsável(is) / CH sem: Crediano Maria de Sousa/  Everton Ricardo Feitosa. 
+Período de execução: 
+Data de início: 
+08/01/2024 
+Data final: 
+31/07/2024 
+Etapas do processo: 
+Solicitação de instrução abertura de pregão junto ao Regional 
+08/01/2024 
+31/01/2024 
+Solicitação de abertura de Processo de Compras via pregão 
+01/02/2024 
+29/02/2024 
+Levantamento de orçamentos e montagem de processo 
+01/03/2024 
+31/03/2024 
+Tramitação e análise de termo de referência/edital pelo jurídico do 
+CPS (fase interna). 
+01/04/2024 
+30/04/2024 
+Publicação de edital e tramitação do processo (fase externa). 
+01/05/2024 
+31/05/2024 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+Custo (se houver): 
+Fonte(s) dos recursos: 
+ UGAF/CPS 
+Objetivo(s) relacionado(s): Construção/ampliação de estrutura Fatec Taquaritinga.  
+Meta(s) relacionada(s): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AÇÃO/PROJETO 
+514 – Adequação alambrado no entorno do campus da Fatec Taquaritinga 
+O que será feito: 
+Reforma de toda estrutura de alambrado no entorno do campus da Fatec Taquaritinga. 
+Por que será feito: 
+Considerando a dimensão do campus da Fatec Taquaritinga (10.000 metros quadrados), faz-se 
+necessária a adequação do alambrado no entorno do campus. A Fatec Taquaritinga encontra-se em 
+área afastada do centro da cidade e circunvisinha a bairros com grande ocorrencia de assaltos. Para 
+que seja resguardados os equipamentos e estrutura física da Unidade, faz-se necessária a reforma 
+integral do alambrado no entorno do campus, vale ressaltar que tal estrutura encontra-se sem 
+manutenção a mais de 30 anos (idade do campus), sendo assim, a reforma se faz urgente. 
+Responsável(is) / CH sem: Crediano Maria de Sousa/  Everton Ricardo Feitosa. 
+Período de execução: 
+Data de início: 
+08/01/2024 
+Data final: 
+31/07/2024 
+Etapas do processo: 
+Solicitação de instrução abertura de pregão junto ao Regional 
+08/01/2024 
+31/01/2024 
+Solicitação de abertura de Processo de Compras via pregão 
+01/02/2024 
+29/02/2024 
+Levantamento de orçamentos e montagem de processo 
+01/03/2024 
+31/03/2024 
+Tramitação e análise de termo de referência/edital pelo jurídico do 
+CPS (fase interna). 
+01/04/2024 
+30/04/2024 
+Publicação de edital e tramitação do processo (fase externa). 
+01/05/2024 
+31/05/2024 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+Custo (se houver): 
+Fonte(s) dos recursos: 
+ UGAF/CPS 
+Objetivo(s) relacionado(s): Redução do consumo elétrico e proporcionar maior segurança ao publico da Unidade.  
+Meta(s) relacionada(s): 
+ 
+ 
+AÇÃO/PROJETO 
+515 – Aquisição de PABX por IP 
+O que será feito: 
+Aquisição de aparelho de PABX por IP para atendimento ao público da Fatec Taquaritinga. 
+Por que será feito: 
+Atualmente a Fatec Taquaritinga conta com aparelho de PABX defasado, não atendendo a demanda 
+da Unidade, por vezes recebemos reclamações de alunos em razão da dificuldade de contrato com 
+departamentos da Unidade em virtude da constantes indisponibilidade de serviço telefônico em 
+virtude de problemas do atual aparelho de PABX. 
+Responsável(is) / CH sem: Crediano Maria de Sousa/  Everton Ricardo Feitosa. 
+Período de execução: 
+Data de início: 
+08/01/2024 
+Data final: 
+31/07/2024 
+Etapas do processo: 
+Solicitação de instrução abertura de pregão junto ao Regional 
+08/01/2024 
+31/01/2024 
+Solicitação de abertura de Processo de Compras via pregão 
+01/02/2024 
+29/02/2024 
+Levantamento de orçamentos e montagem de processo 
+01/03/2024 
+31/03/2024 
+Tramitação e análise de termo de referência/edital pelo jurídico do 
+CPS (fase interna). 
+01/04/2024 
+30/04/2024 
+Publicação de edital e tramitação do processo (fase externa). 
+01/05/2024 
+31/05/2024 
+dd/mm/aaaa dd/mm/aaaa 
+Custo (se houver): 
+Fonte(s) dos recursos: 
+ UGAF/CPS 
+Objetivo(s) relacionado(s): Aquisição de aparelho de PABX por IP.  
+Meta(s) relacionada(s): 
+ 
+ 
+AÇÃO/PROJETO 
+516 – Aquisição de conjunto de longarina com prancheta para atendimendo de 120 lugares. 
+O que será feito: 
+Processo de aquisição de conjunto de longarina com prancheta. 
+Por que será feito: 
+A aquisição de conjunto de longarinas com pranchetas, tem como objetivo atender a necessidade 
+de reposição de mobiliário destinado ao anfiteatro da Unidade. Cabe ressaltar que o espaço é
+utilizado para promoção de cursos, palestras, apresentações e aulas, haja vista a indisponibilidade 
+de espaço físico na Unidade para comportar o número de alunos, sendo assim, o mobiliário que 
+hoje está disposto em tal ambiente, encontra-se danificado pelo uso, já realizamos várias 
+manutenções, porém o custo é elevado, não compensando.   
+Responsável(is) / CH sem: Crediano Maria de Sousa/  Everton Ricardo Feitosa. 
+Período de execução: 
+Data de início: 
+08/01/2024 
+Data final: 
+31/07/2024 
+Etapas do processo: 
+Solicitação de instrução abertura de pregão junto ao Regional 
+08/01/2024 
+31/01/2024 
+Solicitação de abertura de Processo de Compras via pregão 
+01/02/2024 
+29/02/2024 
+Levantamento de orçamentos e montagem de processo 
+01/03/2024 
+31/03/2024 
+Tramitação e análise de termo de referência/edital pelo jurídico do 
+CPS (fase interna). 
+01/04/2024 
+30/04/2024 
+Publicação de edital e tramitação do processo (fase externa). 
+01/05/2024 
+31/05/2024 
+dd/mm/aaaa dd/mm/aaaa 
+Custo (se houver): 
+Fonte(s) dos recursos: 
+ UGAF/CPS 
+Objetivo(s) relacionado(s): Aquisição de conjunto de longarina com prancheta 
+Meta(s) relacionada(s): 
+ 
+06 - Desenvolvimento de pessoas (docentes e servidores) 
+ 
+ 
+ 
+ 
+AÇÃO/PROJETO 
+601 – Treinamentos de servidores administrativos – Atuar em Processo de Compras 
+O que será feito: 
+Disponibilização de cursos para servidores administrativos voltados a processo de compras 
+Por que será feito: 
+Considerando a implementação da nova lei de licitações nº 14.133/2021, que determina forma de 
+tramitação do processo de compra nas repartições publicas; faz-se necessário a disponibilização 
+de cursos que possibilite aos servidores tramitarem tais processos no âmbito das Unidades, 
+facilitando a aquisição de itens considerados importantes à atividade. 
+Responsável(is) / CH sem: Crediano Maria de Sousa/  Everton Ricardo Feitosa 
+Período de execução: 
+Data de início: 
+01/06/2023 
+Data final: 
+31/05/2024 
+Etapas do processo: 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+Custo (se houver): 
+Fonte(s) dos recursos: 
+Objetivo(s) relacionado(s): 
+Meta(s) relacionada(s): 
+ 
+AÇÃO/PROJETO 
+602 – Treinamentos de servidores administrativos – URH 
+O que será feito: 
+Disponibilização de cursos para servidores administrativos reciclagem URH 
+Por que será feito: 
+Considerando a implementação do E-social e as várias demandas para um bom atendimento às 
+práticas do sistemas, há a necessidade de realização de  cursos de reciclagem para a área de URH, 
+com vistas a proporcionar o alinhamento das ações, evitando-se erros em procedimentos. 
+Responsável(is) / CH sem: Equipe Departamento Administrativo 
+Período de execução: 
+Data de início: 
+01/06/2023 
+Data de início: 
+31/12/2023 
+Etapas do processo: 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+Custo (se houver): 
+Fonte(s) dos recursos: 
+Objetivo(s) relacionado(s): 
+Meta(s) relacionada(s): 
+ 
+AÇÃO/PROJETO 
+603 – Treinamentos Almoxarifado 
+O que será feito: 
+Disponibilização de cursos para servidores da área de almoxarifado 
+Por que será feito: 
+Considerando a necessidade de tramites para realização de baixa de itens obsoletos, solicitamos a 
+realização de curso específico com vistas a alinhar as ações necessárias de realização de baixa e 
+adequação patrimonial na Unidade de Ensino. 
+Responsável(is) / CH sem: Equipe Departamento Administrativo 
+Período de execução: 
+Data de início: 
+01/06/2023 
+Data de início: 
+31/12/2023 
+Etapas do processo: 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+Custo (se houver): 
+Fonte(s) dos recursos: 
+Objetivo(s) relacionado(s): 
+Meta(s) relacionada(s): 
+07 – Convênios e Parcerias Institucionais 
+ 
+ 
+ 
+ 
+AÇÃO/PROJETO 
+701 - 
+O que será feito: 
+Por que será feito: 
+Responsável(is) / CH sem: 
+Período de execução: 
+Data de início: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+Custo (se houver): 
+Fonte(s) dos recursos: 
+Objetivo(s) relacionado(s): 
+Meta(s) relacionada(s): 
+ 
+AÇÃO/PROJETO 
+702 - 
+O que será feito: 
+Por que será feito: 
+Responsável(is) / CH sem: 
+Período de execução: 
+Data de início: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+Custo (se houver): 
+Fonte(s) dos recursos: 
+Objetivo(s) relacionado(s): 
+Meta(s) relacionada(s): 
+ 
+AÇÃO/PROJETO 
+703 - 
+O que será feito: 
+Por que será feito: 
+Responsável(is) / CH sem: 
+Período de execução: 
+Data de início: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+Custo (se houver): 
+Fonte(s) dos recursos: 
+Objetivo(s) relacionado(s): 
+Meta(s) relacionada(s): 
+ETAPA II – APROVAÇÃO E HOMOLOGAÇÃO 
+ 
+ 
+ 
+APROVAÇÃO DO PGA PELA CONGREGAÇÃO DA UE 
+ 
+ 
+Envio da Ata de aprovação 
+Ata assinada (.pdf) 
+Anexar arquivo 
+Data da aprovação: 
+dd/mm/aaaa 
+Data do envio: 
+dd/mm/aaaa 
+PARECER DA CESU 
+ 
+ 
+Data: 
+dd/mm/aaaa 
+Aprovado? 
+( ) Sim 
+( ) Não 
+Se não aprovado, devolvido para adequação, com prazo para revisão até: 
+dd/mm/aaaa 
+Parecer: 
+ETAPA III – ACOMPANHAMENTO DAS AÇÕES GERENCIAIS 
+ 
+RELATÓRIO DE ACOMPANHAMENTO DE PROJETOS (MENSAL) 
+ 
+ 
+Status mensal do projeto 
+Identificação do Projeto 
+(automático) 
+Data: 
+dd/mm/aaaa 
+Situação: 
+( ) Em andamento 
+Previsão de término: 
+dd/mm/aaaa 
+Justificativa: 
+( ) Ainda não foi iniciado 
+Previsão de início: 
+dd/mm/aaaa 
+Justificativa: 
+( ) Cancelado (antes do início) 
+Data: 
+dd/mm/aaaa 
+Justificativa: 
+( ) Suspenso (interrompido após 
+iniciado) 
+Data: 
+dd/mm/aaaa 
+Justificativa: 
+( ) Concluído 
+Data da conclusão: 
+dd/mm/aaaa 
+Resultados: 
+Intercorrências: 
+Observação: 
+Meta(s) alcançada(s) 
+(lançamento da meta conforme indicada no projeto para a avaliação do percentual alcançado) 
+Evidência(s): 
+(descrição inserção do documento que evidencie a execução ou atingimento da meta - RAF) 
+ 
+Validação do relatório (acompanhamento) 
+Identificação do Projeto 
+(RAF) 
+Data: 
+dd/mm/aaaa 
+Parecer: 
+Favorável? 
+( ) Sim 
+( ) Não 
+( ) Parcialmente favorável 
+Considerações/Recomendações: 
+Anexo 1 – Gestão da Rotina Diária 
+ 
+ 
+ 
+ 
+AÇÃO/PROJETO 
+R01 - 
+O que será feito: 
+Por que será feito: 
+Responsável(is) / CH sem: 
+Período de execução: 
+Data de início: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+Custo (se houver): 
+Fonte(s) dos recursos: 
+Objetivo(s) relacionado(s): 
+Meta(s) relacionada(s): 
+ 
+AÇÃO/PROJETO 
+R02 - 
+O que será feito: 
+Por que será feito: 
+Responsável(is) / CH sem: 
+Período de execução: 
+Data de início: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+Custo (se houver): 
+Fonte(s) dos recursos: 
+Objetivo(s) relacionado(s): 
+Meta(s) relacionada(s): 
+ 
+AÇÃO/PROJETO 
+R03 - 
+O que será feito: 
+Por que será feito: 
+Responsável(is) / CH sem: 
+Período de execução: 
+Data de início: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+dd/mm/aaaa dd/mm/aaaa 
+Custo (se houver): 
+Fonte(s) dos recursos: 
+Objetivo(s) relacionado(s): 
+Meta(s) relacionada(s): 
+Anexo 2 – Lista de equipamentos necessários aos projetos  
+ 
+ 
+ 
+Item 
+Projeto 
+(XYY) 
+Denominação 
+Quant. 
+código 
+BEC 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+ 
+<fim> 

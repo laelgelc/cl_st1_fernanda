@@ -1,0 +1,1013 @@
+PLANO DE GESTÃO ANUAL – PGA 
+v07 
+Estruturado em 3 etapas: 
+ETAPA I – PLANEJAMENTO PELA EQUIPE GESTORA DA UE 
+ETAPA II – APROVAÇÃO E HOMOLOGAÇÃO 
+ETAPA III – ACOMPANHAMENTO DAS AÇÕES GERENCIAIS 
+ 
+IDENTIFICAÇÃO DA UNIDADE 
+Unidade 
+146 
+Fatec São José dos Campos Prof Jessen Vidal 
+Diretor(a) 
+Luiz Antonio Tozi 
+ 
+ETAPA I – PLANEJAMENTO PELA EQUIPE GESTORA DA UE 
+ANÁLISE DO CENÁRIO (Breve diagnóstico/Baseline) 
+ 
+A Fatec Professor Jessen Vidal está situada na cidade de São José dos Campos, que, de acordo com o IBGE, possui 
+aproximadamente 730 mil habitantes. A cidade de São José dos Campos é reconhecida como uma das mais importantes do 
+país no setor de tecnologia, tendo sido certificada como Cidade Inteligente pela ABNT (Associação Brasileira de Normas 
+Técnicas). A localização da Fatec São José dos Campos na área do Parque Tecnológico da cidade contribui para o 
+estreitamento de relações com as empresas e instituições presentes neste ecossistema. 
+ 
+A combinação de metodologia de ensino inovadora, corpo docente qualificado e uma localização no Parque Tecnológico da 
+cidade, tornam a Fatec São José dos Campos uma faculdade de aplicação, trabalhando pelo desenvolvimento do ensino de 
+tecnologia na região e pela formação de profissionais de excelência.  
+ 
+A Fatec São José dos Campos é conhecida por ser a primeira faculdade de tecnologia a ser aceita como membro da iniciativa 
+CDIO (Conceive-Design-Implement-Operate). A adesão à esta iniciativa demonstra o compromisso da instituição com a 
+excelência na formação de seus alunos, por meio da metodologia API (Aprendizagem por Projetos Integradores). Essa 
+metodologia consiste em apresentar problemas reais aos alunos, que trabalham, de forma ágil, em equipes para encontrar 
+soluções viáveis, funcionais e públicas que agregam valor e são validadas por representantes do mercado de trabalho e do 
+ecossistema local. 
+ 
+Segundo as pesquisas diagnósticas realizadas semestralmente com os alunos veteranos da Fatec São José dos Campos, o 
+principal objetivo ao entrar na faculdade é adquirir conhecimento para se desenvolverem em uma área de trabalho. De acordo 
+com as respostas dos alunos, a principal forma de agregar valor às suas competências é através da obtenção de 
+conhecimentos aplicáveis na área de trabalho. Em relação ao que mais agrada na faculdade, as respostas apontam para o 
+desenvolvimento de projetos práticos e qualificação dos professores. Quando questionados sobre o que ainda está faltando 
+para o desenvolvimento das suas competências, as respostas tendem a recair sobre a falta de prática aplicada do 
+conhecimento na área de trabalho. De acordo com a escala de avaliação de zero a 10, a média das respostas quanto a 
+satisfação com a faculdade é de 8,6, sendo o tracking NPS de agosto de 2022 de 5,7. As principais indicações de motivos que 
+influenciam alunos a desistir ou evadir da Fatec SJC, segundo esse mesmo levantamento diagnóstico semestral, estão 
+relacionadas às necessidades de trabalho, dificuldades em conseguir tempo necessário para atividades escolares, problemas 
+de horário, distância da Faculdade do centro da cidade e consequente dificuldade com transporte, sendo também relatados 
+influência de dificuldades em planos pedagógicos como dificuldade em algumas matérias e relacionamento com professores. 
+Quando analisados os dados do SIGA, verifica-se que 92% dos cancelamentos de matrícula referentes à 2022 se deram de 
+forma automática, sendo apenas 8% de forma voluntária. 
+ 
+Atualmente, a Fatec São José dos Campos conta com 2461 alunos ativos, 84 docentes, e um corpo administrativo de 10 
+funcionários.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• 
+Discorrer sobre o cenário, realizando um breve diagnóstico (limitar o espaço da escrita, para que seja inserido de 
+forma suscinta). 
+ 
+ 
+ 
+ 
+ 
+ 
+APONTAMENTO DE SITUAÇÕES-PROBLEMA MAIS RELEVANTES (“Escuta”) 
+Fontes: relatório CPA, análise de processos críticos da UE, relatório de atendimento e ocorrências 
+Hórus GCom. relatório NDE, relatório de representação discente. 
+1 
+Evasão escolar 
+ 
+5 
+Compras de Materiais e Equipamentos 
+2 
+Trancamento de matrícula 
+ 
+6 
+Capacitação e Integração de Servidores Técnico-
+Administrativos 
+3 
+Baixa procura no vestibular 
+ 
+7 
+Manutenção predial e ambientação educacional, 
+acessibilidade e segurança. 
+4 
+Comunicação Institucional 
+ 
+8 
+Adesão de professores à estratégias pedagógicas 
+inovadoras e aprendizagem por projetos. 
+ 
+DEFINIÇÃO DE OBJETIVOS, METAS E AÇÕES (PROJETOS) 
+Objetivos 
+1 
+Aperfeiçoar a experiencia acadêmica e a efetiva aprendizagem por meio de estratégias pedagógicas inovadoras a fim de 
+reduzir a evasão e o trancamento de matrícula 
+2 
+Continuar com o processo de acreditação dos processos pedagógicos por meio de iniciativas como o CDIO  
+3 
+Implantar um plano de comunicação institucional 
+4 
+Implantar um plano de compras de materiais e equipamentos 
+5 
+Implantar um plano de capacitação e integração dos servidores técnico-administrativos 
+6 
+Manter e reformar o prédio para atingir condições adequadas às necessidades das atividades didáticas, de acessibilidade 
+e segurança. 
+• 
+Os objetivos devem estar relacionados com melhoria ou ação, sobre itens do PDI. 
+Metas 
+1 
+Incremento na aprendizagem e redução na 
+evasão relacionados à metodologia API no curso de 
+logística, GPI e MAv e desenvolvimento nos cursos de 
+DSM, ADS e Banco de dados aumentando eficácia em 
+5% até o final de 2023. 
+ 
+5 
+Apresentar melhores resultados no indicador de 
+compras e aquisições de materiais e equipamentos em 
+5% até o final de 2023 
+2 
+incremento na aprendizagem e redução na 
+evasão relacionados à implantação de APC- 
+Atividades Profissionais Confiáveis em PEA e 
+Manutenção de aeronaves aumentando eficácia em 5% 
+até o final de 2023. 
+ 
+6 
+Apresentar melhores resultados no indicador de 
+capacitação e integração dos servidores técnico-
+administrativos em 5% até o final de 2023, 
+3 
+Conseguir a certificação dos cursos de logística, GPI e 
+MAv na iniciativa CDIO em outubro de 2023. 
+ 
+7 
+Adequar o prédio para atender a necessidades das 
+atividades didáticas, de acessibilidade e segurança 
+atendendo a 100% das demandas até o final de 2023. 
+4 
+Reduzir a dificuldade de comunicação em 5% através 
+do plano de comunicação institucional até final de 2023 
+ 
+8 
+Implantar dois cursos de pós graduação até final de 
+2023 
+• 
+Observar que cada meta deve ser: específica, mensurável, atingível, relevante e temporal. 
+ 
+ 
+ 
+ESTRUTURAÇÃO DAS AÇÕES/PROJETOS 
+01 - Didático-pedagógico 
+AÇÃO/PROJETO 
+A - APC - Atividades Profissionais Confiáveis 
+O que será feito: 
+Estruturar a APC Atividades Profissionais Confiáveis como Ferramenta de 
+Desenvolvimento Curricular (ou EPA - Entrustable Professional Activities do inglês) em 
+cursos da área aeronáutica. 
+Por que será feito: 
+Porque é um modo prático para avaliação de competências,  buscando o incremento na 
+aprendizagem e redução na evasão 
+Responsável(is) / CH sem: Luiz Tozi/Reinaldo Fagundes/Felix Strotmann/ CH sem: 6 HAE 
+Período de execução: 
+Data de início: 
+14/02/2023 
+Data final: 
+31/12/2023 
+Etapas do processo: 
+Kick-Off 
+16/02/2023 
+20/02/2023 
+Primeira Sprint - 09/03/2023 - Detalhamento dos requisitos do 
+Projeto na plataforma 3DExperience 
+09/03/2023 
+13/03/2023 
+Segunda Sprint – 13/04/2023 - Início dos Desenhos e especificação 
+dos materiais na plataforma 3DExperience 
+13/04/2023 
+17/04/2023 
+Terceira sprint – Análise e RevisãoTerceira sprint – Evolução do 
+Projeto na plataforma 3DExperience 
+11/05/2023 
+15/05/2023 
+Quarta sprint – Entrega final do projeto na plataforma 3DExperience 
+15/05/2023 
+20/05/2023 
+Feira de Soluções – Demonstração na plataforma 3DExperience 
+13/06/2023 
+14/06/2023 
+As Etapas se repetem no segundo semestre. 
+01/07/2023 
+23/12/2023 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+ 
+Objetivo(s) relacionado(s): 
+alcançar e manter grau de excelência em seus processos de ensino e aprendizagem - Aperfeiçoar 
+a experiencia acadêmica e a efetiva aprendizagem por meio de estratégias pedagógicas 
+inovadoras a fim de reduzir a evasão e o trancamento de matrícula 
+Meta(s) relacionada(s): 
+incremento na aprendizagem e redução na evasão relacionados à implantação de APC- 
+Atividades Profissionais Confiáveis em PEA e Manutenção de aeronaves aumentando eficácia em 
+5% até o final de 2023. 
+ 
+AÇÃO/PROJETO 
+Desenvolvimento da metodologia ágil API – Aprendizagem por Projetos Integradores 
+O que será feito: 
+Implantação da metodologia API – Aprendizagem por Projetos Integradores no curso de logística, 
+GPI e MAv e desenvolvimento nos cursos de DSM, ADS e Banco de dados. 
+Por que será feito: 
+Porque é um método ágil, desenvolvido na Fatec SJC, eficaz na avaliação de competências,  e 
+que busca incremento na aprendizagem e redução na evasão. 
+Responsável(is) / CH sem: Eduardo Sakaue/José Walmir/Leônidas Lopes /Rubens Barreto/Marcus Vinicius/ CH sem: 10 
+HAE 
+Período de execução: 
+Data de início: 
+13/02/2023 
+Data final: 
+31/12/2023 
+Etapas do processo: 
+Kick-Off 
+13/02/2023 
+03/03/2023 
+Primeira Sprint – Apresentação  
+13/02/2023 
+02/04/2023 
+Segunda Sprint – Desenvolvimento 
+03/04/2023 
+23/04/2023 
+Terceira sprint – Análise e Revisão 
+24/04/2023 
+14/05/2023 
+Quarta sprint – Finalização 
+15/05/2023 
+04/06/2023 
+Feira de Soluções – Demonstração 
+13/06/2023 
+14/06/2023 
+As Etapas se repetem no segundo semestre. 
+01/07/2023 
+23/12/2023 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+ 
+Objetivo(s) relacionado(s): 
+Alcançar e manter grau de excelência em seus processos de ensino e aprendizagem - Aperfeiçoar 
+a experiencia acadêmica e a efetiva aprendizagem por meio de estratégias pedagógicas 
+inovadoras a fim de reduzir a evasão e o trancamento de matrícula 
+Meta(s) relacionada(s): 
+Conseguir a certificação dos cursos de logística, GPI e MAv na iniciativa CDIO em outubro de 
+2023. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+02 – Ensino e Equipamentos Associados (Laboratórios) 
+ 
+AÇÃO/PROJETO 
+A – Ambiente multisseriado de aprendizagem em manufatura avançada 
+O que será feito: 
+Desenvolvimento de um espaço Maker para utilização como ambiente de sala multisseriada para 
+aprendizagem ativa no curso de Manufatura Avançada 
+Por que será feito: 
+Para implantação de metodologias ágeis a partir do desenvolvimento de atividades profissionais 
+baseado na API - Aprendizagem por Projetos Integrados de forma colaborativa e multisseriada 
+buscando o incremento na aprendizagem e redução na evasão. 
+Responsável(is) / CH sem: Leônidas Lopes/Alfred Makoto/Viviane Siqueira// CH sem: 8 HAE 
+Período de execução: 
+Data de início: 
+14/02/2023 
+Data final: 
+31/12/2023 
+Etapas do processo: 
+Kick-Off 
+14/02/2023 
+17/02/2023 
+Formação das Equipes 
+21/02/2023 
+24/02/2023 
+Apresentação Sprint 01 
+31/03/2023 
+31/03/2023 
+Apresentação Sprint 02 
+27/04/2023 
+27/04/2023 
+Apresentação Sprint 03 
+16/05/2023 
+16/05/2023 
+Feira de Soluções – Apresentação Sprint 04 
+13/06/2023 
+14/06/2023 
+As Etapas se repetem no segundo semestre. 
+01/07/2023 
+23/12/2023 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+ 
+Objetivo(s) relacionado(s): 
+Alcançar e manter grau de excelência em seus processos de ensino e aprendizagem - Aperfeiçoar 
+a experiencia acadêmica e a efetiva aprendizagem por meio de estratégias pedagógicas 
+inovadoras a fim de reduzir a evasão e o trancamento de matrícula 
+Meta(s) relacionada(s): 
+Incremento na aprendizagem e redução na evasão relacionados à metodologia API no 
+curso de logística, GPI e MAv e desenvolvimento nos cursos de DSM, ADS e Banco de dados 
+aumentando eficácia em 5% até o final de 2023. 
+ 
+AÇÃO/PROJETO 
+B – Laboratório virtual de Projetos Aeronáuticos baseado em tecnologia 3D Experience 
+O que será feito: 
+Implantação em 30 notebooks de aplicativos de projetos baseados em nuvem e banco de dados 
+para atualização da experiência profissional dos estudantes em novas ferramentas digitais de 
+projetos de aeronaves. 
+Por que será feito: 
+Porque aproxima o estudante da experiencia mais avançada na resolução de desafios ligados a 
+profissão de projetista de aeronaves buscando o incremento na aprendizagem e redução na 
+evasão 
+Responsável(is) / CH sem: Reinaldo Fagundes/Fabiana Passador /Lucas Giovaneti/ CH sem: 6 HAE 
+Período de execução: 
+Data de início: 
+13/02/2023 
+Data final: 
+31/12/2023 
+Etapas do processo: 
+Reunião com o ecossistema de empresas 
+15/02/2023 
+15/02/2023 
+Formação das Equipes 
+24/02/2023 
+03/03/2023 
+Apresentação sprint 1 
+31/03/2023 
+07/04/2023 
+Apresentação sprint 2 
+28/04/2023 
+05/05/2023 
+Apresentação sprint 3 
+19/05/2023 
+26/05/2023 
+Apresentação sprint 4 
+09/06/2023 
+09/06/2023 
+Feira de Soluções – Apresentação do projeto 
+13/06/2023 
+14/06/2023 
+As Etapas se repetem no segundo semestre. 
+01/07/2023 
+23/12/2023 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+ 
+Objetivo(s) relacionado(s): 
+Alcançar e manter grau de excelência em seus processos de ensino e aprendizagem - Aperfeiçoar 
+a experiencia acadêmica e a efetiva aprendizagem por meio de estratégias pedagógicas 
+inovadoras a fim de reduzir a evasão e o trancamento de matrícula 
+Meta(s) relacionada(s): 
+incremento na aprendizagem e redução na evasão relacionados à implantação de APC- 
+Atividades Profissionais Confiáveis em PEA e Manutenção de aeronaves aumentando eficácia em 
+5% até o final de 2023. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+03 – Pesquisa / Extensão e Equipamentos Associados 
+ 
+AÇÃO/PROJETO 
+A – Projeto RJI Professora Rita de Cassia Mendonça Sales Contini 
+O que será feito: 
+Desenvolvimento e Caracterização de Compósitos Termoplásticos Convencionais e Reciclados 
+Visando a Aplicação nas Industrias Aeroespacial e Automotiva – Parte II. 
+Por que será feito: 
+É pertinente aos interesses na Unidade, por se tratar de pesquisa tecnológica para 
+desenvolvimento de materiais compósitos, utilizados em vários seguimentos industriais, 
+com destaque na aeronáutica e automobilística. 
+Responsável(is) / CH sem: Rita Salles/ CH sem: 16 HAE 
+Período de execução: 
+Data de início: 
+01/02/2023 
+Data final: 
+31/12/2023 
+Etapas do processo: 
+Pesquisa e Desenvolvimento segundo cronograma aprovado pela 
+CPRJI 
+01/02/2023 
+31/12/2023 
+ 
+- 
+- 
+ 
+- 
+- 
+ 
+- 
+- 
+ 
+- 
+- 
+ 
+- 
+- 
+ 
+- 
+ 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+ 
+Objetivo(s) relacionado(s): Obter a satisfação dos públicos que se relacionam com o CPS - Aperfeiçoar a experiencia 
+acadêmica e a efetiva aprendizagem por meio de estratégias pedagógicas inovadoras. 
+Meta(s) relacionada(s): 
+Implantar dois cursos de pós-graduação até final de 2023 
+ 
+AÇÃO/PROJETO 
+B – Projeto do Cursos de Pós-Graduação  
+O que será feito: 
+Implementar Pós-Graduação nesta Unidade. 
+Por que será feito: 
+Para aprofundar os conhecimentos adquiridos no curso, aprimorar habilidades e competências, e 
+possibilitar maiores oportunidades de entrada no mercado. 
+Responsável(is) / CH sem: Carlos Lineu/Guaraci Moraes/ CH sem: 24 HAE 
+Período de execução: 
+Data de início: 
+01/02/2023 
+Data final: 
+31/12/2023 
+Etapas do processo: 
+Implementação e aplicação seguindo o calendário a ser desenvolvido 
+em conjunto com a Coordenação de Pós Graduação do CEETEPS 
+01/02/2023 
+31/12/2023 
+ 
+- 
+- 
+ 
+- 
+- 
+ 
+- 
+- 
+ 
+- 
+- 
+ 
+- 
+ 
+ 
+- 
+ 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+ 
+Objetivo(s) relacionado(s): 
+Formar profissionais atualizados em tecnologias e processos produtivos - Aperfeiçoar a 
+experiencia acadêmica e a efetiva aprendizagem por meio de estratégias pedagógicas inovadoras 
+a fim de reduzir a evasão e o trancamento de matrícula 
+Meta(s) relacionada(s): 
+Implantar dois cursos de pós graduação até final de 2023 
+ 
+ 
+ 
+ 
+ 
+04 – Atividades Formativas em Projetos (nível tático) 
+ 
+AÇÃO/PROJETO 
+A – Treinamento em Aprendizagem por Projetos Integrados API 
+O que será feito: 
+Oferta de cursos para treinamento em metodologias ágeis baseada em API Aprendizagem por 
+Projetos Integrados 
+Por que será feito: 
+Para capacitar os docentes da unidade de ensino em pensamento ágil e metodologia de 
+Aprendizagem por Projetos Integrados 
+Responsável(is) / CH sem: CADI -Eduardo Sakaue / José Walmir Duque/ CH sem: 8HAE 
+Período de execução: 
+Data de início: 
+01/02/2023 
+Data final: 
+31/12/2023 
+Etapas do processo: 
+Kick-off 
+13/02/2023 
+03/03/2023 
+Sprint 1 
+13/03/2023 
+02/04/2023 
+Sprint 2 
+03/04/2023 
+23/04/2023 
+Sprint 3 
+24/04/2023 
+14/05/2023 
+Sprint 4 
+15/05/2023 
+04/06/2023 
+Feira de Soluções 
+13/06/2023 
+14/06/2023 
+As Etapas se repetem no segundo semestre. 
+01/07/2023 
+23/12/2023 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+ 
+Objetivo(s) relacionado(s): 
+Obter a satisfação dos públicos que se relacionam com o CPS - Aperfeiçoar a experiencia 
+acadêmica e a efetiva aprendizagem por meio de estratégias pedagógicas inovadoras a fim de 
+reduzir a evasão e o trancamento de matrícula 
+Meta(s) relacionada(s): 
+Conseguir a certificação dos cursos de logística, GPI e MAv na iniciativa CDIO em outubro de 
+2023. 
+ 
+ 
+05 – Infraestrutura (instalações prediais) 
+ 
+AÇÃO/PROJETO 
+A – Fazer os acertos necessários para atender segurança do trabalho (CIPA) e obter AVCB  
+O que será feito: 
+Atualização do projeto de combate e prevenção de incêndios e adequações prediais para 
+conseguir o Auto de Vistoria do Corpo de Bombeiros 
+Por que será feito: 
+Atualização do projeto de combate e prevenção de incêndios e as reformas prediais necessárias 
+Responsável(is) / CH sem: Luiz Tozi/Anna Sogabe/ CH sem: 1 HA 
+Período de execução: 
+Data de início: 
+15/02/2023 
+Data final: 
+31/12/2023 
+Etapas do processo: 
+Solicitar Compra de Extintores 
+01/02/2023 
+31/03/2023 
+Solicitar reparo no Alarme de incêndio  
+01/02/2023 
+31/03/2023 
+Contatar equipe responsável no CPS 
+01/02/2023 
+31/03/2023 
+Seguir instruções da equipe URH 
+01/04/2023 
+31/12/2023 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo (se houver): 
+R$ 120.000,00 
+Fonte(s) dos recursos: 
+CPS 
+Objetivo(s) relacionado(s): 
+Obter a satisfação dos públicos que se relacionam com o CPS - Manter e reformar o prédio para 
+atingir condições adequadas às necessidades das atividades didáticas, de acessibilidade e 
+segurança. 
+Meta(s) relacionada(s): 
+Adequar o prédio para atender a necessidades das atividades didáticas, de acessibilidade e 
+segurança atendendo a 100% das demandas até o final de 2023. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AÇÃO/PROJETO 
+B – Reparo hidráulico e cerâmico nos sanitários da unidade 
+O que será feito: 
+Reparar ou substituir elementos hidráulicos (Vaso, mictórios, pias e torneiras) e pisos e azulejos 
+dos sanitários da unidade. 
+Por que será feito: 
+Porque em virtude da idade do imóvel e o desgaste natural devido aos anos de uso tem causado 
+problemas ao adequado funcionamento dos sanitários e consequente perturbação no bom 
+andamento do funcionamento da unidade. 
+Responsável(is) / CH sem: Luiz Tozi/Anna Sogabe/ CH sem: 1 HA 
+Período de execução: 
+Data de início: 
+01/02/2023 
+Data final: 
+31/12/2023 
+Etapas do processo: 
+Contatar equipe responsável. 
+01/02/2023 
+31/03/2023 
+Seguir instruções da equipe URH 
+01/04/2023 
+31/12/2023 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo (se houver): 
+R$ 200.000,00 
+Fonte(s) dos recursos: 
+CPS 
+Objetivo(s) relacionado(s): 
+Obter a satisfação dos públicos que se relacionam com o CPS - Manter e reformar o prédio para 
+atingir condições adequadas às necessidades das atividades didáticas, de acessibilidade e 
+segurança. 
+Meta(s) relacionada(s): 
+Adequar o prédio para atender a necessidades das atividades didáticas, de acessibilidade e 
+segurança atendendo a 100% das demandas até o final de 2023. 
+ 
+AÇÃO/PROJETO 
+C – Reparo no revestimento externo com pastilhas cerâmicas nas torres das escadas 
+O que será feito: 
+Substituição do revestimento externo com pastilhas cerâmicas nas torres das escadas. 
+Por que será feito: 
+Porque as pastilhas estão descolando das paredes e caindo de altura superior a 4 andares, tendo 
+sido necessário isolar a área como ambiente de alto risco. 
+Responsável(is) / CH sem: Luiz Tozi/Anna Sogabe/ CH sem: 1 HA 
+Período de execução: 
+Data de início: 
+01/02/2023 
+Data final: 
+31/12/2023 
+Etapas do processo: 
+Contatar equipe responsável. 
+01/02/2023 
+31/03/2023 
+Seguir instruções da equipe URH 
+01/04/2023 
+31/12/2023 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo (se houver): 
+R$ 180.000,00 
+Fonte(s) dos recursos: 
+CPS 
+Objetivo(s) relacionado(s): 
+Obter a satisfação dos públicos que se relacionam com o CPS - Manter e reformar o prédio para 
+atingir condições adequadas às necessidades das atividades didáticas, de acessibilidade e 
+segurança. 
+Meta(s) relacionada(s): 
+Adequar o prédio para atender a necessidades das atividades didáticas, de acessibilidade e 
+segurança atendendo a 100% das demandas até o final de 2023. 
+ 
+ 
+ 
+AÇÃO/PROJETO 
+C – Reparos diversos de infra estrutura 
+O que será feito: 
+Reparos diversos nos prédios da Fatec SJC 
+Por que será feito: 
+Manter o ambiente educacional físico em condições de acolher os alunos e professores 
+Responsável(is) / CH sem: Luiz Tozi/Anna Sogabe/ CH sem: 1 HA 
+Período de execução: 
+Data de início: 
+01/02/2023 
+Data final: 
+31/12/2023 
+Etapas do processo: 
+Reforma no pavimento do estacionamento 
+01/02/2023 
+31/12/2023 
+Reparo de vazamentos no telhado do prédio principal 
+01/02/2023 
+31/12/2023 
+Rebaixamento das luminárias do prédio de oficinas 
+01/02/2023 
+31/12/2023 
+Manutenção da cabine primária 
+01/02/2023 
+31/12/2023 
+Vedação das janelas de alumínio do prédio principal 
+01/02/2023 
+31/12/2023 
+Substituição do elemento vazado tipo veneziano do prédio de oficinas 01/02/2023 
+31/12/2023 
+ 
+ 
+ 
+Custo (se houver): 
+R$ 200.000,00 
+Fonte(s) dos recursos: 
+CPS 
+Objetivo(s) relacionado(s): 
+Obter a satisfação dos públicos que se relacionam com o CPS - Manter e reformar o prédio para 
+atingir condições adequadas às necessidades das atividades didáticas, de acessibilidade e 
+segurança. 
+Meta(s) relacionada(s): 
+Adequar o prédio para atender a necessidades das atividades didáticas, de acessibilidade e 
+segurança atendendo a 100% das demandas até o final de 2023. 
+ 
+06 - Desenvolvimento de pessoas (docentes e servidores) 
+ 
+AÇÃO/PROJETO 
+A - Plano de Capacitação e Integração dos Servidores Técnico-Administrativos 
+O que será feito: 
+Atividades de capacitação e integração especificamente planejadas para empoderar e valorizar os 
+servidores técnico-administrativos 
+Por que será feito: 
+Porque foi detectada pela CPA da unidade a necessidade de se realizar atividades voltadas para o 
+desenvolvimento dos  servidores técnico-administrativos 
+Responsável(is) / CH sem: Luiz Tozi/Anna Sogabe/Cassia Cintra/ Claudio Etelvino/ CH sem: 8HAE 
+Período de execução: 
+Data de início: 
+01/02/2023 
+Data final: 
+31/12/2023 
+Etapas do processo: 
+Kick-off 
+13/02/2023 
+03/03/2023 
+Sprint 1 
+13/03/2023 
+02/04/2023 
+Sprint 2 
+03/04/2023 
+23/04/2023 
+Sprint 3 
+24/04/2023 
+14/05/2023 
+Sprint 4 
+15/05/2023 
+04/06/2023 
+Feira de Soluções 
+13/06/2023 
+14/06/2023 
+As Etapas se repetem no segundo semestre. 
+01/07/2023 
+23/12/2023 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+ 
+Objetivo(s) relacionado(s): Garantir a celeridade e efetividade na prestação de serviços - Implantar um plano de capacitação 
+e integração dos servidores técnico-administrativos 
+Meta(s) relacionada(s): 
+Apresentar melhores resultados no indicador de capacitação e integração dos servidores técnico-
+administrativos em 5% até o final de 2023, 
+ 
+AÇÃO/PROJETO 
+B – Plano de Comunicação Institucional 
+O que será feito: 
+Desenvolver um comitê para planejar, gerir e avaliar as atividades de comunicação interna, 
+externa e divulgação da Fatec SJC 
+Por que será feito: 
+Porque foi detectado pela CPA que é preciso melhorar a comunicação, a integração e 
+participação de docentes, discentes, funcionários e comunidade com o desenvolvimento 
+institucional da unidade. 
+Responsável(is) / CH sem: Luiz Tozi/Anna Sogabe/ Maria Goretti CH sem: 12 HAE 
+Período de execução: 
+Data de início: 
+01/02/2023 
+Data final: 
+31/12/2023 
+Etapas do processo: 
+Kick-off 
+13/02/2023 
+03/03/2023 
+Sprint 1 
+13/03/2023 
+02/04/2023 
+Sprint 2 
+03/04/2023 
+23/04/2023 
+Sprint 3 
+24/04/2023 
+14/05/2023 
+Sprint 4 
+15/05/2023 
+04/06/2023 
+Feira de Soluções 
+13/06/2023 
+14/06/2023 
+As Etapas se repetem no segundo semestre. 
+01/07/2023 
+23/12/2023 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+ 
+Objetivo(s) relacionado(s): Garantir a celeridade e efetividade na prestação de serviços - Implantar plano de comunicação 
+institucional 
+Meta(s) relacionada(s): 
+Reduzir a dificuldade de comunicação em 5% através do plano de comunicação institucional até 
+final de 2023 
+ 
+ 
+ 
+ 
+ 
+07 – Convênios e Parcerias Institucionais 
+ 
+AÇÃO/PROJETO 
+A – Parque Tecnológico de São José dos Campos  
+O que será feito: 
+Pareceria e apoio a eventos institucionais 
+Por que será feito: 
+Estreitar relações com o ecossistema de empresas e inovação da Cidade de São José dos Campos 
+Responsável(is) / CH sem: CADI -Eduardo Sakaue / José Walmir Duque/ CH sem: 2 HAE 
+Período de execução: 
+Data de início: 
+01/02/2023 
+Data final: 
+31/12/2023 
+Etapas do processo: 
+Contatar equipe responsável. 
+01/02/2023 
+31/03/2023 
+Evento CDIO Nacional 
+26/09/2023 
+29/09/2023 
+Agenda de eventos institucionais (Formatura, Feira de inovação etc.) 
+01/04/2023 
+31/12/2023 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+ 
+Objetivo(s) relacionado(s): Formar profissionais atualizados em tecnologias e processos produtivos - Continuar com o 
+processo de acreditação dos processos pedagógicos por meio de iniciativas como o CDIO 
+Meta(s) relacionada(s): 
+Conseguir a certificação dos cursos de logística, GPI e MAv na iniciativa CDIO em outubro de 
+2023. 
+ 
+AÇÃO/PROJETO 
+B – Instituto Alpha Lumen 
+O que será feito: 
+Participação na Feira Science Day 
+Por que será feito: 
+Aproximar a Fatec da comunidade escolar do ensino básico ligado a STEAM 
+Responsável(is) / CH sem: Luiz Tozi/Anna Sogabe/ Maria Goretti CH sem: 1 HA 
+Período de execução: 
+Data de início: 
+01/02/2023 
+Data final: 
+31/12/2023 
+Etapas do processo: 
+Feira Science Day 
+17/03/2023 
+18/03/2023 
+Agenda de eventos institucionais focando alunos com habilidades 
+especiais. 
+01/04/2023 
+31/12/2023 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+ 
+Objetivo(s) relacionado(s): Formar profissionais atualizados em tecnologias e processos produtivos - Continuar com o 
+processo de acreditação dos processos pedagógicos por meio de iniciativas como o CDIO 
+Meta(s) relacionada(s): 
+Conseguir a certificação dos cursos de logística, GPI e MAv na iniciativa CDIO em outubro de 
+2023. 
+ 
+ 
+ 
+ETAPA II – APROVAÇÃO E HOMOLOGAÇÃO 
+ 
+APROVAÇÃO DO PGA PELA CONGREGAÇÃO DA UE 
+Envio da Ata de aprovação 
+Ata assinada (.pdf) 
+Em anexo. 
+Data da aprovação: 
+28/02/2023  
+Data do envio: 
+06/03/2023  
+ 
+PARECER DA CESU 
+Data: 
+dd/mm/aaaa  
+Aprovado? 
+(   ) Sim                      (   ) Não 
+Se não aprovado, devolvido para adequação, com prazo para revisão até: 
+dd/mm/aaaa  
+Parecer: 
+ 
+ 
+ 
+ 
+ETAPA III – ACOMPANHAMENTO DAS AÇÕES GERENCIAIS 
+RELATÓRIO DE ACOMPANHAMENTO DE PROJETO (MENSAL) 
+Status mensal do projeto 
+Identificação do Projeto 
+(automático) 
+Data: 
+dd/mm/aaaa 
+Situação: 
+(   ) Em andamento                             
+Previsão de término: 
+dd/mm/aaaa 
+Justificativa: 
+ 
+(   ) Ainda não foi iniciado                   
+Previsão de início: 
+dd/mm/aaaa 
+Justificativa: 
+ 
+(   ) Cancelado (antes do início) 
+Data: 
+dd/mm/aaaa 
+Justificativa: 
+ 
+(   ) Suspenso (interrompido após 
+iniciado) 
+Data: 
+dd/mm/aaaa 
+Justificativa: 
+ 
+(   ) Concluído 
+Data da conclusão: 
+dd/mm/aaaa 
+Resultados: 
+ 
+ 
+Intercorrências: 
+ 
+ 
+Observação: 
+ 
+ 
+Meta(s) alcançada(s) 
+(aparecer a meta automaticamente, conforme indicada no projeto para a indicação do percentual 
+alcançado) 
+Evidência(s): 
+(descrever e inserir documento que evidencie a execução ou atingimento da meta) 
+ 
+ 
+Validação do relatório (acompanhamento) 
+Identificação do Projeto 
+(automático) 
+Data: 
+dd/mm/aaaa 
+Parecer: 
+Favorável? 
+(   ) Sim              (   ) Não                     (    ) Parcialmente favorável 
+Considerações/Recomendações: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

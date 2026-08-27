@@ -1,0 +1,3785 @@
+PLANO DE GESTÃO ANUAL – PGA 2024 
+V11 
+Estruturado em um única etapa com 2 anexos: 
+PLANEJAMENTO PELA EQUIPE GESTORA DA UE 
+• Anexo 1 – Lista de equipamentos necessários aos projetos 
+• Anexo 2 – Lista de Ações/Projetos referentes à CPA 
+ 
+IDENTIFICAÇÃO DA UNIDADE 
+Unidade 
+257 
+Fatec Faculdade de Tecnologia de Itaquera “Prof. Miguel Reale” 
+Diretor(a) 
+Prof. Ms. Luis Carlos Barbosa de Oliveira 
+ 
+PLANEJAMENTO PELA EQUIPE GESTORA DA UE 
+(Administração da Faculdade - Deliberação CEETEPS 31/2016) 
+ANÁLISE DO CENÁRIO 
+Descrever de forma breve e objetiva o cenário da Unidade perante sua missão como Unidade de Ensino na localidade em que 
+se encontra (é este cenário que se pretende melhorar). 
+A Faculdade de Tecnologia de Itaquera “Prof. Miguel Reale” (Fatec Itaquera) foi construída no início da década passada (2012) 
+com a missão de promover desenvolvimento social e econômico na zona leste de São Paulo por meio da educação profissional 
+tecnológica de nível superior. Após 10 anos de operação, a Fatec Itaquera consolidou-se como instituição de ensino de renome 
+na região, oferecendo seis cursos superiores de tecnologia (CSTs): Automação Industrial, Manutenção Industrial, Mecânica: 
+Processos de Soldagem e Refrigeração, Ventilação e Ar Condicionado (eixo Controle e Processos Industriais); Fabricação 
+Mecânica (eixo Produção Industrial); e Desenvolvimento de Software Multiplataforma (eixo Informação e Comunicação). Tais 
+cursos servem a demandas correntes e latentes do cenário brasileiro atual. Desde 2021, a economia brasileira apresenta sinais 
+de recuperação após os impactos da pandemia do novo coronavírus, e a expectativa para os próximos anos é animadora, com 
+a aprovação da reforma tributária e sobretudo caso seja aprovada a reforma administrativa, prevista para o primeiro semestre 
+de 2024. O crescimento econômico estimula e é estimulado pelo crescimento da atividade industrial, o qual, por sua vez, gera 
+demanda por profissionais qualificados, como egressos de CSTs dos eixos Controle e Processos Industriais e Produção 
+Industrial. Além disso, a pandemia acelerou a transição do real para o digital, de modo que, hoje, o mundo experimenta um 
+boom de tecnologia de informação (TI). Estimativas para os próximos anos indicam que serão necessárias centenas de 
+milhares de profissionais de TI no Brasil, demanda a qual egressos de CSTs do eixo Informação e Comunicação estarão aptos 
+a atender. A Fatec Itaquera, assim, posiciona-se como polo formador de profissionais estratégicos para o desenvolvimento 
+social e econômico brasileiro. O cumprimento pleno de sua missão, porém, depende de incrementos materiais, aprimoramento 
+humano e reparos estruturais que são apresentados nos projetos que compõem este plano de gestão. 
+ 
+ 
+• Discorrer sobre o cenário, realizando um breve diagnóstico (limitar o espaço da escrita, para que seja inserido de forma suscinta). 
+APONTAMENTO DE SITUAÇÕES-PROBLEMA MAIS RELEVANTES 
+Fontes: relatório CPA, análise de processos críticos da UE, relatório de atendimento e ocorrências Hórus, relatório NDE, 
+relatório de representação discente (DA, Atlética, representantes de turma), relatório CIPA, entre outros. 
+1 
+cat 0.1.99 - Outra 
+ 
+5 
+cat 0.1.06 - Quantidade de professores/funcionários 
+2 
+cat 0.1.02 - Manutenção e conservação predial 
+ 
+6 
+cat 0.1.08 - Participação da comunidade e sociedade 
+3 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de 
+ensino 
+ 
+7 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+4 
+cat 0.1.10 - Gestão da unidade de ensino e dos cursos 
+(indicadores) 
+ 
+8 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+Outra – Especificar: Telhado e estrutura superior do edifício danificadas (mal construídas), provocando acúmulo de água das 
+chuvas e deterioração em paredes, vigas, colunas e lajes, inundação de salas de aula, proliferação de mofo, inutilização de 
+espaços e proliferação de mosquitos ; Ausência de sistema de ventilação e ar-condicionado e ausência de cortinas nas salas 
+de aula e laboratórios ; Rede Wi-Fi pública insuficiente para a demanda atual; Necessidade de renovação do acervo 
+bibliográfico em conformidade com os PPCs dos Cursos.; Necessidade de renovação do acervo bibliográfico em conformidade 
+com os PPCs dos Cursos.  
+ 
+Objetivos Institucionais – CPS (Plano de Metas) 
+1) Atender às demandas sociais e do mercado de trabalho. 
+2) Obter a satisfação dos públicos que se relacionam com o Centro Paula Souza (stakeholders). 
+3) Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem. 
+4) Assegurar a perenidade do crescimento da instituição com recursos financeiros disponíveis. 
+5) Garantir celeridade e efetividade na prestação de serviços. 
+6) Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no desenvolvimento tecnológico e inovação. 
+7) Promover a cultura de inovação e empreendedorismo. 
+8) Aumentar a eficiência, a produtividade e a competitividade da instituição. 
+9) Ampliar a oferta da Educação Profissional. 
+10) Resolução Conjunta SOG/SFP/SG-3, de 28-12-2022 - Bonificação por Resultados – BR das Secretarias de Estado, Procuradoria Geral do Estado, 
+Controladoria Geral do Estado e das Autarquias, de que trata a LC 1361-2021 
+Objetivos Institucionais – Cesu (Plano de Metas) 
+A. Integrar as diferentes modalidades de ensino, otimizando itinerários e tempo para a formação profissional. 
+B. Inovar processos de ensino e aprendizagem para manter excelência diante do mercado. 
+C. Ampliar a capacidade de criar e atualizar cursos em parceria com o mercado. 
+D. Expandir e ampliar a capacidade de articulação com Governos e Setores Produtivos. 
+E. Promover a captação de recursos extras e não orçamentários. 
+ 
+ 
+ESTRUTURAÇÃO DAS AÇÕES/PROJETOS 
+01 - Didático-pedagógico 
+Ações associadas ao PPC/PE de CSTs e Disciplinas: CST (implantação, alteração, readequação, reestruturação), 
+prática pedagógica (PE, PA), projeto interdisciplinar/ integrador, extensão curricularizada. 
+ 
+AÇÃO/PROJETO (Tema) 
+101 - cat 1.01 - Adequação/reestruturação de PPC, implantação de novos cursos. 
+Origem: 
+3-Outra 
+O que será feito: 
+Finalização da estruturação de proposta para atualização do PPC do CST em Fabricação Mecânica 
+mediante análise dos Conteúdos Programáticos dos Componentes Curriculares do curso, e 
+construção da nova grade curricular segundo as exigências mercadológicas 
+Por que será feito: 
+Para atualizar o PPC do curso em virtude do avanço tecnológico na área das novas exigências do 
+MEC. 
+Responsável: 
+<nome> Daniel José Toffoli (horas de dedicação 
+voluntária / líder), 
+Qde CH/sem: 
+64 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Norberto Gonçalves Neto 
+Qde CH/sem: 
+32 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> Felipe Ribeiro Toloczko 
+Qde CH/sem: 
+32 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+20/02/2023 
+Data final: 
+10/01/2024 
+Etapas do processo: 
+01- Designação das frentes de trabalho e respectivos colaboradores, e 
+alinhamento da proposta com a Cesu (GPR e GAP). 
+20/02 
+10/03 
+ 
+02- Desenvolvimento das frentes de trabalho e compilação das propostas 
+apresentadas. 
+13/03 
+16/04 
+ 
+03- Revisão da proposta do PPC do curso frente às sugestões do colegiado 
+em reuniões realizadas ao longo de 2022. 
+20/04 
+18/05 
+ 
+04- Reunião de apresentação da proposta final da versão atualizada do PPC 
+do CST em Fabricação Mecânica junto ao colegiado de curso. 
+19/05 
+19/05 
+ 
+05- Revisão da proposta final pelas partes 
+22/05 
+24/11 
+ 
+06- Reunião de apresentação da proposta de versão atualizada do PPC do 
+CST em Fabricação Mecânica à Congregação. 
+13/12 
+13/12 
+ 
+07- Revisão final da proposta com base nas sugestões feitas pela 
+Congregação. 
+14/12 
+28/12 
+ 
+08- Encaminhamento da proposta de reestruturação do PPC do CST em 
+Fabricação Mecânica para a Cesu. 
+10/01 
+10/01 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.99 - Outra 
+(a ser resolvida/mitigada) 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+102 - cat 1.01 - Adequação/reestruturação de PPC, implantação de novos cursos. 
+Origem: 
+3-Outra 
+O que será feito: 
+Uma Etec deverá estruturar o Plano de Trabalho aderente à Matriz de Referência presente no 
+Plano de Curso de Ensino Médio com Habilitação Profissional Técnica para os três primeiros anos 
+do programa de formação dos alunos. A Fatec Itaquera deve estruturar o Plano de Trabalho para 
+os dois anos referentes ao nível superior tecnológico, para o eixo tecnológico Controle e 
+Processos Industriais. Firmar parceria com uma ou mais empresas, oferecendo aos alunos 200 
+horas de atividades de contextualização profissional relacionadas com a Matriz de Referência, 
+conforme consta no Plano de Curso/Projeto Pedagógico 
+Por que será feito: 
+O Programa de Articulação da Formação Profissional Média e Superior (AMS) possibilita a oferta 
+de Ensino Médio com Habilitação Profissional Técnica que aproveite competências, habilidades, 
+conhecimentos e experiências desenvolvidas na escola e nas empresas parceiras, para 
+prosseguimento de estudos em cursos correlatos, do mesmo Eixo Tecnológico, em nível Superior. 
+Responsável: 
+<nome> Luis Carlos Barbosa de Oliveira 
+Qde CH/sem: 
+40 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Etevaldo Francisco Carreira Jr  
+Qde CH/sem: 
+40 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+10/04/2023 
+Data final: 
+20/12/2023 
+Etapas do processo: 
+01- Finalizar reestruturação do curso de Automação Industrial, pela equipe 
+de coordenadores do curso de todas as unidades onde há este curso. 
+01/02 
+20/12 
+ 
+02- Estabelecer parceria com a Etec (provavelmente Tereza Nunes) para 
+definir o currículo final do AMS em Automação Industrial. 
+01/08 
+20/12 
+ 
+03- Estabelecer parcerias com empresas que atuem no ramo de 
+Automação Industrial. 
+01/08 
+20/12 
+ 
+04- Obter a relação dos professores habilitados e interessados, bem como 
+as respectivas cargas horárias para a ministração dos componentes 
+curriculares que integram o itinerário formativo do curso AMS de 
+Automação Industrial. 
+01/08 
+30/09 
+ 
+05- Fazer estudo da distribuição das salas de aulas da Fatec que serão 
+designadas para o AMS de Automação Industrial. 
+01/10 
+20/12 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.10 - Gestão da unidade de ensino e dos cursos (indicadores) 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+103 - cat 1.01 - Adequação/reestruturação de PPC, implantação de novos cursos. 
+Origem: 
+3-Outra 
+O que será feito: 
+Processos administrativos necessários à implantação do CST em Desenvolvimento de Software 
+Multiplataforma. 
+Por que será feito: 
+A fim de dar andamento ao processo de implantação do curso e à formação de turmas. 
+Responsável: 
+<nome> Rodrigo Moura Lima de Aragão 
+Qde CH/sem: 
+40 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/02/2023 
+Data final: 
+20/12/2023 
+Etapas do processo: 
+01- Contratação de novos docentes mediante concursos públicos e 
+processos seletivos simplificados. 
+01/02 
+31/08 
+ 
+02- Conferência de planos de ensino inseridos no SIGA por docentes do 
+curso (1º semestre de 2023). 
+08/02 
+31/03 
+ 
+03- Acompanhamento do oferecimento integral das disciplinas do curso 
+(1º semestre de 2023). 
+08/02 
+01/07 
+ 
+04- Estudo para Solicitação de aquisição de livros do PPC para o acervo da 
+biblioteca da Fatec Itaquera. 
+09/03 
+07/04 
+ 
+05- Elaboração de grade horária do 3º semestre do curso. 
+02/05 
+31/05 
+ 
+06- Estudo e implementação de rotinas internas referentes ao estágio 
+supervisionado de DSM. 
+03/07 
+31/08 
+ 
+07- Conferência de planos de ensino inseridos no SIGA por docentes do 
+curso (2º semestre de 2023). 
+01/08 
+31/08 
+ 
+08- Acompanhamento do oferecimento integral das disciplinas do curso 
+(2º semestre de 2023). 
+01/08 
+20/12 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.10 - Gestão da unidade de ensino e dos cursos (indicadores) 
+(a ser resolvida/mitigada) 
+cat 0.1.99 - Outra 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+104 - cat 1.14 - Curso de Extensão 
+Origem: 
+2-CPA (Relatório da Comissão Própria de Avaliação da Unidade) 
+O que será feito: 
+Oferecimento de disciplina de extensão semestral para revisar os conteúdos elementares de Matemática.  
+ 
+Por que será feito: 
+Para melhorar o rendimento acadêmico dos discentes e reduzir a evasão. 
+Responsável: 
+<nome> Sandra Regina Lima dos Santos Silva 
+Qde CH/sem: 
+64 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/03/2023 
+Data final: 
+20/12/2023 
+Etapas do processo: 
+01- Estudo das ementas das disciplinas da área de matemática dos seis 
+cursos de graduação oferecidos na Fatec Itaquera para identificar os 
+pontos a serem trabalhados na disciplina de extensão. 
+20/02 
+10/03 
+ 
+02- Elaboração do plano de ensino e do plano de aulas da disciplina de 
+extensão. 
+13/03 
+16/03 
+ 
+03- Divulgação da disciplina de extensão à comunidade da Fatec Itaquera e 
+recebimento de inscrições no 1º semestre de 2023. 
+13/03 
+18/03 
+ 
+04- Oferecimento da disciplina de extensão no 1º semestre de 2023. 
+20/03 
+31/05 
+ 
+05- Análise crítica do impacto da disciplina de extensão no desempenho 
+dos estudantes nas disciplinas da área de matemática. 
+26/06 
+04/08 
+ 
+06- Divulgação da disciplina de extensão à comunidade da Fatec Itaquera e 
+recebimento de inscrições no 2º semestre de 2023. 
+07/08 
+12/08 
+ 
+07- Oferecimento da disciplina de extensão no 2º semestre de 2023. 
+14/08 
+15/12 
+ 
+08- Análise crítica do impacto da disciplina de extensão no desempenho 
+dos estudantes nas disciplinas da área de matemática. 
+16/12 
+20/12 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+ 
+AÇÃO/PROJETO (Tema) 
+104 - cat 1.05 - Monitoria em disciplina do curso 
+Origem: 
+2-CPA (Relatório da Comissão Própria de Avaliação da Unidade) 
+O que será feito: 
+Fornecer à comunidade discente apoio escolar, mediado por Monitores(as), para um melhor 
+aproveitamento em disciplinas básicas. 
+Por que será feito: 
+Para melhorar o rendimento acadêmico por meio do programa de monitoria e reduzir a evasão, 
+bem como desenvolver atividades tecnológicas em laboratórios da unidade. 
+Responsável: 
+<nome> Rafael Rocha Maia 
+Qde CH/sem: 
+32 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Rogério Rodrigues de Souza 
+Qde CH/sem: 
+64 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> Rodrigo Moura Lima de Aragão 
+Qde CH/sem: 
+32 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+08/02/2023 
+Data final: 
+20/12/2023 
+Etapas do processo: 
+01- Publicar e divulgar aos alunos os dias e horários de atendimento no 
+Plantão de Dúvidas ou nas Aulas de Reforço. 
+08/02 
+22/02 
+ 
+02- Elaborar listas de exercícios a pedido do Professor(a) Orientador(a), 
+dentro do limite de carga horária estipulada pelo Programa. 
+01/03 
+30/07 
+ 
+03- Elaborar o gabarito das listas de exercícios fornecidas pelo professor 
+responsável, ou outro professor da mesma disciplina. 
+02/04 
+02/05 
+ 
+04- Participar das atividades práticas, a pedido e com orientação do 
+professor responsável, ou outro professor da mesma disciplina com 
+autorização prévia do professor responsável; realizar as tarefas 
+estabelecidas no projeto do Plano de Trabalho ou no Projeto Orientado de 
+Interesse para a Monitoria. 
+02/05 
+15/05 
+ 
+05- Comparecer e participar das reuniões de monitoria convocadas pela 
+Coordenação do Programa de Monitoria; participar integralmente da 
+Recepção de Calouros do semestre seguinte, no Treinamento de 
+Fundamentos da Matemática; e submeter um resumo expandido do 
+trabalho desenvolvido no Programa de Monitoria no Encontro de Iniciação 
+Científica e Encontro de Monitoria, e apresentá-lo seja no semestre 
+vigente ou subsequente. 
+16/05 
+01/06 
+ 
+06- Publicar e divulgar aos alunos os dias e horários de atendimento no 
+Plantão de Dúvidas ou nas Aulas de Reforço. 
+08/08 
+20/12 
+ 
+07- Participar das atividades práticas, a pedido e com orientação do 
+professor responsável, ou outro professor da mesma disciplina com 
+autorização prévia do professor responsável; realizar as tarefas 
+estabelecidas no projeto do Plano de Trabalho ou no Projeto Orientado de 
+Interesse para a Monitoria. 
+01/11 
+20/12 
+ 
+08- Comparecer e participar das reuniões de monitoria convocadas pela 
+Coordenação do Programa de Monitoria; participar integralmente da 
+Recepção de Calouros do semestre seguinte, no Treinamento de 
+Fundamentos da Matemática; e submeter um resumo expandido do 
+trabalho desenvolvido no Programa de Monitoria no Encontro de Iniciação 
+Científica e Encontro de Monitoria, e apresentá-lo seja no semestre 
+vigente ou subsequente. 
+16/11 
+01/12 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+ 
+  
+ 
+02 – Laboratórios - Ensino e Equipamentos Associados 
+Ações para melhoramento dos laboratórios de Ensino (Gestão e Equipamentos): Melhoramento de 
+equipamentos, mediante instalação, manutenção, desuso, doação, e gestão de ambiente laboratorial. 
+ 
+AÇÃO/PROJETO (Tema) 
+201 - cat 2.05 - Gestão laboratorial - pedagógica, operacional e estrutural 
+Origem: 
+3-Outra 
+O que será feito: 
+Estudo para a elaboração de roteiros didáticos a serem utilizados nas disciplinas de Tecnologia de 
+Usinagem II e Operações Mecânicas I do CST em Fabricação Mecânica da Fatec Itaquera.  
+Por que será feito: 
+Para melhorar os processos de ensino e aprendizagem e evitar sobreposição de conteúdos 
+programáticos nas disciplinas, além de possibilitar a programação de compras de insumos para o 
+laboratório e a identificação de equipamentos e máquinas que poderiam ser adquiridos para 
+deixar o laboratório mais adequado às práticas didáticas. 
+Responsável: 
+<nome> Silvestre da Silva Neto 
+Qde CH/sem: 
+64 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> Fabrício Iusuti de Medeiros 
+Qde CH/sem: 
+64 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> Cláudio Batista da Silva 
+Qde CH/sem: 
+64 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+01/03/2023 
+Data final: 
+30/06/2023 
+Etapas do processo: 
+01- Determinação e orientação a equipe de trabalho. 
+01/03 
+06/03 
+ 
+02- Estudo a respeito dos objetivos de aprendizagem dos componentes 
+curriculares do CST em Fabricação Mecânica com atividades no Laboratório 
+de Usinagem (Tecnologia de Usinagem II, Operações Mecânicas). 
+01/03 
+31/03 
+ 
+03- Confecção de dois roteiros experimentais para processos de 
+torneamento. 
+03/04 
+28/04 
+ 
+04- Confecção de dois roteiros experimentais para processos de 
+fresamento. 
+01/05 
+29/05 
+ 
+05- Confecção de dois roteiros experimentais para confecção de conjuntos 
+mecânicos 
+30/05 
+27/06 
+ 
+06- Estudo a respeito dos maquinários e equipamentos existentes no 
+laboratório, de forma a verificar se atendem plenamente às ementas das 
+disciplinas que o utilizam e, se necessário, realizar levantamento de itens 
+para compra. 
+03/04 
+30/06 
+ 
+07- Elaborar rotina de compras de insumos para o Laboratório de 
+Usinagem com base no consumo previsto nos roteiros elaborados 
+03/04 
+30/06 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+202 - cat 2.01 - Laboratório físico - implantação/melhoramento com recursos PEDAGÓGICOS 
+Origem: 
+2-CPA (Relatório da Comissão Própria de Avaliação da Unidade) 
+O que será feito: 
+Projeto de leiaute, reorganização e compra de mobiliário, equipamentos, ferramentas e 
+dispositivos, com adequação das instalações elétricas e de climatização, para o Laboratório de 
+Ensaios Mecânicos. 
+Por que será feito: 
+Para atendimento às disciplinas relacionadas a ensaios mecânicos destrutivos e não destrutivos 
+dos cursos ofertados na Fatec Itaquera, em seus conteúdos práticos previstos em PPC. 
+Responsável: 
+<nome> Anderson Clayton Nascimento Ribeiro 
+Qde CH/sem: 
+32 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Sergio Pamboukian 
+Qde CH/sem: 
+32 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+03/04/2023 
+Data final: 
+31/07/2023 
+Etapas do processo: 
+01- Formação da equipe de trabalho e distribuição das tarefas. 
+03/04 
+03/04 
+ 
+02- Estudo a respeito dos objetivos de aprendizagem e ementas dos 
+componentes curriculares dos CSTs da Fatec Itaquera (Fabricação 
+Mecânica, Mecânica: Processos de Soldagem, Manutenção Industrial e 
+Refrigeração, Ventilação e Ar Condicionado) com atividades no Laboratório 
+de Ensaios Mecânicos. 
+04/04 
+02/05 
+ 
+03- Elaboração da lista de insumos e de maquinário necessário, com base 
+no estudo realizado. (Previsão: durômetro de bancada, máquina de ensaio 
+Charpy, serra vertical, máquina universal de ensaios). 
+03/05 
+03/05 
+ 
+04- Elaboração da planta com o leiaute do laboratório, considerando os 
+equipamentos necessários. 
+04/05 
+04/05 
+ 
+05- Consulta ao BEC para elaboração da solicitação de compra do 
+maquinário necessário (previsão: durômetro de bancada, máquina de 
+ensaio Charpy, serra vertical, máquina universal de ensaios). 
+05/05 
+19/05 
+ 
+06- Submissão de projeto(s) ao CPS/CESU para análise. 
+19/05 
+19/05 
+ 
+07- Submissão de projeto(s) revisados ao CPS/CESU para implantação 
+12/06 
+12/06 
+ 
+08- Implantação dos equipamentos e maquinários no laboratório. 
+01/07 
+31/07 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+203 - Escolher um item. 
+Origem: 
+Escolher um item. 
+O que será feito: 
+ 
+Por que será feito: 
+ 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+203 - cat 2.05 - Gestão laboratorial - pedagógica, operacional e estrutural 
+Origem: 
+3-Outra 
+O que será feito: 
+Estudo para desenvolvimento de uma bancada didática que explore os princípios de 
+funcionamento de um trocador de calor. 
+Por que será feito: 
+Para desenvolver um equipamento para uso em aulas práticas de refrigeração 
+Responsável: 
+<nome> Lincoln Nascimento Ribeiro 
+Qde CH/sem: 
+32 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/02/2023 
+Data final: 
+22/12/2023 
+Etapas do processo: 
+01- Projetar a bancada de ensaios. 
+08/02 
+28/02 
+ 
+02- Fazer simulações no computador sobre o funcionamento da bancada 
+01/03 
+01/07 
+ 
+03- Elaborar relação de materiais necessários e adquiri-los. Construir a 
+bancada. 
+16/05 
+01/07 
+ 
+04- Elaborar relatórios de resultados de experimentos realizados na 
+bancada. 
+16/06 
+01/08 
+ 
+05- Preparação de documentação (roteiros de aula e experimentos) para 
+as aulas práticas. 
+02/08 
+18/08 
+ 
+06- Elaborar publicação científica sobre o projeto. 
+21/08 
+22/12 
+ 
+07- Projetar a bancada de ensaios 
+01/12 
+20/12 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.99 - Outra 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+<Copiar tabelas para mais ações> 
+X 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+204 - cat 2.05 - Gestão laboratorial - pedagógica, operacional e estrutural 
+Origem: 
+3-Outra 
+O que será feito: 
+Elaboração de projeto(s) e implantação de novo(s) laboratório(s) de informática. 
+Por que será feito: 
+Para atender às necessidades didático-pedagógicas do CST em Desenvolvimento de Software 
+Multiplataforma. 
+Responsável: 
+<nome> Rodrigo Moura Lima de Aragão 
+Qde CH/sem: 
+32 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Fretz Sievers Junior 
+Qde CH/sem: 
+32 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> Tomiko Marina Assau 
+Qde CH/sem: 
+32 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+01/03/2023 
+Data final: 
+31/07/2023 
+Etapas do processo: 
+01- Medição de salas de aula com potencial de uso como laboratório de 
+informática. 
+01/03 
+31/03 
+ 
+02- Elaboração de projeto(s) escrito(s) com layout e especificações do(s) 
+laboratório(s). 
+01/04 
+30/04 
+ 
+03- Orçamento de computadores desktop com especificações adequadas 
+às necessidades dos estudantes de DSM. 
+02/05 
+15/05 
+ 
+04- Submissão de projeto(s) ao CPS/CESU para análise. 
+16/05 
+16/05 
+ 
+05- Ajustes nos projetos conforme recomendações do CPS/CESU. 
+01/06 
+09/06 
+ 
+06- Submissão de projeto(s) revisados ao CPS/CESU para implantação. 
+12/06 
+12/06 
+ 
+07- Implantação do(s) laboratórios com adequação das salas e instalação 
+dos computadores. 
+01/07 
+31/07 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+205 - cat 2.05 - Gestão laboratorial - pedagógica, operacional e estrutural 
+Origem: 
+3-Outra 
+O que será feito: 
+Instalação de softwares necessários para disciplinas práticas de Desenvolvimento de Software 
+Multiplataforma. 
+Por que será feito: 
+Para atender às necessidades didático-pedagógicas do CST em Desenvolvimento de Software 
+Multiplataforma. 
+Responsável: 
+<nome> Rodrigo Moura Lima de Aragão 
+Qde CH/sem: 
+32 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Fretz Sievers Junior 
+Qde CH/sem: 
+32 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> Tomiko Marina Assau 
+Qde CH/sem: 
+32 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+01/03/2023 
+Data final: 
+31/08/2023 
+Etapas do processo: 
+01- Levantamento de softwares necessários para aulas práticas do curso 
+(disciplinas do 2º semestre). 
+13/02 
+28/02 
+ 
+02- Instalação e atualização dos softwares necessários em computadores 
+de mesa e notebooks (disciplinas do 2º semestre). 
+01/03 
+31/03 
+ 
+03- Levantamento de softwares necessários para aulas práticas do curso 
+(disciplinas do 3º semestre). 
+24/07 
+11/08 
+ 
+04- Instalação dos softwares necessários em computadores de mesa e 
+notebooks (disciplinas do 3º semestre). 
+14/08 
+31/08 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+206 - cat 2.01 - Laboratório físico - implantação/melhoramento com recursos PEDAGÓGICOS 
+Origem: 
+3-Outra 
+O que será feito: 
+Estudo para aquisição de uma célula robotizada de soldagem GMAW. 
+Por que será feito: 
+Desenvolver atividades de apoio ao Laboratório de Soldagem FATEC Itaquera, permitindo: 
+- Exequibilidade de desenvolvimento das habilidades dos discentes; 
+- Exercício prático por parte dos discentes referentes aos conhecimentos teóricos trabalhados 
+pelos docentes; 
+- Disponibilização dos equipamentos e materiais necessários para a preparação das atividades de 
+ensino previstas nas disciplinas do projeto pedagógico do curso superior de Tecnologia Mecânica: 
+Processos de Soldagem; 
+- Alinhar o curso de Tecnologia Mecânica: Processos de Soldagem da Fatec Itaquera à Indústria 
+4.0. 
+Responsável: 
+<nome> Anderson Clayton Nascimento Ribeiro 
+Qde CH/sem: 
+32 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Edgar de Souza Dutra 
+Qde CH/sem: 
+32 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+03/03/2023 
+Data final: 
+30/06/2023 
+Etapas do processo: 
+01- Estudo do modelo da célula robotizada apropriada para a Unidade, 
+considerando carga, dimensão e integração com os equipamentos de 
+soldagem. 
+03/03 
+10/04 
+ 
+02- Cotação e negociação com os fornecedores e fabricantes. 
+10/04 
+15/05 
+ 
+03- Submissão de projeto(s) ao CPS/CESU para análise. 
+16/05 
+16/05 
+ 
+04- Ajustes nos projetos conforme recomendações do CPS/CESU 
+01/06 
+09/06 
+ 
+05- Submissão de projeto(s) revisados ao CPS/CESU para implantação 
+12/06 
+12/06 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+207 - cat 2.05 - Gestão laboratorial - pedagógica, operacional e estrutural 
+Origem: 
+3-Outra 
+O que será feito: 
+Manutenção das unidades hidráulicas e das válvulas limitadoras de pressão das bancadas de 
+hidráulica e manutenção dos componentes avariados das bancadas de hidráulica e pneumática. 
+Por que será feito: 
+Para eliminar vazamentos das unidades hidráulicas, calibrar as válvulas limitadoras de pressão 
+que não estão funcionando, repor peças danificadas sem condições de reparo. 
+Responsável: 
+<nome> Etevaldo Francisco Carreira Jr 
+Qde CH/sem: 
+32 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Otávio Pellegrini Buscaratto 
+Qde CH/sem: 
+32 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/04/2023 
+Data final: 
+31/07/2023 
+Etapas do processo: 
+01- Envio das unidades hidráulicas que apresentam vazamentos para a 
+Festo orçar o reparo. 
+01/04 
+31/07 
+ 
+02- Envio das peças danificadas para a Festo orçar o reparo ou a venda dos 
+produtos que não podem ser reparados. 
+01/04 
+30/04 
+ 
+03- Obter autorização e verba do CPS para a execução dos reparos e/ou 
+compra dos componentes. 
+02/05 
+30/05 
+ 
+04- Realizar os reparos / compras necessárias. 
+02/05 
+30/05 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+208 - cat 2.05 - Gestão laboratorial - pedagógica, operacional e estrutural 
+Origem: 
+3-Outra 
+O que será feito: 
+Digitalização - Módulo de Pneumática Digital – VTEM, diagnóstico do MPS para upgrade com 
+comunicação Codesys, virtualização do laboratório com CIROS, LVSIM. 
+Por que será feito: 
+Para atualização de tecnologia, para que a formação dos alunos em Robótica acompanhe a 
+evolução tecnológica do mercado e das empresas industriais. 
+Responsável: 
+<nome> Etevaldo Francisco Carreira Jr 
+Qde CH/sem: 
+32 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Otávio Pellegrini Buscaratto 
+Qde CH/sem: 
+32 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/08/2023 
+Data final: 
+20/12/2023 
+Etapas do processo: 
+01- Diagnóstico e orçamento das atualizações. 
+01/08 
+31/08 
+ 
+02- Obter autorização e verba do CPS para a execução da execução da 
+atualização do módulo MPS. 
+01/09 
+30/09 
+ 
+03- Substituição dos CLPS do módulo MPS. 
+01/10 
+30/10 
+ 
+04- Instalação dos softwares CIROS, LVSIM. 
+01/10 
+30/10 
+ 
+05- Capacitação dos professores usuários do laboratório de Robótica, para 
+atualização do conhecimento em relação aos novos recursos 
+01/12 
+20/12 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+ 
+ 
+ 
+03 – Pesquisa / Extensão e Equipamentos Associados 
+Ações para melhoramento dos laboratórios que contemplam Pesquisa além do Ensino (Equipamentos): 
+melhoramento dos espaços de pesquisa, que inclui especificação equipamentos e aquisição por fomento ou por 
+projeto com empresa, e também prestação de serviços no campo tecnológico para instituições e empresas. 
+ 
+AÇÃO/PROJETO (Tema) 
+301 - Escolher um item. 
+Origem: 
+Escolher um item. 
+O que será feito: 
+ 
+Por que será feito: 
+ 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+301 - cat 3.01 - Cursos de Extensão 
+Origem: 
+3-Outra 
+O que será feito: 
+Oferecimento de cursos de inglês, espanhol e francês para membros das comunidades interna e 
+externa da Fatec Itaquera. 
+Por que será feito: 
+Para complementar o estudo de idiomas estrangeiros dos estudantes da Fatec Itaquera e para 
+atender à demanda existente na região por cursos gratuitos de idiomas. 
+Responsável: 
+<nome> Maiaty Saraiva Ferraz 
+Qde CH/sem: 
+96 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> Bianca Agarie 
+Qde CH/sem: 
+32 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> Elaine Cristina Oliveira 
+Qde CH/sem: 
+64 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+08/02/2023 
+Data final: 
+22/12/2023 
+Etapas do processo: 
+01- Divulgação de abertura de inscrições e gerenciamento de inscrições 
+recebidas para cursos do 1º semestre de 2023. 
+02/08 
+28/08 
+ 
+02- Realização dos cursos de idiomas do 1º semestre de 2023. 
+01/03 
+01/07 
+ 
+03- Redação de relatórios de encerramento dos cursos do 1º semestre de 
+2023. 
+16/06 
+01/07 
+ 
+04- Proposição de abertura de projetos de cursos para o 2º semestre de 
+2023. 
+16/06 
+01/08 
+ 
+05- Divulgação de abertura de inscrições e gerenciamento de inscrições 
+recebidas para cursos do 2º semestre de 2023 
+02/08 
+18/08 
+ 
+06- Realização dos cursos de idiomas do 2º semestre de 2023. 
+21/08 
+20/12 
+ 
+07- Redação de relatórios de encerramento dos cursos do 2º semestre de 
+2023. 
+01/12 
+20/12 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.08 - Participação da comunidade e sociedade 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+ 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+302 - cat 3.01 - Cursos de Extensão 
+Origem: 
+3-Outra 
+O que será feito: 
+Estruturação da proposta de oferecimento do curso de extensão em SolidWorks e estudo da 
+possibilidade de aquisição de novas licenças do software. 
+Por que será feito: 
+Para aumentar o número de vagas em cursos de extensão ofertados pela unidade, levando o 
+saber do corpo docente aos alunos e à comunidade; para difundir conhecimento sobre software 
+muito utilizado na área da mecânica; também para divulgar a Fatec Itaquera a potenciais 
+candidatos no processo seletivo vestibular. 
+Responsável: 
+<nome> Tarcis Andrade da Silva 
+Qde CH/sem: 
+64 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/02/2023 
+Data final: 
+20/12/2023 
+Etapas do processo: 
+01- Estudo e pesquisa sobre a demanda da comunidade interna e externa 
+em relação ao aprendizado do software SolidWorks. Estruturação da 
+disciplina de extensão SolidWorks e de seu plano de aula. 
+01/02 
+01/03 
+ 
+02- Divulgação da disciplina de extensão, recebimento das inscrições e 
+seleção dos participantes do primeiro semestre de 2023 
+02/03 
+17/03 
+ 
+03- Início do oferecimento da disciplina de extensão para o primeiro 
+semestre de 2023. 
+20/03 
+20/03 
+ 
+04- Término do oferecimento da disciplina de extensão para o primeiro 
+semestre de 2023. 
+22/06 
+22/06 
+ 
+05- Análise da necessidade da aquisição de mais licenças do software 
+SolidWorks, com base na demanda da disciplina e no número de 
+concluintes. 
+03/07 
+31/07 
+ 
+06- Divulgação da disciplina de extensão, recebimento das inscrições e 
+seleção dos participantes do segundo semestre de 2023 
+07/08 
+14/08 
+ 
+07- Início do oferecimento da disciplina de extensão para o segundo 
+semestre de 2023. 
+15/08 
+15/08 
+ 
+08- Término do oferecimento da disciplina de extensão para o segundo 
+semestre de 2023. 
+15/12 
+15/12 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.08 - Participação da comunidade e sociedade 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+303 - cat 3.01 - Cursos de Extensão 
+Origem: 
+3-Outra 
+O que será feito: 
+Oferecimento de curso de extensão de Arduino para estudantes da Fatec Itaquera e membros da 
+comunidade externa. 
+Por que será feito: 
+Para capacitar estudantes e público externo para o uso de novas tecnologias. 
+Responsável: 
+<nome> Daniel Rodrigues de Souza 
+Qde CH/sem: 
+32 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+08/02/2023 
+Data final: 
+22/12/2023 
+Etapas do processo: 
+01- Divulgação de abertura de inscrições e gerenciamento de inscrições 
+recebidas para o 1º semestre de 2023. 
+08/02 
+28/02 
+ 
+02- Realização do curso de Arduino do 1º semestre de 2023. 
+01/03 
+01/07 
+ 
+03- Redação de relatório de encerramento do curso do 1º semestre de 
+2023. 
+16/06 
+01/07 
+ 
+04- Proposição de abertura de projeto de curso para o 2º semestre de 
+2023. 
+16/06 
+01/08 
+ 
+05- Divulgação de abertura de inscrições e gerenciamento de inscrições 
+recebidas para o 2º semestre de 2023. 
+02/08 
+18/08 
+ 
+06- Realização do curso de Arduino do 2º semestre de 2023. 
+21/08 
+20/12 
+ 
+07- Redação de relatório de encerramento do curso do 2º semestre de 
+2023. 
+01/12 
+20/12 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+<Copiar tabelas para mais ações> 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+04 – Atividades Formativas em Projetos (nível tático) 
+Projetos institucionais formativos não especificados em PEs: Rede de tecnologia, Novotec, PCI, Projetos 
+estudantis (Baja, Aerodesign, entre outros) 
+ 
+AÇÃO/PROJETO (Tema) 
+401 - Escolher um item. 
+Origem: 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+401 - cat 4.04 - Projetos estudantis diversos 
+Origem: 
+2-CPA (Relatório da Comissão Própria de Avaliação da Unidade) 
+O que será feito: 
+Projeto com estudantes de graduação da Fatec Itaquera para a criação de conteúdo de marca 
+(brand content) para publicação em redes sociais e site institucional. 
+Por que será feito: 
+Conforme levantamento feito com alunos ingressantes, publicações em redes sociais são um dos 
+principais meios de conhecimento da Fatec Itaquera; por isso, é necessário intensificar a atuação 
+nessa frente. Além disso, a produção de material com conteúdo técnicos e científicos 
+possibilitará a estudantes o desenvolvimento de competências relevantes para o mercado de 
+trabalho atual. 
+Responsável: 
+<nome> Rodrigo Moura Lima de Aragão 
+Qde CH/sem: 
+32 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/05/2023 
+Data final: 
+20/12/2023 
+Etapas do processo: 
+01- Estudo preliminar para implantação do NuCom (definição de dias, 
+horários, local e tamanho da equipe). 
+01/05 
+19/05 
+ 
+02- Divulgação do projeto e abertura de inscrições para participação 
+discente. 
+22/05 
+16/06 
+ 
+03- Entrevistas com participantes inscritos e definição de fluxo de trabalho. 
+19/06 
+30/06 
+ 
+04- Reuniões de trabalho semanais de planejamento, criação e análise de 
+materiais de divulgação. 
+01/08 
+15/12 
+ 
+05- Publicação periódica de conteúdos em redes sociais e site institucional. 
+14/08 
+20/12 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+ 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+402 - Escolher um item. 
+Origem: 
+Escolher um item. 
+O que será feito: 
+Estudo e modelagem em software 3D de modelos didáticos para uso em aulas de Desenho 
+Técnico, abrangendo peças com planos oblíquos aos planos de projeção, furos e cortes, para 
+posterior impressão e utilização nas atividades didáticas. 
+Por que será feito: 
+Para atendimento aos componentes curriculares relacionados com Desenho Técnico dos cursos 
+da Fatec Itaquera, em seus conteúdos práticos previstos nos PPCs, e para que professores e 
+estudantes possam se valer de metodologias ativas de ensino, que colaboram indiretamente com 
+a redução da evasão escolar. 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/02/2023 
+Data final: 
+30/06/2023 
+Etapas do processo: 
+01- Estudo a respeito dos modelos didáticos a serem confeccionados na 
+impressora 3D, à luz dos objetivos dos componentes curriculares 
+relacionados ao Desenho Técnico. 
+01/02 
+10/02 
+ 
+02- Aquisição dos filamentos para impressora 3D em cores variadas, 
+necessários à impressão dos modelos didáticos de acordo com o grau de 
+dificuldade do desenho. 
+13/02 
+30/06 
+ 
+03- Confecção dos modelos didáticos selecionados na impressora 3D da 
+unidade. 
+13/02 
+30/06 
+ 
+04- Utilização dos modelos didáticos em sala de aula. 
+01/08 
+20/12 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+403 - cat 4.04 - Projetos estudantis diversos 
+Origem: 
+3-Outra 
+O que será feito: 
+Serão realizados roteiros experimentais para as práticas desenvolvidas no laboratório de 
+refrigeração. 
+Por que será feito: 
+Os procedimentos experimentais possibilitarão a padronização dos resultados, a transferência do 
+conhecimento quando houver troca de docente, auxiliarão no desenvolvimento das aulas 
+práticas. 
+Responsável: 
+<nome> Lincoln Nascimento Ribeiro 
+Qde CH/sem: 
+32 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/02/2023 
+Data final: 
+20/12/2023 
+Etapas do processo: 
+01- Identificação dos equipamentos existentes no laboratório. 
+08/02 
+28/02 
+ 
+02- Levantamento dos manuais técnicos dos equipamentos 
+01/03 
+01/07 
+ 
+03- Levantamento junto a literatura das práticas possíveis de 
+desenvolvimento 
+16/06 
+01/07 
+ 
+04- Testes e validação das práticas. 
+16/06 
+01/08 
+ 
+05- Redação do procedimento experimental. 
+02/08 
+18/08 
+ 
+06- Disponibilização dos procedimentos impressos e digitais. 
+21/08 
+20/12 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+<Copiar tabelas para mais ações> 
+X 
+AÇÃO/PROJETO (Tema) 
+404 - cat 4.01 - Projeto de Rede de tecnologia 
+Origem: 
+3-Outra 
+O que será feito: 
+Estabelecer um roteiro a ser proposto para montagens de circuitos hidráulicos, pneumáticos, 
+eletro-hidráulicos e eletro-pneumáticos, com base na ementa e nos objetivos do curso, apoiados 
+pelos materiais didáticos fornecidos pela Festo para as bancadas Hidráulicas e de Pneumática. 
+Por que será feito: 
+Unificar as práticas de laboratório aplicadas por diferentes professores das disciplinas de 
+“Hidráulica e Pneumática” e “Sistemas Hidráulicos e Pneumáticos”. 
+Responsável: 
+<nome> Dariel Mazzoni Maranhão 
+Qde CH/sem: 
+32 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> Cristiano Morais de Sousa 
+Qde CH/sem: 
+32 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> Otávio Pellegrini Buscaratto 
+Qde CH/sem: 
+32 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+01/04/2023  
+Data final: 
+30/11/2023 
+Etapas do processo: 
+01- Definir os exercícios de circuitos a serem montados 
+01/04 
+30/04 
+ 
+02- Escrever os procedimentos de montagem dos componentes nas 
+bancadas 
+02/05 
+30/05 
+ 
+03- Escrever os procedimentos e cuidados com a segurança dos alunos ao 
+montarem os circuitos 
+01/06 
+30/06 
+ 
+04- Descrever a forma de avaliação das práticas de laboratório 
+15/06 
+30/06 
+ 
+05- Disponibilização dos procedimentos impressos e digitais 
+01/07 
+01/07 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+05 – Infraestrutura (instalações prediais) 
+Projetos de manutenção e melhoramento predial voltados à segurança (física e sanitária) e preservação do 
+patrimônio: Reparação predial (civil, elétrica, dados), novas instalações prediais. 
+ 
+AÇÃO/PROJETO (Tema) 
+501 - cat 5.05 - Reforma de Edificações 
+Origem: 
+1-CEE (Relatório Circunstanciado do Conselho Estadual de Educação 
+O que será feito: 
+Projeto para reforma do telhado da Fatec Itaquera, que está com telhas quebradas e infiltração, 
+provocando a inutilização de salas de aula por mofo e gotejamento. 
+Por que será feito: 
+Para possibilitar a reforma do telhado da unidade, que desde 2016 vem sendo solicitada à UIE, de 
+forma que não haja 
+Responsável: 
+<nome> Luis Carlos Barbosa de Oliveira 
+Qde CH/sem: 
+32 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+02/01/2023 
+Data final: 
+20/12/2023 
+Etapas do processo: 
+01- Elaboração de Relatório sobre as condições do telhado da Fatec/Etec 
+Itaquera  
+02/01 
+30/01 
+ 
+02- Pesquisa por departamentos para enviar o Relatório e 
+Encaminhamento do mesmo aos departamentos.  
+02/02 
+15/02 
+ 
+03- Acompanhamento na elaboração de projeto da Reforma pela equipe 
+técnica do Centro Paula Souza. 
+02/04 
+30/06 
+ 
+04- Acompanhamento da publicação do Edital público para execução do 
+projeto da Reforma 
+02/08 
+30/11 
+ 
+05- Recebimento de notificação de cancelamento do Edital público. 
+10/12 
+10/12 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.02 - Manutenção e conservação predial 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+ - Escolher um item. 
+Origem: 
+Escolher um item. 
+O que será feito: 
+ 
+Por que será feito: 
+ 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+502 - cat 5.05 - Reforma de Edificações 
+Origem: 
+3-Outra 
+O que será feito: 
+Projeto de leiaute, reorganização e compra de mobiliário e adequação das instalações elétricas e 
+de climatização para a sala da diretoria de serviços da Fatec Itaquera e sua sala contígua, que se 
+tornará uma sala para recepção de autoridades e convidados. 
+Por que será feito: 
+Para acomodar os novos funcionários da diretoria de serviços, e para a disponibilização de um 
+novo espaço na unidade, para recepção de autoridades e convidados de eventos. 
+Responsável: 
+<nome> Douglas Prieto da Silva 
+Qde CH/sem: 
+32 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Daniele Cesar da Silva 
+Qde CH/sem: 
+32 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+03/04/2023 
+Data final: 
+30/12/2023 
+Etapas do processo: 
+01- Formação da equipe de trabalho e distribuição das tarefas. 
+03/04 
+03/04 
+ 
+02- Estudo do melhor leiaute para acomodação de dois novos funcionários 
+no setor e de mobiliário necessário. 
+04/04 
+03/05 
+ 
+03- Elaboração da planta com o leiaute da sala. 
+05/05 
+15/05 
+ 
+04- Elaboração de projeto para à UIE para solicitação de orçamento 
+referente às obras necessárias. 
+20/05 
+20/07 
+ 
+05- Resolvendo pendencias levantadas na elaboração do projeto. 
+02/08 
+30/12 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+503 - cat 5.08 - Construção de Laboratório 
+Origem: 
+3-Outra 
+O que será feito: 
+Projeto de leiaute e reorganização de mobiliário e de adequação das instalações elétricas e de 
+climatização e iluminação para os três laboratórios de informática da Fatec Itaquera. 
+Por que será feito: 
+Para utilização mais racional do espaço físico disponível na unidade, atendendo às necessidades 
+de seus seis cursos superiores de tecnologia e à necessidade gerada pela implantação do CST em 
+Desenvolvimento de Software Multiplataforma. 
+Responsável: 
+<nome> Luis Carlos Barbosa de Oliveira 
+Qde CH/sem: 
+32 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Cláudio Batista da Silva 
+Qde CH/sem: 
+32 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+03/04/2023 
+Data final: 
+30/06/2023 
+Etapas do processo: 
+01- Formação da equipe de trabalho e distribuição das tarefas. 
+03/04 
+03/04 
+ 
+02- Estudo do melhor leiaute para a divisão de cada um dos três 
+laboratórios de informática em dois novos laboratórios. 
+04/04 
+03/05 
+ 
+03- Estudo para elaboração das plantas com o leiaute dos laboratórios. 
+04/05 
+30/05 
+ 
+04- Envio de estudo de novo leiaute dos laboratórios à UIE para solicitação 
+de orçamento referente às obras necessárias (instalação de drywall e 
+adequação das instalações elétricas, de iluminação e de conforto térmico 
+(ar-condicionado). 
+02/06 
+02/06 
+ 
+05- Aguardar a reforma do telado para iniciar a implantação dos 
+laboratórios. 
+02/07 
+30/12 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+<Copiar tabelas para mais ações> 
+X 
+ 
+ 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+504 - cat 5.02 - Melhoria de Laboratório 
+Origem: 
+3-Outra 
+O que será feito: 
+Estudo para a instalação de uma porta comum no Laboratório de Usinagem. 
+Por que será feito: 
+Para evitar o acesso de alunos e professores da Fatec ao prédio da Etec, que é onde a atual porta 
+se encontra, bem como para evitar a deterioração precoce da porta existente, própria para 
+acesso de maquinários grandes e pesados (e não para manipulação constante para entrada e 
+saída de pessoas).  
+Responsável: 
+<nome> Luis Carlos Barbosa de Oliveira 
+Qde CH/sem: 
+32 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Daniel José Toffoli 
+Qde CH/sem: 
+32 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+03/04/2023 
+Data final: 
+31/07/2023 
+Etapas do processo: 
+01- Formação da equipe de trabalho e distribuição das tarefas. 
+03/04 
+03/04 
+ 
+02- Estudo do melhor leiaute para a posição da nova porta de acesso do 
+Laboratório de Usinagem 
+04/04 
+14/04 
+ 
+03- Contato para Submissão de projeto à UIE para análise. 
+17/04 
+17/04 
+ 
+04- Resolvendo pendencias levantadas na elaboração do projeto. 
+20/04 
+30/07 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+XX 
+AÇÃO/PROJETO (Tema) 
+505 - cat 5.05 - Reforma de Edificações 
+Origem: 
+3-Outra 
+O que será feito: 
+Projeto de som, iluminação, projeção de imagens ; e reparos necessários em infraestrutura 
+(hidráulica e do quadro de luz) do Anfiteatro da Fatec Itaquera. 
+Por que será feito: 
+Para que o anfiteatro da Fatec Itaquera possa ser utilizado em sua total potencialidade em 
+eventos da unidade, uma vez que os sanitários estão quebrados e não há sistemas de som, 
+iluminação e projeção instalados. 
+Responsável: 
+<nome> Luis Carlos Barbosa de Oliveira 
+Qde CH/sem: 
+32 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Sidney Leal da Silva 
+Qde CH/sem: 
+32 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+03/04/2023 
+Data final: 
+31/12/2023 
+Etapas do processo: 
+01- Formação da equipe de trabalho e distribuição das tarefas. 
+03/04 
+03/04 
+ 
+02- Estudo de Projeto do sistema de iluminação e de projeções de imagem 
+do Anfiteatro, incluindo especificação de materiais e orçamentos. 
+04/04 
+01/08 
+ 
+03- Estudo de manutenção do quadro de eletricidade e fiação do 
+Anfiteatro, incluindo especificação de materiais e orçamentos. 
+04/04 
+01/07 
+ 
+04- Estudo de manutenção da parte hidráulica dos banheiros do 
+Anfiteatro, incluindo especificação de materiais e orçamentos. 
+04/04 
+01/08 
+ 
+05- Realização da manutenção do quadro de eletricidade e fiação do 
+Anfiteatro 
+02/07 
+30/07 
+ 
+06- Realização da manutenção da parte hidráulica dos banheiros do 
+Anfiteatro 
+10/11 
+30/11 
+ 
+07- Aguardando conclusão do projeto do sistema de iluminação e de 
+projeções de imagem do Anfiteatro 
+04/04 
+30/12 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+XX 
+AÇÃO/PROJETO (Tema) 
+506 - cat 5.05 - Reforma de Edificações 
+Origem: 
+Escolher um item. 
+O que será feito: 
+Verificação de setor do subsolo da unidade, para determinação da quantidade de entulho de 
+obra presente no local e determinação de meios de aproveitamento do espaço.  
+Por que será feito: 
+Para que seja verificada a viabilidade da retirada do entulho da obra de construção do prédio, de 
+forma a evitar a proliferação de pragas na unidade e permitir a melhor utilização do espaço 
+público. 
+Responsável: 
+<nome> Claudio Batista da Silva 
+Qde CH/sem: 
+32 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Douglas Prieto da Silva 
+Qde CH/sem: 
+32 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Luis Carlos Barbosa de Oliveira 
+Qde CH/sem: 
+32 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+13/03/2023 
+Data final: 
+31/12/2023 
+Etapas do processo: 
+01- Definição da equipe de trabalho e identificação das atividades 
+necessárias para realização do estudo. 
+13/03 
+31/03 
+ 
+02- Visita ao setor do subsolo da unidade que armazena o entulho para 
+identificação da situação em que se encontra. 
+03/04 
+03/04 
+ 
+03- Estudo para elaboração de proposta para remoção do entulho e 
+melhor utilização do espaço disponível no prédio público. 
+04/04 
+30/05 
+ 
+04- Submissão da proposta a UIE para análise. 
+10/06 
+10/06 
+ 
+05- Aguardando retorno de análise da UIE 
+02/08 
+30/12 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.02 - Manutenção e conservação predial 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+XX 
+AÇÃO/PROJETO (Tema) 
+507 - cat 5.01 - Melhoria Sala de Ambientes pedagógicos 
+Origem: 
+2-CPA (Relatório da Comissão Própria de Avaliação da Unidade) 
+O que será feito: 
+Estudo e solicitação de melhoria da rede pública de Wi-Fi da Fatec Itaquera.  
+Por que será feito: 
+Para atender às necessidades de conectividade da comunidade interna da Fatec Itaquera. 
+Responsável: 
+<nome> Rodrigo Moura Lima de Aragão 
+Qde CH/sem: 
+32 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Fretz Sievers Junior 
+Qde CH/sem: 
+32 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> Tomiko Marina Assau 
+Qde CH/sem: 
+32 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+01/06/2023 
+Data final: 
+31/07/2023 
+Etapas do processo: 
+01- Estudo da rede pública de Wi-Fi da Fatec Itaquera e sua capacidade. 
+01/06 
+09/06 
+ 
+02- Solicitação junto ao CPS de incremento de 80% da capacidade da rede 
+atual. 
+12/06 
+12/06 
+ 
+03- Análise e parecer do CPS sobre a solicitação de incremento 
+13/06 
+31/07 
+ 
+04- Aguardando implantação 
+02/08 
+30/12 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+508 - cat 5.01 - Melhoria Sala de Ambientes pedagógicos 
+Origem: 
+1-CEE (Relatório Circunstanciado do Conselho Estadual de Educação 
+O que será feito: 
+Estudo e solicitação de melhoria da infraestrutura de salas de aula e laboratórios no tocante ao 
+conforto térmico. 
+Por que será feito: 
+Para atender às necessidades de docentes e discentes no exercício de suas atividades. 
+Responsável: 
+<nome> Daniel José Toffoli 
+Qde CH/sem: 
+32 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Regina Ferreira Freitas Pereira 
+Qde CH/sem: 
+32 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+02/05/2023 
+Data final: 
+31/07/2023 
+Etapas do processo: 
+01- Estudo a respeito das necessidades das salas de aula e laboratórios no 
+tocante a ventiladores, ares-condicionados e cortinas, para promover o 
+conforto térmico. 
+02/05 
+30/05 
+ 
+02- Solicitação junto a UGAF pela infraestrutura e compra de 
+equipamentos relacionados ao conforto térmico nas salas de aula e 
+laboratórios. 
+01/06 
+01/06 
+ 
+03- Aguardando por aprovação da instalação da infraestrutura pela UGAF 
+01/07 
+30/12 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+ 
+ 
+ 
+ 
+ 
+ 
+06 - Desenvolvimento de pessoas (docentes e servidores) 
+Formação continuada de docentes e servidores, associadas às competências gerais e específicas de suas 
+atividades: Metodologias de ensino, Tecnologias educacionais, Sistemas (processos, procedimentos, plataformas 
+computacionais) acadêmicos e pedagógicos. 
+ 
+AÇÃO/PROJETO (Tema) 
+601 - cat 6.03 - Projeto de Orientação psicopedagógica 
+Origem: 
+3-Outra 
+O que será feito: 
+Realização de oficina na 13ª SPAP com tema relacionado ao uso das TDICs em sala de aula, 
+propiciando a adoção de metodologias ativas de ensino.  
+Por que será feito: 
+Para desenvolvimento de competências relacionadas ao uso de tecnologias de informação e 
+comunicação nas aulas da Fatec Itaquera. 
+Responsável: 
+<nome> Daniel José Toffoli 
+Qde CH/sem: 
+8 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+02/05/2023 
+Data final: 
+04/08/2023 
+Etapas do processo: 
+01- Estudo teórico referente a boas práticas da utilização de TDICs em 
+ambientes acadêmicos. 
+02/05 
+30/05 
+ 
+02- Elaboração de práticas para a oficina de aplicação das TDICs em sala de 
+aula e dos materiais da apresentação na 13ª SPAP. 
+02/07 
+30/07 
+ 
+03- Realização da oficina de TDICs na 13ª SPAP. 
+01/08 
+04/08 
+ 
+04- Elaboração e entrega dos certificados aos professores participantes. 
+07/08 
+10/08 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+602 - cat 6.01 - Curso/Oficina/Capacitação/ Treinamento/ Palestra/Reunião/Encontro 
+Origem: 
+3-Outra 
+O que será feito: 
+Encontro para troca de experiências e aperfeiçoamento de processos internos relativos aos 
+trabalhos de conclusão de curso da Fatec Itaquera.  
+Por que será feito: 
+A fim de manter uma política institucional de melhoria contínua. 
+Responsável: 
+<nome> Rodrigo Moura Lima de Aragão 
+Qde CH/sem: 
+8 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Fábio Pinto Arruda 
+Qde CH/sem: 
+8 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/05/2023 
+Data final: 
+24/06/2023 
+Etapas do processo: 
+01- Formação de comissão organizadora 
+02/05 
+02/05 
+ 
+02- Divulgação do evento e recebimento de inscrições para apresentações 
+orais. 
+03/05 
+19/05 
+ 
+03- Recebimento de inscrições de ouvintes. 
+01/06 
+24/06 
+ 
+04- Preparação de lista de presença, certificados e demais itens para o 
+evento. 
+19/06 
+24/06 
+ 
+05- Realização do encontro. 
+24/06 
+24/06 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+603 - cat 6.01 - Curso/Oficina/Capacitação/ Treinamento/ Palestra/Reunião/Encontro 
+Origem: 
+3-Outra 
+O que será feito: 
+Visitas monitoradas aos laboratórios da Fatec Itaquera com demonstrações de equipamentos. 
+Por que será feito: 
+Para que docentes de disciplinas básicas/teóricas possam se familiarizar com especificidades dos 
+cursos de graduação oferecidos na Fatec Itaquera e para integrar os novos funcionários 
+administrativos. 
+Responsável: 
+<nome> Rodrigo Moura Lima de Aragão 
+Qde CH/sem: 
+32 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Etevaldo Francisco Carreira Junior 
+Qde CH/sem: 
+32 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Douglas Prieto da Silva 
+Qde CH/sem: 
+32 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+26/07/2023 
+Data final: 
+11/08/2023 
+Etapas do processo: 
+01- Planejamento das visitas monitoradas. 
+26/07 
+31/07 
+ 
+02- Divulgação da programação de visitas aos docentes da unidade. 
+28/07 
+31/07 
+ 
+03- Visitas monitoradas aos laboratórios da Fatec Itaquera. 
+01/08 
+11/08 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+604 - cat 6.01 - Curso/Oficina/Capacitação/ Treinamento/ Palestra/Reunião/Encontro 
+Origem: 
+3-Outra 
+O que será feito: 
+Organização e Realização da Semana Interna de Prevenção de Acidentes (SIPAT) da Fatec 
+Itaquera – Ano 2023.  
+Por que será feito: 
+Para que docentes, servidores e discentes possam se familiarizar com temas relacionados à 
+segurança e saúde do trabalhador, a saber: doenças sexualmente transmissíveis; Legislação 
+Trabalhista; Higiene e Segurança do trabalho; Equipamentos de Proteção Individual; Primeiros 
+Socorros; Segurança em instalações e serviços em eletricidade, etc. 
+Responsável: 
+<nome> Edgar de Souza Dutra 
+Qde CH/sem: 
+32 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Jean Pierre Garcia 
+Qde CH/sem: 
+32 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Anderson Clayton Ribeiro 
+Qde CH/sem: 
+32 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+01/02/2023 
+Data final: 
+05/05/2023 
+Etapas do processo: 
+01- Seleção dos temas a compor a SIPAT 2023 – Fatec Itaquera. 
+01/02 
+17/02 
+ 
+02- Contatar profissionais e empresas relacionadas aos temas 
+selecionados. 
+23/02 
+14/04 
+ 
+03- Organização de salas, recursos necessários e montagem da 
+programação da SIPAT 2023. 
+17/04 
+21/04 
+ 
+04- Divulgação da programação da SIPAT 2023 nos canais da Fatec Itaquera 
+24/04 
+28/04 
+ 
+05- Acompanhamento das palestras e minicursos da SIPAT 2023 
+02/05 
+05/05 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+<Copiar tabelas para mais ações> 
+ 
+ 
+ 
+ 
+ 
+ 
+07 – Convênios e Parcerias Institucionais 
+Formalização do relacionamento da Unidade com o Ecossistema de Tecnologia: Convênio de uso de prédio, 
+estágios, projetos com empresas. Aqui cabe apenas novos convênios e parcerias, e cada proposta deve estar 
+relacionada a uma Ação/Projeto de melhoria em algum dos itens anteriores do PGA (1, 2, 3, 4, 5 ou 6). 
+ 
+AÇÃO/PROJETO (Tema) 
+701 - cat 7.03 - Projetos com empresas e/ou demais parceiros 
+Origem: 
+3-Outra 
+O que será feito: 
+Manutenção de bancada didática para fins de testes de equipamentos de automação industrial e 
+sistema de refrigeração em câmara frias. 
+Por que será feito: 
+Bancadas didáticas são recursos importantes no processo de ensino aprendizagem das disciplinas tecnológicas.  
+ 
+Responsável: 
+<nome> Lincoln Ribeiro Nascimento 
+Qde CH/sem: 
+32 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Rafael Rocha Maia 
+Qde CH/sem: 
+32 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+08/02/2023 
+Data final: 
+20/12/2023 
+Etapas do processo: 
+01- Contato com a diretoria da Danfoss. 
+08/02 
+28/02 
+ 
+02- Agendamento de visita do Técnico da Danfoss. 
+01/03 
+01/07 
+ 
+03- Receber e acompanhar o técnico durante a visita diagnóstica. 
+16/06 
+01/07 
+ 
+04- Visita às instalações da Danfoss 
+01/10 
+30/10 
+ 
+05- Elaboração de manual técnico descritivo do equipamento. 
+21/08 
+20/12 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+702 - cat 7.03 - Projetos com empresas e/ou demais parceiros 
+Origem: 
+3-Outra 
+O que será feito: 
+Participação no CONBRAVA e Febrava. 
+Por que será feito: 
+Para divulgação dos cursos da unidade e dos projetos que têm sido desenvolvidos. 
+Responsável: 
+<nome> Lincoln Ribeiro Nascimento 
+Qde CH/sem: 
+32 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> Rafael Rocha Maia 
+Qde CH/sem: 
+32 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Luis Carlos Barbosa de Oliveira  
+Qde CH/sem: 
+32 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+08/02/2023 
+Data final: 
+15/09/2023 
+Etapas do processo: 
+01- Participação das reuniões da ABRAVA. 
+02/08 
+30/06 
+ 
+02- Participação das reuniões da equipe técnica do CONBRAVA. 
+02/03 
+30/06 
+ 
+03- Revisão dos artigos do CONBRAVA. 
+02/04 
+15/05 
+ 
+04- Divulgação do congresso e da Feira na unidade. 
+16/05 
+12/09 
+ 
+05- Participação no congresso e na Feira 
+13/09 
+15/09 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.99 - Outra 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+<Copiar tabelas para mais ações> 
+X 
+AÇÃO/PROJETO (Tema) 
+702 - Escolher um item. 
+Origem: 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+702 - Escolher um item. 
+Origem: 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+702 - Escolher um item. 
+Origem: 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+702 - Escolher um item. 
+Origem: 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+702 - Escolher um item. 
+Origem: 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+ 
+ 
+ 
+ 
+ 
+Anexo 1 – Lista de aquisições necessárias aos projetos 
+(equipamentos, softwares, mobiliários) 
+ 
+Item 
+Projeto 
+(XYY) 
+Denominação ou especificação do equipamento 
+Quant. 
+01 
+nnn 
+nnn 
+nn 
+02 
+nnn 
+nnn 
+nn 
+03 
+nnn 
+nnn 
+nn 
+04 
+nnn 
+nnn 
+nn 
+05 
+nnn 
+nnn 
+nn 
+06 
+nnn 
+nnn 
+nn 
+07 
+nnn 
+nnn 
+nn 
+08 
+nnn 
+nnn 
+nn 
+09 
+nnn 
+nnn 
+nn 
+10 
+nnn 
+nnn 
+nn 
+11 
+nnn 
+nnn 
+nn 
+12 
+nnn 
+nnn 
+nn 
+13 
+nnn 
+nnn 
+nn 
+14 
+nnn 
+nnn 
+nn 
+15 
+nnn 
+nnn 
+nn 
+16 
+nnn 
+nnn 
+nn 
+17 
+nnn 
+nnn 
+nn 
+18 
+nnn 
+nnn 
+nn 
+19 
+nnn 
+nnn 
+nn 
+20 
+nnn 
+nnn 
+nn 
+ 
+ 
+ 
+ 
+ 
+Anexo 2 – Lista de Ações/Projetos referentes à CPA 
+ 
+Item 
+Projeto 
+(XYY) 
+Denominação 
+(O que será feito) 
+Prazo 
+01 
+nnn 
+nn 
+dd/mm/aaaa 
+02 
+nnn 
+nn 
+dd/mm/aaaa 
+03 
+nnn 
+nn 
+dd/mm/aaaa 
+04 
+nnn 
+nn 
+dd/mm/aaaa 
+05 
+nnn 
+nn 
+dd/mm/aaaa 
+06 
+nnn 
+nn 
+dd/mm/aaaa 
+07 
+nnn 
+nn 
+dd/mm/aaaa 
+08 
+nnn 
+nn 
+dd/mm/aaaa 
+09 
+nnn 
+nn 
+dd/mm/aaaa 
+10 
+nnn 
+nn 
+dd/mm/aaaa 
+11 
+nnn 
+nn 
+dd/mm/aaaa 
+12 
+nnn 
+nn 
+dd/mm/aaaa 
+13 
+nnn 
+nn 
+dd/mm/aaaa 
+14 
+nnn 
+nn 
+dd/mm/aaaa 
+15 
+nnn 
+nn 
+dd/mm/aaaa 
+16 
+nnn 
+nn 
+dd/mm/aaaa 
+17 
+nnn 
+nn 
+dd/mm/aaaa 
+18 
+nnn 
+nn 
+dd/mm/aaaa 
+19 
+nnn 
+nn 
+dd/mm/aaaa 
+20 
+nnn 
+nn 
+dd/mm/aaaa 
+ 
+ 
+<fim> 
+ 
+ 
+ 
+ 
+ 
+ 

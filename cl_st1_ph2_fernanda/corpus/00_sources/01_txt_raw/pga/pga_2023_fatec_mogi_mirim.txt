@@ -1,0 +1,805 @@
+PLANO DE GESTÃO ANUAL – PGA 
+v06 
+Estruturado em 3 etapas: 
+ETAPA I – PLANEJAMENTO PELA EQUIPE GESTORA DA UE 
+ETAPA II – APROVAÇÃO E HOMOLOGAÇÃO 
+ETAPA III – ACOMPANHAMENTO DAS AÇÕES GERENCIAIS 
+ 
+IDENTIFICAÇÃO DA UNIDADE 
+Unidade 
+163 
+Fatec Mogi Mirim 
+Diretor(a) 
+Prof. Dr. André Luis Ferrari de Moura Giraldi 
+ 
+ETAPA I – PLANEJAMENTO PELA EQUIPE GESTORA DA UE 
+ANÁLISE DO CENÁRIO (Breve diagnóstico) 
+Há 1100 alunos matriculados na Fatec Mogi Mirim “Arthur de Azevedo”, neste ano de 2023, em seus 5 Cursos Superiores de 
+Tecnologia: Análise de Desenvolvimento de Sistemas (manhã e noite); Fabricação Mecânica (manhã), Mecatrônica Industrial ‐
+1º ao 4º períodos (tarde) e 5º ao 6º períodos (noite), Projetos Mecânicos (noite), e Gestão Empresarial EAD. A partir do 1º 
+Semestre de 2023 está sendo   implantado o 1º ano AMS Análise e Desenvolvimento de Sistemas. 
+A unidade está organizada em 5 Blocos: 
+ 
+Bloco Administrativo 
+ 
+Bloco A‐ 01 Auditório; 01 Estúdio de Criação; 08 Laboratórios (Ensaio de Materiais, Química, Controle de Processos, Física, 
+Elétrica, Eletrônica, Sistema Hidráulico e Pneumático, Automação). 
+  
+Bloco B: 09 Salas de aula, 05 Laboratórios de Informática, 01 Sala Maker, 01 Sala de Desenho, 01 Biblioteca, 01 Sala de Estudos, 
+01 Sala para as Coordenações, 01 sala para Secretaria, 01 sala de Direção e 01 Sala de Professores. 
+ 
+Bloco C – em construção ‐ 02 Salas de aula, 02 Laboratórios de Informática, 05 Laboratórios na área de mecânica (Soldagem, 
+Injeção, Motores, Estampagem, Bombas). 
+ 
+Oficina Mecânica ‐ 01 Sala de aula, Laboratório de Metrologia, Usinagem e CNC.  
+ 
+ 
+APONTAMENTO DE SITUAÇÕES-PROBLEMA MAIS RELEVANTES 
+Fontes: relatório CPA, análise de processos críticos da UE, relatório de atendimento e ocorrências Hórus GCom. 
+ 
+1 
+Taxa de Concluinte 
+6
+Inadequação da estrutura da biblioteca.
+2 
+ 
+Ingressantes com dificuldades de aprendizagem nas 
+disciplinas básicas. 
+7 
+Laboratórios de aulas práticas da área mecânica e 
+automação com necessidade de aquisição de novos 
+equipamentos, conforme solicitado anteriormente via 
+SIAF. 
+3 
+Alto índice de evasão no 1º período 
+8 
+Manutenção predial (pintura, reforma do telhado e 
+acabamento do piso) 
+4 
+Inexistência de área de convivência.  
+9 
+Baixo número de auxiliares docentes na unidade para 
+atender a quantidade de laboratórios. 
+5 
+Inexistência de espaço de restaurante/cozinha para 
+funcionários, docentes e discentes. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DEFINIÇÃO DE OBJETIVOS, METAS E AÇÕES (PROJETOS) 
+Objetivos 
+1 
+Divulgar os cursos gratuitos oferecidos pela unidade
+2 
+Melhorar a empregabilidade dos discentes 
+3 
+Diminuir a evasão escolar 
+4 
+Aumentar a avaliação dos cursos no sistema ENADE e CEE
+5 
+Formar mão de obra qualificada para a região
+ 
+Metas 
+1 
+Aumentar o índice de candidato/vaga no vestibular
+5
+Implantar projeto integrador 
+2 
+Implantar novos cursos extracurriculares 
+6
+Ampliar a busca por novas oportunidade de estágio
+3 
+Melhorar o índice taxa de concluinte 
+7 
+Conseguir aumentar a quantidade de auxiliares 
+docentes na unidade. 
+4 
+Apresentar a infraestrutura do campus  
+8 
+Aumentar a quantidade de mulheres nos cursos 
+oferecidos. 
+ 
+ESTRUTURAÇÃO DAS AÇÕES/PROJETOS  
+01 - Didático-pedagógico 
+ 
+AÇÃO/PROJETO 
+A – Projeto Pedagógico interdisciplinar no CST em Fabricação Mecânica 
+O que será feito: 
+Construção de uma mini cábrea didática.
+ 
+Por que será feito: 
+Aplicar novas metodologias com ênfase na interdisciplinaridade horizontal e vertical.
+Responsável(is) / CH sem: Coordenação de Curso – Prof. Dr. Paulo Fernando Barbieri
+Período de execução: 
+Data de início: 
+08/02/2023
+Data final:
+31/12/2025
+Etapas do processo: 
+1ª  Etapa:  cálculos  e  desenhos  técnicos  mecânicos  iniciais  em 
+prancheta dos elementos com geometrias regulares da mini cábrea; 
+estudo de parâmetros e variáveis (cinemáticas e dinâmicas). 
+08/02/2023 31/06/2023
+2ª Etapa: cálculos e desenhos técnicos mecânicos por computador dos 
+elementos  da  mini  cábrea;  estudo  dos  materiais,  análise  dos 
+parâmetros e de variáveis (cinemáticas e dinâmicas). 
+01/08/2023 31/12/2023
+3ª  Etapa:  início  do  processo  de  fabricação  – cortes  de  materiais  e 
+ajustagem mecânica. 
+08/02/2024 31/06/2024
+4ª  Etapa:  processos  de  tratamento  dos  materiais  e  usinagem 
+convencional de alguns elementos. 
+01/08/2024 31/12/2024
+5ª Etapa: análise de custos e produção, processos de usinagem CNC. 
+08/02/2025 31/06/2025
+6ª Etapa: ajustes, montagem e finalização.
+01/08/2025 31/12/2025
+Custo (se houver): 
+ 
+ 
+Fonte(s) dos recursos: 
+ 
+ 
+Objetivo(s) relacionado(s): 
+ 
+Apoio didático ao ensino‐aprendizagem. 
+ 
+Diminuir a evasão de alunos ao longo do curso. 
+Meta(s) relacionada(s): 
+Melhorar a formação profissional dos estudantes.
+Implementar o número de alunos ativos no curso. 
+ 
+ 
+AÇÃO/PROJETO 
+B – Reestruturação do CST em Projetos Mecânicos
+O que será feito: 
+Reestruturação do CST de Projetos Mecânicos em comum acordo com as outras unidades do CPS
+com o mesmo curso. 
+Organização de uma nova estrutura curricular para o CST em Projetos Mecânicos de Mogi Mirim. 
+Por que será feito: 
+Atender demanda do catálogo de cursos oferecidos pelo MEC.
+Responsável(is) / CH sem: Coordenação de Curso – Prof. Ms. Hudson Henrique Pereira
+Período de execução: 
+Data de início: 
+07/02/2023 
+Data final: 
+30/12/2023 
+ 
+1ª Etapa: Alinhamento de Matriz Curricular em conjunto com os 
+demais Coordenadores do mesmo curso (São Paulo e Sorocaba). 
+01/03/2023  30/06/2023
+2ª Etapa: Atualização da Ementa, Bibliografia, Objetivos de disciplinas  01/03/2023  31/07/2023
+3ª Etapa:  Definição e implantação da nova matriz e planos de ensino 
+01/08/2023 
+31/12/2023 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+Objetivo(s) relacionado(s): Adequar estrutura do curso à nova estrutura do PPC
+Promover a atualização pedagógica do curso 
+Meta(s) relacionada(s): 
+Melhorar índices de taxa de concluintes.
+Preparar o aluno para o atual cenário no mercado de trabalho 
+ 
+AÇÃO/PROJETO 
+C ‐ ENADE 
+O que será feito: 
+Plano de ação pedagógica  junto ao CST Análise de Desenvolvimento de Sistemas 
+Por que será feito: 
+Melhorar o desempenho dos alunos referente ao último ENADE
+Responsável(is) / CH sem: Coordenação de Curso – Prof. Ms. Cesar Eduardo Bagnolo 
+Período de execução: 
+Data de início: 
+07/02/2023
+Data final: 
+30/12/2024
+ 
+1ª Etapa: Avaliações com questões padrão ENADE em todos os níveis 
+e em todas as disciplinas (do 1º ao 6º semestre) 
+06/02/2023 
+30/11/2024 
+2ª Etapa: Organização de SIMULADO: solicitação aos professores de 
+questões 
+que 
+envolvam 
+suas 
+disciplinas 
+(especialmente 
+as 
+profissionalizantes) para compor o simulado; 
+01/08/2023 
+31/08/2023 
+3ª Etapa: Aplicação de SIMULADO com questões padrão dos exames 
+ENADE (valendo nota), para os alunos do 4º semestre (2023/2); 5º 
+semestre (2024/1) a fim de irem se habituando com o estilo da prova 
+ENADE. 
+01/08/2023 
+e  
+01/02/2024 
+30/11/2023 
+e  
+30/06/2024 
+ 
+4ª.Etapa: Aplicação de SIMULADO com questões dos exames ENADE 
+anteriores (valendo nota), para os alunos do 6º semestre a fim de 
+irem se habituando com o estilo da prova 
+Revisão de conteúdo aos sábados das 11h15min às 12h55min, 
+mediante elaboração de cronograma envolvendo as disciplinas e 
+professores abaixo relacionados; 
+ 
+Rede de computadores – Profa. Rita de Cassia Catini de 
+Macedo 
+ 
+Interação Humano Computador – Profa. Rita de Cassia Catini 
+de Macedo 
+ 
+Engenharia de software – Profa. Ana Célia Ribeiro Bizigato 
+Portes 
+ 
+Gestão e Governança de Tecnologia da Informação – Prof. 
+Carlos de Jesus 
+ 
+Algoritmos e Lógica de Programação – Prof. Marcos Roberto 
+Nava 
+ 
+Estrutura de Dados – Prof. Marcos Roberto Nava 
+ 
+Laboratório de hardware – Prof. Douglas Roberto Rosa 
+Pereira 
+ 
+Arquitetura e Organização de Computadores – Prof. Marcos 
+Roberto Nava 
+ 
+Linguagem de Programação – Prof. Marcos Roberto de 
+Moraes 
+ 
+Programação em microinformática – Prof. Marcos Roberto 
+de Moraes  
+01/08/2024 
+30/11/2024 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+Professor  com  02  HAEs  para  compor  a 
+simulado, gabarito, correção e publicação 
+do resultado; 
+Papel  e  impressora  para  reprodução  da 
+prova simulado. 
+Objetivo(s) relacionado(s): Aumentar a avaliação do curso de ADS no sistema ENADE  e CEE
+Meta(s) relacionada(s): 
+Aumentar a avaliação da FATEC Mogi Mirim  no ENADE 2024
+ 
+ 
+ 
+ 
+02 - Gestão de atividades formativas em Laboratórios 
+ 
+AÇÃO/PROJETO 
+A – Instalação de Equipamentos adquiridos pelo CPS
+O que será feito: 
+Instalação  dos  referidos equipamentos em salas/laboratórios específicos 
+Por que será feito: 
+Necessidade de melhorar as aulas práticas dos CST em: Projetos Mecânicos, Fabricação Mecânica 
+e Mecatrônica 
+Responsável(is) / CH sem: Prof. Ms. José Benedito Ferreira Sobrinho
+Período de execução: 
+Data de início: 
+07/02/2023 
+Data final: 
+30/12/2023 
+Etapas do processo: 
+ Análise e Projeto de Instalação;
+01/03/2023 
+30/04/2023 
+ Levantamento de Orçamentos; 
+01/03/2023 
+30/04/2023 
+Execução e Instalação.
+01/05/2023 
+31/07/2023 
+ 
+ 
+ 
+Custo (se houver): 
+HAE e DMPP 
+Fonte(s) dos recursos: 
+CPS
+Objetivo(s) relacionado(s): Instalação dos equipamentos no novo bloco da unidade
+Meta(s) relacionada(s): 
+Implementar e dinamizar  as aulas práticas dos cursos oferecidos pela unidade. 
+ 
+AÇÃO/PROJETO 
+B – Instalação da Doação de Equipamento Áudio Visual.
+O que será feito: 
+Instalação da doação  do novo sistema áudio visual  no Auditório (Bloco A). 
+Por que será feito: 
+Melhorar a infraestrutura do sistema hibrido do auditório do Bloco A 
+Responsável(is) / CH sem: Diretoria Administrativa: Sr. Michele Berra
+Período de execução: 
+Data de início: 
+07/02/2023 
+Data final: 
+31/12/2023 
+Etapas do processo: 
+    Análise e Projeto de Instalação;
+01/02/2023 
+31/03/2023 
+    Solicitação de orçamentos;
+01/03/2023 
+30/04/2023 
+    Execução e Instalação 
+01/05/2023 
+30/06/2023 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo (se houver): 
+DMPP e FAT 
+Fonte(s) dos recursos: 
+Centro Paula Souza 
+ACIMM  ‐ Associação Comercial e 
+Industrial de Mogi Mirim  
+Objetivo(s) relacionado(s): Utilização de recursos híbridos no auditório
+Meta(s) relacionada(s): 
+Melhorar a infraestrutura do auditório 
+ 
+AÇÃO/PROJETO 
+C – Melhorias na CANTINA.
+O que será feito: 
+Melhorar as instalações da cantina:
+‐  serviço de água e esgoto; 
+‐  serviço de instalação elétrica; 
+‐ implementação do  lay out de mesas e cadeiras. 
+Por que será feito: 
+Necessidade de adequar uma infraestrutura melhor para a comunidade acadêmica
+Responsável(is) / CH sem: Diretoria Administrativa: Sr. Michele Berra
+Período de execução: 
+Data de início: 
+07/02/2023 
+Data final: 
+31/12/2023 
+Etapas do processo: 
+     Análise e Projeto de Instalação
+01/03/2023 
+31/05/2023 
+     Solicitação de orçamento
+01/06/2023 
+30/06/2023 
+     Execução e Instalação 
+01/07/2023 
+30/08/2023 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo (se houver): 
+DMPP e FAT 
+Fonte(s) dos recursos: 
+Centro Paula Souza 
+Objetivo(s) relacionado(s): Melhorar a área de convivência acadêmica 
+Meta(s) relacionada(s): 
+Atender uma demanda detectada pelo  relatório da CPA/2022.
+ 
+ 
+ 
+ 
+ 
+03 - Desenvolvimento de pessoas (docentes e servidores) 
+res) 
+AÇÃO/PROJETO 
+A – Titulação Docente
+O que será feito: 
+Apoio na obtenção de títulos
+Por que será feito: 
+Incentivar o corpo docente a obtenção de títulos de doutorado e mestrado 
+Responsável(is) / CH sem: Coordenações de Cursos
+Período de execução: 
+Data de início: 
+07/02/2023 
+Data final: 
+31/12/2023 
+Etapas do processo: 
+     Consulta ao Corpo Docente
+01/03/2023 
+31/03/2023 
+     Editais Internos e Externos
+01/04/2023 
+30/04/2023 
+     PSS 
+01/05/2023 
+30/05/2023 
+     Reunião de Congregação
+01/06/2023 
+31/06/2023 
+ 
+ 
+ 
+Custo (se houver): 
+URH
+Fonte(s) dos recursos: 
+Centro Paula Souza 
+Objetivo(s) relacionado(s): Aumentar a titulação dos docentes da unidade
+Meta(s) relacionada(s): 
+Aumentar os projetos de iniciação cientifica na unidade com apoio das agências de fomento.
+ 
+AÇÃO/PROJETO 
+B – Capacitação de pessoal para coordenação. Sistema acadêmico e pedagógico 
+O que será feito: 
+Treinamento dos novos coordenadores
+Por que será feito: 
+Capacitar os novos coordenadores de CST da unidade 
+Responsável(is) / CH sem: Diretoria acadêmica, administrativa e gestora pedagógica acadêmica 
+Período de execução: 
+Data de início: 
+07/02/2023 
+Data final: 
+30/12/2023 
+Etapas do processo: 
+Capacitação junto à área administrativa
+01/03/2023 
+31/12/2023 
+Capacitação junto à área acadêmica
+01/04/2023 
+30/12/2023 
+Análise junto aos novos coordenadores sobre o programa de 
+capacitação. 
+01/05/2023 
+30/12/2023 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+Objetivo(s) relacionado(s): Ter pessoal qualificado para substituições em períodos de férias ou de licença‐saúde.
+Meta(s) relacionada(s): 
+Formar um corpo docente qualificado e capacitado.
+ 
+ 
+04 - Infraestrutura e equipamentos 
+ 
+AÇÃO/PROJETO 
+A – Novas instalações prediais
+O que será feito: 
+Construção da biblioteca
+Por que será feito: 
+Atender orientação do Conselho Estadual de Educação
+Responsável(is) / CH sem: Direção da unidade – Prof. Dr. André Luís Giraldi
+Período de execução: 
+Data de início: 
+07/02/2023 
+Data final: 
+30/12/2023 
+Etapas do processo: 
+ Análise junto à gestora pedagógica do projeto proposto
+01/03/2023 
+31/03/2023 
+ Reunião com a UIE para análise do projeto
+01/04/2023 
+30/05/2023 
+ Solicitação do projeto junto à CESU
+01/06/2023 
+30/06/2023 
+ 
+ 
+ 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+Objetivo(s) relacionado(s): Melhorar a infraestrutura do acervo bibliográfico
+Meta(s) relacionada(s): 
+Aumentar e melhorar o acesso físico da comunidade acadêmica à biblioteca 
+ 
+ 
+ 
+ 
+AÇÃO/PROJETO 
+B – Reparação elétrica
+O que será feito: 
+Refazer a instalação elétrica dos laboratórios de informática 1 e 2 do Bloco B 
+Por que será feito: 
+Melhorar a segurança para a comunidade acadêmica 
+Responsável(is) / CH sem: Direção da unidade – Prof. Dr. André Luís Giraldi
+Período de execução: 
+Data de início: 
+07/02/2023 
+Data final: 
+30/12/2023 
+Etapas do processo: 
+     Análise e Projeto de Instalação / Orçamentos
+01/03/2023 
+31/05/2023 
+     Solicitação de orçamentos
+01/06/2023 
+31/06/2023 
+     Execução e Instalação 
+01/07/2023 
+30/08/2023 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo (se houver): 
+DMPP e FAT 
+Fonte(s) dos recursos: 
+CPS
+Objetivo(s) relacionado(s): Impedir danos aos equipamentos desses laboratórios.
+Meta(s) relacionada(s): 
+Tornar‐se um espaço seguro para os usuários e para os equipamentos. 
+ 
+ 
+05 - Pesquisa e extensão 
+ 
+AÇÃO/PROJETO 
+A ‐  
+O que será feito: 
+ 
+Por que será feito: 
+ 
+Responsável(is) / CH sem:  
+Período de execução: 
+Data de início: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+ 
+dd/mm/aaaa  dd/mm/aaaa 
+ 
+dd/mm/aaaa  dd/mm/aaaa 
+ 
+dd/mm/aaaa  dd/mm/aaaa 
+ 
+dd/mm/aaaa  dd/mm/aaaa 
+ 
+dd/mm/aaaa  dd/mm/aaaa 
+ 
+dd/mm/aaaa  dd/mm/aaaa 
+ 
+dd/mm/aaaa  dd/mm/aaaa 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+Objetivo(s) relacionado(s):  
+Meta(s) relacionada(s): 
+ 
+ 
+AÇÃO/PROJETO 
+B ‐  
+O que será feito: 
+ 
+Por que será feito: 
+ 
+Responsável(is) / CH sem:  
+Período de execução: 
+Data de início: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+ 
+dd/mm/aaaa  dd/mm/aaaa 
+ 
+dd/mm/aaaa  dd/mm/aaaa 
+ 
+dd/mm/aaaa  dd/mm/aaaa 
+ 
+dd/mm/aaaa  dd/mm/aaaa 
+ 
+dd/mm/aaaa  dd/mm/aaaa 
+ 
+dd/mm/aaaa  dd/mm/aaaa 
+ 
+dd/mm/aaaa  dd/mm/aaaa 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+Objetivo(s) relacionado(s):  
+Meta(s) relacionada(s): 
+ 
+ 
+ 
+ 
+ 
+06 - Relação Institucional 
+ 
+AÇÃO/PROJETO 
+A – Projeto FATEC Portas Abertas
+O que será feito: 
+Divulgação das instalações da unidade e empresas que contratam estagiários 
+Por que será feito: 
+Divulgar os cursos oferecidos pela unidade e instalações do campus 
+Responsável(is) / CH sem: Direções e Coordenações
+Período de execução: 
+Data de início: 
+01/01/2023 
+Data final: 
+30/07/2023 
+Etapas do processo: 
+     Reunião e Planejamento com as empresas
+01/01/2023 
+20/02/2023 
+     Divulgação do evento
+01/03/2023 
+30/04/2023 
+     Realização do evento
+01/05/2023 
+30/05/2023 
+     Análise do evento 
+01/06/2023 
+30/07/2023 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+Objetivo(s) relacionado(s): Divulgação da unidade e estrutura dos laboratórios
+Meta(s) relacionada(s): 
+Aumentar a visibilidade da unidade como faculdade pública gratuita 
+ 
+AÇÃO/PROJETO 
+B ‐  
+O que será feito: 
+ 
+Por que será feito: 
+ 
+Responsável(is) / CH sem:  
+Período de execução: 
+Data de início: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+ 
+dd/mm/aaaa  dd/mm/aaaa 
+ 
+dd/mm/aaaa  dd/mm/aaaa 
+ 
+dd/mm/aaaa  dd/mm/aaaa 
+ 
+dd/mm/aaaa  dd/mm/aaaa 
+ 
+dd/mm/aaaa  dd/mm/aaaa 
+ 
+dd/mm/aaaa  dd/mm/aaaa 
+ 
+dd/mm/aaaa  dd/mm/aaaa 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+Objetivo(s) relacionado(s):  
+Meta(s) relacionada(s): 
+ 
+ 
+AÇÃO/PROJETO 
+C ‐  
+O que será feito: 
+ 
+Por que será feito: 
+ 
+Responsável(is) / CH sem:  
+Período de execução: 
+Data de início: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+ 
+dd/mm/aaaa  dd/mm/aaaa 
+ 
+dd/mm/aaaa  dd/mm/aaaa 
+ 
+dd/mm/aaaa  dd/mm/aaaa 
+ 
+dd/mm/aaaa  dd/mm/aaaa 
+ 
+dd/mm/aaaa  dd/mm/aaaa 
+ 
+dd/mm/aaaa  dd/mm/aaaa 
+ 
+dd/mm/aaaa  dd/mm/aaaa 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+Objetivo(s) relacionado(s):  
+Meta(s) relacionada(s): 
+ 
+ 
+ 
+ETAPA II – APROVAÇÃO E HOMOLOGAÇÃO 
+ 
+APROVAÇÃO DO PGA PELA CONGREGAÇÃO DA UE 
+Envio da Ata de aprovação 
+Ata assinada (.pdf) 
+Anexar arquivo
+Data da aprovação: 
+15/02/2023  
+Data do envio:
+dd/mm/aaaa  
+ 
+PARECER DA CESU 
+Data: 
+dd/mm/aaaa  
+Aprovado?
+(   ) Sim                      (   ) Não
+Se não aprovado, devolvido para adequação, com prazo para revisão até:
+dd/mm/aaaa  
+Parecer: 
+ 
+ 
+ 
+ 
+ETAPA III – ACOMPANHAMENTO DAS AÇÕES GERENCIAIS 
+RELATÓRIO DE ACOMPANHAMENTO DE PROJETO (MENSAL) 
+Status mensal do projeto 
+Identificação do Projeto 
+(automático) 
+Data: 
+dd/mm/aaaa 
+Situação: 
+(   ) Em andamento                            
+Previsão de término: 
+dd/mm/aaaa 
+Justificativa: 
+(   ) Ainda não foi iniciado                  
+Previsão de início: 
+dd/mm/aaaa 
+Justificativa: 
+(   ) Cancelado (antes do início) 
+Data: 
+dd/mm/aaaa 
+Justificativa: 
+(   ) Suspenso (interrompido após 
+iniciado) 
+Data: 
+dd/mm/aaaa 
+Justificativa: 
+(   ) Concluído 
+Data da conclusão: 
+dd/mm/aaaa 
+Resultados: 
+ 
+ 
+Intercorrências: 
+ 
+ 
+Observação: 
+ 
+ 
+Meta(s) alcançada(s) 
+(aparecer a meta automaticamente, conforme indicada no projeto para a indicação do percentual 
+alcançado) 
+Evidência(s): 
+(descrever e inserir documento que evidencie a execução ou atingimento da meta) 
+ 
+ 
+Validação do relatório (acompanhamento) 
+Identificação do Projeto 
+(automático) 
+Data: 
+dd/mm/aaaa 
+Parecer: 
+Favorável? 
+(   ) Sim              (   ) Não                     (    ) Parcialmente favorável 
+Considerações/Recomendações: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

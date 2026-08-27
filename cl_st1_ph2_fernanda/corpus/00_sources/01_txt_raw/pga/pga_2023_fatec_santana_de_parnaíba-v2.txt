@@ -1,0 +1,1387 @@
+PLANO DE GESTÃO ANUAL – PGA 
+v08 
+Estruturado em 3 Etapas com 2 Anexos: 
+ETAPA I – PLANEJAMENTO PELA EQUIPE GESTORA DA UE 
+ETAPA II – APROVAÇÃO E HOMOLOGAÇÃO 
+ETAPA III – ACOMPANHAMENTO DAS AÇÕES GERENCIAIS 
+Anexo 1 – Gestão da Rotina Diária 
+Anexo 2 – Lista de equipamentos necessários aos projetos 
+ 
+IDENTIFICAÇÃO DA UNIDADE 
+Unidade 
+283 
+Fatec Santana de Parnaíba 
+Diretor(a) 
+Ricardo Slavov 
+ 
+ETAPA I – PLANEJAMENTO PELA EQUIPE GESTORA DA UE 
+ANÁLISE DO CENÁRIO (Breve diagnóstico/Baseline) 
+Atualmente a unidade tem os cursos de Análise e Desenvolvimento de Sistemas no período da manhã do 1º. ao 4º. Semestre e 
+no período noturno os últimos semestres, além dos cursos, Gestão Comercial, Segurança da Informação e Ciência de Dados.  
+O Cenário atual no município, deseja da Fatec, a formação de profissionais qualificados com as competências técnicas e 
+competências socioemocionais necessárias para o desenvolvimento do munícipe e futuros empreendedores. Para realizar a 
+ampliação de um curso superior no período matutino e a abertura de até dois cursos na modalidade AMS, a unidade aguarda o 
+envio de novos equipamentos de informática. Atualmente a Fatec tem o convênio padrão com a prefeitura e um excelente 
+diálogo com a Secretaria de Desenvolvimento Econômica do município, porta voz das necessidades junto a prefeitura. Além dos 
+benefícios, a unidade oferece almoço e jantar a toda comunidade acadêmica como cortesia da Secretaria de Desenvolvimento 
+Municipal. A refeição é vista como um diferencial na unidade, pois reduz a evasão e auxilia no desenvolvimento do estudante. 
+• Discorrer sobre o cenário, realizando um breve diagnóstico (limitar o espaço da escrita, para que seja inserido de forma suscinta). 
+APONTAMENTO DE SITUAÇÕES-PROBLEMA MAIS RELEVANTES (“Escuta”) 
+Fontes: relatório CPA, análise de processos críticos da UE, relatório de atendimento e ocorrências 
+Hórus GCom. relatório NDE, relatório de representação discente. 
+1 
+Falta de condições para o funcionamento adequado da 
+biblioteca (Livros, funcionários e computadores).    
+ 
+6 
+Falta de auxiliar docente para apoiar nas atividades 
+dos laboratórios.  
+2 
+Falta de ar-condicionado nas salas de aulas e 
+laboratórios.  
+ 
+7 
+Falta de funcionários administrativos.  
+3 
+Ausência de computadores em quantidade suficiente 
+para atendimento dos cursos e administrativo. 
+ 
+8 
+Ausência de um sistema de monitoramento eletrônico 
+e controle de acesso.  
+4 
+Falta de professores com contrato por prazo 
+indeterminado para as aulas e comissões especificas.   
+ 
+9 
+Ausência de uma rede sem fio de alta velocidade.  
+5 
+Falta de um espaço de convivência para os discentes.  
+ 
+10 
+ 
+ 
+DEFINIÇÃO DE OBJETIVOS, METAS E AÇÕES (PROJETOS) 
+Objetivos (Institucionais) 
+1 
+Ampliar a capacidade de criar e atualizar cursos em parceria com o mercado. 
+2 
+Integrar as diferentes modalidades de ensino, otimizando itinerários e tempo para a formação profissional. 
+3 
+Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem. 
+4 
+Atender as demandas sociais e do mercado de trabalho. 
+5 
+Inovar processos de ensino e aprendizagem para manter excelência diante do mercado 
+6 
+Promover a captação de recursos extras e não orçamentários 
+7 
+Atender às demandas sociais e do mercado de trabalho 
+8 
+Aprimoramento técnico-científico dos discentes.  
+• Os objetivos devem estar relacionados com melhoria ou ação, sobre itens do PDI. 
+Metas (Institucionais) 
+1 
+Criação de dois (2) cursos de extensão universitária. 
+ 
+5 
+Promover a capacitação de 90% do quadro docente 
+com sede na unidade 
+2 
+Implantação de um (1) novo curso no modelo, AMS. 
+ 
+6 
+Aprovar 2 bolsas de iniciação Científica (PIBITI) por 
+ano 
+3 
+Aumento no rendimento escolar em 5%. 
+ 
+7 
+Manter a demanda efetiva acima de 2 candidatos/vaga 
+4 
+Índice de participação na Escola de Inovadores. 
+ 
+8 
+Promover o engajamento de 80% dos discentes nos 
+cursos.  
+• Observar que cada meta deve ser: específica, mensurável, atingível, relevante e temporal. 
+ 
+ESTRUTURAÇÃO DAS AÇÕES/PROJETOS 
+01 - Didático-pedagógico 
+AÇÃO/PROJETO 
+101 – Implementação da Academia Cisco   
+O que será feito: 
+O projeto tem a finalidade de gerenciar as academias Cisco (Networking Academy Skills for All), 
+apoiando e tirando dúvidas dos professores, gerenciando os cursos assíncronos e  mantendo  
+plantões  tira-dúvidas  dos cursos disponibilizados. 
+Por que será feito: 
+Para promover a capacitação técnica de alto nível e aprendizado em novas tecnologias.  
+Responsável(is) / CH sem: Rodrigo Vieira Campos – 2HAES 
+Período de execução: 
+Data de início: 
+08/02/2023 
+Data final: 
+31/07/2023 
+Etapas do processo: 
+Realizar reunião de planejamento com coordenação e corpo docente. 
+08/02/2023 
+28/02/2023 
+Selecionar e habilitar o usuário na plataforma e orientá-los quanto ao 
+seu uso. 
+01/03/2023 
+31/03/2023 
+Selecionar os cursos de interesse conforme planejamento inicial. 
+03/04/2023 
+30/04/2023 
+Inscrição dos alunos nos eventos Cisco como as Maratonas de 
+Cibersegurança e Women Rock IT. 
+01/06/2023 
+31/07/2023 
+Relatório de encerramento dos concluintes dos cursos.  
+01/06/2023 
+31/07/2023 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+ 
+Objetivo(s) relacionado(s): Ampliar a capacidade de criar e atualizar cursos em parceria com o mercado.  
+Meta(s) relacionada(s): 
+Criação de dois (2) cursos extracurriculares.   
+ 
+AÇÃO/PROJETO 
+102 – Desenvolver uma Oficina de Laboratório de Hardware 
+O que será feito: 
+Apresentar os princípios básicos de introdução a tecnologia da informação aos estudantes 
+iniciais.  
+Por que será feito: 
+Para complementar a formação dos estudantes dos CSTs da unidade.  
+Responsável(is) / CH sem: Sérgio Luciano de Oliveira Soares – 2HAES  
+Período de execução: 
+Data de início: 
+01/03/2023 
+Data final: 
+31/07/2023 
+Etapas do processo: 
+Demonstrar toda parte física que compõe um computador e afins 
+(Notebooks, tablets,etc) bem como suas funcionalidades.  
+01/03/2023 
+28/04/2023 
+Demonstrar e explicar toda a arquitetura Hardware e Software.  
+02/05/2023 
+31/05/2023 
+Demonstrar os fundamentos de comunicação entre 
+interfaces/Princípios de Redes. 
+01/08/2023 
+16/06/2023 
+Apresentação dos Sistemas Open Source.  
+19/06/2023 
+31/07/2023 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+ 
+Objetivo(s) relacionado(s): Ampliar a capacidade de criar e atualizar cursos em parceria com o mercado. 
+Meta(s) relacionada(s): 
+Criação de um  (1) curso extracurricular.     
+ 
+AÇÃO/PROJETO 
+103 – Estudo preliminar de implantação de curso AMS em Sistemas para Internet.  
+O que será feito: 
+Estudo sobre viabilidade de implementação do curso AMS em Sistemas para Internet.  
+Por que será feito: 
+Para atendimento as demandas sociais e do mercado de trabalho regional.   
+Responsável(is) / CH sem: Ricardo Lobo (2 HAES) 
+Período de execução: 
+Data de início: 
+03/04/2023 
+Data final: 
+20/07/2023 
+Etapas do processo: 
+Apresentação da proposta de ação aos diretores da Fatec, da Etec e a 
+CESU (GT de AMS).   
+03/04/2023 
+30/04/2023 
+Análise da demanda atual e do cenário futuro (Ensino técnico e 
+Superior).   
+01/05/2023 
+15/05/2023 
+Contato com as empresas que atenderam ao chamamento público 
+para a parceria.  
+01/05/2023 
+30/05/2023 
+Identificação de recursos materiais necessários e verificação de toda a 
+infraestrutura disponível nas unidades de ensino (Fatec e Etec).  
+01/05/2023 
+30/05/2023 
+Análise do quadro docente para verificar a viabilidade das disciplinas 
+do projeto pedagógico.  
+01/05/2023 
+30/05/2023 
+Apresentação do Relatório de Estudo preliminar para implementação 
+do AMS em Sistemas para Internet às equipes de direção das 
+unidades Fatec, Etec e Cesu.   
+01/06/2023 
+20/07/2023 
+ 
+ 
+ 
+Custo (se houver): 
+  
+Fonte(s) dos recursos: 
+ 
+Objetivo(s) relacionado(s): Integrar as diferentes modalidades de ensino, otimizando itinerários e tempo para a formação 
+profissional.  
+Meta(s) relacionada(s): 
+Implantação de um (1) novo curso no modelo, AMS. 
+ 
+AÇÃO/PROJETO 
+104 – Implementação do AWS Educate – Fatec Santana de Parnaíba   
+O que será feito: 
+O AWS Educate oferece centenas de horas de treinamento e recursos autoguiados para alunos 
+iniciantes na nuvem, incluindo laboratórios práticos no Console de gerenciamento da AWS. O 
+projeto tem a finalidade de fazer a curadoria e gerenciar esses cursos na Fatec, apoiando e tirando 
+dúvidas dos professores, mantendo plantões  tira-dúvidas  dos cursos disponibilizados. 
+Por que será feito: 
+Para apoiar os estudantes no aprendizado de novas tecnologias.  
+Responsável(is) / CH sem: Lucas Pereira da Rocha (02 HAES) 
+Período de execução: 
+Data de início: 
+08/02/2023 
+Data final: 
+31/07/2023 
+Etapas do processo: 
+Centralizar demandas da coordenação, corpo docente e discente no 
+que tange às atividades educacionais AWS. 
+08/02/2023 
+28/02/2023 
+Habilitar professores na plataforma e orientá-los quanto ao seu uso. 
+01/03/2023 
+31/03/2023 
+Criar cursos de interesse geral da unidade.  
+03/04/2023 
+30/04/2023 
+Orientar alunos com dúvidas em relação à plataforma e seu conteúdo. 
+02/05/2023 
+31/05/2023 
+Participar dos eventos da AWS.  
+01/06/2023 
+31/07/2023 
+Plantão de dúvidas presencial na unidade, uma vez por semana e 
+atendimento assíncrono em dias úteis. 
+01/06/2023 
+31/07/2023 
+ 
+ 
+ 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+ 
+Objetivo(s) relacionado(s): Ampliar a capacidade de criar e atualizar cursos em parceria com o mercado.  
+Meta(s) relacionada(s): 
+Criação de um  (1) curso extracurricular.    
+ 
+02 – Ensino e Equipamentos Associados (Laboratórios) 
+AÇÃO/PROJETO 
+201 – Proposta de implementação de um laboratório de informática destinado ao CST Segurança 
+da Informação.  
+O que será feito: 
+Elaborar um estudo para viabilizar a implementação de um laboratório específico para o CST 
+Segurança da Informação.  
+Por que será feito: 
+Para atender as exigências do catálogo nacional de cursos do CNPQ e atender as aulas práticas.  
+Responsável(is) / CH sem: Wiliam Galvão (1 HAE) 
+Período de execução: 
+Data de início: 
+03/04/2023 
+Data final: 
+22/12/2023 
+Etapas do processo: 
+Definir o local da instalação do laboratório.  
+03/04/2023 
+10/04/2023 
+Fazer uma análise das condições de infraestrutura elétrica, lógica e 
+equipamentos necessários. 
+10/04/2023 
+17/04/2023 
+Solicitar através do Siaf os itens necessários que não foram solicitados 
+e os que não estão disponíveis (computadores e softwares).  
+03/04/2023 
+20/04/2023 
+Acionar a equipe da Regional para adequar as questões de 
+infraestrutura, se necessário.  
+20/04/2023 
+08/05/2023 
+Configurar os equipamentos e instalar os softwares necessários.  
+08/05/2023 
+22/12/2023 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+ 
+Objetivo(s) relacionado(s): Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem.  
+Meta(s) relacionada(s): 
+Aumento no rendimento escolar em 5%.  
+ 
+AÇÃO/PROJETO 
+202 – Proposta de implementação de um laboratório de informática destinado ao CST Ciência de 
+Dados.  
+O que será feito: 
+Elaborar um estudo para viabilizar a implementação de um laboratório específico para o CST 
+Ciência de Dados.  
+Por que será feito: 
+Para atender as exigências do catálogo nacional de cursos do CNPQ e atender as aulas práticas.  
+Responsável(is) / CH sem: Wiliam Galvão (1 HAE) 
+Período de execução: 
+Data de início: 
+03/04/2023 
+Data final: 
+22/12/2023 
+Etapas do processo: 
+Definir o local da instalação do laboratório.  
+03/04/2023 
+10/04/2023 
+Fazer uma análise das condições de infraestrutura elétrica, lógica e 
+equipamentos necessários. 
+10/04/2023 
+17/04/2023 
+Solicitar através do Siaf os itens necessários que não foram solicitados 
+e os que não estão disponíveis (computadores e softwares).  
+03/04/2023 
+20/04/2023 
+Acionar a equipe da Regional para adequar as questões de 
+infraestrutura, se necessário.  
+20/04/2023 
+08/05/2023 
+Configurar os equipamentos e instalar os softwares necessários.  
+08/05/2023 
+22/12/2023 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+ 
+Objetivo(s) relacionado(s): Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem.  
+Meta(s) relacionada(s): 
+Aumento no rendimento escolar em 5%.  
+ 
+AÇÃO/PROJETO 
+203 – Proposta de atualização dos computadores do administrativo e coordenadores. 
+O que será feito: 
+Elaborar um estudo para viabilizar a substituição dos computadores do administrativo e dos 
+coordenadores dos cursos.   
+Por que será feito: 
+Para realização das atividades administrativas e acadêmicas.  
+Responsável(is) / CH sem: Leilane Melo 
+Período de execução: 
+Data de início: 
+03/04/2023 
+Data final: 
+22/12/2023 
+Etapas do processo: 
+Definir o local da instalação do laboratório.  
+03/04/2023 
+10/04/2023 
+Fazer uma análise das condições de infraestrutura elétrica, lógica e 
+equipamentos necessários. 
+10/04/2023 
+17/04/2023 
+Solicitar através do Siaf os itens necessários que não foram solicitados 
+e os que não estão disponíveis (computadores e softwares).  
+03/04/2023 
+20/04/2023 
+Acionar a equipe da Regional para adequar as questões de 
+infraestrutura, se necessário.  
+20/04/2023 
+08/05/2023 
+Configurar os equipamentos e instalar os softwares necessários.  
+08/05/2023 
+22/12/2023 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+ 
+Objetivo(s) relacionado(s): Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem.  
+Meta(s) relacionada(s): 
+Aumento no rendimento escolar em 5%.  
+ 
+ 
+ 
+03 – Pesquisa / Extensão e Equipamentos Associados 
+AÇÃO/PROJETO 
+301 – Criação da Câmara de Ensino, Pesquisa e Extensão (CEPE)  
+O que será feito: 
+Composição da CEPE da Unidade  
+Por que será feito: 
+Para colaborar e estimular as ações de pesquisa e extensão da unidade e apoio à congregação.   
+Responsável(is) / CH sem: Célio Aparecido Ribeiro (1 HAE) 
+Período de execução: 
+Data de início: 
+01/06/2023 
+Data final: 
+01/09/2023 
+Etapas do processo: 
+Apresentar a proposta à congregação 
+01/06/2023 
+16/06/2023 
+Elaboração de um material informativo aos docentes 
+19/06/2023 
+28/07/2023 
+Divulgação do material informativo aos docentes 
+31/07/2023 
+11/08/2023 
+Realização das Inscrições 
+14/08/2023 
+18/08/2023 
+Eleição dos representantes 
+21/08/2023 
+25/08/2023 
+Divulgação dos resultados 
+28/08/2023 
+31/08/2023 
+Inicio dos trabalhos da comissão 
+01/09/2023 
+01/09/2023 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+ 
+Objetivo(s) relacionado(s): Promover a captação de recursos extras e não orçamentários 
+Meta(s) relacionada(s): 
+Aprovar 2 bolsas de iniciação Científica (PIBITI) por ano 
+ 
+04 – Atividades Formativas em Projetos (nível tático) 
+AÇÃO/PROJETO 
+ 
+O que será feito: 
+ 
+Por que será feito: 
+ 
+Responsável(is) / CH sem:  
+Período de execução: 
+Data de início: 
+ 
+Data final: 
+ 
+Etapas do processo: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+ 
+Objetivo(s) relacionado(s):  
+Meta(s) relacionada(s): 
+ 
+ 
+05 – Infraestrutura (instalações prediais) 
+AÇÃO/PROJETO 
+501 – Readequação dos Laboratórios de informática 
+O que será feito: 
+Reestruturar a rede elétrica e de dados de informática utilizado pelos estudantes de Ciência de 
+Dados e Segurança da Informação.  
+Por que será feito: 
+Para evitar oscilações na rede elétrica e na rede sem fio que prejudicam periodicamente as aulas.  
+Responsável(is) / CH sem: Valmir Tadeu Fernandes (01 HAE) 
+Período de execução: 
+Data de início: 
+03/04/2023 
+Data final: 
+22/12/2023 
+Etapas do processo: 
+Identificação dos componentes instalados.  
+03/04/2023 
+10/04/2023 
+Diagrama da rede elétrica.  
+10/04/2023 
+17/04/2023 
+Diagrama da rede lógica. 
+03/04/2023 
+20/04/2023 
+Realização do processo técnico da UIE.  
+20/04/2023 
+08/05/2023 
+Realização dos orçamentos.  
+08/05/2023 
+25/09/2023 
+Acompanhar projeto de implantação.  
+25/09/2023 
+02/10/2023 
+Validação do ambiente.  
+02/10/2023 
+22/12/2023 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+ 
+Objetivo(s) relacionado(s): Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem 
+Meta(s) relacionada(s): 
+Reduzir a taxa de evasão em 5%.   
+ 
+AÇÃO/PROJETO 
+502 – Proposta para a Implementação de um Sistema de Monitoramento eletrônico e controle de 
+acesso.   
+O que será feito: 
+Implantar o sistema de gerenciamento de monitoramento com alarmes, catracas com 
+reconhecimento facial, sensores e câmeras de segurança na instalação da Fatec.  
+Por que será feito: 
+Para garantir a segurança do patrimônio e do público acadêmico.  
+Responsável(is) / CH sem: Valmir Tadeu Fernandes (01 HAE) 
+Período de execução: 
+Data de início: 
+03/04/2023 
+Data final: 
+22/12/2023 
+Etapas do processo: 
+Identificação dos componentes necessários.   
+03/04/2023 
+10/04/2023 
+Desenvolvimento do projeto de segurança.   
+10/04/2023 
+17/04/2023 
+Diagrama do circuito de segurança.  
+03/04/2023 
+20/04/2023 
+Realização do processo técnico da UIE.  
+20/04/2023 
+08/05/2023 
+Realização dos orçamentos.  
+08/05/2023 
+25/09/2023 
+Acompanhar projeto de implantação.  
+25/09/2023 
+02/10/2023 
+Validação do ambiente.  
+02/10/2023 
+22/12/2023 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+ 
+Objetivo(s) relacionado(s): Garantir celeridade e efetividade na prestação de serviço.  
+Meta(s) relacionada(s): 
+Contribuir para o reconhecimento ou renovação dos quatro (4) cursos da unidade pelo prazo 
+máximo,  com a melhoria das condições de infraestrutura e segurança.  
+ 
+AÇÃO/PROJETO 
+503 – Proposta para criação de um espaço de convivência para os discentes.   
+O que será feito: 
+Criar um ambiente de convivência para os discentes utilizarem fora dos horários de aulas.   
+Por que será feito: 
+Para promover a convivência e aumentar o desejo do estudante em frequentar as instalações 
+antes e após as aulas.  
+Responsável(is) / CH sem: Daniela Freire Ramos de Oliveira (02h) 
+Período de execução: 
+Data de início: 
+03/04/2023 
+Data final: 
+22/12/2023 
+Etapas do processo: 
+Vistoria no campus para identificação de ambientes possíveis.  
+03/04/2023 
+10/04/2023 
+Reunião com a equipe gestora da unidade para discussão das opções.  10/04/2023 
+30/05/2023 
+Consulta ao coordenador de projetos UIE da regional para auxiliar em 
+eventuais adequações do espaço escolhido.  
+02/05/2023 
+30/05/2023 
+Disponibilização do espaço.  
+07/08/2023 
+31/08/2023 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+ 
+Objetivo(s) relacionado(s): Obter a satisfação dos públicos que se relacionam com o Centro Paula Souza (stakeholders).  
+Meta(s) relacionada(s): 
+Aumentar a taxa de sucesso escolar em 5%.  
+ 
+ 
+ 
+06 - Desenvolvimento de pessoas (docentes e servidores) 
+AÇÃO/PROJETO 
+601 – Integrar as capacitações do Centro Paula Souza ao desenvolvimento dos servidores da 
+unidade.  
+O que será feito: 
+Divulgar as capacitações e treinamentos ofertados pelo CPS e suas parcerias aos servidores.  
+Por que será feito: 
+Para melhorar a qualidade do serviço prestado a comunidade.  
+Responsável(is) / CH sem: Maristela Regina Morais Whately (02 HAES) 
+Período de execução: 
+Data de início: 
+03/04/2023 
+Data final: 
+22/12/2023 
+Etapas do processo: 
+Apresentação da proposta de ação ao diretor e coordenadores.  
+03/04/2023 
+31/06/2023 
+Análise da demanda atual e do cenário futuro.  
+01/07/2023 
+31/07/2023 
+Contato com os setores de capacitações do CPS. 
+01/08/2023 
+31/08/2023 
+Pesquisar as demandas e necessidades dos colaboradores.  
+01/09/2023 
+30/09/2023 
+Divulgação dos cursos e capacitações disponíveis.  
+01/10/2023 
+31/10/2023 
+Apresentação do Relatório de Estudo preliminar das atividades 
+realizadas.    
+01/11/2023 
+22/12/2023 
+ 
+ 
+ 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+ 
+Objetivo(s) relacionado(s): Aumentar a eficiência, a produtividade e a competitividade da instituição 
+Meta(s) relacionada(s): 
+Capacitações de docentes e administrativo. 
+ 
+07 – Convênios e Parcerias Institucionais 
+AÇÃO/PROJETO 
+701 – Articular a parceria com empresas da região 
+O que será feito: 
+Aproximação das empresas da região visando a parceria na oferta de estágios e capacitação aos 
+nossos estudantes.  
+Por que será feito: 
+Para promover os estudantes e o estudo de novas tecnologias empregadas no cenário atual.  
+Responsável(is) / CH sem: Lucas Pereira da Rocha (02 HAES) 
+Período de execução: 
+Data de início: 
+03/04/2023 
+Data final: 
+22/12/2023 
+Etapas do processo: 
+Apresentação da proposta de ação ao diretor e coordenadores.  
+03/04/2023 
+31/06/2023 
+Análise da demanda atual e do cenário futuro.  
+01/07/2023 
+31/07/2023 
+Contato com o setor produtivo.  
+01/07/2023 
+31/08/2023 
+Identificação Das necessidades. 
+01/09/2023 
+30/09/2023 
+Desenvolvimento de palestras e eventos específicos.  
+01/10/2023 
+30/11/2023 
+Apresentação do Relatório de Estudo preliminar das atividades 
+realizadas.    
+01/11/2023 
+22/12/2023 
+ 
+ 
+ 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+ 
+Objetivo(s) relacionado(s): Expandir e ampliar a capacidade de articulação com Governos e Setores Produtivos.  
+Meta(s) relacionada(s): 
+Firmar pelo menos 02 parcerias ou convênios para a promoção de eventos com a Fatec Santana 
+de Parnaíba no ano de 2023.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ETAPA II – APROVAÇÃO E HOMOLOGAÇÃO 
+APROVAÇÃO DO PGA PELA CONGREGAÇÃO DA UE 
+Envio da Ata de aprovação 
+Ata assinada (.pdf) 
+Anexar arquivo 
+Data da aprovação: 
+21/08/2023  
+Data do envio: 
+01/08/2023  
+ 
+PARECER DA CESU 
+Data: 
+dd/mm/aaaa  
+Aprovado? 
+(   ) Sim                      (   ) Não 
+Se não aprovado, devolvido para adequação, com prazo para revisão até: 
+dd/mm/aaaa  
+Parecer: 
+ 
+ 
+ETAPA III – ACOMPANHAMENTO DAS AÇÕES GERENCIAIS 
+RELATÓRIO DE ACOMPANHAMENTO DE PROJETOS (MENSAL) 
+Status mensal do projeto 
+Identificação do Projeto 
+(automático) 
+Data: 
+dd/mm/aaaa 
+Situação: 
+(   ) Em andamento                             
+Previsão de término: 
+dd/mm/aaaa 
+Justificativa: 
+ 
+(   ) Ainda não foi iniciado                   
+Previsão de início: 
+dd/mm/aaaa 
+Justificativa: 
+ 
+(   ) Cancelado (antes do início) 
+Data: 
+dd/mm/aaaa 
+Justificativa: 
+ 
+(   ) Suspenso (interrompido após 
+iniciado) 
+Data: 
+dd/mm/aaaa 
+Justificativa: 
+ 
+(   ) Concluído 
+Data da conclusão: 
+dd/mm/aaaa 
+Resultados: 
+ 
+ 
+Intercorrências: 
+ 
+ 
+Observação: 
+ 
+ 
+Meta(s) alcançada(s) 
+(lançamento da meta conforme indicada no projeto para a avaliação do percentual alcançado) 
+Evidência(s): 
+(descrição inserção do documento que evidencie a execução ou atingimento da meta - RAF) 
+ 
+ 
+Validação do relatório (acompanhamento) 
+Identificação do Projeto 
+(RAF) 
+Data: 
+dd/mm/aaaa 
+Parecer: 
+Favorável? 
+(   ) Sim              (   ) Não                     (    ) Parcialmente favorável 
+Considerações/Recomendações: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Anexo 1 – Gestão da Rotina Administrativa 
+ 
+AÇÃO/PROJETO 
+R01 – Organização da Semana de Planejamento e Aperfeiçoamento Pedagógico - SPAP 
+O que será feito: 
+Planejamento e execução de capacitações aos docentes da unidade incluindo o atendimento a 
+alunos de inclusão 
+Por que será feito: 
+Para aperfeiçoar as metodologias de ensino e planejar as ações didáticas semestrais 
+Responsável(is) / CH sem: Leilane de Melo (2h) 
+Período de execução: 
+Data de início: 
+15/05/2023 
+Data final: 
+04/08/2023 
+Etapas do processo: 
+Elaboração da programação local dos eventos 
+15/05/2023 
+30/06/2023 
+Elaboração e divulgação do material para divulgação ao corpo 
+docente 
+26/06/2023 
+07/07/2023 
+Organização da infraestrutura, controle de frequência, cerimonial 
+10/07/2023 
+28/07/2023 
+Boas-vindas e apresentação do administrativo e acadêmico 
+01/08/2023 
+01/08/2023 
+Palestra sobre Transtorno do Espectro Autista (TEA) e a interlocução 
+com o meio acadêmico 
+02/08/2023 
+02/08/2023 
+Palestra sobre o programa Oracle Academy 
+02/08/2023 
+02/08/2023 
+Oficina – Inclusão no Ensino Tecnológico – Práticas Pedagógicas e 
+Tecnologias Assistivas - CESU 
+03/08/2023 
+03/08/2023 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+ 
+Objetivo(s) relacionado(s): Inovar processos de ensino e aprendizagem para manter excelência diante do mercado 
+Meta(s) relacionada(s): 
+Promover a capacitação de 90% do quadro docente com sede na unidade. 
+ 
+AÇÃO/PROJETO 
+R02 – Realização do Evento Fatec Aberta 
+O que será feito: 
+Evento de divulgação da unidade com a participação da comunidade, prefeitura e empresas da 
+região 
+Por que será feito: 
+Para divulgas as ações da Fatec, o processo seletivo de vestibular e promover a empregabilidade 
+dos nossos estudantes/egressos nas empresas da região.   
+Responsável(is) / CH sem: Ana Paula Freitas de Lima (2h) 
+Período de execução: 
+Data de início: 
+02/05/2023 
+Data final: 
+22/12/2023 
+Etapas do processo: 
+Elaboração da programação dos eventos 
+02/05/2023 
+05/05/2023 
+Elaboração de material de divulgação (impresso e digital) 
+08/05/2023 
+12/05/2023 
+Visitas às escolas da região 
+15/05/2023 
+26/05/2023 
+Contato com a prefeitura e empresas da região 
+15/05/2023 
+26/05/2023 
+Visitas às Empresas 
+15/05/2023 
+02/06/2023 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+ 
+Objetivo(s) relacionado(s): Atender às demandas sociais e do mercado de trabalho 
+Meta(s) relacionada(s): 
+Manter a demanda efetiva acima de 2 candidatos/vaga 
+ 
+AÇÃO/PROJETO 
+R03 – Coleta e Reciclagem de pilhas e baterias 
+O que será feito: 
+Disponibilização de um coletor para pilhas e baterias.  
+Por que será feito: 
+Para a incentivar a comunidade acadêmica a dar o devido descarte para os materiais.     
+Responsável(is) / CH sem: Ana Paula Freitas de Lima (1h) 
+Período de execução: 
+Data de início: 
+02/05/2023 
+Data final: 
+22/12/2023 
+Etapas do processo: 
+Elaboração da programação da campanha 
+02/05/2023 
+05/05/2023 
+Elaboração de material de divulgação (impresso e digital) 
+08/05/2023 
+12/05/2023 
+Disponibilização do coletor 
+15/05/2023 
+22/12/2023 
+Repassar o material recolhido da campanha para a prefeitura e 
+empresas apropriadas para o devido descarte.  
+15/05/2023 
+22/12/2023 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+ 
+Objetivo(s) relacionado(s): Atender às demandas sociais e do mercado de trabalho 
+Meta(s) relacionada(s): 
+Manter a demanda efetiva acima de 2 candidatos/vaga 
+ 
+AÇÃO/PROJETO 
+R04 – Maratona de Programação InterFatecs. 
+O que será feito: 
+Competição lúdica de programação de computadores entre os estudantes.  
+Por que será feito: 
+Para aprimorar o conhecimento e testar os estudantes num ambiente desafiador.  
+Responsável(is) / CH sem: Alexandre Cassiano (2h) 
+Período de execução: 
+Data de início: 
+08/02/2023 
+Data final: 
+30/09/2023 
+Etapas do processo: 
+Divulgação e organização das equipes.  
+08/02/2023 
+28/02/2023 
+Distribuição das equipes por técnicos.  
+01/03/2023 
+10/03/2023 
+Instalação do sistema de autojudge (BOCA) 
+13/03/2023 
+31/03/2023 
+Estudo e treinamento prático no sistema de autojudge.  
+03/04/2023 
+31/05/2023 
+1ª. Fase Classificatória - Remota 
+03/06/2023 
+03/06/2023 
+Estudo e treinamento prático no sistema de autojudge para a Fase 
+Final.  
+05/06/2023 
+29/09/2023 
+Fase Final Presencial na Fatec Praia Grande 
+30/09/2023 
+30/09/2023 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+ 
+Objetivo(s) relacionado(s): Aprimoramento técnico-científico dos discentes. 
+Meta(s) relacionada(s): 
+Promover o engajamento de 80% dos discentes nos cursos. 
+ 
+AÇÃO/PROJETO 
+R05 – FatecSeg – Congresso Científico de Segurança da Informação  
+O que será feito: 
+Criação e Apresentação de artigos científicos. 
+Por que será feito: 
+Para inserção da comunidade na academia cientifica.  
+Responsável(is) / CH sem: Irapuan Glória Júnior (4h) 
+Período de execução: 
+Data de início: 
+01/07/2023 
+Data final: 
+01/11/2023 
+Etapas do processo: 
+Preparação do ambiente.   
+01/07/2023 
+30/07/2023 
+Divulgação do evento.  
+01/08/2023 
+02/10/2023 
+Recebimento dos artigos.  
+01/08/2023 
+30/09/2023 
+Realização do Evento.  
+23/10/2023 
+24/10/2023 
+Pós-evento.  
+25/10/2023 
+01/11/2023. 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+ 
+Objetivo(s) relacionado(s): Aprimoramento técnico-científico dos discentes. 
+Meta(s) relacionada(s): 
+Promover o engajamento de 80% dos discentes nos cursos. 
+ 
+AÇÃO/PROJETO 
+R06 – Capture the Flag  
+O que será feito: 
+Competição entre grupos de estudantes para resolver problemas de segurança da informação. 
+Por que será feito: 
+Para fomentar o engajamento e aferir o conhecimento absorvido do curso.   
+Responsável(is) / CH sem: Irapuan Glória Júnior (2h) 
+Período de execução: 
+Data de início: 
+25/09/2023 
+Data final: 
+20/10/2023 
+Etapas do processo: 
+Preparação do ambiente.   
+25/09/2023 
+03/10/2023 
+Divulgação do evento.  
+04/10/2023 
+10/10/2023 
+Realização do Evento.  
+11/10/2023 
+11/10/2023 
+Pós-evento.  
+16/10/2023 
+20/10/2023 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+ 
+Objetivo(s) relacionado(s): Aprimoramento técnico-científico dos discentes. 
+Meta(s) relacionada(s): 
+Promover o engajamento de 80% dos discentes nos cursos. 
+ 
+AÇÃO/PROJETO 
+R07 – SETECC 
+O que será feito: 
+Apresentação da Semana de Empreendedorismo, Tecnologia, Cultura e Criatividade.  
+Por que será feito: 
+Para desenvolver o espírito empreendedor dos nossos estudantes e incentivar as Atividades 
+Culturais.  
+Responsável(is) / CH sem: Ana Paula Freitas (2h) 
+Período de execução: 
+Data de início: 
+25/09/2023 
+Data final: 
+20/10/2023 
+Etapas do processo: 
+Preparação do ambiente.   
+25/09/2023 
+03/10/2023 
+Divulgação do evento.  
+04/10/2023 
+10/10/2023 
+Realização do Evento.  
+11/10/2023 
+11/10/2023 
+Pós-evento.  
+16/10/2023 
+20/10/2023 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+ 
+Objetivo(s) relacionado(s): Aprimoramento técnico-científico dos discentes. 
+Meta(s) relacionada(s): 
+Promover o engajamento de 80% dos discentes nos cursos. 
+ 
+AÇÃO/PROJETO 
+R08 – Maratona de Estatística de Ciência de Dados 
+O que será feito: 
+Competição entre grupos de estudantes para resolver casos práticos envolvendo análise de dados 
+Por que será feito: 
+Para fomentar o engajamento ao curso e aplicar o conhecimento desenvolvidos em disciplinas 
+correlatas à Estatística 
+Responsável(is) / CH sem: Gilberto Francisco de Oliveira (6h)/Ricardo Leardini Lobo (4h) 
+Período de execução: 
+Data de início: 
+07/08/2023 
+Data final: 
+15/10/2023 
+Etapas do processo: 
+Elaboração dos desafios 
+07/08/2023 30/08/2023 
+Preparação do ambiente.  
+15/09/2023 29/09/2023 
+Divulgação do evento. 
+07/08/2023 29/09/2023 
+Realização do Evento. 
+30/09/2023 30/09/2023 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+ 
+Objetivo(s) 
+relacionado(s): 
+Aprimoramento técnico-científico dos discentes. 
+Meta(s) relacionada(s): 
+Promover o engajamento de 80% dos discentes nos cursos. 
+ 
+AÇÃO/PROJETO 
+R09 – Encontro de Fatecs com curso de  Ciência de Dados 
+O que será feito: 
+Apresentação de trabalhos e projetos desenvolvidos pelos discente nas cinco Fatecs com 
+curso de Ciência de Dados 
+Por que será feito: 
+Para fomentar o engajamento e realizar a integração de discentes e docentes dos cursos 
+de Ciência de Dados.  
+Responsável(is) / CH sem: Gilberto Francisco de Oliveira (4h) e Célio Garcia (4h) 
+Período de execução: 
+Data de início: 
+25/09/2023 
+Data final: 
+20/10/2023 
+Etapas do processo: 
+Planejamento das apresentações e trabalhos a serem exposto.  07/08/2023 07/11/2023 
+Divulgação do evento. 
+01/10/2023 07/11/2023 
+Realização do Evento. 
+08/11/2023 10/11/2023 
+Pós-evento. 
+13/11/2023 30/11/2023 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+ 
+Objetivo(s) 
+relacionado(s): 
+Aprimoramento técnico-científico dos discentes. 
+Meta(s) relacionada(s): 
+Promover o engajamento de 80% dos discentes nos cursos. 
+ 
+AÇÃO/PROJETO 
+R10 – Mostra Acadêmica Ciência de Dados 
+O que será feito: 
+Apresentação de trabalhos e projetos desenvolvidos pelos discente nas disciplinas de 
+Projeto Integrador (I, II, III, IV e V), apresentação de banners desenvolvidos com o 1° 
+semestre, apresentações de qualificação de TG I e apresentação de TG II 
+Por que será feito: 
+Para fomentar o engajamento e dar publicidade dos projetos desenvolvidos pelos alunos 
+nas disciplinas e Projetos Integradores. Metodologia e Trabalhos de Graduação 
+Responsável(is) / CH sem: Gilberto Francisco de Oliveira (4h) e Célio Garcia (4h) 
+Período de execução: 
+Data de início: 
+25/09/2023 
+Data final: 
+20/10/2023 
+Etapas do processo: 
+Planejamento das apresentações de trabalhos 
+07/08/2023 24/11/2023 
+Divulgação do evento. 
+01/10/2023 27/11/2023 
+Realização do Evento. 
+27/11/2023 01/12/2023 
+Pós-evento. 
+04/12/2023 15/12/2023 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+ 
+Objetivo(s) 
+relacionado(s): 
+Aprimoramento técnico-científico dos discentes. 
+Meta(s) relacionada(s): 
+Promover o engajamento de 80% dos discentes nos cursos. 
+ 
+Anexo 2 – Lista de equipamentos necessários aos projetos 
+ 
+Item 
+Projeto 
+(XYY) 
+Denominação 
+Quant. 
+código BEC 
+(não obrigatório) 
+01 
+103, 104 
+Microcomputador; Estacao de Trabalho; Com Processador de 08 Nucleos, 
+16 Threads; Com Frequencia de Clock Real, Igual Ou Superior a 3.8ghz 
+(4.7ghz Max Turbo), Am4; Memoria Ram Ddr4 Igual Ou Superior a 
+3200mhz; de No Mínimo 32 Gb de Memoria; Cache 36mb; Controladora de 
+Disco Padrao Multi-gpu, Com 02 Slots Padrão M.2 Nvme Pci-e 4.04x, 2 
+Slots Pci-e 4.0 16x; Com Total de 2, Sendo Um M.2 Nvme Pci-e , e Outro 
+Pci-e 4.0; de 480gb Nvme e 2tb Hd Padrão Sata 3; Padrao Nvme e Sata 3; 
+Barramento Da Controladora de Video Padrao Pci Express X16 3.0; 
+Controladora de Video Padrao Padrão Pci-express; de No Mínimo 4 Gb; 
+Controladora de Som Bluetooth Padrão 802.11 A/b/g/n/ac, Doble Banda 
+(2.4ghz, 5ghz) Até 433 Mbps e Modo Doble Bluetooth®; Resolucao Grafica 
+de Resolução Máxima Digital: 7680 x 4320; Placa de Rede Com 
+Funcionalidade Padrao Ieee 802.3 Ieee 802.3 Gigabit Ethernet 10/100/1000 
+Mbps Rj-45, Controlador Realtek 8111h Gigabit Lan; Gabinete Gabinete No 
+Mínimo Mid Tower; Embalagem Apropriada; Windows 10 Pro Com Licença 
+de Uso e Mídia de Instalação; Garantia de No Mínimo 12 Meses; 
+30 
+5841186 
+02 
+201 
+Microcomputador; Estacao de Trabalho; Com Processador de 08 Nucleos, 
+16 Threads; Com Frequencia de Clock Real, Igual Ou Superior a 3.8ghz 
+(4.7ghz Max Turbo), Am4; Memoria Ram Ddr4 Igual Ou Superior a 
+3200mhz; de No Mínimo 32 Gb de Memoria; Cache 36mb; Controladora de 
+Disco Padrao Multi-gpu, Com 02 Slots Padrão M.2 Nvme Pci-e 4.04x, 2 
+Slots Pci-e 4.0 16x; Com Total de 2, Sendo Um M.2 Nvme Pci-e , e Outro 
+Pci-e 4.0; de 480gb Nvme e 2tb Hd Padrão Sata 3; Padrao Nvme e Sata 3; 
+Barramento Da Controladora de Video Padrao Pci Express X16 3.0; 
+Controladora de Video Padrao Padrão Pci-express; de No Mínimo 4 Gb; 
+Controladora de Som Bluetooth Padrão 802.11 A/b/g/n/ac, Doble Banda 
+(2.4ghz, 5ghz) Até 433 Mbps e Modo Doble Bluetooth®; Resolucao Grafica 
+de Resolução Máxima Digital: 7680 x 4320; Placa de Rede Com 
+Funcionalidade Padrao Ieee 802.3 Ieee 802.3 Gigabit Ethernet 10/100/1000 
+Mbps Rj-45, Controlador Realtek 8111h Gigabit Lan; Gabinete Gabinete No 
+Mínimo Mid Tower; Embalagem Apropriada; Windows 10 Pro Com Licença 
+de Uso e Mídia de Instalação; Garantia de No Mínimo 12 Meses; 
+30 
+5841186 
+03 
+202 
+Microcomputador; Estacao de Trabalho; Com Processador de 08 Nucleos, 
+16 Threads; Com Frequencia de Clock Real, Igual Ou Superior a 3.8ghz 
+(4.7ghz Max Turbo), Am4; Memoria Ram Ddr4 Igual Ou Superior a 
+3200mhz; de No Mínimo 32 Gb de Memoria; Cache 36mb; Controladora de 
+Disco Padrao Multi-gpu, Com 02 Slots Padrão M.2 Nvme Pci-e 4.04x, 2 
+Slots Pci-e 4.0 16x; Com Total de 2, Sendo Um M.2 Nvme Pci-e , e Outro 
+Pci-e 4.0; de 480gb Nvme e 2tb Hd Padrão Sata 3; Padrao Nvme e Sata 3; 
+Barramento Da Controladora de Video Padrao Pci Express X16 3.0; 
+Controladora de Video Padrao Padrão Pci-express; de No Mínimo 4 Gb; 
+Controladora de Som Bluetooth Padrão 802.11 A/b/g/n/ac, Doble Banda 
+(2.4ghz, 5ghz) Até 433 Mbps e Modo Doble Bluetooth®; Resolucao Grafica 
+de Resolução Máxima Digital: 7680 x 4320; Placa de Rede Com 
+Funcionalidade Padrao Ieee 802.3 Ieee 802.3 Gigabit Ethernet 10/100/1000 
+Mbps Rj-45, Controlador Realtek 8111h Gigabit Lan; Gabinete Gabinete No 
+Mínimo Mid Tower; Embalagem Apropriada; Windows 10 Pro Com Licença 
+de Uso e Mídia de Instalação; Garantia de No Mínimo 12 Meses; 
+30 
+5841186 
+04 
+102, 103, 
+104, 201 
+e 202 
+Televisão, a Cores, Smart Tv, 65 Polegadas, 4k 
+5 
+6144225 
+05 
+201 
+Servidor tipo Rack  
+1 
+5873150 
+06 
+201 
+Storage de Discos 
+1 
+6022103 
+07 
+201 
+Switch 
+6 
+6089127 
+08 
+201 
+Roteador 
+6 
+6134394 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

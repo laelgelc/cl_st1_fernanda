@@ -1,0 +1,332 @@
+PLANO DE GESTÃO ANUAL – PGA 
+v07 
+Estruturado em 3 etapas: 
+ETAPA I – PLANEJAMENTO PELA EQUIPE GESTORA DA UE 
+ETAPA II – APROVAÇÃO E HOMOLOGAÇÃO 
+ETAPA III – ACOMPANHAMENTO DAS AÇÕES GERENCIAIS 
+ 
+IDENTIFICAÇÃO DA UNIDADE 
+Unidade 
+259 
+Fatec Tecnologia Shungi Nishimura de Pompéia  
+Diretor(a) 
+Marisa Silveira Almeida Renaud Faulin 
+ 
+ETAPA I – PLANEJAMENTO PELA EQUIPE GESTORA DA UE 
+ANÁLISE DO CENÁRIO (Breve diagnóstico) 
+ 
+A Fatec Pompeia “Shunji Nishimura” é uma faculdade originada a partir da parceria público privada entre o Centro Paula Souza, 
+a Prefeitura Municipal de Pompeia e a Fundação Shunji Nishimura de Tecnologia (FSNT).  
+O curso de Tecnologia em Mecanização em Agricultura de Precisão possui 2.400 horas em disciplinas (2.880 horas-aula), 
+complementado adicionalmente por estágio supervisionado e trabalho de Conclusão de Curso.  
+O Curso Superior de Tecnologia em Big Data no Agronegócio, foi proposto pelo setor produtivo (empresas parceiras) que visa 
+formar profissionais na área de TI para atuarem no desenvolvimento de soluções de informática para o Agronegócio, notadamente 
+nas áreas de análise de grande quantidade de dados e IoT (internet das coisas). 
+O ponto forte desta Fatec, é a proposta de cursos inovadores, alinhados com o mercado de trabalho, que tem alcançado uma 
+abrangência nacional, e retrata a origem dos candidatos nos vestibulares de 13 estados e mais de 300 municípios, além de 
+candidatos do Paraguai, Bolívia e Peru. 
+No entanto, a unidade levantou algumas situações problemas como comunicação interna, ingressantes com formação básica 
+deficitária e evasão escolar.  
+ 
+• 
+Discorrer sobre o cenário, realizando um breve diagnóstico (limitar o espaço da escrita, para que seja inserido de forma 
+sucinta). 
+APONTAMENTO DE SITUAÇÕES-PROBLEMA MAIS RELEVANTES 
+Fontes: relatório CPA, análise de processos críticos da UE, relatório de atendimento e ocorrências Hórus GCom. 
+1 
+Comunicação Interna 
+ 
+5 
+ 
+2 
+Evasão escolar 
+ 
+6 
+ 
+3 
+Ingressantes com formação básica deficitária.  
+ 
+7 
+ 
+4 
+ 
+ 
+8 
+ 
+ 
+DEFINIÇÃO DE OBJETIVOS, METAS E AÇÕES (PROJETOS) 
+Objetivos 
+1 
+Obter a satisfação dos públicos que se relacionam com o Centro Paula Souza (CPS). 
+2 
+Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem (CPS) 
+ 
+ 
+• 
+Os objetivos devem estar relacionados com melhoria ou ação, sobre itens do PDI. 
+Metas 
+1 
+Reduzir em 10% as reclamações sobre problemas de 
+comunicação para o ano de 2023 com base em dados 
+do WebSAI do ano de 2022. 
+ 
+5 
+ 
+2 
+Aumento de 5% do número de aprovados nas 
+disciplinas relacionadas ao projeto no 2º semestre de 
+2023, em relação ao 1º semestre de 2023. 
+ 
+6 
+ 
+3 
+Prospectar 4 empresas parceiras; formar 30 alunos 
+participantes do programa, (ajuda de custo de 
+alimentação), sendo 4 alunos selecionados como 
+bolsistas pelas empresas parceiras até dezembro de 
+2023. 
+ 
+7 
+ 
+4 
+ 
+ 
+8 
+ 
+• 
+Observar que cada meta deve ser: específica, mensurável, atingível, relevante e temporal. 
+ESTRUTURAÇÃO DAS AÇÕES/PROJETOS 
+01 - Didático-pedagógico 
+AÇÃO/PROJETO 
+A – Melhoria da Comunicação Interna da Fatec Pompeia 
+O que será feito: 
+Desenvolver novas metodologias de comunicação e aprimorar as já existentes. 
+Por que será feito: 
+Foi identificado respostas recorrentes, via WebSAI, sobre falhas de comunicação interna em 
+diversos setores da Unidade. 
+Responsável(is) / CH sem: Prof. Marcel Santos Silva (2 HAEs) e Leonardo A. Carrilho / Analista de Suporte e Gestão – TI (2 
+HAEs) 
+Período de execução: 
+Data de início: 
+06/03/2023 
+Data final: 
+31/12/2023 
+Etapas do processo: 
+Criar questionário a ser aplicado aos alunos 
+06/03/2023 
+17/03/2023 
+Triar, com os alunos, quais melhores canais para comunicação interna 20/03/2023 
+29/03/2023 
+Criar comunidade via WhatsApp para comunicação geral com os 
+alunos 
+06/03/2023 
+30/03/2023 
+Instalação de murais no Bloco D  
+06/03/2023 
+30/05/2023 
+Mural virtual na Cantina 
+01/06/2023 
+30/12/2023 
+Custo (se houver): 
+  
+Fonte(s) dos recursos:  
+Objetivo(s) relacionado(s): Obter a satisfação dos públicos que se relacionam com o Centro Paula Souza (CPS). 
+Meta(s) relacionada(s): 
+Reduzir em 10% as reclamações sobre problemas de comunicação para o ano de 2023 com base 
+em dados do WebSAI do ano de 2022. 
+ 
+AÇÃO/PROJETO 
+B - Formação deficitária dos alunos ingressantes em disciplinas básicas (matemática, física, 
+informática, português) 
+O que será feito: 
+- Revisão de conteúdos de Ensino Médio; 
+- Utilização de recursos didáticos que aproximam teoria e prática tornando aula mais atrativa. 
+Por que será feito: 
+Formação deficitária do aluno em disciplinas básicas dos ensinos fundamental e médio. 
+Responsável(is) / CH sem: 
+Gustavo D. C. Faulin (2 HAEs), Dario de A. Jané (2 HAEs), Hannes Fischer (2 HAEs), Marçal 
+Bissoli (2 HAEs), Eloíza M. P. Capeloci (2 HAEs), Mirian M. S. Suenaga (2 HAEs), Vânia R. A. de 
+Souza (2 HAEs), João Ricardo Favan (2 HAEs) 
+Período de execução: 
+Data de início: 
+01/08/2023 
+Data final: 
+10/12/2023 
+Etapas do processo: 
+Elaborar exame de nivelamento das disciplinas básicas. 
+01/08/2023 
+07/08/2023 
+Aplicar o exame de nivelamento no início do semestre. 
+08/08/2023 
+14/08/2023 
+Análise dos resultados do nivelamento. 
+15/08/2023 
+21/08/2023 
+Oferecimento de aulas de reforço de disciplinas (matemática, física, 
+português e informática) em contraturno às aulas e utilizando 
+metodologia diferenciada. 
+22/08/2023 
+10/12/2023 
+ 
+Criação e desenvolvimento das atividades de grupos de estudos 
+"puxados" por alunos que se destacam nestas áreas para incentivo e 
+auxílio aos alunos com dificuldade; 
+22/08/2023 
+10/12/2023 
+ 
+Elaboração e aplicação de exame de rendimento das disciplinas 
+básicas ao final do semestre. 
+27/11/2023 
+08/12/2023 
+ 
+Treinamento dos docentes em ensino “Imaginal” 
+01/08/2023 
+10/12/2023 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos:  
+Objetivo(s) relacionado(s): Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem (CPS) 
+Meta(s) relacionada(s): 
+Aumento de 5% do número de aprovados nas disciplinas relacionadas ao projeto no 2º semestre 
+de 2023, em relação ao 1º semestre de 2023. 
+ 
+04 – Atividades Formativas em Projetos 
+07 – Convênios e Parcerias Institucionais 
+AÇÃO/PROJETO 
+C - Programa de formação complementar em parceria com empresas parceiras da FSNT 
+O que será feito: 
+Formação complementar em competências extracurriculares relacionadas aos cursos oferecidos 
+pela Fatec Pompeia, de acordo com o perfil profissional desejado pelas empresas parceiras como 
+forma de iniciar o processo seletivo para possível contratação. 
+Por que será feito: 
+No contexto institucional existe uma grande evasão dos alunos por motivos relacionados à 
+limitação financeira, como: moradia, alimentação etc. 
+Responsável(is) / CH sem: Responsável: Allan R. L. Siriani (2 HAEs) corresponsáveis: Elvio B. Pinoti (1 HAEs), Alexandre de 
+M. Guimarães (1 HAEs), José Antônio B. Bonadio (1 HAEs), Tiago J. Goulart (1 HAEs) 
+Período de execução: 
+Data de início: 
+01/03/2023 
+Data final: 
+10/12/2023 
+Etapas do processo: 
+Estruturação e captação de parceiros 
+01/03/2023 
+10/12/2023 
+Estruturação de conteúdo com parceiro 
+01/03/2023 
+10/12/2023 
+Processos seletivos dos alunos participantes 
+01/03/2023 
+02/04/2023 
+Execução do programa primeiro semestre 
+01/03/2023 
+10/07/2023 
+Processos seletivos dos alunos participantes 
+01/07/2023 
+01/08/2023 
+Execução do programa segundo semestre 
+01/08/2023 
+01/12/2023 
+Relatório final 
+01/12/2023 
+10/12/2023 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: Empresas parceiras 
+Objetivo(s) relacionado(s): Obter a satisfação dos públicos que se relacionam com o Centro Paula Souza (CPS). 
+Meta(s) relacionada(s): 
+Prospectar 4 empresas parceiras; formar 30 alunos participantes do programa, (ajuda de custo de 
+alimentação), sendo 4 alunos selecionados como bolsistas pelas empresas parceiras até 
+dezembro de 2023. 
+ 
+ 
+ 
+ETAPA II – APROVAÇÃO E HOMOLOGAÇÃO 
+ 
+APROVAÇÃO DO PGA PELA CONGREGAÇÃO DA UE 
+Envio da Ata de aprovação 
+Ata assinada (.pdf) 
+Anexar arquivo 
+Data da aprovação: 
+09/03/2023  
+Data do envio: 
+14/03/2023  
+ 
+PARECER DA CESU 
+Data: 
+dd/mm/aaaa  
+Aprovado? 
+(   ) Sim                      (   ) Não 
+Se não aprovado, devolvido para adequação, com prazo para revisão até: 
+dd/mm/aaaa  
+Parecer: 
+ 
+ 
+ 
+ 
+ETAPA III – ACOMPANHAMENTO DAS AÇÕES GERENCIAIS 
+RELATÓRIO DE ACOMPANHAMENTO DE PROJETO (MENSAL) 
+Status mensal do projeto 
+Identificação do Projeto 
+(automático) 
+Data: 
+dd/mm/aaaa 
+Situação: 
+(   ) Em andamento                             
+Previsão de término: 
+dd/mm/aaaa 
+Justificativa: 
+ 
+(   ) Ainda não foi iniciado                   
+Previsão de início: 
+dd/mm/aaaa 
+Justificativa: 
+ 
+(   ) Cancelado (antes do início) 
+Data: 
+dd/mm/aaaa 
+Justificativa: 
+ 
+(   ) Suspenso (interrompido após 
+iniciado) 
+Data: 
+dd/mm/aaaa 
+Justificativa: 
+ 
+(   ) Concluído 
+Data da conclusão: 
+dd/mm/aaaa 
+Resultados: 
+ 
+ 
+Intercorrências: 
+ 
+ 
+Observação: 
+ 
+ 
+Meta(s) alcançada(s) 
+(aparecer a meta automaticamente, conforme indicada no projeto para a indicação do percentual 
+alcançado) 
+Evidência(s): 
+(descrever e inserir documento que evidencie a execução ou atingimento da meta) 
+ 
+ 
+Validação do relatório (acompanhamento) 
+Identificação do Projeto 
+(automático) 
+Data: 
+dd/mm/aaaa 
+Parecer: 
+Favorável? 
+(   ) Sim              (   ) Não                     (    ) Parcialmente favorável 
+Considerações/Recomendações: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

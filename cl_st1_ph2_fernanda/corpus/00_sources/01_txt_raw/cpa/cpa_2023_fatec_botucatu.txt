@@ -1,0 +1,1803 @@
+                      1 
+__________________________________________________________________________ 
+Administração Central 
+Unidade do Ensino Superior de Graduação 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                 Botucatu 
+                                                        2023 
+ 
+FATEC BOTUCATU 
+RELATÓRIO DE AUTOAVALIAÇÃO 
+INSTITUCIONAL  
+2022 
+                      2 
+__________________________________________________________________________ 
+Administração Central 
+Unidade do Ensino Superior de Graduação 
+ 
+ 
+ 
+ 
+Direção / Coordenação de Cursos 
+ 
+ 
+Direção Geral  
+ 
+       Prof. Dr. Celso Fernandes    
+       Joaquim Junior  
+ 
+Coordenador do Curso de Graduação Tecnológica em  
+Agronegócio 
+       Prof. Dr. Marcelo   
+       Scantamburlo Denadai  
+ 
+Coordenador do Curso de Graduação Tecnológica em              
+Análise e Desenvolvimento de Sistemas                                       
+      Prof. Dr. Roger Christian     
+      Gomes  
+ 
+Coordenador do Curso de Graduação Tecnológica em              
+Logística                                                                                              
+      Prof. Me. Vitor de Campos     
+      Leite  
+ 
+Coordenador do Curso de Graduação Tecnológica em              
+Produção Industrial  
+      Prof. Dra. Letícia Diniz Vieira 
+Coordenador do Curso de Graduação Tecnológica em              
+Radiologia  
+      Profa. Ma. Ana Lúcia    
+      Marcondes  
+ 
+Presidente da CPA 
+      Profa. Ma. Maria Fernanda  
+      Martins 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                      3 
+__________________________________________________________________________ 
+Administração Central 
+Unidade do Ensino Superior de Graduação 
+ 
+ 
+ 
+ 
+Comissão Própria de Avaliação – CPA 
+ 
+ 
+ 
+ 
+Representante docente (Presidente) 
+ 
+Profa. Ma. Maria Fernanda 
+Martins 
+Representante docente 
+ 
+Prof. Esp. Marco Antônio Nagao 
+Representante docente 
+ 
+Prof. Dr. Paulo André de Oliveira  
+ 
+Representantes discente                                                        
+ 
+José Roberto Butignoli Junior 
+Representantes discente                                                        
+ 
+Matheus José C. Stefani  
+ 
+Representante do corpo técnico administrativo 
+ 
+André Luiz Liao  
+ 
+Representante o corpo técnico administrativo                  William Dellabiglia   
+ 
+Representante da Sociedade Civil 
+ 
+Prof. Dr. Alexandre Dal Pai  
+Representante da Sociedade Civil                                         
+ 
+Prof. Dr. Sérgio Augusto 
+Rodrigues  
+ 
+ 
+ 
+ 
+ 
+ 
+                      4 
+__________________________________________________________________________ 
+Administração Central 
+Unidade do Ensino Superior de Graduação 
+ 
+ 
+SUMÁRIO 
+ 
+ 
+I Identificação da FATEC: ....................................................................................... 05 
+II Atos Regulatório .................................................................................................. 05 
+III Composição da Comissão Própria de Avaliação (CPA) ...................................... 06 
+1  INTRODUÇÃO ................................................................................................... 07 
+2  METODOLOGIA ................................................................................................ 12 
+2.1 Cronograma de atividades da CPA .................................................................. 14 
+2.2 Sensibilização .................................................................................................. 15 
+2.3 Sujeitos da avaliação........................................................................................ 16 
+2.4 Instrumentos de coleta ..................................................................................... 16 
+2.5 Procedimentos para a coleta ............................................................................ 17 
+2.6 Análise e discussão dos dados da coleta ......................................................... 17 
+2.7 Organização das medidas para a composição do relatório .............................. 18 
+2.8 Devolutiva dos resultados para os segmentos ................................................. 18 
+3 DESENVOLVIMENTO ........................................................................................ 20 
+3.1 Eixo 1: Planejamento e Avaliação Institucional ................................................. 20 
+3.2 Eixo 2: Desenvolvimento Institucional .............................................................. 21 
+3.3 Eixo 3: Políticas Acadêmicas ............................................................................ 23 
+3.4 Eixo 4: Políticas de Gestão .............................................................................. 25 
+3.5 Eixo 5: Infraestrutura Física .............................................................................. 26 
+4 ANÁLISE DOS DADOS E AÇÕES PROPOSTAS .............................................. 28 
+5 CONSIDERAÇÕES FINAIS ................................................................................ 33 
+     ANEXOS ................................................................................................................. 34 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+I Identificação da FATEC 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+II Atos Regulatórios 
+II Atos regulatório 
+Ato Regulatório:  Criação 
+Prazo de validade: não se aplica 
+Tipo de documento:   
+Decreto Lei 
+No. 
+Documento: 36.693 
+Data do     
+Documento: 16/12/1994 
+Data de Publicação:  
+17/12/1994 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FATEC: BOTUCATU 
+CÓDIGO DO CPS: 112 
+CÓDIGO E-MEC: 4020 
+Representante Legal da IES: Diretor: Prof. Dr. Celso Fernandes Joaquim Junior  
+Endereço Completo: Avenida José Ítalo Bacchi, s/n 
+Bairro: Jardim Aeroporto 
+Município: Botucatu 
+Telefone: (14) 3814-3004 
+E-mail: f112dir@cps.sp.gov.br 
+ 
+ 
+III Composição da Comissão Própria de Avaliação (CPA)  
+ 
+A Comissão Própria de Avaliação da FATEC Botucatu foi instituída pela Portaria nº 
+003/2016, de 29 de abril de 2016; com mandato até 03/06/2025, após eleição ocorrida 
+em maio de 2022, possuindo a seguinte composição:  
+NOME 
+SEGMENTO 
+REPRESENTATIVO 
+Prof. Esp. Marco Antônio Nagao 
+Docente 
+Profa. Ma. Maria Fernanda Martins  
+Docente 
+Prof. Dr. Paulo André de Oliveira 
+Docente 
+José Roberto Butignoli Junior 
+Discente  
+Matheus José C. Stefani 
+Discente 
+André Luiz Liao 
+Técnico Administrativo 
+William José Dellabiglia 
+Técnico Administrativo 
+Prof. Dr. Alexandre Dal Pai  
+Sociedade Civil   
+Prof. Dr. Sergio Augusto Rodrigues 
+Sociedade Civil  
+ 
+ 
+ 
+ 
+1  INTRODUÇÃO  
+ 
+A Fatec Botucatu possui a crença na avaliação como instrumento de gestão. 
+Por meio da avaliação temos condições de reunir indicadores capazes de suscitar 
+análises e discussões possibilitando definir planos de melhorias de forma continuada. 
+Sabe-se que a Lei 10.861/2014, que define o Sistema Nacional de Avaliação 
+da Educação Superior (SINAES), estabelece, em seu Artigo 3º, que a avaliação 
+institucional tem por objetivo identificar o perfil da IES e o significado de sua atuação, 
+por meio de suas atividades, cursos, programas, projetos e setores, considerando as 
+diferentes dimensões institucionais, consolidadas em cinco eixos, sempre objetivando 
+evidenciar os referenciais mínimos de qualidade exigidos pela excelência de ensino 
+que é um dos pilares da pratica de todas as faculdades de tecnologias do Estado de 
+São Paulo vinculadas ao Centro Paula Souza. 
+Por meio do desenvolvimento do presente relatório, serão apresentados os 
+dados e as informações referentes aos eixos, dimensões e indicadores em 
+consonância com o Plano de Desenvolvimento Institucional (PDI) da Fatec e em 
+consonância com as diretrizes emanadas do Centro Paula Souza.  
+ 
+1.1. 
+Breve histórico da Fatec Botucatu  
+ 
+A Faculdade de Tecnologia de Botucatu, criada através do Decreto Lei n° 
+39.693 de 16/12/1994, teve sua implantação no 2º Semestre de 2002, oferecendo os 
+Cursos Superiores de Tecnologia em Informática – Gestão de Negócios e Tecnologia 
+em Logística – ênfase em Transportes. A inauguração da Faculdade de Tecnologia 
+de Botucatu foi realizada em 10/09/2002.  
+Em 04/12/2001, foi aprovado pelo Conselho Deliberativo do Centro Estadual de 
+Educação Tecnológica “Paula Souza”, o Projeto de Implantação do Curso Superior de 
+Tecnologia em Informática – Gestão de Negócios e do Curso Superior de Tecnologia 
+em Logística – ênfase em Transportes – Processo CEETEPS nº 1569/2001. Em 
+09/05/2002, foi publicada a resolução UNESP nº 34, estabelecendo a Estrutura 
+Curricular dos Cursos Superiores de Tecnologia em Informática – Gestão 6 Relatório 
+de Autoavaliação Institucional da Fatec - 2020 de Negócios e Tecnologia em Logística 
+– ênfase em Transportes, junto à Faculdade de Tecnologia de Botucatu. Na mesma 
+data, foi publicada a Resolução UNESP nº 35, criando-se os dois cursos.  
+ 
+ 
+Posteriormente, foram implantados novos cursos. Os Cursos Superiores de 
+Tecnologia em Produção Industrial e Tecnologia em Agronegócio foram implantados 
+no 2º Semestre de 2008, o Curso Superior de Tecnologia em Radiologia foi implantado 
+no 1º Semestre de 2009, e no 1º semestre de 2014, o curso Superior de Tecnologia 
+em Análise e Desenvolvimento de Sistemas. No 2º Semestre de 2014, o curso 
+Superior de Tecnologia em Gestão Empresarial, modalidade EaD, implantado pela 
+Faculdade de Tecnologia de São Paulo, sendo a Faculdade de Tecnologia de 
+Botucatu uma unidade Polo do referido curso. Segue, abaixo, o quadro com as atuais 
+Portarias de Renovação dos cursos.  
+Curso 
+Autorização 
+Reconhecimento/ 
+RENOVAÇÃO 
+DATA 
+Prazo de 
+reconhecimento 
+ENADE 
+Agronegócio 
+Portaria nº 209 Portaria CEE/GP 
+nº 231 
+10/06/2019 
+3 
+4 
+Análise e 
+Desenvolvime
+nto de 
+Sistemas 
+CD nº 
+053/2013 
+Portaria CEE/GP 
+nº 517 
+10/12/2019 
+3 
+3 
+Logística 
+Portaria nº 
+094/2005 
+Portaria CEE/GP 
+nº 101 
+02/03/2020 
+3 
+4 
+Produção 
+Industrial  
+Portaria nº 
+599/2008 
+Portaria CEE/GP 
+nº 451 
+24/10/2019 
+- 
+5 
+Radiologia 
+CD nº 
+059/2011 
+Portaria CEE/GP 
+nº 23 
+10/02/2021 
+3 
+4 
+ 
+ 
+ 
+ 
+ 
+TOTAL DE ALUNOS MATRICULADOS NA UNIDADE 
+ 
+NÚMERO 
+DE ALUNOS 
+CURSOS 
+Agronegócio 
+      202 
+Análise e Desenvolvimento de Sistemas 
+      445 
+Logística  
+      217 
+Produção Industrial 
+      214 
+Radiologia 
+      212 
+TOTAL  
+    1290 
+ 
+CURSOS 
+TITULAÇÃO DOCENTE 
+% 
+ 
+Doutores  
+56,5 
+Agronegócio 
+Mestres 
+30,4 
+ 
+Especialistas  
+ 13 
+ 
+ 
+ 
+ 
+Doutores  
+39,1 
+Análise e Desenvolvimento de Sistemas 
+Mestres 
+39,1 
+ 
+Especialistas  
+  21 
+ 
+ 
+ 
+ 
+Doutores  
+  42 
+Logística 
+Mestres 
+  38 
+ 
+Especialistas  
+  9,5 
+ 
+ 
+ 
+ 
+Doutores  
+ 39,1 
+Produção Industrial 
+Mestres 
+ 34,7 
+ 
+Especialistas  
+  26 
+ 
+ 
+ 
+ 
+Doutores  
+  57 
+Radiologia 
+Mestres 
+  38 
+ 
+Especialistas  
+ 4,7 
+ 
+Com a vigência dos referidos cursos presenciais, a Faculdade de Tecnologia 
+de Botucatu, no primeiro e segundo semestres de 2022, apresentou os seguintes 
+dados em relação ao vestibular.   
+ 
+ 
+ 
+ 
+ 
+Curso de Tecnologia em Agronegócio – Presencial  
+                                                                                                   2022 
+Vestibular      
+                                                                                    1º SEM             2ºSEM       
+Vagas Oferecidas                                                             40                   40 
+Candidatos Inscritos                                                         91                   68 
+Candidatos/Vaga                                                            2,28                 1,70 
+ 
+                                                                                                   2022               
+Matrícula Ingressantes 
+                                                                                    1ºSEM              2ºSEM  
+Sexo feminino                                                                   22                    18     
+Sexo Masculino                                                                17                     17  
+                                                                                                    
+ 
+ 
+ 
+ 
+Curso de Tecnologia em Análise e Desenvolvimento de Sistemas – Presencial 
+(Matutino)  
+                                                                                                   2022 
+Vestibular      
+                                                                                    1º SEM             2ºSEM       
+Vagas Oferecidas                                                             40                   40 
+Candidatos Inscritos                                                        108                  55 
+Candidatos/Vaga                                                             2,70                1,38 
+ 
+                                                                                                   2022               
+Matrícula Ingressantes 
+                                                                                    1ºSEM              2ºSEM  
+Sexo feminino                                                                  09                    09 
+Sexo Masculino                                                                31                   27 
+ 
+ 
+ 
+ 
+ 
+Curso de Tecnologia em Análise e Desenvolvimento de Sistemas – Presencial 
+(Noturno)  
+                                                                                                   2022 
+Vestibular      
+                                                                                    1º SEM             2ºSEM       
+Vagas Oferecidas                                                             40                   40 
+Candidatos Inscritos                                                        167                 112 
+Candidatos/Vaga                                                            4,18                 2,80 
+ 
+                                                                                                   2022               
+Matrícula Ingressantes 
+                                                                                    1ºSEM              2ºSEM  
+Sexo feminino                                                                  12                     05 
+Sexo Masculino                                                                28                     31 
+ 
+ 
+Curso de Tecnologia em Logística – Presencial  
+                                                                                                   2022 
+Vestibular      
+                                                                                    1º SEM             2ºSEM       
+Vagas Oferecidas                                                             40                   40 
+Candidatos Inscritos                                                         87                   67 
+Candidatos/Vaga                                                             2,18               1,68 
+ 
+                                                                                                   2022               
+Matrícula Ingressantes 
+                                                                                    1ºSEM              2ºSEM  
+Sexo feminino                                                                  21                    18 
+Sexo Masculino                                                               19                     21 
+ 
+ 
+ 
+Curso de Tecnologia em Produção Industrial – Presencial  
+                                                                                                   2022 
+Vestibular      
+                                                                                    1º SEM             2ºSEM       
+Vagas Oferecidas                                                             40                   40 
+Candidatos Inscritos                                                        117                  70 
+Candidatos/Vaga                                                             2,93                1,75 
+ 
+                                                                                                   2022               
+Matrícula Ingressantes 
+                                                                                    1ºSEM              2ºSEM  
+Sexo feminino                                                                  06                    09 
+Sexo Masculino                                                               33                    30 
+ 
+ 
+ 
+ 
+Curso de Tecnologia em Radiologia – Presencial 
+                                                                                                   2022 
+Vestibular      
+                                                                                    1º SEM             2ºSEM       
+Vagas Oferecidas                                                             40                   40 
+Candidatos Inscritos                                                        175                  98 
+Candidatos/Vaga                                                             4,38                2,45 
+ 
+                                                                                                   2022               
+Matrícula Ingressantes 
+                                                                                    1ºSEM              2ºSEM  
+Sexo feminino                                                                  27                    30 
+Sexo Masculino                                                               13                     10 
+Fonte: Banco de dados Fatec Botucatu/2022. 
+ 
+ 
+ 
+Em relação ao número de formados no ano de 2022, a Faculdade de 
+Tecnologia de Botucatu apresentou o seguinte resultado: 77 alunos concluintes no 1º 
+semestre de 2022, os quais colaram grau em agosto de 2022, e 73 concluintes no 2º 
+semestre de 2022, os quais colarão grau em março de 2023.  
+Apresentadas essas considerações iniciais, pelas quais se contextualiza a 
+instituição em questão, passa-se a descrever e analisar os dados coletados pela 
+autoavaliação institucional.  
+Os membros da Comissão Própria de Avaliação – CPA, reúnem-se 
+periodicamente, a cada dois meses, para realizar o planejamento das ações da 
+Comissão, necessárias para a realização da avaliação institucional. As ações 
+desenvolvidas pela CPA da Fatec Botucatu são: divulgação da comissão e suas ações 
+à comunidade, divulgação do período da avaliação e sua importância, aplicação da 
+avaliação, tabulação dos dados obtidos na avaliação, análise dos dados e 
+desenvolvimento do relatório.  
+Assim, o presente relatório parcial da autoavaliação institucional da Faculdade 
+de Tecnologia de Botucatu, referente ao ano de 2022, apresenta o resultado da 
+avaliação realizada junto à comunidade fatecana, por meio do questionário WebSai. 
+O relatório encontra-se organizado e dividido do seguinte modo: Introdução; 
+Metodologia; Desenvolvimento, Análise dos dados, Ações propostas de 2022 e 
+Anexos. 
+ 
+2 METODOLOGIA  
+ 
+Para contribuir com a organização da Comissão Própria de Avaliação de cada 
+Fatec, o Centro Paula Souza, por meio da Área de Avaliação Institucional (AAI) e da 
+Unidade de Ensino Superior de Graduação (CESU), organizaram a comissão da CPA 
+Central.  
+ 
+Assumindo como centro organizativo as atribuições que lhe competem, a 
+saber:  
+I – Contribuir com o planejamento, orientação e monitoramento dos 
+procedimentos da autoavaliação Institucional das FATECs; 
+II – Utilizar os indicadores coletados nas unidades como instrumento de 
+gestão, oferecendo subsídios para cada uma das áreas da administração 
+central tomar as medidas corretivas; 
+III – Elaborar o Relatório Global da Autoavaliação para os processos de 
+recredenciamento institucional.  
+ 
+ 
+IV – Elaborar o cronograma da autoavaliação para as Fatecs, considerando 
+o prazo de 31 de março de cada ano para o protocolo dos relatórios da 
+autoavaliação no sistema e-mec do Ministério da Educação.  
+V – Avaliar, indicar possíveis ajustes e autorizar o protocolo dos relatórios das 
+CPAs das FATECs no sistema e-mec. 
+VI – Reunir-se ordinariamente duas vezes no semestre ou de forma 
+extraordinária quando necessário.  
+ 
+Por meio CPA Central e das Diretorias Pedagógicas Regionais, cada Fatec 
+recebe todo o suporte necessário para cumprir o que compete a CPA conforme segue: 
+1. contribuir 
+com 
+o 
+planejamento, 
+elaboração, 
+coordenação 
+e 
+monitoramento dos processos de avaliação interna, apresentando o 
+projeto de autoavaliação Institucional que norteará todos os 
+procedimentos de autoavaliação para a CPA Central em consonância 
+com a equipe de Supervisão Regional das FATECs.  
+2. apoiar os processos internos de avaliação; 
+3. sistematizar e prestar informações relativas às políticas de 
+autoavaliação institucional, solicitadas pelos Sistemas Federal e 
+Estadual de Avaliação da Educação Superior, além de atender à 
+demanda interna da Supervisão Regional e da CPA Central do Centro 
+Paula Souza; 
+4. constituir subcomissões de avaliação; 
+5. constituir grupos temáticos ou focais voltados para a avaliação de cada 
+uma das dez dimensões estabelecidas no artigo anterior; 
+6. elaborar e analisar relatórios e pareceres, encaminhando-os a CPA 
+Central; 
+7. desenvolver estudos e análises, colaborando com os órgãos próprios 
+ou terceirizados do Centro Paula Souza, visando ao fornecimento de 
+subsídios para afixação, o aperfeiçoamento e a modificação da política 
+de avaliação institucional; 
+8. acompanhar, analisar e correlacionar os resultados da autoavaliação 
+com os resultados dos alunos do Centro Paula Souza no ENADE, bem 
+como em outros processos de avaliação; 
+9. aprovar seu próprio regulamento. 
+ 
+Os relatórios parciais e/ou integrais da autoavaliação deverão ser elaborados com 
+periodicidade anual, encaminhados para a CPA Central seguindo o cronograma de 
+planejamento apresentado nas orientações gerais e protocolados até 31 de março de cada 
+ano. Ficando disponíveis para serem apreciados pela comissão de especialistas designada 
+pelo Conselho Estadual de Educação para a visita à Instituição em seu processo de 
+recredenciamento, conforme dispõe a Deliberação do CEE 160/2018.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.1 Cronograma das atividades da CPA  
+ 
+A partir desta estrutura, a CPA da Fatec Botucatu, para cumprir o que lhe compete, 
+durante o segundo semestre de 2022, elaborou o seguinte cronograma de trabalho:  
+AÇÕES 
+MESES 
+JAN FEV MAR ABR MAI JUN JUL AGO SET 
+OUT 
+NOV 
+DEZ 
+Reuniões online com a Direção, 
+coordenações de Cursos para 
+sistematização 
+as 
+ações 
+e 
+composições de grupos de 
+trabalho. 
+  
+ 
+ 
+ 
+ 
+ 
+x 
+ 
+ 
+x 
+  
+ x 
+Encontros online da equipe CPA 
+para organizar e desenvolver 
+estratégias 
+de 
+maneira 
+integrada a partir da percepção 
+dos diferentes segmentos que 
+compõem a comissão. 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+x 
+ 
+x 
+ 
+x  
+Sensibilização 
+para 
+participação nos procedimentos 
+e coleta:  Encontros online com 
+representantes de turmas, lives, 
+webinar, 
+informativos, 
+site, 
+entre outros, para alimentar a 
+cultura avaliativa da Fatec. 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+x 
+x 
+ 
+  
+Organização 
+dos 
+procedimentos de coleta de 
+dados: elaboração das ações 
+voltadas 
+para 
+estimular 
+e 
+monitorar a participação de toda 
+a 
+comunidade 
+no 
+preenchimento do formulário de 
+coleta.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+x 
+x  
+x  
+Análise 
+dos 
+resultados 
+– 
+acolhimento 
+dos 
+dados 
+da 
+coleta 
+e 
+início 
+dos 
+procedimentos de análise.  
+x 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+x 
+Encaminhamento dos dados 
+coletados 
+para 
+cada 
+área 
+competente: cada área recebe 
+os dados faz a análise e 
+apresenta a justificativa e o 
+Plano de Melhorias da área - 
+ações planejadas a partir dos 
+resultados e encaminha para a 
+CPA  
+x 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Elaboração do relatório a partir 
+da devolutiva das áreas.  
+ 
+x 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+Envio do Relatório para a 
+apreciação da CPA Central 
+ 
+ 
+x 
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+Divulgação dos resultados à 
+comunidade acadêmica. 
+ 
+ 
+x 
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+Conclusão do Relatório. 
+  
+  
+   x 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.2 Sensibilização 
+Para a efetivação do cronograma destacam-se algumas das ações para 
+a realização dos procedimentos de autoavaliação.  
+1. Foram elaboradas ações de distribuição de cartazes informativos, nos 
+murais da unidade, sobre a importância de responder o questionário 
+WebSai. (anexo 1) 
+2. Nas televisões, distribuídas nos diferentes pontos da unidade, foram 
+colocados anúncios sobre o questionário WebSai. (anexo 2) 
+3. Vários e-mails foram enviados aos discentes, docentes e funcionários 
+técnico-acadêmicos convidando-os para que respondessem ao 
+questionário WebSai e alertando-os sobre a prorrogação do prazo para 
+responder o questionário. (anexo 3 e anexo 4) 
+4. Importante ressaltar que na aula inaugural dos alunos ingressantes, 
+representantes da CPA explicam o que é a CPA, sua importância e 
+convidando os alunos a responder ao questionário WebSai, no 
+momento oportuno. 
+5. Este ano, excepcionalmente, devido ao momento eleitoral, não foi 
+possível fazer envios sobre a CPA e o questionário WebSai pelas redes 
+sociais institucionais como Facebook e Instagram. 
+6.  Representantes dos docentes, técnicos administrativos e auxiliares 
+docentes conversaram, pessoalmente, com seus pares sobre a 
+importância da participação na avaliação.  
+7. Os membros da Comissão Própria de Avaliação (docentes, discentes, 
+representantes técnicos administrativos) também fizeram conversas 
+com os representantes de classe de cada curso/semestre sobre a 
+representatividade da CPA e a importância de responder o questionário 
+WebSai.  
+8. Representantes dos alunos auxiliaram e conversaram com seus pares 
+sobre a importância da participação na avaliação, respondendo o 
+questionário com compromisso e seriedade. Grupos de WhatsApp 
+foram a mídia mais utilizada pelos representantes para agilizar a 
+comunicação, principalmente neste ano eleitoral, quando não foi 
+possível usar as mídias digitais institucionais como Facebook e 
+Instagram.  
+ 
+ 
+9. A CPA da Fatec Botucatu também produz e disponibiliza 
+periodicamente alguns folders digitais com breves informações 
+objetivas para o melhor entendimento dos questionamentos e 
+resultados da avaliação. Esse é um programa contínuo visando 
+estimular a cultura de avaliação principalmente entre os alunos.  
+ 
+2.3 Sujeitos da avaliação 
+A avaliação foi realizada por meio de questionário online disponibilizado pelo 
+WebSAI, coletando informações das comunidades de discentes, docentes e 
+funcionários. 
+Em 2022 foram obtidas avaliações de 440 discentes (34,10%), 56 docentes 
+(96,55%) e 22 funcionários (100%) da Fatec Botucatu. É possível observar que, em 
+relação aos discentes, em números absolutos, houve um aumento de 15 
+respondentes em 2022. Contudo, percentualmente, houve redução de 2,9% devido 
+ao aumento no número de matrículas em 2022, comparando-se ao ano de 2021 que 
+foi de 37% (425 respondentes). Já em relação aos docentes, a porcentagem foi de 
+96,55% ante os 98% de 2021 e os funcionários, permaneceu em 100%.  
+ 
+2.4 Instrumentos de Coleta  
+Desde 1997 o Centro Paula Souza, evidenciando o seu pioneirismo em buscar 
+indicadores para gerar melhoria de seus serviços criou o Sistema de Avaliação 
+Institucional (SAI), implantado em 1999 em todas as Etecs (Escolas de Ensino Técnico 
+no nível médio) e, em 2000, nas Fatecs, seguindo os mais rigorosos critérios 
+estatísticos. Sendo os instrumentos elaborados e preenchidos em formulários 
+impressos de 1999 a 2012.  
+A partir de 2010, os questionários deixaram de ser preenchidos em formulário 
+de papel e passaram a ser totalmente on-line, trazendo mais agilidade ao processo 
+de avaliação. Desde então, todos os participantes realizam a pesquisa pela internet e 
+o SAI passou a ser chamado de WebSAI.  
+Para que as Fatecs tivessem apenas um instrumento que pudesse contemplar 
+as 10 dimensões dentro dos 5 eixos avaliativos, a partir da criação da comissão da 
+CPA Central a Área de Avaliação Institucional – AAI, em parceria com a CESU, por 
+ 
+ 
+meio de uma equipe qualificada, reorganizou a elaboração dos Instrumentos 
+adequando-os em torno dos 5 eixos avaliativos.  
+Em 2022 os formulários foram disponibilizados pelo WebSAI e divididos em 3 
+segmentos, acima citados, sendo eles docentes, funcionários e alunos. Em cada 
+segmento as perguntas contemplaram as 10 dimensões do SINAES, totalizando 109 
+perguntas para os docentes, 101 para os funcionários e 110 para os alunos. As 
+perguntas contempladas neste relatório refletem o cenário de aulas presenciais e 
+foram disponibilizadas pela CPA Central e AAI. 
+ 
+ 
+2.5 Procedimentos para a coleta 
+ 
+A Área de Avaliação Institucional do Centro Paula Souza disponibilizou o 
+acesso ao sistema de coleta (WebSai) a partir de 03 de outubro de 2022 ficou 
+disponível para o preenchimento da comunidade do dia 31 de outubro de 2022.  
+Houve, no entanto, a prorrogação de prazo de resposta do questionário até 13 
+de novembro de 2022, direcionamento vindo da CPA central em parceria com a AAI.  
+Para favorecer a participação da comunidade durante este período, a CPA e 
+Direção da Fatec Botucatu, fizeram o acompanhamento da participação de cada 
+segmento, realizando a sensibilização contínua para a participação.  
+A CPA da Fatec Botucatu informou periodicamente seus pares quanto à 
+importância da avaliação, enviando mensagens via e-mail, SIGA e grupos de 
+WhatsApp e, também, na medida do possível conversando pessoalmente com os 
+alunos. Também orientou os professores a informar seus alunos sobre importância de 
+responderem a avaliação. Este ano, devido ao período de eleições, não foi possível 
+levar informações e/ou divulgação via redes sociais como Facebook e Instagram. 
+A CPA também monitorou diariamente a evolução das respostas e isto serviu 
+estrategicamente para reforçarmos a divulgação com todos os pares.  
+ 
+2.6 Análise e Discussão dos dados da coleta  
+ 
+A partir do dia 12 de dezembro de 2022, os dados coletados, por meio do 
+WebSai, foram disponibilizados pela AAI.  
+A Fatec Botucatu, por meio da CPA, iniciou o processo de organização dos 
+dados coletados para encaminhamento para cada setor de acordo com o Quadro 1. 
+ 
+ 
+A CPA da Fatec Botucatu, após discussão dos dados com os membros da CPA, 
+organizou tabelas com as principais informações da avaliação e elaborou gráficos.  
+Além dos gráficos, também foram disponibilizadas as respectivas informações 
+a cada setor da unidade (Direção Geral, Diretoria Administrativa, Diretoria Acadêmica, 
+e Coordenação dos Cursos). Antes de encaminhar esses dados a cada setor, o 
+coordenador da CPA realizou uma apresentação única, com os representantes 
+desses setores a fim de apresentar os dados coletados e também esclarecer 
+eventuais dúvidas sobre a coleta de dados e resultados apresentados. Após a reunião, 
+os dados foram disponibilizados, via e-mail, para que cada setor organizasse o plano 
+de ação. Os setores tiveram duas semanas para discutir e montar o plano de ação, e 
+após isso, foi realizada nova reunião para que todos apresentassem seus planos à 
+CPA.  
+ 
+2.7 Organização das medidas para composição do relatório  
+ 
+A CPA elaborou e disponibilizou o Quadro com os resultados das avaliações parciais, 
+conforme Quadro do item 4, ANÁLISE DOS DADOS E AÇÕES PROPÓSTAS para que 
+houvesse a análise global das contribuições dos procedimentos de autoavaliação e o impacto, 
+a partir dos 5 eixos, no planejamento e desenvolvimento Institucional. O Quadro foi discutido 
+pela comissão, direção e demais membros da Instituição, envolvendo a representação 
+prevista no Quadro 1. 
+ 
+Após o processo de análise e discussão dos dados coletados, cada setor 
+encaminhou para a CPA da Fatec Botucatu os resultados presentes no Quadro 2, com 
+o apontamento das fragilidades e o planejamento das medidas corretivas, assim como 
+as potencialidades e as possíveis ações de manutenção e melhorias. Os quadros 
+apresentados, foram condensados no capítulo 4 deste relatório, refletindo o 
+planejamento da Fatec Botucatu, a partir dos indicadores observados em cada eixo 
+avaliativo.  
+ 
+2.8 Devolutiva dos Resultados para os Segmentos   
+ 
+ 
+Após a apresentação do relatório para a Direção da Fatec Botucatu, foram 
+organizadas as formas de divulgação dos resultados e apresentação das ações 
+provenientes do processo de autoavaliação, permitindo o desenvolvimento 
+Institucional.  
+ 
+ 
+ 
+Os resultados da autoavaliação serão apresentados na primeira reunião da 
+Congregação da unidade em 2023, enviados até 01/03/2023 à CESU aos cuidados 
+do Prof. Márcio Magalhães Fontoura, para leitura e análise e, após devolutiva do 
+relatório pela CESU, disponibilizados para toda a comunidade da Fatec Botucatu, por 
+meio da disponibilização de cópias do relatório na biblioteca e salas de professores 
+da unidade. Também será enviado o relatório por e-mail a todos os pares e 
+disponibilizados informes em redes sociais com os principais resultados da 
+autoavaliação. A CPA da Fatec Botucatu também continuará a produzir seus boletins 
+periódicos com informações objetivas e breves sobre o relatório 2022, de modo a 
+facilitar a leitura e compreensão da importância da avaliação para a melhoria da 
+unidade. 
+ 
+ 
+3 DESENVOLVIMENTO 
+Considerando os instrumentos da autoavaliação, estruturados a partir das 10 dimensões previstas no 
+art. 3º da Lei nº 10.861 (SINAES), nesta parte do relatório, a CPA deverá apresentar as informações 
+que foram coletadas, a partir da organização de 5 eixos, que articulam as 10 dimensões, conforme 
+disposto na Nota Técnica INEP nº 065, como segue: 
+ 
+3.1 Eixo 1: Planejamento e Avaliação Institucional  
+   
+ 
+Dimensão 8: Planejamento e Avaliação 
+EIXO 
+DIMENSÃO 
+APRESENTAÇÃO DAS PRINCIPAIS INFORMAÇÕES COLETADAS NO EIXO 1   
+EIXO 1 
+Planejamento 
+e Avaliação 
+Institucional 
+Dimensão 
+8 
+     
+ 
+ 
+Entre os principais elementos do processo avaliativo da unidade em relação ao 
+PDI, quanto ao quesito “Você conhece o Plano de Desenvolvimento Institucional (PDI) 
+da sua instituição de ensino?”, 67,10% dos discentes avaliaram positivamente este 
+quesito. Já os docentes, 100% e os funcionários, 95,45% responderam positivamente 
+a esta pergunta. Estes percentuais mostram que há um razoável conhecimento dos 
+protagonistas envolvidos da unidade com relação ao PDI.  
+67,10
+100
+95,45
+0,00
+10,00
+20,00
+30,00
+40,00
+50,00
+60,00
+70,00
+80,00
+90,00
+100,00
+Discentes
+Docentes
+Funcionários
+Dimensão 8
+Eixo 1- Planejamento e Avaliação Institucional
+Avaliações positivas ("excelente + "muito bom") por 
+segmento (discente, docente e funcionários)
+ 
+ 
+Outro item positivamente avaliado pelos discentes foi o quesito “pontualidade”, 
+com 81,11%.  
+Entre vários itens positivamente avaliados pelos docentes, pode-se ressaltar 
+que 96,43% dos professores avaliam que os alunos conseguiram aprofundar os 
+conhecimentos da área estudada.  
+No entanto, com relação à organização e tempo dedicado aos estudos 
+(cronograma, estudos extra classe, leitura e revisão dos conteúdos aprendidos), os 
+discentes avaliaram negativamente, 35,59%, mostrando que há necessidade de um 
+olhar mais próximo a esse quesito.  
+ 
+3.2  Eixo 2: Desenvolvimento Institucional 
+   
+      Dimensão 1: Missão e Plano de Desenvolvimento Institucional 
+   
+      Dimensão 3: Responsabilidade Social da Instituição 
+ 
+EIXO 
+DIMENSÃO 
+APRESENTAÇÃO DAS PRINCIPAIS INFORMAÇÕES COLETADAS NO EIXO 2 
+EIXO 2 
+Desenvolvimento 
+Institucional 
+ 
+Dimensões 1 e 3 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+O Eixo 2 – Desenvolvimento Institucional, abarca duas dimensões. A Dimensão 1 -  
+Missão e Plano de desenvolvimento Institucional e a Dimensão 3 – Responsabilidade Social 
+da Instituição.  
+77,33
+57,78
+82,74
+76,79
+97,63
+95,91
+0,00
+20,00
+40,00
+60,00
+80,00
+100,00
+Dimensão 1
+Dimensão 3
+Eixo 2- Desenvolvimento Institucional
+Avaliações positivas ("excelente + "muito bom") por 
+segmento (discente, docente e funcionários)
+Discentes
+Docentes
+Funcionários
+ 
+ 
+ 
+Os resultados observados para a Dimensão 1 foram bastante positivos para discentes, 
+docentes e funcionários, com porcentagem acima de 75%.  
+ 
+Destaca-se a satisfação dos discentes, 85,25%, com relação à formação de 
+profissionais qualificados e, também, o quesito sobre disseminação da ciência e tecnologia e 
+inovação, observa-se avaliação positiva de 79,19%. 
+ 
+Os docentes também avaliaram positivamente o quesito da formação de profissionais 
+qualificados com 94,65%, bem como os funcionário com 100% de satisfação. Com relação à 
+disseminação da ciência e tecnologia e inovação, os docentes avaliaram positivamente, 
+83,93%, bem como os funcionário com 95,46% das respostas positivas. 
+ 
+Outro quesito avaliado, ainda na Dimensão 1, Inclusão Social, foi positivamente 
+avaliado pelos três segmentos, com 76,95% dos discentes, 83,93% dos docentes e em 100% 
+dos funcionários.  
+ 
+Observando a Dimensão 3 - Responsabilidade social da Instituição, a satisfação foi 
+positiva entre discentes, docentes e funcionários, principalmente no quesito sobre o 
+atendimento de pessoas com deficiência com 62,85%, 82,14% e 95,46% respectivamente. 
+Em relação a participação da comunidade externa foi bastante positiva entre docentes e 
+funcionários com 71,43% e 95,46% respectivamente e 49,90% entre os discentes.  
+O Plano de Desenvolvimento institucional (ano 2019 – 2023) foi um dos 
+principais documentos que nortearam as ações da Fatec Botucatu: tratou-se de um 
+documento que se caracterizou como uma identidade da Instituição, definindo, dentre 
+outros, sua filosofia de trabalho, missão, estratégias, objetivos, estrutura e diretrizes 
+pedagógicas, algo a ser continuado no PDI para os anos de 2023 – 2027.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.3 Eixo 3: Políticas Acadêmicas 
+   
+ 
+               Dimensão 2: Políticas para o Ensino, a Pesquisa e a Extensão 
+               Dimensão 4: Comunicação com a Sociedade 
+               Dimensão 9: Política de Atendimento aos Discentes 
+ 
+EIXO 
+DIMENSÃO 
+APRESENTAÇÃO DAS PRINCIPAIS INFORMAÇÕES COLETADAS NO EIXO 3 
+     EIXO 3  
+   Políticas 
+Acadêmicas 
+ 
+Dimensões  
+     2, 4 e 9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+O Eixo 3 – Políticas Acadêmicas, parte do item 3 Desenvolvimento, da autoavaliação 
+institucional de 2022, contém a Dimensões 2 - Políticas para o Ensino, a Pesquisa e a 
+Extensão, a Dimensão 4 – Comunicação com a Sociedade e a Dimensão 9 – Política 
+de Atendimento aos Discentes. O gráfico acima, mostra os dados coletados no Eixo 3 
+e s respectivas dimensões.  
+Na Dimensão 2, Políticas Acadêmicas, analisam-se os elementos constitutivos das 
+práticas de ensino, pesquisa e extensão, considerando como meta o aprendizado. Enfatiza-
+se também a relação entre as políticas acadêmicas, a comunicação com a sociedade e o 
+atendimento ao discente. São diretrizes Institucionais que visam favorecer as práticas, tanto 
+de ensino, como de pesquisa e extensão, ou seja, as questões da avaliação devem indicar 
+como a comunidade (docentes e discentes) avaliam se o que é praticado no ensino, pesquisa 
+e extensão estão coerentes com estas políticas, que devem constar no PDI e nos PPCs, como 
+67,61
+66,39
+53,32
+87,63
+79,73
+55,71
+0,00
+93,71
+82,58
+0,00
+10,00
+20,00
+30,00
+40,00
+50,00
+60,00
+70,00
+80,00
+90,00
+100,00
+Dimensão 2
+Dimensão 4
+Dimensão 9
+Eixo 3- Políticas Acadêmicas
+Avaliações positivas ("excelente + "muito bom") por 
+segmento (discente, docente e funcionários)
+Discentes
+Docentes
+Funcionários
+ 
+ 
+políticas do curso para cumprir a missão institucional. Tais como: Políticas institucionais e 
+ações acadêmico-administrativas para a pesquisa ou iniciação científica, a inovação 
+tecnológica e o desenvolvimento artístico e cultural; Políticas institucionais e ações 
+acadêmico-administrativas para a extensão; Políticas institucionais e ações de estímulo e 
+difusão para a produção acadêmica docente; Política institucional de acompanhamento dos 
+egressos; as diretrizes pedagógicas (abordagens e práticas), as diretrizes para a avaliação 
+da aprendizagem; as diretrizes para recuperação da aprendizagem; as diretrizes para a oferta 
+de cursos de extensão; as diretrizes para as atividades de pesquisa entre outras.  
+Observando os dados coletados e após análise, é possível afirmar que na Dimensão 
+2 – Políticas Acadêmicas, houve avaliações positivas por parte dos discentes 67,61% e dos 
+docentes 87,63%. Diferentemente do relatório de autoavaliação institucional do ano anterior, 
+2021, os funcionários não responderam a esse quesito da Dimensão 2 neste ano de 2022.  
+Já a Dimensão 4, Comunicação com a Sociedade, parte constituinte do Eixo 3, enfatiza 
+a comunicação com a sociedade interna e externa, quanto aos meios e a sua eficácia. Foi 
+possível observar que 66,39% de discentes, 79,73% dos docentes e 93,71% dos funcionários 
+avaliaram positivamente essa dimensão.  
+ 
+O Eixo 3 abarca, ainda, a Dimensão 9, Política de Atendimento aos Discentes. Nessa 
+Dimensão observam-se as ações voltadas para o atendimento aos discentes, à participação 
+em eventos, em pesquisa, em atividades artísticas e culturais. Também enfatiza desenvolver 
+monitorias, mecanismos de nivelamento, atendimento psicopedagógico, atendimento nas 
+áreas administrativas e atividades de orientação. Os dados coletados mostram que houve a 
+avaliação positiva por parte discentes, com 53,32% das respostas. Já os dados coletados 
+referentes aos docentes e funcionários, 55,71% e 82,58%, respectivamente, foram avaliados 
+positivamente. 
+Interessante observar que diferentemente do relatório de autoavaliação institucional 
+do ano anterior, 2021, os funcionários responderam a esse quesito da Dimensão 9, neste ano 
+de 2022.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.4 Eixo 4: Políticas de Gestão 
+   
+             Dimensão 5: Políticas de Pessoal 
+                        Dimensão 6: Organização e Gestão da Instituição 
+                        Dimensão 10: Sustentabilidade Financeira 
+ 
+ 
+ 
+ 
+ 
+ 
+DIMENSÃO 
+APRESENTAÇÃO DAS PRINCIPAIS INFORMAÇÕES COLETADAS NO EIXO 4 
+Eixo 4 
+Políticas 
+de Gestão 
+Dimensões 
+5, 6 e 10 
+ 
+ 
+ 
+ 
+Seguindo os preceitos e diretrizes enunciadas pelo MEC, esse Eixo objetiva verificar, 
+o desenvolvimento das políticas pessoais, a organização e gestão da instituição de ensino, 
+abordando, além dos elementos que envolvem as questões pessoais de satisfação com o 
+trabalho, incentivo a cursos, qualificações e capacitações profissionais de docentes e 
+funcionários, elementos de planejamento e sustentabilidade financeira da instituição para, 
+assim, poder garantir uma administração plena e sustentável. 
+Neste Eixo 4, Políticas de Gestão, a Dimensão 5 foca as “Políticas de Pessoal” onde 
+é possível observar que 53,57% dos docentes avaliaram positivamente os critérios da 
+evolução funcional; 55,36% as oportunidades de progressão/promoção; 58,93% foram 
+favoráveis aos programas de capacitação e atualização profissional; 51,79% avaliaram 
+positivamente o incentivo a formação continuada.  
+Observando os dados coletados em relação aos funcionários, a política de pessoal foi 
+avaliada em 93,94% de positividade nos quesitos dessa dimensão, mostrando que em relação 
+a coerência entre seu trabalho e as atribuições de seu cargo e a satisfação com o seu trabalho 
+tive aprovação de 100% bem como o quesito em relação a orientação para o exercício de 
+0,00
+50,72
+0,00
+54,91
+72,50
+0,00
+93,94
+96,59
+0,00
+0,00
+20,00
+40,00
+60,00
+80,00
+100,00
+120,00
+Dimensão 5
+Dimensão 6
+Dimensão 10
+Eixo 4 - Políticas de Gestão
+Avaliações positivas ("excelente + "muito bom") por 
+segmento (discente, docente e funcionários)
+Discentes
+Docentes
+Funcionários
+ 
+ 
+suas atividades, evidenciando a aprovação dos funcionários em relação a política pessoal 
+desenvolvida pela instituição.  
+Já em relação à Dimensão 6, Organização e Gestão da Instituição, que também 
+compõe o quarto Eixo, avaliaram positivamente a atuação dos colegiados da unidade, os 
+docentes com 85,5% e os funcionários com 95,46%. Já a aprovação dos discentes não foi tão 
+alta, mas uma porcentagem razoável aprovou positivamente esse quesito, 45,57%. No 
+entanto, 61,59% dos discentes avaliaram positivamente o reconhecimento da equipe de 
+direção como uma liderança capaz de coordenar e levar adiante as ações prioritárias desta 
+Unidade. Os docentes e funcionários, por sua vez, avaliaram positivamente a 
+representatividade dos docentes e funcionários nos colegiados da Unidade com 89,29% e 
+95,45% respectivamente. Os discentes aprovaram esse quesito com 50,67% de positividade.  
+A aprovação em relação ao programa de iniciação científica (PIBIC), 52,96% dos 
+discentes e 48,22% dos docentes e aprovaram o programa. 
+Em relação ao programa INOVA Paula Souza, 47,56% dos discentes e 69,64% dos 
+docentes avaliaram positivamente o programa. 
+ 
+3.5 Eixo 5: Infraestrutura Física 
+  
+ 
+                                       Dimensão 7: Infraestrutura Física 
+ 
+EIXO 
+DIMENSÃO 
+APRESENTAÇÃO DAS PRINCIPAIS INFORMAÇÕES COLETADAS NO EIXO 5 
+Eixo 5 
+Infraestrutura 
+Física 
+Dimensão 7 
+ 
+ 
+ 
+ 
+ 
+74,84
+80,43
+91,61
+0,00
+10,00
+20,00
+30,00
+40,00
+50,00
+60,00
+70,00
+80,00
+90,00
+100,00
+Discentes
+Docentes
+Funcionários
+Dimensão 7
+Eixo 5 - Infraestrutura Física
+Avaliações positivas ("excelente + "muito bom") 
+por segmento (discente, docente e funcionários)
+ 
+ 
+Incluído no item 3, DESENVOLVIMENTO, da avaliação, encontra-se o Eixo 5 – 
+Infraestrutura Física que abarca a Dimensão 7 – Infraestrutura Física. Nesse Eixo, é possível 
+observar as qualidades das condições que a instituição apresenta para o desenvolvimento de 
+suas atividades de ensino, pesquisa, extensão e gestão contando com quantidade suficiente 
+para o bom desenvolvimento da IES.  
+Os dados mostram que discentes, docentes e funcionários estão satisfeitos com a 
+infraestrutura oferecida. Os discentes, 74,84%, avaliaram positivamente essa dimensão. 
+Docentes e funcionários também avaliaram positivamente a infraestrutura física da IES com 
+80,43% e 91,61% respectivamente, mostrando-se satisfeitos com esse quesito. 
+ 
+ 
+ 
+ 
+ 
+4 ANÁLISE DOS DADOS E AÇÕES PROPÓSTAS  
+EIXO 1: PLANEJAMENTO E AVALIAÇÃO INSTITUCIONAL  
+ 
+FRAGILIDADES 
+ 
+ 
+ 
+AÇÕES PLANEJADAS  
+AÇÕES REALIZADAS 
+ 
+PRAZOS   
+ 
+Dimensão 8  
+Questão 16 - Organização do tempo 
+dedicado aos estudos                    
+- treinamento pelo Escritório de Carreiras, por 
+meio de palestras de organização do tempo.  
+ - palestra realizada para professores sobre a 
+gestão do tempo (XII SPAP) para compartilhar 
+com alunos  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+POTENCIALIDADES 
+ 
+ 
+ 
+AÇÕES PLANEJADAS  
+AÇÕES REALIZADAS 
+ 
+PRAZOS   
+- Convívio Acadêmico 
+ - ações de interação coletiva 
+- gincana solidária, 
+- recepção de calouros  
+- Atlética 
+- Espaço de convivência  
+- Jornacitec (Organização) 
+- Encontro de Tecnólogos  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+EIXO 2: DESENVOLVIMENTO INSTITUCIONAL  
+ 
+FRAGILIDADES 
+ 
+ 
+AÇÕES PLANEJADAS 
+AÇÕES REALIZADAS 
+PRAZOS 
+Dimensão 1  
+Questão 22 – disseminação da cultura e arte 
+- melhorar a percepção dos alunos sobre as 
+ações já realizadas pela unidade com relação às 
+ações de cultura de arte.  
+Dar continuidade à atividades de 
+- Portas abertas, 
+- recepção de calouros  
+- gincana solidária 
+ 
+Dimensão 3  
+Questão 28 – participação da comunidade 
+externa no contexto institucional 
+- maior divulgação das ações já realizadas com 
+relação à participação da comunidade no 
+convívio com a unidade, incluindo as ações de 
+cultura e arte.  
+ 
+- campanha e doação de sangue 
+- Jornacitec  
+- recepção de calouros, 1.000 alunos 
+ingressantes 
+- Fatec games 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+POTENCIALIDADES 
+ 
+ 
+ 
+AÇÕES PLANEJADAS 
+AÇÕES REALIZADAS 
+PRAZOS 
+Formação de profissionais qualificados 
+- manter as ações relacionadas às Metodologias 
+Ativas de Ensino como atividades práticas e 
+resoluções de problemas. 
+- reuniões com o corpo docente com a criação 
+de grupos de trabalho visando propor e 
+implementar ações objetivando o 
+aprimoramento pedagógico.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+EIXO 3: POLÍTICAS ACADÊMICAS  
+ 
+FRAGILIDADES 
+ 
+ 
+ 
+AÇÕES PLANEJADAS  
+AÇÕES REALIZADAS 
+ 
+PRAZOS   
+Dimensão 2  
+Questão 39 – Estágio supervisionado  
+ 
+ 
+- ampliar a interação e divulgação dos setor de 
+estágios com os alunos.  
+- divulgação das vagas e programas de 
+estágio na mídias sociais da unidade,  
+- melhorar o acompanhamento e interação 
+dos supervisores de estágio, junto aos alunos, 
+- divulgação das novas regras do estágio 
+ 
+Questão 46 - Projetos Interdisciplinares 
+- conscientização e estrutura permanente para 
+projetos interdisciplinares 
+- as ações já ocorrem. 
+ 
+Dimensão 4  
+Questão 58 – Resoluções dos Colegiados 
+- estimular os membros docentes dos colegiados 
+para que repassem informações para o corpo 
+discente 
+- as ações já ocorrem.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+POTENCIALIDADES 
+ 
+ 
+ 
+AÇÕES PLANEJADAS  
+AÇÕES REALIZADAS 
+ 
+PRAZOS   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+EIXO 4: POLÍTICAS DE GESTÃO  
+ 
+FRAGILIDADES 
+ 
+ 
+ 
+AÇÕES PLANEJADAS  
+AÇÕES REALIZADAS 
+ 
+PRAZOS   
+Dimensão 6  
+Questão 83 – Programa INOVA 
+- ampliar a divulgação do programa INOVA, 
+associando-o à Escola de Inovadores da 
+unidade, a qual é bem sucedida.  
+- o programa INOVA é bem sucedido desde 
+2017 juntamente com a Escola de Inovadores. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+POTENCIALIDADES 
+ 
+ 
+ 
+AÇÕES PLANEJADAS  
+AÇÕES REALIZADAS 
+ 
+PRAZOS   
+Questão 78 – Representatividade e atuação 
+dos Colegiados de curso 
+ 
+- reuniões sistemáticas com a comunidade 
+docente.  
+ 
+Questão 71 – apoio e atuação do gestor 
+imediato  
+ 
+- reuniões sistemáticas com a comunidade 
+dos servidores técnico-acadêmico. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+EIXO 5: INFRAESTRUTURA  
+ 
+FRAGILIDADES 
+ 
+ 
+ 
+AÇÕES PLANEJADAS  
+AÇÕES REALIZADAS 
+ 
+PRAZOS   
+Dimensão 7  
+Questão 99 – mobiliário e equipamento 
+- avaliar a necessidade de computadores e 
+software 
+- foram solicitados novos computadores e 
+softwares ao CPS. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+POTENCIALIDADES 
+ 
+ 
+ 
+AÇÕES PLANEJADAS  
+AÇÕES REALIZADAS 
+ 
+PRAZOS   
+- limpeza e conservação 
+- manter a gestão sobre a empresa terceirizada 
+- gestão constante 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5 CONSIDERAÇÕES FINAIS 
+ 
+A Comissão Própria de Avaliação, pelo seu trabalho, visa oferecer subsídios 
+capazes de subsidiar à tomada de decisão e ao planejamento institucional, na busca 
+de contínua melhoria da qualidade do ensino, da pesquisa, da extensão e da gestão. 
+Sendo assim um importante instrumento para a Direção.   
+Dentre as principais ações advindas desse processo, podemos salientar o 
+direcionamento de todos os gestores para as correções e melhorias dos processos 
+internos visando o aumento no grau de satisfação dos docentes, funcionários e 
+discentes.  
+Importante observar que em 2022 tivemos a volta das aulas presenciais, após 
+dois anos em aulas remotas e o teletrabalho, devido a pandemia do Covid-19. E, 
+salienta-se, também, que devido à eleições no ano de 2022, não foi possível ampliar 
+a divulgação do questionário WebSai pelas redes sociais institucionais como 
+Facebook e Instagram, sendo a divulgação feita por e-mails pessoais e divulgação 
+interna na unidade.  
+Os resultados apresentados contemplam as dez dimensões auto avaliativas do 
+SINAES e foram analisados e discutidos por todos os membros da comunidade 
+institucional: direção, coordenações de cursos, setores administrativos, gestores, 
+professores e alunos. 
+Os dados coletados, as análises e propostas foram amplamente divulgadas e 
+serão objeto de comparação na próxima avaliação, para elucidar os avanços 
+alcançados, reforçando o quanto a avaliação contribui para a gestão dos resultados.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ANEXOS 
+ 
+Anexo 1  
+  
+Foto de distribuição de cartazes nos murais da Instituição.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Anexo 2 
+  
+Foto de divulgação nas TVs da instituição.  
+ 
+ 
+ 
+ 
+ 
+ 
+Anexo 3  
+  
+Email enviado aos alunos periodicamente, chamando-os a responder o questionário. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Anexo 4  
+ 
+Email enviado aos alunos com aviso da prorrogação do prazo de resposta ao questionário.  
+ 
+ 

@@ -1,0 +1,3647 @@
+PLANO DE GESTÃO ANUAL 
+PGA 2025 
+V04 
+Estruturado em uma única etapa, contendo 2 anexos: 
+PLANEJAMENTO PELA EQUIPE GESTORA DA UE 
+• Anexo 1 – Lista de equipamentos necessários aos projetos 
+• Anexo 2 – Lista de Ações/Projetos referentes à CPA (Origem 3: Gestão Tática – CPA) 
+ 
+IDENTIFICAÇÃO DA UNIDADE 
+Unidade 
+código F259 
+Fatec  Pompeia Shunji Nishimura  
+Diretor(a) 
+ Marisa Silveira Almeida Renaud Faulin  
+ 
+PLANEJAMENTO PELA EQUIPE GESTORA DA UE 
+(Administração da Faculdade - Deliberação CEETEPS 31/2016) 
+ANÁLISE DO CENÁRIO 
+Descrever de forma breve e objetiva o cenário da Unidade perante sua missão como Unidade de Ensino na localidade em que 
+se encontra (é este cenário que se pretende melhorar). 
+A Fatec Pompeia “Shunji Nishimura” é uma faculdade originada a partir da parceria público privada entre o Centro Paula Souza, 
+a Prefeitura Municipal de Pompeia e a Fundação Shunji Nishimura de Tecnologia (FSNT).  
+O curso de Tecnologia em Mecanização em Agricultura de Precisão possui 2.400 horas em disciplinas (2.880 horas-aula), 
+complementado adicionalmente por estágio supervisionado e trabalho de Conclusão de Curso.  
+O Curso Superior de Tecnologia em Big Data no Agronegócio, foi proposto pelo setor produtivo (empresas parceiras) que visa 
+formar profissionais na área de TI para atuarem no desenvolvimento de soluções de informática para o Agronegócio, 
+notadamente nas áreas de análise de grande quantidade de dados e IoT (internet das coisas). 
+O ponto forte desta Fatec, é a proposta de cursos inovadores, alinhados com o mercado de trabalho, que tem alcançado uma 
+abrangência nacional, e retrata a origem dos candidatos nos vestibulares de 13 estados e mais de 300 municípios, além de 
+candidatos do Paraguai, Bolívia e Peru. 
+No entanto, a unidade levantou algumas situações problemas como comunicação interna, ingressantes com formação básica 
+deficitária e evasão escolar. 
+ 
+ 
+ 
+• Discorrer sobre o cenário, realizando um breve diagnóstico (limitar o espaço da escrita, para que seja inserido de forma sucinta). 
+APONTAMENTO DE SITUAÇÕES-PROBLEMA MAIS RELEVANTES 
+Fontes: relatório CPA, análise de processos críticos da UE, relatório de atendimento e ocorrências Hórus, relatório NDE, 
+relatório de representação discente (DA, Atlética, representantes de turma), relatório CIPA, entre outros. 
+1 
+cat 0.1.01 - Metodologia de ensino, desempenho 
+de alunos, evasão 
+ 
+5 
+Escolher um item. 
+2 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de 
+ensino 
+ 
+6 
+Escolher um item. 
+3 
+cat 0.1.09 - Acesso/Inclusão ao Ensino Superior 
+(social, PCD) 
+ 
+7 
+Escolher um item. 
+4 
+cat 0.1.07 - Comunicação com a comunidade 
+acadêmica 
+ 
+8 
+Escolher um item. 
+Outra – Especificar: nn 
+ 
+Objetivos Institucionais – CPS (Plano de Metas) 
+1) Atender às demandas sociais e do mercado de trabalho. 
+2) Obter a satisfação dos públicos que se relacionam com o Centro Paula Souza (stakeholders). 
+3) Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem. 
+4) Assegurar a perenidade do crescimento da instituição com recursos financeiros disponíveis. 
+5) Garantir celeridade e efetividade na prestação de serviços. 
+6) Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no desenvolvimento tecnológico e inovação. 
+7) Promover a cultura de inovação e empreendedorismo. 
+8) Aumentar a eficiência, a produtividade e a competitividade da instituição. 
+9) Ampliar a oferta da Educação Profissional. 
+10) Resolução Conjunta SOG/SFP/SG-3, de 28-12-2022 - Bonificação por Resultados – BR das Secretarias de Estado, Procuradoria Geral do Estado, 
+Controladoria Geral do Estado e das Autarquias, de que trata a LC 1361-2021 
+Objetivos Institucionais – Cesu (Plano de Metas) 
+A. Integrar as diferentes modalidades de ensino, otimizando itinerários e tempo para a formação profissional. 
+B. Inovar processos de ensino e aprendizagem para manter excelência diante do mercado. 
+C. Ampliar a capacidade de criar e atualizar cursos em parceria com o mercado. 
+D. Expandir e ampliar a capacidade de articulação com Governos e Setores Produtivos. 
+E. Promover a captação de recursos extras e não orçamentários. 
+Atenção: Determinação da Origem (prioridade) de uma Ação ou Projeto de Melhoria que compõe o PGA, a fim de ordenar os graus de prioridade tomando-se por 
+base atos normativos regulatórios das atividades do CPS, e a governança institucional, por suas esferas Estratégica, Tática e Operacional: 
+Grau 1 - URGÊNCIA DE REGULAÇÃO - prioridade máxima (advinda do MEC, CEE, MP, Vigilância Sanitária ou notificação de qualquer órgão regulador/fiscalizador) 
+- fundamentação: notificação de fiscalização, diligência de regulação, termo de ajustamento de conduta, relatório circunstanciado, dentre outros 
+emanados de órgãos que impõem ações para cumprimento com regularidade normativa da instituição. 
+Grau 2 - URGÊNCIA ESTRATÉGICA - Gestão Estratégica do CPS (AMS, novos cursos e unidades, programas de governo) - fundamentação: PPA do CPS, ações de 
+governo conduzidas pela Superintendência do CPS. 
+Grau 3 - PRIORIDADE ALTA - Gestão Tática (ações correlatas à Avaliação institucional - ENADE, WebSAI, CPA, Observatório Escolar). - fundamentação: processo 
+avaliativo de órgãos reguladores, processo avaliativo interno do CPS. 
+Grau 4 - PRIORIDADE MÉDIA - Gestão Operacional para aumento da capacidade instalada. - fundamentação: plano operacional de gestão, homologado pela 
+respectiva área da intendência, com foco na atividade fim do CPS. 
+Grau 5 - PRIORIDADE REGULAR - Gestão Operacional para preservação da capacidade instalada. - fundamentação: plano operacional de gestão, homologado 
+pela respectiva área da intendência, com foco na atividade fim do CPS. 
+ 
+ESTRUTURAÇÃO DAS AÇÕES/PROJETOS 
+01 - Didático-pedagógico 
+Ações associadas ao PPC/PE de CSTs e Disciplinas: CST (implantação, alteração, readequação, reestruturação), 
+prática pedagógica (PE, PA), projeto interdisciplinar/ integrador, extensão curricularizada. 
+ 
+AÇÃO/PROJETO (Tema) 
+101 - cat 1.11 - Ações de nivelamento de conhecimento, ENADE, acolhimento e permanência discente. 
+Origem (prioridade): 
+6-Outra 
+O que será feito: 
+Revisão de conteúdo do ensino médio; Utiliação de recursos didáticos que aproximam teoria e 
+prática tornando aula mais atrativa- nivelamento discente 
+Por que será feito: 
+ Formação deficitária do aluno em disciplinas básicas dos ensinos fundamental e médio 
+Responsável: 
+<nome> Alexandre de M. Guimarães  
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> Marçal Luiz Bissoli 
+ 
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> Vânia R. A. de Souza 
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+01/02/2025 
+Data final: 
+31/12/2025 
+Etapas do processo: 
+01-  Elaborar exame de nivelamento das disciplinas básica  
+01/02 
+19/08 
+ 
+02-  Aplicar o exame de nivelamento no início do semestre  
+20/02 
+01/09 
+ 
+03- Análise dos resultados do nivelamento  
+11/03 
+15/09 
+ 
+04- Oferecimento de aulas de reforço de disciplinas  
+01/02 
+10/12 
+ 
+05- Criação e desenvolvimento das atividades de grupos de estudos 
+"puxados" por alunos que se destacam nestas áreas para incentivo e auxílio 
+aos alunos com dificuldade  
+01/03 
+31/12 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+HAE 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+102 - cat 1.09 - Inclusão 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Ações administrativas-pedagógicas para promover a inclusão dos alunos no processo de formação 
+de competências de acordo com o PPC – inclusão  
+Por que será feito: 
+ODS - Objetivo de Desenvolvimento Sustentável 10 que consiste em empoderar e promover a 
+inclusão social, econômica e política de todos, de forma a reduzir as desigualdades, 
+independentemente da idade, gênero, deficiência, raça, etnia, nacionalidade, religião, condição 
+econômica ou outra, até 2030 
+Responsável: 
+<nome>  Leiriane Fernanda Tavares Lira  
+Qde CH/sem: 
+02 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+02/01/2025 
+Data final: 
+31/12/2025 
+Etapas do processo: 
+01- Identificar os alunos e solicitar laudos médicos  
+10/02 
+30/08 
+ 
+02- Comunicar a equipe de professores, coordenadores, servidores 
+administrativos e funcionários terceirizados  
+10/02 
+30/09 
+ 
+03- Encaminhar a identificação do aluno e laudos médicos à Cesu/ GPR 
+para orientação e providências  
+01/03 
+31/10 
+ 
+04- Prospectar capacitação e orientação para a adequação das 
+metodologias de ensino com foco no desenvolvimento de competências  
+10/04 
+31/10 
+ 
+05- Solicitar equipamentos necessários para promover a inclusão (placas 
+em braile  
+02/01 
+31/12 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+R$ 5.000,00 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.09 - Acesso/Inclusão ao Ensino Superior (social, PCD) 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+103 - cat 1.08 - Eventos e ações para aperfeiçoamento docente (Spap, treinamentos, avaliação docente) 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+ Realizar os processos de autoavaliação interna visando a melhoria dos processos educacionais - 
+CPA  
+Por que será feito: 
+Em atendimento às bases legais: Lei 10861 - SINAES Sistema Nacional de Avaliação do Ensino 
+Superior; Decreto 9235 - regulamenta a aplicação da Lei 10.861; e nota técnica 65 INEP - 
+Elaboração da Autoavaliação Institucional e sua relação com o PDI 
+Responsável: 
+<nome> Dario de A. Jané  
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/02/2025 
+Data final: 
+31/12/2025 
+Etapas do processo: 
+01- Sistematização das ações e composição dos grupos de trabalho 
+01/02 
+30/03 
+ 
+02- Organizar e desenvolver estratégias de maneira integrada a partir da 
+percepção dos diferentes segmentos que compõem a comissão  
+01/04 
+30/05 
+ 
+03- Sensibilização para a participação dos procedimentos de coleta: 
+Reunião com representantes de turmas, lives, webinar, podcasts, 
+informativos, site, entre outros, para alimentar a cultura avaliativa da Fatec 
+01/06 
+30/08 
+ 
+04-  Organizar procedimentos de coleta de dados: elaboração das ações 
+voltadas para estimular e monitorar a participação de toda a comunidade no 
+preenchimento do formulário de coleta  
+01/09 
+30/09 
+ 
+05- Análise dos resultados – acolhimento dos dados da coleta e início dos 
+procedimentos de análise  
+01/10 
+15/11 
+ 
+06-  Encaminhamento dos dados coletados para cada área competente: 
+cada área recebe os dados, realiza a análise, apresenta o Plano de 
+Melhorias  
+15/11 
+30/11 
+ 
+07- Elaboração do relatório a partir da devolutiva das áreas e envio para a 
+CPA Central  
+01/12 
+13/12 
+ 
+08-  Divulgação dos resultados à Comunidade Acadêmica, conclusão e 
+protocolo no E-mec  
+01/02 
+31/03 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.10 - Gestão da unidade de ensino e dos cursos (indicadores) 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+104 - cat 1.06 - Ações pedagógicas: visitas técnicas, projetos integradores/interdisciplinares, dias de campo, 
+feira das profissões, cursos extracurriculares para alunos. 
+Origem (prioridade): 
+6-Outra 
+O que será feito: 
+Eventos para os alunos, parceiros e comunidade externa – visitas  
+Por que será feito: 
+Melhor formação dos alunos, manutenção da empregabilidade dos alunos e busca de aumento do 
+número candidatos/vaga nos vestibulares 
+Responsável: 
+<nome> Antônio Cesar Dall Evedove  
+Qde CH/sem: 
+03 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> Luís Hilário Tobler Garcia  
+Qde CH/sem: 
+03 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/02/2025 
+Data final: 
+31/12/2025 
+Etapas do processo: 
+01- Propor eventos acadêmicos, de divulgação entre outros 
+01/02 
+10/12 
+ 
+02- Planejar eventos na unidade  
+15/02 
+10/12 
+ 
+03- Organizar e conduzir os eventos  
+08/02 
+31/12 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.08 - Participação da comunidade e sociedade 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+<Copiar tabelas para mais ações> 
+ 
+ 
+01 – Didático-Pedagógico: Copiar projetos de 2024 
+AÇÃO/PROJETO (Tema) 
+105 - cat 1.12 - Orientação profissional para discentes, mentoria e apoio psicopedagógico 
+Origem (prioridade): 
+6-Outra 
+ O que será feito: 
+Orientar os alunos que se matricularem em trabalho de graduação – orientação de TGs. 
+Por que será feito: 
+Para cumprir a matriz curricular e se formarem com excelência. 
+Responsável: 
+Alexandre de Moura Guimarães 
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+Carlos Otoboni 
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+José Vitor Salvi 
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+Lara M. G. Santos 
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+Renata B. dos S. C. Favan 
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+Allan L. R. Siriani 
+Qde CH/sem: 
+01 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+Dario de A. Jané 
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+Nelson J. de O. Miranda 
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+01/02/2025 
+Data final: 
+31/12/2025 
+Etapas do processo: 
+01- Atender possíveis alunos formandos/orientados 
+01/02 
+10/09 
+ 
+02- 02- Definir projeto de Trabalho de Graduação 
+01/02 
+14/09 
+ 
+03- 03- Orientar a condução dos projetos 
+01/02 
+21/10 
+ 
+04- 04- Orientar e corrigir as entregas 
+01/03 
+10/11 
+ 
+05- 05- Orientar a apresentação 
+01/05 
+10/11 
+ 
+06- 06- Participar da banca avaliativa 
+01/06 
+30/11 
+Custo R$ (se houver): 
+HAE 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.10 - Gestão da unidade de ensino e dos cursos (indicadores) 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+ 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+106 - cat 1.12 - Orientação profissional para discentes, mentoria e apoio psicopedagógico 
+Origem (prioridade): 
+6-Outra 
+O que será feito: 
+Organização dos trabalhos de graduação – coordenação de TG. 
+Por que será feito: 
+Para realizar a organização da apresentação dos trabalhos. 
+Responsável: 
+ Mirian M. S. Suenaga 
+Qde CH/sem: 
+06 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+Alexandre de Moura Guimarães  
+Qde CH/sem: 
+04 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a):  
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/02/2025 
+Data final: 
+31/12/2025 
+Etapas do processo: 
+07- Orientar docentes orientadores 
+01/02 
+31/12 
+ 
+08- 02- Orientar alunos matriculados em TG 
+01/02 
+31/12 
+ 
+09- 03- Organizar as bancas e certificados 
+01/05 
+31/12 
+ 
+ 
+ 
+ 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.10 - Gestão da unidade de ensino e dos cursos (indicadores) 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+107 - cat 1.13 - Estágio 
+Origem (prioridade): 
+6-Outra 
+O que será feito: 
+Organização dos documentos de estágio – coordenação de estágio. 
+Por que será feito: 
+Para realizar a organização dos documentos de estágio 
+Responsável: 
+Luiz Atílio Padovan 
+Qde CH/sem: 
+14 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+Susi M. M. Leite  
+Qde CH/sem: 
+04 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome>  
+Qde CH/sem: 
+ 
+Tipo: Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/02/2025 
+Data final: 
+31/12/2025 
+Etapas do processo: 
+10- Orientar docentes orientadores 
+01/02 
+31/12 
+ 
+11- 02-Orientar alunos matriculados em estágio 
+01/02 
+31/12 
+ 
+12- 03- Organizar pastas de estágios dos alunos  
+01/05 
+31/12 
+ 
+ 
+ 
+ 
+Custo R$ (se houver): 
+HAE 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.10 - Gestão da unidade de ensino e dos cursos (indicadores) 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+  
+ 
+AÇÃO/PROJETO (Tema) 
+108 - cat.1.99 - Outra 
+Origem (prioridade): 
+6-Outra 
+O que será feito: 
+Organização dos projetos – coordenação de projetos. 
+Por que será feito: 
+Para melhor direcionamento dos projetos  
+Responsável: 
+Eloíza P. Capelloci  
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/02/2025 
+Data final: 
+31/12/2025 
+Etapas do processo: 
+01- Orientar docentes com projetos 
+01/02 
+07/02 
+ 
+02- Verificar o andamento dos projetos 
+01/02 
+31/12 
+ 
+03- Solicitar os relatórios e projetos aos docentes   
+01/05 
+31/12 
+ 
+04- Orientar a direção sobre a condução dos projetos 
+01/02 
+31/12 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.10 - Gestão da unidade de ensino e dos cursos (indicadores) 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+ 
+AÇÃO/PROJETO (Tema) 
+109 - cat 1.01 - Adequação/reestruturação de PPC, implantação de novos cursos. 
+Origem: 
+3-Outra 
+O que será feito: 
+Análise da matriz curricular do curso em questão - NDE 
+Por que será feito: 
+Para atualização do perfil profissional e preparação para o mercado de trabalho 
+Responsável: 
+Alexandre de Moura Guimarães  
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+Carlos Otoboni 
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+Allan Siriani 
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+João Ricardo Favan 
+Qde CH/sem: 
+02 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Período de execução: 
+Data inicial: 
+01/02/2025 
+Data final: 
+31/12/2025 
+Etapas do processo: 
+01- Realizar reuniões de análise da matriz curricular dos cursos 
+01/02 
+31/12 
+ 
+02- Propor nova matriz curricular (se for o caso) 
+01/08 
+31/12 
+ 
+03- nn 
+ 
+ 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+ 
+AÇÃO/PROJETO (Tema) 
+110 - cat 1.08 - Eventos e ações para aperfeiçoamento docente (Spap, treinamentos, avaliação docente) 
+Origem: 
+3-Outra 
+O que será feito: 
+Mentorias aos docentes em neurociência e metodologias diferenciadas de ensino – Fatec Imaginal. 
+Por que será feito: 
+Formação deficitária dos alunos e falta de retenção da atenção e aprendizagem. 
+Responsável: 
+Antônio Cesar Dall Evedove 
+Qde CH/sem: 
+02 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Luís Hilário Tobler Garcia 
+Qde CH/sem: 
+02 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a):  
+Qde CH/sem: 
+ 
+Tipo: Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/02/2025 
+Data final: 
+31/12/2025 
+Etapas do processo: 
+Aula 01 
+12/02 
+12/09 
+ 
+Aula 02  
+10/05 
+10/10 
+ 
+Aula 03 
+07/08 
+07/11 
+ 
+Aula 04 
+10/10 
+10/12 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+111 - cat 1.06 - Ações pedagógicas: visitas técnicas, projetos integradores/interdisciplinares, dias de campo, 
+feira das profissões, cursos extracurriculares para alunos. 
+Origem: 
+3-Outra 
+O que será feito: 
+Melhoria no marketing, design gráfico e no recebimento de visitas – Programa de marketing e 
+divulgação. 
+Por que será feito: 
+A divulgação e a comunicação com os possíveis alunos e divulgadores é deficiente. 
+Responsável: 
+Lara M. G. Santos 
+Qde CH/sem: 
+02 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a):  
+Qde CH/sem: 
+ 
+Tipo: Escolher um item. 
+Colaborador(a):  
+Qde CH/sem: 
+ 
+Tipo: Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/02/2025 
+Data final: 
+31/12/2025 
+Etapas do processo: 
+Estruturação do setor 
+01/02 
+10/12 
+ 
+Trabalho de design gráfico 
+01/02 
+10/12 
+ 
+Marketing para divulgação e comunicação 
+01/02 
+10/12 
+ 
+Agendamento e recebimento de visitas 
+01/02 
+10/12 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.10 - Gestão da unidade de ensino e dos cursos (indicadores) 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+ 
+ 
+ 
+ 
+ 
+02 – Laboratórios - Ensino e Equipamentos Associados 
+Ações para melhoramento dos laboratórios de Ensino (Gestão e Equipamentos): Melhoramento de 
+equipamentos, mediante instalação, manutenção, desuso, doação, e gestão de ambiente laboratorial. 
+ 
+AÇÃO/PROJETO (Tema) 
+201 - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+O que será feito: 
+ 
+Por que será feito: 
+  
+Responsável: 
+<nome>  
+Qde CH/sem: 
+ 
+Tipo: Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+ 
+Data final: 
+ 
+Etapas do processo: 
+01- nn  
+Nn 
+Nn 
+ 
+02- nn  
+Nn 
+Nn 
+ 
+03- nn  
+Nn 
+Nn 
+ 
+04- nn  
+Nn 
+Nn 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+R$ 
+Fonte(s) dos recursos: 
+ 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+202 - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+O que será feito: 
+nn  
+Por que será feito: 
+Nn 
+Responsável: 
+<nome> nn  
+Qde CH/sem: 
+ 
+Tipo: Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+ 
+Data final: 
+ 
+Etapas do processo: 
+01-   
+ 
+ 
+ 
+02-   
+ 
+ 
+ 
+03-  
+ 
+ 
+ 
+04-  
+ 
+ 
+ 
+05-  
+ 
+ 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+ 
+Fonte(s) dos recursos: 
+ 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+203 - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+O que será feito: 
+TABELA COM DEFEITO NA ESCOLHA DO ITEM DE TIPO DE HE 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+204 - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+O que será feito: 
+  
+Por que será feito: 
+ 
+Responsável: 
+<nome>  
+Qde CH/sem: 
+ 
+Tipo: Escolher um item. 
+Colaborador(a): 
+<nome>  
+Qde CH/sem: 
+ 
+Tipo: Escolher um item. 
+Colaborador(a): 
+<nome>  
+Qde CH/sem: 
+ 
+Tipo: Escolher um item. 
+Período de execução: 
+Data inicial: 
+ 
+Data final: 
+ 
+Etapas do processo: 
+01-   
+ 
+ 
+ 
+02-   
+ 
+ 
+ 
+03-  
+ 
+ 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+ 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+<Copiar tabelas para mais ações> 
+ 
+ 
+ 
+02 – Laboratórios: Copiar projetos de 2024 
+ 
+ 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+201 - cat 2.01 - Laboratório físico - implantação/melhoramento com recursos PEDAGÓGICOS 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Criação de novos laboratórios didáticos/pesquisa – “centro de tecnologia em Mecanização 
+Agricola. 
+Por que será feito: 
+Para uma melhor aprendizagem dos alunos. Para desenvolvimento de competências 
+técnico/profissionais 
+Responsável: 
+<nome> José A. B. Bonadio 
+Qde CH/sem: 
+06 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/02/2025 
+Data final: 
+31/12/2025 
+Etapas do processo: 
+01- Analisar a capacidade dos ambientes 
+01/02 
+31/12 
+ 
+02- Propor os layouts 
+20/02 
+31/12 
+ 
+03- Instalação de ar-condicionado 
+08/08 
+31/12 
+ 
+04- Instalação de computadores 
+30/10 
+31/12 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+R$426.000,00 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+ 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+202 - cat 2.01 - Laboratório físico - implantação/melhoramento com recursos PEDAGÓGICOS 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Criação do novo laboratório didáticos /pesquisa – espaço maker equipamentos pesados. 
+Por que será feito: 
+Para uma melhor aprendizagem dos alunos. Para desenvolvimento de competências 
+técnico/profissionais 
+Responsável: 
+<nome> Dario de A. Jané 
+Qde CH/sem: 
+04 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/02/2025 
+Data final: 
+31/12/2025 
+Etapas do processo: 
+01- Analisar a capacidade dos ambientes 
+01/02 
+31/12 
+ 
+02- Propor os layouts 
+10/02 
+31/12 
+ 
+03- Instalação do mobiliário e equipamentos 
+01/04 
+31/12 
+ 
+04- Instalação de computadores 
+01/05 
+31/12 
+ 
+05- Instalação de ar-condicioando 
+01/07 
+31/12 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+R$100.000,00 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+203 - cat 2.05 - Gestão laboratorial - pedagógica, operacional e estrutural 
+Origem (prioridade): 
+6-Outra 
+O que será feito: 
+Coordenação dos laboratórios didáticos 
+Por que será feito: 
+Para organizar a agenda, acompanhar em alguns momentos os alunos e avisar a manutenção dos 
+laboratórios 
+Responsável: 
+<nome> Dario de A. Jané 
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> Mirian M. S. Suenaga 
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> Elvio B. Pinotti, Luís Atílio Padovan e Susi M. M. 
+Leitei 
+Qde CH/sem: 
+01 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Período de execução: 
+Data inicial: 
+01/02/2025 
+Data final: 
+31/12/2025 
+Etapas do processo: 
+01- Organizar a agenda de reserva dos laboratórios 
+01/02 
+31/12 
+ 
+02- Observar a necessidade de manutenção dos equipamentos 
+01/02 
+31/12 
+ 
+03- Avisar a necessidade de manutenção dos equipamentos 
+01/02 
+31/12 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+20z - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+ 
+ 
+03 – Pesquisa / Extensão e Equipamentos Associados 
+Ações para melhoramento dos laboratórios que contemplam Pesquisa além do Ensino (Equipamentos): 
+melhoramento dos espaços de pesquisa, que inclui especificação equipamentos e aquisição por fomento ou por 
+projeto com empresa, e também prestação de serviços no campo tecnológico para instituições e empresas. 
+ 
+AÇÃO/PROJETO (Tema) 
+301 - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+O que será feito: 
+Tabela com ERRO  
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+302 - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+ 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+303 - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+304 - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+<Copiar tabelas para mais ações> 
+ 
+ 
+03 – Pesquisa/Extensão: Copiar projetos de 2024 
+ 
+AÇÃO/PROJETO (Tema) 
+301 - cat 3.03 - Pesquisa e Extensão em andamento (empresas diversas) 
+Origem (prioridade): 
+6-Outra 
+O que será feito: 
+Formação complementar em competências extracurriculares relacionadas aos cursos oferecidos 
+pela Fatec Pompeia, de acordo com o perfil profissional desejado pelas empresas parceiras como 
+forma de iniciar o processo seletivo para possível contratação – Programa Synapse. 
+Por que será feito: 
+No contexto institucional existe uma grande evasão dos alunos por motivos relacionados à 
+limitação financeira, como: moradia, alimentação etc. 
+Responsável: 
+<nome> Allan R. L. Siriani 
+Qde CH/sem: 
+02 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/03/2025 
+Data final: 
+31/12/2025 
+Etapas do processo: 
+01- Estruturação e captação de parceiros 
+01/03 
+10/12 
+ 
+02- Estruturação de conteúdo com parceiro 
+01/03 
+10/12 
+ 
+03- Processos seletivos dos alunos participantes 
+01/03 
+02/04 
+ 
+04- Execução do programa primeiro semestre 
+01/03 
+10/07 
+ 
+05- Processos seletivos dos alunos participantes 
+01/07 
+01/08 
+ 
+06- Execução do programa segundo semestre 
+01/08 
+01/12 
+ 
+07- Relatório final 
+01/12 
+31/12 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.99 - Outra 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+ 
+copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+302 - cat. 3.99 - Outra 
+Origem (prioridade): 
+6-Outra 
+O que será feito: 
+Coordenação de grupo de estudo e pesquisa – centro de línguas. 
+Por que será feito: 
+Para um melhor engajamento dos docentes e alunos. 
+Responsável: 
+<nome> Vania R. A. de Souza 
+Qde CH/sem: 
+01 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome>  
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/02/2025 
+Data final: 
+31/12/2025 
+Etapas do processo: 
+01- Seleção de alunos 
+10/02 
+31/12 
+ 
+02- Escolha dos projetos 
+01/03 
+31/12 
+ 
+03- Condução dos projetos 
+15/03 
+31/12 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+303 - cat 3.04 - Pesquisa e Extensão em andamento - RJI 
+Origem (prioridade): 
+6-Outra 
+O que será feito: 
+Coordenação de grupo de estudo e pesquisa – GAP. 
+Por que será feito: 
+Para um melhor engajamento dos docentes e alunos. 
+Responsável: 
+<nome> Gustavo Faulin 
+Qde CH/sem: 
+22 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/02/2025 
+Data final: 
+31/12/2025 
+Etapas do processo: 
+01- Seleção de alunos 
+20/02 
+31/12 
+ 
+02- Escolha dos projetos 
+01/03 
+31/12 
+ 
+03- Condução dos projetos 
+15/03 
+31/12 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CPS/RJI 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+304 - cat. 3.99 - Outra 
+Origem (prioridade): 
+6-Outra 
+O que será feito: 
+Participar do NUPIE 
+Por que será feito: 
+Para fomentar o programa Fatec Ciência 
+Responsável: 
+João R. Favan 
+Qde CH/sem: 
+02 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Gustavo Faulin 
+Qde CH/sem: 
+02 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Deise D. Silva 
+Qde CH/sem: 
+02 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Luís Hilário T. Garcia 
+Qde CH/sem: 
+02 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Antônio César Dall Evedove 
+Qde CH/sem: 
+02 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Carlos Otoboni 
+Qde CH/sem: 
+02 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Período de execução: 
+Data inicial: 
+01/02/2025 
+Data final: 
+31/12/2025 
+Etapas do processo: 
+01- Seleção de alunos 
+20/02 
+31/12 
+ 
+02- Escolha dos projetos 
+01/03 
+31/12 
+ 
+03- Condução dos projetos 
+15/03 
+31/12 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CPS/RJI 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+<Copiar tabelas para mais ações> 
+ 
+ 
+copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+04 – Atividades Formativas em Projetos (nível tático) 
+Projetos institucionais formativos não especificados em PEs: Rede de tecnologia, Novotec, PCI, Projetos 
+estudantis (Baja, Aerodesign, entre outros) 
+ 
+AÇÃO/PROJETO (Tema) 
+401 - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+402 - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+ 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+403 - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+404 - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+<Copiar tabelas para mais ações> 
+ 
+ 
+04 – Atividades Formativas em Projetos: Copiar projetos de 2024 
+ 
+AÇÃO/PROJETO (Tema) 
+40x - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+40y - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+40w - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+40z - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+ 
+ 
+ 
+05 – Infraestrutura (instalações prediais) 
+Projetos de manutenção e melhoramento predial voltados à segurança (física e sanitária) e preservação do 
+patrimônio: Reparação predial (civil, elétrica, dados), novas instalações prediais. 
+ 
+AÇÃO/PROJETO (Tema) 
+501 - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+502 - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+503 - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+504 - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+<Copiar tabelas para mais ações> 
+ 
+ 
+ 
+ 
+ 
+05 – Infraestrutura: Copiar projetos de 2024 
+ 
+AÇÃO/PROJETO (Tema) 
+50x - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+50y - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+50w - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+50z - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+ 
+ 
+ 
+06 - Desenvolvimento de pessoas (docentes e servidores) 
+Formação continuada de docentes e servidores, associadas às competências gerais e específicas de suas 
+atividades: Metodologias de ensino, Tecnologias educacionais, Sistemas (processos, procedimentos, plataformas 
+computacionais) acadêmicos e pedagógicos. 
+ 
+AÇÃO/PROJETO (Tema) 
+601 - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+602 - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+603 - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+604 - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+<Copiar tabelas para mais ações> 
+ 
+ 
+ 
+ 
+06 – Desenvolvimento de Pessoas: Copiar projetos de 2024 
+ 
+AÇÃO/PROJETO (Tema) 
+601 - cat. 6.99 - Outra 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Desenvolver novas metodologias de comunicação e aprimorar as já existentes – melhoria 
+comunicação interna. 
+Por que será feito: 
+Foi identificado respostas recorrentes, via WebSAI, sobre falhas de comunicação interna em 
+diversos setores da Unidade 
+Responsável: 
+<nome> Vania R. A. de Souza 
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> Leonardo A. Carrilho 
+Qde CH/sem: 
+02 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/02/2025 
+Data final: 
+31/12/2025 
+Etapas do processo: 
+01- Criar questionário a ser aplicado aos alunos 
+01/02 
+17/03 
+ 
+02- Triar, com os alunos, quais melhores canais para comunicação interna 
+20/02 
+29/03 
+ 
+03- Criar comunidade via WhatsApp para comunicação geral com os alunos 
+20/02 
+30/03 
+ 
+04- Instalação de murais no Bloco D 
+20/02 
+30/05 
+ 
+05- Mural virtual na Cantina 
+01/06 
+31/12 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+R$10.000,00 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+602 - cat. 6.99 - Outra 
+Origem (prioridade): 
+6-Outra 
+O que será feito: 
+Conscientização da importância da coleta seletiva de pilhas/ baterias, lixos e descartáveis - 
+sustentabilidade. 
+Por que será feito: 
+Para assegurar padrões de consumo sustentáveis. (ODS 12.5 Até 2030, reduzir substancialmente 
+a geração de resíduos por meio da prevenção, redução, reciclagem e reuso). 
+Responsável: 
+<nome> Adriana M. Sotatre 
+Qde CH/sem: 
+01 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/03/2025 
+Data final: 
+31/12/2025 
+Etapas do processo: 
+01- Elaboração do material de comunicação e divulgação dos projetos 
+10/05 
+30/08 
+ 
+02- Divulgação dos ecopontos 
+01/09 
+31/12 
+ 
+03- Elaboração de relatório final com os resultados (abrangência da 
+comunicação e empresas parceiras para encaminhamento do lixo coletado) 
+01/12 
+31/12 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.99 - Outra 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+60w - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+60z - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+ 
+ 
+ 
+ 
+07 – Convênios e Parcerias Institucionais 
+Formalização do relacionamento da Unidade com o Ecossistema de Tecnologia: Convênio de uso de prédio, 
+estágios, projetos com empresas. Aqui cabe apenas novos convênios e parcerias, e cada proposta deve estar 
+relacionada a uma Ação/Projeto de melhoria em algum dos itens anteriores do PGA (1, 2, 3, 4, 5 ou 6). 
+ 
+AÇÃO/PROJETO (Tema) 
+701 - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+Referente ao(s) projeto(s): nn 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+702 - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+Referente ao(s) projeto(s): nn 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+<Copiar tabelas para mais ações> 
+ 
+ 
+ 
+07 – Convênios e Parcerias: Copiar projetos de 2024 
+AÇÃO/PROJETO (Tema) 
+70x - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+Referente ao(s) projeto(s): nn 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+70y - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+Referente ao(s) projeto(s): nn 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+ 
+ 
+Anexo 1 – Lista de aquisições necessárias aos projetos 
+(equipamentos, softwares, mobiliários) 
+ 
+Item 
+Projeto 
+(XYY) 
+Denominação ou especificação do equipamento 
+Quant. 
+Preço total 
+estimado 
+(R$) 
+01 
+202 
+Armário alto com portas 
+02 
+1.640,00 
+02 
+601 
+Suporte de TV 
+02 
+1.260,00 
+03 
+201/202/603 Notebooks 
+155 
+R$ 403.000,00 
+04 
+202 
+Cadeira Empilhável monobloco verde (12 un e verde água (12 un) 
+24 
+2.112,00 
+05 
+201 
+Ar-condicionado 
+12 
+43.200,00 
+06 
+202 
+Carrinho para carregar notebooks 
+01 
+4.500,00 
+07 
+201 
+Rede de internet CTMA 
+01 
+43.000,00 
+08 
+201/202 
+Data Show 
+07 
+23.310,00 
+09 
+201/202 
+Suporte para data show 
+07 
+980,00 
+10 
+201/202/601 Película touch para televisor de 65” 
+09 
+3.350,00 
+11 
+201/202/601 Televisor 65” 
+09 
+R$ 28.161,00 
+12 
+202 
+Cavalete flip chart 
+02 
+R$ 500,00 
+13 
+202 
+Cortadora a laser para ferro/aço 
+01 
+40.000,00 
+14 
+201 
+Quadro branco 
+06 
+R$ 1.974,00 
+15 
+202 
+Carrinho de ferramentas com chave 
+02 
+R$ 1.193,00 
+16 
+202 
+Lousa de vidro 
+02 
+R$ 1.056,00 
+17 
+202 
+Sofá 
+02 
+R$ 3.400,00 
+18 
+202 
+Bancada retangular com rodízio 
+04 
+R$ 2.720,00 
+19 
+202 
+Mesa circular 1,20m de diâmetro 
+04 
+R$ 2.012,00 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total geral 
+607.368,00 
+ 
+ 
+ 
+ 
+Anexo 2 – Lista de Ações/Projetos referentes à CPA 
+ 
+Item 
+Projeto 
+(XYY) 
+Denominação 
+(O que será feito) 
+Prazo 
+01 
+102 
+Ações administrativas-pedagógicas para promover a inclusão dos alunos no 
+processo de formação de competências de acordo com o PPC – inclusão  
+31/12/2025 
+02 
+103 
+Realizar os processos de autoavaliação interna visando a melhoria dos processos 
+educacionais - CPA  
+31/12/2025 
+03 
+201 
+Criação de novos laboratórios didáticos/pesquisa – “centro de treinamento  
+31/12/2025 
+04 
+202 
+Criação do novo laboratório didáticos /pesquisa – espaço maker equipamentos 
+pesados  
+31/12/2025 
+05 
+601 
+Desenvolver novas metodologias de comunicação e aprimorar as já existentes – 
+melhoria comunicação interna  
+31/12/2025 
+06 
+nnn 
+nn 
+dd/mm/aaaa 
+07 
+nnn 
+nn 
+dd/mm/aaaa 
+08 
+nnn 
+nn 
+dd/mm/aaaa 
+09 
+nnn 
+nn 
+dd/mm/aaaa 
+10 
+nnn 
+nn 
+dd/mm/aaaa 
+11 
+nnn 
+nn 
+dd/mm/aaaa 
+12 
+nnn 
+nn 
+dd/mm/aaaa 
+13 
+nnn 
+nn 
+dd/mm/aaaa 
+14 
+nnn 
+nn 
+dd/mm/aaaa 
+15 
+nnn 
+nn 
+dd/mm/aaaa 
+16 
+nnn 
+nn 
+dd/mm/aaaa 
+17 
+nnn 
+nn 
+dd/mm/aaaa 
+18 
+nnn 
+nn 
+dd/mm/aaaa 
+19 
+nnn 
+nn 
+dd/mm/aaaa 
+20 
+nnn 
+nn 
+dd/mm/aaaa 
+ 
+ 
+ 
+ 
+ 
+ 
+<fim> 
+ 
+ 
+ 
+ 
+ 
+ 

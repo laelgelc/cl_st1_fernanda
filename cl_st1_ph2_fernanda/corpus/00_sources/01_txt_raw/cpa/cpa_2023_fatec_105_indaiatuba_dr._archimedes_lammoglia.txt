@@ -1,0 +1,7177 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+INDAIATUBA 
+2023 
+ 
+FATEC INDAIATUBA 
+RELATÓRIO DE AUTOAVALIAÇÃO 
+INSTITUCIONAL  
+2022 
+ 
+ 
+Direção / Coordenação de Cursos 
+ 
+Direção Geral  
+ 
+Prof. Me. José Luiz Marques  
+Coordenador do Curso de Graduação Tecnológica em 
+Análise e Desenvolvimento de Sistemas 
+ 
+Prof. Me Michel Moron Munhoz 
+Coordenador do Curso de Graduação Tecnológica em 
+Comércio Exterior 
+ 
+Prof. Esp. Ricardo Sérgio Neiva 
+Nóbrega  
+ 
+Coordenador do Curso de Graduação Tecnológica em 
+Gestão Empresarial Vespertino e Noturno 
+ 
+Prof. Me. Benedito Carlos 
+Florêncio Silva 
+Coordenador do Curso de Graduação Tecnológica em 
+Gestão de Serviços 
+ 
+Profa. Me. Juliana Silva Watanabe 
+Coordenador do Curso de Graduação Tecnológica em 
+Logística Aeroportuária 
+ 
+Prof. Me. Sandro Roberto da Silva 
+Calabrezi 
+Coordenador do Curso de Graduação Tecnológica em 
+Redes de Computadores 
+ 
+Prof. Dr. Wellington Roque 
+Presidente da CPA 
+ 
+Prof. Esp. Eugênio Tadeu 
+Bertagnoli 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Comissão Própria de Avaliação – CPA 
+ 
+ 
+ 
+ 
+Representante docente (Presidente) 
+ 
+Prof. Esp. Eugênio Tadeu 
+Bertagnoli 
+ Representante docente (Vice Presidente)                   
+Karina Joana Batista Cavalieri  
+ 
+Representante docente (Titular) 
+ 
+Profa. Me. Vera Márcia Gabaldi  
+Representante docente (Suplente) 
+ 
+Profa. Dra. Elisiane Sartori 
+Menezes Garcia 
+Representante docente (Suplente) 
+ 
+Prof. Me. Laerte Zotte Junior 
+Representante do corpo técnico administrativo 
+(Titular) 
+ 
+Karina Joana Batista Cavalieri 
+Representante da Sociedade Civil (Titular) 
+ 
+Profa. Dra. Jane Shirley Escodro 
+Ferretti 
+MEMBRO DISCENTE TITULAR 
+ 
+Thaina Raissa Caetano Da Silva 
+ 
+ 
+ 
+4 
+ 
+SUMÁRIO 
+ 
+ 
+ 
+I Identificação da FATEC:.............................................................................................................. 05 
+II Atos Regulatório .......................................................................................................................... 05 
+III Composição da Comissão Própria de Avaliação (CPA) ........................................................ 05 
+1  INTRODUÇÃO ........................................................................................................................... 07 
+2  METODOLOGIA ........................................................................................................................ 12 
+2.1 Cronograma de atividades da CPA........................................................................................ 13 
+2.2 Sensibilização .......................................................................................................................... 16 
+2.3 Sujeitos da avaliação ............................................................................................................... 23 
+2.4 Instrumentos de coleta ............................................................................................................ 24 
+2.5 Procedimentos para a coleta .................................................................................................. 25 
+2.6 Análise e discussão dos dados da coleta .............................................................................. 26 
+2.7 Organização das medidas para a composição do relatório ................................................ 27 
+2.8 Devolutiva dos resultados para os segmentos ..................................................................... 27 
+3 DESENVOLVIMENTO ............................................................................................................... 28 
+3.1 Eixo 1: Planejamento e Avaliação Institucional .................................................................... 28 
+3.2 Eixo 2: Desenvolvimento Institucional ................................................................................... 36 
+3.3 Eixo 3: Políticas Acadêmicas .................................................................................................. 46 
+3.4 Eixo 4: Políticas de Gestão ..................................................................................................... 74 
+3.5 Eixo 5: Infraestrutura Física .................................................................................................... 86 
+4 ANÁLISE DOS DADOS E AÇÕES PROPOSTAS ................................................................. 91 
+5 CONSIDERAÇÕES FINAIS............................................................................................ ........ 139 
+6 ANEXO: RELATÓRIO ANUAL DE ATIVIDADES – RAA14....................................................140 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5 
+ 
+ 
+I Identificação da FATEC: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+II Atos Regulatórios 
+ATO REGULATÓRIO 
+Ato Regulatório:  
+ 
+Prazo de validade:  
+Tipo de documento:  
+Decreto 
+No. Documento:  
+39.326 
+Data do Documento:  
+04/10/1994 
+Data de Publicação :  04/10/1994 
+ 
+III Composição da Comissão Própria de Avaliação (CPA)  
+Direção ata posse 
+A Comissão Própria de Avaliação da FATEC Indaiatuba – Dr. Archimedes Lammoglia 
+foi instituída pela Portaria nº 42, de 20 de MAIO de 2022 e Portaria nº 20 de 03 de 
+abril de 2019.  Com mandato até 19/05/2025. Possuindo a seguinte composição:  
+NOME 
+SEGMENTO 
+REPRESENTATIVO 
+Eugenio Tadeu Bertagnoli 
+Presidente 
+Vera Márcia Garibaldi  
+Docente 
+Laerte Zotte Junior 
+Docente 
+Elisiane Sartori Menezes Garcia 
+Docente  
+Karina Joana Batista Cavalieri 
+Técnico Administrativo 
+Jane Shirley Escodro Ferretti 
+Sociedade Civil   
+FATEC: Fatec Indaiatuba – Dr. Archimedes Lammoglia 
+CÓDIGO DO CPS: 105 
+CÓDIGO E-MEC: 1583 
+Representante Legal da IES: Diretor (a): Prof. Me. José Luiz Marques 
+Endereço Completo: Rua Dom Pedro I, 65 
+Bairro: Cidade Nova I 
+Município: Indaiatuba - SP 
+Telefone: (19) 3885-1923 
+E-mail: f105dir@cps.sp.gov.br 
+6 
+ 
+Thaina Raissa Caetano da Silva 
+Discente 
+Portaria de Posse da Comissão Própria de Avaliação
+ 
+ 
+7 
+ 
+1 INTRODUÇÃO  
+          A Faculdade de Tecnologia de Indaiatuba “Archimedes Lammoglia”  foi criada pelo 
+Governo do Estado de São Paulo por força da publicação do Decreto nº. 39326, de 04/10/1994 
+– Publicado DOE de 05/10/94, Seção 02, p.2. Iniciou suas atividades acadêmicas no 1º 
+semestre de 1995, com a implantação do Curso Superior de Tecnologia em Automação de 
+Escritório e Secretariado, com 40 vagas semestrais para o período noturno.  
+ 
+Endereço: Rua Dom Pedro I, 65  
+Fone: (19)3885-1923/ (19)3875-1922/ (19) 3834-8981/ (19)3834-8975 
+Site: www.fatecid.com.br 
+Horário de Funcionamento da unidade:  
+De segunda à sexta, das 7h30min às 22h30min e sábado das 7h30min às 13h 
+Horário de Funcionamento dos cursos:  
+Matutino: das 7h30min às 12h50min 
+Vespertino: das 12h50min às 19h 
+Noturno: das 19h às 22h30 
+ 
+Missão: Promover a educação profissional pública dentro de referenciais de 
+excelência, visando ao atendimento das demandas sociais e do mundo do trabalho. 
+  
+Visão: 
+Consolidar-se 
+como 
+centro 
+de 
+excelência 
+e 
+estímulo 
+ao 
+desenvolvimento humano e tecnológico, adaptado às necessidades da sociedade.  
+ 
+Objetivos estratégicos: 
+ 
+• Atender e antecipar-se às demandas sociais e do mercado de trabalho.  
+• Obter a satisfação dos públicos que se relacionam com o Centro Paula Souza.  
+8 
+ 
+• Aperfeiçoar continuamente os processos de planejamento e gestão, e as 
+atividades operacionais e administrativas.  
+• Alcançar e manter o grau de excelência diante do mercado em seus processos 
+de ensino e aprendizagem.  
+• Estimular e consolidar parcerias (internas e externas) e sinergias, e a inovação 
+tecnológica.  
+• Reconfigurar a infraestrutura e intensificar a utilização de recursos 
+tecnológicos.  
+• Promover a adequação, o reconhecimento e o desenvolvimento permanente 
+do capital humano.  
+• Incentivar a transparência e o compartilhamento de informações e 
+conhecimentos.  
+• Assegurar a sustentabilidade financeira da instituição. 
+  
+1.1 A Importância da criação da unidade para a região e as modalidades de ensino: 
+A Fatec Indaiatuba “Dr. Archimedes Lammoglia”, com o objetivo de atender uma 
+demanda cada vez maior por vagas no ensino superior, ofertar cursos de forma gratuita e 
+também, em atendimento à sua vocação, atender ao arranjo produtivo local, foi criada na 
+cidade de Indaiatuba, pelo Governo do Estado de São Paulo, por força da publicação do 
+Decreto nºnº39.326 em 04 de outubro de 1994, com publicação no D.O.E. de 05 de outubro 
+de 1994, Seção I, página 2. 
+A unidade iniciou as atividades acadêmicas no 1º semestre de 1995, com a 
+implantação com o Curso Superior de Tecnologia em Automação de Escritórios e 
+Secretariado, com 40 vagas semestrais para o período noturno. 
+ Em 5 de agosto de 2008, Port. CEE/GP nº418/08, foi renovado por cinco anos o 
+Reconhecimento do Curso de Tecnologia em Automação de Escritórios e Secretariado com a 
+nova denominação - Curso de Gestão Empresarial com ênfases em Comércio Exterior, 
+Marketing, Secretariado Executivo e Sistemas de Informação, respeitando-se os direitos dos 
+alunos que optaram por concluir seu Curso com a denominação de origem Tecnologia de 
+Automação de Escritórios e Secretariado. Esta nova denominação para o curso ocorreu após 
+o Parecer CEE 25/2006, quando se aprovou, previamente, nos termos do Artigo 1º, Parágrafo 
+1º da Deliberação CEE nº 7/2000, o Projeto do Curso Superior de Graduação de Tecnologia 
+em Gestão Empresarial - ênfase em: Marketing, Secretariado Executivo, Sistemas de 
+9 
+ 
+Informação e Comércio Exterior e Parecer CEE 374, de 03/08/2007, quando se autorizou o 
+funcionamento do mesmo na Faculdade de Tecnologia de Indaiatuba. 
+No 2º semestre de 2005 foi implantado o Curso Superior de Tecnologia em Informática 
+com ênfase em Banco de Dados e Redes de Computadores, com 40 vagas semestrais para 
+o período vespertino. 
+No 1º semestre de 2006 foi implantado o Curso Superior de Tecnologia em Gestão 
+Empresarial com ênfase em Marketing, Secretariado Executivo, Sistemas de Informação e 
+Comércio Exterior, com 40 vagas semestrais para o período matutino e noturno.  
+No 1º semestre de 2010 o Curso Superior de Tecnologia em Gestão Empresarial com 
+ênfase em Marketing, Secretariado Executivo, Sistemas de Informação e Comércio Exterior 
+passou a funcionar como Curso Superior de Tecnologia em Gestão Empresarial matutino e 
+noturno. 
+No 1º semestre de 2013 foi implantado o Curso Superior de Tecnologia em Gestão 
+Empresarial, com 40 vagas semestrais para o período vespertino, deixando de funcionar no 
+período matutino. 
+No 1º semestre de 2010 o Curso Superior de Tecnologia em Informática com ênfase 
+em Banco de Dados Vespertino passou a funcionar como Curso Superior de Tecnologia em 
+Análise de Desenvolvimento de Sistemas no período noturno. 
+No 1º semestre de 2010 foi implantado o Curso Superior de Tecnologia em Comércio 
+Exterior, com 40 vagas semestrais para o período noturno. 
+No 1º semestre de 2010 foi implantado o Curso Superior de Tecnologia em Comércio 
+Exterior, com 40 vagas semestrais para o período noturno. 
+No 1º semestre de 2010 foi implantado o Curso Superior de Tecnologia em Logística 
+Aeroportuária, com 40 vagas semestrais para o período matutino. 
+No 1º semestre de 2012 o Curso Superior de Tecnologia em Banco de Dados passou 
+a funcionar como Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas. 
+No 1º semestre de 2013 foi implantado o Curso Superior de Tecnologia em Gestão de 
+Serviços, com 40 vagas semestrais para o período matutino. 
+No 2º semestre de 2014 foi implantado o Curso Superior de Tecnologia em Gestão 
+Empresarial EAD, com 80 vagas semestrais e no 1 semestre de 2015, passou a oferecer 40 
+vagas no vestibular. 
+ 
+10 
+ 
+No 1º semestre de 2016 o Curso Superior de Tecnologia em Redes de Computadores 
+passou a funcionar no período matutino. 
+Atualmente possui 1854 alunos matriculados em seus 7 Cursos Superiores de 
+Tecnologia oferecidos, incluindo alunos de EaD. 
+        De modo geral, os alunos que procuram a Instituição são oriundos de classes sociais 
+menos favorecidas, em sua maioria, estudantes que vêm da escola pública em busca de uma 
+qualificação profissional para se inserirem ou se manterem com mais eficiência no mercado 
+de trabalho local e regional de Indaiatuba/SP. 
+ 
+A Fatec Indaiatuba – Dr. Archimedes Lammoglia possui a crença na avaliação como 
+instrumento de gestão. Por meio da avaliação temos condições de reunir indicadores 
+capazes de suscitar análises e discussões possibilitando definir planos de melhorias 
+de forma continuada.  
+ 
+Curso 
+Autorizaçã
+o 
+Reconhecimento/ 
+RENOVAÇÃO 
+DATA 
+Prazo de 
+reconhecimento 
+ENADE 
+Análise e 
+Desenvolvimento 
+de Sistemas 
+Portaria Nº 
+155/2007 
+Reconhecimento 
+Portaria CEE/GP 
+393 
+ 
+Renovação 
+Portaria 
+CEE/GP 455 
+21/10/2013 
+ 
+30/10/2019 
+5 anos 
+2021 
+Nota 3 
+Comércio 
+Exterior 
+Portaria Nº 
+352/2007 
+Reconhecimento 
+Portaria CEE/GP 
+453 
+ 
+Renovação 
+Portaria 
+CEE/GP 101 
+26/09/2012 
+ 
+ 
+ 
+03/03/2020 
+ 
+2018 
+Nota 4 
+Gestão 
+Empresarial 
+Portaria Nº 
+352/2007 
+Reconhecimento 
+Portaria CEE/GP 
+418 
+ 
+Renovação 
+Portaria 
+CEE/GP 101 
+06/08/2008 
+ 
+ 
+ 
+03/03/2020 
+ 
+2018 
+Nota 4 
+Gestão de 
+Serviços 
+Portaria Nº 
+139/2012 
+Reconhecimento 
+Portaria CEE/GP 
+233 
+ 
+Renovação 
+12/06/2015 
+ 
+ 
+ 
+5 anos 
+- 
+11 
+ 
+Portaria CEE/GP 
+431 
+30/09/2022 
+Logística 
+Aeroportuária 
+Portaria Nº 
+352/2007 
+Reconhecimento 
+Portaria CEE/GP 
+302 
+ 
+Renovação 
+Portaria 
+CEE/GP 138 
+17/07/2012 
+ 
+ 
+ 
+26/05/2020 
+5 anos 
+- 
+Redes de 
+Computadores 
+Portaria Nº 
+155/2007 
+Reconhecimento 
+Portaria CEE/GP 
+58 
+ 
+Renovação 
+Portaria CEE/GP 
+451 
+13/03/2009 
+ 
+ 
+ 
+06/12/2018 
+ 
+2021 
+Nota 2 
+ 
+Número de alunos matriculados na unidade por curso 
+TOTAL DE ALUNOS MATRICULADOS NA UNIDADE 
+ 
+NÚMERO 
+DE ALUNOS 
+CURSOS 
+Curso de Graduação Tecnológica em Análise e Desenvolvimento de 
+Sistemas 
+203 
+Curso de Graduação Tecnológica em Comércio Exterior 
+204 
+Curso de Graduação Tecnológica em Gestão Empresarial Vespertino 
+158 
+Curso de Graduação Tecnológica em Gestão Empresarial Noturno 
+234 
+Curso de Graduação Tecnológica em Gestão de Serviços 
+134 
+Curso de Graduação Tecnológica em Logística Aeroportuária 
+171 
+Curso de Graduação Tecnológica em Redes de Computadores 
+155 
+ 
+Quantidade de professores por curso e porcentagem de titulação 
+ 
+ 
+CURSOS 
+TITULAÇÃO DOCENTE 
+QTDE 
+% 
+Análise e 
+Desenvolvimento de 
+Sistemas 
+Doutores  
+5 
+16% 
+Análise e 
+Desenvolvimento de 
+Sistemas 
+Mestres 
+19 
+61% 
+12 
+ 
+Análise e 
+Desenvolvimento de 
+Sistemas 
+Especialistas  
+7 
+23% 
+Comércio Exterior 
+Doutores  
+5 
+22% 
+Comércio Exterior 
+Mestres 
+11 
+48% 
+Comércio Exterior 
+Especialistas  
+7 
+30% 
+Gestão Empresarial 
+Doutores  
+11 
+27% 
+Gestão Empresarial 
+Mestres 
+23 
+56% 
+Gestão Empresarial 
+Especialistas  
+7 
+17% 
+Gestão de Serviços 
+Doutores  
+4 
+16% 
+Gestão de Serviços 
+Mestres 
+15 
+60% 
+Gestão de Serviços 
+Especialistas  
+6 
+24% 
+Redes de Computadores Doutores  
+7 
+32% 
+Redes de Computadores Mestres 
+12 
+55% 
+Redes de Computadores Especialistas  
+3 
+14% 
+Logística Aeroportuária 
+Doutores  
+6 
+30% 
+Logística Aeroportuária 
+Mestres 
+10 
+50% 
+Logística Aeroportuária 
+Especialistas  
+4 
+20% 
+ 
+ 
+2 METODOLOGIA 
+Para contribuir com a organização da Comissão Própria de Avaliação de cada 
+Fatec, o Centro Paula Souza, por meio da Área de Avaliação Institucional (AAI) e da 
+Unidade de Ensino Superior de Graduação (CESU), organizaram a comissão da CPA 
+Central.  
+ 
+Assumindo como centro organizativo as atribuições que lhe competem, a 
+saber:  
+I – Contribuir com o planejamento, orientação e monitoramento dos 
+procedimentos da autoavaliação Institucional das FATECs; 
+II – Utilizar os indicadores coletados nas unidades como instrumento de 
+gestão, oferecendo subsídios para cada uma das áreas da administração 
+central tomar as medidas corretivas; 
+III – Elaborar o Relatório Global da Autoavaliação para os processos de 
+recredenciamento institucional.  
+IV – Elaborar o cronograma da autoavaliação para as Fatecs, considerando 
+o prazo de 31 de março de cada ano para o protocolo dos relatórios da 
+autoavaliação no sistema e-mec do Ministério da Educação.  
+V – Avaliar, indicar possíveis ajustes e autorizar o protocolo dos relatórios das 
+CPAs das FATECs no sistema e-mec. 
+VI – Reunir-se ordinariamente duas vezes no semestre ou de forma 
+extraordinária quando necessário.  
+ 
+13 
+ 
+Por meio CPA Central cada Fatec e das Diretorias Pedagógicas Regionais 
+recebe todo o suporte necessário para cumprir o que lhe compete a CPA conforme 
+segue: 
+1. contribuir 
+com 
+o 
+planejamento, 
+elaboração, 
+coordenação 
+e 
+monitoramento dos processos de avaliação interna, apresentando o 
+projeto de autoavaliação Institucional que norteará todos os 
+procedimentos de autoavaliação para a CPA Central em consonância 
+com a equipe de Supervisão Regional das FATECs.  
+2. apoiar os processos internos de avaliação; 
+3. sistematizar e prestar informações relativas às políticas de 
+autoavaliação institucional, solicitadas pelos Sistemas Federal e 
+Estadual de Avaliação da Educação Superior, além de atender à 
+demanda interna da Supervisão Regional e da CPA Central do Centro 
+Paula Souza; 
+4. constituir subcomissões de avaliação; 
+5. constituir grupos temáticos ou focais voltados para a avaliação de cada 
+uma das dez dimensões estabelecidas no artigo anterior; 
+6. elaborar e analisar relatórios e pareceres, encaminhando-os a CPA 
+Central; 
+7. desenvolver estudos e análises, colaborando com os órgãos próprios 
+ou terceirizados do Centro Paula Souza, visando ao fornecimento de 
+subsídios para afixação, o aperfeiçoamento e a modificação da política 
+de avaliação institucional; 
+8. acompanhar, analisar e correlacionar os resultados da autoavaliação 
+com os resultados dos alunos do Centro Paula Souza no ENADE, bem 
+como em outros processos de avaliação; 
+9. aprovar seu próprio regulamento. 
+ 
+Os relatórios parciais e/ou integrais da autoavaliação deverão ser elaborados com 
+periodicidade anual, encaminhados para a CPA Central seguindo o cronograma de 
+planejamento apresentado nas orientações gerais e protocolados até 31 de março de cada 
+ano. Ficando disponíveis para serem apreciados pela comissão de especialistas designada 
+pelo Conselho Estadual de Educação para a visita à Instituição em seu processo de 
+recredenciamento, conforme dispõe a Deliberação do CEE 160/2018.  
+ 
+2.1 Cronograma das atividades da CPA 
+A partir desta estrutura a CPA da Fatec Indaiatuba para cumprir o que lhe compete, 
+durante o ano de 2022 elaborou o seguinte cronograma de trabalho  
+AÇÕES 
+MESES 
+JAN FEV MAR ABR MAI JUN JUL AGO SET 
+OUT 
+NOV 
+DEZ 
+Reuniões online com a Direção, 
+coordenações de Cursos para 
+sistematização 
+as 
+ações 
+e 
+composições de grupos de 
+trabalho. 
+  
+ 
+ 
+X 
+ 
+ 
+X 
+ 
+ 
+X 
+ X 
+ X 
+14 
+ 
+Encontros online da equipe CPA 
+para organizar e desenvolver 
+estratégias 
+de 
+maneira 
+integrada a partir da percepção 
+dos diferentes segmentos que 
+compõem a comissão. 
+  
+ 
+ 
+X 
+ 
+ 
+ 
+ 
+X 
+X 
+X 
+ x 
+Sensibilização 
+para 
+participação nos procedimentos 
+e coleta:  Encontros online com 
+representantes de turmas, lives, 
+webinar, 
+informativos, 
+site, 
+entre outros, para alimentar a 
+cultura avaliativa da Fatec. 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+X 
+X 
+ 
+  
+Organização 
+dos 
+procedimentos de coleta de 
+dados: elaboração das ações 
+voltadas 
+para 
+estimular 
+e 
+monitorar a participação de toda 
+a 
+comunidade 
+no 
+preenchimento do formulário de 
+coleta.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+X 
+X 
+X  
+ X 
+Análise 
+dos 
+resultados 
+– 
+acolhimento 
+dos 
+dados 
+da 
+coleta 
+e 
+início 
+dos 
+procedimentos de análise.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+X 
+Encaminhamento dos dados 
+coletados 
+para 
+cada 
+área 
+competente: cada área recebe 
+os dados faz a análise e 
+apresenta a justificativa e o 
+Plano de Melhorias da área - 
+ações planejadas a partir dos 
+resultados e encaminha para a 
+CPA  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+X 
+X 
+Elaboração do relatório a partir 
+da devolutiva das áreas.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+X  
+X  
+Envio do Relatório para a 
+apreciação da CPA Central 
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+ X 
+Divulgação dos resultados à 
+comunidade acadêmica. 
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+ X 
+Conclusão do Relatório. 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+X 
+ 
+ 
+15 
+ 
+ 
+ 
+16 
+ 
+ 
+2.2 Sensibilização 
+Para a efetivação do cronograma destaca-se algumas das ações para a 
+realização dos procedimentos de autoavaliação. A sensibilização foi realizada a 
+princípio com a liberação da Direção para envolvimento da comunidade, após a 
+liberação foram organizadas reuniões com coordenadores de Curso, Diretoria 
+Administrativa e Diretoria Acadêmica para elaboração dos planos de ação e 
+divulgação. A unidade organizou espaços suficientes, disponibilizando computadores 
+e equipe de monitoramento para recepção da comunidade para assim responderem 
+os questionários do WEBSAI. Os professores foram prontamente envolvidos e 
+acompanharam seus alunos nos laboratórios para que assim pudessem realizar a 
+pesquisa. Pessoal Técnico administrativos e Professores foram orientados a 
+responderem a pesquisa por e-mail e pessoalmente.Relatórios de acompanhamento 
+dos resultados de coletas foram publicados diariamente, possibilitando assim um 
+acompanhamento das metas atingidas por curso e setores;  
+ 
+ 
+17 
+ 
+Reunião CPA Central e CPAs das Fatecs - 30/09/22, das 14h às 
+15h30. 
+FI 
+f105dir - Fatec Indaiatuba <f105dir@cps.sp.gov.br> 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Para: 
+ 
+EUGENIO TADEU BERTAGNOLI 
+Cc: 
+ 
+VERA MARCIA GABALDI 
+Ter, 27/09/2022 15:00 
+Prezados Tadeu e Vera: 
+ 
+Seguem no email abaixo data e link para reunião da CPA com a Administração Central para 
+orientações sobre WebSai e demais assuntos. Dia: 30/092022 das 14h às 15h30: 
+ 
+At.te 
+ 
+Prof. Me. José Luiz Marques 
+Diretor da Fatec  Dr. Archimedes Lammoglia 
+Milena Antunes Maciel Victório 
+Secretária da Direção 
+(19) 3885-1923 - ramais - 207 e 209 
+ 
+ 
+WebSai 2022-CPA -preenchimento 
+FI 
+f105dir - Fatec Indaiatuba <f105dir@cps.sp.gov.br> 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Para: 
+ 
+ANDRE LUIZ SILVA; 
+ 
+ANDRE MESCHIATTI NOGUEIRA; 
+ 
+BENEDITO CARLOS FLORENCIO SILVA 
++81 pessoas 
+18 
+ 
+Cc: 
+ 
+ADEMIR CORREIA; 
+ 
+MARIA CANDELARIA PAULINO MAZZETTO; 
+ 
+CRISTIANA DE SOUZA LOPES 
++12 pessoas 
+Qui, 13/10/2022 11:52 
+ 
+ 
+Memorando ADP-AAI-40-2022.pdf 
+89 KB 
+ 
+ 
+Cartaz impressão_WebSai 2022_Fatec.pdf 
+293 KB 
+ 
+3 anexos (1 MB)Salvar tudo no OneDrive – Fatec | Centro Paula SouzaBaixar tudo 
+ 
+Prezados (as), bom dia!  
+ 
+A Direção desta Unidade de Ensino e a CPA (Comissão Própria de Avaliação) solicitam a 
+todos (as) o preenchimento da Avaliação Institucional WEBSAI referente a 2022. 
+ 
+O link para acesso é https://websai.cps.sp.gov.br/Acesso/Login 
+ 
+Há duas formas de acesso: 
+ 
+1-) Pela conta microsoft @fatec - precisa estar logado à conta. 
+ 
+2-) Pelo CPF e senha. 
+ 
+Importante também incentivar os (as) estudantes a preenchê-la, objetivando melhorias do 
+processo de ensino, a gestão da Unidade e da Infraestrutura. 
+ 
+Aproveitam para reiterar protestos de estima e consideração, 
+ 
+At.t 
+ 
+ 
+ 
+19 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+20 
+ 
+ENC: Prorrogação Avaliação Institucional-WebSai 2022 
+FI 
+f105dir - Fatec Indaiatuba <f105dir@cps.sp.gov.br> 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Para: 
+ 
+ADEMIR CORREIA; 
+ 
+CRISTIANA DE SOUZA LOPES; 
+ 
+ELI SIMEIA FONDA DA SILVA VOLPI 
++11 pessoas 
+Cc: 
+ 
+ANDRE LUIZ SILVA; 
+ 
+ANDRE MESCHIATTI NOGUEIRA; 
+ 
+BENEDITO CARLOS FLORENCIO SILVA 
++81 pessoas 
+Qui, 27/10/2022 11:01 
+ 
+ 
+ 
+cartaz_websai_vertical_fatec.pdf 
+3 MB 
+ 
+3 anexos (7 MB)Salvar tudo no OneDrive – Fatec | Centro Paula SouzaBaixar tudo 
+Prezados (as), bom dia! 
+ 
+Prorrogação do WebSai  até o dia 13/11. 
+ 
+At.te 
+ 
+Prof. Me. José Luiz Marques 
+Diretor da Fatec  Dr. Archimedes Lammoglia 
+Milena Antunes Maciel Victório 
+Secretária da Direção 
+(19) 3885-1923 - ramais - 207 e 209 
+ 
+ 
+21 
+ 
+ 
+. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+22 
+ 
+ 
+ 
+23 
+ 
+2.3 Sujeitos da avaliação 
+A comunidade acadêmica, Alunos, Professores, Funcionários Técnicos e 
+Administrativos e Egressos foram contemplados no processo de   autoavaliação, todos 
+os seguimentos atingiram a meta necessária para que o resultado representasse a 
+comunidade. Quanto à participação da Comunidade da Sociedade Civil, 
+representantes indicados para compor a CPA participaram da organização dos 
+eventos de pesquisa, apresentando suas alternativas e propostas de melhorias 
+objetivando o melhor aproveitamento dos resultados da unidade no contexto do 
+mercado e comunidade externa.  
+ 
+78,35%
+32,08%
+48,23%
+47,41%
+49,40%
+32,70%
+48,10%
+21,65%
+67,92%
+51,77%
+52,59%
+50,60%
+67,30%
+51,90%
+0,00%
+10,00%
+20,00%
+30,00%
+40,00%
+50,00%
+60,00%
+70,00%
+80,00%
+90,00%
+ADS
+COMEX
+SERVIÇOS
+GESTÃO
+EMPR.
+LOGÍSTICA
+REDES
+Total
+Participação de Alunos WEBSAI 2022 -
+Finalização 
+Responderam
+Não Responderam
+24 
+ 
+ 
+2.4 Instrumentos de Coleta  
+Desde 1997 o Centro Paula Souza, evidenciando o seu pioneirismo em buscar 
+indicadores para gerar melhoria de seus serviços criou o Sistema de Avaliação 
+Institucional (SAI), implantado em 1999 em todas as Etecs (Escolas de Ensino Técnico 
+no nível médio) e, em 2000, nas Fatecs, seguindo os mais rigorosos critérios 
+estatísticos. Sendo os instrumentos elaborados e preenchidos em formulários 
+impressos de 1999 a 2012.  
+A partir de 2010, os questionários deixaram de ser preenchidos em formulário 
+de papel e passaram a ser totalmente on-line, trazendo mais agilidade ao processo 
+de avaliação. Desde então, todos os participantes realizam a pesquisa pela internet e 
+o SAI passou a ser chamado de WebSAI.  
+Para que as Fatecs tivessem apenas um instrumento que pudesse contemplar 
+as 10 dimensões dentro dos 5 eixos avaliativos, a partir da criação da comissão da 
+CPA Central a AAI em parceria com a CESU, por meio de uma equipe qualificada, 
+reorganizou a elaboração dos Instrumentos adequando-os em torno dos 5 eixos 
+avaliativos:  
+100,00%
+100,00%
+96,15%
+0,00%
+0,00%
+3,85%
+0,00%
+20,00%
+40,00%
+60,00%
+80,00%
+100,00%
+120,00%
+Funcionários Coordenadores
+Professores
+Participação de Funcionários WEBSAI 2022 -
+Finalização 
+Responderam
+25 
+ 
+Durante a aplicação da pesquisa para coleta de dados foram disponibilizados 
+exclusivamente para essa atividade os laboratórios de informática contando com 20 
+computadores cada um e simultaneamente as salas de aula onde as atividades 
+acadêmicas estariam acontecendo, sempre que possível eram oferecidas máquinas 
+para que os envolvidos pudessem responder aos questionários. 
+Conforme dados informados pelo websai 1360 pessoas estavam envolvidas no 
+processo, sendo que 703 responderam os questionários conforme quadro abaixo, 
+atingindo uma porcentagem de 52% de participação. 
+Desempenho de Coleta - Dados websai.cps.sp.gov.br 
+ 
+ 
+ 
+ 
+2.5 Procedimentos para a coleta 
+ 
+A AAI disponibilizou o acesso ao sistema de coleta (websai) a partir de 03 de 
+outubro de 2022 ficou disponível para o preenchimento da comunidade do dia 13 de 
+novembro de 2022. Para favorecer a participação da comunidade durante este 
+período a CPA e Direção da Fatec Indaiatuba, fez o acompanhamento da participação 
+52%
+48%
+Participação Geral WEBSAI 2022 -
+Finalização 18/11/2022
+52% da Comunidade Responderam o Websai 
+2022 
+Responderam
+Não responderam
+26 
+ 
+de cada segmento, realizando a sensibilização contínua para a participação. Para 
+favorecer a participação da comunidade durante este período a CPA solicitou 
+autorização ao diretor para pedir o auxílio dos coordenadores para sensibilizar os 
+alunos a responderem o WEBSAI. Após autorização e conversa com os 
+coordenadores foram disponibilizados laboratórios para que os alunos pudessem 
+responder ao questionário. Durante este período, também foram feitas comunicações 
+na rede de TV interna, nas mídias sociais e através de e-mails aos professores, 
+administrativos e alunos, além da elaboração de cartazes que foram fixados nos 
+murais no intuito de incentivar a participação e a colaboração na divulgação em sala 
+de aula pelos professores. A equipe da CPA elaborou gráficos para acompanhamento 
+da participação da comunidade e disponibilizou para a Direção, coordenação de 
+cursos e responsáveis dos setores.  
+ 
+2.6 Análise e Discussão dos dados da coleta  
+A partir do dia 20 de novembro de 2022 os dados coletados por meio do websai, 
+foram disponibilizados pela AAI. A Fatec Indaiatuba, por meio da CPA iniciou o 
+processo de organização dos dados coletados para encaminhamento para cada setor 
+de acordo com o Quadro 1. A CPA da Fatec Indaiatuba, solicitou autorização da 
+Direção para realizar uma reunião. Após autorização da Direção, foi enviado um e-
+mail informando que haveria a reunião com Coordenadores, CPA e Direção. Na 
+reunião o Presidente da CPA disponibilizou os dados coletados e tabulados no intuito 
+de facilitar a análise das informações e agilizar o processo. Respeitando o prazo que 
+foi dado para entrega do relatório pediu a colaboração e participação de todos para 
+que pudesse finalizá-lo. Envolveu nesse momento,  os responsáveis por cada 
+departamento (Direção Geral, Diretoria Administrativa, Diretoria Acadêmica, 
+Coordenações/professores.) para que eles pudessem fazer a análise com os demais 
+membros de seu grupo identificando as fragilidades e forças, justificando os dados e 
+indicando um plano de melhoria para as situações que julgassem necessárias, Foi 
+estabelecido um prazo para que os responsáveis por cada departamento pudessem 
+entregar o resultado da análise para que os membros da CPA pudessem se reunir 
+para fazer a junção das informações apresentadas e finalizar a elaboração do 
+relatório. 
+ 
+  
+27 
+ 
+2.7 Organização das medidas para composição do relatório 
+ 
+Após o processo de análise e discussão dos dados coletados, cada setor 
+encaminhou para a CPA da Fatec Indaiatuba, os resultados presentes no Quadro 2, 
+com o apontamento das fragilidades e o planejamento das medidas corretivas, assim 
+como as potencialidades e as possíveis ações de manutenção e melhorias. Os 
+quadros apresentados, foram condensados no capítulo 4 deste relatório, refletindo o 
+planejamento da Fatec Indaiatuba a partir dos indicadores observados em cada eixo 
+avaliativo.  
+ 
+Para a   escolha das Oportunidades de Melhorias o critério utilizado foi de 75% de 
+satisfação dos envolvidos, valores estes considerados como Excelente e Muito Bom 
+no instrumento de coleta. Abaixo desse nível de satisfação os resultados foram 
+analisados e indicado como fragilidades. 
+ 
+Após receber os dados oferecidos pelos coordenadores, a CPA reorganizou as 
+informações e criou gráficos com os Dados de todos os cursos, separadamente. 
+ 
+O mesmo critério de 75% foi utilizado para outros setores, que, nesse caso, receberam 
+os gráficos devidamente elaborados e divididos por Equipe de Corpo Docente, 
+Técnico Administrativo e Discentes (Resultados Geral) 
+ 
+As potencialidades foram identificadas considerando o sentimento de cada 
+responsável pelos setores, sem estabelecer critérios mínimos de satisfações. 
+ 
+ 
+2.8 Devolutiva dos Resultados para os Segmentos   
+ 
+Após a apresentação do relatório para a Direção da Fatec. Indaiatuba, foram 
+organizadas as formas de divulgação dos resultados e apresentação das ações 
+provenientes do processo de autoavaliação, permitindo o desenvolvimento 
+Institucional. 
+ 
+A Comissão Própria de Avaliação optou por apresentar os resultados à comunidade 
+divulgando o relatório final através de e-mail para a equipe de Coordenadores de 
+Curso, Diretoria Acadêmica, Diretoria Administrativa e Direção Geral. Para o Corpo 
+28 
+ 
+Docente e Discente da unidade, o trabalho da devolutiva dos resultados da pesquisa 
+do Websai, bem como as propostas de ações de melhorias vão ocorrer no primeiro 
+semestre de 2023 através de reuniões presenciais e apresentações em salas de aula. 
+3 DESENVOLVIMENTO 
+ 
+3.1 Planejamento e Avaliação Institucional Eixo 1:  
+   
+ 
+Dimensão 8: Planejamento e Avaliação 
+ 
+EIXO 
+DIMENSÃO 
+APRESENTAÇÃO DAS PRINCIPAIS INFORMAÇÕES COLETADAS NO EIXO 1   
+EIXO 1 
+Planejamento e 
+Avaliação 
+Institucional 
+Dimensão 8 
+ANÁLISE E DESENVOLVIMENTO DE SISTEMAS 
+ 
+ 
+ 
+0
+20
+40
+60
+80
+Excelente
+Muito Bom
+Regular
+Insuficiente Não se aplica
+Não sei
+responder
+13 - Desempenho nas avaliações da 
+aprendizagem
+0
+20
+40
+60
+80
+Excelente
+Muito Bom
+Regular
+Insuficiente Não se aplica
+Não sei
+responder
+14 - Conhecimentos básicos para 
+acompanhar as disciplinas
+29 
+ 
+ 
+ 
+ 
+REDES DE COMPUTADORES 
+ 
+ 
+ 
+ 
+ 
+0
+50
+100
+Excelente
+Muito Bom
+Regular
+Insuficiente
+Não se
+aplica
+Não sei
+responder
+16 - Organização e tempo dedicado para os 
+estudos (cronograma, estudos extra classe, 
+leitura e revisão de conteúdos aprendidos)
+30 
+ 
+LOGÍSTICA AEROPORTUÁRIA 
+ 
+ 
+ 
+ 
+ 
+19%
+52%
+25%
+4%
+0%
+0%
+13 - Desempenho nas avaliações 
+da aprendizagem
+Excelente
+Muito Bom
+Regular
+Insuficiente
+Não se aplica
+Não sei responder
+28%
+32%
+35%
+4%1%
+0%
+15 - Participação em sala de aula 
+Excelente
+Muito Bom
+Regular
+Insuficiente
+Não se aplica
+Não sei responder
+31 
+ 
+ 
+ 
+COMÉRCIO EXTERIOR 
+ 
+ 
+ 
+13%
+27%
+53%
+7%0%
+0%
+16 - Organização e tempo 
+dedicado para os estudos
+Excelente
+Muito Bom
+Regular
+Insuficiente
+Não se aplica
+Não sei responder
+13,24
+38,24
+17,65
+2,94
+2,94
+25
+0
+10
+20
+30
+40
+50
+QUESTÃO 08 - Como avalia o uso dos 
+indicadores da Avaliação Institucional 
+(WEBSAI) no Planejamento Institucional?
+Excelente
+Muito bom
+Regular
+Insuficiente
+Não se aplica
+Não sei R
+32 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+17,65
+36,76
+16,18
+1,47
+27,94
+0
+10
+20
+30
+40
+QUESTÃO 09 - Como avalia as melhorias 
+alcançadas a partir da Avaliação 
+Institucional?
+Excelente
+Muito bom
+Regular
+Insuficiente
+Não se aplica
+Não sei R
+4,41
+26,47
+39,71
+29,41
+0
+20
+40
+60
+QUESTÃO 16 - Organização e tempo 
+dedicado para os estudos (cronograma, 
+estudos extra classe, leitura e revisão de 
+conteúdos aprendidos)
+Excelente
+Muito bom
+Regular
+Insuficiente
+Não se aplica
+Não sei R
+33 
+ 
+GESTÃO DE SERVIÇOS 
+ 
+ 
+ 
+ 
+10,29
+44,12
+19,12
+26,47
+0
+10
+20
+30
+40
+50
+QUESTÃO 08 - Como avalia o uso dos 
+indicadores da Avaliação Institucional 
+(WEBSAI) no Planejamento Institucional?
+Excelente
+Muito bom
+Regular
+Insuficiente
+Não se aplica
+Não sei R
+7,35
+47,06
+19,12
+1,47
+25
+0
+10
+20
+30
+40
+50
+QUESTÃO 09 - Como avalia as melhorias 
+alcançadas a partir da Avaliação 
+Institucional?
+Excelente
+Muito bom
+Regular
+Insuficiente
+Não se aplica
+Não sei R
+39,71
+44,12
+14,71
+1,47
+0
+10
+20
+30
+40
+50
+QUESTÃO 10 - Frequência às aulas
+Excelente
+Muito bom
+Regular
+Insuficiente
+Não se aplica
+Não sei R
+34 
+ 
+ 
+ 
+16,18
+66,18
+16,18
+1,47
+0
+10
+20
+30
+40
+50
+60
+70
+QUESTÃO 12 - Qualidade das 
+atividades/exercícios/trabalhos 
+apresentados 
+Excelente
+Muito bom
+Regular
+Insuficiente
+Não se aplica
+Não sei R
+14,71
+61,76
+20,59
+2,94
+0
+10
+20
+30
+40
+50
+60
+70
+QUESTÃO 13 - Desempenho nas avaliações 
+da aprendizagem
+Excelente
+Muito bom
+Regular
+Insuficiente
+Não se aplica
+Não sei R
+10,29
+66,18
+22,06
+1,47
+0
+10
+20
+30
+40
+50
+60
+70
+QUESTÃO 14 - Conhecimentos básicos 
+para acompanhar as disciplinas
+Excelente
+Muito bom
+Regular
+Insuficiente
+Não se aplica
+Não sei R
+35 
+ 
+ 
+ 
+29,41
+52,94
+14,71
+2,94
+0
+10
+20
+30
+40
+50
+60
+QUESTÃO 15 - Participação em sala de 
+aula (contribuir com comentários, 
+exemplos, experiências, etc.)
+Excelente
+Muito bom
+Regular
+Insuficiente
+Não se aplica
+Não sei R
+13,24
+36,76
+41,18
+8,82
+0
+0
+0
+10
+20
+30
+40
+50
+QUESTÃO 16 - Organização e tempo 
+dedicado para os estudos (cronograma, 
+estudos extra classe, leitura e revisão de 
+conteúdos aprendidos)
+Excelente
+Muito bom
+Regular
+Insuficiente
+Não se aplica
+Não sei R
+30,88
+55,88
+13,24
+0
+20
+40
+60
+QUESTÃO 17 - Convívio 
+acadêmico (integração, trabalho 
+em equipe, respeito à 
+diversidade, proatividade)
+Excelente
+Muito bom
+Regular
+Insuficiente
+Não se aplica
+Não sei R
+36 
+ 
+3.2  Eixo 2: Desenvolvimento Institucional 
+   
+      Dimensão 1: Missão e Plano de Desenvolvimento Institucional 
+   
+      Dimensão 3: Responsabilidade Social da Instituição 
+ 
+EIXO 
+DIMENSÃO 
+APRESENTAÇÃO DAS PRINCIPAIS INFORMAÇÕES COLETADAS NO EIXO 2 
+EIXO 2 
+Desenvolvimento 
+Institucional 
+ 
+Dimensões 1 e 3 
+ 
+ANÁLISE E DESENVOLVIMENTO DE SISTEMAS  
+ 
+ 
+REDES DE COMPUTADORES 
+ 
+0
+10
+20
+30
+40
+50
+60
+Excelente
+Muito Bom
+Regular
+Insuficiente
+Não se
+aplica
+Não sei
+responder
+22 - Disseminação da cultura e da arte
+37 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+38 
+ 
+LOGÍSTICA AEROPORTUÁRIA 
+ 
+ 
+ 
+ 
+ 
+28%
+34%
+23%
+9%
+6%
+22 - Disseminação da cultura e 
+da arte
+Excelente
+Muito Bom
+Regular
+Insuficiente
+Não se aplica
+Não sei responder
+25%
+39%
+19%
+7%
+10%
+28 - Participação da 
+comunidade externa no 
+contexto institucional
+Excelente
+Muito Bom
+Regular
+Insuficiente
+Não se aplica
+36%
+26%
+16%
+10%
+1%11%
+30 - Implementação de políticas 
+para que não ocorram ações de 
+discriminação
+Excelente
+Muito Bom
+Regular
+Insuficiente
+Não se aplica
+39 
+ 
+COMÉRCIO EXTERIOR 
+ 
+ 
+ 
+GESTÃO DE SERVIÇOS 
+ 
+16,18
+25
+25
+11,76
+2,94
+19,12
+0
+5
+10
+15
+20
+25
+30
+41 - Incentivo à pós-graduação
+Excelente
+Muito bom
+Regular
+Insuficiente
+Não se aplica
+Não sei R
+20,59
+69,12
+4,41
+1,47
+4,41
+0
+50
+100
+19 - Com relação à missão 
+institucional de "Promover a 
+educação pública profissional e 
+tecnológica dentro de 
+referenciais de excelência, …
+Excelente
+Muito bom
+Regular
+Insuficiente
+Não se aplica
+Não sei R
+40 
+ 
+ 
+32,35
+55,88
+7,35
+4,41
+0
+10
+20
+30
+40
+50
+60
+20 - Formação de profissionais 
+qualificados
+Excelente
+Muito bom
+Regular
+Insuficiente
+Não se aplica
+Não sei R
+13,24
+73,53
+10,29
+2,94
+0
+20
+40
+60
+80
+21 - Disseminação da ciência, 
+tecnologia e inovação
+Excelente
+Muito bom
+Regular
+Insuficiente
+Não se aplica
+Não sei R
+41 
+ 
+ 
+8,82
+50
+33,82
+4,41
+2,94
+0
+10
+20
+30
+40
+50
+60
+22 - Disseminação da cultura e 
+da arte
+Excelente
+Muito bom
+Regular
+Insuficiente
+Não se aplica
+Não sei R
+23,53
+58,82
+14,71
+2,94
+0
+10
+20
+30
+40
+50
+60
+70
+23 - Disseminação de valores 
+éticos e democráticos
+Excelente
+Muito bom
+Regular
+Insuficiente
+Não se aplica
+Não sei R
+42 
+ 
+ 
+25
+55,88
+11,76
+2,94
+4,41
+0
+10
+20
+30
+40
+50
+60
+24 - Inclusão social
+Excelente
+Muito bom
+Regular
+Insuficiente
+Não se aplica
+Não sei R
+11,76
+55,88
+23,53
+2,94
+5,88
+0
+10
+20
+30
+40
+50
+60
+25 - Desenvolvimento 
+sustentável
+Excelente
+Muito bom
+Regular
+Insuficiente
+Não se aplica
+Não sei R
+43 
+ 
+ 
+16,18
+47,06
+13,24
+2,94
+1,47
+19,12
+0
+10
+20
+30
+40
+50
+26 - Atendimento de pessoas 
+com deficiência
+Excelente
+Muito bom
+Regular
+Insuficiente
+Não se aplica
+Não sei R
+13,24
+42,65
+29,41
+8,82
+1,47
+4,41
+0
+10
+20
+30
+40
+50
+27 - Transferência de 
+conhecimento da Fatec para a 
+comunidade externa
+Excelente
+Muito bom
+Regular
+Insuficiente
+Não se aplica
+Não sei R
+44 
+ 
+ 
+ 
+ 
+5,88
+35,29
+32,35
+16,18
+10,29
+0
+20
+40
+28 - Participação da 
+comunidade externa no 
+contexto institucional
+Excelente
+Muito bom
+Regular
+Insuficiente
+Não se aplica
+Não sei R
+1,47
+54,41
+27,94
+7,35
+8,82
+0
+10
+20
+30
+40
+50
+60
+29 - Ações institucionais para 
+a sustentabilidade
+Excelente
+Muito bom
+Regular
+Insuficiente
+Não se aplica
+Não sei R
+14,71
+50
+17,65
+7,35
+1,47
+8,82
+0
+20
+40
+60
+30 - Implementação de 
+políticas para que não ocorram 
+ações de discriminação
+Excelente
+Muito bom
+Regular
+Insuficiente
+Não se aplica
+Não sei R
+45 
+ 
+O Plano de Desenvolvimento institucional os anos de 2019 - 2022 foi um dos principais 
+documentos que nortearam as ações da Fatec Indaiatuba tratou-se de um documento 
+que se caracterizou como uma identidade da Instituição, definindo, dentre outros, sua 
+filosofia de trabalho, missão, estratégias, objetivos, estrutura e diretrizes pedagógicas, 
+algo a ser continuado no PDI para os anos de 2023 - 2026.  
+ 
+Missão: Promover a educação profissional pública dentro de referenciais de 
+excelência, visando ao atendimento das demandas sociais e do mundo do trabalho.  
+Visão: 
+Consolidar-se 
+como 
+centro 
+de 
+excelência 
+e 
+estímulo 
+ao 
+desenvolvimento humano e tecnológico, adaptado às necessidades da sociedade.  
+Objetivos estratégicos: 
+• Atender e antecipar-se às demandas sociais e do mercado de trabalho.  
+• Obter a satisfação dos públicos que se relacionam com o Centro Paula Souza.  
+• Aperfeiçoar continuamente os processos de planejamento e gestão, e as 
+atividades operacionais e administrativas.  
+• Alcançar e manter o grau de excelência diante do mercado em seus processos 
+de ensino e aprendizagem.  
+• Estimular e consolidar parcerias (internas e externas) e sinergias, e a inovação 
+tecnológica.  
+• Reconfigurar a infraestrutura e intensificar a utilização de recursos 
+tecnológicos.  
+• Promover a adequação, o reconhecimento e o desenvolvimento permanente 
+do capital humano.  
+• Incentivar a transparência e o compartilhamento de informações e 
+conhecimentos.  
+• Assegurar a sustentabilidade financeira da instituição.  
+ 
+1.1 
+A Importância da criação da unidade para a região e as 
+modalidades de ensino: 
+ 
+46 
+ 
+A Fatec Indaiatuba “Dr. Archimedes Lammoglia”, com o objetivo de atender 
+uma demanda cada vez maior por vagas no ensino superior, ofertar cursos de forma 
+gratuita e também, em atendimento à sua vocação, atender ao arranjo produtivo local, 
+foi criada na cidade de Indaiatuba, pelo Governo do Estado de São Paulo, por força 
+da publicação do Decreto nºnº39.326 em 04 de outubro de 1994, com publicação no 
+D.O.E. de 05 de outubro de 1994, Seção I, página 2. 
+ 
+        De modo geral, os alunos que procuram a Instituição são oriundos de classes 
+sociais menos favorecidas, em sua maioria, estudantes que vêm da escola pública em 
+busca de uma qualificação profissional para se inserirem ou se manterem com mais 
+eficiência no mercado de trabalho local e regional de Indaiatuba/SP. 
+3.3 Eixo 3: Políticas Acadêmicas  
+ 
+ 
+ 
+ 
+               Dimensão 2: Políticas para o Ensino, a Pesquisa e a Extensão 
+               Dimensão 4: Comunicação com a Sociedade 
+               Dimensão 9: Política de Atendimento aos Discentes 
+ 
+ 
+ 
+ 
+EIXO 
+DIMENSÃO 
+APRESENTAÇÃO DAS PRINCIPAIS INFORMAÇÕES COLETADAS NO EIXO 3 
+47 
+ 
+: Políticas 
+Acadêmicas 
+ 
+SECRETARIA ACADÊMICA 
+ 
+ 
+ 
+ 
+ 
+52,38
+38,1
+9,52
+0
+0
+0
+0
+20
+40
+60
+Excelente
+Muito Bom
+Regular
+Insuficiente
+Não se
+Aplica
+Não sei
+responder
+42 - Eventos que vão ocorrer na Fatec e 
+envolvimento dos técnicos administrativos
+Eixo 3 Dimensão 4
+57,14
+38,1
+0
+4,76
+0
+0
+0
+20
+40
+60
+Excelente
+Muito Bom
+Regular
+Insuficiente
+Não se
+Aplica
+Não sei
+responder
+43 - Envolvimento do pessoal técnico 
+administrativo no Concurso Vestibular Eixo 
+3 Dimensão 4
+42,86
+42,86
+14,29
+0
+0
+0
+0
+10
+20
+30
+40
+50
+Excelente
+Muito Bom
+Regular
+Insuficiente Não se Aplica
+Não sei
+responder
+48 - Oportunidades de capacitação 
+profissional Eixo 3 Dimensão 4
+48 
+ 
+ 
+ 
+57,14
+23,81
+4,76
+4,76
+9,52
+0
+0
+10
+20
+30
+40
+50
+60
+Excelente
+Muito Bom
+Regular
+Insuficiente Não se Aplica
+Não sei
+responder
+53 - Caixa e/ou espaço para sugestões Eixo 3 
+Dimensão 4
+21,71
+50
+21,71
+1,32
+0
+5,26
+0
+10
+20
+30
+40
+50
+60
+Excelente
+Muito Bom
+Regular
+Insuficiente Não se Aplica
+Não sei
+responder
+62 - Sistema de informação interna (site, 
+murais, jornais etc.) Eixo 3 Dimensão 4
+9,21
+44,74
+34,87
+9,87
+0
+1,32
+0
+10
+20
+30
+40
+50
+Excelente
+Muito Bom
+Regular
+Insuficiente Não se Aplica
+Não sei
+responder
+63 - Site oficial da Fatec Eixo 3 Dimensão 4
+49 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+7,24
+41,45
+38,82
+7,89
+0,66
+3,95
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+Excelente
+Muito Bom
+Regular
+Insuficiente Não se Aplica
+Não sei
+responder
+64 - Publicações nos murais 64 - Publicações 
+nos murais Eixo 3 Dimensão 4
+10,53
+28,29
+38,82
+20,39
+0,66
+1,32
+0
+10
+20
+30
+40
+50
+Excelente
+Muito Bom
+Regular
+Insuficiente Não se Aplica
+Não sei
+responder
+65 - SIGA 
+Eixo 3 Dimensão 4
+50 
+ 
+GESTÃO EMPRESARIAL 
+ 
+ 
+25,68
+36,07
+16,39
+0,55
+1,64
+19,67
+0
+50
+39 - Estágio supervisionado como espaço de 
+formação profissional  
+Excelente
+Muito bom
+Regular
+Insuficiente
+Não se aplica
+Não sei R
+23,5
+38,8
+20,77
+2,19
+14,75
+0
+20
+40
+60
+40 - Eventos científicos e de extensão
+Excelente
+Muito bom
+Regular
+Insuficiente
+Não se aplica
+Não sei R
+20,22
+31,15
+16,39
+2,19
+30,05
+0
+50
+58 - Resoluções dos colegiados (Congregação ou 
+Comissão de Implantação); Câmara de Ensino, 
+Pesquisa e Extensão (CEPE), Conselho 
+Departamental ou NDE/Coordenadoria; Colegiado 
+de curso.
+Excelente
+Muito bom
+Regular
+Insuficiente
+Não se aplica
+Não sei R
+51 
+ 
+ 
+ 
+ANÁLISE E DESENVOLVIMENTO DE SISTEMAS 
+22,95
+28,96
+22,95
+7,65
+0,55
+16,94
+0
+5
+10
+15
+20
+25
+30
+35
+61 - Acesso da comunidade externa às atividades 
+desenvolvidas pela Fatec.
+Excelente
+Muito bom
+Regular
+Insuficiente
+Não se aplica
+Não sei R
+28,42
+42,62
+10,38
+2,19
+1,64
+14,75
+0
+10
+20
+30
+40
+50
+68 - Programas de apoio pedagógico (monitoria, 
+nivelamento, reforço do aprendizado)
+Excelente
+Muito bom
+Regular
+Insuficiente
+Não se aplica
+Não sei R
+0
+10
+20
+30
+40
+50
+60
+70
+Excelente
+Muito Bom
+Regular
+Insuficiente Não se aplica
+Não sei
+responder
+28 - Participação da comunidade externa no contexto 
+institucional
+52 
+ 
+ 
+ 
+ 
+ 
+0
+10
+20
+30
+40
+50
+60
+70
+Excelente
+Muito Bom
+Regular
+Insuficiente Não se aplica
+Não sei
+responder
+60 - Editais de bolsas, intercâmbios e/ou 
+oportunidades de pesquisa e extensão
+0
+10
+20
+30
+40
+50
+60
+70
+Excelente
+Muito Bom
+Regular
+Insuficiente Não se aplica
+Não sei
+responder
+62 - Sistema de informação interna (site, murais, 
+jornais etc.)
+0
+20
+40
+60
+80
+Excelente
+Muito Bom
+Regular
+Insuficiente Não se aplica
+Não sei
+responder
+63 - Site oficial da Fatec
+53 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0
+10
+20
+30
+40
+50
+60
+70
+80
+Excelente
+Muito Bom
+Regular
+Insuficiente Não se aplica
+Não sei
+responder
+68 - Programas de apoio pedagógico (monitoria, 
+nivelamento, reforço do aprendizado)
+0
+10
+20
+30
+40
+50
+60
+70
+80
+Excelente
+Muito Bom
+Regular
+Insuficiente Não se aplica
+Não sei
+responder
+69 - Programa de apoio financeiro (bolsas)
+54 
+ 
+ 
+REDES DE COMPUTADORES 
+ 
+ 
+ 
+ 
+ 
+ 
+55 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+56 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+57 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+58 
+ 
+LOGÍSTICA AEROPORTUÁRIA 
+ 
+ 
+ 
+ 
+ 
+35%
+26%
+18%
+7%
+4%
+10%
+41 - Incentivo à pós-graduação
+Excelente
+Muito Bom
+Regular
+Insuficiente
+Não se aplica
+Não sei responder
+34%
+29%
+21%
+8%
+2%
+6%
+44 - Atenção dada aos alunos com dificuldade de 
+acompanhar os conteúdos
+Excelente
+Muito Bom
+Regular
+Insuficiente
+Não se aplica
+Não sei responder
+31%
+39%
+24%
+4%
+1%
+1%
+45 - Correção feita pelos professores quanto às 
+avaliações
+Excelente
+Muito Bom
+Regular
+Insuficiente
+Não se aplica
+Não sei responder
+59 
+ 
+ 
+ 
+ 
+35%
+36%
+22%
+4%
+1%
+2%
+51 - A utilização diversificada dos instrumentos de 
+avaliação da aprendizagem
+Excelente
+Muito Bom
+Regular
+Insuficiente
+Não se aplica
+Não sei responder
+40%
+31%
+23%
+5%
+0%
+1%
+52 - O estímulo e o apoio ao desenvolvimento de sua 
+autonomia sobre os temas e conteúdo da área.
+Excelente
+Muito Bom
+Regular
+Insuficiente
+Não se aplica
+Não sei responder
+31%
+35%
+25%
+4%
+3%
+2% 53 - A correção conjunta das avaliações
+Excelente
+Muito Bom
+Regular
+Insuficiente
+Não se aplica
+Não sei responder
+60 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+41%
+26%
+17%
+11%
+5%
+60 - Editais de bolsas, intercâmbios e/ou 
+oportunidades de pesquisa e extensão
+Excelente
+Muito Bom
+Regular
+Insuficiente
+Não se aplica
+Não sei responder
+32%
+39%
+22%
+5%
+2%
+64 - Publicações nos murais
+Excelente
+Muito Bom
+Regular
+Insuficiente
+Não se aplica
+Não sei responder
+39%
+32%
+17%
+8%
+4%
+72 - Espaço para participação e convivência 
+estudantil
+Excelente
+Muito Bom
+Regular
+Insuficiente
+Não se aplica
+Não sei responder
+61 
+ 
+COMÉRCIO EXTERIOR 
+ 
+ 
+10,29
+33,82
+20,59
+4,41
+1,47
+29,41
+0
+10
+20
+30
+40
+39 - Estágio supervisionado como espaço 
+de formação profissional
+Excelente
+Muito bom
+Regular
+Insuficiente
+Não se aplica
+Não sei R
+8,82
+35,29
+20,59
+7,35
+1,47
+26,47
+0
+5
+10
+15
+20
+25
+30
+35
+40
+40 - Eventos científicos e de extensão
+Excelente
+Muito bom
+Regular
+Insuficiente
+Não se aplica
+Não sei R
+22,06
+27,94
+17,65
+7,35
+10,29
+0
+10
+20
+30
+56 - Como avalia a possibilidade do uso do 
+ensino híbrido, considerando um percentual 
+da carga horária ofertada de forma remota?
+Excelente
+Muito bom
+Regular
+Insuficiente
+Não se aplica
+Não sei R
+62 
+ 
+ 
+ 
+ 
+7,35
+39,71
+19,12
+33,82
+0
+10
+20
+30
+40
+50
+58 - Resoluções dos colegiados 
+(Congregação ou Comissão de Implantação); 
+Câmara de Ensino, Pesquisa e Extensão 
+(CEPE), Conselho Departamental ou 
+NDE/Coordenadoria; Colegiado de curso.
+Excelente
+Muito bom
+Regular
+Insuficiente
+Não se aplica
+Não sei R
+11,76
+35,29
+20,59
+1,47
+2,94
+27,94
+0
+5
+10
+15
+20
+25
+30
+35
+40
+66 - Ouvidoria
+Excelente
+Muito bom
+Regular
+Insuficiente
+Não se aplica
+Não sei R
+11,76
+39,71
+20,59
+2,94
+19,12
+0
+20
+40
+60
+68 - Programas de apoio pedagógico 
+(monitoria, nivelamento, reforço do 
+aprendizado)
+Excelente
+Muito bom
+Regular
+Insuficiente
+Não se aplica
+Não sei R
+63 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+8,82
+20,59
+25
+2,94
+7,35
+35,29
+0
+5
+10
+15
+20
+25
+30
+35
+40
+69 - Programa de apoio financeiro (bolsas)
+Excelente
+Muito bom
+Regular
+Insuficiente
+Não se aplica
+Não sei R
+7,35
+25
+30,88
+10,29
+2,94
+23,53
+0
+5
+10
+15
+20
+25
+30
+35
+70 - Programas de Intercâmbio e bolsas de 
+mobilidade
+Excelente
+Muito bom
+Regular
+Insuficiente
+Não se aplica
+Não sei R
+64 
+ 
+GESTÃO DE SERVIÇOS 
+ 
+ 
+13,24
+58,82
+22,06
+5,88
+0
+10
+20
+30
+40
+50
+60
+70
+31 - Projeto Pedagógico do Curso – PPC
+Excelente
+Muito bom
+Regular
+Insuficiente
+Não se aplica
+Não sei R
+17,65
+63,24
+16,18
+1,47
+1,47
+0
+10
+20
+30
+40
+50
+60
+70
+32 - Matriz curricular do curso
+Excelente
+Muito bom
+Regular
+Insuficiente
+Não se aplica
+Não sei R
+65 
+ 
+ 
+ 
+ 
+13,24
+69,12
+16,18
+1,47
+0
+10
+20
+30
+40
+50
+60
+70
+80
+33 - Atividades de ensino
+Excelente
+Muito bom
+Regular
+Insuficiente
+Não se aplica
+Não sei R
+14,71
+67,65
+17,65
+0
+10
+20
+30
+40
+50
+60
+70
+80
+34 - Atividades de pesquisa
+Excelente
+Muito bom
+Regular
+Insuficiente
+Não se aplica
+Não sei R
+66 
+ 
+ 
+ 
+ 
+41,18
+50
+7,35
+1,47
+0
+10
+20
+30
+40
+50
+60
+36 - Corpo docente (conjunto de 
+professores)
+Excelente
+Muito bom
+Regular
+Insuficiente
+Não se aplica
+Não sei R
+26,47
+51,47
+22,06
+0
+10
+20
+30
+40
+50
+60
+37 - Práticas didático-pedagógicas dos 
+professores
+Excelente
+Muito bom
+Regular
+Insuficiente
+Não se aplica
+Não sei R
+67 
+ 
+ 
+ 
+ 
+19,12
+60,29
+10,29
+10,29
+0
+10
+20
+30
+40
+50
+60
+70
+38 - Correspondência entre o curso e a 
+formação para o exercício profissional
+Excelente
+Muito bom
+Regular
+Insuficiente
+Não se aplica
+Não sei R
+10,29
+44,12
+14,71
+4,41
+26,47
+0
+10
+20
+30
+40
+50
+39 - Estágio supervisionado como espaço de 
+formação profissional
+Excelente
+Muito bom
+Regular
+Insuficiente
+Não se aplica
+Não sei R
+68 
+ 
+ 
+ 
+ 
+13,24
+38,24
+14,71
+13,24
+2,94
+17,65
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+41 - Incentivo à pós-graduação
+Excelente
+Muito bom
+Regular
+Insuficiente
+Não se aplica
+Não sei R
+33,82
+58,82
+4,41
+1,47
+1,47
+0
+10
+20
+30
+40
+50
+60
+70
+42 - Domínio dos conteúdos pelos docentes
+Excelente
+Muito bom
+Regular
+Insuficiente
+Não se aplica
+Não sei R
+69 
+ 
+ 
+ 
+ 
+33,82
+50
+14,71
+1,47
+0
+10
+20
+30
+40
+50
+60
+43 - Satisfação com o curso escolhido
+Excelente
+Muito bom
+Regular
+Insuficiente
+Não se aplica
+Não sei R
+19,12
+48,53
+23,53
+7,35
+1,47
+0
+10
+20
+30
+40
+50
+60
+44 - Atenção dada aos alunos com 
+dificuldade de acompanhar os conteúdos
+Excelente
+Muito bom
+Regular
+Insuficiente
+Não se aplica
+Não sei R
+70 
+ 
+ 
+ 
+ 
+10,29
+54,41
+25
+5,88
+4,41
+0
+10
+20
+30
+40
+50
+60
+46 - Realização de projetos 
+interdisciplinares
+Excelente
+Muito bom
+Regular
+Insuficiente
+Não se aplica
+Não sei R
+10,29
+57,35
+27,94
+4,41
+0
+10
+20
+30
+40
+50
+60
+70
+47 - Articulação entre as disciplinas 
+(interdisciplinaridade)
+Excelente
+Muito bom
+Regular
+Insuficiente
+Não se aplica
+Não sei R
+71 
+ 
+ 
+ 
+ 
+11,76
+61,76
+17,65
+4,41
+4,41
+0
+10
+20
+30
+40
+50
+60
+70
+53 - A correção conjunta das avaliações
+Excelente
+Muito bom
+Regular
+Insuficiente
+Não se aplica
+Não sei R
+8,82
+44,12
+26,47
+19,12
+1,47
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+50
+57 - Concurso Vestibular
+Excelente
+Muito bom
+Regular
+Insuficiente
+Não se aplica
+Não sei R
+72 
+ 
+ 
+ 
+ 
+7,35
+36,76
+19,12
+2,94
+1,47
+32,35
+0
+10
+20
+30
+40
+58 - Resoluções dos colegiados 
+(Congregação ou Comissão de Implantação); 
+Câmara de Ensino, Pesquisa e Extensão 
+(CEPE), Conselho Departamental ou 
+NDE/Coordenadoria; Colegiado de curso.
+Excelente
+Muito bom
+Regular
+Insuficiente
+Não se aplica
+Não sei R
+10,29
+36,76
+26,47
+10,29
+1,47
+14,71
+0
+5
+10
+15
+20
+25
+30
+35
+40
+60 - Editais de bolsas, intercâmbios e/ou 
+oportunidades de pesquisa e extensão
+Excelente
+Muito bom
+Regular
+Insuficiente
+Não se aplica
+Não sei R
+73 
+ 
+ 
+ 
+ 
+14,71
+58,82
+17,65
+1,47
+7,35
+0
+10
+20
+30
+40
+50
+60
+70
+68 - Programas de apoio pedagógico 
+(monitoria, nivelamento, reforço do 
+aprendizado)
+Excelente
+Muito bom
+Regular
+Insuficiente
+Não se aplica
+Não sei R
+7,35
+39,71
+27,94
+19,12
+1,47
+4,41
+0
+10
+20
+30
+40
+50
+72 - Espaço para participação e convivência 
+estudantil
+Excelente
+Muito bom
+Regular
+Insuficiente
+Não se aplica
+Não sei R
+74 
+ 
+ 
+ 
+ 
+3.4 Eixo 4: Políticas de Gestão 
+   
+              Dimensão 5: Políticas de Pessoal 
+                        Dimensão 6: Organização e Gestão da Instituição 
+                       Dimensão 10: Sustentabilidade Financeira 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DIMENSÃO 
+APRESENTAÇÃO DAS PRINCIPAIS INFORMAÇÕES COLETADAS NO EIXO 4 
+10,29
+51,47
+30,88
+4,41
+1,47
+1,47
+0
+10
+20
+30
+40
+50
+60
+73 - Estímulo à frequência no ambiente 
+escolar
+Excelente
+Muito bom
+Regular
+Insuficiente
+Não se aplica
+Não sei R
+75 
+ 
+Eixo 4 
+Políticas 
+de Gestão 
+Dimensões 
+5, 6 e 10 
+ 
+GESTÃO EMPRESARIAL  
+ 
+ 
+ 
+ 
+17,49
+37,16
+14,21
+1,09
+0,55
+29,51
+0
+5
+10
+15
+20
+25
+30
+35
+40
+77 - Atuação do colegiado de curso (Ex: Conselho de 
+curso, NDE - Núcleo Docente Estruturante/ 
+Coordenadoria; Colegiado de curso)
+Excelente
+Muito bom
+Regular
+Insuficiente
+Não se aplica
+Não sei R
+20,22
+41,53
+16,94
+1,09
+0,55
+19,67
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+78 - Atuação da representação discente nos colegiados 
+da unidade e do curso
+Excelente
+Muito bom
+Regular
+Insuficiente
+Não se aplica
+Não sei R
+76 
+ 
+ 
+ 
+ANÁLISE E DESENVOLVIMENTO DE SISTEMAS 
+ 
+ 
+ 
+ 
+ 
+21,86
+28,42
+9,29
+1,09
+39,34
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+83 - Programa INOVA Paula Souza
+Excelente
+Muito bom
+Regular
+Insuficiente
+Não se aplica
+Não sei R
+0
+10
+20
+30
+40
+50
+60
+Excelente
+Muito Bom
+Regular
+Insuficiente Não se aplica
+Não sei
+responder
+81 - Programas de Estágios
+77 
+ 
+REDES DE COMPUTADORES 
+ 
+ 
+ 
+ 
+ 
+78 
+ 
+ 
+ 
+ 
+ 
+COMÉRCIO EXTERIOR 
+ 
+ 
+ 
+10,29
+27,94
+11,76
+1,47
+2,94
+45,59
+0
+20
+40
+60
+76 - Atuação dos colegiados da unidade 
+(Congregação ou Comissão de Implantação); 
+Câmara de Ensino, Pesquisa e Extensão 
+(CEPE); (se houver), CPA (Comissão Própria 
+de Avaliação)
+Excelente
+Muito bom
+Regular
+Insuficiente
+Não se aplica
+Não sei R
+79 
+ 
+ 
+ 
+ 
+11,76
+36,76
+13,24
+2,94
+2,94
+32,35
+0
+10
+20
+30
+40
+77 - Atuação do colegiado de curso (Ex: 
+Conselho de curso, NDE - Núcleo Docente 
+Estruturante/ Coordenadoria; Colegiado de 
+curso)
+Excelente
+Muito bom
+Regular
+Insuficiente
+Não se aplica
+Não sei R
+8,82
+38,24
+16,18
+1,47
+4,41
+30,88
+0
+10
+20
+30
+40
+50
+78 - Atuação da representação discente nos 
+colegiados da unidade e do curso
+Excelente
+Muito bom
+Regular
+Insuficiente
+Não se aplica
+Não sei R
+80 
+ 
+ 
+ 
+ 
+5,88
+25
+8,82
+4,41
+55,88
+0
+10
+20
+30
+40
+50
+60
+80 - FETEPS
+Excelente
+Muito bom
+Regular
+Insuficiente
+Não se aplica
+Não sei R
+13,24
+32,35
+27,94
+5,88
+20,59
+0
+5
+10
+15
+20
+25
+30
+35
+81 - Programas de Estágios
+Excelente
+Muito bom
+Regular
+Insuficiente
+Não se aplica
+Não sei R
+81 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+13,24
+42,65
+16,18
+2,94
+25
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+82 - Programas de Iniciação Científica
+Excelente
+Muito bom
+Regular
+Insuficiente
+Não se aplica
+Não sei R
+7,35
+30,88
+14,71
+1,47
+45,59
+0
+10
+20
+30
+40
+50
+83 - Programa INOVA Paula Souza
+Excelente
+Muito bom
+Regular
+Insuficiente
+Não se aplica
+Não sei R
+82 
+ 
+GESTÃO DE SERVIÇOS 
+ 
+ 
+ 
+ 
+8,82
+50
+25
+4,41
+11,76
+0
+10
+20
+30
+40
+50
+60
+74 - Resolução dos conflitos baseado no 
+diálogo e negociação
+Excelente
+Muito bom
+Regular
+Insuficiente
+Não se aplica
+Não sei R
+7,35
+45,59
+20,59
+5,88
+2,94
+17,65
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+50
+75 - Estímulo e apoio no desenvolvimento 
+das resoluções de situações problemas
+Excelente
+Muito bom
+Regular
+Insuficiente
+Não se aplica
+Não sei R
+83 
+ 
+ 
+ 
+ 
+2,94
+36,76
+13,24
+2,94
+1,47
+42,65
+0
+50
+76 - Atuação dos colegiados da unidade 
+(Congregação ou Comissão de Implantação); 
+Câmara de Ensino, Pesquisa e Extensão 
+(CEPE); (se houver), CPA (Comissão Própria 
+de Avaliação)
+Excelente
+Muito bom
+Regular
+Insuficiente
+Não se aplica
+Não sei R
+8,82
+33,82
+22,06
+35,29
+0
+10
+20
+30
+40
+77 - Atuação do colegiado de curso (Ex: 
+Conselho de curso, NDE - Núcleo Docente 
+Estruturante/ Coordenadoria; Colegiado de 
+curso)
+Excelente
+Muito bom
+Regular
+Insuficiente
+Não se aplica
+Não sei R
+84 
+ 
+ 
+ 
+ 
+5,88
+42,65
+20,59
+4,41
+2,94
+23,53
+0
+10
+20
+30
+40
+50
+78 - Atuação da representação discente nos 
+colegiados da unidade e do curso
+Excelente
+Muito bom
+Regular
+Insuficiente
+Não se aplica
+Não sei R
+5,88
+50
+20,59
+13,24
+2,94
+7,35
+0
+10
+20
+30
+40
+50
+60
+79 - O reconhecimento da equipe de direção 
+como uma liderança capaz de coordenar e 
+levar adiante as ações prioritárias desta 
+Unidade
+Excelente
+Muito bom
+Regular
+Insuficiente
+Não se aplica
+Não sei R
+85 
+ 
+ 
+ 
+8,82
+25
+8,82
+1,47
+2,94
+52,94
+0
+10
+20
+30
+40
+50
+60
+80 - FETEPS
+Excelente
+Muito bom
+Regular
+Insuficiente
+Não se aplica
+Não sei R
+5,88
+33,82
+19,12
+17,65
+1,47
+22,06
+0
+5
+10
+15
+20
+25
+30
+35
+40
+81 - Programas de Estágios
+Excelente
+Muito bom
+Regular
+Insuficiente
+Não se aplica
+Não sei R
+86 
+ 
+ 
+ 
+ 
+ 
+ 
+3.5 Eixo 5: Infraestrutura Física 
+  
+ 
+                                       Dimensão 7: Infraestrutura Física 
+ 
+ 
+7,35
+42,65
+10,29
+11,76
+4,41
+23,53
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+82 - Programas de Iniciação Científica
+Excelente
+Muito bom
+Regular
+Insuficiente
+Não se aplica
+Não sei R
+2,94
+38,24
+2,94
+8,82
+2,94
+44,12
+0
+10
+20
+30
+40
+50
+83 - Programa INOVA Paula Souza
+Excelente
+Muito bom
+Regular
+Insuficiente
+Não se aplica
+Não sei R
+87 
+ 
+EIXO 
+DIMENSÃO 
+APRESENTAÇÃO DAS PRINCIPAIS INFORMAÇÕES COLETADAS NO EIXO 5 
+Eixo 5 
+Infraestrutura 
+Física 
+Dimensão 7 
+ 
+SECRETARIA ACADÊMICA 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0
+10
+20
+30
+40
+50
+60
+Excelente
+Muito Bom
+Regular
+Insuficiente
+Não se
+Aplica
+Não sei
+responder
+85 - Mobiliário e Equipamentos Eixo 5 
+Dimensão 7
+88 
+ 
+GESTÃO EMPRESARIAL 
+ 
+ 
+ANÁLISE E DESENVOLVIMENTO DE SISTEMAS 
+ 
+ 
+ 
+6,01
+3,83
+4,37
+16,94
+60,11
+8,74
+0
+10
+20
+30
+40
+50
+60
+70
+Cantina
+QUESTÃO 90 - Cantina
+Excelente
+Muito bom
+Regular
+Insuficiente
+Não se aplica
+Não sei R
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+Excelente
+Muito Bom
+Regular
+Insuficiente
+Não se
+aplica
+Não sei
+responder
+86 - Secretaria acadêmica
+89 
+ 
+ 
+ 
+ 
+LOGÍSTICA AEROPORTUÁRIA 
+ 
+ 
+ 
+0
+10
+20
+30
+40
+50
+60
+70
+80
+Excelente
+Muito Bom
+Regular
+Insuficiente Não se aplica
+Não sei
+responder
+106 - Atendimento ao usuário
+0
+10
+20
+30
+40
+50
+60
+Excelente
+Muito Bom
+Regular
+Insuficiente Não se aplica
+Não sei
+responder
+107 - Automação do sistema
+39%
+26%
+23%
+12%
+99 - Mobiliário e Equipamentos
+Excelente
+Muito Bom
+Regular
+Insuficiente
+Não se aplica
+Não sei responder
+90 
+ 
+COMÉRCIO EXTERIOR    
+ 
+ 
+GESTÃO DE SERVIÇOS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1,47
+11,76
+4,41
+14,71
+58,82
+8,82
+0
+10
+20
+30
+40
+50
+60
+70
+QUESTÃO 90 - Cantina
+Excelente
+Muito bom
+Regular
+Insuficiente
+Não se aplica
+Não sei R
+16,18
+58,82
+20,59
+1,47
+2,94
+0
+10
+20
+30
+40
+50
+60
+70
+QUESTÃO 86 - Secretaria acadêmica
+Excelente
+Muito bom
+Regular
+Insuficiente
+Não se aplica
+Não sei R
+4 ANÁLISE DOS DADOS E AÇÕES PROPÓSTAS  
+ 
+ 
+ANEXO 1 - DISTRIBUIÇÃO DOS DADOS DA PESQUISA  
+ 
+ 
+ 
+ 
+ 
+SETORES 
+DADOS DOS DOCENTES 
+DADOS DOS DISCENTES 
+DADOS DO PESSOAL TECNICO-
+ADMINISTRATIVO 
+DIREÇÃO GERAL 
+Dimensão 8 – Planejamento e Avaliação 
+Dimensão 1 - Missão e Plano de 
+Desenvolvimento Institucional  
+Dimensão 3 - Responsabilidade Social da 
+Instituição 
+Dimensão 4 – Comunicação com a Sociedade  
+Dimensão 9 – Política de Atendimento aos 
+Discentes 
+Dimensão 5 – Políticas de Pessoal  
+Dimensão 6 – Organização e Gestão Institucional  
+Dimensão 7 – Infraestrutura Física  
+ 
+Dimensão 8 – Planejamento e Avaliação  
+Dimensão 1 - Missão e Plano de 
+Desenvolvimento Institucional  
+Dimensão 3 - Responsabilidade Social da 
+Instituição 
+Dimensão 4 – Comunicação com a 
+Sociedade  
+Dimensão 9 – Política de Atendimento 
+aos Discentes 
+Dimensão 6 – Organização e Gestão 
+Institucional  
+Dimensão 7 – Infraestrutura Física  
+Dimensão 8 – Planejamento e Avaliação   
+Dimensão 1 - Missão e Plano de 
+Desenvolvimento Institucional  
+Dimensão 3 - Responsabilidade Social 
+da Instituição 
+Dimensão 4 – Comunicação com a 
+Sociedade  
+ 
+DIRETORIA 
+ADMINISTRATIVA 
+Dimensão 4 – Comunicação com a Sociedade  
+Dimensão 5 – Políticas de Pessoal  
+Dimensão 7 – Infraestrutura Física  
+ 
+Dimensão 4 – Comunicação com a 
+Sociedade  
+Dimensão 7 – Infraestrutura Física  
+ 
+Dimensão 8 – Planejamento e Avaliação   
+Dimensão 5 – Políticas de Pessoal  
+Dimensão 6 – Organização e Gestão 
+Institucional  
+Dimensão 7 – Infraestrutura Física  
+DIRETORIA 
+ACADÊMICA 
+Dimensão 4 – Comunicação com a Sociedade  
+Dimensão 7 – Infraestrutura Física  
+ 
+Dimensão 4 – Comunicação com a 
+Sociedade  
+ 
+Dimensão 4 – Comunicação com a 
+Sociedade  
+COORDENAÇÃO 
+DOS CURSOS 
+Dimensão 8 – Planejamento e Avaliação 
+Dimensão 1 - Missão e Plano de 
+Desenvolvimento Institucional 
+Dimensão 2 – Ensino, Pesquisa e Extensão 
+Dimensão 4 – Comunicação com a Sociedade 
+Dimensão 9 – Política de Atendimento aos 
+Discentes 
+Dimensão 6 – Organização e Gestão Institucional 
+Dimensão 8 – Planejamento e Avaliação  
+Dimensão 1 - Missão e Plano de 
+Desenvolvimento Institucional  
+Dimensão 2 – Ensino, Pesquisa e 
+Extensão 
+Dimensão 9 – Política de Atendimento 
+aos Discentes 
+Dimensão 6 – Organização e Gestão 
+Institucional  
+Dimensão 2 – Ensino, Pesquisa e 
+Extensão 
+SECRETARIA ACADÊMICA 
+ 
+ 
+EIXO 3: POLÍTICAS ACADÊMICAS  
+ 
+FRAGILIDADES 
+ 
+ 
+ 
+AÇÕES PLANEJADAS  
+AÇÕES REALIZADAS 
+ 
+PRAZOS   
+42. Eventos que vão ocorrer na 
+Fatec e envolvimento dos técnicos 
+administrativos: A secretaria é o 
+primeiro lugar onde as pessoas 
+vêm para se informar e muitas 
+vezes não temos a informação por 
+completo. 
+Seria interessante que cada evento 
+tivesse um cronograma sobre o que vai 
+ter, dia e horário, quem vai estar 
+presente, quem pode participar, se 
+precisa 
+fazer 
+inscrição, 
+etc... 
+e 
+disponibilizar para o administrativo. 
+ 
+Contínuo 
+43- Envolvimento do pessoal 
+técnico administrativo no concurso 
+Vestibular: Infelizmente algumas 
+questões estão fora do nosso 
+alcance e somente a FAT pode 
+resolver, e recebemos várias 
+reclamações de que o candidato 
+liga na FAT e não consegue 
+atendimento. 
+ 
+Ajudamos 
+da 
+melhor 
+forma 
+possível, divulgando, passando 
+informações, ajudando o candidato 
+a 
+fazer 
+a 
+inscrição, 
+avisos 
+lembrando de pagar o boleto e 
+lembrando sobre a data da prova, 
+e ajudando nos preparativos da 
+prova em si. 
+Contínuo 
+48- Oportunidade de capacitação 
+profissional: A demora em sair 
+manuais de procedimentos e ou 
+treinamentos dificultou e atrasou o 
+andamento 
+dos 
+serviços 
+da 
+secretaria, por exemplo: o manual 
+de como abrir prontuário de aluno 
+no SP sem Papel só saiu em 
+nov/2022 sendo que deveríamos 
+Solicitar à CESU para que manuais e 
+treinamentos sejam providenciados com 
+mais rapidez. 
+ 
+2022 
+ter começado a utilizar esse 
+procedimento desde abr/2021. 
+65. SIGA: o aluno utiliza o sistema 
+para 
+consulta 
+de 
+notas, 
+frequência, solicitar atestados, e 
+fazer a rematrícula 
+Fazer vídeos explicativos de como 
+realizar a rematrícula, pois muitos tem 
+dificuldades nessa parte, e enviar perto 
+da data de rematrícula 
+Os alunos recebem instruções 
+sobre o SIGA na recepção de 
+calouros, mas no momento da 
+rematrícula ele já não lembra mais. 
+Contínuo 
+ 
+POTENCIALIDADES 
+ 
+ 
+AÇÕES PLANEJADAS  
+AÇÕES REALIZADAS 
+ 
+PRAZOS   
+59- 
+Normas 
+acadêmicas, 
+legislação e calendários: Estão 
+disponíveis no site da Fatec. É 
+uma potencialidade pois sem 
+normas e datas a serem seguidas 
+as coisas sairiam do controle. 
+Divulgação das Normas e do Calendário 
+na recepção de calouros e também nos 
+grupos de whatsapp para que todos 
+fiquem cientes. 
+Recentemente o Comitê de 
+diretores se reuniu para atualizar 
+o Regulamento 
+Contínuo 
+63- Site oficial da Fatec: Veículo 
+de comunicação entre a Fatec, os 
+alunos e a Comunidade Externa. 
+ 
+A 
+secretaria 
+Acadêmica 
+disponibiliza no site conteúdo para 
+facilitar a vida Acadêmica dos 
+alunos 
+tais 
+como 
+Calendário 
+Acadêmico, Grade de Horários e 
+Salas, Regulamentos, Conteúdo 
+Programático dos cursos (não é 
+mais necessário solicitar, basta 
+fazer o download), e documentos 
+referentes a Estágio (o aluno pode 
+fazer o download de modelos de 
+documentos de Estágio e enviar 
+pelo próprio site, e recebe o 
+documento assinado via email, 
+não havendo mais a necessidade 
+de 
+vir 
+presencialmente 
+à 
+Secretaria). 
+Contínuo 
+64- Publicações nos Murais: 
+ 
+Temos 
+vários 
+murais 
+de 
+publicações 
+espalhados 
+pela 
+Fatec, e temos também grupos de 
+whatsapp 
+o 
+que 
+torna 
+a 
+comunicação 
+mais 
+rápida 
+e 
+eficiente. Por exemplo: Quando 
+Contínuo 
+uma empresa deseja anunciar 
+uma vaga de estágio para alunos 
+de TI nós divulgamos para os 
+representantes de sala dos cursos 
+de TI para que eles repassem aos 
+demais alunos do curso. 
+62- Caixa e/ou espaço para 
+sugestões: 
+ 
+Existe em nosso site o “fale 
+conosco” que é direcionado para o 
+setor específico para que seja 
+devidamente respondido. 
+Contínuo 
+62- Sistema de Comunicação 
+Interna:  
+ 
+Utilizamos 
+site, 
+mural, 
+jornal 
+(Acontece), instagram, Facebook e 
+Whatsapp 
+Contínuo 
+61- SIGA: É uma ferramenta em 
+constante aperfeiçoamento, isso é 
+uma potencialidade pois novas 
+funcionalidades vão surgindo para 
+facilitar operações ou atender 
+novas 
+necessidades. 
+Porém 
+torna-se uma fraqueza quando 
+não funciona ou quando as 
+mudanças não são intuitivas e 
+confundem o usuário. 
+ 
+Sempre que ocorre um problema 
+relatamos para o Suporte do SIGA 
+para que eles possam resolver, e 
+assim o SIGA vai melhorando cada 
+vez mais. 
+Contínuo 
+ 
+ 
+ 
+ 
+EIXO 5: INFRAESTRUTURA  
+ 
+FRAGILIDADES 
+ 
+ 
+ 
+AÇÕES PLANEJADAS  
+AÇÕES REALIZADAS 
+ 
+PRAZOS   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+POTENCIALIDADES 
+ 
+ 
+ 
+AÇÕES PLANEJADAS  
+AÇÕES REALIZADAS 
+ 
+PRAZOS   
+85- Mobiliário e Equipamentos da 
+secretaria Acadêmica são adequados 
+A internet (via cabo e wi-fi) poderia 
+melhorar 
+A impressora que era muito antiga 
+e vivia quebrando, era um 
+problema, mas recentemente 
+recebemos uma impressora nova 
+2022 
+ 
+ 
+COORDENAÇÃO DE CURSOS – COMEX 
+ 
+ 
+ 
+QUADRO 1: DISTRIBUIÇÃO DOS DADOS DA PESQUISA 
+Quadro 2 – Levantamento das fragilidades e potencialidades e projeção das ações corretivas. 
+ 
+EIXO 3:  
+FRAGILIDADES 
+AÇÕES PLANEJADAS 
+AÇÕES REALIZADAS 
+PRAZOS 
+68 - Programas de apoio 
+pedagógico (monitoria, 
+nivelamento, reforço do 
+aprendizado) 
+Identificar as reais necessidades 
+dos alunos 
+Divulgação em sala de aula 
+Dez/23 
+56 - Como avalia a possibilidade do 
+uso do ensino híbrido, 
+considerando um percentual da 
+carga horária ofertada de forma 
+remota? 
+Esperar orientações institucionais + 
+divulgar e 
+orientar alunos 
+Divulgação em sala de aula 
+Dez/23 
+66 - Ouvidoria 
+Esperar orientações institucionais + 
+divulgar e 
+orientar alunos 
+Divulgação em sala de aula 
+Dez/23 
+41 - Incentivo à pós-graduação 
+Esperar orientações institucionais + 
+divulgar e 
+orientar alunos 
+Divulgação em sala de aula 
+Dez/23 
+58 - Resoluções dos colegiados 
+(Congregação ou Comissão de 
+Implantação); Câmara de Ensino, 
+Pesquisa e Extensão (CEPE), 
+Conselho Departamental ou 
+NDE/Coordenadoria; Colegiado de 
+curso. 
+Reforçar o relacionamento com os 
+alunos 
+Divulgação em sala de aula 
+Dez/23 
+39 - Estágio supervisionado como 
+espaço de formação profissional 
+Reorganizar a área + visitas  às 
+empresas + 
+orientações aos 
+Divulgação em sala de aula 
+Dez/23 
+alunos 
+40 - Eventos científicos e de 
+extensão 
+Esperar orientações institucionais + 
+orientar alunos + 
+proposta de 
+eventos 
+científicos 
+Divulgação em sala de aula 
+Dez/23 
+70 - Programas de Intercâmbio e 
+bolsas de mobilidade 
+Reorganizando os intercâmbios 
+virtuais 
+Divulgação em sala de aula 
+Dez/23 
+69 - Programa de apoio financeiro 
+(bolsas) 
+Esperar orientações institucionais + 
+orientar alunos 
+Divulgação em sala de aula 
+Dez/23 
+ 
+ 
+ 
+ 
+POTENCIALIDADES 
+AÇÕES PLANEJADAS 
+AÇÕES REALIZADAS 
+PRAZOS 
+ 
+ 
+EIXO 4: POLÍTICAS DE GESTÃO 
+FRAGILIDADES 
+AÇÕES PLANEJADAS 
+AÇÕES REALIZADAS 
+PRAZOS 
+81 - Programas de Estágios 
+Reorganizar a área + visitas  às 
+empresas + 
+orientações aos 
+alunos 
+Divulgação do programa em sala 
+de aula 
+Dez/23 
+ 
+82 - Programas de Iniciação 
+Científica 
+Tema institucional / COMEX: 
+Esperar 
+ 
+Dez/23 
+ 
+orientações 
+institucionais + 
+orientar alunos 
+78 - Atuação da representação 
+discente nos colegiados da unidade 
+e do curso 
+Esperar orientações institucionais + 
+orientar alunos 
+Divulgação em sala de aula 
+Dez/23 
+77 - Atuação do colegiado de curso 
+(Ex: Conselho de curso, NDE - 
+Núcleo Docente Estruturante/ 
+Coordenadoria; Colegiado de 
+curso) 
+Reforçar o relacionamento com os 
+alunos 
+Divulgação em sala de aula 
+Dez/23 
+83 - Programa INOVA Paula Souza 
+) 
+ 
+Esperar orientações institucionais + 
+orientar alunos 
+Divulgação em sala de aula 
+Dez/23 
+76 - Atuação dos colegiados da 
+unidade (Congregação ou 
+Comissão de Implantação); 
+Câmara de Ensino, Pesquisa e 
+Extensão (CEPE); (se houver), 
+CPA (Comissão Própria de 
+Avaliação 
+Esperar orientações institucionais + 
+orientar alunos 
+Divulgação em sala de aula 
+Dez/23 
+80 - FETEPS 
+Esperar orientações institucionais + 
+orientar alunos 
+Divulgação em sala de aula 
+Dez/23 
+POTENCIALIDADES 
+AÇÕES PLANEJADAS 
+AÇÕES REALIZADAS 
+PRAZOS 
+ 
+ 
+EIXO 5: INFRAESTRUTURA 
+FRAGILIDADES 
+AÇÕES PLANEJADAS 
+AÇÕES REALIZADAS 
+PRAZOS 
+90 - Cantina 
+Esperar orientações institucionais + 
+orientar alunos 
+Divulgação em sala de aula 
+Dez/23 
+POTENCIALIDADES 
+AÇÕES PLANEJADAS 
+AÇÕES REALIZADAS 
+PRAZOS 
+ 
+COORDENAÇÃO DE CURSOS – GESTÃO DE SERVIÇOS. 
+ 
+ 
+ 
+ 
+QUADRO 1: DISTRIBUIÇÃO DOS DADOS DA PESQUISA 
+Quadro 2 – Levantamento das fragilidades e potencialidades e projeção das ações corretivas. 
+ 
+EIXO 1: PLANEJAMENTO E AVALIAÇÃO INSTITUCIONAL 
+FRAGILIDADES 
+ 
+AÇÕES PLANEJADAS 
+AÇÕES REALIZADAS 
+PRAZOS 
+16 - Organização e tempo dedicado 
+para os estudos (cronograma, 
+estudos extra classe, leitura e 
+revisão de conteúdos aprendidos) 
+08 - Como avalia o uso dos 
+indicadores da Avaliação 
+Institucional (WEBSAI) no 
+Planejamento Institucional? 
+09 - Como avalia as melhorias 
+alcançadas a partir da Avaliação 
+Institucional? 
+Incluir palestras sobre gestão do tempo 
+em todos os semestres + 
+Conscientização do corpo docente para 
+auxilair os alunos 
+Divulgar os resultados/ações  do 
+WEBSAI em debates  com os discentes 
+Divulgar os resultados/ações  em 
+debates  com os discentes 
+O tema vem sendo disseminado 
+para calouros 
+- 
+- 
+Contínuo 
+POTENCIALIDADES 
+AÇÕES PLANEJADAS 
+AÇÕES REALIZADAS 
+PRAZOS 
+10 - Frequência às aulas 
+12 - Qualidade das 
+atividades/exercícios/trabalhos 
+apresentados 
+13 - Desempenho nas avaliações da 
+aprendizagem 
+14 - Conhecimentos básicos para 
+acompanhar as disciplinas 
+15 - Participação em sala de aula 
+(contribuir com comentários, 
+exemplos, experiências, etc.) 
+17 - Convívio acadêmico (integração, 
+trabalho em equipe, respeito à 
+diversidade, proatividade) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Continuar com os 
+programas/projetos em curso 
+ 
+ 
+ 
+ 
+Semana Tecnologia, PICs, Feira 
+de Empreendedorismos, Visitas 
+Técnicas 
+ 
+Discussão em reunião pedagógica 
+com o corpo docente para  
+conscientização 
+ 
+ 
+contínuo 
+ 
+ 
+EIXO 2: DESENVOLVIMENTO INSTITUCIONAL 
+FRAGILIDADES 
+AÇÕES PLANEJADAS 
+AÇÕES REALIZADAS 
+PRAZOS 
+22 - Disseminação da cultura e da 
+arte 
+25 - Desenvolvimento sustentável 
+28 - Participação da comunidade 
+externa no contexto institucional 
+29 - Ações institucionais para a 
+sustentabilidade 
+27 - Transferência de 
+conhecimento da Fatec para a 
+comunidade externa 
+26 - Atendimento de pessoas com 
+deficiência 
+30 - Implementação de políticas 
+para que não ocorram ações de 
+discriminação 
+ 
+Promover visitas técnicas a museus, 
+exposições, etc. relacionados ao curso 
+Incentivar PICs relacionados ao tema 
+Palestras de conscientização 
+Envolver os orientadores de PIC 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Visitas Técnicas 
+ 
+Discussão em reunião pedagógica 
+com o corpo docente para  
+conscientização 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1Sem23 
+POTENCIALIDADES 
+AÇÕES PLANEJADAS 
+AÇÕES REALIZADAS 
+PRAZOS 
+19 - Com relação à missão 
+institucional de "Promover a 
+educação pública profissional e 
+tecnológica dentro de referenciais de 
+excelência, visando o 
+desenvolvimento tecnológico 
+econômico e social do Estado de 
+São Paulo", como avalia o 
+cumprimento dessa missão por parte 
+da Fatec? 
+20 - Formação de profissionais 
+qualificados 
+21 - Disseminação da ciência, 
+tecnologia e inovação 
+23 - Disseminação de valores éticos 
+e democráticos 
+24 - Inclusão social 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Manter programas atuais 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Incentivar maior participação dos 
+discentes no IDTI 
+ 
+ 
+ 
+EIXO 3: POLÍTICAS ACADÊMICAS 
+FRAGILIDADES 
+AÇÕES PLANEJADAS 
+AÇÕES REALIZADAS 
+PRAZOS 
+41 - Incentivo à pós-graduação 
+ 
+ 
+ 
+39 - Estágio supervisionado como 
+espaço de formação profissional 
+46 - Realização de projetos 
+interdisciplinares 
+47 - Articulação entre as disciplinas 
+(interdisciplinaridade) 
+44 - Atenção dada aos alunos com 
+dificuldade de acompanhar os 
+conteúdos 
+31 - Projeto Pedagógico do Curso – 
+PPC 
+53 - A correção conjunta das 
+avaliações 
+61 - Acesso da comunidade 
+externa às atividades 
+desenvolvidas pela Fatec. 
+58 - Resoluções dos colegiados 
+(Congregação ou Comissão de 
+Implantação); Câmara de Ensino, 
+Pesquisa e Extensão (CEPE), 
+Conselho Departamental ou 
+NDE/Coordenadoria; Colegiado de 
+curso. 
+Aguardando a liberação da pós-
+graduação 
+ 
+Rodas de conversa sobre estágio 
+ 
+ 
+Revisão dos PICs 
+ 
+ 
+Ações de conscientização dos docentes 
+para abordar o tema em cada disciplina 
+ 
+Aumentar dos alunos em atividades com a 
+comunidade (Vestibular. Fatec de portas 
+abertas) 
+ 
+ 
+Divulgação do tema pela Coordenação 
+CPS criar/melhorar verbas para este fim 
+Roda de conversa para  
+entender com o corpo discente os 
+resultados destas questões 
+Aguardando a liberação da pós-
+graduação pelo CPS 
+Discussão em reunião 
+pedagógica com o corpo docente 
+para conscientização 
+Discussão em reunião 
+pedagógica com o corpo docente 
+para  conscientização 
+Em aberto 
+Contínuo 
+60 - Editais de bolsas, intercâmbios 
+e/ou oportunidades de pesquisa e 
+extensão 
+67 - Mídias Sociais 
+57 - Concurso Vestibular 
+72 - Espaço para participação e 
+convivência estudantil 
+73 - Estímulo à frequência no 
+ambiente escolar 
+68 - Programas de apoio 
+pedagógico (monitoria, 
+nivelamento, reforço do 
+aprendizado) 
+ 
+ 
+Coordenação de Cursos Análise e Desenvolvimento de Sistemas 
+ 
+Quadro 1 – Avaliação e Planejamento Educacional 
+ 
+ 
+ 
+POTENCIALIDADES 
+AÇÕES PLANEJADAS 
+AÇÕES REALIZADAS 
+PRAZOS 
+85 - Divulgação das ações 
+desenvolvidas e do relatório de 
+avaliação do ano anterior 
+Realizar feedback dos resultados 
+Amadurecimento junto a direção da 
+instituição 
+contínuo 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+POTENCIALIDADES 
+AÇÕES PLANEJADAS 
+AÇÕES REALIZADAS 
+PRAZOS 
+14 - Conhecimentos básicos para 
+acompanhar as disciplinas 
+Realizar testes diagnósticos para 
+identificar se o aluno possui nível 
+mínimo para cursar as aulas 
+Realização do diagnostico em 
+disciplinas básicas e oferecimento de 
+exercícios de reforço e bibliografia 
+complementar. 
+contínuo 
+16 - Organização e tempo dedicado 
+para os estudos (cronograma, 
+estudos extraclasse, leitura e 
+revisão de conteúdos aprendidos) 
+Realizar cursos de férias para 
+revisar e profundar conteúdos que 
+são tendencia no mercado. 
+Curso de ciência de dados ministrado 
+por um aluno do curso de ADS 
+ 
+Curso da AWS gratuitos 
+ 
+Cursos da FAT gratuitos 
+contínuo 
+13 - Desempenho nas avaliações da 
+aprendizagem 
+Reforçar a necessidade de realizar 
+a devolutiva das avaliações 
+ 
+Reforçado mais uma vez a necessidade 
+de realizar a devolutiva das avaliações 
+nas reuniões pedagógicas 
+contínuo 
+POTENCIALIDADES 
+AÇÕES PLANEJADAS 
+AÇÕES REALIZADAS 
+PRAZOS 
+22 - Disseminação da cultura e da 
+arte 
+Realizar eventos  
+ 
+Realização do 1o TED Fatec com 
+ações culturais como dança, 
+karaokê e apresentações 
+instrumentais pelos alunos 
+ 
+contínuo 
+Quadro 2 – Eixo 2: Dimensão 3: Responsabilidade Social da Instituição
+POTENCIALIDADES 
+AÇÕES PLANEJADAS 
+AÇÕES REALIZADAS 
+PRAZOS 
+28 - Participação da comunidade 
+externa no contexto institucional 
+Realização de eventos com a 
+participação do público externo 
+Participação em feiras de segundo 
+grau com apresentação da Fatec 
+SICED 
+Feira de Profissões EE Dom Jose 
+Feira de Profissões EE Colonial 
+contínuo 
+Quadro 3 – Eixo 3: Dimensão 4: Comunicação Com A Sociedade 
+ 
+POTENCIALIDADES 
+AÇÕES PLANEJADAS 
+AÇÕES REALIZADAS 
+PRAZOS 
+62 - Sistema de informação interna 
+(site, murais, jornais etc.) 
+Criação de redes de relacionamento 
+com o público de ADS 
+Criado perfil no Linkedin 
+Criado perfil no Instagram 
+Dez/22 
+60 - Editais de bolsas, intercâmbios 
+e/ou oportunidades de pesquisa e 
+extensão 
+Melhorar a agilidade da divulgação 
+dessas oportunidades 
+Adicionado a divulgação por meio do 
+WhatsApp aos alunos cadastrados 
+contínuo 
+63 - Site oficial da Fatec 
+Melhorar a agilidade da divulgação 
+dessas oportunidades 
+Melhoria contínua nas adequações 
+de conteúdo. 
+contínuo 
+ 
+Quadro 4 – Eixo 3: Dimensão 9: Política de Atendimento Aos Discentes 
+ 
+ 
+POTENCIALIDADES 
+AÇÕES PLANEJADAS 
+ 
+AÇÕES REALIZADAS 
+PRAZOS 
+68 - Programas de apoio 
+pedagógico (monitoria, 
+nivelamento, reforço do 
+aprendizado) 
+Oferecer monitorias e aulas de 
+nivelamento 
+Oferecimento de suporte através 
+da monitoria e aulas de 
+nivelamento 
+contínuo 
+69 - Programa de apoio financeiro 
+(bolsas) 
+Incentivar os alunos a participar das 
+atividades de monitoria e iniciação 
+científica 
+Divulgação por e-mail e pelo site 
+por meio de editais de candidatura 
+contínuo 
+ 
+Quadro 5 – Eixo 4: Dimensão 6: Organização e Gestão da Instituição 
+POTENCIALIDADES 
+AÇÕES PLANEJADAS 
+AÇÕES REALIZADAS 
+PRAZOS 
+81 - Programas de Estágios 
+Aproximação com as empresas e 
+divulgação das vagas de estágios aos 
+alunos. 
+Visitas técnicas 
+Reunião com empresas do 
+segmento tecnológico 
+contínuo 
+ 
+ 
+ 
+ 
+Quadro 6 – Eixo 5: Dimensão 7: Infraestrutura Física 
+POTENCIALIDADES 
+AÇÕES PLANEJADAS 
+AÇÕES REALIZADAS 
+PRAZOS 
+86 - Secretaria acadêmica 
+Aproximação dos alunos  
+Realização de palestras com 
+explicações sobre o papel da 
+secretaria acadêmica 
+contínuo 
+107 - Automação do sistema 
+Sistema para lançamento de notas do 
+PTG e TG 
+Sistema para organização de AACCs 
+Desenvolvimento do SISFAI 2.0 
+Desenvolvimento do AACC 1.0 
+contínuo 
+106 - Atendimento ao usuário 
+Contratação de professores 
+Abertura de Editais PSS para 
+reposição de professores que se 
+afastaram para outras funções 
+administrativas na Fatec e na CESU 
+contínuo 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Coordenação de Cursos  - Redes de Computadores 
+ 
+ 
+Quadro 2 – Eixo: 3 -Dimensão 9: Política de Atendimento Aos Discentes 
+ 
+ 
+Levantamento das fragilidades e potencialidades e projeção das ações corretivas. 
+ 
+ 
+FRAQUEZAS 
+AÇÕES PLANEJADAS 
+ 
+AÇÕES REALIZADAS 
+PRAZOS 
+71 - Estímulo a organização 
+estudantil 
+Incentivar os alunos. 
+Divulgação por e-mail 
+contínuo 
+69 - Programa de apoio financeiro 
+(bolsas) 
+Incentivar os alunos a participar das 
+atividades de monitoria e iniciação 
+científica 
+Manutenção do programa de IDTI 
+continuo 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Quadro 3 – Eixo: 3 Dimensão: 2 Políticas Para O Ensino, A Pesquisa e A Extensão 
+ 
+Levantamento das fragilidades e potencialidades e projeção das ações corretivas. 
+ 
+FRAQUEZAS 
+AÇÕES PLANEJADAS 
+ 
+AÇÕES REALIZADAS 
+PRAZOS 
+56 - Como avalia a possibilidade do 
+uso do ensino híbrido, considerando 
+um percentual da carga horária 
+ofertada de forma remota? 
+•Discussão com os membros do NDE 
+e colegiado, uma vez que o ensino 
+híbrido se encontra regulamentado 
+pelo CPS. 
+Amadurecimento junto a direção da 
+instituição 
+contínuo 
+41 - Incentivo à pós-graduação 
+Abertura de Pós-graduação em TI 
+Projeto em andamento e 
+posteriormente será encaminhado 
+ao Centro Paula Souza 
+ 
+Aguarda
+ndo 
+autorizaç
+ão.  
+39 - Estágio supervisionado como 
+espaço de formação profissional 
+Aproximação das empresas com 
+visitas realizadas pelos professores 
+responsáveis 
+pelo estágio  
+Realização de Visitas Técnicas 
+contínuo 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Quadro 4 – Eixo: 3 Dimensão: 4 Dimensão: Comunicação Com A Sociedade 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Quadro 5 – Eixo: 4 Dimensão: 6 Dimensão: Organização e Gestão da Instituição
+Levantamento das fragilidades e potencialidades e projeção das ações corretivas. 
+ 
+FRAQUEZAS 
+AÇÕES PLANEJADAS 
+ 
+AÇÕES REALIZADAS 
+PRAZOS 
+77 - Atuação do colegiado de curso 
+(Ex: Conselho de curso, NDE - 
+Núcleo Docente Estruturante/ 
+Coordenadoria; Colegiado de curso) 
+Divulgar as oportunidades oferecidas 
+pelo   CPS 
+Divulgação por e-mail e pelo site 
+contínuo 
+83 - Programa INOVA Paula Souza Intensificar a divulgação do programa 
+junto à comunidade discente 
+Divulgação por e-mail e pelo site 
+ 
+contínuo 
+76 - Atuação dos colegiados da 
+unidade (Congregação ou 
+Comissão de Implantação); Câmara 
+de Ensino, Pesquisa e Extensão 
+(CEPE); (se houver), CPA 
+(Comissão Própria de Avaliação) 
+Intensificar a divulgação do programa 
+junto à comunidade discente 
+Divulgação por e-mail e pelo site 
+contínuo 
+80 - FETEPS 
+Intensificar a divulgação do programa 
+junto aos professores e alunos. 
+Divulgação por e-mail e pelo site 
+contínuo 
+ 
+  
+ 
+ 
+Quadro 5 – Eixo: 1 Dimensão: 8 Dimensão: Planejamento e Avaliação 
+Levantamento das fragilidades e potencialidades e projeção das ações corretivas. 
+ 
+FORÇAS 
+AÇÕES PLANEJADAS 
+ 
+AÇÕES REALIZADAS 
+PRAZOS 
+07 - Você sabe o que é o Plano de 
+Desenvolvimento Institucional (PDI) 
+da sua instituição de ensino? 
+Intensificar a divulgação do programa 
+junto aos professores e alunos. 
+Divulgação por e-mail e pelo site 
+Contínuo 
+12 - Qualidade das 
+atividades/exercícios/trabalhos 
+apresentados 
+Incentivar os docentes do curso 
+Amadurecimento junto aos docentes 
+da instituição 
+Contínuo  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+Quadro 6 – Eixo: 2 Dimensão: 1 Missão e Plano de Desenvolvimento Institucional 
+Levantamento das fragilidades e potencialidades e projeção das ações corretivas. 
+ 
+FORÇAS 
+AÇÕES PLANEJADAS 
+ 
+AÇÕES REALIZADAS 
+PRAZOS 
+21 - Disseminação da ciência, 
+tecnologia e inovação 
+Incentivar os alunos a participar das 
+atividades de monitoria e iniciação 
+científica 
+Divulgação por e-mail e pelo site por 
+meio de editais 
+Dez/2023 
+19 - Com relação à missão 
+institucional de "Promover a 
+educação pública profissional e 
+tecnológica dentro de referenciais 
+de excelência, visando o 
+desenvolvimento tecnológico 
+econômico e social do Estado de 
+São Paulo", como avalia o 
+cumprimento dessa missão por 
+parte da Fatec? 
+Divulgar as oportunidades oferecidas 
+pelo CPS 
+Divulgação por e-mail e pelo site 
+Dez/2023 
+20 - Formação de profissionais 
+qualificados 
+Parcerias com empresas para 
+realização de estágio 
+Realização de visitas técnicas 
+contínuo 
+25 - Desenvolvimento sustentável 
+Incentivar práticas que incentivam a 
+sustentabilidade 
+Divulgação por e-mail e pelo site 
+contínuo 
+ 
+ 
+ 
+  
+ 
+ 
+Quadro 7 – Eixo: 3 -  
+Dimensão: 2 
+Políticas Para O Ensino, A Pesquisa e A Extensão 
+ 
+Levantamento das fragilidades e potencialidades e projeção das ações corretivas. 
+ 
+FORÇAS 
+AÇÕES PLANEJADAS 
+ 
+AÇÕES REALIZADAS 
+PRAZOS 
+32 - Matriz curricular do curso 
+Divulgação do PPC junto à 
+comunidade discente 
+Divulgação por e-mail e pelo site 
+Dez/2023 
+42 - Domínio dos conteúdos pelos 
+docentes 
+Divulgar os cursos oferecidos pela FAT 
+Divulgação por e-mail 
+Dez/2023 
+45 - Correção feita pelos 
+professores quanto às avaliações 
+Reforçar a necessidade de realizar a 
+devolutiva das avaliações 
+Reforçado mais uma vez a 
+necessidade de realizar a devolutiva 
+das avaliações nas reuniões 
+pedagógicas 
+Dez/2023 
+36 - Corpo docente (conjunto de 
+professores) 
+Realizar feedback aos professores 
+Divulgação por e-mail 
+Dez/2023 
+34 - Atividades de pesquisa 
+Incentivar os alunos a participar das 
+atividades de monitoria e iniciação 
+científica 
+Divulgação por e-mail e pelo site por 
+meio de editais 
+Dez/2023 
+40 - Eventos científicos e de 
+extensão 
+atividades de monitoria e iniciação 
+científica 
+Realização da apresentação do TG 
+utilizando banner 
+Dez/2023 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+Coordenação de Cursos - GESTÃO EMPRESARIAL 
+ 
+EIXO 2: DESENVOLVIMENTO INSTITUCIONAL  
+ 
+FRAGILIDADES 
+ 
+ 
+AÇÕES PLANEJADAS 
+AÇÕES REALIZADAS 
+PRAZOS 
+58 - Resoluções dos colegiados 
+(Congregação ou Comissão de 
+Implantação); Câmara de Ensino, 
+Pesquisa e Extensão (CEPE), 
+Conselho 
+Departamental 
+ou 
+NDE/Coordenadoria; 
+Colegiado 
+de curso. 
+Oferecer 
+maior 
+publicidade 
+das 
+decisões 
+desses 
+fóruns 
+aos 
+estudantes  
+Em andamento 
+Dezembro 
+de 2023 
+61 - Acesso da comunidade 
+externa 
+às 
+atividades 
+desenvolvidas pela Fatec. 
+Dar maior visibilidade por meios de 
+comunicação acerca das atividades 
+realizadas pela Fatec, tais como 
+Semana 
+da 
+Tecnologia, 
+Siced, 
+Expomundi, etc   
+Em andamento 
+Dezembro 
+de 2023 
+77 - Atuação do colegiado de 
+curso (Ex: Conselho de curso, 
+NDE 
+- 
+Núcleo 
+Docente 
+Estruturante/ 
+Coordenadoria; 
+Colegiado de curso) 
+Promover 
+mais 
+reuniões 
+para 
+estreitar ainda mais o relacionamento 
+dos colegiados com os desafios da 
+Governança 
+Em andamento 
+Dezembro 
+de 2023 
+ 
+  
+83 - Programa INOVA Paula 
+Souza 
+Adequar ementa de disciplina e AAC 
+(PIC) para atendimento das diretrizes 
+do Programa 
+Em andamento 
+Dezembro 
+de 2023 
+90 - Cantina 
+Pugnar junto à Direção da Unidade 
+para que priorize a instalação da 
+cantina aos estudantes 
+Em andamento 
+Dezembro 
+de 2023 
+ 
+POTENCIALIDADES 
+ 
+ 
+ 
+AÇÕES PLANEJADAS 
+AÇÕES REALIZADAS 
+PRAZOS 
+39 - Estágio supervisionado como 
+espaço de formação profissional 
+Ampliar 
+divulgação 
+do 
+aos 
+estudantes, inclusive a possibilidade 
+de estágio voluntário na própria 
+Fatec 
+Contínuo 
+ 
+40 - Eventos científicos e de 
+extensão 
+Incentivar 
+a 
+participação 
+dos 
+estudantes em referidos Eventos 
+com atribuição de AACCs 
+Contínuo 
+ 
+68 
+- 
+Programas 
+de 
+apoio 
+pedagógico 
+(monitoria, 
+nivelamento, 
+reforço 
+do 
+aprendizado) 
+Manter os estudantes 
+que 
+ora 
+participam 
+do 
+programa 
+de 
+nivelamento e incentivar outros a 
+aderirem por meio de gratificação 
+com AACCs 
+Contínuo 
+ 
+78 - Atuação da representação 
+discente 
+nos 
+colegiados 
+da 
+unidade e do curso 
+Ampliar a divulgação e incentivar a 
+participação dos estudantes nos 
+colegiados por meio da gratificação 
+de AACCs 
+Contínuo 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+EIXO 3: POLÍTICAS ACADÊMICAS  
+ 
+FRAGILIDADES 
+ 
+ 
+ 
+AÇÕES PLANEJADAS  
+AÇÕES REALIZADAS 
+ 
+PRAZOS   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+POTENCIALIDADES 
+ 
+ 
+ 
+AÇÕES PLANEJADAS  
+AÇÕES REALIZADAS 
+ 
+PRAZOS   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+Coordenação de Cursos - LOGÍSTICA AEROPORTUÁRIA 
+Quadro 2 – Levantamento das fragilidades e potencialidades e projeção das ações corretivas. 
+ 
+EIXO 1: PLANEJAMENTO E AVALIAÇÃO INSTITUCIONAL 
+ 
+FRAGILIDADES 
+AÇÕES PLANEJADAS 
+ 
+AÇÕES REALIZADAS 
+ 
+PRAZOS 
+ 
+ 
+ 
+ 
+ 
+POTENCIALIDADES 
+ 
+AÇÕES PLANEJADAS 
+ 
+AÇÕES REALIZADAS 
+ 
+PRAZOS 
+13 - Desempenho nas 
+avaliações da 
+aprendizagem. 
+Elaborar novos indicadores que 
+possam avaliar o desempenho da 
+aprendizagem introduzidos no 
+PIC 
+Em andamento 
+semestra
+l 
+15 - Participação em 
+sala de aula (contribuir 
+com comentários, 
+exemplos, experiências, 
+etc.) 
+Introduzir no curso aulas 
+participativas, onde a participação 
+do aluno(a) faça parte da sua 
+avaliação continuada. 
+Em Planejamento 
+Semestra
+l 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+16 - Organização e 
+tempo dedicado para os 
+estudos (cronograma, 
+estudos extraclasse, 
+leitura e revisão de 
+conteúdos aprendidos) 
+ 
+Implantar programas para os 
+alunos  sobre a gestão do tempo e 
+planejamento. 
+Em Planejamento 
+Semestra
+l 
+ 
+ 
+ 
+ 
+EIXO 2: DESENVOLVIMENTO INSTITUCIONAL 
+ 
+ 
+FRAGILIDADES 
+ 
+ 
+AÇÕES PLANEJADAS 
+ 
+ 
+AÇÕES REALIZADAS 
+ 
+ 
+PRAZOS 
+30 - Implementação de 
+políticas para que não 
+ocorram ações de 
+discriminação 
+ 
+Orientação aos professors sobre 
+comportamento em  sala de aula e 
+no recinto da Fatec que possam 
+gerar conflitos. 
+Orientações e treinamento para auxiliar a 
+identificar e combater a discrinação 
+semestral 
+ 
+POTENCIALIDADES 
+ 
+AÇÕES PLANEJADAS 
+ 
+AÇÕES REALIZADAS 
+ 
+PRAZOS 
+ 
+  
+22 - Disseminação da 
+cultura e da arte 
+ 
+Ações de promoção da cultura e 
+arte integrada com a semana de 
+tecnologia. 
+Divulgação de cartoon produzidos para a 
+doação de órgãos em conjunto com a ONG 
+Gabriel 
+10 e 
+11/05 
+28 - Participação da 
+comunidade externa no 
+contexto institucional 
+ 
+Ações de promoção de eventos 
+integrada com a semana de 
+tecnologia. 
+Criação do ExpoLog – Feira de Logística 
+10 e 
+11/05 
+ 
+ 
+ 
+ 
+EIXO 3: POLÍTICAS ACADÊMICAS 
+ 
+FRAGILIDADES 
+ 
+AÇÕES PLANEJADAS 
+ 
+AÇÕES REALIZADAS 
+ 
+PRAZOS 
+44 - Atenção dada aos 
+alunos com dificuldade de 
+acompanhar os 
+conteúdos 
+ 
+Oferecimento de monitoria para as 
+disciplinas com maior número de 
+alunos com dificuldades 
+A elaboração dos editais de oferecimento com 
+bolsa de remuneração aos monitores. 
+semestral 
+45 - Correção feita pelos 
+professores quanto às 
+avaliações 
+ 
+Orientar os professors sobre á 
+importância da devolutiva das 
+avaliações aos alunos(as). 
+Aplicação da Portaria nº 17 de 13/05/2015. 
+Parágrafo 4º. 
+Semestral 
+53 - A correção conjunta 
+das avaliações 
+ 
+Orientar os professors sobre á 
+importância da devolutiva das 
+avaliações aos alunos(as). 
+Aplicação da Portaria nº 17 de 13/05/2015. 
+Parágrafo 4º. 
+Semestral 
+ 
+  
+60 - Editais de bolsas, 
+intercâmbios e/ou 
+oportunidades de 
+pesquisa e extensão 
+ 
+Estabelecer uma maior dinãmica 
+nas divulgações sobre as 
+possibilidades de intercâmbios no 
+calendário acadêmico. 
+Maior divulgação e dissiminação das 
+oportunidades oferecida, além de incentivar a 
+participação dos alunos. 
+Semestral 
+72 - Espaço para 
+participação e convivência 
+estudantil 
+ 
+Hoje limitado pelo espaço 
+disponível na instituição. 
+Não cabe a coordenação do curso, se trata de 
+infraestrutura 
+Indetermi
+nado 
+ 
+POTENCIALIDADES 
+ 
+AÇÕES PLANEJADAS 
+ 
+AÇÕES REALIZADAS 
+ 
+PRAZOS 
+41 - Incentivo à pós-
+graduação 
+ 
+Liberada a criação de cursos de 
+pós-graduação pelo CPS 
+Criação da comissão de pós-graduação 
+(CPG) e autorizada pela congregação. 
+Agosto de 
+2023 
+51 - A utilização 
+diversificada dos 
+instrumentos de avaliação 
+da aprendizagem 
+ 
+Elaborar novos indicadores que 
+possam avaliar o desempenho da 
+aprendizagem introduzidos no PIC 
+Em andamento 
+semestral 
+64 - Publicações nos 
+murais 
+ 
+Promover a dissiminação de 
+conteúdo de interesse dos alunos 
+no mural do curso de logística 
+Em andamento 
+Imediato 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+EIXO 5: INFRAESTRUTURA 
+ 
+  
+ 
+FRAGILIDADES 
+ 
+AÇÕES PLANEJADAS 
+ 
+AÇÕES REALIZADAS 
+ 
+PRAZOS 
+99 - Mobiliário e 
+Equipamentos 
+ 
+Identificar e solicitar a 
+substituição/manutenção do 
+mobiliário/equipamento danificado 
+Conscientizar a comunidade acadêmica da 
+necessidade de conservar o 
+mobiliário/equipamento da instituição de 
+Ensino. 
+semestral 
+ 
+POTENCIALIDADES 
+ 
+AÇÕES PLANEJADAS 
+ 
+AÇÕES REALIZADAS 
+ 
+PRAZOS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DIRETORIA DE SERVIÇOS 
+ 
+Quadro 2 – Levantamento das fragilidades e potencialidades e projeção das ações corretivas. 
+ 
+ 
+  
+EIXO 1: PLANEJAMENTO E AVALIAÇÃO INSTITUCIONAL  - DIMENSÃO 8 
+ 
+FRAGILIDADES 
+ 
+ 
+ 
+AÇÕES PLANEJADAS  
+AÇÕES REALIZADAS 
+ 
+PRAZOS   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+POTENCIALIDADES 
+ 
+ 
+ 
+AÇÕES PLANEJADAS  
+AÇÕES REALIZADAS 
+ 
+PRAZOS   
+08 – Você conhece o 
+PDI da sua instituição de 
+ensino? 
+ 
+Divulgação das ações no site da 
+FATEC, e mídias sociais, e-mails, 
+murais 
+Divulgação das ações no site da FATEC, e 
+mídias sociais, e-mails, murais 
+Em 
+andamento 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+EIXO 3: COMUNICAÇÃO COM A SOCIEDADE- DIMENSÃO 4 
+ 
+FRAGILIDADES 
+ 
+ 
+ 
+AÇÕES PLANEJADAS  
+AÇÕES REALIZADAS 
+ 
+PRAZOS   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+POTENCIALIDADES 
+ 
+ 
+ 
+AÇÕES PLANEJADAS  
+AÇÕES REALIZADAS 
+ 
+PRAZOS   
+51 - Editais de concursos, 
+processos seletivos, 
+bolsas, intercâmbios, etc. 
+Ampla divulgação via email, murais, 
+redes sociais 
+ 
+Em 
+andamento 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+DIRETORIA DA UNIDADE  
+ 
+EIXO 4: POLÍTICAS DE GESTÃO  - DIMENSÃO 5 E 6 
+ 
+FRAGILIDADES 
+ 
+ 
+ 
+AÇÕES PLANEJADAS  
+AÇÕES REALIZADAS 
+ 
+PRAZOS   
+66 – Satisfação com seu 
+trabalho 
+Constantes treinamentos (CPS)  
+com atualizações de informações 
+do departamento 
+ 
+Em 
+andamento 
+69 - Oportunidades de 
+progressão/promoção 
+Sistema disponível pelo 
+CPS/Governo, a U.E. não tem 
+autonomia para alterações 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+POTENCIALIDADES 
+ 
+ 
+ 
+AÇÕES PLANEJADAS  
+AÇÕES REALIZADAS 
+ 
+PRAZOS   
+61 – Programas de saúde 
+do servidor 
+Palestras on-line CPS, grupo de 
+estudos psicologia CEUNSP 
+ 
+Em 
+andamento 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+EIXO 5: INFRAESTRUTURA  - DIMENSÃO 7 
+ 
+FRAGILIDADES 
+ 
+ 
+ 
+AÇÕES PLANEJADAS  
+AÇÕES REALIZADAS 
+ 
+PRAZOS   
+84 – Iluminação e 
+ventilação (administrativo) 
+Limpeza continua dos 
+equipamentos de ar condicionado e 
+troca de lâmpadas queimadas 
+ 
+continuo 
+89 - Cantina 
+Não temos espaço físico para 
+implantar a cantina 
+Em torno da unidade de ensino temos 
+lanchonetes, restaurantes, supermercados, 
+padaria 
+continuo 
+ 
+POTENCIALIDADES 
+ 
+ 
+ 
+AÇÕES PLANEJADAS  
+AÇÕES REALIZADAS 
+ 
+PRAZOS   
+88 – Limpeza e 
+Conservação 
+Distribuição de atividades junto a 
+empresa terceirizada e auxiliares 
+de apoio da U.E. 
+ 
+continuo 
+102 – Iluminação e 
+ventilação (docentes) 
+Limpeza continua dos 
+equipamentos de ar condicionado e 
+troca de lâmpadas queimadas 
+ 
+Continuo 
+ 
+ 
+ 
+ 
+  
+4 ANÁLISE DOS DADOS E AÇÕES PROPÓSTAS 
+EIXO 1: PLANEJAMENTO E AVALIAÇÃO INSTITUCIONAL  
+ 
+FRAGILIDADES 
+ 
+ 
+ 
+AÇÕES PLANEJADAS  
+AÇÕES REALIZADAS 
+ 
+PRAZOS   
+Pouca divulgação do PDI no 
+início do ano de 2022 
+Ampliar a divulgação do PDI no 
+início do ano 
+Foram utilizadas as redes sociais para 
+divulgação. Houve maior participação no 
+cenário institucional 
+   
+12/2312/2023 
+Apuração e divulgação do 
+WebSAI 
+Análise do WebSAI por curso 
+Análise do WebSAI por curso 
+  04/2312 
+ENADE: notas 2 e 3 em 
+cursos de Tecnologia da 
+Informação 
+Ampliar estudos sobre o ENADE 
+Ampliação do número de professores em 
+estudos sobre o ENADE 
+ 12/2312 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+POTENCIALIDADES 
+ 
+ 
+ 
+AÇÕES PLANEJADAS  
+AÇÕES REALIZADAS 
+ 
+PRAZOS   
+PDI em conjunto com a 
+Congregação e docentes – 
+10 eixos SINAES 
+Realizar o PDI em conjunto com a 
+Congregação e docentes 
+Realizado o PDI em conjunto com a 
+Congregação e docentes 
+Contínuo 
+PDI em conjunto com a 
+Congregação e docentes – 
+Arte e Cultura 
+PDI 
+em 
+conjunto 
+com 
+a 
+Congregação e docentes – Arte e 
+Cultura 
+PDI em conjunto com a Congregação e 
+docentes – Arte e Cultura 
+Contínuo 
+Participação na SPAP – 
+Semana Pedagógica e de 
+Aperfeiçoamento -, SIPAT – 
+palestras 
+de 
+conscientização 
+sobre 
+assédio 
+moral; 
+maior 
+PDI 
+em 
+conjunto 
+com 
+a 
+Congregação 
+e 
+docentes 
+– 
+Desenvolvimento de Pessoas 
+PDI em conjunto com a Congregação e 
+docentes – Desenvolvimento de Pessoas 
+Contínuo 
+ 
+  
+incentivo à participação nos 
+cursos da CETEC e da 
+ARINTER; maior incentivo à 
+participação em eventos da 
+Unidade.  
+ 
+Tramitar 
+documentos 
+e 
+consolidar convênio com a 
+Le Novo por meio dos CST 
+do eixo de Tecnologia da 
+informação e com o Instituto 
+Galilei-Galileu por meio dos 
+CST 
+do 
+eixo 
+em 
+Administração e Negócios; 
+retomada 
+da 
+parceria 
+acadêmica com a AMPEI – 
+Associação de 
+Micro e 
+Pequenas 
+Empresas 
+de 
+Indaiatuba; Ampliação de 
+visitas técnicas 
+Projetos 
+contínuo 
+junto 
+ao 
+CEETEPS 
+Projetos contínuo junto ao CEETEPS 
+Contínuo 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+EIXO 2: DESENVOLVIMENTO INSTITUCIONAL  
+ 
+FRAGILIDADES 
+ 
+ 
+AÇÕES PLANEJADAS 
+AÇÕES REALIZADAS 
+PRAZOS 
+Interligação 
+dos 
+eixos 
+temáticos dos cursos 
+Projetos integradores em revisão 
+Projetos integradores em revisão de Gestão 
+Empresarial e Gestão de Serviços.visão  
+12/2023 
+Dificuldades de acesso de 
+alunos à internet 
+Projetos 
+contínuo 
+junto 
+ao 
+CEETEPS 
+Projetos contínuo junto ao CEETEPS 
+Contínuo  
+Mobilizar 
+a 
+Secretaria 
+acadêmica e Coordenações 
+para 
+criar 
+políticas 
+de 
+atendimento 
+mais 
+apropriadas 
+Projetos 
+contínuo 
+junto 
+ao 
+CEETEPS 
+Projetos contínuo junto ao CEETEPS 
+Contínuo 
+Regularizar os NDEs da 
+Unidade 
+Renovação de docentes em NDE 
+Renovação de docentes em NDE 
+12/2023 
+ 
+ 
+ 
+ 
+ 
+POTENCIALIDADES 
+ 
+ 
+ 
+AÇÕES PLANEJADAS 
+AÇÕES REALIZADAS 
+PRAZOS 
+IDTI 
+– 
+Iniciação 
+e 
+Desenvolvimento 
+Tecnológico e Inovação 
+Ampliar monitoria em IDTI 
+Três novas bolsas de estudos 
+03/2023 
+Reforço para alunos em 
+disciplina de matemática 
+Ampliar monitoria em Matemática 
+Dois horários de monitoria 
+12/2022 
+Ampliação de bolsas de 
+estudo para IDTI e melhor 
+automação dos processos 
+burocráticos, 
+implantação 
+da 
+Núcleo 
+de 
+Pós-
+Projetos 
+contínuo 
+junto 
+ao 
+CEETEPS 
+Projetos contínuo junto ao CEETEPS 
+12/2023 
+ 
+  
+Graduação, 
+conforme 
+Deliberação 
+86, 
+de 
+24/11/22. 
+ 
+Participação 
+de 
+professores, 
+alunos, 
+empresas 
+e 
+Instituições 
+Internacionais 
+na 
+participação dos eventos 
+em Projetos Colaborativos 
+Internacionais, 
+com 
+orientação da ARINTER – 
+CEETEPS 
+Projetos contínuo junto ao 
+CEETEPS 
+Projetos contínuo junto ao CEETEPS 
+12/2023 
+ 
+ 
+ 
+ 
+EIXO 3: POLÍTICAS ACADÊMICAS  
+ 
+FRAGILIDADES 
+ 
+ 
+ 
+AÇÕES PLANEJADAS  
+AÇÕES REALIZADAS 
+ 
+PRAZOS   
+ENADE: notas 2 e 3 em 
+cursos de TI 
+Ampliar estudos sobre o ENADE 
+Ampliação do número de professores em 
+estudos sobre o ENADE 
+12/2023 
+Revisão de alguns PPCs; 
+aperfeiçoamento do uso de 
+metodologias 
+de 
+ensino/aprendizagens 
+variadas,  
+Projetos 
+contínuo 
+junto 
+ao 
+CEETEPS 
+Projetos contínuo junto ao CEETEPS 
+12/2023 
+Reflexões 
+sobre 
+a 
+Avaliação do Rendimento 
+Escolar e temas relativos ao 
+processo de Ensino na U.E. 
+ 
+Projetos 
+contínuo 
+junto 
+ao 
+CEETEPS 
+Projetos contínuo junto ao CEETEPS 
+12/2023 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+POTENCIALIDADES 
+ 
+ 
+ 
+AÇÕES PLANEJADAS  
+AÇÕES REALIZADAS 
+ 
+PRAZOS   
+Diversificação 
+dos 
+instrumentos de avaliação 
+da 
+aprendizagem, 
+reorganização do Trabalho 
+de Graduação em alguns 
+cursos 
+Projetos 
+contínuo 
+junto 
+ao 
+CEETEPS 
+Projetos contínuo junto ao CEETEPS 
+12/202312/202
+3 
+Trocas 
+de 
+máquinas 
+e 
+equipamentos 
+em 
+04 
+laboratórios (5,6,7,e 8 
+Projetos 
+contínuo 
+junto 
+ao 
+CEETEPS 
+Projetos contínuo junto ao CEETEPS 
+12/2023 
+Consolidação 
+da 
+sala 
+Global Room             ( lousa 
+digital e planejamento de 
+uso.) 
+ 
+Projetos 
+contínuo 
+junto 
+ao 
+CEETEPS 
+Projetos contínuo junto ao CEETEPS 
+12/2023 
+Consolidação 
+da 
+sala 
+Maker (mobiliário – mesas -  
+ainda não foi entregue) 
+Projetos 
+contínuo 
+junto 
+ao 
+CEETEPS 
+Projetos contínuo junto ao CEETEPS 
+12/2023 
+Plano de uso da sala Maker 
+e da Global Room, plano de 
+visitas técnicas a empresas 
+pelos 
+professores 
+responsáveis por estágio; 
+projeto de otimização dos 
+espaços 
+da 
+biblioteca, 
+ampliação 
+do 
+Novotec 
+Expresso. 
+ 
+Projetos 
+contínuo 
+junto 
+ao 
+CEETEPS 
+Projetos contínuo junto ao CEETEPS 
+12/2023 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+EIXO 4: POLÍTICAS DE GESTÃO  
+ 
+FRAGILIDADES 
+ 
+ 
+ 
+AÇÕES PLANEJADAS  
+AÇÕES REALIZADAS 
+ 
+PRAZOS   
+Manter 
+a 
+adequada 
+infraestrutura e atualizados 
+os 
+laboratórios 
+e 
+equipamentos 
+didático-
+pedagógico. 
+PDI 
+em 
+conjunto 
+com 
+a 
+Congregação e docentes 
+PDI em conjunto com a Congregação e 
+docentes 
+12/2023 
+Identificar 
+novas 
+tecnologias e demandas 
+para 
+planejamento 
+e 
+implantação 
+de 
+novos 
+cursos e iniciativas.   
+ 
+PDI 
+em 
+conjunto 
+com 
+a 
+Congregação e docentes 
+PDI em conjunto com a Congregação e 
+docentes 
+12/2023 
+Promover 
+aplicação 
+da 
+tecnologia e estimular a 
+criatividade 
+para 
+o 
+desenvolvimento 
+de 
+competências humanas e 
+organizacionais. 
+PDI 
+em 
+conjunto 
+com 
+a 
+Congregação e docentes 
+PDI em conjunto com a Congregação e 
+docentes 
+12/2023 
+Aperfeiçoar continuamente 
+os 
+processos 
+de 
+planejamento, gestão e as 
+atividades 
+operacionais/administrativa
+s. 
+PDI 
+em 
+conjunto 
+com 
+a 
+Congregação e docentes 
+PDI em conjunto com a Congregação e 
+docentes 
+12/2023 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+POTENCIALIDADES 
+ 
+ 
+ 
+AÇÕES PLANEJADAS  
+AÇÕES REALIZADAS 
+ 
+PRAZOS   
+Entrevistas do diretor em 
+jornais e TVs da cidade para 
+ampliar comunicação com a 
+sociedade 
+Rádio, TV e Jornal de Indaiatuba 
+Ações que resultaram em maior empenho 
+da comunidade em atingir a comunicação 
+com a sociedade em geral 
+03/2023 
+Continuar o enfoque da 
+Gestão Participativa 
+PDI 
+em 
+conjunto 
+com 
+a 
+Congregação e docentes 
+Ações que resultaram em maior empenho 
+da comunidade em participar dos projetos e 
+eventos da Instituição 
+03/2023 
+Divulgar 
+e 
+incentivar 
+a 
+participação nos programas 
+de IDTI e Intercâmbios 
+Rádio, TV e Jornal de Indaiatuba 
+Aumento no número de participantes no 
+projeto de IDTI 
+03/2023 
+Reuniões da Direção com 
+os coordenadores 
+Reuniões da Direção com os 
+coordenadores 
+Contribuição 
+para 
+que 
+as 
+decisões 
+institucionais fossem informadas de maneira 
+mais transparente 
+12/2022 
+Projetos de HAEs mais 
+direcionados 
+a 
+necessidades operacionais 
+da Instituição, 
+Reuniões da Direção com os 
+coordenadores 
+Contribuição 
+para 
+que 
+as 
+decisões 
+institucionais fossem informadas de maneira 
+mais transparente 
+06/2023 
+EIXO 5: INFRAESTRUTURA  
+ 
+FRAGILIDADES 
+ 
+ 
+ 
+AÇÕES PLANEJADAS  
+AÇÕES REALIZADAS 
+ 
+PRAZOS   
+Falta de acessibilidade para 
+cadeirantes 
+na 
+Global 
+Room. Prédio III – falta 
+elevador 
+Plano de Gestão Anual entregue à 
+CESU 
+Plano de Gestão Anual entregue à CESU: 
+solicitações já orçamentadas 
+12/2023 
+Infiltrações 
+graves 
+no 
+Prédio I , II e III  
+Plano de Gestão Anual entregue à 
+CESU 
+Plano de Gestão Anual entregue à CESU: 
+solicitações já orçamentadas 
+12/2023 
+ 
+  
+Troca de elevador, dado 
+que é antigo e apresenta 
+muitos 
+problemas 
+já 
+informados 
+à 
+UIE, 
+ou 
+revisões mais constantes 
+no que já existe. 
+Plano de Gestão Anual entregue à 
+CESU 
+Plano de Gestão Anual entregue à CESU: 
+solicitações já orçamentadas 
+12/2023 
+Troca 
+das 
+placas 
+de 
+sinalização da Fatec na 
+área 
+interna 
+do 
+estacionamento 
+Plano de Gestão Anual entregue à 
+CESU 
+Plano de Gestão Anual entregue à CESU: 
+solicitações já orçamentadas 
+12/2023 
+ 
+ 
+ 
+ 
+ 
+POTENCIALIDADES 
+ 
+ 
+ 
+AÇÕES PLANEJADAS  
+AÇÕES REALIZADAS 
+ 
+PRAZOS   
+Revisão 
+frequente 
+do 
+elevador, iniciar as obras 
+para 
+conter 
+infiltrações 
+prediais, 
+elevador 
+de 
+acesso para inclusão no 
+prédio 3, revisão das calhas 
+e do telhado do prédio 1,2 e 
+3 
+Plano de Gestão Anual entregue à 
+CESU 
+Plano de Gestão Anual entregue à CESU 
+12/2023 
+Modernização do mobiliário 
+do auditório. 
+Plano de Gestão Anual entregue à 
+CESU 
+Plano de Gestão Anual entregue à CESU 
+12/2023 
+Troca de ventiladores nas 
+salas de aula, troca de 
+cortinas em toda a Unidade,  
+Plano de Gestão Anual entregue à 
+CESU 
+Plano de Gestão Anual entregue à CESU 
+12/2023 
+Retomada das discussões 
+sobre o terreno doado pela 
+Prefeitura 
+Municipal 
+de 
+Indaiatuba em 2020 e a 
+construção do Campus II da 
+Fatec Indaiatuba 
+Plano de Gestão Anual entregue à 
+CESU 
+Plano de Gestão Anual entregue à CESU 
+12/2023 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+5 CONSIDERAÇÕES FINAIS 
+ 
+ 
+A Comissão Própria de Avaliação, pelo seu trabalho, visa oferecer subsídios capazes de orientar a tomada de decisão e ao planejamento 
+institucional, na busca de contínua melhoria da qualidade do ensino, da pesquisa, da extensão e da gestão. Sendo assim um importante 
+instrumento para a Direção. 
+ 
+Os resultados apresentados contemplam as dez dimensões auto avaliativas do SINAES e foram analisados e discutidos por todos os membros 
+da comunidade institucional: direção, coordenações de cursos, setores administrativos, gestores, professores e alunos. 
+ 
+Os dados coletados, as análises e propostas foram amplamente divulgadas e serão objeto de comparação na próxima avaliação, para elucidar 
+os avanços alcançados, reforçando o quanto a avaliação contribui para a gestão dos resultados.  
+ 
+ 
+ 
+ 
+Equipe da CPA 
+ 
+140 
+ 
+_____________________________________________________________________________________________ 
+ 
+Administração Central 
+Unidade do Ensino Superior de Graduação 
+ 
+_____________________________________________________________________________________________________________________________________________ 
+www.cps.sp.gov.br 
+Rua dos Andradas, 140  •  Santa Ifigênia  •  01208-000  •  São Paulo  •  SP  •  Tel.: (11) 3324-3300 
+ 
+ 
+ 
+RELATÓRIO ANUAL DE ATIVIDADES – RAA  
+ 
+FATEC / Código: 105- Dr. Archimerdes Lammoglia de Indaiatuba 
+ Diretor(a):  Prof. Me. José Luiz Marques 
+Relatório Anual de Atividades relativo ao ano de: 2022 
+ 
+Prezado Diretor, 
+Anualmente deverá ser elaborado o Relatório Anual de Atividades – RAA e, conforme estabelecido 
+em Portaria CESU no 9 de 21-11-2019, encaminhar para a CESU até o dia 15 de janeiro do ano 
+subsequente. 
+Nesse relatório a Direção da Unidade deverá pontuar todos os itens que foram planejados e 
+realizados, dentro do informado pela Unidade de Ensino nos seguintes documentos: 
+ Nos Anexos A até F do Template do Plano de Desenvolvimento Institucional (PDI); 
+  No Plano de Gestão Anual da Unidade de Ensino (PGA). 
+Além disso, deve-se informar o que, por alguma razão, não foi possível de ser realizado, dentro de 
+tudo que foi planejado, justificando os motivos da não realização. 
+Uma cópia deste RAA deverá ser encaminhada à Comissão Própria de Avaliação da Unidade de 
+Ensino (CPA) para fins de elaboração do Relatório de Autoavaliação Institucional. 
+Dúvidas, favor entrar em contato com: cesu.pdi@cps.sp.gov.br 
+ATIVIDADES REALIZADAS (máximo 12.000 caracteres) 
+a-) Repensar modelo de negócio bem como a ocupação de Analista de Negócios para a Linha de 
+Pesquisa/PTG/TG = Projeto Corporativo - alterações em documentos legais. A Instituição, em 
+consonância com a AMPEI, ACIAI, CIESP e Empresas do Distrito Industrial, por meio de um 
+questionário sobre necessidades do mercado, tem alinhado seus instrumentos de ensino e de 
+avaliação da aprendizagem de acordo com essa proposta de trabalho, além disso, busca nova 
+parceria com a Le Novo e a DHL – via convênio/ICT para o trabalho com as competências e 
+habilidades requeridas dos profissionais -  Intensificado o projeto em 2021, reestudado e 
+aplicado em 2022 . 
+b-) Discutir/alterar/modificar as práticas e a operacionalização das ferramentas pedagógicas 
+(Avaliações - AACC-PI-PTG-TG) para a realização do objetivo anterior. Revisar/alterar Projeto 
+Pedagógico e Grades Horárias com foco em PesquisaTecnológica e no ensino por competência. 
+Capacitar os professores em Metodologia Ativas (PTG, TG e PIC). Analisar quantidade/nº alunos 
+atribuição de HAE para orientação PTG e TG. Desenvolver um sistema de indicadores de 
+desempenho para atividades internas, indo ao encontro das exigências de desempenho do CPS, 
+141 
+ 
+_____________________________________________________________________________________________ 
+ 
+Administração Central 
+Unidade do Ensino Superior de Graduação 
+ 
+_____________________________________________________________________________________________________________________________________________ 
+www.cps.sp.gov.br 
+Rua dos Andradas, 140  •  Santa Ifigênia  •  01208-000  •  São Paulo  •  SP  •  Tel.: (11) 3324-3300 
+ 
+como forma de medir e avaliar o desempenho da unidade e focar nas atividades menos 
+eficientes. Praticar uma gestão participativa através da divulgação das decisões do 
+Colegiado/NDE da FATEC-ID e promover espaços para sugestões e análises do corpo docente. 
+Projeto de Gestão à Vista – ampla divulgação das melhorias implementadas durante o PDI 
+(2021/2022) na tela inicial do site da unidade. Os projetos integradores de conteúdo têm 
+passado por revisão, otimização e alinhamento com as necessidades de mercado apontadas 
+por essas empresas parceiras academicamente, bem como os Trabalhos de Graduação têm 
+sido direcionados para serem mais bem alinhados à resolução de problemas nos processos 
+empresariais da cidade e intensificado por meio de metodologias ativas e com defesa on line 
+por sistema próprio (SISFAI). A distribuição de orientadores se dá conforme a área de 
+atuação/especialização do professor, bem como respeitando sua disponibilidade e quantidade 
+de alunos matriculados. Os cursos revisaram e distribuíram de maneira fracionada a 
+quantidade de orientações, levando em consideração os itens mencionados acima. A 
+Instituição prima hoje pela gestão participativa, dando oportunidades para críticas e 
+divulgando amplamente as ações operacionais e a gestão financeira da Unidade pelos meios 
+digitaos. Revisou-se a Portaria AACC (atividades internas e externas). Atualizado em 2022. 
+c-) Revista REVERTE – Reflexões tecnológicas e Revista TECSCi -  Publicações anuais, mas com 
+recebimento contínuo de artigos,  compostas por pesquisadores nacionais e    internacionais. 
+Em 2022, apenas a Revista REVERTE permaneceu. A TECSCi foi retirada do ar. 
+d-) Revisar Manual/Normatização/Portarias de PTG, TG e PIC de acordo com a respectiva 
+especificidade de cada curso. Os Cursos que tiveram alteração no modelo de PTG, TG e PIC estão 
+passando por revisão para adequar a necessidade do novo modelo. Os Cursos Logística 
+Aeroportuária, Gestão Empresarial, Comércio Exterior, Análise e Desenvolvimento de Sistemas 
+e Redes de Computadores implantaram novo modelo de TG e PIC, adequados à especificidade 
+do curso. O curso de Gestão de Serviços passa por análise - 2022 
+e-) Otimizar a relação teoria/prática por meio de projetos tecnológicos, envolvendo protocolos 
+de intenção e convênios de cooperação com empresas de Indaiatuba e Região, primeiramente 
+com visitas às empresas, desenvolvimento de interesses mútuos e planos de ação para o 
+fechamento de projetos. Repensar o modelo da Semana de Tecnologia e outros eventos para 
+todos os cursos. Conforme descrito nos itens acima, as empresas têm colaborado para que a 
+Instituição repense seu processo de ensino, considerado neste RAA como o eixo central de 
+discussão. O formato da Semana de Tecnologia foi repensado. Foram criados o SICED – 
+Simpósio de ComEx e o SIMATEC- Simpósio de Inovação Tecnológica. Constantemente esses 
+eventos passam por reformulação, visando integração dos alunos e engajamentos nas 
+atividades dessa semana. SICED realizado em 2021 e 2022 e SIMATEC em 2022, além de 
+encontros com empresas locais – 2022. 
+f-) Otimizar os instrumentos de comunicação existentes hoje na Unidade para que a divulgação 
+do Vestibular atinja um número maior de candidatos/vaga. Motivar os alunos a divulgar na rede 
+social da Fatec em um projeto de disseminação e fortalecimento de imagem: partir dos 
+professores e impulsionar com os representantes de sala. Instalar CPUs nas duas baias em frente 
+a coordenação para orientação de alunos. Todos esses instrumentos de comunicação foram 
+viabilizados para melhoria contínua, um celular e um robô para disparar mensagens para alunos, 
+ex-alunos, egressos, colaboradores, professores também foram adquiridos em 2019 e 2020. O 
+muro foi pintado em 2019 e lavado em 2020 e 2021. Placas de identificação foram fixadas na 
+142 
+ 
+_____________________________________________________________________________________________ 
+ 
+Administração Central 
+Unidade do Ensino Superior de Graduação 
+ 
+_____________________________________________________________________________________________________________________________________________ 
+www.cps.sp.gov.br 
+Rua dos Andradas, 140  •  Santa Ifigênia  •  01208-000  •  São Paulo  •  SP  •  Tel.: (11) 3324-3300 
+ 
+entrada principal e no alto do prédio da Unidade. Em 2022, foi criado o sistema de Marketing 
+pela Comissão de Vestibular, com a estratégia PERSONA de divulgação de peças publicitárias e 
+com supervisão da Direção - 2022. 
+g-) Reformar os pisos danificados no auditório e na sala de aula, trocar os ventiladores mais 
+antigos e barulhentos, otimizar o quadro de aviso nas salas de aula e aumentar a manutenção 
+dos datas-show e das lâmpadas elétricas e trocá-los por Televisões, caixas de som e 
+equipamentos recebidos do CPS. Pintura nas escadas e nas salas da coordenação e de 
+professores, reformas da passarela e das portas de ferro, corrimãos centrais nas escadas, trava 
+de segurança nas portas principais, pintura das salas de coordenação e professores Reformas e 
+ações realizadas de 2020 a 2022. 
+i-) Promover programas de divulgação e de conscientização sobre o ENADE e desenvolver ações 
+junto a professores e alunos para aumentar a nota dessa avaliação Institucional da Unidade junto 
+ao MEC/INEP. São pagas HAEs a professores para que essa ação aconteça em forma de 
+simulados e preparação teórica e prática. 2022. 
+j-) Ampliar os espaços de laboratórios e de salas informatizadas com mais 30 computadores e 3 
+ares condicionados. Criação da Global Room (2022). Trocar os computadores velhos por 
+notebooks nos laboratórios de 1 a 9, incluindo biblioteca.  – Aguardando apenas ares 
+condicionados solicitados no PDI 2019. Notebooks recebidos – a troca será feita em 03/2022. 
+k-) Otimizar o uso das plataformas SIGA  professores e alunos para evitar a circulação de papel. 
+Ligar energia na mesa central da sala dos professores. Essa ação está acontecendo por meio de 
+cursos oferecidos pela CESU e pela Unidade aos diretores e colaboradores. A energia na mesa 
+central foi ligada em 2020 e atualizada em 2022. 
+l-) Promover mais visitas técnicas para acompanhar e planejar o processo acadêmico da 
+Faculdade. Ações realizadas – 2022. 
+m-) SAI – Sistema de Avaliação Institucional: analisar e apresentar sugestões de mudanças nas 
+questões do SAI. Realizado novamente em 2022. 
+n-) Institucionalização da memória cultural e educacional da Fatec Indaiatuba. Informações 
+disponíveis através do canal "Relatório do Diretor" que pertence ao sítio Institucional no site da 
+Fatec Indaiatuba. Nesse ambiente é disponibilizado publicamente arquivo contendo informações 
+da cidade de Indaiatuba, da Fatec Indaiatuba, do mercado, da demanda, etc. Essas informações 
+compõem a memória da Instituição. Otimizado em 2022. 
+o-) Realizar a Escola de Inovadores  em parceria com CEETEPS/INOVA. Realizada de 2019 a 2022. 
+p-) Realizar na Fatec o programa NOVOTEC, em parceria com o CEETEPS e a SDE. Realizado de 
+2019 a 2022. 
+q-) Realizar a certificação SAP e CISCO e HUAWEI para alunos da Unidade. Realizadas de 2019 a 
+2022. 
+r-) Formalizar professor responsável por disciplina do programa de monitoria. Início em 2020 e 
+criar linhas de pesquisa em IDTI – Início em 2021. Realizados em 2021- 2022. 
+s-) Participar com mais efetividade de Congressos, Simpósios, Encontros na Unicamp, com a 
+apresentação de trabalhos de alunos e professores. Motivar professores a fazerem o stricto 
+sensu. Convidar palestrantes das faculdades e institutos de Engenharia e Economia da Unicamp 
+para as Semanas de Tecnologias. Aprendizagem Ativa - Identificar os perfis de aula que os alunos 
+mais se identificam; Identificar os professores com os perfis escolhidos; Preparar um workshop 
+143 
+ 
+_____________________________________________________________________________________________ 
+ 
+Administração Central 
+Unidade do Ensino Superior de Graduação 
+ 
+_____________________________________________________________________________________________________________________________________________ 
+www.cps.sp.gov.br 
+Rua dos Andradas, 140  •  Santa Ifigênia  •  01208-000  •  São Paulo  •  SP  •  Tel.: (11) 3324-3300 
+ 
+com todos os perfis para que os professores da casa possam assistir. Ações realizadas em 2019 
+a 2022  com participações internacionais de professores e alunos e palestras dadas na 
+Instituição por professores da Universidade de Córdoba, na Argentina, da Califórinia, nos EUA, 
+ITA e da UNICAMP, NOVOLAB – Indaiatuba e CIESP. Foram realizados na Instituição desde 2019 
+a 2022 
+t-) Ampliar a pesquisa tecnológica por meio do programa de IDTI, envolvendo projetos com 
+empresas em convênios de cooperação. Otimizar os Trabalhos de Graduação no sentido de 
+atender ao arranjo produtivo da cidade. Aumento de 28% dos alunos na participação do 
+programa de IDTI em 2021 e 37% em 2022. 
+u-) Em consonância com o CEETEPS, ampliar a relação de empresas que possam ter interesse nos 
+serviços oferecidos pela Instituição, bem como alinhar esses interesses aos projetos pedagógicos 
+dos Cursos Superiores de Tecnologia. A relação empresa/escola melhorou significativamente 
+em 2019, vistas as possibilidades que a CESU tem oferecido para essa aproximação. Em 2020, 
+a relação da Unidade com as Empresas locais aumentou por volta de 30%. Em 2021, 32%. Em 
+2022 permaneceu estável em 32% 
+ v-) Continuou  sendo realizada a pesquisa de satisfação do SUS no Hospital HAOC de Indaiatuba 
+para a melhoria dos serviços oferecidos. 2019 – A partir de 2020 a pesquisa foi suspensa por 
+causa da pandemia Covid19.  
+x-) Campanhas de mobilização social serão realizadas para a conscientização sobre combate ao 
+bullyng e ao preconceito social, racial e sexual na Fatec. Nossos parceiros tem sido:  CESU – GDS 
+Inclusão – Sociedade Brasileira de Psicanálise,  Universidade CEUSNP, de Salto, ONG Gabriel, 
+Federação das Entidades Assistenciais de Indaiatuba, BOS – Banco de Olhos de Sorocaba, ONG 
+Bolha de Sabão, ADVI – Associação dos Deficientes Visuais de Indaiatuba quanto às campanhas 
+de Desenvolvimento Social. Quanto à Responsabilidade Ambiental, O COMDEMA –Conselho 
+Municipal de Defesa do Meio Ambiente de Indaiatuba é e continuará sendo nosso parceiro na 
+organização de campanhas em favor do meio ambiente, bem como o DAE - departamento de 
+água e esgoto - e o ETA - Estação de Tratamento D'água, por meio da Disciplina de Gestão 
+Ambiental –  A Fatec recebeu o Selo de Instituição Socialmente Responsável por 15 anos 
+consecutivos em 2022. 
+y-) Criar procedimento de manutenção/conservação predial e instalações. Apreciar, validar e 
+divulgar Plano de Emergência. Realizado em 2020 e atualizado em 2022. 
+z-) Identificar a dotação orçamentária desta Unidade: Quanto e para qual fim. Mapear as ações 
+do PDI demandantes de custos/orçamento/verba e determinar quais podem ser atendidas com 
+a dotação própria e quais requerem solicitação. Encaminhar as solicitações. Com a ajuda de uma 
+equipe administativa são realizados levantamentos de prioridades para os gastos mensais da 
+DMPP e divulgados aos colaboradores e professores nos murais da Unidade – de 2019 a 2022. 
+ATIVIDADES NÃO REALIZADAS E JUSTIFICATIVAS (máximo 12.000 caracteres) 
+a-) Revitalizar a Pós-Graduação e a Extensão. Os cursos de extensão cobrados não foram muito 
+procurdos pela comunidade. Assim a Instituição, a partir de 2020 passou a oferecer cursos de 
+extensão sem cobrar taxas. Também foi apresentado ao Departamento de Pós- Graduação um 
+projeto de Curso Lato Sensu em Projetos e Processos Empresariais, porém a Unidade aguarda 
+o Convênio CETTEPS/FAT para dar início ao processo de oferecimento -2022 
+b-) Foi doado pela Prefeitura Municipal de Indaiatuba um terreno de 13.890m2, no Distrito 
+144 
+ 
+_____________________________________________________________________________________________ 
+ 
+Administração Central 
+Unidade do Ensino Superior de Graduação 
+ 
+_____________________________________________________________________________________________________________________________________________ 
+www.cps.sp.gov.br 
+Rua dos Andradas, 140  •  Santa Ifigênia  •  01208-000  •  São Paulo  •  SP  •  Tel.: (11) 3324-3300 
+ 
+Industrial, para o CEETEPS. Estávamos aguardando 2022 para continuarmos      as negociações 
+do início da construção da Unidade II da Fatec Dr. Archimedes Lammoglia, em Indaiatuba, visto 
+que o GDS/CEETEPS inviabilizou a doação em 2020 em função do Decreto do  Governador João 
+Dória n. 64.937/2020, que reduziu custos no serviço público em função da pandemia Covid19 -
+2020 – O processo já foi encaminhado novamente ao GDS para reanálise em Agosto de 2022. 
+c-) Solicitar junto à CESU/CEETEPS informações sobre acessos em base de periódicos da CAPES 
+para Ensino, Pesquisa e Extensão. Foi solicitado à CESU em 2020 e 2021, mas ainda não houve 
+resposta em 2022. 
+b-) Implantar Lousa Digital (possibilidade de salvar todas as observações dos professores para 
+acesso posterior dos alunos). Carteiras modulares (sala de aula com diferentes configurações). 
+Sistema de som ambiente: Sistema de gravação de áudio (possibilidade de gravar as aulas para 
+acesso posterior dos alunos). Gerenciamento online dos dispositivos de trabalho dos alunos. 
+Simulação de ambientes utilizando realidade virtual. Necessidades de Ferramentas de TI e 
+Informação. Estúdio para produção de aulas ou transmissão ao vivo. Sistema de RFID para 
+controle de presença em qualquer ponto da Fatec. Sistema acadêmico responsivo 
+multiplataforma (incluindo mobile). Datacenter próprio para suportar a estrutura de todas as 
+unidades utilizando o modelo de cloud privado. Todos os itens foram solicitados nos formulários 
+de 2010 e 2021 para  a melhoria do processo de ensino. Alguns foram aprovados, outros não. 
+Porém a Unidade ainda não recebeu alguns itens aprovados e já pediu revisão dos que não 
+foram aprovados.2022. 
+c-) Promover parcerias com empresas de desenvolvimento de software para a utilização de 
+ferramentas tecnológicas no curso; Realizar testes com novo software de simulação – Anylogic 
+com módulos específicos para desenho e simulação da Cadeia de Suprimentos – SCM; Implantar 
+no laboratório de simulação o software ERP AOKI para auxiliar na compreensão dos conteúdos 
+repassados nas salas de aula pelas disciplinas de Movimentação e Armazenagem, Custos 
+Logísticos e Tecnologia Aplicada a Logística; Desenvolver um plano piloto para adaptar o 
+laboratório de maquetes - Logislab - para receber a tecnologia da Realidade Aumentada e RFID. 
+Iniciado em 2021. Em 2022 não houve andamento em função do difícil cenário pós-pandemia. 
+d-) Instalar concertina na cerca da caixa d’água. Reforma e impermeabilização da caixa d’água. 
+Limpeza do corredor atrás das Diretoria de Serviços e Acadêmica. Instalação de alarme de 
+incêndio e alarme de segurança no 3º andar. Fazer um barracão adequado para o trabalho da 
+equipe de limpeza. Arrumar o fundo da Fatec: refazer       o cimentado (atrás do bloco 1). Reparar 
+paredes que estão estufadas por causa da umidade. Vedar os vazamentos do respiro do ar 
+condicionado. Existem vários pontos de deterioração de reboco e piso em todo entorno dos 
+prédios que necessitam de reparo. Alguns reparos realizados em 2021. Em 2022 tivemos outras 
+prioridades mais urgentes.  
+e-) Fazer um mutirão para deixar a cabine do avião em ordem – voluntariado. Trocar os armários 
+da copa/cozinha (estão enferrujando e guardam alimentos). Essas ações estão previstas no PDI 
+para 2021/2022 e aguardando materiais solicitados nos formulários de materiais e 
+equipamentos do PDI 2019-2023, os quais ainda não foram enviados para Unidade. 
+f-) Intensificar o incentivo da participação do egresso em bancas de TG. Em 2020 isso não 
+ocorreu. Realizado parcialmente em 2021 através do levantamento de possíveis egressos para 
+145 
+ 
+_____________________________________________________________________________________________ 
+ 
+Administração Central 
+Unidade do Ensino Superior de Graduação 
+ 
+_____________________________________________________________________________________________________________________________________________ 
+www.cps.sp.gov.br 
+Rua dos Andradas, 140  •  Santa Ifigênia  •  01208-000  •  São Paulo  •  SP  •  Tel.: (11) 3324-3300 
+ 
+ 
+ 
+ 
+ 
+Comissão de Análise dos PDIs das FATECs. 
+ 
+participação em bancas de Trabalho de Graduação. Em 2022 não houve continuidade. 
+g-) Divulgação de pesquisas sobre emprego, casos de sucesso de alunos formados na Fatec 
+Indaiatuba. Teve início em 2020, mas estagnou em função da pandemia COVID19 (2020-2021). 
+Em 2022 foram retomadas as pesquisas por parte das Coordenações de Cursos. 
+h-) A contratação de professores e a ampliação de aulas teve melhorias significativas. O que a 
+Instituição espera é que a contratação de funcionários administrativos aconteça: Auxiliares 
+docentes, ATAS e Bibliotecário. Em 2019 e 2020, dois ATAS se exoneraram. Nenhum funcionário 
+foi contratado em 2019, nem 2020 e nem em 2021. Houve uma transferência de ATA de Praia 
+Grande para Indaiatuba, mas pediu exoneração também. Houve outra transferência de ATA da 
+Etec Nova Odessa em 2022, o qual ainda está conosco. Em 2023 receberemos mais uma ATA 
+transferido da Etec de Araçatuba.  
+i-) Buscar orientação na unidade central do CPS sobre quais são as opções de verbas e qual é o 
+grau de autonomia da unidade de ensino em buscar verba com destino certo ou recurso certo 
+(definido) junto a órgãos públicos, empresas públicas, empresas de economia mista e empresas 
+privadas. Exemplo: doação em dinheiro, doação em produtos/mercadorias e doação de 
+prestação de serviços com direito de divulgação: apoio cultural/acadêmico de infraestrutura da 
+empresa x na execução de tal coisa. Sem êxito nas informações em 2022. 
+j-) Criação da sala Maker – Não iniciada – Faltam materiais, equipamentos e mobiliários 
+solicitados em 2022 e que ainda não foram entregues pela UGAF e UIE. 
+k-) Modernização das alas de aulas com cortinas blackout e novos ventiladores – ainda não 
+recebemos esses matérias solicitados em 2022 na UGAF e na UIE. 
+l-) Modernização do auditório com poltronas, tapetes e mesas de centro para palestras e eventos 
+– ainda não recebemos esses itens solicitados em 2022 na UGAF e na UIE. 
+m-) Ampliação de softwares de Logística e Gestão para uso de alunos e professores – ainda não 
+recebemos esses itens solicitados em 2022 na UGAF e na UIE. 
+Observação: Importante ressaltar que esta Unidade de Ensino tem feito em 2019, 2020, 2021 e 
+2022 solicitações de materiais, equipamentos e máquinas para UGAF e UIE e não tem tido 
+respostas efetivas sobre esses pedidos. Um PDI necessita ser realizado também em consonância 
+entre as unidades e os departamentos responsáveis pela área financeira e de infraestrutura do 
+CEETEPS.  
+A Direção. 

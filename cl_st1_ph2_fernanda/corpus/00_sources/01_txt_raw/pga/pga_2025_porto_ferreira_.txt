@@ -1,0 +1,3482 @@
+PLANO DE GESTÃO ANUAL 
+PGA 2025 
+V04 
+Estruturado em uma única etapa, contendo 2 anexos: 
+PLANEJAMENTO PELA EQUIPE GESTORA DA UE 
+• Anexo 1 – Lista de equipamentos necessários aos projetos 
+• Anexo 2 – Lista de Ações/Projetos referentes à CPA (Origem 3: Gestão Tática – CPA) 
+ 
+IDENTIFICAÇÃO DA UNIDADE 
+Unidade 
+código 
+F311F290 
+Fatec Porto Ferreira 
+Diretor(a) 
+Rafael Ferreira Alves 
+ 
+PLANEJAMENTO PELA EQUIPE GESTORA DA UE 
+(Administração da Faculdade - Deliberação CEETEPS 31/2016) 
+ANÁLISE DO CENÁRIO 
+Descrever de forma breve e objetiva o cenário da Unidade perante sua missão como Unidade de Ensino na localidade em que 
+se encontra (é este cenário que se pretende melhorar). 
+Porto Ferreira é uma cidade localizada no interior do estado de São Paulo situada a cerca de 150 226 km da capital 
+paulista, em uma região de relevo variado, com áreas planas e montanhosas. Sua história e características são 
+marcadas por aspectos culturais, econômicos e sociais que refletem o desenvolvimento da região ao longo do 
+tempo. No final do século XIX e início do século XX, a cidade passou por um crescimento significativo devido à 
+expansão da agricultura, especialmente com a cultura do café, que se tornou a principal atividade econômica. O 
+desenvolvimento das ferrovias também contribuiu para o aumento do comércio e da população. Com o passar dos 
+anos, Porto Ferreira se diversificou economicamente, além da agricultura, a cidade passou a contar com 
+indústrias, comércio e serviços. Atualmente com cerca de 80 indústrias cerâmicas e essa atividade econômica 
+representa aproximadamente 40% da economia local, com mais de 5 mil empregos gerados anualmente, a 
+cerâmica é uma importante fonte de trabalho e renda para a população. Porto Ferreira passou a ser considerada a 
+Capital Nacional da Cerâmica Artística e da Decoração, o título foi assegurado pela Lei 13.492/2017. 
+Com a expansão do setor industrial e a atuação de empresas em diversos segmentos, a demanda por serviços 
+logísticos, como transporte, armazenagem e distribuição, tem crescido significativamente. Além disso, a presença 
+de transportadoras e centros de distribuição na região desempenha um papel crucial na eficiência das operações 
+logísticas.  
+Diante deste cenário, com o apoio político local, surge a FATEC – Faculdade de Tecnologia de Porto Ferreira, sendo 
+uma das principais instituições de ensino superior da cidade. A FATEC oferece cursos na área de tecnologia 
+estruturados para integrar teoria e prática, como o superior de Logística e DSM – Desenvolvimento de Software 
+Multiplataforma, com o principal objetivo de formar mão de obra qualificada para atender às demandas do 
+mercado local e regional. Além disso, a instituição se compromete a desenvolver competências essenciais nos 
+alunos, como habilidades técnica e autoconsciência, empatia e gestão de emoções, os alunos aprendem a lidar 
+com desafios e a interagir de maneira eficaz em ambientes de trabalho colaborativos, preparando-o para a 
+inovação e a adaptação às constantes mudanças do setor tecnológico. A FATEC também tem objetivo de 
+estabelecer parcerias com empresas locais, proporcionando estágios, oportunidades de networking e atividades 
+de extensão o que enriquece ainda mais a experiência educacional. 
+ 
+ 
+• Discorrer sobre o cenário, realizando um breve diagnóstico (limitar o espaço da escrita, para que seja inserido de forma sucinta). 
+APONTAMENTO DE SITUAÇÕES-PROBLEMA MAIS RELEVANTES 
+Fontes: relatório CPA, análise de processos críticos da UE, relatório de atendimento e ocorrências Hórus, relatório NDE, 
+relatório de representação discente (DA, Atlética, representantes de turma), relatório CIPA, entre outros. 
+1 
+cat 0.1.03 - Infraestrutura predial (espaços, 
+sistemas) 
+ 
+5 
+cat 0.1.10 - Gestão da unidade de ensino e dos cursos 
+(indicadores) 
+2 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de 
+ensino 
+ 
+6 
+cat 0.1.08 - Participação da comunidade e sociedade 
+3 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+ 
+7 
+cat 0.1.12 - Acesso e transporte à Unidade de Ensino 
+4 
+cat 0.1.11 - Segurança pessoal e patrimonial 
+ 
+8 
+Escolher um item. 
+Outra – Especificar: nn 
+ 
+Objetivos Institucionais – CPS (Plano de Metas) 
+1) Atender às demandas sociais e do mercado de trabalho. 
+2) Obter a satisfação dos públicos que se relacionam com o Centro Paula Souza (stakeholders). 
+3) Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem. 
+4) Assegurar a perenidade do crescimento da instituição com recursos financeiros disponíveis. 
+5) Garantir celeridade e efetividade na prestação de serviços. 
+6) Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no desenvolvimento tecnológico e inovação. 
+7) Promover a cultura de inovação e empreendedorismo. 
+8) Aumentar a eficiência, a produtividade e a competitividade da instituição. 
+9) Ampliar a oferta da Educação Profissional. 
+10) Resolução Conjunta SOG/SFP/SG-3, de 28-12-2022 - Bonificação por Resultados – BR das Secretarias de Estado, Procuradoria Geral do Estado, 
+Controladoria Geral do Estado e das Autarquias, de que trata a LC 1361-2021 
+Objetivos Institucionais – Cesu (Plano de Metas) 
+A. Integrar as diferentes modalidades de ensino, otimizando itinerários e tempo para a formação profissional. 
+B. Inovar processos de ensino e aprendizagem para manter excelência diante do mercado. 
+C. Ampliar a capacidade de criar e atualizar cursos em parceria com o mercado. 
+D. Expandir e ampliar a capacidade de articulação com Governos e Setores Produtivos. 
+E. Promover a captação de recursos extras e não orçamentários. 
+Atenção: Determinação da Origem (prioridade) de uma Ação ou Projeto de Melhoria que compõe o PGA, a fim de ordenar os graus de prioridade tomando-se por 
+base atos normativos regulatórios das atividades do CPS, e a governança institucional, por suas esferas Estratégica, Tática e Operacional: 
+Grau 1 - URGÊNCIA DE REGULAÇÃO - prioridade máxima (advinda do MEC, CEE, MP, Vigilância Sanitária ou notificação de qualquer órgão regulador/fiscalizador) 
+- fundamentação: notificação de fiscalização, diligência de regulação, termo de ajustamento de conduta, relatório circunstanciado, dentre outros 
+emanados de órgãos que impõem ações para cumprimento com regularidade normativa da instituição. 
+Grau 2 - URGÊNCIA ESTRATÉGICA - Gestão Estratégica do CPS (AMS, novos cursos e unidades, programas de governo) - fundamentação: PPA do CPS, ações de 
+governo conduzidas pela Superintendência do CPS. 
+Grau 3 - PRIORIDADE ALTA - Gestão Tática (ações correlatas à Avaliação institucional - ENADE, WebSAI, CPA, Observatório Escolar). - fundamentação: processo 
+avaliativo de órgãos reguladores, processo avaliativo interno do CPS. 
+Grau 4 - PRIORIDADE MÉDIA - Gestão Operacional para aumento da capacidade instalada. - fundamentação: plano operacional de gestão, homologado pela 
+respectiva área da intendência, com foco na atividade fim do CPS. 
+Grau 5 - PRIORIDADE REGULAR - Gestão Operacional para preservação da capacidade instalada. - fundamentação: plano operacional de gestão, homologado 
+pela respectiva área da intendência, com foco na atividade fim do CPS. 
+ 
+ESTRUTURAÇÃO DAS AÇÕES/PROJETOS 
+01 - Didático-pedagógico 
+Ações associadas ao PPC/PE de CSTs e Disciplinas: CST (implantação, alteração, readequação, reestruturação), 
+prática pedagógica (PE, PA), projeto interdisciplinar/ integrador, extensão curricularizada. 
+ 
+AÇÃO/PROJETO (Tema) 
+101 - cat 1.01 - Adequação/reestruturação de PPC, implantação de novos cursos. 
+Origem (prioridade): 
+2-Gestão Estratégica Institucional (AMS, novos cursos e unidades) 
+O que será feito: 
+Alteração de turno do curso de DSM – Desenvolvimento de Software Multiplataforma  
+Por que será feito: 
+Visto que o curso no período matutino não teve adesão significativa, principalmente devido ao 
+horário e ao perfil da população de Porto Ferreira. Solicitamos a alteração do curso no 2 semestre 
+de 2025 para o período noturno, visando contribuir com o fortalecimento da formação profissional 
+da nossa comunidade e minimizar problemas como baixa demanda, evasão e integração com o 
+mercado de trabalho. 
+Responsável: 
+<nome> Rafael Ferreira Alves 
+Qde CH/sem: 
+00 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+00 
+Tipo: Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+00 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/04/2025 
+Data final: 
+18/04/2025 
+Etapas do processo: 
+01- Solicitação para Coordenação Pedagógica.  
+01/04 
+04/04 
+ 
+02- Análise e viabilidade do pedido. 
+07/04 
+11/04 
+ 
+03- Autorização da alteração de turno. 
+14/04 
+18/04 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn. 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+.  
+Fonte(s) dos recursos: 
+. 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+X 
+ 
+AÇÃO/PROJETO (Tema) 
+102 - cat 1.15 - Recursos humanos (auxiliar de docente) 
+Origem (prioridade): 
+6-Outra 
+O que será feito: 
+Contratação de Auxiliar Docente 
+Por que será feito: 
+Muitas disciplinas técnicas exigem atividades práticas e laboratoriais. Um auxiliar pode auxiliar na 
+organização e supervisão dessas atividades, garantindo a segurança e a eficácia do aprendizado. 
+O auxiliar docente pode ajudar com tarefas administrativas, como a organização de materiais, 
+preparação de aulas, e gestão de documentos, liberando os professores para se dedicarem mais 
+ao ensino. 
+Responsável: 
+<nome> Roseane C. D. Mousessianafael Ferreira Alves 
+Qde CH/sem: 
+00 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome>  
+Qde CH/sem: 
+00 
+Tipo: Escolher um item. 
+Colaborador(a): 
+<nome>  
+Qde CH/sem: 
+00 
+Tipo: Escolher um item. 
+Período de execução: 
+Data inicial: 
+24/03/2025 
+Data final: 
+30/04/2025 
+Etapas do processo: 
+01- Envio de oficio para Coordenação Pedagógica.  
+24/03 
+28/03 
+ 
+02- Análise e viabilidade do pedido. 
+31/03 
+04/04 
+ 
+03- Abertura de edital para inscrição. 
+07/04 
+18/04 
+ 
+04- Contratação do auxiliar docente. 
+21/04 
+30/04 
+ 
+05- nn. 
+dd/mm 
+dd/mm 
+ 
+06- nn. 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+. 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.06 - Quantidade de professores/funcionários 
+X 
+ 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+103 - cat 1.10 - Mobiliário das salas de aula e implantação de espaços pedagógicos 
+Origem (prioridade): 
+6-Outra 
+O que será feito: 
+Aquisição de aparelhos de som e microfones para salas de aulas. 
+Por que será feito: 
+Devido ao barulho excessivo dos ventiladores na sala, os alunos não conseguem acompanhar as 
+aulas e professor não consegue expor vídeos com som, com a aquisição desses equipamentos 
+poderemos amenizar esse problema, até que seja feito a instalação dos aparelhos de ar 
+condicionado.  
+Responsável: 
+<nome> Rafael Ferreira Alves Rafael Ferreira Alves 
+Qde CH/sem: 
+00 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): Roseane C. D. Mousessian<nome> nn 
+Qde CH/sem: 
+00 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+00 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/04/2025 
+Data final: 
+18/04/2025 
+Etapas do processo: 
+01- Avaliação das necessidades de aquisição. 
+01/04 
+04/04 
+ 
+02- Consulta a empresas especializadas e tomada de orçamentos. 
+07/04 
+11/04 
+ 
+03- Aquisição e instalação dos equipamentos. 
+14/04  
+18/04 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+. 
+Fonte(s) dos recursos: 
+. 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+X 
+ 
+AÇÃO/PROJETO (Tema) 
+104 - cat 1.10 - Mobiliário das salas de aula e implantação de espaços pedagógicos 
+Origem (prioridade): 
+4-Gestão Operacional - Aumento de capacidade instalada 
+O que será feito: 
+Instalação do sistema de som e ar condicionado para o auditório 
+Por que será feito: 
+Um sistema de som adequado assegura que todos os participantes ouçam claramente as 
+apresentações, palestras e discussões, independentemente de onde estejam sentados no 
+auditório. O ar condicionado ajuda a manter uma temperatura agradável, especialmente em dias 
+quentes, criando um ambiente propício para palestras, aulas e eventos. 
+Responsável: 
+Rafael Ferreira Alves <nome> Rafael Ferreira Alves Qde 
+CH/sem: 
+nn 
+Tipo: H - Hora <não 
+tipificada> 
+Colaborador(a): Roseane C. D. Mousessian<nome> nn 
+Qde 
+CH/sem: 
+nn 
+Tipo: H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/04/2025 
+Data final: 
+30/06/2025 
+Etapas do processo: 
+01- Avaliação das necessidades de aquisição. 
+01/04 
+18/04 
+ 
+02- Consulta a empresas especializadas e tomada de orçamentos. 
+21/04 
+09/05 
+ 
+03- Aquisição e instalação dos equipamentos. 
+12/05 
+30/06 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+Recursos do CPS 
+Situação problema: 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+(a ser resolvida/mitigada) 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+X 
+ 
+ 
+AÇÃO/PROJETO 
+(Tema) 
+1054 - cat 1.06 - Ações pedagógicas: visitas técnicas, projetos integradores/interdisciplinares, 
+dias de campo, feira das profissões, cursos extracurriculares para alunos. 
+Origem 
+(prioridade): 
+2-Gestão Estratégica Institucional (AMS, novos cursos e unidades) 
+O que será feito: 
+Reuniões com Professores e membros do NDE 
+Por que será feito: 
+Reuniões com um grupo de professores com formação e titulação, experiência e 
+conhecimento relevantes para o curso, atividades acadêmicas do curso, buscando a 
+interdisciplinaridade e zelando pelo cumprimento das diretrizes curriculares nacionais do 
+curso, com base na distribuição semestral das disciplinas do curso em reestruturação para  
+anual com base nas determinações do Centro Paula Souza com o intuito de atender 
+corretamente a todas as normas e exigências estabelecidas pelo Ministério da Educação. 
+Responsável: 
+<nome> Carlos Eduardo 
+Francischetti 
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de 
+execução: 
+Data inicial: 
+04/08/2025 
+Data final: 
+25/12/2025 
+Etapas do processo: 01- Reuniões Periódicas com Professores representantes do NDE do 
+Curso 
+04/08 
+25/12 
+ 
+02- Reunião para tratar de: PIL, Proj. Ativ. Pedagógicas, Ementas das 
+Disciplinas, PPC, Projetos HAEs, Vestibular, NDE e atribuição de aulas 
+15/09 
+30/09 
+ 
+03- Reunião para tratar alteração da grade do curso de semestral 
+para anual 
+01/10 
+31/10 
+ 
+04- Reunião para tratar de atribuições de notas, apresentação de 
+trabalhos PIL e de Projetos 
+01/11 
+28/11 
+ 
+05- Reunião para fechamento do semestre via siga e aprovação 
+horário de aulas semestral e anual para 2026 
+01/12 
+18/12 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se 
+houver): 
+nn 
+Fonte(s) dos recursos: Recursos do CPS 
+Situação problema: cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser 
+resolvida/mitigada) 
+cat 0.1.13 - Relacionamento interpessoal da equipe 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AÇÃO/PROJETO 
+(Tema) 
+1064 - cat 1.01 - Adequação/reestruturação de PPC, implantação de novos cursos. 
+Origem 
+(prioridade): 
+2-Gestão Estratégica Institucional (AMS, novos cursos e unidades) 
+O que será feito: 
+Reuniões com Representantes de salas 
+Por que será feito: 
+As Reuniões com representantes visa esclarecer dúvidas e estreitar as relações, além de saber 
+quais os anseios e expectativas dos discentes, resolver problemas e conflitos; promover o 
+engajamento do representante e seus colegas nas atividades escolares e demais demandas 
+que possam surgir 
+Responsável: 
+<nome> Carlos Eduardo 
+Francischetti 
+Qde CH/sem: 
+01 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de 
+execução: 
+Data inicial: 
+04/08/2025 
+Data final: 
+25/12/2025 
+Etapas do processo: 01- Reuniões Periódicas com Representantes Discentes 
+04/08 
+25/12 
+ 
+02- - Aula Inaugural  abordando estrutura do curso de gestão em 
+Logística com todos os alunos da turma 
+06/08 
+08/08 
+ 
+03- - Reunião para tratar Feira da Empregabilidade solicitando a 
+todos os alunos participação e  
+01/09 
+30/09 
+ 
+04- Reunião para tratar confraternização entre os cursos de Logística 
+e DSM com arrecadação de produtos para entidade carente da 
+cidade: Reamar - Lar de Crianças e divulgação para as inscrições do 
+vestibular 
+01/10 
+30/10 
+ 
+05- cccs 
+dd/mm 
+dd/mm 
+ 
+06- cccs 
+dd/mm 
+dd/mm 
+ 
+07- cccs 
+dd/mm 
+dd/mm 
+ 
+08- cccs 
+dd/mm 
+dd/mm 
+Custo R$ (se 
+houver): 
+nn 
+Fonte(s) dos recursos: Recursos do CPS 
+Situação problema: cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser 
+resolvida/mitigada) 
+cat 0.1.13 - Relacionamento interpessoal da equipe 
+ 
+ 
+01 – Didático-Pedagógico: Copiar projetos de 2024 
+AÇÃO/PROJETO (Tema) 
+101 - cat 1.11 - Ações de nivelamento de conhecimento, ENADE, acolhimento e permanência discente. 
+Origem (prioridade): 
+2-Gestão Estratégica Institucional (AMS, novos cursos e unidades) 
+AÇÃO/PROJETO 
+ 
+O que será feito: 
+Por que será feito: 
+Responsável(is) / CH sem: 
+. 
+Período de execução: 
+Data de início: 
+Data final: 
+ 
+Etapas do processo: 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo (se houver): 
+Fonte(s) dos recursos: 
+Objetivo(s) relacionado(s): 
+Meta(s) relacionada(s): 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+102 - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+AÇÃO/PROJETO 
+ 
+O que será feito: 
+Por que será feito: 
+Responsável(is) / CH sem: 
+Período de execução: 
+Data de início: 
+ 
+Data final: 
+ 
+ 
+Etapas do processo: 
+ 
+ 
+Custo (se houver): 
+. 
+Fonte(s) dos recursos: 
+Objetivo(s) relacionado(s): 
+Meta(s) relacionada(s): 
+ 
+AÇÃO/PROJETO (Tema) 
+103 - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+AÇÃO/PROJETO 
+ 
+O que será feito: 
+Por que será feito: 
+Responsável(is) / CH sem: 
+Período de execução: 
+Data de início: 
+ 
+Data final: 
+ 
+ 
+Etapas do processo: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo (se houver): 
+Fonte(s) dos recursos: 
+Objetivo(s) relacionado(s): 
+Meta(s) relacionada(s): 
+ 
+02 – Laboratórios - Ensino e Equipamentos Associados 
+Ações para melhoramento dos laboratórios de Ensino (Gestão e Equipamentos): Melhoramento de 
+equipamentos, mediante instalação, manutenção, desuso, doação, e gestão de ambiente laboratorial. 
+ 
+AÇÃO/PROJETO (Tema) 
+201 - cat 2.03 - Ambiente multidisciplinar de ensino - implantação/melhoramento com recursos 
+PEDAGÓGICOS 
+Origem (prioridade): 
+6-Outra 
+O que será feito: 
+Aquisição de mobiliário para Sala Maker 
+Por que será feito: 
+A sala maker é um ambiente que pode ser muito utilizado em atividades diversas. A unidade 
+possui o espaço físico necessário para implantação, porem no kit nascimento não recebemos 
+nenhum dos mobiliários previsto. 
+Responsável: 
+Rafael Ferreira Alves <nome> Rafael Ferreira Alves Qde 
+CH/sem: 
+00 
+Tipo: H - Hora <não 
+tipificada> 
+Colaborador(a): Roseane C. D. Mousessian<nome>  
+Qde 
+CH/sem: 
+00 
+Tipo: H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome>  
+Qde CH/sem: 
+00 
+Tipo: Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/04/2025 
+Data final: 
+30/04/2025 
+Etapas do processo: 
+01- Verificar a existência de contratos de compras vigentes na UGAF . 
+01/04 
+09/04 
+ 
+02- Transferência dos equipamentos para unidade. 
+10/04 
+14/04 
+ 
+03- Contratação de prestador de serviço para montagem dos mobiliários e 
+instalação dos equipamentos. 
+17/04 
+30/04 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+. 
+Fonte(s) dos recursos: 
+Recursos do CPS 
+Situação problema: 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+(a ser resolvida/mitigada) 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+X 
+AÇÃO/PROJETO (Tema) 
+202 - cat 2.02 - Laboratório informática - implantação/melhoramento com recursos PEDAGÓGICOS 
+Origem (prioridade): 
+2-Gestão Estratégica Institucional (AMS, novos cursos e unidades) 
+O que será feito: 
+Implantação de um laboratório de informática com 20 computadores  
+Por que será feito: 
+O Laboratório de informática será um ambiente muito importante pois visa garantir a inclusão 
+digital e a formação das competências e habilidades na área da tecnologia da informação. Sendo 
+muito utilizado nas aulas práticas.  
+Responsável: 
+Roseane C. D. Mousessian<nome> Rafael Ferreira 
+Alves 
+Qde CH/sem: 
+00 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): Regional de Informática<nome>  
+Qde CH/sem: 
+00 
+Tipo: Escolher um item. 
+Colaborador(a): 
+<nome>  
+Qde CH/sem: 
+00 
+Tipo: Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/04/2025 
+Data final: 
+30/04/2025 
+Etapas do processo: 
+01- Verificar a existência de contratos de compras vigentes na UGAF 
+01/04 
+11/04 
+ 
+02- Transferência dos equipamentos para unidade. 
+14/04 
+18/04 
+ 
+03- Contratação de prestador de serviço para montagem dos mobiliários e 
+instalação dos equipamentos. 
+21/04 
+30/04 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+ 
+Fonte(s) dos recursos: 
+Recursos do CPS 
+Situação problema: 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+(a ser resolvida/mitigada) 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+X 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+203 - cat 2.03 - Ambiente multidisciplinar de ensino - implantação/melhoramento com recursos 
+PEDAGÓGICOS 
+Origem (prioridade): 
+4-Gestão Operacional - Aumento de capacidade instalada 
+O que será feito: 
+Aquisição de 80 notebook para as novas turmas do 2º semestre de 2025 
+Por que será feito: 
+A aquisição dos aparelhos se faz necessária para atender as demandas com as turmas 
+ingressantes do 2° semestre, o aparelho de notebooks é mais fácil de manusear otimizando os 
+espaços físicos da unidade.  
+Responsável: 
+<nome> Rafael Ferreira Alves 
+Qde CH/sem: 
+nn 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/06/2025 
+Data final: 
+31/07/2025 
+Etapas do processo: 
+01- Avaliação das necessidades de instalação. 
+01/06 
+06/06 
+ 
+02- Consulta a empresas especializadas e tomada de orçamentos. 
+09/06 
+30/06 
+ 
+03- Compra dos equipamentos. 
+01/07 
+31/07 
+ 
+04- Recebimento dos equipamentos na unidade -  NFe 143812nn 
+dd/mm11/0
+9 
+dd/mm
+11/09 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+Recursos do CPS 
+Situação problema: 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+(a ser resolvida/mitigada) 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+X 
+ 
+AÇÃO/PROJETO (Tema) 
+204 - cat. 2.99 - Outra 
+Origem (prioridade): 
+6-Outra 
+O que será feito: 
+Aquisição de impressoras para área administrativa e pedagógica 
+Por que será feito: 
+A gestão de documentos é uma parte crucial do processo educacional, e as impressoras 
+desempenham um papel vital nesse aspecto. Ao imprimir documentos importantes, como 
+calendários acadêmicos, listas de tarefas e comunicados facilita a comunicação com os alunos, 
+docentes e servidores.  
+Responsável: 
+Rafael Ferreira Alves <nome> Rafael Ferreira Alves Qde 
+CH/sem: 
+nn 
+Tipo: H - Hora <não 
+tipificada> 
+Colaborador(a): Roseane C. D. Mousessian<nome> nn 
+Qde 
+CH/sem: 
+nn 
+Tipo: H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/04 
+Data final: 
+30/04/2025 
+Etapas do processo: 
+01- Avaliação das necessidades de aquisição. 
+dd/mm 
+dd/mm 
+ 
+02- Consulta a empresas especializadas e tomada de orçamentos. 
+dd/mm 
+dd/mm 
+ 
+03- Aquisição e instalação dos equipamentos 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Formatado: Fonte: (Padrão) +Corpo (Calibri)
+ 
+AÇÃO/PROJETO 
+(Tema) 
+205 - cat 2.03 - Ambiente multidisciplinar de ensino - implantação/melhoramento com 
+recursos PEDAGÓGICOS 
+Origem (prioridade): 6-Outra 
+O que será feito: 
+Projetores de Multimídia ou Televisores para as salas de aula 
+Por que será feito: 
+A aquisição desses equipamentos serve de auxílio pedagógico, pois permite que o docente 
+trabalhe o conteúdo de forma mais dinâmica, otimizando o tempo de aula e facilitando a 
+contextualização da matéria. 
+Responsável: 
+Rafael Ferreira Alves Qde CH/sem: nn Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Roseane C. D. 
+Mousessian<nome> 
+nn 
+Qde CH/sem: nn Tipo: 
+H - Hora <não 
+tipificada> 
+ Colaborador(a): 
+<nome> nn 
+Qde CH/sem: nn Tipo: 
+Escolher um item. 
+Período de execução: Data inicial: 
+01/04/2025 
+Data final: 30/04/2025 
+Etapas do processo: 01- Verificar a existência de contratos de compras vigentes . 
+01/04 
+04/04 
+ 
+02- Transferência de equipamentos obsoleto de outra unidade.. 
+07/04 
+11/04 
+ 
+03- Consulta a empresas especializadas e tomada de orçamentos. 
+17/04 
+31/04 
+ 
+04- Efetivação da compra. 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se 
+houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+(a ser 
+resolvida/mitigada) 
+cat 0.1.99 - Outra 
+ 
+ 
+ 
+Tabela formatada
+02 – Laboratórios: Copiar projetos de 2024 
+ 
+AÇÃO/PROJETO (Tema) 
+201 - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+AÇÃO/PROJETO 
+O que será feito: 
+Por que será feito: 
+Responsável(is) / CH sem: 
+Período de execução: 
+Data de início: 
+ 
+Data final: 
+ 
+ 
+Etapas do processo: 
+ 
+ 
+Custo (se houver): 
+. 
+Fonte(s) dos recursos: 
+Objetivo(s) relacionado(s): 
+Meta(s) relacionada(s): 
+ 
+AÇÃO/PROJETO (Tema) 
+202 - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+AÇÃO/PROJETO 
+ 
+O que será feito: 
+Por que será feito: 
+Responsável(is) / CH sem: 
+Período de execução: 
+Data de início: 
+ 
+Data final: 
+ 
+ 
+Etapas do processo: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo (se houver): 
+Fonte(s) dos recursos: 
+. 
+Objetivo(s) relacionado(s): 
+Meta(s) relacionada(s): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Tabela formatada
+Tabela formatada
+03 – Pesquisa / Extensão e Equipamentos Associados 
+Ações para melhoramento dos laboratórios que contemplam Pesquisa além do Ensino (Equipamentos): 
+melhoramento dos espaços de pesquisa, que inclui especificação equipamentos e aquisição por fomento ou por 
+projeto com empresa, e também prestação de serviços no campo tecnológico para instituições e empresas. 
+ 
+AÇÃO/PROJETO (Tema) 
+301 - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+O que será feito: 
+ 
+Por que será feito: 
+. 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+00 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+00 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/02/2025 
+Data final: 
+30/12/2025 
+Etapas do processo: 
+01- nn. 
+dd/mm 
+dd/mm 
+ 
+02- nn. 
+dd/mm 
+dd/mm 
+ 
+03- nn. 
+dd/mm 
+dd/mm 
+ 
+04- nn. 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn. 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+302 - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+O que será feito: 
+nn. 
+Por que será feito: 
+nn. 
+Responsável: 
+<nome> n 
+Qde CH/sem: 
+04 
+Tipo: Escolher um item. 
+Colaborador(a): 
+<nome> Lígia 
+Qde CH/sem: 
+04 
+Tipo: Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+nn 
+Data final: 
+nn 
+Etapas do processo: 
+01- nn. 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn. 
+dd/mm 
+dd/mm 
+ 
+04- nn. 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+. 
+Fonte(s) dos recursos: 
+. 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+ 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+303 - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+304 - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+ 
+ 
+03 – Pesquisa/Extensão: Copiar projetos de 2024 
+ 
+AÇÃO/PROJETO (Tema) 
+301 - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+AÇÃO/PROJETO 
+ 
+O que será feito: 
+Por que será feito: 
+Responsável(is) / CH sem: 
+Período de execução: 
+Data de início: 
+Data final: 
+ 
+Etapas do processo: 
+Custo (se houver): 
+Fonte(s) dos recursos: 
+Objetivo(s) relacionado(s): 
+Meta(s) relacionada(s): 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+302 - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+AÇÃO/PROJETO 
+ 
+O que será feito: 
+Por que será feito: 
+Responsável(is) / CH sem: 
+Período de execução: 
+Data de início: 
+ 
+Data final: 
+ 
+ 
+Etapas do processo: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo (se houver): 
+Fonte(s) dos recursos: 
+Objetivo(s) relacionado(s): 
+Meta(s) relacionada(s): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+04 – Atividades Formativas em Projetos (nível tático) 
+Projetos institucionais formativos não especificados em PEs: Rede de tecnologia, Novotec, PCI, Projetos 
+estudantis (Baja, Aerodesign, entre outros) 
+ 
+AÇÃO/PROJETO (Tema) 
+401 - cat 4.04 - Projetos estudantis diversos 
+Origem (prioridade): 
+2-Gestão Estratégica Institucional (AMS, novos cursos e unidades) 
+O que será feito: 
+Oferecimento de cursos do programa Q-bfic para comunidade. 
+Por que será feito: 
+Para capacitar a comunidade local proporcionando oportunidades de emprego, melhoria na 
+remuneração e auxilio nos empreendimentos. Os cursos podem incentivar o empreendedorismo 
+e inovação além de fortalecer e trazer maior visibilidade para instituição.  
+Responsável: 
+<nome> Rafael Ferreira Alves 
+Qde CH/sem: 
+nn 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): Kathleen Maria Franco Borges<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/07/2025 
+Data final: 
+31/12/2025 
+Etapas do processo: 
+01- Verificar na UFIEC os prazos de adesão 
+01/07 
+04/07 
+ 
+02- Fazer uma pesquisa com a comunidade para definição do curso 
+07/07 
+18/07 
+ 
+03- Iniciar as inscrições e matricula dos interessados 
+21/07 
+25/07 
+ 
+04- Contratar professores para ministrar as aulas 
+28/07 
+01/08 
+ 
+05- Oferecimento do curso 
+01/08 
+31/12 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+Recursos do CPS 
+Situação problema: 
+cat 0.1.08 - Participação da comunidade e sociedade 
+(a ser resolvida/mitigada) 
+cat 0.1.08 - Participação da comunidade e sociedade 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+402 - cat 4.04 - Projetos estudantis diversos 
+Origem (prioridade): 
+6-Outra 
+O que será feito: 
+Projeto Logística Verde nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nnCarlos Eduardo Francischetti 
+Qde CH/sem: 
+nn 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> nnMarco Antônio Belo 
+Qde CH/sem: 
+nn 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+ 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.08 - Participação da comunidade e sociedade 
+X 
+X 
+ 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+4023 - cat 4.01 - Projeto de Rede de tecnologia 
+Origem (prioridade): 
+2-Gestão Estratégica Institucional (AMS, novos cursos e unidades) 
+O que será feito: 
+nn Design de Framework para Aplicação de Metodologias Ativas no Ensino Superior -
+Desenvolver frameworks de apoio ao docente para planejamento e aplicação de 
+metodologias ativas em sala de aula, a partir da integração entre design e práticas 
+pedagógicas. 
+Por que será feito: 
+Apesar da ampla divulgação sobre os benefícios das metodologias ativas para o 
+engajamento e a aprendizagem dos estudantes, sua presença efetiva no cotidiano das 
+instituições de ensino superior ainda é restrita. Observa-se que a maioria dos docentes 
+mantém práticas tradicionais, em parte por não dispor de suporte prático para 
+redesenhar suas estratégias de ensino. Diante disso, o design se apresenta como uma 
+abordagem capaz de integrar conhecimentos e propor soluções funcionais. A criação de 
+frameworks específicos, acessíveis e aplicáveis a diferentes contextos, pode apoiar 
+diretamente o professor no planejamento e na execução de aulas com metodologias 
+ativas.nn 
+Responsável: 
+<nome> nnThais Lari Braga Cilli 
+Qde CH/sem: 
+nn 
+Tipo: 
+HP - Hora em Projeto 
+de Pesquisa 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: dd/mm/aaaa01/
+08/2025 
+Data final: 31/12/2026dd/m
+m/aaaa 
+Etapas do processo: 
+01- Planejamento – Levantamento das principais metodologias 
+ativas e escolha de  
+uma para desenvolvimento de um projeto-piloto.01- nn 
+01/08dd/
+mm 
+30/11
+dd/m
+m 
+ 
+02- Formação dos discentes – Realização de curso introdutório 
+sobre fundamentos do design e estruturação de frameworks.02- nn 
+01/02/26d
+d/mm 
+31/01
+/26dd
+/mm 
+ 
+03-  Desenvolvimento – Construção colaborativa do framework a 
+partir da metodologia ativa selecionada, com participação dos 
+discentes 03- nn 
+01/02/26d
+d/mm 
+dd/m
+mdd/
+mm 
+ 
+04- Aplicação – Realização de curso de extensão voltado a docentes 
+da comunidade  
+acadêmica, apresentando a metodologia ativa e o uso do 
+framework.04- nn 
+01/02/26d
+d/mm 
+28/02
+/26dd
+/mm 
+ 
+05- Coleta de dados – Levantamento de informações sobre a 
+experiência de uso do  
+framework pelos docentes participantes do curso de extensão.05- 
+nn 
+01/03/26d
+d/mm 
+30/04
+/26dd
+/mm 
+ 
+06- Análise dos resultados – Definição de ajustes ou continuidade 
+com novas metodologias.06- nn 
+02/01/26d
+d/mm 
+31/07
+/26dd
+/mm 
+ 
+07- 7. Divulgação – Publicação científica, registro de patente e 
+disponibilização pública  
+e gratuita do framework desenvolvido. 07- nn 
+01/10/202
+5dd/mm 
+31/10
+/2026
+dd/m
+m 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.10 - Gestão da unidade de ensino e dos cursos (indicadores) 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+4034 - cat 4.01 - Projeto de Rede de tecnologia 
+Origem (prioridade): 
+6-Outra 
+O que será feito: 
+Design de Framework para Aplicação de Metodologias Ativas no Ensino Superior -
+NnDesenvolver frameworks de apoio ao docente para planejamento e aplicação de 
+metodologias ativas em sala de aula, a partir da integração entre design e práticas 
+pedagógicas. 
+Por que será feito: 
+nnApesar da ampla divulgação sobre os benefícios das metodologias ativas para o 
+engajamento e a aprendizagem dos estudantes, sua presença efetiva no cotidiano das 
+instituições de ensino superior ainda é restrita. Observa-se que a maioria dos docentes 
+mantém práticas tradicionais, em parte por não dispor de suporte prático para 
+redesenhar suas estratégias de ensino. Diante disso, o design se apresenta como uma 
+abordagem capaz de integrar conhecimentos e propor soluções funcionais. A criação de 
+frameworks específicos, acessíveis e aplicáveis a diferentes contextos, pode apoiar 
+diretamente o professor no planejamento e na execução de aulas com metodologias 
+ativas. 
+Responsável: 
+<nome> nn Profª Drª Thaís Lari Braga Cilli 
+Qde CH/sem: nn40 Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+ 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+ 
+Período de execução: 
+Data inicial: 01dd/08mm/20
+25aaaa 
+Data final: 01dd/08mm/2028
+aaaa 
+Etapas do processo: 
+01- nnPlanejamento – Levantamento das principais metodologias 
+ativas e escolha de  
+uma para desenvolvimento de um projeto-piloto. 
+dd01/08mm 30dd/
+mm11 
+ 
+02- nnFormação dos discentes – Realização de curso introdutório 
+sobre fundamentos do design e estruturação de frameworks. 
+01dd/mm02
+/26 
+31dd/
+01/26
+mm 
+ 
+03-  Desenvolvimento – Construção colaborativa do framework a 
+partir da metodologia ativa selecionada, com participação dos 
+discentes nn 
+01dd/02/26
+mm 
+dd/mm 
+ 
+04- nnAplicação – Realização de curso de extensão voltado a 
+docentes da comunidade  
+acadêmica, apresentando a metodologia ativa e o uso do 
+framework. 
+01/02/26d
+d/mm 
+28/02
+/26dd
+/mm 
+ 
+05- nnColeta de dados – Levantamento de informações sobre a 
+experiência de uso do  
+framework pelos docentes participantes do curso de extensão. 
+01dd/03/26
+mm 
+30dd/
+mm04
+/26 
+ 
+06-  Análise dos resultados – Definição de ajustes ou continuidade 
+com novas metodologias.nn 
+02dd/01/26
+mm 
+31dd/
+07/26
+mm 
+ 
+07- 7. Divulgação – Publicação científica, registro de patente e 
+disponibilização pública  
+e gratuita do framework desenvolvido. nn 
+01dd/10/20
+25mm 
+31/01
+/2026
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+R$ 0,00nn 
+Fonte(s) dos recursos: 
+Não tem.nn 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+ 
+X 
+ 
+04 – Atividades Formativas em Projetos: Copiar projetos de 2024 
+ 
+AÇÃO/PROJETO (Tema) 
+ - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+AÇÃO/PROJETO 
+ 
+O que será feito: 
+Por que será feito: 
+Responsável(is) / CH sem: 
+Período de execução: 
+Data de início: 
+Data final: 
+ 
+Etapas do processo: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo (se houver): 
+Nenhum. 
+Fonte(s) dos recursos: 
+Objetivo(s) relacionado(s): 
+Meta(s) relacionada(s): 
+ 
+ 
+ 
+ 
+ 
+05 – Infraestrutura (instalações prediais) 
+Projetos de manutenção e melhoramento predial voltados à segurança (física e sanitária) e preservação do 
+patrimônio: Reparação predial (civil, elétrica, dados), novas instalações prediais. 
+ 
+AÇÃO/PROJETO (Tema) 
+501 - cat 5.05 - Reforma de Edificações 
+Origem (prioridade): 
+4-Gestão Operacional - Aumento de capacidade instalada 
+O que será feito: 
+Solicitação de divisão de quatro salas de aula . 
+Por que será feito: 
+A unidade possui quatro salas de aula superdimensionadas e, com a divisão teremos oito salas de 
+aula, acreditamos que poderemos atender melhor as demandas dos alunos e aumentar a oferta 
+de cursos distintos no mesmo período, contribuindo para a formação profissional da nossa 
+comunidade. 
+Responsável: 
+<nome> Rafael Ferreira Alves 
+Qde CH/sem: 
+ 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): Roseane C. D. Mousessian<nome>  
+Qde CH/sem: 
+ 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome>  
+Qde CH/sem: 
+ 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/04/2025 
+Data final: 
+30/06/2025 
+Etapas do processo: 
+01- Avaliação das necessidades de manutenção. 
+01/04 
+04/04 
+ 
+02- Consulta a empresas especializadas e tomada de orçamentos. 
+10/04 
+14/04 
+ 
+03- Solicitação da contratação da manutenção. 
+17/04 
+30/06 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+ 
+Fonte(s) dos recursos: 
+Recursos do  CPS 
+Situação problema: 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+(a ser resolvida/mitigada) 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+502 - cat 5.01 - Melhoria Sala de Ambientes pedagógicos 
+Origem (prioridade): 
+6-Outra 
+O que será feito: 
+Aquisição e instalação de 10 aparelhos de ar condicionado de 36 mil btus ou Climatizadores nas 
+salas de aula. 
+Por que será feito: 
+Este serviço é extremamente necessário, devido ao aumento de temperatura ocorrido nos últimos anos  a 
+falta de climatização nas salas tem causado um desconforto para alunos e professores, prejudicando o 
+desempenho acadêmico e a concentração, podendo até ser prejudicial para saúde. 
+Responsável: 
+<nome> Rafael Ferreira Alves 
+Qde CH/sem: 
+ 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): Roseane C. D. Mousessian<nome> nn 
+Qde CH/sem: 
+ 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+ 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+21/03/2025 
+Data final: 
+21/04/2025 
+Etapas do processo: 
+01- Avaliação das necessidades de aquisição. 
+01/04 
+04/04 
+ 
+02- Consulta a empresas especializadas e tomada de orçamentos. 
+10/04 
+14/04 
+ 
+03- Aquisição e instalação dos aparelhos de ar condicionado. 
+17/04 
+30/04 
+ 
+04- Solicitar avaliação do regional da CGIEnn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+0,00 
+Fonte(s) dos recursos: 
+Recursos do  CPS 
+Situação problema: 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+(a ser resolvida/mitigada) 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+X 
+X 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+503 - cat 5.05 - Reforma de Edificações 
+Origem (prioridade): 
+5-Gestão Operacional - Preservação de capacidade instalada 
+O que será feito: 
+Construção de passarela coberta interligando as salas de aula ao banheiro . 
+Por que será feito: 
+Uma passarela para pedestre com cobertura, para interligar o acesso das salas de aula aos 
+banheiros da quadra, uma vez que não possuímos banheiros no bloco de aula, a necessidade é 
+extremamente urgente principalmente em dias chuvosos. Desta forma estaremos garantido a 
+acessibilidade aos PCD. 
+Responsável: 
+<nome> Rafael Ferreira Alves 
+Qde CH/sem: 
+0 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+Roseane C. D. Mousessian<nome> nn 
+Qde CH/sem: 
+0 
+Tipo: 
+H - Hora <não 
+tipificada>H - Hora 
+<não tipificada> 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+0 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Período de execução: 
+Data inicial: 
+01/02/2025 
+Data final: 
+30/07/2025 
+Etapas do processo: 
+01- Avaliação das necessidades de instalação. 
+01/02 
+01/03 
+ 
+02- Consulta a empresas especializadas e tomada de orçamentos. 
+01/03 
+01/05 
+ 
+03- Solicitação da contratação do serviço. 
+01/04 
+01/07 
+ 
+04- Solicitar avaliação do regional da CGIE nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+0,00 
+Fonte(s) dos recursos: 
+Recursos do CPS 
+Situação problema: 
+cat 0.1.02 - Manutenção e conservação predial 
+(a ser resolvida/mitigada) 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas)cat 0.1.09 - Acesso/Inclusão ao Ensino 
+Superior (social, PCD) 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+504 - cat 5.01 - Melhoria Sala de Ambientes pedagógicos 
+Origem (prioridade): 
+6-Outra 
+O que será feito: 
+Projetores de Multimídia ou Televisores para as salas de aula 
+Por que será feito: 
+A aquisição desses equipamentos serve de auxílio pedagógico, pois permite que o docente 
+trabalhe o conteúdo de forma mais dinâmica, otimizando o tempo de aula e facilitando a 
+contextualização da matéria. 
+Responsável: 
+<nome> Rafael Ferreira Alves 
+Qde CH/sem: 
+00 
+Tipo: 
+ 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+00 
+Tipo: 
+ 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+00 
+Tipo: 
+ 
+Período de execução: 
+Data inicial: 
+01/04/2025 
+Data final: 
+31/04/2025 
+Etapas do processo: 
+01- Verificar a existência de contratos de compras vigentes . 
+01/04 
+04/04 
+ 
+02- Transferência de equipamentos obsoleto de outra unidade.. 
+07/04 
+11/04 
+ 
+03- Consulta a empresas especializadas e tomada de orçamentos. 
+17/04 
+31/04 
+ 
+04- Efetivação da compra 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+00 
+Fonte(s) dos recursos: 
+Recursos do CPS 
+Situação problema: 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+(a ser resolvida/mitigada) 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+X 
+X 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+5045 - cat 5.01 - Melhoria Sala de Ambientes pedagógicos 
+Origem (prioridade): 
+4-Gestão Operacional - Aumento de capacidade instalada 
+O que será feito: 
+Aquisição de 08 quadro branco para as salas de aula novas  
+Por que será feito: 
+Com a divisão das novas salas, será necessário a aquisição e instalação dos quadrados brancos 
+para que o professor explique e ilustre os conteúdos de forma clara e objetiva. 
+Responsável: 
+Rafael Ferreira Alves 
+Qde CH/sem: 
+00 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): Roseane C. D. Mousessian<nome>  
+Qde CH/sem: 
+00 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+00 
+Tipo: Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/06/2025 
+Data final: 
+30/06/2025 
+Etapas do processo: 
+01- Verificar a existência de contratos de compras vigentes . 
+01/06 
+06/06 
+ 
+02- Transferência de outra unidade.. 
+09/06 
+13/06 
+ 
+03- Consulta a empresas especializadas e tomada de orçamentos. 
+16/06 
+20/06 
+ 
+04- Efetivação da compra e instalação dos quadros. 
+23/06 
+30/06 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+00,00 
+Fonte(s) dos recursos: 
+Recursos do CPS 
+Situação problema: 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+5056 - cat 5.03 - Material Infraestrutura/equipamentos 
+Origem (prioridade): 
+5-Gestão Operacional - Preservação de capacidade instalada 
+O que será feito: 
+Sistema de monitoramento por câmeras de segurança, instalação de alarmes e cerca elétrica 
+Por que será feito: 
+A presença de câmeras, alarmes e cercas elétricas pode aumentar a segurança entre alunos, 
+professores e funcionários, desencorajando a prática de crimes, como furtos e vandalismo. Como 
+a Fatec, possui muitos equipamentos e materiais que podem ser alvo de roubo ou depredação. A 
+instalação de câmeras, alarmes e cercas elétricas ajuda a proteger esses patrimônios, reduzindo 
+perdas financeiras. 
+Responsável: 
+Rafael Ferreira Alves 
+Qde CH/sem: 
+00 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): Roseane C. D. Mousessian<nome> nn 
+Qde CH/sem: 
+00 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+00 
+Tipo: Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/04/2025 
+Data final: 
+31/04/2025 
+Etapas do processo: 
+01 - Elaboração do projeto de instalação das câmeras. 
+01/04 
+04/04 
+ 
+02 - Avaliação e cotação por empresa especializada. 
+07/04 
+11/04 
+ 
+03 - Pedido de contratação do serviço. 
+14/04 
+30/04 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+ 
+Fonte(s) dos recursos: 
+Recursos do CPS 
+Situação problema: 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+5067 - cat 5.05 - Reforma de Edificações 
+Origem (prioridade): 
+5-Gestão Operacional - Preservação de capacidade instalada 
+O que será feito: 
+Construção de passarela coberta interligando os blocos do campus . 
+Por que será feito: 
+Passarelas coberta para interligar o acesso entre os blocos do campus do ; estacionamento até 
+os banheiros, Quadra, Salas de Aula, Refeitório e Administrativo a necessidade é extremamente 
+urgente principalmente em dias chuvosos e para garantir a acessibilidade dos PCDs. 
+Responsável: 
+<nome> Rafael Ferreira Alves 
+Qde CH/sem: 
+0 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): Roseane C. D. Mousessian<nome> nn 
+Qde CH/sem: 
+0 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+0 
+Tipo: Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/04/2025 
+Data final: 
+30/05/2025 
+Etapas do processo: 
+01- Avaliação das necessidades de instalação. 
+01/04 
+11/04 
+ 
+02- Consulta a empresas especializadas e tomada de orçamentos. 
+14/04 
+25/04 
+ 
+03- Contratação do serviço. 
+28/04 
+30/05 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+0,00 
+Fonte(s) dos recursos: 
+Recursos do CPS 
+Situação problema: 
+cat 0.1.02 - Manutenção e conservação predial 
+(a ser resolvida/mitigada) 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+ 
+ 
+ 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+5078 - cat 5.05 - Reforma de Edificações 
+Origem (prioridade): 
+6-Outra 
+O que será feito: 
+Instalação de caixa d'água no bloco administrativo. 
+Por que será feito: 
+Para garantir o abastecimento de água, mesmo quando houver interrupções no fornecimento uma 
+reserva de água proporciona a certeza de que as necessidades básicas podem ser atendidas 
+mesmo em circunstâncias adversas. 
+Responsável: 
+<nome> Rafael Ferreira Alves 
+Qde CH/sem: 
+0 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): Roseane C. D. Mousessian<nome> nn 
+Qde CH/sem: 
+0 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+0 
+Tipo: Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/04/2025 
+Data final: 
+31/04/2025 
+Etapas do processo: 
+01- Avaliação das necessidades de instalação. 
+01/04 
+11/04 
+ 
+02- Consulta a empresas especializadas e tomada de orçamentos. 
+14/04 
+18/04 
+ 
+03- Contratação do serviço. 
+21/04 
+30/04 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+0,00 
+Fonte(s) dos recursos: 
+Recursos do CPS 
+Situação problema: 
+cat 0.1.02 - Manutenção e conservação predial 
+(a ser resolvida/mitigada) 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+5089 - cat 5.05 - Reforma de Edificações 
+Origem (prioridade): 
+6-Outra 
+O que será feito: 
+Iluminação do estacionamento da unidade. 
+Por que será feito: 
+A iluminação apropriada é crucial para garantir a segurança dos estudantes, funcionários e 
+visitantes ao se deslocarem para seus veículos, especialmente durante a noite. Um 
+estacionamento bem iluminado, reduz o risco de acidentes e de atividades criminosas.  
+Responsável: 
+<nome> Rafael Ferreira Alves 
+Qde CH/sem: 
+0 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): Roseane C. D. Mousessian<nome> nn 
+Qde CH/sem: 
+0 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+0 
+Tipo: Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/04/2025 
+Data final: 
+31/04/2025 
+Etapas do processo: 
+01- Avaliação das necessidades de instalação. 
+01/04 
+11/04 
+ 
+02- Consulta a empresas especializadas e tomada de orçamentos. 
+14/04 
+18/04 
+ 
+03- Contratação do serviço. 
+21/04 
+30/04 
+ 
+04- Realização do serviço pela Prefeitura nn 
+30/04dd/m
+m 
+dd/mm
+30/04 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+0,00 
+Fonte(s) dos recursos: 
+Recursos do CPS 
+Situação problema: 
+cat 0.1.02 - Manutenção e conservação predial 
+(a ser resolvida/mitigada) 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+06 - Desenvolvimento de pessoas (docentes e servidores) 
+Formação continuada de docentes e servidores, associadas às competências gerais e específicas de suas 
+atividades: Metodologias de ensino, Tecnologias educacionais, Sistemas (processos, procedimentos, plataformas 
+computacionais) acadêmicos e pedagógicos. 
+ 
+AÇÃO/PROJETO (Tema) 
+601 - cat 6.01 - Curso/Oficina/Capacitação/ Treinamento/ Palestra/Reunião/Encontro 
+Origem (prioridade): 
+6-Outra 
+O que será feito: 
+Capacitação do sistema SIGA para os docentes e servidores 
+Por que será feito: 
+Capacitar os professores e funcionários na utilização do sistema SIGA – Sistema Integrado de 
+Gestão Acadêmica, é fundamental para eficiência dos registros acadêmicos e pedagógicos, 
+podendo a comunicação ser mais assertiva, priorizando acompanhar de perto o desempenho dos 
+alunos e o gerenciamento dos registros diários. 
+Responsável: 
+<nome> Carla Renata Zavarize dos SantosRafael 
+Ferreira Alves 
+Qde CH/sem: 
+nn 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/04/2025 
+Data final: 
+30/04/2025 
+Etapas do processo: 
+01- Verificar a disponibilidade dos docentes e servidores. 
+01/04 
+04/04 
+ 
+02- Definir um espaço adequado que comporte todos. 
+07/04 
+11/04 
+ 
+03- Escolher um servidor do CPS para fazer a capacitação. 
+14/11 
+184/04 
+ 
+04- Divulgar a data da capacitação 
+2114/04 
+1630/
+04 
+ 
+05- Realização da Capacitação via TEAMSnn 
+17/04dd/m
+m 
+17/04
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+ 
+Fonte(s) dos recursos: 
+Não terá custo. 
+Situação problema: 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+(a ser resolvida/mitigada) 
+cat 0.1.10 - Gestão da unidade de ensino e dos cursos (indicadores) 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+602 - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+603 - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+604 - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+07 – Convênios e Parcerias Institucionais 
+Formalização do relacionamento da Unidade com o Ecossistema de Tecnologia: Convênio de uso de prédio, 
+estágios, projetos com empresas. Aqui cabe apenas novos convênios e parcerias, e cada proposta deve estar 
+relacionada a uma Ação/Projeto de melhoria em algum dos itens anteriores do PGA (1, 2, 3, 4, 5 ou 6). 
+ 
+AÇÃO/PROJETO (Tema) 
+701 - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+Referente ao(s) projeto(s): nn 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+702 - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+Referente ao(s) projeto(s): nn 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+ 
+ 
+ 
+ 
+Anexo 1 – Lista de aquisições necessárias aos projetos 
+(equipamentos, softwares, mobiliários) 
+ 
+Item 
+Projeto 
+(XYY) 
+Denominação ou especificação do equipamento 
+Quant. 
+Preço total 
+estimado 
+(R$) 
+01 
+103 
+Microfone sem fio 
+06 
+R$3.600,00 
+02 
+103 
+Caixa de som 
+06 
+R$3.600,00 
+03 
+104 
+  Aparelho de Ar Condicionado 80.000 BTU 
+04 
+R$60.000,00 
+05 
+201 
+Cadeira Fixa monobloco com rodizio - amarela 
+8 
+R$5.120,00 
+06 
+201 
+Cadeira Fixa empilhavel - laranja 
+8 
+R$4.880,00 
+07 
+201 
+Cadeira Fixa empilhavel - Verde Claro 
+4 
+R$1.480,00 
+08 
+201 
+Cadeira Fixa Empilhavel - Verde Escuro 
+4 
+R$1.480,00 
+09 
+201 
+Armario Baixo 
+2 
+R$2.904,00 
+10 
+201 
+Armario para Carregamento de Notebook's 
+1 
+R$6.000,00 
+11 
+201 
+Conjunto de Estofado em Formato Arquibancada 
+1 
+R$11.772,00 
+12 
+201 
+Estante Aberta 
+1 
+R$2.740,00 
+13 
+201 
+Mesa de Apoio para Notebook 
+4 
+R$6.320,00 
+14 
+201 
+Mesa de Trabalho trapezoidal 
+6 
+R$5.400,00 
+15 
+201 
+Mesa Redonda 
+2 
+R$3.906,00 
+16 
+201 
+Mesa Retangular com rodizios 
+4 
+R$6.520,00 
+17 
+201 
+Mesa Retangular 
+1 
+R$1.600,00 
+18 
+201 
+Puff 
+6 
+R$5.940,00 
+19 
+201 
+Scanner 3D - à licitar 
+1 
+R$3.700,00 
+20 
+201 
+Maquina de Corte a laser - à licitar 
+1 
+R$17.000,00 
+21 
+201 
+Impressora 3D 
+1 
+R$3.700,00 
+22 
+201 
+Conjunto Didatico - kit arduino 
+1 
+R$6.000,00 
+23 
+201 
+Quadro não magnetico em vidro 
+2 
+R$800,00 
+24 
+201 
+Caixa de Som amplificada 
+1 
+R$597,00 
+25 
+201 
+Notebook  
+15 
+R$77.415,00 
+26 
+201 
+Tapete 
+1 
+R$5.161,00 
+27 
+201 
+Televisor Full HD 65" 
+2 
+R$7.310,00 
+28 
+201 
+Suporte para Televisor 
+2 
+R$1.023,00 
+29 
+201 
+Painel para Ferramentas 
+2 
+R$1.023,00 
+30 
+201 
+Cavalete Flip Chart 
+1 
+R$460,00 
+31 
+201 
+Ar-Condicionado 
+2 
+R$400,00 
+32 
+201 
+Projetor Multimidia 
+1 
+R$3.500,00 
+33 
+201 
+Suporte para Projetor 
+1 
+R$3.000,00 
+34 
+201 
+Quadro Branco 
+2 
+R$1.400,00 
+35 
+202 
+Notebook Educacional - Laboratórios 
+20 
+R$109.000,00 
+36 
+203 
+Notebook Educacional – 2° semestre 
+80 
+R$436.000,00 
+37 
+204 
+Impressora Multifuncional Colorida 
+02 
+R$8.600,00 
+38 
+204 
+Impressora Laser Monocromatica 
+02 
+R$3.020,00 
+39 
+502 
+Aparelhos de Ar Condicionados 36.000 BTUs 
+10 
+R$80.000,00 
+40 
+502 
+Climatizadores 130 litros 
+10 
+R$ 18.000,00 
+ 
+ 
+Total geral 
+R$ 92002.371,00 
+ 
+ 
+ 
+ 
+Anexo 2 – Lista de Ações/Projetos referentes à CPA 
+ 
+Item 
+Projeto 
+(XYY) 
+Denominação 
+(O que será feito) 
+Prazo 
+01 
+nnn 
+nn 
+dd/mm/aaaa 
+02 
+nnn 
+nn 
+dd/mm/aaaa 
+03 
+nnn 
+nn 
+dd/mm/aaaa 
+04 
+nnn 
+nn. 
+dd/mm/aaaa 
+05 
+nnn 
+nn. 
+dd/mm/aaaa 
+06 
+nnn 
+nn. 
+dd/mm/aaaa 
+07 
+nnn 
+nn 
+dd/mm/aaaa 
+08 
+nnn 
+nn 
+dd/mm/aaaa 
+09 
+nnn 
+nn 
+dd/mm/aaaa 
+10 
+nnn 
+nn 
+dd/mm/aaaa 
+11 
+nnn 
+nn 
+dd/mm/aaaa 
+12 
+nnn 
+nn 
+dd/mm/aaaa 
+13 
+nnn 
+nn 
+dd/mm/aaaa 
+14 
+nnn 
+nn 
+dd/mm/aaaa 
+15 
+nnn 
+nn 
+dd/mm/aaaa 
+16 
+nnn 
+nn 
+dd/mm/aaaa 
+17 
+nnn 
+nn 
+dd/mm/aaaa 
+18 
+nnn 
+nn 
+dd/mm/aaaa 
+19 
+nnn 
+nn 
+dd/mm/aaaa 
+20 
+nnn 
+nn 
+dd/mm/aaaa 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<fim> 
+ 
+ 
+ 
+ 
+ 
+ 

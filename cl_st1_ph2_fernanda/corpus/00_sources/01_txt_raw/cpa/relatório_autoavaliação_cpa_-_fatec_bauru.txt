@@ -1,0 +1,5439 @@
+                      1 
+__________________________________________________________________________ 
+Administração Central 
+Unidade do Ensino Superior de Graduação 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Bauru/2023 
+FATEC BAURU 
+RELATÓRIO DE AUTOAVALIAÇÃO 
+INSTITUCIONAL  
+2022 
+                      2 
+__________________________________________________________________________ 
+Administração Central 
+Unidade do Ensino Superior de Graduação 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+Direção / Coordenação de Cursos 
+ 
+Direção Geral  
+ 
+Profa. Dra. Wangner Barbosa da Costa 
+Coordenador do Curso de Graduação Tecnológica em Automação Industrial 
+ 
+Prof. Dr. Tiago Aparecido Vicentin 
+Coordenadora do Curso de Graduação Tecnológica em Banco de Dados 
+ 
+Prof.ª Dra. Patrícia Bellin Ribeiro 
+ 
+Coordenador do Curso de Graduação Tecnológica em Gestão Hospitalar 
+ 
+Prof. Me. Luiz Roberto Madureira Iório 
+Coordenador do Curso de Graduação Tecnológica em Redes de Computadores 
+ 
+Prof. Dr. Claudines Taveira Torres 
+Coordenadora do Curso de Graduação Tecnológica em Sistemas Biomédicos 
+ 
+Prof.ª Me. Michele Cristina Batiston 
+Presidente da CPA 
+ 
+Prof.ª Dra. Ana Cristina M. Ferreira 
+ 
+ 
+ 
+ 
+ 
+ 
+                      3 
+__________________________________________________________________________ 
+Administração Central 
+Unidade do Ensino Superior de Graduação 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+SUMÁRIO 
+ 
+ 
+ 
+ 
+I Identificação da FATEC: ................................................................................................................. 04 
+II Atos Regulatórios  .......................................................................................................................... 04 
+III Composição da Comissão Própria de Avaliação (CPA) .......................................................... 04 
+1  INTRODUÇÃO ............................................................................................................................... 05 
+2  METODOLOGIA ............................................................................................................................ 08 
+2.1 Cronograma de atividades da CPA .......................................................................................... 09 
+2.2 Sensibilização .............................................................................................................................. 10 
+2.3 Sujeitos da avaliação .................................................................................................................. 11 
+2.4 Instrumentos de coleta ............................................................................................................... 12 
+2.5 Procedimentos para a coleta ..................................................................................................... 13 
+2.6 Análise e discussão dos dados da coleta ................................................................................ 14 
+2.7 Organização das medidas para a composição do relatório .................................................. 14 
+2.8 Devolutiva dos resultados para os segmentos ....................................................................... 14 
+3 DESENVOLVIMENTO ................................................................................................................... 15 
+3.1 Eixo 1: Planejamento e Avaliação Institucional ...................................................................... 15 
+3.2 Eixo 2: Desenvolvimento Institucional ...................................................................................... 20 
+3.3 Eixo 3: Políticas Acadêmicas ..................................................................................................... 29 
+3.4 Eixo 4: Políticas de Gestão ........................................................................................................ 46 
+3.5 Eixo 5: Infraestrutura Física ....................................................................................................... 54 
+4 ANÁLISE DOS DADOS E AÇÕES PROPOSTAS ................................................................ 62 
+5 CONSIDERAÇÕES FINAIS ..................................................................................................... 67 
+ 
+ 
+ 
+4 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+I   Identificação da FATEC: 
+FATEC: Bauru 
+CÓDIGO DO CPS: 196 
+CÓDIGO E-MEC: 15689 
+Representante Legal da IES: Diretora: Profa. Dra. Wangner Barbosa da Costa 
+Endereço Completo: Rua Manoel Bento da Cruz, 3-30 
+Bairro: Centro 
+Município: Bauru 
+Telefone: (14) 3223 2083 
+E-mail: f196dir@cps.sp.gov.br 
+ 
+ 
+II   Atos regulatórios (da criação da Fatec): 
+Ato Regulatório:  
+Prazo de validade:  
+Tipo de documento: Decreto 
+No. Documento: 53367 
+Data do documento: 01/09/2008 
+Data de publicação: 02/09/2008 
+ 
+ 
+III   Composição da Comissão Própria de Avaliação (CPA)  
+A Comissão Própria de Avaliação da FATEC Bauru foi instituída pela Portaria 
+nº Portaria nº 26/2022 de 21/12/2022. Com mandato até 21/12/2024, possuindo a 
+seguinte composição:  
+ 
+ 
+Nome 
+Segmento representativo 
+Ana Cristina Mauricio Ferreira  
+Docente 
+Maria Aline Lemos Silva Thobias  
+Docente 
+Paulo Henrique Macedo Rocha 
+Discente  
+Nilda Gelaim 
+Técnico Administrativo 
+Luis Cesar Yoshiori Miyazaki 
+Sociedade Civil   
+ 
+ 
+Observa-se que o discente tem mandato até 21/12/2023. 
+5 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+1  INTRODUÇÃO  
+ 
+A Fatec Bauru possui a crença na avaliação como instrumento de gestão. Por 
+meio da avaliação temos condições de reunir indicadores capazes de suscitar análises 
+e discussões possibilitando definir planos de melhorias de forma continuada. 
+Sabe-se que a Lei 10.861/2014, que define o Sistema Nacional de Avaliação 
+da Educação Superior (SINAES), estabelece, em seu Artigo 3º, que a avaliação 
+institucional tem por objetivo identificar o perfil da IES e o significado de sua atuação, 
+por meio de suas atividades, cursos, programas, projetos e setores, considerando as 
+diferentes dimensões institucionais, consolidadas em cinco eixos, sempre objetivando 
+evidenciar os referenciais mínimos de qualidade exigidos pela excelência de ensino 
+que é um dos pilares da pratica de todas as faculdades de tecnologias do Estado de 
+São Paulo vinculadas ao Centro Paula Souza. 
+Por meio do desenvolvimento do presente relatório, serão apresentados os 
+dados e as informações referentes aos eixos, dimensões e indicadores em 
+consonância com o Plano de Desenvolvimento Institucional (PDI) da Fatec e em 
+consonância com as diretrizes emanadas do Centro Paula Souza.  
+Ao longo dos 15 anos de história, que será completado em setembro de 2023, 
+a FATEC Bauru, que hoje conta com aproximadamente 1200 alunos, colocou 
+centenas de egressos que atuam profissionalmente no mercado de trabalho. 
+Atualmente a FATEC Bauru conta com seis cursos de acordo com o quadro a seguir: 
+ 
+  
+Curso 
+Autorização Reconhecimento/ 
+RENOVAÇÃO 
+DATA 
+Prazo de 
+reconhecimento ENADE 
+Tecnologia em 
+Automação 
+Industrial 
+Portaria Nº 
+51/2013 
+CEE/GP Nº 178 
+04/08/2020 
+4 
+ 
+Tecnologia em 
+Banco de 
+Dados 
+Portaria Nº 
+293/2010 
+CEE/GP Nº 276 
+01/07/2019 
+5 
+ 
+Tecnologia em 
+Gestão 
+Hospitalar 
+Portaria Nº 
+79/2021 
+CEETEPS-PRC-
+2021/07476 
+ 
+ 
+ 
+Tecnologia em 
+Gestão 
+Empresarial 
+ 
+CEE/GP Nº 101 
+02/03/2020 
+5 
+4 
+Tecnologia em 
+Redes de 
+Computadores 
+Portaria Nº 
+293/2010 
+CEE/GP 652 
+19/12/2017 
+5 
+3 
+Tecnologia em 
+Sistemas 
+Biomédicos 
+Portaria Nº 
+98/2010 
+CEE/GP 63 
+09/02/2023 
+3 
+ 
+ 
+6 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+ 
+Atualmente, a Fatec Bauru conta com 1200 alunos, distribuídos nos cursos, 
+conforme quadro a seguir. 
+TOTAL DE ALUNOS MATRICULADOS NA UNIDADE 
+CURSOS 
+NÚMERO DE 
+ALUNOS EM CURSO 
+Tecnologia em Automação Industrial 
+201 
+Tecnologia em Banco de Dados 
+296 
+Tecnologia em Gestão Empresarial 
+125 
+Tecnologia em Gestão Hospitalar 
+59 
+Tecnologia em Redes de Computadores 
+215 
+Tecnologia em Sistemas Biomédicos 
+304 
+ 
+ 
+ 
+ 
+A titulação dos docentes, dos cursos da Fatec Bauru são apresentadas no 
+próximo quadro. 
+CURSOS 
+TITULAÇÃO DOCENTE 
+% 
+Tecnologia em Automação Industrial 
+Doutores  
+13 
+Mestres 
+07 
+Especialistas  
+03 
+Tecnologia em Banco de Dados 
+Doutores  
+36 
+Mestres 
+50 
+Especialistas  
+14 
+Tecnologia em Gestão Hospitalar 
+Doutores  
+62 
+Mestres 
+23 
+Especialistas  
+15 
+Tecnologia em Redes de Computadores 
+Doutores  
+47 
+Mestres 
+53 
+Especialistas  
+0 
+Tecnologia em Sistemas Biomédicos 
+Doutores  
+59 
+Mestres 
+30 
+Especialistas  
+11 
+ 
+ 
+O presente relatório é fruto da coleta de informações realizadas pela aplicação 
+da pesquisa WebSai, junto aos alunos, docentes e pessoal técnico-administrativo da 
+Fatec Bauru, cuja coleta das informações ocorreu no período de 03 de outubro até 31 
+de outubro de 2022. 
+Os procedimentos metodológicos deste relatório estão estruturados conforme 
+figura a seguir: 
+7 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+Estrutura metodológica: 
+ 
+ 
+Conclusão do relatório.
+Divulgação dos resultados à comunidade acadêmica.
+Envio do Relatório para a apreciação da CPA Central.
+Elaboração do relatório a partir da devolutiva das áreas. 
+Encaminhamento dos dados coletados para cada área competente. 
+Análise dos resultados – acolhimento dos dados da coleta e início dos 
+procedimentos de análise. 
+Organização dos procedimentos de coleta de dados. 
+Sensibilização para participação nos procedimentos de coleta.
+Encontros online da equipe CPA para organizar e desenvolver 
+estratégias de maneira integrada a partir da percepção dos diferentes 
+segmentos que compõem a comissão.
+Reuniões online com a Direção, coordenações de Cursos para 
+sistematização das ações e composições de grupos de trabalho.
+8 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+2 METODOLOGIA 
+Para contribuir com a organização da Comissão Própria de Avaliação de cada 
+Fatec, o Centro Paula Souza, por meio da Área de Avaliação Institucional (AAI) e da 
+Unidade de Ensino Superior de Graduação (CESU), organizaram a comissão da CPA 
+Central.  
+ 
+Assumindo como centro organizativo as atribuições que lhe competem, a 
+saber:  
+I – Contribuir com o planejamento, orientação e monitoramento dos 
+procedimentos da autoavaliação Institucional das FATECs; 
+II – Utilizar os indicadores coletados nas unidades como instrumento de 
+gestão, oferecendo subsídios para cada uma das áreas da administração 
+central tomar as medidas corretivas; 
+III – Elaborar o Relatório Global da Autoavaliação para os processos de 
+recredenciamento institucional.  
+IV – Elaborar o cronograma da autoavaliação para as Fatecs, considerando 
+o prazo de 31 de março de cada ano para o protocolo dos relatórios da 
+autoavaliação no sistema e-mec do Ministério da Educação.  
+V – Avaliar, indicar possíveis ajustes e autorizar o protocolo dos relatórios das 
+CPAs das FATECs no sistema e-mec. 
+VI – Reunir-se ordinariamente duas vezes no semestre ou de forma 
+extraordinária quando necessário.  
+ 
+Por meio CPA Central cada Fatec e das Diretorias Pedagógicas Regionais 
+recebe todo o suporte necessário para cumprir o que lhe compete a CPA conforme 
+segue: 
+1. contribuir 
+com 
+o 
+planejamento, 
+elaboração, 
+coordenação 
+e 
+monitoramento dos processos de avaliação interna, apresentando o 
+projeto de autoavaliação Institucional que norteará todos os 
+procedimentos de autoavaliação para a CPA Central em consonância 
+com a equipe de Supervisão Regional das FATECs.  
+2. apoiar os processos internos de avaliação; 
+3. sistematizar e prestar informações relativas às políticas de 
+autoavaliação institucional, solicitadas pelos Sistemas Federal e 
+Estadual de Avaliação da Educação Superior, além de atender à 
+demanda interna da Supervisão Regional e da CPA Central do Centro 
+Paula Souza; 
+4. constituir subcomissões de avaliação; 
+5. constituir grupos temáticos ou focais voltados para a avaliação de cada 
+uma das dez dimensões estabelecidas no artigo anterior; 
+6. elaborar e analisar relatórios e pareceres, encaminhando-os a CPA 
+Central; 
+7. desenvolver estudos e análises, colaborando com os órgãos próprios 
+ou terceirizados do Centro Paula Souza, visando ao fornecimento de 
+subsídios para afixação, o aperfeiçoamento e a modificação da política 
+de avaliação institucional; 
+8. acompanhar, analisar e correlacionar os resultados da autoavaliação 
+com os resultados dos alunos do Centro Paula Souza no ENADE, bem 
+como em outros processos de avaliação; 
+9. aprovar seu próprio regulamento. 
+ 
+9 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+Os relatórios parciais e/ou integrais da autoavaliação deverão ser elaborados 
+com periodicidade anual, encaminhados para a CPA Central seguindo o cronograma 
+de planejamento apresentado nas orientações gerais e protocolados até 31 de março 
+de cada ano. Ficando disponíveis para serem apreciados pela comissão de 
+especialistas designada pelo Conselho Estadual de Educação para a visita à 
+Instituição em seu processo de recredenciamento, conforme dispõe a Deliberação do 
+CEE 160/2018.  
+ 
+2.1 Cronograma das atividades da CPA 
+ 
+ 
+ 
+A partir desta estrutura a CPA da Fatec Bauru para cumprir o que lhe 
+compete, durante o ano de 2022 elaborou o seguinte cronograma de trabalho: 
+ 
+AÇÕES 
+MESES 
+2022 
+2023 
+MAI 
+JUN 
+JUL 
+AGO 
+SET 
+OUT 
+NOV 
+DEZ 
+JAN 
+FEV 
+MAR 
+ABR 
+Reuniões online com a Direção, 
+coordenações de Cursos para 
+sistematização as ações e 
+composições de grupos de trabalho. 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Encontros online da equipe CPA para 
+organizar e desenvolver estratégias de 
+maneira integrada a partir da 
+percepção dos diferentes segmentos 
+que compõem a comissão. 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sensibilização para participação nos 
+procedimentos e coleta:  Encontros 
+online com representantes de turmas, 
+lives, webinar, informativos, site, entre 
+outros, para alimentar a cultura 
+avaliativa da Fatec. 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Organização dos procedimentos de 
+coleta de dados: elaboração das ações 
+voltadas para estimular e monitorar a 
+participação de toda a comunidade no 
+preenchimento do formulário de coleta.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Análise dos resultados – acolhimento 
+dos dados da coleta e início dos 
+procedimentos de análise.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Encaminhamento dos dados coletados 
+para cada área competente: cada área 
+recebe os dados faz a análise e 
+apresenta a justificativa e o Plano de 
+Melhorias da área - ações planejadas a 
+partir dos resultados e encaminha para 
+a CPA  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Elaboração do relatório a partir da 
+devolutiva das áreas.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Envio do Relatório para a apreciação 
+da CPA Central 
+ 
+ 
+ 
+ 
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+Divulgação dos resultados à 
+comunidade acadêmica. 
+ 
+ 
+ 
+ 
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+Conclusão do Relatório. 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+10 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+2.2 Sensibilização 
+Para a efetivação do cronograma destaca-se algumas das ações para a 
+realização dos procedimentos de autoavaliação. Os instrumentos utilizados para a 
+autoavaliação foram os questionários dos Sistema de Avaliação Institucional 
+(WebSai), disponibilizado pelo Centro Paula Souza. 
+O processo de sensibilização na Fatec Bauru, acerca da importância da 
+avaliação, iniciou-se 08/09/2022 e foram divididas nas seguintes etapas: 
+a) conversa com os coordenadores para apoio e participação na pesquisa, 
+professores na divulgação em sala de aula, incentivando e motivando os 
+alunos no preenchimento do WebSai; 
+b) sensibilização para participação do corpo técnico administrativo, através de 
+reuniões com a direção; 
+c) elaboração de material de comunicação pra a sensibilização, colocado nas 
+salas de aula e nas áreas comuns de alunos e professores, de fácil 
+visibilidade; 
+d) envio de e-mails para coordenação de cursos, professores e alunos, 
+ressaltando a importância da participação no preenchimento do WebSai. O 
+envio de lembretes foi intensificado, na data mais próximo ao início do 
+preenchimento (03/10). 
+Os segmentos, mencionados abaixo, foram convidados a responder o 
+questionário por meio de e-mails institucionais, postagens na plataforma Microsoft 
+Teams e, no caso dos alunos, também em sala de aula 
+ 
+Exemplo de e-mail para docentes: 
+ 
+ 
+ 
+ 
+ 
+11 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+2.3 Sujeitos da avaliação 
+ 
+No questionário do Sistema de Avaliação de 2022 (WebSai), os segmentos da 
+comunidade que participaram da autoavaliação foram separados nos seguintes 
+segmentos: 
+a) Docentes;  
+b) Discentes;  
+c) Funcionários. 
+Participaram da autoavaliação docentes e discentes dos cursos de Automação 
+Industrial, Banco de Dados, Gestão Hospitalar, Redes de Computadores e Sistemas 
+Biomédicos. 
+O número de questionários respondidos foram 515 participantes, sendo 445 
+discentes, 16 funcionários e 54 docentes. No ano de 2021, tivemos 337  participantes 
+na pesquisa WebSai, sendo que 285 alunos, 13 funcionários e 39 docentes. Com isso, 
+foi possível concluir que houve aumento de participação em todos os segmentos: 
+ 
+ 
+Segmento 
+Total 
+Participantes 
+% 
+participantes 
+Aumento de 
+participação em 
+relação a 2021 (%) 
+Docentes 
+57 
+54 
+95 
+40 
+Discentes 
+1200* 
+445 
+37 
+56 
+Funcionários 
+16 
+16 
+100 
+20 
+*Total de alunos em curso 
+ 
+ 
+ 
+ 
+Distribuição, por curso, dos discentes que participaram da autoavaliação: 
+ 
+ 
+ 
+ 
+Automação
+Industrial
+Banco de
+Dados
+Redes de
+Computadore
+s
+Sistemas
+Biomédicos
+Tecnologia
+Em Gestão
+Hospitalar
+Total Alunos
+90
+127
+91
+106
+31
+Gênero alunos Masculino
+85
+96
+75
+41
+6
+Gênero alunos Feminino
+5
+31
+16
+65
+25
+0
+20
+40
+60
+80
+100
+120
+140
+Alunos que participaram do WebSai
+12 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+2.4 Instrumentos de Coleta  
+Desde 1997 o Centro Paula Souza, evidenciando o seu pioneirismo em buscar 
+indicadores para gerar melhoria de seus serviços criou o Sistema de Avaliação 
+Institucional (SAI), implantado em 1999 em todas as Etecs (Escolas de Ensino Técnico 
+no nível médio) e, em 2000, nas Fatecs, seguindo os mais rigorosos critérios 
+estatísticos. Sendo os instrumentos elaborados e preenchidos em formulários 
+impressos de 1999 a 2012.  
+A partir de 2010, os questionários deixaram de ser preenchidos em formulário 
+de papel e passaram a ser totalmente on-line, trazendo mais agilidade ao processo 
+de avaliação. Desde então, todos os participantes realizam a pesquisa pela internet e 
+o SAI passou a ser chamado de WebSAI.  
+Para que as Fatecs tivessem apenas um instrumento que pudesse contemplar 
+as 10 dimensões dentro dos 5 eixos avaliativos, a partir da criação da comissão da 
+CPA Central a AAI em parceria com a CESU, por meio de uma equipe qualificada, 
+reorganizou a elaboração dos Instrumentos adequando-os em torno dos 5 eixos 
+avaliativos:  
+ 
+ 
+Eixo 1: Planejamento e Avaliação Institucional 
+ 
+ 
+- Dimensão 8: Planejamento e Avaliação 
+ 
+ 
+Eixo 2: Desenvolvimento Institucional 
+ 
+ 
+- Dimensão 1: Missão e Plano de Desenvolvimento Institucional 
+- Dimensão 3: Responsabilildade Social da Instituição 
+ 
+ 
+Eixo 3: Políticas Acadêmicas 
+ 
+ 
+- Dimensão 2: Políticas Para O Ensino, A Pesquisa e A Extensão  
+- Dimensão 4: Comunicação Com A Sociedade 
+- Dimensão 9: Política de Atendimento Aos Discentes 
+ 
+ 
+Eixo 4: Políticas de Gestão 
+ 
+ 
+- Dimensão 5: Políticas de Pessoal  
+ 
+ 
+- Dimensão 6: Organização e Gestão da Instituição 
+- Dimensão 10: Sustentabilidade Financeira 
+ 
+ 
+Eixo 5: Infraestrutura 
+ 
+ 
+- Dimensão 7: Infraestrutura Física 
+ 
+ 
+ 
+Em relação à quantidade de questões constantes do questionário de 
+autoavaliação, estas foram distribuídas por dimensão, conforme quadro a seguir: 
+ 
+ 
+ 
+13 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+Quantidade de questões do questionário da WebSai 
+Dimensão 
+Docentes 
+Discentes 
+Funcionários 
+Dados cadastrais 
+7 
+6 
+7 
+Sobre CPA 
+2 
+6 
+2 
+1 
+9 
+8 
+23 
+2 
+14 
+26 
+- 
+3 
+4 
+5 
+10 
+4 
+17 
+11 
+13 
+5 
+4 
+- 
+9 
+6 
+10 
+10 
+4 
+7 
+25 
+25 
+26 
+8 
+12 
+11 
+1 
+9 
+5 
+6 
+6 
+10 
+- 
+- 
+- 
+Total de questões 
+109 
+114 
+101 
+ 
+ 
+2.5 Procedimentos para a coleta 
+A AAI disponibilizou o acesso ao sistema de coleta (websai) a partir de 03 de 
+outubro de 2022 ficou disponível para o preenchimento da comunidade do dia 31 de 
+outubro de 2022. Para favorecer a participação da comunidade durante este período 
+a CPA e Direção da Fatec Bauru, fez o acompanhamento da participação de cada 
+segmento, realizando a sensibilização contínua para a participação.  
+Para a efetiva participação de docentes, CPA,  coordenadores e direção 
+acompanharam a atualização dos questionários respondidos, entrando em contato 
+com os sujeitos que não haviam respondido ao questionário, solicitando a participação 
+dos mesmos: 
+ 
+ 
+14 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+2.6 Análise e Discussão dos dados da coleta  
+A partir do dia 20 de novembro de 2022 os dados coletados por meio do 
+WebSai, foram disponibilizados pela AAI. A Fatec Bauru, por meio da CPA iniciou o 
+processo de organização dos dados coletados para encaminhamento aos setores 
+administrativos e acadêmicos. A CPA da Fatec Bauru realizou reuniões presenciais e 
+virtuais por meio da plataforma Teams para discutir os resultados dos dados coletados 
+e organizar a sua análise. 
+Os dados foram organizados em planilhas, conforme segmentos de docentes, 
+discentes e funcionários. Para cada eixo, com as planilhas de dados organizadas, 
+foram gerados gráficos com o objetivo de facilitar a análise dos dados coletados. Para 
+os Eixos Avaliativos foram criadas tabelas destacando fragilidades, potencialidades, 
+ações planejadas, ações realizadas e prazos a serem cumpridos.  
+Com a análise e organização realizadas, foi possível apresentar plano de 
+melhoria e aperfeiçoamento da unidade de ensino em questão. 
+ 
+2.7 Organização das medidas para composição do relatório 
+ 
+Após o processo de análise e discussão dos dados coletados, cada setor 
+encaminhou para a CPA da Fatec Bauru, os resultados com o apontamento das 
+fragilidades e o planejamento das medidas corretivas, assim como as potencialidades 
+e as possíveis ações de manutenção e melhorias. Os quadros e gráficos com os 
+resultados foram condensados na seção 3 deste relatório, dando subsídios para a 
+efetivação do planejamento da Fatec Bauru, a partir dos indicadores observados em 
+cada eixo avaliativo.  
+ 
+A partir da tabulação e análise dos resultados, observados os pontos neutros, 
+fortes e fracos para cada um dos eixos, para cada uma das dimensões que compõem 
+os eixos de avaliação. Os pontos neutros, fortes e fracos, assim como as propostas 
+de melhoria e aperfeiçoamento são apresentados com detalhes nas seções 4 e 5 
+deste relatório. 
+ 
+2.8 Devolutiva dos Resultados para os Segmentos   
+ 
+Após a apresentação do relatório para a Direção da Fatec Bauru, foram 
+organizadas as formas de divulgação dos resultados e apresentação das ações 
+provenientes do processo de autoavaliação, permitindo o desenvolvimento 
+Institucional.  
+ 
+Após apresentação à direção da unidade, os resultados da autoavaliação, o 
+relatório final e as propostas de melhorias foram apresentados a toda a comunidade: 
+i) encaminhamento do relatório às Coordenadorias de Curso; ii) encaminhamento à 
+comunidade acadêmica por meio dos e-mails instituições; iii) reunião da CPA com 
+comunidade docente para apresentação do relatório e propostas;iv) reunião da CPA 
+com comunidade discente para apresentação do relatório e propostas; v) reunião da 
+CPA com funcionários; vi) disponibilização do relatório final no site da Fatec Bauru. 
+15 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+3 DESENVOLVIMENTO 
+Considerando os instrumentos da autoavaliação, estruturados a partir das 10 dimensões previstas no 
+art. 3º da Lei nº 10.861 (SINAES), nesta parte do relatório, a CPA deverá apresentar as informações 
+que foram coletadas, a partir da organização de 5 eixos, que articulam as 10 dimensões, conforme 
+disposto na Nota Técnica INEP nº 065, como segue: 
+ 
+ 
+3.1     Eixo 1 - Planejamento e Avaliação Institucional:  
+   
+ 
+Dimensão 8: Planejamento e Avaliação 
+APRESENTAÇÃO DAS PRINCIPAIS INFORMAÇÕES COLETADAS NO EIXO 1   
+DIMENSÃO 8 - DOCENTES 
+QUESTÃO 
+sempre 
+quase 
+sempre 
+algumas 
+vezes 
+raramente 
+Você promove articulação da (s) disciplina (s) com outra (s) disciplina (s) do curso? 
+57% 
+13% 
+21% 
+9% 
+Você realiza preparação prévia na organização das atividades desenvolvidas na 
+disciplina. 
+87% 
+11% 
+2% 
+0% 
+Você utiliza estratégias de ensino (metodologias) que favorecem o interesse, 
+envolvimento e a aprendizagem dos estudantes? 
+81% 
+19% 
+0% 
+0% 
+Você procura desenvolver uma comunicação transparente, mantendo os 
+estudantes bem informados sobre tudo o que se refere à sua disciplina? 
+94% 
+6% 
+0% 
+0% 
+Na condução da (s) disciplina (s) /turma (s) foi mantido um clima de respeito à 
+diversidade de opiniões? 
+98% 
+2% 
+0% 
+0% 
+Você prepara as avaliações utilizando múltiplos instrumentos e objetivando 
+diagnosticar a necessidade de aprendizagem dos estudantes. 
+19% 
+53% 
+0% 
+0% 
+Foi necessário oferecer diferentes situações para a superação de dificuldades dos 
+estudantes, promovendo estratégias de recuperação da aprendizagem? 
+46% 
+22% 
+28% 
+4% 
+No desenvolvimento da(s) disciplina(s)/turma(s) contribuí para ampliar a 
+capacidade de argumentação dos estudantes sobre os temas do conteúdo da 
+área? 
+70% 
+30% 
+0% 
+0% 
+Os estudantes conseguiram aprofundar os conhecimentos na área? 
+65% 
+30% 
+5% 
+0% 
+As devolutivas das avaliações que realizei (provas, trabalhos, exercícios, entre 
+outros) contribuíram para melhorar o desempenho dos estudantes? 
+78% 
+22% 
+0% 
+0% 
+Sente-se comprometido com o sucesso escolar dos alunos, contribuindo para 
+reduzir a evasão oferecendo indicadores da (s) sua (s) turma (s) para que ocorra a 
+gestão voltada para a melhoria? 
+94% 
+6% 
+0% 
+0% 
+16 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+Gráfico com respostas dos docentes – Dimensão 8 
+ 
+ 
+Você promove articulação da (s) 
+disciplina (s) com outra (s) disciplina (s) 
+do curso? 
+Você realiza preparação prévia na 
+organização das atividades desenvolvidas 
+na disciplina. 
+Você utiliza estratégias de ensino 
+(metodologias) que favorecem o 
+interesse, envolvimento e a 
+aprendizagem dos estudantes? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Você procura desenvolver uma 
+comunicação transparente, mantendo os 
+estudantes bem informados sobre tudo o 
+que se refere à sua disciplina? 
+Na condução da (s) disciplina (s) /turma 
+(s) foi mantido um clima de respeito à 
+diversidade de opiniões? 
+Você prepara as avaliações utilizando 
+múltiplos instrumentos e objetivando 
+diagnosticar a necessidade de 
+aprendizagem dos estudantes. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Foi necessário oferecer diferentes 
+situações para a superação de 
+dificuldades dos estudantes, promovendo 
+estratégias de recuperação da 
+aprendizagem? 
+No desenvolvimento da(s) 
+disciplina(s)/turma(s) contribuí para 
+ampliar a capacidade de argumentação 
+dos estudantes sobre os temas do 
+conteúdo da área? 
+Os estudantes conseguiram aprofundar 
+os conhecimentos na área? 
+ 
+ 
+17 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+DIMENSÃO 8 - DISCENTES 
+QUESTÃO 
+excelente muito 
+bom 
+regular insuficiente 
+não se 
+aplica 
+não sei 
+responder 
+Como avalia o uso dos indicadores da Avaliação Institucional 
+(WEBSAI) no Planejamento Institucional? 
+17% 
+36% 
+21% 
+3% 
+0% 
+23% 
+Como avalia as melhorias alcançadas a partir da Avaliação 
+Institucional? 
+22% 
+34% 
+19% 
+2% 
+0% 
+23% 
+Frequência às aulas 
+37% 
+40% 
+20% 
+2% 
+0% 
+1% 
+Pontualidade 
+43% 
+37% 
+18% 
+2% 
+0% 
+0% 
+Qualidade das atividades/exercícios/trabalhos apresentados 
+29% 
+50% 
+18% 
+2% 
+0% 
+1% 
+Desempenho nas avaliações da aprendizagem 
+19% 
+53% 
+24% 
+2% 
+0% 
+1% 
+Conhecimentos básicos para acompanhar as disciplinas 
+26% 
+43% 
+27% 
+3% 
+0% 
+1% 
+Participação em sala de aula (contribuir com comentários, 
+exemplos, experiências, etc.) 
+25% 
+38% 
+31% 
+5% 
+1% 
+0% 
+Organização e tempo dedicado para os estudos 
+(cronograma, estudos extra classe, leitura e revisão de 
+conteúdos aprendidos) 
+12% 
+29% 
+40% 
+18% 
+1% 
+0% 
+Convívio acadêmico (integração, trabalho em equipe, 
+respeito à diversidade, proatividade) 
+33% 
+45% 
+17% 
+4% 
+0% 
+1% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+18 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+Gráfico com respostas dos discentes – Dimensão 8 
+ 
+Como avalia o uso dos indicadores da 
+Avaliação Institucional (WEBSAI) no 
+Planejamento Institucional? 
+Como avalia as melhorias alcançadas a 
+partir da Avaliação Institucional? 
+Frequência às aulas 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pontualidade 
+Qualidade das 
+atividades/exercícios/trabalhos 
+apresentados 
+Desempenho nas avaliações da 
+aprendizagem 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Conhecimentos básicos para 
+acompanhar as disciplinas 
+Participação em sala de aula (contribuir 
+com comentários, exemplos, 
+experiências, etc.) 
+Organização e tempo dedicado para os 
+estudos (cronograma, estudos extra 
+classe, leitura e revisão de conteúdos 
+aprendidos) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+19 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+Síntese das respostas dos 3 segmentos – Eixo 1 – Dimensão 8 
+Docentes 
+Pontos fortes 
+Pontos fracos 
+Interdisciplinaridade 
+ 
+Planejamento/preparação prévio de aulas e atividades 
+ 
+Formas diversas de avaliação e estratégias de recuperação 
+ 
+Estratégias de ensino que favorecem aprendizado 
+ 
+Estratégias de ensino que favorecem capacidade de argumentação 
+ 
+Comunicação transparente com alunos 
+ 
+Compromisso com sucesso escolar dos alunos 
+ 
+Discentes 
+Pontos fortes 
+Pontos fracos 
+Assiduidade e pontualidade nas aulas 
+Pouco conhecimento dos 
+objetivos da autoavaliação 
+Bom desempenho em atividades acadêmicas, trabalhos e 
+avaliações 
+Pouco conhecimento das 
+melhorias realizadas a partir 
+da autoavaliação 
+Participação ativa nas aulas, com argumentações e opiniões 
+ 
+Boa convivência com colegas 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+20 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+3.2  Eixo 2: Desenvolvimento Institucional 
+   
+       
+Dimensão 1: Missão e Plano de Desenvolvimento Institucional 
+Dimensão 3: Responsabilidade Social da Instituição 
+ 
+APRESENTAÇÃO DAS PRINCIPAIS INFORMAÇÕES COLETADAS NO EIXO 2 
+DIMENSÃO 1 e 3 – DISCENTES  
+QUESTÃO 
+excelente 
+muito bom 
+regular 
+insuficiente 
+não se 
+aplica 
+não sei 
+responder 
+Com relação à missão institucional de 
+"Promover a educação pública profissional e 
+tecnológica dentro de referenciais de 
+excelência, visando o desenvolvimento 
+tecnológico econômico e social do Estado de 
+São Paulo", como avalia o cumprimento 
+dessa missão por parte da Fatec? 
+35% 
+49% 
+11% 
+1% 
+0% 
+4% 
+Formação de profissionais qualificados 
+41% 
+47% 
+9% 
+1% 
+0% 
+2% 
+Disseminação da ciência, tecnologia e 
+inovação 
+38% 
+47% 
+12% 
+1% 
+0% 
+2% 
+Disseminação da cultura e da arte 
+18% 
+36% 
+30% 
+8% 
+2% 
+6% 
+Disseminação de valores éticos e 
+democráticos 
+27% 
+46% 
+18% 
+4% 
+1% 
+5% 
+Inclusão social 
+39% 
+41% 
+13% 
+2% 
+1% 
+4% 
+Desenvolvimento sustentável 
+23% 
+44% 
+20% 
+3% 
+1% 
+8% 
+Atendimento de pessoas com deficiência 
+32% 
+37% 
+13% 
+3% 
+0% 
+13% 
+Transferência de conhecimento da Fatec para 
+a comunidade externa 
+22% 
+42% 
+16% 
+7% 
+1% 
+13% 
+Participação da comunidade externa no 
+contexto institucional 
+15% 
+32% 
+29% 
+8% 
+1% 
+14% 
+Ações institucionais para a sustentabilidade 
+17% 
+34% 
+26% 
+7% 
+1% 
+15% 
+Implementação de políticas para que não 
+ocorram ações de discriminação 
+25% 
+37% 
+19% 
+4% 
+2% 
+13% 
+ 
+ 
+Você conhece a Missão Institucional do Centro Paula Souza? 
+ 
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+SIM
+NÃO
+21 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+Gráfico com respostas dos discentes (Dimensão 1 e 3):  
+ 
+ 
+Como avalia o cumprimento dessa missão 
+por parte da Fatec? 
+Formação de profissionais qualificados 
+Disseminação da ciência, tecnologia e 
+inovação 
+ 
+ 
+ 
+ 
+Disseminação da cultura e da arte 
+Disseminação de valores éticos e 
+democráticos 
+Inclusão social 
+ 
+ 
+ 
+ 
+ 
+ 
+Desenvolvimento sustentável 
+Atendimento de pessoas com deficiência 
+Transferência de conhecimento da Fatec 
+para a comunidade externa 
+ 
+ 
+ 
+ 
+ 
+ 
+Participação da comunidade externa no 
+contexto institucional 
+Ações institucionais para a 
+sustentabilidade 
+Implementação de políticas para que não 
+ocorram ações de discriminação 
+ 
+22 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+ 
+DIMENSÃO 1 e 3 – DOCENTES 
+QUESTÃO 
+excelente 
+muito bom 
+regular 
+insuficiente 
+não se 
+aplica 
+não sei 
+responder 
+Formação de profissionais qualificados 
+61% 
+37% 
+2% 
+0% 
+0% 
+0% 
+Disseminação da ciência, tecnologia e 
+inovação 
+48% 
+39% 
+13% 
+0% 
+0% 
+0% 
+Disseminação da cultura e da arte 
+24% 
+22% 
+35% 
+11% 
+2% 
+6% 
+Disseminação de valores éticos e 
+democráticos 
+48% 
+37% 
+9% 
+6% 
+0% 
+0% 
+Inclusão social 
+54% 
+28% 
+12% 
+2% 
+0% 
+4% 
+Desenvolvimento sustentável 
+39% 
+33% 
+20% 
+4% 
+0% 
+4% 
+Coerência do PDI em relação à missão 
+46% 
+34% 
+7% 
+2% 
+0% 
+11% 
+Contribuição de toda a comunidade para o 
+cumprimento da missão 
+35% 
+50% 
+9% 
+2% 
+0% 
+4% 
+Prática e difusão da missão 
+50% 
+37% 
+9% 
+2% 
+0% 
+2% 
+Atendimento de pessoas com deficiência 
+48% 
+39% 
+9% 
+0% 
+0% 
+4% 
+Transferência de conhecimento da Fatec 
+para a comunidade externa 
+33% 
+41% 
+20% 
+4% 
+0% 
+2% 
+Participação da comunidade externa no 
+contexto institucional 
+33% 
+35% 
+26% 
+2% 
+0% 
+4% 
+Ações institucionais para a sustentabilidade 
+35% 
+31% 
+24% 
+6% 
+0% 
+4% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+23 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+Gráfico com respostas dos docentes (Dimensão 1 e 3):  
+ 
+ 
+Formação de profissionais qualificados 
+Disseminação da ciência, tecnologia e 
+inovação 
+Disseminação da cultura e da arte 
+ 
+ 
+ 
+ 
+Disseminação de valores éticos 
+Inclusão social 
+Desenvolvimento sustentável 
+ 
+ 
+ 
+ 
+Coerência do PDI em relação à missão 
+Contribuição de toda a comunidade para 
+o cumprimento da missão 
+Prática e difusão da missão 
+ 
+ 
+ 
+ 
+ 
+Atendimento de pessoas com deficiência 
+Transferência de conhecimento da Fatec 
+para a comunidade externa 
+Participação da comunidade externa no 
+contexto institucional 
+ 
+ 
+24 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+DIMENSÃO 1 e 3 – FUNCIONÁRIOS 
+QUESTÃO 
+excelente 
+muito 
+bom 
+regular 
+insuficiente 
+não se 
+aplica 
+não sei 
+responder 
+Formação de profissionais qualificados 
+44% 
+38% 
+13% 
+0% 
+0% 
+6% 
+Disseminação da ciência, tecnologia e inovação 
+31% 
+44% 
+19% 
+0% 
+0% 
+6% 
+Disseminação da cultura e da arte 
+25% 
+38% 
+13% 
+13% 
+6,25 
+6% 
+Disseminação de valores éticos 
+31% 
+44% 
+6% 
+13% 
+0% 
+6% 
+Inclusão social 
+38% 
+44% 
+13% 
+0% 
+0% 
+6% 
+Desenvolvimento sustentável 
+25% 
+38% 
+19% 
+13% 
+0% 
+6% 
+Cumprimento das metas do PDI 
+19% 
+44% 
+19% 
+0% 
+0% 
+19% 
+Estímulo para conhecer e praticar a missão Institucional 
+31% 
+31% 
+25% 
+6% 
+0% 
+6% 
+Estímulo para conhecer e contribuir para o cumprimento do PDI 
+25% 
+25% 
+31% 
+0% 
+0% 
+19% 
+Relação da Missão e do PDI com a prática profissional 
+19% 
+38% 
+25% 
+0% 
+0% 
+19% 
+Assiduidade 
+94% 
+6% 
+0% 
+0% 
+0% 
+0 
+Pontualidade 
+81% 
+19% 
+0% 
+0% 
+0% 
+0% 
+Proatividade 
+69% 
+31% 
+0% 
+0% 
+0% 
+0% 
+Iniciativa 
+75% 
+19% 
+6% 
+0% 
+0% 
+0% 
+Dedicação e comprometimento 
+75% 
+25% 
+0% 
+0% 
+0% 
+0% 
+Busca de aperfeiçoamento 
+75% 
+19% 
+0% 
+0% 
+6% 
+0% 
+Atitude colaborativa 
+81% 
+13% 
+6% 
+0% 
+0% 
+0% 
+Relacionamento interpessoal e trabalho em equipe 
+75% 
+19% 
+6% 
+0% 
+0% 
+0% 
+Respeito hierárquico 
+69% 
+25% 
+6% 
+0% 
+0% 
+0% 
+Conhecimento na área de atuação 
+56% 
+44% 
+0% 
+0% 
+0% 
+0% 
+Busca de melhoria contínua 
+88% 
+6% 
+0% 
+6% 
+0% 
+0% 
+Comunicação 
+69% 
+31% 
+0% 
+0% 
+0% 
+0% 
+Disposição para aprender 
+75% 
+19% 
+6% 
+0% 
+0% 
+0% 
+Atendimento de pessoas com deficiência 
+44% 
+50% 
+6% 
+0% 
+0% 
+0% 
+Prestação de serviços da Fatec para a Comunidade Externa 
+50% 
+31% 
+19% 
+0% 
+0% 
+0% 
+Interação entre a Fatec e a comunidade externa 
+50% 
+19% 
+19% 
+6% 
+0% 
+6% 
+Ações voltadas para as questões sociais e ambientais 
+25% 
+44% 
+25% 
+6% 
+0% 
+0% 
+Cursos de formação voltados para atender a comunidade 
+externa. 
+44% 
+31% 
+13% 
+6% 
+0% 
+6% 
+Participação dos técnicos administrativos nas atividades do 
+ensino 
+25% 
+19% 
+38% 
+6% 
+6% 
+6% 
+Participação dos técnicos administrativos nas atividades da 
+pesquisa 
+25% 
+19% 
+31% 
+6% 
+19% 
+0% 
+Participação dos técnicos administrativos nas atividades da 
+extensão 
+38% 
+19% 
+25% 
+6% 
+13% 
+0% 
+Interação entre os técnicos administrativos e os docentes 
+31% 
+38% 
+13% 
+19% 
+0% 
+0% 
+Interação entre os técnicos administrativos e os discentes 
+44% 
+38% 
+19% 
+0% 
+0% 
+0% 
+ 
+ 
+ 
+ 
+25 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+Gráfico com respostas dos funcionários (Dimensão 1 e 3):  
+ 
+Formação de profissionais qualificados 
+Disseminação da ciência, tecnologia e 
+inovação 
+Disseminação da cultura e da arte 
+ 
+ 
+ 
+ 
+Disseminação de valores éticos 
+Inclusão social 
+Desenvolvimento sustentável 
+ 
+ 
+ 
+ 
+Cumprimento das metas do PDI 
+Estímulo para conhecer e praticar a 
+Missão Institucional 
+Estímulo para conhecer e contribuir para 
+o cumprimento do PDI 
+ 
+ 
+ 
+ 
+ 
+Relação da Missão e do PDI com a prática 
+profissional 
+Assiduidade 
+Pontualidade 
+ 
+26 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+Busca de aperfeiçoamento 
+Atitude colaborativa 
+Relacionamento interpessoal e trabalho 
+em equipe 
+ 
+ 
+ 
+ 
+ 
+ 
+Respeito hierárquico 
+Conhecimento na área de atuação 
+Busca de melhoria contínua 
+ 
+ 
+ 
+ 
+ 
+ 
+Comunicação 
+Disposição para aprender 
+Atendimento de pessoas com deficiência 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Prestação de serviços da Fatec para a 
+Comunidade Externa 
+Interação entre a Fatec e a comunidade 
+externa 
+Ações voltadas para as questões sociais e 
+ambientais 
+ 
+ 
+ 
+ 
+27 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+Cursos de formação voltados para 
+atender a comunidade externa. 
+Participação dos técnicos administrativos 
+nas atividades do ensino 
+Participação dos técnicos administrativos 
+nas atividades da pesquisa 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Participação dos técnicos administrativos 
+nas atividades da extensão 
+Interação entre os técnicos 
+administrativos e os docentes 
+Interação entre os técnicos 
+administrativos e os discentes 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+28 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+Síntese das respostas dos 3 segmentos – Eixo 2 
+Discentes 
+Pontos fortes 
+Pontos fracos 
+Profissionais qualificados 
+Pouco conhecimento sobre PDI 
+Disseminação de ciência e 
+tecnologia 
+Pouco conhecimento sobre Missão 
+Disseminação de valores éticos 
+Atendimento às pessoas com deficiência 
+Busca pela inclusão social 
+Disseminação da arte e cultura 
+ 
+Transfererência de conhecimento da Fatec para a 
+comunidade externa 
+ 
+Participação da comunidade externa no contexto 
+instituvional 
+ 
+Políticas contra discriminação e assédio 
+ 
+Ações para sustentabilidade 
+Docentes 
+Pontos fortes 
+Pontos fracos 
+Profissionais qualificados 
+Necessidade de maior participação da sociedade 
+no âmbito institucional 
+Disseminação de ciência e cultura 
+Necessidade de mais ações voltadas à 
+sustentabilidade 
+Disseminação de valores éticos 
+ 
+Busca pela inclusão social 
+ 
+Cumprimento e difusão da missão 
+institucional 
+ 
+Atendimento de pessoas com 
+deficiência 
+ 
+Transferência de conhecimento para 
+comunidade externa 
+ 
+Funcionários 
+Pontos fortes 
+Pontos fracos 
+Assiduidade 
+Pouco conhecimento da prática da Missão em 
+relação ao PDI 
+Pontualidade 
+ 
+Desconhecem ações voltadas às questões sociais 
+e ambientais 
+Dedicação 
+ 
+Comprometimento 
+ 
+Respeito à hierarquia 
+ 
+ 
+ 
+ 
+29 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+3.3 Eixo 3: Políticas Acadêmicas 
+   
+ 
+               Dimensão 2: Políticas para o Ensino, a Pesquisa e a Extensão 
+               Dimensão 4: Comunicação com a Sociedade 
+               Dimensão 9: Política de Atendimento aos Discentes 
+ 
+APRESENTAÇÃO DAS PRINCIPAIS INFORMAÇÕES COLETADAS NO EIXO 3 
+DIMENSÃO 2, 4 e 9 – DOCENTES 
+QUESTÃO 
+excelente 
+muito 
+bom 
+regular insuficiente não se 
+aplica 
+não sei 
+responder 
+Articulação de seu componente curricular com o 
+Projeto Pedagógico do Curso 
+63% 
+30% 
+7% 
+0% 
+0% 
+0% 
+Estrutura curricular 
+50% 
+46% 
+4% 
+0% 
+0% 
+0% 
+Sistema de avaliação da aprendizagem 
+56% 
+41% 
+4% 
+0% 
+0% 
+0% 
+Atividades de ensino 
+57% 
+39% 
+4% 
+0% 
+0% 
+0% 
+Atividades de pesquisa 
+33% 
+37% 
+20% 
+6% 
+0% 
+4% 
+Atividades de extensão 
+30% 
+33% 
+26% 
+4% 
+0% 
+7% 
+Corpo técnico-administrativo 
+56% 
+37% 
+7% 
+0% 
+0% 
+0% 
+Corpo docente 
+63% 
+33% 
+4% 
+0% 
+0% 
+0% 
+Práticas didático-pedagógicas dos docentes 
+54% 
+37% 
+7% 
+0% 
+0% 
+2% 
+Articulação de conhecimentos disciplinares com 
+temas sociais, políticos e culturais 
+37% 
+39% 
+19% 
+2% 
+0% 
+4% 
+Correspondência entre o curso e a formação para 
+o exercício profissional 
+63% 
+31% 
+6% 
+0% 
+0% 
+0% 
+Estágio supervisionado como espaço de formação 
+profissional 
+48% 
+31% 
+13% 
+0% 
+0% 
+7% 
+Como avalia a política de ensino, pesquisa e 
+extensão tendo em vista a formação do perfil do 
+egresso do curso. 
+37% 
+50% 
+9% 
+2% 
+0% 
+2% 
+Como avalia se o(s) curso (s) cumpre (m) as 
+políticas de ensino, pesquisa e extensão previstas 
+no PDI. 
+41% 
+41% 
+9% 
+0% 
+0% 
+9% 
+Acesso da comunidade externa às atividades 
+desenvolvidas pela Fatec 
+41% 
+35% 
+20% 
+4% 
+0% 
+0% 
+Sistemas de informação da Fatec 
+43% 
+39% 
+15% 
+4% 
+0% 
+0% 
+Concurso vestibular 
+43% 
+39% 
+15% 
+2% 
+0% 
+2% 
+Resoluções dos colegiados (Congregação ou 
+Comissão de Implantação); Câmara de Ensino, 
+Conselho Departamental ou NDE/Coordenadoria; 
+Colegiado de curso 
+54% 
+28% 
+9% 
+2% 
+0% 
+7% 
+Editais de concursos, processos seletivos, bolsas, 
+intercâmbios, etc. 
+48% 
+39% 
+11% 
+2% 
+0% 
+0% 
+Informações advindas da coordenação de curso 
+65% 
+26% 
+6% 
+4% 
+0% 
+0% 
+30 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+Oportunidades de Pesquisa 
+30% 
+33% 
+24% 
+7% 
+0% 
+6% 
+Oportunidades de Extensão 
+35% 
+31% 
+22% 
+6% 
+0% 
+6% 
+Normas acadêmicas, legislação e calendários 
+48% 
+46% 
+6% 
+0% 
+0% 
+0% 
+Eventos acadêmicos-científicos 
+52% 
+43% 
+4% 
+2% 
+0% 
+0% 
+Site oficial da Fatec 
+22% 
+48% 
+28% 
+2% 
+0% 
+0% 
+Publicações nos murais 
+46% 
+39% 
+11% 
+4% 
+0% 
+0% 
+Boletins e informativos Fatec (Impressos ou por 
+e–mail) 
+52% 
+30% 
+6% 
+7% 
+6% 
+0% 
+Ouvidoria 
+33% 
+35% 
+7% 
+4% 
+2% 
+19% 
+SIGA 
+48% 
+37% 
+15% 
+0% 
+0% 
+0% 
+Caixa e/ou espaço para sugestões 
+37% 
+26% 
+9% 
+4% 
+13% 
+11% 
+Mídias Sociais 
+39% 
+35% 
+13% 
+9% 
+0% 
+4% 
+Programas de apoio pedagógico (monitoria, 
+nivelamento, recuperação e reforço do 
+aprendizado) 
+50% 
+31% 
+11% 
+4% 
+0% 
+4% 
+Programa de apoio financeiro (bolsas) 
+24% 
+24% 
+21% 
+17% 
+2% 
+13% 
+Bolsas (Programas de Intercâmbio e de 
+Mobilidade Acadêmica) 
+28% 
+30% 
+19% 
+11% 
+2% 
+11% 
+Estímulo a organização estudantil (espaço para 
+participação e convivência estudantil) 
+31% 
+24% 
+28% 
+13% 
+0% 
+4% 
+Acompanhamento de Egressos (ex-alunos) 
+26% 
+31% 
+22% 
+6% 
+0% 
+15% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+31 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+Gráficos com respostas dos docentes (Dimensões 2, 4 e 9):  
+ 
+ 
+ 
+Articulação de seu componente 
+curricular com o Projeto Pedagógico 
+do Curso 
+Estrutura curricular 
+Sistema de avaliação da 
+aprendizagem 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Atividades de ensino 
+Atividades de pesquisa 
+Atividades de extensão 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Corpo técnico-administrativo 
+Corpo docente 
+Práticas didático-pedagógicas dos 
+docentes 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+32 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+Articulação de conhecimentos 
+disciplinares com temas sociais, 
+políticos e culturais 
+Correspondência entre o curso e a 
+formação para o exercício 
+profissional 
+ 
+Estágio supervisionado como espaço 
+de formação profissional 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Como avalia a política de ensino, 
+pesquisa e extensão tendo em vista a 
+formação do perfil do egresso do 
+curso. 
+Como avalia se o(s) curso (s) cumpre 
+(m) as políticas de ensino, pesquisa e 
+extensão previstas no PDI. 
+Acesso da comunidade externa às 
+atividades desenvolvidas pela Fatec 
+ 
+ 
+ 
+ 
+ 
+Sistemas de informação da Fatec 
+ 
+ 
+ 
+ 
+ 
+Concurso vestibular 
+Resoluções dos colegiados 
+(Congregação ou Comissão de 
+Implantação); Câmara de Ensino, 
+Conselho Departamental ou 
+NDE/Coordenadoria; Colegiado de 
+curso 
+ 
+ 
+33 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+Editais de concursos, processos 
+seletivos, bolsas, intercâmbios, etc. 
+Informações advindas da 
+coordenação de curso 
+Oportunidades de Pesquisa 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Oportunidades de Extensão 
+ 
+ 
+Normas acadêmicas, legislação e 
+calendários 
+Eventos acadêmicos-científicos 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Site oficial da Fatec 
+ 
+ 
+Publicações nos murais 
+ 
+ 
+Boletins e informativos Fatec 
+(Impressos ou por e–mail) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+34 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+Ouvidoria 
+ 
+SIGA 
+Caixa e/ou espaço para sugestões 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Mídias Sociais 
+Programas de apoio pedagógico 
+(monitoria, nivelamento, 
+recuperação e reforço do 
+aprendizado) 
+Programa de apoio financeiro 
+(bolsas) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Bolsas (Programas de Intercâmbio e 
+de Mobilidade Acadêmica) 
+Estímulo a organização estudantil 
+(espaço para participação e 
+convivência estudantil) 
+Acompanhamento de Egressos (ex- 
+alunos) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+35 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+DIMENSÃO 2, 4 e 9 – DISCENTES 
+QUESTÃO 
+excelente 
+muito bom 
+regular 
+insuficiente 
+não se 
+aplica 
+não sei 
+responder 
+Projeto Pedagógico do Curso – PPC 
+23% 
+49% 
+16% 
+3% 
+0% 
+10% 
+Matriz curricular do curso 
+31% 
+50% 
+14% 
+2% 
+0% 
+2% 
+Atividades de ensino 
+31% 
+53% 
+14% 
+2% 
+0% 
+1% 
+Atividades de pesquisa 
+23% 
+49% 
+20% 
+3% 
+1% 
+4% 
+Atividades de extensão 
+19% 
+42% 
+22% 
+5% 
+1% 
+11% 
+Corpo docente (conjunto de professores) 
+41% 
+44% 
+12% 
+1% 
+0% 
+1% 
+Práticas didático-pedagógicas dos 
+professores 
+28% 
+51% 
+17% 
+2% 
+1% 
+2% 
+Correspondência entre o curso e a 
+formação para o exercício profissional 
+29% 
+47% 
+14% 
+2% 
+1% 
+6% 
+Estágio supervisionado como espaço de 
+formação profissional 
+18% 
+33% 
+16% 
+4% 
+3% 
+26% 
+Eventos científicos e de extensão 
+26% 
+43% 
+15% 
+4% 
+2% 
+10% 
+Incentivo à pós-graduação 
+21% 
+35% 
+18% 
+8% 
+3% 
+15% 
+Domínio dos conteúdos pelos docentes 
+45% 
+42% 
+11% 
+0% 
+0% 
+1% 
+Satisfação com o curso escolhido 
+46% 
+40% 
+11% 
+1% 
+0% 
+2% 
+Atenção dada aos alunos com dificuldade 
+de acompanhar os conteúdos 
+27% 
+38% 
+23% 
+7% 
+1% 
+2% 
+Correção feita pelos professores quanto 
+às avaliações 
+30% 
+46% 
+17% 
+2% 
+0% 
+4% 
+Realização de projetos interdisciplinares 
+21% 
+38% 
+22% 
+6% 
+1% 
+12% 
+Articulação entre as disciplinas 
+(interdisciplinaridade) 
+22% 
+44% 
+20% 
+5% 
+1% 
+8% 
+As metodologias de ensino para seu 
+envolvimento e aprendizagem 
+24% 
+50% 
+20% 
+3% 
+0% 
+2% 
+A transparência da comunicação no que 
+se refere às informações da disciplina 
+29% 
+50% 
+16% 
+2% 
+0% 
+3% 
+A manutenção de clima de respeito à 
+diversidade de opiniões 
+31% 
+49% 
+13% 
+2% 
+1% 
+4% 
+A utilização diversificada dos instrumentos 
+de avaliação da aprendizagem 
+27% 
+49% 
+18% 
+2% 
+1% 
+4% 
+O estímulo e o apoio ao desenvolvimento 
+de sua autonomia sobre os temas e 
+conteúdo da área. 
+28% 
+45% 
+18% 
+3% 
+1% 
+5% 
+A correção conjunta das avaliações 
+22% 
+44% 
+20% 
+7% 
+1% 
+7% 
+Os professores apresentam no início de 
+cada semestre os seus respectivos planos 
+de ensino? 
+56% 
+32% 
+9% 
+1% 
+0% 
+2% 
+Como avalia a qualidade da Fatec que 
+você escolheu? 
+42% 
+44% 
+11% 
+2% 
+0% 
+1% 
+Como avalia a possibilidade do uso do 
+ensino híbrido, considerando um 
+percentual da carga horária ofertada de 
+forma remota? 
+36% 
+28% 
+18% 
+9% 
+4% 
+5% 
+Concurso Vestibular 
+33% 
+42% 
+17% 
+3% 
+1% 
+4% 
+36 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+Resoluções dos colegiados (Congregação 
+ou Comissão de Implantação); Câmara de 
+Ensino, Pesquisa e Extensão (CEPE), 
+Conselho Departamental ou 
+NDE/Coordenadoria; Colegiado de curso. 
+21% 
+38% 
+12% 
+2% 
+0% 
+26% 
+Normas acadêmicas, legislação e 
+calendários 
+31% 
+46% 
+15% 
+2% 
+0% 
+7% 
+Editais de bolsas, intercâmbios e/ou 
+oportunidades de pesquisa e extensão 
+28% 
+36% 
+19% 
+6% 
+1% 
+11% 
+Acesso da comunidade externa às 
+atividades desenvolvidas pela Fatec. 
+20% 
+32% 
+25% 
+6% 
+1% 
+16% 
+Sistema de informação interna (site, 
+murais, jornais etc.) 
+26% 
+38% 
+24% 
+9% 
+0% 
+3% 
+Site oficial da Fatec 
+24% 
+36% 
+27% 
+10% 
+0% 
+4% 
+Publicações nos murais 
+26% 
+39% 
+26% 
+6% 
+0% 
+3% 
+SIGA 
+25% 
+32% 
+23% 
+17% 
+1% 
+1% 
+Ouvidoria 
+19% 
+30% 
+17% 
+3% 
+1% 
+30% 
+Mídias Sociais 
+18% 
+29% 
+25% 
+12% 
+1% 
+16% 
+Programas de apoio pedagógico 
+(monitoria, nivelamento, reforço do 
+aprendizado) 
+25% 
+41% 
+19% 
+3% 
+0% 
+12% 
+Programa de apoio financeiro (bolsas) 
+18% 
+23% 
+15% 
+8% 
+4% 
+32% 
+Programas de Intercâmbio e bolsas de 
+mobilidade 
+19% 
+27% 
+18% 
+9% 
+1% 
+26% 
+Estímulo a organização estudantil 
+22% 
+34% 
+19% 
+7% 
+0% 
+18% 
+Espaço para participação e convivência 
+estudantil 
+20% 
+36% 
+24% 
+7% 
+1% 
+11% 
+Estímulo à frequência no ambiente escolar 
+24% 
+40% 
+22% 
+5% 
+1% 
+7% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+37 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+Gráficos com respostas dos discentes (Dimensões 2, 4 e 9):  
+ 
+ 
+ 
+Projeto Pedagógico do Curso – PPC 
+Matriz curricular do curso 
+Atividades de ensino 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Atividades de pesquisa 
+Atividades de extensão 
+Corpo docente (conjunto de 
+professores) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Práticas didático-pedagógicas dos 
+professores 
+Correspondência entre o curso e a 
+formação para o exercício 
+profissional 
+Estágio supervisionado como espaço 
+de formação profissional 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+38 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+Eventos científicos e de extensão 
+ 
+ 
+Incentivo à pós-graduação 
+Domínio dos conteúdos pelos 
+docentes 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Satisfação com o curso escolhido 
+ 
+Atenção dada aos alunos com 
+dificuldade de acompanhar os 
+conteúdos 
+Correção feita pelos professores 
+quanto às avaliações 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Realização de projetos 
+interdisciplinares 
+ 
+ 
+Articulação entre as disciplinas 
+(interdisciplinaridade) 
+As metodologias de ensino para seu 
+envolvimento e aprendizagem 
+ 
+ 
+ 
+39 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+A transparência da comunicação no 
+que se refere às informações da 
+disciplina 
+ 
+A manutenção de clima de respeito à 
+diversidade de opiniões 
+A utilização diversificada dos 
+instrumentos de avaliação da 
+aprendizagem 
+ 
+ 
+ 
+ 
+ 
+ 
+O estímulo e o apoio ao 
+desenvolvimento de sua autonomia 
+sobre os temas e conteúdo da área. 
+ 
+ 
+A correção conjunta das avaliações 
+Os professores apresentam no início 
+de cada semestre os seus respectivos 
+planos de ensino? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Como avalia a qualidade da Fatec que 
+você escolheu? 
+Como avalia a possibilidade do uso 
+do ensino híbrido, considerando um 
+percentual da carga horária ofertada 
+de forma remota? 
+Concurso Vestibular 
+ 
+ 
+40 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+Resoluções dos colegiados 
+(Congregação ou Comissão de 
+Implantação); Câmara de Ensino, 
+Pesquisa e Extensão (CEPE), Conselho 
+Departamental ou 
+NDE/Coordenadoria; Colegiado de 
+curso. 
+Normas acadêmicas, legislação e 
+calendários 
+Editais de bolsas, intercâmbios e/ou 
+oportunidades de pesquisa e 
+extensão 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Acesso da comunidade externa às 
+atividades desenvolvidas pela Fatec. 
+Sistema de informação interna (site, 
+murais, jornais etc.) 
+ 
+Site oficial da Fatec 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Publicações nos murais 
+SIGA 
+Ouvidoria 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+41 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+Mídias Sociais 
+ 
+ 
+ 
+ 
+Programas de apoio pedagógico 
+(monitoria, nivelamento, reforço do 
+aprendizado) 
+ 
+Programa de apoio financeiro 
+(bolsas) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Programas de Intercâmbio e bolsas 
+de mobilidade 
+Estímulo a organização estudantil 
+Espaço para participação e 
+convivência estudantil 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+42 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+DIMENSÃO 2, 4 e 9 – FUNCIONÁRIOS 
+QUESTÃO 
+excelente 
+muito 
+bom 
+regular insuficiente 
+não se 
+aplica 
+não sei 
+responder 
+Eventos que vão ocorrer na Fatec e 
+envolvimento dos técnicos administrativos 
+37% 
+38% 
+13% 
+6% 
+0% 
+6% 
+Envolvimento do pessoal técnico administrativo 
+no Concurso Vestibular 
+50% 
+44% 
+0% 
+6% 
+0% 
+0% 
+Decisões dos órgãos superiores da Fatec 
+43% 
+38% 
+13% 
+6% 
+0% 
+0% 
+Normas acadêmicas, legislação e calendários 
+56% 
+32% 
+6% 
+6% 
+0% 
+0% 
+Editais de concursos públicos e processos 
+seletivos docentes (professores e auxiliares) 
+63% 
+31% 
+0% 
+6% 
+0% 
+0% 
+Editais de bolsas e intercâmbios 
+44% 
+25% 
+18% 
+13% 
+0% 
+0% 
+Oportunidades de capacitação profissional 
+44% 
+25% 
+25% 
+6% 
+0% 
+0% 
+Eventos acadêmicos - científicos 
+38% 
+38% 
+13% 
+6% 
+0% 
+5% 
+Site oficial da Fatec 
+24% 
+38% 
+38% 
+0% 
+0% 
+0% 
+Publicações nos murais 
+31% 
+56% 
+13% 
+0% 
+0% 
+0% 
+Ouvidoria 
+38% 
+38% 
+12% 
+6% 
+0% 
+6% 
+Caixa e/ou espaço para sugestões 
+38% 
+25% 
+0% 
+12% 
+19% 
+6% 
+Mídias sociais da Fatec 
+25% 
+50% 
+19% 
+6% 
+0% 
+0% 
+Programas de apoio pedagógico (monitoria, 
+nivelamento, reforço do aprendizado) 
+63% 
+19% 
+13% 
+5% 
+0% 
+0% 
+Programa de apoio financeiro (bolsas) 
+38% 
+19% 
+19% 
+6% 
+6% 
+12% 
+Programas de Intercâmbio e Mobilidade 
+Acadêmica 
+44% 
+19% 
+25% 
+12% 
+0% 
+0% 
+Estímulo à organização estudantil 
+25% 
+32% 
+38% 
+0% 
+0% 
+5% 
+Espaço para participação e convivência 
+estudantil 
+24% 
+32% 
+44% 
+0% 
+0% 
+0% 
+Acompanhamento de Egressos (ex-alunos) 
+31% 
+25% 
+44% 
+0% 
+0% 
+0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+43 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+Gráficos com respostas dos funcionários (Dimensões 2, 4 e 9):  
+ 
+ 
+Eventos que vão ocorrer na Fatec e 
+envolvimento dos técnicos 
+administrativos 
+Envolvimento do pessoal técnico 
+administrativo no Concurso 
+Vestibular 
+ 
+Decisões dos órgãos superiores da 
+Fatec 
+ 
+ 
+ 
+ 
+ 
+ 
+Normas acadêmicas, legislação e 
+calendários 
+ 
+ 
+Editais de concursos públicos e 
+processos seletivos docentes 
+(professores e auxiliares) 
+Editais de bolsas e intercâmbios 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Oportunidades de capacitação 
+profissional 
+ 
+Eventos acadêmicos – científicos 
+ 
+Site oficial da Fatec 
+ 
+ 
+ 
+ 
+ 
+ 
+44 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+Publicações nos murais 
+ 
+Ouvidoria 
+Caixa e/ou espaço para sugestões 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Mídias sociais da Fatec 
+ 
+Programas de apoio pedagógico 
+(monitoria, nivelamento, reforço do 
+aprendizado) 
+Programa de apoio financeiro 
+(bolsas) 
+ 
+ 
+ 
+ 
+ 
+ 
+Programas de Intercâmbio e 
+Mobilidade Acadêmica 
+ 
+Espaço para participação e 
+convivência estudantil 
+ 
+Acompanhamento de Egressos (ex-
+alunos) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+45 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+Síntese das respostas dos 3 segmentos – Eixo 3 
+Docentes 
+Pontos fortes 
+Pontos fracos 
+Articulação entre as disciplinas e o PPC 
+Necessidade de mais atividades de ensino e 
+pesquisa, assim como estímulo à participação dos 
+alunos 
+Corpo docente qualificado e comprometido 
+ 
+Práticas didático-pedagógicas de qualidade  
+ 
+Cursos com boa estrutura curricular 
+Maior articulação entre disciplinas 
+Bom sistema de ensino e avaliação 
+Maior articulação entre disciplicas e questões 
+socioculturais 
+Estágio como espaço positivo de 
+aprendizado e formação profissional 
+Melhorar o acompanhamento aos alunos egressos 
+Colegiados com boas resoluções 
+Certo desconhecimento sobre ouvidoria 
+Editais claros e objetivos 
+Melhorar caixas de sugestões/reclamações 
+Bons programas de apoio pedagógico 
+ 
+Eventos acadêmicos e científicos 
+ 
+Discentes 
+Pontos fortes 
+Pontos fracos 
+PPC 
+Poucas atividades de extensão 
+Matriz curricular 
+Pouca atensão aos alunos com dificuldade de 
+aprendizagem 
+Atividades de pesquisa 
+Interdisciplinaridade  
+Métodos de ensino 
+Necessidade de maior articulação entre disciplinas 
+e de acesso à comunidade externa 
+Correspondência entre curso e profissão 
+Falta de espaço de convivência estudantil 
+Existência de eventos científicos e 
+tecnológicos 
+Necessidade de melhorar o sistema de informação 
+interna, site oficial, murais, informações sobre 
+ouvidoria 
+Boas oportunidades de estágio 
+ 
+Clima de respeito 
+ 
+Veem com positividade o ensino híbrido 
+ 
+Plano de ensino e avaliações apresentados 
+no início do semestre 
+ 
+Funcionários 
+Pontos fortes 
+Pontos fracos 
+Envolvimento funcionário no vestibular 
+Aumentar oportunidade de formação complementar 
+Editais de concursos e processos seletivos 
+Site oficial da Fatec 
+Programas de apoio pedagógico 
+Mídias sociais 
+Caixa e/ou espaço para sugestões 
+Programas de Intercâmbio e Mobilidade Acadêmica 
+Envolvimento funcionário em eventos 
+Espaço para participação e convivência estudantil 
+Normas acadêmicas, legislação e 
+calendários 
+Acompanhamento de Egressos (ex-alunos) 
+ 
+ 
+46 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+3.4    Eixo 4: Políticas de Gestão 
+   
+Dimensão 5: Políticas de Pessoal 
+Dimensão 6: Organização e Gestão da Instituição 
+Dimensão 10: Sustentabilidade Financeira 
+ 
+APRESENTAÇÃO DAS PRINCIPAIS INFORMAÇÕES COLETADAS NO EIXO 4 
+DIMENSÃO 5, 6 e 10 – DOCENTES 
+QUESTÃO 
+excelente 
+muito 
+bom 
+regular 
+insuficiente 
+não se 
+aplica 
+não sei 
+responder 
+Oportunidades de progressão/promoção 
+32% 
+41% 
+11% 
+9% 
+0% 
+7% 
+Critérios de Evolução Funcional 
+30% 
+35% 
+20% 
+9% 
+0% 
+6% 
+Incentivo a Formação Continuada 
+36% 
+41% 
+15% 
+6% 
+0% 
+2% 
+Programas de Capacitação e Atualização 
+Profissional 
+46% 
+31% 
+17% 
+4% 
+0% 
+2% 
+Participação da Direção na resolução de conflitos 
+53% 
+30% 
+9% 
+4% 
+0% 
+4% 
+Atuação dos colegiados da unidade (Congregação 
+ou Comissão de Implantação); Câmara de Ensino, 
+Pesquisa e Extensão - CEPE (se houver) 
+44% 
+36% 
+9% 
+4% 
+0% 
+7% 
+Atuação do colegiado de curso (Ex: Conselho 
+Departamental, NDE – Núcleo Docente 
+estruturante/Coordenadoria; colegiado de curso) 
+52% 
+33% 
+9% 
+2% 
+0% 
+4% 
+Oportunidades de Pesquisa e Extensão 
+28% 
+30% 
+20% 
+11% 
+0% 
+11% 
+Representatividade docente nos colegiados da 
+unidade 
+50% 
+32% 
+9% 
+2% 
+0% 
+7% 
+Representatividade docente nos colegiados de 
+curso 
+49% 
+33% 
+9% 
+2% 
+0% 
+7% 
+FETEPS 
+41% 
+22% 
+11% 
+4% 
+0% 
+22% 
+Programa de Iniciação científica (PIBIC) 
+28% 
+24% 
+24% 
+7% 
+2% 
+15% 
+Programa de Estágios 
+37% 
+30% 
+17% 
+4% 
+0% 
+12% 
+INOVA Paula Souza 
+30% 
+43% 
+12% 
+0% 
+0% 
+15% 
+ 
+ 
+ 
+ 
+ 
+ 
+47 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+Gráficos com respostas dos docentes (Dimensões 5, 6 e 10):  
+ 
+ 
+Oportunidades de 
+progressão/promoção 
+Critérios de Evolução Funcional 
+Incentivo a Formação Continuada 
+ 
+ 
+ 
+ 
+ 
+Programas de Capacitação e Atualização 
+Profissional 
+ 
+ 
+ 
+Participação da Direção na resolução 
+de conflitos 
+ 
+ 
+ 
+Atuação dos colegiados da unidade 
+(Congregação ou Comissão de 
+Implantação); Câmara de Ensino, 
+Pesquisa e Extensão - CEPE (se 
+houver) 
+ 
+ 
+ 
+ 
+ 
+Atuação do colegiado de curso (Ex: 
+Conselho Departamental, NDE – Núcleo 
+Docente estruturante/Coordenadoria; 
+colegiado de curso) 
+Oportunidades de Pesquisa e 
+Extensão 
+Representatividade docente nos 
+colegiados da unidade 
+ 
+ 
+ 
+ 
+48 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+Representatividade docente nos 
+colegiados de curso 
+FETEPS 
+Programa de Iniciação científica 
+(PIBIC) 
+ 
+ 
+ 
+ 
+ 
+ 
+Programa de Estágios 
+INOVA Paula Souza 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+49 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+DIMENSÃO 5, 6 e 10 – DISCENTES 
+QUESTÃO 
+excelente 
+muito 
+bom 
+regular insuficiente 
+não se 
+aplica 
+não sei 
+responder 
+Resolução dos conflitos baseado no diálogo e 
+negociação 
+28% 
+40% 
+14% 
+4% 
+1% 
+14% 
+Estímulo e apoio no desenvolvimento das resoluções 
+de situações problemas 
+26% 
+41% 
+17% 
+3% 
+0% 
+12% 
+Atuação dos colegiados da unidade (Congregação ou 
+Comissão de Implantação); Câmara de Ensino, 
+Pesquisa e Extensão (CEPE); (se houver), CPA 
+(Comissão Própria de Avaliação) 
+19% 
+31% 
+13% 
+4% 
+1% 
+33% 
+Atuação do colegiado de curso (Ex: Conselho de curso, 
+NDE - Núcleo Docente Estruturante/ Coordenadoria; 
+Colegiado de curso) 
+20% 
+37% 
+13% 
+3% 
+1% 
+26% 
+Atuação da representação discente nos colegiados da 
+unidade e do curso 
+21% 
+38% 
+14% 
+3% 
+1% 
+23% 
+O reconhecimento da equipe de direção como uma 
+liderança capaz de coordenar e levar adiante as ações 
+prioritárias desta Unidade 
+29% 
+41% 
+13% 
+3% 
+0% 
+14% 
+FETEPS 
+18% 
+26% 
+9% 
+2% 
+0% 
+44% 
+Programas de Estágios 
+20% 
+31% 
+19% 
+7% 
+1% 
+21% 
+Programas de Iniciação Científica 
+22% 
+32% 
+20% 
+6% 
+0% 
+20% 
+Programa INOVA Paula Souza 
+20% 
+32% 
+11% 
+2% 
+1% 
+34% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+50 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+Gráficos com respostas dos discentes (Dimensões 5, 6 e 10):  
+ 
+ 
+Resolução dos conflitos baseado no 
+diálogo e negociação 
+Estímulo e apoio no desenvolvimento 
+das resoluções de situações 
+problemas 
+Atuação dos colegiados da unidade 
+(Congregação ou Comissão de 
+Implantação); Câmara de Ensino, 
+Pesquisa e Extensão (CEPE); (se 
+houver), CPA (Comissão Própria de 
+Avaliação) 
+ 
+ 
+ 
+ 
+ 
+Atuação do colegiado de curso (Ex: 
+Conselho de curso, NDE - Núcleo 
+Docente Estruturante/ 
+Coordenadoria; Colegiado de curso) 
+Atuação da representação discente 
+nos colegiados da unidade e do curso 
+O reconhecimento da equipe de 
+direção como uma liderança capaz de 
+coordenar e levar adiante as ações 
+prioritárias desta Unidade 
+ 
+ 
+ 
+ 
+ 
+FETEPS 
+Programas de Estágios 
+Programas de Iniciação Científica 
+ 
+ 
+ 
+ 
+51 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+ 
+ 
+ 
+DIMENSÃO 5, 6 e 10 – FUNCIONÁRIOS 
+QUESTÃO 
+excelente 
+muito 
+bom 
+regular insuficiente 
+não se 
+aplica 
+não sei 
+responder 
+Programas relacionados com a saúde do servidor 
+38% 
+19% 
+25% 
+13% 
+5% 
+0% 
+Programas relacionados com prevenção às drogas e à 
+dependência química; 
+38% 
+38% 
+19% 
+5% 
+0% 
+0% 
+Acesso às ações de capacitação e aos programas de 
+capacitação profissional 
+44% 
+38% 
+13% 
+0% 
+0% 
+5% 
+Orientação para o exercício de suas atividades 
+38% 
+44% 
+18% 
+0% 
+0% 
+0% 
+Aproveitamento de suas habilidades e competências 
+para o cargo em exercício 
+44% 
+38% 
+6% 
+6% 
+0% 
+6% 
+Satisfação com seu trabalho 
+38% 
+44% 
+13% 
+6% 
+0% 
+0% 
+Coerência entre seu trabalho e as atribuições de seu 
+cargo 
+44% 
+32% 
+25% 
+0% 
+0% 
+0% 
+Apoio e incentivo à qualificação profissional por meio da 
+realização de cursos formais 
+50% 
+32% 
+13% 
+6% 
+0% 
+0% 
+Representatividade dos técnicos administrativos nos 
+colegiados da unidade e dos cursos 
+38% 
+32% 
+13% 
+13% 
+0% 
+0% 
+Atuação dos colegiados da Unidade (Congregação ou 
+Comissão de Implantação); Câmara de Ensino (se 
+houver), CPA (Comissão Própria de Avaliação) 
+57% 
+19% 
+19% 
+6% 
+0% 
+0% 
+Apoio e orientação do gestor imediato 
+75 
+13% 
+13% 
+0% 
+0% 
+0% 
+Representatividade dos técnicos administrativos nos 
+Colegiados da unidade 
+38% 
+38% 
+19% 
+6% 
+0% 
+0% 
+Estímulo da gestão à participação da equipe na tomada 
+de decisões 
+44% 
+38% 
+13% 
+6% 
+0% 
+0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+52 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+ 
+Gráficos com respostas dos funcionários (Dimensões 5, 6 e 10):  
+ 
+ 
+Programas relacionados com a saúde 
+do servidor 
+Programas relacionados com 
+prevenção às drogas e à dependência 
+química; 
+Acesso às ações de capacitação e aos 
+programas de capacitação profissional 
+ 
+ 
+ 
+ 
+ 
+ 
+Orientação para o exercício de suas 
+atividades 
+Aproveitamento de suas habilidades 
+e competências para o cargo em 
+exercício 
+Satisfação com seu trabalho 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Coerência entre seu trabalho e as 
+atribuições de seu cargo 
+Apoio e incentivo à qualificação 
+profissional por meio da realização 
+de cursos formais 
+Representatividade dos técnicos 
+administrativos nos colegiados da 
+unidade e dos cursos 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+53 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+Atuação dos colegiados da Unidade 
+(Congregação ou Comissão de 
+Implantação); Câmara de Ensino (se 
+houver), CPA (Comissão Própria de 
+Avaliação) 
+Apoio e orientação do gestor 
+imediato 
+Representatividade dos técnicos 
+administrativos nos Colegiados da 
+unidade 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Síntese das respostas dos 3 segmentos – Eixo 4 
+Docentes 
+Pontos fortes 
+Pontos fracos 
+Oportunidade e critérios de progressão, promoção 
+e evolução funcional 
+Necessidade de maiores informações sobre 
+programas de iniciação científica 
+Incentivo e programas de capacitação e 
+atualização profissional 
+Necessidade de maiores informações sobre 
+o INOVA 
+Participação da direção na gestão de conflitos 
+Necessidade de maiores informações sobre o 
+a FETEPS. 
+Atuação e representatividade nos colegiados da 
+unidade e dos cursos 
+ 
+Oportunidades de pesquisa e extensão 
+ 
+Discentes 
+Pontos fortes 
+Pontos fracos 
+Estímulo e apoio no desenvolvimento das 
+resoluções de situações problemas 
+Necessidade de mais conhecimento sobre 
+colegiados da unidade e de cursos 
+Atuação da representação discente nos colegiados 
+da unidade e do curso 
+Necessidade de maiores informações sobre 
+o a FETEPS. 
+O reconhecimento da equipe de direção como uma 
+liderança capaz de coordenar e levar adiante as 
+ações prioritárias desta Unidade 
+Programas de Iniciação Científica 
+Programas de Estágios 
+Programa INOVA Paula Souza 
+Funcionários 
+Pontos fortes 
+Pontos fracos 
+Programas relacionados com a saúde do servidor 
+Coerência entre seu trabalho e as 
+atribuições de seu cargo 
+Programas relacionados com prevenção às drogas 
+e à dependência química; 
+Representatividade nos colegiados da 
+unidade 
+Apoio à capacitação profissional 
+ 
+Satisfação com o trabalho 
+ 
+Atuação dos colegiados da unidade e dos cursos 
+ 
+54 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+3.5      Eixo 5: Infraestrutura Física 
+  
+ 
+Dimensão 7: Infraestrutura Física 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+APRESENTAÇÃO DAS PRINCIPAIS INFORMAÇÕES COLETADAS NO EIXO 5 
+DIMENSÃO 7 - DOCENTES 
+QUESTÃO 
+excelente 
+muito 
+bom 
+regular 
+insuficiente 
+não se 
+aplica 
+não sei 
+responder 
+Secretaria acadêmica 
+52% 
+35% 
+7% 
+2% 
+0% 
+4% 
+Espaços de convivência 
+22% 
+37% 
+28% 
+9% 
+0% 
+4% 
+Serviços de segurança 
+65% 
+30% 
+4% 
+0% 
+0% 
+2% 
+Serviços de limpeza 
+59% 
+31% 
+7% 
+0% 
+0% 
+2% 
+Cantina 
+7% 
+4% 
+4% 
+20% 
+61% 
+4% 
+Quantidade 
+28% 
+48% 
+19% 
+6% 
+0% 
+0% 
+Limpeza/Conservação 
+58% 
+37% 
+6% 
+0% 
+0% 
+0% 
+Iluminação/ Ventilação 
+26% 
+31% 
+24% 
+19% 
+0% 
+0% 
+Mobiliário e Equipamentos 
+33% 
+48% 
+15% 
+4% 
+0% 
+0% 
+Acessibilidade 
+41% 
+41% 
+15% 
+2% 
+0% 
+2% 
+Quantidade 
+15% 
+49% 
+20% 
+13% 
+0% 
+6% 
+Limpeza/Conservação 
+54% 
+31% 
+9% 
+2% 
+0% 
+4% 
+Iluminação/ Ventilação 
+22% 
+33% 
+20% 
+20% 
+0% 
+4% 
+Mobiliário e Equipamentos 
+28% 
+41% 
+19% 
+7% 
+0% 
+6% 
+Acessibilidade 
+41% 
+24% 
+26% 
+4% 
+0% 
+6% 
+Quantidade 
+30% 
+44% 
+19% 
+4% 
+0% 
+4% 
+Limpeza/Conservação 
+54% 
+41% 
+0% 
+2% 
+0% 
+4% 
+Iluminação/ Ventilação 
+32% 
+33% 
+19% 
+11% 
+2% 
+4% 
+Mobiliário e Equipamentos 
+39% 
+35% 
+17% 
+2% 
+0% 
+7% 
+Acessibilidade 
+44% 
+33% 
+15% 
+4% 
+0% 
+4% 
+Atendimento ao usuário 
+67% 
+28% 
+0% 
+2% 
+0% 
+4% 
+Automação do sistema 
+22% 
+39% 
+17% 
+4% 
+4% 
+15% 
+Qualidade e atualidade do acervo 
+22% 
+46% 
+13% 
+7% 
+0% 
+11% 
+Disponibilidade da bibliografia básica (número 
+de exemplares por título) 
+31% 
+39% 
+17% 
+2% 
+0% 
+11% 
+Horário de atendimento 
+28% 
+54% 
+7% 
+2% 
+0% 
+9% 
+55 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+Gráficos com respostas dos docentes (Dimensão 7):  
+ 
+ 
+Secretaria acadêmica 
+ 
+Espaços de convivência 
+ 
+Serviços de segurança 
+ 
+ 
+ 
+ 
+ 
+ 
+Serviços de limpeza 
+ 
+Cantina 
+ 
+Quantidade 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Limpeza/Conservação 
+Iluminação/ Ventilação 
+Mobiliário e Equipamentos 
+ 
+ 
+ 
+ 
+ 
+ 
+56 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+Acessibilidade 
+Limpeza/Conservação 
+Iluminação/ Ventilação 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Mobiliário e Equipamentos 
+Atendimento ao usuário 
+Acessibilidade 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Automação do sistema 
+Qualidade e atualidade do acervo 
+Horário de atendimento 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+57 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+DIMENSÃO 7 – DISCENTES  
+QUESTÃO 
+excelente 
+muito 
+bom 
+regular insuficiente 
+não se 
+aplica 
+não sei 
+responder 
+Acessibilidade aos espaços físicos 
+29% 
+40% 
+18% 
+4% 
+1% 
+8% 
+Atendimento ao usuário nas dependências físicas 
+34% 
+35% 
+11% 
+4% 
+0% 
+16% 
+Automação do sistema - biblioteca 
+23% 
+31% 
+19% 
+4% 
+1% 
+22% 
+Cantina 
+6% 
+7% 
+3% 
+31% 
+45% 
+8% 
+Disponibilidade da bibliografia básica (número de 
+exemplares por título) 
+22% 
+33% 
+20% 
+4% 
+0% 
+21% 
+Espaços de convivência 
+21% 
+38% 
+27% 
+12% 
+0% 
+2% 
+Horário de atendimento - biblioteca 
+24% 
+33% 
+21% 
+9% 
+0% 
+13% 
+Iluminação/ Ventilação 
+26% 
+37% 
+22% 
+10% 
+0% 
+5% 
+Limpeza/Conservação 
+43% 
+41% 
+10% 
+1% 
+0% 
+5% 
+Mobiliário e Equipamentos 
+25% 
+35% 
+25% 
+10% 
+0% 
+5% 
+Qualidade e atualidade do acervo - biblioteca 
+22% 
+35% 
+19% 
+5% 
+0% 
+18% 
+Secretaria acadêmica 
+28% 
+45% 
+19% 
+3% 
+0% 
+5% 
+Serviços de limpeza 
+48% 
+40% 
+9% 
+2% 
+0% 
+1% 
+Serviços de segurança 
+31% 
+45% 
+18% 
+3% 
+0% 
+3% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+58 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+Gráficos com respostas dos discentes (Dimensão 7):  
+ 
+ 
+ 
+Acessibilidade aos espaços físicos 
+Atendimento ao usuário nas 
+dependências físicas 
+Automação do sistema – biblioteca 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cantina 
+Disponibilidade da bibliografia básica 
+(número de exemplares por título) 
+Espaços de convivência 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Horário de atendimento - biblioteca 
+Iluminação/ Ventilação 
+Limpeza/Conservação 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+59 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+ 
+ 
+ 
+ 
+Mobiliário e Equipamentos 
+Qualidade e atualidade do acervo - 
+biblioteca 
+Secretaria acadêmica 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Serviços de limpeza 
+Serviços de segurança 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+60 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+Síntese das respostas dos 3 segmentos – Eixo 5 
+ 
+Docentes 
+Pontos fortes 
+Pontos fracos 
+Secretaria 
+Cantina 
+Serviços de segurança 
+Iluminação e ventilação dos espaços físicos 
+Serviços de limpeza 
+Automação do sistema da biblioteca 
+ 
+Acessibilidade 
+ 
+Mobiliários e equipamentos 
+Discentes 
+Pontos fortes 
+Pontos fracos 
+Secretaria 
+Atendimento ao usuário nas dependências 
+físicas 
+Serviços de segurança 
+Automação biblioteca 
+Serviços de limpeza 
+Cantina 
+Espaços de convivência estudantil 
+ 
+ 
+ 
+ 
+ 
+61 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+4 ANÁLISE DOS DADOS E AÇÕES PROPOSTAS  
+ 
+EIXO 1: PLANEJAMENTO E AVALIAÇÃO INSTITUCIONAL  
+ 
+FRAGILIDADES 
+ 
+AÇÕES PLANEJADAS  
+AÇÕES REALIZADAS 
+ 
+PRAZOS   
+Conhecimento, por parte dos alunos, sobre o Plano de 
+Desenvolvimento Institucional (PDI) 
+Reuniões para os três segmentos envolvidos para explanação 
+sobre PDI como ferramenta de gestão institucional e sua 
+importância no desenvolvimento da unidade de ensino 
+ 
+Curto 
+Conhecimento, por parte dos alunos, dos objetivos, 
+resultados e aplicação prática da autoavaliação institucional 
+(WEBSAI) 
+Explanação sobre a autoavaliação; 
+Apresentação do relatório da autoavaliação; 
+Reuniões da CPA com os três segmentos envolvidos. 
+Reuniões, em salas de aula, sobre a importância da 
+participação na autoavaliação. 
+Curto 
+Importância da participação e respostas fidedignas no 
+sistema de autoavaliação 
+Conscientizar alunos, por meio de reuniões e palestras, sobre a 
+importância da participação e respostas fidedignas e coerentes 
+com a realidade da instituição. 
+ 
+Curto 
+ 
+POTENCIALIDADES 
+ 
+AÇÕES PLANEJADAS  
+AÇÕES REALIZADAS 
+ 
+PRAZOS   
+Ações interdisciplinares e transdisciplinares promovidas por 
+docentes. 
+Intensificar atividades como projetos e pesquisas interdisciplinares, 
+que promovam a interdisciplinaridade 
+ 
+Curto 
+Planejamento de aulas e atividades 
+ 
+Docentes atuam sempre com planejamento prévio de aulas e 
+atividades, para melhor desempenho dos alunos. 
+Curto 
+Metodologias de ensino que promovem aprendizagem,  
+autonomia, capacidade de argumentação e respeito à 
+diversidade de opiniões dos alunos. 
+Incentivar a aplicação de metodologias ativas, para que alunos 
+tenham a possibilidade e capacidade de solucionar situações 
+problemas, transcedendo os conceitos téoricos das disciplinas. 
+Aplicação de metodologias de ensino que promovem 
+autonomia dos alunos, tanto no aprendizado, como no 
+desenvolvimento de projetos. 
+Curto 
+Objetivos e métodos de ensino das disciplinas 
+disponibilizados no início de cada semestre 
+ 
+Os docentes, em sua maioria, esclarecem objetivos, conteúdos 
+a serem abordados e sisemas de avaliação no início de cada 
+semestre. 
+Curto 
+Docentes comprometidos com sucesso escolar 
+ 
+Os docentes,em sua maioria, se empenham na obtenção do 
+sucesso escolar dos estudantes. 
+Curto 
+Sistema de aprendizagem que permitem aprofundamento dos 
+alunos nas áreas de conhecimento correlatas aos cursos. 
+Incentivar o aprofundamento de conhecimento nas disciplinas dos 
+cursos da unidade. 
+Docentes incentivam alunos a buscar novos conhecimentos, a 
+partir dos obtidos em sala de aula. 
+Curto 
+Estratégias positivas de avaliação e recuperação de notas, 
+quando necessário. 
+ 
+O sistema de avaliação e recuperação é amplo e contempla 
+alunos com maiores dificuldades no aprendizado. 
+Curto 
+Discentes frequentam aulas com assiduidade, pontualidade e 
+demonstram comprometimento com aprendizado e atividades 
+Apoiar a organização de atividades e estudos, para que alunos 
+tenham bom rendimento escolar 
+Existe apoio à organização e comprometimento aos alunos 
+para o bom rendimento escolar. 
+Curto 
+ 
+62 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+EIXO 2: DESENVOLVIMENTO INSTITUCIONAL  
+FRAGILIDADES 
+ 
+AÇÕES PLANEJADAS 
+AÇÕES REALIZADAS 
+PRAZOS 
+Conhecimento,  por parte dos alunos e funcionários, da 
+Missão Institucional do CPS e sua relação com a Fatec 
+Bauru. 
+Explanação, por meio de reuniões, sobre a Missão institucional, 
+sua importância correlacionada às atividades e ações da Fatec 
+Bauru. 
+ 
+Curto 
+Conhecimento, por parte dos alunos e funcionários, do PDI, 
+suas metas e cumprimentos das metas. 
+Explanação sobre a PDI para os três segmentos envolvidos. 
+Importância do PDI no desenvolvimento institucional. 
+ 
+Curto 
+Não há disseminação de arte e cultura. 
+Propor ações culturais nos intervalos de aulas. 
+Propor exposições de arte e cultura da comunidade externa. 
+Existência da Revista de Humanidades, Tecnologia e Cultura 
+da Fatec Bauru, com publicações que envolvem, entre outros 
+temas, cultura, design, educação e tecnologia. 
+Curto 
+Pouca participação da sociedade no âmbito acadêmico. 
+Propor novos cursos de extensão destinados a alunos do ensino 
+médio, professores da rede estadual de ensino e comunidade 
+externa em geral 
+São realizados cursos de extensão destinados a idosos (de 
+informática) e à coordenadores e professores da rede estadual 
+de ensino (impressão 3D). 
+Longo 
+Poucas ações sociais e ambientais e Desenvolvimento 
+sustentável da instituição. 
+Propor novas ações sociais e ambientais envolvendo alunos e 
+docentes da nossa unidade. 
+Incentivo aos docentes e pesquisadores para, de forma 
+interdisciplinar, adotarem práticas sustentáveis no ensino e em sua 
+carreira. 
+Desenvolver modelos práticos de gestão sustentável, como 
+exemplo para alunos e para a sociedade. 
+Coleta de leite, alimentos não perecíveis e produtos de higiene 
+pessoal (ações realizadas por alunos ingressantes) destinadas 
+às instituições carentes do município, como Apae. 
+Coleta de material plástico para ONGs que cuidam de animais. 
+Longo 
+Políticas internas para prevençao discriminação racial, 
+preconceito contra mulheres, preconceito contra as minorias 
+e assédio moral. 
+Adotar medidas rígidas contra práticas de discriminação e assédio. 
+Organizar cursos e palestras como medida preventiva. 
+Maior divulgação da Comissão Permanente de Orientação e 
+Prevenção contra o Assédio Moral do Centro Paula Souza. 
+Diponibilização (no site oficial da Fatec Bauru) da cartilha do 
+COPAMS contra assédio moral, sexual e virtual. 
+Palestras realizadas durante semana de planejamento de aulas 
+e acolhimento dos alunos. 
+ 
+Curto 
+POTENCIALIDADES 
+AÇÕES PLANEJADAS 
+AÇÕES REALIZADAS 
+PRAZOS 
+Profissionais docentes e administrativos qualificados, que 
+trabalham com comprometimento e com atitude colaborativa. 
+Incentivo à formação continuada. 
+Incentivo à formação continuada. 
+Curto 
+Disseminação de ciência, tecnologia e inovação. 
+ 
+Jornada Científica e Tecnológica da Fatec Bauru. 
+Tech Week Fatec Bauru. 
+Participação de alunos em eventos acadêmicos e científicos 
+externos à Fatec. 
+Caderno de Estudos Tecnológicos, onde alunos e docentes 
+realização publicações de âmbito tecnológico. 
+Publicação de livros que apresentam pesquisas e trabalhos de 
+alunos e docentes. 
+Curto 
+Compromisso com ética, inclusão e bom atendimento às 
+pessoas com deficiências. 
+Incentivo à ética, inclusão e bom atendimento às pessoas com 
+alguma necessidade. 
+ 
+Curto 
+63 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+EIXO 3: POLÍTICAS ACADÊMICAS  
+FRAGILIDADES 
+ 
+AÇÕES PLANEJADAS  
+AÇÕES REALIZADAS 
+ 
+PRAZOS   
+Atividades e programas de extensão universitária e 
+estímulo à participação dos alunos 
+Propor novos cursos de extensão destinados a alunos do ensino 
+médio, professores da rede estadual de ensino e comunidade 
+externa em geral. 
+ 
+Longo 
+Articulação entre disciplinas e questão socioculturais 
+Incentivar professores à ampliação da interdisciplinaridade e 
+transdisciplinaridade com projetos que abordam questões 
+socioculturais. 
+ 
+Curto 
+Participação da comunidade externa na comunidade 
+acadêmica 
+Propor novos cursos de extensão e eventos que envolvam a 
+comunidade externa. 
+São disponibilizados curso de informática para pessoas da terceira 
+idade da comunidade externa. 
+Médio 
+Acompanhamento de alunos egressos 
+Criar banco de dados com informações sobre alunos egressos e 
+atuação no mercado de trabalho. 
+Alunos egressos participam ativamente dos eventos realizados na 
+Fatec Bauru, trazendo importantes informações sobre o mercado 
+de trabalho e sobre a profissão. 
+Longo 
+Atenção aos alunos com dificuldade de aprendizado do 
+conteúdo curricular 
+Propor ações de verificação das dificuldades mais comuns 
+apresentadas, como provas de nivelamento e aplicação de 
+questionários, a fim de intensificar o auxílio pedagógico. 
+Há monitoria das disciplinas cujos alunos apresentam mais 
+dificuldade no aprendizado. 
+Curto 
+Sistema de comunicação interna, site oficial 
+Incentivar o uso do site oficial e das redes sociais. 
+Manutenção do site oficial atualizado com informações de interesse 
+à comunidade acadêmica, assim como murais e redes sociais. 
+Curto 
+POTENCIALIDADES 
+AÇÕES PLANEJADAS  
+AÇÕES REALIZADAS 
+PRAZOS   
+Forte articulação entre as disciplinas e o PPC e apoio 
+pedagógico quando necessário 
+ 
+Auxílio pedagógico de professores e monitoria das disciplinas cujos 
+alunos apresentam mais dificuldade no aprendizado. 
+Curto 
+Estrutura curricular adequada à maioria dos cursos. 
+ 
+ 
+Médio 
+Estágio como espaço positivo de aprendizado e 
+desenvolvimento profissional 
+ 
+Alunos de todos os cursos tem boas oportunidades de realização 
+de atividades de estágio, com oportunidade de contratação. 
+Curto 
+Colegiados da unidade e dos cursos com 
+representatividade dinâmica e boas resoluções. 
+ 
+Boa participação, representatividade e resolução nos colegiados da 
+unidade e dos cursos 
+Curto 
+Editais internos claros e objetivos. 
+ 
+Todos os editais são claros e objetivos, seguindo as instruções 
+normativas referentes a cada caso. 
+Curto 
+64 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+EIXO 4: POLÍTICAS DE GESTÃO  
+ 
+FRAGILIDADES 
+ 
+ 
+AÇÕES PLANEJADAS  
+AÇÕES REALIZADAS 
+ 
+PRAZOS   
+Informação e estímulo aos alunos sobre programas de 
+iniciação científica 
+Maior divulgação e engajamento dos professores interessados em 
+orientar projetos de IC.  
+Realização de simpósios de iniciação científica na unidade. 
+Os alunos tem a oportunidade de participar de Programas de 
+Iniciação Científica do CNPq e do CPS.  
+Todo semestre cerca de quatro alunos são beneficiados com bolsa 
+de monitoria de iniciação científica do CPS. 
+Curto 
+Informação aos alunos sobre INOVA 
+Divulgação nos diversos meios de comunicação. 
+Participação de alunos de todos os cursos na Escola de Inovação 
+do CPS - Inova. 
+Curto 
+Informação aos alunos sobre FETEPS 
+Participação ativa de alunos e docentes na FETEPS, com projetos 
+inovadores e pesquisas científicotecnológicas. 
+Curto 
+Atuação dos diversos colegiados da Fatec Bauru, 
+assim como objetivos e resultados dos mesmos. 
+ 
+Informações disponibilizadas no site oficial sobre os diversos 
+colegiados da instituição e dos cursos. 
+Curto 
+POTENCIALIDADES 
+AÇÕES PLANEJADAS  
+AÇÕES REALIZADAS 
+PRAZOS   
+Oportunidade de progressão e promoção na carreira 
+acadêmica 
+ 
+Incentivo à produção acadêmica e participação nas ações 
+acadêmicas como forma de pontuação para evolução funcional. 
+Curto 
+Oferecimento de formação continuada 
+ 
+Participação dos docentes em cursos de formação continuada 
+oferecidos pelo CPS. 
+Curto 
+Participação da direção na gestão de conflitos, sempre 
+baseada em diálogos 
+ 
+Ações advindas da direção visando a solução de conflitos e o bom 
+relacionamento interpessoal e entre setores e cursos. 
+Curto 
+Direção reconhecida como forte liderança 
+ 
+Direção que confia nas incumbências dos colaboradores, que sabe 
+delegar ações e dar os feedbacks necessários à evolução, 
+aperfeiçoamento e crescimento da equipe. 
+Curto 
+Estímulo aos docentes nas tomadas de decisão 
+ 
+Existe o estímulo constante à participação dos docentes nas 
+tomadas de decisão e solução de problemas referentes às 
+coordenadorias. 
+Curto 
+65 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+EIXO 5: INFRAESTRUTURA  
+ 
+FRAGILIDADES 
+ 
+ 
+AÇÕES PLANEJADAS  
+AÇÕES REALIZADAS 
+ 
+PRAZOS   
+Espaço de convivência estudantil 
+Criação de espaço de convivência estudantil 
+ 
+Longo 
+Espaço adequado para estudos  
+Disponibilização de local/laboratório destinado aos estudos e uso 
+de computadores para realização de atividades acadêmicas. 
+ 
+Médio 
+Falta de cantina 
+ 
+Formação de grupo responsável pela licitação de um Food 
+Truck (em andamento). 
+Médio 
+Sistema de automação da biblioteca 
+ 
+Sistema já implantado de gestão do acervo e empréstimo de 
+livros. 
+Curto 
+Acervo complementar, horário de atendimento, iluminação e 
+ventilação da biblioteca 
+Realizar pedidos de compra de livros complementares. 
+Propor readequação do layout para ampliar ventilação. 
+Para o atendimento, existem professores que cumprem horas 
+atividades específicas para o atendimento ao público.Houve 
+manutenção e compra de novas lâmpadas de LED. 
+Curto 
+Melhorar ventilação das salas de aula, assim como 
+iluminação. Calor intenso nas salas de aula e nos 
+laboratórios de informática. 
+Retomar licitação de ar condicionado. 
+ 
+Longo 
+Necessidade de melhorias em relação aos mobiliários 
+(mesas, cadeiras, bancos). 
+Falta de armários em laboratórios para acondicionar vidrarias 
+e demais instrumentos de trabalho 
+Realizar licitação para compra de mobiliário em geral (já existem 
+equipes formadas para a realização dos processos). 
+ 
+Longo 
+ 
+POTENCIALIDADES 
+ 
+AÇÕES PLANEJADAS  
+AÇÕES REALIZADAS 
+PRAZOS 
+Bom atendimento da secretaria acadêmica 
+ 
+Diretora acadêmica sempre disponível ao bom atendimento, 
+agilidade e efetividade nos processos solicitados e necessários 
+à vida acadêmica dos alunos. 
+Curto 
+Bom atendimento da biblioteca 
+ 
+Com a vinda da nova bibliotecária, o atendimento na biblioteca 
+se tornou mais objetivo e profissional. 
+Curto 
+Espaços físicos com boa limpeza e conservação 
+ 
+A equipe responsável pela limpeza sempre preza pelo bom 
+trabalho e pela conservação dos espaços físicos. 
+Curto 
+61 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+ 
+5 CONSIDERAÇÕES FINAIS 
+ 
+A Comissão Própria de Avaliação, pelo seu trabalho, visa oferecer subsídios 
+capazes de subsidiar à tomada de decisão e ao planejamento institucional, na busca 
+de contínua melhoria da qualidade do ensino, da pesquisa, da extensão e da gestão. 
+Sendo assim um importante instrumento para a Direção. 
+Dentre as principais ações advindas desse processo, podemos salientar as 
+ações de integração com a comunidade, retorno de alunos que haviam trancado 
+matrícula, contato direto com a comunidade externa, como escolas públicas de ensino 
+médio, associações de moradores de bairros, instituições de assistência social, além 
+de empresas diversas.  
+Os resultados apresentados contemplam as dez dimensões auto avaliativas do 
+SINAES e foram analisados e discutidos por todos os membros da comunidade 
+institucional: direção, coordenações de cursos, setores administrativos, gestores, 
+professores e alunos.  
+Os dados coletados, as análises e propostas serão amplamente divulgadas e 
+serão objeto de comparação na próxima avaliação, para elucidar os avanços 
+alcançados, reforçando o quanto a avaliação contribui para a gestão dos resultados.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+ 
+ANEXO 1 - DISTRIBUIÇÃO DOS DADOS DA PESQUISA  
+SETORES 
+DADOS DOS DOCENTES 
+DADOS DOS DISCENTES 
+DADOS DO PESSOAL TECNICO-
+ADMINISTRATIVO 
+DIREÇÃO GERAL 
+Dimensão 8 – Planejamento e Avaliação 
+Dimensão 1 - Missão e Plano de Desenvolvimento 
+Institucional  
+Dimensão 3 - Responsabilidade Social da Instituição 
+Dimensão 4 – Comunicação com a Sociedade  
+Dimensão 9 – Política de Atendimento aos Discentes 
+Dimensão 5 – Políticas de Pessoal  
+Dimensão 6 – Organização e Gestão Institucional  
+Dimensão 7 – Infraestrutura Física  
+ 
+Dimensão 8 – Planejamento e Avaliação  
+Dimensão 1 - Missão e Plano de Desenvolvimento 
+Institucional  
+Dimensão 3 - Responsabilidade Social da 
+Instituição 
+Dimensão 4 – Comunicação com a Sociedade  
+Dimensão 9 – Política de Atendimento aos 
+Discentes 
+Dimensão 6 – Organização e Gestão Institucional  
+Dimensão 7 – Infraestrutura Física  
+Dimensão 8 – Planejamento e Avaliação   
+Dimensão 1 - Missão e Plano de 
+Desenvolvimento Institucional  
+Dimensão 3 - Responsabilidade Social da 
+Instituição 
+Dimensão 4 – Comunicação com a Sociedade  
+ 
+DIRETORIA 
+ADMINISTRATIVA 
+Dimensão 4 – Comunicação com a Sociedade  
+Dimensão 5 – Políticas de Pessoal  
+Dimensão 7 – Infraestrutura Física  
+ 
+Dimensão 4 – Comunicação com a Sociedade  
+Dimensão 7 – Infraestrutura Física  
+ 
+Dimensão 8 – Planejamento e Avaliação   
+Dimensão 5 – Políticas de Pessoal  
+Dimensão 6 – Organização e Gestão Institucional  
+Dimensão 7 – Infraestrutura Física  
+DIRETORIA 
+ACADÊMICA 
+Dimensão 4 – Comunicação com a Sociedade  
+Dimensão 7 – Infraestrutura Física  
+ 
+Dimensão 4 – Comunicação com a Sociedade  
+ 
+Dimensão 4 – Comunicação com a Sociedade  
+COORDENAÇÃO DOS 
+CURSOS 
+Dimensão 8 – Planejamento e Avaliação 
+Dimensão 1 - Missão e Plano de Desenvolvimento 
+Institucional 
+Dimensão 2 – Ensino, Pesquisa e Extensão 
+Dimensão 4 – Comunicação com a Sociedade 
+Dimensão 9 – Política de Atendimento aos Discentes 
+Dimensão 6 – Organização e Gestão Institucional 
+Dimensão 8 – Planejamento e Avaliação  
+Dimensão 1 - Missão e Plano de Desenvolvimento 
+Institucional  
+Dimensão 2 – Ensino, Pesquisa e Extensão 
+Dimensão 9 – Política de Atendimento aos 
+Discentes 
+Dimensão 6 – Organização e Gestão Institucional  
+Dimensão 2 – Ensino, Pesquisa e Extensão 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+ 

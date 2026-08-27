@@ -1,0 +1,199 @@
+ 
+_____________________________________________________________________________________________ 
+ 
+Administração Central 
+Unidade do Ensino Superior de Graduação 
+ 
+_____________________________________________________________________________________________________________________________________________ 
+www.cps.sp.gov.br 
+Rua dos Andradas, 140  •  Santa Ifigênia  •  01208-000  •  São Paulo  •  SP  •  Tel.: (11) 3324-3300 
+1 
+RELATÓRIO ANUAL DE ATIVIDADES – RAA (2022) 
+ 
+FATEC / Código: São Carlos / 269_ Diretor(a): José Roberto Garbin  
+Relatório Anual de Atividades relativo ao ano de: 2022_ 
+ 
+Prezado(a) Diretor(a), 
+Anualmente deverá ser elaborado o Relatório Anual de Atividades – RAA e, conforme 
+estabelecido em Portaria CESU no 9 de 21-11-2019, encaminhar para a CESU até o dia 15 de 
+janeiro do ano subsequente. 
+Nesse relatório a Direção da Unidade deverá pontuar todos os itens que foram 
+planejados e realizados, dentro do informado pela Unidade de Ensino nos seguintes 
+documentos: 
+ 
+Nos Anexos A até F do Template do Plano de Desenvolvimento Institucional (PDI); 
+ 
+No Plano de Gestão Anual da Unidade de Ensino (PGA). 
+Além disso, deve-se informar o que, por alguma razão, não foi possível de ser realizado, 
+dentro de tudo que foi planejado, justificando os motivos da não realização. 
+Uma cópia deste RAA deverá ser encaminhada à Comissão Própria de Avaliação da 
+Unidade de Ensino (CPA) para fins de elaboração do Relatório de Autoavaliação Institucional. 
+Dúvidas, favor entrar em contato com: cesu.pdi@cps.sp.gov.br 
+ 
+ATIVIDADES REALIZADAS (máximo 12.000 caracteres) 
+Atividades vinculadas ao PDI. 
+ 
+    Um ponto essencial previsto no PDI da Unidade e que fará parte do próximo PDI (2023-
+2026) é a implantação de novos CST atendendo às demandas locais e, em especial, alguns 
+nichos que não são ainda atendidos pelas Universidades presentes na cidade, seja porque não 
+atuam na área específica destes nichos, ou porque os cursos gereralistas oferecidos pelas 
+Universidades locais não atinge o foco que nossos CST possuem, o que lhes dá a capacidade 
+para formar um profissional mais alinhado com as necessidades do mercado. Esse ponto já 
+estava previsto desde a primeira versão do PDI da Unidade em 2018, sendo que em 2019  
+teve início um trabalho de observação e identificação das demandas atuais e futuras na 
+cidade, buscando definir áreas de atuação e CST capazes de atender a estas áreas. 
+  Como apresentado em relatórios anteriores, uma grande necessidade foi observada para a 
+área de T.I., mais especificamente em análise de dados. Mais do que isso, observou-se que a 
+maior necessidade é na aplicação destes conhecimentos dentro de outras áreas e atividades, 
+como o setor industrial e o de serviços.  
+ 
+_____________________________________________________________________________________________ 
+ 
+Administração Central 
+Unidade do Ensino Superior de Graduação 
+ 
+_____________________________________________________________________________________________________________________________________________ 
+www.cps.sp.gov.br 
+Rua dos Andradas, 140  •  Santa Ifigênia  •  01208-000  •  São Paulo  •  SP  •  Tel.: (11) 3324-3300 
+2 
+   O setor de serviços cresceu rapidamente nestes últimos anos e se informatizou. A pandemia 
+e o isolamento social aumentaram esta necessidade e os serviços correram para se 
+atualizarem. Praticamente todos estão informatizados hoje, porém, ainda não sabem como 
+trabalhar de forma adequada com a enorme quantidade de dados que são gerados 
+diariamente. Isso exige que os profissionais de gestão cada vez mais agregem conhecimento 
+de informática e análise de dados. Com isso, concluímos que a implantação de um CST em Big 
+Data na Unidade, em sinergia com nossos atuais cursos na área de Gestão, poderia atender 
+muito bem às mudanças impostas ao setor de serviços. 
+   A indústria local, apesar de ter as mesmas necessidades de atualização, não conseguiu 
+implantar as mudanças de forma tão rápida e eficiente, sendo ainda hoje o setor mais 
+necessitado, pois em plena “revolução 4.0” e apesar de utilizar uma grande quantidade de 
+equipamentos eletrônicos e robóticos em suas linhas de produção, está bastante atrasada no 
+que se refere às tecnologias de análise de dados e inteligência artificial.  
+    Por isso, foi proposta a criação de um CST em Big Data para Indústria, buscando atender a 
+esta demanda existente. Essa proposta foi apresentada à CIESP local e, com a participação de 
+representantes das indústrias locais, chegou-se a uma minuta de PPC que, posteriormente, foi 
+finalizado em conjunto com  outras Unidades, definindo uma “espinha dorsal” para o curso 
+incorporando as novas tecnologias de informação necessárias à formação de um profissional 
+na área de Big Data, e focando nas necessidades da indústria para aplicação total do conteúdo 
+do curso, além das novas propostas de desenvolvimento de currículo por itinerário formativo, 
+projetos integradores e possibilidade de ensino híbrido. Em 2021 o trabalho para implantação 
+deste novo CST foi focado na busca pela infraestrutura necessária, uma vez que este ainda é o 
+principal gargalo para a expansão da Fatec São Carlos, limitando e dificultando a execução do 
+planejamento da Unidade. Foi proposta uma parceria com o Instituto Inova de São Carlos,  
+entidade sem fins lucrativos que fomenta o empreendedorismo e a inovação tecnológica na 
+cidade, incubando empresas tradicionais e “start ups” de diversos setores. Também é o gestor 
+de um parque tecnológico privado local e, em sua parceria para com o CPS, fornecerá a 
+infraestrutura física para implantação do novo curso dentro deste parque, um local ideal para 
+esta implantação devido ao ambiente de empreendedorismo, tecnologia e inovação existente 
+e do qual o novo CST poderá se beneficiar. 
+  Durante este ano de 2022 foi formalizado o pedido de convênio entre o CPS e o Instituto 
+Inova, elaborando um plano de trabalho contemplando as responsabilidades e contrapartidas 
+de cada uma das partes. Atualizou-se a real necessidade de Laboratórios e Equipamentos, 
+levando em conta a possibilidade de reduzir despesas para implantar este novo CST sem 
+deixar de atender às necessidades do PPC, utilizando dispositivos existentes e previamente 
+cedidos pelo Instituto Inova. Com isso foi possível atualizar as necessidades previstas no PDI e 
+vários dos equipamentos pleiteados, como microcomputadores (desktops) foram adquiridos 
+pelo CPS. 
+   Estes estudos e informações detalhadas foram discutidos pela Comissão de Estudos para 
+Implantação do Curso possibilitando melhorias no plano de trabalho e também contribuindo 
+com o projeto de construção de um prédio próprio para a Fatec, trabalho que está em 
+andamento desde 2019 e que também teve um grande avanço neste ano de 2022, depois de 
+ficar completamente parado em 2020 e início de 2021 por causa da pandemia de Covid 19.  
+  Neste ano obteve-se ao aval do governo do Estado para a construção do prédio, com a 
+promessa do governador Rodrigo Garcia de liberação de 25 milhões de reais para 
+ 
+_____________________________________________________________________________________________ 
+ 
+Administração Central 
+Unidade do Ensino Superior de Graduação 
+ 
+_____________________________________________________________________________________________________________________________________________ 
+www.cps.sp.gov.br 
+Rua dos Andradas, 140  •  Santa Ifigênia  •  01208-000  •  São Paulo  •  SP  •  Tel.: (11) 3324-3300 
+3 
+implementar o projeto arquitetônico que temos para a obra. Iniciou-se, então, uma nova 
+etapa para que esta construção saia do papel (e das promessas): foi dado início a um 
+convênio formal entre a prefeitura de São Carlos e o CPS para a execução da obra. Nesta 
+parceria a prefeitura disponibilizou um terreno institucional dentro do parque tecnológico 
+gerido pelo Instituto Inova. Uma área com 33.000 m² e com a infraestrutura básica de acesso 
+ao local. A prefeitura também ficará responsável pela contratação do projeto executivo da 
+obra, necessário para a licitação. Este projeto executivo será baseado no arquitetônico que já 
+existe e está em andamento atualmente, assim como a documentação para a transferência da 
+escritura do terreno ao CPS. Todos este processos (transferência do terreno, contratação do 
+projeto executivo da obra e convênio entre prefeitura e CPS) encontram-se em andamento e 
+espera-se que sejam finalizados neste primeiro semestre de 2023. 
+   Em 2022 houve o retorno às atividades presenciais, e esse foi o grande trabalho 
+desenvolvido pela Unidade, envolvendo a retomada dos contatos para viabilização dos ciclos 
+de visitas técnicas, palestras e atividades de extensão, além do aumento da oferta de estágios 
+aos alunos. Também houve um trabalho de readaptação de todos (alunos e professores, 
+principalmente) às atividades presenciais, uma vez que ficamos praticamente 2 anos em 
+trabalho remoto, o que exigiu de todos grandes mudanças no ritmo e na forma de apresentar 
+os conteúdos e trabalhar as competências. Muitas destas mudanças puderam ser 
+aproveitadas no retorno ao formato presencial, mas novamente foi necessário grande esforço 
+por parte de todos para esta nova etapa de trabalho. Em 2023 as atividades devem ser 
+totalmente normalizadas e adequadas à nova realidade de trabalho. 
+ Em 2020 tivemos a implantação de um curso AMS em Administração que foi interrompido 
+em 2021 (não houve vestibulinho para nova turma) e retomado em 2022. A interrupção 
+ocorreu justamente pela nossa necessidade de um prédio próprio. Como utilizamos um 
+espaço compartilhado, temos que a cada semestre renegociar a disponibilidade de salas com 
+a Escola Estadual, principamente no período diurno onde funciona o AMS. Com essa 
+negociação, da qual participou de maneira decisiva a Diretoria de Ensino local, conseguimos 
+dar continuidade ao curso para 2023, sendo que agora a primeira turma entrará na etapa de 
+nível superior, com o CST em Processos Gerenciais. A princípio a maioria dos alunos desta 
+turma desejavam que o curso mudasse para o período noturno neste nova etapa, 
+principalmente porque estão ingressando no mercado de trabalho, seja na forma de 
+propostas de estágio ou mesmo por contratação. Porém, no período noturno não temos 
+nenhuma sala disponível. Todas estão em uso por nossos outros CST. Desta forma, ainda não 
+é possível garantir a continuidade de ingresso de turmas para o próximo ano (2024), o que 
+pode gerar uma outra “lacuna” na sequência do AMS implantado. 
+   Assim, o principal Ponto Fraco da Fatec São Carlos e fator limitante para a execução de 
+todos os projetos apresentados no PDI, como implantação de novos cursos, oferecimento de 
+atividades de extensão e até compromentendo a continuidade do AMS, continua sendo a 
+falta de um prédio próprio. Como apresentado no relatório anterior, isso também impede que 
+seja criada uma identidade para a Unidade e dificultando muito o seu destaque entre as 
+demais IES locais e o seu pleno conhecimento e reconhecimento na cidade, fatores que 
+trariam outros benefícios à Unidade e ao prórpio CPS como o aumento da demanda dos 
+cursos no vestibular e redução da evasão. Também facilitaria a parceria com empresas e 
+instituições locais. 
+ 
+ 
+_____________________________________________________________________________________________ 
+ 
+Administração Central 
+Unidade do Ensino Superior de Graduação 
+ 
+_____________________________________________________________________________________________________________________________________________ 
+www.cps.sp.gov.br 
+Rua dos Andradas, 140  •  Santa Ifigênia  •  01208-000  •  São Paulo  •  SP  •  Tel.: (11) 3324-3300 
+4 
+ 
+       
+ 
+ATIVIDADES NÃO REALIZADAS E JUSTIFICATIVAS (máximo 12.000 caracteres) 
+ A atividade prevista no PDI que não foi realizada em 2022 é a implantação de um novo CST – 
+Big Data para a Indústria. O PPC deste curso está pronto e atualizado, temos a demanda por 
+profissionais com este perfil na cidade e região e também possuímos na cidade profissionais 
+capacitados e com interesse em ministrar disciplinas específicas neste curso, porém, sua 
+implantação ainda não é possível devido à falta de infraestrutura física compatível e 
+disponível. 
+ O pedido de convênio entre o Instituto Inova de São Carlos (instituição parceira que 
+ofereceria a infraestrutura necessária ao curso) e o CPS, protocolado no início de 2021 através 
+do Expediente 2021/00166, cumpriu as primeiras etapas do processo e teve parecer favorável 
+da CESU. Porém, o andamento parou pela falta de documentação da instituição proponente. 
+Era necessário a renovação do CRCE – Certificado de Regularidade Cadastral de Entidades da 
+instituição, sendo que o processo de renovação ficou suspenso pelo Estado durante o ano de 
+2021. Em 2022, o Instituto Inova iniciou procedimento de recadastramento para emissão do 
+CRCE, porém encontrou nova limitação que, segundo a instituição, está no vencimento do 
+mandato de sua diretoria neste ano. Pediu que fosse aguardada a realização da nova eleição 
+para, então, terminar seu cadastro junto ao órgão competente do Estado para emissão do 
+CRCE. 
+ Diante de todos estes percalços a Fatec São Carlos também trabalha agora com a 
+possibilidade de um novo parceiro para este projeto de implantação de novo CST, uma vez 
+que as continuam altas as demandas por profissionais com as competências propostas no 
+curso. 
+ 
+ 
+ 
+ 
+ 
+Comissão de Análise dos PDIs das FATECs. 

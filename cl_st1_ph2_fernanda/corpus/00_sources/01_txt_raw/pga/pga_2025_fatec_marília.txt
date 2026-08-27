@@ -1,0 +1,1226 @@
+PLANO DE GESTÃO ANUAL 
+PGA 2025 
+V04 
+Estruturado em uma única etapa, contendo 2 anexos: 
+PLANEJAMENTO PELA EQUIPE GESTORA DA UE 
+• Anexo 1 – Lista de equipamentos necessários aos projetos 
+• Anexo 2 – Lista de Ações/Projetos referentes à CPA (Origem 3: Gestão Tática – CPA) 
+ 
+IDENTIFICAÇÃO DA UNIDADE 
+Unidade 
+código F130 
+Fatec “Estudante Rafael Almeida Camarinha” – FATEC-Marília 
+Diretor(a) 
+Profª. Drª Cláudia Cristina Teixeira Nicolau 
+ 
+PLANEJAMENTO PELA EQUIPE GESTORA DA UE 
+(Administração da Faculdade - Deliberação CEETEPS 31/2016) 
+ANÁLISE DO CENÁRIO 
+Descrever de forma breve e objetiva o cenário da Unidade perante sua missão como Unidade de Ensino na localidade em que 
+se encontra (é este cenário que se pretende melhorar). 
+Com a colaboração da comunidade acadêmico-administrativa da FATEC Marília, realizamos um diagnóstico dos pontos críticos 
+que nossa Unidade de Ensino apresentou em 2023, levando em conta a possibilidade da própria Comunidade-FATEC Marilia 
+tenha condições de ameniza-los.  
+Elencamos abaixo os principais pontos críticos diagnosticados. Destacando: I) a falta de espaço físico e as condições estruturais 
+precárias em que se encontra o prédio da FATEC Marília; II) o desinteresse, por parte de potenciais candidatos pelo Ensino 
+Superior, problema que assola jovens e adultos brasileiros, agravado pela dificuldade financeira que atravessamos. 
+Com a possibilidade de ampliação de cursos em breve, ganharemos um novo impulso para nossa faculdade, potencialmente 
+incluindo estudantes e também funcionários de empresas de pequenos, médio e grande portes que existem localidades que 
+distam aproximadamente 100 km da FATEC-Marília, considerando, ao menos, os referidos APLs. 
+Embora a contratação dos funcionários administrativos tenha acontecido, ainda continuamos com um déficit de funcionários. 
+ 
+ 
+• Discorrer sobre o cenário, realizando um breve diagnóstico (limitar o espaço da escrita, para que seja inserido de forma sucinta). 
+APONTAMENTO DE SITUAÇÕES-PROBLEMA MAIS RELEVANTES 
+Fontes: relatório CPA, análise de processos críticos da UE, relatório de atendimento e ocorrências Hórus, relatório NDE, 
+relatório de representação discente (DA, Atlética, representantes de turma), relatório CIPA, entre outros. 
+1 
+cat 0.1.01 - Metodologia de ensino, desempenho 
+de alunos, evasão 
+ 
+5 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+2 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+ 
+6 
+cat 0.1.08 - Participação da comunidade e sociedade 
+3 
+cat 0.1.06 - Quantidade de professores/funcionários 
+ 
+7 
+cat 0.1.99 - Outra 
+4 
+cat 0.1.09 - Acesso/Inclusão ao Ensino Superior 
+(social, PCD) 
+ 
+8 
+Escolher um item. 
+Outra – Especificar: nn 
+ 
+Objetivos Institucionais – CPS (Plano de Metas) 
+1) Atender às demandas sociais e do mercado de trabalho. 
+2) Obter a satisfação dos públicos que se relacionam com o Centro Paula Souza (stakeholders). 
+3) Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem. 
+4) Assegurar a perenidade do crescimento da instituição com recursos financeiros disponíveis. 
+5) Garantir celeridade e efetividade na prestação de serviços. 
+6) Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no desenvolvimento tecnológico e inovação. 
+7) Promover a cultura de inovação e empreendedorismo. 
+8) Aumentar a eficiência, a produtividade e a competitividade da instituição. 
+9) Ampliar a oferta da Educação Profissional. 
+10) Resolução Conjunta SOG/SFP/SG-3, de 28-12-2022 - Bonificação por Resultados – BR das Secretarias de Estado, Procuradoria Geral do Estado, 
+Controladoria Geral do Estado e das Autarquias, de que trata a LC 1361-2021 
+Objetivos Institucionais – Cesu (Plano de Metas) 
+A. Integrar as diferentes modalidades de ensino, otimizando itinerários e tempo para a formação profissional. 
+B. Inovar processos de ensino e aprendizagem para manter excelência diante do mercado. 
+C. Ampliar a capacidade de criar e atualizar cursos em parceria com o mercado. 
+D. Expandir e ampliar a capacidade de articulação com Governos e Setores Produtivos. 
+E. Promover a captação de recursos extras e não orçamentários. 
+Atenção: Determinação da Origem (prioridade) de uma Ação ou Projeto de Melhoria que compõe o PGA, a fim de ordenar os graus de prioridade tomando-se por 
+base atos normativos regulatórios das atividades do CPS, e a governança institucional, por suas esferas Estratégica, Tática e Operacional: 
+Grau 1 - URGÊNCIA DE REGULAÇÃO - prioridade máxima (advinda do MEC, CEE, MP, Vigilância Sanitária ou notificação de qualquer órgão regulador/fiscalizador) 
+- fundamentação: notificação de fiscalização, diligência de regulação, termo de ajustamento de conduta, relatório circunstanciado, dentre outros 
+emanados de órgãos que impõem ações para cumprimento com regularidade normativa da instituição. 
+Grau 2 - URGÊNCIA ESTRATÉGICA - Gestão Estratégica do CPS (AMS, novos cursos e unidades, programas de governo) - fundamentação: PPA do CPS, ações de 
+governo conduzidas pela Superintendência do CPS. 
+Grau 3 - PRIORIDADE ALTA - Gestão Tática (ações correlatas à Avaliação institucional - ENADE, WebSAI, CPA, Observatório Escolar). - fundamentação: processo 
+avaliativo de órgãos reguladores, processo avaliativo interno do CPS. 
+Grau 4 - PRIORIDADE MÉDIA - Gestão Operacional para aumento da capacidade instalada. - fundamentação: plano operacional de gestão, homologado pela 
+respectiva área da intendência, com foco na atividade fim do CPS. 
+Grau 5 - PRIORIDADE REGULAR - Gestão Operacional para preservação da capacidade instalada. - fundamentação: plano operacional de gestão, homologado 
+pela respectiva área da intendência, com foco na atividade fim do CPS. 
+ 
+ESTRUTURAÇÃO DAS AÇÕES/PROJETOS 
+01 - Didático-pedagógico 
+Ações associadas ao PPC/PE de CSTs e Disciplinas: CST (implantação, alteração, readequação, reestruturação), 
+prática pedagógica (PE, PA), projeto interdisciplinar/ integrador, extensão curricularizada. 
+ 
+AÇÃO/PROJETO (Tema) 
+101 - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+ 
+ 
+01 – Didático-Pedagógico: Copiar projetos de 2024 
+ 
+AÇÃO/PROJETO (Tema) 
+101 - cat 1.09 - Inclusão 
+Origem (prioridade): 
+1-Regulação - Notificação de órgão (MEC, CEE, VS.,..) 
+O que será feito: 
+Ações administrativas-pedagógicas para promover a inclusão dos alunos no processo de 
+formação de competências de acordo com o PPC. 
+Por que será feito: 
+Ações administrativas-pedagógicas para promover a inclusão dos alunos no processo de 
+formação de competências de acordo com o PPC. 
+Responsável: 
+Adriana Maria R Fiorini 
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): Marcel Santos Silva 
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): Vania Cristina P. Gutierrez 
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+01/02/2025 
+Data final: 
+20/12/2025 
+Etapas do processo: 
+01- Identificar os alunos e solicitar laudos médicos. 
+02/02/25 
+e 
+01/08/25 
+20/04/25 
+e 
+30/08/25 
+ 
+02- Comunicar a equipe de professores, coordenadores, servidores 
+administrativos e funcionários terceirizados. 
+02/02/25
+e 
+01/08/25 
+20/04/25 
+e 
+30/08/25 
+ 
+03- Encaminhar a identificação do aluno e laudos médicos à Cesu/ GPR 
+para orientação e providências 
+02/02/25 
+e 
+01/08/25 
+20/04/25 
+e 
+30/08/25 
+ 
+04- Promover capacitação e orientação para a adequação das metodologias 
+de ensino com foco no desenvolvimento de competências  
+02/02/25 
+20/12/25 
+ 
+05- Solicitar equipamentos necessários para promover a inclusão e 
+identificar os espaços físicos com placas em Braile. 
+02/02/25 
+e 
+01/08/25 
+20/04/25 
+e 
+30/08/25 
+Custo R$ (se houver): 
+20.000,00 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.09 - Acesso/Inclusão ao Ensino Superior (social, PCD) 
+(a ser resolvida/mitigada) 
+cat 0.1.09 - Acesso/Inclusão ao Ensino Superior (social, PCD) 
+  
+AÇÃO/PROJETO (Tema) 
+102 - cat.1.99 - Outra 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Realizar os processos de autoavaliação interna visando a melhoria dos processos educacionais 
+Por que será feito: 
+Em atendimento às bases legais: Lei 10861 - SINAES Sistema Nacional de Avaliação do Ensino 
+Superior; Decreto 9235 - regulamenta a aplicação da Lei 10.861; e nota técnica 65 INEP - 
+Elaboração da Autoavaliação Institucional e sua relação com o PDI 
+Responsável: 
+Anna Claudia S. Brunatti Abraão  
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+Leandro Repetti 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/08/2025 
+Data final: 
+31/03/2025 
+Etapas do processo: 
+01- Sistematização das ações e composição dos grupos de trabalho. 
+01/08/25 
+30/09/25 
+ 
+02- Organizar e desenvolver estratégias de maneira integrada a partir da 
+percepção dos diferentes segmentos que compõem a comissão. 
+01/09/25 
+27/10/25 
+ 
+03- Sensibilização para a participação dos procedimentos de coleta: 
+Reunião com representantes de turmas, lives, webinar, podcasts, 
+informativos, site, entre outros, para alimentar a cultura avaliativa da Fatec. 
+01/10/25 
+27/10/25 
+ 
+04- Organizar procedimentos de coleta de dados: elaboração das ações 
+voltadas para estimular e monitorar a participação de toda a comunidade no 
+preenchimento do formulário de coleta. 
+01/10/25 
+27/10/25 
+ 
+05- Análise dos resultados – acolhimento dos dados da coleta e início dos 
+procedimentos de análise. 
+01/10/25 
+30/11/25 
+ 
+06- Encaminhamento dos dados coletados para cada área competente: 
+cada área recebe os dados, realiza a análise, apresenta o Plano de 
+Melhorias. 
+15/11/25 
+11/12/25 
+ 
+07- Elaboração do relatório a partir da devolutiva das áreas e envio para a 
+CPA Central. 
+01/12/25 
+11/12/25 
+ 
+08- Divulgação dos resultados à Comunidade Acadêmica. 
+01/02/26 
+28/02/26 
+ 
+09- Conclusão e protocolo no E-mec. 
+31/03/26 
+31/03/26 
+Custo R$ (se houver): 
+0 
+Fonte(s) dos recursos: 
+0 
+Situação problema: 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+(a ser resolvida/mitigada) 
+cat 0.1.08 - Participação da comunidade e sociedade 
+  
+02 – Laboratórios - Ensino e Equipamentos Associados 
+Ações para melhoramento dos laboratórios de Ensino (Gestão e Equipamentos): Melhoramento de 
+equipamentos, mediante instalação, manutenção, desuso, doação, e gestão de ambiente laboratorial. 
+ 
+02 – Laboratórios: Copiar projetos de 2024 
+ 
+AÇÃO/PROJETO (Tema) 
+201 - cat 2.01 - Laboratório físico - implantação/melhoramento com recursos PEDAGÓGICOS 
+Origem (prioridade): 
+2-Gestão Estratégica Institucional (AMS, novos cursos e unidades) 
+O que será feito: 
+ADEQUAÇAO E FINALIZAÇÃO DO AMBIENTE JÁ EXISTENTE, REFERENTE AO 
+LABORATÓRIO MULTIFUNCIONAL. 
+Por que será feito: 
+PARA A APLICAÇÃO DE METODOLOGIAS ATIVAS 
+Responsável: 
+Adriana Maria R Fiorini 
+Qde CH/sem: 
+01 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): Marcel Santos Silva 
+Qde CH/sem: 
+01 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): Vania Cristina P. Gutierrez 
+Qde CH/sem: 
+01 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+02/04/2025 
+Data final: 
+30/06/2025 
+Etapas do processo: 
+01- Identificar as necessidades para montagem das salas 
+02/04/25 20/04/25 
+ 
+02- Listar mobiliário e equipamentos  
+20/04/25 20/05/25 
+ 
+03- Encaminhar para aprovação ao departamento responsável 
+20/05/25 10/06/25 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+R$ 100.000,00 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+ 
+AÇÃO/PROJETO (Tema) 
+202 - cat 2.04 - Ambiente de ensino prático - implantação/melhoramento com recursos NÃO PEDAGÓGICOS 
+Origem (prioridade): 
+2-Gestão Estratégica Institucional (AMS, novos cursos e unidades) 
+O que será feito: 
+Identificar a necessidade de manutenção ou substituição de equipamentos e suprimentos da 
+unidade de ensino. 
+Por que será feito: 
+Proporcionar condições para a execução das tarefas na unidade de ensino. 
+Responsável: 
+Eduardo Oliveira Ignácio 
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+Flavia Maria Vasques Farinazzi Machado 
+Qde CH/sem: 
+01 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+Paulo Sérgio Marinelli 
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+20/03/2025 
+Data final: 
+30/12/2025 
+Etapas do processo: 
+01- Quantificar e listar equipamentos e suprimentos que necessitam de 
+manutenção no primeiro semestre de 2023 
+20/03/25 20/04/25 
+ 
+02- Quantificar e listar equipamentos que necessitam de substituição 
+no primeiro semestre de 2023 
+20/03/25 20/04/25 
+ 
+03- Encaminhar para aprovação ao departamento responsável 
+20/04/25 30/04/25 
+ 
+04- Quantificar e listar equipamentos e suprimentos que necessitam de 
+manutenção no segundo semestre de 2023 
+07/08/25 06/09/25 
+ 
+05- Quantificar e listar equipamentos que necessitam de substituição no 
+segundo semestre de 2023 
+07/08/25 06/09/25 
+ 
+06- Encaminhar para aprovação ao departamento responsável 
+06/09/24 18/09/25 
+Custo R$ (se houver): 
+R$250.000,00 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+(a ser resolvida/mitigada) 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+ 
+ 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+203 - cat 2.03 - Ambiente multidisciplinar de ensino - implantação/melhoramento com recursos 
+PEDAGÓGICOS 
+Origem (prioridade): 
+2-Gestão Estratégica Institucional (AMS, novos cursos e unidades) 
+O que será feito: 
+Implantação de dois novos laboratórios para o curso de desenvolvimento de Software 
+Multiplataforma. 
+Por que será feito: 
+O curso está em implantação e é necessário a disponibilização de 1 laboratório por semestre de 
+curso, considerando que as disciplinas são todas práticas. 
+Responsável: 
+Marcel Santos Silva 
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+03/02/2025 
+Data final: 
+14/02/2025 
+Etapas do processo: 
+01- Levantamento dos equipamentos necessários para cada laboratório 
+03/02/25 04/02/202
+5 
+ 
+02- Elaboração da solicitação de acordo com as normativas 
+05/02/25 
+07/02/25 
+ 
+03- Envio da solicitação para o CPS 
+10/02/25 
+10/02/25 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+100.000,200 
+Fonte(s) dos recursos: 
+CEETEPS 
+Situação problema: 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+ 
+ 
+ 
+03 – Pesquisa / Extensão e Equipamentos Associados 
+Ações para melhoramento dos laboratórios que contemplam Pesquisa além do Ensino (Equipamentos): 
+melhoramento dos espaços de pesquisa, que inclui especificação equipamentos e aquisição por fomento ou por 
+projeto com empresa, e também prestação de serviços no campo tecnológico para instituições e empresas. 
+ 
+03 – Pesquisa/Extensão: Copiar projetos de 2024 
+ 
+AÇÃO/PROJETO (Tema) 
+301 - cat 3.03 - Pesquisa e Extensão em andamento (empresas diversas) 
+Origem (prioridade): 
+6-Outra 
+O que será feito: 
+Instrução e capacitação dos feirantes para a melhoria das condições higiênico-sanitárias das Feiras 
+Livres conduzidas em diversos locais do município de Marília/S.P., a partir da realização do curso 
+de Boas Práticas de Manipulação (BPM). 
+Por que será feito: 
+Para que não ocorra as doenças transmitidas por Alimentos (DTAs) para a comunidade local. 
+Responsável: 
+Leandro Repetti 
+Qde CH/sem: 
+04 Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+Elke Shigematsu 
+Qde CH/sem: 
+02 Tipo: 
+HP - Hora em Projeto 
+de Pesquisa 
+Colaborador(a): 
+Claudia Dorta 
+Qde CH/sem: 
+02 Tipo: 
+HP - Hora em Projeto 
+de Pesquisa 
+Período de execução: 
+Data inicial: 
+20/03/2025 
+Data final: 
+08/12/2025 
+Etapas do processo: 
+01- Fase de diagnóstico: esta fase evita que a capacitação seja aplicada por 
+impulso, permitindo definir o problema a ser tratado, a necessidade e o 
+objetivo que o programa de capacitação deve atingir 
+20/03/25 10/04/25 
+ 
+02- Módulo básico – aulas teóricas e práticas ( material e equipamentos – 
+Responsabilidade Prefeitura Municipal) 
+10/04/25 30/06/25 
+ 
+Módulo avançado – visitas in loco nas bancas das feiras livres  
+07/08/25 17/11/25 
+ 
+03- Fase de avaliação: é a verificação do alcance dos objetivos e análise de 
+quais passos deverão ser executados; 
+20/11/25 08/12/25 
+Custo R$ (se houver): 
+0,00 Cada um dos 
+Partícipes arcará com as 
+despesas decorrentes de 
+suas respectivas 
+atribuições, não havendo 
+repasse de recursos 
+materiais e/ou financeiros a 
+empresa pelo CEETEPS 
+Fonte(s) dos recursos: 
+0,00 Secretaria Municipal da Agricultura, 
+Pecuária e Abastecimento da Prefeitura 
+de Marília/S.P 
+Situação problema: 
+cat 0.1.08 - Participação da comunidade e sociedade 
+(a ser resolvida/mitigada) 
+cat 0.1.99 - Outra 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+04 – Atividades Formativas em Projetos (nível tático) 
+Projetos institucionais formativos não especificados em PEs: Rede de tecnologia, Novotec, PCI, Projetos 
+estudantis (Baja, Aerodesign, entre outros) 
+ 
+ 
+04 – Atividades Formativas em Projetos: Copiar projetos de 2024 
+ 
+ 
+ 
+ 
+05 – Infraestrutura (instalações prediais) 
+Projetos de manutenção e melhoramento predial voltados à segurança (física e sanitária) e preservação do 
+patrimônio: Reparação predial (civil, elétrica, dados), novas instalações prediais. 
+ 
+05 – Infraestrutura: Copiar projetos de 2024 
+ 
+AÇÃO/PROJETO (Tema) 
+501 - cat 5.01 - Melhoria Sala de Ambientes pedagógicos 
+Origem (prioridade): 
+4-Gestão Operacional - Aumento de capacidade instalada 
+O que será feito: 
+Descrição da estrutura física e pedagógica, incluindo a atualização da bibliografia, do novo prédio 
+da Fatec Marília 
+Por que será feito: 
+Porque necessitamos adequar as necessidades estruturais e pedagógicas para a construção do 
+novo prédio da Fatec Marília que foi concedido pelo governo estadual em abril de 2022 
+Responsável: 
+Paulo Sérgio Marinelli 
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+Adriana Maria Ragassi Fiorini 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+Márcio Barrio Nuevo Navas 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+20/03/2025 
+Data final: 
+30/06/2025 
+Etapas do processo: 
+01- Quantificar os espaços físicos de cada setor da unidade de ensino 
+20/03/25 10/04/25 
+ 
+02- Listar as necessidades estruturais e/ou pedagógicas (bibliografia) de 
+cada departamento. 
+10/04/25 10/05/25 
+ 
+03- Listar o mobiliário, equipamentos, EPI´s e EPC´s de cada setor 
+10/05/25 20/06/25 
+ 
+04- Encaminhar documento aos departamentos responsáveis do CPS 
+20/06/25 30/06/25 
+Custo R$ (se houver): 
+R$30.000.000,00 
+Fonte(s) dos recursos: 
+Dotação orçamentária do Governo do 
+Estado de São Paulo em abril de 2022 
+Situação problema: 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+(a ser resolvida/mitigada) 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+06 - Desenvolvimento de pessoas (docentes e servidores) 
+Formação continuada de docentes e servidores, associadas às competências gerais e específicas de suas 
+atividades: Metodologias de ensino, Tecnologias educacionais, Sistemas (processos, procedimentos, plataformas 
+computacionais) acadêmicos e pedagógicos. 
+06 – Desenvolvimento de Pessoas: Copiar projetos de 2024 
+AÇÃO/PROJETO (Tema) 
+601- cat 6.01 - Curso/Oficina/Capacitação/ Treinamento/ Palestra/Reunião/Encontro 
+Origem (prioridade): 
+6-Outra 
+O que será feito: 
+Capacitações nas áreas de saúde ocupacional, relacionamento interpessoal, desenvolvimento 
+pessoal e profissional, conexões pessoais, estímulo da criatividade, da imaginação e colaboração. 
+Por que será feito: 
+Para aprimoramento profissional e pessoal para a melhoria da qualidade de vida e expansão de 
+conhecimento; capacitar os funcionários a identificar comportamentos que identifiquem tendências 
+ao suicídio; e aprimorar a integração da equipe. 
+Responsável: 
+Lilian Amaral dos Reis Oliveira 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+Irineu Antônio de Oliveira Júnior 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+Jane Celi do Nascimento Rodrigues 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+20/03/2025 
+Data final: 
+30/11/2025 
+Etapas do processo: 
+01- Levantamento de cursos e busca de palestrantes 
+20/03/25 
+30/04/25 
+ 
+02- Elaboração do calendário das atividades de capacitação 
+01/05/25 
+30/05/25 
+ 
+03- Realização das capacitações 
+01/06/25 
+30/11/25 
+Custo R$ (se houver): 
+0 
+Fonte(s) dos recursos: 
+0 
+Situação problema: 
+cat 0.1.13 - Relacionamento interpessoal da equipe 
+(a ser resolvida/mitigada) 
+cat 0.1.13 - Relacionamento interpessoal da equipe 
+ 
+AÇÃO/PROJETO (Tema) 
+602 - cat. 6.99 - Outra 
+Origem (prioridade): 
+6-Outra 
+O que será feito: 
+Análise de Leite Humano proveniente de doações ao Banco de Leite Humano de Marília. 
+Por que será feito: 
+Suprir as necessidades da comunidade quanto ao controle de qualidade do leite utilizado pelos 
+neonato em situação de vulnerabilidade. 
+Responsável: 
+Profa. Dra. Alice Tanaka 
+Qde CH/sem: 
+08 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+Prof. Paulo Sergio Marinelli 
+Qde CH/sem: 
+08 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+20/03/2025 
+Data final: 
+20/12/25 
+Etapas do processo: 
+01- O recebimento das amostras de leite. 
+02/02/25 
+30/12/25 
+ 
+02- Análise das amostras recebidas. 
+02/02/25 
+30/12/25 
+ 
+03- Emissão de laudo. 
+02/02/25 
+30/12/25 
+ 
+04- As analises fisicoquímica e microbiológica do leite humano são feitos de 
+maneira contínua e ininterrupta nos meses de fevereiro a dezembro de cada 
+ano. A Prefeitura Municipal, via Banco de Leite Humano encaminha duas 
+vezes por semana as amostras de leite a serem analisadas. 
+ 
+ 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+A PM de Marília arca com todos os custos. 
+Situação problema: 
+cat 0.1.08 - Participação da comunidade e sociedade 
+(a ser resolvida/mitigada) 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+ 
+ 
+ 
+ 
+ 
+07 – Convênios e Parcerias Institucionais 
+Formalização do relacionamento da Unidade com o Ecossistema de Tecnologia: Convênio de uso de prédio, 
+estágios, projetos com empresas. Aqui cabe apenas novos convênios e parcerias, e cada proposta deve estar 
+relacionada a uma Ação/Projeto de melhoria em algum dos itens anteriores do PGA (1, 2, 3, 4, 5 ou 6). 
+07 – Convênios e Parcerias: Copiar projetos de 2024 
+AÇÃO/PROJETO (Tema) 
+70x - cat 7.03 - Projetos com empresas e/ou demais parceiros 
+Origem (prioridade): 
+6-Outra 
+Referente ao(s) projeto(s): EmpreendiTech 
+O que será feito: 
+Visitas, palestras, atividades práticas com fins de divulgação nas Empresas/Indústrias (pequeno, 
+médio e grande portes) de Marília e Região 
+Por que será feito: 
+Divulgar os Cursos oferecidos pela FATEC-Marília, seja ao longo do ano e nas semanas que 
+antecedem o vestibular. Posicionar o nome da Instituição como curso superior, evitando a 
+confusão com cursos técnicos. 
+Responsável: 
+Marcel Santos Silva 
+Qde CH/sem: 
+01 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a):  
+Qde CH/sem: 
+ 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a):  
+Qde CH/sem: 
+ 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+20/03/2025 
+Data final: 
+10/12/1025 
+Etapas do processo: 
+Levantamento das Empresas/ indústrias para o trabalho de divulgação e 
+palestras. 
+20/03/25 05/04/25 
+ 
+Desenvolver estratégias de divulgação do vestibular a fim de atingir Etecs, 
+Escolas Estaduais e Empresas/indústrias (pequeno, médio e grande portes) 
+da região no ano de 2025. 
+Desenvolver estratégias para reposicionamento da imagem institucional e 
+fortalecimento diante da concorrência. 
+Demonstrar o diferencial de qualidade em ensino superior público e gratuito. 
+01/04/25 16/04/25 
+ 
+Visitas agendadas com as Empresas/ indústrias. 
+17/04/25 17/06/25 
+ 
+Levantamento das Empresas/ indústrias para o trabalho de divulgação e 
+palestras. 
+01/08/25 31/08/25 
+ 
+Visitas agendadas com as Empresas/ indústrias. 
+01/09/25 31/11/25 
+Custo R$ (se houver): 
+0 
+Fonte(s) dos recursos: 
+0 
+Situação problema: 
+cat 0.1.99 - Outra 
+(a ser resolvida/mitigada) 
+cat 0.1.99 - Outra 
+ 
+AÇÃO/PROJETO (Tema) 
+70y - cat 7.03 - Projetos com empresas e/ou demais parceiros 
+Origem (prioridade): 
+6-Outra 
+Referente ao(s) projeto(s):  
+O que será feito: 
+Impulsionar o desenvolvimento de empresas de base tecnológica, startups e profissionais de 
+Tecnologia da Informação na região. 
+Por que será feito: 
+A inovação tecnológica é reconhecida como uma poderosa estratégia de crescimento e 
+diferenciação competitiva, abrangendo todas as linhas de inovação, desde serviços até o 
+desenvolvimento de novos produtos e a Fatec Marília passa a integrar este ecosistema. Divulgar 
+os Cursos oferecidos pela FATEC-Marília, seja ao longo do ano e nas semanas que antecedem o 
+vestibular. Posicionar o nome da Instituição como curso superior, evitando a confusão com cursos 
+técnicos. 
+Responsável: 
+Marcel Santos Silva 
+Qde CH/sem: 
+01 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a):  
+Qde CH/sem: 
+ 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a):  
+Qde CH/sem: 
+ 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+20/03/2025 
+Data final: 
+31/12/1025 
+Etapas do processo: 
+Estabelecimento de ações a serem realizadas por meio da parceria. 
+20/03/25 05/04/25 
+ 
+Elaboração de Plano de Trabalho para cada um dos projetos estabelecidos 
+01/04/25 16/04/25 
+ 
+Implementação dos projetos estabelecidos com empresas parcerias. 
+17/04/25 14/11/25 
+ 
+Divulgação das ações e resultados dos projetos implementados. 
+16/11/25 30/12/25 
+ 
+ 
+ 
+ 
+Custo R$ (se houver): 
+0 
+Fonte(s) dos recursos: 
+0 
+Situação problema: 
+cat 0.1.99 - Outra 
+(a ser resolvida/mitigada) 
+cat 0.1.99 - Outra 
+  
+ 
+ 
+Anexo 1 – Lista de aquisições necessárias aos projetos 
+(equipamentos, softwares, mobiliários) 
+ 
+Item 
+Projeto 
+(XYY) 
+Denominação ou especificação do equipamento 
+Quant. 
+Preço total 
+estimado 
+(R$) 
+01 
+101 
+Cadeira Giratoria Concha Dupla Espaldar Alto  
+20 
+14.400,00 
+02 
+101 
+Mesa de Trabalho Em Madeira Mdp Retangular 1800x600mm 
+10 
+8.180,00 
+03 
+101 
+Monitor 24” 
+12 
+6.000,00 
+04 
+101 
+Pad Mouse 
+12 
+122,4 
+05 
+101 
+Mesa Diretor 
+1 
+2.800,00 
+06 
+101 
+Apoio para pés 
+4 
+212,00 
+07 
+101 
+Mesa de Reunião 3000x1200mm 
+1 
+2.300,00 
+08 
+101 
+Impressora Laser Monocromática 
+5 
+6.000,00 
+09 
+101 
+Multifuncional Cmt 6500 Pgs Colorida 
+5 
+11.500,00 
+10 
+101 
+Estabilizador P/equipamento de Informática 01 Kva  
+30 
+211,89 
+11 
+101 
+Gaveteiro P/escritorio 
+15 
+4.500,00 
+12 
+101 
+CPU 
+12 
+44.400,00 
+13 
+101 
+Notebook 14” 
+10 
+25.000,00 
+14 
+101 
+Ar condicionado 36000 btus 
+6 
+51.000,00 
+15 
+101 
+Arquivo de Metal  
+15 
+15.500,00 
+16 
+201 
+Cadeira giratória sem braços 
+40 
+10.400,00 
+17 
+201 
+Impressora monocromática 150000 copias mensal 
+1 
+6.000,00 
+18 
+201 
+Cadeira Fixa, Tecido azul 
+40 
+4.800,00 
+19 
+202 
+Ar condicionado 50000 btus 
+17 
+204.000,00 
+20 
+202 
+Quadro escolar branco quadriculado 
+6 
+4.500,00 
+21 
+203 
+Notebook 15” (curso DSM) 
+80 
+376.000,00 
+22 
+203 
+Estação móvel para carregamento de notebooks 
+2 
+9.800,00 
+23 
+101 
+Dispenser papel toalha 
+11 
+490,82 
+24 
+101 
+Dispenser sabão liquido 
+16 
+377,92 
+ 
+ 
+Total geral 
+808.495,00 
+ 
+ 
+ 
+ 
+Anexo 2 – Lista de Ações/Projetos referentes à CPA 
+ 
+Item 
+Projeto 
+(XYY) 
+Denominação 
+(O que será feito) 
+Prazo 
+01 
+nnn 
+nn 
+dd/mm/aaaa 
+02 
+nnn 
+nn 
+dd/mm/aaaa 
+03 
+nnn 
+nn 
+dd/mm/aaaa 
+04 
+nnn 
+nn 
+dd/mm/aaaa 
+05 
+nnn 
+nn 
+dd/mm/aaaa 
+06 
+nnn 
+nn 
+dd/mm/aaaa 
+07 
+nnn 
+nn 
+dd/mm/aaaa 
+08 
+nnn 
+nn 
+dd/mm/aaaa 
+09 
+nnn 
+nn 
+dd/mm/aaaa 
+10 
+nnn 
+nn 
+dd/mm/aaaa 
+11 
+nnn 
+nn 
+dd/mm/aaaa 
+12 
+nnn 
+nn 
+dd/mm/aaaa 
+13 
+nnn 
+nn 
+dd/mm/aaaa 
+14 
+nnn 
+nn 
+dd/mm/aaaa 
+15 
+nnn 
+nn 
+dd/mm/aaaa 
+16 
+nnn 
+nn 
+dd/mm/aaaa 
+17 
+nnn 
+nn 
+dd/mm/aaaa 
+18 
+nnn 
+nn 
+dd/mm/aaaa 
+19 
+nnn 
+nn 
+dd/mm/aaaa 
+20 
+nnn 
+nn 
+dd/mm/aaaa 
+ 
+ 
+ 
+ 
+ 
+ 
+<fim> 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

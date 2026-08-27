@@ -1,0 +1,5773 @@
+PLANO DE GESTÃO ANUAL – PGA 2024 
+V11 
+Estruturado em um única etapa com 2 anexos: 
+PLANEJAMENTO PELA EQUIPE GESTORA DA UE 
+• Anexo 1 – Lista de equipamentos necessários aos projetos 
+• Anexo 2 – Lista de Ações/Projetos referentes à CPA 
+ 
+IDENTIFICAÇÃO DA UNIDADE 
+Unidade 
+278 
+Fatec de Itapira “Ogari de Castro Pacheco” 
+Diretor(a) 
+Prof. Me. Luiz Henrique Biazotto 
+ 
+PLANEJAMENTO PELA EQUIPE GESTORA DA UE 
+(Administração da Faculdade - Deliberação CEETEPS 31/2016) 
+ANÁLISE DO CENÁRIO 
+Descrever de forma breve e objetiva o cenário da Unidade perante sua missão como Unidade de Ensino na localidade em que 
+se encontra (é este cenário que se pretende melhorar). 
+A Fatec de Itapira "Ogari de Castro Pacheco" foi inaugurada em 28 de junho de 2014, por meio de uma parceria 
+entre a Prefeitura Municipal de Itapira e o Centro Estadual de Educação Tecnológica Paula Souza. Atualmente, a 
+instituição oferece quatro cursos: CST em Gestão Empresarial - GE (com 169 alunos), CST em Gestão da Produção 
+Industrial – GPI (com 149 alunos), CST em Gestão da Tecnologia da Informação - GTI (com 58 alunos) e CST em 
+Desenvolvimento de Software Multiplataforma - DSM (com 101 alunos). 
+O CST em Gestão da Tecnologia da Informação está em fase de encerramento, com apenas um semestre em curso 
+no primeiro semestre de 2024. Enquanto isso, na direção oposta encontra-se o CST em Desenvolvimento de 
+Software Multiplataforma em fase de implantação desde o primeiro semestre de 2022, totalizando cinco turmas 
+para o primeiro semestre de 2024. 
+A análise atual da Fatec de Itapira inclui a redução de indicadores relacionados ao ingresso e permanência de alunos, 
+refletindo as dificuldades causadas pela pandemia e suas consequências prolongadas, como a crise econômica e a 
+redução da mobilidade. Destaca-se a necessidade de adaptação de potenciais alunos ao ensino à distância e o 
+aumento dos custos de transporte coletivo, e até mesmo o custo de vida, especialmente para alunos de localidades 
+mais remotas da unidade. Além disso, destaca-se a ampla variedade de cursos superiores disponíveis, ofertados por 
+diversas instituições de ensino localizadas nas proximidades do município de Itapira. 
+Internamente, diante da implementação de um novo curso (CST em DSM) e das crescentes demandas em Tecnologia 
+da Informação e Comunicação, é urgente avançar nas discussões que envolvem a revisão dos espaços existentes, 
+possíveis reestruturações e considerações orçamentárias e organizacionais alinhadas ao Plano de Desenvolvimento 
+Institucional e aos Projetos Pedagógicos de Curso. Portanto, torna-se evidente a necessidade de ações que 
+promovam a racionalização da gestão e a qualificação das decisões e do planejamento, abrangendo tanto as esferas 
+organizacionais quanto as didático-pedagógicas. Tais ações serão propostas e detalhadas no Plano Geral de Ação 
+(PGA). 
+Para orientar a concepção de objetivos e metas visando ao diagnóstico e à solução das situações-problema, 
+utilizou-se o Plano de Metas da CESU - Versão 1.0.0, lançado em 07/01/2022. Este documento foi utilizado como 
+base para as estratégias a serem implementadas, garantindo alinhamento com as diretrizes e objetivos mais 
+amplos estabelecidos pelo Centro Paula Souza. 
+É fato que diante dos acontecimentos no último ano (2023), a unidade precisa com urgência de reforma de todo o 
+telhado, considerando a idade do prédio e os estragos causados pelas fortes chuvas que assolaram a cidade de 
+Itapira em setembro/ outubro e novembro de 2023. Os banheiros masculino e feminino dos alunos também 
+precisam com urgência de reforma e a estrutura administrativa da unidade necessita de adequações físicas em sua 
+estrutura para abrigar o reforço que recebemos com a contratação de novos funcionários para atuarem na área 
+administrativa. Além de melhorias em sua infraestrutura física de forma geral como pintura de toda a unidade e 
+troca de piso de diversas salas de aulas que serão detalhadas ao longo deste documento. Outro ponto a se 
+considerar é a possibilidade de construção de um novo prédio para a unidade, considerando que o atual pertence 
+a prefeitura e foi cedido ao CPS por um período de 50 anos. 
+ 
+ 
+• Discorrer sobre o cenário, realizando um breve diagnóstico (limitar o espaço da escrita, para que seja inserido de forma sucinta). 
+APONTAMENTO DE SITUAÇÕES-PROBLEMA MAIS RELEVANTES 
+Fontes: relatório CPA, análise de processos críticos da UE, relatório de atendimento e ocorrências Hórus, relatório NDE, 
+relatório de representação discente (DA, Atlética, representantes de turma), relatório CIPA, entre outros. 
+1 
+cat 0.1.01 - Metodologia de ensino, desempenho 
+de alunos, evasão 
+ 
+5 
+cat 0.1.07 - Comunicação com a comunidade 
+acadêmica 
+2 
+cat 0.1.02 - Manutenção e conservação predial 
+ 
+6 
+cat 0.1.12 - Acesso e transporte à Unidade de Ensino 
+3 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de 
+ensino 
+ 
+7 
+cat 0.1.08 - Participação da comunidade e sociedade 
+4 
+cat 0.1.06 - Quantidade de professores/funcionários 
+ 
+8 
+cat 0.1.10 - Gestão da unidade de ensino e dos cursos 
+(indicadores) 
+Outra – Especificar: Ausência de um bibliotecário e a inadequação do acervo bibliográfico e falta de acesso a revistas 
+científicas. Aqui caberia uma reflexão do CPS quanto a manter infraestrutura de biblioteca física quando hoje temos acervos 
+virtuais que podem ser licitados e contratados mitigando assim a precariedade de nossas bibliotecas. 
+ 
+Objetivos Institucionais – CPS (Plano de Metas) 
+1) Atender às demandas sociais e do mercado de trabalho. 
+2) Obter a satisfação dos públicos que se relacionam com o Centro Paula Souza (stakeholders). 
+3) Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem. 
+4) Assegurar a perenidade do crescimento da instituição com recursos financeiros disponíveis. 
+5) Garantir celeridade e efetividade na prestação de serviços. 
+6) Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no desenvolvimento tecnológico e inovação. 
+7) Promover a cultura de inovação e empreendedorismo. 
+8) Aumentar a eficiência, a produtividade e a competitividade da instituição. 
+9) Ampliar a oferta da Educação Profissional. 
+10) Resolução Conjunta SOG/SFP/SG-3, de 28-12-2022 - Bonificação por Resultados – BR das Secretarias de Estado, Procuradoria Geral do Estado, 
+Controladoria Geral do Estado e das Autarquias, de que trata a LC 1361-2021 
+Objetivos Institucionais – Cesu (Plano de Metas) 
+A. Integrar as diferentes modalidades de ensino, otimizando itinerários e tempo para a formação profissional. 
+B. Inovar processos de ensino e aprendizagem para manter excelência diante do mercado. 
+C. Ampliar a capacidade de criar e atualizar cursos em parceria com o mercado. 
+D. Expandir e ampliar a capacidade de articulação com Governos e Setores Produtivos. 
+E. Promover a captação de recursos extras e não orçamentários. 
+ 
+ 
+ESTRUTURAÇÃO DAS AÇÕES/PROJETOS 
+01 - Didático-pedagógico 
+Ações associadas ao PPC/PE de CSTs e Disciplinas: CST (implantação, alteração, readequação, reestruturação), 
+prática pedagógica (PE, PA), projeto interdisciplinar/ integrador, extensão curricularizada. 
+ 
+AÇÃO/PROJETO (Tema) 
+101 - cat 1.01 - Adequação/reestruturação de PPC, implantação de novos cursos. 
+Origem: 
+3-Outra 
+O que será feito: 
+1) 
+Atender às demandas sociais e do mercado de trabalho. 
+2) 
+Obter a satisfação dos públicos que se relacionam com o Centro Paula Souza 
+(stakeholders). 
+3) 
+Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem. 
+4) 
+Assegurar a perenidade do crescimento da instituição com recursos financeiros 
+disponíveis. 
+5) 
+Garantir celeridade e efetividade na prestação de serviços. 
+6) 
+Formar profissionais atualizados em tecnologias e processos produtivos, capazes de 
+atuar no desenvolvimento tecnológico e inovação. 
+7) 
+Promover a cultura de inovação e empreendedorismo. 
+8) 
+Aumentar a eficiência, a produtividade e a competitividade da instituição. 
+A. 
+Integrar as diferentes modalidades de ensino, otimizando itinerários e tempo para a 
+formação profissional. 
+B. 
+Inovar processos de ensino e aprendizagem para manter excelência diante do mercado. 
+C. 
+Ampliar a capacidade de criar e atualizar cursos em parceria com o mercado. 
+Por que será feito: 
+Implantação do novo PPC do CST em Gestão Empresarial para os egressos do 1º semestre de 
+2024, aprovado no Processo Seletivo Vestibular. 
+Responsável: 
+<nome> Prof. Dr. Gilberto Brandão Marcon 
+Qde CH/sem: 
+8 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> Daniela Bellini Destro Altafini Trani 
+Qde CH/sem: 
+8 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome>  
+Qde CH/sem: 
+ 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+02/01/2024 
+Data final: 
+31/12/2024 
+Etapas do processo: 
+01- Atribuição da nova grade 
+02/01 
+31/01 
+ 
+02- Rematrícula dos alunos 
+02/01 
+31/01 
+ 
+03- Equivalência de disciplinas 
+01/02 
+29/02 
+ 
+04-  
+ 
+ 
+ 
+05-  
+ 
+ 
+ 
+06-  
+ 
+ 
+ 
+07-  
+ 
+ 
+ 
+08-  
+ 
+ 
+Custo R$ (se houver): 
+ 
+Fonte(s) dos recursos: 
+Centro Paula Souza 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+102 - cat 1.01 - Adequação/reestruturação de PPC, implantação de novos cursos. 
+Origem: 
+3-Outra 
+O que será feito: 
+1) 
+Atender às demandas sociais e do mercado de trabalho. 
+2) 
+Obter a satisfação dos públicos que se relacionam com o Centro Paula Souza 
+(stakeholders). 
+3) 
+Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem. 
+4) 
+Assegurar a perenidade do crescimento da instituição com recursos financeiros 
+disponíveis. 
+5) 
+Garantir celeridade e efetividade na prestação de serviços. 
+6) 
+Formar profissionais atualizados em tecnologias e processos produtivos, capazes de 
+atuar no desenvolvimento tecnológico e inovação. 
+7) 
+Promover a cultura de inovação e empreendedorismo. 
+8) 
+Aumentar a eficiência, a produtividade e a competitividade da instituição. 
+A. 
+Integrar as diferentes modalidades de ensino, otimizando itinerários e tempo para a 
+formação profissional. 
+B. 
+Inovar processos de ensino e aprendizagem para manter excelência diante do mercado. 
+C. 
+Ampliar a capacidade de criar e atualizar cursos em parceria com o mercado. 
+Por que será feito: 
+Implantação do novo PPC do CST em Gestão da Produção Industrial para os egressos do 2º 
+semestre de 2024, aprovado no Processo Seletivo Vestibular. 
+Responsável: 
+<nome> Prof. Esp. José Marcos Romão Júnior 
+Qde CH/sem: 
+8 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> Daniela Bellini Destro Altafini Trani 
+Qde CH/sem: 
+8 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+ 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/06/2024 
+Data final: 
+31/12/2024 
+Etapas do processo: 
+01- Atribuição da nova grade 
+ 
+01/07 
+31/07 
+ 
+02- Rematrícula dos alunos  
+01/07 
+31/07 
+ 
+03- Equivalência de disciplinas 
+01/08 
+01/08 
+ 
+04-  
+ 
+ 
+ 
+05-  
+ 
+ 
+ 
+06-  
+ 
+ 
+ 
+07-  
+ 
+ 
+ 
+08-  
+ 
+ 
+Custo R$ (se houver): 
+ 
+Fonte(s) dos recursos: 
+Centro Paula Souza 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+X 
+X 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+103 - Escolher um item. 
+Origem: 
+Escolher um item. 
+O que será feito: 
+nn  
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+ 
+ 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+104 - Escolher um item. 
+Origem: 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn  
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+ 
+Fonte(s) dos recursos: 
+nn  
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+<Copiar tabelas para mais ações> 
+ 
+02 – Laboratórios - Ensino e Equipamentos Associados 
+Ações para melhoramento dos laboratórios de Ensino (Gestão e Equipamentos): Melhoramento de 
+equipamentos, mediante instalação, manutenção, desuso, doação, e gestão de ambiente laboratorial. 
+ 
+AÇÃO/PROJETO (Tema) 
+201 - cat 2.02 - Laboratório informática - implantação/melhoramento com recursos PEDAGÓGICOS 
+Origem: 
+3-Outra 
+O que será feito: 
+Implantação de dois laboratórios de informática para atender as especificações do PPC do curso 
+de DSM 
+Por que será feito: 
+Proposta para transformar duas salas de aulas em dois laboratórios de informática, um para o 
+CST em Desenvolvimento de Software Multiplataforma e outro para o CST em Gestão da 
+Produção Industrial. Considerando que os 5 laboratórios que a Fatec tem são insuficientes 
+mesmo compartilhando esses ambientes com os demais cursos da unidade. 
+Responsável: 
+<nome> Prof. Me. Luiz Henrique Biazotto 
+Qde CH/sem: 
+8 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> Profa. Dra. Marcia Regina Reggiolli 
+Qde CH/sem: 
+8 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> Prof. Dr. Gilberto Brandão Marcon 
+Qde CH/sem: 
+8 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Período de execução: 
+Data inicial: 
+01/02/2024 
+Data final: 
+31/12/2024 
+Etapas do processo: 
+01- Envio de ofício ao CPS solicitando a aquisição de pelo menos 62 
+computadores sendo um laboratório de 40 computadores + 1 para o 
+docente e outro laboratório com 20 computadores + 1 para o docente. 
+01/02 
+29/02 
+ 
+02- Envio de memorando ao CPS solicitando a adequação dos ambientes 
+infraestrutura física e construção de rede física de dados nos ambientes  
+01/02 
+29/02 
+ 
+03- Aguardar aprovação do CPS e fazer a implantação dos dois laboratórios 
+na unidade. 
+01/03 
+31/12 
+ 
+04-  
+ 
+ 
+ 
+05-  
+ 
+ 
+ 
+06-  
+ 
+ 
+ 
+07-  
+ 
+ 
+ 
+08-  
+ 
+ 
+Custo R$ (se houver): 
+ 
+Fonte(s) dos recursos: 
+Centro Paula Souza 
+Situação problema: 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+(a ser resolvida/mitigada) 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+202 - cat 2.01 - Laboratório físico - implantação/melhoramento com recursos PEDAGÓGICOS 
+Origem: 
+3-Outra 
+O que será feito: 
+1) Atender às demandas sociais e do mercado de trabalho. 
+3) 
+Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem. 
+6) 
+Formar profissionais atualizados em tecnologias e processos produtivos, capazes de 
+atuar no desenvolvimento tecnológico e inovação. 
+7) 
+Promover a cultura de inovação e empreendedorismo. 
+A. Integrar as diferentes modalidades de ensino, otimizando itinerários e tempo para a formação 
+profissional. 
+B. Inovar processos de ensino e aprendizagem para manter excelência diante do mercado. 
+C. Ampliar a capacidade de criar e atualizar cursos em parceria com o mercado. 
+Por que será feito: 
+Proposta de implantação de um laboratório de análise e resistência de materiais para o CST em 
+Gestão da Produção Industrial. Contemplar o rol de laboratórios contidos no PPC do curso e 
+proporcionar ao aluno aulas práticas de análise e resistência de materiais, controles de qualidade 
+dentre outras possibilidades que poderão ser exploradas pelos docentes. 
+Responsável: 
+<nome> Prof. Me. Luiz Biazotto 
+Qde CH/sem: 
+8 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> Prof. Esp. José Marcos Romão Júnior 
+Qde CH/sem: 
+8 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/02/2024 
+Data final: 
+31/12/2024 
+Etapas do processo: 
+01- Solicitação de equipamentos para o referido laboratório pelo diretor da 
+unidade 
+01/02 
+29/02 
+ 
+02- Solicitar adequação de uma sala de aula para transformá-la em sala 
+híbrida (sala de aula e laboratório) 
+01/02  
+29/02 
+ 
+03- Aguardar a compra e envio dos equipamentos para a unidade e 
+adequação do ambiente 
+01/03 
+31/12 
+ 
+04- Treinamento do Coordenador do Curso e dos docentes para uso do 
+laboratório 
+01/03 
+31/12 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+Centro Paula Souza 
+Situação problema: 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+(a ser resolvida/mitigada) 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+X 
+X 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+203 - Escolher um item. 
+Origem: 
+Escolher um item. 
+O que será feito: 
+CORROMPIDO 
+Por que será feito: 
+CORROMPIDO 
+Responsável: 
+<nome> CORROMPIDO 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> CORROMPIDO 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> CORROMPIDO 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- CORROMPIDO 
+dd/mm 
+dd/mm 
+ 
+02- CORROMPIDO 
+dd/mm 
+dd/mm 
+ 
+03- CORROMPIDO 
+dd/mm 
+dd/mm 
+ 
+04- CORROMPIDO 
+dd/mm 
+dd/mm 
+ 
+05- CORROMPIDO 
+dd/mm 
+dd/mm 
+ 
+06- CORROMPIDO 
+dd/mm 
+dd/mm 
+ 
+07- CORROMPIDO 
+dd/mm 
+dd/mm 
+ 
+08- CORROMPIDO 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+CORROMPIDO 
+Fonte(s) dos recursos: 
+CORROMPIDO 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+203 - cat 2.03 - Ambiente multidisciplinar de ensino - implantação/melhoramento com recursos 
+PEDAGÓGICOS 
+Origem: 
+3-Outra 
+O que será feito: 
+1) Atender às demandas sociais e do mercado de trabalho. 
+3) 
+Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem. 
+6) 
+Formar profissionais atualizados em tecnologias e processos produtivos, capazes de 
+atuar no desenvolvimento tecnológico e inovação. 
+7) 
+Promover a cultura de inovação e empreendedorismo. 
+A. Integrar as diferentes modalidades de ensino, otimizando itinerários e tempo para a formação 
+profissional. 
+B. Inovar processos de ensino e aprendizagem para manter excelência diante do mercado. 
+C. Ampliar a capacidade de criar e atualizar cursos em parceria com o mercado. 
+Por que será feito: 
+Propor adequação de uma sala de aula para abrigar os equipamentos de metrologia para o CST 
+em Gestão da Produção Industrial. Contemplar o rol de ambientes contidos no PPC do curso e 
+proporcionar ao aluno aulas práticas de metrologia, controles de qualidade dentre outras 
+possibilidades que poderão ser exploradas pelos docentes.  
+Responsável: 
+<nome> Prof. Me. Luiz Henrique Biazotto 
+Qde CH/sem: 
+8 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> Prof. Esp. José Marcos Romão Júnior 
+Qde CH/sem: 
+8 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome>  
+Qde CH/sem: 
+ 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+ 01/02/2024 
+Data final: 
+31/12/2024 
+Etapas do processo: 
+01- Solicitação de equipamentos para o referido laboratório pelo diretor da 
+unidade. 
+01/02 
+29/02 
+ 
+02- Solicitar adequação de uma sala de aula para transformá-la em sala 
+híbrida (sala de aula e laboratório) 
+01/02 
+29/02 
+ 
+03- Aguardar a compra e envio dos equipamentos para a unidade e 
+adequação do ambiente. 
+01/03 
+31/12 
+ 
+04- Treinamento do Coordenador do Curso e dos docentes para uso do 
+laboratório. 
+01/03 
+21/12 
+ 
+05-  
+ 
+ 
+ 
+06-  
+ 
+ 
+ 
+07-  
+ 
+ 
+ 
+08-  
+ 
+ 
+Custo R$ (se houver): 
+ 
+Fonte(s) dos recursos: 
+Centro Paula Souza 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+204 - cat 2.03 - Ambiente multidisciplinar de ensino - implantação/melhoramento com recursos 
+PEDAGÓGICOS 
+Origem: 
+3-Outra 
+O que será feito: 
+1) Atender às demandas sociais e do mercado de trabalho. 
+3) Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem. 
+6) Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no 
+desenvolvimento tecnológico e inovação. 
+7) Promover a cultura de inovação e empreendedorismo. 
+A. Integrar as diferentes modalidades de ensino, otimizando itinerários e tempo para a formação 
+profissional. 
+B. Inovar processos de ensino e aprendizagem para manter excelência diante do mercado. 
+C. Ampliar a capacidade de criar e atualizar cursos em parceria com o mercado. 
+Por que será feito: 
+Adequação de um laboratório abrigar os equipamentos de tecnologia para desenvolvimento de 
+projetos interdisciplinares e de projetos de IC no CST em Desenvolvimento de Software 
+Multiplataforma. 
+Contemplar o rol de ambientes contidos no PPC do curso e proporcionar ao aluno aulas práticas 
+para a disciplina de IoT – Internet das Coisas e Aplicações, além de possibilitar o uso desses 
+equipamentos para o desenvolvimento de Projetos Interdisciplinares e de IC. 
+Responsável: 
+<nome> Prof. Me. Luiz Henrique Biazotto 
+Qde CH/sem: 
+8 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> Profa. Dra. Marcia Regina Reggiolli 
+Qde CH/sem: 
+8 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Período de execução: 
+Data inicial: 
+01/02/2024 
+Data final: 
+31/12/2024 
+Etapas do processo: 
+01- Solicitação de equipamentos para o referido laboratório pelo diretor da 
+unidade. 
+01/02 
+29/02 
+ 
+02- Solicitar adequação de um laboratório de informática para abrigar os 
+novos equipamentos (armário com chave). 
+01/02 
+29/02 
+ 
+03- Aguardar a compra e envio dos equipamentos para a unidade e 
+adequação do ambiente 
+01/03 
+31/12 
+ 
+04- Treinamento da Coordenadora do Curso e dos docentes para uso dos 
+equipamentos. 
+01/03 
+31/12 
+Custo R$ (se houver): 
+ 
+Fonte(s) dos recursos: 
+Centro Paula Souza 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+ 
+Copiar tabelas para mais ações> 
+ 
+ 
+03 – Pesquisa / Extensão e Equipamentos Associados 
+Ações para melhoramento dos laboratórios que contemplam Pesquisa além do Ensino (Equipamentos): 
+melhoramento dos espaços de pesquisa, que inclui especificação equipamentos e aquisição por fomento ou por 
+projeto com empresa, e também prestação de serviços no campo tecnológico para instituições e empresas. 
+ 
+AÇÃO/PROJETO (Tema) 
+301 - Escolher um item. 
+Origem: 
+Escolher um item. 
+O que será feito: 
+CORROMPIDO 
+Por que será feito: 
+CORROMPIDO 
+Responsável: 
+<nome> CORROMPIDO 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> CORROMPIDO 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> CORROMPIDO 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- CORROMPIDO 
+dd/mm 
+dd/mm 
+ 
+02- CORROMPIDO 
+dd/mm 
+dd/mm 
+ 
+03- CORROMPIDO 
+dd/mm 
+dd/mm 
+ 
+04- CORROMPIDO 
+dd/mm 
+dd/mm 
+ 
+05- CORROMPIDO 
+dd/mm 
+dd/mm 
+ 
+06- CORROMPIDO 
+dd/mm 
+dd/mm 
+ 
+07- CORROMPIDO 
+dd/mm 
+dd/mm 
+ 
+08- CORROMPIDO 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+CORROMPIDO 
+Fonte(s) dos recursos: 
+CORROMPIDO 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+301 - cat 3.06 - Jornada/Evento/Revista Científico e Tecnológico 
+Origem: 
+3-Outra 
+O que será feito: 
+1) Atender às demandas sociais e do mercado de trabalho. 
+2) Obter a satisfação dos públicos que se relacionam com o Centro Paula Souza (stakeholders). 
+3) Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem. 
+4) Assegurar a perenidade do crescimento da instituição com recursos financeiros disponíveis. 
+5) Garantir celeridade e efetividade na prestação de serviços. 
+6) Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no 
+desenvolvimento tecnológico e inovação. 
+7) Promover a cultura de inovação e empreendedorismo. 
+8) Aumentar a eficiência, a produtividade e a competitividade da instituição. 
+A. 
+Integrar as diferentes modalidades de ensino, otimizando itinerários e tempo para a 
+formação profissional. 
+B. 
+Inovar processos de ensino e aprendizagem para manter excelência diante do mercado. 
+C. 
+Ampliar a capacidade de criar e atualizar cursos em parceria com o mercado. 
+ 
+Por que será feito: 
+Fomentar a elaboração de artigos científicos decorrentes dos Projetos Integradores para 
+fortalecer o padrão educacional do Centro Paula Souza, destacando seu compromisso com a 
+pesquisa e inovação tecnológica. A produção desses artigos não apenas reflete a dedicação dos 
+estudantes ao trabalho de pesquisa, mas também contribui para a consolidação do ensino, 
+elevando o perfil acadêmico da instituição e incentivando a busca contínua por conhecimento e 
+excelência. a criação de artigos científicos  
+Responsável: 
+<nome> Profa. Dra. Marcia Regina Reggiolli 
+Qde CH/sem: 
+8 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> Prof. Dr. Gilberto Brandão Marcon 
+Qde CH/sem: 
+8 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> Prof. Esp. José Marcos Romão Júnior 
+Qde CH/sem: 
+8 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Período de execução: 
+Data inicial: 
+01/02/2024 
+Data final: 
+31/12/2024 
+Etapas do processo: 
+01- Sensibilização dos docentes para que incentivem os alunos na 
+elaboração de artigos e pesquisas cientificas 
+01/02 
+31/12 
+ 
+02- Divulgação das edições já publicadas da Revista Prospectus entre o 
+corpo discente 
+01/02 
+31/12 
+ 
+03- Auxílio na elaboração de pesquisa 
+01/02 
+31/12 
+ 
+04- Publicação de novos artigos 
+01/02 
+31/12 
+ 
+05-  
+ 
+ 
+ 
+06-  
+ 
+ 
+ 
+07-  
+ 
+ 
+ 
+08-  
+ 
+ 
+Custo R$ (se houver): 
+ 
+Fonte(s) dos recursos: 
+Centro Paula Souza 
+Situação problema: 
+cat 0.1.06 - Quantidade de professores/funcionários 
+(a ser resolvida/mitigada) 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+X 
+X 
+ 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+302 - cat. 3.99 - Outra 
+Origem: 
+3-Outra 
+O que será feito: 
+ 2)Obter a satisfação dos públicos que se relacionam com o Centro Paula Souza (stakeholders). 
+3) Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem. 
+6) Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no 
+desenvolvimento tecnológico e inovação. 
+7) Promover a cultura de inovação e empreendedorismo. 
+8) Aumentar a eficiência, a produtividade e a competitividade da instituição. 
+9) Ampliar a oferta da Educação Profissional. 
+A. 
+Integrar as diferentes modalidades de ensino, otimizando itinerários e tempo para a 
+formação profissional. 
+B. 
+Inovar processos de ensino e aprendizagem para manter excelência diante do mercado. 
+C. 
+Ampliar a capacidade de criar e atualizar cursos em parceria com o mercado. 
+Por que será feito: 
+Proposta de criação de uma sala de estudos integrada com a biblioteca, equipada com 30 
+notebooks para suprir a carência de recursos na Unidade de Ensino. Essa iniciativa visa 
+proporcionar aos alunos condições adequadas para realizar pesquisas, formatar trabalhos e 
+acessar o acervo bibliográfico, promovendo assim um ambiente propício ao aprendizado e 
+desenvolvimento acadêmico. 
+Responsável: 
+<nome> Prof. Me. Luiz Henrique Biazotto 
+Qde CH/sem: 
+8 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/02/2024 
+Data final: 
+31/12/2024 
+Etapas do processo: 
+01- Levantamento das necessidades e especificações adequadas dos 
+equipamentos 
+01/02 
+29/02 
+ 
+02- Solicitação dos equipamentos para o Centro Paula Souza 
+01/03 
+31/03 
+ 
+03- Aguardar a compra e recebimento dos notebooks 
+01/04 
+31/12 
+ 
+04- Instalar os notebooks e disponibilizar a utilização dos equipamentos 
+para a comunidade discente 
+01/04 
+31/12 
+ 
+05-  
+ 
+ 
+ 
+06-  
+ 
+ 
+ 
+07-  
+ 
+ 
+ 
+08-  
+ 
+ 
+Custo R$ (se houver): 
+ 
+Fonte(s) dos recursos: 
+Centro Paula Souza 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+304 - Escolher um item. 
+Origem: 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+<Copiar tabelas para mais ações> 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+04 – Atividades Formativas em Projetos (nível tático) 
+Projetos institucionais formativos não especificados em PEs: Rede de tecnologia, Novotec, PCI, Projetos 
+estudantis (Baja, Aerodesign, entre outros) 
+ 
+AÇÃO/PROJETO (Tema) 
+401 - Escolher um item. 
+Origem: 
+Escolher um item. 
+O que será feito: 
+CORROMPIDO 
+Por que será feito: 
+CORROMPIDO 
+Responsável: 
+<nome> CORROMPIDO 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> CORROMPIDO 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> CORROMPIDO 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- CORROMPIDO 
+dd/mm 
+dd/mm 
+ 
+02- CORROMPIDO 
+dd/mm 
+dd/mm 
+ 
+03- CORROMPIDO 
+dd/mm 
+dd/mm 
+ 
+04- CORROMPIDO 
+dd/mm 
+dd/mm 
+ 
+05- CORROMPIDO 
+dd/mm 
+dd/mm 
+ 
+06- CORROMPIDO 
+dd/mm 
+dd/mm 
+ 
+07- CORROMPIDO 
+dd/mm 
+dd/mm 
+ 
+08- CORROMPIDO 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+CORROMPIDO 
+Fonte(s) dos recursos: 
+CORROMPIDO 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+401 - cat 4.04 - Projetos estudantis diversos 
+Origem: 
+3-Outra 
+O que será feito: 
+2) 
+Obter a satisfação dos públicos que se relacionam com o Centro Paula Souza 
+(stakeholders). 
+3) 
+Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem. 
+6) 
+Formar profissionais atualizados em tecnologias e processos produtivos, capazes de 
+atuar no desenvolvimento tecnológico e inovação. 
+A. 
+Integrar as diferentes modalidades de ensino, otimizando itinerários e tempo para a 
+formação profissional. 
+B. 
+Inovar processos de ensino e aprendizagem para manter excelência diante do mercado. 
+C. 
+Ampliar a capacidade de criar e atualizar cursos em parceria com o mercado. 
+Por que será feito: 
+Desenvolver a capacitação e treinamento sobre relevância, princípios norteadores e estrutura 
+avaliativa do ENADE, voltados para docentes e discentes da IES. Pelo fato de os bons resultados 
+obtidos no ENADE refletirem na média dos conceitos dos cursos, essa média tem grande 
+representatividade no Conceito Institucional no Sistema Nacional de Avaliação da Educação 
+Superior (SINAES).  
+Responsável: 
+<nome> Profa. Dra. Márcia Regina Reggiolli 
+Qde CH/sem: 
+8 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> Prof. Dr. Gilberto Brandão Marcon 
+Qde CH/sem: 
+8 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> Prof. Esp. José Marcos Romão Júnior 
+Qde CH/sem: 
+8 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Período de execução: 
+Data inicial: 
+01/02/2024 
+Data final: 
+31/12/2024 
+Etapas do processo: 
+01- Levantamento de avaliações anteriores do ENADE que envolvem os 
+cursos ofertados pela FATEC de Itapira. 
+01/02 
+31/12 
+ 
+02- Estruturação de material didático-pedagógico sobre relevância, 
+princípios norteadores e estrutura avaliativa do ENADE. 
+01/02 
+21/12 
+ 
+03- Estruturação de material didático-pedagógico sobre relevância, 
+princípios norteadores e estrutura avaliativa do ENADE. 
+01/02 
+31/12 
+ 
+04- Desenvolvimento da capacitação e treinamento em sala de aula, em 
+acordo com a Coordenação e docente, para turmas próximas que 
+desenvolverão o ENADE. 
+01/02 
+31/12 
+ 
+05- Desenvolvimento da capacitação e treinamento em sala de aula, em 
+acordo com a Coordenação e docente, para turmas próximas que 
+desenvolverão o ENADE. 
+01/02 
+31/12 
+ 
+06- Balanço crítico do processo de capacitação e treinamento prepatarivo 
+ao ENADE. 
+01/02 
+31/12 
+ 
+07-  
+ 
+ 
+ 
+08-  
+ 
+ 
+Custo R$ (se houver): 
+ 
+Fonte(s) dos recursos: 
+Centro Paula Souza 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.06 - Quantidade de professores/funcionários 
+X 
+X 
+ 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+403 - Escolher um item. 
+Origem: 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+404 - Escolher um item. 
+Origem: 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+<Copiar tabelas para mais ações> 
+ 
+ 
+ 
+ 
+ 
+05 – Infraestrutura (instalações prediais) 
+Projetos de manutenção e melhoramento predial voltados à segurança (física e sanitária) e preservação do 
+patrimônio: Reparação predial (civil, elétrica, dados), novas instalações prediais. 
+ 
+AÇÃO/PROJETO (Tema) 
+501 - cat. 5.99 - Outra 
+Origem: 
+3-Outra 
+O que será feito: 
+2) 
+Obter a satisfação dos públicos que se relacionam com o Centro Paula Souza 
+(stakeholders). 
+3) 
+Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem. 
+4) 
+Assegurar a perenidade do crescimento da instituição com recursos financeiros 
+disponíveis. 
+5) 
+Garantir celeridade e efetividade na prestação de serviços. 
+6) 
+Formar profissionais atualizados em tecnologias e processos produtivos, capazes de 
+atuar no desenvolvimento tecnológico e inovação. 
+7) 
+Promover a cultura de inovação e empreendedorismo. 
+8) 
+Aumentar a eficiência, a produtividade e a competitividade da instituição. 
+9) 
+Ampliar a oferta da Educação Profissional. 
+A. 
+Integrar as diferentes modalidades de ensino, otimizando itinerários e tempo para a 
+formação profissional. 
+B. 
+Inovar processos de ensino e aprendizagem para manter excelência diante do mercado. 
+C. 
+Ampliar a capacidade de criar e atualizar cursos em parceria com o mercado. 
+D. 
+Expandir e ampliar a capacidade de articulação com Governos e Setores Produtivos. 
+E. 
+Promover a captação de recursos extras e não orçamentários. 
+Por que será feito: 
+Proposta de a aquisição de um novo prédio para a Fatec de Itapira. O prédio atual é muito antigo 
+(meados de 60/70) e apresenta vários problemas estruturais e falta de espaço físico.   
+Responsável: 
+<nome> Prof. Me. Luiz Henrique Biazotto 
+Qde CH/sem: 
+8 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/02/2024 
+Data final: 
+31/12/2024 
+Etapas do processo: 
+01- Início de tratativas com o GDS. 
+01/02 
+31/12 
+ 
+02- Desenvolvimento de projeto estrutural 
+01/02 
+31/12 
+ 
+03- Elaboração de memorial descritivo. 
+01/02 
+21/12 
+ 
+04- Início da fase de licitação 
+01/02 
+31/12 
+ 
+05-  
+ 
+ 
+ 
+06-  
+ 
+ 
+ 
+07-  
+ 
+ 
+ 
+08-  
+ 
+ 
+Custo R$ (se houver): 
+ 
+Fonte(s) dos recursos: 
+Centro Paula Souza 
+Situação problema: 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+(a ser resolvida/mitigada) 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+502 - Escolher um item. 
+Origem: 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+503 - Escolher um item. 
+Origem: 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+504 - Escolher um item. 
+Origem: 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+<Copiar tabelas para mais ações> 
+ 
+ 
+ 
+ 
+ 
+06 - Desenvolvimento de pessoas (docentes e servidores) 
+Formação continuada de docentes e servidores, associadas às competências gerais e específicas de suas 
+atividades: Metodologias de ensino, Tecnologias educacionais, Sistemas (processos, procedimentos, plataformas 
+computacionais) acadêmicos e pedagógicos. 
+ 
+AÇÃO/PROJETO (Tema) 
+601 - cat 6.01 - Curso/Oficina/Capacitação/ Treinamento/ Palestra/Reunião/Encontro 
+Origem: 
+3-Outra 
+O que será feito: 
+1) 
+Atender às demandas sociais e do mercado de trabalho. 
+2) 
+Obter a satisfação dos públicos que se relacionam com o Centro Paula Souza 
+(stakeholders). 
+3) 
+Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem. 
+4) 
+Assegurar a perenidade do crescimento da instituição com recursos financeiros 
+disponíveis. 
+5) 
+Garantir celeridade e efetividade na prestação de serviços. 
+6) 
+Formar profissionais atualizados em tecnologias e processos produtivos, capazes de 
+atuar no desenvolvimento tecnológico e inovação. 
+8) 
+Aumentar a eficiência, a produtividade e a competitividade da instituição. 
+A. 
+Integrar as diferentes modalidades de ensino, otimizando itinerários e tempo para a 
+formação profissional. 
+B. 
+Inovar processos de ensino e aprendizagem para manter excelência diante do mercado. 
+D. 
+Expandir e ampliar a capacidade de articulação com Governos e Setores Produtivos. 
+E. 
+Promover a captação de recursos extras e não orçamentários. 
+Por que será feito: 
+Atualizar Treinamento da Brigada de Emergência e promover um Plano de Evacuação. A SIPAT é 
+uma atividade obrigatória para todas as Comissões Internas de Prevenção de Acidentes (CIPA), 
+podendo ser ou não validada para efeitos de progressão/promoção funcional – SUPAT E 
+TREINAMENTO DA BRIGADA 
+Responsável: 
+<nome> Leandro José Silveira (presidente da CIPA) 
+Qde CH/sem: 
+4 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> Adriana Fernandes Teixeira 
+Qde CH/sem: 
+4 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/02/2024 
+Data final: 
+31/07/2024 
+Etapas do processo: 
+01- Reunião de alinhamento do tema da semana, temáticas importantes 
+para desenvolvimento de palestras e repensar novas dinâmicas de 
+interação e aproveitamento do conhecimento ofertado pelos palestrantes. 
+01/02 
+28/02 
+ 
+02- Definição do tema, temáticas abordadas e convidados. Celebração dos 
+convites e abertura da comunicação interna para a comunidade de 
+interesse. 
+01/03 
+31/03 
+ 
+03- Treinamento de evacuação para docentes e discentes com o apoio da 
+Defesa Civil 
+01/04 
+30/04 
+ 
+04- Acontecimento da SIPAT da FATEC de Itapira 2024, Treinamento da 
+Brigada de Emergência e atividade prática e evacuação com a supervisão 
+da Defesa Civil  
+01/05 
+31/05 
+ 
+05- Reflexão sobre os resultados obtidos com os trabalhos da CIPA; 
+dificuldades encontradas no desenvolvimento do trabalho; novas 
+propostas de atuação etc. 
+01/06 
+30/06 
+ 
+06- Reflexão sobre os resultados obtidos com os trabalhos da CIPA; 
+dificuldades encontradas no desenvolvimento do trabalho; novas 
+propostas de atuação etc. 
+01/07 
+31/07 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+Planejamento realizado 
+durante horário de 
+expediente 
+Fonte(s) dos recursos: 
+Centro Paula Souza 
+Situação problema: 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+(a ser resolvida/mitigada) 
+cat 0.1.13 - Relacionamento interpessoal da equipe 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+602 - cat 6.02 - Projeto e atividade de Integração (docente e servidores) 
+Origem: 
+3-Outra 
+O que será feito: 
+4) Assegurar a perenidade do crescimento da instituição com recursos financeiros disponíveis. 
+7) Promover a cultura de inovação e empreendedorismo. 
+8) Aumentar a eficiência, a produtividade e a competitividade da instituição. 
+9) Ampliar a oferta da Educação Profissional. 
+D. 
+Expandir e ampliar a capacidade de articulação com Governos e Setores Produtivos. 
+E. 
+Promover a captação de recursos extras e não orçamentários. 
+Por que será feito: 
+Comemorar os 10 anos de atuação da Fatec de Itapira na formação tecnológica. 
+Responsável: 
+<nome> Adriana Fernandes Teixeira 
+Qde CH/sem: 
+8 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> Daniela Bellini Destro Altafini Trani 
+Qde CH/sem: 
+8 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+02/01/2024 
+Data final: 
+31/07/2024 
+Etapas do processo: 
+01- Planejamento das ações 
+02/01 
+31/01 
+ 
+02- Divulgação da programação e abertura oficial da programação 
+comemorativa aos 10 anos 
+01/02 
+29/02 
+ 
+03- Palestra comemorativa 
+01/03 
+31/03 
+ 
+04- Depoimento de ex-alunos e treinamento 
+01/04 
+30/04 
+ 
+05- Treinamento 
+01/05 
+31/05 
+ 
+06- Coquetel 
+01/06 
+30/06 
+ 
+07- Balanço 
+01/07 
+31/07 
+ 
+08-  
+ 
+ 
+Custo R$ (se houver): 
+ 
+Fonte(s) dos recursos: 
+Recurso angariados com empresariado 
+local 
+Situação problema: 
+cat 0.1.99 - Outra 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+603 - Escolher um item. 
+Origem: 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+604 - Escolher um item. 
+Origem: 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+<Copiar tabelas para mais ações> 
+ 
+ 
+ 
+ 
+ 
+ 
+07 – Convênios e Parcerias Institucionais 
+Formalização do relacionamento da Unidade com o Ecossistema de Tecnologia: Convênio de uso de prédio, 
+estágios, projetos com empresas. Aqui cabe apenas novos convênios e parcerias, e cada proposta deve estar 
+relacionada a uma Ação/Projeto de melhoria em algum dos itens anteriores do PGA (1, 2, 3, 4, 5 ou 6). 
+ 
+AÇÃO/PROJETO (Tema) 
+701 - cat 7.02 - Contrato de estágio 
+Origem: 
+3-Outra 
+O que será feito: 
+1) 
+Atender às demandas sociais e do mercado de trabalho. 
+2) 
+Obter a satisfação dos públicos que se relacionam com o Centro Paula Souza 
+(stakeholders). 
+3) 
+Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem. 
+5) 
+Garantir celeridade e efetividade na prestação de serviços. 
+6) 
+Formar profissionais atualizados em tecnologias e processos produtivos, capazes de 
+atuar no desenvolvimento tecnológico e inovação. 
+7) 
+Promover a cultura de inovação e empreendedorismo. 
+8) 
+Aumentar a eficiência, a produtividade e a competitividade da instituição. 
+A. 
+Integrar as diferentes modalidades de ensino, otimizando itinerários e tempo para a 
+formação profissional. 
+B. 
+Inovar processos de ensino e aprendizagem para manter excelência diante do mercado. 
+C. 
+Ampliar a capacidade de criar e atualizar cursos em parceria com o mercado. 
+D. 
+Expandir e ampliar a capacidade de articulação com Governos e Setores Produtivos. 
+ 
+Por que será feito: 
+Integralizar o processo curricular de curso para que os alunos em fase de estágio supervisionado 
+obrigatório consigam quando não tiverem a possibilidade de equivalência das atividades de 
+trabalho com comprovação de vínculo via carteira de trabalho – CAPTAÇÃO E ANÁLISE DE 
+CONVÊNIOS CELEBRADOS PELA FATEC DE ITAPIRA E CENTRO PAULA SOUZA   
+Responsável: 
+<nome> Profa. Esp. Luciene Rela Arakaki Fuini – CST em 
+GPI 
+Prof. Esp. José Gonçalves Pinto Júnior – CST em DSM 
+Prof. Dr. Hermas Amaral Germek – CST em GTI 
+Prof. Me. Wladimir José Camillo Menegassi – CST em GE 
+Qde CH/sem: 
+6 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/02/2024 
+Data final: 
+31/07/2024 
+Etapas do processo: 
+01- Análise dos alunos matriculados em Estágio Supervisionado, do 
+número de alunos que necessitam cumprir esta etapa curricular 
+obrigatória sem possuírem vínculo empregatício. 
+01/02 
+29/09 
+ 
+02- Busca de oportunidades pelos centros e órgãos cadastrados. Captação 
+de vagas locais para inserção do aluno em atividade de estágio 
+supervisionado. 
+01/03 
+31/03 
+ 
+03- Busca de oportunidades pelos centros e órgãos cadastrados. Captação 
+de vagas locais para inserção do aluno em atividade de estágio 
+supervisionado. 
+01/04 
+30/04 
+ 
+04- Captação de vagas locais para inserção do aluno em atividade de 
+estágio supervisionado. 
+01/05 
+31/05 
+ 
+05- Captação de vagas locais para inserção do aluno em atividade de 
+estágio supervisionado 
+01/06 
+30/06 
+ 
+06- Balanço crítico das atividades propostas e sugestão para o bom 
+andamento das ações no próximo semestre. 
+01/07 
+31/07 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+R$ 36,18 cada HAE 
+Fonte(s) dos recursos: 
+Centro Paula Souza 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+702 - Escolher um item. 
+Origem: 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+<Copiar tabelas para mais ações> 
+ 
+ 
+ 
+ 
+ 
+Anexo 1 – Lista de aquisições necessárias aos projetos 
+(equipamentos, softwares, mobiliários) 
+ 
+Item 
+Projeto 
+(XYY) 
+Denominação ou especificação do equipamento 
+Quant. 
+01 
+Ampliação 
+da Sala de 
+Estudos por 
+meio da 
+utilização de 
+notebooks 
+Notebook; Microcomputador Portátil; Com Processador de 04 Núcleos, 08 Threads; Com 
+Frequência de Clock Real, Igual Ou Superior a 5.00 Ghz; Memória Ram Ddr4 de 3200mhz; 
+de 64gb; Cache de 12mb; Controladora de Disco Padrão Pcie Nvme M.2; Com 01 Disco; de 
+512gb; Padrão Ssd; Barramento Da Controladora de Video Padrão Dedicado; Controladora 
+de Video Gddr5; de 2,0gb; Com Usb Type-c Thunderbolt 4, 2 Usb 3.2, Conexão P2 
+Headhphone, Conexão P2 Microfone, 1 Hdmi 2.1; Teclado Em Português (padrão ABNT Ou 
+ABNT2); Tela Full Hd Wva de 15.6"; Resolução de 4096 x 2304; Acondicionado Em 
+Embalagem Que Assegure a Integridade do Produto; Sistema Operacional Windows 11 
+Home; Com Bateria e Carregador; Garantia Mínima de 12 Meses;n 
+50 
+02 
+Implantação 
+do 
+Laboratório 
+de 
+Metrologia 
+Blocos em "v" magnético 
+2 
+03 
+Implantação 
+do 
+Laboratório 
+de 
+Metrologia 
+Calibrador traçador de altura 
+2 
+04 
+Implantação 
+do 
+Laboratório 
+de 
+Metrologia 
+Esquadro combinado 
+ 
+5 
+05 
+Implantação 
+do 
+Laboratório 
+de 
+Metrologia 
+Ferramenta calibrador, com haste e cursor, calibrador traçador de altura 
+2 
+06 
+Implantação 
+do 
+Laboratório 
+de 
+Metrologia 
+Calibrador de Boca Ajustável (Tipo Passa/Não-Passa) 
+1 
+07 
+Implantação 
+do 
+Laboratório 
+de 
+Metrologia 
+Jogo de bloco padrão fabricado em aço com 38 peças 
+1 
+08 
+Implantação 
+do 
+Laboratório 
+de 
+Metrologia 
+Medidor de rugosidade, portátil; display sensível ao toque 
+1 
+09 
+Implantação 
+do 
+Laboratório 
+de 
+Metrologia 
+Mesa de desempeno, Fabricado Em Granito Preto; Superfície de Medição Lapidada; 630 X 
+400 X 120 mm 
+2 
+10 
+Implantação 
+do 
+Laboratório 
+de 
+Metrologia 
+Mesa de seno, simples; em aço, com dureza (hrc 55 / 56 graus); com inclinação de até 46 
+graus 
+1 
+11 
+Implantação 
+do 
+Laboratório 
+de 
+Metrologia 
+Micrômetro, em arco rígido de aço forjado; externo (analógico); resolução de 0.001 mm 
+5 
+12 
+Implantação 
+do 
+Laboratório 
+de 
+Metrologia 
+Micrometro; Formado Em Arco, d; Modelo Externo, Digital; Resolução de 0.001 Mm, 
+Exatidão de + Ou - 0.002mm; Capacidade de Medição 150 a 175 Mm 
+3 
+13 
+Implantação 
+do 
+Laboratório 
+de 
+Metrologia 
+Micrometro; Interno, Com 3 Pontas de Aço, Retificadas e Lapidadas; Escala Em Tambor e 
+Bainha Com Acabamento Cromado; Graduação de 0.005 Mm, Exatidão 0.005 Mm 
+1 
+14 
+Implantação 
+do 
+Laboratório 
+de 
+Metrologia  
+Micrometro; Interno de 3 Pontas de Contato; Digital; Resolução de 0,001 Mm, Exatidão de 
+0,003 Mm; Capacidade de 87-100 Mm 
+1 
+15 
+Implantação 
+do 
+Laboratório 
+de 
+Metrologia 
+Micrômetro; formado em arco de aço forjado; externo digital; resolução 0.001 mm, 
+exatidão +/- 0.001 mm; amplitude 25 a 50 mm 
+2 
+16 
+Implantação 
+do 
+Laboratório 
+de 
+Metrologia 
+Paquímetro; Em Aço Inoxidável; Bico Fino; Digital; Visor Lcd 4 Dígitos; Escala Graduada Em 
+Milimetro e Polegada; Resolução de 0,01mm/.0005; Capacidade 0-150 Mm; Com 
+Profundidade 
+2 
+17 
+Implantação 
+do 
+Laboratório 
+de 
+Metrologia 
+Projetor de perfil; para medição de peças de pequeno e médio porte com tela de projeção 
+vertical mínimo 315 mm com linhas de referências cruzadas a 90º 
+1 
+18 
+Implantação 
+do 
+Laboratório 
+de 
+Metrologia 
+Régua de seno 
+3 
+19 
+Implantação 
+do 
+Laboratório 
+de 
+Metrologia 
+Relógio Comparador; Digital; Resolução de 0,01mm, Capacidade de 0 a 50 Mm, Canhão de 
+Ø8mmn 
+1 
+20 
+Implantação 
+do 
+Laboratório 
+de 
+Metrologia 
+Relógio de Metrologia; Em Aço; Tipo Apalpador; Horizontal; Capacidade 0.8 Mm; Resolução 
+de 0.01mm  
+1 
+21 
+Implantação 
+do 
+Laboratório 
+de 
+Metrologia 
+Suporte para Relógio; Base Magnética, para Relógio Comparador; Coluna Articulada Com 
+Trava Por Sistema Hidráulico 
+5 
+22 
+Implantação 
+do 
+Laboratório 
+de 
+Metrologia 
+Trena 5 mts 
+3 
+23 
+Implantação 
+do 
+Trena Eletrônica; Trena a Laser 120m C/ Bluetooth, Visor Ips; Com Indicação Medir Com 
+Precisão Ambientes, 
+1 
+Laboratório 
+de 
+Metrologia 
+24 
+Implantação 
+do 
+Laboratório 
+de 
+Metrologia 
+Armário de aço com Portas 
+1 
+25 
+Implantação 
+do 
+Laboratório 
+de 
+Metrologia 
+Bancada; Tampo de Madeira Maciça; 
+1 
+26 
+Adequação 
+de 
+Laboratório 
+de 
+Informática  
+Kit arduíno advanced com Caixa organizadora; 
+Placa Mega 2560 CH340; Cabo USB de 30cm; Fonte para Arduino; Display LCD 16x2 (com 
+conectores soldados); Módulo RF Transmissor + Receptor 433MHz; Sensor de Distância 
+Ultrassônico; Sensor de Movimento Presença PIR; Motor de Passo 5v; Driver Motor de Passo 
+ULN2003; Protoboard 830 Pontos; Jumper Macho-Macho variados; Jumper Macho-Femea; 
+Módulo Relé 1 Canal; Micro Servo 9g SG90; Sensor de Temperatura NTC; Sensor Óptico 
+Reflexivo TCRT5000; Sensor de Luz LDR; Buzzer Ativo 5V; LED Vermelho; LED Amarelo; 
+LED Verde; Resistor 330Ω; Resistor 1KΩ; Resistor 10KΩ; Diodo 1N4007; Potenciômetro 
+10KΩ; Potenciômetro Trimpot 10KΩ; Capacitor Cerâmico 10nF; Capacitor Cerâmico 100nF; 
+Capacitor Eletrolítico 10uF; Capacitor Eletrolítico 100uF; Chave Tactil (Push-Button); 
+40 
+27 
+Laboratório 
+de análise e 
+resistência 
+de materiais 
+Máquina universal de ensaios de tração, compressão, flexão, embutimento, cisalhamento 
+ 
+1 
+28 
+Laboratório 
+de análise e 
+resistência 
+de materiais 
+Durômetro Analógico 
+ 
+10 
+29 
+Laboratório 
+de análise e 
+resistência 
+de materiais 
+Micrômetro Analógico 
+ 
+10 
+30 
+Laboratório 
+de análise e 
+resistência 
+de materiais 
+Micrômetro Digital 
+ 
+10 
+31 
+Laboratório 
+de análise e 
+resistência 
+de materiais 
+Relógio comparador 
+1 
+ 
+ 
+ 
+ 
+ 
+Anexo 2 – Lista de Ações/Projetos referentes à CPA 
+ 
+Item 
+Projeto 
+(XYY) 
+Denominação 
+(O que será feito) 
+Prazo 
+01 
+A31 
+Sensibilização da Comunidade Acadêmica Sobre a CPA 2023.1 - Ciclo 2022-2024 
+e Apresentação do Balanço Crítico do Relatório da CPA 2022.1 – Ciclo 2022 – 
+2024  
+31/12/2024 
+02 
+A1 
+Biblioteca Ativa na FATEC de Itapira  
+31/12/2024 
+03 
+601 
+SIPAT da FATEC de Itapira: Capacitação de Pessoal  
+31/12/2024 
+04 
+701 
+Captação e Análise de Convênios Celebrados pela FATEC de Itapira e Centro 
+Paula Souza.  
+31/12/2024 
+05 
+301 
+A2 
+Processo de Editoração da Revista Científica Prospectus – FATEC de Itapira  
+31/12/2024 
+06 
+A24 
+Aulas Experimentais de Programação 
+31/12/2024 
+A25 
+07 
+202 
+ 203 
+A27 
+Implantação do Laboratório de Metrologia 
+31/12/2024 
+08 
+A23 
+Espanhol para a Comunidade 
+31/12/2024 
+09 
+401 
+Capacitação e Conscientização da Relevância do Exame Nacional de 
+Desempenho dos Estudantes - ENADE 
+31/12/2024 
+10 
+302 
+Ampliação da Sala de Estudos por meio da utilização de notebooks 
+31/12/2024 
+11 
+nnn 
+nn 
+dd/mm/aaaa 
+12 
+nnn 
+nn 
+dd/mm/aaaa 
+13 
+nnn 
+nn 
+dd/mm/aaaa 
+14 
+nnn 
+nn 
+dd/mm/aaaa 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+A1 - cat 1.04 - Biblioteca Ativa e aquisição de bibliografias 
+Origem: 
+3-Outra 
+O que será feito: 
+3) 
+Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem. 
+6) 
+Formar profissionais atualizados em tecnologias e processos produtivos, capazes de 
+atuar no desenvolvimento tecnológico e inovação.  
+7) 
+Promover a cultura de inovação e empreendedorismo. 
+A. 
+Integrar as diferentes modalidades de ensino, otimizando itinerários e tempo para a 
+formação profissional. 
+B. 
+Inovar processos de ensino e aprendizagem para manter excelência diante do mercado. 
+Por que será feito: 
+Proposta para manter em funcionamento a biblioteca da unidade por intermédio do Projeto 
+Biblioteca Ativa, estabelecido pelo Centro de Gestão Documental/Núcleo de Biblioteca, do 
+Centro Paula Souza. Solicitação de ampliação do acervo bibliográfico. Para atendimento da 
+comunidade acadêmica por não contar com Analista de Suporte e Gestão - Bibliotecário – 
+PROJETO BIBLIOTECA ATIVA 
+Responsável: 
+<nome> Prof. Me. Luiz Henrique Biazotto 
+Qde CH/sem: 
+40 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> Ainda não atribuído docente para o 
+desenvolvimento do projeto 
+Qde CH/sem: 
+40 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome>  
+Qde CH/sem: 
+ 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/02/2024 
+Data final: 
+31/12/2024 
+Etapas do processo: 
+01- Organização do espaço físico (quanto à disposição dos mobiliários e 
+equipamentos, armazenamento dos materiais bibliográficos, 
+acompanhamento da limpeza, organização dos espaços: espaço de leitura, 
+dos computadores e área de circulação dos usuários) 
+01/02 
+31/12 
+ 
+02- Atendimento ao usuário: registro de empréstimo, devolução e 
+renovação de materiais bibliográficos através de software próprio, além da 
+guarda de materiais consultados ou devolvidos  
+01/02 
+31/12 
+ 
+03- Preenchimento de dados no sistema SIG: emissão de dados da 
+biblioteca no Sistema de Informações Gerenciais (SIG-Biblioteca) 
+01/02 
+31/12 
+ 
+04- Manutenção da biblioteca disponível e acessível nos horários das aulas 
+noturnas para a comunidade acadêmica, realizando a abertura e o 
+fechamento das instalações dentro dos horários previstos no 
+regulamento da biblioteca. 
+01/02 
+31/12 
+ 
+05-  
+ 
+ 
+ 
+06-  
+ 
+ 
+ 
+07-  
+ 
+ 
+ 
+08-  
+ 
+ 
+Custo R$ (se houver): 
+ 
+Fonte(s) dos recursos: 
+Centro Paula Souza 
+Situação problema: 
+cat 0.1.06 - Quantidade de professores/funcionários 
+(a ser resolvida/mitigada) 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+A2 - cat 1.02 - Eventos e publicações acadêmicos e científicos 
+Origem: 
+3-Outra 
+O que será feito: 
+  1) 
+Atender às demandas sociais e do mercado de trabalho. 
+2) 
+Obter a satisfação dos públicos que se relacionam com o Centro Paula Souza 
+(stakeholders). 
+3) 
+Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem. 
+ 7) 
+Promover a cultura de inovação e empreendedorismo. 
+8) 
+Aumentar a eficiência, a produtividade e a competitividade da instituição. 
+ A. 
+Integrar as diferentes modalidades de ensino, otimizando itinerários e tempo para a 
+formação profissional. 
+B. 
+Inovar processos de ensino e aprendizagem para manter excelência diante do mercado. 
+Por que será feito: 
+Processar a editoração científica da Revista Prospectus (ISSN: 2674-8576), nos meses de janeiro e 
+julho de 2024, com o certificado DOI no repositório Zenodo.org. A Revista Prospectus é essencial 
+para ressaltar as conquistas, inovações e projetos relevantes da Fatec de Itapira, fortalecendo sua 
+reputação e imagem positiva. Ao publicar artigos, pesquisas e projetos desenvolvidos por alunos 
+e professores, a revista demonstra a excelência acadêmica da instituição e sua contribuição para 
+o avanço do conhecimento. Servindo como uma ferramenta eficaz de promoção, destaca 
+realizações acadêmicas, pesquisas inovadoras e projetos impactantes na comunidade e na 
+sociedade em geral, utilizando uma apresentação visualmente atraente e conteúdo informativo 
+como vitrine para a excelência da Fatec – REVISTAS PROSPECTUS 
+Responsável: 
+<nome> Profa. Ma. Renata Oliveira Pires de Souza 
+Qde CH/sem: 
+5 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome>  
+Qde CH/sem: 
+ 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome>  
+Qde CH/sem: 
+ 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/02/2024 
+Data final: 
+31/07/2024 
+Etapas do processo: 
+01- Semana 1 = Divulgação da revista visando obter submissões de artigos  
+Semana 2 = Divulgação da revista visando obter submissões de artigos  
+Semana 3 = Divulgação da revista visando obter submissões de artigos  
+Semana 4 = Divulgação da revista visando obter submissões de artigos, 
+envio de artigos para avaliação 
+01/02 
+29/02 
+ 
+02- Semana 1 = Divulgação da revista visando obter submissões de artigos, 
+envio de artigos para avaliação, resposta à autores sobre decisão bem 
+como orientação de correções a serem feitas (quando necessário) 
+Semana 2 = Divulgação da revista visando obter submissão. 
+01/03 
+31/03 
+ 
+03- Semana 1 = Divulgação da revista visando obter submissões de artigos, 
+envio de artigos para avaliação, resposta à autores sobre decisão bem 
+como orientação de correções a serem feitas (quando necessário) 
+Semana 2 = Divulgação da revista visando obter submissão. 
+01/04 
+30/04 
+ 
+04- Semana 1 = Divulgação da revista visando obter submissões de artigos, 
+envio de artigos para avaliação, resposta à autores sobre decisão bem 
+como orientação de correções a serem feitas (quando necessário) 
+Semana 2 = Divulgação da revista visando obter submissão. 
+01/05 
+31/05 
+ 
+05- Semana 1 = Divulgação da revista visando obter submissões de artigos, 
+envio de artigos para avaliação, resposta à autores sobre decisão bem 
+como orientação de correções a serem feitas (quando necessário). 
+Semana 2 = Edição dos textos de artigos, criação de DOI, agendamento no 
+sistema para publicação. 
+Semana 3 = Edição dos textos de artigos, criação de DOI, agendamento no 
+sistema para publicação. 
+Semana 4 = Edição dos textos de artigos, criação de DOI, agendamento no 
+sistema para publicação. 
+01/06 
+30/06 
+ 
+06- Semana 1 = Publicação da Revista 
+Semana 2 = Divulgação da revista publicada na comunidade 
+Semana 3 = Divulgação da revista publicada na comunidade 
+Semana 4 = Divulgação da revista publicada na comunidade 
+01/07 
+31/07 
+ 
+07-  
+ 
+ 
+ 
+08-  
+ 
+ 
+Custo R$ (se houver): 
+ 
+Fonte(s) dos recursos: 
+Centro Paula Souza 
+Situação problema: 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+(a ser resolvida/mitigada) 
+cat 0.1.08 - Participação da comunidade e sociedade 
+X 
+X 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+A3 - cat 1.13 - Estágio 
+Origem: 
+3-Outra 
+O que será feito: 
+1) 
+Atender às demandas sociais e do mercado de trabalho. 
+2) 
+Obter a satisfação dos públicos que se relacionam com o Centro Paula Souza 
+(stakeholders). 
+3) 
+Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem5)
+ 
+Garantir celeridade e efetividade na prestação de serviços. 
+6) 
+Formar profissionais atualizados em tecnologias e processos produtivos, capazes de 
+atuar no desenvolvimento tecnológico e inovação. 
+7) 
+Promover a cultura de inovação e empreendedorismo. 
+8) 
+Aumentar a eficiência, a produtividade e a competitividade da instituição. 
+9) 
+Ampliar a oferta da Educação Profissional.  
+A. 
+Integrar as diferentes modalidades de ensino, otimizando itinerários e tempo para a 
+formação profissional. 
+B. 
+Inovar processos de ensino e aprendizagem para manter excelência diante do mercado.  
+Por que será feito: 
+Atender ao desenvolvimento das diretrizes de inovação para a Educação Profissional Tecnológica, 
+em consonância com as mudanças do mundo do trabalho, promover capacitações e atualizações 
+dos servidores, para assegurar a qualidade e a eficiência da Educação Profissional, até dezembro 
+de 2024. Espera-se promover a criação de 1 Grupo de pesquisa científico tecnológico em 2024. 
+Este projeto visa dar continuidade às orientações de estágio supervisionado e à organização 
+dessas atividades na Fatec Itapira "Ogari de Castro Pacheco". A organização inclui a gestão de 
+convênios existentes e novos, análise e assinatura de documentos pelos responsáveis (empresa e 
+direção da unidade), controle dos documentos ao longo do período de estágio dos alunos e 
+encerramento do processo, com a entrega dos documentos para a secretaria acadêmica ou 
+coordenação dos cursos arquivarem. O foco do projeto é fornecer suporte aos alunos e às 
+empresas, esclarecendo dúvidas relacionadas ao processo de estágio adotado pela unidade – 
+ESTÁGIO SUPERVISIONADO 
+Responsável: 
+<nome> Profa. Esp. Luciene Rela Arakaki Fuini 
+Qde CH/sem: 
+6 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome>  
+Qde CH/sem: 
+ 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome>  
+Qde CH/sem: 
+ 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/02/2024 
+Data final: 
+31/07/2024 
+Etapas do processo: 
+01- Atendimento aos alunos, empresas e orientadores quanto à possíveis 
+dúvidas com relação ao processo de estágio adotado pela IES. 
+Análise dos documentos entregues das empresas, orientadores e alunos. 
+Realizar a abertura ou fechamento dos estágios. 
+01/02 
+29/02 
+ 
+02- Atendimento aos alunos, empresas e orientadores quanto à possíveis 
+dúvidas com relação ao processo de estágio adotado pela IES. 
+Análise dos documentos entregues das empresas, orientadores e alunos. 
+Realizar a abertura ou fechamento dos estágios 
+01/03 
+31/03 
+ 
+03- Término de contrato - Atendimento aos alunos, empresas e 
+orientadores quanto à possíveis dúvidas com relação ao processo de 
+estágio adotado pela IES. 
+Análise dos documentos entregues das empresas, orientadores e alunos. 
+01/04 
+30/04 
+ 
+04- Atendimento aos alunos, empresas e orientadores quanto à possíveis 
+dúvidas com relação ao processo de estágio adotado pela IES. 
+Análise dos documentos entregues das empresas, orientadores e alunos. 
+Realizar a abertura ou fechamento dos estágios. 
+01/05 
+31/05 
+ 
+05- Atendimento aos alunos, empresas e orientadores quanto à possíveis 
+dúvidas com relação ao processo de estágio adotado pela IES. 
+Análise dos documentos entregues das empresas, orientadores e alunos. 
+Realizar a abertura ou fechamento dos estágios. 
+01/06 
+30/06 
+ 
+06- Atendimento aos alunos, empresas e orientadores quanto à possíveis 
+dúvidas com relação ao processo de estágio adotado pela IES. 
+Análise dos documentos entregues das empresas, orientadores e alunos. 
+Realizar a abertura ou fechamento dos estágios. 
+01/07 
+31/07 
+ 
+07-  
+ 
+ 
+ 
+08-  
+ 
+ 
+Custo R$ (se houver): 
+ 
+Fonte(s) dos recursos: 
+Centro Paula Souza 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+A4 - cat 1.13 - Estágio 
+Origem: 
+3-Outra 
+O que será feito: 
+1) 
+Atender às demandas sociais e do mercado de trabalho. 
+2) 
+Obter a satisfação dos públicos que se relacionam com o Centro Paula Souza 
+(stakeholders). 
+3) 
+Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem5)
+ 
+Garantir celeridade e efetividade na prestação de serviços. 
+6) 
+Formar profissionais atualizados em tecnologias e processos produtivos, capazes de 
+atuar no desenvolvimento tecnológico e inovação. 
+7) 
+Promover a cultura de inovação e empreendedorismo. 
+8) 
+Aumentar a eficiência, a produtividade e a competitividade da instituição. 
+9) 
+Ampliar a oferta da Educação Profissional.  
+A. 
+Integrar as diferentes modalidades de ensino, otimizando itinerários e tempo para a 
+formação profissional. 
+B. 
+Inovar processos de ensino e aprendizagem para manter excelência diante do mercado. 
+Por que será feito: 
+Oferecer ao aluno a oportunidade de vivenciar o que aprendeu nas aulas e, como consequência, 
+diferenciar-se na sua formação e garantir sua empregabilidade. A realização de um estágio 
+profissional é muito maior do que o simples cumprimento de uma obrigação curricular 
+acadêmica. É uma atividade tão importante na formação profissional que a Lei nº 11.788, de 25 
+de setembro de 2008, define o Estágio como o ato educativo escolar supervisionado, 
+desenvolvido no ambiente de trabalho, que visa à preparação de estudantes em situações reais 
+de trabalho relacionados à sua área – ESTÁGIO SUPERVISIONADO  
+Responsável: 
+<nome> Prof. Esp. José Gonçalves Pinto Júnior  
+Qde CH/sem: 
+6 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome>  
+Qde CH/sem: 
+ 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome>  
+Qde CH/sem: 
+ 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/02/2024 
+Data final: 
+31/07/2024 
+Etapas do processo: 
+01- Reuniões de orientação sobre o projeto de estágio. 
+Aula expositiva sobre elaboração do relatório de estágio. 
+01/02 
+29/02 
+ 
+02- Aula expositiva sobre elaboração do relatório de estágio. 
+Acompanhamento das atividades desenvolvidas no estágio. 
+01/03 
+31/03 
+ 
+03-  Orientação de elaboração de relatório de estágio. 
+Acompanhamento das atividades desenvolvidas no estágio. 
+01/04 
+30/04 
+ 
+04- Correções em prévia de relatório de estágio. 
+Acompanhamento das atividades desenvolvidas no estágio. 
+01/05 
+31/05 
+ 
+05- Correções em prévia de relatório de estágio. 
+Acompanhamento das atividades desenvolvidas no estágio. 
+01/06 
+30/06 
+ 
+06- Entrega do relatório de estágio. 
+01/07 
+31/07 
+ 
+07-  
+ 
+ 
+ 
+08-  
+ 
+ 
+Custo R$ (se houver): 
+ 
+Fonte(s) dos recursos: 
+Centro Paula Souza  
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+A5 - cat 1.13 - Estágio 
+Origem: 
+3-Outra 
+O que será feito: 
+1) 
+Atender às demandas sociais e do mercado de trabalho. 
+2) 
+Obter a satisfação dos públicos que se relacionam com o Centro Paula Souza 
+(stakeholders). 
+3) 
+Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem5)
+ 
+Garantir celeridade e efetividade na prestação de serviços. 
+6) 
+Formar profissionais atualizados em tecnologias e processos produtivos, capazes de 
+atuar no desenvolvimento tecnológico e inovação. 
+7) 
+Promover a cultura de inovação e empreendedorismo. 
+8) 
+Aumentar a eficiência, a produtividade e a competitividade da instituição. 
+9) 
+Ampliar a oferta da Educação Profissional.  
+A. 
+Integrar as diferentes modalidades de ensino, otimizando itinerários e tempo para a 
+formação profissional. 
+B. 
+Inovar processos de ensino e aprendizagem para manter excelência diante do mercado. 
+Por que será feito: 
+Efetuar a divulgação aos alunos em sala de aulas no início do semestre, com divulgação regras 
+gerais do estágio, quanto ao seu cumprimento via estágio supervisionado (agentes mediadores 
+(Nube, Ciee), ou Concedente (empresas ligadas diretamente a Fatec), ou através de equivalência 
+profissional (considerando atividades exercidas concomitante ao curso pelo aluno em empresas, 
+que tenham relação direta a áreas e conhecimento curriculares do curso de gestão empresarial). 
+- CLT, MEI, Estatutário, ou sócio de empresa. (gerente) – ESTÁGIO SUPERVISIONADO 
+Responsável: 
+Prof. Me. Wladimir José Camillo Menegassi 
+Qde CH/sem: 
+6 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+01/02/0024 
+Data final: 
+31/07/2024 
+Etapas do processo: 
+01- Divulgação do item curricular de estágio a todos os alunos a partir do 
+3o período.  Orientação quanto ao calendário de matriculas, e quando da 
+extensão deste especificamente ao item curricular estágio, em trabalho 
+coordenado junto a secretaria acadêmica e coordenação do curso. 
+Disponibilizar aos alunos a maneira de obter os formulários de estágio 
+supervisionado concedente, e de equivalência profissional do curso de 
+Gestão Empresarial. 
+01/02 
+29/02 
+ 
+02- Trabalho de acompanhamento dos alunos matriculados, e divisão 
+entre os grupos de estágio ou equivalência em andamento, para 
+conclusão, e daqueles que devem passar pela etapa de formalização dos 
+documentos necessários a iniciar as atividades de Estágio. 
+01/03 
+31/03 
+ 
+03- Continuar as atividades realizadas em março, quanto aos alunos que 
+estarão iniciando o estágio. Disponibilizar aos alunos que estão em fase de 
+conclusão de estágio, o preenchimento do relatório semestral ou 
+conclusivo, conforme modelos homologados pela Fatec Itapira. 
+01/04 
+30/04 
+ 
+04- Continuar as atividades realizadas em março, quanto aos alunos que 
+estarão iniciando o estágio. Disponibilizar aos alunos que estão em fase de 
+conclusão de estágio, o preenchimento do relatório semestral ou 
+conclusivo, conforme modelos homologados pela Fatec Itapira. 
+01/05 
+31/05 
+ 
+05- Continuar as atividades realizadas em março, quanto aos alunos que 
+estarão iniciando o estágio. Disponibilizar aos alunos que estão em fase de 
+conclusão de estágio, o preenchimento do relatório semestral ou 
+conclusivo, conforme modelos homologados pela Fatec Itapira. 
+Posicionar a coordenação do curso, e a diretoria a relação de alunos 
+matriculados e ativos quanto ao item curricular estágio, conforme a 
+modalidade (estágio supervisionado ou equivalência), e quanto as fases 
+(documentação inicial, cumprimento de estágio, conclusão). 
+01/06 
+30/06 
+ 
+06- Continuar as atividades realizadas em março, quanto aos alunos que 
+estarão iniciando o estágio. Disponibilizar aos alunos que estão em fase de 
+conclusão de estágio, o preenchimento do relatório semestral ou 
+conclusivo, conforme modelos homologados pela Fatec Itapira. 
+01/07 
+31/07 
+Custo R$ (se houver): 
+ 
+Fonte(s) dos recursos: 
+Centro Paula Souza 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+A6 - cat 1.13 - Estágio 
+Origem: 
+3-Outra 
+O que será feito: 
+1) 
+Atender às demandas sociais e do mercado de trabalho. 
+2) 
+Obter a satisfação dos públicos que se relacionam com o Centro Paula Souza 
+(stakeholders). 
+3) 
+Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem5)
+ 
+Garantir celeridade e efetividade na prestação de serviços. 
+6) 
+Formar profissionais atualizados em tecnologias e processos produtivos, capazes de 
+atuar no desenvolvimento tecnológico e inovação. 
+7) 
+Promover a cultura de inovação e empreendedorismo. 
+8) 
+Aumentar a eficiência, a produtividade e a competitividade da instituição. 
+9) 
+Ampliar a oferta da Educação Profissional.  
+A. 
+Integrar as diferentes modalidades de ensino, otimizando itinerários e tempo para a 
+formação profissional. 
+B. 
+Inovar processos de ensino e aprendizagem para manter excelência diante do mercado. 
+Por que será feito: 
+Auxiliar os alunos a elaborarem a documentação para concepção de estágio. Normalmente os 
+alunos tem dificuldade de dar o devido andamento administrativo/acadêmico nas questões de 
+estágio e a proposta é a de auxiliá-los nesta tarefa – ESTÁGIO SUPERVISIONADO 
+Responsável: 
+Prof. Dr. Hermas Amaral Germek 
+Qde CH/sem: 
+6 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+01/02/2024 
+Data final: 
+31/07/2024 
+Etapas do processo: 
+01- Divulgação e atendimento semanal. 
+01/02 
+29/02 
+ 
+02- Divulgação e atendimento semanal. 
+01/03 
+31/03 
+ 
+03- Divulgação e atendimento semanal. 
+01/04 
+30/04 
+ 
+04- Divulgação e atendimento semanal. 
+01/05 
+31/05 
+ 
+05- Divulgação, atendimento e arquivamento. 
+01/06 
+30/06 
+ 
+06- Emissão de relatório final e atestado de aprovação para o lançamento 
+no SIGA dos alunos aprovados em estágio da Fatec de Itapira. 
+01/07 
+31/07 
+Custo R$ (se houver): 
+ 
+Fonte(s) dos recursos: 
+Centro Paula Souza 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+A7 - cat.1.99 - Outra 
+Origem: 
+3-Outra 
+O que será feito: 
+1) 
+Atender às demandas sociais e do mercado de trabalho. 
+2) 
+Obter a satisfação dos públicos que se relacionam com o Centro Paula Souza 
+(stakeholders). 
+3) 
+Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem. 
+6) 
+Formar profissionais atualizados em tecnologias e processos produtivos, capazes de 
+atuar no desenvolvimento tecnológico e inovação. 
+7) 
+Promover a cultura de inovação e empreendedorismo. 
+8) 
+Aumentar a eficiência, a produtividade e a competitividade da instituição. 
+9) 
+Ampliar a oferta da Educação Profissional. 
+A. 
+Integrar as diferentes modalidades de ensino, otimizando itinerários e tempo para a 
+formação profissional. 
+B. 
+Inovar processos de ensino e aprendizagem para manter excelência diante do mercado. 
+Por que será feito: 
+Orientar e acompanhar os alunos nos trabalhos de graduação TG I e II – TRABALHO DE 
+GRADUAÇÃO 
+Responsável: 
+Prof. Me. Carlos Roberto de Jesus 
+Qde CH/sem: 
+1 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+01/02/2024 
+Data final: 
+31/07/2024 
+Etapas do processo: 
+01- Definição dos grupos e direcionamento das pesquisas. 
+01/02 
+29/02 
+ 
+02- Desenvolvimento do trabalho 
+01/03 
+31/03 
+ 
+03- Desenvolvimento do trabalho  
+01/04 
+30/04 
+ 
+04- Desenvolvimento do trabalho  
+01/05 
+31/05 
+ 
+05- Finalização e apresentação do trabalho para envio a banca 
+01/06 
+30/06 
+ 
+06- Entrega final e apresentação para Banca 
+01/07 
+31/07 
+Custo R$ (se houver): 
+ 
+Fonte(s) dos recursos: 
+Centro Paula Souza 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+A8 - cat.1.99 - Outra 
+Origem: 
+3-Outra 
+O que será feito: 
+1) 
+Atender às demandas sociais e do mercado de trabalho. 
+2) 
+Obter a satisfação dos públicos que se relacionam com o Centro Paula Souza 
+(stakeholders). 
+3) 
+Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem. 
+6) 
+Formar profissionais atualizados em tecnologias e processos produtivos, capazes de 
+atuar no desenvolvimento tecnológico e inovação. 
+7) 
+Promover a cultura de inovação e empreendedorismo. 
+8) 
+Aumentar a eficiência, a produtividade e a competitividade da instituição. 
+9) 
+Ampliar a oferta da Educação Profissional. 
+A. 
+Integrar as diferentes modalidades de ensino, otimizando itinerários e tempo para a 
+formação profissional. 
+B. 
+Inovar processos de ensino e aprendizagem para manter excelência diante do mercado. 
+Por que será feito: 
+Orientar e preparar alunos para o desenvolvimento dos Trabalhos de Graduação. Necessidade de 
+orientação individualizada e incentivo aos alunos para o desenvolvimento dos Trabalhos de 
+Graduação, necessidade de estímulo, apoio e orientação/acompanhamento semanal – 
+TRABALHO DE GRADUAÇÃO 
+Responsável: 
+Profa. Esp. Daiane de Fátima Pavinatto de Almeida 
+Qde CH/sem: 
+1 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/02/2024 
+Data final: 
+31/07/2024 
+Etapas do processo: 
+01- Revisão da literatura para embasamento e elaboração do referencial 
+teórico dos TGs. Na continuidade do TG II, complementação do referencial 
+teórico e revisão geral do TG1. 
+01/02 
+29/02 
+ 
+02- Revisão da literatura para embasamento e elaboração do referencial 
+teórico dos TGs. Na continuidade do TG II, finalização do referencial teórico 
+e revisão geral do TG1. Elaboração de questionários e roteiros de 
+entrevista (foco na parte prática do trabalho). 
+01/03 
+31/03 
+ 
+03- Realização das entrevistas e aplicação dos questionários. 
+01/04 
+30/04 
+ 
+04- Tabulação dos resultados e análises, elaboração de relatórios e análises 
+dos dados, para fazer conexão do conteúdo, pesquisa bibliográfica e 
+metodologia. 
+01/05 
+31/05 
+ 
+05- Revisão geral do trabalho, referências bibliográficas, correção e 
+formatação, sumário, listas de quadros, tabelas e figuras, elaboração de 
+anexos. Análise de resultados e considerações finais. 
+01/06 
+30/06 
+ 
+06- Finalização do trabalho, no TG II resumo, abstract dedicatórias e 
+elaboração da apresentação para a banca. Entrega do trabalho corrigido e 
+formatado. Ensaio e preparo para as apresentações. Finalização do 
+semestre de trabalho de orientação. Composição das bancas. 
+01/07 
+31/07 
+Custo R$ (se houver): 
+ 
+Fonte(s) dos recursos: 
+Centro Paula Souza 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+A9 - cat.1.99 - Outra 
+Origem: 
+3-Outra 
+O que será feito: 
+1) 
+Atender às demandas sociais e do mercado de trabalho. 
+2) 
+Obter a satisfação dos públicos que se relacionam com o Centro Paula Souza 
+(stakeholders). 
+3) 
+Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem. 
+6) 
+Formar profissionais atualizados em tecnologias e processos produtivos, capazes de 
+atuar no desenvolvimento tecnológico e inovação. 
+7) 
+Promover a cultura de inovação e empreendedorismo. 
+8) 
+Aumentar a eficiência, a produtividade e a competitividade da instituição. 
+9) 
+Ampliar a oferta da Educação Profissional. 
+A. 
+Integrar as diferentes modalidades de ensino, otimizando itinerários e tempo para a 
+formação profissional. 
+B. 
+Inovar processos de ensino e aprendizagem para manter excelência diante do mercado. 
+Por que será feito: 
+Orientar de Trabalhos de Graduação. Trabalhos na área de Gestão da Produção Industrial – 
+TRABALHO DE GRADUAÇÃO 
+Responsável: 
+Prof. Me. Douglas Ferreira Goios 
+Qde CH/sem: 
+1 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/02/2024 
+Data final: 
+31/07/2024 
+Etapas do processo: 
+01- Orientação e definição do tema 
+01/02 
+dd/mm 
+ 
+02- Desenvolvimento do TG 
+01/03 
+dd/mm 
+ 
+03- Desenvolvimento do TG 
+01/04 
+dd/mm 
+ 
+04- Desenvolvimento do TG 
+01/05 
+dd/mm 
+ 
+05- Conclusão do TG 
+01/06 
+dd/mm 
+ 
+06- Apresentação do TG 
+01/07 
+dd/mm 
+Custo R$ (se houver): 
+ 
+Fonte(s) dos recursos: 
+Centro Paula Souza 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+A10 - cat.1.99 - Outra 
+Origem: 
+3-Outra 
+O que será feito: 
+1) 
+Atender às demandas sociais e do mercado de trabalho. 
+2) 
+Obter a satisfação dos públicos que se relacionam com o Centro Paula Souza 
+(stakeholders). 
+3) 
+Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem. 
+6) 
+Formar profissionais atualizados em tecnologias e processos produtivos, capazes de 
+atuar no desenvolvimento tecnológico e inovação. 
+7) 
+Promover a cultura de inovação e empreendedorismo. 
+8) 
+Aumentar a eficiência, a produtividade e a competitividade da instituição. 
+9) 
+Ampliar a oferta da Educação Profissional. 
+A. 
+Integrar as diferentes modalidades de ensino, otimizando itinerários e tempo para a 
+formação profissional. 
+B. 
+Inovar processos de ensino e aprendizagem para manter excelência diante do mercado. 
+Por que será feito: 
+Acompanhar os alunos na elaboração do trabalho de conclusão de curso. Normalmente os alunos 
+têm dificuldade de organização o TG dentro das normas da ABNT e da Fatec de Itapira e a 
+proposta é a ajudar da estrutura do TG adequadamente – TRABALHO DE GRADUAÇÃO 
+Responsável: 
+Prof. Dr. Hermas Amaral Germek 
+Qde CH/sem: 
+1 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+01/02/2024 
+Data final: 
+31/07/2024 
+Etapas do processo: 
+01- Definição do tema e estruturação 
+01/02 
+29/02 
+ 
+02- Levantamento bibliográfico e início da redação 
+01/03 
+31/03 
+ 
+03- Organização da redação de acordo com as normas vigentes 
+01/04 
+30/04 
+ 
+04- Organização da redação de acordo com as normas vigentes 
+01/05 
+31/05 
+ 
+05- Redação final do TG e elaboração da apresentação à Banca 
+examinadora 
+01/06 
+30/06 
+ 
+06- Ajustes finais do TG 
+01/07 
+31/07 
+Custo R$ (se houver): 
+ 
+Fonte(s) dos recursos: 
+Centro Paula Souza 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+A11 - cat.1.99 - Outra 
+Origem: 
+3-Outra 
+O que será feito: 
+1) 
+Atender às demandas sociais e do mercado de trabalho. 
+2) 
+Obter a satisfação dos públicos que se relacionam com o Centro Paula Souza 
+(stakeholders). 
+3) 
+Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem. 
+6) 
+Formar profissionais atualizados em tecnologias e processos produtivos, capazes de 
+atuar no desenvolvimento tecnológico e inovação. 
+7) 
+Promover a cultura de inovação e empreendedorismo. 
+8) 
+Aumentar a eficiência, a produtividade e a competitividade da instituição. 
+9) 
+Ampliar a oferta da Educação Profissional. 
+A. 
+Integrar as diferentes modalidades de ensino, otimizando itinerários e tempo para a 
+formação profissional. 
+B. 
+Inovar processos de ensino e aprendizagem para manter excelência diante do mercado. 
+Por que será feito: 
+Orientar os alunos para o desenvolvimento do Trabalho de Graduação, contribuindo para sua 
+formação. A orientação aos alunos para o desenvolvimento do Trabalho de Graduação contribui 
+para sua formação, para o aprendizado sobre o processo de pesquisa, agregação de conteúdo na 
+literatura, melhoria da compreensão sobre os temas abordados ao longo do curso e para a 
+aplicação dos conceitos no mercado de trabalho, contribuindo para o desenvolvimento 
+tecnológico e social da região – TRABALHO DE GRADUAÇÃO 
+Responsável: 
+Prof. Esp. Rodrigo Franco de Lima 
+Qde CH/sem: 
+2 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+01/02/2024 
+Data final: 
+31/07/2024 
+Etapas do processo: 
+01- Alinhamento sobre o calendário, expectativas, possibilidades de temas, 
+canais de comunicação e etapas do projeto com o aluno. 
+01/02 
+29/02 
+ 
+02- Orientação do aluno para desenvolvimento do Trabalho de Graduação. 
+01/03 
+31/03 
+ 
+03- Orientação do aluno para desenvolvimento do Trabalho de Graduação. 
+01/04 
+30/04 
+ 
+04- Orientação do aluno para desenvolvimento do Trabalho de Graduação. 
+01/05 
+31/05 
+ 
+05- Orientação do aluno para desenvolvimento do Trabalho de Graduação 
+e apresentação. 
+01/06 
+30/06 
+ 
+06- Orientação do aluno para desenvolvimento do Trabalho de Graduação 
+e apresentação. 
+01/07 
+31/07 
+Custo R$ (se houver): 
+ 
+Fonte(s) dos recursos: 
+Centro Paula Souza 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+A12- cat.1.99 - Outra 
+Origem: 
+3-Outra 
+O que será feito: 
+1) 
+Atender às demandas sociais e do mercado de trabalho. 
+2) 
+Obter a satisfação dos públicos que se relacionam com o Centro Paula Souza 
+(stakeholders). 
+3) 
+Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem. 
+6) 
+Formar profissionais atualizados em tecnologias e processos produtivos, capazes de 
+atuar no desenvolvimento tecnológico e inovação. 
+7) 
+Promover a cultura de inovação e empreendedorismo. 
+8) 
+Aumentar a eficiência, a produtividade e a competitividade da instituição. 
+9) 
+Ampliar a oferta da Educação Profissional. 
+A. 
+Integrar as diferentes modalidades de ensino, otimizando itinerários e tempo para a 
+formação profissional. 
+B. 
+Inovar processos de ensino e aprendizagem para manter excelência diante do mercado. 
+Por que será feito: 
+Melhorar os processos produtivos. Eficiência produtiva/custos – TRABALHO DE GRADUAÇÃO 
+Responsável: 
+Prof. Esp. Tarcis Andrade da Silva 
+Qde CH/sem: 
+1 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/02/2024 
+Data final: 
+D31/07/2024 
+Etapas do processo: 
+01- Pesquisa 1 
+01/02 
+29/02 
+ 
+02- Pesquisa 2 
+01/03 
+31/03 
+ 
+03- Pesquisa 3 
+01/04 
+30/04 
+ 
+04- Pesquisa 4 
+01/05 
+31/05 
+ 
+05- Pesquisa 5 
+01/06 
+30/06 
+ 
+06- Pesquisa 6 
+01/07 
+31/07 
+Custo R$ (se houver): 
+ 
+Fonte(s) dos recursos: 
+Centro Paula Souza 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+A13 - cat.1.99 - Outra 
+Origem: 
+3-Outra 
+O que será feito: 
+1) 
+Atender às demandas sociais e do mercado de trabalho. 
+2) 
+Obter a satisfação dos públicos que se relacionam com o Centro Paula Souza 
+(stakeholders). 
+3) 
+Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem. 
+6) 
+Formar profissionais atualizados em tecnologias e processos produtivos, capazes de 
+atuar no desenvolvimento tecnológico e inovação. 
+7) 
+Promover a cultura de inovação e empreendedorismo. 
+8) 
+Aumentar a eficiência, a produtividade e a competitividade da instituição. 
+9) 
+Ampliar a oferta da Educação Profissional. 
+A. 
+Integrar as diferentes modalidades de ensino, otimizando itinerários e tempo para a 
+formação profissional. 
+B. 
+Inovar processos de ensino e aprendizagem para manter excelência diante do mercado. 
+Por que será feito: 
+Orientar trabalhos de graduação em fase de projeto e em fase final, fomentando o tripé da 
+educação superior gratuita: pesquisa, ensino e extensão e derivar, de pelo menos um desses TGs, 
+um bom artigo para a publicação na revista da unidade, a Prospectus. O trabalho de graduação 
+permite o desenvolvimento de uma postura crítica por parte do aluno, além de ser um pré-
+requisito para sua formação – TRABALHO DE GRADUAÇÃO 
+Responsável: 
+Profa. Dra. Janaina Olsen Rodrigues 
+Qde CH/sem: 
+4 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+01/02/2024 
+Data final: 
+31/072024 
+Etapas do processo: 
+01- Estabelecimento das orientações através das assinaturas do termo de 
+orientação e abordagem dos alunos a serem orientados. Delineamento do 
+trabalho e da temática. 
+01/02 
+29/02 
+ 
+02- Redação da introdução, justificativa, objetivos e da situação-problema. 
+01/03 
+31/03 
+ 
+03- Redação da metodologia do trabalho e coleta de dados e referências. 
+01/04 
+30/04 
+ 
+04- Redação da fundamentação teórica do trabalho e dos resultados 
+(parciais/finais). 
+01/05 
+31/05 
+ 
+05- Revisão do texto e escrita das considerações finais, além de ajustes nas 
+partes pré-textuais (capa, agradecimentos, epígrafe, etc). 
+01/06 
+30/06 
+ 
+06- Entrega e apresentação do trabalho à banca. 
+01/07 
+31/07 
+Custo R$ (se houver): 
+R$ 36,18 cada HAE 
+Fonte(s) dos recursos: 
+Centro Paula Souza 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+A14 - cat.1.99 - Outra 
+Origem: 
+3-Outra 
+O que será feito: 
+1) 
+Atender às demandas sociais e do mercado de trabalho. 
+2) 
+Obter a satisfação dos públicos que se relacionam com o Centro Paula Souza 
+(stakeholders). 
+3) 
+Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem. 
+6) 
+Formar profissionais atualizados em tecnologias e processos produtivos, capazes de 
+atuar no desenvolvimento tecnológico e inovação. 
+7) 
+Promover a cultura de inovação e empreendedorismo. 
+8) 
+Aumentar a eficiência, a produtividade e a competitividade da instituição. 
+9) 
+Ampliar a oferta da Educação Profissional. 
+A. 
+Integrar as diferentes modalidades de ensino, otimizando itinerários e tempo para a 
+formação profissional. 
+B. 
+Inovar processos de ensino e aprendizagem para manter excelência diante do mercado. 
+Por que será feito: 
+Orientar os alunos na realização dos Trabalhos de Graduação, como requisito parcial para 
+obtenção dos títulos de Tecnólogo dos Cursos Superiores de Tecnologia em Gestão da Produção 
+Industrial e em Gestão Empresarial. Este projeto objetiva sugerir, propor, orientar e avaliar o 
+trabalho desenvolvido pelo discentes para que atenda aos critérios da pesquisa científica 
+tecnológica, desde a elaboração do projeto até a apresentação e a defesa do trabalho de 
+conclusão de curso, conforme tema de livre escolha do discente. 
+Neste escopo cabem as seguintes atividades: 
+a) avaliar a relevância e as condições de execução do tema proposto pelo aluno; 
+b) acompanhar a elaboração da proposta do projeto, bem como as etapas de seu 
+desenvolvimento; 
+c) orientar o aluno, quando necessário, na reelaboração de projeto de pesquisa e sugerir, se for o 
+caso, indicações bibliográficas e as fontes de dados disponíveis em instituições públicas ou 
+particulares ou da produção de dados oriundos de trabalho de campo; 
+d) atender, individualmente, cada aluno para orientação e avaliação do trabalho de pesquisa com 
+a finalidade de preservar a articulação entre a teoria e a pratica para a produção de um Trabalho 
+de Graduação – TRABALHO DE GRADUAÇÃO 
+Responsável: 
+Prof. Dr. José Celso Sobreiro Dias 
+Qde CH/sem: 
+2 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+01/02/2024 
+Data final: 
+31/07/2024 
+Etapas do processo: 
+01- Orientação e redação do projeto. 
+01/02 
+29/02 
+ 
+02- Orientação e redação do projeto. 
+01/03 
+31/03 
+ 
+03- Orientação e redação do projeto. 
+01/04 
+30/04 
+ 
+04- Orientação e redação do projeto. 
+01/05 
+31/05 
+ 
+05- Revisão do trabalho realização e acompanhamento da entrega aos 
+respectivos Coordenadores de Cursos. 
+01/06 
+30/06 
+ 
+06- Apresentação para as bancas conforme cronograma indicado pelas 
+Coordenações de Cursos. 
+01/07 
+31/07 
+Custo R$ (se houver): 
+ 
+Fonte(s) dos recursos: 
+Centro Paula Souza 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+A15 - cat.1.99 - Outra 
+Origem: 
+3-Outra 
+O que será feito: 
+1) 
+Atender às demandas sociais e do mercado de trabalho. 
+2) 
+Obter a satisfação dos públicos que se relacionam com o Centro Paula Souza 
+(stakeholders). 
+3) 
+Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem. 
+6) 
+Formar profissionais atualizados em tecnologias e processos produtivos, capazes de 
+atuar no desenvolvimento tecnológico e inovação. 
+7) 
+Promover a cultura de inovação e empreendedorismo. 
+8) 
+Aumentar a eficiência, a produtividade e a competitividade da instituição. 
+9) 
+Ampliar a oferta da Educação Profissional. 
+A. 
+Integrar as diferentes modalidades de ensino, otimizando itinerários e tempo para a 
+formação profissional. 
+B. 
+Inovar processos de ensino e aprendizagem para manter excelência diante do mercado. 
+Por que será feito: 
+Desenvolver e orientar os estudantes de graduação na elaboração de trabalhos de conclusão de 
+curso, fornecendo suporte acadêmico e metodológico, com o intuito de aprimorar suas 
+habilidades de pesquisa, escrita e apresentação. O projeto de orientação de trabalhos de 
+graduação proposto é fundamentado na necessidade crucial de fornecer aos estudantes uma 
+estrutura sólida e direcionada durante o processo de elaboração de seus trabalhos de conclusão 
+de curso. Muitos estudantes enfrentam dificuldades ao iniciar a elaboração de seus trabalhos de 
+conclusão de curso devido à complexidade das exigências acadêmicas, desde a escolha do tema 
+até a apresentação final. A orientação personalizada é essencial para superar esses desafios, 
+garantindo que cada estudante receba a assistência necessária para desenvolver um trabalho de 
+alta qualidade – TRABALHO DE GRADUAÇÃO 
+Responsável: 
+Profa. Ma. Renata Oliveira Pires de Souza 
+Qde CH/sem: 
+3 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+01/02/2024 
+Data final: 
+31/07/2024 
+Etapas do processo: 
+01-Semana 1 = definição do tema  
+Semana 2 = definição do objetivo 
+Semana 3 = indicação das teorias necessárias na fundamentação teórica  
+Semana 4 = orientações gerais sobre citação, norma abnt, envio de 
+trabalhos do mesmo tema para que se baseiem na escrita 
+01/02 
+29/02 
+ 
+02- Semana 1 = Orientações sobre introdução  
+Semana 2 = Desenvolvimento da introdução  
+Semana 3 = Correção da introdução e orientações sobre justificativa  
+Semana 4 = Desenvolvimento da justificativa nn 
+01/03 
+31/03 
+ 
+03- Semana 1 = Correção da Justificativa e orientações sobre problema de 
+pesquisa  
+Semana 2 = Desenvolvimento do problema de pesquisa  
+Semana 3 = Correção do problema de pesquisa  
+Semana 4 = Orientações sobre a fundamentação teórica 
+01/04 
+30/04 
+ 
+04- Semana 1 = Desenvolvimento da fundamentação teórica e correções 
+Semana 2 = Desenvolvimento da fundamentação teórica e correções 
+Semana 3 = Desenvolvimento da fundamentação teórica e correções 
+Semana 4 = Desenvolvimento da fundamentação teórica e correções 
+01/05 
+31/05 
+ 
+05- Semana 1 = Desenvolvimento da fundamentação teórica e correções 
+Semana 2 = Desenvolvimento da fundamentação teórica e correções 
+Semana 3 = Orientações e desenvolvimento sobre a metodologia 
+Semana 4 = Desenvolvimento da metodologia e correções 
+01/06 
+30/06 
+ 
+06- Semana 1 = Desenvolvimento da metodologia e correções 
+Semana 2 = Desenvolvimento da metodologia e correções 
+Semana 3 = Correções finais  
+Semana 4 = Orientações da apresentação e correções 
+01/07 
+31/07 
+Custo R$ (se houver): 
+ 
+Fonte(s) dos recursos: 
+Centro Paula Souza 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+A16 - cat.1.99 - Outra 
+Origem: 
+3-Outra 
+O que será feito: 
+1) 
+Atender às demandas sociais e do mercado de trabalho. 
+2) 
+Obter a satisfação dos públicos que se relacionam com o Centro Paula Souza 
+(stakeholders). 
+3) 
+Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem. 
+6) 
+Formar profissionais atualizados em tecnologias e processos produtivos, capazes de 
+atuar no desenvolvimento tecnológico e inovação. 
+7) 
+Promover a cultura de inovação e empreendedorismo. 
+8) 
+Aumentar a eficiência, a produtividade e a competitividade da instituição. 
+9) 
+Ampliar a oferta da Educação Profissional. 
+A. 
+Integrar as diferentes modalidades de ensino, otimizando itinerários e tempo para a 
+formação profissional. 
+B. 
+Inovar processos de ensino e aprendizagem para manter excelência diante do mercado. 
+Por que será feito: 
+Orientar elaboração do Trabalho de Graduação. Com o presente projeto eu pretendo auxiliar os 
+alunos que estão em fase de elaboração do trabalho de graduação, contribuindo com 
+orientações sobre a pesquisa, com discussões sobre os temas e também conduzindo a 
+apresentação da pesquisa. A tarefa básica da orientação de trabalho de graduação para o perfil 
+dos alunos da Fatec Itapira é organizar o tempo para a execução das tarefas, buscando conciliar 
+estas com os tempos do trabalho, dos estudos e da execução de atividades para as demais 
+disciplinas. Com a orientação realizada para o trabalho de graduação, os alunos passam a ter 
+maior confiança sobre o produto de seus estudos. Naturalmente, a defesa do trabalho de 
+graduação é um momento decisivo na vida profissional e pessoal dos discentes, que têm um 
+sentimento de ansiosidade e de falta de compreensão acerca das possibilidades ligadas ao 
+trabalho, desde a definição do tema até as variadas formas de conduzir as atividades até o 
+alcance dos objetivos. É, portanto, fundamental o acompanhamento de perto com esses alunos 
+que não têm a familiaridade suficiente com a linguagem acadêmica, mas que têm alto nível de 
+qualificação técnica em suas profissões – TRABALHO DE GRADUAÇÃO 
+Responsável: 
+Prof. Me. Rodrigo Lanzoni Fracarolli 
+Qde CH/sem: 
+4 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+01/02/2024 
+Data final: 
+31/07/2024 
+Etapas do processo: 
+01- Organização dos temas centrais.  Acompanhamento das orientações 
+das disciplinas de TG 1 e TG 2. 
+01/02 
+29/02 
+ 
+02- Elaboração da justificativa.  Acompanhamento das orientações das 
+disciplinas de TG 1 e TG 2. 
+01/03 
+31/03 
+ 
+03- Revisão bibliográfica.  Acompanhamento das orientações das 
+disciplinas de TG 1 e TG 2. 
+01/04 
+30/04 
+ 
+04- Revisão bibliográfica. Acompanhamento das orientações das disciplinas 
+de TG 1 e TG 2. 
+01/05 
+31/05 
+ 
+05- Desenvolvimento. Acompanhamento das orientações das disciplinas de 
+TG 1 e TG 2. 
+01/06 
+30/06 
+ 
+06- Considerações Finais. Acompanhamento das orientações das 
+disciplinas de TG 1 e TG 2. 
+01/07 
+31/07 
+Custo R$ (se houver): 
+ 
+Fonte(s) dos recursos: 
+Centro Paula Souza 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+A17 - cat.1.99 - Outra 
+Origem: 
+3-Outra 
+O que será feito: 
+1) 
+Atender às demandas sociais e do mercado de trabalho. 
+2) 
+Obter a satisfação dos públicos que se relacionam com o Centro Paula Souza 
+(stakeholders). 
+3) 
+Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem. 
+6) 
+Formar profissionais atualizados em tecnologias e processos produtivos, capazes de 
+atuar no desenvolvimento tecnológico e inovação. 
+7) 
+Promover a cultura de inovação e empreendedorismo. 
+8) 
+Aumentar a eficiência, a produtividade e a competitividade da instituição. 
+9) 
+Ampliar a oferta da Educação Profissional. 
+A. 
+Integrar as diferentes modalidades de ensino, otimizando itinerários e tempo para a 
+formação profissional. 
+B. 
+Inovar processos de ensino e aprendizagem para manter excelência diante do mercado. 
+Por que será feito: 
+Orientar a elaboração de trabalho de síntese criativa dos conhecimentos proporcionados pelas 
+disciplinas do Curso Superior de Tecnologia. Atendimento ao Regulamento do Trabalho de 
+Graduação (TG) dos Cursos de Tecnologia em Gestão da Tecnologia da Informação, Gestão da 
+Produção Industrial e Gestão Empresarial da Faculdade de Tecnologia de Itapira “Ogari de Castro 
+Pacheco” – TRABALHO DE GRADUAÇÃO 
+Responsável: 
+Prof. Esp. Vagner Ribeiro dos Santos 
+Qde CH/sem: 
+1 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+01/02/2024 
+Data final: 
+31/07/2024 
+Etapas do processo: 
+01- Elaboração e colher assinatura dos orientadores e orientados pela 
+Carta de Aceite de Orientador 
+01/02 
+29/02 
+ 
+02- Orientação do Trabalho de Graduação 
+01/03 
+31/03 
+ 
+03- Orientação do Trabalho de Graduação 
+01/04 
+30/04 
+ 
+04- Orientação do Trabalho de Graduação 
+01/05 
+31/05 
+ 
+05- Orientação do Trabalho de Graduação 
+01/06 
+30/06 
+ 
+06- Apresentação a Banca Examinadora 
+01/07 
+31/07 
+Custo R$ (se houver): 
+ 
+Fonte(s) dos recursos: 
+Centro Paula Souza 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+A18 - cat.1.99 - Outra 
+Origem: 
+3-Outra 
+O que será feito: 
+1) 
+Atender às demandas sociais e do mercado de trabalho. 
+2) 
+Obter a satisfação dos públicos que se relacionam com o Centro Paula Souza 
+(stakeholders). 
+3) 
+Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem. 
+6) 
+Formar profissionais atualizados em tecnologias e processos produtivos, capazes de 
+atuar no desenvolvimento tecnológico e inovação. 
+7) 
+Promover a cultura de inovação e empreendedorismo. 
+8) 
+Aumentar a eficiência, a produtividade e a competitividade da instituição. 
+9) 
+Ampliar a oferta da Educação Profissional. 
+A. 
+Integrar as diferentes modalidades de ensino, otimizando itinerários e tempo para a 
+formação profissional. 
+B. 
+Inovar processos de ensino e aprendizagem para manter excelência diante do mercado. 
+Por que será feito: 
+Orientar trabalhos de conclusão de curso (TCC) aos alunos do curso de Gestão de Tecnologia da 
+informação da Fatec Itapira. O desenvolvimento do trabalho de graduação é obrigatório para 
+obtenção do título do curso, dessa forma esta orientação tem como objetivo encaminhar o aluno 
+para a defesa e conclusão do curso – TRABALHO DE GRADUAÇÃO 
+Responsável: 
+Prof. Esp. Sandro Roberto Armelin 
+Qde CH/sem: 
+2 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+01/02/2024 
+Data final: 
+31/07/2024 
+Etapas do processo: 
+01- Definir com os grupos de alunos interessados nas orientações de TCC 
+com o tema da linha de pesquisa de interesse deste docente. Formalizar 
+junto aos grupos de alunos o termo de orientação. Orientações e 
+acompanhamento no desenvolvimento de trabalhos de conclusão de 
+curso. 
+01/02 
+29/02 
+ 
+02- Orientações e acompanhamento no desenvolvimento de trabalhos de 
+conclusão de curso. 
+01/03 
+31/03 
+ 
+03- Orientações e acompanhamento no desenvolvimento de trabalhos de 
+conclusão de curso. 
+01/04 
+30/04 
+ 
+04- Orientações e acompanhamento no desenvolvimento de trabalhos de 
+conclusão de curso. 
+01/05 
+31/05 
+ 
+05- Orientações e acompanhamento no desenvolvimento de trabalhos de 
+conclusão de curso. Orientações para elaboração das apresentações dos 
+trabalhos de conclusão de curso neste semestre. Participação de banca de 
+defesa e qualificação dos trabalhos de conclusão de curso do semestre. 
+01/06 
+30/06 
+ 
+06- Finalizando atividade e gerar relatórios sobre o desenvolvimento do 
+projeto. 
+01/07 
+31/07 
+Custo R$ (se houver): 
+ 
+Fonte(s) dos recursos: 
+Centro Paula Souza 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+A19 - cat.1.99 - Outra 
+Origem: 
+3-Outra 
+O que será feito: 
+1) 
+Atender às demandas sociais e do mercado de trabalho. 
+2) 
+Obter a satisfação dos públicos que se relacionam com o Centro Paula Souza 
+(stakeholders). 
+3) 
+Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem. 
+6) 
+Formar profissionais atualizados em tecnologias e processos produtivos, capazes de 
+atuar no desenvolvimento tecnológico e inovação. 
+7) 
+Promover a cultura de inovação e empreendedorismo. 
+8) 
+Aumentar a eficiência, a produtividade e a competitividade da instituição. 
+9) 
+Ampliar a oferta da Educação Profissional. 
+A. 
+Integrar as diferentes modalidades de ensino, otimizando itinerários e tempo para a 
+formação profissional. 
+B. 
+Inovar processos de ensino e aprendizagem para manter excelência diante do mercado. 
+Por que será feito: 
+Orientar alunos a desenvolver o Trabalho de Graduação I e II. Contribuir para a elaboração do 
+Trabalho de Graduação I e II. Reuniões de acompanhamento do trabalho; orientação da escrita 
+do Introdução, Objetivos e Justificativa, Revisão Bibliográfica, Desenvolvimento e Resultados 
+Obtidos – TRABALHO DE GRADUAÇÃO 
+Responsável: 
+Prof. Me. Thiago Salhab Alves 
+Qde CH/sem: 
+2 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+01/02/2024 
+Data final: 
+31/07/2024 
+Etapas do processo: 
+01- Escolha do Tema/Área 
+01/02 
+29/02 
+ 
+02- Introdução do Trabalho 
+01/03 
+31/03 
+ 
+03- Objetivos e Justificativa 
+01/04 
+30/04 
+ 
+04- Revisão Bibliográfica 
+01/05 
+31/05 
+ 
+05- Desenvolvimento 
+01/06 
+30/06 
+ 
+06- Resultados Obtidos / Apresentação do Projeto 
+01/07 
+31/07 
+Custo R$ (se houver): 
+ 
+Fonte(s) dos recursos: 
+Centro Paula Souza 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+A20 - cat.1.99 - Outra 
+Origem: 
+3-Outra 
+O que será feito: 
+1) 
+Atender às demandas sociais e do mercado de trabalho. 
+2) 
+Obter a satisfação dos públicos que se relacionam com o Centro Paula Souza 
+(stakeholders). 
+3) 
+Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem. 
+6) 
+Formar profissionais atualizados em tecnologias e processos produtivos, capazes de 
+atuar no desenvolvimento tecnológico e inovação. 
+7) 
+Promover a cultura de inovação e empreendedorismo. 
+8) 
+Aumentar a eficiência, a produtividade e a competitividade da instituição. 
+9) 
+Ampliar a oferta da Educação Profissional. 
+A. 
+Integrar as diferentes modalidades de ensino, otimizando itinerários e tempo para a 
+formação profissional. 
+B. 
+Inovar processos de ensino e aprendizagem para manter excelência diante do mercado. 
+Por que será feito: 
+Efetuar orientação de alunos do 5º e 6º período do curso de GTI, quanto ao desenvolvimento do 
+trabalho de graduação. Efetuar orientações metodológicas. Orientações sobre conteúdos 
+teóricos e do desenvolvimento do projeto de graduação conforme metodologia escolhida a ser 
+empregada. Os Alunos necessitam de orientação na formulação de ideias relevantes, e que 
+justifiquem devidamente o sucesso de seu trabalho de conclusão. Efetua orientações conforme o 
+tema e metodologia, de referências bibliográficas consagradas e relevantes, e outras que podem 
+complementar o trabalho conforme o tema. - Possibilitar ao aluno de GTI da Fatec Itapira 
+trabalhar com temas ligados a gestão e também a tecnologia da informação, e suas 
+aplicabilidades. Disponibilizar técnicas aos alunos quanto a ferramentas quando aplicáveis de 
+estatística descritiva, para elaboração de classes, fr, fi, acum, acum inversa, e interpretação de 
+dados, questionários e outros sobre o evento pesquisado, bem como a análise qualitativa quando 
+aplicável. Efetuar orientações aos alunos quando de pesquisa descritiva e outras, quanto a 
+maneira correta de colocar as aplicabilidades do referencial teórico as questões de 
+desenvolvimento do trabalho. Efetuar orientações quanto a resultados e discussões e 
+considerações finais. Seguir as regras da ABNT e as especificações especificas da Fatec Itapira 
+quanto a criação de todas as etapas do trabalho, na ordem especificada, e regras estabelecidas. 
+- Revisão do trabalho continua, e orientação aos alunos de maneira frequente e evolutiva, sem 
+deixar lapsos de tempo sem convívio acadêmico, o que traz possíveis insucessos quanto a 
+conclusão pelo aluno. Orientar ao aluno quando este depender de dados de fontes especificas, 
+quanto a concessão (termos e implicações), quanto a trabalhar e utilizar adequadamente e 
+metodologicamente tais informações – TRABALHO DE GRADUAÇÃO 
+Responsável: 
+Prof. Me. Wladimir José Camillo Menegassi 
+Qde CH/sem: 
+6 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+01/02/2024 
+Data final: 
+31/07/2024 
+Etapas do processo: 
+01- Contato com os alunos do curso, já orientandos que fizeram o TG1 
+aprovados, para sequência do trabalho para TG2, com elaboração de 
+cronograma de atividades e reuniões. Verificação com alunos que queiram 
+ser orientados por mim, com formalização da orientação do trabalho de 
+graduação, conforme alunos(as), temas e áreas escolhidas. 
+01/02 
+29/02 
+ 
+02- Contato com os alunos do curso, já orientandos que fizeram o TG1 
+aprovados, para sequência do trabalho para TG2, com elaboração de 
+cronograma de atividades e reuniões. Verificação com alunos que queiram 
+ser orientados por mim, com formalização das orientações. 
+01/03 
+31/03 
+ 
+03- Realização de sessões de orientação, e objetivos aos alunos (dupla ou 
+individual) do trabalho de graduação, quanto as atividades a concluir até a 
+próxima reunião. Validação e discussões quanto a sequência do trabalho, 
+divisão de tarefas. 
+01/04 
+30/04 
+ 
+04- Realização de sessões de orientação, e objetivos aos alunos (dupla ou 
+individual) do trabalho de graduação, quanto as atividades a concluir até a 
+próxima reunião. Validação e discussões quanto a sequência do trabalho, 
+divisão de tarefas. 
+01/05 
+31/05 
+ 
+05-Realização de sessões de orientação, e objetivos aos alunos (dupla ou 
+individual) do trabalho de graduação, quanto as atividades a concluir até a 
+próxima reunião. Validação e discussões quanto a sequência do trabalho, 
+divisão de tarefas conforme o perfil dos alunos do grupo dentre outras 
+variáveis conforme tema, ferramentas necessárias quando aplicável, etc. 
+Conclusão itens finais do trabalho como resultados e discussão, 
+considerações finais, introdução (revisão e ou construção / reconstrução) e 
+resumo, além das listas de tabelas, figuras, quadros, termos, etc. 
+Oficialização e entrega do trabalho para banca dos trabalhos de TG1 e TG2. 
+01/06 
+30/06 
+ 
+06- Realização de sessões de orientação, e objetivos aos alunos (dupla ou 
+individual) do trabalho de graduação, quanto as atividades a concluir até a 
+próxima reunião. 
+- Validação e discussões quanto a sequência do trabalho, divisão de 
+tarefas. 
+01/07 
+31/07 
+Custo R$ (se houver): 
+ 
+Fonte(s) dos recursos: 
+Centro Paula Souza 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+A21 - cat.1.99 - Outra 
+Origem: 
+3-Outra 
+O que será feito: 
+1) 
+Atender às demandas sociais e do mercado de trabalho. 
+2) 
+Obter a satisfação dos públicos que se relacionam com o Centro Paula Souza 
+(stakeholders). 
+3) 
+Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem. 
+6) 
+Formar profissionais atualizados em tecnologias e processos produtivos, capazes de 
+atuar no desenvolvimento tecnológico e inovação. 
+7) 
+Promover a cultura de inovação e empreendedorismo. 
+8) 
+Aumentar a eficiência, a produtividade e a competitividade da instituição. 
+9) 
+Ampliar a oferta da Educação Profissional. 
+A. 
+Integrar as diferentes modalidades de ensino, otimizando itinerários e tempo para a 
+formação profissional. 
+B. 
+Inovar processos de ensino e aprendizagem para manter excelência diante do mercado. 
+Por que será feito: 
+Orientar os alunos quanto a realização dos trabalhos de graduação e nortear as pesquisas para 
+conclusão coerente do trabalho. Objetiva-se fazer com que reflitam sobre as situações problemas 
+e busquem conhecimento para solução de tais problemáticas. Auxiliar na produção dos textos e 
+estruturação do trabalho além, de estimular a reflexão sobre temas relacionados ao mercado de 
+trabalho e incentivar a pesquisa para aprimoramento do mesmo. Observa-se as dificuldades dos 
+discentes em elaborarem propostas e levantar questões sobre o mercado de trabalho e 
+desenvolver projetos que possam viabilizar a melhoria de mão de obra e serviços prestados. 
+Assim, a orientação do trabalho de graduação visa fazer com que em primeiro lugar os alunos 
+reflitam sobre o problema, levantem hipóteses sobre o mesmo e em seguida sejam orientados a 
+buscar estratégias, metodologias e solução para os questionamentos levantados. Busca-se 
+também auxiliar na redação coerente e com coesão textual no desenvolvimento do trabalho – 
+TRABALHO DE GRADUAÇÃO 
+Responsável: 
+Profa. Esp. Paula Renata Goulart Monteiro Borracini 
+Qde CH/sem: 
+3 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+01/02/2024 
+Data final: 
+31/07/2024 
+Etapas do processo: 
+01- Delimitação do tema. Levar os alunos a pensarem em temas de 
+projetos interessantes e que possam dar continuidade na iniciação 
+científica. Ajudar na delimitação do tema e seus objetivos com o trabalho , 
+bem como sua justificativa. Levantar hipóteses e problemáticas. 
+01/02 
+29/02 
+ 
+02- Conversar sobre o tema escolhido, refletir sobre o caminho a ser 
+tomado na execução do trabalho. Levantar hipóteses junto aos 
+orientandos das propostas viáveis ou não e de como serão desenvolvidas 
+as pesquisas e metodologias. Quais ferramentas serão utilizadas. 
+01/03 
+31/03 
+ 
+03- Leitura e indicações bibliográficas, elaboração do referencial teórico, 
+indicações de leituras e tomar ciência das normas para a redação do 
+trabalho. Pesquisar autores relevantes ao tema e literaturas que embasem 
+o pensamento dos alunos. 
+01/04 
+30/04 
+ 
+04- Elaboração da escrita do trabalho e orientação sobre formatação, 
+redação, ortografia, coesão e coerência textuais. Atentar sobre as normas 
+da ABNT. Aplicação da metodologia, pesquisa de campo e entrevistas. 
+01/05 
+31/05 
+ 
+05- Considerações finais, ajustes necessários para a finalização do trabalho 
+01/06 
+30/06 
+ 
+06- Preparação para a apresentação do trabalho. 
+01/07 
+31/07 
+Custo R$ (se houver): 
+ 
+Fonte(s) dos recursos: 
+Centro Paula Souza 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+A22 - cat.1.99 - Outra 
+Origem: 
+3-Outra 
+O que será feito: 
+1) 
+Atender às demandas sociais e do mercado de trabalho. 
+2) 
+Obter a satisfação dos públicos que se relacionam com o Centro Paula Souza 
+(stakeholders). 
+3) 
+Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem. 
+6) 
+Formar profissionais atualizados em tecnologias e processos produtivos, capazes de 
+atuar no desenvolvimento tecnológico e inovação. 
+7) 
+Promover a cultura de inovação e empreendedorismo. 
+8) 
+Aumentar a eficiência, a produtividade e a competitividade da instituição. 
+9) 
+Ampliar a oferta da Educação Profissional. 
+A. 
+Integrar as diferentes modalidades de ensino, otimizando itinerários e tempo para a 
+formação profissional. 
+B. 
+Inovar processos de ensino e aprendizagem para manter excelência diante do mercado. 
+Por que será feito: 
+Orientar os alunos na elaboração do Trabalho de Graduação. O Projeto Acadêmico proposto 
+pode ter diversos objetivos inter-relacionados, visando aprimorar a qualidade dos trabalhos de 
+graduação e oferecer suporte abrangente aos estudantes. Alguns objetivos possíveis incluem: 
+Orientação Metodológica: 
+Proporcionar orientação especializada sobre metodologias de pesquisa, auxiliando os discentes 
+na escolha e aplicação adequada de métodos e técnicas. 
+Desenvolvimento de Habilidades Acadêmicas: 
+Fomentar o aprimoramento das habilidades de leitura crítica, síntese de informações, redação 
+acadêmica e apresentação oral, fundamentais para a produção de um trabalho de qualidade. 
+Personalização do Processo de Orientação: 
+Adaptar a orientação de acordo com as características específicas de cada área de estudo, 
+considerando as particularidades das diferentes disciplinas acadêmicas. A implementação de um 
+Projeto Acadêmico dedicado à orientação dos discentes na elaboração do trabalho de graduação 
+é essencial, considerando diversos fatores motivadores. Em primeiro lugar, destaca-se a 
+complexidade inerente à produção de um trabalho de conclusão de curso, demandando 
+habilidades específicas de pesquisa, análise crítica e redação acadêmica. A existência desse 
+projeto visa suprir lacunas nesses aspectos, oferecendo suporte estruturado para que os 
+estudantes desenvolvam essas competências. 
+Além disso, a diversidade de áreas de estudo e metodologias de pesquisa requer uma abordagem 
+personalizada na orientação acadêmica. O Projeto Acadêmico proposto busca atender a essa 
+necessidade, adaptando-se às particularidades de cada curso e fornecendo orientação 
+individualizada, considerando as demandas específicas de cada área do conhecimento. 
+Outro fator crucial é a redução da taxa de evasão acadêmica, uma vez que a elaboração do 
+trabalho de graduação muitas vezes se torna um obstáculo intimidante para os estudantes. A 
+orientação sistemática oferecida pelo projeto visa mitigar esse desafio, proporcionando 
+acompanhamento contínuo e estímulo à persistência, contribuindo assim para o êxito 
+acadêmico. 
+Além disso, a crescente competitividade no mercado de trabalho valoriza profissionais com 
+habilidades de pesquisa e síntese de conhecimento. O Projeto Acadêmico não apenas facilita a 
+conclusão bem-sucedida do trabalho de graduação, mas também contribui para o 
+desenvolvimento de competências essenciais para a atuação profissional, fortalecendo a 
+empregabilidade dos graduandos. 
+Em suma, o desenvolvimento deste Projeto Acadêmico é justificado pela necessidade de prover 
+suporte eficaz aos estudantes diante dos desafios associados à elaboração do trabalho de 
+graduação, contribuindo para o desenvolvimento de habilidades acadêmicas e profissionais 
+essenciais, bem como para a redução da evasão acadêmica – TRABALHO DE GRADUAÇÃO 
+Responsável: 
+Prof. Me. Júlio César Teixeira 
+Qde CH/sem: 
+2 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+01/02/2024 
+Data final: 
+31/07/2024 
+Etapas do processo: 
+01- Entrevistas com os alunos interessados para a definição do tema do 
+trabalho. Orientação a respeito da pesquisa do tema do trabalho. 
+Ensinamentos sobre a redação do capítulo da introdução, problema de 
+pesquisa, justificativa, objeto geral e específicos. 
+01/02 
+29/02 
+ 
+02- Diretrizes e acompanhamento da pesquisa bibliográfica. Orientação 
+sobre como escrever o referencial teórico. 
+01/03 
+31/03 
+ 
+03- Orientação sobre instrumentos para coleta de dados. 
+Acompanhamento dos dados coletados. Ensinamento sobre a redação da 
+apresentação dos resultados. 
+01/04 
+30/04 
+ 
+04- Ensinamento sobre a como fazer a análise dos dados coletados. 
+Orientação sobre como escrever o capítulo de Análise dos resultados. 
+01/05 
+31/05 
+ 
+05- Orientação sobre como escrever o capítulo das conclusões. Revisão do 
+trabalho. 
+  
+01/06 
+30/06 
+ 
+06- Orientação sobre a realização das correções propostas pela banca, ou 
+pelos revisores da revista. 
+01/07 
+31/07 
+Custo R$ (se houver): 
+ 
+Fonte(s) dos recursos: 
+Centro Paula Souza 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+A23 - cat 1.07 - Divulgação do vestibular e ações de fortalecimento de imagem institucional 
+Origem: 
+3-Outra 
+O que será feito: 
+1) 
+Atender às demandas sociais e do mercado de trabalho. 
+2) 
+Obter a satisfação dos públicos que se relacionam com o Centro Paula Souza 
+(stakeholders). 
+7) 
+Promover a cultura de inovação e empreendedorismo. 
+8) 
+Aumentar a eficiência, a produtividade e a competitividade da instituição. 
+9) 
+Ampliar a oferta da Educação Profissional. 
+A. 
+Integrar as diferentes modalidades de ensino, otimizando itinerários e tempo para a 
+formação profissional. 
+B. 
+Inovar processos de ensino e aprendizagem para manter excelência diante do mercado. 
+Por que será feito: 
+Oferecer curso de espanhol I e Espanhol II para comunidade externa 
+Objetivos específicos: 
+- Dar visibilidade a nossa faculdade; 
+- Captar alunos novos para os cursos de nossa unidade; 
+- Unir forças ao curso de inglês para a comunidade e, assim, construir um centro de línguas em 
+nossa unidade. 
+O curso de espanhol para a comunidade é um diferencial de nossa unidade, um atrativo para 
+alunos interessados em aprimorar-se profissional e pessoalmente. A Fatec de Itapira pode se 
+tornar referência de estudos linguísticos na cidade, criando - com o tempo - um centro de línguas 
+forte e bem estruturado. Além disso, tal projeto pode ser porta de entrada para muitos novos 
+alunos – ESPANHOL PARA A COMUNIDADE 
+Responsável: 
+Profa. Ms. Naely Iamarino Pizzi Cazarin 
+Qde CH/sem: 
+4 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+01/02/2024 
+Data final: 
+31/07/2024 
+Etapas do processo: 
+01- Apresentação/divulgação do projeto à comunidade. 
+Inscrições de alunos interessados. 
+Seleção e chamamento dos alunos. 
+Início das aulas. 
+01/02 
+29/02 
+ 
+02- As aulas ocorrerão uma vez por semana. Oferecidas às segundas e 
+sextas-feiras, das 17h30 às 18h30. 
+A outra hora de HAE solicitada destina-se à preparação da aula e às 
+correções de atividades dos alunos. 
+01/03 
+31/03 
+ 
+03- As aulas ocorrerão uma vez por semana. Oferecidas às segundas e 
+sextas-feiras, das 17h30 às 18h30. 
+A outra hora de HAE solicitada destina-se à preparação da aula e às 
+correções de atividades dos alunos. 
+01/04 
+30/04 
+ 
+04- As aulas ocorrerão uma vez por semana. Oferecidas às segundas e 
+sextas-feiras, das 17h30 às 18h30. 
+A outra hora de HAE solicitada destina-se à preparação da aula e às 
+correções de atividades dos alunos. 
+01/05 
+31/05 
+ 
+05- As aulas ocorrerão uma vez por semana. Oferecidas às segundas e 
+sextas-feiras, das 17h30 às 18h30. 
+A outra hora de HAE solicitada destina-se à preparação da aula e às 
+correções de atividades dos alunos. 
+01/06 
+30/06 
+ 
+06- As aulas ocorrerão uma vez por semana. Oferecidas às segundas e 
+sextas-feiras, das 17h30 às 18h30. 
+A outra hora de HAE solicitada destina-se à preparação da aula e às 
+correções de atividades dos alunos. 
+01/07 
+31/07 
+Custo R$ (se houver): 
+ 
+Fonte(s) dos recursos: 
+Centro Paula Souza 
+Situação problema: 
+cat 0.1.08 - Participação da comunidade e sociedade 
+(a ser resolvida/mitigada) 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+A24- cat 1.07 - Divulgação do vestibular e ações de fortalecimento de imagem institucional 
+Origem: 
+3-Outra 
+O que será feito: 
+1) 
+Atender às demandas sociais e do mercado de trabalho. 
+2) 
+Obter a satisfação dos públicos que se relacionam com o Centro Paula Souza 
+(stakeholders). 
+7) 
+Promover a cultura de inovação e empreendedorismo. 
+8) 
+Aumentar a eficiência, a produtividade e a competitividade da instituição. 
+9) 
+Ampliar a oferta da Educação Profissional. 
+A. 
+Integrar as diferentes modalidades de ensino, otimizando itinerários e tempo para a 
+formação profissional. 
+B. 
+Inovar processos de ensino e aprendizagem para manter excelência diante do mercado. 
+Por que será feito: 
+Apresentar, para a comunidade, novas oportunidades de mercado ensinando os participantes a 
+desenvolver e publicar jogos digitais. O mercado de jogos digitais é muito atrativa e oferece 
+muitas oportunidades de imergir na área sem a necessidade de estar em uma grande empresa. 
+Segundo o site do Sebrae () no âmbito mundial "a indústria doméstica de jogos digitais poderá 
+chegar até US$ 2,8 bilhões em 2026". Promover a qualificação da comunidade e, por 
+consequência, fortalecer a imagem da Fatec "Ogari de Castro Pacheco" – CURSO DE 
+DESENVOLVIMENTO DE JOGOS ELETRÔNICOS 
+Responsável: 
+Prof. Esp. Lúcio Rogério Pelizer Paris 
+Qde CH/sem: 
+6 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+01/02/2024 
+Data final: 
+31/07/2024 
+Etapas do processo: 
+01- Elaboração de notas de aula;  
+Divulgação do Curso; 
+Inscrição dos participantes; 
+01/02 
+29/02 
+ 
+02- Início do curso com: 
+Introdução ao mercado de desenvolvimento de jogos eletrônicos; 
+Desenvolvendo jogo com HTML5 e Javascript; 
+01/03 
+31/03 
+ 
+03- - Continuação do desenvolvimento do jogo com HTML5 e Javascript; 
+01/04 
+30/04 
+Introdução ao Unity; 
+ 
+04- - Desenvolvimento de jogo 2D no Unity; 
+Avaliação de conteúdo; 
+01/05 
+31/05 
+ 
+05- Continuação do desenvolvimento de jogo 2D no Unity; 
+Conclusão do jogo 2D no Unity 
+01/06 
+30/06 
+ 
+06- Projeto prática para avaliação; 
+Conclusão do Curso 
+01/07 
+31/07 
+Custo R$ (se houver): 
+ 
+Fonte(s) dos recursos: 
+Centro Paula Souza 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+A25 - cat 1.07 - Divulgação do vestibular e ações de fortalecimento de imagem institucional 
+Origem: 
+3-Outra 
+O que será feito: 
+1) 
+Atender às demandas sociais e do mercado de trabalho. 
+2) 
+Obter a satisfação dos públicos que se relacionam com o Centro Paula Souza 
+(stakeholders). 
+7) 
+Promover a cultura de inovação e empreendedorismo. 
+8) 
+Aumentar a eficiência, a produtividade e a competitividade da instituição. 
+9) 
+Ampliar a oferta da Educação Profissional. 
+A. 
+Integrar as diferentes modalidades de ensino, otimizando itinerários e tempo para a 
+formação profissional. 
+B. 
+Inovar processos de ensino e aprendizagem para manter excelência diante do mercado. 
+Por que será feito: 
+Promover formação não apenas aos alunos regulamente matriculados na Faculdade, mas 
+colaborar com o desenvolvimento econômico, social e cultural da sociedade como um todo é 
+parte fundamental de uma instituição de ensino, sendo assim, oferecer as pessoas acesso a esses 
+conteúdos de forma simples e rápida, ajuda a desempenhar o papel de formação intrínseca da 
+instituição, bem como estreitar os laços com a comunidade ao seu redor que podem ser 
+benéficos a todos, visto que ao entrar em contato com a Faculdade, as pessoas podem vir a se 
+interessar pelos demais cursos ofertados e assim melhorar a demanda em tais cursos. O objetivo 
+geral do presente projeto é oferecer mensalmente ao menos um evento acadêmico (palestra, 
+minicurso ou workshop) de formação livre e aberta aos membros da sociedade civil de Itapira e 
+Região, visando aproximar a Faculdade e a comunidade, trazendo temas relevantes para a 
+sociedade atual que possam colaborar com a formação e o aperfeiçoamento destes. 
+O objetivo específico é ofertar os seguintes temas ao longo do semestre: 
+- Futuro do Trabalho – Desafios e tendências do mercado de trabalho na indústria 4.0; 
+- Finanças Pessoas e Economia Doméstica – Usando ferramentas básicas de Economia e Finanças 
+gerir os recursos financeiros individuais. 
+- Elaboração de Currículo e Entrevista de Emprego – Técnicas e dicas para fazer o currículo e 
+passar por uma entrevista de emprego. 
+- Vendas e Atendimento ao Cliente – Como encantar o cliente e aumentar as vendas. 
+- Programa 5S – aplicando princípios simples para alcançar melhorarias nos ambientes físicos, 
+virtuais e emocionais! 
+- Administração do Tempo e Ferramentas de Produtividade – como usar o tempo e os recursos a 
+seu favor - CÍRCULO DE PALESTRAS, MINICURSOS E WORKSHOPS NA FATEC. 
+Responsável: 
+Prof. Me. Alexandre Junqueira 
+Qde CH/sem: 
+6 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+01/02/2024 
+Data final: 
+31/07/2024 
+Etapas do processo: 
+01- O mês de fevereiro é o mês em que muitas pessoas sentem o peso da 
+fatura das compras do final de ano e dos tributos como IPVA, IPTU, etc. 
+Diante disso, há um apelo para a realização de um workshop de 4 horas de 
+duração com o tema: Finanças Pessoas e Economia Doméstica – Usando 
+ferramentas básicas de Economia e Finanças gerir os recursos financeiros 
+individuais. 
+Etapas do projeto: 
+Preparação e adequação do tema - semana 01; 
+Criação de campanha de divulgação - semana 01; 
+Ação de divulgação, virtual e local semana 02 e 03; 
+Preparação do evento, listas de presença, material, certificados, avaliações 
+de satisfação, etc. - semana 03; 
+Realização do evento semana 03. 
+01/02 
+29/02 
+ 
+02- Em março a atividade empresarial começa a aquecer, e a 
+empregabilidade estará em alta, portanto o tema para este mês é: 
+Elaboração de Currículo e Entrevista de Emprego – Técnicas e dicas para 
+fazer o currículo e passar por uma entrevista de emprego. 
+01/03 
+31/03 
+ 
+03- Para abril ofertaremos o tema: Vendas e Atendimento ao Cliente – 
+Como encantar o cliente e aumentar as vendas. Em formato de minicurso 
+de 8 horas de duração. 
+Etapas do projeto: 
+Preparação e adequação do tema - semana 01; 
+Criação de campanha de divulgação 
+01/04 
+30/04 
+ 
+04- No mês de maio é comemorado o dia do Trabalho, logo podemos 
+ofertar em formato de palestras de cerca de 1,5 horas, o tema: Futuro do 
+Trabalho – Desafios e tendências do mercado de trabalho na indústria 4.0; 
+Etapas do projeto: 
+Preparação e adequação do tema - semana 
+01/05 
+31/05 
+ 
+No mês de junho, faremos em formato de workshop, o tema: Programa 5S 
+– aplicando princípios simples para alcançar melhorarias nos ambientes 
+físicos, virtuais e emocionais! 
+Etapas do projeto: 
+Preparação e adequação do tema - semana 01; 
+Criação de campanha de divulgação - semana 01; 
+Ação de divulgação, virtual e local semana 02 e 03; 
+Preparação do evento, listas de presença, material, certificados, avaliações 
+de satisfação, etc. - semana 04; 
+Realização do evento semana 04. 
+01/06 
+30/06 
+ 
+06- Em julho podemos fechar o ciclo de eventos com o tema: 
+Administração do Tempo e Ferramentas de Produtividade – como usar o 
+tempo e os recursos a seu favor. Workshop de 3 horas. 
+Preparação e adequação do tema - semana 01; 
+Criação de campanha de divulgação 
+01/07 
+31/07 
+Custo R$ (se houver): 
+ 
+Fonte(s) dos recursos: 
+Centro Paula Souza 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+A26 - cat 1.07 - Divulgação do vestibular e ações de fortalecimento de imagem institucional 
+Origem: 
+3-Outra 
+O que será feito: 
+1) 
+Atender às demandas sociais e do mercado de trabalho. 
+2) 
+Obter a satisfação dos públicos que se relacionam com o Centro Paula Souza 
+(stakeholders). 
+7) 
+Promover a cultura de inovação e empreendedorismo. 
+8) 
+Aumentar a eficiência, a produtividade e a competitividade da instituição. 
+9) 
+Ampliar a oferta da Educação Profissional. 
+A. 
+Integrar as diferentes modalidades de ensino, otimizando itinerários e tempo para a 
+formação profissional. 
+B. 
+Inovar processos de ensino e aprendizagem para manter excelência diante do mercado. 
+Por que será feito: 
+Oferecer a comunidade local aulas experimentais de programação e temas relacionadas ao 
+mundo da tecnologia. Cada vez mais os profissionais de todas as áreas são cobrados para 
+solucionar problemas dentro das organizações, e a programação tem sido um meio eficiente de 
+resolvê-los. Diante disso, torna-se fundamental oferecer à comunidade a oportunidade de 
+descobrir como uma linguagem de programação pode resolver os mais diversos tipos problemas 
+em qualquer segmento de mercado - AULAS EXPERIMENTAIS DE PROGRAMAÇÃO 
+Responsável: 
+Prof. Esp. José Gonçalves Pinto Júnior 
+Qde CH/sem: 
+4 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+01/02/2024 
+Data final: 
+31/07/2024 
+Etapas do processo: 
+01- Planejamento das aulas e preparo dos materiais para a primeira aula 
+experimental  
+01/02 
+29/02 
+ 
+02- Primeira aula experimental. Preparo dos materiais para a segunda aula 
+experimental 
+01/03 
+31/03 
+ 
+03- - Segunda aula experimental. Preparo dos materiais para a terceira 
+aula experimental 
+01/04 
+30/04 
+ 
+04- - Terceira aula experimental. Preparo dos materiais para a quarta aula 
+experimental 
+01/05 
+31/05 
+ 
+05- Quarta aula experimental. Preparo relatório do projeto 
+01/06 
+30/06 
+ 
+06- Entrega do relatório do projeto 
+01/07 
+31/07 
+Custo R$ (se houver): 
+ 
+Fonte(s) dos recursos: 
+Centro Paula Souza 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+A27 - cat 1.06 - Ações pedagógicas: visitas técnicas, projetos integradores/interdisciplinares, dias de campo, 
+feira das profissões, cursos extracurriculares para alunos. 
+Origem: 
+3-Outra 
+O que será feito: 
+1) 
+Atender às demandas sociais e do mercado de trabalho. 
+2) 
+Obter a satisfação dos públicos que se relacionam com o Centro Paula Souza 
+(stakeholders). 
+3) 
+Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem. 
+6) 
+Formar profissionais atualizados em tecnologias e processos produtivos, capazes de 
+atuar no desenvolvimento tecnológico e inovação. 
+7) 
+Promover a cultura de inovação e empreendedorismo. 
+8) 
+Aumentar a eficiência, a produtividade e a competitividade da instituição. 
+9) 
+Ampliar a oferta da Educação Profissional. 
+A. 
+Integrar as diferentes modalidades de ensino, otimizando itinerários e tempo para a 
+formação profissional. 
+B. 
+Inovar processos de ensino e aprendizagem para manter excelência diante do mercado. 
+Por que será feito: 
+Ensinar os aspectos básicos de leitura de paquímetro e introdução instrumentos de medição – 
+AULAS DE METROLOGIA 
+Responsável: 
+Prof. Esp Tarcis Andrade da Silva 
+Qde CH/sem: 
+2 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+01/02/2024 
+Data final: 
+31/07/2024 
+Etapas do processo: 
+01- Introdução sistemas de medição / teoria 
+01/02 
+29/02 
+ 
+02- Sistema métrico e sistema polegada / teoria 
+01/03 
+31/03 
+ 
+03- Escala e utilização / teoria 
+01/04 
+30/04 
+ 
+04- Paquímetro sistema métrico / teoria / prática 
+01/05 
+31/05 
+ 
+05- Paquímetro sistema polegada fracionada 
+01/06 
+30/06 
+ 
+06- Paquímetro sistema polegada decimal 
+01/07 
+31/07 
+Custo R$ (se houver): 
+ 
+Fonte(s) dos recursos: 
+Centro Paula Souza 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+A28 - cat 1.06 - Ações pedagógicas: visitas técnicas, projetos integradores/interdisciplinares, dias de campo, 
+feira das profissões, cursos extracurriculares para alunos. 
+Origem: 
+3-Outra 
+O que será feito: 
+1) 
+Atender às demandas sociais e do mercado de trabalho. 
+2) 
+Obter a satisfação dos públicos que se relacionam com o Centro Paula Souza 
+(stakeholders). 
+3) 
+Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem. 
+6) 
+Formar profissionais atualizados em tecnologias e processos produtivos, capazes de 
+atuar no desenvolvimento tecnológico e inovação. 
+7) 
+Promover a cultura de inovação e empreendedorismo. 
+8) 
+Aumentar a eficiência, a produtividade e a competitividade da instituição. 
+9) 
+Ampliar a oferta da Educação Profissional. 
+A. 
+Integrar as diferentes modalidades de ensino, otimizando itinerários e tempo para a 
+formação profissional. 
+B. 
+Inovar processos de ensino e aprendizagem para manter excelência diante do mercado. 
+Por que será feito: 
+Oferecer atividades e exercícios avançados de programação para os alunos interessados em 
+participar do InterFatecs 2024. A oferta de exercícios avançados de programação proporcionará 
+aos alunos um ambiente desafiador, estimulante e enriquecedor. Ao se depararem com 
+problemas complexos, os estudantes terão a oportunidade de desenvolver suas habilidades 
+analíticas, pensamento crítico e criatividade, essenciais para enfrentar os desafios da carreira de 
+tecnologia. Além disso, pretende-se também aumentar a visibilidade da Fatec de Itapira ao 
+promover atividades enriquecedoras aos alunos – PREPAÇÃO ALUNOS PARA INTERFATECS 
+Responsável: 
+Prof. Esp. José Gonçalves Pinto Júnior 
+Qde CH/sem: 
+2 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+01/02/2024 
+Data final: 
+31/07/2024 
+Etapas do processo: 
+01- Levantamento de Conteúdo: Identificar e organizar os tópicos 
+essenciais para a maratona, incluindo algoritmos, estruturas de dados, e 
+técnicas específicas de programação; 
+Compilação de Recursos: Criar uma biblioteca digital com materiais de 
+estudo, como livros, tutoriais online, e problemas de programação de 
+competições passadas; 
+01/02 
+29/02 
+ 
+02- 1ª lista de exercícios – Organizar uma sessão para a resolução de 
+problemas práticos recorrentes em maratona de programação; 
+Feedback Construtivo: Fornecer feedback individualizado para cada aluno, 
+destacando pontos fortes e áreas de melhoria; 
+01/03 
+31/03 
+ 
+03- 2ª lista de exercícios – Organizar uma sessão para a resolução de 
+problemas práticos recorrentes em maratona de programação; 
+Feedback Construtivo: Fornecer feedback individualizado para cada aluno, 
+destacando pontos fortes e áreas de melhoria; 
+01/04 
+30/04 
+ 
+04- Simulação de Maratona Interna: Realizar uma simulação interna de 
+maratona na Fatec de Itapira para testar os conhecimentos dos alunos; 
+01/05 
+31/05 
+ 
+05- Algoritmos Avançados: Realizar workshops específicos sobre 
+algoritmos avançados frequentemente abordados em competições; 
+3ª lista de exercícios – Organizar uma sessão para a resolução de 
+problemas práticos recorrentes em maratona de programação 
+01/06 
+30/06 
+ 
+06- Otimização de Código: Ensinar técnicas de otimização de código para 
+melhorar a eficiência e a rapidez na resolução de problemas 
+01/07 
+31/07 
+Custo R$ (se houver): 
+ 
+Fonte(s) dos recursos: 
+Centro Paula Souza 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+A29 - cat 1.02 - Eventos e publicações acadêmicos e científicos 
+Origem: 
+3-Outra 
+O que será feito: 
+1) 
+Atender às demandas sociais e do mercado de trabalho. 
+2) 
+Obter a satisfação dos públicos que se relacionam com o Centro Paula Souza 
+(stakeholders). 
+3) 
+Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem. 
+6) 
+Formar profissionais atualizados em tecnologias e processos produtivos, capazes de 
+atuar no desenvolvimento tecnológico e inovação. 
+7) 
+Promover a cultura de inovação e empreendedorismo. 
+8) 
+Aumentar a eficiência, a produtividade e a competitividade da instituição. 
+9) 
+Ampliar a oferta da Educação Profissional. 
+A. 
+Integrar as diferentes modalidades de ensino, otimizando itinerários e tempo para a 
+formação profissional. 
+B. 
+Inovar processos de ensino e aprendizagem para manter excelência diante do mercado. 
+Por que será feito: 
+Continuar o projeto já iniciado no segundo semestre do ano de 2023, o qual está em execução 
+juntamente com o aluno Raul, do curso de Gestão Empresarial. Ao longo da primeira etapa da 
+pesquisa foram abordados temas como as quatro revoluções industriais e o seu impacto em 
+termos de modelos de negócios, os principais pensadores de cada momento histórico, as bases 
+daquela conhecida como quarta revolução industrial, ou indústria 4.0, e de como a manufatura 
+aditiva pode impactar os modelos de negócio existentes. Foram consideradas, ainda, as empresas 
+que já adotam a manufatura aditiva como diferencial em seu mercado. A partir disso, o objetivo 
+da segunda etapa é elaborar um modelo de negócio capaz de se utilizar da nova tecnologia para 
+contornar algum problema do mercado. Apesar dos inúmeros avanços científicos e tecnológicos 
+que percebemos enquanto população, ainda nos resta aquela impressão de que os grandes 
+avanços se parecem com visões futuristas de mundo, ou como privilégio daqueles países 
+desenvolvidos. A falta de uma base científica sólida na qual se desenvolve a utilização de uma 
+nova tecnologia é uma lacuna que deve ser coberta pelas universidades, em especial pela Fatec, 
+quando se trata de uma tecnologia com relação profunda com a área de atuação dos formandos 
+da Fatec Itapira (a considerar os três cursos: Gestão Empresarial, Gestão da Produção Industrial e 
+Desenvolvimento de Software Multiplataforma) – INICIAÇÃO CIENTÍFICA 
+Responsável: 
+Prof. Me. Rodrigo Lanzoni Fracarolli 
+Qde CH/sem: 
+2 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+01/02/2024 
+Data final: 
+31/07/2024 
+Etapas do processo: 
+01- Levantamento bibliográfico 
+01/02 
+29/02 
+ 
+02- Levantamento bibliográfico 
+01/03 
+31/03 
+ 
+03- Desenvolvimento 
+01/04 
+30/04 
+ 
+04- Desenvolvimento 
+01/05 
+31/05 
+ 
+05- Desenvolvimento 
+01/06 
+30/06 
+ 
+06- Relatório final 
+01/07 
+31/07 
+Custo R$ (se houver): 
+ 
+Fonte(s) dos recursos: 
+Centro Paula Souza 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+A30 - cat 1.05 - Monitoria em disciplina do curso 
+Origem: 
+3-Outra 
+O que será feito: 
+1) 
+Atender às demandas sociais e do mercado de trabalho. 
+2) 
+Obter a satisfação dos públicos que se relacionam com o Centro Paula Souza 
+(stakeholders). 
+3) 
+Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem. 
+6) 
+Formar profissionais atualizados em tecnologias e processos produtivos, capazes de 
+atuar no desenvolvimento tecnológico e inovação. 
+7) 
+Promover a cultura de inovação e empreendedorismo. 
+8) 
+Aumentar a eficiência, a produtividade e a competitividade da instituição. 
+9) 
+Ampliar a oferta da Educação Profissional. 
+A. 
+Integrar as diferentes modalidades de ensino, otimizando itinerários e tempo para a 
+formação profissional. 
+B. 
+Inovar processos de ensino e aprendizagem para manter excelência diante do mercado. 
+Por que será feito: 
+Orientar os alunos em relação ao componente curricular AACC. Organizar e validar os 
+documentos comprobatórios entregues pelos alunos conforme o Regulamento da AACC - 
+atividades acadêmicas, científicas e culturais, da unidade da Fatec Itapira "Ogari de Castro 
+Pacheco". Orientar, acompanhar e motivar os discentes a cumprir o componente curricular 
+obrigatório do curso – CONTROLE DE AACC 
+Responsável: 
+Profa. Esp. Luciene Rela Arakaki Fuini 
+Qde CH/sem: 
+6 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+01/02/2024 
+Data final: 
+31/07/2024 
+Etapas do processo: 
+01- Atendimento aos alunos, quanto a possíveis dúvidas com relação ao 
+Regulamento vigente, referente à AACC.  
+Análise, organização e validação dos documentos entregues pelos alunos. 
+01/02 
+29/02 
+ 
+02- Atendimento aos alunos, quanto a possíveis dúvidas com relação ao 
+Regulamento vigente, referente à AACC.  
+Análise, organização e validação dos documentos entregues pelos alunos. 
+Relatório bimestral I - Posicionamento referente ao andamento da 
+conclusão. 
+01/03 
+31/03 
+ 
+03-Término do meu contrato. Atendimento aos alunos, quanto a possíveis 
+dúvidas com relação ao Regulamento vigente, referente à AACC.  
+Análise, organização e validação dos documentos entregues pelos alunos. 
+01/04 
+30/04 
+ 
+04- Atendimento aos alunos, quanto a possíveis dúvidas com relação ao 
+Regulamento vigente, referente à AACC.  
+Análise, organização e validação dos documentos entregues pelos alunos. 
+01/05 
+31/05 
+ 
+05- Atendimento aos alunos, quanto a possíveis dúvidas com relação ao 
+Regulamento vigente, referente à AACC.  
+Análise, organização e validação dos documentos entregues pelos alunos. 
+01/06 
+30/06 
+ 
+06- Atendimento aos alunos, quanto a possíveis dúvidas com relação ao 
+Regulamento vigente, referente à AACC.  
+Análise, organização e validação dos documentos entregues pelos alunos. 
+01/07 
+31/07 
+Custo R$ (se houver): 
+ 
+Fonte(s) dos recursos: 
+Centro Paula Souza 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+A31- cat.1.99 - Outra 
+Origem: 
+2-CPA (Relatório da Comissão Própria de Avaliação da Unidade) 
+O que será feito: 
+1) 
+Atender às demandas sociais e do mercado de trabalho. 
+2) 
+Obter a satisfação dos públicos que se relacionam com o Centro Paula Souza 
+(stakeholders). 
+3) 
+Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem. 
+4) 
+Assegurar a perenidade do crescimento da instituição com recursos financeiros 
+disponíveis. 
+5) 
+Garantir celeridade e efetividade na prestação de serviços. 
+6) 
+Formar profissionais atualizados em tecnologias e processos produtivos, capazes de 
+atuar no desenvolvimento tecnológico e inovação. 
+7) 
+Promover a cultura de inovação e empreendedorismo. 
+8) 
+Aumentar a eficiência, a produtividade e a competitividade da instituição. 
+9) 
+Ampliar a oferta da Educação Profissional. 
+A. 
+Integrar as diferentes modalidades de ensino, otimizando itinerários e tempo para a 
+formação profissional. 
+B. 
+Inovar processos de ensino e aprendizagem para manter excelência diante do mercado. 
+D. 
+Expandir e ampliar a capacidade de articulação com Governos e Setores Produtivos. 
+Por que será feito: 
+Avaliar às condições internas da IES, através da interpretação do que pensam os 
+grupos sociais participantes (Técnicos Administrativos, Docentes e Discentes).  
+- Elaboração de questionários aos grupos participantes (Técnicos Administrativos, Docentes e 
+Discentes) - atividade participativa com os membros da CPA da FATEC de Itapira; 
+- Tratativas estatísticas (atividade individual a partir da coleta dos dados); 
+- Elaboração do Relatório Final (Ciclo Avaliativo 2022-2024), atividade inicial com finalização no 
+2º Semestre 2024 – RELATÓRIO DA CPA 2024 
+Responsável: 
+Prof. Dr. José Celso Sobreiro Dias 
+Qde CH/sem: 
+6 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+01/02/2024 
+Data final: 
+31/07/2024 
+Etapas do processo: 
+01- Revisão dos questionários (Técnicos Administrativos, Docentes e 
+Discentes) desenvolvidos pela CPA da FATEC de Itapira, em função da 
+análise do Alpha de Cronback da aplicação anterior. 
+01/02 
+29/02 
+ 
+02- Aplicação dos questionários desenvolvidos pela CPA da FATEC de 
+Itapira e WebSAI desenvolvido pela CPA Central a todos os grupos 
+participantes da FATEC de Itapira. 
+01/03 
+31/03 
+ 
+03- Tratativas estatísticas dos dados coletados a partir dos questionários 
+desenvolvidos pela CPA da FATEC de Itapira. 
+01/04 
+30/04 
+ 
+04- Tratativas estatísticas dos dados coletados a partir dos questionários 
+desenvolvidos pela CPA da FATEC de Itapira. 
+01/05 
+31/05 
+ 
+05- Redação do Relatório Parcial da AII da FATEC de Itapira. 
+01/06 
+30/06 
+ 
+06- Entrega do Relatório Parcial da AII da FATEC de Itapira. 
+01/07 
+31/07 
+Custo R$ (se houver): 
+ 
+Fonte(s) dos recursos: 
+Centro Paula Souza 
+Situação problema: 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+(a ser resolvida/mitigada) 
+cat 0.1.13 - Relacionamento interpessoal da equipe 
+X 
+X 
+ 
+<fim> 
+ 
+ 
+ 
+ 
+ 
+ 

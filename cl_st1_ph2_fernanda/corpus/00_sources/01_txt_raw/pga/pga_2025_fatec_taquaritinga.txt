@@ -1,0 +1,4740 @@
+PLANO DE GESTÃO ANUAL 
+PGA 2025 
+V04 
+Estruturado em uma única etapa, contendo 2 anexos: 
+PLANEJAMENTO PELA EQUIPE GESTORA DA UE 
+ Anexo 1 – Lista de equipamentos necessários aos projetos 
+ Anexo 2 – Lista de Ações/Projetos referentes à CPA (Origem 3: Gestão Tática – CPA) 
+ 
+IDENTIFICAÇÃO DA UNIDADE 
+Unidade 
+código F022 
+Fatec Taquaritinga 
+Diretor(a) 
+Profa. Dra. Luciana Aparecida Ferrarezi 
+ 
+PLANEJAMENTO PELA EQUIPE GESTORA DA UE 
+(Administração da Faculdade - Deliberação CEETEPS 31/2016) 
+ANÁLISE DO CENÁRIO 
+Descrever de forma breve e objetiva o cenário da Unidade perante sua missão como Unidade de Ensino na localidade em que 
+se encontra (é este cenário que se pretende melhorar). 
+Taquaritinga é um município localizado na região nordeste do estado de São Paulo, pertencente à Região 
+Administrativa Central e à Região de Governo de Araraquara. Com uma população estimada em 56.984 habitantes, 
+sua economia é baseada no agronegócio, sendo o setor agrícola significativo na economia da região. Além disso, o 
+setor industrial é composto por pequenas e médias empresas em diversos setores, como alimentos, metalurgia, 
+movelaria, transportes e canavieiro. A região também abriga quatro fábricas de software, permitindo a realização 
+de parcerias com empresas de outras áreas para garantir a formação adequada dos estudantes e a capacitação 
+docente.  
+A Fatec Taquaritinga está empenhada em se adaptar e evoluir no cenário educacional contemporâneo, 
+buscando constantemente a excelência e relevância no mercado. Para alcançar esse objetivo, adotou uma 
+abordagem multifacetada com foco em cinco áreas estratégicas. 
+Primeiramente, a instituição visa integrar as diferentes modalidades de ensino, como presencial e híbrido, 
+com o intuito de otimizar os itinerários acadêmicos e o tempo dedicado à formação profissional dos alunos. Essa 
+integração permite que os estudantes possam escolher a modalidade que melhor se adequa às suas necessidades e 
+estilos de aprendizagem, promovendo uma experiência educacional mais flexível e eficiente. 
+Em segundo lugar, a faculdade está inovando os processos de ensino e aprendizagem. A implementação de 
+novas metodologias pedagógicas e tecnologias educacionais garante que a qualidade do ensino se mantenha 
+alinhada às demandas do mercado. Ferramentas como laboratórios, plataformas interativas e inteligência artificial 
+estão sendo incorporadas para enriquecer o processo de aprendizado. 
+A terceira estratégia é ampliar a capacidade de criar e atualizar cursos em parceria com o mercado. A 
+faculdade busca uma colaboração ativa com empresas e organizações de diversos setores para desenvolver 
+programas de estudo que atendam às necessidades emergentes e tendências do mercado de trabalho. Isso garante 
+que os cursos oferecidos sejam relevantes e proporcionem aos alunos as competências mais demandadas. 
+Além disso, a instituição está focada em expandir e ampliar a capacidade de articulação com Governos e 
+Setores Produtivos. Por meio de parcerias estratégicas e colaborações, a faculdade pretende influenciar políticas 
+públicas e contribuir para o desenvolvimento econômico e social. Essa articulação é crucial para manter a instituição 
+conectada com as mudanças e oportunidades que surgem no ambiente externo. 
+Com essas estratégias, a faculdade está se posicionando como uma instituição moderna, dinâmica e 
+alinhada às exigências do mundo contemporâneo, preparada para formar profissionais competentes e bem-
+sucedidos em suas carreiras. 
+ 
+ Discorrer sobre o cenário, realizando um breve diagnóstico (limitar o espaço da escrita, para que seja inserido de forma sucinta). 
+ 
+APONTAMENTO DE SITUAÇÕES-PROBLEMA MAIS RELEVANTES 
+Fontes: relatório CPA, análise de processos críticos da UE, relatório de atendimento e ocorrências Hórus, relatório NDE, 
+relatório de representação discente (DA, Atlética, representantes de turma), relatório CIPA, entre outros. 
+1 
+cat 0.1.12 - Acesso e transporte à Unidade de 
+Ensino 
+ 
+5 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+2 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+ 
+6 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de 
+ensino 
+3 
+cat 0.1.01 - Metodologia de ensino, desempenho de 
+alunos, evasão 
+ 
+7 
+cat 0.1.06 - Quantidade de professores/funcionários 
+4 
+cat 0.1.02 - Manutenção e conservação predial 
+ 
+8 
+cat 0.1.08 - Participação da comunidade e sociedade 
+Outra – Especificar: nn 
+ 
+Objetivos Institucionais – CPS (Plano de Metas) 
+1) Atender às demandas sociais e do mercado de trabalho. 
+2) Obter a satisfação dos públicos que se relacionam com o Centro Paula Souza (stakeholders). 
+3) Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem. 
+4) Assegurar a perenidade do crescimento da instituição com recursos financeiros disponíveis. 
+5) Garantir celeridade e efetividade na prestação de serviços. 
+6) Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no desenvolvimento tecnológico e inovação. 
+7) Promover a cultura de inovação e empreendedorismo. 
+8) Aumentar a eficiência, a produtividade e a competitividade da instituição. 
+9) Ampliar a oferta da Educação Profissional. 
+10) Resolução Conjunta SOG/SFP/SG-3, de 28-12-2022 - Bonificação por Resultados – BR das Secretarias de Estado, Procuradoria Geral do Estado, 
+Controladoria Geral do Estado e das Autarquias, de que trata a LC 1361-2021 
+Objetivos Institucionais – Cesu (Plano de Metas) 
+A. Integrar as diferentes modalidades de ensino, otimizando itinerários e tempo para a formação profissional. 
+B. Inovar processos de ensino e aprendizagem para manter excelência diante do mercado. 
+C. Ampliar a capacidade de criar e atualizar cursos em parceria com o mercado. 
+D. Expandir e ampliar a capacidade de articulação com Governos e Setores Produtivos. 
+E. Promover a captação de recursos extras e não orçamentários. 
+Atenção: Determinação da Origem (prioridade) de uma Ação ou Projeto de Melhoria que compõe o PGA, a fim de ordenar os graus de prioridade tomando-se por 
+base atos normativos regulatórios das atividades do CPS, e a governança institucional, por suas esferas Estratégica, Tática e Operacional: 
+Grau 1 - URGÊNCIA DE REGULAÇÃO - prioridade máxima (advinda do MEC, CEE, MP, Vigilância Sanitária ou notificação de qualquer órgão regulador/fiscalizador) 
+- fundamentação: notificação de fiscalização, diligência de regulação, termo de ajustamento de conduta, relatório circunstanciado, dentre outros 
+emanados de órgãos que impõem ações para cumprimento com regularidade normativa da instituição. 
+Grau 2 - URGÊNCIA ESTRATÉGICA - Gestão Estratégica do CPS (AMS, novos cursos e unidades, programas de governo) - fundamentação: PPA do CPS, ações de 
+governo conduzidas pela Superintendência do CPS. 
+Grau 3 - PRIORIDADE ALTA - Gestão Tática (ações correlatas à Avaliação institucional - ENADE, WebSAI, CPA, Observatório Escolar). - fundamentação: processo 
+avaliativo de órgãos reguladores, processo avaliativo interno do CPS. 
+Grau 4 - PRIORIDADE MÉDIA - Gestão Operacional para aumento da capacidade instalada. - fundamentação: plano operacional de gestão, homologado pela 
+respectiva área da intendência, com foco na atividade fim do CPS. 
+Grau 5 - PRIORIDADE REGULAR - Gestão Operacional para preservação da capacidade instalada. - fundamentação: plano operacional de gestão, homologado 
+pela respectiva área da intendência, com foco na atividade fim do CPS. 
+ 
+ESTRUTURAÇÃO DAS AÇÕES/PROJETOS 
+01 - Didático-pedagógico 
+Ações associadas ao PPC/PE de CSTs e Disciplinas: CST (implantação, alteração, readequação, reestruturação), 
+prática pedagógica (PE, PA), projeto interdisciplinar/ integrador, extensão curricularizada. 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+101 - cat 1.06 - Ações pedagógicas: visitas técnicas, projetos integradores/interdisciplinares, dias de campo, 
+feira das profissões, cursos extracurriculares para alunos. 
+Origem (prioridade): 
+4-Gestão Operacional - Aumento de capacidade instalada 
+O que será feito: 
+Implementação de laboratório dedicado a projetos de inteligência artificial 
+Por que será feito: 
+Atenden à demanda crescente por profissionais capacitados em IA e projetos com a comunidade 
+regionall 
+Responsável: 
+<nome> Marcus Rogério de Oliveira 
+Qde CH/sem: 
+40 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/02/2025 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- Planejamento 
+01/02 
+28/02 
+ 
+02- Instalação de Equipamentos 
+01/03 
+31/03 
+ 
+03- Treinamento 
+01/04 
+30/04 
+ 
+04- Início das Atividades 
+01/05 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+R$ 440.000,00 
+Fonte(s) dos recursos: 
+CPS/GOV SP 
+Situação problema: 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+(a ser resolvida/mitigada) 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+102 - cat 1.06 - Ações pedagógicas: visitas técnicas, projetos integradores/interdisciplinares, dias de campo, 
+feira das profissões, cursos extracurriculares para alunos. 
+Origem (prioridade): 
+4-Gestão Operacional - Aumento de capacidade instalada 
+O que será feito: 
+Implantação de Labratório de Desenvolvimento para Dispositivos Móveis iOS 
+Por que será feito: 
+Atenden aos projetos com a comunidade e disciplinas de desenvolimento 
+Responsável: 
+<nome> Marcus Rogério de Oliveira 
+Qde CH/sem: 
+40 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/02/2025 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- Planejamento 
+01/02 
+28/02 
+ 
+02- Instalação de Equipamentos 
+01/03 
+31/03 
+ 
+03- Treinamento 
+01/04 
+30/04 
+ 
+04- Início das Atividades 
+01/05 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+R$ 360.000,00 
+Fonte(s) dos recursos: 
+CPS/ GOV BR 
+Situação problema: 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+(a ser resolvida/mitigada) 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+X 
+X 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+103 - cat 1.06 - Ações pedagógicas: visitas técnicas, projetos integradores/interdisciplinares, dias de campo, 
+feira das profissões, cursos extracurriculares para alunos. 
+Origem (prioridade): 
+4-Gestão Operacional - Aumento de capacidade instalada 
+O que será feito: 
+Projeto de extensão: Introdução a linguagem Java Para os Alunos do AMS 
+Por que será feito: 
+Promover o aprendizado aos discentes de tecnologia da Fatec Taquaritinga de uma linguagem de 
+programação muito utilizada pelo mercado de trabalho. Desenvolver lógica de programação. 
+Responsável: 
+<nome> Luciano de Jesus Guesso Rodrigues de Barros 
+Qde CH/sem: 
+40 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+03/03/2025 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- Seleção dos Alunos 
+03/03 
+07/03 
+ 
+02- Introdução a Linguagem Java 
+10/03 
+28/03 
+ 
+03- Conceitos de Java Orientado a Objeto 
+31/03 
+25/04 
+ 
+04- Conexão de Banco de Dados Com Java 
+28/04 
+16/05 
+ 
+05- Arquitetura MVC em Java 
+19/05 
+27/06 
+ 
+06- Elaboração do relatório sobre a avaliação das atividades desenvolvidas 
+30/06 
+04/07 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+104 - cat 1.06 - Ações pedagógicas: visitas técnicas, projetos integradores/interdisciplinares, dias de campo, 
+feira das profissões, cursos extracurriculares para alunos. 
+Origem (prioridade): 
+4-Gestão Operacional - Aumento de capacidade instalada 
+O que será feito: 
+Curso de Extensão: Reforço de Lógica Para Preparação dos Alunos do AMS Para Competições de 
+Programação 
+Por que será feito: 
+Oferecer reforço para os alunos, no quesito Lógica de Programação, com intuito de prepara-los 
+para competições de programação 
+Responsável: 
+<nome> Luciano de Jesus Guesso Rodrigues de Barros 
+Qde CH/sem: 
+40 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+03/03/2025 
+Data final: 
+04/07/2025 
+Etapas do processo: 
+01- Seleção dos Alunos 
+03/03 
+07/03 
+ 
+02- Exercícios Básicos - Preparação 
+10/03 
+28/03 
+ 
+03- Treinamento Com Exercícios de Alta Complexidade 
+31/03 
+27/06 
+ 
+04- Elaboração do relatório sobre a avaliação das atividades desenvolvidas 
+30/06 
+04/07 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+105 - cat.1.99 - Outra 
+Origem (prioridade): 
+6-Outra 
+O que será feito: 
+Projeto Competição de Robôs 
+Por que será feito: 
+Motivar os alunos quanto a aplicação de teorias referentes a automação industrial, divulgação do 
+curso de produção industrial  
+Responsável: 
+<nome> Responsável pela disciplina 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/01/2025 
+Data final: 
+31/12/2025 
+Etapas do processo: 
+01- Divulgação do evento 
+21/08/ 
+25/08 
+ 
+02- Formação de equipes 
+26/08 
+01/09 
+ 
+03- Inscrção das equipes 
+02/09 
+08/09 
+ 
+04- Orientações quanto a competição 
+09/09 
+15/09 
+ 
+05- Qualificação das equipes 
+16/09 
+30/09 
+ 
+06- Desenvolvimento dos robôs 
+02/10 
+20/10 
+ 
+07- Avaliação dos robôs 
+25/10 
+25/10 
+ 
+08- Premiação  
+25/10 
+25/10 
+Custo R$ (se houver): 
+R$2.000,00 
+Fonte(s) dos recursos: 
+Participantes 
+Situação problema: 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+(a ser resolvida/mitigada) 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+106 - cat.1.99 - Outra 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Aquisição do software SolidWorks 
+Por que será feito: 
+Disponibilizar para trabalhar nas disciplinas de Desenvolvimento de produto e desenho técnico 
+industrial  
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/01/2025 
+Data final: 
+31/12/2025 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+32 licenças (1.500,00) R$ 
+48.000,00 
+Fonte(s) dos recursos: 
+Centro Paula Souza 
+Situação problema: 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+107 - cat.1.99 - Outra 
+Origem (prioridade): 
+6-Outra 
+O que será feito: 
+Aquisição do software FluidSim 
+Por que será feito: 
+Disponibilizar o aplicativo de simulação de circuitos eletro hidráulicos ,eletropneumáticos e 
+eletrônicos 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/01/2025 
+Data final: 
+31/12/2025 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+32 licenças (R$500,00)  
+R$ 16.000,00 
+Fonte(s) dos recursos: 
+Centro Paula Souza 
+Situação problema: 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+108 - cat.1.99 - Outra 
+Origem (prioridade): 
+6-Outra 
+O que será feito: 
+Aquisição do software FlexSim 
+Por que será feito: 
+ 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/01/2025 
+Data final: 
+31/12/2025 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+32 mlicenças (R$ 700,00) 
+R$ 22.400,00 
+Fonte(s) dos recursos: 
+Centro Paula Souza 
+Situação problema: 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+109 - cat.1.99 - Outra 
+Origem (prioridade): 
+6-Outra 
+O que será feito: 
+105 – Aquisição de Software Jogo online Beer Game. Simulador do comportamento de uma 
+cadeia de suprimentos com demanda flutuante. (https://beergame.app/) 
+Por que será feito: 
+ 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/01/2025 
+Data final: 
+31/12/2025 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+Mensalidades de R$500,00 (12 
+meses)  
+R$ 6.000,00 
+Fonte(s) dos recursos: 
+Centro Paula Souza 
+Situação problema: 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+AÇÃO/PROJETO (Tema) 
+110 - cat 1.06 - Ações pedagógicas: visitas técnicas, projetos integradores/interdisciplinares, dias de campo, 
+feira das profissões, cursos extracurriculares para alunos. 
+Origem (prioridade): 
+4-Gestão Operacional - Aumento de capacidade instalada 
+O que será feito: 
+Quatro palestras proferidas por profissionais de relevância no Agronegócio 
+Por que será feito: 
+Apresentação de temas relevantes do Agronegócio 
+Responsável: 
+<nome> Docentes 
+Qde CH/sem: 
+80 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/01/2025 
+Data final: 
+01/01/2026 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+ 
+AÇÃO/PROJETO (Tema) 
+111 - cat 1.06 - Ações pedagógicas: visitas técnicas, projetos integradores/interdisciplinares, dias de campo, 
+feira das profissões, cursos extracurriculares para alunos. 
+Origem (prioridade): 
+4-Gestão Operacional - Aumento de capacidade instalada 
+O que será feito: 
+Duas exposições de projetos elaborados pelos alunos do 1º ao 6º semestres letivos 
+Por que será feito: 
+Divulgar projetos técnico-acadêmicos para a comunidade em geral 
+Responsável: 
+<nome> Docentes 
+Qde CH/sem: 
+80 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/01/2025 
+Data final: 
+01/01/2026 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.08 - Participação da comunidade e sociedade 
+(a ser resolvida/mitigada) 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+ 
+AÇÃO/PROJETO (Tema) 
+112 - cat 1.06 - Ações pedagógicas: visitas técnicas, projetos integradores/interdisciplinares, dias de campo, 
+feira das profissões, cursos extracurriculares para alunos. 
+Origem (prioridade): 
+4-Gestão Operacional - Aumento de capacidade instalada 
+O que será feito: 
+Seis visitas técnicas monitoradas para acompanhamento de operações agrícolas e agroindustriais 
+Por que será feito: 
+Complementação práticas das aulas teóricas 
+Responsável: 
+<nome> Docentes 
+Qde CH/sem: 
+80 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/01/2025 
+Data final: 
+01/01/2026 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+ 
+AÇÃO/PROJETO (Tema) 
+113 - cat.1.99 - Outra 
+Origem (prioridade): 
+6-Outra 
+O que será feito: 
+Aquisição do software FluidSim 
+Por que será feito: 
+Disponibilizar o aplicativo de simulação de circuitos eletro hidráulicos ,eletropneumáticos e 
+eletrônicos 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/01/2025 
+Data final: 
+31/12/2025 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+32 licenças (R$500,00)  
+R$ 16.000,00 
+Fonte(s) dos recursos: 
+Centro Paula Souza 
+Situação problema: 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+(a ser resolvida/mitigada) 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+X 
+AÇÃO/PROJETO (Tema) 
+114 - cat.1.99 - Outra 
+Origem (prioridade): 
+6-Outra 
+O que será feito: 
+Aquisição do software FlexSim 
+Por que será feito: 
+ 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/01/2025 
+Data final: 
+31/12/2025 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+32 mlicenças (R$ 700,00) 
+R$ 22.400,00 
+Fonte(s) dos recursos: 
+Centro Paula Souza 
+Situação problema: 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+(a ser resolvida/mitigada) 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+X 
+AÇÃO/PROJETO (Tema) 
+115 - cat.1.99 - Outra 
+Origem (prioridade): 
+6-Outra 
+O que será feito: 
+105 – Aquisição de Software Jogo online Beer Game. Simulador do comportamento de uma 
+cadeia de suprimentos com demanda flutuante. (https://beergame.app/) 
+Por que será feito: 
+ 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/01/2025 
+Data final: 
+31/12/2025 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+Mensalidades de R$500,00 (12 
+meses)  
+R$ 6.000,00 
+Fonte(s) dos recursos: 
+Centro Paula Souza 
+Situação problema: 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+(a ser resolvida/mitigada) 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+X 
+ 
+ 
+ 
+ 
+ 
+01 – Didático-Pedagógico: Copiar projetos de 2024 
+ 
+AÇÃO/PROJETO (Tema) 
+10x - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+ (copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+10y - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+10w - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+10z - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+ 
+02 – Laboratórios - Ensino e Equipamentos Associados 
+Ações para melhoramento dos laboratórios de Ensino (Gestão e Equipamentos): Melhoramento de 
+equipamentos, mediante instalação, manutenção, desuso, doação, e gestão de ambiente laboratorial. 
+ 
+AÇÃO/PROJETO (Tema) 
+201 - cat 2.01 - Laboratório físico - implantação/melhoramento com recursos PEDAGÓGICOS 
+Origem (prioridade): 
+4-Gestão Operacional - Aumento de capacidade instalada 
+O que será feito: 
+Aquisição e instalação de equipamentos 
+Por que será feito: 
+Para utilização em aulas práticas, principalmente das disciplinas de Tecnologia de Produção Animal I e II, 
+Produção Agroindustrial I e II e Projeto de Agronegócio II e III 
+Responsável: 
+<nome> Fabio Alexandre Cavichioli 
+Qde CH/sem: 
+40 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/01/2025 
+Data final: 
+01/01/2026 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+202 - cat 2.01 - Laboratório físico - implantação/melhoramento com recursos PEDAGÓGICOS 
+Origem (prioridade): 
+4-Gestão Operacional - Aumento de capacidade instalada 
+O que será feito: 
+Aquisição e instalação de equipamentos 
+Por que será feito: 
+Para utilização em aulas práticas, principalmente das disciplinas de Tecnologia de Produção Animal I e II, 
+Produção Agroindustrial I e II e Projeto de Agronegócio II e III. 
+Responsável: 
+<nome> Fabio Alexandre Cavichioli 
+Qde CH/sem: 
+40 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/01/2025 
+Data final: 
+01/01/2026 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+X 
+X 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+203 - cat 2.01 - Laboratório físico - implantação/melhoramento com recursos PEDAGÓGICOS 
+Origem (prioridade): 
+4-Gestão Operacional - Aumento de capacidade instalada 
+O que será feito: 
+Aquisição e instalação de equipamentos 
+Por que será feito: 
+Para utilização em aulas práticas, principalmente das disciplinas de Tecnologia de Produção Animal I e II, 
+Produção Agroindustrial I e II e Projeto de Agronegócio II e III 
+Responsável: 
+<nome> Fabio Alexandre Cavichioli 
+Qde CH/sem: 
+40 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/01/2025 
+Data final: 
+01/01/2026 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+X 
+ 
+AÇÃO/PROJETO (Tema) 
+204 - cat 2.01 - Laboratório físico - implantação/melhoramento com recursos PEDAGÓGICOS 
+Origem (prioridade): 
+6-Outra 
+O que será feito: 
+201 – Implantar um Laboratório de Metrologia 
+Por que será feito: 
+ Para desenvolver competências na área de Sistemas Dimensionais, Materiais e Tratamentos e Processo de Fabricação. 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/01/2025 
+Data final: 
+31/12/2025 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+Padrão Centro Paula Souza 
+Fonte(s) dos recursos: 
+Centro Paula Souza 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+X 
+X 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+205 - cat 2.01 - Laboratório físico - implantação/melhoramento com recursos PEDAGÓGICOS 
+Origem (prioridade): 
+5-Gestão Operacional - Preservação de capacidade instalada 
+O que será feito: 
+Necessidade de manutenção corretiva e evolutiva. 
+Por que será feito: 
+Porque o laboratório está sem condições de uso, em função de equipamentos quebrados, celulas sem manutenção e 
+necessidades de reparo em equipamentos da planta. 
+Responsável: 
+Coordenação dos Laboratórios de Produção 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/01/2025 
+Data final: 
+31/12/2025 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+Centro Paula Souz 
+Situação problema: 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+(a ser resolvida/mitigada) 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+X 
+AÇÃO/PROJETO (Tema) 
+206 - cat 2.01 - Laboratório físico - implantação/melhoramento com recursos PEDAGÓGICOS 
+Origem (prioridade): 
+5-Gestão Operacional - Preservação de capacidade instalada 
+O que será feito: 
+Manutenção do Laboratório Sistema de Processo de Manufatura (MPS) 
+Por que será feito: 
+ Necessidade de manutenção corretiva e evolutiva. 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/01/2025 
+Data final: 
+31/12/2025 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.02 - Manutenção e conservação predial 
+(a ser resolvida/mitigada) 
+cat 0.1.02 - Manutenção e conservação predial 
+X 
+AÇÃO/PROJETO (Tema) 
+207 - cat 2.01 - Laboratório físico - implantação/melhoramento com recursos PEDAGÓGICOS 
+Origem (prioridade): 
+5-Gestão Operacional - Preservação de capacidade instalada 
+O que será feito: 
+Manutenção do Laboratório de Sistemas Hidráulico e Pneumáticos (SHP) 
+Por que será feito: 
+Porque o laboratório está sendo parcialmente utilizado em função de problemas nos equipamentos. 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/01/2025 
+Data final: 
+31/12/2025 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.02 - Manutenção e conservação predial 
+(a ser resolvida/mitigada) 
+cat 0.1.02 - Manutenção e conservação predial 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+208 - cat 2.01 - Laboratório físico - implantação/melhoramento com recursos PEDAGÓGICOS 
+Origem (prioridade): 
+5-Gestão Operacional - Preservação de capacidade instalada 
+O que será feito: 
+Manutenção do Laboratório Sistemas de Processamento de Manufatura Contínuo (MPS – PA) 
+Por que será feito: 
+Porque o laboratório está sendo parcialmente utilizado em função de problemas nos equipamentos. 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/01/2025 
+Data final: 
+31/01/2025 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.02 - Manutenção e conservação predial 
+(a ser resolvida/mitigada) 
+cat 0.1.02 - Manutenção e conservação predial 
+ 
+ 
+ 
+ 
+02 – Laboratórios: Copiar projetos de 2024 
+ 
+AÇÃO/PROJETO (Tema) 
+20x - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+20y - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+20w - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+20z - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+ 
+ 
+03 – Pesquisa / Extensão e Equipamentos Associados 
+Ações para melhoramento dos laboratórios que contemplam Pesquisa além do Ensino (Equipamentos): 
+melhoramento dos espaços de pesquisa, que inclui especificação equipamentos e aquisição por fomento ou por 
+projeto com empresa, e também prestação de serviços no campo tecnológico para instituições e empresas. 
+ 
+AÇÃO/PROJETO (Tema) 
+301 - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+302 - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+ 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+303 - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+304 - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+<Copiar tabelas para mais ações> 
+ 
+ 
+03 – Pesquisa/Extensão: Copiar projetos de 2024 
+ 
+AÇÃO/PROJETO (Tema) 
+30x - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+30y - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+30w - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+30z - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+04 – Atividades Formativas em Projetos (nível tático) 
+Projetos institucionais formativos não especificados em PEs: Rede de tecnologia, Novotec, PCI, Projetos 
+estudantis (Baja, Aerodesign, entre outros) 
+ 
+AÇÃO/PROJETO (Tema) 
+401 - cat 4.04 - Projetos estudantis diversos 
+Origem (prioridade): 
+6-Outra 
+O que será feito: 
+Workshop de Produção Industrial (2º 2023 e 1º 2024) 
+Por que será feito: 
+Compartilhar conhecimento e experiência com os alunos do curso de produção industrial. 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/01/2025 
+Data final: 
+31/12/2025 
+Etapas do processo: 
+01- Workshop de Produção Industrial 1º 2025 
+dd/mm 
+dd/mm 
+ 
+02- Workshop de Produção Industrial 2º 2025 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+R$10.000,00 
+Fonte(s) dos recursos: 
+Centro Paula Souza 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+402 - cat 4.04 - Projetos estudantis diversos 
+Origem (prioridade): 
+6-Outra 
+O que será feito: 
+Visitas Técnica Monitoradas  
+Por que será feito: 
+Conhecer instalações das organizações e seus processos e operações. 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/01/2025 
+Data final: 
+31/12/2025 
+Etapas do processo: 
+01- 2 visitas técnicas monitoradas no 1º semestre de 2025 
+dd/mm 
+dd/mm 
+ 
+02- 2 visitas técnicas monitoradas no 2º semestre de 2025 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+R$16.000,00 
+Fonte(s) dos recursos: 
+Centro Paula Souza 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+X 
+X 
+ 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+403 - cat 4.04 - Projetos estudantis diversos 
+Origem (prioridade): 
+6-Outra 
+O que será feito: 
+Palestras 
+Por que será feito: 
+4 palestras proferidas por profissionais de relevância na área de Produção Industrial 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/01/2025 
+Data final: 
+31/12/2025 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+R$10.000,00 
+Fonte(s) dos recursos: 
+Centro Paula Souza 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+404 - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+<Copiar tabelas para mais ações> 
+ 
+ 
+04 – Atividades Formativas em Projetos: Copiar projetos de 2024 
+ 
+AÇÃO/PROJETO (Tema) 
+40x - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+40y - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+40w - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+40z - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+ 
+ 
+ 
+05 – Infraestrutura (instalações prediais) 
+Projetos de manutenção e melhoramento predial voltados à segurança (física e sanitária) e preservação do 
+patrimônio: Reparação predial (civil, elétrica, dados), novas instalações prediais. 
+ 
+AÇÃO/PROJETO (Tema) 
+501 - cat 5.06 - Implantação de espaços pedagógicos 
+Origem (prioridade): 
+4-Gestão Operacional - Aumento de capacidade instalada 
+O que será feito: 
+Um prédio de 110 m², para turmas de 40 alunos 
+Por que será feito: 
+Para que pedagogicamente sejam desenvolvidas as competências necessárias à formação do perfil egresso 
+Responsável: 
+<nome> Fabio Alexandre Cavichioli 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/06/2025 
+Data final: 
+01/06/2026 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+(a ser resolvida/mitigada) 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+502 - cat 5.06 - Implantação de espaços pedagógicos 
+Origem (prioridade): 
+4-Gestão Operacional - Aumento de capacidade instalada 
+O que será feito: 
+Um prédio de 150 m², para turmas de 40 alunos 
+Por que será feito: 
+Para que pedagogicamente sejam desenvolvidas as competências necessárias à formação do perfil egresso 
+Responsável: 
+<nome> Fabio Alexandre Cavichioli 
+Qde CH/sem: 
+40 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/06/2025 
+Data final: 
+01/06/2026 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+(a ser resolvida/mitigada) 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+X 
+X 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+503 - cat 5.06 - Implantação de espaços pedagógicos 
+Origem (prioridade): 
+4-Gestão Operacional - Aumento de capacidade instalada 
+O que será feito: 
+Um prédio de 150 m², para turmas de 40 alunos 
+Por que será feito: 
+Para que pedagogicamente sejam desenvolvidas as competências necessárias à formação do perfil egresso 
+Responsável: 
+<nome> Fabio Alexandre Cavichioli 
+Qde CH/sem: 
+40 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/06/2025 
+Data final: 
+01/06/2026 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+(a ser resolvida/mitigada) 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+X 
+AÇÃO/PROJETO (Tema) 
+504 - cat 5.03 - Material Infraestrutura/equipamentos 
+Origem (prioridade): 
+5-Gestão Operacional - Preservação de capacidade instalada 
+O que será feito: 
+Reparo do telhado do bloco A2 
+Por que será feito: 
+Goteiras diversas e problemas com a calha 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/01/2025 
+Data final: 
+31/12/2025 
+Etapas do processo: 
+01- Revitalização do telhado e das calhas bloco A2 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+Padrão Centro Paula Souza 
+Fonte(s) dos recursos: 
+Centro Paula Souza 
+Situação problema: 
+cat 0.1.02 - Manutenção e conservação predial 
+(a ser resolvida/mitigada) 
+cat 0.1.11 - Segurança pessoal e patrimonial 
+X 
+<Copiar tabelas para mais ações> 
+ 
+ 
+ 
+ 
+ 
+05 – Infraestrutura: Copiar projetos de 2024 
+ 
+AÇÃO/PROJETO (Tema) 
+50x - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+50y - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+50w - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+50z - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+ 
+ 
+ 
+06 - Desenvolvimento de pessoas (docentes e servidores) 
+Formação continuada de docentes e servidores, associadas às competências gerais e específicas de suas 
+atividades: Metodologias de ensino, Tecnologias educacionais, Sistemas (processos, procedimentos, plataformas 
+computacionais) acadêmicos e pedagógicos. 
+ 
+AÇÃO/PROJETO (Tema) 
+601 - cat 6.01 - Curso/Oficina/Capacitação/ Treinamento/ Palestra/Reunião/Encontro 
+Origem (prioridade): 
+2-Gestão Estratégica Institucional (AMS, novos cursos e unidades) 
+O que será feito: 
+SIPAT 2024 
+Por que será feito: 
+Evento anual que visa a prevenção de acidentes e assédio 
+Responsável: 
+<nome> Luciana Ap. Ferrarezi 
+Qde CH/sem: 
+40 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/08/2024 
+Data final: 
+30/08/2024 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.13 - Relacionamento interpessoal da equipe 
+(a ser resolvida/mitigada) 
+cat 0.1.11 - Segurança pessoal e patrimonial 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+602 - cat 6.01 - Curso/Oficina/Capacitação/ Treinamento/ Palestra/Reunião/Encontro 
+Origem (prioridade): 
+2-Gestão Estratégica Institucional (AMS, novos cursos e unidades) 
+O que será feito: 
+Capacitação de docentes em Infraestrutura de Redes com a Baitz 
+Por que será feito: 
+Aprimorar conhecimentos e colocar docentes em consonância com as exigências de mercado. 
+Responsável: 
+<nome> Luciana Ap. Ferrarezi 
+Qde CH/sem: 
+40 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/08/2024 
+Data final: 
+21/12/2024 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.13 - Relacionamento interpessoal da equipe 
+(a ser resolvida/mitigada) 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+X 
+X 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+603 - cat 6.01 - Curso/Oficina/Capacitação/ Treinamento/ Palestra/Reunião/Encontro 
+Origem (prioridade): 
+2-Gestão Estratégica Institucional (AMS, novos cursos e unidades) 
+O que será feito: 
+Capacitação em Ciência de Dados REMAY 
+Por que será feito: 
+Aprimorar conhecimentos e colocar docentes em consonância com as exigências de mercado. 
+Responsável: 
+<nome> Luciana Ap. Ferrarezi 
+Qde CH/sem: 
+40 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/08/2024 
+Data final: 
+30/08/2024 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.13 - Relacionamento interpessoal da equipe 
+(a ser resolvida/mitigada) 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+604 - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+<Copiar tabelas para mais ações> 
+ 
+ 
+ 
+ 
+06 – Desenvolvimento de Pessoas: Copiar projetos de 2024 
+ 
+AÇÃO/PROJETO (Tema) 
+60x - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+60y - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+60w - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+60z - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+ 
+ 
+ 
+ 
+07 – Convênios e Parcerias Institucionais 
+Formalização do relacionamento da Unidade com o Ecossistema de Tecnologia: Convênio de uso de prédio, 
+estágios, projetos com empresas. Aqui cabe apenas novos convênios e parcerias, e cada proposta deve estar 
+relacionada a uma Ação/Projeto de melhoria em algum dos itens anteriores do PGA (1, 2, 3, 4, 5 ou 6). 
+ 
+AÇÃO/PROJETO (Tema) 
+701 - cat 7.03 - Projetos com empresas e/ou demais parceiros 
+Origem (prioridade): 
+2-Gestão Estratégica Institucional (AMS, novos cursos e unidades) 
+Referente ao(s) projeto(s): Baldan Implementos Agrícolas SA 
+O que será feito: 
+Parceria para oferecimento de treinamentos 
+Por que será feito: 
+Para integrar o ensino pedagógico às práticas de mercado. 
+Responsável: 
+<nome> Luciana Ap. Ferrarezi 
+Qde CH/sem: 
+40 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/08/2024 
+Data final: 
+31/07/2025 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.99 - Outra 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+702 - cat 7.03 - Projetos com empresas e/ou demais parceiros 
+Origem (prioridade): 
+2-Gestão Estratégica Institucional (AMS, novos cursos e unidades) 
+Referente ao(s) projeto(s): Maqmóveis  
+O que será feito: 
+Parceria para oferecimento de treinamentos 
+Por que será feito: 
+Para integrar o ensino pedagógico às práticas de mercado. 
+Responsável: 
+<nome> Luciana Ap. Ferrarezi 
+Qde CH/sem: 
+40 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/08/2024 
+Data final: 
+31/07/2025 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.99 - Outra 
+X 
+X 
+ 
+ 
+ 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+702 - cat 7.03 - Projetos com empresas e/ou demais parceiros 
+Origem (prioridade): 
+2-Gestão Estratégica Institucional (AMS, novos cursos e unidades) 
+Referente ao(s) projeto(s): SAMT 
+O que será feito: 
+Parceria para oferecimento de treinamentos 
+Por que será feito: 
+Para integrar o ensino pedagógico às práticas de mercado. 
+Responsável: 
+<nome> Luciana Ap. Ferrarezi 
+Qde CH/sem: 
+40 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/08/2024 
+Data final: 
+31/07/2025 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.99 - Outra 
+X 
+ 
+ 
+ 
+07 – Convênios e Parcerias: Copiar projetos de 2024 
+AÇÃO/PROJETO (Tema) 
+70x - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+Referente ao(s) projeto(s): nn 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+70y - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+Referente ao(s) projeto(s): nn 
+(copiar restante da tabela, e colar com botão direito do mouse para manter a formatação) 
+ 
+ 
+ 
+ 
+Anexo 1 – Lista de aquisições necessárias aos projetos 
+(equipamentos, softwares, mobiliários) 
+Item 
+Projeto 
+(XYY) 
+Denominação 
+Quant. 
+Preço 
+Total 
+01 
+204 
+Sensor Óptico NA/NF – 5/8 PNP – tensão de 10 a 30v (LAB. 
+SHP) 
+06 
+Padrão CPS 
+02 
+204 
+Sensor Capacitivos – 5/8 PNP – tensão de 10 a 30v (LAB. SHP) 
+03 
+Padrão CPS 
+03 204 
+Sensor REED – pra cilindro de 28mm (LAB. SHP) 
+02 
+Padrão CPS 
+04 204 
+Sensor Indutivos NA – 5/8 PNP – tensão de 10 a 30v (LAB. SHP) 
+02 
+Padrão CPS 
+05 204 
+Temporizador COEL 2AE – 30 segundos – 24 VCA (LAB. SHP) 
+01 
+Padrão CPS 
+06 203 
+Fonte estabilizada 10A -24v (LAB. MPS) 
+04 
+Padrão CPS 
+07 203 
+Ventosa diâmetro 3/8 rosca 1/8 BSP (LAB. MPS) 
+02 
+Padrão CPS 
+08 202 
+Relê WAGO I/O System 750-343 
+01 
+Padrão CPS 
+09 203 
+Correia dimensão ( C x L x E = 806 x 30 x 2,3 mm ) (LAB. MPS) 
+04 
+Padrão CPS 
+10 203 
+Correia dimensão ( C x L x E = 620 x 30 x 2,3 mm ) (LAB. MPS) 
+02 
+Padrão CPS 
+11 202 
+Baterias do Robô RV-1A de Lithium - ER17330V / 3.6V 
+15 
+Padrão CPS 
+12 202 
+Baterias do Robô RV-1A de Lithium - ER6V / 3.6V 
+03 
+Padrão CPS 
+13 204 
+CLP FEC 640 C (LAB. SHP) 
+01 
+Padrão CPS 
+14 203 
+Motor da Esteira com Redutor 24 VAC (LAB. MPS) 
+02 
+Padrão CPS 
+15 202 
+Placa controladora do Torno CNC – EMCO TURN 55 
+01 
+Padrão CPS 
+16 202 
+Servo motor do 5º Eixo do robô RV - 1A - S12 
+02 
+Padrão CPS 
+17 204 
+Conexão reta para mangueira de 4mm rosca 1/4 BSP com 
+retenção (LAB. SHP)  
+10 
+Padrão CPS 
+18 203 
+Motor 24v para torre de elevação do conjunto MPS (LAB. MPS) 
+01 
+Padrão CPS 
+19 203 
+Conexão de engate rápido reta ½ BSP para cano 3/8 (LAB. MPS) 
+02 
+Padrão CPS 
+20 202 
+Correia dimensão ( C x L x E = 4.090 x 30 x 2,3 mm ) 
+02 
+Padrão CPS 
+21 202 
+Correia dimensão ( C x L x E = 2.094 x 30 x 2,3 mm ) 
+02 
+Padrão CPS 
+22 103 
+Impressora 3d FFM (Creality) 
+01 
+Padrão CPS 
+23 102 
+Scanner para impressão 3d (CR-Scan Lizard Creality) 
+01 
+Padrão CPS 
+24 202 
+Centro de usinagem didático de 5 eixos 
+01 
+Padrão CPS 
+25 105 
+Jogo online Beer Game (https://beergame.app/) simulador do 
+comportamento de uma cadeia de suprimentos com demanda 
+flutuante. 
+01 
+Padrão CPS 
+26 202 
+Bancada didática de CLP 
+05 
+Padrão CPS 
+27 202 
+Kit didáticos de CLP 
+05 
+Padrão CPS 
+28 104 
+Laboratório didático em sistemas de células de manufaturas 
+integradas programáveis - DL CIM-PMC (INDÚSTRIA 4.0) 
+02 
+Padrão CPS 
+29 104 
+Caixas de cabo de rede (FURUKAWA) 
+02 
+Padrão CPS 
+30 104 
+Microcomputador, c/ monitor de vídeo – Padrão CPS 
+33 
+Padrão CPS 
+31 104 
+Impressora Multifuncional Monocromática Laser 
+01 
+Padrão CPS 
+32 104 
+Switch c/ 24 portas gerenciável – Padrão CPS 
+02 
+Padrão CPS 
+33 104 
+Projetor Multimídia – mínimo 3000 lumens – Padrão CPS 
+01 
+Padrão CPS 
+34 104 
+Tela de Projeção 2,00x2,00 - Retrátil – Padrão CPS 
+01 
+Padrão CPS 
+35 104 
+Condicionador de Ar, Tipo Split, Piso/Teto – Padrão CPS 
+02 
+Padrão CPS 
+36 104 
+Caixa de Som Amplificadora – Padrão CPS 
+01 
+Padrão CPS 
+37 104 
+Mini rack de parede – Padrão CPS 
+01 
+Padrão CPS 
+38 201 
+Paquímetro; aço inoxidável temperado de alta resistência; 
+digital; saída de dados pode ser integrado ao controle estatist de 
+processo ou c/ sist de controle de medição; lcd; mm e polegadas; 
+resolucao:0,01 mm e exatidão de +/- 0.02; capacidade: 0 mm a 
+200 mm; profundidade aprox. externa 50 mm e interna 20mm; 
+funcionamento a bateria; sistema de indução eletromagnética 
+permite o uso em condições de chão de fábrica. após ser ligado; 
+as medições podem ser iniciadas sem necessidade de 
+zeramento caso a origem esteja previamente setada; medição 
+incremental: o mostrador pode ser zerado em qualquer posição 
+para medições em comparação; alerta de bateria fraca; 
+acondicionado em estojo. 
+06 
+Padrão CPS 
+39 201 
+Paquímetro, aço inox, univ.0,05mm/1/128], +/-0,05/1/128], 
+régua 150mm/6] item BEC grupo: 51 >> classe: 5125 >> 
+material: 93041 especificação técnica: paquímetro; em aço 
+inoxidável temperado de alta resistência; tipo mecânico; modelo 
+universal; contendo régua; leitura 0,05mm ou 1/128]; exatidão 
++/- 0,05mm ou 1/128"; com régua de 150mm / 6]; possui 
+parafuso 
+de 
+fixação; 
+para 
+medição 
+externa, 
+interna, 
+profundidade e ressalto; com garantia e manual de instruções; 
+acondicionado em estojo; 
+10 
+Padrão CPS 
+40 201 
+Paquímetro de aço inox temperado, analógico, 0.05mm ou 
+1/128", paraf. trav item bec item com negociação grupo: 51 >> 
+classe: 5125 >> material: 93041 especificação técnica: 
+paquímetro; em aço inoxidável temperado de alta resistência; 
+tipo analógico; modelo universal; graduada e milímetro e 
+polegada; resolucao:0.05mm x 1/128"; capacidade 300mm / 12"; 
+externo mm/interno mm; funcionamento mecânico; parafuso de 
+trava corrediça; acompanha certificado de garantia e manual de 
+instrução, acondicionado em estojo. 
+02 
+Padrão CPS 
+41 201 
+Máquina de medir por coordenadas tridimensionais; medição 
+por comparação de superfície; curso de medição x: 500 mm, 
+y:700 mm, z: 400 mm; resolução: 0,5 micrometros; acompanha 
+kit de cabeçote indexável; mpee= (3,5 + 4,0l/1000)micrometros; 
+mpe= 4,0 micrometro; elétrica 110 ~ 240 vac / 700 w; mesa de 
+01 
+Padrão CPS 
+medição em granito, com área total de 764 x 1175 mm; 
+capacidade de carga de 180 kg; com certificado emissão de 
+certificado de calibração; acompanha manual e software para 
+operação. 
+42 201 
+Micrometro; externo - digital; leitura de 0,001mm, exatidão + ou 
+- 0.001mm; capacidade de medição 50-75mm; indicador em 
+display de cristal líquido com 5 dígitos, altura dos dígitos 4,7mm; 
+temperatura de operação 0 a 40grc, funções: desligamento 
+automático, zeragem em qualquer ponto; alimentação: bateria 
+de 1,5 sr44, acompanha barra padrão; acompanha certificado de 
+calibração rastreável. 
+04 
+Padrão CPS 
+43 201 
+Micrômetro analógico externo; modelo analógico; resolução 
+0,001, exatidão +/-0,002; amplitude de medição de 25mm a 50 
+mm; faces de medição de metal duro micro lapidadas; arco 
+esmaltado; bainha e tambor com acabamento cromado; 
+pesando aproximadamente 270 gramas; com barra padrão e 
+chave; acondicionado em estojo. 
+04 
+Padrão CPS 
+44 201 
+Micrômetro; arco esmaltado; tambor e bainha com acabamento 
+em aço cromado; externo; leitura 0,01mm; capacidade 0-25mm; 
+exatidão mais ou menos 0,002; tambor com diâmetro de 18mm; 
+fuso: diâmetro 6,5mm; passo de rosca de 0,5mm com trava; 
+faces de medição: metal duro, micro lapidadas; forca de 
+medição: 5-10 n (acima de 100 mm: 5-15 n); acondicionado em 
+embalagem apropriada que garanta a integridade do material. 
+10 
+Padrão CPS 
+45 201 
+Micrômetro analógico interno; em arco rígido de aço forjado; 
+externo (analógico); resolução de 0.01 mm; capacidade de 25 a 
+50mm; exatidão mais ou menos 0.002mm; com tambor e bainha; 
+faces de medição de metal duro micro lapidadas; acondicionado 
+em estojo com padrão de calibração. 
+01 
+Padrão CPS 
+46 201 
+Relógio apalpador 0,14mm 0,001mm ponta de metal duro 513-
+401-10e • fornece fácil acesso em superfícies que não podem 
+ser alcançadas com relógios comparadores convencionais. • 
+estrutura que permite medição em ambos os sentidos sem 
+necessidade de chaveamento. • resistente a água e poeira 
+graças ao aro em peça única e vedação do vidro com anel 
+elástico. • a superfície do vidro plano antirreflexivo possui 
+tratamento resistente a riscos. • alta sensibilidade e rápida 
+resposta devido aos mancais de rubi com baixo atrito. série 
+apalpador modelo horizontal capacidade 0,14mm resolução / 
+graduação 0,001mm exatidão±3µm notas / obs. conjunto básico. 
+02 
+Padrão CPS 
+47 201 
+Relógio comparador; analógico, graduação 0.01 mm; caixa em 
+metal com abs; diâmetro do mostrador 57 mm - forca de medição 
+max 1.4 diâmetro da haste 8 mm; capacidade 10 mm - mostrador 
+de 0-100; 0.01 mm-exatidão +/- 0.013 mm, curso por volta 1 mm; 
+prazo de garantia 06 meses; acondicionada em caixa plástica. 
+04 
+Padrão CPS 
+48 201 
+Balança digital de precisão com microprocessador e calibração 
+automática; utilizado para pesagens em laboratório; gabinete 
+com prato de pesagem em aço inox com diâmetro aproximado 
+de 100mm e capela em acrílico transparente; capacidade de 
+capacidade de 0 a 330g; pesagem em gramas com resolução 
+0,001g, tara subtrativa em toda a escala, peso mínimo de 0,02g; 
+visor com display digital de cristal líquido com 8 dígitos de 7 
+segmentos e indicador de estabilidade; modulo de comando 
+teclas únicas para ligar/desligar, zerar e tarar automaticamente; 
+01 
+Padrão CPS 
+classe de exatidão: ii; tempo de estabilização de 3 segundos; 
+calibração automática interna; temperatura de operação 
+temperatura de trabalho de 10 a 40°c; comunicação com Excel, 
+hiper terminal e bloco de notas através da saída serial rs232; 
+bivolt, com frequência 50/60hz e consumo 6,7w; dimensões 
+cxlxa (mm) 290 x 210 x 260 aproximadamente, peso de 5kg; 
+modelo aprovado pelo INMETRO conforme portaria INMETRO 
+/dimel n.0008 de 05-01-2012; unidades de pesagem disponíveis: 
+grama, kg e ct; 9 funcoes: pesagem simples, contagem de 
+peças, porcentagem absoluta e relativa, determin. densidade; 
+verificação de peso, cálculo estatístico; incluso manual de 
+operação em língua portuguesa, assistência técnica no brasil; 
+garantia mínima de 12 meses. 
+49 201 
+Goniômetro; plástico transparente; medidas aproximadas de 
+21,0 x 5cm (cxl); 2 réguas; sistema de transferidor de 0° a 360°; 
+mensuração de amplitude articular. 
+01 
+Padrão CPS 
+50 201 
+Mesa de desempeno; fabricado em granito preto; superfície de 
+medição lapidada; com 3 pontos de apoio; dimensões 
+aproximadamente (630 x 400 x 120)mm; planeza: 4.(1+l/1000); 
+para calibração e tracagem de peças; com base tipo mesa; 
+fabricado de acordo com as normas técnicas din 876/1; com 
+garantia mínima de 12 meses e com manual de instruções; 
+acondicionado de forma apropriada de modo a garantir seu 
+perfeito recebimento. 
+01 
+Padrão CPS 
+51 201 
+Projetor de perfil, para medição de peças de pequeno e médio 
+porte com tela de projeção vertical mínimo 315 mm com linhas 
+de referências cruzadas a 90º iluminação diascópica e 
+episcópica com lâmpadas de halogênio 24 v, 150 w, lentes de 
+projeção: aumento 10, 20, 50, 100 vezes, com espelhos semi 
+refletores p/ cada objetiva, exatidão de ampliação: diascópica +/- 
+0.10 % e episcópica 0.15 %, vidro verde, leitor digital de 6 
+dígitos, mesa giratória, suporte de contra pontas, bloco em "v", 
+fixador de peças, mesa de coordenadas com capacidade 100 x 
+100 mm, escala de vidro interna, altura máxima de 91 mm, saída 
+de dados digital, ajuste de zero, contador xy, software 
+geométrico, interface de dados. 
+01 
+Padrão CPS 
+52 201 
+Suporte para relógio; tipo magnético; para fixação em superfície 
+plana ou cilíndricas; com ajuste fino; articulado e encaixe para 8 
+mm diâmetro e 3/8] - rabo de andorinha; chave liga/desliga do 
+ima da base; altura total 235,1 mm; forca do ima 60 kgf; medida 
+da base de apoio 64 x 50 x 54; para qualquer tipo de relógio 
+comparador ou apalpador; fabricado de acordo com as normas 
+vigentes; acompanha certificado de garantia de no mínimo 12 
+meses e manual de instruções; acondicionado de forma 
+apropriada, de modo a garantir seu perfeito recebimento. 
+01 
+Padrão CPS 
+53 201 
+Bancadas (3,2 x 0,8m) C x L para que os alunos trabalhem 
+sentados 
+04 
+Padrão CPS 
+54 201 
+Banqueta para bancada, com regulagem de altura e com rodizio 
+- Padrão CPS 
+40 
+Padrão CPS 
+55 201 
+Quadro não magnético branco, 4,00x1,20m 
+01 
+Padrão CPS 
+56 201 
+Quadro de aviso, madeira, revestido em formica 0,80x1,00cm 
+01 
+Padrão CPS 
+57 201 
+Armário de aço c/ 02 portas de abrir - Padrão CPS 
+02 
+Padrão CPS 
+58 201 
+Conjunto de mesa e cadeira para professor - Padrão CPS 
+01 
+Padrão CPS 
+59 
+201 
+Estabilizador– Padrão CPS 
+01 
+Padrão CPS 
+60 201 
+Switch c/ 24 portas gerenciável – Padrão CPS 
+02 
+Padrão CPS 
+61 201 
+Projetor Multimidia – mínimo 3000 lumens – Padrão CPS 
+01 
+Padrão CPS 
+62 201 
+Tela de Projeção 2,00x2,00 - Retrátil – Padrão CPS 
+01 
+Padrão CPS 
+63 201 
+Condicionador de Ar, Tipo Split, Piso/Teto – Padrão CPS 
+01 
+Padrão CPS 
+64 104 
+Simulação discreta e continua (Solidworks, Promodel e 
+FlexSim); Software com funcionalidades e rotinas que 
+automatizam toda a gestão da empresa, integrando todas as 
+Áreas (ERP); Modelagem de processos (Bizagi, MS-Visio) 
+Comtemplar 1 licença para cada máquina. 
+32 
+Padrão CPS 
+65 103 
+Simulação (FluidSim) para aplicar no processo ensino 
+aprendizagem de circuitos eletropneumáticos, eletro-hidráulicos, 
+digitais e eletrônicos. 
+Comtemplar 1 licença para cada máquina. 
+32 
+Padrão CPS 
+66 
+Inteligênc
+ia 
+Artificial e 
+Agricultur
+a 4.0I 
+CPU: Processador com pelo menos 8 núcleos físicos e 16 
+threads, como um AMD Ryzen 7 ou Intel Core i7.  
+GPU: Placa de vídeo com GPU dedicada é altamente 
+recomendada como NVIDIA GeForce RTX 3060 ou 
+RAM: Pelo menos 32 GB de RAM é necessário, mas 64 GB ou 
+mais é recomendado para melhor desempenho.  
+Armazenamento: Um SSD NVMe rápido é essencial para 
+armazenar os modelos, dados de treinamento e outros arquivos. 
+Pelo menos 1 TB de armazenamento é recomendado 
+20 
+440.000,00 
+67 
+Desenvol
+vimento 
+para 
+dispositiv
+os 
+Móveis 
+para iOS 
+Processador: M2 Pro 
+Nome do sistema operacional: macOS 
+Capacidade de armazenamento: 512 GB 
+Placa gráfica: 16 CORE 
+Memória RAM: 16 GB 
+Configuração da memória RAM: 16 GB x 1 
+Capacidade de disco SSD: 512 GB 
+ 
+20 
+200.000,00 
+68 501 
+Microcomputador, c/ monitor de vídeo – Padrão CPS 
+21 
+0 
+69 501 
+Estabilizador – Padrão CPS 
+21 
+0 
+70 501 
+Switch c/ 24 portas gerenciável – Padrão CPS 
+01 
+0 
+71 501 
+Projetor Multimidia – mínimo 3000 lumens – Padrão CPS 
+01 
+0 
+72 501 
+Condicionador de Ar, Tipo Split, Piso/Teto – Padrão CPS 
+01 
+0 
+73 501 
+Caixa de Som Amplificadora – Padrão CPS 
+01 
+0 
+74 501 
+Mini rack de parede – Padrão CPS 
+01 
+0 
+75 501 
+Tela de Projeção 2,00x2,00 - Retrátil – Padrão CPS 
+01 
+0 
+76 501 
+Mesa p/ computador, medidas aproximadas: 1500x600mm 
+20 
+0 
+77 501 
+Cadeira Giratória, c/ braços – Padrão CPS 
+40 
+0 
+78 501 
+Quadro não magnético branco, 4,00x1,20m – Padrão CPS 
+01 
+0 
+79 501 
+Quadro de aviso, madeira, revestido em formica 0,80x1,00cm – 
+Padrão CPS 
+01 
+0 
+80 501 
+Armário de aço c/ 02 portas de abrir – Padrão CPS 
+02 
+0 
+81 501 
+Conjunto de mesa e cadeira para professor – Padrão CPS 
+01 
+0 
+82 501 
+Cabo Y, 1 VGA macho, 2 VGA fêmea – Padrão CPS 
+01 
+0 
+83 501 
+Cabo Y, 1 HDMI macho, 2 HDMI fêmea – Padrão CPS 
+01 
+0 
+84 502 
+estufa; estrutura em metal galvanizado, recoberta com filme 
+plástico de 150 micras tratado uvb; 7 (sete) x 15( quinze) metros 
+quadrados =105 m²; em arcos 7m x 1,1/2 galvanizados de 
+indústria com travamento de segurança entre os arcos; cobertura 
+e lateral em tela sombrite; lateral em metal galvanizado; laterais e 
+frontais 
+01 
+0 
+85 502 
+vaso para implemento agrícola; confeccionado em resina de 
+polietileno, textura estilo grafiato, formato trapézio, para 
+implemento agrícola; acompanha prato: confeccionado em resina 
+de polietileno; formato octogonal ou quadrado 5x30x30 axlx;; no 
+tamanho 45x35x35 (axl(boca)xc), volume 40 litros, peso 1,70 kg; 
+marrom café; com rodizio de silicone, limite de peso suporte 120 
+kg; 
+40 
+0 
+86 502 
+torneira; de metal; com acabamento cromado, abertura e 
+fechamento através do cotovelo; volante no modelo alavanca 
+chata, 1/4 de volta, vedação com sistema cerâmico; bica do tipo 
+fixa, altura do arejador até a base de 15cm; fixação em parede; 
+com encaixe rosca; bitola da saída de 1/2"; com garantia de no 
+mínimo 12 meses; de acordo com a norma nbr 9050; 
+02 
+0 
+87 502 
+mangueira de jardim, 50 m, tipo trancada com pressão da água 
+de até 12 bar; camada interna e externa em pvc flexível, camada 
+intermediaria em fio de poliéster trancado; com diâmetro de 1/2"; 
+acompanha:01 esguicho com jato regulável e 01 adaptador com 
+engate rosqueado.; 
+01 
+0 
+88 502 
+plantadora manual de grãos com adubadeira, referência nº 55; 
+ponteira de 7,4 cm de largura com separador interno; deposito de 
+semente arredondado, chapa pintada, capacidade de 1,5 litros; 
+deposito de adubo arredondado, chapa zincada, capacidade de 
+1,5 litros; registro da semente de nylon, tipo gaveta, registro de 
+adubo de nylon, tipo roldana; duas regulagens de 5 e 9 gramas 
+de capacidade máxima; devendo ser entregue em embalagem 
+apropriada; 
+01 
+89 502 
+roçadeira manual com motor 2 tempos de no mínimo 58 
+cilindradas; 2hp de potência; rotação mínima de 8000 rpm; 
+rotação em marcha lenta de 3000 - 200 rpm; com tanque de 
+combustível de 1 litro, a gasolina; tipo lateral multifuncional; 
+pesando no máximo 4,200 kg (vazia); largura de corte de 28cm, 
+diâmetro de corte 255-410mm; haste telescópica bipartida; alça 
+tipo d; 
+01 
+90 502 
+receptor gps; tipo dispositivo portátil resistente com gps e 
+glonass; gps de alta sensibilidade e receptor glonass com antena 
+Helix quádrupla para recepção superior; tecnologia de 
+conectividade sem fio via bluetooth ou ant+; bússola eletrônica de 
+3 eixos com compensação de inclinação; altímetro barométrico; 
+04 
+câmera 8 megapixel c/ foco automático que insere geomarcas 
+automaticamente nas fotos com coordenadas; tela colorida 
+legível à luz solar de 2,6 polegadas, visor transflectivo, 65k cor tft; 
+mapa base mundial integrado c/ relevo sombreado e mais 
+assinatura de 1 ano birdseye satelite imagery; impermeabilidade 
+ipx 7; interface compatível com usb de alta velocidade e nmea 
+0183; memória interna 4 gb; entrada para cartão microsd; mapa 
+base; armazenamento de 5000 paradas/favoritos/localizações; 
+200 rotas, 10.000 pontos e 200 rotas de registro de trajeto; 
+alimentação conjunto de bateria de nimh recarregável; cabo usb; 
+carregador de ca; presilha para mosqueteiro; manual; garantia 
+mínima de 12 meses; Mobiliário e Acessório 
+91 502 
+armário tipo bancada: armário de cozinha; em aço inoxidável AISI 
+304; tipo bancada fechada; medindo (2000x680x850)mm=(lxpxa); 
+com 03 portas de correr; 01 prateleira removível; estrutura em 
+chapas de acho; com espessura mínima de 0,64mm (chapa 
+n.24); acabamento polido fosco; na cor natural do aço; pés com 1 
+1/4" de diâmetro e sapatas de nivelamento em polipropileno 
+injetado; garantia mínima de 12 meses, com entrega e montagem 
+no local; 
+02 
+92 502 
+Armário de aço com chaves e prateleiras – Padrão CPS 
+02 
+93 502 
+Quadro de aviso, madeira, revestido em formica 0,80x1,00cm – 
+Padrão CPS 
+01 
+94 503 
+estufa; para laboratório; utilizada em secagem de vidrarias; faixa 
+de trabalho de 5°c acima do ambiente a +200°c; sistema de 
+aquecimento por meio de resistência blindada em aço inoxidável 
+aisi 304; gabinete em chapa de aço carbono, tratamento 
+anticorrosivo e pintura eletrostática; isolação térmica em fibra 
+cerâmica e/ou lã de vidro; câmara externa construída em aço 
+1020 com pintura eletrostática anticorrosiva; câmara interna em 
+aço inoxidável; com 4 suportes internos, acompanha duas 
+bandejas em inox com perfuração para circulação de ar; porta 
+frontal, de chapa de aço inox 1020, tratado com pintura 
+eletrostática anticorrosiva; circulação de ar por convecção 
+natural; sistema de controle de temperatura microprocessado 
+digital pid; precisão da temperatura de 0,1ºc; com sensor de 
+temperatura pt-100; monitoramento da temperatura por display a 
+led vermelho com 10mm de altura; dimensões em mm: internas 
+600 x 600 x 500 (l x a x p) e externas 750 x 1000 x 650 (l x a x p); 
+alimentação elétrica de 220 volts com potência aproximada de 
+1500 watts; vedação da porta em perfil de silicone; com fluxo de 
+saída do ar superior em aço inox com orifício central para 
+acomodação do termômetro; sistema de proteção de 
+superaquecimento por termostato analógico; com capacidade de 
+180l; acompanha manual de instrução com termo de garantia; 
+garantia mínima de 12 meses; 
+02 
+95 503 
+Drone DJi Mavic 3 Classic (Velocidade máxima de subida: 
+8m/s.Velocidade máxima de descida: 6m/s. Velocidade horizontal 
+máxima (ao nível do mar, sem vento): 21 m/s. Altitude máxima de 
+decolagem: 6000m. Tempo máximo de voo: 46 minutos. Tempo 
+Máximo de Pairação: 40 minutos. 
+Distância máxima de voo: 30 km. Resistência máxima à 
+velocidade do vento: 12m/s. Ângulo máximo de inclinação: 35° 
+Temperatura de operação: -10° a 40° C (14° a 104° F). Sistema 
+Global de Navegação por Satélite: GPS + Galileu + BeiDou. 
+02 
+96 503 
+Lupa; com haste em plástico; com visor em lente de vidro; 
+medindo 90mm de diâmetro; com capacidade de ampliar 3 vezes; 
+tipo de bolso; 
+10 
+97 503 
+pazinha de jardinagem; estreita; aço carbono ao boro com pintura 
+eletrostática a pó; comprimento total de 315 mm e largura de 58 
+mm; de madeira resistente, com orifício na ponta para pendurar; 
+utilizada para transplante de mudas em canteiros; 
+10 
+98 503 
+tesoura para implemento agrícola; manual, poda de uma mão, 
+diam. corte: 25mm, peso:250g, compr.: 215mm, cabo solido 
+alumínio forjado; de poda media com trava de segurança; 
+acionada com funcionamento manual; utilizada para podar galhos 
+e ramas; com lamina e contra lamina com rebites de aço 
+temperado, batente amortecedor, com mola; todas as peças são 
+substituíveis; 
+10 
+99 503 
+trena; fita em aço temperado flexível, esmaltada e recoberta em 
+nylon; de precisão, graduação dupla mm/pol., estojo em abs, 
+emborrachada, presilha para cinto; largura da fita 13 mm, 
+comprimento de 3 metros/10pes; extremidade tripamente 
+rebitada, com amortecedor e freio de retorno da fita; 
+10 
+100 503 
+Pinça anatômica; em aço inox; debakey anatômica reta; 
+autoclavavel; com ponta reta fina; com comprimento de 16 cm, 
+boca de 15 mm; 
+10 
+101 503 
+objetiva para microscópio; tipo acromatica; tratamento anti-fungo; 
+wd 2.5; plana; com aumento de 20x; com abertura numerica de 
+0.4; compativel com equipamento da marca: olympus; modelo: 
+cx23/33; codigo número cxpl20x; 
+04 
+102 503 
+câmara climática; capacidade útil de 33.000 l, medidas internas 
+(lxpxa): 2,20 m x 5,80m x2,60m; externas (lxpxa): 2,40m x6,00m 
+x 2,90m, gabinete em aço carbono e parte interna em inox; no 
+mínimo com 3 prateleiras reguláveis; circulação forcada de ar; 
+controle digital de temperatura, umidade e fotoperíodo; porta 
+interna em vidro temperado e porta externa em aço com fecho; 
+220 volts; temperatura de 10°c a 40°c por meio de serpentina e 
+resistência aletada; garantia mínima de 12 meses; assistência 
+técnica permanente; base com rodízios giratórios e freio; 
+abastecimento com agua desionizada; sistema de umidade por 
+umidificador ultrassônico na faixa de 35% a 80% ur; conexão 
+para troca de dados com dispositivos externos; equipamento 
+produzido sob medida pelo fornecedor com instalação inclusa; 
+demais especificações conforme edital; 
+01 
+103 503 
+microscópio trinocular; biológico; de fluorescência com iluminação 
+LED; com optica infinita; de campo claro e fluorescência por 
+LEDs (sem lâmpada de mercúrio; estativa de alumínio de alta 
+qualidade e resistente a corrosão; com comandos macro e 
+micrométricos com possibilidade de troca de lado ou bilaterais; 
+com trava para evitar quebra de laminas; foto tubo ergonômico 
+trinocular; graduação da focalização de no mínimo 0.001 mm; 
+oculares de 10x/22 ou superiores; oculares acompanhadas de 
+conchas; revolver com suporte para no mínimo 5 objetivas; 
+protetor uv; fluorescência com filtro triplo para marcadores dapi 
+(azul); fitc/ alexa (verde); rodamina (vermelho); fluorescência por 
+LEDs; 5 objetivas planas (menor que 4x; 10x; 20x; 40x; 100x) 
+com cristal de fluorita; lentes de cristal; proteção antifungo; 
+acompanha um frasco de óleo de imersão; condensador 
+acromático; equipado com iluminação segundo koehler; platina 
+revestida de cerâmica e charriot; equipamento bivolt automático; 
+sem necessidade de ajustes manuais; fonte acoplada; uma 
+câmera digital colorida de alta resolução (no mínimo 1.4 mega 
+pixel) acoplada; acoplador da câmera; software para captura e 
+tratamento de imagens em tempo real; saídas; adaptadores e 
+cabos para computador; capas de proteção; manual em língua 
+portuguesa; assistência técnica no brasil. conforme legislação 
+vigente; 
+01 
+104 503 
+refrigerador doméstico; vertical, duplex, frost free; capacidade 
+mínima total: 375 litros; branca; com prateleiras internas 
+reguláveis e controle eletrônico de temperatura; medindo 
+aproximadamente: (175 x 60 x 75)cm = (a xl x p); 110v; garantia 
+mínima 12 meses; com selo procel letra "a"; 
+01 
+105 503 
+centrifuga; de bancada; para uso em laboratório; para 28 tubos 
+de 10ml; com velocidade programada de 500 a 4000 rpm; rotor 
+fabricado em liga de alumínio; trava de segurança na tampa; com 
+freio automático ou acionado através do teclado; painel digital 
+ergonômico; display de cristal líquido de duas linhas de 
+iluminação; cacapas e adaptadores para tubos; dim. aprox. 
+:36,8cm (largura) x 36,8cm (profundidade) x 32cm (altura); peso 
+aproximado de 15,2kg; tensão selecionável em 110/220v 50/60hz 
+200va; assistência tec. no brasil; acomp manual instruções/ 12 
+meses garantia; 
+01 
+106 503 
+placa aquecedora; chapa aquecedora; para laboratório; em 
+cerâmica em toda superfície aquecida; com controlador eletrônico 
+de temperatura; faixa de temperatura aproximada de 5 a 500 
+graus c; medindo a área da superfície aquecida de 
+aproximadamente 180 x 180 mm (cxl); alimentação 110/220 v; 
+acompanha manual técnico em língua portuguesa. assistência 
+técnica no brasil.; 
+01 
+107 503 
+balança de precisão; balança eletrônica de precisão com 
+microprocessador; utilizado para medição de massa em 
+laboratório; gabinete com prato de pesagem em aço inox com 
+dimensão entre 140 e 250 mm; capacidade de 4000 a 4500 
+gramas; unidade medida em gramas com resolução de 0,01 
+grama ou mais exata; visor com display digital de cristal líquido e 
+indicador de estabilidade; modulo de comando eletrônico com 
+teclas liga, desliga, tara e zero; repetibilidade 0,01 gramas ou 
+mais exata; temperatura de operação de 5 a 40°c; interface de 
+comunicação rs-232; homologada e com selo inmetro; manual de 
+operação em português; garantia mínima de 12 meses; 
+01 
+108 503 
+balança; tipo eletrônica digital; visor digital; com capacidade para 
+100 g (mínima) a 15000 g (máxima), divisão de 5g ,homologada e 
+com selo inmetro; medindo prato com dimensões aproximadas de 
+350 x 230 mm; alimentação entre 127-220 vca (ou faixa mais 
+ampla); utilizada para pesagens em geral, garantia mínima de 12 
+meses; 
+01 
+109 503 
+estufa; construída em aço tratado contra corrosão; para 
+esterilização e secagem; capacidade para 80 litros; temperatura 
+de trabalho até 200 graus celsius; controle eletrônico de tempo e 
+temperatura; suspiro para saída de ar; controle de temperatura 
+digital microprocessado com sistema pid e certificado de 
+calibração rbc; precisão de controle mais ou menos 1 grau c; 
+dimensões externas 610 x 530 x 740 mm (l x p x a) e internas 450 
+x 400 x 450 mm (l x p x a); alimentação: 220 volts; potencia: 1100 
+watts; assistência técnica no brasil; garantia de 12 meses contra 
+defeito de fabricação manual de instruções em língua portuguesa; 
+01 
+110 503 
+forno; domestico; tipo micro-ondas; em aço inox com acabamento 
+esmaltado, na cor branca; modelo elétrico; medindo mínimo 
+(300x530x420)mm (axlxp); capacidade mínima para 30 litros; 
+com prato giratório; no mínimo 3 níveis de potência; com 1 
+câmara; contendo teclas de programação rápida; luz interna, 
+trava de segurança, grill, relógio; função timer, display digital; 
+alimentação 110 v, potência mínima 820 w; om garantia mínima 
+de 1 ano após a entrega do equipamento, acompanha manual de 
+instrução em português; acompanha manual de instrução em 
+português; em conformidade com todas as normas exigidas 
+vigentes; 
+01 
+111 503 
+banho maria; capacidade volumétrica de 20 litros 
+aproximadamente; para análise de amostras de aguas e 
+alimentos; estrutura de gabinete metálica e pintura especial com 
+tratamento anticorrosivo; cuba em inox c/cantos arredon.; 
+temperatura na faixa de 7 graus c acima da temperatura 
+ambiente até 100 graus c (aferido em 37 e 56 graus c); controle 
+de temperatura ajustável através de termostato eletrônico de 
+precisão; aquecedor através de resistência revestida em aço 
+inox; estabilidade da temperatura: de mais ou menos 2 graus c; 
+tampa lisa em inox com 6 bocas de anéis redutores; com painel 
+em policarbonato com lâmpadas indicadoras de funções e 
+chaves; dimensões: aproximadas 500 x 400 x 300mm (l x a x p); 
+alimentação 110 volts; potência 1400 watts; inclui: garantia; 
+manual de instruções; assistência técnica no brasil; 
+01 
+112 503 
+capela de fluxo laminar; fluxo de ar com 100% de recirculação; 
+construída em chapa de aço aisi 1020 com tratamento 
+anticorrosivo e pintura epóxi; mesa de trabalho; com filtro 
+absoluto plissado hepa h14 conforme norma en 1822; com 
+eficiência de 99.998%; p/reter 0.3 um; com ventilador(es) com 
+potência de 180 w; dimensões: interna mínima de: 620 x 822 x 
+590 mm (a x l x p); iluminação lâmpada germicida uv e lâmpada 
+de luz fria LED; acompanha base desmontável com rodízios 
+giratórios; que garanta 90 centímetros de altura para trabalho; 
+ruído máximo de auducai inferior a 70 db; alimentação: 220 v ; 
+em rede de frequência de 60 hz; inclui: garantia mínima de 1 ano. 
+assistência técnica no brasil; 
+01 
+113 503 
+autoclave vertical; alimentação principal elétrica; capacidade 75l; 
+ciclo automático; registro para limpeza e drenagem total; 
+dimensões internas c/aprox.(a x l x p) aproximadas 
+100x40x60cm; dimensões externas c/aprox.(a x l x p) 
+aproximadas 112x63x73; câmara em aço; cestos; resistências e 
+tampa em aço inoxidável; com válvula de segurança de pressão; 
+com sistema eletrônico de segurança; desligamento automático 
+se necessário; pedal para abertura; com manipulo em baquelite; 
+manômetro com escala de temp e pressão; temp. de trabalho de 
+90 a 127º c; acompanha 02 cestos perfurados; resistência 
+eletricidade imersão blindada; alimentação 220v; painel c/ chave 
+on/off; microcontrolador display gráfico; inclui: manual em língua 
+portuguesa e certificado de calibração rbc; 
+01 
+114 503 
+agitador de tubos; para agitar tubos e balões volumétricos; tipo 
+vortex; pes com ventosas; funcionamento modo continuo ou 
+pressão; com resistência motor tipo indução; velocidade de 
+agitação variável mínima de 500- 800 rpm e máxima de 3200-
+4200 rpm; medindo aproximadamente 130 x 160 x 160 mm (l x a 
+x p); alimentação: 110v ou 220v; acompanha: plataformas plana e 
+cônica de borracha sintética; inclui: manual de instruções em 
+língua portuguesa. assistência técnica no brasil; 
+01 
+115 503 
+bomba de vácuo; portátil, duplo estagio; deslocamento de 7,0 cfm 
+(198 l/m); vácuo final de 15 microns; motor elétrico; com potência 
+de 3/4 hp; tensão 110/220v, frequência 50/60hz; contendo 
+mangueiras e conexões para instalação e manual de operação; 
+garantia mínima de 12 meses; 
+01 
+116 503 
+destilador de agua; com rendimento de 1,0 l/hora 
+aproximadamente; estrutura em base plástica do destilador, 
+container de aço inox interno, com filtro de carvão ativado; com 
+dispositivo de segurança para desligamento automático quando 
+não houver agua no reservatório; alimentação: voltagem 110v; 
+com garrafa para coleta de agua destilada; dimensões: 400 x 200 
+x 250 mm aproximadamente, destilador de bancada; inclui: 
+garantia de 12 meses, manual de instrução; 
+01 
+117 503 
+barrilete; em pvc branco; com 10 litros de capacidade; 20 x 45 cm 
+(dxa); composto de tampa; torneira e mangueira de nível; para 
+armazenar agua destilada; acondicionado em embalagem 
+apropriada e reforçada que garanta a integridade física do 
+produto; rotulo com nr de lote; data de fabricação e procedência; 
+01 
+118 503 
+medidor de ph; de bancada digital; microprocessado; para 
+amostras de 4.01; 7.01 e 10.01. com divisão de ph em 0.001; 
+0.01 ou 0.1 (ph selecionável); medindo ph com faixa de escala de 
+medindo ph com faixa de medição: -2,00 a 20,00ph e precisão 
+relativa de +/- 0,02% ph; medindo potencial na escala de mv de -
+2.000.0 a +2.000.0 e precisão relativa de mais ou menos 0.3mv; 
+apresentando medida de temperatura na faixa de medição de -20 
+a 120 graus celsius e precisão relativa de 0.08% (fe); com 
+controles automáticos; com calibração menor que 5 minutos; com 
+mostrador tipo display digital; com função setpoint e interface tipo 
+serial rs232 ou usb; acompanha: eletrodo; dimensões: 
+alimentação: 110/220v. acompanha manual de instruções em 
+língua portuguesa; inclui: garantia mínima de 12 meses; 
+certificado de calibração; assistência técnica no brasil; 
+01 
+119 503 
+freezer doméstico; vertical; 1 porta; capacidade liquida mínima 
+228 litros; na cor branca; com cestos removíveis; medindo 
+aproximadamente: (170 x 60 x 69)cm = (a x l x p); consumo 
+máximo 55 kwh/mês; 220v; acompanha manual técnico; garantia 
+mínima 12 meses; conforme normas técnicas vigentes; com selo 
+procel, eficiência energética letra "c" no mínimo; 
+01 
+120 503 
+Microcomputador, c/ monitor de vídeo – Padrão CPS 
+01 
+121 503 
+Estabilizador – Padrão CPS 
+01 
+122 503 
+Switch c/ 24 portas gerenciável – Padrão CPS 
+01 
+123 503 
+Tela de Projeção 2,00x2,00 - Retrátil – Padrão CPS 
+01 
+124 503 
+Condicionador de Ar, Tipo Split, Piso/Teto – Padrão CPS 
+02 
+125 503 
+Cuba para Pia de Cozinha; Em Aço Inoxidável Aisi 304; de 
+embutir; No Formato Retangular; Medindo (700x500x400) mm; 
+Com Espessura Minima de 0,8mm; Com Furo para Válvula 
+Americana; 
+02 
+126 503 
+armário tipo bancada: armário de cozinha; em aço inoxidável AISI 
+304; tipo bancada fechada; medindo (2000x680x850)mm=(lxpxa); 
+com 03 portas de correr; 01 prateleira removível; estrutura em 
+chapas de acho; com espessura mínima de 0,64mm (chapa 
+n.24); acabamento polido fosco; na cor natural do aço; pés com 1 
+1/4" de diâmetro e sapatas de nivelamento em polipropileno 
+injetado; garantia mínima de 12 meses, com entrega e montagem 
+no local; 
+02 
+127 503 
+Mesa; para Cozinha Industrial; Em Aço Inoxidável Padrão Aisi 
+304 Liga 18.8; No Formato Retangular; Com Tampo Medindo 
+(1400 x 700) Mm; Com Espelho de 150mm de Altura; Na Altura 
+Total de 850 Mm; Com Estrutura Tubular Em Aço Inox; Contendo 
+Sapatas Niveladoras; Com Prateleira Inferior Gradeada; Garantia 
+de No Mínimo 12 Meses; 
+02 
+128 503 
+Banqueta; para Bancada; Assento Confeccionado Em Madeira 
+Compensada; Revestido Com Lamina de Madeira; Na Cor 
+Natural Da Madeira; Formato Redondo; Medindo 300mm de 
+Diâmetro; Altura de 580mm; Estrutura Em Aço Tubular, Com 
+Espessura de 1,5mm (chapa N. 16); Acabamento Em Pintura 
+Eletrostática; Na Cor Cinza; Tratamento Antiferruginoso; Com 
+Garantia de No Mínimo 12 Meses; 
+40 
+129 503 
+Quadro não magnético branco, 4,00x1,20m – Padrão CPS 
+01 
+130 503 
+Quadro de aviso, madeira, revestido em formica 0,80x1,00cm – 
+Padrão CPS 
+01 
+131 503 
+Armário de aço c/ 02 portas de abrir – Padrão CPS 
+02 
+132 503 
+Conjunto de mesa e cadeira para professor – Padrão CPS 
+02 
+133 503 
+Cabo Y, 1 VGA macho, 2 VGA fêmea – Padrão CPS 
+01 
+134 503 
+Cabo Y, 1 HDMI macho, 2 HDMI fêmea – Padrão CPS 
+01 
+135 201 
+Bomba Sanitária; 
+01 
+136 201 
+equipamento para higienização de latões; 
+01 
+137 201 
+Tanque de recepção com filtro de aço inox 
+01 
+138 201 
+Filtro de linha; 
+01 
+139 201 
+Rebaixador de temperatura a placas; 
+01 
+140 201 
+Tanque isotérmico de leite cru; 
+01 
+141 201 
+Balança; 
+01 
+142 201 
+Utilização do alizarol (72 °). 
+01 
+143 201 
+Acidímetro de Dornic (Acidez); 
+01 
+144 201 
+Termolactodensímetro (Densidade); 
+01 
+145 201 
+Centrífuga (Gordura); 
+01 
+146 202 
+Disco de Ackermann ou fórmulas (cálculo do E.S.T e E.S.D); 
+01 
+147 202 
+Crioscópio Eletrônico (Crioscopia); 
+01 
+148 202 
+Banho-maria (Redutase); 
+01 
+149 202 
+Teste de Peroxidase; 
+01 
+150 202 
+Teste de Fosfatase; 
+01 
+151 202 
+Vidrarias; 
+01 
+152 202 
+Reagentes; 
+01 
+153 202 
+Geladeira; 
+01 
+154 202 
+Balança de precisão; 
+01 
+155 202 
+Estufa de cultura; 
+01 
+156 202 
+Estufa de esterilização; 
+01 
+157 202 
+Autoclave; 
+01 
+158 202 
+Contador de colônias; 
+01 
+159 202 
+Vidrarias; 
+01 
+160 202 
+Reagentes; 
+01 
+161 202 
+Petrifilm. 
+01 
+162 203 
+Geladeira comercial 4 portas, temperatura de trabalho: +1°c a 
++7°c, controle de temperatura digital, capacidade bruta de 1044 
+litros, voltagem 127v 
+01 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Anexo 2 – Lista de Ações/Projetos referentes à CPA 
+ 
+Item 
+Projeto 
+(XYY) 
+Denominação 
+(O que será feito) 
+Prazo 
+01 
+nnn 
+nn 
+dd/mm/aaaa 
+02 
+nnn 
+nn 
+dd/mm/aaaa 
+03 
+nnn 
+nn 
+dd/mm/aaaa 
+04 
+nnn 
+nn 
+dd/mm/aaaa 
+05 
+nnn 
+nn 
+dd/mm/aaaa 
+06 
+nnn 
+nn 
+dd/mm/aaaa 
+07 
+nnn 
+nn 
+dd/mm/aaaa 
+08 
+nnn 
+nn 
+dd/mm/aaaa 
+09 
+nnn 
+nn 
+dd/mm/aaaa 
+10 
+nnn 
+nn 
+dd/mm/aaaa 
+11 
+nnn 
+nn 
+dd/mm/aaaa 
+12 
+nnn 
+nn 
+dd/mm/aaaa 
+13 
+nnn 
+nn 
+dd/mm/aaaa 
+14 
+nnn 
+nn 
+dd/mm/aaaa 
+15 
+nnn 
+nn 
+dd/mm/aaaa 
+16 
+nnn 
+nn 
+dd/mm/aaaa 
+17 
+nnn 
+nn 
+dd/mm/aaaa 
+18 
+nnn 
+nn 
+dd/mm/aaaa 
+19 
+nnn 
+nn 
+dd/mm/aaaa 
+20 
+nnn 
+nn 
+dd/mm/aaaa 
+ 
+ 
+ 
+ 
+ 
+ 
+<fim> 
+ 
+ 
+ 
+ 
+ 
+ 

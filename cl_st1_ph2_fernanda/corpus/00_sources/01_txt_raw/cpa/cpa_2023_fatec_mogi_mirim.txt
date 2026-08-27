@@ -1,0 +1,2543 @@
+ 
+FATEC Mogi Mirim 
+ 
+ 
+ 
+ 
+ 
+ 
+RELATÓRIO DE AUTOAVALIAÇÃO 
+INSTITUCIONAL ‐ 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Mogi Mirim 
+2022 
+Direção / Coordenação de Cursos 
+ 
+ 
+ 
+Direção Geral 
+Prof. Dr. André Luis Ferrari de 
+Moura Giraldi 
+Coordenador do Curso de Graduação Tecnológica em 
+Análise e Desenvolvimento de Sistemas ‐ ADS 
+Prof. Me. Cesar Eduardo Soares 
+Bagnolo 
+Coordenador do Curso de Graduação Tecnológica em 
+Mecatrônica Industrial ‐ MI 
+Prof. Dr. Renato Suekichi 
+Kuteken 
+Coordenador do Curso de Graduação Tecnológica em 
+Projetos Mecânicos ‐ PM 
+Prof. Dr. Christian Alexandre 
+Vieira 
+Coordenador do Curso de Graduação Tecnológica em 
+Fabricação Mecânica ‐ FM 
+Prof. Dr. Paulo Fernando Barbieri 
+Orientadora de Polo do Curso de Graduação 
+Tecnológica em Gestão Empresarial – EAD ‐ GE 
+Prof. Ma. Marli Delfino Campos 
+ 
+ 
+SUMÁRIO 
+I Identificação da FATEC ....................................................................................................... 4 
+II Atos Regulatórios ............................................................................................................... 4 
+III Composição da Comissão Própria de Avaliação (CPA) ................................................ 4 
+1 INTRODUÇÃO .................................................................................................................... 5 
+2 METODOLOGIA ................................................................................................................... 8 
+2.1 Cronograma das atividades da CPA ........................................................................... 9 
+2.2 Sensibilização ............................................................................................................. 10 
+2.3 Sujeitos da avaliação .................................................................................................. 13 
+2.4 Instrumentos de Coleta .............................................................................................. 15 
+2.5 Procedimentos para a coleta ..................................................................................... 17 
+2.6 Análise e Discussão dos dados da coleta ................................................................ 17 
+2.7 Análise das ações propostas em 2021 ..................................................................... 18 
+3 DESENVOLVIMENTO ........................................................................................................ 19 
+3.1 Eixo 1: Planejamento e Avaliação Institucional ....................................................... 19 
+3.2 Eixo 2: Desenvolvimento Institucional .................................................................... 23 
+3.3 Eixo 3: Políticas Acadêmicas ..................................................................................... 25 
+3.4 Eixo 4: Políticas de Gestão ........................................................................................ 30 
+3.5 Eixo 5: Infraestrutura Física ....................................................................................... 31 
+4 ANÁLISE DOS DADOS DE 2021 E APLICAÇÃO NO ANO DE 2022 .............................. 34 
+5 CONSIDERAÇÕES FINAIS ............................................................................................... 43 
+ 
+4
+ 
+FATEC: Faculdade de Tecnologia Mogi Mirim “Arthur de Azevedo” 
+CÓDIGO DO CPS: 163 
+CÓDIGO E-MEC: 15714 
+Representante Legal da IES: Diretor (a): Prof. Dr. André Luis Ferrari de Moura Giraldi 
+Endereço: Rua Ariovaldo Silveira Franco, 567, Jd. 31 de Março, CEP: 13801-005 
+Município: Mogi Mirim 
+Telefone: (19) 3806-3139 / (19) 3806-2181 
+E-mail: f163dir@cps.sp.gov.br 
+I Identificação da FATEC: 
+ 
+ 
+ 
+II Atos Regulatórios 
+ 
+Tipo de documento: 
+Decreto 
+No. Documento: 
+51.878 
+Data do Documento: 
+06/06/2007 
+Data de Publicação :
+07/06/2007 
+ 
+ 
+III Composição da Comissão Própria de Avaliação (CPA) 
+A Comissão Própria de Avaliação da FATEC Arthur de Azevedo de Mogi Mirim 
+foi instituída pela Portaria nº 08/2016 de 17-06-2016, alterada pelas Portarias: 
+ nº 13/2017 de 29-03-2017 
+ nº 40/2017 de 11-12-2017 
+ nº 92/2018, de 12-12-2018 
+ nº 055-2021 de 17/11-2021 
+ nº 51/2022 de 30/09/2022 
+O mandato da CPA é válido até que se realize nova eleição, e atualmente tem 
+a seguinte composição: 
+ 
+Nome 
+Segmento representativo 
+Romildo Morelato Junior 
+Docente 
+Ana Letícia Silvério 
+Discente 
+Nelma Claudete Polettini Valverde 
+Técnico Administrativo 
+Maria Júlia Damas 
+Sociedade Civil 
+Vagner Luiz da Silva 
+Docente 
+5
+ 
+ 
+Rivadávia Soares dos Santos Sobrinho 
+Discente 
+Luana Custódio 
+Técnico Administrativo 
+José Vicente Gonçalves 
+Sociedade Civil 
+Quadro 1: Composição da CPA 
+ 
+ 
+ 
+1 INTRODUÇÃO 
+A Fatec Arthur de Azevedo – Mogi Mirim – acredita na avaliação como 
+instrumento de gestão. Por meio da avaliação temos condições de reunir indicadores 
+capazes de suscitar análises e discussões possibilitando definir planos de melhoria 
+de forma continuada. 
+Sabe-se que a Lei 10.861/2014, que define o Sistema Nacional de Avaliação 
+da Educação Superior (SINAES), estabelece em seu Artigo 3º que a avaliação 
+institucional tem o objetivo de identificar o perfil da Instituição de Ensino Superior (IES) 
+e o significado de sua atuação, por meio de suas atividades, cursos, programas, 
+projetos e setores, considerando as diferentes dimensões institucionais, consolidadas 
+em cinco eixos, sempre com o objetivo de evidenciar os referenciais de qualidade 
+exigidos pela excelência de ensino que é um dos pilares da prática de todas as 
+faculdades de tecnologias do Estado de São Paulo vinculadas ao Centro Paula Souza.  
+Por meio do desenvolvimento do presente relatório, em sua versão integral, 
+serão apresentados os dados e as informações referentes aos eixos, dimensões e 
+indicadores em consonância com o Plano de Desenvolvimento Institucional (PDI) da 
+unidade de ensino e em consonância com as diretrizes emanadas do Centro Paula 
+Souza. Em cumprimento à Nota Técnica INEP/MEC n° 65, apresenta-se um 
+quadro analítico com as ações previstas nos relatórios de 2019 e 2020 
+evidenciando uma análise global dos 5 eixos para explicitar as contribuições da 
+autoavaliação para o planejamento e desenvolvimento institucional. 
+A Fatec Arthur de Azevedo está situada na cidade de Mogi Mirim, no estado de 
+São Paulo. Mogi Mirim fica a cerca de 150 quilômetros de distância da capital, possui 
+pouco mais de 90 mil habitantes e tem dois distritos industriais que atuam em ramos 
+diversificados, 
+tais 
+como: 
+metalúrgico, 
+alimentício, 
+de 
+bebidas, 
+calçados, 
+equipamentos elétricos, hospitalares, fundição, peças sanitárias, filtros industriais e 
+autopeças. Foi criada pelo decreto nº 51878, de 06/06/2007 e, a partir do Convênio 
+de Cooperação Técnico-Educacional celebrado entre o município de Mogi Mirim e o 
+6
+ 
+Centro Paula Souza, em 28/06/2007 foi firmado o contrato entre o governo estadual e 
+o governo municipal, com os objetivos de desenvolver e expandir a educação 
+profissional gratuita, por meio de cursos de nível superior tecnológico, fomentando a 
+pesquisa e a prestação de serviços à comunidade de Mogi Mirim e seu entorno. Os 
+primeiros  cursos  em  nível  de  ensino   superior   oferecidos   foram   Tecnologia 
+em Projetos Mecânicos e Tecnologia em Mecânica de Precisão. O primeiro dia de 
+aula ocorreu em 10 de setembro de 2007. No primeiro semestre de 2010, iniciou-se 
+o curso de Tecnologia em Análise e Desenvolvimento de Sistemas. A missão da 
+instituição é "formar a competência profissional adequada às necessidades dos 
+diferentes mercados de trabalho com o propósito de contribuir para a melhoria do 
+padrão de vida do trabalhador e para a elevação da qualidade e produtividade de 
+processos, produtos e serviços". 
+No ano 2022 a Fatec Mogi Mirim comemorou 15 anos de existência e 
+realizouvários eventos culturais, científicos e tecnológicos, integrando a comunidade 
+interna e externa, criando uma sinergia muito grande. 
+A unidade ocupa uma área de aproximadamente 2400m², sendo que o bloco 3 
+está sendo construido e a previsão de entrega é o ano de 2023 e atualmente oferece 
+os seguintes cursos: 
+ 
+ 
+ 
+Curso 
+ 
+Autorização 
+ 
+Reconhecimento/ 
+Renovação 
+ 
+Data 
+CONCEITO 
+referente à 
+última 
+visita 
+ 
+ENADE 
+ 
+Análise e 
+Desenvolvimento 
+de Sistemas 
+Portaria CEE/GP nº 
+221/2010 de 
+05/08/2010, 
+publicada no DOE 
+de 06/08/2010, 
+seção I pág. 25 
+Portaria CEE/GP nº 222 
+de 23/05/2017, 
+publicada no DOE de 
+24/05/2017, seção I 
+pág. 28 
+ 
+ 
+24/05/2017 
+ 
+ 
+5 ANOS 
+ 
+ 
+NOTA 3 
+ 
+Fabricação 
+Mecânica 
+Parecer CD ‐ 
+549/2018 15, 
+publicado no DO 
+de 13/04/2018, 
+seção I, pág. 42 
+Portaria CEE/GP nº 183 
+de 04/04/2022, 
+publicada no DOE de 
+05/04/2022, seção I pág. 
+27 
+05/04/2022 
+2 ANOS 
+ 
+NÃO SE 
+APLICA 
+ 
+ 
+Mecatrônica 
+Industrial 
+Parecer CD ‐ 
+221/2015 Processo 
+CEETEPS nº 
+946/2015, 
+publicado no DO de 
+16/05/2015, seção 
+I, pág. 62 
+Portaria CEE/GP nº 84 
+de 22/03/2021, 
+publicada no DOE de 
+23/03/2021, seção I pág. 
+15 
+ 
+ 
+ 
+23/03/2021 
+ 
+ 
+ 
+5 ANOS 
+ 
+ 
+ 
+NÃO SE APLICA
+7
+ 
+ 
+ 
+Projetos 
+Mecânicos 
+Portaria CEE/GP nº 
+179 de 17/04/2008,
+publicada no DOE 
+de 19/04/2008, 
+seção I pág. 18 
+Portaria CEE/GP n° 187 
+de 24/05/2021, 
+publicada no DOE de 
+25/05/2021, seção I pág. 
+26 
+25/05/2021 
+1 ANO 
+ 
+ 
+NÃO SE APLICA
+ 
+ 
+Gestão 
+Empresarial 
+Parecer CD ‐ 
+219/2015 Processo 
+CEETEPS nº 
+952/2015, 
+publicado no DOE 
+de 16/05/2015, 
+seção I, pág. 62 
+ 
+Portaria CEE/GP nº 101 
+de 02/03/2020, 
+publicada no DOE de 
+03/03/2020, seção I 
+pág. 34 
+ 
+ 
+ 
+03/03/2020 
+ 
+ 
+ 
+ 
+NOTA 5 
+Quadro 2: Cursos oferecidos na Fatec Mogi Mirim 
+O curso de Gestão Empresarial é oferecido exclusivamente na 
+modalidade de Ensino a Distância (EAD) e está vinculado à Fatec São Paulo. A Fatec 
+Mogi Mirim é um polo do curso e, por isso, é o local onde acontecem as avaliações 
+presenciais. Os alunos do curso de Gestão Empresarial não respondem a pesquisa 
+institucional. 
+ 
+ 
+Cursos oferecidos na Unidade 
+Quantidade 
+de alunos 
+Análise e Desenvolvimento de Sistemas 
+505 
+Fabricação Mecânica 
+130 
+Mecatrônica Industrial 
+151 
+Projetos Mecânicos 
+229 
+Quadro 4: Quantidade de alunos por curso 
+ 
+Cursos oferecidos na Unidade 
+Titulação docente 
+% 
+ 
+Análise e Desenvolvimento de Sistemas 
+Doutores 
+22,22
+Mestres 
+48,15
+Especialistas 
+29,63
+ 
+Fabricação Mecânica 
+Doutores 
+33,34
+Mestres 
+61,90
+Especialistas 
+3,76
+ 
+Mecatrônica Industrial 
+Doutores 
+44,00
+Mestres 
+52,00
+Especialistas 
+4,00
+ 
+Projetos Mecânicos 
+Doutores 
+40,90
+Mestres 
+54.55
+Especialistas 
+4,55
+Quadro 4: Titulação docente 
+8
+ 
+ 
+O presente documento está organizado em seções. A primeira seção contém a 
+Introdução, com os dados da instituição e a composição da CPA. Na seção 2 é 
+apresentada a metodologia usada para a realização da autoavaliação, descrevendo 
+(i) como se deu a sensibilização dos participantes, (ii) quem participou da avaliação, 
+(iii) como se deu a coleta e a análise dos dados e (iv) como os resultados obtidos 
+foram apresentados para a comunidade acadêmica (devolutiva). Na seção 3 são 
+apresentados os dados coletados e na seção 4 são apresentadas a análise dos dados 
+e as ações propostas para tratar as fragilidades e ampliar as potencialidades 
+observadas. Finalmente, a seção 5 contém as considerações finais. 
+ 
+2 METODOLOGIA 
+Para contribuir com a organização da CPA de cada Fatec, o Centro Paula 
+Souza, por meio da Área de Avaliação Institucional (AAI) e da Unidade de Ensino 
+Superior de Graduação (CESU), organizou a comissão da CPA Central, assumindo 
+como centro organizativo as atribuições que lhe competem, a saber: 
+ 
+I – Contribuir com o planejamento, orientação e monitoramento dos procedimentos da 
+autoavaliação Institucional das FATECs; 
+II – Utilizar os indicadores coletados nas unidades como instrumento de gestão, oferecendo 
+subsídios para cada uma das áreas da administração central tomar as medidas corretivas; 
+III – Elaborar o Relatório Global da Autoavaliação para os processos de recredenciamento 
+institucional. 
+IV – Elaborar o cronograma da autoavaliação para as Fatecs, considerando o prazo de 31 de 
+março de cada ano para o protocolo dos relatórios da autoavaliação no sistema e-mec do 
+Ministério da Educação. 
+V – Avaliar, indicar possíveis ajustes e autorizar o protocolo dos relatórios das CPAs das 
+FATECs no sistema e-mec. 
+VI – Reunir-se ordinariamente duas vezes no semestre ou de forma extraordinária quando 
+necessário. 
+ 
+Por meio da CPA Central, cada Fatec recebe o suporte necessário para cumprir 
+o que lhe compete, conforme segue: 
+ 
+I - Contribuir com o planejamento, elaboração, coordenação e monitoramento dos processos 
+de avaliação interna, apresentando o projeto de autoavaliação Institucional que norteará todos 
+os procedimentos de autoavaliação para a CPA Central em consonância com a equipe de 
+Supervisão Regional das FATECs. 
+II - Apoiar os processos internos de avaliação; 
+sistematizar e prestar informações relativas às políticas de autoavaliação institucional, 
+solicitadas pelos Sistemas Federal e Estadual de Avaliação da Educação Superior, além de 
+atender à demanda interna da Supervisão Regional e da CPA Central do Centro Paula Souza; 
+III - Constituir subcomissões de avaliação; 
+IV - Constituir grupos temáticos ou focais voltados para a avaliação de cada uma das dez 
+dimensões estabelecidas no artigo anterior; 
+VI - Elaborar e analisar relatórios e pareceres, encaminhando-os a CPA Central; 
+9
+ 
+VII - Desenvolver estudos e análises, colaborando com os órgãos próprios ou terceirizados do 
+Centro Paula Souza, visando ao fornecimento de subsídios para afixação, o aperfeiçoamento 
+e a modificação da política de avaliação institucional; 
+VIII - Acompanhar, analisar e correlacionar os resultados da autoavaliação com os resultados 
+dos alunos do Centro Paula Souza no ENADE, bem como em outros processos de avaliação; 
+IX - Aprovar seu próprio regulamento. 
+ 
+Os relatórios da autoavaliação são elaborados com periodicidade anual, 
+encaminhados para a CPA Central e protocolados até 31 de março de cada ano. Os 
+relatórios ficam disponíveis para serem apreciados pela comissão de especialistas 
+designada pelo Conselho Estadual de Educação nas oportunidades de visita à Instituição 
+em seu processo de recredenciamento, conforme dispõe a Deliberação do CEE 160/2018. 
+Excepcionalmente referentes aos anos de 2021 e 2022 foi estabelecido um cronograma 
+diferenciado onde a data limite para o envio do relatório para a CPA Central foi definida 
+como 01 de março de 2022 e de 2023. 
+ 
+2.1 Cronograma das atividades da CPA 
+ 
+A CPA da Fatec Mogi Mirim, para cumprir o que lhe compete elaborou o 
+seguinte cronograma de trabalho para o ano de 2022 e os primeiros meses de 2023. 
+ 
+ 
+AÇÕES 
+MESES 
+ 
+ 
+ 
+J 
+A 
+N
+F 
+E 
+V
+M 
+A 
+R
+A 
+B 
+R
+M 
+A 
+I
+J 
+U 
+N
+J 
+U 
+L
+A 
+G 
+O
+S 
+E 
+T
+O 
+U 
+T
+N 
+O 
+V 
+D 
+E 
+Z 
+J 
+A 
+N 
+F 
+E 
+V 
+M 
+A 
+R 
+Reuniões online com a Direção, 
+coordenações de Cursos para 
+sistematização 
+as 
+ações 
+e 
+composições de grupos de 
+trabalho. 
+ 
+ 
+ 
+X
+ 
+ 
+ 
+ 
+ 
+  
+X
+ 
+ 
+ 
+ 
+ 
+Encontros online da equipe CPA 
+para organizar e desenvolver 
+estratégias 
+de 
+maneira 
+integrada a partir da percepção 
+dos diferentes segmentos que 
+compõem a comissão. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+X
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sensibilização 
+para 
+participação nos procedimentos 
+e coleta: Encontros online com 
+representantes de turmas, lives, 
+webinar, informativos, site, 
+entre outros, para alimentar a 
+cultura avaliativa da Fatec.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+X
+ 
+ 
+ 
+X
+ 
+ 
+ 
+ 
+ 
+Organização 
+dos 
+procedimentos de coleta de 
+dados: elaboração das ações 
+voltadas 
+para 
+estimular 
+e 
+monitorar a participação de toda 
+a 
+comunidade 
+ no 
+preenchimento do formulário de
+coleta. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+X
+ 
+ 
+X
+ 
+ 
+ 
+ 
+ 
+10
+ 
+ 
+Análise 
+dos 
+resultados 
+–
+acolhimento 
+dos 
+dados 
+da 
+coleta 
+e 
+início 
+dos 
+procedimentos de análise.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+X 
+ 
+ 
+ 
+Encaminhamento dos dados 
+coletados 
+para 
+cada 
+área 
+competente: cada área recebe 
+os dados faz a análise e 
+apresenta a justificativa e o 
+Plano de Melhorias da área - 
+ações planejadas a partir dos 
+resultados e encaminha para a 
+CPA 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+X 
+ 
+ 
+ 
+Elaboração do relatório a partir 
+da devolutiva das áreas. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+X  X  
+Envio do Relatório para a 
+apreciação da CPA Central
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+X  
+Divulgação dos resultados à 
+comunidade acadêmica. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+X 
+ 
+Conclusão do Relatório. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+X 
+Protocolo no Sistema e-mec 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+X 
+Quadro 5: Cronograma de trabalho da CPA para 2022 e início de 2023 
+ 
+ 
+ 
+2.2 Sensibilização 
+ 
+Para a efetivação do cronograma destacam-se algumas ações relacionadas 
+aos procedimentos de autoavaliação. 
+ 
+ As informações sobre os trabalhos da CPA e sobre a importância da 
+realização da autoavaliação foram divulgadas para os discentes, docentes 
+e para os funcionários, nas salas foram disponibilizadas informações sobre 
+a CPA e um QrCode/link com o relatório do ano anterior, foram disparados 
+e-mail’s para toda comunidade com o mesmo informativo e é demonstrado 
+na figura abaixo: 
+ 
+11
+ 
+ 
+ As informações sobre os trabalhos da CPA foram incluídas no site da 
+Unidade de Ensino, conforme é apresentado na ilustração a seguir. 
+12
+ 
+ 
+ 
+ 
+Informações sobre os trabalhos da CPA no site da Unidade (https://www.fatecmm.edu.br/index.php/cpa) 
+ 
+ 
+ Foi enviado e-mail para os representantes das turmas de todos os cursos, 
+solicitando a divulgação da pesquisa; a divulgação foi então feita nos grupos 
+de whatsapp de cada turma. 
+ 
+ Os coordenadores dos cursos solicitaram a participação dos docentes e 
+também a colaboração para a divulgação da pesquisa. Assim, para cada 
+turma, no início de uma aula da semana, os alunos foram convidados a 
+responder a pesquisa. 
+ 
+ Os responsáveis pelas áreas administrativa e acadêmica divulgaram a 
+pesquisa entre os servidores, incentivando a participação. 
+ 
+Assim, a equipe da Direção da Unidade, os coordenadores e os docentes 
+contribuíram com o trabalho de sensibilização, incentivando a participação de todos. 
+A imagem do cartaz usado na divulgação é apresentada a seguir. 
+ 
+13
+ 
+ 
+ 
+ 
+ 
+Material usado para a divulgação da pesquisa institucional 
+ 
+2.3 Sujeitos da avaliação 
+ 
+A avaliação contou com a participação dos docentes, discentes e servidores 
+técnico-administrativos. 
+ 
+ Observou-se que no ano de 2021 a taxa de preenchimento foi na 
+ordem de (44%), no ano de 2022 esse número chegou a 47,38%, 
+observamos que o número está abaixo da situação antes da pandemia, 
+porém ficou demonstrado que houve um aumento em relação ao ano 
+anterior. 
+ 
+ 
+ 
+14
+ 
+ Sobre os docentes, todos os docentes aptos respoderam à pesquisa, 
+dessa forma atingimos 100%. Portanto, como já havia acontecido nas 
+pesquisas anteriores, a adesão dos docentes tem sido um ponto 
+bastante positivo. 
+ 
+ Sobre os servidores administrativos, categoria que abrange a direção, 
+os auxiliares docentes e técnicos administrativos, obtivemos um 
+percentual de 93,75% de respostas, sendo que no ano anterior 
+tínhamos alcançado a marca de 73%, o que representa um aumento 
+com relação à pesquisas anteriores. 
+15
+ 
+2.4 Instrumentos de Coleta 
+ 
+Desde 1997, o Centro Paula Souza, evidenciando o seu pioneirismo em buscar 
+indicadores para gerar melhoria de seus serviços, criou o Sistema de Avaliação 
+Institucional (SAI), implantado em 1999 em todas as Etecs (Escolas de Ensino Técnico 
+no nível médio) e, em 2000, nas Fatecs, seguindo os mais rigorosos critérios 
+estatísticos. Os instrumentos de coleta foram elaborados e preenchidos em 
+formulários impressos de 1999 a 2012. 
+ 
+A partir de 2010, os questionários deixaram de ser preenchidos em formulário 
+de papel e passaram a ser totalmente online, trazendo mais agilidade ao processo de 
+avaliação. Desde então, todos os participantes realizam a pesquisa pela internet e o 
+SAI passou a ser chamado de WebSAI. 
+ 
+Para que as Fatecs tivessem apenas um instrumento que pudesse contemplar 
+as 10 dimensões dentro dos 5 eixos avaliativos, a partir da criação da comissão da 
+CPA Central, a AAI em parceria com a CESU, por meio de uma equipe qualificada, 
+reorganizou a elaboração dos instrumentos de coleta, adequando-os em torno dos 5 
+eixos avaliativos. 
+ 
+Para a pesquisa de 2022, foram elaborados 3 formulários: para discentes, para 
+docentes e para servidores técnico-administrativos. As questões foram adaptadas 
+considerando o contexto ensino remoto emergencial devido à cenário de pandemia, 
+quando todas as aulas aconteceram de forma online síncrona, usando o MSTeams. 
+Todas as questões foram objetivas, compostas por itens que deveriam ser avaliados 
+pelo participante, sendo obrigatório selecionar uma única resposta para cada item ou 
+questão. 
+ 
+(i) 
+Formulário dos discentes 
+ 
+Os discentes responderam 110 questões objetivas, que foram organizadas em 
+seções, conforme descrito no quadro 6. 
+16
+ 
+ 
+Formulário para coleta de dados dos discentes
+Categoria 
+Descrição 
+Quantidade
+de 
+questões 
+Cadastro 
+ 
+Caracterização dos participantes: gênero, faixa etária, 
+escolaridade, turno e jornada de trabalho, área de trabalho 
+ 
+6 
+Avaliação da 
+CPA 
+ 
+Avaliação da coleta e divulgação dos dados da pesquisa do 
+ano anterior 
+ 
+2 
+Eixo 1 
+ 
+Dimensão 8 – Planejamento e Avaliação 
+ 
+11 
+Eixo 2 
+ 
+Dimensão 1 – Missão e Planejamento Institucional 
+ 
+Dimensão 3 – Responsabilidade Social da Instituição 
+ 
+8 
+ 
+5 
+Eixo 3 
+ 
+Dimensão 2 – Políticas para o Ensino, Pesquisa e Extensão 
+ 
+Dimensão 4 – Comunicação com a Sociedade 
+ 
+Dimensão 9 – Políticas de Atendimento aos Discentes 
+ 
+26 
+ 
+11 
+ 
+6 
+Eixo 4 
+ 
+Dimensão 6 – Organização e Gestão daInstituição
+ 
+10
+Eixo 5 
+ 
+Dimensão 7 – Infraestrutura Física 
+ 
+25 
+Quadro 6: Distribuição das questões no formulário dos discentes 
+ 
+ 
+(ii) 
+Formulário dos docentes 
+ 
+Os docentes responderam 109 questões objetivas, que foram organizadas em 
+seções, conforme descrito no quadro 7. 
+ 
+Formulário para coleta de dados dos docentes
+Categoria 
+Descrição 
+Quantidade 
+de 
+questões 
+Cadastro 
+ 
+Caracterização dos participantes: gênero, faixa etária, 
+formação acadêmica, tipo de contrato 
+ 
+7 
+Avaliação da 
+CPA 
+ 
+Avaliação da coleta e divulgação dos dados da pesquisa do 
+ano anterior 
+ 
+2 
+Eixo 1 
+ 
+Dimensão 8 – Planejamento e Avaliação 
+ 
+12 
+Eixo 2 
+ 
+Dimensão 1 – Missão e Planejamento Institucional 
+ 
+Dimensão 3 – Responsabilidade Social da Instituição 
+ 
+9 
+ 
+4 
+Eixo 3 
+ 
+Dimensão 2 – Políticas para o Ensino, Pesquisa e Extensão 
+ 
+Dimensão 4 – Comunicação com a Sociedade 
+ 
+Dimensão 9 – Políticas de Atendimento aos Discentes 
+ 
+14 
+ 
+17 
+ 
+5 
+Eixo 4 
+ 
+Dimensão 5 – Políticas de Pessoal 
+ 
+Dimensão 6 – Organização e Gestão da Instituição 
+ 
+4 
+ 
+10 
+Eixo 5 
+ 
+Dimensão 7 – Infraestrutura Física 
+ 
+25 
+Quadro 7: Distribuição das questões no formulário dos docentes 
+ 
+ 
+ 
+(iii) 
+Formulário dos servidores técnico-administrativos 
+Os servidores técnico-administrativos responderam 101 questões objetivas, 
+que foram organizadas em seções, conforme descrito no quadro 8. 
+ 
+ 
+17
+ 
+ 
+Formulário para coleta de dados dos servidores técnico‐administrativos
+Categoria 
+Descrição 
+Quantidade 
+de 
+questões 
+Cadastro 
+ 
+Caracterização dos participantes: gênero, faixa etária, 
+escolaridade, experiência profissional 
+ 
+7 
+Avaliação da 
+CPA 
+ 
+Avaliação da coleta e divulgação dos dados da pesquisa do 
+ano anterior 
+ 
+2 
+Eixo 1 
+ 
+Dimensão 8 – Planejamento e Avaliação 
+ 
+1 
+Eixo 2 
+ 
+Dimensão 1 – Missão e Plano de Desenvolvimento 
+Institucional 
+ 
+Dimensão 3 – Responsabilidade Social da Instituição 
+ 
+23 
+ 
+ 
+10 
+Eixo 3 
+ 
+Dimensão 4 – Comunicação com aSociedade
+ 
+13
+ 
+ 
+Dimensão 9 – Políticas de Atendimento aosDiscentes
+ 
+6
+Eixo 4 
+ 
+Dimensão 5: Políticas de Pessoal 
+ 
+Dimensão 6 – Organização e Gestão da Instituição 
+ 
+9 
+ 
+4 
+Eixo 5 
+ 
+Dimensão 7 – Infraestrutura Física 
+ 
+26 
+Quadro 8: Distribuição das questões no formulário dos servidores técnico‐administrativos 
+ 
+ 
+2.5 Procedimentos para a coleta 
+ 
+A AAI do Centro Paula Souza, em parceria com a CESU e em sintonia com a 
+CPA Central, disponibilizou os instrumentos de coleta por meio do WEBSAI a 
+princípio entre os dias 03 de outubro a 31 de outubro e posteriormente foi prorrogado 
+até o dia 13 de novembro. Para favorecer a participação da comunidade durante 
+este período a CPA monitorou diariamente a quantidade de respostas, e enviou 
+boletins diários para a direção e a coordenação. Com base nas informações sobre o 
+progresso da pesquisa, a direção e a coordenação incentivaram a participação da 
+comunidade. 
+ 
+2.6 Análise e Discussão dos dados da coleta 
+ 
+A partir do dia 12 de dezembro os dados coletados foram organizados pela 
+CPA, iniciando com a extração/elaboração dos gráficos. A CPA da Fatec Mogi Mirim 
+analisou os dados obtidos e converteu os dados numéricos em gráficos para facilitar 
+a visualização dos dados. Os gráficos foram organizados e enviados para cada área 
+da unidade, por e-mail: direção geral, coordenação, diretoria acadêmica e diretoria 
+administrativa.  
+ 
+ 
+18
+ 
+Foi acordado que cada área deveria devolver para a CPA o resultado da 
+análise dos dados. No retorno das atividades a CPA participou da Reunião da 
+Direção com a Coordenação e solicitou a devolutiva em fevereiro. A CPA esteve a 
+disposição para eventuais dúvidas. 
+ 
+ 
+2.7 Análise das ações propostas em 2021. 
+ 
+Observa-se no Relatório de 2021, o resultado da análise apresentada no item 
+5 do documento, esta CPA além de realizar a análise proposta no item 2.6, realizou 
+a verificação das ações ora propostas no ano de 2021. 
+Para cada item relatado realizou a procura por evidências das ações e 
+confrontanção com os dados obtidos durante o ano de 2022 e com isso se produziu 
+a coluna identificada como “Análise 2022” e com isso dar subsidios à Unidade em 
+relação a busca da melhoria contínua. 
+ 
+19
+ 
+0
+50
+100
+150
+200
+Manhã
+Tarde
+Noite
+Período que estuda na Fatec
+3 DESENVOLVIMENTO 
+Considerando os instrumentos da autoavaliação, estruturados a partir das 10 
+dimensões previstas no art. 3º da Lei nº 10.861 (SINAES), nesse item são 
+apresentadas as informações que foram coletadas, a partir da organização de 5 eixos, 
+que articulam as 10 dimensões, conforme disposto na Nota Técnica INEP nº 065. 
+Na caracterização dos discentes que efetivamente responderam o 
+questionário, observa-se que a predominancia é do sexo masculino e os que mais 
+participaram foram os discentes do período da noite, como demonstrado nos 
+gráficos abaixo: 
+ 
+ 
+ 
+3.1 Eixo 1: Planejamento e Avaliação Institucional 
+ 
+O foco do Eixo 1 – Planejamento e Avaliação Institucional - é a descrição e a 
+identificação dos principais elementos do processo avaliativo da unidade em relação 
+ao seu PDI e aos relatórios elaborados pela CPA, considerando a evolução acadêmica 
+da unidade. Os dados coletados nesse eixo são importantes indicadores que 
+contribuem para as decisões do processo de planejamento. Os dados coletados na 
+pesquisa de 2022 relacionados com o Eixo 1 são apresentados abaixo: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sexo discentes
+Masculino
+Feminino
+20
+ 
+Técnicos 
+Administraticos
+Sim
+Não
+ 
+ 
+Você conhece o Plano de Desenvolvimento Institucional (PDI da sua instituição de ensino? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90% 100%
+84 ‐ Metodologia e sistema de coleta de dados
+85 ‐ Divulgação das ações desenvolvidas e do relatório de avaliação do ano
+anterior
+Discentes
+Excelente
+Muito Bom
+Regular
+Insuficiente
+NSA
+Não sei resp.
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90% 100%
+74 ‐ Metodologia e sistema de coleta de dados
+75 ‐ Divulgação das ações desenvolvidas e do relatório de avaliação do ano
+anterior
+Técnicos Administrativos
+Excelente
+Muito Bom
+Regular
+Insuficiente
+NSA
+Não sei resp.
+Discentes
+Sim
+Não
+Docentes
+Sim
+Não
+21
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+O Plano de Desenvolvimento Institucional - PDI - é um dos principais 
+documentos que direcionam as ações da Fatec de Mogi Mirim Arthur de Azevedo e 
+representa a identidade da Instituição, definindo, sua filosofia de trabalho, missão, 
+estratégias, objetivos, estrutura e diretrizes pedagógicas. As ações planejadas são 
+avaliadas anualmente e os resultados são apresentados no Relatório de Anual de 
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90% 100%
+83 ‐ Metodologia e sistema de coleta de dados
+84 ‐ Divulgação das ações desenvolvidas e do relatório de avaliação do ano
+anterior
+Docentes
+Excelente
+Muito Bom
+Regular
+Insuficiente
+NSA
+Não sei resp.
+0%
+10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+08 ‐ Como avalia o uso dos indicadores da Avaliação Institucional (WEBSAI)…
+09 ‐ Como avalia as melhorias alcançadas a partir da Avaliação Institucional?
+10 ‐ Frequência às aulas
+11 ‐ Pontualidade
+12 ‐ Qualidade das atividades/exercícios/trabalhos apresentados
+13 ‐ Desempenho nas avaliações da aprendizagem
+14 ‐ Conhecimentos básicos para acompanhar as disciplinas
+15 ‐ Participação em sala de aula (contribuir com comentários, exemplos,…
+16 ‐ Organização e tempo dedicado para os estudos (cronograma, estudos…
+17 ‐ Convívio acadêmico (integração, trabalho em equipe, respeito à…
+Discentes
+Excelente
+Muito Bom
+Regular
+Insuficiente
+NSA
+Não sei resp.
+0%
+10%
+20%
+30% 40%
+50%
+60%
+70%
+80% 90% 100%
+09 ‐ Você promove articulação da (s) disciplina (s) com outra (s) disciplina…
+10 ‐ Você realiza preparação prévia na organização das atividades…
+11 ‐ Você utiliza estratégias de ensino (metodologias) que favorecem o…
+12 ‐ Você procura desenvolver uma comunicação transparente, mantendo…
+13 ‐ Na condução da (s) disciplina (s) /turma (s) foi mantido um clima de…
+14 ‐ Você prepara as avaliações utilizando múltiplos instrumentos e…
+15 ‐ Foi necessário oferecer diferentes situações para a superação de…
+16 ‐ No desenvolvimento da(s) disciplina(s)/turma(s) contribuí para…
+17 ‐ Os estudantes conseguiram aprofundar os conhecimentos na área?
+18 ‐ As devolutivas das avaliações que realizei (provas, trabalhos,…
+19 ‐ Sente‐se comprometido com o sucesso escolar dos alunos,…
+Docentes
+Sempre
+Quase sempre
+Algumas Vezes
+Muito raramente
+22
+ 
+Atividades - RAA. 
+Ao observar os gráficos vislubramos que a disseminação junto ao Corpo 
+discentes deverá ser reforçado, pois o indíce de conhecimento sobre o PDI é inferior 
+a 50% e isso não acontece com os Docentes e Técnicos Administrativos, mostrando 
+que a comunicação realizada com os mesmos foi exitosa. 
+Pela análise da comunidade, podemos inferir que a atuação da CPA da 
+Unidade é vista de maneira positivo com oportunidade de melhoria junto aos 
+discentes, no ano de 2002 começou ações junto ao Corpo discentes e nos 
+ambientes Acadêmicos foram afixados comunicados relatando a importância da 
+CPA, dos atores envolvidos e colocando o relatório a disposição. A Direção da 
+Unidade solicitou que o mesmo comunicado fosse enviado via e-mail à toda 
+comunidade. 
+Em reunião com os Coordenadores dos Cursos, reforçou-se o item 
+Organização e tempo dedicado para os estudos (como apontamento pelo discentes), 
+como indíce a ser trabalhado junto ao colegiado e ao mesmo tempo indicou pontos 
+positivos levantado pelos docentes. 
+23
+ 
+3.2 Eixo 2: Desenvolvimento Institucional 
+ 
+ 
+O Eixo 2 – Desenvolvimento Institucional - tem foco no PDI e consiste na 
+verificação da coerência existente entre esse documento e as ações institucionais nas 
+diferentes vertentes de sua atuação acadêmica – ensino, pesquisa, extensão e 
+gestão. Pretende, igualmente, verificar os diferentes caminhos percorridos (ou a 
+percorrer) pela Unidade no contexto de sua inserção social, bem como sua atuação 
+face à inclusão e ao desenvolvimento econômico e social, tendo sempre como base 
+a missão, os propósitos e as metas anunciadas no PDI. Dessa forma, esse Eixo 
+assume o papel de induzir maior comprometimento da Unidade na construção de seu 
+PDI, priorizando sua coerência e evolução. Segue abaixo os gráficos das principais 
+informações coletadas sobre o Eixo 2 no ano de 2022. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+19 ‐ Com relação à missão institucional de "Promover a educação pública…
+20 ‐ Formação de profissionais qualificados
+21 ‐ Disseminação da ciência, tecnologia e inovação
+22 ‐ Disseminação da cultura e da arte
+23 ‐ Disseminação de valores éticos e democráticos
+24 ‐ Inclusão social
+25 ‐ Desenvolvimento sustentável
+Discentes
+Excelente
+Muito Bom
+Regular
+Insuficiente
+NSA
+Não sei resp.
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+32 ‐ Atendimento de pessoas com deficiência
+33 ‐ Prestação de serviços da Fatec para a Comunidade Externa
+34 ‐ Interação entre a Fatec e a comunidade externa
+35 ‐ Ações voltadas para as questões sociais e ambientais
+36 ‐ Cursos de formação voltados para atender a comunidade externa.
+37 ‐ Participação dos técnicos administrativos nas atividades do ensino
+38 ‐ Participação dos técnicos administrativos nas atividades da pesquisa
+39 ‐ Participação dos técnicos administrativos nas atividades da extensão
+40 ‐ Interação entre os técnicos administrativos e os docentes
+41 ‐ Interação entre os técnicos administrativos e os discentes
+Técnicos Administrativos
+Excelente
+Muito Bom
+Regular
+Insuficiente
+NSA
+Não sei resp.
+24
+ 
+ 
+ 
+ 
+ 
+Na Fatec de Mogi Mirim – Arthur de Azevedo foram promovidas várias 
+atividades voltadas à Cultura e arte, porém nos dados colhidos dos discentes 
+observa-se que é um ponto com oportunidades de melhorias. Esses eventos 
+constam em calendário Acadêmico e sempre são divulgados à Comunidade.  
+ 
+Esta CPA juntamente com a Direção e Coordenação reforçará o 
+trabalho de esclarecimento destas ações na nossa Unidade, afim de dar maior 
+visibilidade e esclarecer os envolvidos. 
+ 
+No ponto de vista dos Funcionários Técnicos Administrivos o ponto forte 
+é a interação entre a Fatec e a comunidade externa, onde foram oferecidos vários 
+Cursos, oficinas e treinamentos. Isso avalizado com os dados colhidos dos Docentes 
+onde quase 90% dos que responderam colocam como muito bom e excelente a 
+transferência de conhecimento entre a Fatec e a comunidade externa. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90% 100%
+29 ‐ Atendimento de pessoas com deficiência
+30 ‐ Transferência de conhecimento da Fatec para a comunidade externa
+31 ‐ Participação da comunidade externa no contexto institucional
+32 ‐ Ações institucionais para a sustentabilidade
+Docentes
+Excelente
+Muito Bom
+Regular
+Insuficiente
+NSA
+Não sei resp.
+25
+ 
+ 
+ 
+ 
+ 
+ 
+3.3 Eixo 3: Políticas Acadêmicas 
+ 
+No Eixo 3 - Políticas Acadêmicas - analisam-se os elementos que constituem 
+as práticas de ensino, pesquisa e extensão, considerando como meta o aprendizado.  
+ 
+ 
+ 
+ 
+0%
+10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+31 ‐ Projeto Pedagógico do Curso – PPC
+32 ‐ Matriz curricular do curso
+33 ‐ Atividades de ensino
+34 ‐ Atividades de pesquisa
+35 ‐ Atividades de extensão
+36 ‐ Corpo docente (conjunto de professores)
+37 ‐ Práticas didático‐pedagógicas dos professores
+38 ‐ Correspondência entre o curso e a formação para o exercício profissional
+39 ‐ Estágio supervisionado como espaço de formação profissional
+40 ‐ Eventos científicos e de extensão
+41 ‐ Incentivo à pós‐graduação
+42 ‐ Domínio dos conteúdos pelos docentes
+43 ‐ Satisfação com o curso escolhido
+44 ‐ Atenção dada aos alunos com dificuldade de acompanhar os conteúdos
+45 ‐ Correção feita pelos professores quanto às avaliações
+46 ‐ Realização de projetos interdisciplinares
+47 ‐ Articulação entre as disciplinas (interdisciplinaridade)
+48 ‐ As metodologias de ensino para seu envolvimento e aprendizagem
+49 ‐ A transparência da comunicação no que se refere às informações da…
+50 ‐ A manutenção de clima de respeito à diversidade de opiniões
+51 ‐ A utilização diversificada dos instrumentos de avaliação da aprendizagem
+52 ‐ O estímulo e o apoio ao desenvolvimento de sua autonomia sobre os…
+53 ‐ A correção conjunta das avaliações
+54 ‐ Os professores apresentam no início de cada semestre os seus…
+55 ‐ Como avalia a qualidade da Fatec que você escolheu?
+56 ‐ Como avalia a possibilidade do uso do ensino híbrido, considerando um…
+Discentes
+Excelente
+Muito Bom
+Regular
+Insuficiente
+NSA
+Não sei resp.
+26
+ 
+ 
+Sobre a Dimensão 2 no Eixo 3 com relação aos Estágios Supervisionados 
+ações foram realizadas trazendo empresas para dentro da Unidade afim de explicar 
+suas operações e oportunizar vagas de Estágios aos Cursos ofertados na Unidade e 
+pelo relato dos alunos em salas de aula houve um bom número de contratos de 
+Estágios que aconteceram depois destas palestras. Em reunião com a Direção e 
+Coordenação foi colocado por parte da CPA como políticas positivas dentro da IES. 
+O Escritório de Carreiras realiza atendimento personalizado aos alunos, 
+oportunizando atenção àos Discentes e sendo o elo entre Academia e o Mercado de 
+Trabalho. 
+ 
+ 
+ 
+ 
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90% 100%
+33 ‐ Articulação de seu componente curricular com o Projeto Pedagógico do…
+34 ‐ Estrutura curricular
+35 ‐ Sistema de avaliação da aprendizagem
+36 ‐ Atividades de ensino
+37 ‐ Atividades de pesquisa
+38 ‐ Atividades de extensão
+39 ‐ Corpo técnico‐administrativo
+40 ‐ Corpo docente
+41 ‐ Práticas didático‐pedagógicas dos docentes
+42 ‐ Articulação de conhecimentos disciplinares com temas sociais, políticos…
+43 ‐ Correspondência entre o curso e a formação para o exercício profissional
+44 ‐ Estágio supervisionado como espaço de formação profissional
+45 ‐ Como avalia a política de ensino, pesquisa e extensão tendo em vista a…
+46 ‐ Como avalia se o(s) curso (s) cumpre (m) as políticas de ensino, pesquisa…
+Docentes
+Excelente
+Muito Bom
+Regular
+Insuficiente
+NSA
+Não sei resp.
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90% 100%
+57 ‐ Concurso Vestibular
+58 ‐ Resoluções dos colegiados (Congregação ou Comissão de Implantação);…
+59 ‐ Normas acadêmicas, legislação e calendários
+60 ‐ Editais de bolsas, intercâmbios e/ou oportunidades de pesquisa e…
+61 ‐ Acesso da comunidade externa às atividades desenvolvidas pela Fatec.
+62 ‐ Sistema de informação interna (site, murais, jornais etc.)
+63 ‐ Site oficial da Fatec
+64 ‐ Publicações nos murais
+65 ‐ SIGA
+66 ‐ Ouvidoria
+67 ‐ Mídias Sociais
+Discentes
+Excelente
+Muito Bom
+Regular
+Insuficiente
+NSA
+Não sei resp.
+27
+ 
+ 
+ 
+ 
+ 
+ 
+Dimensão 4, Eixo 3 percebe-se como ponto positivo a Comunicação, seja pelas 
+mídias sociais, site oficial e publicações em Murais na Unidade. As normas Acadêmicas 
+também é avaliada como muito positiva por toda a comunidade Acadêmica. 
+ 
+ 
+0%
+10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+42 ‐ Eventos que vão ocorrer na Fatec e envolvimento dos técnicos…
+43 ‐ Envolvimento do pessoal técnico administrativo no Concurso Vestibular
+44 ‐ Decisões dos órgãos superiores da Fatec
+45 ‐ Normas acadêmicas, legislação e calendários
+46 ‐ Editais de concursos públicos e processos seletivos docentes…
+47 ‐ Editais de bolsas e intercâmbios
+48 ‐ Oportunidades de capacitação profissional
+49 ‐ Eventos acadêmicos ‐ científicos
+50 ‐ Site oficial da Fatec
+51 ‐ Publicações nos murais
+52 ‐ Ouvidoria
+53 ‐ Caixa e/ou espaço para sugestões
+54 ‐ Mídias sociais da Fatec
+Técnicos Administrativos
+Excelente
+Muito Bom
+Regular
+Insuficiente
+NSA
+Não sei resp.
+0%
+10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+47 ‐ Acesso da comunidade externa às atividades desenvolvidas pela Fatec
+48 ‐ Sistemas de informação da Fatec
+49 ‐ Concurso vestibular
+50 ‐ Resoluções dos colegiados (Congregação ou Comissão de…
+51 ‐ Editais de concursos, processos seletivos, bolsas, intercâmbios, etc.
+52 ‐ Informações advindas da coordenação de curso
+53 ‐ Oportunidades de Pesquisa
+54 ‐ Oportunidades de Extensão
+55 ‐ Normas acadêmicas, legislação e calendários
+56 ‐ Eventos acadêmicos‐científicos
+57 ‐ Site oficial da Fatec
+58 ‐ Publicações nos murais
+59 ‐ Boletins e informativos Fatec (Impressos ou por e–mail)
+60 ‐ Ouvidoria
+61 ‐ SIGA
+62 ‐ Caixa e/ou espaço para sugestões
+63 ‐ Mídias Sociais
+Docentes
+Excelente
+Muito Bom
+Regular
+Insuficiente
+NSA
+Não sei resp.
+28
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90% 100%
+68 ‐ Programas de apoio pedagógico (monitoria, nivelamento, reforço do
+aprendizado)
+69 ‐ Programa de apoio financeiro (bolsas)
+70 ‐ Programas de Intercâmbio e bolsas de mobilidade
+71 ‐ Estímulo a organização estudantil
+72 ‐ Espaço para participação e convivência estudantil
+73 ‐ Estímulo à frequência no ambiente escolar
+Discentes
+Excelente
+Muito Bom
+Regular
+Insuficiente
+NSA
+Não sei resp.
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90% 100%
+55 ‐ Programas de apoio pedagógico (monitoria, nivelamento, reforço do
+aprendizado)
+56 ‐ Programa de apoio financeiro (bolsas)
+57 ‐ Programas de Intercâmbio e Mobilidade Acadêmica
+58 ‐ Estímulo à organização estudantil
+59 ‐ Espaço para participação e convivência estudantil
+60 ‐ Acompanhamento de Egressos (ex‐alunos)
+Técnicos Administrativos
+Excelente
+Muito Bom
+Regular
+Insuficiente
+NSA
+Não sei resp.
+0%
+10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+64 ‐ Programas de apoio pedagógico (monitoria, nivelamento, recuperação
+e reforço do aprendizado)
+65 ‐ Programa de apoio financeiro (bolsas)
+66 ‐ Bolsas (Programas de Intercâmbio e de Mobilidade Acadêmica)
+67 ‐ Estímulo a organização estudantil (espaço para participação e
+convivência estudantil)
+68 ‐ Acompanhamento de Egressos (ex‐alunos)
+Docentes
+Excelente
+Muito Bom
+Regular
+Insuficiente
+NSA
+Não sei resp.
+29
+ 
+ 
+Dimensão 9, Eixo 3 o programa de apoio Financeiro requer atenção da Gestão da 
+Unidade, apesar desta CPA acompanhar as oportunidades ofertadas e as vezes a restrição 
+por parte dos discente, mas se recomenda atenção à esse item.  
+ 
+30
+ 
+3.4 Eixo 4: Políticas de Gestão 
+ 
+O Eixo 4 - Políticas de Gestão - tem como foco a verificação do 
+desenvolvimento das políticas de pessoal e da organização e gestão da instituição.  
+ 
+ 
+ 
+ 
+ 
+ 
+Percebe-se que a Participação da Direção na resolução de conflitos é 
+“Excelente” ou “Muito bom” na visão dos docentes, mas a CPA recomenda que se 
+tenha uma conscientização e explicação sobre a atuação dos Colegiados junto aos 
+Discentes, bem como explicação sobre a FETEPS junto aos mesmos discentes.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90% 100%
+74 ‐ Resolução dos conflitos baseado no diálogo e negociação
+75 ‐ Estímulo e apoio no desenvolvimento das resoluções de situações…
+76 ‐ Atuação dos colegiados da unidade (Congregação ou Comissão de…
+77 ‐ Atuação do colegiado de curso (Ex: Conselho de curso, NDE ‐ Núcleo…
+78 ‐ Atuação da representação discente nos colegiados da unidade e do curso
+79 ‐ O reconhecimento da equipe de direção como uma liderança capaz de…
+80 ‐ FETEPS
+81 ‐ Programas de Estágios
+82 ‐ Programas de Iniciação Científica
+83 ‐ Programa INOVA Paula Souza
+Discentes
+Excelente
+Muito Bom
+Regular
+Insuficiente
+NSA
+Não sei resp.
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90% 100%
+73 ‐ Participação da Direção na resolução de conflitos
+74 ‐ Atuação dos colegiados da unidade (Congregação ou Comissão de…
+75 ‐ Atuação do colegiado de curso (Ex: Conselho Departamental, NDE –…
+76 ‐ Oportunidades de Pesquisa e Extensão
+77 ‐ Representatividade docente nos colegiados da unidade
+78 ‐ Representatividade docente nos colegiados de curso
+79 ‐ FETEPS
+80 ‐ Programa de Iniciação científica (PIBIC)
+81 ‐ Programa de Estágios
+82 ‐ INOVA Paula Souza
+Docentes
+Excelente
+Muito Bom
+Regular
+Insuficiente
+NSA
+Não sei resp.
+31
+ 
+ 
+3.5 Eixo 5: Infraestrutura Física 
+ 
+No Eixo 5 - Infraestrutura Física 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90% 100%
+86 ‐ Secretaria acadêmica
+87 ‐ Espaços de convivência
+88 ‐ Serviços de segurança
+89 ‐ Serviços de limpeza
+90 ‐ Cantina
+91 ‐ Quantidade
+92 ‐ Limpeza/Conservação
+93 ‐ Iluminação/ Ventilação
+94 ‐ Mobiliário e Equipamentos
+95 ‐ Acessibilidade
+96 ‐ Quantidade
+97 ‐ Limpeza/Conservação
+98 ‐ Iluminação/ Ventilação
+99 ‐ Mobiliário e Equipamentos
+100 ‐ Acessibilidade
+101 ‐ Quantidade
+102 ‐ Limpeza/Conservação
+103 ‐ Iluminação/ Ventilação
+104 ‐ Mobiliário e Equipamentos
+105 ‐ Acessibilidade
+106 ‐ Atendimento ao usuário
+107 ‐ Automação do sistema
+108 ‐ Qualidade e atualidade do acervo
+109 ‐ Disponibilidade da bibliografia básica (número de exemplares por título)
+110 ‐ Horário de atendimento
+Discentes
+Excelente
+Muito Bom
+Regular
+Insuficiente
+NSA
+Não sei resp.
+32
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90% 100%
+76 ‐ Qual a sua avaliação  da estabilidade da internet durante o trabalho?
+77 ‐ Secretaria acadêmica
+78 ‐ Espaços de convivência
+79‐ Serviços de segurança
+80 ‐ Serviços de limpeza
+81 ‐ Cantina
+82 ‐ Quantidade
+83 ‐ Limpeza/Conservação
+84 ‐ Iluminação/ Ventilação
+85 ‐ Mobiliário e Equipamentos
+86 ‐ Acessibilidade
+87 ‐ Quantidade
+88 ‐ Limpeza/Conservação
+89 ‐ Iluminação/ Ventilação
+90 ‐ Mobiliário e Equipamentos
+91 ‐ Acessibilidade
+92 ‐ Quantidade
+93 ‐ Limpeza/Conservação
+94 ‐ Iluminação/ Ventilação
+95 ‐ Mobiliário e Equipamentos
+96 ‐ Acessibilidade
+97‐ Atendimento ao usuário
+98 ‐ Automação do sistema
+99 ‐ Qualidade e atualidade do acervo
+100‐ Disponibilidade da bibliografia básica (número de exemplares por título)
+101 ‐ Horário de atendimento
+Técnicos Administrativos
+Excelente
+Muito Bom
+Regular
+Insuficiente
+NSA
+Não sei resp.
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90% 100%
+85 ‐ Secretaria acadêmica
+86 ‐ Espaços de convivência
+87‐ Serviços de segurança
+88 ‐ Serviços de limpeza
+89 ‐ Cantina
+90 ‐ Quantidade
+91 ‐ Limpeza/Conservação
+92 ‐ Iluminação/ Ventilação
+93 ‐ Mobiliário e Equipamentos
+94 ‐ Acessibilidade
+95 ‐ Quantidade
+96 ‐ Limpeza/Conservação
+97 ‐ Iluminação/ Ventilação
+98 ‐ Mobiliário e Equipamentos
+99 ‐ Acessibilidade
+100 ‐ Quantidade
+101 ‐ Limpeza/Conservação
+102 ‐ Iluminação/ Ventilação
+103 ‐ Mobiliário e Equipamentos
+104 ‐ Acessibilidade
+105‐ Atendimento ao usuário
+106 ‐ Automação do sistema
+107 ‐ Qualidade e atualidade do acervo
+108‐ Disponibilidade da bibliografia básica (número de exemplares por título)
+109 ‐ Horário de atendimento
+Docentes
+Excelente
+Muito Bom
+Regular
+Insuficiente
+NSA
+Não sei resp.
+33
+ 
+ 
+A cantina apontado como ponto a ser melhorada está começou a ser operada 
+por um terceiro e ao longo no ano de 2022 sofreu adequações para o melhor 
+atendimento da comunidade Interna, mas a CPA pede atenção a essa operação 
+junto a Unidade. Os serviços de Limpeza tem uma avaliação muito positiva, isto 
+deve ser enaltico junto aos colaboradores da Empresa prestadora de serviço. 
+A construção do 3º Bloco comecou no ano de 2002 e a previsão de entrega é 
+em 2023, sendo acompanhado e esperado pela comunidade interna e externa. 
+ 
+34 
+ 
+ 
+4 ANÁLISE DOS DADOS DE 2021 E APLICAÇÃO NO ANO DE 2022 
+ 
+O quadro 9 contém a síntese da análise realizada a partir dos dados coletados na pesquisa de 2021. Os itens onde a soma 
+das respostas “excelente” ou “muito bom” foi superior a 80%, foram considerados potencialidades e foram destacados para o 
+planejamento de ações de manutenção ou melhoria. Os itens onde a soma das respostas “excelente” ou “muito bom” foi inferior a 
+40%, foram considerados fragilidades e foram priorizados para o planejamento de ações de resposta. Não foram observados itens 
+com resultado “não se aplica” ou “não sei responder” em percentagem que merecesse destaque e, também não foram observados 
+itens para os quais a soma das respostas “regular” ou “insatisfatório” fossem significativos. 
+ 
+ 
+EIXO 1: PLANEJAMENTO E AVALIAÇÃO INSTITUCIONAL 
+FRAGILIDADES 
+AÇÕES PLANEJADAS 
+AÇÕES REALIZADAS 
+ANÁLISE 2022 
+ 
+ 
+ 
+Grande parte dos alunos e alguns 
+professores não conhecem o PDI 
+Divulgação do PDI dentro de cada coordenação e de forma 
+conjunta com a direção. 
+Preparação de programa de integração para os professores 
+temporários e recém-contratados, com a apresentação do PDI 
+no início das atividades. 
+Incluir a divulgação do PDI nas atividades de “boas-vindas” 
+para os alunos ingressantes e incluir informações do PDI nas 
+reuniões com os representantes de turma. 
+ 
+ 
+Nas reuniões periódicas, a direção e a 
+coordenação reforçam a importância 
+do PDI da unidade. 
+Conforme se observou nos dados do questionário, boa parte
+dos alunos alegam desconhecer o referido documento,
+apesar da Coordenação e Direção divulgarem em a
+importância do mesmo, serão traçadas mais alternativas para
+atingir um número maior de discentes e verificado no
+questionário de 2023. 
+ 
+ 
+Organização e tempo dedicado para os estudos 
+Recomendar aos professores utilizar o tempo da aula para 
+projetos e exercícios. 
+Professores devem reforçar com os alunos que aproveitem ao 
+máximo o tempo das aulas para a realização das atividades 
+solicitadas na disciplinas. 
+[Sugestão] Oferecimento de palestras e apresentação de 
+vídeos sobre organização do tempo.
+Recomendação 
+dada 
+pelos 
+coordenadores aos professores. 
+Foi novamente levantado pelos discentes, esse assunto 
+foi pauta na Reunião entre CPA e Coordenação e 
+posteriormente discutida na reunião de Planejamento de 
+Curso com os Docentes para os devidos ajustes para o 
+ano de 2023. 
+35 
+ 
+ 
+POTENCIALIDADES 
+AÇÕES PLANEJADAS 
+AÇÕES REALIZADAS 
+ANÁLISE 2022 
+ 
+Conhecimentos 
+básicos 
+para 
+acompanhamento das disciplinas e melhoria 
+do desempenho escolar. 
+ 
+Aulas de nivelamento e implantação do programa de 
+monitoria para disciplinas selecionadas. 
+Recomendação dada pelos coordenadores aos 
+professores. 
+Priorização das disciplinas, priorização de projeto de HAEs 
+para acompanhamento das monitorias, divulgação de edital 
+para monitoria, seleção de alunos monitores, início das aulas 
+de monitoria. 
+Entre “Excelente” e “Muito bom” atingiu-
+se o percentual de 65% na avaliação 
+dos discentes, validando o trabalho 
+realizado pela Coordenação e docentes, 
+solicita-se que seja mantido e se 
+possível fortalecido o trabalho realizado 
+para que se possa alcançar outros 
+patamares. 
+ 
+ 
+EIXO 2: DESENVOLVIMENTO INSTITUCIONAL 
+FRAGILIDADES 
+AÇÕES PLANEJADAS 
+AÇÕES REALIZADAS 
+ANÁLISE 2022 
+Desenvolvimento sustentável. 
+Incentivo para realização de projetos de pesquisa 
+relacionados ao tema de desenvolvimento sustentável. 
+ 
+Mais de 70% dos discentes e mais de 
+83% 
+dos 
+docentes 
+consideram 
+“Excelente” ou “muito bom” as ações e 
+atividades realizadas na Unidade, item 
+avaliado como positivo por essa CPA, 
+Essa unidade é ator de relevância no 
+HUB MVT, Connect Valley e na Agência 
+de Desenvolvimento Municipal, sempre 
+participando dos Projetos da Região. 
+Participação da comunidade externa no 
+contexto institucional e transferência de 
+conhecimentos para comunidade externos 
+Oferecimento de minicursos, captação e divulgação 
+de vagas de empregos, parceria com empresas. 
+ 
+ 
+Observado como ponto positivo e com 
+a variedade de Minicursos, tendo o 
+Qualifica 
+FATEC 
+e 
+os 
+Cursos 
+Profissionalizantes como destaque, além 
+disso envolveu os alunos do Ensino 
+Médio da Região de Mogi Mirim com 
+visitas guiadas na Unidade e explicação 
+dos campos de atuação de cada Curso 
+ofertado. 
+POTENCIALIDADES 
+AÇÕES PLANEJADAS 
+AÇÕES REALIZADAS 
+ANÁLISE 2022 
+Atividades de cultura e arte. 
+Organização da 2ª edição do FATEC Cultural. 
+Priorização de projeto de HAE para organização do 
+FATEC Cultural, inclusão do evento no calendário 
+acadêmico. 
+Ao longo do ano foram desenvolvidas 
+varias ações, dentre elas: lançamento 
+de livros, Fatec culttural, Semana da 
+Arte Moderna, Capoeira e parceria com 
+Entidades Municipais para exposições e 
+apresentações 
+dentro 
+da 
+Unidade. 
+Nesse ano contamos com música na 
+36 
+ 
+descida da Ladeira 
+ 
+ 
+Inclusão social. 
+ 
+ 
+Organização de rodas de conversa com a comunidade 
+interna. 
+Manter o oferecimento de educação tecnológica de 
+qualidade, contribuindo com a formação de profissionais 
+qualificados, aumentando as chances de incluí-los no 
+mercado. As parcerias estabelecidas com as empresas da 
+região proporcionam oportunidades de estágio e de início 
+de carreira. 
+Manter e ampliar as parcerias com empresas da região. 
+Manter e promover a integração dos alunos, 
+indenpentemente da cultura, crenças, origens, raça, classe 
+social e conhecimentos.
+Item observado pelos docentes como 
+muito 
+positivo, 
+além 
+de 
+vários 
+discentes que estudam e se formaram 
+na Unidade. 
+Além das conversas, palestras foram 
+ofertadas para discussão do tema com 
+os discentes. 
+Ações Institucionais para sustentabilidade 
+Priorização de projetos de HAE para realização de 
+atividades e ações na área de sustentabilidade. 
+ 
+Ações 
+foram 
+realizadas 
+com 
+a 
+comunidade interna, prevendo uso 
+racional de Energia Elétrica, Água e 
+reciclagem. 
+O Logo comemorativa dos 15 anos da 
+Unidade foi elaborado por meio de 
+Concurso interno com os discentes e 
+validado por comissão. 
+Com os discentes a Direção, CPA e 
+representantes dos discentes fizeram 
+divulgação em sala de aula sobre os 
+projetos 
+e 
+fixaram 
+placas 
+de 
+conscientazação em todas as salas. 
+ 
+EIXO 3: POLÍTICAS ACADÊMICAS (Dimensões 2, 4 e 9) 
+ 
+FRAGILIDADES 
+ 
+ 
+AÇÕES PLANEJADAS 
+ 
+ 
+AÇÕES REALIZADAS 
+ 
+ 
+ANÁLISE 2022 
+Estímulo a organização estudantil 
+Estudar a possiblidade de organização de 
+Empresa Junior, Diretório Acadêmico e Incubadora 
+de empresas 
+ 
+A Unidade está estimulando os discentes 
+na organização de um DA e da Empresa 
+Júnior. 
+Como ação da Unidade sediou a 
+Maratona de Startup’s, divulgação e 
+participação do projeto INOVA. 
+Programas de intercâmbio e mobilidade acadêmica 
+Divulgação dos programas promovidos pelo CPS 
+e outras instituições de ensino 
+ 
+Foram realizadas divulgações em mídias 
+sociais, site e e-mail e a Direção e a 
+Coordenação fizeram as divulgações nas 
+salas de aula, 
+Espaço para participação e convivência estudantil 
+Estudar a possibilidade de melhorias no saguão do 
+bloco B e organização de jogos interclasses. 
+Inclusão do evento Descida da Ladeira no calendário 
+acadêmico. 
+Eventos foram organizados visando a 
+convivência estudantil e também os 
+discentes foram estimulados a participar 
+de eventos externos, segue exemplos. 
+Descida 
+da 
+Ladeira, 
+incluído 
+no 
+Calendário;
+37 
+ 
+Fut-Tec, integrou discentes e docentes 
+no ginásio da Unidade; 
+Maratona de Stratup’s envolvimendo a 
+comunidade interna e a externa, gerando 
+sinergia na convivência estudantil; 
+Desafio FabricAção da empresa Eaton; 
+Fomento e participação da Interfatec’s; 
+Fomento e participação dos projetos e 
+competições da Empresa Huawei. 
+POTENCIALIDADES 
+AÇÕES PLANEJADAS 
+AÇÕES REALIZADAS 
+ANÁLISE 2022 
+Atividades acadêmicas e científicas. 
+Continuar promovendo eventos internos e externos. 
+Inclusão do evento Descida da Ladeira no calendário 
+acadêmico. 
+Além dos Eventos internos e externos 
+promovidos e estimulados pela unidade, 
+tais como: Descida da Ladeira, Fut-Tec, 
+Maratona 
+de 
+Startup’s, 
+Desafio 
+FabricAção, InterFatec’s, Projetos da 
+Empresa Huawei, foi realizado no de 
+2022 o Simpósio Regional de Iniciação 
+Científica e a mostra dos Trabalhos de 
+Conclusão de Curso.
+Divulgar e incentivar a participação da 
+comunidade interna nos espaços para 
+sugestões, nos eventos acadêmicos e das 
+oportunidades de pesquisas. 
+Divulgação nas reuniões periódicas com os 
+Coordenadores, Docentes e Discentes. Divulgação para 
+os servidores da unidade. 
+Divulgação dos eventos em reuniões periódicas e por e- 
+mail. 
+Os eventos estão sendo amplamente 
+divulgados nas mídias sociais, cartazes 
+afixados nos espaços, envio por e-mail. A 
+CPA solicitou um e-mail próprio para 
+comunicação direta com a comunidade 
+que amplamente divulgado nos cartazes 
+e comunicados de conscientização. 
+Divulgação de informação no site oficial e nas 
+redes sociais. 
+Manter o trabalho de atualização e divulgação dos 
+fatos da unidades. Ampliar o uso das redes 
+sociais. 
+Informações atualizadas no site oficial e divulgação de 
+fatos e eventos nas redes sociais. 
+Pelos dados colhidos no questionário 
+consegue se observar que as redes 
+sociais estão atualizadas e em constarte 
+evolução.
+Caixa de sugestões 
+Implementar uma área para sugestões no site oficial. 
+ 
+O Fale Conosoco está categorizado para 
+envio de informações, agilizando as 
+respostas
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+38 
+ 
+EIXO 4 : POLÍTICAS DE GESTÃO (Dimensões 5, 6 e 10) 
+ 
+ 
+ 
+POTENCIALIDADES 
+AÇÕES PLANEJADAS 
+AÇÕES REALIZADAS 
+ANÁLISE 2022 
+ 
+ 
+Incentivar a participação dos servidores nos eventos e 
+ações desenvolvidos na unidade. 
+ 
+ 
+Manter a divulgação dos cursos e eventos oferecidos 
+pelo CPS e pela unidade. 
+ 
+ 
+Divulgação por e-mail. 
+Além da divulgação feita por e-mail, 
+constata-se 
+a 
+participação 
+na 
+organização dos eventos ocorridos na 
+Unidade, 
+atuando 
+na 
+gestão 
+dos 
+mesmos. 
+Como por exemplo: mostra acadêmica, 
+Descida da Ladeira, Carreta da Elektro, 
+Carreta da Huawei e Visitas realizadas 
+nas Empresas
+ 
+ 
+Participação dos servidores nas decisões e 
+participação dos servidores nos órgãos colegiados. 
+ 
+Estudar formas de ampliar a participação dos 
+servidores nas tomadas de decisão. Verificar a 
+possibilidade de ampliação do número de servidores 
+representantes no órgãos colegiados da unidade. 
+Ampliar os espaços para comunicação e iniciativas 
+entre servidores e seus superiores.
+ 
+Os funcionários Técnicos Administrativos 
+participaram 
+das 
+reuniões 
+de 
+planejamento da Unidade juntamente 
+com os Docentes e tem participação em 
+diversas comissões da Unidade 
+ 
+ 
+Programa Inova Paula Souza e Feteps 
+ 
+ 
+Divulgação dos eventos do CPS. Organização de 
+Simpósio. 
+ 
+ 
+Divulgação dos eventos do CPS. Inclusão do simpósio no 
+calendário acadêmico. 
+Ampla divulgação dos eventos do CPS e 
+incentivo à participação dos mesmos, 
+Com a Maratona de Stratup’s realizada 
+na Unidade percebe-se que melhorou o 
+entidemento do Inova Paula Souza. 
+EIXO 5: INFRAESTRUTURA (Dimensão 7) 
+POTENCIALIDADES 
+AÇÕES PLANEJADAS 
+AÇÕES REALIZADAS 
+ANÁLISE 2022 
+39 
+ 
+ 
+ 
+Melhorias na utilização da ferramenta MSTeams 
+para aulas online e melhorias na conexão com a 
+internet 
+ 
+Identificar as dificuldade de acesso do discente ao 
+sistema, procurando solucionar eventuais 
+problemas de acesso 
+Entrega dos chips aos alunos com dificuldade de acesso à 
+internet, para acesso a plataforma MSTeams. 
+Algumas melhorias foram implementadas na unidade, com 
+a instalação de novos pontos de conexão com a internet. 
+Com o ensino presencial a ferramenta é 
+utilizada para entrega de atividade e conta 
+com vídeos de tutoria para uso dos 
+discentes.
+FRAGILIDADES 
+AÇÕES PLANEJADAS 
+AÇÕES REALIZADAS 
+ANÁLISE 2022 
+Acesso à internet 
+Estudar alternativas para que a comunidade 
+interna tenha acesso a internet dentro da unidade. 
+ 
+Foram instalados API’s em todos os blocos
+da Unidade, sendo assim a Internet sem fio
+está sendo ofertada à comunidade, porém
+solicita-se 
+monitoramento 
+do 
+serviço,
+visando a qualidade do mesmo 
+Quadro 9: Análise dos dados coletados em 2021 x 2022
+ 
+43 
+ 
+ 
+ 
+5 CONSIDERAÇÕES FINAIS 
+Houve participação positiva de parte de todos os segmentos 
+questionados (professores, técnicos administrativos “servidores” e acadêmicos). 
+Dessa forma, podemos afirmar que um número razoável dos sujeitos que 
+compõem a comunidade acadêmica participou deste instrumento de avaliação, 
+demonstrando que há engajamento quanto à participação na coleta de dados da 
+CPA. Mas a CPA trabalhará na contínua conscientização dos discentes e na 
+manutenção dos indíces de participação dos docentes e funcionários Técnicos 
+Administrativos (servidores). 
+Compreendemos que o processo de auto-avaliação institucional é 
+uma ferramenta de grande valor, uma vez que possibilita reflexões coletivas que 
+favorecem o planejamento institucional, a implementação das mudanças 
+necessárias, de modo a alavancar ações que se concretizem em crescimento 
+institucional, 
+favorecendo 
+o 
+aprimoramento 
+das 
+ações 
+acadêmicas 
+e 
+administrativas e também estando em consonância com as orientações legais do 
+Sistema Nacional de Avaliação da Educação Superior – SINAES.  
+As ações que necessitam atenção para o ano de 2023, foram 
+discutidas com os Coordenadores e Direção para que os mesmos montem 
+estratégias de discussões e reflexões com toda a Comunidade Acadêmica. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Anexo I – Imagens utilizadas como evidências para esse relatório 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

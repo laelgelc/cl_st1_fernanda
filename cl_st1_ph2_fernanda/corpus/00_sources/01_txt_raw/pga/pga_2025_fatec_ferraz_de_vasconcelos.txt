@@ -1,0 +1,1758 @@
+PLANO DE GESTÃO ANUAL 
+PGA 2025 
+V04 
+Estruturado em uma única etapa, contendo 2 anexos: 
+PLANEJAMENTO PELA EQUIPE GESTORA DA UE 
+• Anexo 1 – Lista de equipamentos necessários aos projetos 
+• Anexo 2 – Lista de Ações/Projetos referentes à CPA (Origem 3: Gestão Tática – CPA) 
+ 
+IDENTIFICAÇÃO DA UNIDADE 
+Unidade 
+código F292 
+Fatec Ferraz de Vasconcelos 
+Diretor(a) 
+Fernando Juabre Muçouçah 
+ 
+PLANEJAMENTO PELA EQUIPE GESTORA DA UE 
+(Administração da Faculdade - Deliberação CEETEPS 31/2016) 
+ANÁLISE DO CENÁRIO 
+Descrever de forma breve e objetiva o cenário da Unidade perante sua missão como Unidade de Ensino na localidade em que 
+se encontra (é este cenário que se pretende melhorar). 
+ 
+Passado 2023, a Unidade segue com os desafios de contratação de docentes via editais de ampliação por prazo determinado e indeterminado 
+e PSS para as disciplinas dos três cursos oferecidos pela Fatec Ferraz de Vasconcelos que tiveram contratos rescindidos de docentes ou 
+afastados a fim de assumir atribuições de gestão e também para o CST em Gestão empresarial que está em fase de implantação. No final do 
+segundo semestre de 2023 recebemos os especialistas do Conselho Estadual de Educação visando a Renovação de Reconhecimento do CST 
+em GPI e estamos aguardando o parecer dos mesmos. A coordenação de GPI da Unidade continua com a agenda com os demais 
+coordenadores de curso e com a equipe técnica da Cesu a discussão da Restruturação do PPC de CST em GPI, bem como a necessidade de 
+equipamentos para os laboratórios das disciplinas aplicadas e do acervo bibliográfico. Atualmente a Unidade oferece os CST em GPI, ADS e 
+por fim o GE, este último oferecido presencialmente no período matutino e presencial, desde o primeiro semestre de 2024. Desde o final do 
+segundo semestre de 2023 vimos discutindo com as coordenações de curso da Unidade e com a direção da Etec Ferraz de Vasconcelos a 
+possibilidade de trazermos a modalidade AMS para a nossa comunidade acadêmica e ratificamos esse projeto em reunião realizada com a 
+direção da Etec Ferraz, os Coordenadores de curso de GE e de ADS da Unidade, os coordenadores pedagógicos da Etec e Fatec da Regional 4 
+a fim de definirmos os cursos a serem oferecidos. Ficou definido que a Etec e Fatec Ferraz de Vasconcelos entrarão com a solicitação junto a 
+Cesu e Cetec para que sejam oferecidos os AMS de Gestão empresarial e de Análise e Desenvolvimento de Sistemas a partir do primeiro 
+semestre de 2025 pela Etec Ferraz e a partir de 2028 pela Fatec Ferraz. Para isso, serão necessários 120 notebooks e 40 desktops para equipar 
+um laboratório de informática e 3 salas de aulas para essa finalidade. A tomada de decisão em trazer esses cursos se dá pelo arranjo existente 
+de nossa infraestrutura, cujo prédio, acomoda a Etec e Fatec, fazendo com que haja um fluxo automático de ingresso de nossos alunos, bem 
+como do diferencial de seu PPC, o qual se destaca pela parceria com as empresas que serão as mentoras de nossos acadêmicos. Dito isso, a 
+direção da Etec enviará até o final do primeiro semestre de 2024 um memorando para a Cetec a fim de formalizar o pedido.  Compreendemos 
+que a modalidade AMS é uma opção interessante para otimizar a nossa infraestrutura no período vespertino e de prospectar os acadêmicos 
+de nosso Arranjo de ensino técnico/tecnológico das Etecs com a Fatec Ferraz de Vasconcelos 
+No que diz respeito a buscar a excelência de ensino, priorizamos semestralmente, as nossas ações em recuperação do aprendizado dos 
+acadêmicos, via os projetos de monitoria, adoção de metodologias ativas e maior divulgação do vestibular, dentre outras ações. A Unidade já 
+conta com os dois auxiliares docentes das áreas de TI e de mecânica, bem como com os estagiários concedidos via CIEE. 
+ A Fatec Ferraz de Vasconcelos possui o cadastro no ICT, possibilitando assim, a submissão de projetos de pesquisa, motivo pelo qual vem 
+discutindo com alguns docentes que tem aptidão para pesquisa, linhas de projetos para posterior encaminhamento. 
+    
+• Discorrer sobre o cenário, realizando um breve diagnóstico (limitar o espaço da escrita, para que seja inserido de forma sucinta). 
+APONTAMENTO DE SITUAÇÕES-PROBLEMA MAIS RELEVANTES 
+Fontes: relatório CPA, análise de processos críticos da UE, relatório de atendimento e ocorrências Hórus, relatório NDE, 
+relatório de representação discente (DA, Atlética, representantes de turma), relatório CIPA, entre outros. 
+1 
+cat 0.1.02 - Manutenção e conservação predial 
+ 
+5 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de 
+ensino 
+2 
+cat 0.1.11 - Segurança pessoal e patrimonial 
+ 
+6 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+3 
+cat 0.1.12 - Acesso e transporte à Unidade de Ensino 
+ 
+7 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, 
+evasão 
+4 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+ 
+8 
+cat 0.1.10 - Gestão da unidade de ensino e dos cursos 
+(indicadores) 
+Outra – Especificar: nn 
+ 
+Objetivos Institucionais – CPS (Plano de Metas) 
+1) Atender às demandas sociais e do mercado de trabalho. 
+2) Obter a satisfação dos públicos que se relacionam com o Centro Paula Souza (stakeholders). 
+3) Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem. 
+4) Assegurar a perenidade do crescimento da instituição com recursos financeiros disponíveis. 
+5) Garantir celeridade e efetividade na prestação de serviços. 
+6) Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no desenvolvimento tecnológico e inovação. 
+7) Promover a cultura de inovação e empreendedorismo. 
+8) Aumentar a eficiência, a produtividade e a competitividade da instituição. 
+9) Ampliar a oferta da Educação Profissional. 
+10) Resolução Conjunta SOG/SFP/SG-3, de 28-12-2022 - Bonificação por Resultados – BR das Secretarias de Estado, Procuradoria Geral do Estado, 
+Controladoria Geral do Estado e das Autarquias, de que trata a LC 1361-2021 
+Objetivos Institucionais – Cesu (Plano de Metas) 
+A. Integrar as diferentes modalidades de ensino, otimizando itinerários e tempo para a formação profissional. 
+B. Inovar processos de ensino e aprendizagem para manter excelência diante do mercado. 
+C. Ampliar a capacidade de criar e atualizar cursos em parceria com o mercado. 
+D. Expandir e ampliar a capacidade de articulação com Governos e Setores Produtivos. 
+E. Promover a captação de recursos extras e não orçamentários. 
+Atenção: Determinação da Origem (prioridade) de uma Ação ou Projeto de Melhoria que compõe o PGA, a fim de ordenar os graus de prioridade tomando-se por 
+base atos normativos regulatórios das atividades do CPS, e a governança institucional, por suas esferas Estratégica, Tática e Operacional: 
+Grau 1 - URGÊNCIA DE REGULAÇÃO - prioridade máxima (advinda do MEC, CEE, MP, Vigilância Sanitária ou notificação de qualquer órgão regulador/fiscalizador) 
+- fundamentação: notificação de fiscalização, diligência de regulação, termo de ajustamento de conduta, relatório circunstanciado, dentre outros 
+emanados de órgãos que impõem ações para cumprimento com regularidade normativa da instituição. 
+Grau 2 - URGÊNCIA ESTRATÉGICA - Gestão Estratégica do CPS (AMS, novos cursos e unidades, programas de governo) - fundamentação: PPA do CPS, ações de 
+governo conduzidas pela Superintendência do CPS. 
+Grau 3 - PRIORIDADE ALTA - Gestão Tática (ações correlatas à Avaliação institucional - ENADE, WebSAI, CPA, Observatório Escolar). - fundamentação: processo 
+avaliativo de órgãos reguladores, processo avaliativo interno do CPS. 
+Grau 4 - PRIORIDADE MÉDIA - Gestão Operacional para aumento da capacidade instalada. - fundamentação: plano operacional de gestão, homologado pela 
+respectiva área da intendência, com foco na atividade fim do CPS. 
+Grau 5 - PRIORIDADE REGULAR - Gestão Operacional para preservação da capacidade instalada. - fundamentação: plano operacional de gestão, homologado 
+pela respectiva área da intendência, com foco na atividade fim do CPS. 
+ 
+ESTRUTURAÇÃO DAS AÇÕES/PROJETOS 
+01 - Didático-pedagógico 
+Ações associadas ao PPC/PE de CSTs e Disciplinas: CST (implantação, alteração, readequação, reestruturação), 
+prática pedagógica (PE, PA), projeto interdisciplinar/ integrador, extensão curricularizada. 
+ 
+AÇÃO/PROJETO (Tema) 
+101 - cat 1.01 - Adequação/reestruturação de PPC, implantação de novos cursos. 
+Origem (prioridade): 
+2-Gestão Estratégica Institucional (AMS, novos cursos e unidades) 
+O que será feito: 
+Implantação de AMS de Gestão empresariall 
+Por que será feito: 
+Pelo arranjo já existente entre a Etec e Fatec Ferraz, bem como pela demanda do respectivo curso pelo 
+histórico de demanda do Vestibulinho da Etec Ferraz. 
+Responsável: 
+<nome> Fernando Juabre Muçouçah 
+Qde CH/sem: 
+2 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> Maick Roberto Lopes 
+Qde CH/sem: 
+    2 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> Marta Silva 
+Qde CH/sem: 
+ 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Período de execução: 
+Data inicial: 
+01/02/2028 
+Data final: 
+01/02/2030 
+Etapas do processo: 
+01- envio de memorando 
+31/06 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+(a ser resolvida/mitigada) 
+cat 0.1.06 - Quantidade de professores/funcionários 
+X 
+ 
+AÇÃO/PROJETO (Tema) 
+102 - cat 1.01 - Adequação/reestruturação de PPC, implantação de novos cursos. 
+Origem (prioridade): 
+2-Gestão Estratégica Institucional (AMS, novos cursos e unidades) 
+O que será feito: 
+Implantação de AMS de ADS 
+Por que será feito: 
+Pelo arranjo já existente entre a Etec e a Fatec Ferraz, bem como pela demanda do mercado de trabalho 
+Responsável: 
+<nome> Fernando Juabre Muçouçah 
+Qde CH/sem: 
+2 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> ´Rogério Bezerra Costa 
+Qde CH/sem: 
+2 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> Marta Silva 
+Qde CH/sem: 
+nn 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Período de execução: 
+Data inicial: 
+01/02/2028 
+Data final: 
+01/02/2030 
+Etapas do processo: 
+01- Memorando conjunto ETEC e FATEC 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.06 - Quantidade de professores/funcionários 
+(a ser resolvida/mitigada) 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+ 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+103 - cat 1.03 - COIL/PCI e Escola de Inovadores 
+Origem (prioridade): 
+5-Gestão Operacional - Preservação de capacidade instalada 
+O que será feito: 
+•   Improve students’ English language skills, Improve students’ intercultural skills, Improve students’ virtual 
+learning skills    
+Por que será feito: 
+Integração entre a Fatec Ferraz e a instituição estrangeira, bem como o aprimoramento da língua inglesa e a 
+troca de experiências entre os nossos acadêmicos e da instituição estrangeira.   
+Responsável: 
+<nome>   Margarete Castilho 
+Qde CH/sem: 
+04 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> Roberto Alves Rodrigues 
+Qde CH/sem: 
+nn 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> Rogério Bezerra Costa 
+Qde CH/sem: 
+nn 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Período de execução: 
+Data inicial: 
+05/02/2024 
+Data final: 
+30/07/2024 
+Etapas do processo: 
+01- planejamento durante as aulas na disciplina de inglês e de metodologia 
+cientifica. 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.08 - Participação da comunidade e sociedade 
+X 
+AÇÃO/PROJETO (Tema) 
+104 - cat 1.11 - Ações de nivelamento de conhecimento, ENADE, acolhimento e permanência discente. 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Plantões de tira dúvidas, interpretação de textos e de questionários sócio econômicos a fim de preparar os 
+acadêmicos do CST em ADS que farão o ENADE 
+Por que será feito: 
+ A fim de consolidar a qualidade do ensino superior oferecido pela Unidade e tranquilizar os alunos na 
+ocasião do ENADE 
+Responsável: 
+<nome> Rogério Bezzerra Costa 
+Qde CH/sem: 
+4 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> Daisy Eboli 
+Qde CH/sem: 
+4 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+05/02/2024 
+Data final: 
+25/12/2024 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+CPS 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.10 - Gestão da unidade de ensino e dos cursos (indicadores) 
+X 
+AÇÃO/PROJETO (Tema) 
+105 - cat 1.01 - Adequação/reestruturação de PPC, implantação de novos cursos. 
+Origem (prioridade): 
+1-Regulação - Notificação de órgão (MEC, CEE, VS.,..) 
+O que será feito: 
+•  Adequação dos PPCs dos CST em GE, GPI e ADS da Unidade com relação a Curricularização da Extensão, 
+visando ao atendimento da legislação do CEE/SP e o MEC.    
+Por que será feito: 
+Atendimento dos órgãos reguladodores.   
+Responsável: 
+<nome>  Rogério Bezerra Costa 
+Qde CH/sem: 
+2 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> Roberto Alves Rodrigues 
+Qde CH/sem: 
+2 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> Maick Roberto Lopes 
+Qde CH/sem: 
+2 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Período de execução: 
+Data inicial: 
+05/02/2024 
+Data final: 
+30/07/2024 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.08 - Participação da comunidade e sociedade 
+ 
+ 
+01 – Didático-Pedagógico: Copiar projetos de 2024 
+ AÇÃO/PROJETO (Tema) 
+101 - cat 1.01 - Adequação/reestruturação de PPC, implantação de novos cursos. 
+Origem: 
+3-Outra 
+O que será feito: 
+nn Estruturação de proposta para atualização do PPC do CST em GPI mediante análise dos 
+conteúdos programáticos das componentes do Curso, e construção de nova grade curricular 
+segundo as exigências mercadológicas. 
+Por que será feito: 
+Nn Para atualização do projeto pedagógico do curso em virtude do avanço tecnológico na área de 
+GPI. 
+Responsável: 
+<nome> nn  Coordenador Prof. Roberto Alves Rodrigues 
+Qde CH/sem: 
+10 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+30/06/2019 
+Data final: 
+20/12/2024 
+Etapas do processo: 
+01- nn Designação das frentes de trabalho e respectivos colaboradores, e 
+alinhamento da proposta com a Cesu.  
+dd/mm30/06
+/2023 
+dd/mm
+20/12/
+2023 
+ 
+02- nn Desenvolvimento das frentes de trabalho e compilação das 
+propostas apresentadas 
+dd/mm 
+dd/mm 
+ 
+03- nn Revisão da proposta do PPC do CST em GPI.   
+dd/mm 
+dd/mm 
+ 
+04- nn Apresentação e análise da proposta da versão atualizada do PPC de 
+GPI junto ao colegiado do curso. 
+dd/mm 
+dd/mm 
+ 
+05- nn Estudo das ementas e bibliografia das disciplinas por frente de 
+trabalho. 
+dd/mm 
+dd/mm 
+ 
+06- nn Consolidação da versão atualizada do PPC em GPI com as sugestões 
+apresentadas pelo colegiado. 
+dd/mm 
+dd/mm 
+ 
+07- nn Apresentação da proposta de versão atualizada do PPC do CST em 
+GPI à Congregação.   
+dd/mm 
+dd/mm 
+ 
+08- nn Encaminhamento da proposta de reestruturação do PPC do CST em 
+GPI a Cesu. 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+CPS 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.10 - Gestão da unidade de ensino e dos cursos (indicadores) 
+(a ser resolvida/mitigada) 
+cat 0.1.99 - Outra 
+ 
+AÇÃO/PROJETO (Tema) 
+102 - cat 1.06 - Ações pedagógicas: visitas técnicas, projetos integradores/interdisciplinares, dias de campo, 
+feira das profissões, cursos extracurriculares para alunos. 
+Origem: 
+3-Outra 
+O que será feito: 
+nn Exercícios de lógica e programação 
+Por que será feito: 
+nn Aprimoramento dos alunos nas técnicas de lógica e algoritmo de programação, trabalho em 
+equipe, criatividade e diversas habilidades. 
+Responsável: 
+<nome> nn Prof. Lucio Nunes de Lira – 04 haes 
+Qde CH/sem: 
+04 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+15/02/2023 
+Data final: 
+20/12/2024 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+CPS 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.10 - Gestão da unidade de ensino e dos cursos (indicadores) 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+02 – Laboratórios - Ensino e Equipamentos Associados 
+Ações para melhoramento dos laboratórios de Ensino (Gestão e Equipamentos): Melhoramento de 
+equipamentos, mediante instalação, manutenção, desuso, doação, e gestão de ambiente laboratorial. 
+ 
+AÇÃO/PROJETO (Tema) 
+201 - cat 2.02 - Laboratório informática - implantação/melhoramento com recursos PEDAGÓGICOS 
+Origem (prioridade): 
+4-Gestão Operacional - Aumento de capacidade instalada 
+O que será feito: 
+Equipar o laboratório de informática com 40 Desktops. 
+Por que será feito: 
+O laboratório do terceiro pavimento ainda não recebeu os computadores para o seu 
+funcionamento, necessitando assim de 40 computadores para atender as demandas dos cursos 
+oferecidos pela Unidade 
+Responsável: 
+<nome> Fernando Juabre Muçouçah 
+Qde CH/sem: 
+1 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> Dulcelina Campos Neves 
+Qde CH/sem:     1 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> Fernanda da Silva Santos   
+Qde CH/sem: 
+1 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Período de execução: 
+Data inicial: 
+05/08/2018 
+Data final: 
+30/12/2024 
+Etapas do processo: 
+01- Planejamento do uso do laboratório e melhorias do laboratório de 
+informática. 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+CPS 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+(a ser resolvida/mitigada) 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+X 
+ 
+AÇÃO/PROJETO (Tema) 
+202 - cat 2.02 - Laboratório informática - implantação/melhoramento com recursos PEDAGÓGICOS 
+Origem (prioridade): 
+4-Gestão Operacional - Aumento de capacidade instalada 
+O que será feito: 
+Instalação de 120 notebooks, sendo 40 computadores por sala de aula a fim de atender os AMS 
+de Gestão empresarial e de ADS 
+Por que será feito: 
+ Será necessário a fim de não competir pelo uso dos laboratórios dos cursos já existentes na 
+Unidade e que atenda  a necessidade das disciplinas que façam uso de softwares e soluções de 
+TIC. 
+Responsável: 
+<nome> Fernando Juabre Muçouçah 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> Dulcelina Campos Neves 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> Fernanda da Silva Santos 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+05/02/2024 
+Data final: 
+05/12/2026 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+CPS 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+(a ser resolvida/mitigada) 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+X 
+ 
+AÇÃO/PROJETO (Tema) 
+203 - cat 2.03 - Ambiente multidisciplinar de ensino - implantação/melhoramento com recursos 
+PEDAGÓGICOS 
+Origem (prioridade): 
+4-Gestão Operacional - Aumento de capacidade instalada 
+O que será feito: 
+Implantação de um laboratório de IOT. Para isso serão necessários a aquisição de 10 kit arduinos. 
+Por que será feito: 
+ Com o objetivo de aprimorar os conhecimentos dos alunos do CST em ADS e GPI , visando a 
+integração de ambos e atendimento das demandas do mercado, altamente exigente. 
+Responsável: 
+<nome> Fernando Juabre Muçouçah 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> Rogério Bezerra Costa 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> Fernanda da Silva Santos 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+05/08/2024 
+Data final: 
+05/02/2026 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+(a ser resolvida/mitigada) 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+X 
+ 
+ 
+ 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+204 - cat 2.01 - Laboratório físico - implantação/melhoramento com recursos PEDAGÓGICOS 
+Origem (prioridade): 
+5-Gestão Operacional - Preservação de capacidade instalada 
+O que será feito: 
+Melhoria da infraestrutura de Hardware  do servidor da Unidade 
+Por que será feito: 
+ A fim de reduzir a vulnerabilidade quanto a riscos de queda de energia e perda dos dados das 
+Diretorias Administrativas e acadêmicas. 
+Responsável: 
+<nome> Fernando Juabre Muçouçah 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> Fernanda da Silva Santos 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> Claudia Rodrigues de Carvalho  
+Qde CH/sem: 
+20n Tipo: 
+HAE - Hora Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+05/02/2024 
+Data final: 
+30/07/2025 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+(a ser resolvida/mitigada) 
+cat 0.1.10 - Gestão da unidade de ensino e dos cursos (indicadores) 
+X 
+AÇÃO/PROJETO (Tema) 
+205 - cat 2.03 - Ambiente multidisciplinar de ensino - implantação/melhoramento com recursos 
+PEDAGÓGICOS 
+Origem (prioridade): 
+4-Gestão Operacional - Aumento de capacidade instalada 
+O que será feito: 
+Implantação de um laboratório de Redes de Computadores. 
+Por que será feito: 
+ Com o objetivo de aprimorar os conhecimentos dos alunos do CST em ADS.  
+Responsável: 
+<nome> Claudia Rodrigues Carvalho 
+Qde CH/sem: 
+nn 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> Rogério Bezerra Costa 
+Qde CH/sem: 
+nn 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> Fernanda da Silva Santos 
+Qde CH/sem: 
+nn 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Período de execução: 
+Data inicial: 
+05/05/2024 
+Data final: 
+30/07/2025 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+(a ser resolvida/mitigada) 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+ 
+02 – Laboratórios: Copiar projetos de 2024 
+ 
+03 – Pesquisa / Extensão e Equipamentos Associados 
+Ações para melhoramento dos laboratórios que contemplam Pesquisa além do Ensino (Equipamentos): 
+melhoramento dos espaços de pesquisa, que inclui especificação equipamentos e aquisição por fomento ou por 
+projeto com empresa, e também prestação de serviços no campo tecnológico para instituições e empresas. 
+ 
+AÇÃO/PROJETO (Tema) 
+301 - cat 3.02 - Desenvolvimento de Projetos de IC - MDITI 
+Origem (prioridade): 
+6-Outra 
+O que será feito: 
+Está sendo elaborado um projeto de pesquisa na linha da saúde visando a prospecção de 
+recursos via ICT com a empresa Siemens 
+Por que será feito: 
+Dar visibilidade a Fatec Ferraz de Vasconcelos e possibilitar a integração entre a Unidade e as 
+empresas 
+Responsável: 
+<nome> Marcia Bissaco 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> Daisy Eboli 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> Fernando Juabre Muçouçah 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+05/04/2024 
+Data final: 
+05/06/2024 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.08 - Participação da comunidade e sociedade 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+302 - cat 3.03 - Pesquisa e Extensão em andamento (empresas diversas) 
+Origem (prioridade): 
+6-Outra 
+O que será feito: 
+Mapeamento Indice IEG-M Prefeitura de Ferraz- Criação de BI para analisar, elaborar e alvancar os índices 
+relativos ao IEGM solicitado pelo Tribunal de Contas do Estado de São Paulo. 
+Por que será feito: 
+O projeto foi demandado pela prefeitura a Fatec Ferraz e temos duas professoras que estão 
+atuando no mesmo, juntamente com cinco alunos que se tornaram estagiários da prefeitura para 
+condução do projeto. 
+Responsável: 
+<nome> Marcia Bissaco 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> Daisy Eboli 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> Fernando Juabre Muçouçah 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+05/02/2023 
+Data final: 
+31/12/2024 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+Prefeitura municipall 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.08 - Participação da comunidade e sociedade 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+303 - cat 3.03 - Pesquisa e Extensão em andamento (empresas diversas) 
+Origem (prioridade): 
+6-Outra 
+O que será feito: 
+Criação de um sistema de pesquisas customizáveis para a Secretaria de Palnejamento. 
+Por que será feito: 
+ 
+Responsável: 
+<nome> Marcia Bissaco 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> Daisy Eboli 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> Fernando Juabre Muçouçah 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+05/02/2024 
+Data final: 
+31/12/2024 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.08 - Participação da comunidade e sociedade 
+ 
+ 
+ 
+ 
+ 
+ 
+03 – Pesquisa/Extensão: Copiar projetos de 2024 
+AÇÃO/PROJETO (Tema) 
+301 - cat 3.06 - Jornada/Evento/Revista Científico e Tecnológico 
+Origem: 
+3-Outra 
+O que será feito: 
+Dar continuidade ao 1º TechRock – Tecnologia e Rock n’ Roll – evento acadêmico realizado no segundo 
+semestre de 2022 – ocasião em que os alunos dos cursos de Análise e Desenvolvimento de Sistemas – ADS e 
+Gestão da Produção Industrial – GPI – uniram-se para apresentação de trabalhos acadêmicos publicados em 
+revistas científicas, ao som de músicas em Inglês - Rock n’ Roll. Após a apresentação dos trabalhos, as bandas 
+que se apresentaram foram formadas pelos alunos do curso de ADS/Fatec Ferraz de Vasconcelos e pelos 
+colegas da banda convidada Seasmoke, da Fatec Itaquaquecetuba. Visto a edição passada, todos os alunos se 
+envolveram na atividade, com muita dedicação, estudo e ensaios, demonstrando grande interesse pela 
+Língua Inglesa por meio da música, atividade que requer interpretação das quatro habilidades do idioma 
+inglês – reading, writing, listening and speaking – no caso desta atividade, especificamente, podemos 
+acrescentar mais uma – singing.  É sabido que a música tem o poder de envolver as pessoas e fazer com que 
+elas se socializem, soltem-se e cantem em inglês, sem julgamentos, e se motivem para aprender inglês de 
+forma agradável. 
+Por que será feito: 
+Adoção de metodologias ativas para a disciplina de língua inglesa  
+Responsável: 
+<nome> Profa. Margarete Castilho  
+Qde CH/sem: 
+05 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<Roberto Alves Rodrigues 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+05/02/2024 
+Data final: 
+30/07/2024 
+Etapas do processo: 
+01- nn Apresentação da proposta aos coordenadores e direção 
+ 
+ 
+ 
+02- nn Planejamento das atividades e dos equipamentos necessários. 
+ 
+ 
+ 
+03- nn Planejamento das atividades e dos equipamentos necessários. 
+ 
+ 
+ 
+04- nn Divulgação do projeto junto aos alunos 
+ 
+ 
+ 
+05- nn Encontros presenciais (ensaios) na Unidade 
+ 
+ 
+Custo R$ (se houver): 
+CPS 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.08 - Participação da comunidade e sociedade 
+ 
+AÇÃO/PROJETO (Tema) 
+302 - cat 3.01 - Cursos de Extensão 
+Origem: 
+3-Outra 
+O que será feito: 
+ Conscientizar os acadêmicos a respeito da importância da saúde financeira das famílias e torna-los 
+multiplicadores junto à comunidade externa local. 
+Por que será feito: 
+ Despertar a importância da educação financeira e a melhoria de sua qualidade de vida. 
+Responsável: 
+<nome>  Walter Eclache da Silva 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+04 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+05/02/2024 
+Data final: 
+31/07/2024 
+Etapas do processo: 
+01-  Inscrição para o curso de Finanças Pessoais com foco em dívidas 
+01/02/2023 
+28/02/
+2023 
+ 
+02-  Comunicação do cronograma de aulas e dinâmica do curso 
+01/02/2023 
+10/03/
+2023 
+ 
+03-  Aulas de Finanças Pessoais para que as famílias reorganizem suas finanças e 
+seus endividamentos 
+15/03/2023 
+31/05/
+2023 
+ 
+04-  Atividades para fixação dos conhecimentos discutidos 
+01/05/2023 
+30/06/
+2023 
+ 
+05-  Seleção de alunos interessados na multiplicação do conhecimento 
+01/06/2023 
+30/06/
+2023 
+ 
+06-  Treinamento dos alunos para atendimento à comunidade 
+01/07/2023 
+31/07/
+2023 
+ 
+07-  Plantão de atendimento à população para orientação financeira (Finance Day) 
+02/08/2023 
+02/08/
+2023 
+Custo R$ (se houver): 
+haes 
+Fonte(s) dos recursos: 
+haes 
+Situação problema: 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+(a ser resolvida/mitigada) 
+cat 0.1.08 - Participação da comunidade e sociedade 
+ 
+ 
+ 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+303 - cat 3.01 - Cursos de Extensão 
+Origem: 
+3-Outra 
+O que será feito: 
+ Ação coordenada pela Fatec e Agência Inova, visando implementar a cultura da inovação e 
+empreendedorismo aos nossos acadêmicos. Além do conteúdo tratado na disciplina, as docentes irão fazer 
+a integração com os temas tratados ao longo dessa edição da Escola de Inovadores. Serão feitos 10 
+encontros, conforme calendário proposto pelo edital. 
+Por que será feito: 
+ Mediante as inúmeras oportunidades de empreender dentro da área de TIC, colaborando com a 
+manutenção da elevada empregabilidade de nossos egressos. 
+Responsável: 
+<nome>  Profa. Daisy Eboli 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome>  Priscila Bambino  
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome>  Marcos Buri 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+05/02/2024 
+Data final: 
+30/07/2024 
+Etapas do processo: 
+01-  Período de divulgação e inscrição dos candidatos, que deverá ser realizada no 
+site por meio do link: https://inova.cps.sp.gov.br/inscricao-escola-deinovadores 
+ 
+ 
+ 
+02-  Análise das inscrições e processo seletivo 
+ 
+ 
+ 
+03- Divulgação dos candidatos selecionados no site da INOVA CPS e/ou por e-mail 
+ 
+ 
+ 
+04-  Semana de Kick-off 
+ 
+ 
+ 
+05-  Início do curso 
+ 
+ 
+ 
+06-  Encerramento do curso 
+ 
+ 
+Custo R$ (se houver): 
+CPS 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.08 - Participação da comunidade e sociedade 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+304 - cat 3.06 - Jornada/Evento/Revista Científico e Tecnológico 
+Origem: 
+3-Outra 
+O que será feito: 
+Exposição dos Trabalhos de Graduação, Projetos Integradores e Empreendedorismo desenvolvido por 
+alunos e professores durante o semestre. Os referidos trabalhos e projetos serão apresentados na forma de 
+banners, artigos, protótipos de produto e processos, sujeitos a avaliação, premiação e certificados. 
+Por que será feito: 
+ Para estímulo à pesquisa tecnológica na área de GPI, aproximação entre a Unidade , empresas e 
+comunidades locais. 
+Responsável: 
+<nome>  Profa. Sandra de Santis – 02 haes 
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+05/02/2024 
+Data final: 
+30/07/2024 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+CPS 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.08 - Participação da comunidade e sociedade 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+04 – Atividades Formativas em Projetos (nível tático) 
+Projetos institucionais formativos não especificados em PEs: Rede de tecnologia, Novotec, PCI, Projetos 
+estudantis (Baja, Aerodesign, entre outros) 
+ 
+ 
+ 
+04 – Atividades Formativas em Projetos: Copiar projetos de 2024 
+ 
+05 – Infraestrutura (instalações prediais) 
+Projetos de manutenção e melhoramento predial voltados à segurança (física e sanitária) e preservação do 
+patrimônio: Reparação predial (civil, elétrica, dados), novas instalações prediais. 
+ 
+AÇÃO/PROJETO (Tema) 
+501 - cat 5.05 - Reforma de Edificações 
+Origem (prioridade): 
+5-Gestão Operacional - Preservação de capacidade instalada 
+O que será feito: 
+Será feito uma manutenção ampla no prédio da Unidade, conforme ata de manutenção.   
+Por que será feito: 
+Manutenção predial 
+Responsável: 
+<nome> Larissa Costa -UIE 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> Welington Melo de Lima- UIE 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> Ademir  Cardoso- Etec 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+30/07/2024 
+Data final: 
+30/12/2024 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+CPS 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.02 - Manutenção e conservação predial 
+(a ser resolvida/mitigada) 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+X 
+ 
+05 – Infraestrutura: Copiar projetos de 2024 
+ 
+AÇÃO/PROJETO (Tema) 
+502 - cat 5.03 - Material Infraestrutura/equipamentos 
+Origem: 
+3-Outra 
+O que será feito: 
+ Troca de lâmpadas queimadas do prédio. 
+Por que será feito: 
+ Melhorar a iluminação do ambiente interno da Unidade. 
+Responsável: 
+<nome>  Diretor. Prof. Dr.Fernando Juabre Muçouçah 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> Dulcelina Campos Neves 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> Camila Mandu 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+05/02/2024 
+Data final: 
+30/06/2024 
+Etapas do processo: 
+01-  Levantamento dos danos pela Unidade 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo R$ (se houver): 
+CPS 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.02 - Manutenção e conservação predial 
+(a ser resolvida/mitigada) 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+ 
+ 
+ 
+ 
+ 
+ 
+06 - Desenvolvimento de pessoas (docentes e servidores) 
+Formação continuada de docentes e servidores, associadas às competências gerais e específicas de suas 
+atividades: Metodologias de ensino, Tecnologias educacionais, Sistemas (processos, procedimentos, plataformas 
+computacionais) acadêmicos e pedagógicos. 
+ 
+06 – Desenvolvimento de Pessoas: Copiar projetos de 2024 
+ 
+AÇÃO/PROJETO (Tema) 
+602 - cat 6.01 - Curso/Oficina/Capacitação/ Treinamento/ Palestra/Reunião/Encontro 
+Origem: 
+3-Outra 
+O que será feito: 
+ Divulgação e incentivo aos docentes para participação das Semanas de Planejamento.   
+Por que será feito: 
+ Adoção das boas práticas de ensino aprendizagem, inclusão e combate ao assédio. 
+Responsável: 
+<nome>  Cesu, a Unidade, coordenadora pedagógica 
+regional R4. 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+05/02/2024 
+Data final: 
+20/12/2024 
+Etapas do processo: 
+01- nn Palestras e capacitações de diferentes temas 
+26/07/2023 
+20/12/
+2023 
+Custo R$ (se houver): 
+CPS 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.13 - Relacionamento interpessoal da equipe 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+07 – Convênios e Parcerias Institucionais 
+Formalização do relacionamento da Unidade com o Ecossistema de Tecnologia: Convênio de uso de prédio, 
+estágios, projetos com empresas. Aqui cabe apenas novos convênios e parcerias, e cada proposta deve estar 
+relacionada a uma Ação/Projeto de melhoria em algum dos itens anteriores do PGA (1, 2, 3, 4, 5 ou 6). 
+ 
+ 
+07 – Convênios e Parcerias: Copiar projetos de 2024 
+AÇÃO/PROJETO (Tema) 
+702 - cat 7.03 - Projetos com empresas e/ou demais parceiros 
+Origem: 
+3-Outra 
+O que será feito: 
+Disponibilizar treinamentos aos estudantes na plataforma da Huawei permitindo que estes obtenham 
+certificados de treinamentos emitidos pela fabricante, valorizando sua formação;· Permitir que os 
+professores acrescentem as suas aulas materiais e atividades de laboratório de alta qualidade tecnológica;· 
+Incluir os alunos nas atividade programadas pelo fabricante 
+Por que será feito: 
+ Para aumentar a qualidade das aulas com um perfil mais técnico permitindo aos estudantes e professores o 
+uso de ferramentas e treinamentos do fabricante; Aumentar a empregabilidade qualificando melhor os 
+estudantes; 
+Responsável: 
+<nome>  Prof. Rogério Pereira de Souza 
+Qde CH/sem: 
+nn 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> Rogério Bezerra Costa 
+Qde CH/sem: 
+nn 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> Fernanda Silva Santos 
+Qde CH/sem: 
+nn 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Período de execução: 
+Data inicial: 
+05/02/2024 
+Data final: 
+15/12/2024 
+Etapas do processo: 
+01- nn Sem programação definida pela empresa parceira. 
+ 
+ 
+Custo R$ (se houver): 
+CPS 
+Fonte(s) dos recursos: 
+CPS 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.08 - Participação da comunidade e sociedade 
+ 
+AÇÃO/PROJETO (Tema) 
+703 - cat 7.03 - Projetos com empresas e/ou demais parceiros 
+Origem: 
+3-Outra 
+O que será feito: 
+Disponibilizar treinamentos aos estudantes na plataforma da Cisco permitindo que estes obtenham 
+certificados de treinamentos emitidos pela Cisco, valorizando sua formação;· Permitir que os professores 
+acrescentem as suas aulas materiais e atividades de laboratório de alta qualidade tecnológica;· Permitir a 
+criação de ambiente virtual com estrutura de Rede, Sistema Operacional Linux, Internet das Coisas, etc.· 
+Incluir os alunos nas Maratonas de Cibersegurança e Programação 
+Por que será feito: 
+ Para aumentar a qualidade das aulas com um perfil mais técnico permitindo aos estudantes e professores o 
+uso de ferramentas e treinamentos da Cisco; Aumentar a empregabilidade qualificando melhor os 
+estudantes; Permitir que os alunos concorram as oportunidades de Bolsa de estudo, estágio e empregos 
+que surgem através de ações com o parceiro. 
+Responsável: 
+<nome>  Prof. Rogério Pereira de Souza 
+Qde CH/sem: 
+nn 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> Rogério Bezerra Costa 
+Qde CH/sem: 
+nn 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> Fernanda Silva Santos 
+Qde CH/sem: 
+nn 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Período de execução: 
+Data inicial: 
+02/05/2024 
+Data final: 
+15/12/2024 
+Etapas do processo: 
+01-  Partner: NDG Linux Unhatched 
+ 
+ 
+ 
+02-  Get Connected 
+ 
+ 
+ 
+03- Cybersecurity Essentials 
+ 
+ 
+ 
+04- PCAP: Programming Essentials In Python  
+ 
+ 
+ 
+05-  Partner: NDG Linux Unhatched 
+ 
+ 
+ 
+06-  Get Connected 
+ 
+ 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.08 - Participação da comunidade e sociedade 
+ 
+ 
+ 
+ 
+ 
+Anexo 1 – Lista de aquisições necessárias aos projetos 
+(equipamentos, softwares, mobiliários) 
+ 
+Item 
+Projeto 
+(XYY) 
+Denominação ou especificação do equipamento 
+Quant. 
+Preço total 
+estimado 
+(R$) 
+01 
+201 
+Desktops 
+40 
+5000,00 
+02 
+202 
+Notebook Lenovo LOQ 15” Intel      
+120 
+6000,00 
+03 
+203 
+   Master Kit para Arduino com BlackBoard UNO R3  
+10 
+500,00 
+04 
+204 
+ Nobreak TS Shara UPS Professional, 3200VA, 2 Baterias Internas, Entrada Bivolt 
+Automática, Semi-Senoidal, Indicador LED, USB – 4451  
+01 
+3000,00 
+05 
+204 
+ HD 1TB Externo Portátil Seagate Expansion USB 3        
+03 
+345,00 
+06 
+204 
+Rack de Rede de 44 Us 
+01 
+2500,00 
+07 
+204 
+ Pen Drive Cruzer Blade, SanDisk, 32GB, SDCZ60-032G-B35      
+03 
+30,00 
+08 
+204 
+ Original Network Tower Server para Dell, Dell PowerEdge, T440, Intel Xeon, 
+CPU 4208, venda quente     
+01 
+30.000,00 
+09 
+204 
+Switche 48 portas 10/100/1000 gerenciável 
+01 
+2000,00 
+10 
+205 
+  HD 1TB Externo Portátil Seagate Expansion USB 3             
+04 
+345,00 
+11 
+205 
+  Pen Drive Cruzer Blade, SanDisk, 32GB, SDCZ60-032G-B35         
+06 
+30,00 
+12 
+205 
+  Cabo de Rede CAT.6 Furukawa, 305 Metros, Azul - 62154    
+01 
+1000,00 
+13 
+205 
+ Conector Soho Plus Femea Keystone Cat6 - Furukawa     
+100 
+280,00 
+14 
+205 
+  25x Conector Rj45 Cat6 Soho Plus Furukawa Macho Original       
+100 
+150,00 
+15 
+205 
+  STANLEY Alicate Automático Ajustável Desencapador e Crimpador de Fios 3 
+em 1 96225       
+08 
+150,00 
+16 
+205 
+  Alicate Punch Down Inserção Femea 314b P/ Keystone Rj45 Rj11     
+10 
+35,00 
+17 
+205 
+   ELG HS20100 - Cabo Hdmi 2.0 High Speed Ethernet (3D) Full HDTV (4096 x 
+2160P) Resolução HDTV 4K x 2K 10m                
+10 
+150,00 
+18 
+205 
+  Cabo Adaptador Conversor DisplayPort para HDMI - 15cm (DisplayPort M X 
+HDMI F)                  
+10 
+20,00 
+19 
+205 
+ Mouse Classic Box Óptico USB 1200dpi Preto Multilaser - MO300       
+20 
+15,00 
+20 
+205 
+Teclado Multilaser Slim Preto Laser Usb - TC193 
+10 
+25,00 
+21 
+205 
+PlusCable Alicate De Decapar Utp Ftp E Coaxial Lt-S10 Cinza - Compatível Com 
+Utp E Stp Cabos De 3.2Mm A 9.5Mm  
+10 
+15,00 
+22 
+205 
+ Testador De Cabo De Rede E Telefonia Rj45 E Rj11 Fepro-tr270 
+                 
+10 
+20,00 
+23 
+205 
+Mouse Classic Box Óptico USB 1200dpi Preto Multilaser - MO300 
+ 
+10 
+15,00 
+ 
+ 
+Total geral 
+0 
+ 
+ 
+ 
+ 
+Anexo 2 – Lista de Ações/Projetos referentes à CPA 
+ 
+Item 
+Projeto 
+(XYY) 
+Denominação 
+(O que será feito) 
+Prazo 
+01 
+nnn 
+nn 
+dd/mm/aaaa 
+02 
+nnn 
+nn 
+dd/mm/aaaa 
+03 
+nnn 
+nn 
+dd/mm/aaaa 
+04 
+nnn 
+nn 
+dd/mm/aaaa 
+05 
+nnn 
+nn 
+dd/mm/aaaa 
+06 
+nnn 
+nn 
+dd/mm/aaaa 
+07 
+nnn 
+nn 
+dd/mm/aaaa 
+08 
+nnn 
+nn 
+dd/mm/aaaa 
+09 
+nnn 
+nn 
+dd/mm/aaaa 
+10 
+nnn 
+nn 
+dd/mm/aaaa 
+11 
+nnn 
+nn 
+dd/mm/aaaa 
+12 
+nnn 
+nn 
+dd/mm/aaaa 
+13 
+nnn 
+nn 
+dd/mm/aaaa 
+14 
+nnn 
+nn 
+dd/mm/aaaa 
+15 
+nnn 
+nn 
+dd/mm/aaaa 
+16 
+nnn 
+nn 
+dd/mm/aaaa 
+17 
+nnn 
+nn 
+dd/mm/aaaa 
+18 
+nnn 
+nn 
+dd/mm/aaaa 
+19 
+nnn 
+nn 
+dd/mm/aaaa 
+20 
+nnn 
+nn 
+dd/mm/aaaa 
+ 
+ 
+ 
+ 
+ 
+ 
+<fim> 
+ 
+ 
+ 
+ 
+ 
+ 

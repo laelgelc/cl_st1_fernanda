@@ -1,0 +1,2389 @@
+                      1 
+__________________________________________________________________________ 
+Administração Central 
+Unidade do Ensino Superior de Graduação 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+São José dos Campos 
+2023 
+ 
+FATEC SÃO JOSÉ DOS CAMPOS 
+ 
+RELATÓRIO DE AUTOAVALIAÇÃO 
+INSTITUCIONAL  
+2022 
+                      2 
+__________________________________________________________________________ 
+Administração Central 
+Unidade do Ensino Superior de Graduação 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+ 
+Direção / Coordenação de Cursos 
+ 
+ 
+Direção Geral  
+Prof. Luiz Antonio Tozi  
+Coordenador do Curso Superior de Tecnologia em 
+Análise e Desenvolvimento de Sistemas  
+Prof. Fabiano Sabha Walczak 
+Coordenadora do Curso Superior de Tecnologia em 
+Automação e Manufatura Digital 
+Profª. Viviane Ribeiro de 
+Siqueira  
+Coordenador do Curso Superior de Tecnologia em 
+Banco de Dados  
+Prof. José Walmir Gonçalves 
+Duque  
+Coordenador do Curso Superior de Tecnologia em 
+Desenvolvimento de Software Multiplataforma 
+Prof. Reinaldo Gen Ichiro 
+Arakaki 
+Coordenador do Curso Superior de Tecnologia em 
+Gestão da Produção Industrial 
+Prof. Roque Antonio de Moura 
+Coordenador do Curso Superior de Tecnologia em 
+Logística 
+Prof. Reinaldo Fagundes dos 
+Santos 
+Coordenadora do Curso Superior de Tecnologia em 
+Manufatura Avançada  
+Profª. Viviane Ribeiro de 
+Siqueira 
+Coordenador do Curso Superior de Tecnologia em 
+Manutenção de Aeronaves 
+Prof. Felix Arlindo Strottmann 
+Coordenador do Curso Superior de Tecnologia em 
+Projetos de Estruturas Aeronáuticas 
+Prof. Carlos Lineu de Faria e 
+Alves 
+Presidente da CPA 
+Prof. José Walmir Gonçalves 
+Duque  
+  
+ 
+ 
+                      3 
+__________________________________________________________________________ 
+Administração Central 
+Unidade do Ensino Superior de Graduação 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+SUMÁRIO 
+ 
+ 
+ 
+ 
+I Identificação da FATEC: ................................................................................................................. 04 
+II Atos Regulatórios ............................................................................................................................ 04 
+III Composição da Comissão Própria de Avaliação (CPA) .......................................................... 05 
+1 INTRODUÇÃO ................................................................................................................................ 06 
+2 METODOLOGIA ............................................................................................................................. 13 
+2.1 Cronograma de atividades da CPA .......................................................................................... 14 
+2.2 Sensibilização .............................................................................................................................. 15 
+2.3 Sujeitos da avaliação .................................................................................................................. 20 
+2.4 Instrumentos de coleta ............................................................................................................... 21 
+2.5 Procedimentos para a coleta ..................................................................................................... 25 
+2.6 Análise e discussão dos dados da coleta ................................................................................ 29 
+2.7 Organização das medidas para a composição do relatório .................................................. 29 
+2.8 Devolutiva dos resultados para os segmentos ....................................................................... 30 
+3 DESENVOLVIMENTO ................................................................................................................... 31 
+3.1 Eixo 1: Planejamento e Avaliação Institucional ...................................................................... 31 
+3.2 Eixo 2: Desenvolvimento Institucional ...................................................................................... 32 
+3.3 Eixo 3: Políticas Acadêmicas ..................................................................................................... 36 
+3.4 Eixo 4: Políticas de Gestão ........................................................................................................ 41 
+3.5 Eixo 5: Infraestrutura Física ....................................................................................................... 44 
+4 ANÁLISE DOS DADOS E AÇÕES PROPOSTAS ..................................................................... 47 
+5 CONSIDERAÇÕES FINAIS .......................................................................................................... 59 
+4 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+I Identificação da FATEC 
+ 
+ 
+ 
+II Atos Regulatórios: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+II Atos Regulatórios 
+  
+Ato Regulatório:  
+Decreto de criação  
+Prazo de validade:    
+Indeterminado  
+Tipo de documento: Decreto da   
+Assembleia Legislativa do   
+Estado de São Paulo  
+No. Documento: 50580  
+Data do Documento: 02/03/2006  
+Data de Publicação: 03/03/2006  
+ 
+ 
+ 
+FATEC: Professor Jessen Vidal 
+CÓDIGO DO CPS: 146 
+CÓDIGO E-MEC: 15581 
+Representante Legal da IES: Diretor: Luiz Antonio Tozi 
+Endereço Completo: Avenida Cesare Mansueto Giulio Lattes, 1350 
+Bairro: Distrito Eugênio de Melo 
+Município: São José dos Campos 
+Telefone: (12) 3905-2423 / (12) 3905-4979 
+E-mail:  f146.admdirserv@fatec.sp.gov.br   f146.secretaria@fatec.sp.gov.br 
+5 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+III Composição da Comissão Própria de Avaliação (CPA): 
+ 
+A Comissão Própria de Avaliação da FATEC São José dos Campos foi instituída pela 
+Portaria nº 046/2021, de 10 de agosto de 2021, com mandato até 02/03/2023 
+Possuindo a seguinte composição:  
+ 
+NOME 
+SEGMENTO 
+REPRESENTATIVO 
+Danielle Cristina de Morais Amorim 
+Docente 
+Eliane Penha Mergulhão Dias 
+Docente 
+José Walmir Gonçalves Duque 
+Docente 
+Ariane de Novais Bezerra Rodrigues (Tecnologia em 
+Manufatura Avançada) 
+Discente 
+Juliana Aline da Costa (Tecnologia em Banco de Dados) 
+Discente 
+Kauã Walbon Santos Borgarelli Tavares (Tecnologia em 
+Banco de Dados) 
+Discente 
+Marcelo Henrique dos Santos (Tecnologia em Logística) 
+Discente 
+Benedito Vitorino Júnior 
+Técnico-Administrativo 
+Luciana de Abreu Aquino 
+Técnico-Administrativo 
+Régis Guimarães Silva 
+Técnico-Administrativo 
+Giane Santos 
+Sociedade civil 
+ 
+ 
+6 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+ 
+1 INTRODUÇÃO 
+A Fatec São José dos Campos – “Professor Jessen Vidal” apresenta a crença na 
+avaliação como instrumento de gestão. Dessa forma, por meio da avaliação, temos 
+condições de reunir indicadores capazes de suscitar análises e discussões, possibilitando 
+definir planos de melhorias de forma continuada. 
+A Fatec São José dos Campos foi criada pelo Decreto Nº 50.580 de 02 de março 
+de 2006 e, desde a sua primeira sede temporária, foi instalada dentro do Parque 
+Tecnológico de São José dos Campos. Finalizamos o 2o. Semestre de 2022 com 1.519 
+alunos matriculados, 82 docentes e 10 funcionários técnico-administrativos. 
+O fato da Fatec São José dos Campos ter sido instalada no Parque Tecnológico 
+de São José dos Campos contribuiu para estabelecer fortes laços com as empresas e 
+instituições que fazem parte desse ecossistema. 
+Provida de um corpo técnico e professores altamente qualificados e com forte atuação 
+no mercado e méritos acadêmicos, alunos com conhecimento e grande potencial para o 
+desenvolvimento de soluções, estrutura laboratorial e grande capacidade de relacionamento e 
+conectividade, tornou-se referência para solução de problemas reais. Tais fatores, ao longo 
+desses primeiros anos de existência, já foram suficientes para consolidar a Fatec São José 
+dos Campos como um importante ator regional de desenvolvimento e inovação tecnológica. 
+São José dos Campos é uma cidade, de acordo com dados do IBGE (2020), com 
+aproximadamente 730 mil habitantes, um índice de IDH elevado (0,807) e uma renda per 
+capita acima da média nacional (R$ 55,6 mil). Além disso, a cidade apresenta reduzido 
+nível de analfabetismo e elevada escolaridade média (10,9 anos de estudo) e 
+considerável proporção de mestres e doutores, o que facilita a contratação de professores 
+com excelente formação. 
+Apesar desses indicadores bastante promissores, o cenário futuro para a cidade, 
+como para o país, é de grandes incertezas geradas a partir da estagnação ou da 
+diminuição no ritmo de evolução tecnológica da cidade e aceleração das mudanças 
+tecnológicas no ambiente organizacional. 
+A partir desse cenário, algumas incertezas relativas a este ambiente podem ser 
+identificadas. Dentre estas incertezas, pode-se citar: a tendência para evolução industrial 
+7 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+instalada na cidade; tendência da evolução do perfil econômico e vocação tecnológica; o 
+processo de inclusão social e desenvolvimento urbano, dentre outras. 
+Este cenário propicia à Fatec São José dos Campos desafios e oportunidades, 
+característicos desse ambiente. Alguns desses desafios são apresentados a seguir: 
+• 
+Menor participação de empregos na área industrial e aumento da participação da 
+área de serviços na economia. Entretanto, as novas oportunidades existentes na 
+indústria exigem profissionais com maior capacitação voltada às novas tecnologias 
+decorrentes da automação e atualização tecnológica. 
+• 
+Constatação de que os setores aeronáutico, espacial, automotivo e tecnologia da 
+informação estão em processo de adaptação à uma nova realidade em termos de 
+processos e materiais (por exemplo, manufatura avançada). Portanto, trata-se de 
+uma oportunidade de contribuição com esta fase de transição e inserção de nossos 
+alunos no mercado de trabalho. 
+• 
+Participação no planejamento dos rumos da cidade, no sentido de manutenção de 
+sua posição como município de vanguarda no desenvolvimento nacional, por meio 
+do de relacionamento efetivo junto ao ecossistema de empresas, institutos de 
+pesquisa e ao governo local. 
+• 
+Contribuição com o desenvolvimento econômico e social do município. 
+Portanto, a visão futura para a Fatec São José dos Campos é a de representar um 
+ator ativo e essencial para articulação entre os demais atores envolvidos no 
+desenvolvimento econômico e social (poder público municipal estabelecido, empresas, 
+instituições de ensino/pesquisa e sociedade). Fundamentalmente, a Fatec São José dos 
+Campos pretende utilizar de seus recursos para a promoção do desenvolvimento de 
+soluções em termos de inovação em processos e produtos. 
+Essa visão futura carece da busca constante da melhoria de nossas estruturas 
+físicas que se adaptam aos objetivos propostos (laboratórios, computadores, área 
+construída, etc), aperfeiçoamento de nosso quadro de colaboradores por meio de cursos 
+de capacitação e atualização nas novas tecnologias e visão / atuação estratégica de seu 
+grupo gestor de forma a atingir os objetivos propostos. Essa visão, também, enseja o 
+aperfeiçoamento constante de nosso método de ensino, mais alinhado com a 
+modernidade e com nossa missão, particularmente entrelaçada ao atendimento dos 
+anseios do nosso entorno de empresas e organizações sociais. 
+8 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+Como uma resposta clara a parte desses anseios, estamos desenvolvendo e 
+implantando uma nova metodologia de ensino denominada API – Aprendizagem por 
+Projetos Integrados que, em sua concepção, pretende oferecer ensino orientado ao 
+desenvolvimento de soft e hard skills, com base nos pilares: Aprendizagem Baseada em 
+Projetos Reais (Real Project Based Learning), Validação Externa e Mentalidade Ágil. 
+Sabe-se que a Lei 10.861/2014, que define o Sistema Nacional de Avaliação da 
+Educação Superior (SINAES), estabelece, em seu Artigo 3º, que a avaliação institucional 
+tem por objetivo identificar o perfil da IES e o significado de sua atuação, por meio de 
+suas atividades, cursos, programas, projetos e setores, considerando as diferentes 
+dimensões institucionais, consolidadas em cinco eixos, sempre objetivando evidenciar os 
+referenciais mínimos de qualidade exigidos pela excelência de ensino que é um dos 
+pilares da pratica de todas as faculdades de tecnologias do Estado de São Paulo 
+vinculadas ao Centro Paula Souza. 
+Como panorama inicial da Fatec São José dos Campos, nas seções 1.1, 1.2 e 1.3 
+a seguir são apresentadas, respectivamente, as tabelas resumo com informações de 
+Avaliações de Cursos, Totais de Alunos Matriculados e Totais de Docentes. 
+ 
+ 
+9 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+1.1. Cursos e suas Avaliações por meio de CEE e ENADE  
+  
+Curso 
+Autorização 
+Reconhecimento/ 
+RENOVAÇÃO 
+DATA 
+Prazo de 
+reconhecimento 
+ENADE 
+Análise e 
+Desenvolvimento 
+de Sistemas 
+ 
+Portaria CEE/GP 
+nº 527 
+De 
+01/12/2022, 
+publicada em 
+02/12/2022  
+  
+4 anos 
+04 
+Automação e 
+Manufatura 
+Digital  
+ 
+Portaria CEE/GP 
+nº 461  
+De 
+18/09/2017, 
+publicada em 
+19/09/2017 
+5 anos 
+ 
+Não 
+Avaliado 
+Banco de Dados   
+ 
+Portaria CEE/GP 
+nº 335 
+De 
+13/07/2022, 
+publicada em 
+14/07/2022 
+4 anos 
+ 
+Não 
+Avaliado 
+  
+  
+ Desenvolvimento 
+de Software 
+Multiplataforma 
+Despacho 
+08/2020 - CD 
+  
+22/10/2020  
+Não consta 
+ 
+Não 
+Avaliado 
+  
+Gestão da 
+Produção 
+Industrial    
+ 
+Portaria CEE/GP 
+nº 66 
+05/03/2018, 
+publicada em 
+06/03/2018 
+5 anos 
+04 
+Logística  
+ 
+Portaria CEE/GP 
+nº101  
+02/03/2020, 
+publicada em 
+03/03/2020 
+3 anos 
+04 
+Manufatura 
+Avançada  
+ 
+Portaria CEE/GP 
+nº 279  
+De 
+22/07/2021, 
+publicada em 
+23/07/2021 
+3 anos 
+ 
+Não 
+Avaliado 
+Manutenção de 
+Aeronaves  
+ 
+Portaria CEE/GP 
+nº 60  
+De 
+05/03/2018, 
+publicada em 
+06/03/2018  
+5 anos 
+ 
+Não 
+Avaliado 
+Projetos de 
+Estruturas 
+Aeronáuticas  
+ 
+Portaria CEE/GP 
+nº442  
+De 
+14/09/2017, 
+publicada em 
+15/09/2017  
+5 anos 
+ 
+Não 
+Avaliado 
+ 
+10 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+1.2. Total de Matriculados por Curso 
+TOTAL DE ALUNOS MATRICULADOS NA UNIDADE 
+ 
+NÚMERO 
+DE ALUNOS 
+CURSOS 
+Curso de Graduação Tecnológica em Análise e Desenvolvimento de 
+Sistemas 
+252 
+Curso de Graduação Tecnológica em Automação e Manufatura Digital 
+01 
+Curso de Graduação Tecnológica em Banco de Dados 
+222 
+Curso de Graduação Tecnológica em Desenvolvimento de Software 
+Multiplataforma 
+98 
+Curso de Graduação Tecnológica em Gestão da Produção Industrial 
+183 
+Curso de Graduação Tecnológica em Logística 
+338 
+Curso de Graduação Tecnológica em Manufatura Avançada 
+97 
+Curso de Graduação Tecnológica em Manutenção de Aeronaves 
+153 
+Curso de Graduação Tecnológica em Projetos de Estruturas Aeronáuticas 
+175 
+Total de alunos matriculados no término do 2º semestre de 2022 
+1519 
+ 
+ 
+ 
+ 
+11 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+1.3. Total de Docentes por Curso  
+ 
+CURSOS 
+TITULAÇÃO 
+DOCENTE 
+% 
+Curso de Graduação Tecnológica em Análise e 
+Desenvolvimento de Sistemas 
+Doutores  
+35 
+Mestres 
+52 
+Especialistas  
+13 
+Curso de Graduação Tecnológica em Banco de Dados 
+Doutores  
+23 
+Mestres 
+63 
+Especialistas  
+14 
+Curso de Graduação Tecnológica em Desenvolvimento 
+de Software Multiplataforma 
+Doutores   
+47 
+Mestres 
+35 
+Especialistas 
+18 
+Curso de Graduação Tecnológica em Gestão da 
+Produção Industrial 
+Doutores  
+40 
+Mestres 
+40 
+Especialistas  
+20 
+Curso de Graduação Tecnológica em Logística 
+Doutores  
+33 
+Mestres 
+53 
+Especialistas  
+15 
+Curso de Graduação Tecnológica em Manufatura 
+Avançada 
+Doutores  
+46 
+Mestres 
+37 
+Especialistas  
+17 
+Curso de Graduação Tecnológica em Manutenção de 
+Aeronaves 
+Doutores  
+32 
+Mestres 
+41 
+Especialistas  
+27 
+Curso de Graduação Tecnológica em Projetos de 
+Estruturas Aeronáuticas 
+Doutores  
+41 
+Mestres 
+38 
+Especialistas  
+21 
+ 
+ 
+ 
+12 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+ 
+ 
+ 
+Por meio do desenvolvimento do presente relatório, serão apresentados os dados 
+e as informações referentes aos eixos, dimensões e indicadores em consonância com o 
+Plano de Desenvolvimento Institucional (PDI) da Fatec São José dos Campos e com as 
+diretrizes emanadas do Centro Paula Souza. Para tanto, este Relatório está organizado 
+como segue: 
+• Capítulo 2 - Metodologia: cronograma geral das ações da CPA e seu 
+detalhamento, em termos de sensibilização, sujeitos de avaliação, instrumentos de coleta, 
+procedimentos de coleta, análise e discussão dos dados, organização das medidas para 
+compor o relatório e devolutiva aos segmentos.  
+• Capítulo 3 - Desenvolvimento: são apresentadas as informações coletadas 
+organizadas em tabelas e gráficos, por Eixo e Dimensões.  
+• Capítulo 4 – Análise dos Dados e Ações Propostas Dados de 2022: são 
+apresentadas as análises por Eixo e Dimensões, com base em dados de 2021 e ações 
+propostas para 2022. 
+• Capítulo 5 - Considerações Finais: uma compilação das principais ações 
+advindas do processo de trabalho da CPA é apresentada. 
+ 
+ 
+ 
+13 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+2 METODOLOGIA 
+Para contribuir com a organização da Comissão Própria de Avaliação de cada 
+Fatec, o Centro Paula Souza, por meio da Área de Avaliação Institucional (AAI) e da 
+Unidade de Ensino Superior de Graduação (CESU), organizaram a comissão da CPA 
+Central.  
+ 
+Assumindo como centro organizativo as atribuições que lhe competem, a 
+saber:  
+I – Contribuir com o planejamento, orientação e monitoramento dos 
+procedimentos da autoavaliação Institucional das FATECs; 
+II – Utilizar os indicadores coletados nas unidades como instrumento de 
+gestão, oferecendo subsídios para cada uma das áreas da administração 
+central tomar as medidas corretivas; 
+III – Elaborar o Relatório Global da Autoavaliação para os processos de 
+recredenciamento institucional.  
+IV – Elaborar o cronograma da autoavaliação para as Fatecs, considerando 
+o prazo de 31 de março de cada ano para o protocolo dos relatórios da 
+autoavaliação no sistema e-mec do Ministério da Educação.  
+V – Avaliar, indicar possíveis ajustes e autorizar o protocolo dos relatórios das 
+CPAs das FATECs no sistema e-mec. 
+VI – Reunir-se ordinariamente duas vezes no semestre ou de forma 
+extraordinária quando necessário.  
+ 
+Por meio CPA Central cada Fatec e das Diretorias Pedagógicas Regionais 
+recebe todo o suporte necessário para cumprir o que lhe compete a CPA conforme 
+segue: 
+1. contribuir 
+com 
+o 
+planejamento, 
+elaboração, 
+coordenação 
+e 
+monitoramento dos processos de avaliação interna, apresentando o 
+projeto de autoavaliação Institucional que norteará todos os 
+procedimentos de autoavaliação para a CPA Central em consonância 
+com a equipe de Supervisão Regional das FATECs.  
+2. apoiar os processos internos de avaliação; 
+3. sistematizar e prestar informações relativas às políticas de 
+autoavaliação institucional, solicitadas pelos Sistemas Federal e 
+Estadual de Avaliação da Educação Superior, além de atender à 
+demanda interna da Supervisão Regional e da CPA Central do Centro 
+Paula Souza; 
+4. constituir subcomissões de avaliação; 
+5. constituir grupos temáticos ou focais voltados para a avaliação de cada 
+uma das dez dimensões estabelecidas no artigo anterior; 
+6. elaborar e analisar relatórios e pareceres, encaminhando-os a CPA 
+Central; 
+7. desenvolver estudos e análises, colaborando com os órgãos próprios 
+ou terceirizados do Centro Paula Souza, visando ao fornecimento de 
+subsídios para afixação, o aperfeiçoamento e a modificação da política 
+de avaliação institucional; 
+14 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+8. acompanhar, analisar e correlacionar os resultados da autoavaliação 
+com os resultados dos alunos do Centro Paula Souza no ENADE, bem 
+como em outros processos de avaliação; 
+9. aprovar seu próprio regulamento. 
+ 
+Os relatórios parciais e/ou integrais da autoavaliação deverão ser elaborados com 
+periodicidade anual, encaminhados para a CPA Central seguindo o cronograma de 
+planejamento apresentado nas orientações gerais e protocolados até 31 de março de cada 
+ano. Ficando disponíveis para serem apreciados pela comissão de especialistas designada 
+pelo Conselho Estadual de Educação para a visita à Instituição em seu processo de 
+recredenciamento, conforme dispõe a Deliberação do CEE 160/2018.  
+ 
+2.1 Cronograma das atividades da CPA 
+A partir desta estrutura, a CPA da Fatec São José dos Campos – Professor Jessen 
+Vidal, para cumprir o que lhe compete durante o ano de 2022 e início de 2023, trabalhou com 
+base no seguinte cronograma: 
+ 
+AÇÕES 
+2022 
+2023 
+Jan 
+Fev 
+Mar 
+Abr 
+Mai 
+Jun 
+Jul 
+Ago 
+Set 
+Out 
+Nov 
+Dez 
+Jan 
+Fev 
+Mar 
+Reuniões online com a 
+Direção, coordenações de 
+Cursos 
+para 
+sistematização as ações e 
+composições de grupos de 
+trabalho. 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+Encontros 
+online 
+da 
+equipe CPA para organizar 
+e desenvolver estratégias 
+de maneira integrada a 
+partir da percepção dos 
+diferentes segmentos que 
+compõem a comissão. 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+Sensibilização 
+para 
+participação 
+nos 
+procedimentos e coleta:  
+Encontros 
+online 
+com 
+representantes de turmas, 
+lives, 
+webinar, 
+informativos, site, entre 
+outros, para alimentar a 
+cultura avaliativa da Fatec. 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+Organização 
+dos 
+procedimentos de coleta 
+de dados: elaboração das 
+ações 
+voltadas 
+para 
+estimular e monitorar a 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+15 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+participação de toda a 
+comunidade 
+no 
+preenchimento 
+do 
+formulário de coleta.  
+Análise dos resultados – 
+acolhimento dos dados da 
+coleta 
+e 
+início 
+dos 
+procedimentos de análise.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Encaminhamento 
+dos 
+dados coletados para cada 
+área 
+competente: 
+cada 
+área recebe os dados faz a 
+análise e apresenta a 
+justificativa e o Plano de 
+Melhorias da área - ações 
+planejadas a partir dos 
+resultados e encaminha 
+para a CPA  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Elaboração do relatório a 
+partir da devolutiva das 
+áreas.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+Envio do Relatório para a 
+apreciação 
+da 
+CPA 
+Central 
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+Divulgação dos resultados 
+à comunidade acadêmica. 
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+Conclusão do Relatório 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Protocolo no Sistema E-
+mec 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Salientamos que o mês de janeiro de cada ano corresponde ao período de férias dos 
+docentes e discentes do Centro Paula Souza. 
+ 
+2.2 Sensibilização  
+      Para a conclusão do cronograma, foram realizadas algumas ações com o 
+propósito de sensibilizar todos os membros da instituição sobre a importância dos 
+procedimentos de autoavaliação. 
+          Dessa forma, conscientizar e sensibilizar todos os membros da Instituição foi 
+um dos principais objetivos da CPA, para isso, antes de dar início ao processo 
+avaliativo, foi essencial apresentar a importância da CPA, demonstrando como se 
+pode agregar melhorias para todos os setores, pois quando existe o comprometimento 
+16 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+em relação à autoavaliação, há uma eficácia em todo processo construtivo da 
+instituição.  
+Houve uma preocupação em relação às ferramentas de sensibilização, sendo 
+atividades contínuas. Para atingir a todos, toda comunicação ocorreu de forma digital, 
+havendo sempre a preocupação de provocar e enfatizar uma participação ativa de 
+todos os setores. Dessa forma, para a consecução desse objetivo, foram 
+estabelecidas algumas ações: 
+• 
+Elaboração de materiais gráficos digitais de comunicação, apresentando o 
+significado e a função da CPA: todo material divulgado no site, no Facebook e no 
+Instagram da instituição; 
+• 
+Peças com comunicação direta com os coordenadores, com intenção de que 
+eles divulgassem o papel da CPA para o corpo docente e, também, para os alunos 
+líderes (representantes) de sala; 
+• 
+Realização de reunião com a congregação para apresentar todo o cronograma 
+e objetivos da CPA; 
+• 
+Realização de reunião com os professores, para apresentar CPA e principais 
+resultados do Relatório do ano anterior, em evento institucional “Jornada da 
+Transformação”. 
+ 
+ 
+17 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+A seguir apresentam-se todas as peças digitais elaboradas para a divulgação 
+da aplicação do WebSAI 2022: 
+ 
+• 
+Banner 
+ 
+ 
+ 
+ 
+ 
+ 
+18 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+ 
+• 
+Banner divulgando a prorrogação da avaliação 
+ 
+ 
+ 
+ 
+19 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+• 
+Vídeo 
+ 
+ 
+• 
+Página da CPA no Site institucional da Fatec 
+ 
+ 
+ 
+ 
+20 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+ 
+ 
+2.3 Sujeitos da avaliação 
+Participaram da autoavaliação institucional representantes de todos os 
+segmentos da Fatec de São José dos Campos: 
+• Alunos dos oito cursos de graduação; 
+• Professores dos oito cursos de graduação; 
+• Funcionários de todos os setores da Fatec. 
+Na tabela a seguir é apresentado o nível de participação dos segmentos na coleta de 
+dados: 
+TOTAL 
+ALUNOS 
+TOTAL DE 
+PROFESSORES 
+TOTAL DE 
+FUNCIONÁRIOS 
+DE 
+RESPOND. 
+DOCENTES 
+RESPOND. 
+FUNCIONÁRIOS 
+RESPOND. 
+ALUNOS 
+FATEC 
+FATEC 
+FATEC 
+1519 
+1128 (74,2 %) 
+82 
+80 (97,6 %) 
+10 
+10 (100 %) 
+ 
+ 
+21 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+Constata-se que alguns grupos da Instituição apresentaram uma participação 
+extremamente ativa, particularmente observável pela porcentagem dos funcionários e 
+professores (perto de 100%). Já os alunos, que poderiam trazer uma visão mais 
+peculiar do lado de quem faz uso do serviço público, tiveram uma participação em 
+torno de 74% - no entanto, consideramos este número bastante expressivo como 
+amostra para análises. Evidentemente, com o retorno ao ensino presencial, foi mais 
+efetiva a conscientização e busca pelas respostas dos alunos. 
+A despeito dessa boa participação em 2022, a CPA continuará na busca por 
+procedimentos e ferramentas mais efetivos com o propósito de conscientizar os 
+alunos da importância dessa avaliação para o norte do planejamento institucional no 
+atendimento dos anseios da nossa comunidade. 
+2.4 Instrumentos de Coleta 
+Desde 1997 o Centro Paula Souza, evidenciando o seu pioneirismo em buscar 
+indicadores para gerar melhoria de seus serviços criou o Sistema de Avaliação 
+Institucional (SAI), implantado em 1999 em todas as Etecs (Escolas de Ensino Técnico 
+no nível médio) e, em 2000, nas Fatecs, seguindo os mais rigorosos critérios 
+estatísticos. Sendo os instrumentos elaborados e preenchidos em formulários 
+impressos de 1999 a 2012.  
+A partir de 2010, os questionários deixaram de ser preenchidos em formulário 
+de papel e passaram a ser totalmente on-line, trazendo mais agilidade ao processo 
+de avaliação. Desde então, todos os participantes realizam a pesquisa pela internet e 
+o SAI passou a ser chamado de WebSAI.  
+Para que as Fatecs tivessem apenas um instrumento que pudesse contemplar 
+as 10 dimensões dentro dos 5 eixos avaliativos, a partir da criação da comissão da 
+CPA Central a AAI em parceria com a CESU, por meio de uma equipe qualificada, 
+reorganizou a elaboração dos Instrumentos adequando-os em torno dos 5 eixos 
+avaliativos. 
+22 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+Para todos os segmentos, foram destinadas questões relacionadas a: 
+• Cadastro: sexo, faixa etária, e outras mais específicas do segmento, como 
+formação máxima, para docentes, jornada de trabalho, para funcionários e em 
+qual período estuda na Fatec, para alunos. 
+• CPA: avaliação da CPA sobre metodologia e sistema de coleta de dados, 
+divulgação das ações desenvolvidas e do relatório do ano anterior. 
+ 
+Em específica, para cada eixo: 
+• 
+EIXO 1: Planejamento e Avaliação Institucional 
+ 
+Para o Eixo 1, todos os segmentos foram considerados: 
+- 
+Discentes: foram apresentadas todas as questões relacionadas ao conhecimento do 
+PDI, frequência às aulas, pontualidade e desempenho dos discentes, de uma forma 
+geral. 
+- 
+Docentes: também, foram levantadas questões relacionadas ao conhecimento do 
+PDI, preparação e organização da disciplina, estratégia de ensino e devolutivas, 
+articulação das disciplinas, percepção dos docentes sobre os resultados de 
+aprendizagem, dentre outras. 
+- 
+Funcionários: também, foram apresentadas as questões relacionadas ao 
+conhecimento do PDI. 
+ 
+• 
+EIXO 2: Desenvolvimento Institucional  
+ 
+Para o Eixo 2, todos os segmentos foram considerados: 
+- 
+Discentes: foram levantadas questões relacionadas à atuação da Fatec, a formação 
+de profissionais qualificados, disseminação de valores, cultura, arte, inclusão social, 
+de uma forma geral. Tendo uma questão focada sobre a coerência entre ações 
+realizadas e o PDI, e a outra sobre a opinião qualitativa dos discentes sobre a 
+responsabilidade social da instituição. 
+23 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+- 
+Docentes: também, foram apresentadas questões relacionadas à atuação da Fatec, 
+na sua formação como profissionais qualificados, disseminação de valores, cultura, 
+arte, inclusão social, de uma forma geral, ou seja, foi dado o mesmo enfoque aplicado 
+aos discentes, por perceber que há semelhanças nos propósitos almejados. 
+- 
+Funcionários: questões relacionadas à atuação da Fatec na sua formação como 
+profissionais qualificados, disseminação de valores, cultura, arte, inclusão social, de 
+uma forma geral, ou seja, mesmo enfoque que o aplicado aos discentes e docentes. 
+Em síntese, no Eixo 2, tem-se por objetivo coletar a percepção dos segmentos avaliados, 
+como por exemplo, se a Fatec está conseguindo cumprir sua missão de formar um cidadão 
+ético e responsável, capaz de atuar na construção de conhecimento e estratégias 
+sustentáveis de inovação, com vistas ao atendimento das demandas sociais e do mundo 
+do trabalho. 
+ 
+• 
+EIXO 3: Políticas Acadêmicas  
+ 
+Para o Eixo 3, todos os segmentos foram considerados: 
+- 
+Discentes: foram apresentadas questões relacionadas ao Projeto Pedagógico do 
+Curso, qualidade do corpo docente, práticas e metodologias pedagógicas, satisfação 
+com o curso, projetos interdisciplinares, ações de atendimento aos alunos, eventos, 
+de uma forma geral.  
+- 
+Docentes: questões relacionadas ao Projeto Pedagógico do Curso, qualidade do 
+corpo docente, práticas e metodologias pedagógicas, eventos, de uma forma geral. ou 
+seja, mesmo enfoque que o aplicado aos discentes. 
+- 
+Funcionários: a esse segmento, houve questões, também, relacionadas à 
+participação do corpo técnico-administrativo nas atividades de ensino, pesquisa e 
+extensão, eventos, normas acadêmicas e participação em órgãos acadêmicos, de uma 
+forma geral. 
+      Logo, dentro do Eixo 3, são feitas observações se as diretrizes são claras para o 
+funcionamento das práticas de ensino, pesquisa e extensão, bem como a eficiência dos 
+canais de comunicação da Instituição. 
+ 
+ 
+24 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+ 
+• 
+EIXO 4: Políticas de Gestão 
+ 
+Para o Eixo 4, todos os segmentos foram considerados: 
+- 
+Discentes: foram levantadas questões para constatar se a Organização e Gestão da 
+Instituição são participativas, reconhecimento da capacidade dos gestores, e 
+programas institucionais como FETEPS, Estágios, Iniciação Científica e Inova Paula 
+Souza. 
+- 
+Docentes: assim como para os discentes, questões que discutem se Organização e 
+Gestão da Instituição são participativas, reconhecimento da capacidade dos gestores, 
+representatividade em órgãos colegiados, de uma forma geral. Em particular, foram 
+questionados incentivo a formação continuada e evolução de funcional. 
+- 
+Funcionários: questões que discutem se Organização e Gestão da Instituição são 
+participativas, reconhecimento da capacidade dos gestores, representatividade em 
+órgãos colegiados, de uma forma geral, mesmo enfoque dado aos Docentes. 
+Portanto, dentro do Eixo 4, são abordadas a capacidade dos gestores, organização 
+institucional, participação em órgãos colegiados e, em específico aos discentes, alguns 
+programas institucionais. 
+ 
+• 
+EIXO 5: Infraestrutura Física 
+ 
+Por último, para o Eixo 5, também, todos os segmentos foram considerados: 
+- 
+Discentes: questões relacionadas à infraestrutura disponível ao discente, em termos 
+de espaços, laboratórios e serviços, tais como biblioteca (e seu acervo), secretaria, 
+cantina, segurança, limpeza, iluminação, ventilação e acessibilidade, são abordados. 
+- 
+Docentes: questões relacionadas à atuação do docente, com base na realidade vivida 
+em sala de aula, ou seja, utilizando algumas das mesmas questões aplicadas aos 
+discentes. 
+- 
+Funcionários: as questões relacionadas à atuação do funcionário, com base na 
+realidade dos equipamentos, tais como as ferramentas digitais, seu computador e 
+ambiente de trabalho, ou seja, utilizando algumas das mesmas questões aplicadas 
+aos discentes. 
+25 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+Dessa forma, dentro do Eixo 5, foi comum a coleta de dados relacionados ao 
+ambiente de trabalho e ferramentas utilizadas. Portanto, saliente-se que, excepcionalmente 
+em 2022, devido ao momento de pós-pandemia da Covid-19, a avaliação foi muito 
+importante para avaliarmos o retorno das aulas presenciais. 
+ 
+2.5 Procedimentos para a coleta  
+ 
+A AAI disponibilizou o acesso ao sistema de coleta (websai) a partir de 03 de 
+outubro de 2022 ficou disponível para o preenchimento da comunidade do dia 31 de 
+outubro de 2022. Para favorecer a participação da comunidade durante este período 
+a CPA e Direção da Fatec São José dos Campos, fez o acompanhamento da 
+participação de cada segmento, realizando a sensibilização contínua para a 
+participação. 
+Para contribuir com a participação de toda a comunidade, durante este período, 
+todos participantes da CPA foram alcançados por meio de mensagens pelo aplicativo 
+Whatsapp, pelo Microsoft Teams; sendo os Coordenadores de Curso e Direção 
+contatados regularmente pelo Walmir, Coordenador da CPA, sendo informados 
+constantemente sobre os resultados diários da participação de seus respectivos 
+Cursos; a Diretoria Acadêmica emitiu aviso pelo SIGA; mensagens foram enviadas 
+para os líderes de sala fazer uma divulgação eficaz, foi usado, também, a Biblioteca 
+do Teams, da qual a comunidade participa em sua quase totalidade. 
+Para intensificar, anteriormente, o Coordenador da CPA participou de uma 
+reunião ordinária da Congregação da unidade para levar informações acerca dos 
+objetivos e procedimentos de trabalho, podendo contar com a contribuição dos 
+membros tanto na participação da pesquisa como na divulgação. Segue a 
+apresentação. 
+26 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+ 
+ 
+ 
+27 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+ 
+ 
+ 
+ 
+ 
+28 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+ 
+ 
+Em síntese, após todas as informações a respeito do trabalho e orientação 
+sobre o link para o WebSAI, foi iniciado o processo de ampla divulgação e 
+encaminhamento aos discentes, docentes e funcionários técnico-administrativos.  
+ 
+   Os Coordenadores de Curso, por sua vez, encaminharam os links de acesso 
+ao WebSAI para os representantes de turma e estes, aos seus colegas de classe. 
+A professora responsável pelo projeto “Motivação Acadêmica” e o representante 
+discente da CPA colaboraram fazendo contato direto com grupos de discentes. Por 
+fim, a Diretoria Administrativa enviou aos docentes e funcionários técnico-
+administrativos, por e-mail, o link de acesso. 
+Dessa forma, pôde-se concluir que a cooperação dos setores foi essencial 
+para a aplicação do WebSAI, ainda que esse resultado não seja o desejado em 
+relação à totalidade da participação dos alunos, é uma soma significativa para o 
+período pós pandemia. 
+Portanto, foram realizadas várias atividades que contribuíram muito com o 
+processo de participação da comunidade, apresentando orientações e incentivos, 
+conscientizando a importância de uma coleta eficaz, para a existência de melhorias 
+construídas por todos. 
+ 
+ 
+29 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+ 
+2.6 Análise e Discussão dos dados da coleta  
+Desde o dia 12 de dezembro de 2022 (conforme calendário alterado pela 
+CPA Central), fomos informados da disponibilização dos dados coletados no portal 
+do WebSAI para, assim, serem analisados pela CPA local. A CPA da Fatec São 
+José dos Campos reuniu-se em seguida para fazer uma avaliação inicial sobre a 
+aplicação da pesquisa. Nesta ocasião, discutiu-se sobre os principais acertos 
+observados durante o processo de elaboração, divulgação e aplicação da pesquisa, 
+bem como os pontos que ainda precisam ser aprimorados.  
+A CPA ficou encarregada de gerar os gráficos e organizar seus resultados 
+por Eixos e Dimensões, conforme instruções de nossa CPA Central - em posse dos 
+resultados, pudemos organizar as medidas para composição do relatório. 
+Naquela ocasião, foram apresentados os pacotes de gráficos para a divulgação 
+dos resultados para cada setor responsável, sendo estes: direção geral, diretoria 
+administrativa, diretoria acadêmica e coordenadores de curso. 
+ 
+2.7 Organização das medidas para composição do relatório 
+ 
+Após o processo de análise e discussão dos dados coletados, cada setor 
+encaminhou para a CPA da Fatec São José dos Campos, os resultados presentes no 
+Quadro 2, com o apontamento das fragilidades e o planejamento das medidas 
+corretivas, assim como as potencialidades e as possíveis ações de manutenção e 
+melhorias. Os quadros apresentados, foram condensados no capítulo 4 deste 
+relatório, refletindo o planejamento da Fatec São José dos Campos a partir dos 
+indicadores observados em cada eixo avaliativo. 
+A divulgação aos segmentos avaliados foi feita em particular, via email ou 
+whatsapp, contendo um texto explicativo, os gráficos correspondentes e uma tabela 
+para que o responsável de cada segmento (Diretoria, Coordenadores de cada 
+curso, Diretoria Acadêmica e Diretoria de Serviços) fizesse a avaliação das 
+fragilidades e identificasse as ações a serem executadas para atenuar estes 
+problemas. Foi sugerido aos segmentos que receberam os resultados que a tabela 
+fosse preenchida e encaminhada de volta à CPA. 
+30 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+O presidente da Comissão, Prof. José Walmir Gonçalves Duque, prontificou-
+se ainda a entrar em contato via Teams, ou pessoalmente na Fatec, para explicar 
+sobre o preenchimento das planilhas individualmente para cada diretor e 
+coordenador, em mais de uma ocasião. Foram feitos atendimentos aos 
+Coordenadores de curso em horários agendados, inclusive individualmente. 
+ 
+2.8 Devolutiva dos Resultados para os Segmentos   
+ 
+Após a apresentação do relatório para a Direção da Fatec São José dos 
+Campos, foram organizadas as formas de divulgação dos resultados e apresentação 
+das ações provenientes do processo de autoavaliação, permitindo o desenvolvimento 
+Institucional. 
+Uma vez finalizado o processo de elaboração do Relatório, a CPA dará maior 
+publicidade aos resultados no primeiro semestre de 2023, viabilizando espaços 
+para consenso e propostas de melhoria: 
+• Direção, 
+Coordenadores, 
+Diretoria 
+Acadêmica 
+e 
+Diretoria 
+Administrativa: já tiveram a oportunidade de ler os resultados, 
+recortados segundo as orientações da CPA Central, mas, uma nova 
+oportunidade de visualizar os resultados pode ensejar novas 
+sugestões e propostas de melhorias para a Fatec; 
+• Funcionários Técnico-Administrativos e Alunos: mesmo tendo 
+representantes de funcionários na CPA Local, é uma estratégia 
+importante levar ao conhecimento de todos o relatório completo e 
+continuar colhendo novas sugestões e propostas de melhorias para a 
+Fatec; 
+• Elaboração de banner gráfico e espaço no site institucional para 
+divulgação dos resultados. 
+31 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+3 DESENVOLVIMENTO 
+Considerando os instrumentos da autoavaliação, estruturados a partir das 10 dimensões previstas no 
+art. 3º da Lei nº 10.861 (SINAES), nesta parte do relatório, a CPA deverá apresentar as informações 
+que foram coletadas, a partir da organização de 5 eixos, que articulam as 10 dimensões, conforme 
+disposto na Nota Técnica INEP nº 065, como segue: 
+ 
+3.1 Eixo 1: Planejamento e Avaliação Institucional 
+   
+ 
+Eixo 1: Planejamento e Avaliação Institucional 
+ Dimensão 8: Planejamento e Avaliação 
+ 
+Você sabe o que é o Plano de Desenvolvimento Institucional (PDI) da sua instituição de ensino? 
+ 
+ 
+ 
+ 
+ 
+O Planejamento institucional tem cada vez mais se consolidado em nossa unidade, 
+utilizando de sugestões oriundas dos apontamos da CPA Local. 
+ 
+A divulgação cada vez mais sistêmica do Relatório Anual da CPA contribui para 
+consolidar a cultura de planejamento institucional, uma vez que todos os segmentos 
+têm acesso aos resultados e plano de ações sugerido pela CPA à unidade. 
+32 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+ 
+ 
+ 
+3.2 Eixo 2: Desenvolvimento Institucional 
+   
+       
+Eixo 2: Desenvolvimento Institucional 
+Dimensão 1: Missão e Plano de Desenvolvimento Institucional 
+ 
+Disseminação da ciência, tecnologia e inovação 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+33 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+ 
+Eixo 2: Desenvolvimento Institucional 
+Dimensão 3: Responsabilidade Social da Instituição 
+ 
+    Participação da comunidade externa no contexto institucional 
+ 
+ 
+ 
+ 
+O Plano de Desenvolvimento Institucional - PDI (período 2019 a 2023) da Fatec São 
+José dos Campos é um dos principais documentos que nortearam as ações, pois, 
+caracteriza-se como a identidade local da Instituição, definindo, entre outros, sua 
+filosofia de trabalho, missão, estratégias, objetivos, estrutura e diretrizes pedagógicas, 
+algo a ser continuado no PDI para os anos de 2024 a 2029. Nosso PDI estabelece 
+que a missão da Fatec São José dos Campos é “Promover a educação profissional 
+tecnológica, seguindo referenciais de excelência, visando a formar pessoas capazes 
+de contribuir para o desenvolvimento econômico e social de São José dos Campos e 
+região”.  
+O público-alvo da Fatec São José dos Campos é composto por jovens e adultos que 
+desejam uma formação de qualidade alinhada com o mercado de trabalho e base para 
+as profissões do futuro; pessoas com ensino médio completo que querem matricular-
+se em curso de nível superior ou em cursos de extensão, e adolescentes com ensino 
+34 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+fundamental completo que querem matricular-se em cursos profissionalizantes de 
+curta duração. O público-alvo se caracteriza, ainda, por profissionais que já atuam no 
+mercado de trabalho e precisam se reciclar ou pretendem obter competências para o 
+exercício de funções agregadas. No quesito socioeconômico, trata-se de um público 
+cuja maioria almeja ter ou melhorar sua renda para o sustento da família; conta 
+também com aqueles que têm o intuito de preparar-se para continuar os estudos fora 
+do país e adentrar o mercado internacional. As principais ações na comunidade local, 
+envolvendo o público externo, são: 
+ 
+• CADI: O Projeto CADI (Centro de Aprendizagem em Desenvolvimento e Integração) 
+tem por objetivo a conjugação de esforços entre os agentes da sociedade para ações 
+visando a conexão de pessoas, conhecimentos e instituições com a Fatec São José 
+dos Campos, para apoiar o desenvolvimento do Ecossistema de inovação e 
+consequentemente estimular a aprendizagem dos alunos e o desenvolvimento de 
+recursos humanos capazes de inovar e atender as demandas da comunidade e do 
+mercado regional. Por meio do CADI, atendemos diversas empresas, de micro a 
+grande porte, na forma de projetos ou atendimentos curtos, com base nas 
+competências disponibilizadas pelos professores envolvidos. O CADI pode ser melhor 
+compreendido pela página:  https://fatecsjc-prd.azurewebsites.net/cadi.php. O Parque 
+Tecnológico de São José dos Campos (www.pqtec.org.br) é um dos principais 
+parceiros do CADI. 
+ 
+. API – Aprendizagem por Projetos Integrados: trata-se de uma iniciativa em que 
+profissionais voluntários parceiros, de empresas do ecossistema, trabalham como 
+tutores de projetos reais para nossos alunos – nesta iniciativa, os alunos desenvolvem 
+projetos em equipes, com retorno do seu andamento e validade por parte destes 
+parceiros. A partir da metodologia API, estamos conseguimos acreditar cursos no 
+CDIO (Iniciativa com status de selo internacional de boas práticas de ensino por 
+35 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+projetos reais), inicialmente pelo curso Tecnologia em Banco de Dados. 
+ 
+ 
+. Feira de Soluções: ao final de cada semestre, todos os alunos da unidade 
+apresentam seus projetos para a sociedade, no formato de uma feira aberta para 
+visitação. Nesta ocasião, alunos de escolas de ensino médio e técnico bem como 
+empresas do ecossistema tem a oportunidade de conhecer os resultados do 
+desenvolvimento de competências dos nossos alunos. No escopo da Feira de 
+Soluções, em conjunto, estamos organizando nosso evento científico - Cimatech – 
+uma interessante oportunidade da publicação de artigos para os alunos e professores. 
+  
+• Vestec: é um cursinho pré-vestibular gratuito formado por iniciativa da Fatec São 
+José dos Campos. O quadro de colaboradores do VESTEC é formado por alunos 
+voluntários da Fatec. Sua missão é promover uma inclusão social em nossa cidade 
+oferecendo um ensino de qualidade às pessoas que não tem condições financeiras 
+de custear um curso pré-vestibular particular ou mesmo uma universidade particular. 
+As aulas acontecem aos sábados, para atender os alunos que trabalham ou estão 
+concluindo o terceiro ano do ensino médio durante a semana. 
+ 
+• OBMEP (Olimpíada Brasileira de Matemática das Escolas Públicas): A Fatec São 
+José dos Campos é o polo da coordenadoria regional da Olimpíada Brasileira de 
+Matemática das Escolas Públicas. Vide site da OBMEP: http://www.obmep.org.br/ 
+ 
+  
+ 
+ 
+36 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+ 
+3.3 Eixo 3: Políticas Acadêmicas 
+   
+ 
+ 
+Dimensão 2: Políticas para o Ensino, a Pesquisa e a Extensão 
+Dimensão 4: Comunicação com a Sociedade 
+Dimensão 9: Política de Atendimento aos Discentes 
+ 
+Avaliação dos Discentes:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+37 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+ 
+ 
+ 
+ 
+ 
+Avaliação dos Docentes: 
+ 
+ 
+38 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+ 
+ 
+ 
+ 
+39 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+ 
+ 
+ 
+ 
+Avaliação dos Técnicos: 
+ 
+ 
+ 
+ 
+ 
+40 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+ 
+No que diz respeito ao ensino, a Metodologia API tem tido ênfase nos nossos cursos, 
+uma vez que busca incrementar a aprendizagem dos alunos por meio de métodos 
+modernos,  fundamentados em metodologias ágeis, muito presentes na era digital. 
+Para além da construção desta metodologia própria da nossa Fatec, inicialmente já 
+se percebeu a premente demanda por capacitação permanente do corpo docente em 
+metodologias ágeis – a unidade tem a noção de que se trata de algo a ser construído 
+ao longo do tempo, pois diz respeito à forte mudança cultural. 
+ 
+No final de 2022, a unidade começou a vislumbrar a implantação de cursos de Pós-
+graduação. Um estudo de demanda e estrutura organizacional está em andamento. 
+ 
+Do ponto de vista de recuperação da aprendizagem, é prática crescente do corpo 
+docente o uso de critérios de avaliação que permitam, antes do fim de um ciclo, 
+identificar e endereçar estratégias de recuperação para os alunos. Além da ação 
+docente, alunos Monitores alocados para disciplinas-chave, sob a supervisão de 
+professores, que dão suporte aos alunos nas suas dúvidas. Importante destacar que 
+a metodologia API tem em sua concepção a política de feedbacks e recuperação 
+contínua de aprendizagem. 
+ 
+Tanto institucionalmente (global) quando por iniciativas locais, a unidade tem acesso 
+a boas plataformas de conteúdos e convênios e, portanto, os alunos podem 
+gratuitamente ter acesso a cursos com certificado de conclusão. 
+ 
+Por fim, está em implantação um comitê para planejar, gerir e avaliar as atividades de 
+comunicação interna, externa e divulgação da Fatec São José dos Campos. 
+ 
+ 
+ 
+ 
+41 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+ 
+3.4 Eixo 4: Políticas de Gestão 
+   
+Dimensão 5: Políticas de Pessoal 
+Dimensão 6: Organização e Gestão da Instituição 
+Dimensão 10: Sustentabilidade Financeira   
+ 
+ 
+Avaliação dos Discentes: 
+ 
+ 
+ 
+ 
+ 
+Avaliação dos Docentes: 
+ 
+ 
+42 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+ 
+ 
+ 
+Avaliação dos Técnicos: 
+ 
+ 
+ 
+43 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+ 
+ 
+Quanto a este Eixo, cabe destacar que ocorreram programas de grande 
+representatividade na autarquia confrontando-o com a realidade da Unidade, 
+verificando a divulgação, a participação e os resultados de aprendizagem, formação 
+profissional, científica e tecnológica. 
+O Centro Paula Souza mantém programa de capacitação online aberto a todos 
+os servidores.  Em particular, aos docentes e auxiliares-docentes, a cada início de 
+semestre também é realizado a SPAP – Semana de Planejamento e Aperfeiçoamento 
+Pedagógico quando são trabalhadas iniciativas institucionais de capacitação 
+organizadas pela Coordenadoria de Ensino Superior (CESU) bem como pela da 
+Direção da Fatec. 
+Importante também destacar que a Fatec São José dos Campos mantem 
+atividades de capacitação e integração especificamente planejadas para empoderar 
+e valorizar os servidores técnico-administrativos. 
+ 
+ 
+ 
+44 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+ 
+3.5 Eixo 5: Infraestrutura Física 
+ 
+  
+Dimensão 7: Infraestrutura Física 
+ 
+Avaliação dos Discentes: 
+ 
+ 
+ 
+ 
+Avaliação dos Docentes: 
+ 
+ 
+45 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+ 
+ 
+Avaliação dos Técnicos: 
+ 
+ 
+ 
+ 
+ 
+Uma vez que retornamos ao ensino presencial, pós-pandemia, novamente veio 
+à tona a avaliação da infraestrutura física da Fatec. 
+Nos últimos anos, em meio a pandemia, a unidade passou por uma boa 
+reforma, envolvendo telhado, pintura, soleiras, dentre outros. Em paralelo, foi 
+implantada uma sala ambiente experimental para API e TVs Led grandes foram 
+instaladas em cada ambiente, substituindo com eficiência a necessidade de projetores 
+multimídia. 
+46 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+Novos computadores chegaram e substituíram os antigos, no entanto, alguns 
+laboratórios ainda precisam de atualização, especialmente para os cursos da área de 
+Tecnologia da Informação. 
+A gestão da internet e rede de computadores foi aprimorada por meio da 
+aquisição de um Mikrotik, tecnologia que permite uso mais inteligente dos pacotes de 
+dados que trafegam na rede local. 
+Olhando para frente, novos e modernos espaços de aprendizagem devem ser 
+concebidos e construídos, em consonância com a vocação da Fatec São José dos 
+Campos de ser inovadora e vanguardista em seus métodos de ensino. 
+ 
+ 
+ 
+47 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+4 ANÁLISE DOS DADOS E AÇÕES PROPOSTAS 
+ 
+EIXO 1: PLANEJAMENTO E AVALIAÇÃO INSTITUCIONAL  
+  
+FRAGILIDADES 
+  
+  
+AÇÕES PLANEJADAS  
+AÇÕES REALIZADAS 
+PRAZOS   
+Desarticulação do Cronograma de 
+Ações da CPA com o Planejamento 
+Institucional 
+Revisar Cronograma Anual de Ações da 
+CPA concatenado ao Planejamento de 
+Ações Institucional da Unidade 
+Ações 2022: cronograma já revisado e 
+em implantação – CPA e Direção 
+realizaram reuniões para análise 
+minuciosa do Relatório 2021 – foram 
+aproveitadas sugestões de análises da 
+CPA no planejamento da unidade 
+2025 
+Os coordenadores não recebem os 
+resultados estratificados do WebSAI 
+referentes aos 
+cursos/professores/alunos 
+CPA da Fatec São José dos Campos irá 
+solicitar à CPA Central a tabulação de 
+resultados de professores e alunos 
+estratificados por cursos 
+Ações 2022: foi solicitado para a Equipe 
+WebSAI e fomos atendidos – dados 
+disponibilizados para Equipe Gestora da 
+Fatec, juntamente com o Relatório 2022 
+para análise e apreciação 
+- 
+Possível queda na procura pelo 
+Vestibular 
+Revisar Plano de Divulgação de 
+Vestibular da Unidade, concatenado com 
+o Plano de Comunicação 
+Ações 2022: foi constituída Comissão 
+de Comunicação, já presente no 
+Relatório Anual de Atividades da 
+unidade – algumas ações, já em curso, 
+serão mais bem estruturadas e 
+integradas ao Plano de Comunicação 
+Institucional (da Unidade). No entanto, 
+2025 
+48 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+importante ressaltar foram trabalhadas 
+visitas em escolas, entrevistas para TVs 
+(afiliadas da Globo, SBT e Record), 
+rádios (Jovem Pan, Nativa e BandVale) 
+e Marketing interno 
+  
+POTENCIALIDADES 
+  
+  
+  
+AÇÕES PLANEJADAS  
+AÇÕES REALIZADAS 
+  
+PRAZOS   
+Muitas ações institucionais têm sido 
+feitas, porém não vistas 
+Construir Plano de Comunicação da 
+Unidade, envolvendo direção, diretoria de 
+serviços, diretoria acadêmica, 
+coordenadores de cursos, considerando 
+mídias digitais (site institucional, SIGA, 
+Instagram, Fatec TV e textos 
+WhasApp/Teams para discentes, docentes 
+e funcionários técnico-administrativos). 
+Temas sensíveis, aos diversos segmentos, 
+devem ser tratados na concepção deste 
+Plano (Exemplos do Eixo 1: Resultados do 
+WebSAI, Cronograma de Ações da CPA, 
+dentre outros) 
+Ações 2022: foi constituída Comissão 
+de Comunicação da Unidade, já 
+presente no Relatório Anual de 
+Atividades da unidade – foram levadas 
+propostas conforme planejado 
+2025 
+ 
+ 
+ 
+49 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+EIXO 2: DESENVOLVIMENTO INSTITUCIONAL  
+  
+FRAGILIDADES 
+  
+AÇÕES PLANEJADAS 
+AÇÕES REALIZADAS 
+PRAZOS 
+Necessidades de capacitações nas 
+áreas técnicas, comportamentais e de 
+valores, para todos os segmentos 
+Consolidar as Capacitações (Palestras e 
+Cursos) para todos os segmentos 
+(docentes, discentes e funcionários 
+técnico-administrativos), com apoio de 
+Parceiros (Empresas), particularmente nos 
+períodos de férias e recesso escolar – 
+admitir temas técnicos e de valores 
+humanos, tais como diversidade, igual e 
+antidiscriminação 
+Ações 2022: está em implementação o 
+Projeto Carreira – Jornada 
+Administrativa e Melhoria Contínua – 
+Jornada da Transformação, já presente 
+no Relatório Anual de Atividades da 
+unidade. Importante salientar que o 
+Centro Paula Souza também mantem 
+cursos à distância. 
+2025 
+  
+POTENCIALIDADES 
+  
+  
+  
+AÇÕES PLANEJADAS 
+AÇÕES REALIZADAS 
+PRAZOS 
+Fatec São José dos Campos está 
+inserida em importante Ecossistema de 
+empresas e organizações de Ciência, 
+Tecnologia e Inovação 
+Consolidar o CADI – Centro de 
+Aprendizagem em Desenvolvimento e 
+Integração como referência no apoio do 
+desenvolvimento do Ecossistema de 
+Empresas (modelo dos 3 T´s) 
+Ações 2022: iniciamos a recomposição 
+da Equipe e discussão do modelo de 
+atuação, porém, suporte ao Programa 
+Fatec 4.0 no que tange ao 
+relacionamento com o Ecossistema 
+2025 
+50 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+Alunos em busca de preparação para 
+Vestibular, inclusive para o da Fatec 
+Consolidar o Vestec como curso pré-
+vestibular gratuito às classes sociais 
+desfavorecidas 
+Ações 2022: curso sendo ministrado, 
+porém, espaço para ampliação da 
+atuação utilizando-se de recursos 
+humanos (discentes) da própria Fatec 
+2025 
+Muitas ações institucionais têm sido 
+feitas, porém não vistas 
+Construir Plano de Comunicação da 
+Unidade, envolvendo direção, diretoria de 
+serviços, diretoria acadêmica, 
+coordenadores de cursos, considerando 
+mídias digitais (site institucional, SIGA, 
+Instagram, Fatec TV e textos 
+WhasApp/Teams para discentes, docentes 
+e funcionários técnico-administrativos). 
+Temas sensíveis, aos diversos segmentos, 
+devem ser tratados na concepção deste 
+Plano (Exemplos do Eixo 2: PDI, Ações de 
+Sustentabilidade e Responsabilidade 
+Social) 
+Ações 2022: foi constituída Comissão 
+de Comunicação da Unidade, já 
+presente no Relatório Anual de 
+Atividades da unidade – foram levadas 
+propostas conforme planejado 
+2024 
+ 
+ 
+ 
+51 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+EIXO 3: POLÍTICAS ACADÊMICAS  
+  
+FRAGILIDADES 
+  
+  
+AÇÕES PLANEJADAS  
+AÇÕES REALIZADAS 
+PRAZOS   
+Desalinhamento institucional de 
+docentes dos cursos, frente às novas 
+metodologias de ensino adotadas pela 
+unidade 
+Consolidar cultura de Plano de Ensino 
+Estruturado dos docentes, para fins de 
+maior alinhamento metodológico e 
+institucional das disciplinas 
+Ações 2022: novas capacitações foram 
+realizadas e reuniões de alinhamento 
+2025 
+Nossa unidade precisa ampliar sua 
+visibilidade frente à sociedade 
+Consolidar Eventos de interação com a 
+Sociedade, como Feira de Soluções e/ou 
+Fatec Portas Abertas 
+Ações 2022: foram realizadas duas 
+Feiras de Soluções (uma por semestre), 
+também para Visitantes Externos 
+(empresas e escolas) – devemos 
+consolidar o modelo da Feira de 
+Soluções 
+2024 
+Nossos alunos têm problemas de 
+gestão eficiente de seu tempo frente à 
+entrega de resultados (tempo x 
+qualidade) 
+Construir Cultura de Organização de 
+Tempo e Planejamento de tarefas dos 
+discentes 
+Ações 2022: algumas discussões foram 
+realizadas, porém, ainda pouco 
+implementadas. 
+2025 
+Nossa unidade precisa ampliar sua 
+visibilidade frente à sociedade, 
+particularmente dos cursos oferecidos 
+Criar um Plano de Divulgação de 
+Vestibular da Unidade, concatenado com 
+o Plano de Comunicação 
+Ações 2022: foi constituída Comissão 
+de Comunicação – algumas ações, já 
+em curso, serão mais bem estruturadas 
+e integradas ao Plano de Comunicação 
+Institucional (da Unidade) 
+2025 
+52 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+  
+  
+  
+  
+  
+POTENCIALIDADES 
+  
+  
+  
+AÇÕES PLANEJADAS  
+AÇÕES REALIZADAS 
+  
+PRAZOS   
+Modernas demandas de novos 
+Métodos de Ensino pela Sociedade, 
+com skills do Século XXI 
+Consolidar Metodologia API – 
+Aprendizagem por Projetos Integrados 
+(Projetos com Parceiros Externos), que 
+preconiza os pilares Real Project Based 
+Learning (RPBL), Validação Externa e 
+Mentalidade Ágil 
+Ações 2022: metodologia está em 
+desenvolvimento desde o 2º. Semestre 
+de 2019. Em 2022, novo modelo de 
+avaliação de soft skills e seu impacto na 
+avaliação geral. Novo enfoque na 
+construção do desafio. 
+2025 
+Administração da unidade é sensível à 
+necessidade de Recuperação contínua, 
+articulada na forma de Metodologia 
+robusta 
+Consolidar Plano de Recuperação 
+contínua dos alunos, quer seja pela 
+Metodologia API ou por iniciativas 
+específicas das coordenações e seus 
+professores 
+Ações 2022: metodologia está em 
+desenvolvimento desde o 2º. Semestre 
+de 2019. Em 2022, trabalhamos 
+atendimento individualizado pelas 
+Coordenações. 
+2025 
+Administração da unidade é sensível à 
+necessidade de Recuperação contínua, 
+articulada na forma de Metodologia 
+robusta 
+Consolidar Plano de Avaliação contínua 
+dos alunos, com rápidos retornos e 
+direcionamentos, quer seja pela 
+Metodologia API ou por iniciativas 
+específicas das coordenações e seus 
+professores 
+Ações 2022: metodologia está em 
+desenvolvimento desde o 2º. Semestre 
+de 2019. Em 2022, trabalhamos 
+atendimento individualizado pelas 
+Coordenações e Professores 
+2025 
+53 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+Diretoria e Coordenadores já 
+desenvolvem Diagnóstico de 
+deficiências de aprendizagem por parte 
+dos Alunos 
+Consolidar Semana de Recepção da 
+unidade, com Atividades de Acolhimento, 
+Diagnósticas, Proficiência e Dinâmicas 
+disruptivas 
+Ações 2022: unidade já desenvolve tais 
+iniciativas, respeitando especificidade 
+dos cursos – modelo em consolidação 
+2024 
+Centro Paula Souza disponibiliza 
+bolsas para Monitores de Disciplinas 
+Consolidar Equipe de Monitores para 
+suporte às dúvidas em disciplinas-chave 
+dos cursos 
+Ações 2022: ações tem sido 
+desenvolvidas, mas ainda com baixa 
+efetividade - algumas discussões foram 
+realizadas, porém, ainda pouco 
+implementadas 
+2024 
+Estamos vivenciando uma forte 
+demanda de oferta de vagas (de 
+estágio e emprego) para profissionais 
+bem capacitados em Tecnologia 
+Consolidar Portal de Carreiras, com 
+equipe e portal para divulgação 
+institucional de oportunidades de estágio e 
+emprego 
+Ações 2022: ações tem sido 
+desenvolvidas, mas precisamos 
+melhorar sua efetividade 
+2025 
+Muitas ações institucionais têm sido 
+feitas, porém não vistas 
+Construir Plano de Comunicação da 
+Unidade, envolvendo direção, diretoria de 
+serviços, diretoria acadêmica, 
+coordenadores de cursos, considerando 
+mídias digitais (site institucional, SIGA, 
+Instagram, Fatec TV e textos 
+WhasApp/Teams para discentes, docentes 
+e funcionários técnico-administrativos). 
+Temas sensíveis, aos diversos segmentos, 
+devem ser tratados na concepção deste 
+Plano (Exemplos do Eixo 3: Monitoria, 
+Cursos de Extensão / Capacitações, 
+Intercâmbios, Bolsas, Projetos com 
+Empresas, Decisões colegiadas, Eventos 
+Ações 2022: foi constituída Comissão 
+de Comunicação da Unidade, já 
+presente no Relatório Anual de 
+Atividades da unidade – foram levadas 
+propostas conforme planejado 
+2024 
+54 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+Externos, como Participar, papéis, dentre 
+outros) 
+ 
+ 
+ 
+55 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+EIXO 4: POLÍTICAS DE GESTÃO  
+  
+FRAGILIDADES 
+  
+  
+AÇÕES PLANEJADAS  
+AÇÕES REALIZADAS 
+PRAZOS   
+Direcionamento errado de Recursos 
+  
+Consolidar Plano de Investimento da 
+Unidade, com base em suas prioridades 
+Ações 2022: já existem iniciativas 
+institucionais, inclusive portal adequado 
+para solicitação – tem espaço para 
+avançar neste tema 
+2025 
+Faltam recursos para a aquisição de 
+materiais de consumo/ferramentas para 
+a realização de atividades práticas 
+Elaborar Plano de Manutenção da 
+Unidade, integrando todos os segmentos 
+(particularmente com apoio das 
+Coordenações de curso), tendo em vista as 
+atividades didáticas e laboratoriais 
+Ações 2022: unidade já desenvolve tais 
+iniciativas, respeitando especificidade 
+dos cursos – tem espaço para avançar 
+neste tema 
+2025 
+  
+POTENCIALIDADES 
+  
+  
+  
+AÇÕES PLANEJADAS  
+AÇÕES REALIZADAS 
+  
+PRAZOS   
+Respeito pela Direção da Unidade e 
+excelente relacionamento com 
+Coordenação Regional e Estadual 
+Manter Diálogo direto com Coordenação 
+Regional e Estadual para percepção de 
+Ações 2022: Nossa Direção já 
+desenvolve tais iniciativas 
+- 
+56 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+oportunidades de incremento de recursos 
+humanos e de infraestrutura 
+Muitas ações institucionais têm sido 
+feitas, porém não vistas 
+Construir Plano de Comunicação da 
+Unidade, envolvendo direção, diretoria de 
+serviços, diretoria acadêmica, 
+coordenadores de cursos, considerando 
+mídias digitais (site institucional, SIGA, 
+Instagram, Fatec TV e textos 
+WhasApp/Teams para discentes, docentes 
+e funcionários técnico-administrativos). 
+Temas sensíveis, aos diversos segmentos, 
+devem ser tratados na concepção deste 
+Plano (Exemplos do Eixo 4: Plano de 
+Ações da Unidade, Valores, Orientações) 
+Ações 2022: foi constituída Comissão 
+de Comunicação da Unidade, já 
+presente no Relatório Anual de 
+Atividades da unidade – foram levadas 
+propostas conforme planejado 
+2024 
+ 
+ 
+ 
+57 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+EIXO 5: INFRAESTRUTURA  
+  
+FRAGILIDADES 
+  
+  
+AÇÕES PLANEJADAS  
+AÇÕES REALIZADAS 
+PRAZOS   
+Falta de maior espaço para descanso e 
+convívio para os alunos 
+Tornar a Infraestrutura mais acolhedora 
+para os todos os segmentos (Por exemplo: 
+pufes, bancos, jardinagem, dentre outros) 
+Ações 2022: uma série de reformas 
+foram feitas, durante o Pandemia – tem 
+espaço para avançar neste tema 
+2025 
+  
+POTENCIALIDADES 
+  
+  
+  
+AÇÕES PLANEJADAS  
+AÇÕES REALIZADAS 
+  
+PRAZOS   
+Muitas ações institucionais têm sido 
+feitas, porém não vistas 
+Construir Plano de Comunicação da 
+Unidade, envolvendo direção, diretoria de 
+serviços, diretoria acadêmica, 
+coordenadores de cursos, considerando 
+mídias digitais (site institucional, SIGA, 
+Instagram, Fatec TV e textos 
+WhasApp/Teams para discentes, docentes 
+e funcionários técnico-administrativos). 
+Temas sensíveis, aos diversos segmentos, 
+devem ser tratados na concepção deste 
+Ações 2022: foi constituída Comissão 
+de Comunicação da Unidade, já 
+presente no Relatório Anual de 
+Atividades da unidade – foram levadas 
+propostas conforme planejado 
+2024 
+58 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+Plano (Exemplos do Eixo 5: Plano de 
+Manutenção, Plano de Investimentos, 
+dentre outros) 
+ 
+59 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+5 CONSIDERAÇÕES FINAIS 
+ 
+A Comissão Própria de Avaliação, pelo seu trabalho, visa oferecer subsídios capazes 
+de subsidiar à tomada de decisão e ao planejamento institucional, na busca de 
+contínua melhoria da qualidade do ensino, da pesquisa, da extensão e da gestão. 
+Sendo assim um importante instrumento para a Direção.  
+Os resultados apresentados contemplam as dez dimensões auto avaliativas do 
+SINAES e foram analisados e discutidos por todos os membros da comunidade 
+institucional: direção, coordenações de cursos, setores administrativos, gestores, 
+professores e alunos.  
+Os dados coletados, as análises e propostas foram amplamente divulgadas e serão 
+objeto de comparação na próxima avaliação, para elucidar os avanços alcançados, 
+reforçando o quanto a avaliação contribui para a gestão dos resultados.  
+Dentre as principais ações advindas desse processo, podemos salientar alguns 
+aspectos importantes: 
+• 
+Na implementação do Programa Fatec 4.0 da nossa unidade, desde 2019, a CPA pode 
+constatar sua evolução, que contempla: a realização de projetos integrados; a variação 
+das práticas didático-pedagógicas; a busca constante pela correspondência entre o 
+perfil do curso e o mercado; a implantação do programa “Aceleração da recuperação 
+da aprendizagem” para alunos com dificuldades; a oferta de cursos de extensão; 
+ações que valorizam a diversidade, respeitam as deficiências, promovem a saúde 
+mental e apoiam o estudante; a divulgação do ensino gratuito e da qualidade dos 
+cursos para a comunidade;  
+  
+• 
+O CADI tem se consolidado como um importante agente de conexão da Fatec São 
+José dos Campos (docentes e discentes) com as empresas e organizações sociais do 
+entorno e tem se posicionado como catalisador de um novo modelo educacional e de 
+organização de interação entre os entes envolvidos;  
+  
+• 
+Está em processo a consolidação e aprimoramento da Metodologia API – 
+Aprendizagem por Projetos Integrados, que nos favoreceu na construção de um novo 
+modelo de ensino. Para além da API, para transbordar os conhecimentos e 
+competências, uma outra ação trata-se da oferta de cursos de extensão sintonizados 
+com as demandas e projetos de desenvolvimento tecnológico, com bolsas para nossos 
+alunos;  
+  
+60 
+ 
+ 
+ 
+Relatório de Autoavaliação 
+Institucional da Fatec – 2022/Parcial
+• 
+O atendimento da sociedade ao entorno da unidade, no escopo de atividades de 
+extensão, também representa parte importante do papel social da Fatec São José dos 
+Campos. Nesse sentido, há continuidade das ações como o CADI (mencionado 
+anteriormente), o Vestec (curso pré-vestibular oferecido à população de classe social 
+mais desfavorecida). Ainda, como atividades de forte envolvimento dos alunos temos: 
+o Baja SAE Brasil (equipe de alunos orientado por professores na construção de um 
+veículo off road para  competição), o SAE Aerodesign (equipe de alunos, chamada 
+Megazord, orientada por professores na construção de projeto real aeronáutico para 
+competição) e Maratona de Programação (equipes de alunos, com técnicos 
+professores, competem no formato internacional na Maratona InterFatecs e Maratona 
+da SBC – Sociedade Brasileira de Computação); 
+  
+• 
+A construção de uma cultura efetiva de avaliação institucional em nossa Fatec São 
+José dos Campos está em curso – a Equipe da CPA foi reconstruída em vistas à sua 
+maior efetividade; desde 2022, pretende-se incrementar a sinergia do Cronograma de 
+Ações da CPA com o Planejamento Institucional da Unidade; 
+  
+• 
+A CPA e a Direção da unidade têm promovido reuniões de acompanhamento das 
+atividades e análise do relatório da CPA – como consequências efetivas desta sinergia 
+já podem ser observadas ações promovidas pela unidade, com base em sugestões da 
+CPA como Capacitações (Palestras e Cursos) para todos os segmentos (docentes, 
+discentes e funcionários técnico-administrativos) e Plano de Comunicação da 
+Unidade, 
+envolvendo 
+direção, 
+diretoria 
+de 
+serviços, 
+diretoria 
+acadêmica, 
+coordenadores de cursos.  
+  
+Por fim, importante salientar a maior adesão qualitativa dos segmentos, desde a etapa 
+de coleta de dados pelos questionários até análise dados, na composição deste 
+relatório. Os dados coletados, as análises e propostas foram e continuarão sendo 
+amplamente divulgadas e serão objeto de comparação na próxima avaliação, para 
+elucidar os avanços alcançados, reforçando o quanto a avaliação contribui para a 
+gestão dos resultados. 
+ 

@@ -1,0 +1,1538 @@
+1
+__________________________________________________________________________
+Administração Central
+Unidade do Ensino Superior de Graduação
+Lins, SP
+2023
+2
+__________________________________________________________________________
+Administração Central
+Unidade do Ensino Superior de Graduação
+Direção / Coordenação de Cursos
+Direção Geral
+Prof. Dr. Luciano Soares de
+Souza
+Coordenador do Curso de Graduação
+Tecnológica em Análise e Desenvolvimento de
+Sistemas
+Prof. Dr. Anderson Pazin
+Coordenador do Curso de Graduação
+Tecnológica em Gestão da Produção Industrial
+Prof. Dr. André Ricardo Ponce
+dos Santos
+Coordenador do Curso de Graduação
+Tecnológica em Gestão da Qualidade
+Prof. Me. Sandro da Silva
+Pinto
+Coordenador do Curso de Graduação
+Tecnológica em Sistemas para Internet
+Prof. Me. Adriano Bezerra
+Coordenador do Curso de Graduação
+Tecnológica em Logística
+Prof. Dr. Eduardo Teraoka
+Tofoli
+Presidente da CPA
+Prof. Me. Sandro da Silva
+Pinto
+Comissão Própria de Avaliação – CPA
+A CPA da FATEC LINS - Prof. Antonio Seabra foi instituída pela Portaria nº
+59/2021, de 04 de novembro de 2021,  com mandato até 04/11/2025.
+Representante docente (Presidente)
+Prof. Sandro da Silva Pinto
+Representante docente
+Prof. Felipe Maciel Rodrigues
+Representante discente
+Lucas Vinicius Falconi Mucci
+Representante do corpo técnico
+administrativo
+Lucas Pereira
+Representante da Sociedade Civil
+Fernando Hey Simões Pereira
+3
+__________________________________________________________________________
+Administração Central
+Unidade do Ensino Superior de Graduação
+SUMÁRIO
+I Identificação da FATEC:
+4
+II Atos Regulatórios
+4
+III Composição da Comissão Própria de Avaliação (CPA)
+4
+1  INTRODUÇÃO
+4
+2 METODOLOGIA
+8
+2.1 Cronograma das atividades da CPA
+9
+2.2 Sensibilização
+10
+2.3 Sujeitos da avaliação
+11
+2.4 Instrumentos de Coleta
+12
+2.5 Procedimentos para a coleta
+15
+2.6 Análise e Discussão dos dados da coleta
+15
+2.7 Organização das medidas para composição do relatório
+16
+2.8 Devolutiva dos Resultados para os Segmentos
+16
+3 DESENVOLVIMENTO
+18
+3.1 Eixo 1: Planejamento e Avaliação Institucional:
+18
+3.2  Eixo 2: Desenvolvimento Institucional
+20
+3.3 Eixo 3: Políticas Acadêmicas
+23
+3.4 Eixo 4: Políticas de Gestão
+26
+3.5 Eixo 5: Infraestrutura Física
+28
+4 ANÁLISE DOS DADOS E AÇÕES PROPOSTAS
+29
+5 CONSIDERAÇÕES FINAIS
+31
+APÊNDICE 1: Tabulação dos Dados de Pesquisa Websai 2022
+32
+ANEXOS
+36
+4
+I Identificação da FATEC:
+II Atos Regulatórios
+Ato Regulatório: Credenciamento
+Prazo de validade: Vinculado ao ciclo avaliativo
+Tipo de documento: Portaria 
+No. Documento: 454
+Data do Documento: 29/12/2009
+Data de Publicação: 01/01/2010
+III Composição da Comissão Própria de Avaliação (CPA)
+A Comissão Própria de Avaliação da FATEC LINS - Prof. Antonio Seabra foi
+instituída pela Portaria nº 59/2021, de 04 de novembro de 2021. Com mandato até
+04/11/2025. Possuindo a seguinte composição:
+NOME
+SEGMENTO REPRESENTATIVO
+Prof. Sandro da Silva Pinto
+Representante Docente (presidente)
+Prof. Felipe Maciel Rodrigues
+Representante Docente
+Lucas Vinicius Falconi Mucci
+Representante Discente
+Lucas Pereira
+Representante Técnico Administrativo
+Fernando Hey Simões Pereira
+Representante Sociedade Civil
+5
+1  INTRODUÇÃO
+A Fatec Lins Prof. Antônio Seabra possui a crença na avaliação como
+instrumento de gestão. Por meio da avaliação temos condições de reunir indicadores
+capazes de suscitar análises e discussões possibilitando definir planos de melhorias
+de forma continuada.
+Sabe-se que a Lei 10.861/2014, que define o Sistema Nacional de Avaliação
+da Educação Superior (SINAES), estabelece, em seu Artigo 3º, que a avaliação
+institucional tem por objetivo identificar o perfil da IES e o significado de sua
+atuação, por meio de suas atividades, cursos, programas, projetos e setores,
+considerando as diferentes dimensões institucionais, consolidadas em cinco eixos,
+sempre objetivando evidenciar os referenciais mínimos de qualidade exigidos pela
+excelência de ensino que é um dos pilares da pratica de todas as faculdades de
+tecnologias do Estado de São Paulo vinculadas ao Centro Paula Souza.
+Por meio do desenvolvimento do presente relatório, serão apresentados os
+dados e as informações referentes aos eixos, dimensões e indicadores em
+consonância com o Plano de Desenvolvimento Institucional (PDI) da Fatec e em
+consonância com as diretrizes emanadas do Centro Paula Souza.
+A FATEC Lins Professor Antônio Seabra é uma instituição de ensino superior
+pública, pertencente ao Centro Estatual de Educação Tecnológica Paula Souza
+(CEETEPS), autarquia da Secretaria de Desenvolvimento Econômico, Ciência e
+Tecnologia (SDECTI) do estado de São Paulo. Foi criada no dia 01 de Setembro de
+2008 pelo Decreto n⁰ 53.370, pelo Governador José Serra, publicado no DOE de 02
+de setembro de 2008.
+Iniciou suas atividades acadêmicas em 15 de setembro de 2008 com o Curso
+Superior de Graduação em Tecnologia em Informática com Ênfase em Banco de
+Dados e Redes de Computadores. No segundo semestre de 2009 iniciou as
+atividades acadêmicas com o Curso Superior de Graduação em Tecnologia em
+Logística e Transportes. Em 2013 o curso Superior de Graduação de Tecnologia em
+Informática com Ênfase em Banco de Dados e Redes de Computadores foi
+substituído pelo Curso Superior de Graduação de Tecnologia em Análise e
+6
+Desenvolvimento de Sistemas. Nesse mesmo ano, iniciou as atividades acadêmicas
+com o Curso Superior de Graduação de Tecnologia em Jogos Digitais.
+No segundo semestre de 2014, iniciou as atividades acadêmicas com o Curso
+Superior de Graduação de Tecnologia em Gestão da Produção Industrial. Em 2015,
+iniciou as atividades acadêmicas com o Curso Superior de Graduação de Tecnologia
+em Gestão Empresarial, na modalidade de Ensino a Distância. No segundo
+semestre do ano de 2018, teve início o Curso Superior de Graduação de Tecnologia
+em Sistemas para Internet, em substituição ao Curso Superior de Graduação de
+Tecnologia em Jogos Digitais. E no ano de 2020, as atividades acadêmicas do Curso
+de Gestão da Qualidade foram iniciadas.
+Curso
+Autorização
+Reconhecimento/
+RENOVAÇÃO
+CONCEITO
+referente à
+última visita
+ENADE
+Análise e
+Desenvolvimento
+de Sistemas
+CD
+151/12, publicado no
+D.O
+de 22/12/2012
+Portaria CEE/GP nº 227/2022,
+de
+01/06/2022, publicada no D.O.E.
+de 01/06/2022
+4 anos
+SIM
+Gestão
+Empresarial (EAD)
+Decreto 48.385 de
+13/09/2012
+Portaria CEE/GP Nº 101, de
+02/03/2020, publicado no D.O.
+de 03/03/2020 e Republicada
+no D.O de 04/03/2020
+3 anos
+SIM
+Gestão da
+Produção Industrial
+Decreto 58.385 de
+13/09/2012,
+publicado no D.O.
+em
+20/12/2013
+Portaria CEE/GP nº 541, de
+07/12/2022, publicada o D.O
+de 08/12/2022
+3 anos
+SIM
+Gestão da
+Qualidade
+CD 705/2019,
+publicado no
+D.O de 12/10/2019
+Portaria CEE-GP 566, de
+20-12-2022, publicada no DOE,
+Seção I, nº :132(253) em
+21/12/2022.
+3 anos
+SIM
+Logística
+CD 328/2009
+Portaria CEE/GP nº 101, de
+02/03/2020, publicada no D.O
+de 03/03/2020 e republicada
+no D.O. de 04/03/2020
+3 anos
+SIM
+Sistemas para
+Internet
+Parecer CD
+549/2018 de
+12/04/2018,
+publicado no D.O.
+de 23/07/2018
+PORTARIA CEE/GP Nº 280, DE
+22/07/2021, PUBLICADO NO
+DOE DE 23/07/2021
+2 anos
+NÃO
+7
+TOTAL DE ALUNOS MATRICULADOS NA UNIDADE
+NÚMERO DE
+ALUNOS
+CURSOS
+Análise e Desenvolvimento de Sistemas
+187
+Gestão da Produção Industrial
+83
+Gestão da Qualidade
+163
+Logística
+179
+Sistemas para Internet
+88
+Total
+764
+CURSOS
+TITULAÇÃO DOCENTE
+%
+Análise e Desenvolvimento de Sistemas
+Doutores
+45,0%
+Mestres
+50,0%
+Especialistas
+5,0%
+Gestão da Produção Industrial
+Doutores
+38,9
+Mestres
+61,1
+Especialistas
+0
+Gestão da Qualidade
+Doutores
+35%
+Mestres
+65%
+Especialistas
+0%
+Logística
+Doutores
+23,8
+Mestres
+76,2
+Especialistas
+0
+Sistemas para Internet
+Doutores
+36,8
+Mestres
+52,6
+Especialistas
+10,5
+No decorrer do relatório serão apresentadas metodologia, desenvolvimento,
+análise dos dados e ações propostas, e as considerações finais. Será possível a
+compreensão
+acerca
+de todo o processo até aqui, desde o planejamento,
+sensibilização, coleta de dados, organização dos dados, proposta de ações,
+discussões de melhorias, e a elaboração do relatório em questão.
+8
+2 METODOLOGIA
+Para contribuir com a organização da Comissão Própria de Avaliação de cada
+Fatec, o Centro Paula Souza, por meio da Área de Avaliação Institucional (AAI) e da
+Unidade de Ensino Superior de Graduação (CESU), organizaram a comissão da
+CPA Central. Assumindo como centro organizativo as atribuições que lhe competem,
+a saber:
+I
+– Contribuir com o planejamento, orientação e monitoramento dos
+procedimentos da autoavaliação Institucional das FATECs;
+II – Utilizar os indicadores coletados nas unidades como instrumento de
+gestão, oferecendo subsídios para cada uma das áreas da administração
+central tomar as medidas corretivas;
+III – Elaborar o Relatório Global da Autoavaliação para os processos de
+recredenciamento institucional.
+IV – Elaborar o cronograma da autoavaliação para as Fatecs, considerando
+o prazo de 31 de março de cada ano para o protocolo dos relatórios da
+autoavaliação no sistema e-mec do Ministério da Educação.
+V – Avaliar, indicar possíveis ajustes e autorizar o protocolo dos relatórios
+das CPAs das FATECs no sistema e-mec.
+VI – Reunir-se ordinariamente duas vezes no semestre ou de forma
+extraordinária quando necessário.
+Por meio CPA Central cada Fatec e das Diretorias Pedagógicas Regionais
+recebe todo o suporte necessário para cumprir o que lhe compete a CPA conforme
+segue:
+1.
+contribuir
+com
+o
+planejamento,
+elaboração,
+coordenação
+e
+monitoramento dos processos de avaliação interna, apresentando o
+projeto
+de
+autoavaliação
+Institucional
+que
+norteará
+todos
+os
+procedimentos de autoavaliação para a CPA Central em consonância
+com a equipe de Supervisão Regional das FATECs.
+2.
+apoiar os processos internos de avaliação;
+3.
+sistematizar
+e
+prestar
+informações
+relativas
+às
+políticas
+de
+autoavaliação institucional, solicitadas pelos Sistemas Federal e
+Estadual de Avaliação da Educação Superior, além de atender à
+demanda interna da Supervisão Regional e da CPA Central do
+Centro Paula Souza;
+4.
+constituir subcomissões de avaliação;
+5.
+constituir grupos temáticos ou focais voltados para a avaliação de
+cada uma das dez dimensões estabelecidas no artigo anterior;
+6.
+elaborar e analisar relatórios e pareceres, encaminhando-os a CPA
+Central;
+7.
+desenvolver estudos e análises, colaborando com os órgãos próprios
+ou terceirizados do Centro Paula Souza, visando ao fornecimento de
+subsídios para afixação, o aperfeiçoamento e a modificação da
+política de avaliação institucional;
+8.
+acompanhar, analisar e correlacionar os resultados da autoavaliação
+com os resultados dos alunos do Centro Paula Souza no ENADE,
+bem como em outros processos de avaliação;
+9.
+aprovar seu próprio regulamento.
+9
+Os relatórios parciais e/ou integrais da autoavaliação deverão ser elaborados com
+periodicidade anual, encaminhados para a CPA Central seguindo o cronograma de
+planejamento apresentado nas orientações gerais e protocolados até 31 de março de cada
+ano. Ficando disponíveis para serem apreciados pela comissão de especialistas designada
+pelo Conselho Estadual de Educação para a visita à Instituição em seu processo de
+recredenciamento, conforme dispõe a Deliberação do CEE 160/2018.
+2.1 Cronograma das atividades da CPA
+A partir desta estrutura a CPA da Fatec Lins Prof. Antônio Seabra, para
+cumprir o que lhe compete, durante o ano de 2022 elaborou o seguinte cronograma
+de trabalho.
+AÇÕES (2022)
+MESES
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10
+11
+12
+Reuniões online com a Direção, coordenações de Cursos
+para sistematização as ações e composições de grupos de
+trabalho.
+Encontros
+online
+da
+equipe
+CPA
+para
+organizar
+e
+desenvolver estratégias de maneira integrada a partir da
+percepção
+dos
+diferentes
+segmentos
+que
+compõem
+a
+comissão.
+Sensibilização
+para
+participação
+nos
+procedimentos
+e
+coleta:
+Encontros online com representantes de turmas,
+lives, webinar, informativos, site, entre outros, para alimentar
+a cultura avaliativa da Fatec.
+Organização
+dos
+procedimentos
+de
+coleta
+de
+dados:
+elaboração das ações voltadas para estimular e monitorar a
+participação de toda a comunidade no preenchimento do
+formulário de coleta.
+Análise dos resultados – acolhimento dos dados da coleta e
+início dos procedimentos de análise.
+Encaminhamento
+dos dados coletados para cada área
+competente: cada área recebe os dados faz a análise e
+apresenta a justificativa e o Plano de Melhorias da área -
+ações planejadas a partir dos resultados e encaminha para a
+CPA
+Elaboração do relatório a partir da devolutiva das áreas.
+Envio do Relatório para a apreciação da CPA Central
+Divulgação dos resultados à comunidade acadêmica.
+Conclusão do Relatório.
+10
+2.2 Sensibilização
+Para a efetivação do cronograma destaca-se algumas das ações para a
+realização dos procedimentos de auto avaliação realizadas pela FATEC Lins -
+Professor Antônio Seabra, considerando ainda um cenário posterior à pandemia
+mundial da Covid-19.
+Durante as aulas os professores usavam um espaço de tempo para
+sensibilizar os alunos da importância da avaliação – isto é, dando visibilidade ao
+trabalho da CPA, justificando que a partir disso, ações corretivas e portanto,
+melhorias, aconteceriam na comunidade acadêmica.
+Além disso, foram disparados mensagens via Teams, Whatsapp, emails e
+publicações no Site Institucional para que aqueles que não estivessem presentes
+nas aulas fossem também informados e convidados a participar do principal
+instrumento de desenvolvimento institucional.
+Um
+site
+de
+trabalho
+para
+a
+equipe
+CPA
+foi
+desenvolvido
+(https://sites.google.com/fateclins.edu.br/cpa) e para 2023 deverá ser disponibilizado a
+todos da comunidade acadêmica.
+A seguir alguns prints das ações são destacados:
+11
+2.3 Sujeitos da avaliação
+Os sujeitos da avaliação estão distribuídos da seguinte forma:
+Quadro Geral de
+Participação
+Qtdade
+Total
+Participação por
+Sujeito de
+Avaliação(%)
+Composição (Peso)
+dos respondentes (%)
+Discentes
+521
+700
+74,4%
+89,1% (521 )
+Docentes
+48
+48
+100,0%
+8,2% (48)
+Técnicos
+Administrativos
+16
+16
+100,0%
+2,7% (16)
+Total
+585
+764
+76,6%
+100,0% (585)
+12
+Cat.
+Total
+Respondidos
+%
+Agente Técnico e Administrativo FATEC
+5
+5
+100,00%
+Analista de Suporte e Gestão FATEC
+1
+1
+100,00%
+Assessor Administrativo FATEC
+1
+1
+100,00%
+Auxiliar de Docente FATEC
+1
+1
+100,00%
+Coordenador de Curso FATEC
+5
+5
+100,00%
+Diretor de Serviço FATEC
+2
+2
+100,00%
+Diretor de Unidade FATEC
+1
+1
+100,00%
+Docente FATEC
+48
+48
+100,00%
+ADS
+187
+155
+82,89%
+GPI
+83
+57
+68,67%
+QUAL
+163
+120
+73,62%
+LOG
+179
+121
+67,60%
+SI
+88
+68
+77,27%
+Total
+764
+585
+76,57%
+2.4 Instrumentos de Coleta
+Desde 1997 o Centro Paula Souza, evidenciando o seu pioneirismo em
+buscar indicadores para gerar melhoria de seus serviços criou o Sistema de
+Avaliação Institucional (SAI), implantado em 1999 em todas as Etecs (Escolas de
+Ensino Técnico no nível médio) e, em 2000, nas Fatecs, seguindo os mais rigorosos
+critérios
+estatísticos.
+Sendo
+os
+instrumentos
+elaborados
+e
+preenchidos
+em
+formulários impressos de 1999 a 2012.
+A partir de 2010, os questionários deixaram de ser preenchidos em formulário
+de papel e passaram a ser totalmente on-line, trazendo mais agilidade ao processo
+de avaliação. Desde então, todos os participantes realizam a pesquisa pela internet
+e o SAI passou a ser chamado de WebSAI.
+Excepcionalmente em 2020, em função da pandemia, o instrumento utilizado
+foi o Google Forms. Foram disparados três formulários diferentes, um para cada
+grupo de sujeitos, e dependendo da dimensão e eixo em questão, as questões eram
+inseridas ou retiradas. Em média, cada segmento respondeu de 10 a 12 questões,
+13
+sendo
+elas
+de
+Sim
+ou
+Não,
+ou
+gradual
+de
+qualidade,
+por
+exemplo,
+Ruim/Regular/Bom/Ótimo ou Nada/Pouco/Regular/Muito/Bastante. Diante do cenário
+atual
+as
+questões
+e
+a
+forma
+como
+foram
+distribuídas,
+foram
+pensadas
+exclusivamente
+para
+que
+os
+alunos, profissionais e técnicos administrativos
+preenchessem de maneira sincera e significativa, e portanto, não fosse algo
+cansativo e maçante para todos.
+No ano de 2021 o instrumento utilizado voltou a ser o websai, no endereço
+https://websai.cps.sp.gov.br/. Foram considerados três categorias, uma para cada
+grupo de sujeitos, e dependendo da dimensão e eixo em questão, as questões eram
+inseridas ou retiradas. O segmento Discente respondeu 35 questões, abordando os
+eixos de 1 a 5, nas dimensões 1, 2, 3, 4, 6, 7, 8 e 9. O segmento Docente respondeu
+37 questões, abordando os eixos de 1 a 5, nas dimensões de 1 a 9. O segmento
+Técnicos Administrativos respondeu 31 questões, abordando os eixos de 1 a 5, nas
+dimensões de 1 a 9. Diante do cenário de 2021 as questões e a forma como foram
+distribuídas, foram pensadas exclusivamente para que os alunos, profissionais e
+técnicos
+administrativos
+preenchessem de maneira sincera e significativa, e
+portanto, não fosse algo cansativo e maçante para todos.
+Ainda no ano de 2021, para que as Fatecs tivessem apenas um instrumento
+que pudesse contemplar as 10 dimensões dentro dos 5 eixos avaliativos, a partir da
+criação da comissão da CPA Central a AAI em parceria com a CESU, por meio de
+uma equipe qualificada, reorganizou a elaboração dos Instrumentos adequando-os
+em torno dos 5 eixos avaliativos:
+Questões elaboradas por eixo
+(Avaliação Discente) - 2021
+Dimensão 1
+Dimensão 2
+Dimensão 3
+Dimensão 4
+Dimensão 5
+Dimensão 6
+Dimensão 7
+Dimensão 8
+Dimensão 9
+EIXO 1: PLANEJAMENTO E
+AVALIAÇÃO INSTITUCIONAL
+1
+EIXO 2: DESENVOLVIMENTO
+INSTITUCIONAL
+2
+3
+EIXO 3: POLÍTICAS ACADÊMICAS
+10
+5
+6
+EIXO 4: POLÍTICAS DE GESTÃO
+4
+EIXO 5: INFRAESTRUTURA
+4
+14
+Questões elaboradas por eixo
+(Avaliação Docente) - 2021
+Dimensão 1
+Dimensão 2
+Dimensão 3
+Dimensão 4
+Dimensão 5
+Dimensão 6
+Dimensão 7
+Dimensão 8
+Dimensão 9
+EIXO 1: PLANEJAMENTO E
+AVALIAÇÃO INSTITUCIONAL
+1
+EIXO 2: DESENVOLVIMENTO
+INSTITUCIONAL
+2
+3
+EIXO 3: POLÍTICAS ACADÊMICAS
+10
+6
+4
+EIXO 4: POLÍTICAS DE GESTÃO
+4
+3
+EIXO 5: INFRAESTRUTURA
+4
+Questões elaboradas por eixo
+(Avaliação Tecn. Adm) - 2021
+Dimensão 1
+Dimensão 2
+Dimensão 3
+Dimensão 4
+Dimensão 5
+Dimensão 6
+Dimensão 7
+Dimensão 8
+Dimensão 9
+EIXO 1: PLANEJAMENTO E
+AVALIAÇÃO INSTITUCIONAL
+1
+EIXO 2: DESENVOLVIMENTO
+INSTITUCIONAL
+2
+3
+EIXO 3: POLÍTICAS ACADÊMICAS
+4
+6
+4
+EIXO 4: POLÍTICAS DE GESTÃO
+4
+2
+EIXO 5: INFRAESTRUTURA
+4
+No ano de 2022 manteve-se o formato de 2021, ajustando-se algumas
+questões em relação aos eixos. Houve também uma melhor identificação em relação
+ao perfil dos respondentes (cadastro) e impressões sobre o trabalho da CPA. Em
+relação ao perfil, 6 questões foram elaboradas para os discentes, 7 para os
+docentes e funcionários/técnicos adm.
+Em relação ao trabalho da CPA, 2 questões foram elaboradas a todos (74 -
+Metodologia
+e
+sistema de coleta de dados e 75 - Divulgação das ações
+desenvolvidas e do relatório de avaliação do ano anterior). Abaixo uma nova síntese
+do volume de questões por eixos/dimensões é apresentada, com os ajustes para
+2022.
+Questões elaboradas por eixo
+(Avaliação Discente) - 2022
+Dimensão 1
+Dimensão 2
+Dimensão 3
+Dimensão 4
+Dimensão 5
+Dimensão 6
+Dimensão 7
+Dimensão 8
+Dimensão 9
+EIXO 1: PLANEJAMENTO E
+AVALIAÇÃO INSTITUCIONAL
+11
+EIXO 2: DESENVOLVIMENTO
+INSTITUCIONAL
+8
+5
+EIXO 3: POLÍTICAS ACADÊMICAS
+26
+11
+6
+EIXO 4: POLÍTICAS DE GESTÃO
+10
+15
+EIXO 5: INFRAESTRUTURA
+25
+Questões elaboradas por eixo
+(Avaliação Docente) - 2022
+Dimensão 1
+Dimensão 2
+Dimensão 3
+Dimensão 4
+Dimensão 5
+Dimensão 6
+Dimensão 7
+Dimensão 8
+Dimensão 9
+EIXO 1: PLANEJAMENTO E
+AVALIAÇÃO INSTITUCIONAL
+12
+EIXO 2: DESENVOLVIMENTO
+INSTITUCIONAL
+9
+4
+EIXO 3: POLÍTICAS ACADÊMICAS
+14
+17
+5
+EIXO 4: POLÍTICAS DE GESTÃO
+4
+10
+EIXO 5: INFRAESTRUTURA
+25
+Questões elaboradas por eixo
+(Avaliação Tecn. Adm) - 2022
+Dimensão 1
+Dimensão 2
+Dimensão 3
+Dimensão 4
+Dimensão 5
+Dimensão 6
+Dimensão 7
+Dimensão 8
+Dimensão 9
+EIXO 1: PLANEJAMENTO E
+AVALIAÇÃO INSTITUCIONAL
+1
+EIXO 2: DESENVOLVIMENTO
+INSTITUCIONAL
+23
+10
+EIXO 3: POLÍTICAS ACADÊMICAS
+13
+6
+EIXO 4: POLÍTICAS DE GESTÃO
+9
+4
+EIXO 5: INFRAESTRUTURA
+26
+2.5 Procedimentos para a coleta
+A
+AAI
+disponibilizou
+o
+acesso
+ao
+sistema
+de
+coleta
+(Websai
+-
+https://websai.cps.sp.gov.br/ ) a partir de 03 de outubro de 2022 e ficou disponível
+para o preenchimento da comunidade até o dia 31 de outubro de 2022.
+Para favorecer a participação da comunidade durante este período a CPA e
+Direção da Fatec Lins Prof. Antonio Seabra fez o acompanhamento da participação
+de cada segmento, realizando a sensibilização contínua para a participação através
+do envio de mensagens aos coordenadores por email, Whatsapp e Teams.
+A comunicação via site institucional e mídias sociais ficou comprometida em
+função do período  eleitoral.
+2.6 Análise e Discussão dos dados da coleta
+A partir do dia 20 de novembro de 2022 os dados coletados por meio do
+Websai, foram disponibilizados pela AAI. A Fatec Lins Prof. Antonio Seabra, por
+16
+meio da CPA iniciou o processo de organização dos dados coletados para
+encaminhamento para cada setor de acordo com o Quadro 1 (Anexo 1 -
+DISTRIBUIÇÃO DOS DADOS DA PESQUISA).
+A CPA da Fatec Lins Prof. Antônio Seabra extraiu os dados do sistema e
+organizou as informações e respostas de acordo com cada categoria. Foram
+encaminhados para análise e posterior proposta de ações corretivas. A Direção
+Geral,
+Diretoria
+Administrativa,
+Diretoria
+Acadêmica,
+Biblioteca,
+Coordenações/professores, foram contatados, conforme o Quadro 1 (anexo 1), para
+que fizessem reuniões de discussões sobre os dados, identificando as fragilidades e
+as forças. Posteriormente, utilizando o quadro 2 (Anexo 2), foi solicitado que
+elaborassem a justificativa em relação aos dados e o plano de melhoria com o seu
+respectivo cronograma de implementação.
+2.7 Organização das medidas para composição do relatório
+Após o processo de análise e discussão dos dados coletados, cada setor
+encaminhou para a CPA da Fatec Lins Prof. Antonio Seabra os resultados presentes
+no Quadro 2, com o apontamento das fragilidades e o planejamento das medidas
+corretivas, assim como as potencialidades e as possíveis ações de manutenção e
+melhorias. Os quadros apresentados, foram condensados no capítulo 4 deste
+relatório,
+refletindo
+o
+planejamento
+da
+Fatec
+Lins
+a partir dos indicadores
+observados em cada eixo avaliativo. A partir das propostas feitas pelos setores
+competentes, a CPA elaborou um relatório organizando as ações corretivas
+necessárias, para que de maneira prática e eficaz o desenvolvimento institucional
+seja alcançado.
+2.8 Devolutiva dos Resultados para os Segmentos
+Após a apresentação do relatório para a Direção da Fatec Lins foram
+organizadas as formas de divulgação dos resultados e apresentação das ações
+provenientes
+do
+processo
+de
+autoavaliação,
+permitindo
+o
+desenvolvimento
+Institucional. Por meio de gráficos e tabelas os resultados foram compartilhados, e
+17
+posteriormente as propostas de ações corretivas pautadas pelos setores. Foi
+realizado um trabalho de divulgação através dos canais digitais.
+Uma tabela foi construída para sintetizar por segmento quais foram as
+questões com ocorrências, e em relação aos alunos detalhando os cursos, conforme
+segue abaixo. Para a análise final os cursos foram unidos na categoria “Alunos” e
+foram consideradas ocorrências que na soma ultrapassaram 30% de avaliações
+relacionadas a “Não sei Responder” e “Insuficiente”.
+Tabela 1: Sínteses de Ocorrências por Segmento
+Ocorrências
+0
+2
+12
+4
+0
+2
+11
+Questao
+Funcionário
+Fatec
+Docentes
+Fatec
+ADS
+GPI
+QUAL
+LOG
+SI
+85 - Divulgação das ações desenvolvidas e do relatório de
+avaliação do ano anterior
+0
+0
+1
+0
+0
+0
+0
+46 - Realização de projetos interdisciplinares
+0
+0
+1
+0
+0
+0
+0
+58 - Resoluções dos colegiados (Congregação ou Comissão
+de Implantação); Câmara de Ensino, Pesquisa e Extensão
+(CEPE), Conselho Departamental ou NDE/Coordenadoria;
+Colegiado de curso.
+0
+0
+1
+0
+0
+0
+0
+66 - Ouvidoria
+0
+0
+1
+0
+0
+0
+0
+68 - Programas de apoio pedagógico (monitoria,
+nivelamento, reforço do aprendizado)
+0
+0
+1
+0
+0
+0
+1
+69 - Programa de apoio financeiro (bolsas)
+0
+0
+1
+1
+0
+1
+1
+70 - Programas de Intercâmbio e bolsas de mobilidade
+0
+0
+1
+1
+0
+0
+1
+76 - Atuação dos colegiados da unidade (Congregação ou
+Comissão de Implantação); Câmara de Ensino, Pesquisa e
+Extensão (CEPE); (se houver), CPA (Comissão Própria de
+Avaliação)
+0
+0
+1
+1
+0
+0
+1
+77 - Atuação do colegiado de curso (Ex: Conselho de
+curso, NDE - Núcleo Docente Estruturante/
+Coordenadoria; Colegiado de curso)
+0
+0
+1
+0
+0
+0
+1
+78 - Atuação da representação discente nos colegiados da
+unidade e do curso
+0
+0
+1
+0
+0
+0
+1
+80 - FETEPS
+0
+0
+1
+1
+0
+1
+1
+83 - Programa INOVA Paula Souza
+0
+0
+1
+0
+0
+0
+1
+08 - Como avalia o uso dos indicadores da Avaliação
+Institucional (WEBSAI) no Planejamento Institucional?
+0
+0
+0
+0
+0
+0
+1
+39 - Estágio supervisionado como espaço de formação
+profissional
+0
+0
+0
+0
+0
+0
+1
+65 - SIGA
+0
+0
+0
+0
+0
+0
+1
+65 - Programa de apoio financeiro (bolsas)
+0
+1
+0
+0
+0
+0
+0
+18
+79 - FETEPS
+0
+1
+0
+0
+0
+0
+0
+3 DESENVOLVIMENTO
+Considerando os instrumentos da autoavaliação, estruturados a partir das 10
+dimensões previstas no art. 3º da Lei nº 10.861 (SINAES), nesta parte do relatório, a
+CPA apresenta as informações que foram coletadas, a partir da organização de 5
+eixos, que articulam as 10 dimensões, conforme disposto na Nota Técnica INEP nº
+065, como segue:
+3.1 Eixo 1: Planejamento e Avaliação Institucional:
+Dimensão 8: Planejamento e Avaliação
+EIXO
+DIMENSÃO
+APRESENTAÇÃO DAS PRINCIPAIS INFORMAÇÕES COLETADAS NO EIXO 1
+EIXO 1
+Planejamento e
+Avaliação
+Institucional
+Dimensão 8
+19
+No Eixo 1 – Planejamento e Avaliação Institucional – foram coletadas
+informações acerca do documento de planejamento – Plano de Desenvolvimento
+Individual (PDI) e percepções de alunos, professores, e demais funcionários sobre a
+execução de ações dentro do planejamento realizado a partir das informações
+coletadas pela Comissão Própria de Avaliação (CPA). O objetivo desse eixo é
+abordar questões relacionadas à execução de planejamentos na Fatec–Lins, e
+ações realizadas a partir disso, para que os indicadores fornecidos pela CPA seja
+um instrumento de gestão.
+A pergunta realizada foi se o avaliador conhecia o Plano de Desenvolvimento
+Institucional (PDI) da sua instituição de ensino. Merece atenção, ainda, a quantidade
+de alunos que responderam que não conheciam, mas entende-se que o período de
+2022 foi de transição em relação ao isolamento social. Destaca-se aqui a melhoria
+do percentual em relação ao ano de 2021. Idem aos docentes e funcionários. Uma
+análise completa pode ser obtida através do Apêndice 1, parte integrante deste
+relatório.
+20
+3.2  Eixo 2: Desenvolvimento Institucional
+Dimensão 1: Missão e Plano de Desenvolvimento Institucional
+Dimensão 3: Responsabilidade Social da Instituição
+EIXO
+DIMENSÃ
+O
+APRESENTAÇÃO DAS PRINCIPAIS INFORMAÇÕES COLETADAS NO EIXO 2
+EIXO 2
+Desenvolvimento
+Institucional
+Dimensões
+1 e 3
+21
+O Eixo 2 – Desenvolvimento Institucional – tem seu foco no PDI e na análise
+da coerência entre esse documento e as ações realizadas na FATEC–Lins. Além
+disso, pretende-se verificar questões relacionadas à inserção social, inclusão, e
+desenvolvimento econômico-social, tendo como embasamento missão, propósito e
+as metas anunciadas no PDI. Portanto, o objetivo é manter a coerência e evolução
+através do comprometimento da FATEC Lins na construção do PDI.
+As perguntas elaboradas para avaliação em escala para o eixo 2, dimensões
+1 e 3 encontram-se no Apêndice 1, parte integrante deste relatório. Em particular
+observou-se um volume pequeno de alunos que desconhecem sobre três questões
+22
+apresentadas, sobre “Atendimento de pessoas com deficiência”, “Transferência de
+conhecimento da Fatec para a comunidade externa” e “Ações institucionais para a
+sustentabilidade”. As avaliações, de forma geral, foram boas e apresentam o
+reconhecimento da comunidade interna em relação às questões relacionadas à
+inserção social, inclusão e desenvolvimento econômico-social
+De fato, o Plano de Desenvolvimento institucional (Ano 2018 – Ano 2021) foi
+um dos principais documentos que nortearam as ações da Fatec Lins - Professor
+Antônio Seabra: tratou-se de um documento que se caracterizou como uma
+identidade da Instituição, definindo, dentre outros, sua filosofia de trabalho, missão,
+estratégias, objetivos, estrutura e diretrizes pedagógicas, algo a ser continuado no
+PDI para os anos de 2022 - 2025. Lembrando que a missão institucional da Fatec
+Lins é a de “Formar profissionais competentes, éticos e criativos, capazes de
+oferecer
+soluções
+à
+comunidade
+e
+de
+contribuir
+para
+o
+desenvolvimento
+sustentável”.
+A Fatec Lins iniciou as suas atividades em 2009 e desde 2010 realiza a
+Semana de Tecnologia, um evento organizado por professores e alunos que conta
+com
+ciclo
+de
+palestras abertas ao público e minicursos com o intuito de
+aprimoramento técnico-científico aos seus participantes. Faz-se importante destacar
+que dentre várias atividades que são realizadas para a comunidade acadêmica, as
+visitas técnicas às empresas de Lins e região, permitem que os alunos possam
+vivenciar o ambiente industrial e assim, extrair conhecimentos entre os conceitos
+ministrados durante as aulas. Outra observação que se faz relevante é a
+participação da FATEC de Lins no Projeto Eco-Ponto juntamente com a Prefeitura
+Municipal de Lins e o Grupo JBS, iniciado oficialmente no dia 23 de junho de 2010, o
+qual
+prevê
+a
+coleta
+seletiva
+e
+destinação correta de materiais recicláveis,
+contribuindo para a preservação do meio ambiente e a gestão ambiental.
+Em um contexto regional, desde 12/05/2011 a FATEC Lins faz parte da
+Agência de Desenvolvimento Econômico e Tecnológico de Lins (ADETEC), que
+busca induzir o crescimento regional, potencializando os recursos já existentes e
+promovendo a integração de vários atores em busca de um desenvolvimento
+sustentável. A FATEC Lins, através do Núcleo de Inovação Tecnológico (NIT), já
+existente dentro da Incubadora de Empresas de Lins, inicia o seu 1º projeto local,
+23
+que faz parte de um planejamento maior que visa formar um parque tecnológico no
+futuro.
+Com foco na comunidade local, em 2014 a Fatec Lins iniciou o projeto de
+visualização e projeção na comunidade escolar de Lins, abrindo suas portas para
+visitação de escolas do ensino médio. O objetivo é, além de mostrar todas as
+instalações físicas, esclarecer dúvidas dos alunos referentes aos cursos oferecidos e
+também mostrar projetos sendo desenvolvidos por docentes e alunos. Além disso,
+os professores da FATEC ministram minicursos e palestras para os alunos do ensino
+médio das escolas de Lins.
+Desde o ano de 2017, a FATEC Lins participa do projeto ÓLEO AMIGO do
+Grupo JBS, que recolhe óleo de cozinha usado para ser utilizado no processo de
+produção de Biodiesel.
+E por fim, mais recentemente, desde 2021, a FATEC Lins faz parte dos
+Projetos Colaborativos Internacionais (PCI´s), em que atividades acadêmicas entre
+alunos e docentes de países amigos são elaboradas. Houve adesão ao Projeto de
+PCI com a Inacap-Chile e Universidade de Aveiro (Portugal).
+3.3 Eixo 3: Políticas Acadêmicas
+Dimensão 2: Políticas para o Ensino, a Pesquisa e a Extensão
+Dimensão 4: Comunicação com a Sociedade
+Dimensão 9: Política de Atendimento aos Discentes
+EIXO
+DIMENSÃO
+APRESENTAÇÃO DAS PRINCIPAIS INFORMAÇÕES COLETADAS NO EIXO 3
+24
+EIXO 3
+Políticas
+Acadêmicas
+Dimensões
+2,4 e 9
+25
+O Eixo 3 – Políticas Acadêmicas – relaciona os elementos constitutivos das
+práticas de ensino, pesquisa e extensão, considerando como meta o aprendizado.
+Engloba também a relação entre as políticas acadêmicas, a comunicação com a
+sociedade e o atendimento ao discente.
+As perguntas elaboradas para avaliação em escala para o eixo 3, envolvendo
+as dimensões 2, 4 e 9 encontram-se ao final deste relatório. Uma análise completa
+pode ser obtida através do Apêndice 1. Esse eixo apresentou desconhecimento ou
+avaliação de regular/insuficiente relevante por parte do corpo docente e discente
+apenas
+em
+relação
+aos
+quesitos
+“Programa
+de
+apoio
+financeiro
+(bolsas)”,
+“Programas de Intercâmbio e bolsas de mobilidade”.
+As políticas acadêmicas são diretrizes Institucionais que visam favorecer as
+práticas, tanto de ensino, como de pesquisa e extensão, ou seja, as questões da
+avaliação devem indicar como a comunidade avalia se o que é praticado no ensino,
+26
+pesquisa e extensão está coerente com estas políticas, devendo assim constar no
+PDI e nos PPCs, como políticas do curso para cumprir a missão institucional.
+De forma geral a avaliação é positiva, merecendo atenção aos destaques
+relatados acima. As Fatecs possuem programas de bolsa de iniciação científica e
+intercâmbio cultural e uma ação mais informativa necessitaria ser realizada. Talvez a
+quantidade de bolsas existentes seja o fator que mereça atenção e solicitação junto
+aos órgãos superiores.
+3.4 Eixo 4: Políticas de Gestão
+Dimensão 5: Políticas de Pessoal
+Dimensão 6: Organização e Gestão da Instituição
+Dimensão 10: Sustentabilidade Financeira
+DIMENSÃO
+APRESENTAÇÃO DAS PRINCIPAIS INFORMAÇÕES COLETADAS NO EIXO 4
+Eixo 4
+Políticas
+de Gestão
+Dimensões
+5, 6 e 10
+27
+O Eixo 4 – Políticas de Gestão – tem como objetivo a verificação do
+desenvolvimento das políticas de pessoal e da organização e gestão da instituição.
+Constitui elementos do planejamento e da sustentabilidade financeira para garantir o
+pleno desenvolvimento da FATEC–Lins de forma sustentável.
+As perguntas elaboradas para avaliação em escala para o eixo 4, envolvendo
+as dimensões 5 e 6 encontram-se ao final deste relatório. Uma análise completa
+pode ser obtida através do Apêndice 1. Para o corpo discente a dimensão 5, por
+envolver questões relacionadas às políticas de pessoal, não foi abordada.
+Tanto para o corpo docente quanto discente apenas uma questão mereceu
+maior destaque em relação ao desconhecimento. Trata-se da FETEPS, Feira
+Tecnológica Paula Souza, realizada anualmente e com destaque maior para a
+participação das Etecs.
+De forma geral, a Identificação por meio da autoavaliação das diretrizes
+voltadas para dar apoio, reconhecimento e formação continuada ao corpo docente e
+técnico administrativo, destacando os planos de carreira, suporte pedagógico,
+atendimento, programas voltados para a qualidade de vida, capacitação, entre
+28
+outros, assim como a organização e gestão da instituição, foram avaliados de forma
+positiva.
+3.5 Eixo 5: Infraestrutura Física
+Dimensão 7: Infraestrutura Física
+EIXO
+DIMENSÃO
+APRESENTAÇÃO DAS PRINCIPAIS INFORMAÇÕES COLETADAS NO EIXO 5
+Eixo 5
+Infraestrutura
+Física
+Dimensão 7
+No Eixo 5 – Infraestrutura Física – verificam-se as condições que a
+Fatec–Lins apresenta para o desenvolvimento de suas atividades de ensino,
+pesquisa, extensão e gestão. As perguntas elaboradas para avaliação em escala
+para o eixo 5, envolvendo a dimensão 7, encontram-se ao final deste relatório. Uma
+análise completa pode ser obtida através do Apêndice 1. Neste eixo não houve em
+2022 apontamentos.
+29
+4 ANÁLISE DOS DADOS E AÇÕES PROPOSTAS
+EIXO 3: POLÍTICAS ACADÊMICAS
+FRAGILIDADES
+AÇÕES PLANEJADAS
+AÇÕES REALIZADAS
+PRAZOS
+65 - Programa de apoio financeiro (bolsas) - Docentes
+Providenciar informes das bolsas e programas existentes e
+verificar junto ao mantenedor, Centro Paula Souza, a
+possibilidade de ampliação das bolsas nos próximos anos.
+●
+a ser desenvolvido durante o ano de 2023
+Ago/2023
+65 - Programa de apoio financeiro (bolsas) - Discentes
+Providenciar informes das bolsas e programas existentes e
+verificar junto ao mantenedor, Centro Paula Souza, a
+possibilidade de ampliação das bolsas nos próximos anos.
+●
+a ser desenvolvido durante o ano de 2023
+Ago/2023
+70 - Programas de Intercâmbio e bolsas de mobilidade -
+Discentes
+Providenciar informes das bolsas e programas existentes e
+verificar junto ao mantenedor, Centro Paula Souza, a
+possibilidade de ampliação das bolsas nos próximos anos.
+●
+a ser desenvolvido durante o ano de 2023
+Ago/2023
+POTENCIALIDADES
+AÇÕES PLANEJADAS
+AÇÕES REALIZADAS
+PRAZOS
+Espaço para desenvolvimento de programas de iniciação
+científica com desdobramentos em pesquisas docentes
+junto à comunidade local.
+Programar reuniões com o corpo docente e coordenação.
+●
+a ser desenvolvido durante o ano de 2023
+Ago/2023
+30
+EIXO 4: POLÍTICAS DE GESTÃO
+FRAGILIDADES
+AÇÕES PLANEJADAS
+AÇÕES REALIZADAS
+PRAZOS
+79 - FETEPS - Docentes
+Providenciar informes gerais e verificar a possibilidade de
+docentes, com alunos atuais que mantenham bolsas de
+iniciação científica, publicarem algo na Feira de 2023.
+●
+a ser desenvolvido durante o ano de 2023
+Ago/2023
+80 - FETEPS - Discentes
+Providenciar informes gerais e verificar a possibilidade de
+alunos atuais, que mantenham bolsas de iniciação científica,
+publicarem algo na Feira de 2023.
+●
+a ser desenvolvido durante o ano de 2023
+Ago/2023
+POTENCIALIDADES
+AÇÕES PLANEJADAS
+AÇÕES REALIZADAS
+PRAZOS
+A Fatec Lins possui Revista Científica com periodicidade
+trimestral e um Congresso Anual de Ciência e
+Tecnologia. Em função de existir uma Feira institucional
+existe a oportunidade de agregar a participação local em
+nível estadual.
+Programar reuniões com o corpo docente e coordenação.
+●
+a ser desenvolvido durante o ano de 2023
+Ago/2023
+31
+5 CONSIDERAÇÕES FINAIS
+A Comissão Própria de Avaliação, pelo seu trabalho, visa oferecer subsídios
+capazes de subsidiar à tomada de decisão e ao planejamento institucional, na busca
+de contínua melhoria da qualidade do ensino, da pesquisa, da extensão e da gestão.
+Sendo assim um importante instrumento para a Direção.
+Dentre as principais ações advindas desse processo, pode-se salientar que
+em 2021 a avaliação websai identificou certa desinformação por parte dos alunos
+em relação ao que a Fatec Lins possuía e praticava e que em 2022, foco deste
+instrumento
+avaliativo,
+quase
+todos
+os
+problemas
+foram
+amenizados
+ou
+solucionados.
+Além disso, docentes e discentes reforçaram alguma preocupação com
+questões relacionadas ao apoio financeiro em relação aos processos de pesquisa e
+extensão. Vale destacar que um trabalho mais fino foi realizado em relação ao
+desdobramento da avaliação por cursos e merece atenção os alunos de TI que
+pontuaram de forma mais recorrente algumas questões, que foram enviadas aos
+coordenadores envolvidos.
+No ano de 2022 houve a constituição da Câmara de Ensino, Pesquisa e
+Extensão - CEPE da Fatec Lins, órgão previsto no regimento, que deve estimular e
+fomentar ainda mais os projetos de pesquisa e extensão da unidade, além de ações
+diversas de envolvimento da comunidade ‘fatecana’.
+Os resultados aqui apresentados contemplam as dimensões auto avaliativas
+do SINAES e foram analisados e discutidos por todos os membros da comunidade
+institucional: direção, coordenações de cursos, setores administrativos, gestores,
+professores e alunos.
+Os dados coletados, as análises e propostas foram amplamente divulgadas e
+serão objeto de comparação na próxima avaliação, para elucidar os avanços
+alcançados, reforçando o quanto a avaliação contribui para a gestão dos resultados.
+32
+APÊNDICE 1: Tabulação dos Dados de Pesquisa Websai 2022
+33
+34
+35
+ANEXOS
+ANEXO 1 - Quadro 1: DISTRIBUIÇÃO DOS DADOS DA PESQUISA
+SETORES
+DADOS DOS DOCENTES
+DADOS DOS DISCENTES
+DADOS DO PESSOAL
+TECNICO-ADMINISTRATIVO
+DIREÇÃO GERAL
+Dimensão 8 – Planejamento e Avaliação
+Dimensão 1 - Missão e Plano de
+Desenvolvimento Institucional
+Dimensão 3 - Responsabilidade Social da
+Instituição
+Dimensão 4 – Comunicação com a
+Sociedade
+Dimensão 9 – Política de Atendimento aos
+Discentes
+Dimensão 5 – Políticas de Pessoal
+Dimensão 6 – Organização e Gestão
+Institucional
+Dimensão 7 – Infraestrutura Física
+Dimensão 8 – Planejamento e
+Avaliação
+Dimensão 1 - Missão e Plano de
+Desenvolvimento Institucional
+Dimensão 3 - Responsabilidade Social da
+Instituição
+Dimensão 4 – Comunicação com a
+Sociedade
+Dimensão 9 – Política de Atendimento
+aos Discentes
+Dimensão 6 – Organização e Gestão
+Institucional
+Dimensão 7 – Infraestrutura Física
+Dimensão 8 – Planejamento e
+Avaliação
+Dimensão 1 - Missão e Plano de
+Desenvolvimento Institucional
+Dimensão 3 - Responsabilidade Social
+da Instituição
+Dimensão 4 – Comunicação com a
+Sociedade
+DIRETORIA
+ADMINISTRATIVA
+Dimensão 4 – Comunicação com a
+Sociedade
+Dimensão 5 – Políticas de Pessoal
+Dimensão 7 – Infraestrutura Física
+Dimensão 4 – Comunicação com a
+Sociedade
+Dimensão 7 – Infraestrutura Física
+Dimensão 8 – Planejamento e
+Avaliação
+Dimensão 5 – Políticas de Pessoal
+Dimensão 6 – Organização e Gestão
+Institucional
+Dimensão 7 – Infraestrutura Física
+DIRETORIA
+ACADÊMICA
+Dimensão 4 – Comunicação com a
+Sociedade
+Dimensão 7 – Infraestrutura Física
+Dimensão 4 – Comunicação com a
+Sociedade
+Dimensão 4 – Comunicação com a
+Sociedade
+COORDENAÇÃO
+DOS CURSOS
+Dimensão 8 – Planejamento e Avaliação
+Dimensão 1 - Missão e Plano de
+Desenvolvimento Institucional
+Dimensão 2 – Ensino, Pesquisa e
+Extensão
+Dimensão 4 – Comunicação com a
+Sociedade
+Dimensão 9 – Política de Atendimento aos
+Discentes
+Dimensão 6 – Organização e Gestão
+Institucional
+Dimensão 8 – Planejamento e
+Avaliação
+Dimensão 1 - Missão e Plano de
+Desenvolvimento Institucional
+Dimensão 2 – Ensino, Pesquisa e
+Extensão
+Dimensão 9 – Política de Atendimento
+aos Discentes
+Dimensão 6 – Organização e Gestão
+Institucional
+Dimensão 2 – Ensino, Pesquisa e
+Extensão
+ANEXO 2 - Quadro 2 – Levantamento das fragilidades e potencialidades e projeção das ações corretivas.
+EIXO 1: PLANEJAMENTO E AVALIAÇÃO INSTITUCIONAL
+FRAGILIDADES
+AÇÕES PLANEJADAS
+AÇÕES REALIZADAS
+PRAZOS
+POTENCIALIDADES
+AÇÕES PLANEJADAS
+AÇÕES REALIZADAS
+PRAZOS
+EIXO 2: DESENVOLVIMENTO INSTITUCIONAL
+FRAGILIDADES
+AÇÕES PLANEJADAS
+AÇÕES REALIZADAS
+PRAZOS
+POTENCIALIDADES
+AÇÕES PLANEJADAS
+AÇÕES REALIZADAS
+PRAZOS
+EIXO 3: POLÍTICAS ACADÊMICAS
+FRAGILIDADES
+AÇÕES PLANEJADAS
+AÇÕES REALIZADAS
+PRAZOS
+POTENCIALIDADES
+AÇÕES PLANEJADAS
+AÇÕES REALIZADAS
+PRAZOS
+EIXO 4: POLÍTICAS DE GESTÃO
+FRAGILIDADES
+AÇÕES PLANEJADAS
+AÇÕES REALIZADAS
+PRAZOS
+POTENCIALIDADES
+AÇÕES PLANEJADAS
+AÇÕES REALIZADAS
+PRAZOS
+EIXO 5: INFRAESTRUTURA
+FRAGILIDADES
+AÇÕES PLANEJADAS
+AÇÕES REALIZADAS
+PRAZOS
+POTENCIALIDADES
+AÇÕES PLANEJADAS
+AÇÕES REALIZADAS
+PRAZOS

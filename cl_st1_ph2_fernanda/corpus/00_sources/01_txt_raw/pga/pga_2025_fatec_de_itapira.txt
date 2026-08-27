@@ -1,0 +1,2204 @@
+PLANO DE GESTÃO ANUAL 
+PGA 2025 
+V04 
+Estruturado em uma única etapa, contendo 2 anexos: 
+PLANEJAMENTO PELA EQUIPE GESTORA DA UE 
+ Anexo 1 – Lista de equipamentos necessários aos projetos 
+ Anexo 2 – Lista de Ações/Projetos referentes à CPA (Origem 3: Gestão Tática – CPA) 
+ 
+IDENTIFICAÇÃO DA UNIDADE 
+Unidade 
+código F278 
+Fatec de Itapira “Ogari de Castro Pacheco” – bairro Jardim Bela Vista 
+Diretor(a) 
+Prof. Me. Luiz Henrique Biazotto 
+ 
+PLANEJAMENTO PELA EQUIPE GESTORA DA UE 
+(Administração da Faculdade - Deliberação CEETEPS 31/2016) 
+ANÁLISE DO CENÁRIO 
+Descrever de forma breve e objetiva o cenário da Unidade perante sua missão como Unidade de Ensino na localidade em que 
+se encontra (é este cenário que se pretende melhorar). 
+A Fatec de Itapira "Ogari de Castro Pacheco" foi inaugurada em 28 de junho de 2014, fruto de uma parceria entre a Prefeitura 
+Municipal de Itapira e o Centro Estadual de Educação Tecnológica Paula Souza. Atualmente, a instituição oferece quatro 
+cursos: CST em Gestão Empresarial (GE), CST em Gestão da Produção Industrial (GPI), CST em Gestão da Tecnologia da 
+Informação (GTI) e CST em Desenvolvimento de Software Multiplataforma (DSM). 
+O curso de CST em Gestão da Tecnologia da Informação está em fase de encerramento, com apenas um semestre em 
+andamento no primeiro semestre de 2024. Em contraste, o CST em Desenvolvimento de Software Multiplataforma está em 
+expansão desde o primeiro semestre de 2022, com cinco turmas previstas para o primeiro semestre de 2024. 
+A análise atual da Fatec de Itapira revela uma redução nos indicadores de ingresso e permanência de alunos, reflexo das 
+dificuldades impostas pela pandemia, incluindo a crise econômica e a redução da mobilidade. Observa-se a necessidade de 
+adaptação dos alunos ao ensino à distância e o impacto dos aumentos nos custos de transporte coletivo e de vida, 
+especialmente para estudantes de localidades mais distantes. Além disso, a ampla oferta de cursos superiores por instituições 
+próximas ao município de Itapira influencia esse cenário. 
+Internamente, diante da implementação do novo curso (CST em DSM) e das crescentes demandas na área de Tecnologia da 
+Informação e Comunicação, é imperativo avançar nas discussões sobre a revisão dos espaços existentes, possíveis 
+reestruturações e considerações orçamentárias e organizacionais em consonância com o Plano de Desenvolvimento 
+Institucional e os Projetos Pedagógicos de Curso. Portanto, torna-se evidente a necessidade de ações que promovam a 
+racionalização da gestão e a qualificação das decisões e do planejamento, abrangendo tanto as esferas organizacionais quanto 
+didático-pedagógicas. Tais ações serão detalhadas no Plano Geral de Ação (PGA). 
+Para orientar a concepção de objetivos e metas visando ao diagnóstico e à solução das situações-problema, utilizou-se o Plano 
+de Metas da CESU. Este documento fundamenta as estratégias a serem implementadas, garantindo alinhamento com as 
+diretrizes e objetivos mais amplos estabelecidos pelo Centro Paula Souza. 
+Devido aos eventos ocorridos em 2023, a unidade necessita urgentemente de reforma completa do telhado, dada a idade do 
+prédio e os danos causados pelas fortes chuvas que afetaram Itapira entre setembro e novembro de 2023. Os banheiros dos 
+alunos também precisam de reformas urgentes, e a estrutura administrativa da unidade requer adequações físicas para 
+acomodar os novos funcionários contratados para a área administrativa. Melhorias gerais na infraestrutura, como pintura e 
+substituição do piso de diversas salas de aula, serão detalhadas ao longo deste documento. Adicionalmente, considera-se a 
+possibilidade de construção de um novo prédio para a unidade, visto que o atual pertence à prefeitura e foi cedido ao CPS por 
+um período de 50 anos e que não há espaço para ampliações. 
+ 
+ 
+ Discorrer sobre o cenário, realizando um breve diagnóstico (limitar o espaço da escrita, para que seja inserido de forma sucinta). 
+APONTAMENTO DE SITUAÇÕES-PROBLEMA MAIS RELEVANTES 
+Fontes: relatório CPA, análise de processos críticos da UE, relatório de atendimento e ocorrências Hórus, relatório NDE, 
+relatório de representação discente (DA, Atlética, representantes de turma), relatório CIPA, entre outros. 
+1 
+cat 0.1.01 - Metodologia de ensino, desempenho 
+de alunos, evasão 
+ 
+5 
+cat 0.1.07 - Comunicação com a comunidade 
+acadêmica 
+2 
+cat 0.1.02 - Manutenção e conservação predial 
+ 
+6 
+cat 0.1.12 - Acesso e transporte à Unidade de Ensino 
+3 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de 
+ensino 
+ 
+7 
+cat 0.1.08 - Participação da comunidade e sociedade 
+4 
+cat 0.1.06 - Quantidade de professores/funcionários 
+ 
+8 
+cat 0.1.10 - Gestão da unidade de ensino e dos cursos 
+(indicadores) 
+Outra – Especificar: Ausência de um bibliotecário e a inadequação do acervo bibliográfico e falta de acesso a revistas 
+científicas. Aqui caberia uma reflexão do CPS quanto a proposta de manter a infraestrutura de biblioteca física quando hoje 
+temos acervos virtuais que podem ser licitados e contratados mitigando assim a precariedade de nossas bibliotecas. 
+ 
+A ausência de um profissional bibliotecário aliada à inadequação do acervo bibliográfico e à escassez de acesso a revistas 
+científicas são questões pertinentes que merecem atenção no contexto do CPS. Neste cenário, torna-se oportuna uma reflexão 
+sobre a viabilidade de manter a infraestrutura de biblioteca física frente às alternativas proporcionadas pelos acervos virtuais, 
+que podem ser licenciados e contratados, mitigando, assim, a precariedade enfrentada por nossas bibliotecas. 
+ 
+Objetivos Institucionais – CPS (Plano de Metas) 
+1)  Atender às demandas sociais e do mercado de trabalho. 
+2)  Obter a satisfação dos públicos que se relacionam com o Centro Paula Souza (stakeholders). 
+3)  Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem. 
+4)  Assegurar a perenidade do crescimento da instituição com recursos financeiros disponíveis. 
+5)  Garantir celeridade e efetividade na prestação de serviços. 
+6)  Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no desenvolvimento tecnológico e inovação. 
+7)  Promover a cultura de inovação e empreendedorismo. 
+8)  Aumentar a eficiência, a produtividade e a competitividade da instituição. 
+9)  Ampliar a oferta da Educação Profissional. 
+10)  Resolução Conjunta SOG/SFP/SG‐3, de 28‐12‐2022 ‐ Bonificação por Resultados – BR das Secretarias de Estado, Procuradoria Geral do Estado, 
+Controladoria Geral do Estado e das Autarquias, de que trata a LC 1361‐2021 
+Objetivos Institucionais – Cesu (Plano de Metas) 
+A. Integrar as diferentes modalidades de ensino, otimizando itinerários e tempo para a formação profissional. 
+B. Inovar processos de ensino e aprendizagem para manter excelência diante do mercado. 
+C. Ampliar a capacidade de criar e atualizar cursos em parceria com o mercado. 
+D. Expandir e ampliar a capacidade de articulação com Governos e Setores Produtivos. 
+E. Promover a captação de recursos extras e não orçamentários. 
+Atenção: Determinação da Origem (prioridade) de uma Ação ou Projeto de Melhoria que compõe o PGA, a fim de ordenar os graus de prioridade tomando‐se por 
+base atos normativos regulatórios das atividades do CPS, e a governança institucional, por suas esferas Estratégica, Tática e Operacional: 
+Grau 1 ‐ URGÊNCIA DE REGULAÇÃO ‐ prioridade máxima (advinda do MEC, CEE, MP, Vigilância Sanitária ou notificação de qualquer órgão regulador/fiscalizador) 
+‐ fundamentação: notificação de fiscalização, diligência de regulação, termo de ajustamento de conduta, relatório circunstanciado, dentre outros 
+emanados de órgãos que impõem ações para cumprimento com regularidade normativa da instituição. 
+Grau 2 ‐ URGÊNCIA ESTRATÉGICA ‐ Gestão Estratégica do CPS (AMS, novos cursos e unidades, programas de governo) ‐ fundamentação: PPA do CPS, ações de 
+governo conduzidas pela Superintendência do CPS. 
+Grau 3 ‐ PRIORIDADE ALTA ‐ Gestão Tática (ações correlatas à Avaliação institucional ‐ ENADE, WebSAI, CPA, Observatório Escolar). ‐ fundamentação: processo 
+avaliativo de órgãos reguladores, processo avaliativo interno do CPS. 
+Grau 4 ‐ PRIORIDADE MÉDIA ‐ Gestão Operacional para aumento da capacidade instalada. ‐ fundamentação: plano operacional de gestão, homologado pela 
+respectiva área da intendência, com foco na atividade fim do CPS. 
+Grau 5 ‐ PRIORIDADE REGULAR ‐ Gestão Operacional para preservação da capacidade instalada. ‐ fundamentação: plano operacional de gestão, homologado 
+pela respectiva área da intendência, com foco na atividade fim do CPS. 
+ 
+ESTRUTURAÇÃO DAS AÇÕES/PROJETOS 
+01 - Didático-pedagógico 
+Ações associadas ao PPC/PE de CSTs e Disciplinas: CST (implantação, alteração, readequação, reestruturação), 
+prática pedagógica (PE, PA), projeto interdisciplinar/ integrador, extensão curricularizada. 
+ 
+AÇÃO/PROJETO (Tema) 
+101 ‐ cat 1.07 ‐ Divulgação do vestibular e ações de fortalecimento de imagem institucional
+Origem (prioridade): 
+6‐Outra 
+O que será feito: 
+Apresentação dos Projetos Interdisciplinares do CST e Desenvolvimento de Software Multiplataforma nas redes sociais da Fatec 
+de Itapira. 
+ 
+Por que será feito: 
+Ampliar a visibilidade da Fatec da Fatec de Itapira divulgando o rigoroso currículo voltado à 
+formação profissional dos discentes, realçando suas conquistas e habilidades adquiridas durante 
+o período de estudos contribuindo assim para a divulgação de seus portfólios e captação de 
+novos estudantes por meio do Processo Seletivo Vestibular. Durante a semana de exposição dos 
+projetos interdisciplinares do Curso Superior de Tecnologia em Desenvolvimento de Software 
+Multiplataforma (CST em DSM), promover a gravação das apresentações para posterior 
+transmissão nos canais de mídia social da Fatec de Itapira (YouTube e no Facebook). 
+Adicionalmente, é cogitada a possibilidade de realizar transmissões ao vivo, mediante a obtenção 
+de autorização dos discentes, com o intuito de divulgar a excelência do ensino ministrado em sala 
+de aula.  
+Responsável: 
+<nome> Marcia Regina Reggiolli  
+Qde CH/sem:
+10
+Tipo:
+HAE ‐ Hora Atividade 
+Específica
+Colaborador(a): 
+<nome> Vinycius Gomes Cruz  
+Qde CH/sem:
+10
+Tipo:
+H ‐ Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> Adriana Fernandes Teixeira  
+Qde CH/sem:
+5
+Tipo:
+H ‐ Hora <não 
+tipificada> 
+Período de execução: 
+Data inicial: 
+02/02/2025
+Data final:
+31/12/2025
+Etapas do processo: 
+01‐ Definição do PI por semestre que será transmitido pela coordenação e 
+professores das disciplinas chaves do CST em DSM 
+02/02 
+31/12 
+ 
+02‐ Elaboração da lista dos grupos e os nomes dos alunos que irão 
+apresentar o PI  
+02/02 
+31/12 
+ 
+03‐ Definir em qual laboratório será feito a apresentação e a filmagem 
+02/02 
+31/12 
+ 
+04‐ Preparar os equipamentos e o ambiente para a filmagem 
+02/02 
+31/12 
+ 
+05‐ Avisar os alunos e solicitar o preenchimento da autorização do uso de 
+imagem  
+02/02 
+31/12 
+ 
+06‐ Elaborar e divulgar a agenda 
+02/02 
+31/12 
+ 
+07‐ No dia da apresentação efetuar as gravações e ou transmissões 
+02/02 
+31/12 
+ 
+08‐ Medir o alcance e resultados desta ação  
+02/02 
+31/12 
+Custo R$ (se houver): 
+Não se aplica 
+Fonte(s) dos recursos: 
+Não se aplica
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão
+(a ser resolvida/mitigada) 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+102 ‐ cat 1.02 ‐ Eventos e publicações acadêmicos e científicos
+Origem (prioridade): 
+6‐Outra 
+O que será feito: 
+Remodelação das ações com a finalidade de promover o acolhimento dos alunos ingressantes 
+ 
+Por que será feito: 
+Diversificação das ações e agregação de valor à ação de integração de novos alunos 
+Responsável: 
+<nome> Marcia Regina Reggiolli  
+Qde CH/sem:
+5
+Tipo:
+HAE ‐ Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> Adriana Fernandes Teixeira  
+Qde CH/sem:
+5
+Tipo:
+H ‐ Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> José Gonçalves Pinto Junior  
+Qde CH/sem:
+5
+Tipo:
+H ‐ Hora <não 
+tipificada>
+Período de execução: 
+Data inicial: 
+02/02/2025
+Data final:
+31/12/2025
+Etapas do processo: 
+01‐ Definir data do acolhimento 
+02/02 
+31/12 
+ 
+02‐ Elaborar lista dos alunos e enviar os convites 
+02/02 
+31/12 
+ 
+03‐ Convidar pelo menos um egresso de cada curso para o relato das 
+experiências profissionais e de todo o percurso de formação superior na 
+Fatec de Itapira  
+02/02 
+31/12 
+ 
+04‐ Preparar a agenda
+02/02 
+31/12 
+ 
+05‐ Divulgar a agenda a toda a comunidade acadêmica 
+02/02 
+31/12 
+ 
+06‐ Preparar o script de “fala” de cada aluno egresso 
+02/02 
+31/12 
+ 
+07‐ Elaborar release para a imprensa  
+02/02 
+31/12 
+ 
+08‐ Solicitar vídeo institucional do CPS e uma mensagem de boas vindas da 
+Professora Laura Laganá em vídeo para a abertura ao acolhimento  
+02/02 
+31/12 
+Custo R$ (se houver): 
+Não se aplica 
+Fonte(s) dos recursos: 
+Não se aplica
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão
+(a ser resolvida/mitigada) 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão
+X 
+X 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+103 ‐ cat 1.06 ‐ Ações pedagógicas: visitas técnicas, projetos integradores/interdisciplinares, dias de campo, 
+feira das profissões, cursos extracurriculares para alunos.
+Origem (prioridade): 
+6‐Outra 
+O que será feito: 
+Institucionalizar a realização da “Semana da Ambientação” para o Curso Superior de Tecnologia 
+em Desenvolvimento de Software Multiplataforma. 
+Por que será feito: 
+Esta semana visa fornecer aos alunos os fundamentos essenciais e relevantes para alcançarem o 
+êxito e a eficácia desejados no curso, além de apresentar ferramentas básicas que podem servir 
+como recursos de suporte. 
+Responsável: 
+<nome> Marcia Regina Reggiolli 
+Qde CH/sem: 
+10 
+Tipo:
+HAE ‐ Hora Atividade 
+Específica
+Colaborador(a): 
+<nome> Thiago Salhab Alves 
+Qde CH/sem:
+10
+Tipo:
+HA ‐ Hora Atividade 
+Colaborador(a): 
+<nome> Ana Célia Riberio Bizigato Portes 
+Qde CH/sem:
+10
+Tipo:
+HAE ‐ Hora Atividade 
+Específica
+Período de execução: 
+Data inicial: 
+03/02/2025 
+Data final:
+31/12/2025 
+Etapas do processo: 
+01‐ Realizar reunião pedagógica no final do semestre para avaliação do que 
+“deu certo” e o que “deu errado” no semestre. 
+31/06 
+22/12 
+ 
+02‐ Planejar ações para o semestre seguinte corrigindo o que “deu errado”
+03/02 
+04/08 
+ 
+03‐ Redigir documento de orientação aos professores
+03/02 
+04/08 
+ 
+04‐ Planejar ações de nivelamento necessário para que os alunos do 
+primeiro semestre‐ingressantes, tenham os conhecimentos básicos de 
+informática e sobre as ferramentas mais importantes para que o 
+aprendizado das disciplinas do curso seja facilitado. 
+03/02 
+04/08 
+ 
+05‐ Elaborar agenda das ações de nivelamento
+03/02 
+04/08 
+ 
+06‐ Solicitar que os professores registrem os conteúdos no SIGA
+03/02 
+04/08 
+ 
+07‐ Realizar o envolvimento dos alunos ingressantes
+10/02 
+11/08 
+ 
+08‐ Medir o resultado das ações 
+31/06 
+22/12 
+Custo R$ (se houver): 
+Não se aplica 
+Fonte(s) dos recursos: 
+Não se aplica
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão
+(a ser resolvida/mitigada) 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão
+X 
+ 
+AÇÃO/PROJETO (Tema) 
+104 ‐ cat 1.01 ‐ Adequação/reestruturação de PPC, implantação de novos cursos.
+Origem (prioridade): 
+6‐Outra 
+ O que será feito: 
+Implantação do novo PPC do CST em Gestão Empresarial para os egressos do 1º semestre de 
+2024, aprovado no Processo Seletivo Vestibular. 
+Por que será feito: 
+ A atualização do PPC proporcionará uma preparação mais atualizada dos alunos, 
+compreendendo conceitos e exigências atuais do mercado de trabalho. 
+Responsável: 
+ Prof. Dr. Gilberto Brandão Marcon 
+Qde CH/sem:
+8
+Tipo:
+H ‐ Hora <não 
+tipificada>
+Colaborador(a):  Daniela Bellini Destro Altafini Trani 
+Qde CH/sem:
+8
+Tipo:
+H ‐ Hora <não 
+tipificada> 
+Período de execução: 
+Data inicial: 
+02/01/2024
+Data final:
+31/12/2024
+Etapas do processo: 
+01‐ Atribuição da nova grade 
+02/01 
+31/01 
+ 
+02‐ Rematrícula dos alunos 
+02/01 
+31/01 
+ 
+03‐ Equivalência de disciplinas 
+01/02 
+29/02 
+Custo R$ (se houver): 
+Necessário orçamentos
+Fonte(s) dos recursos: 
+Centro Paula Souza
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão
+(a ser resolvida/mitigada) 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Comentado [AT2R1]: Feito 
+Comentado [TLdA1]: Inserir as datas das Etapas do 
+processo. 
+Comentado [TLdA3]: A implantação do novo PPC é uma 
+ação que ocorrerá de forma independente da execução de 
+um projeto. Certo? Desta forma, quando observa‐se as 
+Etapas do processo, verifica‐se que são ações e atribuições 
+inerentes a Coordenação e equipe diretiva da Unidade de 
+ensino. Favor verificar se essa ação proposta de forma que 
+esta descrita mantem‐se no PGA, evitando: 
+atribuições/atividades administrativas ou mesmo rotinas 
+administrativas ou atividades que são atribuições 
+acadêmicas (de coordenação ou docência).
+AÇÃO/PROJETO (Tema) 
+105 ‐ cat 1.01 ‐ Adequação/reestruturação de PPC, implantação de novos cursos.
+Origem (prioridade): 
+6‐Outra 
+O que será feito: 
+Implantação do novo PPC do CST em Gestão da Produção Industrial para os egressos do 1º 
+semestre de 2025, aprovado no Processo Seletivo Vestibular. 
+Por que será feito: 
+A atualização do PPC proporcionará uma preparação mais atualizada dos alunos, 
+compreendendo conceitos e exigências atuais do mercado de trabalho. 
+Responsável: 
+Prof. Esp. José Marcos Romão Júnior 
+Qde CH/sem: 
+8 
+Tipo:
+H ‐ Hora <não 
+tipificada>
+Colaborador(a): Daniela Bellini Destro Altafini Trani 
+Qde CH/sem:
+8
+Tipo:
+H ‐ Hora <não 
+tipificada> 
+Período de execução: 
+Data inicial: 
+01/06/2024 
+Data final:
+31/12/2024 
+Etapas do processo: 
+01‐ Atribuição da nova grade 
+01/07 
+31/07 
+ 
+02‐ Rematrícula dos alunos 
+01/07 
+31/07 
+ 
+03‐ Equivalência de disciplinas 
+01/08 
+01/08 
+Custo R$ (se houver): 
+Necessário Orçamentos
+Fonte(s) dos recursos: 
+Centro Paula Souza
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão
+(a ser resolvida/mitigada) 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino
+ 
+ 
+02 – Laboratórios - Ensino e Equipamentos Associados 
+Ações para melhoramento dos laboratórios de Ensino (Gestão e Equipamentos): Melhoramento de 
+equipamentos, mediante instalação, manutenção, desuso, doação, e gestão de ambiente laboratorial. 
+ 
+AÇÃO/PROJETO (Tema) 
+201 ‐ cat 2.03 ‐ Ambiente multidisciplinar de ensino ‐ implantação/melhoramento com recursos 
+PEDAGÓGICOS 
+Origem (prioridade): 
+6‐Outra 
+O que será feito: 
+Remodelar os ambientes de desenvolvimento de projetos Sala C1, C2 e C4. 
+ 
+Por que será feito: 
+Estimular professores e alunos para o desenvolvimento dos projetos interdisciplinares utilizando‐
+se de metodologias inovadoras e ágeis.  
+Responsável: 
+<nome> Angela dos Santos Oshiro 
+Qde CH/sem:
+10
+Tipo:
+HAE ‐ Hora Atividade 
+Específica
+Colaborador(a): 
+<nome> Marcia Regina Reggiolli  
+Qde CH/sem:
+5
+Tipo:
+HAE ‐ Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> Paulo Sergio de Melo  
+Qde CH/sem:
+10
+Tipo:
+H ‐ Hora <não 
+tipificada>
+Período de execução: 
+Data inicial: 
+01/01/2025 
+Data final:
+31/12/2025 
+Etapas do processo: 
+01‐ Aquisição de 3 lousas de vidro 
+01/01 
+31/12 
+ 
+02‐ Aquisição de 3 painéis murais de fotos e recados 40X60com 
+01/01 
+31/12 
+ 
+03‐ Aquisição de 3 cavaletes flip chart com quadro branco e bandeja Stalo  
+01/01 
+31/12 
+ 
+04‐ Aquisição de 3 kits de folhas para flip chart 640x880mm 
+01/01 
+31/12 
+ 
+05‐ Aquisição de 12 conjuntos de imãs fixadores de lembretes quebra 
+cabeça  
+01/01 
+31/12 
+ 
+06‐ Aquisição de 6 quadros magnéticos 120x90 branca moldura de 
+alumínio 
+01/01 
+31/12 
+ 
+07‐ Aquisição de 10 kits Imã fixador de lembretes redondo colorido com 4 
+unidades cada um  
+01/01 
+31/12 
+ 
+08‐ Aquisição de 3 kits de imãs no formato emoji com 24 unidades cada um 
+01/01 
+31/12 
+Custo R$ (se houver): 
+5.208,51 
+Fonte(s) dos recursos: 
+Centro Paula Souza
+Situação problema: 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas)
+(a ser resolvida/mitigada) 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas)
+X 
+X 
+ 
+ 
+Comentado [TLdA4]: Verificar se a proposta é para CST 
+GE? Se sim, esta repetindo a mesma proposta do projeto 
+anterior (104). E, independente de qual curso for, verificar a 
+proposta , pois a implantação do novo PPC é uma ação que 
+ocorrerá de forma independente da execução de um 
+projeto. Certo? Desta forma, quando observa‐se as Etapas 
+do processo, verifica‐se que são ações e atribuições 
+inerentes a Coordenação e equipe diretiva da Unidade de 
+ensino. Favor verificar se essa ação proposta de forma que 
+esta descrita mantem‐se no PGA, evitando: 
+atribuições/atividades administrativas ou mesmo rotinas 
+administrativas ou atividades que são atribuições 
+acadêmicas (de coordenação ou docência). 
+Comentado [AT5R4]: Alterado, este campo se refere ao 
+CST em Gestão da Produção Industrial
+AÇÃO/PROJETO (Tema) 
+202 ‐ cat 2.03 ‐ Ambiente multidisciplinar de ensino ‐ implantação/melhoramento com recursos 
+PEDAGÓGICOS 
+Origem (prioridade): 
+4‐Gestão Operacional ‐ Aumento de capacidade instalada
+O que será feito: 
+Transformar as salas de aula A1 e A2 em ambientes de multiuso.
+Por que será feito: 
+O Brasil vem sofrendo um fenômeno que há muito tempo aconteceu nos países europeus que é a 
+mudança da estrutura etária da população  com o aumento da população ativa com mais de 50 
+anos e a queda no número de nascimentos com consequente diminuição da população ativa mais 
+jovem, portanto, é importante e urgente que estes indivíduos busquem por atualização 
+profissional e tecnológica, nicho que com certeza, a Fatec de Itapira pode explorar para fidelizar 
+os alunos e atrair novos, além disso outro fenômeno que  se mostra importante  é a  entrada no 
+mercado de trabalho da chamada geração Z, que são os chamados nativos digitais, portanto, se 
+faz necessário a transformação de duas salas de aulas em ambiente digitais com computadores e 
+infraestrutura necessária para o uso e recursos computacionais nas aulas dos professores da 
+Fatec de Itapira alinhando objetivos e expectativas dos alunos e da instituição, quer seja na 
+transformação digital, quer seja na busca pela inovação, hoje, com os avanços tecnológicos e um 
+novo perfil de aluno o uso do computador, tablet ou qualquer outro recurso de hardware é 
+essencial para dinamizar aulas, aumentar a produtividade do docente, sem se falara na usa 
+utilização para a pesquisa e extensão. Cumpre destacar, ainda, que os 5 laboratórios de 
+informática existentes na unidade são utilizados pelo CST em DSM cuja demanda por aulas 
+práticas é alta e a utilização pelos outros dois cursos da unidade fica em segundo plano. 
+Responsável: 
+<nome> Luiz Henrique Biazotto 
+Qde CH/sem: 
+10 
+Tipo:
+H ‐ Hora <não 
+tipificada>
+Colaborador(a): 
+<nome> Marcia Regina Reggiolli 
+Qde CH/sem:
+5
+Tipo:
+HAE ‐ Hora Atividade 
+Específica
+Colaborador(a): 
+<nome> Leandro José Silveira 
+Qde CH/sem:
+10
+Tipo:
+HAE ‐ Hora Atividade 
+Específica
+Período de execução: 
+Data inicial: 
+01/01/2025
+Data final:
+31/12/2025
+Etapas do processo: 
+01‐ Aquisição de computadores‐envio de ofício ao CPS solicitando a 
+aquisição de 42 computadores de mesa 
+01/01  
+31/12 
+ 
+02‐ Envio de memorando ao CPS solicitando adequação doa ambientes: 
+infraestrutura física e construção de rede física de dados nos ambientes 
+01/01 
+31/12 
+ 
+03‐ Aguardar a aprovação do CPS e fazer transformação da sala de aula em 
+um ambiente multifuncional 
+01/01 
+31/12 
+ 
+04‐  
+ 
+ 
+ 
+05‐  
+ 
+ 
+ 
+06‐  
+ 
+ 
+ 
+07‐  
+ 
+ 
+ 
+08‐  
+ 
+ 
+Custo R$ (se houver): 
+177.643,00 
+Fonte(s) dos recursos: 
+Centro Paula Souza
+Situação problema: 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas)
+(a ser resolvida/mitigada) 
+cat 0.1.05 - Materiais, equipamentos e mobiliários
+ 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+203 ‐ cat 2.02 ‐ Laboratório informática ‐ implantação/melhoramento com recursos PEDAGÓGICOS
+Origem (prioridade): 
+6‐Outra 
+O que será feito: 
+Implantar dois laboratórios de informática para atender as especificações do PPC do curso de 
+DSM.  
+Por que será feito: 
+Transformar duas salas de aulas em dois laboratórios de informática, um para o CST em 
+Desenvolvimento de Software Multiplataforma e outro para o CST em Gestão da Produção 
+Industrial. Considerando que os 5 laboratórios existentes na Fatec de Itapira são insuficientes 
+mesmo compartilhando esses ambientes com os demais cursos da unidade. 
+Responsável: 
+Prof. Me. Luiz Henrique Biazotto
+Qde CH/sem:
+8
+Tipo:
+H ‐ Hora <não 
+tipificada>
+Colaborador(a): Profa. Dra. Marcia Regina Reggiolli
+Qde CH/sem:
+8
+Tipo:
+H ‐ Hora <não 
+tipificada> 
+Colaborador(a): Prof. Dr. Gilberto Brandão Marcon
+Qde CH/sem:
+8
+Tipo:
+H ‐ Hora <não 
+tipificada> 
+Período de execução: 
+Data inicial: 
+01/02/2024 
+Data final:
+31/12/2024 
+Etapas do processo: 
+01‐ Envio de ofício ao CPS solicitando a aquisição de pelo menos 62 
+computadores sendo um laboratório de 40 computadores + 1 para o 
+docente e outro laboratório com 20 computadores + 1 para o docente. 
+01/02 
+29/02 
+ 
+02‐ Envio de memorando ao CPS solicitando a adequação dos ambientes 
+infraestrutura física e construção de rede física de dados nos ambientes  
+01/02 
+29/02 
+ 
+03‐ Aguardar aprovação do CPS e fazer a implantação dos dois laboratórios 
+na unidade. 
+01/03 
+31/12 
+Custo R$ (se houver): 
+Necessário orçamentos
+Fonte(s) dos recursos: 
+Centro Paula Souza
+Situação problema: 
+cat 0.1.05 - Materiais, equipamentos e mobiliários
+(a ser resolvida/mitigada) 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão
+ 
+AÇÃO/PROJETO (Tema) 
+204 ‐ cat 2.01 ‐ Laboratório físico ‐ implantação/melhoramento com recursos PEDAGÓGICOS
+Origem (prioridade): 
+6‐Outra 
+O que será feito: 
+Implantar um laboratório de análise e resistência de materiais para o CST em Gestão da
+Produção Industrial. 
+Por que será feito: 
+Contemplar o rol de laboratórios contidos no PPC do curso e proporcionar ao aluno aulas práticas 
+de análise e resistência de materiais, controles de qualidade dentre outras possibilidades que 
+poderão ser exploradas pelos docentes. 
+Responsável: 
+Prof. Me. Luiz Biazotto 
+Qde CH/sem:
+8
+Tipo:
+H ‐ Hora <não 
+tipificada>
+Colaborador(a):  Prof. Esp. José Marcos Romão Júnior 
+Qde CH/sem:
+8
+Tipo:
+H ‐ Hora <não 
+tipificada> 
+Período de execução: 
+Data inicial: 
+01/02/2024 
+Data final:
+31/12/2024 
+Etapas do processo: 
+01‐ Solicitação de equipamentos para o referido laboratório pelo diretor da 
+unidade 
+01/02 
+29/02 
+ 
+02‐ Solicitar adequação de uma sala de aula para transformá‐la em sala 
+híbrida (sala de aula e laboratório) 
+01/02  
+29/02 
+ 
+03‐ Aguardar a compra e envio dos equipamentos para a unidade e 
+adequação do ambiente 
+01/03 
+31/12 
+ 
+04‐ Treinamento do Coordenador do Curso e dos docentes para uso do 
+laboratório 
+01/03 
+31/12 
+Custo R$ (se houver): 
+Necessário orçamentos
+Fonte(s) dos recursos: 
+Centro Paula Souza
+Situação problema: 
+cat 0.1.05 - Materiais, equipamentos e mobiliários
+(a ser resolvida/mitigada) 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão
+ 
+ 
+ 
+ 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+205 ‐ cat 2.03 ‐ Ambiente multidisciplinar de ensino ‐ implantação/melhoramento com recursos 
+PEDAGÓGICOS 
+Origem (prioridade): 
+6‐Outra 
+O que será feito: 
+Propor adequação de uma sala de aula para abrigar os equipamentos de metrologia para o CST 
+em Gestão da Produção Industrial. 
+Por que será feito: 
+ Contemplar o rol de ambientes contidos no PPC do curso e proporcionar ao aluno aulas práticas 
+de metrologia, controles de qualidade dentre outras possibilidades que poderão ser exploradas 
+pelos docentes.  
+Responsável:  
+Prof. Me. Luiz Henrique Biazotto
+Qde CH/sem:
+8
+Tipo:
+H ‐ Hora <não 
+tipificada>
+Colaborador(a): Prof. Esp. José Marcos Romão Júnior 
+Qde CH/sem:
+8
+Tipo:
+H ‐ Hora <não 
+tipificada>
+Período de execução: 
+Data inicial: 
+ 01/02/2024 
+Data final:
+31/12/2024 
+Etapas do processo: 
+01‐ Solicitação de equipamentos para o referido laboratório pelo diretor da 
+unidade. 
+01/02 
+29/02 
+ 
+02‐ Solicitar adequação de uma sala de aula para transformá‐la em sala 
+híbrida (sala de aula e laboratório) 
+01/02 
+29/02 
+ 
+03‐ Aguardar a compra e envio dos equipamentos para a unidade e 
+adequação do ambiente. 
+01/03 
+31/12 
+ 
+04‐ Treinamento do Coordenador do Curso e dos docentes para uso do 
+laboratório. 
+01/03 
+21/12 
+Custo R$ (se houver): 
+R$ 5.218,51 
+Fonte(s) dos recursos: 
+Centro Paula Souza 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão
+(a ser resolvida/mitigada) 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino
+ 
+AÇÃO/PROJETO (Tema) 
+206 ‐ cat 2.03 ‐ Ambiente multidisciplinar de ensino ‐ implantação/melhoramento com recursos 
+PEDAGÓGICOS 
+Origem (prioridade): 
+6‐Outra 
+O que será feito: 
+Adequar um laboratório para abrigar os equipamentos de tecnologia para desenvolvimento de 
+projetos interdisciplinares e de projetos de IC no CST em Desenvolvimento de Software 
+Multiplataforma. 
+Por que será feito: 
+Contemplar o rol de ambientes contidos no PPC do curso e proporcionar ao aluno aulas práticas 
+para a disciplina de IoT – Internet das Coisas e Aplicações, além de possibilitar o uso desses 
+equipamentos para o desenvolvimento de Projetos Interdisciplinares e de IC. 
+Responsável: 
+Prof. Me. Luiz Henrique Biazotto
+Qde CH/sem:
+8
+Tipo:
+H ‐ Hora <não 
+tipificada>
+Colaborador(a): Profa. Dra. Marcia Regina Reggiolli
+Qde CH/sem:
+8
+Tipo:
+H ‐ Hora <não 
+tipificada>
+Período de execução: 
+Data inicial: 
+01/02/2024 
+Data final:
+31/12/2024 
+Etapas do processo: 
+01‐ Solicitação de equipamentos para o referido laboratório pelo diretor da 
+unidade. 
+01/02 
+29/02 
+ 
+02‐ Solicitar adequação de um laboratório de informática para abrigar os 
+novos equipamentos (armário com chave). 
+01/02 
+29/02 
+ 
+03‐ Aguardar a compra e envio dos equipamentos para a unidade e 
+adequação do ambiente 
+01/03 
+31/12 
+ 
+04‐ Treinamento da Coordenadora do Curso e dos docentes para uso dos 
+equipamentos. 
+01/03 
+31/12 
+Custo R$ (se houver): 
+R$ 177.643,00 
+Fonte(s) dos recursos: 
+Centro Paula Souza
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão
+(a ser resolvida/mitigada) 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+207 ‐ cat 2.01 ‐ Laboratório físico ‐ implantação/melhoramento com recursos PEDAGÓGICOS 
+Origem (prioridade): 
+6‐Outra 
+O que será feito: 
+Aquisição de equipamentos e mobiliário para a implantação de um laboratório de Metrologia, 
+Metalografia e Ensaios Mecânicos 
+Por que será feito: 
+A implantação de um laboratório de Metrologia, Metalografia e Ensaios Mecânicos no CST em 
+Gestão da Produção Industrial oferecerá aos alunos a oportunidade de adquirir conhecimentos e 
+habilidades práticas essenciais para a gestão eficiente da produção e o controle de qualidade em 
+processos industriais. 
+A utilização de um laboratório de metrologia no curso superior de tecnologia (CST) em Gestão da 
+Produção Industrial será extremamente benéfica para os estudantes. A metrologia é a ciência da 
+medição e desempenha um papel fundamental na qualidade e na eficiência dos processos de 
+produção. Ao utilizar um laboratório de metrologia, os alunos têm a oportunidade de aprender e 
+aplicar os princípios e técnicas de medição com instrumentos e equipamentos especializados. 
+Isso permite que eles compreendam os conceitos teóricos de metrologia na prática, 
+desenvolvendo habilidades essenciais para a gestão da produção industrial. 
+Responsável: 
+Prof. Esp. José Marcos Romão Junior 
+Qde CH/sem:
+8
+Tipo:
+H ‐ Hora <não 
+tipificada>
+Período de execução: 
+Data inicial: 
+01/03/2023 
+Data final:
+31/12/2024 
+Etapas do processo: 
+01‐ Levantamento das informações necessária para implantação do 
+projeto. 
+02/02/2023 
+31/12/
+2023 
+ 
+02‐ Estudo dos equipamentos necessários para implantação do 
+laboratório. 
+02/02/2024 
+15/05/
+2024 
+ 
+03‐ Pesquisa dos equipamentos cadastrados na BEC e comparação das 
+especificações junto ao corpo docente. 
+02/02/2024 
+15/05/
+2024 
+ 
+04‐ Aguardar procedimentos da Administração Central do Centro Paula 
+Souza para aquisição dos equipamentos e mobiliário para posterior 
+instalação. 
+16/05/2024 
+31/12/
+2024 
+Custo R$ (se houver): 
+Centro Paula Souza 
+Fonte(s) dos recursos: 
+Centro Paula Souza
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+208 ‐ cat 2.03 ‐ Ambiente multidisciplinar de ensino ‐ implantação/melhoramento com recursos 
+PEDAGÓGICOS 
+Origem (prioridade): 
+4‐Gestão Operacional ‐ Aumento de capacidade instalada 
+O que será feito: 
+Aquisição de equipamentos para a ampliação dos recursos oferecidos na sala Maker, possibilitará 
+aos alunos maiores recursos para desenvolvimento de projetos educacionais, desenvolvendo 
+assim o raciocínio lógico e a criatividade dos alunos da unidade. A Sala Maker já conta com uma 
+impressora 3D que é fundamental para o desenvolvimento de diversos projetos pelos alunos da 
+Fatec de Itapira, porém a falta de uma Máquina de corte a Laser, está dificultando o 
+desenvolvimento de diversos projetos pelos alunos e de acordo com os Professores, a aquisição 
+de um Scanner 3D – para digitalização de Objetos e posterior Impressão em 3D possibilitará aos 
+alunos agilidade e acesso a novas tecnologias emergentes para o desenvolvimento de projetos 
+educacionais. Embora a Sala Maker já tenha alguns poucos kits de Arduino, a aquisição de novos 
+kits possibilitará o desenvolvimento de mais projetos simultâneso e o Conjunto Didático para 
+estudo de robótica educacional ‐ Kit Arduíno dará aos alunos maiores condições para 
+desenvolver projetos de integração entre áreas e cursos. 
+Por que será feito: 
+Para que o espaço Maker possa ter todos os equipamentos conforme projeto do Centro Paula 
+Souza e ampliar a oferta de possibilidade de desenvolvimento da criatividade dos alunos 
+possibilitando mais recurso educacional disponível para as aulas e para os projetos dos alunos. 
+Responsável: 
+ Prof. Me. Luiz Henrique Biazotto
+Qde CH/sem:
+8
+Tipo:
+H ‐ Hora <não 
+tipificada> 
+Período de execução: 
+Data inicial: 
+02/02/2024
+Data final:
+31/12/2024
+Etapas do processo: 
+01‐ Levantamento das informações necessária para implantação do 
+projeto. 
+02/2024 
+15/2024
+ 
+02‐ Estudo dos equipamentos necessários para implantação do 
+laboratório. 
+02/2024 
+15/2024
+ 
+03‐ Pesquisa dos equipamentos cadastrados na BEC e comparação das 
+especificações junto ao corpo docente. 
+02/2024 
+15/2024
+ 
+04‐ Aguardar procedimentos da Administração Central do Centro Paula 
+Souza para aquisição dos equipamentos e mobiliário para posterior 
+instalação. 
+16/2024 
+12/2024
+Custo R$ (se houver): 
+Centro Paula Souza 
+Fonte(s) dos recursos: 
+Centro Paula Souza
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão
+(a ser resolvida/mitigada) 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+209 ‐ cat 2.02 ‐ Laboratório informática ‐ implantação/melhoramento com recursos PEDAGÓGICOS 
+Origem (prioridade): 
+6‐Outra 
+O que será feito: 
+A substituição dos computadores nos Laboratórios C1, C2, C3 e C4 
+Por que será feito: 
+A substituição dos computadores nos Laboratórios C1, C2, C3 e C4 é essencial para garantir a 
+qualidade do ensino e o desenvolvimento pleno dos alunos. Os microcomputadores em uso 
+(modelo HP) foram recebidos em 2014 quando a unidade foi inaugurada. Além disso, com a 
+implantação do curso superior de tecnologia em Desenvolvimento de Software Multiplataforma, 
+é necessário implantar mais 2 laboratórios de informática, então necessitamos de mais 60 
+computadores para instalação nestes 2 ambientes, um com 30 e mais 20 para a criação do  
+laboratório de informática do curso superior de tecnologia em Gestão Empresarial. 
+Responsável: 
+Prof. Me. Luiz Henrique Biazotto
+Qde CH/sem:
+8
+Tipo:
+H ‐ Hora <não 
+tipificada>
+Período de execução: 
+Data inicial: 
+01/05/2024 
+Data final:
+31/12/2025 
+Etapas do processo: 
+01‐ Levantamento da quantidade de computadores necessários e suas 
+especificações técnicas. 
+01/05/24
+29/05/24 
+ 
+02‐ Solicitação de aquisição enviada para o Centro Paula Souza.
+01/05/24
+29/05/24 
+ 
+03‐ Recebimento. 
+01/08/24
+31/12/25 
+ 
+04‐ Instalação 
+02/01/25
+31/12/25 
+Custo R$ (se houver): 
+Centro Paula Souza 
+Fonte(s) dos recursos: 
+Centro Paula Souza
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão
+(a ser resolvida/mitigada) 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino
+ 
+ 
+ 
+ 
+ 
+03 – Pesquisa / Extensão e Equipamentos Associados 
+Ações para melhoramento dos laboratórios que contemplam Pesquisa além do Ensino (Equipamentos): 
+melhoramento dos espaços de pesquisa, que inclui especificação equipamentos e aquisição por fomento ou por 
+projeto com empresa, e também prestação de serviços no campo tecnológico para instituições e empresas. 
+AÇÃO/PROJETO (Tema) 
+301 ‐ cat 3.06 ‐ Jornada/Evento/Revista Científico e Tecnológico
+Origem (prioridade): 
+6‐Outra 
+O que será feito: 
+Incentivo à produção de artigos científicos 
+Por que será feito: 
+Fomentar a elaboração de artigos científicos decorrentes dos Projetos Integradores para 
+fortalecer o padrão educacional do Centro Paula Souza, destacando seu compromisso com a 
+pesquisa e inovação tecnológica. A produção desses artigos não apenas reflete a dedicação dos 
+estudantes ao trabalho de pesquisa, mas também contribui para a consolidação do ensino, 
+elevando o perfil acadêmico da instituição e incentivando a busca contínua por conhecimento e 
+excelência na criação de artigos científicos.  
+Responsável: 
+Profa. Dra. Marcia Regina Reggiolli
+Qde CH/sem:
+8
+Tipo:
+H ‐ Hora <não 
+tipificada>
+Colaborador(a):  Prof. Dr. Gilberto Brandão Marcon 
+Qde CH/sem:
+8
+Tipo:
+H ‐ Hora <não 
+tipificada> 
+Colaborador(a): Prof. Esp. José Marcos Romão Júnior 
+Qde CH/sem: 
+8 
+Tipo:
+H ‐ Hora <não 
+tipificada>
+Período de execução: 
+Data inicial: 
+01/02/2024 
+Data final:
+31/12/2024 
+Etapas do processo: 
+01‐ Sensibilização dos docentes para que incentivem os alunos na 
+elaboração de artigos e pesquisas cientificas 
+01/02 
+31/12 
+ 
+02‐ Divulgação das edições já publicadas da Revista Prospectus entre o 
+corpo discente 
+01/02 
+31/12 
+ 
+03‐ Auxílio na elaboração de pesquisa 
+01/02 
+31/12 
+ 
+04‐ Publicação de novos artigos 
+01/02 
+31/12 
+Custo R$ (se houver): 
+Não se aplica 
+Fonte(s) dos recursos: 
+Centro Paula Souza
+Situação problema: 
+cat 0.1.06 - Quantidade de professores/funcionários
+(a ser resolvida/mitigada) 
+cat 0.1.07 - Comunicação com a comunidade acadêmica
+ 
+AÇÃO/PROJETO (Tema) 
+302 ‐ cat. 3.99 ‐ Outra 
+Origem (prioridade): 
+6‐Outra 
+O que será feito: 
+Criação de Salas de Estudos Integrada com a Biblioteca
+Por que será feito: 
+Propor a criação de uma sala de estudos integrada com a biblioteca, equipada com 30 notebooks 
+para suprir a carência de recursos na Unidade de Ensino. Essa iniciativa visa proporcionar aos 
+alunos condições adequadas para realizar pesquisas, formatar trabalhos e acessar o acervo 
+bibliográfico, promovendo assim um ambiente propício ao aprendizado e desenvolvimento 
+acadêmico. 
+Responsável: 
+<nome> Prof. Me. Luiz Henrique Biazotto 
+Qde CH/sem:
+8
+Tipo:
+H ‐ Hora <não 
+tipificada>
+Período de execução: 
+Data inicial: 
+01/02/2024 
+Data final:
+31/12/2024 
+Etapas do processo: 
+01‐ Levantamento das necessidades e especificações adequadas dos 
+equipamentos 
+01/02 
+29/02 
+ 
+02‐ Solicitação dos equipamentos para o Centro Paula Souza
+01/03 
+31/03 
+ 
+03‐ Aguardar a compra e recebimento dos notebooks
+01/04 
+31/12 
+ 
+04‐ Instalar os notebooks e disponibilizar a utilização dos equipamentos 
+para a comunidade discente 
+01/04 
+31/12 
+Custo R$ (se houver): 
+Necessário orçamento
+Fonte(s) dos recursos: 
+Centro Paula Souza
+Situação problema: 
+cat 0.1.05 - Materiais, equipamentos e mobiliários
+(a ser resolvida/mitigada) 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Comentado [AT7R6]: Incluído! 
+Comentado [TLdA6]: Qual a situação problema 
+relacionada a essa proposta?
+04 – Atividades Formativas em Projetos (nível tático) 
+Projetos institucionais formativos não especificados em PEs: Rede de tecnologia, Novotec, PCI, Projetos 
+estudantis (Baja, Aerodesign, entre outros) 
+AÇÃO/PROJETO (Tema) 
+401 ‐ cat 4.04 ‐ Projetos estudantis diversos 
+Origem (prioridade): 
+6‐Outra 
+O que será feito: 
+Preparação para o ENADE
+Por que será feito: 
+Desenvolver a capacitação e treinamento sobre relevância, princípios norteadores e estrutura 
+avaliativa do ENADE, voltados para docentes e discentes da IES. Pelo fato de os bons resultados 
+obtidos no ENADE refletirem na média dos conceitos dos cursos, essa média tem grande 
+representatividade no Conceito Institucional no Sistema Nacional de Avaliação da Educação 
+Superior (SINAES).  
+Responsável: 
+Profa. Dra. Márcia Regina Reggiolli
+Qde CH/sem:
+8
+Tipo:
+H ‐ Hora <não 
+tipificada>
+Colaborador(a):  Prof. Dr. Gilberto Brandão Marcon 
+Qde CH/sem:
+8
+Tipo:
+H ‐ Hora <não 
+tipificada> 
+Colaborador(a): Prof. Esp. José Marcos Romão Júnior 
+Qde CH/sem: 
+8 
+Tipo:
+H ‐ Hora <não 
+tipificada>
+Período de execução: 
+Data inicial: 
+01/02/2024 
+Data final:
+31/12/2024 
+Etapas do processo: 
+01‐ Levantamento de avaliações anteriores do ENADE que envolvem os 
+cursos ofertados pela FATEC de Itapira. 
+01/02 
+31/12 
+ 
+02‐ Estruturação de material didático‐pedagógico sobre relevância, 
+princípios norteadores e estrutura avaliativa do ENADE. 
+01/02 
+21/12 
+ 
+03‐ Estruturação de material didático‐pedagógico sobre relevância, 
+princípios norteadores e estrutura avaliativa do ENADE. 
+01/02 
+31/12 
+ 
+04‐ Desenvolvimento da capacitação e treinamento em sala de aula, em 
+acordo com a Coordenação e docente, para turmas próximas que 
+desenvolverão o ENADE. 
+01/02 
+31/12 
+ 
+05‐ Desenvolvimento da capacitação e treinamento em sala de aula, em 
+acordo com a Coordenação e docente, para turmas próximas que 
+desenvolverão o ENADE. 
+01/02 
+31/12 
+ 
+06‐ Balanço crítico do processo de capacitação e treinamento prepatarivo 
+ao ENADE. 
+01/02 
+31/12 
+Custo R$ (se houver): 
+Não se aplica 
+Fonte(s) dos recursos: 
+Centro Paula Souza
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão
+(a ser resolvida/mitigada) 
+cat 0.1.06 - Quantidade de professores/funcionários
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+05 – Infraestrutura (instalações prediais) 
+Projetos de manutenção e melhoramento predial voltados à segurança (física e sanitária) e preservação do 
+patrimônio: Reparação predial (civil, elétrica, dados), novas instalações prediais. 
+AÇÃO/PROJETO (Tema) 
+501 ‐ cat. 5.99 ‐ Outra 
+Origem (prioridade): 
+6‐Outra 
+O que será feito: 
+Construção de um novo prédio para a Fatec de Itapira 
+Por que será feito: 
+Propor a aquisição de um novo prédio para a Fatec de Itapira. O prédio atual é muito antigo 
+(meados de 60/70) e apresenta vários problemas estruturais e falta de espaço físico. Além de não 
+permitir expansão de novos cursos. 
+Responsável: 
+Prof. Me. Luiz Henrique Biazotto 
+Qde CH/sem: 
+8 
+Tipo:
+H ‐ Hora <não 
+tipificada>
+Período de execução: 
+Data inicial: 
+01/02/2024 
+Data final:
+31/12/2024 
+Etapas do processo: 
+01‐ Início de tratativas com o GDS. 
+01/02 
+31/12 
+ 
+02‐ Desenvolvimento de projeto estrutural 
+01/02 
+31/12 
+ 
+03‐ Elaboração de memorial descritivo. 
+01/02 
+21/12 
+ 
+04‐ Início da fase de licitação 
+01/02 
+31/12 
+Custo R$ (se houver): 
+Valor desconhecido 
+Fonte(s) dos recursos: 
+Centro Paula Souza
+Situação problema: 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas)
+(a ser resolvida/mitigada) 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino
+ 
+06 - Desenvolvimento de pessoas (docentes e servidores) 
+Formação continuada de docentes e servidores, associadas às competências gerais e específicas de suas 
+atividades: Metodologias de ensino, Tecnologias educacionais, Sistemas (processos, procedimentos, plataformas 
+computacionais) acadêmicos e pedagógicos. 
+ 
+AÇÃO/PROJETO (Tema) 
+601 ‐ cat 6.01 ‐ Curso/Oficina/Capacitação/ Treinamento/ Palestra/Reunião/Encontro 
+Origem (prioridade): 
+6‐Outra 
+O que será feito: 
+Treinamento da Brigada de Emergências 
+Por que será feito: 
+Atualizar Treinamento da Brigada de Emergência e promover um Plano de Evacuação. A SIPAT é 
+uma atividade obrigatória para todas as Comissões Internas de Prevenção de Acidentes (CIPA), 
+podendo ser ou não validada para efeitos de progressão/promoção funcional – SIPAT E 
+TREINAMENTO DA BRIGADA 
+Responsável: 
+Leandro José Silveira (presidente da CIPA) 
+Qde CH/sem:
+4
+Tipo:
+H ‐ Hora <não 
+tipificada> 
+Colaborador(a): Adriana Fernandes Teixeira 
+Qde CH/sem:
+4
+Tipo:
+H ‐ Hora <não 
+tipificada> 
+Período de execução: 
+Data inicial: 
+01/02/2024 
+Data final:
+31/07/2024 
+Etapas do processo: 
+01‐ Reunião de alinhamento do tema da semana, temáticas importantes 
+para desenvolvimento de palestras e repensar novas dinâmicas de 
+interação e aproveitamento do conhecimento ofertado pelos palestrantes. 
+01/02 
+28/02 
+ 
+02‐ Definição do tema, temáticas abordadas e convidados. Celebração dos 
+convites e abertura da comunicação interna para a comunidade de 
+interesse. 
+01/03 
+31/03 
+ 
+03‐ Treinamento de evacuação para docentes e discentes com o apoio da 
+Defesa Civil 
+01/04 
+30/04 
+ 
+04‐ Acontecimento da SIPAT da FATEC de Itapira 2024, Treinamento da 
+Brigada de Emergência e atividade prática e evacuação com a supervisão 
+da Defesa Civil  
+01/05 
+31/05 
+ 
+05‐ Reflexão sobre os resultados obtidos com os trabalhos da CIPA; 
+dificuldades encontradas no desenvolvimento do trabalho; novas 
+propostas de atuação etc. 
+01/06 
+30/06 
+ 
+06‐ Reflexão sobre os resultados obtidos com os trabalhos da CIPA; 
+dificuldades encontradas no desenvolvimento do trabalho; novas 
+propostas de atuação etc. 
+01/07 
+31/07 
+Custo R$ (se houver): 
+Planejamento realizado 
+durante horário de 
+expediente 
+Fonte(s) dos recursos: 
+Centro Paula Souza
+Situação problema: 
+cat 0.1.05 - Materiais, equipamentos e mobiliários
+(a ser resolvida/mitigada) 
+cat 0.1.13 - Relacionamento interpessoal da equipe
+ 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+602 ‐ cat 6.02 ‐ Projeto e atividade de Integração (docente e servidores)
+Origem (prioridade): 
+6‐Outra 
+O que será feito: 
+Comemoração dos 10 anos da Fatec de Itapira
+Por que será feito: 
+Comemorar os 10 anos de atuação da Fatec de Itapira na formação tecnológica. 
+Responsável: 
+Adriana Fernandes Teixeira 
+Qde CH/sem:
+8
+Tipo:
+H ‐ Hora <não 
+tipificada> 
+Colaborador(a): Daniela Bellini Destro Altafini Trani 
+Qde CH/sem: 
+8 
+Tipo:
+H ‐ Hora <não 
+tipificada>
+Período de execução: 
+Data inicial: 
+02/01/2024 
+Data final:
+31/07/2024 
+Etapas do processo: 
+01‐ Planejamento das ações 
+02/01 
+31/01 
+ 
+02‐ Divulgação da programação e abertura oficial da programação 
+comemorativa aos 10 anos 
+01/02 
+29/02 
+ 
+03‐ Palestra comemorativa 
+01/03 
+31/03 
+ 
+04‐ Depoimento de ex‐alunos e treinamento 
+01/04 
+30/04 
+ 
+05‐ Treinamento 
+01/05 
+31/05 
+ 
+06‐ Coquetel 
+01/06 
+30/06 
+ 
+07‐ Balanço 
+01/07 
+31/07 
+Custo R$ (se houver): 
+Não se aplica 
+Fonte(s) dos recursos: 
+Recurso angariados com empresariado 
+local
+Situação problema: 
+cat 0.1.99 - Outra 
+(a ser resolvida/mitigada) 
+cat 0.1.06 - Quantidade de professores/funcionários
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+07 – Convênios e Parcerias Institucionais 
+Formalização do relacionamento da Unidade com o Ecossistema de Tecnologia: Convênio de uso de prédio, 
+estágios, projetos com empresas. Aqui cabe apenas novos convênios e parcerias, e cada proposta deve estar 
+relacionada a uma Ação/Projeto de melhoria em algum dos itens anteriores do PGA (1, 2, 3, 4, 5 ou 6). 
+AÇÃO/PROJETO (Tema) 
+701 ‐ cat 7.02 ‐ Contrato de estágio 
+Origem (prioridade): 
+6‐Outra 
+Referente ao(s) projeto(s): 101, 102 e 103 
+O que será feito: 
+Integralizar o processo curricular de curso para que os alunos em fase de estágio supervisionado 
+obrigatório 
+Por que será feito: 
+Melhoria necessária para que estudantes consigam quando não tiverem a possibilidade de 
+equivalência das atividades de trabalho com comprovação de vínculo via carteira de trabalho 
+integralizar o processo curricular de curso – CAPTAÇÃO E ANÁLISE DE CONVÊNIOS CELEBRADOS 
+PELA FATEC DE ITAPIRA E CENTRO PAULA SOUZA   
+Responsável: 
+Profa. Esp. Luciene Rela Arakaki Fuini – CST em GPI 
+Prof. Esp. José Gonçalves Pinto Júnior – CST em DSM 
+Prof. Dr. Hermas Amaral Germek – CST em GTI 
+Prof. Me. Wladimir José Camillo Menegassi – CST em GE
+Qde CH/sem:
+6
+para 
+cada 
+doce
+nte 
+Tipo:
+HAE ‐ Hora Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+01/02/2024 
+Data final:
+31/07/2024 
+Etapas do processo: 
+01‐ Análise dos alunos matriculados em Estágio Supervisionado, do 
+número de alunos que necessitam cumprir esta etapa curricular 
+obrigatória sem possuírem vínculo empregatício. 
+01/02 
+29/09 
+ 
+02‐ Busca de oportunidades pelos centros e órgãos cadastrados. Captação 
+de vagas locais para inserção do aluno em atividade de estágio 
+supervisionado. 
+01/03 
+31/03 
+ 
+03‐ Busca de oportunidades pelos centros e órgãos cadastrados. Captação 
+de vagas locais para inserção do aluno em atividade de estágio 
+supervisionado. 
+01/04 
+30/04 
+ 
+04‐ Captação de vagas locais para inserção do aluno em atividade de 
+estágio supervisionado. 
+01/05 
+31/05 
+ 
+05‐ Captação de vagas locais para inserção do aluno em atividade de 
+estágio supervisionado 
+01/06 
+30/06 
+ 
+06‐ Balanço crítico das atividades propostas e sugestão para o bom 
+andamento das ações no próximo semestre. 
+01/07 
+31/07 
+Custo R$ (se houver): 
+R$ 36,18 cada HAE 
+Fonte(s) dos recursos: 
+Centro Paula Souza
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão
+(a ser resolvida/mitigada) 
+cat 0.1.07 - Comunicação com a comunidade acadêmica
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Comentado [TLdA8]: Essa proposta deve estar 
+relacionada a uma Ação/Projeto de melhoria em algum dos 
+itens anteriores do PGA (1, 2, 3, 4, 5 ou 6). 
+Comentado [AT10R9]: Sim, serão 6 HAEs para cada 
+docente envolvido que é o que prevê a cota de HAE para 
+cada curso para esta modalidade. Aerei o campo acima 
+também só não consegui dar ok na notinha! 
+ 
+Comentado [TLdA9]: Serão 6HAE para cada um dos 
+professores envolvidos? 
+ 
+Anexo 1 – Lista de aquisições necessárias aos projetos 
+(equipamentos, softwares, mobiliários) 
+ 
+Item 
+Projeto 
+(XYY) 
+Denominação ou especificação do equipamento 
+Quant. 
+Preço total 
+estimado 
+(R$)
+01 
+202; 203; 
+206 
+Notebook; Microcomputador Portátil; Com Processador de 04 Núcleos, 
+08 Threads; Com Frequência de Clock Real, Igual Ou Superior a 5.00 
+Ghz; Memória Ram Ddr4 de 3200mhz; de 64gb; Cache de 12mb; 
+Controladora de Disco Padrão Pcie Nvme M.2; Com 01 Disco; de 512gb; 
+Padrão Ssd; Barramento Da Controladora de Video Padrão Dedicado; 
+Controladora de Video Gddr5; de 2,0gb; Com Usb Type-c Thunderbolt 4, 
+2 Usb 3.2, Conexão P2 Headhphone, Conexão P2 Microfone, 1 Hdmi 
+2.1; Teclado Em Português (padrão ABNT Ou ABNT2); Tela Full Hd 
+Wva de 15.6"; Resolução de 4096 x 2304; Acondicionado Em 
+Embalagem Que Assegure a Integridade do Produto; Sistema 
+Operacional Windows 11 Home; Com Bateria e Carregador; Garantia 
+Mínima de 12 Meses 
+50 
+R$ 3.000,00 até 
+R$ 5.000,00 
+02 
+201 
+Blocos em "v" magnético ‐ 70x60x70mm -  100x95x70mm 
+02 
+R$ 208,70 até 
+R$ 2.539,00 
+03 
+205 e 207 
+Calibrador traçador de altura ‐  300mm - 600mm 
+02 
+R$ 460,00 até 
+R$ 2.735,00 
+04 
+204 
+Esquadro combinado de aço ‐ 300mm 90° ‐ 300mm Digimess
+ 
+05 
+R$ 25,00 até R$ 
+1.020,00 
+05 
+205 e 207 
+Ferramenta calibrador, com haste e cursor, calibrador traçador de 
+altura Analógico 300mm Digital 600mm 
+ 
+02 
+R$ 1.760,00 até 
+R$ 4.635,00 
+06 
+205 e 207 
+Calibrador de Boca Ajustável (Tipo Passa/Não‐Passa  ‐‐6‐13mm ‐‐ 70 ‐
+76mm) 
+01 
+R$ 1.137,00 até 
+R$ 1.894,00 
+07 
+20 e 2075 
+Jogo de bloco padrão fabricado em aço com 38 peças 
+01 
+R$ 2.034,00 até 
+R$ 2.360,00 
+08 
+205 e 207 
+Medidor de rugosidade, portátil; display sensível ao toque 
+01 
+R$ 940,00 até 
+R$ 25.093,00 
+09 
+205 e 207 
+Mesa de desempeno, Fabricado Em Granito Preto; Superfície de edição 
+Lapidada; 630 X 400 X 120 mm 
+02 
+R$ 2.261,00 
+10 
+205 e 207 
+Mesa de seno, simples; em aço, com dureza (hrc 55 / 56 graus); com 
+inclinação de até 46 graus 
+Magnética 15kg - Magnética 32kg 
+01 
+R$ 3.941,00 até 
+R$ 6.817,00 
+11 
+205 e 207 
+Micrômetro, em arco rígido de aço forjado; externo (analógico); 
+resolução de 0.001 mm 
+05 
+R$ 346,00 até 
+R$ 630,00 
+12 
+205 e 207 
+Micrometro; Formado Em Arco, d; Modelo Externo, Digital; Resolução 
+de 0.001 Mm, Exatidão de + Ou ‐ 0.002mm; Capacidade de Medição 
+150 a 175 Mm 
+03 
+R$ 521,00 até 
+R$ 1.070,00 
+13 
+205 e 207 
+Micrometro; Interno, Com 3 Pontas de Aço, Retificadas e Lapidadas; 
+Escala Em Tambor e Bainha Com Acabamento Cromado; Graduação de 
+0.005 Mm, Exatidão 0.005 Mm 
+01 
+R$ 2.820,00 até 
+R$ 3.600,00 
+14 
+205 e 207 
+Micrometro; Interno de 3 Pontas de Contato; Digital; Resolução de 
+0,001 Mm, Exatidão de 0,003 Mm; Capacidade de 87‐100 Mm 
+ 
+01 
+R$ 1.106,00 até 
+R$ 1.600,00 
+15 
+205 e 207 
+Micrômetro; formado em arco de aço forjado; externo digital; 
+resolução 0.001 mm, exatidão +/‐ 0.001 mm; amplitude 25 a 50 mm 
+02 
+R$ 1.667,00 até 
+R$ 2.250,00 
+16 
+205e 207 
+Paquímetro; Em Aço Inoxidável; Bico Fino; Digital; Visor Lcd 4 Dígitos; 
+Escala Graduada Em Milimetro e Polegada; Resolução de 0,01mm/.0005; 
+Capacidade 0‐150 Mm; Com Profundidade 
+ 
+02 
+R$ 615,00 até 
+R$ 1.150,00 
+17 
+205 e 207 
+Projetor de perfil; para medição de peças de pequeno e médio porte 
+com tela de projeção vertical mínimo 315 mm com linhas de 
+referências cruzadas a 90º 
+01 
+R$ 191,30 
+18 
+205 e e 207 Régua de seno 
+03 
+R$ 333,00 até 
+R$ 4.950,00 
+19 
+205 e 207 
+Relógio Comparador; Digital; Resolução de 0,01mm, Capacidade de 0 a 
+50 Mm, Canhão de Ø8mm ‐ 25,4mm - 25mm 
+01 
+ R$ 412,00 até 
+R$ 743,00 
+20 
+205 e 207 
+Relógio de Metrologia; Em Aço; Tipo Apalpador; Horizontal; Capacidade 
+0.8 Mm; Resolução de 0.01mm 
+01 
+R$ 1.500,69 
+21 
+205 e 207 
+Suporte  para  Relógio;  Base  Magnética,  para  Relógio  Comparador; 
+Coluna Articulada Com Trava Por Sistema Hidráulico 
+05 
+ 
+R$ 140,00 
+até R$ 1.007,00 
+22 
+205 e 207 
+Trena 5 mts 
+03 
+R$ 15,00 até R$ 
+30,00 
+23 
+205e e 207 
+Trena Eletrônica; Trena a Laser 120m C/ Bluetooth, Visor Ips; Com 
+Indicação Medir Com Precisão Ambientes, 
+1 
+R$  235,50 até 
+R$ 2.700,00 
+24 
+205 e 207 
+Bancada; Tampo de Madeira Maciça ‐ 1500x550mm - 1500x920mm 
+1 
+R$ 2.033,00 até 
+R$ 2.600,00 
+ 
+25 
+208 
+Conjunto Didático, Kit Arduino; para Uso Em Laboratório de Eletrônica; 
+Tipo Kit Arduino; Contendo 01 Arduino Uno R3 (microcontrolador 
+Atmega328, Tensão de Operação 5v); Tensão de Entrada: 7-12v, Portas 
+Digitais: 14 (6 Podem Ser Usadas Como Pwm), Portas Analógicas: 6; 
+Corrente Pinos I/o: 40ma, Corrente Pinos 3,3v: 50ma, Memória Flash: 
+32kb (0,5kb Usado No Bootloader); Sram: 2kb, Eeprom: 1kb, Velocidade 
+do Clock: 16mhz), 01 Cabo Usb 2.0 A-b Compatível C/ Saída Arduino; 01 
+Placa Protoboard C/ 830 Furos; 10 Leds; 10 Resistores 220 Ohms; 10 
+Resistor 1k Ohms; 10 Resistor 10k Ohms; 01 Potenciômetro de 10 k 
+Ohms; 01 Buzzer Ativo; 01 Buzzer Passivo; 03 Botões; 01 Display Digital 
+7 Segmentos; 01 Display Digita4x7 Segmentos; 01 Display 10 Segmentos 
+Bargraph Vermelho; 01 Sensor de Luminosidade (photoresistor);; 01 
+Sensor de Efeito Hall; 01 Sensor Infravermelho(infrared Receiver); 01 
+Sensor de Termistor; 01 Sensor de Balanço (ball Switch); 01 Modulo 
+Ledrgb; 01 Display 10 Segmentos Bargraph Vermelho; 20 Fios Macho-
+macho, 10 Fios Macho-femea, 01 Conector de Bateria 9v. 
+ 
+30 
+R$ 285,00 até 
+R$ 351,00 
+26 
+204 
+Máquina  universal  de  ensaios  de  tração,  compressão,  flexão, 
+embutimento, cisalhamento ‐ 100kg 
+ 
+01 
+R$ 20.800,00 
+27 
+204 
+Durômetro Analógico 
+ 
+10 
+R$ 1.690,00 até 
+R$ 4.970,00 
+28 
+204 
+Micrômetro Analógico ‐ Externo 25mm ‐ Externo 150‐300mm
+ 
+10 
+ 
+R$ 67,00 até R$ 
+1.900,00 
+29 
+204 
+Micrômetro Digital ‐ 12,7mm ‐ 3 pontas 225‐250mm 
+ 
+10 
+R$ 39,00 até R$ 
+18.080,00 
+30 
+209 
+Desktop Plus Padrão CPS ‐ PROCESSADOR  01 (um) processador, padrão 
+de arquitetura do processador x86 de 32 bits com suporte à extensão 64 
+bits, de no mínimo 08 núcleos físicos com no mínimo 16 threads, com 
+tecnologia de fabricação de 10 nanômetros ou menor (AMD Ryzen 7 ou 
+Intel Core i7 ou superiores); O processador deverá estar em linha de 
+produção pelo fabricante e ter sido lançado a partir de janeiro de 2022, 
+da  última  geração  ou  imediatamente  anterior,  inclusive,  não  sendo 
+aceitos 
+processadores 
+descontinuados. 
+O 
+processador 
+deve 
+implementar  mecanismos  de  redução  de  consumo  de  energia 
+compatível com o padrão ACPI versão 2.0 ou superior e deverá possuir 
+controle automático para evitar superaquecimento que possa danificá‐
+lo.  MEMÓRIA RAM Deverão ser fornecidos no mínimo 16 GBytes de 
+memória RAM por computador. Barramento de memória no mínimo do 
+tipo  DDR5  4400MHz  ou  superior,  capaz  de  operar  com  dois  canais 
+simultâneos  –  “Dual  Channel”.  Mínimo  02  slots  de  memória.  O 
+computador deverá suportar expansibilidade de memória de no mínimo 
+64GB.    CIRCUÍTOS  INTEGRADOS  DE  CONTROLE  AUXILIAR  DO 
+PROCESSADOR (CHIPSET) O chipset deverá suportar e operar no mínimo 
+memória RAM do tipo DDR5com frequência igual ou superior a 4400MHz 
+e deverá ser capaz de operar com dois canais simultâneos dual channel 
+memory).  Deverá  possuir  controladora  de  disco,  com  no  mínimo  1 
+conector SATA 3.0 e 1 conector PCIe NVMe de 64 Gbps ou superior. 
+Deverá implementar mecanismos de redução de consumo de energia 
+compatível  com  o  padrão  ACPI  versão  2.0  ou  superior.  PLACA  MÃE 
+(MOTHERBOARD) E BIOS O BIOS UEFI deverá ser do tipo Flash Memory, 
+utilizando memória não volátil e eletricamente reprogramável. Deverá 
+mostrar  no  monitor  de  vídeo  o  nome  do  fabricante  do  computador 
+sempre que o computador for inicializado. A inicialização do computador 
+110 
+R$ 4.000,00 até 
+R$ 6.000,00 
+deverá ser realizada na sequência definida pelo usuário, via CDROM e/ou 
+unidade  de  armazenamento,  bem  como  suportar  pela  placa  de  rede 
+através do recurso WOL (Wake on LAN) compatível com o padrão PXE 
+(Pré‐boot Ex 
+ 
+31 
+208 
+Máquina de Corte a Laser ‐ Máquina de Corte a Laser ‐ Máquina de 
+Cortar a Laser; Materiais Aplicáveis: Mdf, Acrílico, Couro, Tecidos, 
+Papeis, Eva, Espuma, Outros; Potência 40w; Área de Trabalho 400 Mm 
+x 400 Mm; Velocidade Máxima de Gravação 350 Mm/s (ou Superior); 
+Medidas Da Maquina/peso: 96 x 70 x 30 Cm / 70kg; Inclui: Bomba de 
+Refrigeração a Agua, Mini Compressor Eletromagnético e Mini Exaustor 
+de Ar.; Tensão 220v; Garantia Mínima 12 Meses; 
+1 
+R$ 1649,00 até 
+R$ 11.421,20 
+32 
+208 
+Scanner 3D ‐ para Digitalização de Objetos, Scanner 3d; Portátil; 
+Resolução Ótica Hardware Mínima de Resolução Da Malha 0,100mm; 
+Tx. de Medição 800.000 Medições/s; Fonte de Luz 7 Lasers Cruzados 
+Azuis; Resolução Da Medição 0,025mm, Precisão Até 0,035mm; 
+Quantidade Mínima de Cores Captura de Cores Opcional; Interface Usb; 
+Software Vxelements Ou Compatível; Digitalização Mínima de Faixa de 
+Tamanho de Peças (recomendado) 0,05 a 4 M; Garantia de 12 Meses; 
+Com Manual Técnico, Classe do Laser 2m (seguro para os olhos); 
+1 
+R$1.831,53 até
+R$ 13.599,00  
+33 
+208 
+Conjunto didático para estudo de robótica educacional composto por: ‐
+Plataforma eletrônica de prototipagem física com capacidade de 
+comunicação USB, Bluetooth e WiFi. Com linguagem de programação 
+compatível com padrão Arduino, IDE Arduino e bibliotecas opensource.  
+‐Chassi fabricado com poliestireno de alto impacto (PSAI), com furações 
+para acoplar servos motores, sensores, garras robóticas, baterias de 
+energia e placa microprocessada. ‐ Conjunto de motores, rodas e 
+esteiras, com capacidade de serem acopladas ao chassi principal. ‐ 
+Conjunto de braço robótico confeccionado em poliestireno de alto 
+impacto (PSAI), com articulações, com uma garra para segurar 
+pequenos objetos, contemplar servomotores e estruturas, conectores e 
+cabos extensores adicionais e necessários para possibilitar que o 
+conjunto seja acoplado / desacoplado ao chassi principal. ‐ Dispositivos 
+diversos: mínimo de dois Sensores de Refletância QRE1113, um 
+Carregador Duplo para Bateria Li‐Ion, mínimo de 6 espaçadores 
+Sextavado de Nylon, um Sensor Ultrassônico HC‐SR04, mínimo de duas 
+Baterias Li‐Ion 18650 3,7V, um Cabo micro USB, uma Fita de PVC 
+“preta” para criar traçado, um Suporte para Sensor Ultrassônico, 
+mínimo de dois Suporte para 2 Baterias de Li‐Ion, mínimo de 20 
+Jumpers 20cm Fêmea‐Fêmea (diferentes cores de cabo), 
+uma Chave Philips 
+30 
+R$ 250,85 até 
+R$ 1.700,00 
+34 
+204 
+Máquina universal de ensaios de tração, compressão, flexão, 
+embutimento, cisalhamento em materiais metálicos; microprocessada; 
+com células de carga intercambiável de 100kn e 5kn, acionamento por 
+2 fusos de esferas recirculantes; velocidade variável de 0.01 até 500 
+mm/min interface USB/rs232, resolução de deslocamento de 0.01 mm; 
+com curso útil de ensaio de no mínimo 1200 mm e abertura livre de no 
+mínimo 400 mm; controle das seguintes variáveis: forca máxima, 
+alongamento total, linear na carga máxima; controle de velocidade 
+automática, linear total, manutenção da carga constante; acompanham 
+conjuntos de garras, mordentes para corpos de prova planos e 
+redondos; par de pratos para ensaio de compressão, extensômetros de 
+pequenas, médias e grandes deformações; bancada para instalação da 
+máquina, alimentação elétrica 220 v ‐ 60 Hz monofásica; inclui software 
+de gerenciamento de dados e emissão de relatórios para tratamento de 
+ensaios; acompanha manual técnico em português, treinamento, 
+certificado de calibração rbc; garantia mínima de 12 meses. 
+1 
+R$ 7.000,00 até 
+R$ 10.000,00 
+35 
+205 e 207 
+Equipamentos para fins didáticos; durômetro analógico; para ensaio de 
+dureza rockwell normal, superficial, brinell em metais, conforme norma 
+din 50150; corpo em alumínio fundido com pintura tinta epóxi; 
+profundidade de no mínimo de 115 mm; ensaio de dureza rockwell 
+com carga de 150 kg, brinell com carga de 187,5 kg, esfera de 2,5 mm; 
+3 
+R$ 2.158,00 até 
+R$ 30.618,00 
+relógio analógico com resolução de 0,5 hrc; fuso manual com mesa 
+plana no mínimo 63 mm de diâmetro, batente em "v"; capacidade de 
+ensaio em peças de até 170 mm; acompanha: lupa de medição, 
+penetrador rockwell, penetrador brinell com esfera de 2,5 mm; cinco 
+esferas de 2,5 mm intercambiáveis; padrão de dureza rockwell de 50 a 
+65 hrc; padrão de dureza brinell 2,5/187,5 ‐ 300 hb; certificado de 
+calibração do equipamento e dos padrões de dureza. 
+36 
+205 e 207 
+ 
+Micrômetro Externo Analógico amplitude 25 a 50 Mm; Arco Fabricado 
+Em Aço Forjado, Com Acabamento Pintado e Esmaltado; Externo, 
+Analógico; Resolução 0.001 Mm, Exatidão +/‐ 0.001 Mm; Amplitude 25 
+a 50 Mm; Tambor, Bainha e Catraca Em Metal Cromado Fosco; Fuso Em 
+Aço Temperado Com Diâmetro 6,5mm, Alavanca de Fixação do Fuso; 
+Protetores Termo isolantes, Faces de Medição Em Metal Duro Micro 
+Lapidadas; Acompanha: Manual de Instrução Em Português, Estojo 
+para Transporte; Garantia Mínima de 12 Meses; Acondicionado Em 
+Material Apropriado Que Garanta a Integridade do Material 
+5 
+R$ 119,00 até 
+2.260,00 
+37 
+205 e 207 
+ 
+Micrômetro; formado em arco de aço forjado; externo digital; 
+resolução 0.001 mm, exatidão +/‐ 0.001 mm; amplitude 25 a 50 mm; 
+protegido contra a penetração de poeira e jatos d´agua (ip65), sem 
+saída de dados; trava com anel recartilhado, tambor de fricção suave 
+para pressão uniforme; função de auto desligamento; acompanha 
+certificado de inspeção individual; alimentação: 1 bateria sr44 (6.000h); 
+com certificado de garantia e manual de instrução; acondicionado em 
+estojo. 
+2 
+R$ 119,00 até 
+2.260,00 
+38 
+205 e 207 
+ 
+Paquímetro Digital, Exatidão +/‐0.02, Capacidade 0 a 200 mm, Função 
+Bateria; Aço Inoxidável Temperado de Alta Resistencia; Digital; Saída de 
+Dados Pode Ser Integrado Ao Controle Estatíst. de Processo Ou C/ Sist. 
+de Controle de Medição; Lcd; Mm e Polegadas; Resolução: 0,01 Mm e 
+Exatidão de +/‐ 0.02; Capacidade: 0 Mm a 200 Mm; Profundidade 
+Aprox. Externa 50 Mm e Interna 20mm; Funcionamento a Bateria; 
+Sistema de Indução Eletromagnética Permite o Uso Em Condições de 
+Chão de Fábrica. Após Ser Ligado; As Medições Podem Ser Iniciadas 
+Sem Necessidade de Zeramento Caso a Origem Esteja Previamente 
+Setada; Medição Incremental: o Mostrador Pode Ser Zerado Em 
+Qualquer Posição para Medições Em Comparação; Alerta de Bateria 
+Fraca; Acondicionado Em Estojo; 
+10 
+R$ 289,00 até 
+R$ 2.559,00 
+ 
+ 
+Total geral 
+R$ 700.000,00 
+Considerando 
+os valores 
+mínimos 
+ 
+ 
+ 
+ 
+Anexo 2 – Lista de Ações/Projetos referentes à CPA 
+ 
+Item 
+Projeto 
+(XYY) 
+Denominação 
+(O que será feito) 
+Prazo 
+01 
+A31 
+Sensibilização da Comunidade Acadêmica Sobre a CPA 2023.1 ‐ Ciclo 2022‐2024 e 
+Apresentação do Balanço Crítico do Relatório da CPA 2022.1 – Ciclo 2022 – 2024 
+31/12/2024 
+02 
+A1 
+Biblioteca Ativa na FATEC de Itapira  
+ 
+31/12/2024 
+03 
+601 
+SIPAT da FATEC de Itapira: Capacitação de Pessoal 
+31/12/2024 
+04 
+701 
+Captação e Análise de Convênios Celebrados pela FATEC de Itapira e Centro Paula 
+Souza. 
+31/12/2024 
+05 
+301 
+A2 
+Processo de Editoração da Revista Científica Prospectus – FATEC de Itapira 
+31/12/2024 
+06 
+A24 
+A25 
+Aulas Experimentais de Programação 
+31/12/2024 
+07 
+202 
+203 
+A27 
+Implantação do Laboratório de Metrologia 
+31/12/2024 
+08 
+A23 
+Espanhol para a Comunidade 
+31/12/2024 
+09 
+401 
+Capacitação e Conscientização da Relevância do Exame Nacional de Desempenho 
+dos Estudantes - ENADE 
+31/12/2024 
+10 
+302 
+Ampliação da Sala de Estudos por meio da utilização de notebooks 
+31/12/2024 
+11 
+ 
+ 
+dd/mm/aaaa 
+12 
+ 
+ 
+ 
+13 
+ 
+ 
+ 
+14 
+ 
+ 
+ 
+15 
+ 
+ 
+ 
+16 
+ 
+ 
+ 
+17 
+ 
+ 
+ 
+18 
+ 
+ 
+ 
+19 
+ 
+ 
+20 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<fim> 
+ 
+ 
+ 
+ 
+ 
+ 

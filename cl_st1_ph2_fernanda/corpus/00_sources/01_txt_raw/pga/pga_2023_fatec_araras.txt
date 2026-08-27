@@ -1,0 +1,1151 @@
+PLANO DE GESTÃO ANUAL – PGA 
+v07 
+Estruturado em 3 etapas: 
+ETAPA I – PLANEJAMENTO PELA EQUIPE GESTORA DA UE 
+ETAPA II – APROVAÇÃO E HOMOLOGAÇÃO 
+ETAPA III – ACOMPANHAMENTO DAS AÇÕES GERENCIAIS 
+ 
+IDENTIFICAÇÃO DA UNIDADE 
+Unidade 
+290 
+Fatec Araras “Antonio Brambilla” 
+Diretor 
+Professor Mestre Marco Anselmo de Godoi Prezoto 
+ 
+ETAPA I – PLANEJAMENTO PELA EQUIPE GESTORA DA UE 
+ANÁLISE DO CENÁRIO (Breve diagnóstico/Baseline) 
+Criada pelo Governo do Estado de São Paulo mediante a publicação do Decreto nº. 62.680/2017, 
+a Fatec Araras “Antonio Brambilla” iniciou as atividades com o Curso Superior de Tecnologia em Sistemas 
+para Internet, com 40 vagas semestrais no período Noturno. No 1º semestre de 2019 foi implantado o 
+Curso Superior de Tecnologia em Gestão Empresarial, com 40 vagas semestrais para o período Noturno. 
+No 1º semestre de 2021 foi implantado o Curso Superior de Tecnologia em Desenvolvimento de Software 
+Multiplataforma, com 40 vagas semestrais para o período Noturno em substituição ao Curso Superior de 
+Tecnologia em Sistemas para Internet. Atualmente possui 316 alunos matriculados em seus 3 Curso(s) 
+Superior(es) de Tecnologia. Agora no 1º Semestre de 2023 foi implantado 2 cursos AMS, Administração 
+e Desenvolvimento de Sistemas, em parceria com as empresas DevCoffee e Superfsoft, ofertando 80 
+vagas anuais. Semestralmente a unidade vem oferecendo de 3 a 5 cursos profissionalizantes de curta 
+duração pelo programa Novotec Expresso do Governo do Estado de São Paulo. Em termos de realizações 
+de eventos destacam-se a Semana da Carreira realizada semestralmente e a Semana Nacional da Ciência 
+e da Tecnologia realizada anualmente. A Fatec foi procurada pela prefeitura da cidade de Rio Claro para 
+prospecção de desenvolvimento de um sistema de gestão de documentos, sendo que desenvolveu para 
+a prefeitura da cidade de Araras o Projeto AUDIBUN (prof. Orlando Saraiva do Nascimento Junior), cujo 
+objetivo foi desenvolver uma solução WEB para o cadastro de fiscalizações imobiliárias, tornando o 
+processo mais transparente para a sociedade e unificando o cadastro de empresas no distrito industrial 
+de Araras. Em termos de internacionalização, dois alunos foram contemplados em 2020 com o intercâmbio 
+Arinter para a Espanha e agora em 2023, um aluno irá para a Inglaterra e 1 aluna irá para o Canadá.  
+A unidade possui um clima organizacional muito participativo, familiar e acolhedor e com grande 
+sentimento de pertencimento. Possui uma boa estrutura de salas de aulas, 6 laboratórios de informática 
+bem equipados, e principalmente professores qualificados e muitos alunos dedicados. Vem realizando um 
+sério trabalho de divulgação nas redes sociais, jornais, rádios, blogs e eventos da cidade e região com a 
+finalidade de tornar a unidade cada vez mais conhecida. Realizou várias capacitações para alunos e 
+participantes externos a comunidade, como capacitações em diferentes linguagens de programação, bem 
+como eventos de visitação, como o Fatec de Portas Abertas, e palestras e oficinas abertos a alunos e 
+convidados externos. 
+Entretanto existe pontos importantes a melhorar como a reforma do telhado que possui áreas de 
+telhas em críticas condições gerando goteiras, a substituição do forro de placas de fibrocimento, a 
+ampliação do sistema de alarmes e instalação do circuito de CFTV (a unidade foi invadida várias vezes 
+para furto de fios elétricos por possuir apenas 1 vigilante), a instalação de uma cantina para atender aos 
+alunos, o aumento de velocidade da internet com a troca do sistema de rádio por fibra ótica, a instalação 
+de uma rede de wifi ampla para atender aos alunos, a contratação de funcionários administrativos e de 
+bibliotecário e principalmente a compra de livros para os cursos de Gestão Empresarial e Desenvolvimento 
+de Software Multiplataforma, que vem impactando seriamente nos processos de reconhecimento de 
+cursos. A falta de cortinas e ares-condicionados nas salas, a retirada e substituição de árvores, bem como 
+a pavimentação do estacionamento dos alunos, disponibilização de mais bancos na área externa e a 
+criação de um ambiente interno para descanso também constam nas solicitações da comunidade interna. 
+A falta de professores deve diminuir um pouco com a contratação dos aprovados em concurso público, 
+porém como a maioria reside em cidade distantes, a ampliação de aulas fica limitada e em dúvida a 
+permanecia destes docentes na unidade. Existe também a promessa da Prefeitura Municipal de Araras 
+de construir entre 2023 e 2024 o 4º bloco para implantação do curso de Eletrônica Automotiva 
+O período pós pandemia de volta presencial às aulas trouxe a dificuldade dos custos de 
+transportes, alimentação e tempo de deslocamento entre o trabalho, casa e Faculdade, fazendo com 
+grande parte dos alunos trancassem suas matrículas ou desistissem, o que tem e continuará elevando o 
+índice de evasão. O arranjo produtivo local de maior impacto é o comercio e a prestação de serviços, que 
+exige trabalho aos sábados, o que tem impactado muito na não permanência dos alunos nos cursos. A 
+localização da Fatec na região da cidade de maior registro de tráfico de drogas e violência ainda gera 
+muito receio na população para estudar na unidade. 
+ 
+• 
+Discorrer sobre o cenário, realizando um breve diagnóstico (limitar o espaço da escrita, para que seja inserido de 
+forma suscinta). 
+APONTAMENTO DE SITUAÇÕES-PROBLEMA MAIS RELEVANTES (“Escuta”) 
+Fontes: relatório CPA, análise de processos críticos da UE, relatório de atendimento e ocorrências 
+Hórus GCom. relatório NDE, relatório de representação discente. 
+1 
+Aulas aos sábados 
+ 
+6 
+Melhoria Contínua dos Processos Administrativos 
+2 
+Custos dos transportes para alunos, professores e 
+funcionários 
+ 
+7 
+Rede de wifi ampla e com internet de boa velocidade 
+3 
+Falta de Segurança na unidade 
+ 
+8 
+Reforma no telhado/forro e instalação de cortinas 
+4 
+Falta de livros na Biblioteca 
+ 
+9 
+Falta de professores e funcionários 
+5 
+Retenção dos alunos 
+ 
+10 
+Arrecadar recursos externos para melhorias na 
+unidade 
+ 
+DEFINIÇÃO DE OBJETIVOS, METAS E AÇÕES (PROJETOS) 
+Objetivos 
+1 
+Implantação dos cursos AMS de Administração e Desenvolvimento de Sistemas (CESU A) 
+2 
+Revisão do PPC dos cursos de Gestão Empresarial e Desenvolvimento de Software Multiplataforma para eliminar as 
+aulas aos sábados (CESU B) 
+3 
+Melhoria da Infraestrutura da unidade (Reforma de Telhado/Forro, Cortinas, Instalação da Cantina e Rede Wifi) (CESU B) 
+4 
+Aumento da segurança da unidade (Aumento do sistema de alarme e instalação de CFTV) (CESU B) 
+5 
+Adequação da Biblioteca (Contratação de funcionário e compra de livros) (CESU B) 
+6 
+Patrocínio Público para o transporte de alunos das cidades de Leme e de Rio Claro (CESU D) 
+7 
+Reduzir a falta de professores (CESU B) 
+8 
+Criar sistema de avaliação dos professores feitas pelos alunos (CESU B) 
+9 
+Realizar eventos relacionados ao desenvolvimento da carreira e contato com o mercado de trabalho (CESU C) 
+10 
+Atualizar parque de computadores dos laboratórios 5 e 6, instalando computadores para uso público na Biblioteca (CESU 
+B) 
+11 
+Criar e estabelecer Associação sem fins lucrativos de Professores e Alunos Egressos (CESU E) 
+12 
+Criar Comissão Interna de Melhoria Contínua para redução de retrabalho e desperdício (CESU B) 
+• 
+Os objetivos devem estar relacionados com melhoria ou ação, sobre itens do PDI. 
+Metas 
+1 
+Manter 85% dos ingressantes de AMS em sala de aula 
+até o último dia de aula de 2023 
+ 
+5 
+Aumentar em 3% o PRP médio da unidade em relação ao 
+ano de 2022 
+2 
+Oferecer no vestibular 1S2024 40 vagas de Gestão 
+Empresarial e 40 de Desenvolvimento de Software 
+Multiplataforma no formato sem aulas aos sábados 
+ 
+6 
+Aumentar em 3% o número total de concluintes em 
+relação ao ano de 2022 
+3 
+Reduzir em 3% o índice atual de evasão em relação 
+ao ano de 2022 
+ 
+ 
+7 
+Receber 2 doações de produtos ou serviços até 
+31/12/2023 
+4 
+Aumentar em 3% a demanda atual do vestibular em 
+relação ao ano de 2022 
+ 
+ 
+ 
+ 
+• 
+Observar que cada meta deve ser: específica, mensurável, atingível, relevante e temporal. 
+ 
+ 
+ 
+ESTRUTURAÇÃO DAS AÇÕES/PROJETOS 
+01 - Didático-pedagógico 
+AÇÃO/PROJETO 
+A – Acompanhar a implantação do AMS na Fatec Araras 
+O que será feito: 
+Monitoramento dos trabalhos dos coordenadores de cursos e dos representantes das empresas 
+Por que será feito: 
+Para evitar evasão no ensino médio/técnico e conseguir o maior número possível de alunos 
+formados para ingressar no ensino superior 
+Responsável(is) / CH sem: Marco Anselmo de Godoi Prezoto (Hora de dedicação voluntária) 
+Período de execução: 
+Data de início: 
+01/02/2023 
+Data final: 
+31/12/2025 
+Etapas do processo: 
+Realizar a visita semanal aos coordenadores de curso 
+01/02/2023 
+31/12/2025 
+Realizar reuniões mensais com coordenadores e empresas parceiras 
+01/02/2023 
+31/12/2025 
+Elaborar projeto de sistema de avaliação do aluno sobre o AMS 
+03/04/2023 
+17/04/2025 
+Desenvolver o formulário/sistema de avaliação 
+18/04/2023 
+31/05/2023 
+Aplicar o formulário/sistema 
+01/06/2023 
+15/06/2023 
+Tabular os dados e preparar parecer 
+16/06/2023 
+30/06/2023 
+Reunião com coordenação e representantes de empresa sobre o 
+resultado da pesquisa 
+07/07/2023 
+07/07/2023 
+Definição do plano de ações de melhorias 
+10/07/2023 
+17/07/2023 
+Aplicar o formulário/sistema 
+10/11/2023 
+24/11/2023 
+Tabular os dados e preparar parecer 
+27/11/2023 
+07/12/2023 
+Reunião com coordenação e representantes de empresa sobre o 
+resultado da pesquisa 
+08/12/2023 
+08/12/2023 
+Definição do plano de ações de melhorias 
+11/12/2023 
+18/12/2023 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+CPS 
+Objetivo(s) relacionado(s): Implantação dos cursos AMS de Administração e Desenvolvimento de Sistemas (CESU A) 
+Meta(s) relacionada(s): 
+Manter 85% dos ingressantes de AMS em sala de aula até o último dia de aula de 2023  
+ 
+AÇÃO/PROJETO 
+B – Revisar o PPC dos cursos de Gestão Empresarial e Desenvolvimento de Software 
+Multiplataforma. 
+O que será feito: 
+Elaboração de proposta de mudança do PPC do curso para eliminar as aulas aos sábados 
+Por que será feito: 
+Para reduzir a evasão e aumentar a demanda do vestibular 
+Responsável(is) / CH sem: Zenaide Moschim (Hora de dedicação voluntária) – Nilton Cesar Sacco (Hora de dedicação 
+voluntária) 
+Período de execução: 
+Data de início: 
+20/03/2023 
+Data final: 
+20/09/2023 
+Etapas do processo: 
+Convocar reunião do NDE para abertura do assunto 
+06/03/2023 
+09/03/2023 
+Estabelecer atividades para cada integrante do NDE 
+23/03/2023 
+23/03/2023 
+Reunião de Fechamento da proposta 
+07/05/2023 
+07/05/2023 
+Apresentar proposta na reunião da Congregação 
+14/06/2023 
+14/06/2023 
+Envio da proposta para a CESU 
+15/06/2023 
+16/06/2023 
+Apresentar proposta na reunião com a CESU 
+19/06/2023 
+30/06/2023 
+Realizar ajustes solicitados para a CESU 
+03/07/2023 
+14/07/2023 
+Reenvio da proposta ajustada para a CESU 
+14/07/2023 
+21/07/2023 
+CESU encaminha proposta para o Conselho Deliberativo 
+25/07/2023 
+28/07/2023 
+Realizar ajustes enviados pelo Conselho Deliberativo 
+01/08/2023 
+11/08/2023 
+CESU encaminha novo PPC aprovado para a unidade 
+14/08/2023 
+18/08/2023 
+CESU encaminha mudança para o SIGA e para a aplicação do 
+vestibular 
+21/08/2023 
+20/09/2023 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+CPS 
+Objetivo(s) relacionado(s): Revisão do PPC dos cursos de Gestão Empresarial e Desenvolvimento de Software 
+Multiplataforma para eliminar as aulas aos sábados (CESU B) 
+Meta(s) relacionada(s): 
+Oferecer no vestibular 1S2024 40 vagas de Gestão Empresarial e 40 de Desenvolvimento de 
+Software Multiplataforma no formato sem aulas aos sábados 
+ 
+ 
+AÇÃO/PROJETO 
+C – Criar sistema para avaliação dos professores 
+O que será feito: 
+Desenvolvimento e implantação de sistema online que permita a avaliação dos professores pelos 
+alunos 
+Por que será feito: 
+Melhorar o processo ensino e aprendizagem; evitar evasão 
+Responsável(is) / CH 
+sem: 
+Nilton Cesar Sacco (Hora de dedicação voluntária) - Leonardo Souza de Lima (Hora de dedicação 
+voluntária) 
+Período de execução: 
+Data de início: 
+15/03/2023 
+Data final: 
+30/09/2023 
+Etapas do processo: 
+Levantar junto à coordenação as questões avaliativas dos professores. 15/03/2023 
+14/04/2023 
+Validação de questionário junto ao colegiado do curso. 
+17/04/2023 
+28/04/2023 
+Experimentação e escolha de plataformas que viabilizem a realização 
+da consulta. 
+02/05/2023 
+31/05/2023 
+Verificação de plataforma quanto à aspectos técnicos e de segurança. 01/06/2023 
+16/06/2023 
+Conscientizar alunos e professores sobre as atividades avaliativas. 
+19/06/2023 
+24/06/2023 
+Aplicação do questionário. 
+02/08/2023 
+12/08/2023 
+Tabulação dos dados e redação do relatório. 
+14/08/2023 
+15/09/2023 
+Apresentação do relatório e elaboração do plano de ação. 
+17/09/2023 
+30/09/2023 
+ 
+ 
+ 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+CPS 
+Objetivo(s) 
+relacionado(s): 
+Criar sistema de avaliação dos professores feitas pelos alunos (CESU B) 
+Meta(s) relacionada(s): 
+Aumentar em 3% o PRP médio da unidade em relação ao ano de 2022 
+ 
+ 
+AÇÃO/PROJETO 
+C – Programar com antecedência o oferecimento de disciplinas 
+O que será feito: 
+Elaboração de cronograma de datas de oferecimento de disciplinas, antecipando ações em 
+função das saídas dos professores determinados 
+Por que será feito: 
+Para evitar demora na contratação dos professores e perdas pedagógicas; evitar reposições em 
+período de férias e atender a reclamação de alunos 
+Responsável(is) / CH sem: Andreza Paiva de O. Carvalho (Hora de dedicação voluntária) 
+Período de execução: 
+Data de início: 
+03/04/2023 
+Data final: 
+31/10/2023 
+Etapas do processo: 
+Levantamento de dados de todos os professores da unidade.  
+03/04/2023 
+19/04/2023 
+Identificar principais aspectos que geram risco de desistência por 
+parte dos professores. 
+24/04/2023 
+12/05/2023 
+Identificando potenciais riscos de desistência, comunicar 
+coordenadores e diretoria. 
+15/05/2023 
+26/05/2023 
+Estabelecer contato com os professores a fim de mitigar problemas 
+que possam causar desistência. 
+12/05/2023 
+31/10/2023 
+Elaborar calendário de términos de contratos determinados. 
+14/04/2023 
+12/05/2023 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+CPS 
+Objetivo(s) relacionado(s): Reduzir a falta de professores (CESU B) 
+Meta(s) relacionada(s): 
+Aumentar em 3% o PRP médio da unidade em relação ao ano de 2022 
+ 
+ 
+ 
+02 – Ensino e Equipamentos Associados (Laboratórios) 
+ 
+AÇÃO/PROJETO 
+A - Aquisição de livros para a Biblioteca 
+O que será feito: 
+Compra do acervo completo de livros dos cursos de Gestão Empresarial e Desenvolvimento de 
+Software Multiplataforma até 31/12/2023 
+Por que será feito: 
+Atender à exigência legal; melhorar o processo do ensino e aprendizado; atender às reclamações 
+de alunos 
+Responsável(is) / CH sem: Marco Anselmo de Godoi Prezoto (Hora de dedicação voluntária) - Ana Paula Luzetti (Hora de 
+dedicação voluntária) 
+Período de execução: 
+Data de início: 
+20/03/2023 
+Data final: 
+31/12/2023 
+Etapas do processo: 
+Levantamento completo das bibliografias dos cursos ativos 
+03/04/2023 
+31/05/2023 
+Levantamento das obras já constantes no acervo. 
+01/06/2023 
+30/06/2023 
+Envio da relação atualizada do acervo para a CESU 
+03/07/2023 
+14/07/2023 
+Acompanhar processo de compra e entrega do acervo 
+17/07/2023 
+31/12/2023 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+CPS 
+Objetivo(s) relacionado(s): Adequação da Biblioteca (Contratação de funcionário e compra de livros) (CESU B) 
+Meta(s) relacionada(s): 
+Aumentar em 3% o PRP médio da unidade em relação ao ano de 2022 
+ 
+AÇÃO/PROJETO 
+B – Adquirir computadores e instalá-los  
+O que será feito: 
+Compra de 50 novos computadores e instalação nos laboratórios 4 e 5 e na Biblioteca 
+Por que será feito: 
+Para atender adequadamente às necessidades do processo ensino aprendizado 
+Responsável(is) / CH sem: Marco Anselmo de Godoi Prezoto (Hora de dedicação voluntária) - Ana Paula Luzetti (Hora de 
+dedicação voluntária) - Nilton Cesar Sacco (Hora de dedicação voluntária) 
+Período de execução: 
+Data de início: 
+20/03/2023 
+Data final: 
+31/12/2023 
+Etapas do processo: 
+Levantar requisitos de configuração para os computadores. 
+20/03/2023 
+25/03/2023 
+Identificar a quantidade de computadores a serem instalados em 
+cada área. 
+27/03/2023 
+31/03/2023 
+Encaminhar solicitação de compra para a UGAF 
+03/04/2023 
+10/04/2023 
+Preparar as áreas para receber as máquinas solicitadas. 
+11/04/2023 
+31/05/2023 
+Instalar os computadores e instalar os softwares necessários. 
+02/08/2023 
+31/12/2023 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+CPS 
+Objetivo(s) relacionado(s): Atualizar parque de computadores dos laboratórios 5 e 6, instalando computadores para uso 
+público na Biblioteca (CESU B) 
+Meta(s) relacionada(s): 
+Aumentar em 3% o PRP médio da unidade em relação ao ano de 2022 
+ 
+ 
+03 – Pesquisa / Extensão e Equipamentos Associados 
+ 
+AÇÃO/PROJETO 
+A - Criar Associação de Professores e Alunos Egressos 
+O que será feito: 
+Desenvolvimento de estatuto e criação de Associação sem fins lucrativos de Professores e Alunos 
+Egressos 
+Por que será feito: 
+Obter possibilidade de prestação de serviços para professores e alunos e obter recursos para 
+aplicar na melhoria da Faculdade  
+Responsável(is) / CH sem: 
+Marco Anselmo de Godoi Prezoto (Hora de dedicação voluntária) - Ana Paula Luzetti (Hora de 
+dedicação voluntária) - Nilton Cesar Sacco (Hora de dedicação voluntária) - Pedro Antunes 
+Parangaba Sales (Hora de dedicação voluntária) 
+Período de execução: 
+Data de início: 
+20/03/2023 
+Data final: 
+31/12/2023 
+Etapas do processo: 
+Pesquisar associações similares em outras instituições. 
+20/03/2023 
+28/04/2023 
+Pesquisar a legislação vigente. 
+20/03/2023 
+31/05/2023 
+Proposta e aprovação do estatuto da associação. 
+01/06/2023 
+31/08/2023 
+Eleger membros da primeira diretoria para implantação da 
+associação. 
+01/09/2023 
+31/10/2023 
+Identificar formas de engajar o público na participação da associação. 01/11/2023 
+31/12/2023 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+CPS 
+Objetivo(s) relacionado(s): Criar e estabelecer Associação sem fins lucrativos de Professores e Alunos Egressos (CESU E) 
+Meta(s) relacionada(s): 
+Receber 2 doações de produtos ou serviços até 31/12/2023 
+ 
+ 
+ 
+04 – Atividades Formativas em Projetos (nível tático) 
+ 
+AÇÃO/PROJETO 
+A - Organizar a Semana de Carreira 
+O que será feito: 
+Palestras com profissionais das áreas de Recursos Humanos, Gestão e Tecnologia 
+Por que será feito: 
+Para inspirar e motivar os estudantes a alcançarem seus objetivos profissionais; orientar os 
+alunos que estão iniciando em suas carreiras e auxiliar os que estão considerando mudanças na 
+trajetória profissional. 
+Responsável(is) / CH sem: Dhebora Umbelino Souza (Hora de dedicação voluntária) - Thiago Gonçalves Mendes (Hora de 
+dedicação voluntária)  
+Período de execução: 
+Data de início: 
+01/03/2023 
+Data final: 
+01/06/2023 
+Etapas do processo: 
+Definição das datas do evento 
+01/03/2023 
+10/03/2023 
+Agendamento dos palestrantes 
+13/03/2023 
+19/05/2023 
+Definição e organização do local do evento 
+13/03/2023 
+31/05/2023 
+Elaborar e disponibilizar o formulário de inscrições 
+02/05/2023 
+30/05/2023 
+Realização do evento 
+31/05/2023 
+01/06/2023 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+CPS 
+Objetivo(s) relacionado(s): Realizar eventos relacionados ao desenvolvimento da carreira e contato com o mercado de 
+trabalho (CESU C) 
+Meta(s) relacionada(s): 
+Aumentar em 3% a demanda atual do vestibular em relação ao ano de 2022 
+ 
+AÇÃO/PROJETO 
+B - Organizar a Semana de Ciência e Tecnologia 
+O que será feito: 
+Palestras com profissionais da área de Tecnologia; Apresentação de trabalhos desenvolvidos por 
+alunos da Fatec Araras. 
+Por que será feito: 
+Para inspirar e motivar os alunos a alcançarem seus objetivos profissionais; orientar os alunos 
+que estão iniciando em suas carreiras e auxiliar os que estão considerando mudanças na 
+trajetória profissional. Incentivar os estudantes a explorar o mundo da ciência e tecnologia. 
+Responsável(is) / CH sem: Nilton Cesar Sacco (Hora de dedicação voluntária) - Orlando Saraiva do Nascimento Junior (Hora 
+de dedicação voluntária) - Dhebora Umbelino Souza (Hora de dedicação voluntária) 
+Período de execução: 
+Data de início: 
+01/08/2023 
+Data final: 
+31/10/2023 
+Etapas do processo: 
+Definição das datas do evento 
+01/08/2023 
+04/08/2023 
+Agendamento dos palestrantes 
+07/08/2023 
+11/09/2023 
+Definição e organização do local do evento 
+07/08/2023 
+11/09/2023 
+Elaborar e disponibilizar o formulário de inscrições 
+12/09/2023 
+02/10/2023 
+Realização do evento 
+03/10/2023 
+07/10/2023 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+CPS 
+Objetivo(s) relacionado(s): Realizar eventos relacionados ao desenvolvimento da carreira e contato com o mercado de 
+trabalho (CESU C) 
+Meta(s) relacionada(s): 
+Aumentar em 3% a demanda atual do vestibular em relação ao ano de 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+05 – Infraestrutura (instalações prediais) 
+ 
+AÇÃO/PROJETO 
+A - Reformar telhado da unidade 
+O que será feito: 
+Reforma de 400 metros quadrados de telhado da unidade e troca do forro danificado 
+Por que será feito: 
+Para eliminar as goteiras da região que estão danificando a parte estrutural do prédio, bem como 
+geram risco de acidentes às pessoas 
+Responsável(is) / CH sem: Marco Anselmo de Godoi Prezoto (Hora de dedicação voluntária) - Ana Paula Luzetti (Hora de 
+dedicação voluntária) 
+Período de execução: 
+Data de início: 
+20/03/2023 
+Data final: 
+31/12/2023 
+Etapas do processo: 
+Elaboração de projeto  
+20/03/2023 
+30/04/2023 
+Elaborar instrução solicitando a liberação da verba 
+02/05/2023 
+12/05/2023 
+Busca de patrocínio externo complementar 
+15/05/2023 
+31/08/2023 
+Compra do material 
+01/09/2023 
+15/09/2023 
+Instalação do telhado e do forro 
+18/09/2023 
+31/12/2023 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+CPS 
+Objetivo(s) relacionado(s): Melhoria da Infraestrutura da unidade (Reforma de Telhado/Forro, Cortinas, Instalação da 
+Cantina e Rede Wifi) (CESU B) 
+Meta(s) relacionada(s): 
+Aumentar em 3% o PRP médio da unidade em relação ao ano de 2022 
+ 
+AÇÃO/PROJETO 
+B - Aquisição de roteadores 
+O que será feito: 
+Compra e instalação de 6 novos roteadores wifi até 31/12/2023 
+Por que será feito: 
+Para que os alunos, professores e servidores possam utilizar o wifi em suas atividades, 
+melhorando o atendimento e o aprendizado; atender reclamação dos alunos 
+Responsável(is) / CH sem: Marco Anselmo de Godoi Prezoto (Hora de dedicação voluntária) - Ana Paula Luzetti (Hora de 
+dedicação voluntária) - Nilton Cesar Sacco (Hora de dedicação voluntária) 
+Período de execução: 
+Data de início: 
+02/05/2023 
+ 
+31/12/2023 
+Etapas do processo: 
+Elaboração de projeto 
+02/05/2023 
+12/05/2023 
+Elaboração da instrução solicitando liberação de verba 
+15/05/2023 
+19/05/2023 
+Cotação e Compra dos roteadores 
+22/05/2023 
+30/09/2023 
+Configuração e Instalação dos roteadores 
+02/10/2023 
+31/12/2023 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+CPS 
+Objetivo(s) relacionado(s): Melhoria da Infraestrutura da unidade (Reforma de Telhado/Forro, Cortinas, Instalação da 
+Cantina e Rede Wifi) (CESU B) 
+Meta(s) relacionada(s): 
+Aumentar em 3% o PRP médio da unidade em relação ao ano de 2022 
+ 
+AÇÃO/PROJETO 
+C – Instalar cortinas  
+O que será feito: 
+Compra e instalação de cortinas para as 10 salas com maior incidência de sol no período 
+vespertino 
+Por que será feito: 
+Para adequação do conforto térmico e luminoso, e proteção dos equipamentos de informática; 
+atender reclamação dos alunos 
+Responsável(is) / CH sem: Marco Anselmo de Godoi Prezoto (Hora de dedicação voluntária) - Ana Paula Luzetti (Hora de 
+dedicação voluntária) 
+Período de execução: 
+Data de início: 
+10/04/2023 
+Data final: 
+31/12/2023 
+Etapas do processo: 
+Elaboração do projeto   
+10/04/2023 
+14/04/2023 
+Cotação dos suportes e cortinas 
+10/04/2023 
+24/04/2023 
+Elaboração da instrução solicitando a liberação da verba 
+17/04/2023 
+24/04/2023 
+Busca de patrocínio externo complementar 
+25/04/2023 
+30/06/2023 
+Compra dos suportes e cortinas 
+01/07/2023 
+31/10/2023 
+Instalação dos suportes e das cortinas 
+01/11/2023 
+31/12/2023 
+ 
+ 
+ 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+CPS 
+Objetivo(s) relacionado(s): Melhoria da Infraestrutura da unidade (Reforma de Telhado/Forro, Cortinas, Instalação da 
+Cantina e Rede Wifi) (CESU B) 
+Meta(s) relacionada(s): 
+Reduzir em 3% o índice atual de evasão em relação ao ano de 2022 
+ 
+ 
+ 
+AÇÃO/PROJETO 
+D – Instalar cantina na unidade 
+O que será feito: 
+ Adequação de sala de almoxarifado, licitação e instalação de cantinas para vender bebidas e 
+alimentos aos alunos 
+Por que será feito: 
+Dificuldade dos alunos do período noturno em se alimentar durante o período de aulas; evitar 
+evasões; atender reclamação dos alunos   
+Responsável(is) / CH sem: Marco Anselmo de Godoi Prezoto (Hora de dedicação voluntária) - Ana Paula Luzetti (Hora de 
+dedicação voluntária) 
+Período de execução: 
+Data de início: 
+01/06/2023 
+Data final: 
+31/12/2023 
+Etapas do processo: 
+Solicitar visita de arquiteto da UIE 
+01/06/2023 
+05/06/2023 
+Contatar prestadores de serviço par obter orçamentos 
+06/06/2023 
+21/06/2023 
+Elabora instrução para obter verba 
+21/06/2023 
+11/07/2023 
+Encaminhar instrução e obter aprovação 
+12/07/2023 
+11/09/2023 
+Contratar e realizar adequações 
+12/09/2023 
+11/10/2023 
+Encaminhar pedido de licitação 
+11/09/2023 
+18/09/2023 
+Realizar licitação 
+18/10/2023 
+19/11/2023 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+CPS 
+Objetivo(s) relacionado(s): Melhoria da Infraestrutura da unidade (Reforma de Telhado/Forro, Cortinas, Instalação da 
+Cantina e Rede Wifi) (CESU B) 
+Meta(s) relacionada(s): 
+Reduzir em 3% o índice atual de evasão em relação ao ano de 2022 
+ 
+AÇÃO/PROJETO 
+E – Pavimentar o estacionamento dos alunos 
+O que será feito: 
+Colocação de pedra britada no estacionamento dos alunos e plantio de árvores para o conforto 
+térmico 
+Por que será feito: 
+Evitar avarias aos veículos que estacionam naquele local; evitar evasões; atender reclamação dos 
+alunos 
+Responsável(is) / CH sem: Marco Anselmo de Godoi Prezoto (Hora de dedicação voluntária) - Ana Paula Luzetti (Hora de 
+dedicação voluntária) 
+Período de execução: 
+Data de início: 
+03/07/2023 
+Data final: 
+31/12/2023 
+Etapas do processo: 
+Elaboração de projeto 
+03/07/2023 
+29/07/2023 
+Levantamento dos prestadores de serviço especializados 
+01/08/2023 
+31/08/2023 
+Solicitar a verba junto a Prefeitura de Araras 
+01/09/2023 
+11/09/2023 
+Compra e colocação das pedras no estacionamento 
+12/09/2023 
+31/12/2023 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+CPS 
+Objetivo(s) relacionado(s): Melhoria da Infraestrutura da unidade (Reforma de Telhado/Forro, Cortinas, Instalação da 
+Cantina e Rede Wifi) (CESU B) 
+Meta(s) relacionada(s): 
+Reduzir em 3% o índice atual de evasão em relação ao ano de 2022 
+ 
+AÇÃO/PROJETO 
+F – Aumentar a segurança da unidade  
+O que será feito: 
+ Compra e instalação de sistema de CFTV e ampliação do sistema de alarme da unidade 
+Por que será feito: 
+Evitar que as invasões que geraram furtos de fios e pequenos objetos voltem a acontecer e passe 
+a se furtar equipamentos da unidade; Evitar risco de violência contra o único vigilante por turno 
+que a unidade possui 
+Responsável(is) / CH sem: Marco Anselmo de Godoi Prezoto (Hora de dedicação voluntária) - Ana Paula Luzetti (Hora de 
+dedicação voluntária) 
+Período de execução: 
+Data de início: 
+03/04/2023 
+Data final: 
+31/12/2023 
+Etapas do processo: 
+Elaboração de projeto  
+03/04/2023 
+20/04/2023 
+Levantamento dos prestadores de serviço especializados 
+03/04/2023 
+20/04/2023 
+Busca de patrocínio externo complementar 
+24/04/2023 
+28/04/2023 
+Elaborar instrução solicitando a liberação da verba 
+28/04/2023 
+02/06/2023 
+Instalação do sistema de CFTV 
+05/06/2023 
+31/12/2023 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+CPS 
+Objetivo(s) relacionado(s): Aumento da segurança da unidade (Aumento do sistema de alarme e instalação de CFTV (CESU 
+B) 
+Meta(s) relacionada(s): 
+Reduzir em 3% o índice atual de evasão em relação ao ano de 2022 
+ 
+ 
+ 
+06 - Desenvolvimento de pessoas (docentes e servidores) 
+ 
+AÇÃO/PROJETO 
+A – Aumentar a segurança na rede de computadores da unidade 
+O que será feito: 
+Instalar o domínio e usuário no servidor da unidade para exigir usuário e senha para entrar no 
+sistema 
+Por que será feito: 
+Maior segurança da rede, evitando invasões e protegendo os dados de acordo com a LGPD 
+Responsável(is) / CH sem: Nilton Cesar Sacco (Hora de dedicação voluntária) - Leonardo Souza de Lima (Hora de dedicação 
+voluntária) 
+Período de execução: 
+Data de início: 
+27/03/2023 
+Data final: 
+30/06/2023 
+Etapas do processo: 
+Adequação da infraestrutura de switches 
+27/03/2023 
+31/03/2023 
+Configuração do servidor para operar o serviço de domínio 
+03/04/2023 
+14/04/2023 
+Criação de usuários 
+17/04/2023 
+28/04/2023 
+Testes com o novo ambiente 
+02/05/2023 
+12/05/2023 
+Configuração de rede WiFi 
+02/05/2023 
+19/05/2023 
+Testes da rede WiFi 
+22/05/2023 
+07/06/2023 
+Capacitação da comunidade para operar na nova forma de acesso. 
+12/06/2023 
+30/06/2023 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+CPS 
+Objetivo(s) relacionado(s): Melhoria da Infraestrutura da unidade (Reforma de Telhado/Forro, Cortinas, Instalação da 
+Cantina e Rede Wifi) (CESU B) 
+Meta(s) relacionada(s): 
+Reduzir em 3% o índice atual de evasão em relação ao ano de 2022 
+ 
+AÇÃO/PROJETO 
+B – Criar Comissão Interna de Melhoria Contínua 
+O que será feito: 
+Revisão dos processos administrativos da unidade e automatização de etapas;  
+Por que será feito: 
+Obter maior agilidade nos processos administrativos e reduzir a fila de atendimento 
+Responsável(is) / CH sem: 
+Marco Anselmo de Godoi Prezoto (Hora de dedicação voluntária) - Ana Paula Luzetti (Hora de 
+dedicação voluntária) - Rosana Fátima de Melo (Hora de dedicação voluntária) - Nilton Cesar 
+Sacco (Hora de dedicação voluntária) 
+Período de execução: 
+Data de início: 
+02/05/2023 
+Data final: 
+31/12/2023 
+Etapas do processo: 
+Criar comissão multi departamentos para levantar os trabalhos 
+administrativos com maior quantidade de retrabalho 
+02/05/2023 
+31/05/2023 
+Estabelecer cronograma de análise 
+01/06/2023 
+07/06/2023 
+Realizar o estudo do processo e propor redução de etapas e 
+automação. 
+12/06/2023 
+30/06/2023 
+Criar equipes multidisciplinares para desenvolver e implantar os 
+novos processos. 
+03/07/2023 
+31/12/2023 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+CPS 
+Objetivo(s) relacionado(s): Criar Comissão Interna de Melhoria Contínua para redução de retrabalho e desperdício (CESU B) 
+Meta(s) relacionada(s): 
+Aumentar em 3% o número total de concluintes em relação ao ano de 2022 
+ 
+ 
+ 
+ 
+ 
+07 – Convênios e Parcerias Institucionais 
+ 
+AÇÃO/PROJETO 
+A – Patrocinar transporte de alunos de cidades vizinhas 
+O que será feito: 
+Disponibilização de um ônibus da prefeitura de Leme e de uma van da prefeitura de Rio Claro para 
+o transporte dos alunos até 31/12/2023 
+Por que será feito: 
+Reduzir a evasão e aumentar a demanda do vestibular da unidade; atender a reclamação dos 
+alunos 
+Responsável(is) / CH sem: Marco Anselmo de Godoi Prezoto (Hora de dedicação voluntária) - Ana Paula Luzetti (Hora de 
+dedicação voluntária) 
+Período de execução: 
+Data de início: 
+10/04/2023 
+Data final: 
+31/12/2023 
+Etapas do processo: 
+Levantar a quantidade de alunos das cidades vizinhas. 
+10/04/2023 
+20/04/2023 
+Entrar em contato com a prefeitura e câmara municipal. 
+24/04/2023 
+05/05/2023 
+Propor a elaboração de lei que permita o custeio do transporte dos 
+alunos. 
+24/04/2023 
+31/12/2023 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+ CPS 
+Objetivo(s) relacionado(s): Patrocínio Público para o transporte de alunos das cidades de Leme e de Rio Claro (CESU D) 
+Meta(s) relacionada(s): 
+Aumentar em 3% a demanda atual do vestibular em relação ao ano de 2022 
+ 
+ 
+ 
+ 
+ETAPA II – APROVAÇÃO E HOMOLOGAÇÃO 
+ 
+APROVAÇÃO DO PGA PELA CONGREGAÇÃO DA UE 
+Envio da Ata de aprovação 
+Ata assinada (.pdf) 
+Anexar arquivo 
+Data da aprovação: 
+dd/mm/aaaa  
+Data do envio: 
+dd/mm/aaaa  
+ 
+PARECER DA CESU 
+Data: 
+dd/mm/aaaa  
+Aprovado? 
+(   ) Sim                      (   ) Não 
+Se não aprovado, devolvido para adequação, com prazo para revisão até: 
+dd/mm/aaaa  
+Parecer: 
+ 
+ 
+ 
+ 
+ETAPA III – ACOMPANHAMENTO DAS AÇÕES GERENCIAIS 
+RELATÓRIO DE ACOMPANHAMENTO DE PROJETO (MENSAL) 
+Status mensal do projeto 
+Identificação do Projeto 
+(automático) 
+Data: 
+dd/mm/aaaa 
+Situação: 
+(   ) Em andamento                             
+Previsão de término: 
+dd/mm/aaaa 
+Justificativa: 
+ 
+(   ) Ainda não foi iniciado                   
+Previsão de início: 
+dd/mm/aaaa 
+Justificativa: 
+ 
+(   ) Cancelado (antes do início) 
+Data: 
+dd/mm/aaaa 
+Justificativa: 
+ 
+(   ) Suspenso (interrompido após 
+iniciado) 
+Data: 
+dd/mm/aaaa 
+Justificativa: 
+ 
+(   ) Concluído 
+Data da conclusão: 
+dd/mm/aaaa 
+Resultados: 
+ 
+ 
+Intercorrências: 
+ 
+ 
+Observação: 
+ 
+ 
+Meta(s) alcançada(s) 
+(aparecer a meta automaticamente, conforme indicada no projeto para a indicação do percentual 
+alcançado) 
+Evidência(s): 
+(descrever e inserir documento que evidencie a execução ou atingimento da meta) 
+ 
+ 
+Validação do relatório (acompanhamento) 
+Identificação do Projeto 
+(automático) 
+Data: 
+dd/mm/aaaa 
+Parecer: 
+Favorável? 
+(   ) Sim              (   ) Não                     (    ) Parcialmente favorável 
+Considerações/Recomendações: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

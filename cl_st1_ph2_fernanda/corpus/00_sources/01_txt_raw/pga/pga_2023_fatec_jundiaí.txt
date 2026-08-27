@@ -1,0 +1,949 @@
+PLANO DE GESTÃO ANUAL – PGA 
+v07 
+Estruturado em 3 etapas: 
+ETAPA I – PLANEJAMENTO PELA EQUIPE GESTORA DA UE 
+ETAPA II – APROVAÇÃO E HOMOLOGAÇÃO 
+ETAPA III – ACOMPANHAMENTO DAS AÇÕES GERENCIAIS 
+ 
+IDENTIFICAÇÃO DA UNIDADE 
+Unidade 
+114 
+Fatec Dep. Ary Fossen – Fatec Jundiaí 
+Diretor(a) 
+Francesco Bordignon 
+ 
+ETAPA I – PLANEJAMENTO PELA EQUIPE GESTORA DA UE 
+ANÁLISE DO CENÁRIO (Breve diagnóstico/Baseline) 
+Jundiaí é o 8° maior parque industrial e o 7° maior parque de comércio e serviços de São Paulo; classificada em 
+18° lugar no ranking geral e em 6° lugar entre cidades de 100 a 500 mil habitantes, das cidades americanas do 
+futuro (2022) e melhor cidade média por custo/benefício para investimentos no Brasil (american cities of the futur) 
+pelo Financial Times. 
+É a sede da Aglomeração Urbana de Jundiaí composta também pelas cidades de Várzea Paulista, Campo 
+Limpo Paulista, Jarinu, Itupeva, Cabreúva e Louveira. Jundiaí é localizada dentro da área de Macro metrópole de 
+São Paulo e desfruta de uma das melhores malhas de transporte do Estado de São Paulo, englobando rodovias, 
+ferrovias, portos, aeroportos e a hidrovia Tietê-Paraná; já é mapeada como “Centro logístico integrado” no PAM-LT 
+2040, como infraestrutura de intermodalidade. Estão previstos investimentos no transporte ferroviário e no aeroporto, 
+focando a internacionalização da economia de Jundiaí. O sistema de mobilidade urbana municipal já é integrado 
+aos planos regional e estadual. 
+Jundiaí é uma cidade digital e inteligente, contando com uma rede de cerca de 500 km de infovias que a coloca no 
+6° lugar no ranking de cidades mais inteligentes e conectadas (municípios entre 100 e 500 mil habitantes). 
+Estes fatores têm contribuído para que um número significativo de grandes e médias empresas se estabelecessem em 
+Jundiaí.  
+Jundiaí possui uma diversidade muito equilibrada de atividades econômicas envolvendo agronegócio, comércio, 
+serviços, indústria e tecnologia e é essa diversidade que coloca Jundiaí como a 17ª economia do país e a 7ª do Estado 
+de São Paulo; o parque industrial é heterogêneo e relevante, com mais de 160 empresas multinacionais; 
+aproximadamente 25% dos empregos formais da cidade são do setor industrial; o comércio gera 24% dos empregos 
+formais. 
+Jundiaí é o maior polo logístico do Estado e um dos maiores do país; o APL de logística é altamente consolidado e em 
+crescimento contínuo na cidade; concentra as maiores empresas nacionais e internacionais de distribuição de carga, a 
+maioria delas focadas no e-commerce. O novo curso de “Gestão de logística integrada” foi desenvolvido para atender 
+à demanda desse setor, englobando as mais modernas tendências tecnológicas e de gestão e foi construído com 
+ampla participação de algumas empresas. 
+Além de ser um grande polo logístico, Jundiaí cresce, cada vez mais, como um polo de alta tecnologia, com ênfase na 
+Tecnologia da Informação (TI); a oferta de CST nesta área (ADS, GTI, Sistemas embarcados e Defesa cibernética) 
+cobre 4 dos 5 vetores principais de atuação da TI, configurando a Fatec Jundiaí como centro de excelência em 
+formação profissional e pesquisa no setor. O convênio do CST em Sistemas embarcados com a Siemens é exemplo a 
+ser desenvolvido para os outros cursos. 
+O crescimento consistente do setor de turismo e eventos justifica plenamente o oferecimento do CST em Eventos. 
+Quanto ao setor ambiental, identifica-se uma crescente demanda por tecnólogos e profissionais de alta 
+competência, que sustenta o oferecimento do curso de Gestão ambiental. 
+Em 13/09/2021, com Decreto Municipal n° 30.363, foi criado o “Ecossistema de Inovação – Campus Jundiaí”, para 
+criar um ecossistema de inovação que atraia cada vez mais empresas de base tecnológica e fomentar o surgimento 
+de startups. O Campus Jundiaí se constitui como um modelo inovador de fomento do empreendedorismo, inovação e 
+criatividade, pois altera o formato clássico de incubadora de base tecnológica, criando vários polos de 
+aceleração/incubação, decentralizando as atividades em núcleos diferentes, localizados em estruturas com vocação 
+específica e com proximidade a Entidades de excelência nas mais variadas áreas tecnológicas. 
+O projeto Campus Jundiaí, no qual a Fatec Jundiaí está inserida, representa a consolidação do Sistema Local de 
+Inovação por meio da união entre Instituições de Ensino e Pesquisa, empresas privadas e a Prefeitura Municipal em 
+projetos cooperativos relativos a políticas públicas, ciência, tecnologia e economia criativa. Tal dinâmica envolve a 
+FATEC como parceiro para fornecer apoio acadêmico e pedagógico na gestão do Ecossistema, participação 
+formalizada com convênio específico entre CPS e Prefeitura.  
+Desde 22/07/2022 a Fatec Jundiaí encontra-se regularmente credenciada junto ao Comitê da Área de Tecnologia 
+da Informação – CATI do MCTI, apta a receber financiamento para atividades de P&D em TI. 
+O relatório da CPA apontou algumas fragilidades, principalmente em termos de falhas na comunicação e carências 
+de conhecimento dos alunos sobre conceitos básicos do PDI e outras ações da unidade, reportadas no quadro a 
+seguir. 
+Destaca-se que a Unidade vem constantemente divulgando resultados e ações à comunidade acadêmica, mas os 
+resultados do questionário da CPA indicam uma certa falha na absorção das informações por parte do corpo 
+discente. Apenas a título de exemplo, alunos declaram desconhecimento sobre os programas Inova, mas o número de 
+projetos inscritos e participantes do programa é sempre amplamente acima da meta prefixada, indicando uma 
+certa incoerência entre realizado e percebido. 
+• 
+Discorrer sobre o cenário, realizando um breve diagnóstico (limitar o espaço da escrita, para que seja inserido de 
+forma suscinta). 
+APONTAMENTO DE SITUAÇÕES-PROBLEMA MAIS RELEVANTES (“Escuta”) 
+Fontes: relatório CPA, análise de processos críticos da UE, relatório de atendimento e ocorrências 
+Hórus GCom. relatório NDE, relatório de representação discente. 
+1 
+Falta de conhecimento de alunos sobre PDI e 
+indicadores Websai 
+ 
+5 
+Desconhecimento programa Inova CPS (percepção) 
+2 
+Falta de disseminação de cultura e artes (percepção) 
+ 
+6 
+Qualidade e atualização do acervo bibliográfico 
+3 
+Falta e inclusão social (percepção)Falta de 
+conhecimento das políticas de Ensino, Pesquisa e 
+Extensão (percepção) 
+ 
+7 
+Falta de espaço físico para ampliação 
+4 
+Falta de informação sobre estágio 
+ 
+8 
+Melhoria da infraestrutura de TI 
+ 
+DEFINIÇÃO DE OBJETIVOS, METAS E AÇÕES (PROJETOS) 
+Objetivos 
+1 
+Reforço na divulgação com discentes sobre os temas com apontamento de carência (PDI, Websai, eventos culturais, 
+inclusão) 
+2 
+Organização e melhor atuação da Comissão de Pesquisa e extensão 
+3 
+Ações de maior divulgação e suporte sobre estágio 
+4 
+Reforço de divulgação do programa Inova CPS 
+5 
+Reforço de solicitação no CPS para atualização e integração do acervo bibliográfico 
+6 
+Solicitação constante e conscientização da Prefeitura para disponibilização de novos espaços físicos 
+7  
+Solicitação ao CPS para atendimento das necessidades de atualização e ampliação da infraestrutura 
+• 
+Os objetivos devem estar relacionados com melhoria ou ação, sobre itens do PDI. 
+Metas 
+1 
+Ações de divulgação semestrais, por cada curso, em 
+vários semestres, dependendo do tema 
+ 
+5 
+Novo encaminhamento de solicitações de livros para 
+vários cursos 
+2 
+Aprovação do regulamento interno da Comissão, no 1° 
+semestre e renovação da Comissão 
+ 
+6 
+Ações constantes de pedidos de ampliação de espaço 
+perante a Prefeitura 
+3 
+Automação da plataforma documental de estágio; 
+oferecimento, em todos os semestres de início do 
+estágio, de capacitação em inteligência emocional e 
+conscientização em parceria com o Sebrae; 
+implantação no 2° semestre 
+ 
+7 
+Novo encaminhamento de pedidos de equipamentos e 
+serviços de melhoria na rede de TI 
+4 
+Ações de divulgação semestrais, por cada curso, do 
+projeto Inova e ampliação da captação de projetos em 
+10% 
+ 
+8 
+- 
+• 
+Observar que cada meta deve ser: específica, mensurável, atingível, relevante e temporal. 
+ 
+ 
+ 
+ESTRUTURAÇÃO DAS AÇÕES/PROJETOS 
+01 - Didático-pedagógico 
+AÇÃO/PROJETO 
+A – Organização Simpósio Patrimônio cultural 
+O que será feito: 
+Organizar evento institucional (simpósio) 
+Por que será feito: 
+Evento institucional anual – parceria com Secr. Municipal Cultura - treinamento alunos em 
+disciplinas de projeto do curso de Eventos 
+Responsável(is) / CH sem: Adriana Perroni Ballerini / 6 Haes 
+Período de execução: 
+Data de início: 
+01/02/2023 
+Data final: 
+30/07/2023 
+Etapas do processo: 
+Desenvolvimento projeto com alunos 
+ 
+ 
+Planejamento evento 
+ 
+ 
+Preparação material didático 
+ 
+ 
+Divulgação evento 
+ 
+ 
+Execução evento 
+ 
+ 
+Análise pós-evento 
+ 
+ 
+Planejamento novo Simpósio 
+ 
+ 
+Custo (se houver): 
+ - 
+Fonte(s) dos recursos: 
+ - 
+Objetivo(s) relacionado(s): Objetivos didáticos e divulgação institucional 
+Meta(s) relacionada(s): 
+Criação do evento anual – participação estimada de 100 participantes 
+ 
+AÇÃO/PROJETO 
+B – Projeto novos cursos 
+O que será feito: 
+Planejar novos cursos e preparar os documentos relacionados 
+Por que será feito: 
+Expansão da oferta da unidade para atender a demanda empresarial local 
+Responsável(is) / CH sem: Galileo de Souza Schioser / 23 Haes 
+Período de execução: 
+Data de início: 
+01/02/2023 
+Data final: 
+30/07/2023 
+Etapas do processo: 
+Prospecção da demanda local 
+ 
+ 
+Identificação de cursos potenciais 
+ 
+ 
+Análise de viabilidade / análise da capacidade da unidade 
+ 
+ 
+Estruturação dos PPCs 
+ 
+ 
+Preparação da documentação 
+ 
+ 
+Apresentação dos resultados 
+ 
+ 
+ 
+ 
+ 
+Custo (se houver): 
+ - 
+Fonte(s) dos recursos: 
+ - 
+Objetivo(s) relacionado(s): Atendimento da demanda empresarial local para formação de m.o. especializada 
+Meta(s) relacionada(s): 
+Definição 2 novos cursos para implantação em 2024 
+ 
+AÇÃO/PROJETO 
+C – Projetos Estação meteorológica fixa e móvel 
+O que será feito: 
+Desenvolver protótipos de estações meteorológicas de baixo custo 
+Por que será feito: 
+Desenvolvimento de projetos de iniciação científica com alunos do CST Sistemas Embarcados 
+Responsável(is) / CH sem: Humberto Piovesana Zanetti / 6 Haes 
+Período de execução: 
+Data de início: 
+01/02/2023 
+Data final: 
+30/07/2023 
+Etapas do processo: 
+Planejamento do projeto 
+ 
+ 
+Definição especificações 
+ 
+ 
+Monitoramento e mentoria no desenvolvimento do projeto alunos 
+ 
+ 
+Avaliação periódica do projeto 
+ 
+ 
+Construção de protótipos 
+ 
+ 
+Testes de campo 
+ 
+ 
+Preparação da documentação técnica 
+ 
+ 
+Custo (se houver): 
+ - 
+Fonte(s) dos recursos: 
+ - 
+Objetivo(s) relacionado(s): Desenvolvimento de projetos de Iniciação científica 
+Meta(s) relacionada(s): 
+Realização de 2 protótipos físicos 
+ 
+AÇÃO/PROJETO 
+D – Administração Acadêmica – gestão CPA 
+O que será feito: 
+Coordenar as atividades da CPA 
+Por que será feito: 
+Gerenciar a Comissão  
+Responsável(is) / CH sem: Demerval Rogério Masotti / 2 Haes 
+Período de execução: 
+Data de início: 
+01/02/2023 
+Data final: 
+30/07/2023 
+Etapas do processo: 
+Redação do relatório anual e entrega 
+ 
+ 
+Planejamento atividades da CPA para novo relatório 
+ 
+ 
+Estudo da normativa atualizada e modelos de documentos 
+ 
+ 
+Análise dos relatórios anteriores 
+ 
+ 
+Preparação para o websai 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo (se houver): 
+ - 
+Fonte(s) dos recursos: 
+ - 
+Objetivo(s) relacionado(s): Atividades relacionadas com plano estratégico PDI 
+Meta(s) relacionada(s): 
+Atendimento às exigências da CPA – cumprimento das metas CPA 
+ 
+AÇÃO/PROJETO 
+E – Programa de Orientação psicossocial a alunos “Cuidar de si” 
+O que será feito: 
+Atender de forma individual e coletiva alunos com carências psicossociais 
+Por que será feito: 
+Ação e apoio a alunos, detecção de problemas pessoais e de inclusão 
+Responsável(is) / CH sem: José Fernando Petrini / 14 Haes 
+Período de execução: 
+Data de início: 
+01/02/2023 
+Data final: 
+30/07/2023 
+Etapas do processo: 
+Apresentação do programa aos ingressantes 
+ 
+ 
+Divulgação do atendimento à comunidade acadêmica 
+ 
+ 
+Mapeamento da demanda 
+ 
+ 
+Realização de encontros com alunos 
+ 
+ 
+Redação do relatório semestral 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo (se houver): 
+ - 
+Fonte(s) dos recursos: 
+ - 
+Objetivo(s) relacionado(s): Programa institucional de atendimento alunos 
+Meta(s) relacionada(s): 
+Atendimento de 100% dos alunos que buscam orientação 
+ 
+AÇÃO/PROJETO 
+F – Mentoria para maratonas digitais 
+O que será feito: 
+Coordenar e mentorar as atividades relacionadas com maratonas digitais 
+Por que será feito: 
+Programa institucional de participação em eventos e competições digitais 
+Responsável(is) / CH sem: Luciana Ferreira Baptista / 2 Haes 
+Período de execução: 
+Data de início: 
+01/02/2023 
+Data final: 
+30/07/2023 
+Etapas do processo: 
+Identificação calendário e divulgação do projeto 
+ 
+ 
+Planejamento atividades 
+ 
+ 
+Mentoria e treinamento interessados 
+ 
+ 
+Inscrição e preparação eventos 
+ 
+ 
+Acompanhamento da participação efetiva nos eventos 
+ 
+ 
+- 
+ 
+ 
+- 
+ 
+ 
+Custo (se houver): 
+ - 
+Fonte(s) dos recursos: 
+ - 
+Objetivo(s) relacionado(s): Atividades relacionadas com extensão acadêmica 
+Meta(s) relacionada(s): 
+Fomento à participação em 3 eventos nacionais (Intefatecs / Copa Robocode / Maratona SBC) 
+ 
+AÇÃO/PROJETO 
+G – Projeto “Há feminismos” de inclusão social e fomento ao empoderamento das mulheres nas 
+profissões 
+O que será feito: 
+Desenvolver grupos de trabalho e discussão 
+Por que será feito: 
+Fomento à inclusão, combate à discriminação e desenvolvimento do empreendedorismo 
+Responsável(is) / CH sem: Viviane Rezi / 2 Haes 
+Período de execução: 
+Data de início: 
+01/02/2023 
+Data final: 
+30/07/2023 
+Etapas do processo: 
+Apresentação do projeto e divulgação aos alunos 
+ 
+ 
+Planejamento das atividades e calendário de reuniões 
+ 
+ 
+Formação dos grupos de discussão e definição de temas prioritários 
+ 
+ 
+Realização dos eventos (reuniões) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo (se houver): 
+ - 
+Fonte(s) dos recursos: 
+ - 
+Objetivo(s) relacionado(s): Atividades relacionadas com missão do CPS e da unidade 
+Meta(s) relacionada(s): 
+Desenvolvimento da inclusão social e fomento ao empreendedorismo – organização de 6 oficinas 
+ 
+02 – Ensino e Equipamentos Associados (Laboratórios) 
+ 
+AÇÃO/PROJETO 
+A – Gestão dos laboratórios de IoT 1 e 2 
+O que será feito: 
+Organizar e gerenciar as atividades didáticas e de projetos desenvolvidos no curso de Sistemas 
+Embarcados 
+Por que será feito: 
+Preparação, manutenção e gestão dos laboratórios de IoT 
+Responsável(is) / CH sem: Humberto Piovesana Zanetti / 8 Haes 
+Período de execução: 
+Data de início: 
+01/02/2023 
+Data final: 
+30/07/2023 
+Etapas do processo: 
+Preparação dos laboratórios (hardware e software) 
+ 
+ 
+Inventário e organização do material didático 
+ 
+ 
+Alinhamento com docentes usuários dos laboratórios da utilização 
+ 
+ 
+Acompanhamento das atividades de laboratório 
+ 
+ 
+Redação do relatório de fim de semestre 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo (se houver): 
+ - 
+Fonte(s) dos recursos: 
+ - 
+Objetivo(s) relacionado(s): Gestão ambiente laboratorial – atendimento ao PPC de Sistemas Embarcados 
+Meta(s) relacionada(s): 
+Fator de serviço > 90% 
+ 
+ 
+03 – Pesquisa / Extensão e Equipamentos Associados 
+ 
+04 – Atividades Formativas em Projetos (nível tático) 
+AÇÃO/PROJETO 
+A – Mentoria da Empresa Junior 
+O que será feito: 
+Acompanhar e mentorar as atividades da Empresa Junior 
+Por que será feito: 
+Desenvolvimento didático dos alunos participantes do programa 
+Responsável(is) / CH sem: Janaína Stella de Souza (2 Haes) / João Carlos dos Santos (2 Haes) / Luiz Cláudio Souza (2 Haes) / 
+Alexandre Schuster (6 Haes) 
+Período de execução: 
+Data de início: 
+01/02/2023 
+Data final: 
+30/07/2023 
+Etapas do processo: 
+Avaliação da programação anual da Empresa Junior 
+ 
+ 
+Mentoria para planejamento das ações de projeto e comerciais 
+ 
+ 
+Acompanhamento dos projetos correntes 
+ 
+ 
+Definição do calendário fiscal e jurídico 
+ 
+ 
+Verificação da situação fiscal e jurídica 
+ 
+ 
+Orientação e formação complementar 
+ 
+ 
+ 
+ 
+ 
+Custo (se houver): 
+ - 
+Fonte(s) dos recursos: 
+ - 
+Objetivo(s) relacionado(s): Desenvolvimento da cultura empreendedora e aplicação prática 
+Meta(s) relacionada(s): 
+Manutenção da estrutura Empresa Junior – captação de 5 novos alunos 
+ 
+AÇÃO/PROJETO 
+B – Gestão do Centro de Certificações 
+O que será feito: 
+Gerenciar e coordenar as atividades do Centro de Certificações Pearson / Toefl 
+Por que será feito: 
+Manutenção e desenvolvimento do projeto de certificações da Empresa Junior 
+Responsável(is) / CH sem: Clarice Nunes Ferreira / 2 Haes 
+Período de execução: 
+Data de início: 
+01/02/2023 
+Data final: 
+30/07/2023 
+Etapas do processo: 
+Identificar a demanda de programação 
+ 
+ 
+Organizar a escala de certificações 
+ 
+ 
+Acompanhar os relatórios gerenciais da certificadora 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo (se houver): 
+ - 
+Fonte(s) dos recursos: 
+ - 
+Objetivo(s) relacionado(s): Manutenção projeto da Empresa Junior -Fomento ao empreendedorismo e divulgação Unidade 
+Meta(s) relacionada(s): 
+Realizar 300 certificações Pearson e 20 Toefl 
+ 
+AÇÃO/PROJETO 
+C – Formatação de projetos de pesquisa em Sistemas embarcados 
+O que será feito: 
+Desenvolver projetos de pesquisa para submissão à Fapesp / captação de recursos ICT 
+Por que será feito: 
+Desenvolvimento de projetos de pesquisa aplicada com financiamento 
+Responsável(is) / CH sem: Gerson Pastre de Oliveira / 6 Haes 
+Período de execução: 
+Data de início: 
+01/02/2023 
+Data final: 
+30/07/2023 
+Etapas do processo: 
+Identificar projetos potenciais 
+ 
+ 
+Discutir as propostas com o grupo de pesquisa da unidade 
+ 
+ 
+Redigir pré-projeto e projeto 
+ 
+ 
+Recolher a documentação necessária para a submissão 
+ 
+ 
+Submeter o projeto 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo (se houver): 
+ - 
+Fonte(s) dos recursos: 
+ - 
+Objetivo(s) relacionado(s): Desenvolvimento de pesquisa aplicada 
+Meta(s) relacionada(s): 
+Submissão de 1 projeto à Fapesp 
+ 
+ 
+05 – Infraestrutura (instalações prediais) 
+ 
+ 
+06 - Desenvolvimento de pessoas (docentes e servidores) 
+ 
+AÇÃO/PROJETO 
+A – Desenvolvimento de plataforma digital para gestão de estágio 
+O que será feito: 
+Desenvolver um recurso digital para automação do processo documental de estágio 
+Por que será feito: 
+Necessidade de reduzir a carga manual de trabalho e criar base de dados permanente 
+Responsável(is) / CH sem: Lívia Maria Louzada Brandão (16 Haes) 
+Período de execução: 
+Data de início: 
+01/02/2023 
+Data final: 
+30/07/2023 
+Etapas do processo: 
+Mapeamento do processo atual 
+ 
+ 
+Identificação de melhorias e especificação novo fluxo de trabalho 
+ 
+ 
+Apresentação e discussão do novo modelo 
+ 
+ 
+Aprovação do novo modelo 
+ 
+ 
+Especificação do novo fluxo de trabalho e características do software 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo (se houver): 
+ - 
+Fonte(s) dos recursos: 
+ - 
+Objetivo(s) relacionado(s): Automação de processo de gestão 
+Meta(s) relacionada(s): 
+Definição do processo e das especificações técnicas do software 
+ 
+ 
+07 – Convênios e Parcerias Institucionais 
+ 
+AÇÃO/PROJETO 
+A – Orientação de estágio 
+O que será feito: 
+Orientar e mentorar alunos na execução do estágio curricular supervisionado 
+Por que será feito: 
+Atendimento aos ditames regimentais e execução do PPC de todos os cursos 
+Responsável(is) / CH sem: 
+Paula Varela Floriano (5 Haes) / Vânia Ap. Acorci Bighetti (4 Haes) / Ana Carolina Barros de 
+Gennaro Veredas (10 Haes) / Márcia Lazara Pinheiro Silva (4 Haes) / Mario Lamas Ramalho (6 
+Haes) / Aldo Roberto Silva Diniz (2 Haes) 
+Período de execução: 
+Data de início: 
+01/02/2023 
+Data final: 
+30/07/2023 
+Etapas do processo: 
+Divulgar as atividades de estágio nas salas dos semestres aptos a 
+iniciar o estágio 
+ 
+ 
+Mapear os alunos interessados em realizar o estágio 
+ 
+ 
+Organizar reuniões com os candidatos 
+ 
+ 
+Acompanhar a procura de estágio 
+ 
+ 
+Mentorar os alunos ao longo do estágio 
+ 
+ 
+Orientar os alunos na redação do relatório de estágio 
+ 
+ 
+Registrar os estágios concluídos e avaliar os relatórios 
+ 
+ 
+Custo (se houver): 
+ - 
+Fonte(s) dos recursos: 
+ - 
+Objetivo(s) relacionado(s): Orientação para execução de estágio 
+Meta(s) relacionada(s): 
+Acompanhamento e mentoria de 100% dos alunos em regime de estágio 
+ 
+AÇÃO/PROJETO 
+B – Desenvolver parceria institucional com CPFL – Dep. Sustentabilidade para solução de 
+problemas práticos da empresa 
+O que será feito: 
+Desenvolver projeto de compostagem de macrófitas e produção de adubo 
+Por que será feito: 
+Projeto de pesquisa aplicada com empresa de grande porte 
+Responsável(is) / CH sem: Claudio da Cunha (4 Haes) 
+Período de execução: 
+Data de início: 
+01/02/2023 
+Data final: 
+30/07/2023 
+Etapas do processo: 
+Reunião inicial de apresentação do projeto aos alunos 
+ 
+ 
+Reunião de planejamento com CPFL 
+ 
+ 
+Definição das etapas do projeto e das equipes de trabalho 
+ 
+ 
+Desenvolvimento do projeto 
+ 
+ 
+Testes operacionais de resultados 
+ 
+ 
+Apresentação do relatório final 
+ 
+ 
+ 
+ 
+ 
+Custo (se houver): 
+ - 
+Fonte(s) dos recursos: 
+ - 
+Objetivo(s) relacionado(s): Parceira institucional do curso de Gestão Ambiental envolvendo várias turmas de forma 
+interdisciplinar 
+Meta(s) relacionada(s): 
+Estabelecer parceria estável com a empresa e visar à formatação de convênio técnico-
+educacional 
+ 
+AÇÃO/PROJETO 
+C – Edição e publicação da produção acadêmica docente / discente 
+O que será feito: 
+Organizar a produção docente / discente dos cursos da unidade de 2022 para publicação de livro 
+Por que será feito: 
+Divulgação dos projetos de pesquisa e TCC 
+Responsável(is) / CH sem: João José Ferreira de Aguiar (2 Haes) 
+Período de execução: 
+Data de início: 
+01/02/2023 
+Data final: 
+30/07/2023 
+Etapas do processo: 
+Mapeamento da produção científica 
+ 
+ 
+Organização dos documentos 
+ 
+ 
+Adequação do formato para publicação 
+ 
+ 
+Coleta de autorizações para publicação 
+ 
+ 
+Revisão dos textos 
+ 
+ 
+Acordo operacional com editora 
+ 
+ 
+Publicação do material de pesquisa 
+ 
+ 
+Custo (se houver): 
+ - 
+Fonte(s) dos recursos: 
+ - 
+Objetivo(s) relacionado(s): Publicação de artigos elaborados por docentes / discentes disponibilizados para a comunidade 
+acadêmica 
+Meta(s) relacionada(s): 
+Publicação de 1 livro em formato digital 
+ 
+AÇÃO/PROJETO 
+D – Gestão do convênio com a Vara de Execuções penais do Forum de Jundiaí para cumprimento 
+de prestação de serviços comunitários de reeducandos 
+O que será feito: 
+Gerenciar o convênio e monitorar as atividades dos “Reeducandos” 
+Por que será feito: 
+Ação social de reintegração de pessoas cumprindo penas alternativas 
+Responsável(is) / CH sem: José Jair Ferraretto (14 Haes) 
+Período de execução: 
+Data de início: 
+01/02/2023 
+Data final: 
+30/07/2023 
+Etapas do processo: 
+Contato com a Vara do Forum para identificação dos potenciais 
+reeducandos 
+ 
+ 
+Seleção dos candidatos 
+ 
+ 
+Recepção dos candidatos 
+ 
+ 
+Organização do plano de trabalho 
+ 
+ 
+Acompanhamento da execução dos trabalhos 
+ 
+ 
+Preenchimento do relatório final para o Juiz responsável 
+ 
+ 
+ 
+ 
+ 
+Custo (se houver): 
+ - 
+Fonte(s) dos recursos: 
+ - 
+Objetivo(s) relacionado(s): Ação social institucional 
+Meta(s) relacionada(s): 
+Gestão de 5 reeducandos 
+ 
+ 
+ETAPA II – APROVAÇÃO E HOMOLOGAÇÃO 
+ 
+APROVAÇÃO DO PGA PELA CONGREGAÇÃO DA UE 
+Envio da Ata de aprovação 
+Ata assinada (.pdf) 
+Anexar arquivo 
+Data da aprovação: 
+14/03/2023  
+Data do envio: 
+14/03/2023  
+ 
+PARECER DA CESU 
+Data: 
+dd/mm/aaaa  
+Aprovado? 
+(   ) Sim                      (   ) Não 
+Se não aprovado, devolvido para adequação, com prazo para revisão até: 
+dd/mm/aaaa  
+Parecer: 
+ 
+ 
+ 
+ 
+ETAPA III – ACOMPANHAMENTO DAS AÇÕES GERENCIAIS 
+RELATÓRIO DE ACOMPANHAMENTO DE PROJETO (MENSAL) 
+Status mensal do projeto 
+Identificação do Projeto 
+(automático) 
+Data: 
+dd/mm/aaaa 
+Situação: 
+(   ) Em andamento                             
+Previsão de término: 
+dd/mm/aaaa 
+Justificativa: 
+ 
+(   ) Ainda não foi iniciado                   
+Previsão de início: 
+dd/mm/aaaa 
+Justificativa: 
+ 
+(   ) Cancelado (antes do início) 
+Data: 
+dd/mm/aaaa 
+Justificativa: 
+ 
+(   ) Suspenso (interrompido após 
+iniciado) 
+Data: 
+dd/mm/aaaa 
+Justificativa: 
+ 
+(   ) Concluído 
+Data da conclusão: 
+dd/mm/aaaa 
+Resultados: 
+ 
+ 
+Intercorrências: 
+ 
+ 
+Observação: 
+ 
+ 
+Meta(s) alcançada(s) 
+(aparecer a meta automaticamente, conforme indicada no projeto para a indicação do percentual 
+alcançado) 
+Evidência(s): 
+(descrever e inserir documento que evidencie a execução ou atingimento da meta) 
+ 
+ 
+Validação do relatório (acompanhamento) 
+Identificação do Projeto 
+(automático) 
+Data: 
+dd/mm/aaaa 
+Parecer: 
+Favorável? 
+(   ) Sim              (   ) Não                     (    ) Parcialmente favorável 
+Considerações/Recomendações: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

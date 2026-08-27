@@ -1,0 +1,2464 @@
+PLANO DE GESTÃO ANUAL – PGA 2024 
+V11 
+Estruturado em um única etapa com 2 anexos: 
+PLANEJAMENTO PELA EQUIPE GESTORA DA UE 
+● Anexo 1 – Lista de equipamentos necessários aos projetos 
+● Anexo 2 – Lista de Ações/Projetos referentes à CPA 
+ 
+IDENTIFICAÇÃO DA UNIDADE 
+Unidade 
+119n 
+Fatec Garça – Deputado Julio Julinho Marcondes de Moura 
+Diretor(a) 
+Cássia Regina Bassan de Moraes 
+ 
+PLANEJAMENTO PELA EQUIPE GESTORA DA UE 
+(Administração da Faculdade - Deliberação CEETEPS 31/2016) 
+ANÁLISE DO CENÁRIO 
+Descrever de forma breve e objetiva o cenário da Unidade perante sua missão como Unidade de Ensino na localidade em que 
+se encontra (é este cenário que se pretende melhorar). 
+Garça é um município do Estado de São Paulo. Conta com 44.429 habitantes, em 2021, segundo o IBGE, 
+distribuída numa superfície de 556 km2. Garça é conhecida por seus cafezais, pela ferrovia que cortava o 
+município e pelo Cerejeiras Festival, que é realizado todos os anos nas proximidades do Lago Artificial 
+"Prof. J.K Willians", a festa atrai mais de 100 mil pessoas. Hoje a cidade é conhecida como a capital da 
+"Polo de Eletro-eletrônica". O município é formado pela sede e pelo distrito de Jafa. 
+Criada pelo Decreto nº 48.433, de 7 de janeiro de 2004, a Faculdade de Tecnologia de Garça – Unidade 
+de Ensino do Centro Estadual de Educação Tecnológica “Paula Souza”, autarquia do Governo do Estado 
+de São Paulo, vinculada à Secretaria de Ciência, Tecnologia e Inovação. As atividades acadêmicas da 
+Fatec Garça, iniciaram em 01 de março de 2004 com o curso superior em Tecnologia de Informática com 
+Ênfase em Gestão de Negócios. Atualmente a Unidade oferece quatro cursos superiores de Tecnologia: 
+Análise e Desenvolvimento de Sistemas, Gestão Empresarial (presencial e EAD), Manufatura Avançada 
+e Mecatrônica Industrial, todos reconhecidos pelo Conselho Estadual de Educação. Uma vez, egresso, ou 
+mesmo, enquanto aluno, é absorvido pelas indústrias do ramo eletroeletrônico, pelas empresas gestoras 
+de dados e de outros setores da economia local e regional. Ao aluno formado na FATEC, faculdade 
+gratuita e de qualidade, abre-se um leque com muitas opções profissionais: buscar cursos de pós-
+graduação (Mestrado e Doutorado oferecidos por faculdades públicas – Unesp Bauru e Unesp Marília),  e 
+também pós-graduação em programas profissionais. Outra opção para o egresso está no 
+empreendedorismo e muitos se tornaram donos de seu próprio negócio. 
+Com instalações próprias, a Fatec Garça ocupa um campus de 47.000m² com 4 edificação:  
+1. Administração: diretoria, diretoria de serviços, secretaria acadêmica, sala de professores, biblioteca, 
+sala de coordenadores, sala de iniciação científica e tecnológica, sala de RJI e sala de orientação de 
+estágio.  
+2. Bloco 1: Com 12 salas de aulas (adaptados em 5 laboratórios de Informática e 7 salas que acomodam 
+12 laboratórios de Mecatrônica, onde são desenvolvidos, na prática, os conceitos das disciplinas dos 
+cursos oferecidos. 
+3. Bloco 2: Com 11 salas de aula todas equipadas com smart tvs de 65 polegadas 4k da LG; 1 Sala Maker  
+4. Cantina: por questões de segurança encontra-se desativada. Recentemente recebemos visita de 
+Engenheiro do Centro Paula Souza para avaliação das necessidades para reforma. 
+Em termos de ensino aprendizagem, neste planejamento anual, faz-se necessário, pensar a FATEC-
+Garça considerando as novas tendências educacionais que são caminhos para avançar para um currículo 
+mais flexível, centrado no aluno, nas suas necessidades e expectativas, sem deixar de acompanhar o 
+dinâmico desenvolvimento tecnológico. O processo de mudança é longo e complexo, implica em 
+mudanças de paradigmas solidificados como conceito de avaliação e de metodologias de ensino e, prevê 
+muito estudo e a introdução de metodologias ativas e uso de tecnologias na aprendizagem.  
+ 
+ 
+ 
+● Discorrer sobre o cenário, realizando um breve diagnóstico (limitar o espaço da escrita, para que seja inserido de forma suscinta). 
+APONTAMENTO DE SITUAÇÕES-PROBLEMA MAIS RELEVANTES 
+Fontes: relatório CPA, análise de processos críticos da UE, relatório de atendimento e ocorrências Hórus, relatório NDE, 
+relatório de representação discente (DA, Atlética, representantes de turma), relatório CIPA, entre outros. 
+1 
+cat 0.1.01 - Metodologia de ensino, desempenho 
+de alunos, evasão 
+ 
+5 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+2 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de 
+ensino 
+ 
+6 
+cat 0.1.08 - Participação da comunidade e sociedade 
+3 
+cat 0.1.07 - Comunicação com a comunidade 
+acadêmica 
+ 
+7 
+cat 0.1.09 - Acesso/Inclusão ao Ensino Superior 
+(social, PCD) 
+4 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+ 
+8 
+cat 0.1.99 - Outra 
+Outra – Especificar: Necessidade de melhoria quanto ao estímulo à pós Graduação. 
+ 
+Objetivos Institucionais – CPS (Plano de Metas) 
+1) Atender às demandas sociais e do mercado de trabalho. 
+2) Obter a satisfação dos públicos que se relacionam com o Centro Paula Souza (stakeholders). 
+3) Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem. 
+4) Assegurar a perenidade do crescimento da instituição com recursos financeiros disponíveis. 
+5) Garantir celeridade e efetividade na prestação de serviços. 
+6) Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no desenvolvimento tecnológico e inovação. 
+7) Promover a cultura de inovação e empreendedorismo. 
+8) Aumentar a eficiência, a produtividade e a competitividade da instituição. 
+9) Ampliar a oferta da Educação Profissional. 
+10) Resolução Conjunta SOG/SFP/SG-3, de 28-12-2022 - Bonificação por Resultados – BR das Secretarias de Estado, Procuradoria Geral do Estado, 
+Controladoria Geral do Estado e das Autarquias, de que trata a LC 1361-2021 
+Objetivos Institucionais – Cesu (Plano de Metas) 
+A. Integrar as diferentes modalidades de ensino, otimizando itinerários e tempo para a formação profissional. 
+B. Inovar processos de ensino e aprendizagem para manter excelência diante do mercado. 
+C. Ampliar a capacidade de criar e atualizar cursos em parceria com o mercado. 
+D. Expandir e ampliar a capacidade de articulação com Governos e Setores Produtivos. 
+E. Promover a captação de recursos extras e não orçamentários. 
+ 
+ 
+ESTRUTURAÇÃO DAS AÇÕES/PROJETOS 
+01 - Didático-pedagógico 
+Ações associadas ao PPC/PE de CSTs e Disciplinas: CST (implantação, alteração, readequação, reestruturação), 
+prática pedagógica (PE, PA), projeto interdisciplinar/ integrador, extensão curricularizada. 
+ 
+AÇÃO/PROJETO (Tema) 
+101 - cat 1.01 - Adequação/reestruturação de PPC, implantação de novos cursos. 
+Origem: 
+2-CPA (Relatório da Comissão Própria de Avaliação da Unidade) 
+O que será feito: 
+ 
+Realizar reuniões com a direção, NDE, os coordenadores e docentes dos cursos para 
+levantamento de sugestões para a melhoria da matriz curricular, incluindo a possibilidade do 
+ensino híbrido. 
+Por que será feito: 
+Em alguns cursos a matriz está defasada, uma vez que as empresas locais trabalham com 
+tecnologia de ponta e solicitam profissionais que atendam essa demanda. Além disso, mais 30% 
+dos alunos apontaram essa necessidade no WEBSAI. A ideia do ensino híbrido chama a atenção 
+de aproximadamente 50% dos alunos. 
+Responsável: 
+<nome> , Renata Aparecida de Carvalho Paschoal 
+Qde CH/sem: 
+03 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> Deise Deolindo Silva 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Danilo Dolci 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+10/02/2024 
+Data final: 
+30/10/2024 
+Etapas do processo: 
+01- Identificar os problemas na matriz curricular. 
+19 /02 
+10/04 
+ 
+02- Fazer um levantamento de novas tecnologias a serem ofertadas nas 
+disciplinas. 
+19/02 
+10/04 
+ 
+03- Fazer o estudo para viabilizar o estudo híbrido 
+11/04 
+11/05 
+ 
+04- Enviar sugestões para a CESU 
+13/05 
+30/10 
+ 
+05-  
+ 
+ 
+ 
+06-  
+ 
+ 
+ 
+07-  
+ 
+ 
+ 
+08-  
+ 
+ 
+Custo R$ (se houver): 
+ 
+Fonte(s) dos recursos: 
+ 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+102 - cat.1.99 - Outra 
+Origem: 
+2-CPA (Relatório da Comissão Própria de Avaliação da Unidade) 
+O que será feito: 
+Sensibilização da comunidade da Fatec Garça a Respeito da importância da participação no Web 
+SAI, cujos dados subsidiarão o relatório da CPA e PDI da Fatec Garça 
+Por que será feito: 
+Necessidade de esclarecimentos a respeito das questões pontuadas no Web SAI 
+Responsável: 
+<nome> Deise Deolindo Silva  
+Qde CH/sem: 
+03 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> Cristine de Oliveira Bertoncini 
+Qde CH/sem: 
+01 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> Cristóvam Emílio Herculiani 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+07/10/2024 
+Data final: 
+13/12/202 
+Etapas do processo: 
+01- Levantar os pontos principais a serem apresentados 
+07/10 
+11/10 
+ 
+02- Apresentação a todos alunos dos cursos, dos três períodos de 
+funcionamento da Fatec 
+16/10 
+16/1 
+ 
+03- Elencar os professores responsáveis pelas respectivas salas para 
+incentivar os alunos a responderem as questões do Web SAII 
+16/10 
+18/10 
+ 
+04- Elaboração do Relatório da CPA com base nos dados obtidos no Web 
+SAI 
+11/11 
+13/12 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.10 - Gestão da unidade de ensino e dos cursos (indicadores) 
+(a ser resolvida/mitigada) 
+cat 0.1.10 - Gestão da unidade de ensino e dos cursos (indicadores) 
+X 
+X 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+103 - Escolher um item. 
+Origem: 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+104 - Escolher um item. 
+Origem: 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+<Copiar tabelas para mais ações> 
+ 
+02 – Laboratórios - Ensino e Equipamentos Associados 
+Ações para melhoramento dos laboratórios de Ensino (Gestão e Equipamentos): Melhoramento de 
+equipamentos, mediante instalação, manutenção, desuso, doação, e gestão de ambiente laboratorial. 
+ 
+AÇÃO/PROJETO (Tema) 
+201 - cat 2.01 - Laboratório físico - implantação/melhoramento com recursos PEDAGÓGICOS 
+Origem: 
+2-CPA (Relatório da Comissão Própria de Avaliação da Unidade) 
+O que será feito: 
+Levantar a necessidade de atualização dos equipamentos existentes nos laboratórios 
+Por que será feito: 
+Avanço tecnológico recorrente, desenvolvimento de equipamentos mais novos, tecnológicos e 
+eficientes os quais são utilizados nas empresas e substituição dos equipamentos danificados pelo 
+uso contínuo durante as aulas, num período de 12 anos, sem possibilidade de manutenção. 
+Responsável: 
+<nome> Edson Mancuzo 
+Qde CH/sem: 
+03 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> Edson Detregiachi Filho 
+Qde CH/sem: 
+03 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> Mayssom Rodrigues de Souza , Renan Vicentin 
+Moya 
+Qde CH/sem: 
+01n Tipo: 
+H - Hora <não 
+tipificada> 
+Período de execução: 
+Data inicial: 
+01/02/2024 
+Data final: 
+20/12/2024 
+Etapas do processo: 
+01- Levantamento das necessidades de cada laboratório 
+01/02 
+28/06 
+ 
+02- Levantamento de dados de aquisição do(s) equipamento(s) - (código 
+BEC, características, especificações, etc) 
+01/07 
+30/10 
+ 
+03- Discussão final e conferência dos dados com a equipe responsável pela 
+ação. 
+01/11 
+29/1 
+ 
+04- Gerar listagem final completa para solicitar aquisição pelo Centro Paula 
+Souza. 
+02/12 
+20/12 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+DMPP ou Licitação 
+Situação problema: 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+(a ser resolvida/mitigada) 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+202 - cat 2.04 - Ambiente de ensino prático - implantação/melhoramento com recursos NÃO PEDAGÓGICOS 
+Origem: 
+2-CPA (Relatório da Comissão Própria de Avaliação da Unidade) 
+O que será feito: 
+Adequação dos ambientes educativos que propiciará bem-estar aos usuários e maior tempo de 
+vida aos equipamentos. 
+Por que será feito: 
+Os laboratórios estão com aparelhos de ar-condicionado antigos (20 anos), a Biblioteca não 
+possui nenhum. Para atender os usuários com deficiência: bebedouro, piso tátil e Identificação 
+das salas com placas em braile. 
+Responsável: 
+<nome> Diego Henrique Pereira 
+Qde CH/sem: 
+01 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> Fernanda Ganzelli Barbosa 
+Qde CH/sem: 
+01 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> Maysson Rodrigues de Souza  
+ 
+Qde CH/sem: 
+01 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Período de execução: 
+Data inicial: 
+01/02/2024 
+Data final: 
+27/02/2024 
+Etapas do processo: 
+01- Levantamento de necessidades, dos diversos ambientes da Fatec 
+01/02 
+09/02 
+ 
+02- Pesquisa dos equipamentos adequados para atender as necessidades  
+19/02 
+08/03 
+ 
+03- Encaminhamento da lista de necessidades á direção para solicitação no 
+PGA 2024 
+26/02 
+29/02 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+Licitação 
+Situação problema: 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+(a ser resolvida/mitigada) 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+X 
+X 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+203 - Escolher um item. 
+Origem: 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+204 - Escolher um item. 
+Origem: 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+<Copiar tabelas para mais ações> 
+ 
+ 
+03 – Pesquisa / Extensão e Equipamentos Associados 
+Ações para melhoramento dos laboratórios que contemplam Pesquisa além do Ensino (Equipamentos): 
+melhoramento dos espaços de pesquisa, que inclui especificação equipamentos e aquisição por fomento ou por 
+projeto com empresa, e também prestação de serviços no campo tecnológico para instituições e empresas. 
+ 
+AÇÃO/PROJETO (Tema) 
+301 - cat 3.01 - Cursos de Extensão 
+Origem: 
+2-CPA (Relatório da Comissão Própria de Avaliação da Unidade) 
+O que será feito: 
+Estruturar o setor de pós-graduação para posterior oferecimento na Fatec Garça. 
+Por que será feito: 
+Devido a percepção do alunado, pois 39% enxergam a necessidade de melhoria quanto ao 
+estímulo 
+Responsável: 
+<nome> Edio Roberto Manfio 
+Qde CH/sem: 
+02 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Deise Deolindo Fontes 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Mauricio Duarte 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+08/02/2024 
+Data final: 
+20/12/2024 
+Etapas do processo: 
+01- Levantar o público-alvo (egressos e graduados com a formação na 
+área) 
+08/02 
+01/03 
+ 
+02- Identificar a demanda dos possíveis curso de pós-graduação 
+08/03 
+30/04 
+ 
+03- Definir e estruturar o plano pedagógico do curso a ser implantado 
+02/05 
+02/09 
+ 
+04- Envio do Projeto do Curso ao CPS para a autorização 
+04/09 
+01/11 
+ 
+05- Divulgar o curso à comunidade para a efetivação das matrículas 
+04/11 
+20/12 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.08 - Participação da comunidade e sociedade 
+(a ser resolvida/mitigada) 
+cat 0.1.08 - Participação da comunidade e sociedade 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+302 - cat 3.01 - Cursos de Extensão 
+Origem: 
+2-CPA (Relatório da Comissão Própria de Avaliação da Unidade) 
+O que será feito: 
+Palestras e ou debates, mesas redondas, com a participação de organizações públicas e privadas 
+locais (PPP) 
+Por que será feito: 
+Para atender e exceder as expectativas dos 33% do alunados, identificado na pesquisa do 
+WEBSAI quanto a oferta de cursos de extensão. 
+Responsável: 
+<nome> Sérgio Nougués Wargaftig 
+Qde CH/sem: 
+02 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Deise Deolindo Silva 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> José Antonio Poletto Filho 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+10/02/2024 
+Data final: 
+20/12/2024 
+Etapas do processo: 
+01- Definir cursos o calendário das atividade de extensão a serem 
+oferecidos 
+10/02 
+01/03 
+ 
+02- Divulgar atividades de extensão 
+04/03 
+20/12 
+ 
+03- Realizar atividades de extensão propostas 
+04/03 
+20/12 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.08 - Participação da comunidade e sociedade 
+(a ser resolvida/mitigada) 
+cat 0.1.08 - Participação da comunidade e sociedade 
+X 
+X 
+ 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+303 - Escolher um item. 
+Origem: 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+304 - Escolher um item. 
+Origem: 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+<Copiar tabelas para mais ações> 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+04 – Atividades Formativas em Projetos (nível tático) 
+Projetos institucionais formativos não especificados em PEs: Rede de tecnologia, Novotec, PCI, Projetos 
+estudantis (Baja, Aerodesign, entre outros) 
+ 
+AÇÃO/PROJETO (Tema) 
+401 - Escolher um item. 
+Origem: 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+402 - Escolher um item. 
+Origem: 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+ 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+403 - Escolher um item. 
+Origem: 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+404 - Escolher um item. 
+Origem: 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+<Copiar tabelas para mais ações> 
+ 
+ 
+ 
+ 
+ 
+05 – Infraestrutura (instalações prediais) 
+Projetos de manutenção e melhoramento predial voltados à segurança (física e sanitária) e preservação do 
+patrimônio: Reparação predial (civil, elétrica, dados), novas instalações prediais. 
+ 
+AÇÃO/PROJETO (Tema) 
+501 - cat 5.05 - Reforma de Edificações 
+Origem: 
+2-CPA (Relatório da Comissão Própria de Avaliação da Unidade) 
+O que será feito: 
+Reforma do forro, pintura e iluminação 
+Por que será feito: 
+Depreciação da estrutura predial, que impossibilita a abertura de processo licitatório para 
+exploração do espaço de oferta de gêneros alimentícios à comunidade da Fatec Garça. Muitos 
+alunos, principalmente do período noturno vem para a Fatec direto do trabalho. A Fatec fica 
+localizada distante de qualquer estabelecimento comercial que ofereça lanche ou outro gênero 
+alimentício. Nas condições que o prédio se encontra não é possível abrir o processo licitatório 
+para aluguel da cantina. 
+Responsável: 
+<nome> Fernanda Ganzelli Barboza Martines 
+Qde CH/sem: 
+02 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> Antonio Henrique Leal de Oliveira Junior 
+Qde CH/sem: 
+02 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+06/02/2024 
+Data final: 
+20/12/2024 
+Etapas do processo: 
+01- Verificação das avalias da estrutura predial 
+06/02 
+08/02 
+ 
+02- Contactar o responsável regional (engenheiro) para visita a Fatec Garça 
+para acareação 
+09/02 
+15/02 
+ 
+03- Acompanhamento do responsável regional (engenheiro) 
+15/02 
+16/02 
+ 
+04- Acompanhar o andamento das negociações na Administração Central 
+19/02 
+20/12 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+Licitação ou DL 
+Situação problema: 
+cat 0.1.02 - Manutenção e conservação predial 
+(a ser resolvida/mitigada) 
+cat 0.1.02 - Manutenção e conservação predial 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+502 - Escolher um item. 
+Origem: 
+Escolher um item. 
+O que será feito: 
+Construção de Refeitório para atender os alunos do Curso AMS – Articulação Médio Superior 
+Por que será feito: 
+Os alunos do Curso AMS – Articulação Médio Superior, são adolescentes do Ensino Básico e por 
+esta razão necessitam de alimentação apropriada e para tanto é necessário local adequado para 
+o preparo desse alimento como também de ambiente propício para seu consumo. 
+Responsável: 
+<nome> Fernanda Ganzelli Barboza Martines 
+Qde CH/sem: 
+02 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> Antonio Henrique Leal de Oliveira Junior 
+Qde CH/sem: 
+02 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- Visita do Engenheiro da Regional para verificação de local apropriado 
+para a construção do Refeitório 
+05/02 
+09/02 
+ 
+02- Contactar administração Central para verificação de andamento da 
+proposta de construção do refeitório, iniciado em 2022 
+05/02 
+09/02 
+ 
+03- Acompanhar andamento das tratativas para a construção do refeitório 
+15/02 
+20/12 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+Licitação 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+503 - cat 5.04 - Implantação de áreas comuns 
+Origem: 
+2-CPA (Relatório da Comissão Própria de Avaliação da Unidade) 
+O que será feito: 
+Construção de quadra esportiva para atender os alunos do Curso AMS – Articulação Médio 
+Superior, e demais alunos da Fatec Garça.n 
+Por que será feito: 
+Na grade horária do Curso AMS – Articulação Médio Superior, contempla a disciplina Educação 
+Física. O desenvolvimento dos exercícios físicos, imprescindíveis para o seus desenvolvimento, 
+necessitam de local apropriado para a prática esportiva e lazer 
+Responsável: 
+<nome> Fernanda Ganzelli Barboza Martines 
+Qde CH/sem: 
+02 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> Antonio Henrique Leal de Oliveira Junior 
+Qde CH/sem: 
+02 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+06/02/2024 
+Data final: 
+20/12/2024 
+Etapas do processo: 
+01- Visita do Engenheiro da Regional para verificação de local apropriado 
+para a construção da quadra esportiva 
+15/12/2023 
+15/12/
+202 
+ 
+02- Acompanhar andamento das tratativas para a construção da quadra 
+15/02 
+20/12 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+Licitação 
+Situação problema: 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+(a ser resolvida/mitigada) 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+504 - Escolher um item. 
+Origem: 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+<Copiar tabelas para mais ações> 
+ 
+ 
+ 
+ 
+ 
+06 - Desenvolvimento de pessoas (docentes e servidores) 
+Formação continuada de docentes e servidores, associadas às competências gerais e específicas de suas 
+atividades: Metodologias de ensino, Tecnologias educacionais, Sistemas (processos, procedimentos, plataformas 
+computacionais) acadêmicos e pedagógicos. 
+ 
+AÇÃO/PROJETO (Tema) 
+601 - cat 6.01 - Curso/Oficina/Capacitação/ Treinamento/ Palestra/Reunião/Encontro 
+Origem: 
+2-CPA (Relatório da Comissão Própria de Avaliação da Unidade) 
+O que será feito: 
+Fortalecimento e melhoria da comunicação entre a Instituição e o colegiado (comunidade)- Fatec 
+Garça a respeito das ações desenvolvidas na Unidade de Ensino Tecnológico 
+Por que será feito: 
+Para sanar um problema identificado no WEBSai em relação à falha na comunicação entre a 
+Instituição e o colegiado da Fatec Garça. 
+Responsável: 
+<nome> Luci Mieko Hirota Simas 
+Qde CH/sem: 
+01 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> Cristian Ricardo de Andrade 
+Qde CH/sem: 
+01 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> Lígia Mariusso Zoliani 
+Qde CH/sem: 
+01 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Período de execução: 
+Data inicial: 
+05/02/2024 
+Data final: 
+20/09/2024 
+Etapas do processo: 
+01- Apresentar as ações e os programas desenvolvidos pela Instituição 
+para os Alunos e professores no início de cada semestre; 
+05/02 e 
+01/08 
+19/02 e 
+09/08 
+ 
+02- Reforçar as informações ao longo do ano, por meio de apresentações, 
+mídias sociais, murais, Teams, etc; 
+08/02 
+20/12 
+ 
+03- Informar comunidade da Fatec Garça a respeito do Web Sai, 
+incentivando a participação de todos. 
+16/09 
+20/09 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+(a ser resolvida/mitigada) 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+602 - cat 6.03 - Projeto de Orientação psicopedagógica 
+Origem: 
+2-CPA (Relatório da Comissão Própria de Avaliação da Unidade) 
+O que será feito: 
+Implementação de políticas para que não ocorram ações de discriminação seja a portadores de 
+deficiência, cor, etnia ou gênero 
+Por que será feito: 
+Aumento significativo de alunos deficientes nos cursos da Fatec: deficiência Física, Intelectual, 
+Auditiva, Visual, Surdo-cegueira, Múltipla, Autismo, Comprometimento psicossocial; 
+A inclusão social não se restringe apenas a pessoas com deficiência, mas vale para todos 
+considerados excluídos do grupo social, como pobres, pretos, idosos, imigrantes, homossexuais e 
+outros. 
+Responsável: 
+<nome> Luci Mieko Hirota Simas 
+Qde CH/sem: 
+02 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> Lígia Mariusso Zoliani 
+Qde CH/sem: 
+01 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> Renata Aparecida de Carvalho Paschoal 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+05/02/2024 
+Data final: 
+20/12/2024 
+Etapas do processo: 
+01- Levantamento dos alunos com deficiência dos cursos, especificando o 
+tipo de deficiência 
+05/02 e 
+01/08 
+29/02 e 
+18/08 
+ 
+02- Verificar que os alunos que necessitam de acompanhantes estão sendo 
+atendidos 
+08/02 e 
+01/08 
+08/03 e 
+23/08 
+ 
+03- Conscientização da comunidade Fatecana para que não haja nenhuma 
+forma de discriminação 
+08/02 
+20/12 
+ 
+04- Distribuição de cartazes que remetem ao Guia de Comunicação 
+Inclusiva, no site do Centro Paula Souza/Adequação de ambientes 
+26/02 
+01/03 
+ 
+05- Acompanhamento, verificação de manifestações de práticas de 
+discriminação e conscientização dos envolvidos. 
+08/02 
+20/12 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+cat 0.1.09 - Acesso/Inclusão ao Ensino Superior (social, PCD) 
+(a ser resolvida/mitigada) 
+cat 0.1.09 - Acesso/Inclusão ao Ensino Superior (social, PCD) 
+X 
+X 
+ 
+ 
+AÇÃO/PROJETO (Tema) 
+603 - Escolher um item. 
+Origem: 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+604 - Escolher um item. 
+Origem: 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+X 
+X 
+<Copiar tabelas para mais ações> 
+ 
+ 
+ 
+ 
+ 
+ 
+07 – Convênios e Parcerias Institucionais 
+Formalização do relacionamento da Unidade com o Ecossistema de Tecnologia: Convênio de uso de prédio, 
+estágios, projetos com empresas. Aqui cabe apenas novos convênios e parcerias, e cada proposta deve estar 
+relacionada a uma Ação/Projeto de melhoria em algum dos itens anteriores do PGA (1, 2, 3, 4, 5 ou 6). 
+ 
+AÇÃO/PROJETO (Tema) 
+701 - cat 7.03 - Projetos com empresas e/ou demais parceiros 
+Origem: 
+2-CPA (Relatório da Comissão Própria de Avaliação da Unidade) 
+O que será feito: 
+Curso para pessoas da Comunidade externa, denominado: “Arte e Tecnologia: 
+Empreendedorismo e Marketing digital”, em parceria com as Secretarias Municipal de Cultura, 
+Saúde e de Desenvolvimento Econômico e Turismo  
+Por que será feito: 
+Capacitar e qualificar a comunidade local e regional quanto a alfabetização e aprimoramento 
+digital para fomentar o desenvolvimento socioeconômico. 
+Responsável: 
+<nome> Maria Alda Barbosa Cabreira 
+Qde CH/sem: 
+04 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> Cristiana Portelo Yafushi 
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+08,/02/2024 
+Data final: 
+20/12/2024 
+Etapas do processo: 
+01- Agendamento de reuniões com secretários Municipais para diálogo  
+08/02 
+22/02 
+ 
+02- Reunião com secretários municipais para definir estratégias para 
+atendimento dos futuros participantes e definição de data de início do 
+curso 
+23/02 
+29/02 
+ 
+03- Início do Curso – acolhida dos alunos (1º semestre) 
+04/03 
+08/03 
+ 
+04- Inicio do Curso  - acolhida dos alunos (2º semestre) 
+05/08 
+16/08 
+ 
+05- Encerramento do Curso – entrega de certificados (1º semestre) 
+19/06 
+19/06 
+ 
+06- Encerramento do Curso – entrega de certificados (2º semestre) 
+27/11 
+27/11 
+ 
+07- Avaliação do Projeto (1º semestre 2023) 
+28/06 
+28/06 
+ 
+08- Avaliação do Projeto (2º semestre 2023) 
+13/12 
+13/12 
+Custo R$ (se houver): 
+Transporte 
+Fonte(s) dos recursos: 
+Prefeitura Municipal de Garça 
+Situação problema: 
+cat 0.1.08 - Participação da comunidade e sociedade 
+(a ser resolvida/mitigada) 
+cat 0.1.08 - Participação da comunidade e sociedade 
+X 
+X 
+AÇÃO/PROJETO (Tema) 
+702 - cat 7.03 - Projetos com empresas e/ou demais parceiros 
+Origem: 
+2-CPA (Relatório da Comissão Própria de Avaliação da Unidade) 
+O que será feito: 
+Buscar junto à comunidade local e regional a doação de computadores para que sejam 
+encaminhados aos alunos da Fatec Garça para utilização no desenvolvimento de suas atividades 
+pedagógicas. 
+Por que será feito: 
+O projeto ALL-TEC tem como objetivo a inclusão digital através da doação de computadores para 
+os estudantes da Fatec Garça. Dispositivos sem condições de uso serão destinados corretamente 
+para reciclagem. 
+Responsável: 
+<nome> Cristian Ricardo de Andrade 
+Qde CH/sem: 
+04 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+16/02/2024 
+Data final: 
+20/12/2024 
+Etapas do processo: 
+01- Contatos e captação nas empresas da regiã  
+19/02 
+20/02 
+ 
+02- Divulgação na comunidade para captação de dispositivos eletrônicos 
+19/02 
+20/12 
+ 
+03- Identificação dos alunos que não possuem computador 
+26/02 
+16/08 
+ 
+04- Reforma e remanejamento de peças para o computador 
+10/04 
+16/09 
+ 
+05- Realização das doações dos computadores aos alunos 
+15/04 
+23/09 
+ 
+06- Destinação correta das sucatas dos dispositivos para reciclagem 
+15/07 
+20/12 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+Doação 
+Situação problema: 
+cat 0.1.08 - Participação da comunidade e sociedade 
+(a ser resolvida/mitigada) 
+cat 0.1.08 - Participação da comunidade e sociedade 
+X 
+X 
+<Copiar tabelas para mais ações> 
+ 
+ 
+ 
+ 
+ 
+Anexo 1 – Lista de aquisições necessárias aos projetos 
+(equipamentos, softwares, mobiliários) 
+ 
+Item 
+Projeto 
+(XYY) 
+Denominação ou especificação do equipamento 
+Quant. 
+01 
+201 
+Alicates Amperímetros Cat 4 
+10 
+02 
+201 
+Bancada Pneumática 
+01 
+03 
+201 
+Bancada Hidráulica 
+02 
+04 
+201 
+Bancadas para laboratório 
+20 
+05 
+201 
+Braços Robóticos Didáticos 
+10 
+06 
+201 
+Drones 
+06 
+07 
+201 
+Elipse E3 (licenças 
+40 
+08 
+201 
+Fonte Tensão Ajustavel 
+06 
+09 
+201 
+Fresadora CNC  Didaticas 
+06 
+10 
+201 
+Hack para Switch 
+10 
+11 
+201 
+Impressora 3D 
+06 
+12 
+201 
+Matlab Simulink (licenças) 
+80 
+13 
+201 
+Módulos para eletrônica digital 
+20 
+14 
+201 
+Osciloscópios digital 
+05 
+15 
+201 
+Parafusadeira 
+02 
+16 
+201 
+Projetores+ HDMI 
+05 
+17 
+201 
+Terrômetros 
+10 
+18 
+201 
+Megômetro 
+05 
+19 
+201 
+Fasímetro 
+05 
+20 
+201 
+Sistema Modular Automático com 6 estações com controle por CLP e Redes 
+Industriais  
+02 
+21 
+201 
+SSD 480 Gb 
+80 
+22 
+202 
+Ar- condicionado (biblioteca e laboratórios) 
+50 
+23 
+202 
+Bebedouros para deficientes 
+04 
+24 
+202 
+Aparelhos Telefônico – 110 W (Área administrativa) 
+10 
+25 
+202 
+Armário de Aço 2 portas (coordenação AMS) 
+02 
+26 
+202 
+Mesas “L” (coordenação/recepção) 
+04 
+27 
+202 
+Mesinhas para impressora (Área administrativa) 
+05 
+28 
+202 
+Ampliação e cobertura do estacionamento 
+01 
+29 
+202 
+Roteador com Tecnologia MESH indoor 
+20 
+30 
+202 
+Roteador com Tecnologia MESH outdoor 
+08 
+31 
+202 
+DVR 16 canais 
+02 
+32 
+202 
+Câmera IP para DVR 
+10 
+33 
+202 
+Câmera IP WIFI Solar Ip66 
+10 
+34 
+501 
+Reforma da Cantina  
+01 
+35 
+502 
+Construção de Refeitório para alunos do AMS 
+01 
+36 
+503 
+Construção de quadra poliesportiva 
+ 
+37 
+602 
+Piso tátil nas áreas de circulação da Fatec  
+ 
+38 
+602 
+Cobertura para proteção contra chuvas, entre os blocos 
+ 
+39 
+602 
+Placa de identificação de prédio 
+01 
+ 
+ 
+ 
+ 
+ 
+Anexo 2 – Lista de Ações/Projetos referentes à CPA 
+ 
+Item 
+Projeto 
+(XYY) 
+Denominação 
+(O que será feito) 
+Prazo 
+01 
+101 
+Realizar reuniões com a direção, NDE, os coordenadores e docentes dos cursos 
+para levantamento de sugestões para a melhoria da matriz curricular, incluindo a 
+possibilidade do ensino híbrido.  
+30/10/2024 
+02 
+102 
+Sensibilização da comunidade da Fatec Garça a Respeito da importância da 
+participação no Web SAI, cujos dados subsidiarão o relatório da CPA e PDI da Fatec 
+Garça. 
+13/12/2024 
+03 
+201 
+Levantar a necessidade de atualização dos equipamentos existentes nos 
+laboratórios 
+20/12/2024 
+04 
+202 
+Adequação dos ambientes educativos que propiciará bem-estar aos usuários e 
+maior tempo de vida aos equipamentos. 
+20/12/202. 
+05 
+301 
+Estruturar o setor de pós-graduação para posterior oferecimento na Fatec Garça. 
+20/12/2024 
+06 
+302 
+Palestras e ou debates, mesas redondas, com a participação de organizações 
+públicas e privadas locais (PPP) 
+20/12/2024 
+07 
+501 
+Reforma do forro, pintura e iluminação da cantina da Fatec 
+20/12/2024 
+08 
+502 
+Construção de Refeitório para atender os alunos do Curso AMS – Articulação 
+Médio Superior 
+20/12/2024 
+09 
+503 
+Construção de quadra esportiva para atender os alunos do Curso AMS – 
+Articulação Médio Superior, e demais alunos da Fatec Garça. 
+20/12/2024 
+10 
+601 
+Fortalecimento e melhoria da comunicação entre a Instituição e o colegiado 
+(comunidade)- Fatec Garça a respeito das ações desenvolvidas na Unidade de 
+Ensino Tecnológico 
+20/09/2024 
+11 
+602 
+Implementação de políticas para que não ocorram ações de discriminação seja a 
+portadores de deficiência, cor, etnia ou gênero 
+20/12/2024 
+12 
+701 
+Curso para pessoas da Comunidade externa, denominado: “Arte e Tecnologia: 
+Empreendedorismo e Marketing digital”, em parceria com as Secretarias 
+Municipal de Cultura, Saúde e de Desenvolvimento Econômico e Turismo. 
+20/12/2024 
+13 
+702 
+Buscar junto à comunidade local e regional a doação de computadores para que 
+sejam encaminhados aos alunos da Fatec Garça para utilização no 
+desenvolvimento de suas atividades pedagógicas. 
+20/12/2024 
+14 
+nnn 
+nn 
+dd/mm/aaaa 
+15 
+nnn 
+nn 
+dd/mm/aaaa 
+16 
+nnn 
+nn 
+dd/mm/aaaa 
+17 
+nnn 
+nn 
+dd/mm/aaaa 
+18 
+nnn 
+nn 
+dd/mm/aaaa 
+19 
+nnn 
+nn 
+dd/mm/aaaa 
+20 
+nnn 
+nn 
+dd/mm/aaaa 
+ 
+ 
+<fim> 
+ 
+ 
+ 
+ 
+ 
+ 

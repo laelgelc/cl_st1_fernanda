@@ -1,0 +1,4346 @@
+1 
+ 
+PLANO DE GESTÃO ANUAL 
+PGA 2025 
+V04 
+Estruturado em uma única etapa com 2 anexos: 
+PLANEJAMENTO PELA EQUIPE GESTORA DA UE 
+• Anexo 1 – Lista de equipamentos necessários aos projetos 
+• Anexo 2 – Lista de Ações/Projetos referentes à CPA 
+ 
+IDENTIFICAÇÃO DA UNIDADE 
+Unidade 
+280 
+Fatec Bebedouro – Faculdade de Tecnologia de Bebedouro 
+Diretor(a) 
+Profa Carla Regina Lanzottii 
+ 
+PLANEJAMENTO PELA EQUIPE GESTORA DA EU 
+(Administração da Faculdade - Deliberação CEETEPS 31/2016) 
+ANÁLISE DO CENÁRIO 
+Descrever de forma breve e objetiva o cenário da Unidade perante sua missão como Unidade de Ensino na localidade em que 
+se encontra (é este cenário que se pretende melhorar). 
+A Fatec Bebedouro foi criada no segundo semestre de 2014 com a implantação do CST em Logística. Por meio da parceria com 
+a Fundação Coopercitrus-Credicitrus, o CST em Big Data no Agronegócio foi implantado no segundo semestre de 2021, com o 
+intuito de atender a demanda crescente por soluções de tecnologia aplicadas ao setor do agronegócio.  
+A Fatec Bebedouro está lotada em um antigo prédio, o qual foi doado para o CPS para servir de instalações para o CST de 
+Logística. Dada a antiguidade das instalações físicas, ela apresenta problemas de inadequações e acessibilidade e, este Plano de 
+Gestão Anual (PGA), fará um levantamento das deficiências em infraestrutura física da Unidade, sendo que, o principal 
+problema enfrentado pela Unidade de Ensino é a falta de rota de fuga e saída de emergência. No momento, os dois grandes 
+desafios da Fatec Bebedouro são a Evasão, e a Redução na demanda das inscrições para o vestibular.  
+A equipe gestora da Unidade de Ensino tem trabalhado para combater a evasão e a reprovação discente, bem como na 
+ampliação da divulgação dos cursos oferecidos, por meio de adoção de diferentes ações, apresentadas neste PGA. 
+ 
+• 
+Discorrer sobre o cenário, realizando um breve diagnóstico (limitar o espaço da escrita, para que seja inserido de forma 
+sucinta). 
+ 
+ 
+APONTAMENTO DE SITUAÇÕES-PROBLEMA MAIS RELEVANTES 
+Fontes: relatório CPA, análise de processos críticos da UE, relatório de atendimento e ocorrências Hórus, relatório NDE, 
+relatório de representação discente (DA, Atlética, representantes de turma), relatório CIPA, entre outros. 
+1 
+cat 0.1.01 - Metodologia de ensino, desempenho de 
+alunos, evasão 
+ 
+5 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+2 
+cat 0.1.02 - Manutenção e conservação predial 
+ 
+6 
+cat 0.1.10 - Gestão da unidade de ensino e dos cursos 
+(indicadores) 
+3 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+ 
+7 
+cat 0.1.08 - Participação da comunidade e sociedade 
+4 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de 
+ensino 
+ 
+8 
+cat 0.1.09 - Acesso/Inclusão ao Ensino Superior (social, 
+PCD) 
+Outra – Especificar: nn 
+ 
+ 
+ 
+2 
+ 
+Objetivos Institucionais – CPS (Plano de Metas) 
+1) 
+Atender às demandas sociais e do mercado de trabalho. 
+2) 
+Obter a satisfação dos públicos que se relacionam com o Centro Paula Souza (stakeholders). 
+3) 
+Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem. 
+4) 
+Assegurar a perenidade do crescimento da instituição com recursos financeiros disponíveis. 
+5) 
+Garantir celeridade e efetividade na prestação de serviços. 
+6) 
+Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no desenvolvimento 
+tecnológico e inovação. 
+7) 
+Promover a cultura de inovação e empreendedorismo. 
+8) 
+Aumentar a eficiência, a produtividade e a competitividade da instituição. 
+9) 
+Ampliar a oferta da Educação Profissional. 
+10) Resolução Conjunta SOG/SFP/SG-3, de 28-12-2022 - Bonificação por Resultados – BR das Secretarias de Estado, 
+Procuradoria Geral do Estado, Controladoria Geral do Estado e das Autarquias, de que trata a LC 1361-2021 
+Objetivos Institucionais – Cesu (Plano de Metas) 
+A. Integrar as diferentes modalidades de ensino, otimizando itinerários e tempo para a formação profissional. 
+B. Inovar processos de ensino e aprendizagem para manter excelência diante do mercado. 
+C. Ampliar a capacidade de criar e atualizar cursos em parceria com o mercado. 
+D. Expandir e ampliar a capacidade de articulação com Governos e Setores Produtivos. 
+E. Promover a captação de recursos extras e não orçamentários. 
+ 
+Atenção: Determinação da Origem (prioridade) de uma Ação ou Projeto de Melhoria que compõe o PGA, a fim de ordenar os 
+graus de prioridade tomando-se por base atos normativos regulatórios das atividades do CPS, e a governança institucional, por 
+suas esferas Estratégica, Tática e Operacional: 
+Grau 1 - URGÊNCIA DE REGULAÇÃO - prioridade máxima (advinda do MEC, CEE, MP, Vigilância Sanitária ou 
+notificação de qualquer órgão regulador/fiscalizador) - fundamentação: notificação de fiscalização, diligência de 
+regulação, termo de ajustamento de conduta, relatório circunstanciado, dentre outros emanados de órgãos que impõem 
+ações para cumprimento com regularidade normativa da instituição. 
+Grau 2 - URGÊNCIA ESTRATÉGICA - Gestão Estratégica do CPS (AMS, novos cursos e unidades, programas de 
+governo) - fundamentação: PPA do CPS, ações de governo conduzidas pela Superintendência do CPS. 
+Grau 3 - PRIORIDADE ALTA - Gestão Tática (ações correlatas à Avaliação institucional - ENADE, WebSAI, CPA, 
+Observatório Escolar). - fundamentação: processo avaliativo de órgãos reguladores, processo avaliativo interno do 
+CPS. 
+Grau 4 - PRIORIDADE MÉDIA - Gestão Operacional para aumento da capacidade instalada. - fundamentação: plano 
+operacional de gestão, homologado pela respectiva área da intendência, com foco na atividade fim do CPS. 
+Grau 5 - PRIORIDADE REGULAR - Gestão Operacional para preservação da capacidade instalada. - 
+fundamentação: plano operacional de gestão, homologado pela respectiva área da intendência, com foco na 
+atividade fim do CPS. 
+ 
+ 
+3 
+ 
+ESTRUTURAÇÃO DAS AÇÕES/PROJETOS 
+01 - Didático-pedagógico 
+Ações associadas ao PPC/PE de CSTs e Disciplinas: CST (implantação, alteração, readequação, 
+reestruturação), prática pedagógica (PE, PA), projeto interdisciplinar/ integrador, extensão curricularizada. 
+ 
+AÇÃO/PROJETO (Tema) 101 - cat 1.01 - Adequação/reestruturação de PPC, implantação de novos cursos. 
+Origem (prioridade): 
+1-Regulação - Notificação de órgão (MEC, CEE, VS.,..) 
+O que será feito: 
+Proposta de Curricularização da Extensão para o CST de Logística 
+Por que será feito: 
+• 
+Para atender a Deliberação CEE nº 216/2023 que dispõe sobre a curricularização da 
+extensão nos cursos de graduação das Instituições de Ensino Superior vinculadas ao 
+Sistema de Ensino do Estado de São Paulo; 
+• 
+Para atender a Resolução CNE nº 07/2018 que dispõe sobre a curricularização da 
+extensão nos cursos de graduação das Instituições de Ensino Superior vinculadas ao 
+Sistema de Ensino do Estado de São Paulo. 
+Responsável: 
+Profa. Selma de Fátima Grossi - Coordenadora do 
+CST de Logística 
+Qde CH/sem: 
+06 
+Tipo: 
+HA - Hora Atividade 
+Responsável: 
+Eliamar Francelino do Prado - NDE  
+Qde CH/sem: 
+04 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Responsável: 
+Luís Roberto de Medeiros –NDE;  
+Qde CH/sem: 
+ 03  Tipo: 
+HAE - Hora Atividade 
+Específica 
+Responsável: 
+Oswaldo Lazaro Mendes – NDE  
+Qde CH/sem: 
+03 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+10/03/2025 
+Data final: 
+30/06/2025 
+Etapas do processo: 
+01- Reunião com o NDE para analisar o perfil do egresso descrito no PPC 
+para verificar as competências a serem desenvolvidas;  
+10/03 
+21/03 
+ 
+02- Descrever no PPC a forma como será desenvolvida a curricularização 
+da extensão e como os projetos se conectam com o perfil do egresso e 
+com o currículo;  
+21/03 
+04/04 
+ 
+03- Reunião com os docentes do curso para análise do conteúdo das 
+unidades curriculares e identificação que podem ser trabalhados dentro 
+de projetos extensionistas; 
+04/04 
+30/04 
+ 
+04- Reunião com o NDE para organizar as atividades de extensão 
+curricularizada em projetos de ensino, definindo as etapas de entregas e 
+do produto final.  
+05/05 
+16/05 
+ 
+05- Propor ações extensionistas que sejam viáveis para todos os alunos 
+em relação a tempo e espaço; 
+19/05 
+23/05 
+ 
+06- Elaboração da Adequação do PPC de Logística; 
+26/05 
+13/06 
+ 
+07- Apresentação da Proposta ao corpo docente; 
+16/06 
+20/06 
+ 
+08- Submeter à Coordenação Pedagógica e à CESU para apreciação; 
+23/06 
+30/06 
+Custo R$ (se houver): 
+HAE 
+Fonte(s) dos recursos: 
+HAE – GDS/Centro Paula Souza 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.10 - Gestão da unidade de ensino e dos cursos (indicadores) 
+cat 0.1.08 - Participação da comunidade e sociedade 
+ 
+ 
+ 
+ 
+4 
+ 
+AÇÃO/PROJETO (Tema) 102 - cat 1.01 - Adequação/reestruturação de PPC, implantação de novos cursos. 
+Origem (prioridade): 
+1-Regulação - Notificação de órgão (MEC, CEE, VS.,..) 
+O que será feito: 
+Proposta de Curricularização da Extensão para o CST de Big Data para o Agronegócio 
+Por que será feito: 
+• 
+Para atender a Deliberação CEE nº 216/2023 que dispõe sobre a curricularização da 
+extensão nos cursos de graduação das Instituições de Ensino Superior vinculadas ao 
+Sistema de Ensino do Estado de São Paulo; 
+• 
+Para atender a Resolução CNE nº 07/2018 que dispõe sobre a curricularização da 
+extensão nos cursos de graduação das Instituições de Ensino Superior vinculadas ao 
+Sistema de Ensino do Estado de São Paulo. 
+Responsável: 
+Prof. Dr. Renan Guilherme Nespolo- Coordenador 
+do CST de Big Data no Agronegócio 
+Qde CH/sem: 
+06 Tipo: 
+HA - Hora Atividade 
+Responsável: 
+Fábio Alexandre Cavichioli – NDE 
+Qde CH/sem: 
+02 Tipo: 
+HA - Hora Atividade 
+Responsável: 
+Luís Roberto de Medeiros –NDE 
+Qde CH/sem: 
+02 Tipo: 
+HAE - Hora Atividade 
+Específica 
+Responsável: 
+Oswaldo Lazaro Mendes – NDE 
+Qde CH/sem: 
+02 Tipo: 
+HA - Hora Atividade 
+Responsável: 
+Paulo Eduardo Cardoso Andrade 
+Qde CH/sem: 
+02 Tipo: 
+HAE - Hora Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+10/03/2025 
+Data final: 
+30/06/2025 
+Etapas do processo: 
+01- Reunião com o NDE para analisar o perfil do egresso descrito no PPC 
+para verificar as competências a serem desenvolvidas;  
+10/03 
+21/03 
+ 
+02- Descrever no PPC a forma como será desenvolvida a curricularização 
+da extensão e como os projetos se conectam com o perfil do egresso e 
+com o currículo;  
+21/03 
+04/04 
+ 
+03- Reunião com os docentes do curso para análise do conteúdo das 
+unidades curriculares e identificação que podem ser trabalhados dentro 
+de projetos extensionistas; 
+04/04 
+30/04 
+ 
+04- Reunião com o NDE para organizar as atividades de extensão 
+curricularizada em projetos de ensino, definindo as etapas de entregas e 
+do produto final.  
+05/05 
+16/05 
+ 
+05- Propor ações extensionistas que sejam viáveis para todos os alunos 
+em relação a tempo e espaço; 
+19/05 
+23/05 
+ 
+06- Elaboração da Adequação do PPC de Big Data para o Agronegócio 
+26/05 
+13/06 
+ 
+07- Apresentação da Proposta ao corpo docente; 
+16/06 
+20/06 
+ 
+08- Submeter à Coordenação Pedagógica e à CESU para apreciação; 
+23/06 
+30/06 
+Custo R$ (se houver): 
+HAE 
+Fonte(s) dos recursos: 
+HAE – GDS/Centro Paula Souza 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.10 - Gestão da unidade de ensino e dos cursos (indicadores) 
+cat 0.1.08 - Participação da comunidade e sociedade 
+ 
+ 
+ 
+5 
+ 
+AÇÃO/PROJETO (Tema) 103 - cat 1.06 - Ações pedagógicas: visitas técnicas, projetos integradores/interdisciplinares, dias 
+de campo, feira das profissões, cursos extracurriculares para alunos. 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+• 
+Acolhimento e Nivelamento dos Cursos da Fatec Bebedouro – 1º Semestre e 2º 
+Semestre 
+• 
+Desenvolvimento de ações para acolher todos os alunos da Unidade e integrá-los à 
+Fatec Bebedouro; 
+• 
+Oferecimento de palestras, gamificação, competições e jogos aos alunos da Unidade 
+Por que será feito: 
+• 
+Diminuição da Evasão de Alunos no 1º semestre letivo;  
+• 
+Melhoria dos Processos de Ensino-Aprendizagem executados pelas disciplinas na 
+Unidade;  
+• 
+Melhoria do Endomarketing da Unidade, visando futura divulgação positiva dos cursos 
+da Unidade nos ambientes aos quais os alunos se encontram inseridos; 
+Responsável: 
+Carla Regina Lanzotti - Diretora da Unidade 
+Qde CH/sem: 
+04 
+Tipo: 
+HA - Hora Atividade 
+Responsável: 
+Prof. Dr. Renan Guilherme Nespolo- Coordenador 
+do CST de Big Data no Agronegócio 
+Qde CH/sem: 
+04 
+Tipo: 
+HA - Hora Atividade 
+Responsável: 
+Profa. Selma de Fátima Grossi - Coordenadora do 
+CST de Logística 
+Qde CH/sem: 
+04 
+Tipo: 
+HA - Hora Atividade 
+Colaborador: 
+Cassio Junqueira Franco Fabbri - Auxiliar docente 
+Qde CH/sem: 
+02 
+Tipo: 
+H - Hora <não tipificada> 
+Colaborador: 
+David Francisco - Auxiliar Docente 
+Qde CH/sem: 
+02 
+Tipo: 
+H - Hora <não tipificada> 
+Período de execução: 
+Data inicial: 
+02/02/2025 
+Data final: 
+14/03/2025 
+Etapas do processo: 
+01 - Planejamento das atividades  
+02/02 
+05/02 
+ 
+02 - Divulgação e organização junto ao corpo docente e servidores 
+03/02 
+05/02 
+ 
+03 - Aplicação das atividades planejadas junto ao corpo discente 
+10/02 
+07/03 
+ 
+04 - Análise das ações para melhoria contínua na próxima edição. 
+28/02 
+14/03 
+ 
+05 -  
+ 
+ 
+ 
+06-  
+ 
+ 
+ 
+07-  
+ 
+ 
+ 
+08-  
+ 
+ 
+Período de execução: 
+Data inicial: 
+04/08/2025 
+Data final: 
+12/09/2025 
+Etapas do processo: 
+01 - Planejamento das atividades  
+04/08 
+05/08 
+ 
+02 - Divulgação e organização junto ao corpo docente e servidores 
+04/08 
+06/08 
+ 
+03 - Aplicação das atividades planejadas junto ao corpo discente 
+11/08 
+05/09 
+ 
+04 - Análise das ações para melhoria contínua na próxima edição. 
+05/09 
+12/09 
+ 
+05 -  
+ 
+ 
+ 
+06-  
+ 
+ 
+ 
+07-  
+ 
+ 
+ 
+08-  
+ 
+ 
+Custo R$ (se houver): 
+Sem Custo 
+Fonte(s) dos recursos: 
+ 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.10 - Gestão da unidade de ensino e dos cursos (indicadores) 
+cat 0.1.09 - Acesso/Inclusão ao Ensino Superior (social, PCD) 
+ 
+ 
+ 
+ 
+6 
+ 
+ 
+AÇÃO/PROJETO (Tema) 104 - cat 1.11 - Ações de nivelamento de conhecimento, ENADE, acolhimento e permanência 
+discente. 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+• 
+Acompanhamento do número de faltas de estudantes da Unidade; 
+• 
+Realização de contato com alunos faltosos via telefone; 
+• 
+Compreensão da falta e encaminhamentos para melhor trajetória escolar; 
+• 
+Ações para diminuição da evasão escolar; 
+Por que será feito: 
+• 
+Diminuição da Evasão Escolar da Unidade; 
+• 
+Mapeamento das causas da Evasão; 
+• 
+Tomada de decisões para diminuição da evasão escolar; 
+Responsável: 
+Prof. Dr. Renan Guilherme Nespolo- Coordenador 
+do CST de Big Data no Agronegócio 
+Qde CH/sem: 
+02 
+Tipo: 
+HA - Hora Atividade 
+Responsável: 
+Profa. Selma de Fátima Grossi - Coordenadora do 
+CST de Logística 
+Qde CH/sem: 
+02 
+Tipo: 
+HA - Hora Atividade 
+Colaborador: 
+ 
+Qde CH/sem: 
+02 
+Tipo: 
+H - Hora <não tipificada> 
+Período de execução: 
+Data inicial: 
+02/02/2025 
+Data final: 
+30/05/2025 
+Etapas do processo: 
+01 - Planejamento das atividades  
+02/02 
+21/02 
+ 
+02 - Divulgação e organização junto ao corpo docente e servidores 
+24/02 
+07/03 
+ 
+03 - Aplicação das atividades planejadas junto ao corpo discente 
+07/03 
+30/05 
+ 
+04 - Análise das ações para melhoria contínua na próxima edição. 
+07/03 
+30/05 
+ 
+05 -  
+ 
+ 
+ 
+06-  
+ 
+ 
+ 
+07-  
+ 
+ 
+ 
+08-  
+ 
+ 
+Período de execução: 
+Data inicial: 
+04/08/2025 
+Data final: 
+31/10/2025 
+Etapas do processo: 
+01 - Planejamento das atividades  
+04/08 
+05/09 
+ 
+02 - Divulgação e organização junto ao corpo docente e servidores 
+08/09 
+12/09 
+ 
+03 - Aplicação das atividades planejadas junto ao corpo discente 
+12/09 
+31/10 
+ 
+04 - Análise das ações para melhoria contínua na próxima edição. 
+12/09 
+31/10 
+ 
+05 -  
+ 
+ 
+ 
+06-  
+ 
+ 
+ 
+07-  
+ 
+ 
+ 
+08-  
+ 
+ 
+Custo R$ (se houver): 
+Sem Custo 
+Fonte(s) dos recursos: 
+ 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.10 - Gestão da unidade de ensino e dos cursos (indicadores) 
+cat 0.1.09 - Acesso/Inclusão ao Ensino Superior (social, PCD) 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+ 
+ 
+ 
+ 
+7 
+ 
+AÇÃO/PROJETO (Tema) 105 - cat 1.11 - Ações de nivelamento de conhecimento, ENADE, acolhimento e permanência 
+discente. 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+• 
+Acompanhamento do aprendizado e das dificuldades enfrentadas pelos alunos por 
+meio de visitas às salas de aula, reuniões com representantes discentes e reuniões 
+individuais com os discentes e aconselhamento pedagógico. 
+• 
+Compreensão e encaminhamentos para melhor trajetória escolar; 
+• 
+Ações para diminuição da evasão escolar; 
+Por que será feito: 
+• 
+Diminuição da Evasão Escolar da Unidade; 
+• 
+Mapeamento das causas da Evasão; 
+• 
+Tomada de decisões para diminuição da evasão escolar; 
+Responsável: 
+Prof. Dr. Renan Guilherme Nespolo- Coordenador 
+do CST de Big Data no Agronegócio 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Responsável: 
+Profa. Selma de Fátima Grossi - Coordenadora do 
+CST de Logística 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+02/02/2025 
+Data final: 
+20/06/2025 
+Etapas do processo: 
+01 - Planejamento das atividades  
+02/02 
+21/02 
+ 
+02 - Divulgação e organização junto ao corpo docente e servidores 
+24/02 
+07/03 
+ 
+03 - Aplicação das atividades planejadas junto ao corpo discente 
+07/03 
+20/06 
+ 
+04 - Análise das ações para melhoria contínua na próxima edição. 
+07/03 
+20/06 
+ 
+05 -  
+ 
+ 
+ 
+06-  
+ 
+ 
+ 
+07-  
+ 
+ 
+ 
+08-  
+ 
+ 
+Período de execução: 
+Data inicial: 
+04/08/2025 
+Data final: 
+28/11/2025 
+Etapas do processo: 
+01 - Planejamento das atividades  
+04/08 
+05/09 
+ 
+02 - Divulgação e organização junto ao corpo docente e servidores 
+08/09 
+12/09 
+ 
+03 - Aplicação das atividades planejadas junto ao corpo discente 
+12/09 
+28/11 
+ 
+04 - Análise das ações para melhoria contínua na próxima edição. 
+12/09 
+28/11 
+ 
+05 -  
+ 
+ 
+ 
+06-  
+ 
+ 
+ 
+07-  
+ 
+ 
+ 
+08-  
+ 
+ 
+Custo R$ (se houver): 
+Sem Custo 
+Fonte(s) dos recursos: 
+ 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.10 - Gestão da unidade de ensino e dos cursos (indicadores) 
+cat 0.1.09 - Acesso/Inclusão ao Ensino Superior (social, PCD) 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+ 
+ 
+ 
+8 
+ 
+ 
+AÇÃO/PROJETO (Tema) 106 - cat 1.13 - Estágio 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+• 
+Conscientizar a comunidade discente da relevância e obrigatoriedade do Estágio 
+Supervisionado nos Cursos Superiores de Tecnologia; 
+• 
+Apresentação da documentação necessária e da legislação pertinente aos Estágios  
+• 
+Supervisionados; 
+• 
+Mapeamento dos alunos que estão realizando Estágios Supervisionados na Fatec 
+Bebedouro; 
+• 
+Acompanhamento do desenvolvimento do Estágio solicitando ao aluno e empresas a 
+documentação pertinente; 
+• 
+ Quitação do Estágio Supervisionado, após o cumprimento dos quesitos legais 
+Por que será feito: 
+• 
+Contribuir para a Visibilidade Institucional da Fatec Bebedouro junto as Empresas de 
+Bebedouro e região; 
+• 
+Contribuir para que o aluno realize um bom Estágio Supervisionado, proporcionando a 
+ele experiências profissionais relevantes no mundo do trabalho; 
+• 
+Desmistificar o Estágio Supervisionado, junto ao corpo docente e discente da Unidade; 
+• 
+Preparar o corpo discente para a realização do Estágio Supervisionado, aumentando as 
+chances de um bom desempenho; 
+• 
+Organizar e Acompanhar as atividades dos Estágios Supervisionados dos alunos, 
+intervindo junto a empresas, se necessário 
+Responsável: 
+Mariana Moretto Gementi-Spolzino 
+Qde CH/sem: 
+15 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+02/02/2025 
+Data final: 
+30/06/2025 
+Etapas do processo: 
+01 - Planejamento das atividades  
+02/02 
+07/03 
+ 
+02 - Apresentação em sala de aula das normativas que regem o Estágio 
+Supervisionado enquanto componente curricular obrigatório 
+24/02 
+28/03 
+ 
+03 - Aplicação das atividades planejadas junto ao corpo discente 
+24/02 
+30/06 
+ 
+04 - Atendimento aos alunos quanto a possíveis dúvidas com relação ao 
+Regulamento vigente, referente ao Estágio Supervisionado (equivalência 
+ou desenvolvimento de estágio). 
+24/02 
+30/06 
+ 
+05 - Acompanhamento das Atividades de Estágio Supervisionado dos 
+alunos 
+24/02 
+30/06 
+ 
+06- Análise, organização e validação dos documentos entregues pelos 
+alunos e pelas empresas as quais eles se encontram estagiando; 
+24/02 
+30/06 
+ 
+07- Análise das ações para melhoria contínua no próximo semestre. 
+24/02 
+30/06 
+ 
+08-  
+ 
+ 
+Período de execução: 
+Data inicial: 
+04/08/2025 
+Data final: 
+12/12/2025 
+Etapas do processo: 
+01 - Planejamento das atividades  
+04/08 
+12/09 
+ 
+02 - Apresentação em sala de aula das normativas que regem o Estágio 
+Supervisionado enquanto componente curricular obrigatório 
+18/08 
+05/09 
+ 
+03 - Aplicação das atividades planejadas junto ao corpo discente 
+18/08 
+12/12 
+ 
+04 - Atendimento aos alunos quanto a possíveis dúvidas com relação ao 
+Regulamento vigente, referente ao Estágio Supervisionado (equivalência ou 
+desenvolvimento de estágio). 
+18/08 
+12/12 
+ 
+05 - Acompanhamento das Atividades de Estágio Supervisionado dos 
+alunos 
+18/08 
+12/12 
+ 
+06- Análise, organização e validação dos documentos entregues pelos 
+alunos e pelas empresas as quais eles se encontram estagiando; 
+18/08 
+12/12 
+ 
+07- Análise das ações para melhoria contínua no próximo semestre. 
+18/08 
+12/12 
+ 
+08-  
+ 
+ 
+Custo R$ (se houver): 
+Sem Custo 
+Fonte(s) dos recursos: 
+ 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.10 - Gestão da unidade de ensino e dos cursos (indicadores) 
+cat 0.1.08 - Participação da comunidade e sociedade 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+ 
+ 
+ 
+9 
+ 
+AÇÃO/PROJETO (Tema) 
+107 - cat 1.02 - Eventos e publicações acadêmicos e científicos 
+Origem (prioridade): 
+6-Outra 
+O que será feito: 
+• 
+Cinema para integração da tecnologia e cultura  
+Por que será feito: 
+• 
+Apresentação de filmes que abordam a área de formação de conhecimento dos alunos 
+são ferramentas valiosas para complementar o aprendizado teórico, proporcionando 
+uma visão prática e crítica sobre a profissão; 
+• 
+Contextualização e ilustração dos desafios reais ad carreira, dilemas éticos, além de 
+ampliar a cultura dos alunos; 
+• 
+Desmistificar a futura profissão, junto ao corpo docente e discente da Unidade; 
+• 
+Combater a evasão e incentivar a motivação dos alunos na carreira em que abraçaram; 
+• 
+Possibilidade de participação de membros da comunidade externa para interação e/ou 
+conhecimento dos filmes. 
+Responsável: 
+Profa. Selma de Fátima Grossi - Coordenadora do CST 
+de Logística 
+Qde CH/sem: 
+02 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): Mariana Moretto Gementi-Spolzino - Docente 
+Qde CH/sem: 
+02 
+Tipo: 
+H - Hora <não tipificada> 
+Período de execução: 
+Data inicial: 
+10/02/2025 
+Data final: 
+30/04/2025 
+Etapas do processo: 
+01- Reuniões para a escolha dos filmes 
+10/02 
+10/03 
+02- Apresentação do filme e debate 
+23/04 
+23/04 
+03 – Avaliação do filme apresentado 
+30/04 
+30/04 
+04 - 
+dd/mm 
+dd/mm 
+05 -  
+dd/mm 
+dd/mm 
+Período de execução: 
+Data inicial: 
+13/08/2025 
+Data final: 
+19/11/2025 
+Etapas do processo: 
+01- Reuniões para a escolha dos filmes 
+13/08 
+19/09 
+02- Apresentação do filme e debate 
+12/11 
+12/11 
+03 – Avaliação do filme apresentado 
+19/11 
+19/11 
+04 - 
+dd/mm 
+dd/mm 
+05 -  
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+Sem Custo 
+Fonte(s) dos recursos: 
+ 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+cat 0.1.08 - Participação da comunidade e sociedade 
+ 
+AÇÃO/PROJETO (Tema) 
+108 - cat 1.03 - COIL/PCI e Escola de Inovadores 
+Origem (prioridade): 
+5-Gestão Operacional - Preservação de capacidade instalada 
+O que será feito: 
+Continuidade no Programa Coil – Fatec Bebedouro e Uniminuto - Colômbia 
+Por que será feito: 
+• 
+Troca de experiência entre alunos e docentes das instituições de ensino participantes; 
+• 
+Vivência na língua estrangeira; 
+• 
+Integração entre as instituições de ensino participantes; 
+Responsável: 
+Profa. Selma de Fátima Grossi - Coordenadora do CST 
+de Logística 
+Qde CH/sem: 
+02 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): Lígia de Grandi - Professora de Espanhol 
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+10/02/2025 
+Data final: 
+30/06/2025 
+Etapas do processo: 
+01- Reuniões com os professores das instituições 
+10/02 
+03/03 
+ 
+02- Apresentação da proposta de trabalhos para os alunos participantes 
+03/03 
+14/03 
+ 
+03- Desenvolvimento das atividades 
+17/03 
+20/06 
+ 
+04- Apresentação dos resultados obtidos 
+23/06 
+30/06 
+ 
+05-  
+dd/mm 
+dd/mm 
+ 
+06-  
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+HAE 
+Fonte(s) dos recursos: 
+HAE – GDS/Centro Paula Souza 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+ 
+ 
+ 
+10 
+ 
+AÇÃO/PROJETO (Tema) 
+109 - cat 1.01 - Adequação/reestruturação de PPC, implantação de novos cursos. 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+• 
+Conscientizar a comunidade discente, docente e de técnico-administrativa da relevância 
+e obrigatoriedade da CPA – Comissão Própria de Avaliação; 
+• 
+Constituição da CPA da Fatec Bebedouro, respeitando a representatividade prevista pelo 
+MEC; 
+• 
+Elaboração dos questionários destinados a todos os segmentos da comunidade interna 
+da Unidade, em sintonia com a CPA Central do Centro Paula Souza; 
+• 
+Aplicação dos questionários, com realização de sensibilização junto a comunidade 
+interna para sua efetiva participação; 
+• 
+Análises, tabulação, organização e tratativas estatísticas dos dados coletados a partir dos 
+questionários aplicados;  
+• 
+Elaboração do relatório final da CPA 2024; 
+Por que será feito: 
+• 
+Atendimento às exigências legais do ensino superior; 
+• 
+Servir de fonte para a elaboração do PDI – Plano de Desenvolvimento Institucional e do 
+PGA – Plano de Gestão Anual das Atividades a serem realizadas pela Unidade; 
+• 
+Ter a visão da comunidade interna da Unidade a respeito das principais dificuldades, 
+anseios, necessidades, opiniões sobre os serviços e atividades ofertadas pela Unidade; 
+• 
+Desmistificar a CPA – Comissão Própria de Avaliação, junto ao corpo docente, técnico 
+administrativo e discente da Unidade; 
+• 
+Preparar o corpo discente, docente e técnico-administrativo para sua efetiva 
+participação no período de disponibilização dos questionários a serem respondidos; 
+• 
+Contribuir para um bom CPC – Conceito Preliminar de Curso, que um indicador de 
+qualidade que o MEC avalia os cursos de graduação; 
+• 
+Melhorar o desempenho dos Cursos Superiores de Tecnologia da Fatec Bebedouro 
+junto ao SINAES – Sistema Nacional de Avaliação do Ensino Superior; 
+Responsável: 
+Membros da Comissão Própria de Avaliação 
+Qde CH/sem: 
+02 
+Tipo: 
+H - Hora <não tipificada> 
+Colaborador(a): Membros da Comissão Própria de Avaliação 
+Qde CH/sem: 
+02 
+Tipo: 
+H - Hora <não tipificada> 
+Colaborador(a): Membros da Comissão Própria de Avaliação 
+Qde CH/sem: 
+02 
+Tipo: 
+H - Hora <não tipificada> 
+Período de execução: 
+Data inicial: 
+22/04/2025 
+Data final: 
+20/12/2025 
+Etapas do processo: 
+01- Sensibilização da comunidade acadêmica (discentes, docentes e 
+agentes técnico‐administrativos);  
+22/04 
+29/08 
+ 
+02- Elaboração de questionários da CPA 
+04/08 
+06/09 
+ 
+03- Divulgação do período destinado ao preenchimento dos questionários 
+da CPA  
+08/09 
+20/09 
+ 
+04- Análise, organização e tabulação dos dados obtidos nos questionários 
+aplicados; 
+01/10 
+31/10 
+ 
+05- Elaboração do relatório final da CPA 
+03/11 
+20/11 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+Sem custo 
+Fonte(s) dos recursos: 
+ 
+Situação problema: 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+(a ser resolvida/mitigada) 
+cat 0.1.10 - Gestão da unidade de ensino e dos cursos (indicadores) 
+ 
+ 
+ 
+ 
+ 
+11 
+ 
+02 – Laboratórios - Ensino e Equipamentos Associados 
+Ações para melhoramento dos laboratórios de Ensino (Gestão e Equipamentos): Melhoramento de 
+equipamentos, mediante instalação, manutenção, desuso, doação, e gestão de ambiente laboratorial. 
+AÇÃO/PROJETO (Tema) 201 - cat 2.05 - Gestão laboratorial - pedagógica, operacional e estrutural 
+Origem (prioridade): 
+5-Gestão Operacional - Preservação de capacidade instalada 
+O que será feito: 
+Levantamento das necessidades de manutenção, reparos, atualizações ou aquisição de máquinas, 
+equipamentos e mobiliário para os laboratórios didáticos da Unidade. 
+Por que será feito: 
+• 
+Necessidade de compra de máquinas/equipamentos/aparelhos para os laboratórios de 
+informática da Fatec; 
+• 
+Melhoria da Infraestrutura didático-pedagógicas e das instalações físicas dos ambientes 
+laboratoriais da Unidade; 
+• 
+Manutenção/Aumento da qualidade das atividades práticas laboratoriais, de pesquisa e 
+inovação tecnológica realizada na Unidade; 
+• 
+Melhoria das condições de ensino-aprendizagem dos ambientes laboratoriais da Unidade; 
+• 
+Manutenção/Atualização das atividades práticas previstas nas diversas disciplinas dos Cursos 
+da Fatec; 
+• 
+Adequação às atividades práticas e didático-pedagógicas desenvolvidas nos ambientes 
+multidisciplinares; 
+• 
+Melhoria dos indicadores escolares acadêmicos da Fatec. 
+Responsável: 
+Membros da Comissão Própria de Avaliação 
+Qde CH/sem: 
+02 
+Tipo: 
+H - Hora <não tipificada> 
+Colaborador(a): Membros da Comissão Própria de Avaliação 
+Qde CH/sem: 
+02 
+Tipo: 
+H - Hora <não tipificada> 
+Colaborador(a): Cassio Junqueira Franco Fabbri - Auxiliar docente 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): David Francisco - Auxiliar Docente 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+05/05/2025 
+Data final: 
+19/12/2025 
+Etapas do processo: 
+01- Constituição de uma comissão interna para estudar o problema dos 
+recursos didático-pedagógicos, máquinas, equipamentos, mobiliário e de 
+infraestrutura nos ambientes laboratoriais da Unidade  
+05/05 
+30/05 
+02- Mapeamento das condições dos recursos didático-pedagógicos, 
+máquinas, equipamentos, mobiliário e de infraestrutura de todos os 
+ambientes laboratoriais existentes na Unidade 
+30/05 
+29/08 
+03- Compilação das informações obtidas e realização de relatório  
+29/08 
+29/09 
+04- Cadastramento das solicitações de todos os itens e demandas 
+encontradas no SIAF do Centro Paula Souza 
+29/08 
+17/10 
+05- Acompanhamento das necessidades e ações mapeadas 
+17/10 
+19/12 
+06-  
+dd/mm 
+dd/mm 
+07-  
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+Sem Custo 
+Fonte(s) dos recursos:  
+Situação problema: 
+(a ser resolvida/mitigada) 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+cat 0.1.10 - Gestão da unidade de ensino e dos cursos (indicadores) 
+ 
+ 
+ 
+ 
+12 
+ 
+AÇÃO/PROJETO (Tema) 
+202 - cat 2.04 - Ambiente de ensino prático - implantação/melhoramento com recursos NÃO PEDAGÓGICOS 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+Estudos das condições de acessibilidade e permanência nos ambientes de ensino prático  
+Por que será feito: 
+• 
+Atendimento a legislação vigente; 
+• 
+Viabilização do Acesso ao Ensino Superior por pessoas portadoras de deficiência física 
+e/ou transtornos; 
+• 
+Melhoria das condições de acessibilidade e permanência da comunidade interna da 
+Unidade. 
+Responsável: 
+Carla Regina Lanzotti – Diretora da Unidade 
+Qde CH/sem: 
+01 Tipo: 
+HA - Hora Atividade 
+Colaborador(a): Cassio Junqueira Franco Fabbri - Auxiliar Docente  
+Qde CH/sem: 
+03 Tipo: H - Hora <não tipificada> 
+Colaborador(a): Aline Beatriz Ramos Luz - Diretora de Serviços 
+Administrativos 
+Qde CH/sem: 
+01 Tipo: H - Hora <não tipificada> 
+Período de execução: 
+Data inicial: 
+05/02/2025 
+Data final: 
+16/08/2025 
+Etapas do processo: 
+01- Levantamento das necessidades de equipamentos 
+05/02 
+08/03 
+02- Cotação dos valores dos mobiliários 
+08/03 
+03/05 
+03- Compilação das informações obtidas e realização de relatório  
+03/05 
+24/05 
+04- Envio do Relatório aos Coordenadores de Serviços Técnicos e 
+Administrativos do Núcleo Regional  
+24/05 
+14/06 
+05- Encaminhamento do documento às instâncias competentes do CPS 
+para tomada de decisões e preenchimento no SIAF  
+14/06 
+16/08 
+Custo R$ (se houver): 
+R$ 7.050,00  
+Fonte(s) dos recursos: 
+UGAF - CPS 
+Situação problema: 
+(a ser resolvida/mitigada) 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+cat 0.1.09 - Acesso/Inclusão ao Ensino Superior (social, PCD) 
+cat 0.1.10 - Gestão da unidade de ensino e dos cursos (indicadores) 
+ 
+AÇÃO/PROJETO (Tema) 
+203 - cat 2.01 - Laboratório físico - implantação/melhoramento com recursos PEDAGÓGICOS 
+Origem (prioridade): 
+5-Gestão Operacional - Preservação de capacidade instalada 
+O que será feito: 
+• 
+Levantamento das necessidades para a implantação de um laboratório físico para apoiar 
+as disciplinas de Internet das Coisas (Iot)  
+• 
+Encaminhamento para as instâncias competentes do CPS para tomada de decisões 
+Por que será feito: 
+• 
+ Aumentar a capacidade de aprendizagem dos alunos, possibilitando a vivência da parte 
+prática das aulas; 
+• 
+A grade do CST de Big Data no Agronegócio possui nas seguintes disciplinas que demanda 
+esses equipamentos: Internet das Coisas e Projeto Integrador de Internet das Coisas; 
+Projeto Integrador de Internet das coisas II; Projeto de Internet das Coisas. 
+• 
+Melhoria dos recursos didático-pedagógico do CST de Big Data no Agronegócio;  
+• 
+Oferecer Qualificação Profissional para a Comunidade Interna e Externa. 
+Responsável: 
+Prof. Dr. Renan Guilherme Nespolo - Coordenador do 
+CST de Big Data no Agronegócio  
+Qde CH/sem: 
+04 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): David Francisco - Auxiliar Docente 
+Qde CH/sem: 
+04 
+Tipo: 
+H - Hora <não tipificada> 
+Período de execução: 
+Data inicial: 
+10/03/2025 
+Data final: 
+30/09/2025 
+Etapas do processo: 
+01- Levantamento das necessidades de equipamentos (Arduino, NodeMCU, 
+Raspberry, sensores, atuadores e outros) 
+10/03 
+30/04 
+02- Cotação dos valores dos equipamentos  
+30/04 
+03/06 
+03- Compilação das informações obtidas e realização de relatório  
+04/06 
+23/06 
+04- Envio do Relatório aos Coordenadores de Serviços Técnicos e 
+Administrativos do Núcleo Regional  
+24/06 
+04/07 
+05- Encaminhamento do documento às instâncias competentes do CPS para 
+tomada de decisões  
+04/08 
+30/09 
+Custo R$ (se houver): 
+R$ 13.200,00  
+Fonte(s) dos recursos: 
+UGAF - CPS e Fundação Coopercitrus 
+Credicitrus - Bebedouro 
+Situação problema: 
+(a ser resolvida/mitigada) 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+ 
+ 
+13 
+ 
+AÇÃO/PROJETO (Tema) 
+204 - cat 2.02 - Laboratório informática - implantação/melhoramento com recursos PEDAGÓGICOS 
+Origem (prioridade): 
+4-Gestão Operacional - Aumento de capacidade instalada 
+O que será feito: 
+• 
+Mapeamento de Máquinas Antigas e Obsoletas muitas vezes utilizados por algumas 
+disciplinas, que constantemente travam e/ou causam a lentidão; 
+• 
+Reutilização das Máquinas Antigas e Obsoletas que porventura ainda possam ser utilizadas 
+para alguma outra finalidade, sem prejuízo didático ou administrativo; 
+• 
+Estudo das especificações técnicas de computadores e/ou notebooks que possam atender 
+os conteúdos programáticos ensinados nas diversas disciplinas dos cursos da Unidade; 
+• 
+Elaboração de uma solicitação de compras de computadores e/ou notebooks para a 
+renovação / modernização dos laboratórios de informática da Unidade; 
+• 
+Melhoria dos processos didático-pedagógico relacionados aos recursos de informática dos 
+cursos da Unidade; 
+Por que será feito: 
+• 
+Os computadores existentes não atendem as demandas computacionais necessárias ao 
+desenvolvimento das disciplinas; 
+• 
+Supressão de prejuízos didático-pedagógicos oriundos da lentidão do processamento de 
+informações de alguns aplicativos e programas, em virtude de a arquitetura do computador 
+ser muito antiga e incompatível com as exigências dos softwares; 
+• 
+Evitar transtornos e atrasos em aula devido a incompatibilidade dos sistemas, processadores 
+e arquiteturas de computador, podendo assim prejudicar o ensino e consequentemente a 
+exposição e cumprimento do conteúdo curricular previsto nos planos de ensino de cada 
+disciplina que necessite de usar algum laboratório de informática; 
+• 
+Necessidade de atualização dos computadores para a manutenção da qualidade do ensino 
+praticado nas disciplinas do curso; 
+Responsável: 
+Carla Regina Lanzotti - Diretora da Unidade  
+Qde CH/sem: 
+02 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): Cassio Junqueira Franco Fabbri - Auxiliar docente  
+Qde CH/sem: 
+03 
+Tipo: 
+H - Hora <não tipificada> 
+Colaborador(a): David Francisco - Auxiliar Docente  
+Qde CH/sem: 
+03 
+Tipo: 
+H - Hora <não tipificada> 
+Período de execução: 
+Data inicial: 
+20/02/2025 
+Data final: 
+30/05/2025 
+Etapas do processo: 
+01- Levantamento das necessidades de equipamentos  
+20/02 
+14/03 
+02- Cotação dos valores dos equipamentos  
+17/03 
+04/04 
+03- Compilação das informações obtidas e realização de relatório  
+04/04 
+17/04 
+04- Envio do Relatório aos Coordenadores de Serviços Técnicos e 
+Administrativos do Núcleo Regional  
+17/04 
+25/04 
+05- Cadastro dos itens no SIAF da Unidade  
+05/05 
+30/05 
+Custo R$ (se houver): 
+R$ 413.960 
+Fonte(s) dos recursos: 
+UGAF - CPS 
+Situação problema: 
+(a ser resolvida/mitigada) 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+ 
+AÇÃO/PROJETO (Tema) 
+205 - cat 2.05 - Gestão laboratorial - pedagógica, operacional e estrutural 
+Origem (prioridade): 
+4-Gestão Operacional - Aumento de capacidade instalada 
+O que será feito: 
+• 
+Levantamento das necessidades para a compra de roteadores para atender as 
+necessidades da Unidade de Ensino; 
+• 
+Melhorar a qualidade do sinal do WIFI; 
+• 
+Melhoria dos processos didático-pedagógico relacionados aos recursos de informática dos 
+cursos da Unidade; 
+Por que será feito: 
+• 
+Melhoria da qualidade dos serviços e atividades desenvolvidas pela Fatec Bebedouro; 
+• 
+Manutenção da qualidade das atividades didático-pedagógicas e administrativas 
+realizadas pela Unidade; 
+• 
+Aumentar a cobertura Wireless da Fatec Bebedouro, especialmente os laboratórios de 
+informática e suas dependências.  
+• 
+Viabilização do planejamento de expansão acadêmico e estrutural, cobertura da área 
+construída da Fatec Bebedouro e suas dependências; 
+• 
+Melhorar e ampliar a rede de internet wifi para que professores e alunos possam ter 
+acesso a internet de qualidade, favorecendo assim o uso em salas de aulas e espaços 
+alternativos; 
+Responsável: 
+Carla Regina Lanzotti – Diretora da Unidade 
+Qde CH/sem: 
+01 
+Tipo: 
+H - Hora <não tipificada> 
+Colaborador(a): Cassio Junqueira Franco Fabbri - Auxiliar Docente  
+Qde CH/sem: 
+03 
+Tipo: 
+H - Hora <não tipificada> 
+Colaborador(a): David Francisco - Auxiliar Docente  
+Qde CH/sem: 
+03 
+Tipo: 
+H - Hora <não tipificada> 
+Período de execução: 
+Data inicial: 
+21/01/2025 
+Data final: 
+30/04/2025 
+14 
+ 
+Etapas do processo: 
+01- Levantamento das necessidades de equipamentos  
+21/01 
+14/02 
+02- Cotação dos valores dos equipamentos  
+17/02 
+03/03 
+03- Compilação das informações obtidas e realização de relatório  
+03/03 
+21/03 
+04- Envio do Relatório aos Coordenadores de Serviços Técnicos e 
+Administrativos do Núcleo Regional  
+21/03 
+04/04 
+05- Encaminhamento do documento às instâncias competentes do CPS 
+para tomada de decisões  
+04/04 
+30/04 
+Custo R$ (se houver): 
+R$ 1.100,00 
+Fonte(s) dos recursos: 
+UGAF - CPS 
+Situação problema: 
+(a ser resolvida/mitigada) 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+ 
+AÇÃO/PROJETO (Tema) 
+206 - cat 2.03 - Ambiente multidisciplinar de ensino - implantação/melhoramento com recursos 
+PEDAGÓGICOS 
+Origem (prioridade): 
+4-Gestão Operacional - Aumento de capacidade instalada 
+O que será feito: 
+Ampliação de equipamentos da sala maker 
+Por que será feito: 
+Faltam equipamentos que ainda não foram enviados para a sala maker; 
+Necessidade de equipamentos para a manutenção do ambiente. 
+Responsável: 
+Carla Regina Lanzotti – Diretora da Unidade 
+Qde CH/sem: 
+02 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): Cassio Junqueira Franco Fabbri - Auxiliar docente  
+Qde CH/sem: 
+01 
+Tipo: 
+H - Hora <não tipificada> 
+Colaborador(a): David Francisco - Auxiliar docente 
+Qde CH/sem: 
+01 
+Tipo: 
+H - Hora <não tipificada> 
+Período de execução: 
+Data inicial: 
+20/01/2025 
+Data final: 
+30/04/2025 
+Etapas do processo: 
+01- Levantamento das necessidades de equipamentos 
+20/01 
+14/02 
+02- Cotação dos valores dos equipamentos  
+17/02 
+03/03 
+03- Compilação das informações obtidas e realização de relatório  
+03/03 
+21/03 
+04- Envio do Relatório aos Coordenadores de Serviços Técnicos e 
+Administrativos do Núcleo Regional  
+21/03 
+04/04 
+05- Encaminhamento do documento às instâncias competentes do CPS para 
+tomada de decisões  
+04/04 
+30/04 
+Custo R$ (se houver): 
+R$ 18.629,00  
+Fonte(s) dos recursos: 
+UGAF - CPS 
+Situação problema: 
+(a ser resolvida/mitigada) 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+ 
+AÇÃO/PROJETO (Tema) 
+207 - cat 2.05 - Gestão laboratorial - pedagógica, operacional e estrutural 
+Origem (prioridade): 
+6-Outra 
+O que será feito: 
+• 
+Levantamento das necessidades para adequação da rede que atende o setor 
+administrativo da Unidade; 
+• 
+Levantamento de materiais de escritório para atender as necessidades da equipe 
+administrativa da Unidade. 
+Por que será feito: 
+• 
+Melhoria na organização dos cabos de redes do setor administrativo; 
+• 
+Manutenção nos computadores da equipe administrativa; 
+• 
+Necessidade de compra e substituição de móveis e equipamentos para atender as 
+necessidades da diretoria de serviços acadêmicos e administrativos. 
+Responsável: 
+Carla Regina Lanzotti – Diretora da Unidade 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): Cassio Junqueira Franco Fabbri - Auxiliar Docente  
+Qde CH/sem: 
+03 
+Tipo: 
+H - Hora <não tipificada> 
+Colaborador(a): Aline Beatriz Ramos Luz – Diretora de Serviços 
+Administrativos 
+Qde CH/sem: 
+01 
+Tipo: 
+H - Hora <não tipificada> 
+Período de execução: 
+Data inicial: 
+21/01/2025 
+Data final: 
+30/04/2025 
+Etapas do processo: 
+01- Levantamento das necessidades de equipamentos 
+21/01 
+14/02 
+02- Cotação dos valores dos equipamentos  
+17/02 
+03/03 
+03- Compilação das informações obtidas e realização de relatório  
+03/03 
+21/03 
+04- Envio do Relatório aos Coordenadores de Serviços Técnicos e 
+Administrativos do Núcleo Regional  
+21/03 
+04/04 
+05- Encaminhamento do documento às instâncias competentes do CPS 
+para tomada de decisões e preenchimento no SIAF. 
+04/04 
+30/04 
+Custo R$ (se houver): 
+R$ 25.940,00 
+Fonte(s) dos recursos: 
+UGAF - CPS 
+Situação problema: 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+(a ser resolvida/mitigada) 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+ 
+15 
+ 
+03 – Pesquisa / Extensão e Equipamentos Associados 
+Ações para melhoramento dos laboratórios que contemplam Pesquisa além do Ensino (Equipamentos): 
+melhoramento dos espaços de pesquisa, que inclui especificação equipamentos e aquisição por fomento ou por 
+projeto com empresa, e também prestação de serviços no campo tecnológico para instituições e empresas. 
+ 
+AÇÃO/PROJETO (Tema) 
+301 - cat 3.01 - Cursos de Extensão 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+• 
+Oferecimento de um curso extracurricular em Excel Básico e Avançado para a comunidade 
+interna e externa à Unidade de Ensino; 
+• 
+Levantamento preliminar dos conhecimentos prévios dos inscritos no curso; 
+• 
+Apresentação dos conceitos e princípios gerais de Excel Básico e Avançado 
+Por que será feito: 
+• 
+Minimizar as dificuldades usualmente existentes nos alunos da Unidade em relação ao 
+uso do Excel; 
+• 
+Exemplificação e aplicações do Microsoft Excel em situações abordadas em diversas 
+componentes curriculares presentes nos cursos oferecidos na Unidade. 
+• 
+Proporcionar conceitos complementares a comunidade discente, docente e técnico-
+administrativa e interessados em geral sobre a importância do Excel nos cursos superiores 
+de tecnologia e na vida em geral;  
+• 
+Aumento da Visibilidade Institucional   
+• 
+Possibilidade de Capacitação/Atualização ofertada a comunidade interna e externa 
+• 
+Requisito obrigatório para as vagas de estágio e emprego. 
+Responsável: 
+Carla Regina Lanzotti – Diretora da Unidade 
+Qde CH/sem: 
+01 
+Tipo: 
+H - Hora <não tipificada> 
+Colaborador(a): Cássio Junqueira Franco Fabbri – Auxiliar Docente  
+Qde CH/sem: 
+03 
+Tipo: 
+H - Hora <não tipificada> 
+Colaborador(a): Prof. Luís Roberto de Medeiros - Docente   
+Qde CH/sem: 
+03 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+03/02/2025 
+Data final: 
+12/07/2025 
+Etapas do processo: 
+01- Planejamento do curso de Excel Básico 
+03/02 
+28/02 
+02- Realização do curso semanal  
+03/03 
+27/06 
+03- Emissão dos Certificados do Curso por email  
+30/06 
+12/07 
+04- nn 
+dd/mm 
+dd/mm 
+05- nn 
+dd/mm 
+dd/mm 
+Período de execução: 
+Data inicial: 
+03/02/2025 
+Data final: 
+12/07/2025 
+Etapas do processo: 
+01- Planejamento do curso de Excel Avançado 
+03/02 
+28/02 
+02- Realização do curso semanal  
+03/03 
+27/06 
+03- Emissão dos Certificados do Curso por email  
+30/06 
+12/07 
+04- nn 
+dd/mm 
+dd/mm 
+05- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+03 HAEs  
+Fonte(s) dos recursos: 
+HAEs – GDS/Centro Paula Souza 
+Situação problema: 
+(a ser resolvida/mitigada) 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+cat 0.1.08 - Participação da comunidade e sociedade 
+cat 0.1.10 - Gestão da unidade de ensino e dos cursos (indicadores) 
+ 
+ 
+ 
+16 
+ 
+AÇÃO/PROJETO (Tema) 
+302 - cat 3.01 - Cursos de Extensão 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+• 
+Oferecimento de um curso extracurricular em Excel Básico e Avançado para a comunidade 
+interna e externa à Unidade de Ensino; 
+• 
+Levantamento preliminar dos conhecimentos prévios dos inscritos no curso; 
+• 
+Apresentação dos conceitos e princípios gerais de Excel Básico e Avançado 
+Por que será feito: 
+• 
+Minimizar as dificuldades usualmente existentes nos alunos da Unidade em relação ao 
+uso do Excel; 
+• 
+Exemplificação e aplicações do Microsoft Excel em situações abordadas em diversas 
+componentes curriculares presentes nos cursos oferecidos na Unidade. 
+• 
+Proporcionar conceitos complementares a comunidade discente, docente e técnico-
+administrativa e interessados em geral sobre a importância do Excel nos cursos superiores 
+de tecnologia e na vida em geral;  
+• 
+Aumento da Visibilidade Institucional   
+• 
+Possibilidade de Capacitação/Atualização ofertada a comunidade interna e externa 
+• 
+Requisito obrigatório para as vagas de estágio e emprego. 
+Responsável: 
+Carla Regina Lanzotti – Diretora da Unidade 
+Qde CH/sem: 
+01 
+Tipo: 
+H - Hora <não tipificada> 
+Colaborador(a): Cássio Junqueira Franco Fabbri – Auxiliar Docente  
+Qde CH/sem: 
+03 
+Tipo: 
+H - Hora <não tipificada> 
+Colaborador(a): Prof. Luís Roberto de Medeiros - Docente   
+Qde CH/sem: 
+03 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+04/08/2025 
+Data final: 
+19/12/2025 
+Etapas do processo: 
+01- Planejamento do curso de Excel Básico 
+04/08 
+29/08 
+02- Realização do curso semanal  
+01/09 
+28/11 
+03- Emissão dos Certificados do Curso por email 
+01/12 
+19/12 
+04- nn 
+dd/mm 
+dd/mm 
+Período de execução: 
+Data inicial: 
+04/08/2025 
+Data final: 
+19/12/2025 
+Etapas do processo: 
+01- Planejamento do curso de Excel Avançado 
+04/08 
+29/08 
+02- Realização do curso semanal  
+01/09 
+28/11 
+03- Emissão dos Certificados do Curso por email 
+01/12 
+19/12 
+04- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+03 HAEs  
+Fonte(s) dos recursos: 
+HAEs – GDS/Centro Paula Souza 
+Situação problema: 
+(a ser resolvida/mitigada) 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+cat 0.1.08 - Participação da comunidade e sociedade 
+cat 0.1.10 - Gestão da unidade de ensino e dos cursos (indicadores) 
+ 
+AÇÃO/PROJETO (Tema) 
+303 - cat 3.01 - Cursos de Extensão 
+Origem (prioridade): 
+6-Outra 
+O que será feito: 
+• 
+Oferecimento de um curso extracurricular de Análise de dados com Python para a 
+comunidade interna à Unidade de Ensino; 
+• 
+Levantamento preliminar dos conhecimentos prévios dos inscritos no curso; 
+Por que será feito: 
+• 
+Proporcionar conceitos complementares a comunidade discente, docente e técnico-
+administrativa sobre a importância do Python nos cursos superiores de tecnologia e na 
+vida em geral;  
+• 
+Aumento da Visibilidade Institucional; 
+• 
+Possibilidade de Capacitação/Atualização ofertada a comunidade interna; 
+Responsável: 
+Carla Regina Lanzotti – Diretora da Unidade 
+Qde CH/sem: 
+01 
+Tipo: 
+H - Hora <não tipificada> 
+Colaborador(a): David Francisco – Auxiliar Docente  
+Qde CH/sem: 
+02 
+Tipo: 
+H - Hora <não tipificada> 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+03/02/2025 
+Data final: 
+12/07/2025 
+Etapas do processo: 
+01- Planejamento do curso  
+03/02 
+28/02 
+02- Realização do curso semanal  
+03/03 
+27/06 
+03- Emissão dos Certificados do Curso por email  
+30/06 
+12/07 
+04- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+Sem custo 
+Fonte(s) dos recursos: 
+ 
+Situação problema: 
+(a ser resolvida/mitigada) 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+cat 0.1.08 - Participação da comunidade e sociedade 
+cat 0.1.10 - Gestão da unidade de ensino e dos cursos (indicadores) 
+ 
+ 
+17 
+ 
+AÇÃO/PROJETO (Tema) 
+304 - cat 3.01 - Cursos de Extensão 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+• 
+Oferecimento de um curso extracurricular em MS Power BI para a comunidade interna e 
+externa à Unidade de Ensino; 
+• 
+Levantamento preliminar dos conhecimentos prévios dos inscritos no curso; 
+• 
+Apresentação dos conceitos e princípios gerais de MS Power BI; 
+• 
+Oferecer um conhecimento diferenciado aos alunos dos cursos da Unidade. 
+Por que será feito: 
+• 
+Atendimento às solicitações de alunos do CST de Logística, interessados no tema; 
+• 
+Minimizar as dificuldades usualmente existentes nos alunos da Unidade em relação ao 
+uso do MS Power BI; 
+• 
+Exemplificação e aplicações do MS Power BI em situações abordadas em diversas 
+componentes curriculares presentes nos cursos oferecidos na Unidade. 
+• 
+Proporcionar conceitos complementares a comunidade discente, docente e técnico-
+administrativa e interessados em geral sobre a importância do MS Power BI nos cursos 
+superiores de tecnologia e na vida em geral; 
+• 
+Aumento da Visibilidade Institucional  
+• 
+Possibilidade de Capacitação/Atualização ofertada a comunidade interna e externa; 
+• 
+Requisito obrigatório para as vagas de estágio e emprego. 
+Responsável: 
+Carla Regina Lanzotti – Diretora da Unidade 
+Qde CH/sem: 
+01 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): Rhadler Herculani – Docente da Unidade 
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+03/02/2025 
+Data final: 
+12/07/2025 
+Etapas do processo: 
+01- Planejamento do curso de MS Power BI 
+03/02 
+28/02 
+ 
+02- Realização do curso semanal 
+03/03 
+27/06 
+ 
+03- Emissão dos Certificados do Curso por email  
+30/06 
+12/07 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+Período de execução: 
+Data inicial: 
+04/08/2025 
+Data final: 
+19/12/2025 
+Etapas do processo: 
+01- Planejamento do curso de MS Power BI 
+04/08 
+29/08 
+ 
+02- Realização do curso semanal 
+01/09 
+28/11 
+ 
+03- Emissão dos Certificados do Curso por email 
+01/12 
+19/12 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+02 HAEs 
+Fonte(s) dos recursos: 
+HAEs – GDS/Centro Paula Souza 
+Situação problema: 
+(a ser resolvida/mitigada) 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+cat 0.1.08 - Participação da comunidade e sociedade 
+cat 0.1.10 - Gestão da unidade de ensino e dos cursos (indicadores) 
+ 
+ 
+ 
+18 
+ 
+AÇÃO/PROJETO (Tema) 
+305- cat 1.06 - Ações pedagógicas: visitas técnicas, projetos integradores/interdisciplinares, dias de campo, 
+feira das profissões, cursos extracurriculares para alunos. 
+Origem (prioridade): 
+6-Outra 
+O que será feito: 
+• 
+Workshop de Projetos Interdisciplinares do CST de Logística e do CST de Big Data no 
+Agronegócio;  
+• 
+Trabalhar a questão da interdisciplinaridade no conteúdo dos cursos;  
+• 
+Integração entre os alunos de diversos cursos e turmas;  
+• 
+Trabalhar a inovação nos projetos; 
+Por que será feito: 
+• 
+Valorizar os trabalhos desenvolvidos pela comunidade acadêmica; 
+• 
+Aumento da Visibilidade Institucional, uma vez que o evento é aberto às comunidades 
+interna e externa;  
+• 
+Endomarketing entre os alunos e entre pessoas da comunidade externa interessadas nos 
+temas associados aos Projetos Interdisciplinares;  
+• 
+Possibilidade de conversão de projetos interdisciplinares em futuros trabalho de 
+graduação e/ou artigo científico; 
+Responsável: 
+Renan Guilherme Nespolo- Coordenador do CST de Big 
+Data no Agronegócio 
+Qde CH/sem: 
+02 
+Tipo: 
+HA - Hora Atividade 
+Responsável: 
+Selma de Fátima Grossi - Coordenadora do CST de 
+Logística 
+Qde CH/sem: 
+02 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): 
+Cassio Junqueira Franco Fabbri - Auxiliar Docente 
+Qde CH/sem: 
+02 
+Tipo: 
+H - Hora <não tipificada> 
+Colaborador(a): 
+Docente Responsável pelo Projeto Interdisciplinar 
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+Docente Responsável pelo Projeto Interdisciplinar 
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+Docente Responsável pelo Projeto Interdisciplinar 
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Colaborador(a): 
+Docente Responsável pelo Projeto Interdisciplinar 
+Qde CH/sem: 
+02 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+19/05/2025 
+Data final: 
+24/06/2025 
+Etapas do processo: 
+01- Planejamento das Atividades do Workshop de PI  
+19/05 
+31/05 
+02- Elaboração da Grade de Atividades do Workshop de PI  
+26/05 
+31/05 
+03- Divulgação da Mostra de Projetos Interdisciplinares junto à comunidade 
+interna e externa 
+02/06 
+10/06 
+04- Mostra de Projetos Interdisciplinares 
+09/06 
+13/06 
+05- Emissão dos Certificados de Participação 
+16/06 
+24/06 
+Período de execução: 
+Data inicial: 
+28/10/2025 
+Data final: 
+28/11/2025 
+Etapas do processo: 
+01- Planejamento das Atividades do Workshop de PI  
+28/10 
+03/11 
+02- Elaboração da Grade de Atividades do Workshop de PI 
+03/11 
+06/11 
+03- Divulgação da Mostra de Projetos Interdisciplinares junto à comunidade 
+interna e externa 
+06/11 
+10/11 
+04- Mostra de Projetos Interdisciplinares  
+10/11 
+14/11 
+05- Emissão dos Certificados de Participação  
+17/11 
+28/11 
+Custo R$ (se houver): 
+R$1.000,00 
+06 HAEs 
+Fonte(s) dos recursos: 
+FAT e Fundação Coopercitrus Credicitrus 
+HAE – GDS/Centro Paula Souza 
+Situação problema: 
+(a ser resolvida/mitigada) 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+cat 0.1.08 - Participação da comunidade e sociedade 
+cat 0.1.10 - Gestão da unidade de ensino e dos cursos (indicadores) 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+ 
+ 
+ 
+19 
+ 
+AÇÃO/PROJETO (Tema) 
+306 - cat 3.06 - Jornada/Evento/Revista Científico e Tecnológico 
+Origem (prioridade): 
+6-Outra 
+O que será feito: 
+• 
+Serão oferecidos palestras e minicursos cujos temas sejam complementares àqueles 
+vistos nas disciplinas regulares dos cursos da Unidade. 
+• 
+Interações com professores, executivos, pesquisadores de outras instituições de ensino, 
+pesquisa e extensão, bem como de empresas e autarquias da região. 
+Por que será feito: 
+• 
+Diminuição da Evasão de Alunos no curso;  
+• 
+Aumento da Visibilidade Institucional, uma vez que o evento é aberto às comunidades 
+interna e externa; 
+• 
+Possibilidade de ter contato com temas que inspirarão futuros trabalhos de graduação, 
+artigos científicos ou projetos interdisciplinares; 
+• 
+Possibilidade de parcerias com outras instituições de ensino, pesquisa, extensão e 
+inovação; 
+• 
+Possibilidade de abertura de vagas de estágios e empregos aos alunos dos cursos; 
+• 
+Proporcionar panoramas atuais e inovadores sobre temas, empresas, realidades 
+associadas aos cursos ofertados pela Unidade. 
+Responsável: 
+Carla Regina Lanzotti – Diretora da Unidade 
+Qde CH/sem: 
+02 
+Tipo: H - Hora <não tipificada> 
+Colaborador(a): Selma de Fatima Grossi - Coordenadora do CST em 
+Logística 
+Qde CH/sem: 
+04 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): Renan Guilherme Nespolo - Coordenador do CST de Big 
+Data no Agronegócio 
+Qde CH/sem: 
+04 
+Tipo: 
+HA - Hora Atividade 
+Período de execução: 
+Data inicial: 
+11/08/2025 
+Data final: 
+31/10/2025 
+Etapas do processo: 
+01- Planejamento das Atividades da Semana Tecnológica  
+11/08 
+22/08 
+02- Elaboração da Grade de Atividades Previstas na Semana Tecnológica  
+22/08 
+10/09 
+03- Recrutamento do Staff de Apoio ao Evento (Discentes) 
+22/08 
+10/09 
+04- Divulgação da Semana Tecnológica da Unidade junto à comunidade 
+interna e externa  
+11/09 
+20/09 
+05- Inscrições para a Semana Tecnológica  
+15/09 
+20/09 
+06- Encontro de Logística – Enlog e Encontro de Big Data no Agronegócio  
+24/09 
+30/09 
+07- Emissão dos Certificados de Participação  
+01/10 
+31/10 
+Sem custo  
+R$1.000,00  
+Fonte(s) dos recursos: 
+FAT e Fundação Coopercitrus Credicitrus 
+Situação problema: 
+(a ser resolvida/mitigada) 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+cat 0.1.08 - Participação da comunidade e sociedade 
+cat 0.1.10 - Gestão da unidade de ensino e dos cursos (indicadores) 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+ 
+ 
+ 
+20 
+ 
+04 – Atividades Formativas em Projetos (nível tático) 
+Projetos institucionais formativos não especificados em PEs: Rede de tecnologia, Novotec, PCI, Projetos 
+estudantis (Baja, Aerodesign, entre outros) 
+ 
+AÇÃO/PROJETO (Tema) 
+401 - Escolher um item. 
+Origem (prioridade): 
+Escolher um item. 
+O que será feito: 
+nn 
+Por que será feito: 
+nn 
+Responsável: 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo: 
+01- nn 
+dd/mm 
+dd/mm 
+ 
+02- nn 
+dd/mm 
+dd/mm 
+ 
+03- nn 
+dd/mm 
+dd/mm 
+ 
+04- nn 
+dd/mm 
+dd/mm 
+ 
+05- nn 
+dd/mm 
+dd/mm 
+ 
+06- nn 
+dd/mm 
+dd/mm 
+ 
+07- nn 
+dd/mm 
+dd/mm 
+ 
+08- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+nn 
+Fonte(s) dos recursos: 
+nn 
+Situação problema: 
+Escolher um item. 
+(a ser resolvida/mitigada) 
+Escolher um item. 
+ 
+ 
+ 
+21 
+ 
+05 – Infraestrutura (instalações prediais) 
+Projetos de manutenção e melhoramento predial voltados à segurança (física e sanitária) e preservação do 
+patrimônio: Reparação predial (civil, elétrica, dados), novas instalações prediais. 
+ 
+AÇÃO/PROJETO (Tema) 
+501 - cat 5.05 - Reforma de Edificações 
+Origem (prioridade): 
+1-Regulação - Notificação de órgão (MEC, CEE, VS.,..) 
+O que será feito: 
+• 
+Projeto de adequação e construção de saída de emergência no prédio acadêmico  
+Por que será feito: 
+• 
+Garantir a segurança dos alunos, professores e funcionários da Fatec; 
+• 
+Adequações na infraestrutura física prediais; 
+• 
+Há apenas uma pequena e estreita porta (menos de 1 metro de largura) como acesso a 
+todas as salas de aulas, laboratórios, auditório, salas administrativas, biblioteca, sanitários 
+dos discentes existentes na Unidade; 
+• 
+Inexistência de outras saídas e/ou rotas de fuga, estando em desacordo com as normas 
+técnicas de segurança, bem como aquelas exigidas para a permanência e acessibilidade 
+de pessoas na Unidade; 
+• 
+O andar superior da Fatec Bebedouro não apresenta nenhuma rota de fuga ou saída de 
+emergência, obrigando a todos os usuários presentes no andar superior a descer as 
+escadas em caso de emergência; 
+• 
+Em caso de acidente, a saída não permite um plano de retirada dos docentes e discentes 
+de maneira adequada e segura;  
+• 
+Construção de escada/rampa de acesso para rota de fuga; 
+• 
+Criação de um plano de saída de emergência; 
+• 
+Regularização e Adequação de toda a estrutura física do prédio em relação à combate e 
+prevenção de incêndios; 
+• 
+Atendimento a legislação vigente; 
+Responsável: 
+Carla Regina Lanzotti - Diretora da Unidade 
+Qde CH/sem: 
+02 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): Aline Beatriz Ramos Luz –Diretora de Serviços 
+Administrativos 
+Qde CH/sem: 
+02 
+Tipo: H - Hora <não tipificada> 
+Período de execução: 
+Data inicial: 
+03/02/2025 
+Data final: 
+30/06/2025 
+Etapas do processo: 
+01- Levantamento in loco das deficiências de Infraestrutura Física existentes 
+na Unidade; 
+03/02 
+01/04 
+02- Compilação das informações obtidas e realização de relatório; 
+01/04 
+18/04 
+03- Envio do Relatório aos Coordenadores de Serviços Técnicos e 
+Administrativos do Núcleo Regional para Visita Técnica; 
+22/04 
+16/05 
+04- Agendamento das Visitas Técnicas dos Coordenadores da NRA 09; 
+19/05 
+06/06 
+05- Encaminhamento do documento às instâncias competentes do CPS para 
+tomada de decisões. 
+09/06 
+30/06 
+Custo R$ (se houver): 
+R$ 1.200.000,00 
+Fonte(s) dos recursos: 
+UGAF/UIE - CPS 
+Situação problema: 
+(a ser resolvida/mitigada) 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+cat 0.1.02 - Manutenção e conservação predial 
+cat 0.1.11 - Segurança pessoal e patrimonial 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+cat 0.1.10 - Gestão da unidade de ensino e dos cursos (indicadores) 
+ 
+ 
+ 
+22 
+ 
+AÇÃO/PROJETO (Tema) 
+502 - cat 5.05 - Reforma de Edificações 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+• 
+Projeto para reforma dos banheiros femininos e masculinos do Bloco Didático (térreo e 
+e primeiro andar) 
+Por que será feito: 
+• 
+Necessidade de reforma banheiros, que se encontram com os pisos deteriorados e louças 
+em condições inadequadas; 
+• 
+Aumentar o número de cabines/sanitários disponíveis aos alunos, uma vez que possuem 
+apenas 2 vasos sanitários por banheiro e por andar; 
+• 
+Proporcionar acessibilidade e infraestrutura adequada para pessoas com deficiências. 
+Responsável: 
+Carla Regina Lanzotti - Diretora da Unidade 
+Qde CH/sem: 
+02 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): Aline Beatriz Ramos Luz - –Diretora de Serviços 
+Administrativos 
+Qde CH/sem: 
+02 
+Tipo: 
+H - Hora <não tipificada> 
+Período de execução: 
+Data inicial: 
+03/02/2025 
+Data final: 
+30/06/2025 
+Etapas do processo: 
+01- Levantamento das deficiências de Infraestrutura nos sanitários; 
+03/02 
+01/04 
+02- Compilação das informações obtidas e realização de relatório; 
+01/04 
+18/04 
+03- Envio do Relatório aos Coordenadores de Serviços Técnicos e 
+Administrativos do Núcleo Regional para Visita Técnica; 
+22/04 
+16/05 
+04- Agendamento das Visitas Técnicas dos Coordenadores da NRA 09; 
+19/05 
+06/06 
+05- Encaminhamento do documento às instâncias competentes do CPS para 
+tomada de decisões. 
+09/06 
+30/06 
+06- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+R$ 130.000,00 
+Fonte(s) dos recursos: 
+UGAF/UIE - CPS 
+Situação problema: 
+(a ser resolvida/mitigada) 
+cat 0.1.02 - Manutenção e conservação predial 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+ 
+AÇÃO/PROJETO (Tema) 
+503 - cat 5.05 - Reforma de Edificações 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+• 
+Projeto para reforma e ampliação dos sanitários dos docentes e funcionários no bloco 
+administrativo da Unidade. 
+Por que será feito: 
+• 
+Necessidade de reforma e ampliação dos banheiros do prédio administrativo, que se 
+encontra com o piso deteriorado, sem forro e com as louças em condições inadequadas; 
+• 
+As paredes dos banheiros medem apenas 2,20m de altura, sendo que o restante foi 
+colocado MDF para dividir o banheiro masculino do feminino, tornando as condições de 
+uso precárias; 
+• 
+Melhorar a privacidade dos usuários. 
+Responsável: 
+Carla Regina Lanzotti - Diretora da Unidade 
+Qde CH/sem: 
+02 
+Tipo: H - Hora <não tipificada> 
+Colaborador(a): Aline Beatriz Ramos Luz – Diretora de Serviços 
+Administrativos 
+Qde CH/sem: 
+02 
+Tipo: H - Hora <não tipificada> 
+Colaborador(a): <nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+03/03/2025 
+Data final: 
+30/06/2025 
+Etapas do processo: 
+01- Levantamento das deficiências de Infraestrutura nos Sanitários; 
+03/03 
+14/03 
+02- Compilação das informações obtidas e realização de relatório 
+14/03 
+17/04 
+03- Envio do Relatório aos Coordenadores de Serviços Técnicos e 
+Administrativos do Núcleo Regional para Visita Técnica 
+17/04 
+09/05 
+04- Agendamento das Visitas Técnicas dos Coordenadores da NRA 09; 
+12/05 
+31/05 
+05- Encaminhamento do documento às instâncias competentes do CPS para 
+tomada de decisões 
+02/06 
+30/06 
+06- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+R$ 95.000,00 - 
+Fonte(s) dos recursos: 
+UGAF/UIE - CPS 
+Situação problema: 
+(a ser resolvida/mitigada) 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+cat 0.1.02 - Manutenção e conservação predial 
+ 
+ 
+23 
+ 
+AÇÃO/PROJETO (Tema) 
+504 - cat 5.05 - Reforma de Edificações 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+• 
+Projeto para reforma na entrada de pedestres da Unidade de Ensino. 
+Por que será feito: 
+• 
+Necessidade de reforma e adequação da entrada de pedestres, que possui condições 
+inadequadas para acesso de pessoas portadoras de deficiência ou com mobilidade 
+reduzida;  
+• 
+Ampliação da entrada e substituição do portão da entrada de pedestres;  
+• 
+Readequação do escoamento de água da chuva da Escola Paraíso Cavalcanti que 
+atualmente está no portão de entrada da Fatec Bebedouro, o que dificulta a entrada dos 
+alunos quando chove; 
+• 
+Necessidade de construção de rampas de acesso, cobertura da entrada, instalação de 
+corrimão, adequação do espaço para livre circulação de cadeiras de rodas e sinalização. 
+Responsável: 
+Carla Regina Lanzotti - Diretora da Unidade 
+Qde CH/sem: 
+02 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): Aline Beatriz Ramos Luz –Diretora de Serviços 
+Administrativos 
+Qde CH/sem: 
+02 
+Tipo: H - Hora <não tipificada> 
+Período de execução: 
+Data inicial: 
+03/02/2025 
+Data final: 
+30/06/2025 
+Etapas do processo: 
+01- Levantamento in loco das deficiências na Entrada de Pedestres; 
+03/02 
+01/04 
+02- Compilação das informações obtidas e realização de relatório; 
+01/04 
+18/04 
+03- Envio do Relatório aos Coordenadores de Serviços Técnicos e 
+Administrativos do Núcleo Regional para Visita Técnica; 
+22/04 
+16/05 
+04- Agendamento das Visitas Técnicas dos Coordenadores da NRA 09; 
+19/05 
+06/06 
+05- Encaminhamento do documento às instâncias competentes do CPS para 
+tomada de decisões. 
+09/06 
+30/06 
+Custo R$ (se houver): 
+R$ 750.000,00  
+Fonte(s) dos recursos: 
+UGAF/UIE - CPS 
+Situação problema: 
+(a ser resolvida/mitigada) 
+cat 0.1.02 - Manutenção e conservação predial 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+cat 0.1.09 - Acesso/Inclusão ao Ensino Superior (social, PCD) 
+ 
+AÇÃO/PROJETO (Tema) 
+505 - cat 5.05 - Reforma de Edificações 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+• 
+Projeto para ampliação na largura do portão do estacionamento da Fatec Bebedouro 
+Por que será feito: 
+• 
+Necessidade de ampliação do portão do estacionamento, que por ser muito estreito, 
+ocasiona danos aos veículos dos docentes e servidores.  
+• 
+Necessidade da instalação de um motor automatizado, para evitar que o portão 
+permaneça aberto, permitindo o livre acesso de pessoas não autorizadas, situação essa 
+que gera insegurança para a Unidade de Ensino; 
+• 
+Reforma na rampa de acesso ao estacionamento; 
+• 
+Garantir a integridade dos automóveis dos professores e funcionários. 
+Responsável: 
+Carla Regina Lanzotti - Diretora da Unidade 
+Qde CH/sem: 
+02 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): Aline Beatriz Ramos Luz – Diretora de Serviços 
+Administrativos 
+Qde CH/sem: 
+02 
+Tipo: H - Hora <não tipificada> 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+03/03/2025 
+Data final: 
+30/06/2025 
+Etapas do processo: 
+01- Levantamento das deficiências no Estacionamento da Unidade; 
+03/03 
+14/03 
+02- Compilação das informações obtidas e realização de relatório 
+14/03 
+17/04 
+03- Envio do Relatório aos Coordenadores de Serviços Técnicos e 
+Administrativos do Núcleo Regional para Visita Técnica 
+17/04 
+09/05 
+04- Agendamento das Visitas dos Coordenadores Técnicos da NRA 09; 
+12/05 
+31/05 
+05- Encaminhamento do documento às instâncias competentes do CPS para 
+tomada de decisões 
+02/06 
+30/06 
+Custo R$ (se houver): 
+R$ 65.000,00  
+Fonte(s) dos recursos: 
+UGAF/UIE - CPS 
+Situação problema: 
+(a ser resolvida/mitigada) 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+cat 0.1.02 - Manutenção e conservação predial 
+cat 0.1.12 - Acesso e transporte à Unidade de Ensino 
+ 
+ 
+24 
+ 
+AÇÃO/PROJETO (Tema) 
+506 - cat 5.05 - Reforma de Edificações 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+• 
+Levantamento das necessidades para a realização de reforma do muro lateral. 
+Por que será feito: 
+• 
+O muro de separação da Unidade de Ensino com a Escola Estadual Dr. Paraiso Cavalcanti 
+é inadequado, consistindo em um muro de concreto de apenas um metro de altura e o 
+restante com cerca de arame, estilo alambrado; 
+• 
+Espaço amplamente utilizado pelos alunos no horário de intervalo, como única opção de 
+pátio, e quando chove, impossibilita o seu uso. 
+Responsável: 
+Carla Regina Lanzotti - Diretora da Unidade 
+Qde CH/sem: 
+02 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): Aline Beatriz Ramos Luz –Diretora de Serviços 
+Administrativos 
+Qde CH/sem: 
+02 
+Tipo: H - Hora <não tipificada> 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+03/02/2025 
+Data final: 
+30/06/2025 
+Etapas do processo: 
+01- Levantamento das deficiências de Infraestrutura no Muro da Unidade; 
+03/02 
+01/04 
+02- Compilação das informações obtidas e realização de relatório; 
+01/04 
+18/04 
+03- Envio do Relatório aos Coordenadores de Serviços Técnicos e 
+Administrativos do Núcleo Regional para Visita Técnica; 
+22/04 
+16/05 
+04- Agendamento das Visitas dos Coordenadores Técnicos da NRA 9; 
+19/05 
+06/06 
+05- Encaminhamento do documento às instâncias competentes do CPS para 
+tomada de decisões. 
+09/06 
+30/06 
+Custo R$ (se houver): 
+R$ 45.000,00  
+Fonte(s) dos recursos: 
+UGAF/UIE - CPS 
+Situação problema: 
+(a ser resolvida/mitigada) 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+cat 0.1.10 - Gestão da unidade de ensino e dos cursos (indicadores) 
+cat 0.1.11 - Segurança pessoal e patrimonial 
+cat 0.1.12 - Acesso e transporte à Unidade de Ensino 
+ 
+AÇÃO/PROJETO (Tema) 
+507 - cat 5.05 - Reforma de Edificações 
+Origem (prioridade): 
+5-Gestão Operacional - Preservação de capacidade instalada 
+O que será feito: 
+• 
+Levantamento das necessidades para a realização da pintura da UE. 
+Por que será feito: 
+• 
+Desde a implantação em 2014, o prédio da UE não recebeu pintura. 
+• 
+A pintura externa está deteriorada, ocasionando rachaduras que podem contribuir com 
+infiltrações nas salas de aula e laboratórios de informática.   
+• 
+As salas de aula estão com pintura antiga. 
+• 
+A imagem da Faculdade está comprometida. 
+Responsável: 
+Carla Regina Lanzotti - Diretora da Unidade 
+Qde CH/sem: 
+02 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): Aline Beatriz Ramos Luz – Diretora de Serviços 
+Administrativos 
+Qde CH/sem: 
+02 
+Tipo: H - Hora <não tipificada> 
+Período de execução: 
+Data inicial: 
+03/02/2025 
+Data final: 
+30/06/2025 
+Etapas do processo: 
+01- Levantamento das deficiências da pintura externa da Unidade;  
+03/02 
+01/04 
+02- Compilação das informações obtidas e realização de relatório; 
+01/04 
+18/04 
+03- Envio do Relatório aos Coordenadores de Serviços Técnicos e 
+Administrativos do Núcleo Regional para Visita Técnica;  
+22/04 
+16/05 
+04- Agendamento das Visitas dos Coordenadores Técnicos da NRA 9; 
+19/05 
+06/06 
+05- Encaminhamento do documento às instâncias competentes do CPS para 
+tomada de decisões. 
+09/06 
+30/06 
+Custo R$ (se houver): 
+R$ 650.000,00 
+Fonte(s) dos recursos: 
+UGAF/UIE - CPS 
+Situação problema: 
+(a ser resolvida/mitigada) 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+cat 0.1.02 - Manutenção e conservação predial 
+cat 0.1.09 - Acesso/Inclusão ao Ensino Superior (social, PCD) 
+ 
+ 
+ 
+25 
+ 
+AÇÃO/PROJETO (Tema) 
+508- cat 5.07 - Construção de edificações 
+Origem (prioridade): 
+1-Regulação - Notificação de órgão (MEC, CEE, VS.,..) 
+O que será feito: 
+• 
+Levantamento das necessidades para a construção de abrigo para botijão de gás.  
+Por que será feito: 
+• 
+Necessidade de adequação no abrigo do botijão do gás de cozinha.  
+• 
+Atender normas de segurança. 
+Responsável: 
+Carla Regina Lanzotti - Diretora da Unidade 
+Qde CH/sem: 
+02 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): Aline Beatriz Ramos Luz –Diretora de Serviços 
+Administrativos 
+Qde CH/sem: 
+02 
+Tipo: H - Hora <não tipificada> 
+Período de execução: 
+Data inicial: 
+03/03/2025 
+Data final: 
+30/06/2025 
+Etapas do processo: 
+01- Levantamento das deficiências de Infraestrutura Física existentes na 
+Unidade  
+03/03 
+14/03 
+02- Compilação das informações obtidas e realização de relatório  
+14/03 
+17/04 
+03- Envio do Relatório aos Coordenadores de Serviços Técnicos e 
+Administrativos do Núcleo Regional para Visita Técnica  
+17/04 
+09/05 
+04- Agendamento das Visitas Técnicas dos Coordenadores de Serviços 
+Técnicos e Administrativos do Núcleo Regional  
+12/05 
+31/05 
+05- Encaminhamento do documento às instâncias competentes do CPS para 
+tomada de decisões  
+02/06 
+30/06 
+06- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+R$ 25.000,00 
+Fonte(s) dos recursos: 
+UGAF/UIE - CPS 
+Situação problema: 
+(a ser resolvida/mitigada) 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+cat 0.1.02 - Manutenção e conservação predial 
+cat 0.1.11 - Segurança pessoal e patrimonial 
+ 
+AÇÃO/PROJETO (Tema) 
+509 - cat 5.05 - Reforma de Edificações 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+• 
+Projeto para reforma na entrada de pedestres da Unidade de Ensino. 
+Por que será feito: 
+• 
+Necessidade de reforma e adequação da entrada de pedestres, que possui condições 
+inadequadas para acesso de pessoas portadoras de deficiência ou com mobilidade 
+reduzida;  
+• 
+Ampliação da entrada e substituição do portão da entrada de pedestres;  
+• 
+Readequação do escoamento de água da chuva da Escola Paraíso Cavalcanti que 
+atualmente está no portão de entrada da Fatec Bebedouro, o que dificulta a entrada dos 
+alunos quando chove; 
+• 
+Necessidade de construção de rampas de acesso, cobertura da entrada, instalação de 
+corrimão, adequação do espaço para livre circulação de cadeiras de rodas e sinalização. 
+Responsável: 
+Carla Regina Lanzotti - Diretora da Unidade 
+Qde CH/sem: 
+02 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): Aline Beatriz Ramos Luz –Diretora de Serviços 
+Administrativos 
+Qde CH/sem: 
+02 
+Tipo: H - Hora <não tipificada> 
+Período de execução: 
+Data inicial: 
+03/02/2025 
+Data final: 
+30/06/2025 
+Etapas do processo: 
+01- Levantamento in loco das deficiências de Infraestrutura Física existentes 
+na Unidade; 
+03/02 
+01/04 
+02- Compilação das informações obtidas e realização de relatório; 
+01/04 
+18/04 
+03- Envio do Relatório aos Coordenadores de Serviços Técnicos e 
+Administrativos do Núcleo Regional para Visita Técnica;  
+22/04 
+16/05 
+04- Agendamento das Visitas Técnicas dos Coordenadores de Serviços 
+Técnicos e Administrativos do Núcleo Regional 
+19/05 
+06/06 
+05- Encaminhamento do documento às instâncias competentes do CPS para 
+tomada de decisões. 
+09/06 
+30/06 
+Custo R$ (se houver): 
+R$ 750.000,00  
+Fonte(s) dos recursos: 
+UGAF/UIE - CPS 
+Situação problema: 
+(a ser resolvida/mitigada) 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+cat 0.1.02 - Manutenção e conservação predial 
+cat 0.1.09 - Acesso/Inclusão ao Ensino Superior (social, PCD) 
+ 
+ 
+ 
+26 
+ 
+AÇÃO/PROJETO (Tema) 
+510 - cat 5.04 - Implantação de áreas comuns 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+• 
+Levantamento das necessidades para a construção do espaço de convivência para os 
+alunos. 
+Por que será feito: 
+• 
+A Unidade não possui espaço de convivência para os alunos. 
+• 
+Aproveitamento da área externa sem utilização devido ao acesso inadequado, terreno 
+irregular e falta de iluminação. 
+Responsável: 
+Carla Regina Lanzotti - Diretora da Unidade  
+Qde CH/sem: 
+02 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): Aline Beatriz Ramos Luz – Diretora de Serviços 
+Administrativos 
+Qde CH/sem: 
+02 
+Tipo: H - Hora <não tipificada> 
+Período de execução: 
+Data inicial: 
+03/02/2025 
+Data final: 
+30/06/2025 
+Etapas do processo: 
+01- Levantamento das deficiências de um espaço para convivência de 
+alunos; 
+03/02 
+01/04 
+02- Compilação das informações obtidas e realização de relatório; 
+01/04 
+18/04 
+03- Envio do Relatório aos Coordenadores de Serviços Técnicos e 
+Administrativos do Núcleo Regional para Visita Técnica; 
+22/04 
+16/05 
+04- Agendamento das Visitas Técnicas dos Coordenadores de Serviços 
+Técnicos e Administrativos do Núcleo Regional; 
+19/05 
+06/06 
+05- Encaminhamento do documento às instâncias competentes do CPS para 
+tomada de decisões. 
+09/06 
+30/06 
+Custo R$ (se houver): 
+R$ 450.000,00  
+Fonte(s) dos recursos: 
+UGAF/UIE - CPS 
+Situação problema: 
+(a ser resolvida/mitigada) 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+cat 0.1.10 - Gestão da unidade de ensino e dos cursos (indicadores) 
+cat 0.1.02 - Manutenção e conservação predial 
+cat 0.1.08 - Participação da comunidade e sociedade 
+ 
+AÇÃO/PROJETO (Tema) 
+511 - cat 5.04 - Implantação de áreas comuns 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+• 
+Levantamento das necessidades para adequação do espaço da biblioteca. 
+Por que será feito: 
+• 
+A Unidade não possui espaço de biblioteca climatizado. 
+• 
+Servidor encontra-se na biblioteca por falta de espaço adequado. 
+Responsável: 
+Carla Regina Lanzotti - Diretora da Unidade 
+Qde CH/sem: 
+02 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): Aline Beatriz Ramos Luz – Diretora de Serviços 
+Administrativos 
+Qde CH/sem: 
+02 
+Tipo: H - Hora <não tipificada> 
+Período de execução: 
+Data inicial: 
+03/02/2025 
+Data final: 
+30/06/2025 
+Etapas do processo: 
+01- Levantamento das deficiências de Infraestrutura da Biblioteca;  
+03/02 
+01/04 
+02- Compilação das informações obtidas e realização de relatório; 
+01/04 
+18/04 
+03- Envio do Relatório aos Coordenadores de Serviços Técnicos e 
+Administrativos do Núcleo Regional para Visita Técnica;  
+22/04 
+16/05 
+04- Agendamento das Visitas Técnicas dos Coordenadores de Serviços 
+Técnicos e Administrativos do Núcleo Regional; 
+19/05 
+06/06 
+05- Encaminhamento do documento às instâncias competentes do CPS para 
+tomada de decisões. 
+09/06 
+30/06 
+Custo R$ (se houver): 
+R$ 12.000,00  
+Fonte(s) dos recursos: 
+UGAF/UIE - CPS 
+Situação problema: 
+(a ser resolvida/mitigada) 
+cat 0.1.02 - Manutenção e conservação predial 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+ 
+ 
+ 
+27 
+ 
+AÇÃO/PROJETO (Tema) 
+512 - cat 5.06 - Implantação de espaços pedagógicos 
+Origem (prioridade): 
+4-Gestão Operacional - Aumento de capacidade instalada 
+O que será feito: 
+• 
+Levantamento das necessidades para a construção de uma sala de coordenação. 
+Por que será feito: 
+• 
+Necessidade da construção de uma sala para os coordenadores de curso com o uso de 
+Drywall na sala dos professores.  
+Responsável: 
+Carla Regina Lanzotti - Diretora da Unidade 
+Qde CH/sem: 
+02 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): Aline Beatriz Ramos Luz – Diretora de Serviços 
+Administrativos 
+Qde CH/sem: 
+02 
+Tipo: H - Hora <não tipificada> 
+Período de execução: 
+Data inicial: 
+03/03/2025 
+Data final: 
+30/06/2025 
+Etapas do processo: 
+01- Levantamento in loco das deficiências da Sala de Coordenação 
+03/03 
+14/03 
+02- Compilação das informações obtidas e realização de relatório  
+14/03 
+17/04 
+03- Envio do Relatório aos Coordenadores de Serviços Técnicos e 
+Administrativos do Núcleo Regional para Visita Técnica  
+17/04 
+09/05 
+04- Agendamento das Visitas Técnicas dos Coordenadores de Serviços 
+Técnicos e Administrativos do Núcleo Regional  
+12/05 
+31/05 
+05- Encaminhamento do documento às instâncias competentes do CPS para 
+tomada de decisões  
+02/06 
+30/06 
+Custo R$ (se houver): 
+R$ 45.000,00 
+Fonte(s) dos recursos: 
+UGAF/UIE - CPS 
+Situação problema: 
+(a ser resolvida/mitigada) 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+cat 0.1.10 - Gestão da unidade de ensino e dos cursos (indicadores) 
+ 
+AÇÃO/PROJETO (Tema) 
+513 - cat 5.01 - Melhoria Sala de Ambientes pedagógicos 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+• 
+Levantamento das necessidades de aparelhos de ar-condicionado para as salas de aula. 
+Por que será feito: 
+• 
+Necessidade climatização das salas de aula do andar superior, que se tornam 
+insuportáveis devido às altas temperaturas nos meses quentes. 
+• 
+Necessidade de colocação de cortinas blackouts para proteção dos equipamentos. 
+Responsável: 
+Carla Regina Lanzotti - Diretora da Unidade 
+Qde CH/sem: 
+02 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): Aline Beatriz Ramos Luz –Diretora de Serviços 
+Administrativos 
+Qde CH/sem: 
+02 
+Tipo: H - Hora <não tipificada> 
+Período de execução: 
+Data inicial: 
+03/03/2025 
+Data final: 
+30/06/2025 
+Etapas do processo: 
+01- Levantamento in loco das deficiências da Conforto Térmico da Unidade; 
+03/03 
+14/03 
+02- Compilação das informações obtidas e realização de relatório  
+14/03 
+17/04 
+03- Envio do Relatório aos Coordenadores de Serviços Técnicos e 
+Administrativos do Núcleo Regional para Visita Técnica  
+17/04 
+09/05 
+04- Agendamento das Visitas Técnicas dos Coordenadores de Serviços 
+Técnicos e Administrativos do Núcleo Regional  
+12/05 
+31/05 
+05- Encaminhamento do documento às instâncias competentes do CPS para 
+tomada de decisões  
+02/06 
+30/06 
+Custo R$ (se houver): 
+R$ 166.600,00 
+Fonte(s) dos recursos: 
+UGAF/UIE - CPS 
+Situação problema: 
+(a ser resolvida/mitigada) 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+cat 0.1.10 - Gestão da unidade de ensino e dos cursos (indicadores) 
+ 
+ 
+ 
+ 
+28 
+ 
+AÇÃO/PROJETO (Tema) 
+514 - cat 5.01 - Melhoria Sala de Ambientes pedagógicos 
+Origem (prioridade): 
+3-Gestão Tática - CPA (RADE, RCEE, RLAB, RWebSAI, RAAI) 
+O que será feito: 
+• 
+Colocação de cortinas blackout nas salas de aula. 
+Por que será feito: 
+• 
+Cortinas blackout reduzem a temperatura interna das salas de aula. 
+• 
+Necessidade de colocação de cortinas blackouts para proteção dos equipamentos. 
+Responsável: 
+ Carla Regina Lanzotti - Diretora da Unidade  
+Qde CH/sem: 
+02 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): Aline Beatriz Ramos Luz – Diretora de Serviços 
+Administrativos 
+Qde CH/sem: 
+02 
+Tipo: H - Hora <não tipificada> 
+Período de execução: 
+Data inicial: 
+03/02/2025 
+Data final: 
+30/06/2025 
+Etapas do processo: 
+01- Levantamento in loco das deficiências de Infraestrutura Física existentes 
+na Unidade  
+03/02 
+01/04 
+02- Compilação das informações obtidas e realização de relatório; 
+01/04 
+18/04 
+03- Envio do Relatório aos Coordenadores de Serviços Técnicos e 
+Administrativos do Núcleo Regional para Visita Técnica;  
+22/04 
+16/05 
+04- Agendamento das Visitas dos Coordenadores de Serviços Técnicos e 
+Administrativos do Núcleo Regional; 
+19/05 
+06/06 
+05- Encaminhamento do documento às instâncias competentes do CPS para 
+tomada de decisões. 
+09/06 
+30/06 
+Custo R$ (se houver): 
+R$ 20.000,00  
+Fonte(s) dos recursos: 
+UGAF - CPS 
+Situação problema: 
+(a ser resolvida/mitigada) 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+ 
+AÇÃO/PROJETO (Tema) 
+515 - cat 5.03 - Material Infraestrutura/equipamentos 
+Origem (prioridade): 
+6-Outra 
+O que será feito: 
+• 
+Instalação de câmeras de segurança na Unidade de Ensino. 
+Por que será feito: 
+• 
+Para segurança e integridade dos alunos, professores, funcionários e do 
+prédio/ambientes,  
+• 
+Proteger pontos vulneráveis. 
+Responsável: 
+ Carla Regina Lanzotti - Diretora da Unidade  
+Qde CH/sem: 
+02 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): Aline Beatriz Ramos Luz – Diretora de Serviços 
+Administrativos 
+Qde CH/sem: 
+02 
+Tipo: H - Hora <não tipificada> 
+Período de execução: 
+Data inicial: 
+03/02/2025 
+Data final: 
+30/06/2025 
+Etapas do processo: 
+01- Levantamento in loco das deficiências de Segurança na Unidade;  
+03/02 
+01/04 
+02- Compilação das informações obtidas e realização de relatório; 
+01/04 
+18/04 
+03- Envio do Relatório aos Coordenadores de Serviços Técnicos e 
+Administrativos do Núcleo Regional para Visita Técnica;  
+22/04 
+16/05 
+04- Agendamento das Visitas Técnicas dos Coordenadores de Serviços 
+Técnicos e Administrativos do Núcleo Regional; 
+19/05 
+06/06 
+05- Encaminhamento do documento às instâncias competentes do CPS para 
+tomada de decisões. 
+09/06 
+30/06 
+Custo R$ (se houver): 
+R$ 8.500,00  
+Fonte(s) dos recursos: 
+UGAF/UIE - CPS 
+Situação problema: 
+(a ser resolvida/mitigada) 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+cat 0.1.11 - Segurança pessoal e patrimonial 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+ 
+ 
+ 
+29 
+ 
+AÇÃO/PROJETO (Tema) 
+516- cat 5.04 - Implantação de áreas comuns 
+Origem (prioridade): 
+5-Gestão Operacional - Preservação de capacidade instalada 
+O que será feito: 
+• 
+Levantamento das necessidades para construção da sala do servidor. 
+Por que será feito: 
+• 
+A Unidade não possui espaço adequado para colocar o servidor. 
+• 
+Servidor encontra-se na biblioteca. 
+Responsável: 
+ Carla Regina Lanzotti - Diretora da Unidade  
+Qde CH/sem: 
+02 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): Aline Beatriz Ramos Luz – Diretora de Serviços 
+Administrativos 
+Qde CH/sem: 
+02 
+Tipo: H - Hora <não tipificada> 
+Período de execução: 
+Data inicial: 
+03/02/2025 
+Data final: 
+30/06/2025 
+Etapas do processo: 
+01- Levantamento in loco das deficiências de Infraestrutura Física existentes 
+na Unidade  
+03/02 
+01/04 
+02- Compilação das informações obtidas e realização de relatório; 
+01/04 
+18/04 
+03- Envio do Relatório aos Coordenadores de Serviços Técnicos e 
+Administrativos do Núcleo Regional para Visita Técnica;  
+22/04 
+16/05 
+04- Agendamento das Visitas Técnicas dos Coordenadores de Serviços 
+Técnicos e Administrativos do Núcleo Regional; 
+19/05 
+06/06 
+05- Encaminhamento do documento às instâncias competentes do CPS para 
+tomada de decisões. 
+09/06 
+30/06 
+Custo R$ (se houver): 
+R$ 20.000,00  
+Fonte(s) dos recursos: 
+UGAF - CPS 
+Situação problema: 
+(a ser resolvida/mitigada) 
+cat 0.1.02 - Manutenção e conservação predial 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+ 
+AÇÃO/PROJETO (Tema) 
+517 - cat 5.09 - Obtenção/renovação de AVCB 
+Origem (prioridade): 
+1-Regulação - Notificação de órgão (MEC, CEE, VS.,..) 
+O que será feito: 
+• 
+Projeto para obtenção de AVCB 
+Por que será feito: 
+• 
+Garantir a segurança dos alunos, professores e funcionários da Fatec; 
+• 
+Adequações na infraestrutura física prediais; 
+• 
+Criação de um plano de saída de emergência; 
+• 
+Regularização e Adequação de toda a estrutura física do prédio em relação à combate e 
+prevenção de incêndios; 
+• 
+Atendimento a legislação vigente; 
+• 
+Obtenção da AVCB – Auto de Vistoria do Corpo de Bombeiros. 
+Responsável: 
+Carla Regina Lanzotti - Diretora da Unidade 
+Qde CH/sem: 
+02 
+Tipo: 
+HA - Hora Atividade 
+Colaborador(a): Aline Beatriz Ramos Luz – –Diretora de Serviços 
+Administrativos 
+Qde CH/sem: 
+02 
+Tipo: H - Hora <não tipificada> 
+Período de execução: 
+Data inicial: 
+03/02/2025 
+Data final: 
+30/06/2025 
+Etapas do processo: 
+01- Levantamento in loco das deficiências de Infraestrutura Física existentes 
+na Unidade; 
+03/02 
+01/04 
+02- Compilação das informações obtidas e realização de relatório; 
+01/04 
+18/04 
+03- Envio do Relatório aos Coordenadores de Serviços Técnicos e 
+Administrativos do Núcleo Regional para Visita Técnica; 
+22/04 
+16/05 
+04- Agendamento das Visitas Técnicas dos Coordenadores da NRA 09; 
+19/05 
+06/06 
+05- Encaminhamento do documento às instâncias competentes do CPS para 
+tomada de decisões. 
+09/06 
+30/06 
+Custo R$ (se houver): 
+R$ 1.200.000,00 
+Fonte(s) dos recursos: 
+UGAF/UIE - CPS 
+Situação problema: 
+(a ser resolvida/mitigada) 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+cat 0.1.02 - Manutenção e conservação predial 
+cat 0.1.11 - Segurança pessoal e patrimonial 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+cat 0.1.10 - Gestão da unidade de ensino e dos cursos (indicadores) 
+ 
+ 
+30 
+ 
+06 - Desenvolvimento de pessoas (docentes e servidores) 
+Formação continuada de docentes e servidores, associadas às competências gerais e específicas de suas 
+atividades: Metodologias de ensino, Tecnologias educacionais, Sistemas (processos, procedimentos, plataformas 
+computacionais) acadêmicos e pedagógicos. 
+AÇÃO/PROJETO (Tema) 601 - cat 6.01 - Curso/Oficina/Capacitação/ Treinamento/ Palestra/Reunião/Encontro 
+Origem (prioridade): 
+6-Outra 
+O que será feito: 
+• 
+Projeto de Capacitação e Aperfeiçoamento de Docentes e Funcionários via SIPEP – Portal 
+do Participante (https://portaldoparticipante.cps.sp.gov.br/Pages/Geral/Evento) 
+Por que será feito: 
+• 
+Incentivo a qualificação de docentes e funcionários de forma gratuita, com 
+aproveitamento para a Evolução / Promoção Funcional do CPS;  
+• 
+Melhoria dos processos administrativos e didático-pedagógico dos cursos da Unidade;  
+• 
+Aumento do conhecimento tecnológico dos funcionários e docentes da Unidade;  
+• 
+Estímulo a interdisciplinaridade e transdisciplinaridade dos docentes. 
+Responsável: 
+Carla Regina Lanzotti - Diretora da Unidade 
+Qde CH/sem: 
+02 
+Tipo: 
+HA - Hora Atividade 
+Responsável: 
+Carolaine 
+Milena 
+P. 
+da 
+Silva 
+– 
+Assessora 
+Administrativo 
+Qde CH/sem: 
+02 
+Tipo: H - Hora <não tipificada> 
+Período de execução: 
+Data de início: 
+01/03/2025 
+Data final: 
+20/12/2025 
+Etapas do processo: 
+01 - Levantamento dos cursos e eventos abertos a inscrição de 
+interessados no SIPEP, que venha a contribuir com o desenvolvimento 
+pessoal, dos CSTs/disciplinas e áreas de atuação. 
+01/03 
+14/03 
+02 - Envio de boletim interno dos cursos aberto no SIPEP ao corpo docente 
+e de funcionários. 
+13/03 
+18/03 
+03 - Levantamento dos cursos abertos a inscrição de interessados no SIPEP 
+02/05 
+06/05 
+04 - Envio de boletim interno dos cursos aberto no SIPEP ao corpo docente 
+e de funcionários. 
+08/05 
+12/05 
+05 - Levantamento dos cursos abertos a inscrição de interessados no SIPEP 
+31/07 
+04/08 
+06 - Envio de boletim interno dos cursos aberto no SIPEP ao corpo docente 
+e de funcionários. 
+07/08 
+11/08 
+07 - Levantamento dos cursos abertos a inscrição de interessados no SIPEP 
+02/10 
+06/10 
+08 - Envio de boletim interno dos cursos aberto no SIPEP ao corpo docente 
+e de funcionários. 
+09/10 
+13/10 
+09 - Solicitar que os professores e servidores encaminhem as certificações, 
+respectivamente, as Coordenações de CST e Diretoria de Serviço 
+20/03 
+20/12 
+Custo (se houver): 
+Sem Custo 
+Fonte(s) dos recursos: 
+--- 
+Situação problema: 
+cat 0.1.01 - Metodologia de ensino, desempenho de alunos, evasão 
+(a ser resolvida/mitigada) 
+cat 0.1.07 - Comunicação com a comunidade acadêmica 
+ 
+cat 0.1.10 - Gestão da unidade de ensino e dos cursos (indicadores) 
+ 
+ 
+ 
+31 
+ 
+07 – Convênios e Parcerias Institucionais 
+Formalização do relacionamento da Unidade com o Ecossistema de Tecnologia: Convênio de uso de prédio, 
+estágios, projetos com empresas. Aqui cabe apenas novos convênios e parcerias, e cada proposta deve estar 
+relacionada a uma Ação/Projeto de melhoria em algum dos itens anteriores do PGA (1, 2, 3, 4, 5 ou 6). 
+ 
+AÇÃO/PROJETO (Tema) 
+701 - cat 7.01 - Convênio de uso de prédio 
+Origem (prioridade): 
+4-Gestão Operacional - Aumento de capacidade instalada 
+Referente ao(s) projeto(s): Convênio de uso de prédio 
+O que será feito: 
+• 
+Convênio Fatec Bebedouro e Fundação; 
+• 
+Cessão das Instalações Físicas do Campus Tecnológico da Fundação para o CST de Big Data 
+no Agronegócio; 
+• 
+Oferta do Curso de Big Data para o Agronegócio nas dependências da Fundação 
+Coopercitrus-Credicitrus; 
+• 
+Atividades Práticas associada à parte Agroindustrial de Disciplinas do Curso de Big Data 
+no Agronegócio da Fatec Bebedouro a serem realizadas na Fundação Coopercitrus 
+Fundecitrus – Bebedouro; 
+Por que será feito: 
+• 
+Aumento da Visibilidade Institucional;  
+• 
+Oferta do curso de Big Data no Agronegócio no campus tecnológico da Fundação 
+Coopercitrus Fundecitrus;  
+• 
+Ampliar oportunidade de desenvolvimento de projetos conjuntos; 
+• 
+Aumento da oferta de Vagas Pública em Graduação Tecnológica; 
+• 
+Atendimento ao PPC – Projeto Pedagógico do Curso de Big Data no Agronegócio; 
+• 
+Proporcionar vivências e experiências práticas na parte Agroindustrial aos alunos do CST  
+de Big Data no Agronegócio; 
+• 
+Melhoria das relações institucionais entre a Fatec Bebedouro e a Fundação; 
+• 
+Ampliar oportunidade de desenvolvimento de projetos conjuntos; 
+Responsável: 
+Carla Regina Lanzotti – Diretora da Unidade 
+Qde CH/sem: 
+01 
+Tipo: 
+H - Hora <não tipificada> 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/01/2025 
+Data final: 
+31/12/2025 
+Etapas do processo: 
+01- Realização de atividades didático-pedagógicas no Campus Tecnológico 
+da Fundação Coopercitrus Fundecitrus 
+01/01 
+31/12 
+02- Abertura para Ações e Projetos envolvendo a Fatec e a Fundação 
+01/01 
+31/12 
+ 
+dd/mm 
+dd/mm 
+Período de execução: 
+Data inicial: 
+01/01/2025 
+Data final: 
+31/12/2025 
+Etapas do processo: 
+01- Estabelecimento de ações integradas a serem ofertadas nas aulas 
+práticas do CST de Big Data no Agronegócio 
+01/01 
+31/12 
+02- Desenvolvimento e aplicação do projeto, com a realização de aulas 
+práticas do CST no campus da Fundação; 
+01/01 
+31/12 
+03- Acompanhamento das ações pela coordenadoria de curso 
+01/01 
+31/12 
+04- Ajustes nas ações planejadas, se necessário 
+01/01 
+31/12 
+ 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+Sem Custo 
+Fonte(s) dos recursos: 
+CPS, Fundação Coopercitrus Fundecitrus 
+Situação problema: 
+(a ser resolvida/mitigada) 
+cat 0.1.03 - Infraestrutura predial (espaços, sistemas) 
+cat 0.1.04 - Infraestrutura laboratorial e ambientes de ensino 
+cat 0.1.10 - Gestão da unidade de ensino e dos cursos (indicadores) 
+cat 0.1.09 - Acesso/Inclusão ao Ensino Superior (social, PCD) 
+cat 0.1.05 - Materiais, equipamentos e mobiliários 
+ 
+ 
+ 
+32 
+ 
+AÇÃO/PROJETO (Tema) 
+702 - cat. 7.99 - Outra 
+Origem (prioridade): 
+5-Gestão Operacional - Preservação de capacidade instalada 
+Referente ao(s) projeto(s): Transporte de Alunos da Fatec Bebedouro ao Campus Tecnológico da Fundação Coopercitrus Fundecitrus 
+O que será feito: 
+• 
+Transporte dos alunos do Curso de Big Data no Agronegócio da Fatec Bebedouro ao 
+Campus da Fundação Coopercitrus Fundecitrus – Bebedouro;  
+• 
+Oferta do Curso de Big Data para o Agronegócio nas dependências da Fundação 
+Coopercitrus-Credicitrus  
+Por que será feito: 
+• 
+Viabilização do funcionamento do curso, uma vez que o Campus da Fundação  
+• 
+Coopercitrus Fundecitrus se encontra na região rural do município, distando 13 km do  
+• 
+Centro da cidade; 
+• 
+Convênio estabelecido entre o Centro Paula Souza e a Prefeitura Municipal de 
+Bebedouro; 
+• 
+Melhoria das relações institucionais entre a Fatec Bebedouro e a Prefeitura Municipal de  
+• 
+Bebedouro; 
+• 
+Ampliar oportunidade de desenvolvimento de projetos conjuntos; 
+Responsável: 
+Carla Regina Lanzotti – Diretora da Unidade 
+Qde CH/sem: 
+01 
+Tipo: 
+H - Hora <não 
+tipificada> 
+Colaborador(a): 
+<nome> nn 
+Qde CH/sem: 
+nn 
+Tipo: 
+Escolher um item. 
+Período de execução: 
+Data inicial: 
+01/01/2025 
+Data final: 
+31/12/2025 
+Etapas do processo: 
+01- Convênio Fatec Bebedouro e Fundação e Prefeitura Municipal de 
+Bebedouro 
+01/01 
+31/12 
+02- Reuniões para alinhamento da parceria com a Prefeitura 
+01/01 
+31/12 
+03- Ajustes nas ações planejadas, se necessário 
+01/01 
+31/12 
+04- Desenvolvimento e aplicação do projeto, com a realização de aulas 
+práticas do CST no campus da Fundação; 
+01/01 
+31/12 
+05-  
+dd/mm 
+dd/mm 
+06-  
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+Sem Custo 
+Fonte(s) dos recursos: 
+CPS, Fundação Coopercitrus Fundecitrus, 
+Prefeitura Municipal de Bebedouro 
+Situação problema: 
+(a ser resolvida/mitigada) 
+cat 0.1.12 - Acesso e transporte à Unidade de Ensino 
+cat 0.1.10 - Gestão da unidade de ensino e dos cursos (indicadores) 
+cat 0.1.09 - Acesso/Inclusão ao Ensino Superior (social, PCD) 
+ 
+AÇÃO/PROJETO (Tema) 
+703 - cat 7.03 - Projetos com empresas e/ou demais parceiros 
+Origem (prioridade): 
+6-Outra 
+Referente ao(s) projeto(s):  Parceria Fundação Coopercitrus-Credicitrus; 
+O que será feito: 
+• 
+Estudo de otimização do uso de drones, na aplicação de fitossanitários 
+Por que será feito: 
+• 
+Ampliar oportunidade de desenvolvimento de projetos conjuntos  
+• 
+Integrar conhecimentos teóricos e práticos desenvolvidos na instituição com as demandas 
+tecnológicas e ambientais da Fundação Coopercitrus-Credicitrus 
+Responsável: 
+Antônio Fernando Traina - Docente  
+Qde CH/sem: 
+20 
+Tipo: 
+HAE - Hora Atividade 
+Específica 
+Período de execução: 
+Data inicial: 
+10/03/2025 
+Data final: 
+31/07/2025 
+Etapas do processo: 
+01- Planejamento e Formalização do projeto 
+10/03 
+28/03 
+02- Pesquisa e definição de parâmetros técnicos 
+10/03 
+31/07 
+03- Desenvolvimento de ferramentas de Análise de Dados e Big Data  
+05/05 
+31/05 
+04- Capacitação Inicial da Equipe 
+07/05 
+31/07 
+05- nn 
+dd/mm 
+dd/mm 
+Custo R$ (se houver): 
+HAEs  
+Fonte(s) dos recursos: 
+HAE – GDS/Centro Paula Souza 
+Situação problema: 
+(a ser resolvida/mitigada) 
+cat 0.1.99 - Outra 
+cat 0.1.08 - Participação da comunidade e sociedade 
+ 
+ 
+ 
+33 
+ 
+Anexo 1 – Lista de aquisições necessárias aos projetos 
+(equipamentos, softwares, mobiliários) 
+ 
+Item 
+Projeto 
+Denominação ou especificação do equipamento 
+Quant. 
+Preço total 
+estimado (R$) 
+01 
+201 
+Suporte para Televisor de LCD ou plasma de 30 a 65", suporte de 
+parede. 
+Suporte para Televisor: de Lcd, Led Ou Plasma de 23 a 55 Polegadas; 
+Estrutura: Em Aço Carbono; Tipo: de Parede Articulado; Modelo: 
+universal; Pintura: Com Pintura Com Pintura Eletrostática epóxi; 
+Cor: Na Cor Preta;  Modelo: universal; Capacidade: com capacidade 
+de Peso de no mínimo 35kg;Dimensões das furações: de (100 x 100 
+- 200 x 200 – 300 x 300 e 400 x 400) (padrão vesa); Inclinação 
+vertical e horizontal: de no mínimo 10 Graus; Rotação: no mínimo 
+de 180 graus; Acessórios: Kit de Parafusos e arruelas, com buchas 
+para fixação de acordo com o peso mínimo exigido acima; 
+02 
+760,00 
+02 
+207 
+Armário de madeira extra alto com 2 portas de abrir 
+Armário alto   em madeira MDP, revestido em laminado melamínico 
+de baixa pressão em ambas as faces, na cor casca de ovo. com 04 
+(QUATRO) prateleiras de 18mm de espessura e fundo em 15 mm, 
+todos os componentes na cor CASCA DE OVO, revestidos com 
+laminado melamínico de baixa pressão em ambas as faces, 
+resistente a abrasão, encabeçado com fita de poliestireno com 
+superfície visível texturizada com espessura de 0,45 mm com alta 
+resistência a impactos. 
+TAMPO no mesmo material, porém com 25 mm de espessura na 
+cor CASCA DE OVO, fita em poliestireno de superfície visível 
+texturizada de espessura 2,0 mm de espessura. 
+02 - PORTAS EM MDP na cor CASCA DE OVO, com 18mm de 
+espessura, revestido com laminado melamínico de baixa pressão 
+em ambas as faces, resistente a abrasão, encabeçado com fita de 
+poliestireno com superfície visível texturizada, com espessura de 
+1,0 mm com alta resistência a impactos, e dobradiça em aço de alta 
+resistência, regulagem horizontal livre e ajuste lateral integrado, 
+com ângulo de abertura de 105º com sistema de alojamento 
+interno na madeira para um melhor acabamento ao móvel e para 
+gerar maior espaço interno do mesmo, com acabamento niquelado. 
+Fechadura de tambor de giro que acompanha 02 chaves 
+escamoteável. 
+SISTEMA DE TRAVAMENTO das portas com batente interno na 
+porta esquerda, fixado através de parafusos rosca auto cortante 
+tipo chipboard para madeira, com fechadura frontal e chave para 
+porta direita com alma interna em aço de alta resistência ao torque, 
+com capa plástica externa de proteção em polietileno injetado com 
+sistema escamoteável para adaptar-se ao móvel caso não seja 
+retirada, e minimizar choques acidentais ao usuário. 
+PRATELEIRAS CONFECCIONADAS em MDP de 18mm de espessura 
+na cor casca de ovo, revestido com laminado melamínico de baixa 
+03 
+5.200,00 
+34 
+ 
+pressão em ambas as faces, resistente a abrasão, encabeçado com 
+fita de poliestireno com superfície visível texturizada com espessura 
+de 1,0 mm com alta resistência a impactos. Regulagem de altura 
+das prateleiras através de furos e pin. 
+03 
+207 
+Cadeira giratória diretor concha dupla com apoio de braços 
+05 
+4.000,00 
+04 
+207 
+Scanner de mesa 
+01 
+2.500,00 
+05 
+207 
+Estante desmontável de aço; tipo aberta; com 06 prateleiras 
+02 
+1.360,00 
+06 
+201 
+Mouse com Fio 
+40 
+2.500,00 
+07 
+204 
+SSD  - 240GB 
+100 
+35.250,00 
+08 
+207 
+SSD - 480GB 
+10 
+5.800,00 
+09 
+201 
+Cadeira Universitária; Concha Dupla; Com Braços; Espaldar Médio; 
+Com Prancheta Articulável Cadeira Universitária; Concha Dupla; 
+Com Braços; Espaldar Médio; Com Prancheta Articulável; Estrutura 
+Em Tubo de Chapa de Ferro; Base  Modelo Em s (ski); Com Pintura 
+Eletrostática Epoxi; Na Cor Preta; Cadeira Revestida Em Couro 
+Sintético; Na Cor Preta; Estofamento Em Espuma Injetada 
+Anatômica 
+de 
+Alta 
+Densidade; 
+Encosto 
+Medindo 
+Min.: 
+46,5x48,3x5,9 Cm (lxaxe); Assento Medindo Min.: 49,0x48x6,3 Cm 
+(lxaxe); Com Prazo de Garantia de No Mínimo 12 Meses; Fabricada 
+de Acordo Com As Normas Nbr/abnt Vigentes e Nr-17; 
+05 
+5.750,00 
+10 
+202 
+Mesa Escolar; Acessível para Pessoa Em Cadeira de Rodas 
+Mesa Escolar; Acessível para Pessoa Em Cadeira de Rodas, Tampo 
+Em Madeira Mdf, Espessura Mínima 18mm; Revestimento 
+Laminado de Alta Pressão, Na Cor Creme; Formato Retangular, 
+Medindo (800x610)mm=(lxp), Acabamento Das Bordas Em Perfil 
+Pvc; Com Inclinação e Altura Ajustáveis, de 600 a 880mm, Frontal e 
+Traseira, Através de Manípulos; Estrutura Em Aco, Pes C/ Tubo 
+Diam 1\\\", Barras Laterais e Frontais C/tubo 7/8\\\",espessura 
+Mínima 1,2mm; Acabamento Com Ponteiras Plásticas; Acabamento 
+Com Pintura Eletrostática Epoxi, Na Cor Preta; Garantia Mínima de 
+12 Meses; 
+01 
+1.300,00 
+11 
+206 
+Aspirador de Agua e Pó 
+Aspirador; 
+de 
+Pó 
+e 
+Agua; 
+Uso 
+Doméstico; 
+Medindo 
+Aproximadamente 380 x 555 x 393 Mm; Com Potência 1400w; 
+Tensão de Alimentação 220v; Succao 17kpa/170 Âmbar; 
+Capacidade 20 Litros; Peso Máximo 7,000kg; Comprimento do Cabo 
+5 Metros; Acompanha Mangueira, tubos, bocal P/Pisos, cantos e 
+Estofados; Com Prazo de Garantia Mínima de 12 Meses; 
+01 
+450,00 
+12 
+206 
+Furadeira / parafusadeira portátil 
+Furadeira / parafusadeira portátil; corpo lástica e metal de alta 
+lásticas 
+– 
+lástica 
+– 
+com 
+empunhadeira 
+central; 
+tipo 
+furadeira/parafusadeira; com mandril 1/2” autolock,sem chave; e 
+potência torque lásti 26 / 60 nm; lástic de 0-400 /1.400 rpm; na 
+voltagem de 18 v – 2,6 ah,carregador de 220v; pesando 2,0 kg; com 
+capacidade para impacto em aco 13 /6mm -concreto 12mm – 
+madeira 30 / 22mm; com certificado de garantia e manual de 
+01 
+350,00 
+35 
+ 
+lásticas; acompanha carregador,2(duas)baterias li-ion (18v –2,6 ah) 
+e maleta lástica; 
+13 
+206 
+Trena cálculos, com tecnologia laser 
+Trena cálculos, com tecnologia laser, medição entre 0,05m a 80m; 
+trena cálculos; de bolso, com tecnologia laser; com cálculos visor 
+lcd luminoso, corpo emborrachado; medição de distância entre 
+0,05m a 80m, cálculos de medição ± 1,5mm; cálculos em menor 
+unidade do visor 1mm, classe do laser 2, tipo do laser 635nm, 
+<1mw, classe de cálculos ip54; leitura escala cálculo imperial, soma 
+(cálculos),memoria,álc, volume, álcul e álcul, pitagoras; com bateria 
+de pilhas do tipo aaa de 1,5v (2 bateriais),estojo,alca de mao, pilhas, 
+manuais, 
+certif.fabr.; 
+utilizada 
+para 
+medidas/cálculos 
+de 
+engenharia e arquitetura; 
+01 
+429,00 
+14 
+203 
+Conjunto didático para estudo de robótica educacional - Kit Arduíno 
+Conjunto didático para estudo de robótica educacional composto 
+por: 
+-Plataforma eletrônica de prototipagem física com capacidade de 
+comunicação USB, Bluetooth e WiFi. Com linguagem de 
+programação compatível com padrão Arduino, IDE Arduino e 
+bibliotecas opensource. 
+-Chassi fabricado com poliestireno de alto impacto (PSAI), com 
+furações para acoplar servos motores, sensores, garras robóticas, 
+baterias de energia e placa microprocessada. 
+- Conjunto de motores, rodas e esteiras, com capacidade de serem 
+acopladas ao chassi principal. 
+- Conjunto de braço robótico confeccionado em poliestireno de alto 
+impacto (PSAI), com articulações, com uma garra para segurar 
+pequenos objetos, contemplar servomotores e estruturas, 
+conectores e cabos extensores adicionais e necessários para 
+possibilitar que o conjunto seja acoplado / desacoplado  ao chassi 
+principal. 
+- Dispositivos diversos: mínimo de dois Sensores de Refletância 
+QRE1113, um Carregador Duplo para Bateria Li-Ion, mínimo de 6 
+espaçadores Sextavado de Nylon, um Sensor Ultrassônico HC-SR04, 
+mínimo de duas Baterias Li-Ion 18650 3,7V, um Cabo micro USB, 
+uma Fita de PVC “preta” para criar traçado, um Suporte para Sensor 
+Ultrassônico, mínimo de dois Suporte para 2 Baterias de Li-Ion, 
+mínimo de 20 Jumpers 20cm Fêmea-Fêmea (diferentes cores de 
+cabo), uma Chave Philips. 
+40 
+8.000,00 
+15 
+203 
+kit ARDUINO 
+Conjunto Didático, Kit Arduíno; para Uso Em Laboratório de 
+Eletrônica; Tipo Kit Arduíno; Contendo 01 Arduíno Uno R3 
+(microcontrolador Atmega328, Tensão de Operação 5v); Tensão de 
+Entrada: 7-12v, Portas Digitais: 14 (6 Podem Ser Usadas Como 
+Pwm), Portas Analógicas: 6; Corrente Pinos I/o: 40ma, Corrente 
+Pinos 3,3v: 50ma, Memória Flash: 32kb (0,5kb Usado No 
+Bootloader); Sram: 2kb, Eeprom: 1kb, Velocidade do Clock: 16mhz), 
+01 Cabo Usb 2.0 A-b Compatível C/ Saída Arduino; 01 Placa 
+11 
+5.200,00 
+36 
+ 
+Protoboard C/ 830 Furos; 10 Leds; 10 Resistores 220 Ohms; 10 
+Resistor 1k Ohms; 10 Resistor 10k Ohms; 01 Potenciômetro de 10 k 
+Ohms; 01 Buzzer Ativo; 01 Buzzer Passivo; 03 Botões; 01 Display 
+Digital 7 Segmentos; 01 Display Digita4x7 Segmentos; 01 Display 10 
+Segmentos Bargraph Vermelho; 01 Sensor de Luminosidade 
+(photoresistor);; 
+01 
+Sensor 
+de 
+Efeito 
+Hall; 
+01 
+Sensor 
+Infravermelho(infrared Receiver); 01 Sensor de Termistor; 01 
+Sensor de Balanço (ball Switch); 01 Modulo Ledrgb; 01 Display 10 
+Segmentos Bargraph Vermelho; 20 Fios Macho-macho, 10 Fios 
+Macho-femea, 01 Conector de Bateria 9v. 
+16 
+206 
+Máquina de Corte a Laser 
+Máquina de Corte a Laser - Máquina de Cortar a Laser; Materiais 
+Aplicáveis: Mdf, Acrílico, Couro, Tecidos, Papeis, Eva, Espuma, 
+Outros; Potência 40w; Área de Trabalho 400 Mm x 400 Mm; 
+Velocidade Máxima de Gravação 350 Mm/s (ou Superior); Medidas 
+Da Maquina/peso: 96 x 70 x 30 Cm / 70kg; Inclui: Bomba de 
+Refrigeração a Agua, Mini Compressor Eletromagnético e Mini 
+Exaustor de Ar.; Tensão 220v; Garantia Mínima 12 Meses 
+01 
+4.700,00 
+17 
+206 
+Mini drone 
+Aeronave Remotamente Pilotada; do Tipo Mini Drone, Com 4 
+Helices, 
+Desdobrada 
+(com 
+Hélices): 
+251×362×70 
+Mm, 
+Comprimento 247mm; Com a Finalidade de Mapeamento Aereo; 
+Peso Máximo de Decolagem de 249 Gramas/velocidade Máxima de 
+Ascensão/descensão Até 5m/s,e Velocidade Máxima de Voo de 
+10m/s; Propulsão do Tipo Elétrica, Autonomia Mínima de 34min 
+(21,6km/h), Alcance Mínimo de 18km (43,2km/h); Operação do 
+Tipo Remota, pilotada Por Estação de Controle Remoto e Tela 
+Integrada, estabilização Mecânica Triaxial; Câmera 4:3: 8064×6048 
+(48 Mp), 4032×3024 (12 Mp) 16:9: 4032 × 2268; 12 Mp; Wi-fi 
+802.11,(a/b/n/g/ac)bluetooth 5.2, 1 Bateria2.453mah 7,38v,; 
+Acessórios 2 Baterias 3.850mah,hub de Carregamento, cabo, cabo 
+Usb,5 Pares Helices,prot.gimbal,maleta; Legislação Homologado 
+Pela Anatel; Normas Vigentes; Regulamentação Vigente; Garantia 
+Mínima 12 Meses; 
+11 
+6.000,00 
+18 
+206 
+Scanner 3D - para Digitalização de Objetos 
+Scanner 3D - para Digitalização de Objetos, Scanner 3d; Portátil; 
+Resolução Ótica Hardware Mínima de Resolução Da Malha 
+0,100mm; Tx. de Medição 800.000 Medições/s; Fonte de Luz 7 
+Lasers Cruzados Azuis; Resolução Da Medição 0,025mm, Precisão 
+Até 0,035mm; Quantidade Mínima de Cores Captura de Cores 
+Opcional; Interface Usb; Software Vxelements Ou Compatível; 
+Digitalização Mínima de Faixa de Tamanho de Peças (recomendado) 
+0,05 a 4 M; Garantia de 12 Meses; Com Manual Técnico, Classe do 
+Laser 2m (seguro para Os olhos); 
+01 
+5.700,00 
+19 
+204 
+Desktop Plus Padrão CPS 
+PROCESSADOR 
+01 (um) processador, padrão de arquitetura do processador x86 de 
+32 bits com suporte à extensão 64 bits, de no mínimo 08 núcleos 
+físicos com no mínimo 16 threads, com tecnologia de fabricação de 
+70 
+390.000,00 
+37 
+ 
+10 nanômetros ou menor (AMD Ryzen 7 ou Intel Core i7 ou 
+superiores); 
+O processador deverá estar em linha de produção pelo fabricante e 
+ter sido lançado a partir de janeiro de 2022, da última geração ou 
+imediatamente 
+anterior, 
+inclusive, 
+não 
+sendo 
+aceitos 
+processadores descontinuados. 
+O processador deve implementar mecanismos de redução de 
+consumo de energia compatível com o padrão ACPI versão 2.0 ou 
+superior e deverá possuir controle automático para evitar 
+superaquecimento que possa danificá-lo. 
+MEMÓRIA RAM: Deverão ser fornecidos no mínimo 16 GBytes de 
+memória RAM por computador. 
+Barramento de memória no mínimo do tipo DDR5 4400MHz ou 
+superior, capaz de operar com dois canais simultâneos – “Dual 
+Channel”. 
+Mínimo 02 slots de memória. 
+O computador deverá suportar expansibilidade de memória de no 
+mínimo 64GB. 
+CIRCUÍTOS 
+INTEGRADOS 
+DE 
+CONTROLE 
+AUXILIAR 
+DO 
+PROCESSADOR (CHIPSET) 
+O chipset deverá suportar e operar no mínimo memória RAM do 
+tipo DDR5com frequência igual ou superior a 4400MHz e deverá ser 
+capaz de operar com dois canais simultâneos dual channel 
+memory). 
+Deverá possuir controladora de disco, com no mínimo 1 conector 
+SATA 3.0 e 1 conector PCIe NVMe de 64 Gbps ou superior. 
+Deverá implementar mecanismos de redução de consumo de 
+energia compatível com o padrão ACPI versão 2.0 ou superior. 
+PLACA MÃE (MOTHERBOARD) E BIOS O BIOS UEFI deverá ser do tipo 
+Flash Memory, utilizando memória não volátil e eletricamente 
+reprogramável. Deverá mostrar no monitor de vídeo o nome do 
+fabricante do computador sempre que o computador for 
+inicializado. A inicialização do computador deverá ser realizada na 
+sequência definida pelo usuário, via CDROM e/ou unidade de 
+armazenamento, bem como suportar pela placa de rede através do 
+recurso WOL (Wake on LAN) compatível com o padrão PXE. 
+20 
+207 
+Nobreak 700va (mínimo) 
+05 
+1.200,00 
+21 
+201 
+No break – (1kva mínimo) 
+01 
+1.400,00 
+22 
+201 
+Switch – (24 portas não gerenciável – 10/100/1000) 
+Especificação Técnica-Switch 24 Portas Gigabit Poe - Switch. 
+Comutador Gigabit Ethernet; 
+Tipo Gerenciável 10/100/1000 Mbps Base-t, Base-tx, Base-fx, 
+Frequência do Buffer 200 Mhz, Fonte Interna; 
+Fonte Poe 802.3af, 802.3at de até 30w Por Porta; Capacidade Total 
+Da Fonte de No Mínimo, 180w; 
+Com 24 Portas Gigabit Poe Ieee 802.af, 802.3at, Lldp Elldp-med e 4 
+Portas Mini Gbic; Com 512 Vlans Ativas, 4k Vlans Ids, Vlan Baseada 
+Em Tag (802.1q), Vlan Baseada Em Porta, Vlan de Gerenc.; Ieee 
+802.3, 802.3u,802. 3ab,802.3z, 802.3x, 802.1p, 802.1q, 802.1d, 
+802.1w, 802.1s, 802.3x, 802.1a; Leds de Sinalização para 
+01 
+1.100,00 
+38 
+ 
+Alimentação, Link/atividade Por Porta, Indicação de Velocidade de 
+Conexão e Poe; 
+23 
+201 
+Rack 19” 12U contendo um switch não gerenciável 24 portas 
+Rack 19” 12U contendo um switch não gerenciável 24 portas gigabit 
+ethernet, 1 roteador com uma porta WAN e 4LAN, 1 régua de 19” 
+com 12 tomadas de energia padrão ABNT de 10A, 1 patch panel 24 
+portas cat6 
+01 
+2.300,00 
+24 
+201 
+Rack 19” 8U 
+02 
+1.600,00 
+25 
+515 
+Kit CFTV 
+4 câmeras com leitura noturna (infravermelho), sendo pelo menos 
+1 do tipo IP, gravador de vídeo ( DVR ), interconexão via internet 
+para monitoramento. 
+05 
+8.500,00 
+26 
+201 
+Access Point 300 mimo 
+Deve permitir o agrupamento, em uma única rede Wi-Fi, para 
+operar em modo distribuído/colaborativo, um total de pelo menos 
+40 (quarenta) Pontos de Acesso e em conjunto e deve suportar o 
+atendimento de, no mínimo, 1.000 (um mil) clientes associados 
+simultaneamente. Deve permitir operação em modo de alta 
+disponibilidade.  
+Deve possuir certificação IP67. 
+Deve implementar a tecnologia Wave 2 MU-MIMO (Multi-User, 
+Multiple Input, Multiple Output). 
+Deve 
+permitir 
+operação 
+simultânea 
+nos 
+padrões 
+IEEE 
+802.11b/g/n/ax, na faixa de 2,4 GHz, e 802.11a/n/ac/ax na faixa de 
+5 GHz, através de rádios independentes (dual radio), com padrão 
+de irradiação omnidirecional. 
+Deve possuir certificação Wi-Fi Alliance para operar nos padrões 
+IEEE 802.11a/b/g/n/ac/ax em todos os Pontos de Acesso. 
+Deve implementar HT20 e HT40 para IEEE 802.11n. 
+Deve implementar VHT20, VHT40, VHT80 para IEEE 802.11ac. 
+Deve implementar o protocolo CSMA/CA (Carrier Sense Multiple 
+Access/Collision Avoidance) para acesso ao meio de transmissão. 
+Deve permitir a conexão de, no mínimo, 200 dispositivos 
+simultâneos. Deve possuir no mínimo 1 (uma) interface de rede 
+Ethernet 1000Base-T com conector RJ-45 fêmea, para tráfego de 
+dados de rede (interface in-band). A interface deve permitir 
+alimentação elétrica no padrão IEEE 802.3af (PoE) ou IEEE 802.3at 
+(PoE+), utilizando a porta do switch onde estiver conectado. Devem 
+habilitar simultaneamente todas as funcionalidades e desempenho 
+com o padrão de alimentação IEEE 802.3af (PoE) ou IEEE 802.3at 
+(PoE+). Caso exista perda de funcionalidade deve ser entregue 
+adicionalmente um Power Injector do mesmo fabricante, no padrão 
+necessário para que todas as funcionalidades estejam disponíveis, 
+em seu máximo desempenho. Deve possuir estrutura que permita 
+fixação do equipamento em teto para Access Points do tipo Indoor 
+(internos) e fixação em poste/parede para Access Points do tipo 
+Outdoor (externos). 
+01 
+1.900,00 
+39 
+ 
+27 
+514 
+Cortinas Blackout Bege com varão 
+20 
+20.000,00 
+28 
+512 
+Paredes em  L de Drywall com porta de acesso 
+2 
+45.000,00 
+29 
+508 
+Corrimão para escadas interna e entrada 
+4 
+9.000,00 
+30 
+513 
+Aparelhos de ar condicionado 24.000 btu 
+2 
+12.600,00 
+31 
+513 
+Aparelhos de ar condicionado 24.000 btu 
+4 
+24.000,00 
+32 
+513 
+Aparelhos de ar condicionado 36.000 btu 
+6 
+130.000,00 
+33 
+205 
+Conjunto de estofado de 3 e 2 lugares 
+1 
+5.500,00 
+34 
+516 
+Paredes em L de Drywall com porta de acesso 
+1 
+20.000,00 
+35 
+201 
+Microfone de lapela sem fio de 900 mhz, montável em câmera, faixa 
+de freqüência min. De 912mhz-915mhz; distancia de operação de 
+ate 45m (150 pés), rf deaprox. 100 hz-15 khz (+/-3db); saídas: 
+miniplugue monaural para 1 fone de ouvido,1 para mixagem de 
+microfone e 1 p/plugue de saída; nível de pressão: sonora máxima 
+superior a 114 db e spl, monitoração por headphone; alimentação: 
+dc de 1,5v, tipo de antena integral, medindo aprox. 63 x 74 x 23mm 
+(a x l x p); comprimento do fio do microfone de aprox. 1m; fornecido 
+com transmissor, receptor e fone de ouvido para monitoramento, 
+garantia min. De 12 meses; acondicionado de forma a garantir a 
+integridade física do equipamento, manual em português. 
+1 
+1.000,00 
+ 
+ 
+ 
+Total geral 
+ 
+770.349,00 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+40 
+ 
+Anexo 2 – Lista de Ações/Projetos referentes à CPA 
+Item 
+Projeto 
+Denominação - (O que será feito) 
+Prazo 
+01 
+501 
+Projeto de adequação e construção de saída de emergência no prédio acadêmico 
+30/06/2025 
+02 
+507 
+Levantamento das necessidades para a realização da pintura da UE. 
+30/06/2025 
+03 
+509 
+Projeto para reforma na entrada de pedestres da Unidade de Ensino. 
+30/06/2025 
+04 
+510 
+Levantamento das necessidades para a construção do espaço de convivência para 
+os alunos.  
+30/06/2025 
+05 
+517 
+Projeto para obtenção de AVCB. 
+30/06/2025 
+ 
+ 
+ 
+ 
+ 
+<fim> 
+ 
+ 
+ 
+ 
+ 
+ 

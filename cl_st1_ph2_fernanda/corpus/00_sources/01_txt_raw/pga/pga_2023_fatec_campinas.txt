@@ -1,0 +1,2633 @@
+PLANO DE GESTÃO ANUAL – PGA 
+v07 
+Estruturado em 3 etapas: 
+ETAPA I – PLANEJAMENTO PELA EQUIPE GESTORA DA UE 
+ETAPA II – APROVAÇÃO E HOMOLOGAÇÃO 
+ETAPA III – ACOMPANHAMENTO DAS AÇÕES GERENCIAIS 
+ 
+IDENTIFICAÇÃO DA UNIDADE 
+Unidade 
+276 
+Fatec Campinas 
+Diretor(a) 
+Jaime Cazuhiro Ossada 
+ 
+ETAPA I – PLANEJAMENTO PELA EQUIPE GESTORA DA UE 
+ANÁLISE DO CENÁRIO (Breve diagnóstico/Baseline) 
+ 
+A Faculdade de Tecnologia de Campinas (FATEC Campinas) está situada no município 
+de Campinas que pertence à Região Metropolitana de Campinas (RMC), formada por 20 
+municípios. A região possui uma população de 3.094.181 habitantes, que segundo estimativa 
+populacional do IBGE, corresponde a 1,51% da população nacional e 6,97% da população 
+estadual.  A cidade de Campinas desempenha um importante papel estratégico no 
+desenvolvimento do estado através da indústria, serviços e geração de tecnologia, além de contar 
+com importantes universidades, faculdades, museus e espaços para entretenimento, além de 
+contribuir no campo do agronegócio, impactando de maneira positiva o mercado logístico regional 
+através das Centrais de Abastecimento de Campinas S.A. (CEASA). Em Campinas concentra-se 
+mais de 50.000 empresas, sendo o terceiro maior parque industrial do país. Além disso, 50 das 
+500 maiores empresas do mundo estão instaladas na cidade e sua região metropolitana. A RMC 
+também é um ambiente de inovação, com incubadoras, aceleradoras e parques tecnológicos, que 
+dispõe de mais de 250 empresas instaladas. A Região conta ainda com diversos centros 
+logísticos, como o CLV (Centro Logístico de Viracopos) e o CLIC (Centro Logístico Industrial de 
+Campinas).  
+Fazendo parte desse ambiente, a Fatec Campinas atualmente oferta 6 cursos, sendo 3 no 
+período matutino e 3 no período noturno e está aguardando a autorização para a implantação de 
+mais um curso no período noturno, A FATEC Campinas tem como pontos fortes, um corpo 
+docente altamente qualificado, em sua maioria mestres e doutores, uma gestão participativa, há 
+oportunidades  de expansão e  oferecimento de novos cursos pela demanda da região de mão 
+de obra qualificada, principalmente cursos na área de tecnologia, percebe-se uma demanda 
+reprimida, já que há um grande número de empresas de tecnologia na RMC, no entanto, está 
+restrita a capacidade de oferta de cursos no período noturno, já que ocupará 100% do espaço 
+físico com a implantação com CST em Logística, além de haver falta de funcionários 
+administrativos e auxiliares docentes , comprometendo o oferecimento de novos cursos e 
+desenvolvimentos de atividades práticas. 
+Semestralmente, a unidade recebe 90 Haes para serem distribuídos em projetos de 
+interessa da comunidade. Deste, atualmente 81 horas já foram distribuídas, restando um saldo 
+de 09, que estão reservadas para futuros projetos a serem apresentados ao longo do semestre. 
+A atual configuração de horas está distribuída da seguinte maneira: 
+Alexandre Mello Ferreira - Suporte aos Laboratórios de TI - 4 HAES 
+Aparecido Bega Junior - Apoio Secretária Acadêmica - 13 HAES 
+Armando Vulcano Junior - Curso de extensão em Excel - 3 HAES 
+Celso Minoru Hara - Pesquisa sobre intenção de ingresso em curso superior - 4 HAES 
+Claudio Luis Vieira - Suporte aos Laboratórios de TI / Credenciamento da Fatec Campinas 
+e Atividades do Grupo de Usuários Arduino - 6 HAES 
+Enio Tadashi Nose - Revista Cientifica/Mural - 6 HAES 
+Haydée Siqueira Santos - Biblioteca – Fatec News - 6 HAES 
+Jaime Cazuhiro Ossada - Suporte ao Site Institucional - 6 HAES 
+Mônica Frigeri – Desenvolvimento das Atividades da CPA - 2 HAES 
+Nelson Koshoji - Mini curso de Python - 4 HAES 
+Sabrina Gomide Maion - Divulgação FATEC nas escolas, FATEC Portas Abertas - 4 HAES
+Sandro Pinheiro de Assis Cosso - Eventos FATEC-Campinas/ Comunicação Digital 
+8 
+HAES 
+Thiago Von Atzingen Bueno - Encerramento da Empresa Junior - 4 HAES 
+Thiago Von Atzingen Bueno - Imposto de renda – Atendimento a população 
+2 HAES 
+Vinicius Veredas - Auxiliar as aulas de química - 9 HAES 
+ 
+Além disso, há ainda a distribuição de 30 horas para supervisão de estágios de 5 cursos 
+de graduação,  
+Ainda há a atribuição de 72 HAES (12 por curso),  para orientação de Trabalho de 
+Graduação, esta, em número insuficiente para o número de alunos da unidade, e observa-se a 
+necessidade de revisão para o aumento de número de horas. 
+Para projetos futuros, previstos no Plano de gestão Anual, observa-se a necessidade de 
+autorização de mais 100 HAEs para a execução de todos os projetos previstos. 
+Na área funcional, observa-se a necessidade de contratação de caráter urgente de auxiliar 
+de docentes para todos os cursos da unidade, além de técnicos administrativos. 
+ 
+ 
+ 
+Discorrer sobre o cenário, realizando um breve diagnóstico (limitar o espaço da escrita, para que seja inserido de 
+forma suscinta). 
+APONTAMENTO DE SITUAÇÕES-PROBLEMA MAIS RELEVANTES (“Escuta”) 
+Fontes: relatório CPA, análise de processos críticos da UE, relatório de atendimento e ocorrências 
+Hórus GCom. relatório NDE, relatório de representação discente. 
+1 
+Falta de espaço físico para oferta de novos cursos; 
+ 
+6 
+Falta de manutenção predial, Infraestrutura deficitária 
+e acessibilidade inadequada; 
+2 
+Alta evasão nas turmas do período matutino; 
+ 
+7 
+Falta de equipamentos para o desenvolvimento de 
+ensino, pesquisa e extensão; 
+3 
+Sobrecarga de demandas pela falta de funcionários 
+administrativos; 
+ 
+8 
+Ausência de fomento para incentivar pesquisas 
+tecnológicas, prestação de serviços e cursos de 
+extensão; 
+4 
+Ausência de auxiliar de docente (GE, PQ, GEEE); 
+ 
+9
+Tarefas repetitivas que poderiam ser automatizadas; 
+5 
+Deficiência na comunicação com a comunidade 
+interna e externa; 
+ 
+10 
+Estudante com formação deficitária para ingressar no 
+ensino superior; 
+ 
+ 
+DEFINIÇÃO DE OBJETIVOS, METAS E AÇÕES (PROJETOS) 
+Objetivos
+1 
+Ampliar a capacidade de ofertas de novos cursos 
+2 
+Instalação de sistemas de climatização nos laboratórios de informática e nas diretorias de serviços e coordenação 
+3 
+Diminuição da evasão escolar 
+4 
+Incentivo e apoio à pesquisa 
+5 
+Melhoria na comunicação com a comunidade interna e externa 
+6 
+Buscar parcerias público-privada 
+7 
+Oferecer apoio à formação inadequada recebida pelo aluno egresso do ensino médio, por meio de 
+nivelamento, aulas de reforço e monitoria  
+8 
+Buscar, junto aos órgãos competentes, a gratuidade no transporte coletivo público 
+ 
+Os objetivos devem estar relacionados com melhoria ou ação, sobre itens do PDI. 
+Metas
+1 
+Construir um novo bloco de salas de aula 
+ 
+5 
+Solicitar aquisição de serviços permanentes de 
+manutenção predial 
+2 
+Pleitear recursos para a aquisição de sistema de 
+refrigeração 
+ 
+6 
+Aprimorar os sistemas de comunicação 
+3 
+Motivar o aluno a vencer as dificuldades de 
+aprendizagem por meio de nivelamento, monitorias e 
+palestras e minicursos 
+ 
+7 
+Solicitar contratação de novos colaboradores, 
+desenvolver projetos para suprir as demandas geradas 
+pela falta de colaboradores 
+4 
+Capacitar os docentes para novas metodologias de 
+ensino 
+ 
+8 
+Solicitar aquisição de equipamentos (bancadas 
+didáticas e mini plantas piloto) para o desenvolvimento 
+de ensino, pesquisa e extensão e prestação de 
+serviços à comunidade 
+ 
+ 
+Observar que cada meta deve ser: específica, mensurável, atingível, relevante e temporal. 
+ 
+ 
+ 
+ESTRUTURAÇÃO DAS AÇÕES/PROJETOS 
+01 - Didático-pedagógico 
+AÇÃO/PROJETO 
+A – Oferta de aulas de nivelamento 
+O que será feito: 
+Oferta de aulas de nivelamento de disciplinas em horários de pré/pós aula ou aos 
+sábados de forma a suprir a formação inadequada recebida pelo aluno 
+Por que será feito: 
+Docentes que ministram aulas de formação básica 
+Responsável(is) / CH sem: Docentes das áreas de Matemática, Comunicação e Expressão, Contabilidade, Algoritmos e 
+Eletricidade 
+Período de execução: 
+Data de início: 
+01/08/2023
+Data final: 
+31/08/2023
+Etapas do processo: 
+Divulgação das aulas de nivelamento 
+01/08/2023 
+11/08/2023 
+Atendimento ao aluno 
+14/08/2023 
+01/12/2023 
+Geração de relatório de atendimento 
+02/12/2023 
+10/12/2023 
+Avaliação diagnóstica do programa  
+11/12/2023 
+20/12/2023 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo (se houver): 
+36 Horas atividades 
+específicas 
+Fonte(s) dos recursos: 
+HAEs da unidade 
+Objetivo(s) relacionado(s): Auxiliar alunos com dificuldades para acompanhar as aulas regulares 
+Meta(s) relacionada(s): 
+Melhorar o aprendizado, diminuir a evasão escolar  
+ 
+AÇÃO/PROJETO 
+B - Aplicações de atividades diferenciadas, com a prática de metodologias ativas 
+O que será feito: 
+Aplicações de atividades diferenciadas, com a prática de metodologias ativas, como o 
+STEAM (Science, Technology, Engineering, and Mathematics) e assim demonstrando ao 
+aluno que ele próprio é o principal agente de seu aprendizado 
+Por que será feito: 
+Incentivar o aluno da necessidade de autoaprendizado e resolução de problemas de forma 
+autônoma 
+Responsável(is) / CH sem: Coordenadores
+Período de execução: 
+Data de início: 
+01/08/2023
+Data final: 
+31/12/2023
+Etapas do processo: 
+Ofertas de cursos de capacitação em metodologias ativas ofertados 
+pela CETEC-CESU 
+01/08/2023 
+31/12/2023 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+ 
+Objetivo(s) relacionado(s): Melhorar a aprendizagem de forma autônoma  
+Meta(s) relacionada(s): 
+Diminuição da evasão com aplicação de metrologias ativas 
+ 
+AÇÃO/PROJETO 
+C – Disponibilização de serviços de acompanhamento psicológico 
+O que será feito: 
+Atender e entender as dificuldades psicológicas que levam o aluno a vencer os desafios 
+Por que será feito: 
+Grande número de alunos com dificuldades psicológicas e que não tem um aconselhamento de 
+um profissional para vencer as dificuldades e leva o aluno a evasão escolar 
+Responsável(is) / CH sem: Ofertar o projeto a Docentes da área de psicologia de outras unidades 
+Período de execução: 
+Data de início: 
+01/08/2023
+Data final: 
+31/12/2023
+Etapas do processo: 
+Abertura de edital de projeto de HAE 
+15/07/2023 
+30/07/2023 
+Início de atendimento  
+01/08/2023 
+01/12/2023 
+Relatório de atendimento 
+01/12/2023 
+31/12/2023 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo (se houver): 
+20 HAE 
+Fonte(s) dos recursos: 
+ 
+Objetivo(s) relacionado(s): Melhoria da saúde mental 
+Meta(s) relacionada(s): 
+Retenção de alunos no curso 
+ 
+AÇÃO/PROJETO  
+D - Biblioteca  
+O que será feito:  
+Atendimento de alunos e professores  
+Por que será feito:  
+Falta de funcionários para manter a biblioteca aberta em todos os períodos de aula 
+Responsável(is) / CH sem: Profa. Haydée Siqueira Santos/4HAE 
+Período de execução:  
+Data de início: 
+01/02/2023 
+Data final: 
+31/07/2023 
+Etapas do processo:  
+Atendimento, empréstimo, devolução de livros e utilização da 
+biblioteca   
+01/02/2023 
+28/02/2023 
+Atendimento, empréstimo, devolução de livros e utilização da 
+biblioteca  
+01/03/2023 
+31/03/2023 
+Atendimento, empréstimo, devolução de livros e utilização da 
+biblioteca  
+01/04/2023 
+30/04/2023 
+Atendimento, empréstimo, devolução de livros e utilização da 
+biblioteca  
+01/05/2023 
+31/05/2023 
+Atendimento, empréstimo, devolução de livros e utilização da 
+biblioteca  
+01/06/2023 
+30/06/2023 
+Atendimento, empréstimo, devolução de livros e utilização da 
+biblioteca  
+01/07/2023 
+31/07/2023 
+ 
+ 
+ 
+Custo (se houver):  
+24 hae 
+Fonte(s) dos recursos:  
+ 
+Objetivo(s) relacionado(s): Possibilitar o acesso a Biblioteca em todos os períodos de funcionamento dos cursos 
+Meta(s) relacionada(s):  
+ Melhoria no atendimento aos serviços de biblioteca
+ 
+AÇÃO/PROJETO  
+F - Aquisição de livros da área de línguas (bibliografias básica e complementar) 
+O que será feito:  
+Comprar livros da área de línguas  
+Por que será feito:  
+Suprir o acervo limitado da biblioteca e garantir o acesso à bibliografia adotada 
+Responsável(is) / CH sem: Bibliotecária/o - Corpo docente 
+Período de execução:  
+Data de início: 
+dd/mm/aaaa 
+Data final: 
+dd/mm/aaaa 
+Etapas do processo:  
+ 
+dd/mm/aaaa dd/mm/aaaa 
+ 
+dd/mm/aaaa dd/mm/aaaa 
+ 
+dd/mm/aaaa dd/mm/aaaa 
+ 
+dd/mm/aaaa dd/mm/aaaa 
+ 
+dd/mm/aaaa dd/mm/aaaa 
+ 
+dd/mm/aaaa dd/mm/aaaa 
+ 
+dd/mm/aaaa dd/mm/aaaa 
+Custo (se houver):  
+ CESU pedagógico 
+Fonte(s) dos recursos:  
+ 
+Objetivo(s) relacionado(s): Ampliar o acesso da comunidade acadêmica às fontes de pesquisas disponíveis 
+Meta(s) relacionada(s):  
+Aperfeiçoamento do desempenho acadêmico-profissional dos estudantes, visando o 
+desenvolvimento da competência comunicativa discente com mais eficiência  
+ 
+AÇÃO/PROJETO  
+E - Informativo Fatec News 
+O que será feito:  
+Elaboração e publicação de Informativo divulgando os eventos, projetos, ações e parcerias 
+realizadas pela Unidade  
+Por que será feito:  
+Melhorar a comunicação interna e possibilitar maior divulgação externa 
+Responsável(is) / CH 
+sem: 
+Profa. Haydée Siqueira Santos/2HAE 
+Período de execução:  
+Data de início: 
+01/02/2023 
+Data final: 
+31/07/2023 
+Etapas do processo:  
+Compilação das notícias, elaboração e publicação do Informativo 
+01/02/2023 
+28/02/2023 
+Compilação das notícias, elaboração e publicação do Informativo 
+01/03/2023 
+31/03/2023 
+Compilação das notícias, elaboração e publicação do Informativo 
+01/04/2023 
+30/04/2023 
+Compilação das notícias, elaboração e publicação do Informativo 
+01/05/2023 
+31/05/2023 
+Compilação das notícias, elaboração e publicação do Informativo 
+01/06/2023 
+30/06/2023 
+Compilação das notícias, elaboração e publicação do Informativo 
+01/07/2023 
+31/07/2023 
+ 
+ 
+ 
+Custo (se houver):  
+2 HAE semanais 
+Fonte(s) dos 
+recursos:  
+ 
+Objetivo(s) 
+relacionado(s):  
+Aumentar a comunicação interna e possibilitar a divulgação externa dos eventos relevantes 
+realizados pela Fatec Campinas.  
+Meta(s) relacionada(s):  
+ Melhoria da comunicação interna e externa
+ 
+AÇÃO/PROJETO  
+G - Secretaria Acadêmica  
+O que será feito:  
+Atendimento a alunos, docentes e a comunidade externa 
+Por que será feito:  
+Falta de funcionários para manter a secretaria aberta em todos os períodos de aula 
+Responsável(is) / CH sem: Prof. Aparecido Carlos Bega Junior/13HAEs 
+Período de execução:  
+Data de início: 
+01/02/2023 
+Data final: 
+31/07/2023 
+Etapas do processo:  
+Atendimento a alunos, docentes e a comunidade externa.  
+01/02/2023 
+28/02/2023 
+Atendimento a alunos, docentes e a comunidade externa. 
+01/03/2023 
+31/03/2023 
+Atendimento a alunos, docentes e a comunidade externa. 
+01/04/2023 
+30/04/2023 
+Atendimento a alunos, docentes e a comunidade externa. 
+01/05/2023 
+31/05/2023 
+Atendimento a alunos, docentes e a comunidade externa. 
+01/06/2023 
+30/06/2023 
+Atendimento a alunos, docentes e a comunidade externa. 
+01/07/2023 
+31/07/2023 
+ 
+ 
+ 
+Custo (se houver):  
+13 Haes semanais 
+Fonte(s) dos recursos:  
+ 
+Objetivo(s) relacionado(s): Viabilizar o atendimento da secretaria em todos os períodos de funcionamento dos cursos. 
+Meta(s) relacionada(s):  
+Diminuir as reclamações de falta de atendimento.  
+ 
+AÇÃO/PROJETO  
+H - Eventos FATEC-Campinas 
+O que será feito:  
+Atendimento às Demandas de Eventos Acadêmicos dos Cursos de Tecnologia da FATEC Campinas. 
+Por que será feito:  
+Os eventos acadêmicos da FATEC-Campinas, alinhados com as propostas contidas nos Projetos
+Pedagógicos dos Cursos oferecidos são essenciais para aproximar os discentes do mercado de 
+trabalho e vivenciar diversas experiências que agreguem à sua formação, através de Palestras, 
+Encontros, Mesas Redondas, Rodas de Conversas, Seminários, Feira de Empregabilidade, FATEC 
+“Portas Abertas” e Feira de Estágios.  
+Responsável(is) / CH sem: Sandro Pinheiro de Assis Cosso 
+Período de execução:  
+Data de início: 
+01/02/2023 
+Data final: 
+31/07/2023 
+Etapas do processo:  
+Levantamento das Demandas junto aos Coordenadores de Cursos e 
+Direção da FATEC; Elaboração de Calendário de Eventos Acadêmicos e 
+Atividades.  
+01/02/2023 
+28/02/2023 
+Contato com Profissionais de Empresas/Instituições; 
+Contato com Agentes Integradores; Contato com Empresas e 
+Instituições para Feira de Empregabilidade; Contato com Escolas para o 
+FATEC-Campinas 
+“Porta 
+Abertas”. 
+Realização 
+dos 
+Eventos 
+Programados.  
+01/03/2023 
+31/03/2023 
+Realização dos Eventos Programados.  
+01/04/2023 
+30/04/2023 
+Realização dos Eventos Programados.  
+01/05/2023 
+31/05/2023 
+Realização dos Eventos Programados.  
+01/06/2023 
+30/06/2023 
+Elaboração de Cronograma de Eventos para o 2º Semestre.  
+01/07/2023 
+31/07/2023 
+  
+  
+  
+Custo (se houver):  
+4 HAE 
+Fonte(s) dos recursos:  
+ 
+Objetivo(s) relacionado(s): 
+Oferecer espaços transversais de formação dos alunos, cujas atividades promoverão uma visão
+ampla e sistêmica das possibilidades profissionais e acadêmicas para os discentes, com impactos
+inclusive aos professores e comunidade externa, aumentando a visibilidade da FATEC-Campinas, 
+inclusive para o seu Vestibular.  
+Meta(s) relacionada(s):  
+Promover uma visão sistêmica das possibilidades profissionais e acadêmicas para os discentes, com
+impactos aos professores e comunidade externa.  
+ 
+AÇÃO/PROJETO  
+I - Estágio Supervisionado 
+O que será feito:  
+Atendimento às Demandas de Estágio dos alunos dos cursos oferecidos na Fatec Campinas.  
+Por que será feito:  
+Para acompanhar e orientar o aluno desde a assinatura do Termo de Compromisso de Estágio com
+a empresa até a entrega do relatório final. Esse acompanhamento se faz necessário uma vez que,
+com exceção do Curso de Gestão da Energia e Eficiência Energética, para os demais cursos (Gestão 
+Empresarial, Análise e Desenvolvimento de Sistemas, Gestão da Tecnologia da Informação e
+Processos Químicos Matutino e Processos Químicos Noturno), o estágio é um componente
+curricular e, portanto, obrigatório. Mesmo os alunos de Gestão da Energia e Eficiência Energética
+buscam realizar estágios, ainda que não obrigatório, como complemento de sua formação. Além
+disso, neste projeto, buscamos ampliar o contato com Empresas e Instituições de Pesquisa da RMC,
+como forma de divulgar os cursos e, consequentemente, apresentar ao mercado o perfil dos alunos
+formados pela Fatec nas suas diferentes áreas.  
+Responsável(is) / CH sem: Docentes Supervisores de Estágio/ 6HAEs semanais por supervisor 
+Período de execução:  
+Data de início: 
+01/02/2023 
+Data final: 
+31/12/2023 
+Etapas do processo:  
+Divulgar as vagas de estágios de forma pública no mural da Fatec 
+Campinas e por e-mail.  
+01/02/2023 
+31/12/2023 
+Orientar, acompanhar os discentes na realização de contratos para
+estágio obrigatório supervisionado (e estágio obrigatório quando for o 
+caso).  
+01/02/2023  
+  
+31/12/2023  
+  
+Acompanhar, orientar e avaliar relatórios e documentos entregues 
+pelos discentes para a aprovação na disciplina “Estágio obrigatório”.  
+01/02/2023 
+31/12/2023  
+  
+Realizar contato e visita às empresas para a divulgação de vagas de 
+estágios obrigatório supervisionado.  
+01/02/2023  
+  
+31/12/2023  
+  
+Agendar visitas técnicas em Empresas, como forma de proporcionar ao 
+aluno um contato próximo com o ambiente profissional.  
+  
+  
+  
+  
+  
+  
+  
+  
+Custo (se houver):  
+30 HAEs semanais de 
+Supervisão  
+Fonte(s) dos recursos:  
+ 
+Objetivo(s) relacionado(s): 
+Auxiliar 
+os 
+alunos 
+na 
+busca 
+da 
+integralização 
+do 
+curso. 
+Divulgar a Fatec Campinas nas Empresas e Instituições de Pesquisa da RMC, abrindo possibilidades 
+de desenvolvimento de projetos em parceria.  
+Meta(s) relacionada(s):  
+ Ampliar a empregabilidade e visibilidade da instituição 
+ 
+AÇÃO/PROJETO  
+J - Desenvolvimento das atividades da Comissão Própria de Avaliação da Fatec/Campinas (CPA) 
+O que será feito:  
+ Elaborar e coordenar os processos de autoavaliação institucional, aplicação de questionários e 
+apresentação de resultados, construção do relatório anual de avaliação institucional.  
+Por que será feito:  
+ Os dados coletados e apresentados pela CPA, servem de base para o aprimoramento da estrutura
+de melhoria contínua da instituição, fornecendo informações que norteio o Plano de 
+Desenvolvimento Institucional. 
+Responsável(is) / CH sem: Equipe CPA (Mônica Frigeri)/ 2HAEs-semana  
+Período de execução:  
+Data de início: 
+01/02/2023 
+Data final: 
+31/12/2023 
+Etapas do processo:  
+Aplicação da avaliação interna com membros do corpo docente, do 
+corpo discente e funcionários (inclui-se aqui a conscientização da 
+avaliação).  
+01/02/2023 
+31/12/2023 
+Envio dos dados tabulados da avaliação interna aos docentes,
+coordenadores e direção.  
+01/02/2023 
+31/12/2023 
+Avaliação dos egressos da unidade a fim de compreender como a 
+formação tecnológica contribuiu ou está contribuindo para o seu 
+desenvolvimento profissional.  
+01/02/2023  
+  
+31/12/2023 
+Elaboração do Relatório Anual da CPA que deverá ser enviado ao 
+Centro Paula Souza e ao SINAES no início do próximo ano.  
+01/02/2023  
+  
+31/03/2023 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Custo (se houver):  
+2 HAEs semanais 
+Fonte(s) dos recursos:  
+ 
+Objetivo(s) relacionado(s): 
+1) aplicação da avaliação interna e externa (WebSAI); 2) elaboração do relatório com os dados
+tabulados para divulgação à comunidade acadêmica; 3) Elaboração do Relatório Anual da CPA ao 
+SINAES/MEC; 4) Organização do Plano de Ação em relação aos dados coletados nas avaliações; 5)
+Coleta de dados junto aos egressos.  
+Meta(s) relacionada(s):  
+Coleta de dados para avaliação institucional, desenvolvimento de ações e melhora no sistema de 
+comunicação. 
+ 
+AÇÃO/PROJETO  
+L - Orientação TCC 
+O que será feito:  
+Atendimento e orientação aos trabalhos de graduação dos alunos formandos.  
+Por que será feito:  
+Para acompanhar e orientar o aluno no desenvolvimento e escrita de seu trabalho de graduação
+final (TCC). Com esse acompanhamento, potencializar a oportunidade não só do desenvolvimento 
+do trabalho, mas a geração de futuros artigos e publicações em geral, podendo divulgar ainda mais
+a instituição  
+Responsável(is) / CH sem: Docentes  
+Período de execução:  
+Data de início: 
+01/02/2023 
+Data final: 
+31/12/2023 
+Etapas do processo:  
+Definir a parceria de orientação com o aluno.  
+01/02/2023 
+31/12/2023 
+Proporcionar encontros virtuais e presenciais para as devidas 
+orientações.  
+01/02/2023 
+31/12/2023 
+Acompanhar, orientar e avaliar documentos entregues pelos discentes 
+para a aprovação, promovendo possíveis alterações de acordo com a 
+visão técnica ligada diretamente ao tema escolhido  
+01/02/2023 
+31/12/2023 
+Avaliar possibilidade de desenvolvimento de um artigo.  
+01/02/2023 
+  
+31/12/2023 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Custo (se houver):  
+72 Haes 
+Fonte(s) dos recursos:  
+ 
+Objetivo(s) relacionado(s): Orientar discentes na construção do trabalho de graduação.  
+Meta(s) relacionada(s):  
+potencial geração de artigos e publicações em geral, podendo divulgar ainda mais a instituição 
+ 
+AÇÃO/PROJETO  
+M – Pesquisa sobre intenção de ingresso em curso superior, causas de evasão, estratégias de 
+permanência e criação de novos cursos para a unidade  
+O que será feito:  
+Estudo panorâmico e genérico sobre a demanda recente de vestibular e sobre a intenção de 
+estudantes do ensino médio de Campinas ingressarem ou não em curso superior, como base 
+futura para fundamentação de propostas de ações da FATEC Campinas, no que tange aos esforços 
+de divulgação e promoção de seus exames vestibulares e criação de novos cursos na unidade. 
+Estudos de evasão e implementação de estratégias efetivas de permanência, baseadas no legado 
+de Vincent Tinto (foco no primeiro ano de graduação).  
+Por que será feito:  
+O trabalho se justifica por tentar buscar entender o cenário que permeia as decisões dos jovens do
+ensino médio de Campinas, por prosseguir ou não no ensino superior e, respaldando-se
+parcialmente nos resultados a serem obtidos neste trabalho, em uma etapa futura, realizar ações 
+de divulgação e promoção do vestibular da unidade, de forma fundamentada, assertiva e 
+tempestiva. Especula-se que muitas ações que possivelmente todas as unidades fazem ou tentam 
+fazer, podem não dar retorno adequado quanto às inscrições obtidas, levando-se em conta os 
+esforços empreendidos, visto que tais ações talvez não atinjam as variáveis que permeiam o
+processo de decisão do jovem egresso do ensino médio. justamente na tentativa de entender
+melhor o cenário e, a partir daí, lançar ações mais embasadas, assertivas e fundamentadas, que 
+repousa a relevância deste trabalho.  
+Atendendo a outro objetivo, já que Vincent Tinto apontou a centralidade do primeiro ano de
+graduação como decisiva para a permanência ou não do estudante de nível superior (mais de 50%
+da evasão ocorre antes do início do segundo ano – isso vale para o Brasil e combina com os 
+resultados de evasão da Fatec Campinas). Portanto, é necessário criar estratégias e mecanismos
+deliberados para mitigar as insatisfações dos estudantes de graduação, já que, como espera ser
+mostrado no mencionado trabalho, no qual este projeto de HAE pretende se basear, a decisão de
+evadir não é isolada, pontual: na verdade, faz parte de um processo, por muitas vezes, demorado, 
+angustiante, em que múltiplos fatores influenciam, sobretudo: a falta de background familiar, os 
+atributos individuais e a vida pregressa – em especial a escolaridade anterior.  
+Responsável(is) / CH sem: Docentes (Celso MInoru Hara) / 4 HAEs semanais  
+Período de execução:  
+Data de início: 
+01/02/2023 
+Data final: 
+31/12/2023 
+Etapas do processo:  
+Implementação de pesquisas em campo e/ou online em terceiros anos 
+de ensino médios de escolas públicas e privadas de Campinas e 
+entorno próximo, além de ETECs na área de influência de Campinas;  
+Elaboração e implementação de questionários nos primeiros anos dos 
+cursos das Fatecs para melhor entendimento dos pontos de frustração 
+e descontentamento dos alunos, em consonância com os estudos 
+transversais de Vincent Tinto  
+Tabulação de resultados e geração de sinais e pistas de aspectos a 
+serem trabalhos no semestre ulterior em diante  
+01/02/2023 
+01/07/2023 
+Implementação das propostas mais promissoras advindas da etapa 
+anterior;  
+Criação e manutenção de rotinas por meio do ciclo PDCA, visando ao 
+aperfeiçoamento dos mecanismos da Fatec Campinas, em direção aos
+objetivos propostos.  
+01/08/2023  
+  
+31/12/2023  
+  
+Custo (se houver):  
+4 HAEs semanais 
+Fonte(s) dos recursos:  
+ 
+Objetivo(s) relacionado(s): Compartilhar resultados com outras unidades do CPS, visando ao estreitamento de relacionamento 
+e fortalecimento mútuos.  
+Meta(s) relacionada(s):  
+Ajudar a criar demanda para o ingresso em curso superior da unidade nos atuais ou novos cursos;
+criar e implementar ações visando à diminuição de evasão e focar na permanência dos alunos.  
+ 
+AÇÃO/PROJETO  
+L – Mini Curso de Excel 
+O que será feito:  
+ Conhecimento básico de Excel. 
+Por que será feito:  
+ Aprimorar conhecimento de planilha eletrônica 
+Responsável(is) / CH sem: Armando Vulcano Junior  
+Período de execução:  
+Data de início: 
+01/02/2023 
+Data final: 
+31/12/2023 
+Etapas do processo:  
+Aplicação da avaliação interna com membros do corpo docente, do 
+corpo discente e funcionários (inclui-se aqui a conscientização da 
+avaliação).  
+01/02/2023 
+31/12/2023 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Custo (se houver):  
+3 HAEs semanais 
+Fonte(s) dos recursos:  
+ 
+Objetivo(s) relacionado(s): Capacitar para o uso da planilha Excel aplicado à Gestão Empresarial.  
+Meta(s) relacionada(s):  
+ O principal  resultado  será  o  conhecimento  para  os  alunos  que  não  possuem  algum
+conhecimento  e  melhorar  a  produtividade  nas  atividades  do  curso  e  para  o  futuro profissional.
+ 
+ 
+ 
+02 – Ensino e Equipamentos Associados (Laboratórios) 
+AÇÃO/PROJETO  
+A - Gestão dos Laboratórios, apoio às aulas práticas de Química, supervisão de estagiários e 
+Responsabilidade Técnica (CRQ-IV).   
+O que será feito:  
+Gestão dos Laboratórios, Apoio nas Aulas Práticas de Química, supervisão de estagiários.
+Por que será feito:  
+Laboratórios Químicos e espaços com armazenamento de produtos químicos, por Lei tem de 
+haver um responsável técnico (RT). Durante o desempenho dessa função, será também 
+realizado a supervisão de estagiários na manipulação de reagentes e produtos químicos, bem 
+como a colaboração com os professores da Fatec-Campinas na execução de aulas práticas  
+Responsável(is) / CH 
+sem: 
+Vinicius de Veredas / 09 hs semanais. 
+Período de execução:  
+Data de início: 
+01/02/2023 
+Data final: 
+31/12/2023 
+Etapas do processo:  
+O projeto visa aplicação durante os dois semestres de 2023 
+01/02/2023 
+31/12/2023 
+Custo (se houver):  
+09 hs semanais 
+Fonte(s) dos recursos:  
+ 
+Objetivo(s) 
+relacionado(s):  
+proposta tem por objetivo desenvolver atividades gerais de gestão e manutenção dos 
+laboratórios de química da Fatec-Campinas e na orientação dos estagiários no preparo de 
+soluções, reagentes químicos e manipulação dos equipamentos, necessários desenvolvimento 
+das práticas de aulas da instituição.  
+Meta(s) relacionada(s):  
+- Orientar e acompanhar o estagiário do laboratório. 
+-Preparar soluções e equipamentos de medição e ensaios necessários para as aulas práticas  
+- Fazer gestão do estoque e validade dos reagentes, materiais e soluções  
+-Fazer a gestão da calibração dos equipamentos.  
+- Organizar o trabalho conforme normas de segurança, saúde ocupacional e preservação 
+ambiental.  
+- Auxiliar nas atividades de ensino.  
+ 
+ 
+AÇÃO/PROJETO 
+B – Suporte ao usuário 
+O que será feito: 
+Atendimento aos docentes e alunos com dificuldades nos laboratórios de informática 
+Por que será feito: 
+Observa-se diariamente diversos problemas relacionados a falta de usabilidade do usuário na 
+utilização de equipamentos de informática, problemas de senha e conectividade 
+Responsável(is) / CH sem: Claudio Luis Vieira 
+Período de execução: 
+Data de início: 
+01/02/2023
+Data final: 
+31/12/2023
+Etapas do processo: 
+Atendimento ao usuário e demandas de manutenção dos laboratórios 01/02/2023 
+31/12/2023 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo (se houver): 
+06 Hae 
+Fonte(s) dos recursos: 
+ 
+Objetivo(s) relacionado(s): Melhoria na utilização dos laboratórios de informática 
+Meta(s) relacionada(s): 
+Diminuição de chamadas de suporte 
+ 
+AÇÃO/PROJETO 
+C – Acompanhamento dos monitores 
+O que será feito: 
+Acompanhar o desempenho dos monitores de disciplinas 
+Por que será feito: 
+Verificar e acompanhar o andamento dos monitores 
+Responsável(is) / CH sem: Alexandre Mello Ferreira 4 HAEs 
+Período de execução: 
+Data de início: 
+01/02/2023
+Data final: 
+31/12/2023
+Etapas do processo: 
+Acompanhamento dos monitores 
+01/02/2023 
+31/12/2023 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo (se houver): 
+04 haes 
+Fonte(s) dos recursos: 
+ 
+Objetivo(s) relacionado(s): Verificar o atendimento dos monitores 
+Meta(s) relacionada(s): 
+Melhoria da aprendizagem 
+ 
+ 
+AÇÃO/PROJETO 
+D – Aumento do número de laboratório de informática 
+O que será feito: 
+Aumentar o número de espaço físico com computadores 
+Por que será feito: 
+Necessidade de disciplinas para o uso de computadores e internet 
+Responsável(is) / CH sem: Coordenação 
+Período de execução: 
+Data de início: 
+01/02/2023
+Data final: 
+31/12/2023
+Etapas do processo: 
+Montagem dos novos laboratórios 
+01/02/2023 
+31/12/2023 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo (se houver): 
+A realizar o levantamento 
+Fonte(s) dos recursos: 
+UGAF/UIE 
+Objetivo(s) relacionado(s): Aumentar a capacidade de atendimento a todos os cursos 
+Meta(s) relacionada(s): 
+Diminuir a evasão e aumentar o número de aulas práticas 
+ 
+AÇÃO/PROJETO 
+E – Climatização  
+O que será feito: 
+Climatizar espaços de TI, utilizados pelos alunos e professores 
+Por que será feito: 
+Desde a inauguração da Fatec Campinas, foram realizadas diversas tratativas para aquisição dos 
+equipamentos e isso já perdura 9 anos.   
+Responsável(is) / CH sem: Diretoria de serviços administrativos 
+Período de execução: 
+Data de início: 
+01/02/2023
+Data final: 
+31/12/2023
+Etapas do processo: 
+Realização do estudo para aquisição do equipamento 
+01/02/2023 
+31/03/2023 
+Solicitação da realização do pregão 
+01/04/2023 
+30/04/2023 
+Aquisição do equipamento 
+01/05/2023 
+31/05/2023 
+Instalação do equipamento 
+01/06/2023 
+31/07/2023 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo (se houver): 
+A realizar o levantamento 
+Fonte(s) dos recursos: 
+UGAF/UIE 
+Objetivo(s) relacionado(s): Melhoria do conforto ambiental 
+Meta(s) relacionada(s): 
+Diminuir a evasão e aumentar o conforto ambiental 
+ 
+AÇÃO/PROJETO 
+F – Ampliação da unidade 
+O que será feito: 
+Criação de mais um bloco com a instalação de 40 novos espaços  
+Por que será feito: 
+A Fatec Campinas atingiu a ocupação máxima de oferta de cursos no período noturno e observa-
+se, pela demanda do Vestibular que há grande potencial para a oferta de novos cursos. 
+Responsável(is) / CH sem: Diretoria de serviços administrativos 
+Período de execução: 
+Data de início: 
+01/02/2023
+Data final: 
+31/12/2025
+Etapas do processo: 
+Realização do estudo junto a Engenharia da NR3 
+01/02/2023 
+31/06/2023 
+Comunicar a UIE para realização da ampliação 
+01/07/2023 
+01/08/2023 
+Projeto de engenharia 
+01/08/2023 
+31/12/2023 
+Construção 
+01/01/2024 
+31/12/2026 
+Entrega 
+ 
+31/12/2026 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo (se houver): 
+A realizar o levantamento 
+Fonte(s) dos recursos: 
+UGAF/UIE 
+Objetivo(s) relacionado(s): Aumentar a oferta de novos cursos 
+Meta(s) relacionada(s): 
+Atender a população na cidade de Campinas 
+ 
+ 
+ 
+03 – Pesquisa / Extensão e Equipamentos Associados 
+AÇÃO/PROJETO  
+A - Implantação de pós-graduação 
+O que será feito:  
+Proposta, desenvolvimento e implantação de curso de pós-graduação na IES 
+Por que será feito:  
+Demanda de mercado e de egressos 
+Responsável(is) / CH sem:  Valter Castelhano de Oliveira
+Período de execução:  
+Data de início: 
+01/02/2023 
+Data final: 
+31/12/2024 
+Etapas do processo:  
+Definição e planejamento detalhado do curso 
+01/02/2023 
+01/03/2023 
+Aprovações (Congregação, CESU, Conselho) 
+01/03/2023 
+01/05/2023 
+Organização do curso (acadêmica e marketing) 
+01/05/2023 
+01/07/2023 
+Divulgação do curso 
+01/05/2023 
+01/08/2023 
+Inscrições, seleção e matrícula 
+15/06/2023 
+01/08/2023 
+Realização disciplinas 
+01/08/2023 
+01/08/2024 
+Monografias 
+01/08/2024 
+31/12/2024 
+Custo (se houver):  
+4 HAES semanais + Custos 
+projeto (coberto pelas 
+mensalidades)  
+Fonte(s) dos recursos:  
+Mensalidade alunos 
+Objetivo(s) relacionado(s):  
+Meta(s) relacionada(s):  
+ 
+ 
+AÇÃO/PROJETO  
+B - Fortalecimento e editoração das Revistas Científicas 
+O que será feito:  
+Adequação das Revistas às melhores práticas e indexação 
+Por que será feito:  
+Atualmente as revistas não possuem Qualis/CAPES  
+Responsável(is) / CH sem: Enio Tadashi Nose 
+Período de execução:  
+Data de início: 
+01/02/2023 
+Data final: 
+31/12/2023 
+Etapas do processo:  
+Remodelagem da Revista Brasileira em Tecnologia da Informação 
+01/02/2023 
+31/07/2023 
+Remodelagem da Revista Brasileira de Processos Químicos 
+01/02/2023 
+31/07/2023 
+Indexação da Revista Brasileira em Tecnologia da Informação 
+01/05/2023 
+31/12/2023 
+Indexação da Revista Brasileira de Processos Químicos 
+01/05/2023 
+31/12/2023 
+Chamada de Artigos para ambas as revistas 
+01/02/2023 
+31/12/2023 
+Custo (se houver):  
+6 HAES Semanais 
+Fonte(s) dos recursos:  
+ 
+Objetivo(s) relacionado(s):  
+Meta(s) relacionada(s):  
+ 
+ 
+AÇÃO/PROJETO  
+C -  Curso de Iniciação de Programação utilizando a Linguagem Python para a Comunidade
+O que será feito:  
+Promover para a comunidade a oportunidade de aprender a programar usando uma das 
+linguagens de programação mais populares atualmente. Será oferecido aulas de programação 
+utilizando Python e os participantes trabalharão em uma série de exercícios práticos de 
+programação e projetos que os ajudarão a aplicar os conceitos que aprenderam e desenvolver 
+suas habilidades de programação 
+Por que será feito:  
+Promover a alfabetização digital: na era digital de hoje, a capacidade de programar está se 
+tornando cada vez mais importante. Capacitar indivíduos: aprender a programar pode abrir um 
+mundo de oportunidades no atual cenário do mercado. Promover o envolvimento da 
+comunidade: reunir as pessoas em torno de um interesse comum em programação e tecnologia. 
+Melhorar a empregabilidade: as habilidades de programação estão em alta demanda no 
+momento. 
+Responsável(is) / CH 
+sem: 
+Nelson Hideyoshi Koshoji  - 04 haes 
+Período de execução:  
+Data de início: 
+01/02/2023 
+Data final: 
+30/12/2023 
+Etapas do processo:  
+Divulgação para a Comunidade
+01/03/2023
+19/03/2023
+Introdução ao curso
+20/03/2023
+31/03/2023
+Lógica de programação, variáveis, operadores aritméticos, 
+relacionais e lógicos 
+01/04/2023
+30/04/2023
+Estruturas sequencial, condicionais e repetição
+01/05/2023
+31/05/2023
+Funções e vetores
+01/06/2023
+30/06/2023
+Programação para a 2ª turma no 2º semestre do ano
+1/8/2023
+30/12/2023
+Custo (se houver):  
+04 hs semanais 
+Fonte(s) dos 
+recursos: 
+ 
+Objetivo(s) 
+relacionado(s):  
+O objetivo deste curso é fornecer aos participantes uma base nos conceitos fundamentais em 
+lógica e programação, bem como uma compreensão prática de como escrever programas básicos 
+usando a linguagem de programação Python. Ao final deste curso, os participantes devem ser 
+capazes de escrever programas Python simples que usam variáveis, instruções condicionais, loops 
+e funções. Além de começar a entender a importância da programação na sociedade moderna. 
+Meta(s) relacionada(s):  
+ 
+ 
+AÇÃO/PROJETO  
+D - Inclusão Digital na 3ª Idade 
+O que será feito:  
+Oferecer cursos para a comunidade externa da 3ª idade 
+Por que será feito:  
+Incluir as pessoas da 3ª idade no cenário digital;
+Responsável(is) / CH 
+sem: 
+Docente da Instituição- 04 haes 
+Período de execução:  
+Data de início: 
+01/02/2023 
+Data final: 
+30/12/2023 
+Etapas do processo:  
+Divulgação do projeto para comunidade. Inscrição; 
+01/03/2023
+30/03/2023
+Conhecimento de como funciona um equipamento de 
+informática (micro computador)  
+01/04/2023
+15/04/2023
+ 
+Aprendizado de utilização do mouse (Conhecimento 
+do aplicativo PAINT e utilização do mouse)  
+16/04/2023
+30/04/2023
+ 
+Conceitos de Janelas e aplicativos do Windows  
+01/05/2023
+14/05/2023
+Funcionamento da Internet  
+15/05/2023
+30/05/2023
+Aplicativos Web  
+01/06/2023
+30/06/2023
+Custo (se houver):  
+04 hs semanais 
+Fonte(s) dos 
+recursos:
+ 
+Objetivo(s) 
+relacionado(s): 
+Melhorar a comunicação com a comunidade externa
+Meta(s) relacionada(s):  
+Aumentar a captação de alunos 
+ 
+ 
+AÇÃO/PROJETO  
+E - Grupos de Pesquisa 
+O que será feito:  
+Criação de Grupos de Pesquisa e adesão dos alunos e docentes 
+Por que será feito:  
+Melhorar a pesquisa da Fatec Campinas, gerando mais engajamento dos alunos e possíveis 
+parcerias.  
+Responsável(is) / CH sem: Enio Tadashi Nose 
+Período de execução:  
+Data de início: 
+01/03/2023 
+Data final: 
+31/12/2023 
+Etapas do processo:  
+Criação do Grupo 
+01/03/2023 
+31/03/2023 
+Registro do Grupo na CAPES 
+01/04/2023 
+31/04/2023 
+Fomentar as pesquisas na Fatec Campinas 
+01/04/2023 
+31/12/2023 
+Elaboração do mínimo 3 pesquisas para publicação 
+01/04/2023 
+31/12/2023 
+Parcerias com Grupos de Pesquisas Externos 
+01/04/2023 
+31/12/2023 
+Custo (se houver):  
+ 06 Haes
+Fonte(s) dos recursos:  
+ 
+Objetivo(s) relacionado(s): Incentivar a pesquisa tecnológica 
+Meta(s) relacionada(s):  
+  Aumentar a presença da Fatec Campinas na comunidade acadêmica 
+ 
+ 
+04 – Atividades Formativas em Projetos (nível tático) 
+ 
+AÇÃO/PROJETO 
+A - Utilização da impressora 3D para projetos de iniciação científica (Espaço maker) 
+O que será feito: 
+Construção de componentes de uma torre de resfriamento para estudos relacionados a 
+transferência de calor e massa entre os fluidos: água e ar atmosférico 
+Por que será feito: 
+Pesquisa aplicada de estudante de iniciação científica a ser desenvolvida durante o ano de 2023 
+Responsável(is) / CH sem: Fernando de Lima Camargo 
+Período de execução: 
+Data de início: 
+01/02/2023
+Data final: 
+20/11/2023
+Etapas do processo: 
+Planejamento e preparação do material
+01/02/2023
+19/03/2023
+Treinamento e operação da impressora 3D
+20/03/2023
+31/03/2023
+Construção dos componentes
+01/04/2023
+20/11/2023
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+ 
+Objetivo(s) relacionado(s): Capacitar o aluno para utilizar a impressora 3D, empregando a metodologia ativa de 
+aprendizagem baseada em problema. 
+Meta(s) relacionada(s): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+05 – Infraestrutura (instalações prediais) 
+AÇÃO/PROJETO  
+ 
+O que será feito:  
+Aquisição de 4 carrinhos de utilidade
+Por que será feito:  
+Para ser utilizado na Unidade de Ensino como transporte de materiais e equipamentos
+Responsável(is) / CH 
+sem:   
+Aparecido Carlos Bega Junior 
+Período de 
+execução:   
+Data de início:
+01/04/2023
+Data final:
+31/12/2023
+Etapas do processo:   
+Pesquisa de preço
+02/01/2023
+31/12/2023
+Formulação do pedido 
+02/01/2023
+31/12/2023
+Licitação
+02/01/2023
+31/12/2023
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+Custo (se houver):   
+R$ 4.000,00
+Fonte(s) dos 
+recursos:   
+  
+Objetivo(s) 
+relacionado(s):   
+ 
+Meta(s) 
+relacionada(s):   
+ 
+ 
+ 
+AÇÃO/PROJETO  
+ 
+O que será feito:  
+Aquisição de 4 carrinhos de prateleiras para laboratórios
+Por que será feito:   
+Para ser utilizado como transporte de vidrarias, reagentes e materiais em geral de 
+laboratório.  
+Responsável(is) / CH 
+sem:   
+Aparecido Carlos Bega Junior 
+Período de 
+execução:   
+Data de início:
+01/04/2023
+Data final:
+31/12/2023
+Etapas do processo:   
+Pesquisa de preço
+02/01/2023
+31/12/2023
+Formulação do pedido 
+02/01/2023
+31/12/2023
+Licitação
+02/01/2023
+31/12/2023
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+Custo (se houver):   
+R$ 6.000,00
+Fonte(s) dos 
+recursos:   
+  
+Objetivo(s) 
+relacionado(s):   
+ 
+Meta(s) 
+relacionada(s):   
+  
+   
+AÇÃO/PROJETO  
+ 
+O que será feito:  
+Aquisição de 1 lavadora
+Por que será feito:  
+Para ser utilizada para lavagem periódica de becas, jalecos e guardanapos. 
+Responsável(is) / CH 
+sem:   
+Aparecido Carlos Bega Junior 
+Período de 
+execução:   
+Data de início:
+01/04/2023
+Data final:
+31/12/2023
+Etapas do processo:   
+Pesquisa de preço
+02/01/2023
+31/12/2023
+Formulação do pedido 
+02/01/2023
+31/12/2023
+Licitação
+02/01/2023
+31/12/2023
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+Custo (se houver):   
+R$ 2.500,00
+Fonte(s) dos 
+recursos:   
+  
+Objetivo(s) 
+relacionado(s):   
+ 
+Meta(s) 
+relacionada(s):   
+  
+   
+AÇÃO/PROJETO  
+ 
+O que será feito:  
+Aquisição de 6 quadros magnéticos para laboratório 
+Por que será feito:   
+Porque são recursos pedagógicos indispensáveis para a prática do ensino, pois serão 
+utilizados para a exposição das aulas teóricas dos conteúdos das disciplinas. 
+Responsável(is) / CH 
+sem:   
+Aparecido Carlos Bega Junior 
+Período de 
+execução:   
+Data de início:  
+02/01/2023
+Data final:  
+ 
+Etapas do processo:   
+Pesquisa de preço
+02/01/2023
+31/12/2023
+Formulação do pedido 
+02/01/2023
+31/12/2023
+Licitação
+02/01/2023
+31/12/2023
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+Custo (se houver):   
+R$ 7.200,00
+Fonte(s) dos 
+recursos:   
+  
+Objetivo(s) 
+relacionado(s):   
+ 
+Meta(s) 
+relacionada(s):   
+  
+   
+AÇÃO/PROJETO  
+ 
+O que será feito:  
+Aquisição de 6 racks 
+Por que será feito:  
+Para organizar e proteger os cabos de redes e os switches.
+Responsável(is) / CH 
+sem:   
+Aparecido Carlos Bega Junior 
+Período de 
+execução:   
+Data de início:
+01/04/2023
+Data final:
+31/12/2023
+Etapas do processo:   
+Pesquisa de preço
+02/01/2023
+31/12/2023
+Formulação do pedido 
+02/01/2023
+31/12/2023
+Licitação
+02/01/2023
+31/12/2023
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+Custo (se houver):   
+R$ 8.000,00
+Fonte(s) dos 
+recursos:   
+  
+Objetivo(s) 
+relacionado(s):   
+ 
+Meta(s) 
+relacionada(s):   
+  
+  
+AÇÃO/PROJETO  
+ 
+O que será feito:  
+24 pontos de acesso e 1 appliance 
+Por que será feito:  
+Para otimizar a internet sem fio da Unidade de Ensino.
+Responsável(is) / CH 
+sem:   
+Aparecido Carlos Bega Junior 
+Período de 
+execução:   
+Data de início:
+01/04/2023
+Data final:
+31/12/2023
+Etapas do processo:   
+Pesquisa de preço
+02/01/2023
+31/12/2023
+Formulação do pedido 
+02/01/2023
+31/12/2023
+Licitação
+02/01/2023
+31/12/2023
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+Custo (se houver):   
+R$ 32.000,00
+Fonte(s) dos 
+recursos:   
+  
+Objetivo(s) 
+relacionado(s):   
+ 
+Meta(s) 
+relacionada(s):   
+  
+   
+AÇÃO/PROJETO  
+ 
+O que será feito:  
+100 discos rígidos
+Por que será feito:  
+Para melhorar o funcionamento dos computadores.
+Responsável(is) / CH 
+sem:   
+Aparecido Carlos Bega Junior 
+Período de 
+execução:   
+Data de início:
+01/04/2023
+Data final:
+31/12/2023
+Etapas do processo:   
+Pesquisa de preço
+02/01/2023
+31/12/2023
+Formulação do pedido 
+02/01/2023
+31/12/2023
+Licitação
+02/01/2023
+31/12/2023
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+Custo (se houver):   
+R$ 30.000,00
+Fonte(s) dos 
+recursos:   
+  
+Objetivo(s) 
+relacionado(s):   
+ 
+Meta(s) 
+relacionada(s):   
+  
+   
+AÇÃO/PROJETO  
+ 
+O que será feito:  
+Osciloscópio 
+Por que será feito:  
+Para uso em aulas práticas. 
+Responsável(is) / CH 
+sem:   
+Aparecido Carlos Bega Junior 
+Período de 
+execução:   
+Data de início:
+01/04/2023
+Data final:
+31/12/2023
+Etapas do processo:   
+Pesquisa de preço
+02/01/2023
+31/12/2023
+Formulação do pedido 
+02/01/2023
+31/12/2023
+Licitação
+02/01/2023
+31/12/2023
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+Custo (se houver):   
+ 
+Fonte(s) dos 
+recursos:   
+  
+Objetivo(s) 
+relacionado(s):   
+ 
+Meta(s) 
+relacionada(s):   
+  
+   
+AÇÃO/PROJETO  
+ 
+O que será feito:  
+Evaporador Rotativo  
+Por que será feito:  
+Para uso em aulas práticas. 
+Responsável(is) / CH 
+sem:   
+Aparecido Carlos Bega Junior 
+Período de 
+execução:   
+Data de início:
+01/04/2023
+Data final:
+31/12/2023
+Etapas do processo:   
+Pesquisa de preço
+02/01/2023
+31/12/2023
+Formulação do pedido 
+02/01/2023
+31/12/2023
+Licitação
+02/01/2023
+31/12/2023
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+Custo (se houver):   
+ 
+Fonte(s) dos 
+recursos:   
+  
+Objetivo(s) 
+relacionado(s):   
+ 
+Meta(s) 
+relacionada(s):   
+  
+   
+AÇÃO/PROJETO  
+ 
+O que será feito:  
+Aplicação de elemento quebra-luz (película) no prédio 
+Por que será feito:  
+Amenizar o calor do ambiente e proteger os bens contra os raios solares.  
+Responsável(is) / CH 
+sem:   
+Aparecido Carlos Bega Junior 
+Período de 
+execução:   
+Data de início:
+01/04/2023
+Data final:
+31/12/2023
+Etapas do processo:   
+Pesquisa de preço
+02/01/2023
+31/12/2023
+Formulação do pedido 
+02/01/2023
+31/12/2023
+Licitação
+02/01/2023
+31/12/2023
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+Custo (se houver):   
+ 
+Fonte(s) dos 
+recursos:   
+  
+Objetivo(s) 
+relacionado(s):   
+ 
+Meta(s) 
+relacionada(s):   
+  
+   
+AÇÃO/PROJETO  
+ 
+O que será feito:  
+Instalação de cobertura (toldo)  
+Por que será feito:  
+Para proteção contra chuva e sol.  
+Responsável(is) / CH 
+sem:   
+Aparecido Carlos Bega Junior 
+Período de 
+execução:   
+Data de início:
+01/04/2023
+Data final:
+31/12/2023
+Etapas do processo:   
+Pesquisa de preço
+02/01/2023
+31/12/2023
+Formulação do pedido 
+02/01/2023
+31/12/2023
+Licitação
+02/01/2023
+31/12/2023
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+Custo (se houver):   
+ 
+Fonte(s) dos 
+recursos:   
+  
+Objetivo(s) 
+relacionado(s):   
+ 
+Meta(s) 
+relacionada(s):   
+  
+  
+  
+AÇÃO/PROJETO  
+ 
+O que será feito:  
+Laboratório de informática no térreo para PcD  
+Por que será feito:  
+Incluir um laboratório acessível para alunos cadeirantes no térreo. 
+Responsável(is) / CH 
+sem:   
+Aparecido Carlos Bega Junior 
+Período de 
+execução:   
+Data de início:
+01/04/2023
+Data final:
+31/12/2023
+Etapas do processo:   
+Pesquisa de preço
+02/01/2023
+31/12/2023
+Formulação do pedido 
+02/01/2023
+31/12/2023
+Licitação
+02/01/2023
+31/12/2023
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+Custo (se houver):   
+R$ 30.000,00
+Fonte(s) dos 
+recursos:   
+  
+Objetivo(s) 
+relacionado(s):   
+ 
+Meta(s) 
+relacionada(s):   
+  
+   
+AÇÃO/PROJETO  
+ 
+O que será feito:  
+Mesa granito e armário para o auditório   
+Por que será feito:  
+Para acomodar integrantes à mesa e guardar equipamentos e materiais nos armários.
+Responsável(is) / CH 
+sem:   
+Aparecido Carlos Bega Junior 
+Período de execução:   
+Data de 
+início: 
+01/04/2023
+Data final:
+31/12/2023
+Etapas do processo:   
+Pesquisa de preço
+02/01/2023
+31/12/2023
+Formulação do pedido 
+02/01/2023
+31/12/2023
+Licitação
+02/01/2023
+31/12/2023
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+Custo (se houver):   
+ 
+Fonte(s) dos 
+recursos:   
+  
+Objetivo(s) 
+relacionado(s):   
+ 
+Meta(s) relacionada(s):  
+  
+   
+AÇÃO/PROJETO  
+ 
+O que será feito:  
+Fechamento da cantina com portas de esquadria    
+Por que será feito:   
+Para proteção contra chuvas e manter o ambiente seguro, além de conservar os 
+bens patrimoniais.  
+Responsável(is) / CH 
+sem:   
+Aparecido Carlos Bega Junior 
+Período de execução:   
+Data de 
+início: 
+01/04/2023
+Data final:
+31/12/2023
+Etapas do processo:   
+Pesquisa de preço
+02/01/2023
+31/12/2023
+Formulação do pedido 
+02/01/2023
+31/12/2023
+Licitação
+02/01/2023
+31/12/2023
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+Custo (se houver):   
+ 
+Fonte(s) dos 
+recursos:   
+  
+Objetivo(s) 
+relacionado(s):   
+ 
+Meta(s) relacionada(s):  
+ 
+  
+AÇÃO/PROJETO  
+ 
+O que será feito:  
+Fechamento dos vãos das escadas com tela de proteção
+Por que será feito:  
+Para proteção contra acidentes fatais.
+Responsável(is) / CH 
+sem:   
+Aparecido Carlos Bega Junior 
+Período de execução:   
+Data de 
+início: 
+01/04/2023
+Data final:
+31/12/2023
+Etapas do processo:   
+Pesquisa de preço
+02/01/2023
+31/12/2023
+Formulação do pedido 
+02/01/2023
+31/12/2023
+Licitação
+02/01/2023
+31/12/2023
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+Custo (se houver):   
+ 
+Fonte(s) dos 
+recursos:   
+  
+Objetivo(s) 
+relacionado(s):   
+ 
+Meta(s) relacionada(s):  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+AÇÃO/PROJETO  
+ 
+O que será feito:   
+Instalação de prateleiras de granito no depósito para armazenamento de reagentes 
+utilizados.  
+Por que será feito:  
+Armazenamento dos materiais. 
+Responsável(is) / CH 
+sem:   
+Aparecido Carlos Bega Junior 
+Período de execução:   
+Data de 
+início: 
+01/04/2023
+Data final:
+31/12/2023
+Etapas do processo:   
+Pesquisa de preço
+02/01/2023
+31/12/2023
+Formulação do pedido 
+02/01/2023
+31/12/2023
+Licitação
+02/01/2023
+31/12/2023
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+Custo (se houver):   
+ 
+Fonte(s) dos 
+recursos:   
+  
+Objetivo(s) 
+relacionado(s):   
+ 
+Meta(s) relacionada(s):  
+  
+ 
+AÇÃO/PROJETO 
+C - Aquisição de cobertura contra chuva na edificação 
+O que será feito: 
+Cobertura contra chuva do portão de entrada até a entrada principal do prédio 
+Por que será feito: 
+Diretoria de serviços administrativos 
+Responsável(is) / CH sem: Jéssica CInthia Silva 
+Período de execução: 
+Data de início: 
+01/04/2023
+Data final: 
+31/12/2023
+Etapas do processo: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+ 
+Objetivo(s) relacionado(s): 
+Meta(s) relacionada(s): 
+ 
+ 
+ 
+ 
+ 
+06 - Desenvolvimento de pessoas (docentes e servidores) 
+ 
+AÇÃO/PROJETO 
+A - Divulgação dos cursos de capacitação CETEC-CESU 
+O que será feito: 
+Melhorar a divulgação dos cursos de capacitação do CPS
+Por que será feito: 
+Necessidade de atualizar docentes e servidores 
+Responsável(is) / CH sem: COORDENAÇÃO DE CURSOS 
+Período de execução: 
+Data de início: 
+01/04/2023
+Data final: 
+31/12/2023
+Etapas do processo: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+ 
+Objetivo(s) relacionado(s): Atualizar docentes e servidores para atualização profissional 
+Meta(s) relacionada(s): 
+Melhoria na apresentação de conteúdos na sala de aula, melhor atendimento ao público, 
+evolução funcional. 
+ 
+ 
+ 
+ 
+ 
+ 
+07 – Convênios e Parcerias Institucionais 
+AÇÃO/PROJETO  
+A - Remodelagem do site institucional 
+O que será feito:  
+Remodelar o site institucional da Fatec Campinas de modo a atingir potencialmente o público-alvo, 
+com design atraente e fácil de usar.  
+Por que será feito:  
+Para atendimento da comunidade externa por busca de informações da instituição. 
+Responsável(is) / CH sem: Jaime Cazuhiro Ossada 
+Período de execução:  
+Data de início: 
+07/02/2022 
+Data final: 
+31/12/2023 
+Etapas do processo:  
+Análise do Público-alvo 
+07/02/2023 
+07/03/2023 
+Pesquisa de concorrência: Analisar as estratégias e características dos 
+sites de concorrentes para identificar oportunidades e pontos fortes.  
+08/03/2023 
+15/03/2023 
+Análise do site atual: Revisar o site atual para identificar o que está 
+funcionando bem e o que precisa ser melhorado  
+16/03/2023 
+31/03/2023 
+Definição da estratégia de design: Definir a estratégia de design, 
+incluindo a escolha de cores, tipografia, imagens e layout.  
+01/04/2023 
+30/04/2023 
+Desenvolvimento do conteúdo: Criar ou atualizar o conteúdo do site 
+para torná-lo relevante, informativo e atraente para os visitantes.  
+01/05/2023 
+31/09/2023 
+Otimização para mecanismos de busca (SEO): Implementar técnicas de 
+SEO para garantir que o site seja facilmente encontrado nos resultados 
+de busca.  
+01/10/2023 
+15/10/2023 
+Lançamento: Lançar o site remodelado e monitorar o desempenho para 
+identificar pontos de melhoria futura.  
+16/10/2023 
+31/12/2023 
+Custo (se houver):  
+06 Haes 
+Fonte(s) dos recursos:  
+ 
+Objetivo(s) relacionado(s): Melhoria da comunicação, otimizar e facilitar a busca de informação do público externo 
+Meta(s) relacionada(s):  
+Aumento da demanda do vestibular 
+ 
+ 
+AÇÃO/PROJETO  
+B – Atendimento às Demandas de Comunicação Digital Interna e Externa através de Produção de 
+Artes Digitais para os Eventos, Campanhas e Vestibular da FATEC Campinas e divulgação nas Redes 
+Sociais da Unidade.  
+O que será feito:  
+Desenvolver artes digitais através de Software Específico (Canva) para todas as artes dos Eventos, 
+Campanhas e Vestibular da FATEC-Campinas  
+Por que será feito:  
+Melhoria do processo de comunicação interna e externa da FATEC-Campinas 
+Responsável(is) / CH sem: Sandro Pinheiro de Assis Cosso 
+Período de execução:  
+Data de início: 
+01/02/2023 
+Data final: 
+31/07/2023 
+Etapas do processo:  
+Receber, elaborar artes digitais para divulgação nos meios digitais
+(correio eletrônico e redes sociais).  
+01/02/2023 
+28/02/2023 
+Receber, elaborar artes digitais para divulgação nos meios digitais 
+(correio eletrônico e redes sociais).  
+01/03/2023 
+3103/2023  
+Receber, elaborar artes digitais para divulgação nos meios digitais
+(correio eletrônico e redes sociais).  
+01/04/2023 
+30/04/2023 
+Receber, elaborar artes digitais para divulgação nos meios digitais
+(correio eletrônico e redes sociais).  
+01/05/2023 
+31/05/2023 
+Receber, elaborar artes digitais para divulgação nos meios digitais
+(correio eletrônico e redes sociais).  
+01/06/2023 
+30/06/2023 
+Receber, elaborar artes digitais para divulgação nos meios digitais
+(correio eletrônico e redes sociais).  
+01/07/2023 
+31/07/2023 
+  
+  
+  
+Custo (se houver):  
+04 HAE 
+Fonte(s) dos recursos:  
+ 
+Objetivo(s) relacionado(s): Aperfeiçoar o processo de comunicação digital interna e externa da FATEC Campinas através das 
+mídias sociais da Unidade.   
+Meta(s) relacionada(s):  
+Aperfeiçoamento da Comunicação Digital  
+ 
+ 
+AÇÃO/PROJETO  
+C - Parcerias com bibliotecas das universidades públicas estaduais 
+O que será feito:  
+Facilitar o acesso de docentes e estudantes ao acervo dessas instituições 
+Por que será feito:  
+Suprir o acervo limitado da biblioteca 
+Responsável(is) / CH sem: Bibliotecária/o - Corpo docente 
+Período de execução:  
+Data de início: 
+Prazo indeterminado Data final: 
+Prazo indeterminado
+Etapas do processo:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo (se houver):  
+ 06
+Fonte(s) dos recursos:  
+ 
+Objetivo(s) relacionado(s): Ampliar o acesso da comunidade acadêmica às fontes de pesquisas disponíveis 
+Meta(s) relacionada(s):  
+Aperfeiçoamento do desempenho acadêmico-profissional dos estudantes, visando o 
+desenvolvimento da competência científica discente de forma ágil   
+ 
+AÇÃO/PROJETO  
+D – Projetos Colaborativos Internacionais - PCIs 
+O que será feito:  
+Realização de projetos em parceria com alunos de universidades estrangeiras 
+Por que será feito:  
+Desenvolvimento das habilidades linguísticas dos estudantes  
+Responsável(is) / CH sem: Docentes de línguas materna e estrangeiras  
+Período de execução:  
+Data de início: 
+semestral 
+Data final: 
+semestral 
+Etapas do processo:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo (se houver):  
+ 06 HAE
+Fonte(s) dos recursos:  
+ 
+Objetivo(s) relacionado(s): Desenvolver a língua estrangeira, utilizar novas tecnologias de comunicação e trocar experiências 
+culturais  
+Meta(s) relacionada(s):  
+Aprimoramento das competências linguístico-comunicativas do aluno, bem como prepará-lo para 
+atuar no mercado globalizado  
+ 
+ 
+AÇÃO/PROJETO  
+E – Comunicação com Discentes 
+O que será feito:  
+Melhora no processo de comunicação com discentes 
+Por que será feito:  
+Criação de Mural por Curso, Institucional e de TG 
+Responsável(is) / CH sem: Enio Tadashi Nose 
+Período de execução:  
+Data de início: 
+01/03/2023 
+Data final: 
+31/12/2023 
+Etapas do processo:  
+Definição dos locais de murais dos cursos 
+01/03/2023 
+20/03/2023 
+Pintura e identificação dos murais 
+21/03/2023 
+30/04/2023 
+Comunicação com Discentes 
+15/04/2023 
+30/06/2023 
+Comunicação com Docentes 
+15/04/2023 
+30/06/2023 
+Acompanhamento da utilização dos quadros de avisos 
+15/04/2023 
+31/12/2023 
+Custo (se houver):  
+ 04 HAE
+ 
+Fonte(s) dos recursos:  
+ 
+Objetivo(s) relacionado(s):  
+Meta(s) relacionada(s):  
+ 
+ 
+AÇÃO/PROJETO  
+F – Divulgação da FATEC nas Escolas, FATEC Portas Abertas  
+O que será feito:  
+Divulgação e apresentação da FATEC Campinas para a comunidade externa, principalmente aos 
+alunos do 3º ano do ensino médio.  
+Por que será feito:  
+Dar visibilidade aos cursos oferecidos pela FATEC Campinas  
+Responsável(is) / CH 
+sem: 
+Sabrina Gomide Maion 
+Período de execução:  
+Data de início: 
+01/03/2023 
+Data final: 
+31/12/2023 
+Etapas do processo:  
+Organização de material juntos aos cursos 
+01/03/2023 
+30/03/2023  
+Levantamento das escolas de ensino médio para a visitação 
+01/04/2023 
+15/04/2023 
+Organização do FATEC Portas Abertas 
+01/05/2023 
+15/05/2023 
+Visita nas escolas da região 
+16/05/2023 
+30/11/2023 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo (se houver):  
+ 04 HAE
+ 
+Fonte(s) dos recursos:  
+ 
+Objetivo(s) 
+relacionado(s): 
+ 
+Meta(s) relacionada(s):  
+ 
+ 
+ 
+ 
+ETAPA II – APROVAÇÃO E HOMOLOGAÇÃO 
+ 
+APROVAÇÃO DO PGA PELA CONGREGAÇÃO DA UE 
+Envio da Ata de aprovação 
+Ata assinada (.pdf) 
+Anexado no email 
+Data da aprovação: 
+14/05/2023
+Data do envio: 
+14/03/2023 
+ 
+PARECER DA CESU 
+Data: 
+dd/mm/aaaa
+Aprovado? 
+(   ) Sim                      (   ) Não 
+Se não aprovado, devolvido para adequação, com prazo para revisão até: 
+dd/mm/aaaa
+Parecer: 
+ 
+ 
+ 
+ 
+ETAPA III – ACOMPANHAMENTO DAS AÇÕES GERENCIAIS 
+RELATÓRIO DE ACOMPANHAMENTO DE PROJETO (MENSAL) 
+Status mensal do projeto
+Identificação do Projeto 
+(automático) 
+Data: 
+dd/mm/aaaa 
+Situação: 
+(   ) Em andamento                            
+Previsão de término: 
+dd/mm/aaaa 
+Justificativa: 
+ 
+(   ) Ainda não foi iniciado                  
+Previsão de início: 
+dd/mm/aaaa 
+Justificativa: 
+ 
+(   ) Cancelado (antes do início) 
+Data: 
+dd/mm/aaaa 
+Justificativa: 
+ 
+(   ) Suspenso (interrompido após 
+iniciado) 
+Data: 
+dd/mm/aaaa 
+Justificativa: 
+ 
+(   ) Concluído 
+Data da conclusão: 
+dd/mm/aaaa 
+Resultados: 
+ 
+ 
+Intercorrências: 
+ 
+ 
+Observação: 
+ 
+ 
+Meta(s) alcançada(s) 
+(aparecer a meta automaticamente, conforme indicada no projeto para a indicação do percentual 
+alcançado) 
+Evidência(s): 
+(descrever e inserir documento que evidencie a execução ou atingimento da meta) 
+ 
+ 
+Validação do relatório (acompanhamento)
+Identificação do Projeto 
+(automático) 
+Data: 
+dd/mm/aaaa
+Parecer: 
+Favorável?
+(   ) Sim             (   ) Não                     (    ) Parcialmente favorável
+Considerações/Recomendações: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

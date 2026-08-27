@@ -1,0 +1,2308 @@
+PLANO DE GESTÃO ANUAL – PGA 
+v07 
+Estruturado em 3 etapas: 
+ETAPA I – PLANEJAMENTO PELA EQUIPE GESTORA DA UE 
+ETAPA II – APROVAÇÃO E HOMOLOGAÇÃO 
+ETAPA III – ACOMPANHAMENTO DAS AÇÕES GERENCIAIS 
+ 
+IDENTIFICAÇÃO DA UNIDADE 
+Unidade 
+106 
+Fatec Guaratinguetá Prof. João Mod 
+Diretor(a) 
+Prof. Dr. André Ricardo Soares Amarante 
+ 
+ETAPA I – PLANEJAMENTO PELA EQUIPE GESTORA DA UE 
+ANÁLISE DO CENÁRIO (Breve diagnóstico/Baseline) 
+ 
+- Atualmente a unidade possui 7 cursos presenciais, 1 curso EAD e 1 curso AMS, além de cursos do Novotec. A maioria dos 
+cursos é ofertado no período noturno, havendo grande concorrência na utilização dos laboratórios e espaços de convivência, o 
+que indica a necessidade de ampliação dos laboratórios e áreas comuns para melhor atender a comunidade discente. 
+ 
+- A IES faz divisa com terrenos não ocupados e uma outra unidade de ensino. Os muros que circundam a IES têm altura 
+insuficiente para garantir a segurança da comunidade, havendo grande preocupação por parte da direção e coordenação com a 
+integridade da população acadêmica e ativos da unidade.  
+ 
+- A estrutura de rede atual de 100mb é insuficiente para atender a demanda de alunos e servidores da IES.  Este cenário se 
+agravou nos últimos anos com o aumento de 4 para 7 cursos, além do aumento do número de laboratórios de informática de 4 
+para 10. Acrescenta-se ainda o projeto de salas híbridas proposto pelo CPS, presentes nos PPC´s dos cursos oferecidos. O 
+número de ambientes didáticos (salas de aula e laboratórios) que a IES oferece inviabiliza a disponibilidade destes recursos, pelo 
+fato da velocidade da Internet não atender a demanda. 
+ 
+- Observa-se na região um aumento na oferta de cursos de graduação EAD e presenciais, o que tem gerado um impacto direto 
+na demanda de interessados no vestibular da IES. 
+ 
+- O acesso principal da unidade não tem nenhuma cobertura física, o que deixa alunos e professores expostos a intempéries, 
+além de deixar o piso escorregadio em dias de chuva, expondo a comunidade a vários riscos, como quedas e torções. A falta de 
+cobertura também dificulta o controle de acesso por parte da equipe de vigilância. 
+ 
+ 
+ 
+ 
+Discorrer sobre o cenário, realizando um breve diagnóstico (limitar o espaço da escrita, para que seja inserido de 
+forma suscinta). 
+APONTAMENTO DE SITUAÇÕES-PROBLEMA MAIS RELEVANTES (“Escuta”) 
+Fontes: relatório CPA, análise de processos críticos da UE, relatório de atendimento e ocorrências 
+Hórus GCom. relatório NDE, relatório de representação discente. 
+1 
+Baixa performance da conexão Wifi da IES 
+ 
+5 
+Concorrência de cursos EAD e de unidades próximas 
+2 
+Poucos espaços de convivência para o corpo discente 
+ 
+6 
+Taxa do vestibular 
+3 
+Evasão e trancamento de alunos 
+ 
+7 
+Necessidade de melhorar a segurança das instalações 
+4 
+Baixa demanda no vestibular 
+ 
+8 
+Necessidade de implementar mais aulas práticas nas 
+disciplinas dos cursos 
+ 
+DEFINIÇÃO DE OBJETIVOS, METAS E AÇÕES (PROJETOS) 
+Objetivos 
+1 
+Ampliar a percepção da Marca Fatec Guaratinguetá 
+2 
+Aproximar os alunos às práticas atuais de mercado 
+3 
+Atender às demandas sociais e do mercado de trabalho 
+4 
+Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no desenvolvimento tecnológico 
+e inovação 
+5 
+Promover a segurança e a manutenção dos seus ativos; reduzir perdas e desperdícios; otimizar o uso dos recursos 
+financeiros e humanos disponíveis 
+6 
+Garantir a disponibilidade dos laboratórios de informática e equipamentos do corpo técnico-administrativo para a utilização 
+pelos alunos e professores, com um mínimo de 95% dos equipamentos sempre disponíveis e em pleno funcionamento; 
+Promover a atualização constante dos equipamentos e softwares dos laboratórios, a fim de garantir a compatibilidade com 
+as tecnologias mais recentes e proporcionar uma experiência de uso eficaz e eficiente; Oferecer suporte técnico ágil e 
+eficiente aos usuários (docentes, discentes e técnico-administrativos); Garantir a segurança dos dados dos laboratórios, 
+incluindo backups regulares, políticas de controle de acesso e proteção contra ameaças externas 
+7 
+Melhorar a eficiência dos serviços prestados e o nível de atendimento à comunidade discente 
+8 
+Atender aos requisitos mínimos legais de segurança das pessoas e das instalações da unidade. 
+9 
+Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem 
+ 
+Os objetivos devem estar relacionados com melhoria ou ação, sobre itens do PDI. 
+Metas 
+1 
+Aumentar em 80% os espaços para laboratórios dos 
+cursos de graduação 
+ 
+5 
+Criar uma rede de contatos estruturada e acessível para 
+egressos de todos os cursos oferecidos na unidade, 
+para promover o networking entre eles, identificando 
+também questões como aderência do curso às 
+demandas de mercado 
+2 
+Atingir 100% das competências especificas previstas no 
+PPC dos cursos que sejam atendidos por este 
+laboratório. 
+ 
+6 
+Aumentar oferta de cursos na unidade, atendendo as 
+demandas sociais e do mercado de trabalho. Oferecer 
+uma capacitação rápida e de qualidade para segmentos 
+específicos do mercado de trabalho 
+3 
+Substituir 100% dos atuais roteadores 
+ 
+7 
+Aumentar o link de internet para atender de forma 
+significativa o número de equipamentos e usuários da 
+IES, bem como atender ao projeto de salas híbridas 
+proposto pelo CPS 
+4 
+Realizar a avaliação contínua e permanente das 
+atividades desenvolvidas pela Fatec Guaratinguetá no 
+âmbito do Processo de Autoavaliação Institucional. 
+ 
+8 
+Criar e divulgar campanhas de mídia de conteúdo 
+relevante e de fácil compreensão, nos diferentes canais 
+que promovam a visibilidade da Fatec Guaratinguetá, 
+bem como seus cursos, eventos e campanhas para 
+aumentar a visibilidade e percepção do público sobre a 
+instituição 
+ 
+Observar que cada meta deve ser: específica, mensurável, atingível, relevante e temporal. 
+ 
+ 
+ 
+ESTRUTURAÇÃO DAS AÇÕES/PROJETOS 
+01 - Didático-pedagógico 
+ 
+AÇÃO/PROJETO 
+A - Estudo de Implantação de Curso AMS em Logística 
+O que será feito: 
+Estudo de viabilidade de implantação do curso AMS em Logística 
+Por que será feito: 
+Para atendimento às demandas sociais e do mercado de trabalho regional 
+Responsável(is) / CH sem: Carlos Gyori 
+Período de execução: 
+Data de início: 
+01/03/2023
+Data final: 
+30/06/2023
+Etapas do processo: 
+- Apresentar a proposta à CESU; 
+01/03/2023 
+03/04/2023 
+- Buscar empresas parceiras para a formação do curso; 
+03/04/2023 
+02/05/2023 
+- Formalizar o pedido de abertura do curso à Cesu. 
+02/05/2023 
+30/06/2023 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+ 
+Objetivo(s) relacionado(s):
+Integrar as diferentes modalidades de ensino, otimizando itinerários e tempo para a formação 
+profissional; 
+Ampliar a oferta da Educação Profissional. 
+Meta(s) relacionada(s): 
+Aumentar oferta de cursos na unidade, atendendo as demandas sociais e do mercado de 
+trabalho. 
+ 
+AÇÃO/PROJETO 
+B - Implantação do curso de Design de Mídias Digitais 
+O que será feito: 
+Solicitação de implantação de novo curso na unidade. 
+Por que será feito: 
+Para atendimento às demandas sociais e do mercado de trabalho regional. 
+Responsável(is) / CH sem: Marcus Gonçalves 
+Período de execução: 
+Data de início: 
+01/03/2023
+Data final: 
+30/06/2023
+Etapas do processo: 
+- Atualização do estudo técnico de viabilidade social e mercadológica;
+01/03/2023 
+03/04/2023 
+- Aprovação do estudo nos órgãos colegiados; 
+03/04/2023 
+02/05/2023 
+- Submissão da proposta à Cesu. 
+02/05/2023 
+30/06/2023 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+ 
+Objetivo(s) relacionado(s): Atender às demandas sociais e do mercado de trabalho; 
+Ampliar a oferta da Educação Profissional. 
+Meta(s) relacionada(s): 
+Aumentar oferta de cursos na unidade, atendendo as demandas sociais e do mercado de 
+trabalho. 
+ 
+AÇÃO/PROJETO 
+C - Curso de especialização na área de Informática e na área de Gestão 
+O que será feito: 
+Estudo de viabilidade e implantação dos cursos de especialização. 
+Por que será feito: 
+Para atendimento às demandas sociais e do mercado de trabalho regional. 
+Responsável(is) / CH sem: Deborah Murgel 
+Período de execução: 
+Data de início: 
+03/04/2023
+Data final: 
+05/02/2024
+Etapas do processo: 
+- Levantamento de dados; 
+03/04/2023 
+02/05/2023 
+- Desenvolvimento do estudo de viabilidade; 
+02/05/2023 
+30/06/2023 
+- Elaboração e apresentação das propostas; 
+30/06/2023 
+05/02/2024 
+- Implantação dos cursos. 
+05/02/2024 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+ 
+Objetivo(s) relacionado(s): Atender às demandas sociais e do mercado de trabalho; 
+Oferecer cursos de especialização Latu Sensu. 
+Meta(s) relacionada(s): 
+Oferecer 2 cursos de especialização na unidade. 
+ 
+AÇÃO/PROJETO 
+D - Proposta de atualização do PPC do Curso de Análise e Desenvolvimento de Sistemas com 
+vistas à reestruturação 
+O que será feito: 
+Estruturação de proposta para atualização do PPC do CST em ADS, mediante análise dos conteúdos 
+programáticos dos componentes curriculares do curso e construção de nova grade curricular 
+segundo as exigências mercadológicas. 
+Por que será feito: 
+Para atualização do Projeto Pedagógico do Curso em virtude do avanço tecnológico na área de 
+Tecnologia da Informação e Comunicação (TIC) e atender parecer dos especialistas do CEE 
+(Parecer CEE 45/2022, Portaria CEE-GP 97/2022). 
+Responsável(is) / CH sem: Deborah Murgel 
+Período de execução: 
+Data de início: 
+02/05/2023
+Data final: 
+01/12/2023
+Etapas do processo: 
+- Análise da Matriz Curricular e proposta de reestruturação; 
+ 
+ 
+- Revisão do ementário; 
+ 
+ 
+- Revisão da Bibliografia; 
+ 
+ 
+- Análise Similitude; 
+ 
+ 
+- Análise da Tabela de Áreas; 
+ 
+ 
+- Aprovação do PPC reestruturado nos órgãos colegiados. 
+ 
+ 
+ 
+ 
+ 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+ 
+Objetivo(s) relacionado(s): Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no 
+desenvolvimento tecnológico e inovação. 
+Meta(s) relacionada(s): 
+Reduzir evasão do curso;  
+Aumentar a empregabilidade. 
+ 
+ 
+02 – Ensino e Equipamentos Associados (Laboratórios) 
+ 
+AÇÃO/PROJETO 
+A - Laboratório de desenvolvimento de projetos IoT 
+O que será feito: 
+Aquisição de computadores, hardwares e softwares específicos. 
+Por que será feito: 
+Para que os alunos possam compreender como implementar soluções que utilizem a tecnologia 
+IoT, integrando sistemas e equipamentos. 
+Responsável(is) / CH sem: Allbert Aquino 
+Período de execução: 
+Data de início: 
+01/08/2023
+Data final: 
+01/12/2024
+Etapas do processo: 
+- Especificação dos componentes do laboratório; 
+01/08/2023 
+01/10/2023 
+- Aquisição; 
+ 
+ 
+- Instalação. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo (se houver): 
+R$ 25.000,00 
+Fonte(s) dos recursos: 
+ 
+Objetivo(s) relacionado(s): Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no 
+desenvolvimento tecnológico e inovação. 
+Meta(s) relacionada(s): 
+Atingir 100% das competências especificas previstas no PPC dos cursos que sejam atendidos por 
+este laboratório. 
+ 
+AÇÃO/PROJETO 
+B - Laboratório de Realidade Aumentada e Realidade Virtual 
+O que será feito: 
+Aquisição de computadores, óculos e softwares específicos. 
+Por que será feito: 
+Desenvolvimento de soluções que permitam simular ambientes reais em cenários virtuais, 
+visando agilizar a implementação de projetos industriais. 
+Responsável(is) / CH sem: Carlos Gyori 
+Período de execução: 
+Data de início: 
+01/08/2023
+Data final: 
+01/12/2024
+Etapas do processo: 
+- Especificação dos componentes do laboratório; 
+01/08/2023 
+01/10/2023 
+- Aquisição; 
+ 
+ 
+- Instalação. 
+ 
+ 
+ 
+ 
+ 
+Custo (se houver): 
+R$ 30.000,00 
+Fonte(s) dos recursos: 
+ 
+Objetivo(s) relacionado(s): Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no 
+desenvolvimento tecnológico e inovação. 
+Meta(s) relacionada(s): 
+Atingir 100% das competências especificas previstas no PPC dos cursos que sejam atendidos por 
+este laboratório. 
+ 
+AÇÃO/PROJETO 
+C - Laboratório de Manufatura Aditiva (impressão 3D) 
+O que será feito: 
+Aquisição de equipamentos para projeto, elaboração e impressão de peças e modelos para 
+manufatura. 
+Por que será feito: 
+Desenvolvimento de projetos de manufatura aditiva em tecnologia/inovação de engenharia por 
+meio de impressão 3D.  
+Responsável(is) / CH sem: Sergio Tenorio 
+Período de execução: 
+Data de início: 
+01/08/2023
+Data final: 
+01/12/2024
+Etapas do processo: 
+- Especificação dos componentes do laboratório; 
+01/08/2023 
+01/10/2023 
+- Aquisição; 
+ 
+ 
+- Instalação. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo (se houver): 
+R$ 45.000,00 
+Fonte(s) dos recursos: 
+ 
+Objetivo(s) relacionado(s): Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no 
+desenvolvimento tecnológico e inovação. 
+Meta(s) relacionada(s): 
+Atingir 100% das competências especificas previstas no PPC dos cursos que sejam atendidos por 
+este laboratório. 
+ 
+AÇÃO/PROJETO 
+D - Laboratório de Manufatura Integrada e Robotização 
+O que será feito: 
+Aquisição de equipamentos para projeto, planejamento e operação de sistemas automatizados de 
+produção. 
+Por que será feito: 
+Desenvolvimento de atividades práticas das disciplinas dos cursos de Informática, Logística e 
+Produção Industrial em áreas como manufatura integrada, programação de robôs, sistemas 
+robotizados, sistemas de produção, planejamento e controle da produção e qualidade, entre 
+outras. 
+Responsável(is) / CH sem: Sergio Tenorio 
+Período de execução: 
+Data de início: 
+01/08/2023
+Data final: 
+01/12/2024
+Etapas do processo: 
+- Especificação dos componentes do laboratório; 
+01/08/2023 
+01/10/2023 
+- Aquisição; 
+ 
+ 
+- Instalação. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo (se houver): 
+R$ 150.000,00 
+Fonte(s) dos recursos: 
+ 
+Objetivo(s) relacionado(s): Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no 
+desenvolvimento tecnológico e inovação. 
+Meta(s) relacionada(s): 
+Atingir 100% das competências especificas previstas no PPC dos cursos que sejam atendidos por 
+este laboratório. 
+ 
+AÇÃO/PROJETO 
+E - Laboratório de experimentos elétricos, hidráulicos e pneumáticos 
+O que será feito: 
+Aquisição de equipamentos para montagem de acionamentos elétricos, hidráulicos e pneumáticos.
+Por que será feito: 
+Desenvolver sistemas que contemplem acionamentos elétricos, hidráulicos e pneumáticos. 
+Responsável(is) / CH sem: Sergio Tenorio 
+Período de execução: 
+Data de início: 
+01/08/2023
+Data final: 
+01/12/2024
+Etapas do processo: 
+- Especificação dos componentes do laboratório; 
+01/08/2023 
+01/10/2023 
+- Aquisição; 
+ 
+ 
+- Instalação. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo (se houver): 
+R$ 80.000,00 
+Fonte(s) dos recursos: 
+ 
+Objetivo(s) relacionado(s): Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no 
+desenvolvimento tecnológico e inovação. 
+Meta(s) relacionada(s): 
+Atingir 100% das competências especificas previstas no PPC dos cursos que sejam atendidos por 
+este laboratório. 
+ 
+AÇÃO/PROJETO 
+F - Laboratório de Qualidade 
+O que será feito: 
+Aquisição de equipamentos e instrumentos de medição e controle para o controle de qualidade 
+em processos. 
+Por que será feito: 
+Desenvolver atividades relativas ao controle de qualidade em processos produtivos. 
+Responsável(is) / CH sem: José Manoel 
+Período de execução: 
+Data de início: 
+01/08/2023
+Data final: 
+01/12/2024
+Etapas do processo: 
+- Especificação dos componentes do laboratório; 
+01/08/2023 
+01/10/2023 
+- Aquisição; 
+ 
+ 
+- Instalação. 
+ 
+ 
+Custo (se houver): 
+R$ 25.000,00 
+Fonte(s) dos recursos: 
+ 
+Objetivo(s) relacionado(s): Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no 
+desenvolvimento tecnológico e inovação. 
+Meta(s) relacionada(s): 
+Atingir 100% das competências especificas previstas no PPC dos cursos que sejam atendidos por 
+este laboratório. 
+ 
+AÇÃO/PROJETO 
+G - Laboratório de Informática 
+O que será feito: 
+Substituição de 80 computadores da Positivo (2011) para desenvolvimento de atividades e práticas 
+laboratoriais pelos diversos cursos da Fatec Guaratinguetá. 
+Por que será feito: 
+Os computadores atuais não atendem os requisitos de instalação de softwares de necessárias aos 
+cursos. 
+Responsável(is) / CH sem: Allbert Aquino 
+Período de execução: 
+Data de início: 
+02/04/2023
+Data final: 
+01/12/2023
+Etapas do processo: 
+- Especificação dos componentes do laboratório; 
+02/04/2023 
+30/05/2023 
+- Aquisição; 
+ 
+ 
+- Instalação. 
+ 
+ 
+Custo (se houver): 
+R$ 480.000,00 
+Fonte(s) dos recursos: 
+ 
+Objetivo(s) relacionado(s):
+Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem; Formar 
+profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no 
+desenvolvimento tecnológico e inovação; Aumentar a eficiência, a produtividade e a 
+competitividade da instituição. 
+Meta(s) relacionada(s): 
+Atingir 100% das competências especificas previstas no PPC dos cursos que sejam atendidos por 
+este laboratório. 
+ 
+AÇÃO/PROJETO 
+H - Adaptação de laboratório de informática 
+O que será feito: 
+Adaptação de um laboratório com acesso a internet e 2 monitores por computador. 
+Por que será feito: 
+Desenvolver atividades que utilizem tela estendida. 
+Responsável(is) / CH sem: Thaís Mota 
+Período de execução: 
+Data de início: 
+02/04/2023
+Data final: 
+01/12/2023
+Etapas do processo: 
+- Especificação dos componentes do laboratório; 
+01/08/2023 
+01/10/2023 
+- Aquisição; 
+ 
+ 
+- Instalação. 
+ 
+ 
+Custo (se houver): 
+R$ 45.000,00 
+Fonte(s) dos recursos: 
+ 
+Objetivo(s) relacionado(s): Aproximar os alunos às práticas atuais de mercado. 
+Meta(s) relacionada(s): 
+Atingir 100% das competências especificas previstas no PPC dos cursos que sejam atendidos por 
+este laboratório. 
+ 
+AÇÃO/PROJETO 
+I - Projeto 360° 
+O que será feito: 
+Por meio da utilização da tecnologia de captura de imagem em 360º é possível realizar uma visita 
+virtual da Fatec Guaratinguetá e verificar o quanto a unidade, encontra-se organizada e preparada 
+para a realização de suas atividades acadêmicas. 
+Por que será feito: 
+Promover a divulgação da Fatec, em especial no Vestibular e também do intercâmbio entre 
+unidades e instituições parceiras. 
+Responsável(is) / CH sem: Marcus Vinicius 
+Período de execução: 
+Data de início: 
+02/04/2023
+Data final: 
+01/12/2023
+Etapas do processo: 
+- Especificação dos componentes do laboratório; 
+01/08/2023 
+01/10/2023 
+- Aquisição; 
+ 
+ 
+- Instalação. 
+ 
+ 
+Custo (se houver): 
+R$ 9.500,00 
+Fonte(s) dos recursos: 
+ 
+Objetivo(s) relacionado(s): Aproximar os alunos às práticas atuais de mercado; 
+Ampliar a percepção da Marca Fatec Guaratinguetá. 
+Meta(s) relacionada(s): 
+Aumentar a visibilidade da unidade. 
+ 
+03 – Pesquisa / Extensão e Equipamentos Associados 
+ 
+AÇÃO/PROJETO 
+A - Solicitação de Acesso à plataformas de base de dados de revistas eletrônicas 
+O que será feito: 
+Solicitação de aquisição de Acesso a plataformas de base de dados de revistas eletrônicas. 
+Por que será feito: 
+Possibilitar o acesso a artigos de periódicos para utilização nos trabalhos de graduação e nos 
+projetos de pesquisa. 
+Responsável(is) / CH sem: Kamila Amato 
+Período de execução: 
+Data de início: 
+02/04/2023
+Data final: 
+01/12/2023
+Etapas do processo: 
+- Levantamento das principais plataformas; 
+ 
+ 
+- Solicitação de acesso. 
+ 
+ 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+ 
+Objetivo(s) relacionado(s): Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no 
+desenvolvimento tecnológico e inovação. 
+Meta(s) relacionada(s): 
+ 
+ 
+04 – Atividades Formativas em Projetos (nível tático) 
+ 
+AÇÃO/PROJETO 
+A - Implantar um programa de Inclusão para discentes com TDH 
+O que será feito: 
+Desenvolvimento de um programa de inserção e acompanhamento de discentes com TDH 
+Por que será feito: 
+Para promover a inclusão social e melhorar qualidade de vida dos discentes envolvidos no 
+programa. 
+Responsável(is) / CH sem: Sergio Tenorio 
+Período de execução: 
+Data de início: 
+01/03/2023
+Data final: 
+30/12/2023
+Etapas do processo: 
+Mapear os discentes com TDH na unidade 
+01/03/2023 
+31/04/2023 
+Criar procedimento para identificar futuros ingressantes com TDH 
+01/05/2023 
+30/06/2023 
+Elaborar um programa de inclusão, acompanhamento e suporte a 
+estes discentes 
+01/05/2023 
+31/07/2023 
+Implantar o programa  
+01/08/2023 
+30/12/2023 
+ 
+ 
+ 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+ 
+Objetivo(s) relacionado(s): Promover a inclusão de discentes com TDH; 
+Melhorar a qualidade de vida destes discentes. 
+Meta(s) relacionada(s): 
+Implantar programa de inclusão de discentes com TDH no segundo semestre de 2023. 
+ 
+AÇÃO/PROJETO 
+B - Desenvolvimento de Projeto em Educação Financeira 
+O que será feito: 
+Formação de equipe de alunos com habilidades em educação financeira para atendimento à 
+comunidade 
+Por que será feito: 
+Aproximação da Fatec à comunidade local, treinamento dos alunos em Educação financeira. 
+Responsável(is) / CH sem: Thais Mota 
+Período de execução: 
+Data de início: 
+03/04/2023
+Data final: 
+03/12/2023
+Etapas do processo: 
+- Elaborar os conteúdos de apoio; 
+03/04/2023 
+02/05/2023 
+- Treinar os alunos; 
+02/05/2023 
+01/08/2023 
+- Divulgar a comunidade; 
+01/08/2023 
+01/09/2023 
+- Atendimentos a comunidade; 
+01/09/2023 
+01/11/2023 
+- Medir os resultados. 
+01/11/2023 
+03/12/2023 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+ 
+Objetivo(s) relacionado(s):
+Atender às demandas sociais e do mercado de trabalho; 
+Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no 
+desenvolvimento tecnológico e inovação. 
+Meta(s) relacionada(s): 
+Aumentar a visibilidade da unidade. 
+ 
+AÇÃO/PROJETO 
+C – Desenvolvimento de Aplicativo de consultas acadêmicas para alunos 
+O que será feito: 
+O presente projeto propõe a criação, versão inicial, de um aplicativo em plataforma Android para 
+a consulta e comunicação acadêmica para alunos. 
+Por que será feito: 
+O projeto em questão propõe agregar a faculdade as tecnologias que o mercado dos dispositivos 
+móveis dispõe, e assim ampliar a gama de soluções tecnológicas oferecidas aos alunos. 
+Responsável(is) / CH sem: Bruno Donizeti da Silva 
+Período de execução: 
+Data de início: 
+01/02/2023
+Data final: 
+31/07/2023
+Etapas do processo: 
+- Criação, Testes e Correções. 
+01/02/2023 
+31/07/2023 
+ 
+ 
+ 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+ 
+Objetivo(s) relacionado(s): Melhorar a eficiência dos serviços prestados e o nível de atendimento à comunidade discente. 
+Meta(s) relacionada(s): 
+Desenvolver um aplicativo de consultas acadêmicas para alunos que seja intuitivo e de fácil 
+navegação, assegurando que todos os alunos tenham acesso a informações relevantes e úteis para 
+suas necessidades acadêmicas. 
+ 
+AÇÃO/PROJETO 
+D – Apoiar a execução de melhorias na Diretoria de Serviços 
+O que será feito: 
+Melhorar e otimizar os processos de gestão documental e os processos gerenciais das 
+coordenações de curso e diretoria de serviços. 
+Por que será feito: 
+Para melhorar a eficiência dos controles internos e o atendimento às demandas das comunidades 
+docente e discente. 
+Responsável(is) / CH sem: Dorotéia Santos / Bianca Rocha 
+Período de execução: 
+Data de início: 
+01/02/2023
+Data final: 
+31/07/2023
+Etapas do processo: 
+- Mapeamento e Implementação. 
+01/02/2023 
+31/07/2023 
+ 
+ 
+ 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+ 
+Objetivo(s) relacionado(s): Melhorar a eficiência dos serviços prestados e o nível de atendimento à comunidade discente. 
+Meta(s) relacionada(s): 
+Aumentar a percepção da comunidade interna pela qualidade do serviço prestado pela Diretoria 
+de Serviços. 
+ 
+AÇÃO/PROJETO 
+E – Criação do Podcast da Fatec Guaratinguetá 
+O que será feito: 
+Desenvolvimento de um novo canal de comunicação com a comunidade por meio de Podcast. 
+Por que será feito: 
+Criar um canal de comunicação dinâmico e interativo com a comunidade discente, além de permitir 
+a distribuição e o gerenciamento de conteúdo. 
+Responsável(is) / CH sem: Claudemir Santos Pinto 
+Período de execução: 
+Data de início: 
+01/02/2023
+Data final: 
+31/07/2023
+Etapas do processo: 
+- Criação, Implantação, Ajustes e Documentação 
+01/02/2023 
+31/07/2023 
+ 
+ 
+ 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+ 
+Objetivo(s) relacionado(s): Melhorar a eficiência dos serviços prestados e o nível de atendimento à comunidade discente. 
+Meta(s) relacionada(s): 
+Desenvolver uma plataforma para o ambiente acadêmico que possibilite a criação de espaços de 
+discussão e interação entre os diversos membros da comunidade, além de permitir a distribuição 
+e gerenciamento de conteúdo de qualidade. 
+ 
+AÇÃO/PROJETO 
+F – Acompanhamento e Análise de evasão dos alunos de 1º e 2º semestres / Fatec Guaratinguetá
+O que será feito: 
+Levantamento dos principais motivos pelos quais alguns alunos de 1° e 2° semestre interrompem 
+seus estudos. Incentivar e ajudar esses alunos a não desistirem do curso. 
+Por que será feito: 
+A evasão tem sido motivo de preocupação devido ao elevado número. 
+Responsável(is) / CH sem: Dinara Fernandes Gyori 
+Período de execução: 
+Data de início: 
+01/02/2023
+Data final: 
+31/07/2023
+Etapas do processo: 
+- Levantamento dos dados; 
+ 
+ 
+- Análise; 
+ 
+ 
+- Contato com os alunos. 
+ 
+ 
+ 
+ 
+ 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+ 
+Objetivo(s) relacionado(s): Alcançar e manter o grau de excelência em seus processos de ensino e aprendizagem. 
+Meta(s) relacionada(s): 
+Implementar e analisar periodicamente o fenômeno da evasão dos alunos dos 1º e 2º semestres 
+da Fatec Guaratinguetá. Este processo deverá ser capaz de identificar e priorizar os principais 
+fatores envolvidos na evasão de alunos e apontar soluções para reduzir a taxa de evasão dos alunos 
+dos referidos semestres. 
+ 
+AÇÃO/PROJETO 
+G – Política de Egresso 
+O que será feito: 
+Criar uma política de gestão dos egressos visando manter um contato regular e gerar estatísticas 
+sobre a sua atuação no mercado. 
+Por que será feito: 
+Criar uma rede de colaboração entre os ex-alunos e incentivar a troca de experiências. 
+Responsável(is) / CH sem: Claudemir Santos Pinto 
+Período de execução: 
+Data de início: 
+01/02/2023
+Data final: 
+31/07/2023
+Etapas do processo: 
+- Estabelecer contatos com egressos e gerar estatísticas para direção 
+e coordenação. 
+01/02/2023 
+31/07/2023 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+ 
+Objetivo(s) relacionado(s): Acompanhar o desempenho dos egressos para verificar a aderência do curso concluído com a sua 
+colocação no mercado de trabalho. 
+Meta(s) relacionada(s): 
+Criar uma rede de contatos estruturada e acessível para egressos de todas os cursos oferecidos na 
+unidade, para promover o networking entre eles, identificando também questões como aderência 
+do curso às demandas de mercado. 
+ 
+AÇÃO/PROJETO 
+H – Divulgação dos Cursos da Fatec Guaratinguetá 
+O que será feito: 
+Visitação em ambientes que possuam alunos de ensino médio a fim de divulgar os cursos 
+oferecidos pela Fatec Guaratinguetá. 
+Por que será feito: 
+Ampliar a percepção da Marca Fatec Guaratinguetá. 
+Responsável(is) / CH sem: Kátia Mantovani 
+Período de execução: 
+Data de início: 
+01/02/2023
+Data final: 
+31/07/2023
+Etapas do processo: 
+- Mapear, contatar e divulgar. 
+01/02/2023 
+31/07/2023 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+ 
+Objetivo(s) relacionado(s):
+Desenvolver o aspecto social, proporcionando ideias de cursos superiores para os candidatos; 
+fortificar os cursos da Fatec Guaratinguetá, divulgando para comunidade as profissões existentes 
+no mercado. 
+Meta(s) relacionada(s): 
+Aumentar a captação de potenciais candidatos para participar dos vestibulares da Fatec 
+Guaratinguetá, oriundos de escolas públicas localizadas na cidade e na região de Guaratinguetá/SP.
+ 
+AÇÃO/PROJETO 
+I – Comunicação integrada de Marketing - Fatec Guaratinguetá 
+O que será feito: 
+Cobertura fotográfica, tratamento de imagens, coleta de depoimentos, edição e publicação de 
+mídias geradas por meio do registro, adequação do registro visual para utilização em processos 
+institucionais (carteirinha, carômetro digital), edição de vídeos, manutenção das Informações 
+estáticas no site e desenvolver projeto para modelagem. 
+Por que será feito: 
+Para registro de eventos e produção de conteúdo para as mídias sociais da instituição. 
+Responsável(is) / CH sem: Ismar Pessoa 
+Período de execução: 
+Data de início: 
+01/02/2023
+Data final: 
+31/07/2023
+Etapas do processo: 
+- Coleta, registro, tratamento e divulgação. 
+01/02/2023 
+31/07/2023 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+ 
+Objetivo(s) relacionado(s):
+Realizar a cobertura fotográfica da instituição, realizar tratamento das imagens capturadas, coletar 
+depoimentos de eventos em geral, realizar a edição e publicação de mídias geradas por meio do 
+registro, produzir carteirinhas e manter atualizado o carômetro digital, produzir e editar vídeos em 
+geral para a instituição, desenvolver projeto para modelagem. 
+Meta(s) relacionada(s): 
+Criar e divulgar campanhas de mídia de conteúdo relevante e de fácil compreensão, nos diferentes 
+canais que promovam a visibilidade da Fatec Guaratinguetá, bem como seus cursos, eventos e 
+campanhas para aumentar a visibilidade e percepção do público sobre a Fatec. 
+ 
+AÇÃO/PROJETO 
+J – Inclusão Digital 
+O que será feito: 
+Consiste em ministrar Curso de Informática Básica, para alunos da rede pública, ministrado na 
+Fatec Guaratinguetá, usando as Novas Tecnologias de Informação e Comunicação para contribuir 
+com a sociedade, no processo de inserção social e educacional. Por meio deste curso, trabalha-se 
+a inclusão digital com NTICS e novas oportunidades podem surgir para os alunos. 
+Por que será feito: 
+Para o cumprimento do papel social da IES. 
+Responsável(is) / CH sem: Yara Rocha 
+Período de execução: 
+Data de início: 
+01/02/2023
+Data final: 
+31/07/2023
+Etapas do processo: 
+- Planejamento, divulgação, captação e execução dos cursos. 
+01/02/2023 
+31/07/2023 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+ 
+Objetivo(s) relacionado(s): Fornece acesso à informação digital, formação em habilidades digitais e promover o uso 
+responsável das redes e ferramentas digitais. 
+Meta(s) relacionada(s): 
+Capacitar os interessados ensinando o uso adequado das tecnologias (funcionamento básico do 
+sistema operacional e ferramentas do office, funcionamento da internet) para instrumentalizar e 
+estimular as pessoas para a inserção destes na sociedade de informação. Para o nivelamento, 
+estabelecer ações de nivelamento de conteúdo a serem ministrados em disciplinas-chave dos 
+cursos oferecidos na unidade. 
+ 
+AÇÃO/PROJETO 
+K – Oferecimento dos cursos do NOVOTEC 
+O que será feito: 
+O programa Novotec é um programa que oferta cursos técnicos e profissionalizantes gratuitos, 
+orientação vocacional e oportunidades de estágio para jovens do Estado de São Paulo. 
+Por que será feito: 
+Oferecer uma oportunidade de profissão sem prejudicar os estudos dos participantes; desenvolver 
+responsabilidades e habilidades profissionais; oferecer oportunidades de desenvolvimento 
+profissional. 
+Responsável(is) / CH sem: André Amarante 
+Período de execução: 
+Data de início: 
+01/02/2023
+Data final: 
+31/07/2023
+Etapas do processo: 
+- Identificar os cursos aderentes a unidade, divulgar o processo de 
+inscrição, selecionar professores e executar cursos. 
+01/02/2023 
+31/07/2023 
+ 
+ 
+ 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+ 
+Objetivo(s) relacionado(s):
+O Novotec tem como objetivo expandir a oferta do Ensino Técnico e Profissionalizante gratuito aos 
+estudantes do ensino médio das escolas estaduais no estado de São Paulo, por meio de escolas 
+técnicas públicas e privadas de referência, e em parceria com a Secretaria de Educação. 
+Meta(s) relacionada(s): 
+Aumentar oferta de cursos na unidade, atendendo as demandas sociais e do mercado de trabalho. 
+Oferecer uma capacitação rápida e de qualidade para segmentos específicos do mercado de 
+trabalho. 
+ 
+AÇÃO/PROJETO 
+L – Avaliação Institucional 
+O que será feito: 
+Avaliação semestral dos professores, coordenação e estrutura da IES. 
+Por que será feito: 
+Para fornecer informações sobre os processos de ensino e aprendizagem, bem como infraestrutura 
+e demais serviços ofertados pela IES, com o propósito de identificar oportunidades de melhoria. 
+Responsável(is) / CH sem: Renata Marcondes 
+Período de execução: 
+Data de início: 
+01/02/2023
+Data final: 
+31/07/2023
+Etapas do processo: 
+- Reestruturar o processo de avaliação institucional – interna e propor 
+sua aplicação em outros segmentos da instituição, elaborar e 
+implementar a avaliação relacionada aos projetos interdisciplinares, 
+acompanhar e garantir a realização das avaliações, tabular e analisar 
+os dados gerados após a aplicação das avaliações. 
+01/02/2023 
+31/07/2023 
+ 
+ 
+ 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+ 
+Objetivo(s) relacionado(s):
+Elaborar um modelo de gestão para as avaliações já validadas, promover uma análise detalhada 
+dos 
+processos 
+pedagógicos 
+e 
+administrativos 
+visando 
+a 
+atualização 
+da 
+avaliação 
+institucional/interna da Fatec Guaratinguetá, a reestruturação/validação dos indicadores de 
+resultados e a ampliação da divulgação/comunicação nas mídias sociais. 
+Meta(s) relacionada(s): 
+Realizar a avaliação contínua e permanente das atividades desenvolvidas pela Fatec Guaratinguetá 
+no âmbito do Processo de Autoavaliação Institucional. 
+ 
+AÇÃO/PROJETO 
+M – Upstairs Coach 
+O que será feito: 
+Iniciativa que visa, por meio de ferramentas de coaching, atuar no desenvolvimento de 
+competências para a comunidade da FATEC Guaratinguetá. 
+Por que será feito: 
+Para melhorar os resultados, desempenho e comportamento profissionais e individuais. 
+Responsável(is) / CH sem: Nathália Rana 
+Período de execução: 
+Data de início: 
+01/02/2023
+Data final: 
+31/07/2023
+Etapas do processo: 
+- Elaboração, Planejamento, Implementação e Avaliação. 
+01/02/2023 
+31/07/2023 
+ 
+ 
+ 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+ 
+Objetivo(s) relacionado(s):
+Promover uma análise detalhada dos processos pedagógicos e administrativos visando a 
+atualização da avaliação institucional/interna da Fatec Guaratinguetá, a reestruturação/validação 
+dos indicadores de resultados e a ampliação da divulgação/comunicação nas mídias sociais. 
+Meta(s) relacionada(s): 
+Realizar sessões de coaching individual e em grupo para desenvolver habilidades técnicas, 
+comportamentais e emocionais necessárias para o crescimento profissional e pessoal dos alunos.
+ 
+AÇÃO/PROJETO 
+N – Semana de tecnologia 
+O que será feito: 
+Evento destinado à discussão e difusão do estado da arte da tecnologia nos setores nos quais a 
+Fatec Guaratinguetá possui seus cursos superiores. 
+Por que será feito: 
+Permitir que a comunidade discente, docente e externa tenha acesso ao estado da arte em 
+temáticas relacionadas aos cursos ofertados na IES. 
+Responsável(is) / CH sem: Marcus Vinícius 
+Período de execução: 
+Data de início: 
+01/02/2023
+Data final: 
+31/07/2023
+Etapas do processo: 
+- Planejamento, divulgação, captação de palestrantes, organização e 
+execução das atividades, e registro do evento. 
+01/02/2023 
+31/07/2023 
+ 
+ 
+ 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+ 
+Objetivo(s) relacionado(s): Atender às demandas sociais e do mercado de trabalho; formar profissionais atualizados em 
+tecnologias e processos produtivos, capazes de atuar no desenvolvimento tecnológico e inovação.
+Meta(s) relacionada(s): 
+Promover a colaboração entre professores e alunos para desenvolver habilidades tecnológicas, 
+além de motivar a inovação educacional. 
+ 
+ 
+ 
+ 
+05 – Infraestrutura (instalações prediais) 
+ 
+AÇÃO/PROJETO 
+A – Construção de um anexo no final do Bloco B 
+O que será feito: 
+Construção de 8 laboratórios equipados com cabeamento de rede, ar-condicionado e energia 
+estabilizada. Área construída de aproximadamente 800m2. 
+Por que será feito: 
+Ampliar os laboratórios para oferecimento de atividades práticas dos cursos de Informática; de 
+Logística; e Gestão da Produção industrial, além de um laboratório específico para 
+desenvolvimento de projetos IoT (Internet of Things). 
+Responsável(is) / CH sem: José Manoel 
+Período de execução: 
+Data de início: 
+08/02/2023
+Data final: 
+dd/mm/aaaa
+Etapas do processo: 
+- Elaborar os projetos;  
+ 
+ 
+- Quantificar e Orçar;  
+ 
+ 
+- Licitação;  
+ 
+ 
+- Contratação;  
+ 
+ 
+- Execução das obras. 
+ 
+ 
+Custo (se houver): 
+R$ 4.000.000,00 
+Fonte(s) dos recursos: 
+Licitação 
+Objetivo(s) relacionado(s): Formar profissionais atualizados em tecnologias e processos produtivos, capazes de atuar no 
+desenvolvimento tecnológico e inovação. 
+Meta(s) relacionada(s): 
+Aumentar em 80% os espaços para laboratórios dos cursos de graduação. 
+ 
+AÇÃO/PROJETO 
+B – Ampliação do Link de Internet da unidade 
+O que será feito: 
+Ampliação do Link da unidade dos atuais 100 mbps para 300 mpbs. 
+Por que será feito: 
+Aumento da demanda da unidade no período noturno;  
+Aumento do número de laboratórios exigindo mais banda larga. 
+Responsável(is) / CH sem: Allbert Velleniche 
+Período de execução: 
+Data de início: 
+02/04/2023
+Data final: 
+dd/mm/aaaa
+Etapas do processo: 
+- Elaborar projeto;  
+ 
+ 
+- Quantificar;  
+ 
+ 
+- Orçar;  
+ 
+ 
+- Contratar;  
+ 
+ 
+- Executar. 
+ 
+ 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+ 
+Objetivo(s) relacionado(s): Atender as atuais demandas de conectividade (internet) advindas da IES e do CPS. 
+Meta(s) relacionada(s): 
+Aumentar o link de internet para atender de forma significativa o número de equipamentos e 
+usuários da IES, bem como, atender ao projeto de salas híbridas proposto pelo CPS. 
+ 
+AÇÃO/PROJETO 
+C – Roteadores IPV6 
+O que será feito: 
+Ampliação do Link da unidade dos atuais 100 mbps para 300 mpbs, 
+Por que será feito: 
+Aumento da demanda da unidade no período noturno;  
+Aumento do número de laboratórios exigindo mais banda larga. 
+Responsável(is) / CH sem: Allbert Velleniche 
+Período de execução: 
+Data de início: 
+02/04/2023
+Data final: 
+dd/mm/aaaa
+Etapas do processo: 
+- Elaborar projeto;  
+ 
+ 
+- Quantificar;  
+ 
+ 
+- Orçar;  
+ 
+ 
+- Contratar;  
+ 
+ 
+- Executar. 
+ 
+ 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+ 
+Objetivo(s) relacionado(s): Substituir os atuais roteadores (pouca conectividade e limitação de banda) por equipamentos com 
+maior conectividade e preparados para o IPV6 (Velocidades de internet superiores a 100 mbps) 
+Meta(s) relacionada(s): 
+Substituir 100% dos atuais roteadores. 
+ 
+AÇÃO/PROJETO 
+D – Reparo na hidráulica do Corpo de Bombeiros 
+O que será feito: 
+Será isolado o segmento que está com o problema de vazamento e passado uma nova estrutura 
+para levar a água até o bloco B. 
+Por que será feito: 
+Atual infraestrutura de água para os hidrantes do Bloco B e C apresentam vazamento. 
+Responsável(is) / CH sem: Carlos Gyori 
+Período de execução: 
+Data de início: 
+01/02/2023
+Data final: 
+dd/mm/aaaa
+Etapas do processo: 
+- Elaborar projeto;  
+ 
+ 
+- Quantificar;  
+ 
+ 
+- Orçar;  
+ 
+ 
+- Contratar;  
+ 
+ 
+- Executar. 
+ 
+ 
+Custo (se houver): 
+R$ 60.000,00 
+Fonte(s) dos recursos: 
+ 
+Objetivo(s) relacionado(s): Atender aos requisitos mínimos legais de segurança das pessoas e das instalações da unidade. 
+Meta(s) relacionada(s): 
+Reestabelecer o sistema de água para combate à incêndio; obtenção do AVCB. 
+ 
+AÇÃO/PROJETO 
+E – Melhorar o controle de ativos na unidade 
+O que será feito: 
+Melhorias e adequações no Software de gerenciamento e controle dos ativos. 
+Por que será feito: 
+Para melhorar a confiabilidade das informações e o controle  dos ativos em uso, e enviados para 
+manutenção e/ou baixa patrimonial. 
+Responsável(is) / CH sem: Hercídio Feitosa 
+Período de execução: 
+Data de início: 
+01/02/2023
+Data final: 
+03/12/2023
+Etapas do processo: 
+- Levantamento da Necessidade; 
+ 
+ 
+- Planejamento do Software; 
+ 
+ 
+- Desenvolvimento do Sistema; 
+ 
+ 
+- Testes; 
+ 
+ 
+- Validação; 
+ 
+ 
+- Entrega. 
+ 
+ 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+ 
+Objetivo(s) relacionado(s): Aumentar a eficiência, a produtividade e a competitividade da instituição. 
+Meta(s) relacionada(s): 
+Catalogar todos os ativos da instituição; Desenvolver um sistema de identificação e rastreabilidade 
+dos ativos; Documentar a solução e capacitar os usuários. 
+ 
+AÇÃO/PROJETO 
+F – Obtenção do AVCB – Auto de Vistoria do Corpo de Bombeiros 
+O que será feito: 
+Vistorias e adequações necessárias para a obtenção do AVCB – Auto de Vistoria do Corpo de 
+Bombeiros. 
+Por que será feito: 
+Atender as normas de segurança vigentes. 
+Responsável(is) / CH sem: Vicente 
+Período de execução: 
+Data de início: 
+01/02/2023
+Data final: 
+03/12/2023
+Etapas do processo: 
+- Elaborar projeto;  
+ 
+ 
+- Quantificar;  
+ 
+ 
+- Orçar;  
+ 
+ 
+- Contratar;  
+ 
+ 
+- Executar. 
+ 
+ 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+ 
+Objetivo(s) relacionado(s): Atender aos requisitos mínimos legais de segurança das pessoas e das instalações da unidade. 
+Meta(s) relacionada(s): 
+Atender em 100% as exigências do Corpo de bombeiros. 
+ 
+AÇÃO/PROJETO 
+G – Cobertura para a criação de uma Área de Convivência 
+O que será feito: 
+Instalação de uma cobertura entre o final do Bloco A e o Bloco da Cantina. 
+Por que será feito: 
+Criar de uma área de convivência coberta, adequada para os dias de chuva. 
+Responsável(is) / CH sem: Vicente 
+Período de execução: 
+Data de início: 
+02/04/2023
+Data final: 
+03/12/2023
+Etapas do processo: 
+- Elaborar projeto;  
+ 
+ 
+- Quantificar;  
+ 
+ 
+- Orçar;  
+ 
+ 
+- Contratar;  
+ 
+ 
+- Executar. 
+ 
+ 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+ 
+Objetivo(s) relacionado(s): Aumentar a eficiência, a produtividade e a competitividade da instituição. 
+Meta(s) relacionada(s): 
+Expandir a área de convivência coberta para abrigar pelo menos 40% dos 1400 alunos 
+matriculados. 
+ 
+AÇÃO/PROJETO 
+H – Cobertura para a entrada dos alunos na unidade 
+O que será feito: 
+Instalação de uma cobertura entre o portão de entrada dos alunos, passando pela entrada principal 
+e indo até o fim do bloco A, encontrando com a cobertura da área de convivência. 
+Por que será feito: 
+Acesso à faculdade com proteção da chuva. 
+Responsável(is) / CH sem: Vicente 
+Período de execução: 
+Data de início: 
+02/04/2023
+Data final: 
+03/12/2023
+Etapas do processo: 
+- Elaborar projeto;  
+ 
+ 
+- Quantificar;  
+ 
+ 
+- Orçar;  
+ 
+ 
+- Contratar;  
+ 
+ 
+- Executar. 
+ 
+ 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+ 
+Objetivo(s) relacionado(s): Aumentar a eficiência, a produtividade e a competitividade da instituição. 
+Meta(s) relacionada(s): 
+Atender um número maior de alunos em espaços de convivência mais adequados. 
+ 
+AÇÃO/PROJETO 
+I – Substituição do atual cabeamento de rede da unidade para os cabos padrão TP6   
+O que será feito: 
+Substituição de todos os cabos de rede TP 5 para os Padrão 6. 
+Por que será feito: 
+Ampliação da oferta de internet para toda a comunidade acadêmica. 
+Responsável(is) / CH sem: Allbert Velleniche 
+Período de execução: 
+Data de início: 
+02/04/2023
+Data final: 
+03/12/2023
+Etapas do processo: 
+- Elaborar projeto;  
+ 
+ 
+- Quantificar;  
+ 
+ 
+- Orçar;  
+ 
+ 
+- Contratar;  
+ 
+ 
+- Executar. 
+ 
+ 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+ 
+Objetivo(s) relacionado(s): Aumentar a eficiência, a produtividade e a competitividade da instituição. 
+Meta(s) relacionada(s): 
+Substituição de 100% do cabeamento de rede da IES. 
+ 
+AÇÃO/PROJETO 
+J – Estacionamento dos Funcionários 
+O que será feito: 
+Remoção, preparação e reconstrução do calçamento para eliminar os problemas de crescimento 
+do mato entre os bloquetes e acúmulo de água. Concretar os canteiros centrais e laterais para 
+eliminar o mato existente nestes locais. 
+Por que será feito: 
+Reduzir custos de manutenção de área verde / jardinagem, demarcação de vagas para motos e 
+veículos, melhorar a condição atual em relação a limpeza para que funcionários e visitantes possam 
+utilizá-lo com qualidade e segurança durante todo o ano letivo. 
+Responsável(is) / CH sem: Vicente 
+Período de execução: 
+Data de início: 
+02/04/2023
+Data final: 
+03/12/2023
+Etapas do processo: 
+- Elaborar projeto;  
+ 
+ 
+- Quantificar;  
+ 
+ 
+- Orçar;  
+ 
+ 
+- Contratar;  
+ 
+ 
+- Executar. 
+ 
+ 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+ 
+Objetivo(s) relacionado(s): Promover a segurança e a manutenção dos seus ativos; reduzir perdas e desperdícios; otimizar o 
+uso dos recursos financeiros e humanos disponíveis. 
+Meta(s) relacionada(s): 
+Adequação de 100% do atual piso do estacionamento dos professores. 
+ 
+AÇÃO/PROJETO 
+K – Muro no entorno da Fatec Prof. João Mod 
+O que será feito: 
+Aumentar a altura do muro de divisa entre as duas unidades. 
+Por que será feito: 
+Aumentar a segurança minimizando a condição de acesso a Unidade por este muro. 
+Responsável(is) / CH sem: Vicente 
+Período de execução: 
+Data de início: 
+02/04/2023
+Data final: 
+03/12/2023
+Etapas do processo: 
+- Elaborar projeto;  
+ 
+ 
+- Quantificar;  
+ 
+ 
+- Orçar; 
+ 
+ 
+- Contratar;  
+ 
+ 
+- Executar. 
+ 
+ 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+ 
+Objetivo(s) relacionado(s): Atender aos requisitos mínimos legais de segurança das pessoas e das instalações da unidade.  
+Meta(s) relacionada(s): 
+Aumentar a altura de toda extensão do muro entorno da IES. 
+ 
+AÇÃO/PROJETO 
+L – Pavimentação da área verde atrás do Bloco B / Bloco C 
+O que será feito: 
+Pavimentação da área. 
+Por que será feito: 
+Melhoria da condição de segurança, construção de uma área convivência, redução de custos com 
+manutenção do mato. 
+Responsável(is) / CH sem: Vicente 
+Período de execução: 
+Data de início: 
+02/04/2023
+Data final: 
+03/12/2023
+Etapas do processo: 
+- Elaborar projeto;  
+ 
+ 
+- Quantificar;  
+ 
+ 
+- Orçar;  
+ 
+ 
+- Contratar;  
+ 
+ 
+- Executar. 
+ 
+ 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+ 
+Objetivo(s) relacionado(s): Promover a segurança e a manutenção dos seus ativos; reduzir perdas e desperdícios; otimizar o 
+uso dos recursos financeiros e humanos disponíveis. 
+Meta(s) relacionada(s): 
+Promover a segurança e reduzir custos de manutenção (jardinagem). 
+ 
+AÇÃO/PROJETO 
+M – Bloco A - Piso Superior 
+O que será feito: 
+Manutenção da infraestrutura elétrica. 
+Por que será feito: 
+Manutenção e revisão da infraestrutura elétrica das salas de aula, para atendimento as normas 
+vigentes e eliminação da condição de fios soltos, tomadas em curto e infraestrutura solta. 
+Responsável(is) / CH sem: Vicente 
+Período de execução: 
+Data de início: 
+02/04/2023
+Data final: 
+03/12/2023
+Etapas do processo: 
+- Elaborar projeto;  
+ 
+ 
+- Quantificar;  
+ 
+ 
+- Orçar;  
+ 
+ 
+- Contratar;  
+ 
+ 
+- Executar. 
+ 
+ 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+ 
+Objetivo(s) relacionado(s): Atender aos requisitos mínimos legais de segurança das pessoas e das instalações da unidade. 
+Meta(s) relacionada(s): 
+Adequar o bloco A em conformidade com a NR10.. 
+ 
+AÇÃO/PROJETO 
+N – Revisão do Telhado Bloco A / Bloco B / Bloco C 
+O que será feito: 
+Vedação do telhado. 
+Por que será feito: 
+O objetivo é vedar todos os possíveis pontos de entrada de animais. Atualmente há presença de 
+morcegos no telhado causando sujeira e mal cheiro na Biblioteca, Auditório e demais ambientes 
+na Unidade. 
+Responsável(is) / CH sem: Vicente 
+Período de execução: 
+Data de início: 
+02/04/2023
+Data final: 
+03/12/2023
+Etapas do processo: 
+- Elaborar projeto;  
+ 
+ 
+- Quantificar;  
+ 
+ 
+- Orçar;  
+ 
+ 
+- Contratar;  
+ 
+ 
+- Executar. 
+ 
+ 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+ 
+Objetivo(s) relacionado(s): Atender aos requisitos mínimos legais de segurança das pessoas e das instalações da unidade. 
+Meta(s) relacionada(s): 
+Eliminar 100% das infiltrações nas respectivas coberturas. 
+ 
+AÇÃO/PROJETO 
+O – Revisão da Calçada Bloco A 
+O que será feito: 
+Melhorar sistema de contenção de água pluvial, realizar a manutenção, revisão e construção de 
+novos pontos de drenagem. 
+Por que será feito: 
+O objetivo é resolver o acúmulo de água neste local. Tal condição impede a movimentação de 
+pessoas e contribui de forma negativa para a manutenção da limpeza da Unidade. 
+Responsável(is) / CH sem: Vicente 
+Período de execução: 
+Data de início: 
+02/04/2023
+Data final: 
+03/12/2023
+Etapas do processo: 
+- Elaborar projeto;  
+ 
+ 
+- Quantificar;  
+ 
+ 
+- Orçar;  
+ 
+ 
+- Contratar;  
+ 
+ 
+- Executar. 
+ 
+ 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+ 
+Objetivo(s) relacionado(s): Promover a segurança e a manutenção dos seus ativos; reduzir perdas e desperdícios; otimizar o 
+uso dos recursos financeiros e humanos disponíveis 
+Meta(s) relacionada(s): 
+Promover a segurança e reduzir custos de manutenção. 
+ 
+AÇÃO/PROJETO 
+P – Depósito de Limpeza 
+O que será feito: 
+Construção de um local adequado para a empresa de limpeza guardar produtos e equipamentos. 
+Por que será feito: 
+Padronização de um local de acordo com as normas de segurança vigente, liberação do espaço 
+atual para fins pedagógicos / administrativos. 
+Responsável(is) / CH sem: Vicente 
+Período de execução: 
+Data de início: 
+02/04/2023
+Data final: 
+03/12/2023
+Etapas do processo: 
+- Elaborar projeto;  
+ 
+ 
+- Quantificar;  
+ 
+ 
+- Orçar;  
+ 
+ 
+- Contratar;  
+ 
+ 
+- Executar. 
+ 
+ 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+ 
+Objetivo(s) relacionado(s): Atender aos requisitos mínimos legais de segurança das pessoas e das instalações da unidade. 
+Meta(s) relacionada(s): 
+Melhorar a segurança e a organização do espaço. 
+ 
+AÇÃO/PROJETO 
+Q – Área de Terceiros 
+O que será feito: 
+Otimizar espaço da Cozinha / Vestiário. 
+Por que será feito: 
+Adequação do espaço atual para atender a condição necessária dos funcionários e liberação do 
+espaço atual para fins pedagógicos / administrativos. 
+Responsável(is) / CH sem: Vicente 
+Período de execução: 
+Data de início: 
+02/04/2023
+Data final: 
+03/12/2023
+Etapas do processo: 
+- Elaborar projeto;  
+ 
+ 
+- Quantificar;  
+ 
+ 
+- Orçar;  
+ 
+ 
+- Contratar;  
+ 
+ 
+- Executar. 
+ 
+ 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+ 
+Objetivo(s) relacionado(s): Atender aos requisitos mínimos legais de segurança das pessoas e das instalações da unidade. 
+Meta(s) relacionada(s): 
+Otimizar a utilização do espaço em função das demandas atuais da unidade. 
+ 
+AÇÃO/PROJETO 
+R – Cantina 
+O que será feito: 
+Liberação de utilização. 
+Por que será feito: 
+Iniciar processo de liberação de utilização da cantina para prover melhores condições de 
+alimentação e convivência de funcionários e alunos durante o período de utilização da Unidade. 
+Responsável(is) / CH sem: Vicente 
+Período de execução: 
+Data de início: 
+02/04/2023
+Data final: 
+03/12/2023
+Etapas do processo: 
+- Elaborar projeto;  
+ 
+ 
+- Quantificar;  
+ 
+ 
+- Orçar;  
+ 
+ 
+- Contratar;  
+ 
+ 
+- Executar. 
+ 
+ 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+ 
+Objetivo(s) relacionado(s): Melhorar a eficiência dos serviços prestados e o nível de atendimento à comunidade discente. 
+Meta(s) relacionada(s): 
+Oferecer serviços de alimentação na unidade. 
+ 
+AÇÃO/PROJETO 
+S – Construção de bicicletário 
+O que será feito: 
+Construção de um bicicletário coberto. 
+Por que será feito: 
+Para atender as necessidades dos alunos que utilizam deste meio de transporte. Na condição atual 
+as bicicletas ficam presas nas cercas devido a quantidade insuficiente de espaço para fixação delas.
+Responsável(is) / CH sem: Vicente 
+Período de execução: 
+Data de início: 
+02/04/2023
+Data final: 
+03/12/2023
+Etapas do processo: 
+- Elaborar projeto;  
+ 
+ 
+- Quantificar;  
+ 
+ 
+- Orçar;  
+ 
+ 
+- Contratar;  
+ 
+ 
+- Executar. 
+ 
+ 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+ 
+Objetivo(s) relacionado(s): Melhorar a eficiência dos serviços prestados e o nível de atendimento à comunidade discente. 
+Meta(s) relacionada(s): 
+Promover a segurança e a organização do espaço, e ampliar de 15 vagas para 40 vagas de bicicleta.
+ 
+AÇÃO/PROJETO 
+T – Sistema de segurança 
+O que será feito: 
+Atualização e instalação de novas câmeras, adequar o sistema de monitoramento (Guarita, Bloco 
+A, Bloco B, Bloco C e ambientes Externos),  atualização e instalação de novos sensores, e adequação 
+do sistema de alarme (Guarita, Bloco A, Bloco B, Bloco C e Ambientes Externos). 
+Por que será feito: 
+Segurança dos alunos e dos equipamentos de alto custo que foram recebidos pela Unidade. 
+Minimizar a condição insegura, principalmente após o término das aulas e finais de semana. 
+Proporcionar melhor condição de trabalho e segurança para os vigilantes. 
+Responsável(is) / CH sem: Vicente 
+Período de execução: 
+Data de início: 
+02/04/2023
+Data final: 
+03/12/2023
+Etapas do processo: 
+- Elaborar projeto;  
+ 
+ 
+- Quantificar;  
+ 
+ 
+- Orçar;  
+ 
+ 
+- Contratar;  
+ 
+ 
+- Executar. 
+ 
+ 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+ 
+Objetivo(s) relacionado(s): Atender aos requisitos mínimos legais de segurança das pessoas e das instalações da unidade. 
+Meta(s) relacionada(s): 
+Melhorar a cobertura e a eficiência do atual sistema de segurança da unidade. 
+ 
+AÇÃO/PROJETO 
+U – Bebedouros 
+O que será feito: 
+Aquisição de bebedouros. 
+Por que será feito: 
+Aquisição de 2 (dois bebedouros) igual ao modelo comprado recentemente pela FAT para serem 
+instalados no Bloco A no piso superior e no Bloco C. Para a quantidade de alunos e funcionários, 
+os bebedouros atuais não são suficientes para o número de pessoas. 
+Responsável(is) / CH sem: Vicente 
+Período de execução: 
+Data de início: 
+02/04/2023
+Data final: 
+03/12/2023
+Etapas do processo: 
+- Elaborar projeto;  
+ 
+ 
+- Quantificar;  
+ 
+ 
+- Orçar;  
+ 
+ 
+- Contratar;  
+ 
+ 
+- Executar. 
+ 
+ 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+ 
+Objetivo(s) relacionado(s): Melhorar a eficiência dos serviços prestados e o nível de atendimento à comunidade discente. 
+Meta(s) relacionada(s): 
+Disponibilizar pelo menos um bebedouro em cada pavimento da unidade. 
+ 
+AÇÃO/PROJETO 
+V – Lâmpadas de Led 
+O que será feito: 
+Substituição das lâmpadas fluorescentes por Lâmpadas de LED. 
+Por que será feito: 
+Melhorar a condição de iluminação dos ambientes de ensino e redução de custos de energia. 
+Responsável(is) / CH sem: Vicente 
+Período de execução: 
+Data de início: 
+02/04/2023
+Data final: 
+03/12/2023
+Etapas do processo: 
+- Elaborar projeto;  
+ 
+ 
+- Quantificar;  
+ 
+ 
+- Orçar;  
+ 
+ 
+- Contratar;  
+ 
+ 
+- Executar. 
+ 
+ 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+ 
+Objetivo(s) relacionado(s): Melhorar a eficiência dos serviços prestados e o nível de atendimento à comunidade discente. 
+Meta(s) relacionada(s): 
+Melhorar o conforto, e aumentar a segurança dos usuários e do patrimônio. 
+ 
+06 - Desenvolvimento de pessoas (docentes e servidores) 
+ 
+AÇÃO/PROJETO 
+A - Treinamento para utilização e integração dos recursos da Impressora 3D nos projetos 
+pedagógicos da unidade. 
+O que será feito: 
+Capacitação de Professores e Funcionários para a utilização e integração da Impressora 3D no 
+contexto dos Projetos Integradores / Disciplinas presentes nos cursos da Fatec Guaratinguetá  
+Por que será feito: 
+Permitir a utilização do recurso da unidade de forma abrangente e garantir os melhores 
+resultados. 
+Responsável(is) / CH sem: Marcus Gonçalves 
+Período de execução: 
+Data de início: 
+08/02/2023
+Data final: 
+01/12/2023
+Etapas do processo: 
+- Elaborar material didático para treinamento; 
+08/02/2023 
+01/05/2023 
+- Definir público-alvo; 
+01/05/2023 
+31/05/2023 
+- Realizar o treinamento; 
+01/06/2023 
+01/12/2023 
+Custo (se houver): 
+Filamento da Impressora 
+para testes e demonstração Fonte(s) dos recursos: 
+ 
+Objetivo(s) relacionado(s): Inovar processos de ensino e aprendizagem para manter excelência diante do mercado. 
+Meta(s) relacionada(s): 
+Promover a colaboração entre professores e alunos para desenvolver habilidades tecnológicas, 
+além de motivar a inovação educacional. 
+ 
+AÇÃO/PROJETO 
+B - Treinamento para utilização e integração dos recursos da Lousa Inteligente nos projetos 
+pedagógicos da Unidade 
+O que será feito: 
+Capacitação de Professores e Funcionários para a utilização e integração da Impressora 3D no 
+contexto dos Projetos Integradores / Disciplinas presentes nos cursos da Fatec Guaratinguetá. 
+Por que será feito: 
+Permitir a utilização do recurso da unidade de forma abrangente e garantir os melhores 
+resultados. 
+Responsável(is) / CH sem: Marcus Gonçalves 
+Período de execução: 
+Data de início: 
+01/03/2023
+Data final: 
+01/12/2023
+Etapas do processo: 
+- Receber o equipamento; 
+01/03/2023 
+02/05/2023 
+- Elaborar material didático para treinamento; 
+02/05/2023 
+30/06/2023 
+- Definir público-alvo; 
+30/06/2023 
+02/10/2023 
+- Realizar o treinamento. 
+02/10/2023 
+01/12/2023 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+ 
+Objetivo(s) relacionado(s): Inovar processos de ensino e aprendizagem para manter excelência diante do mercado 
+Meta(s) relacionada(s): 
+Promover a colaboração entre professores e alunos para desenvolver habilidades tecnológicas, 
+além de motivar a inovação educacional. 
+ 
+AÇÃO/PROJETO 
+C - EDUCAÇÃO FINANCEIRA para servidores e TERCEIROS 
+O que será feito: 
+Workshop para ensino básico de educação financeira e investimentos. 
+Por que será feito: 
+Envolvimento do Curso de Gestão Financeira com os servidores e comunidade local. 
+Responsável(is) / CH sem: Thais Mota 
+Período de execução: 
+Data de início: 
+01/08/2023
+Data final: 
+03/12/2023
+Etapas do processo: 
+- Elaborar os conteúdos de apoio; 
+03/04/2023 
+02/05/2023 
+- Treinar os alunos; 
+02/05/2023 
+01/08/2023 
+- Divulgar a comunidade; 
+01/08/2023 
+01/09/2023 
+- Medir os resultados. 
+01/09/2023 
+03/12/2023 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+ 
+Objetivo(s) relacionado(s): Atender às demandas sociais e do mercado de trabalho. 
+Meta(s) relacionada(s): 
+Promover a colaboração entre professores e alunos para desenvolver habilidades tecnológicas, 
+além de motivar a inovação educacional. 
+ 
+AÇÃO/PROJETO 
+D - SPAP - LOCAL 
+O que será feito: 
+Capacitação docente para necessidades locais. 
+Por que será feito: 
+Atualização profissional e pedagógica do corpo docente. 
+Responsável(is) / CH sem: André Amarante 
+Período de execução: 
+Data de início: 
+01/02/2023
+Data final: 
+31/07/2023
+Etapas do processo: 
+- Planejar, organizar e executar o evento no início de cada semestre. 
+01/02/2023 
+31/07/2023 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+ 
+Objetivo(s) relacionado(s): Melhorar a eficiência dos serviços prestados e o nível de atendimento à comunidade discente. 
+Meta(s) relacionada(s): 
+Promover o planejamento e aperfeiçoamento pedagógico na FATEC Guaratinguetá. 
+ 
+07 – Convênios e Parcerias Institucionais 
+ 
+AÇÃO/PROJETO 
+A - Implantar o Centro de Inovação de Inovação de Guaratinguetá 
+O que será feito: 
+Participação na implantação do centro de inovação de Guaratinguetá 
+Por que será feito: 
+Para integrar a unidade ao ecossistema de empreendedorismo da região, gerar oportunidades de 
+desenvolvimento profissional para docentes e discentes e contribuir com o desenvolvimento 
+socioeconômico da região de Guaratinguetá 
+Responsável(is) / CH sem: Sergio Tenorio dos Santos Neto 
+Período de execução: 
+Data de início: 
+01/03/2022
+Data final: 
+31/12/2023
+Etapas do processo: 
+Participação da elaboração do projeto do Centro de Inovação 
+01/03/2022 
+30/06/2022 
+Suporte na aprovação do projeto junto ao Governo Estadual 
+01/07/2022 
+31/12/2022 
+Participação da constituição do conselho administrativo 
+01/03/2023 
+31/07/2023 
+Participação da implantação do Centro de Inovação 
+01/03/2023 
+31/12/2023 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Custo (se houver): 
+ 
+Fonte(s) dos recursos: 
+ 
+Objetivo(s) relacionado(s): Inserir a unidade no ecossistema de inovação e empreendedorismo da região e gerar 
+oportunidades de desenvolvimento para docentes e discentes da unidade 
+Meta(s) relacionada(s): 
+. Ter duas cadeiras no conselho de administração do Centro de Inovação 
+. Ter pelo menos duas atividades pedagógicas executadas no âmbito do Centro de Inovação no 
+ano de 2023 
+ 
+ 
+ 
+ETAPA II – APROVAÇÃO E HOMOLOGAÇÃO 
+ 
+APROVAÇÃO DO PGA PELA CONGREGAÇÃO DA UE 
+Envio da Ata de aprovação 
+Ata assinada (.pdf) 
+Anexar arquivo 
+Data da aprovação: 
+dd/mm/aaaa
+Data do envio: 
+dd/mm/aaaa
+ 
+PARECER DA CESU 
+Data: 
+dd/mm/aaaa
+Aprovado? 
+(   ) Sim                      (   ) Não 
+Se não aprovado, devolvido para adequação, com prazo para revisão até: 
+dd/mm/aaaa
+Parecer: 
+ 
+ 
+ 
+ 
+ETAPA III – ACOMPANHAMENTO DAS AÇÕES GERENCIAIS 
+RELATÓRIO DE ACOMPANHAMENTO DE PROJETO (MENSAL) 
+Status mensal do projeto
+Identificação do Projeto 
+(automático) 
+Data: 
+dd/mm/aaaa 
+Situação: 
+(   ) Em andamento                            
+Previsão de término: 
+dd/mm/aaaa 
+Justificativa: 
+ 
+(   ) Ainda não foi iniciado                  
+Previsão de início: 
+dd/mm/aaaa 
+Justificativa: 
+ 
+(   ) Cancelado (antes do início) 
+Data: 
+dd/mm/aaaa 
+Justificativa: 
+ 
+(   ) Suspenso (interrompido após 
+iniciado) 
+Data: 
+dd/mm/aaaa 
+Justificativa: 
+ 
+(   ) Concluído 
+Data da conclusão: 
+dd/mm/aaaa 
+Resultados: 
+ 
+ 
+Intercorrências: 
+ 
+ 
+Observação: 
+ 
+ 
+Meta(s) alcançada(s) 
+(aparecer a meta automaticamente, conforme indicada no projeto para a indicação do percentual 
+alcançado) 
+Evidência(s): 
+(descrever e inserir documento que evidencie a execução ou atingimento da meta) 
+ 
+ 
+Validação do relatório (acompanhamento)
+Identificação do Projeto 
+(automático) 
+Data: 
+dd/mm/aaaa
+Parecer: 
+Favorável?
+(   ) Sim             (   ) Não                     (    ) Parcialmente favorável
+Considerações/Recomendações: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
