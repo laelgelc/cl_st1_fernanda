@@ -216,4 +216,5 @@ __marimo__/
 .streamlit/secrets.toml
 
 # cl_st1_fernanda
+.idea/
 !cl_st1_ph2_fernanda/**/*.log
